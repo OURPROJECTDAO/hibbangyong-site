@@ -302,21 +302,5 @@ footer{background:var(--bg2);border-top:1px solid var(--line);padding:2.5rem 0 m
   </div>
 </footer>
 
-<script>
-(function () {
-  var U = '%SB_URL%', K = '%SB_KEY%';
-  if (U.charAt(0) === '%' || K.charAt(0) === '%') return;
-  try {
-    var q = new URLSearchParams(location.search), r = '';
-    try { r = document.referrer ? new URL(document.referrer).hostname : ''; } catch (e) { r = ''; }
-    if (r === location.hostname) r = '';
-    var b = JSON.stringify({ p_path: location.pathname, p_src: q.get('utm_source'), p_med: q.get('utm_medium'),
-      p_camp: q.get('utm_campaign'), p_content: q.get('utm_content'), p_ref: r || null,
-      p_mobile: /Mobi|Android|iPhone|iPad/i.test(navigator.userAgent) });
-    fetch(U + '/rest/v1/rpc/site_hit', { method: 'POST', keepalive: true,
-      headers: { 'apikey': K, 'Content-Type': 'application/json' }, body: b }).catch(function () {});
-  } catch (e) {}
-})();
-</script>
 </body>
 </html>
