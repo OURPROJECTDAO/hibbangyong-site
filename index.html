@@ -67,7 +67,6 @@ section+section{border-top:1px solid var(--line)}
 .hero-logo{width:min(17rem,60vw);margin:0 auto .4rem}
 .hero-tag{font-family:"Jua",sans-serif;font-size:clamp(1.45rem,5.2vw,2.1rem);line-height:1.3;color:var(--ink);margin:.2rem auto .5rem}
 .hero-sub{color:var(--ink2);font-weight:600;margin:0 auto 1.3rem;max-width:26rem}
-.cta{display:flex;flex-direction:column;align-items:center;gap:.7rem}
 .hero-art{background:#cfe5c4;aspect-ratio:4/3;overflow:hidden}
 .hero-art img{width:100%;height:100%;object-fit:cover;object-position:50% 52%}
 
@@ -130,10 +129,34 @@ footer{background:var(--bg2);border-top:1px solid var(--line);padding:2.5rem 0 m
 .biz p{margin:.1rem 0}
 .mail{user-select:all}
 
+.sr{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+.join{max-width:28rem;margin:0 auto 1.1rem;text-align:left}
+.perk{font-family:"Jua",sans-serif;font-size:1.12rem;line-height:1.4;color:var(--pink-ink);background:var(--pink);border-radius:.8rem;padding:.5rem .8rem;margin:0 0 .7rem;text-align:center}
+.jf{margin:0}
+.jrow{display:flex;gap:.5rem}
+.jrow input{flex:1;min-width:0;font:inherit;color:var(--ink);background:var(--card);border:1.5px solid var(--line);border-radius:999px;padding:.7rem 1.1rem;min-height:3rem}
+.jrow input:focus{border-color:var(--blue);outline:none;box-shadow:0 0 0 3px var(--beta)}
+.jrow input[aria-invalid=true]{border-color:var(--pink-ink)}
+.jbtn{flex:none;border:0;font:inherit;font-weight:700;cursor:pointer;padding:.7rem 1.2rem}
+.jbtn[disabled]{opacity:.6;cursor:default;filter:none}
+.jerr{min-height:0;margin:.35rem .6rem 0;color:var(--pink-ink);font-weight:600;font-size:.9rem}
+.jerr:empty{display:none}
+.jfine{margin:.5rem .4rem 0;font-size:.8rem;line-height:1.55;color:var(--ink2);text-align:center}
+.jfine a{color:var(--ink2)}
+.jdone{margin:0;background:var(--beta);color:var(--blue-ink);border-radius:1rem;padding:1rem 1.1rem;font-weight:700;text-align:center}
+.trap{position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden}
+.beta-go{display:flex;flex-direction:column;align-items:center;gap:.7rem}
+.btn-soft{background:var(--card);color:var(--ink);box-shadow:none;border:1px solid var(--line)}
+.jbar{position:fixed;left:12px;right:12px;bottom:max(12px,env(safe-area-inset-bottom));z-index:20;display:flex;align-items:center;justify-content:center;min-height:3rem;border-radius:999px;background:var(--btn);color:var(--btn-ink);font-weight:700;text-decoration:none;box-shadow:var(--shadow);transform:translateY(160%);transition:transform .2s ease}
+.jbar.on{transform:none}
+body.has-bar footer{padding-bottom:6rem}
+@media (min-width:900px){.jbar{display:none}}
+@media (prefers-reduced-motion:reduce){.jbar{transition:none}}
+
 @media (min-width:900px){
   section{padding:4.5rem 0}
+  .beta-go{flex-direction:row;justify-content:center}
   .hero-in{padding-top:3rem;padding-bottom:2.4rem}
-  .cta{flex-direction:row;justify-content:center}
   .hero-art{aspect-ratio:16/9;max-height:80vh}
   .shots{grid-auto-flow:row;grid-template-columns:repeat(6,1fr);overflow:visible;margin:0;padding:.4rem 0 1.2rem}
   .beta{padding:2.4rem 2rem}
@@ -152,10 +175,21 @@ footer{background:var(--bg2);border-top:1px solid var(--line);padding:2.5rem 0 m
     <h1><img class="hero-logo" src="img/logo.webp" alt="하이! 빵용" width="600" height="520"></h1>
     <p class="hero-tag">어려운 영어 단어도<br>쉬운 우리말로</p>
     <p class="hero-sub">빵용이와 낚시하고, 나무 베고, 방을 꾸미다 보면 영어 단어가 남아요.</p>
-    <div class="cta">
-      <a class="btn" href="https://www.instagram.com/hibbangyong/" rel="noopener"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.4" cy="6.6" r="1.1" fill="currentColor" stroke="none"/></svg>인스타그램에서 소식 받기</a>
-      <span class="soon">Google Play · App Store 준비 중</span>
+    <div id="join" class="join">
+      <p class="perk">지금 소식 받으면, 베타 때 한정 꾸미기 선물을 드려요</p>
+      <form id="jf" class="jf" novalidate>
+        <div class="jrow">
+          <label class="sr" for="je">이메일 주소</label>
+          <input id="je" name="email" type="email" inputmode="email" autocomplete="email" autocapitalize="off" spellcheck="false" enterkeyhint="send" maxlength="254" placeholder="이메일 주소" required>
+          <button id="jb" class="btn jbtn" type="submit">소식 받기</button>
+        </div>
+        <div class="trap" aria-hidden="true"><label for="jw">웹사이트</label><input id="jw" name="website" type="text" tabindex="-1" autocomplete="off"></div>
+        <p id="jerr" class="jerr" role="alert"></p>
+        <p class="jfine">‘소식 받기’를 누르면 하이빵용 새 소식(베타·출시·이벤트) 메일 받기와 <a href="privacy">개인정보 처리방침</a>에 동의해요. 언제든 그만 받을 수 있어요.</p>
+      </form>
+      <p id="jdone" class="jdone" hidden tabindex="-1">신청됐어요! 베타가 열리면 이 이메일로 링크를 보내 드려요. 같은 이메일로 로그인하면 선물이 우편함에 와 있어요.</p>
     </div>
+    <span class="soon">Google Play · App Store 준비 중</span>
   </div>
   <div class="hero-art" aria-hidden="true">
     <img src="img/banner.webp" alt="" width="1600" height="900">
@@ -243,9 +277,12 @@ footer{background:var(--bg2);border-top:1px solid var(--line);padding:2.5rem 0 m
 <section id="beta">
   <div class="wrap">
     <div class="beta">
-      <h2>곧 베타 테스트를 시작해요</h2>
-      <p>안드로이드와 아이폰에서 먼저 해 볼 분들을 모으고 있어요. 모집 소식은 인스타그램에 제일 먼저 올려요.</p>
-      <a class="btn" href="https://www.instagram.com/hibbangyong/" rel="noopener"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.4" cy="6.6" r="1.1" fill="currentColor" stroke="none"/></svg>인스타그램 @hibbangyong</a>
+      <h2>베타 테스트 소식 받기</h2>
+      <p>안드로이드와 아이폰에서 먼저 해 볼 분을 모으고 있어요. 이메일만 남기면 열릴 때 바로 알려 드려요.</p>
+      <div class="beta-go">
+      <a class="btn" href="#join" data-join>소식 받기</a>
+      <a class="btn btn-soft" href="https://www.instagram.com/hibbangyong/" rel="noopener"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.4" cy="6.6" r="1.1" fill="currentColor" stroke="none"/></svg>인스타그램 @hibbangyong</a>
+      </div>
     </div>
   </div>
 </section>
@@ -302,5 +339,66 @@ footer{background:var(--bg2);border-top:1px solid var(--line);padding:2.5rem 0 m
   </div>
 </footer>
 
+<a id="jbar" class="jbar" href="#join" data-join aria-hidden="true" tabindex="-1">한정 선물 받고 소식 받기 →</a>
+<script>
+(function(){
+  var URL_ = 'https://nvokkscghiqlohwbujso.supabase.co/rest/v1/rpc/beta_signup';
+  var KEY = 'sb_publishable_f4Ax5r5859lJ-JcC_ffJeQ_fDVdiaLv';
+  var VER = 'v1-2610';
+  var join = document.getElementById('join'), f = document.getElementById('jf'), em = document.getElementById('je');
+  var bt = document.getElementById('jb'), err = document.getElementById('jerr'), done = document.getElementById('jdone');
+  var bar = document.getElementById('jbar'), trap = document.getElementById('jw');
+  var EMAIL = /^[^@\s]+@[^@\s]+\.[^@\s]+$/;
+  var busy = false, joined = false;
+  var src = 'direct';
+  try { src = ((new URLSearchParams(location.search).get('utm_source') || '').toLowerCase().replace(/[^a-z0-9._-]/g, '').slice(0, 64)) || 'direct'; } catch (e) {}
+  try { joined = localStorage.getItem('hb_joined') === '1'; } catch (e) {}
+  var reduce = window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches;
+  function bad(t){ err.textContent = t; em.setAttribute('aria-invalid', t ? 'true' : 'false'); }
+  function showBar(on){ bar.classList.toggle('on', on); document.body.classList.toggle('has-bar', on); bar.setAttribute('aria-hidden', on ? 'false' : 'true'); bar.tabIndex = on ? 0 : -1; }
+  function finish(){
+    f.hidden = true; done.hidden = false; joined = true; showBar(false);
+    try { localStorage.setItem('hb_joined', '1'); } catch (e) {}
+    done.focus({ preventScroll: true });
+  }
+  function release(){ busy = false; bt.disabled = false; bt.textContent = '소식 받기'; }
+  em.addEventListener('input', function(){ if (err.textContent) bad(''); });
+  f.addEventListener('submit', function(ev){
+    ev.preventDefault();
+    if (busy) return;
+    var email = em.value.trim().toLowerCase();
+    if (!EMAIL.test(email) || email.length > 254) { bad('이메일 주소를 다시 확인해 주세요.'); em.focus(); return; }
+    bad(''); busy = true; bt.disabled = true; bt.textContent = '보내는 중…';
+    if (trap.value) { setTimeout(finish, 600); return; }
+    fetch(URL_, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', 'apikey': KEY },
+      body: JSON.stringify({ p_email: email, p_source: src, p_consent_ver: VER })
+    }).then(function(r){ if (!r.ok) throw new Error(String(r.status)); return r.json(); })
+      .then(function(v){
+        if (v === 'ok' || v === 'already') { finish(); return; }
+        release(); bad('이메일 주소를 다시 확인해 주세요.'); em.focus();
+      })
+      .catch(function(){
+        bad('지금은 신청이 안 돼요. 잠시 뒤 다시 해 주세요.'); bt.textContent = '소식 받기';
+        setTimeout(release, 3000);
+      });
+  });
+  Array.prototype.forEach.call(document.querySelectorAll('[data-join]'), function(a){
+    a.addEventListener('click', function(ev){
+      ev.preventDefault();
+      if (joined && !done.hidden) { done.scrollIntoView({ behavior: reduce ? 'auto' : 'smooth', block: 'center' }); return; }
+      em.focus({ preventScroll: true });
+      join.scrollIntoView({ behavior: reduce ? 'auto' : 'smooth', block: 'center' });
+    });
+  });
+  if ('IntersectionObserver' in window) {
+    new IntersectionObserver(function(es){
+      var e = es[0];
+      showBar(!joined && !e.isIntersecting && e.boundingClientRect.top < 0);
+    }).observe(join);
+  }
+})();
+</script>
 </body>
 </html>
