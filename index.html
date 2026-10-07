@@ -315,9 +315,9 @@ body.has-bar footer{padding-bottom:6rem}
         <p id="jerr" class="jerr" role="alert"></p>
         <p class="jfine">‘소식 받기’를 누르면 하이빵용 새 소식(베타·출시·이벤트) 메일 받기와 <a href="privacy">개인정보 처리방침</a>에 동의해요. 언제든 그만 받을 수 있어요.</p>
       </form>
-      <p id="jdone" class="jdone" hidden tabindex="-1">신청됐어요! 베타가 열리면 이 이메일로 링크를 보내 드려요. 같은 이메일로 로그인하면 선물이 우편함에 와 있어요.</p>
+      <p id="jdone" class="jdone" hidden tabindex="-1">신청 완료! 아이폰이 열리면 이 이메일로 링크를 보내 드려요. 안드로이드는 지금 바로 해 볼 수 있어요.</p>
     </div>
-    <span class="soon">Google Play · App Store 준비 중</span>
+    <span class="soon">Google Play 공개 테스트 중 · App Store 곧 열려요</span>
   </div>
   <div class="hero-art" aria-hidden="true">
     <img src="img/banner.webp" alt="" width="1600" height="900">
@@ -407,7 +407,7 @@ body.has-bar footer{padding-bottom:6rem}
   <div class="wrap">
     <div class="beta">
       <h2>베타 테스트 참여하기</h2>
-      <p>안드로이드와 아이폰에서 먼저 해 볼 분을 모으고 있어요. 이메일만 남기면 열릴 때 바로 알려 드려요.</p>
+      <p>안드로이드는 지금 구글 플레이에서 바로 해 볼 수 있어요. 아이폰은 곧 열려요. 이메일을 남겨 주시면 열리는 날 바로 알려 드려요.</p>
       <div class="beta-go">
       <a class="btn" href="https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&amp;referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dopen-test" rel="noopener">안드로이드에서 지금 해 보기</a>
       <p class="jios">아이폰은 곧 열려요 · 소식 받으면 열리는 날 알려 드려요</p>
@@ -490,7 +490,7 @@ body.has-bar footer{padding-bottom:6rem}
   function bad(t){ err.textContent = t; em.setAttribute('aria-invalid', t ? 'true' : 'false'); }
   function showBar(on){ bar.classList.toggle('on', on); document.body.classList.toggle('has-bar', on); bar.setAttribute('aria-hidden', on ? 'false' : 'true'); bar.tabIndex = on ? 0 : -1; }
   function finish(){
-    f.hidden = true; done.hidden = false; joined = true; showBar(false);
+    f.hidden = true; done.hidden = false; joined = true;
     try { localStorage.setItem('hb_joined', '1'); } catch (e) {}
     done.focus({ preventScroll: true });
   }
@@ -528,7 +528,7 @@ body.has-bar footer{padding-bottom:6rem}
   if ('IntersectionObserver' in window) {
     new IntersectionObserver(function(es){
       var e = es[0];
-      showBar(!joined && !e.isIntersecting && e.boundingClientRect.top < 0);
+      showBar(!e.isIntersecting && e.boundingClientRect.top < 0);
     }).observe(join);
   }
 })();
