@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>하이빵용 — 놀다 보면 영어 단어가 남는 힐링 게임</title>
-<meta name="description" content="하이빵용은 빵나라에서 빵용이와 낚시·벌목·방 꾸미기를 하며 영어 단어를 익히는 힐링 게임 앱이에요. 쉬운 우리말 뜻풀이로 중학 단어부터 토플 고득점까지. 안드로이드·아이폰 베타 준비 중.">
+<meta name="description" content="하이빵용은 빵나라에서 빵용이와 낚시·벌목·방 꾸미기를 하며 영어 단어를 익히는 힐링 게임 앱이에요. 쉬운 우리말 뜻풀이로 중학 단어부터 토플 고득점까지. 안드로이드 공개 테스트 중 · 아이폰은 곧 열려요.">
 <meta name="color-scheme" content="light dark">
 <meta name="theme-color" content="#f7efe0" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#1f1a14" media="(prefers-color-scheme: dark)">
@@ -12,7 +12,7 @@
 <meta property="og:site_name" content="하이빵용">
 <meta property="og:locale" content="ko_KR">
 <meta property="og:title" content="하이빵용 — 놀다 보면 영어 단어가 남는 힐링 게임">
-<meta property="og:description" content="하이빵용은 빵나라에서 빵용이와 낚시·벌목·방 꾸미기를 하며 영어 단어를 익히는 힐링 게임 앱이에요. 쉬운 우리말 뜻풀이로 중학 단어부터 토플 고득점까지. 안드로이드·아이폰 베타 준비 중.">
+<meta property="og:description" content="하이빵용은 빵나라에서 빵용이와 낚시·벌목·방 꾸미기를 하며 영어 단어를 익히는 힐링 게임 앱이에요. 쉬운 우리말 뜻풀이로 중학 단어부터 토플 고득점까지. 안드로이드 공개 테스트 중 · 아이폰은 곧 열려요.">
 <meta property="og:url" content="https://hibbangyong.com/">
 <meta property="og:image" content="https://hibbangyong.com/img/og.jpg">
 <meta property="og:image:width" content="1024">
@@ -152,6 +152,9 @@ footer{background:var(--bg2);border-top:1px solid var(--line);padding:2.5rem 0 m
 .trap{position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden}
 .beta-go{display:flex;flex-direction:column;align-items:center;gap:.7rem}
 .btn-soft{background:var(--card);color:var(--ink);box-shadow:none;border:1px solid var(--line)}
+.play{display:flex;width:100%;font-size:1.12rem;min-height:3.4rem;margin:0 0 .7rem}
+.jios{margin:0 0 .5rem;font-size:.92rem;font-weight:600;color:var(--ink2);text-align:center}
+.beta .jios{margin:0;max-width:none}
 .jbar{position:fixed;left:12px;right:12px;bottom:max(12px,env(safe-area-inset-bottom));z-index:20;display:flex;align-items:center;justify-content:center;min-height:3rem;border-radius:999px;background:var(--btn);color:var(--btn-ink);font-weight:700;text-decoration:none;box-shadow:var(--shadow);transform:translateY(160%);transition:transform .2s ease}
 .jbar.on{transform:none}
 body.has-bar footer{padding-bottom:6rem}
@@ -160,7 +163,8 @@ body.has-bar footer{padding-bottom:6rem}
 
 @media (min-width:900px){
   section{padding:4.5rem 0}
-  .beta-go{flex-direction:row;justify-content:center}
+  .beta-go{flex-direction:row;flex-wrap:wrap;justify-content:center}
+  .beta .jios{flex-basis:100%}
   .hero-in{padding-top:3rem;padding-bottom:2.4rem}
   .hero-art{aspect-ratio:16/9;max-height:80vh}
   .shots{grid-auto-flow:row;grid-template-columns:repeat(6,1fr);overflow:visible;margin:0;padding:.4rem 0 1.2rem}
@@ -207,7 +211,7 @@ body.has-bar footer{padding-bottom:6rem}
    ],
    "@id": "https://hibbangyong.com/#app",
    "name": "하이빵용",
-   "description": "하이빵용은 빵나라에서 빵용이와 낚시·벌목·방 꾸미기를 하며 영어 단어를 익히는 힐링 게임 앱이에요. 쉬운 우리말 뜻풀이로 중학 단어부터 토플 고득점까지. 안드로이드·아이폰 베타 준비 중.",
+   "description": "하이빵용은 빵나라에서 빵용이와 낚시·벌목·방 꾸미기를 하며 영어 단어를 익히는 힐링 게임 앱이에요. 쉬운 우리말 뜻풀이로 중학 단어부터 토플 고득점까지. 안드로이드 공개 테스트 중 · 아이폰은 곧 열려요.",
    "url": "https://hibbangyong.com/",
    "image": "https://hibbangyong.com/img/og.jpg",
    "genre": [
@@ -249,7 +253,7 @@ body.has-bar footer{padding-bottom:6rem}
      "name": "언제, 어디서 받을 수 있어요?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "안드로이드와 아이폰 모두 베타 테스트를 준비하고 있어요. 받을 수 있게 되면 인스타그램 @hibbangyong에 제일 먼저 알려 드려요."
+      "text": "안드로이드는 지금 구글 플레이 공개 테스트로 바로 받을 수 있어요. 아이폰은 곧 열려요. 소식 받기를 해 두시면 열리는 날 알려 드려요."
      }
     },
     {
@@ -298,7 +302,9 @@ body.has-bar footer{padding-bottom:6rem}
     <p class="hero-tag">어려운 영어 단어도<br>쉬운 우리말로</p>
     <p class="hero-sub">빵용이와 낚시하고, 나무 베고, 방을 꾸미다 보면 영어 단어가 남아요.</p>
     <div id="join" class="join">
-      <p class="perk">지금 소식 받으면, 베타 때 한정 꾸미기 선물을 드려요</p>
+      <a class="btn play" href="https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&amp;referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dopen-test" rel="noopener">안드로이드에서 지금 해 보기</a>
+      <p class="perk">베타 참여 감사 선물로 한정 꾸미기를 드려요</p>
+      <p class="jios">아이폰은 곧 열려요 · 소식 받으면 열리는 날 알려 드려요</p>
       <form id="jf" class="jf" novalidate>
         <div class="jrow">
           <label class="sr" for="je">이메일 주소</label>
@@ -400,10 +406,12 @@ body.has-bar footer{padding-bottom:6rem}
 <section id="beta">
   <div class="wrap">
     <div class="beta">
-      <h2>베타 테스트 소식 받기</h2>
+      <h2>베타 테스트 참여하기</h2>
       <p>안드로이드와 아이폰에서 먼저 해 볼 분을 모으고 있어요. 이메일만 남기면 열릴 때 바로 알려 드려요.</p>
       <div class="beta-go">
-      <a class="btn" href="#join" data-join>소식 받기</a>
+      <a class="btn" href="https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&amp;referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dopen-test" rel="noopener">안드로이드에서 지금 해 보기</a>
+      <p class="jios">아이폰은 곧 열려요 · 소식 받으면 열리는 날 알려 드려요</p>
+      <a class="btn btn-soft" href="#join" data-join>소식 받기</a>
       <a class="btn btn-soft" href="https://www.instagram.com/hibbangyong/" rel="noopener"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.4" cy="6.6" r="1.1" fill="currentColor" stroke="none"/></svg>인스타그램 @hibbangyong</a>
       </div>
     </div>
@@ -416,7 +424,7 @@ body.has-bar footer{padding-bottom:6rem}
     <div class="faq">
       <details class="fold"><summary>하이빵용은 어떤 게임이에요?</summary><div class="fold-in"><p>하이빵용은 빵나라에서 꼬마 용 빵용이와 낚시, 벌목, 농사, 방 꾸미기를 하며 영어 단어를 익히는 힐링 게임 앱이에요. 맞는 영어 단어를 골라야 놀이가 진행되고, 단어마다 쉬운 우리말 뜻풀이가 붙어요. 한 단어를 여러 상황에서 1일·3일·7일·14일 간격으로 다시 만나서 오래 남아요.</p></div></details>
       <details class="fold"><summary>다른 영어 단어 앱과 뭐가 달라요?</summary><div class="fold-in"><p>외우는 대신 쉬운 우리말로 먼저 이해해요. 낚시·벌목 같은 놀이 조작이 곧 복습 문제라서, 놀다 보면 복습이 끝나 있어요. 틀려도 감점은 없고, 틀린 단어는 다음 날 다시 만나요.</p></div></details>
-      <details class="fold"><summary>언제, 어디서 받을 수 있어요?</summary><div class="fold-in"><p>안드로이드와 아이폰 모두 베타 테스트를 준비하고 있어요. 받을 수 있게 되면 <a href="https://www.instagram.com/hibbangyong/" rel="noopener">인스타그램 @hibbangyong</a>에 제일 먼저 알려 드려요.</p></div></details>
+      <details class="fold"><summary>언제, 어디서 받을 수 있어요?</summary><div class="fold-in"><p>안드로이드는 지금 구글 플레이 공개 테스트로 바로 받을 수 있어요. 아이폰은 곧 열려요. 소식 받기를 해 두시면 열리는 날 알려 드려요.</p></div></details>
       <details class="fold"><summary>내 영어 실력을 몰라도 시작할 수 있어요?</summary><div class="fold-in"><p>네. 처음 공부할 때 20문제를 풀면 지금 수준에 맞는 레벨을 찾아 거기서 시작해요.</p></div></details>
       <details class="fold"><summary>수능이나 토플 공부에도 도움이 돼요?</summary><div class="fold-in"><p>레벨 1~6은 중학교~고3 교육과정 단어, 레벨 7~9는 토플 72~120점 수준의 단어예요. 단어 수준을 맞춘 것이고, 시험 점수를 약속하지는 않아요.</p></div></details>
       <details class="fold"><summary>하루에 얼마나 하면 돼요?</summary><div class="fold-in"><p>배우기 한 판은 10~15분 정도예요. 공부로 받은 빵을 빵용이에게 먹이면, 그 힘으로 낚시나 벌목 같은 놀이를 더 즐길 수 있어요.</p></div></details>
@@ -464,7 +472,7 @@ body.has-bar footer{padding-bottom:6rem}
   </div>
 </footer>
 
-<a id="jbar" class="jbar" href="#join" data-join aria-hidden="true" tabindex="-1">한정 선물 받고 소식 받기 →</a>
+<a id="jbar" class="jbar" href="https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&amp;referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dopen-test" rel="noopener" aria-hidden="true" tabindex="-1">안드로이드에서 지금 해 보기 →</a>
 <script>
 (function(){
   var URL_ = 'https://nvokkscghiqlohwbujso.supabase.co/rest/v1/rpc/beta_signup';
