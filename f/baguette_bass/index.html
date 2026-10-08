@@ -47,7 +47,21 @@ img.card{width:100%;max-width:26rem;height:auto;border-radius:1.4rem;box-shadow:
   var s = (q.get('s') || '').replace(/[^0-9.]/g, '').slice(0, 5);
   if (s && !isNaN(parseFloat(s))) document.getElementById('size').textContent = '크기 ' + s + 'cm';
   var r = (q.get('r') || '').replace(/[^A-Za-z0-9_-]/g, '').slice(0, 32);
-  if (r) document.getElementById('go').href = '/play/?r=' + encodeURIComponent(r);
+  var via = q.get('via') || '';
+  if (["kakao", "share", "qr"].indexOf(via) < 0) via = '';
+  var h = q.get('hop') || '';
+  var hop = /^[0-9]{1,2}$/.test(h) && +h >= 1 ? +h : 0;
+  var go = new URLSearchParams();
+  if (via) go.set('via', via);
+  if (hop) go.set('hop', String(hop));
+  if (r) go.set('r', r);
+  if (go.toString()) document.getElementById('go').href = '/play/?' + go.toString();
+  if (!hop) return;
+  var c = '/c/f/' + (via || 'x') + '/' + Math.min(3, hop) + '/';
+  try { if (sessionStorage.getItem('hbb-c' + location.pathname) === c) return; sessionStorage.setItem('hbb-c' + location.pathname, c); } catch (e) {}
+  var f = document.createElement('iframe');
+  f.src = c; f.hidden = true; f.tabIndex = -1; f.setAttribute('aria-hidden', 'true'); f.style.display = 'none';
+  document.body.appendChild(f);
 })();
 </script>
 </body>
