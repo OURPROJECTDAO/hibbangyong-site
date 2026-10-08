@@ -28,6 +28,8 @@ h1{font-family:"Jua",sans-serif;font-weight:400;font-size:1.6rem;line-height:1.3
 img.card{width:100%;max-width:26rem;height:auto;border-radius:1.4rem;box-shadow:0 10px 30px rgba(90,60,25,.12)}
 .size{margin:0;font-weight:700;color:#6B6455}
 .size:empty{display:none}
+.who{margin:0;color:#6B6455;font-size:.9rem}
+.who:empty{display:none}
 .desc{margin:0;max-width:26rem;color:#6B6455;font-size:1rem}
 .go{display:flex;width:100%;max-width:24rem;align-items:center;justify-content:center;min-height:3.25rem;border-radius:999px;background:#1D495D;color:#fff;font-weight:700;font-size:1.1rem;text-decoration:none}
 .home{color:#6B6455;font-size:.9rem}
@@ -36,12 +38,13 @@ img.card{width:100%;max-width:26rem;height:auto;border-radius:1.4rem;box-shadow:
 </head>
 <body>
 <main>
-<h1>친구가 물 확률 5%의 프레첼수염메기를 잡았어요. 너는?</h1>
+<h1 id="head">친구가 물 확률 5%의 프레첼수염메기를 잡았어요. 너는?</h1>
 <img class="card" src="/f/pretzel_catfish/card.png" alt="프레첼수염메기 · 물 확률 5%" width="1080" height="1080">
 <p id="size" class="size"></p>
 <p id="times" class="size"></p>
 <p class="desc">수염이 프레첼처럼 배배 꼬인 어둑한 메기. 무뚝뚝해 보여도 은근 인기쟁이.</p>
-<a id="go" class="go" href="/play/">나도 3분 해 보기</a>
+<a id="go" class="go" href="/play/">3분 도전하기</a>
+<p id="who" class="who"></p>
 <a class="home" href="/">하이빵용</a>
 </main>
 <script>
@@ -52,6 +55,19 @@ img.card{width:100%;max-width:26rem;height:auto;border-radius:1.4rem;box-shadow:
   var tl = (q.get('lt') || '').replace(/[^0-9]/g, '').slice(0, 4), tc = (q.get('ct') || '').replace(/[^0-9]/g, '').slice(0, 4), tt = ["벌목 {n}초", "포획 {n}초"];
   document.getElementById('times').textContent = [tl ? tt[0].replace('{n}', tl) : '', tc ? tt[1].replace('{n}', tc) : ''].filter(Boolean).join(' · ');
   if (s && !isNaN(parseFloat(s))) document.getElementById('size').textContent = "{cm}cm · 최대 {max}cm · 총 가치 {g}골드".replace('{cm}', s).replace('{max}', "18").replace(g ? '{g}' : ' · 총 가치 {g}골드', g);
+  var ch = {"url": "https://nvokkscghiqlohwbujso.supabase.co", "key": "sb_publishable_f4Ax5r5859lJ-JcC_ffJeQ_fDVdiaLv", "face": "pretzel_catfish", "pctFrom": 20, "head": "프레첼수염메기를 잡았어요 · {cm}cm · {rank} — 깰 수 있어요?", "rankN": "오늘 {n}등", "rankPct": "오늘 상위 {n}%", "players": "오늘 {n}명이 도전", "faceFew": "프레첼수염메기는 아직 {n}명만 잡았어요", "faceNone": "프레첼수염메기는 아직 아무도 못 잡았어요"};
+  if (s && ch.url && typeof fetch === 'function') {
+    fetch(ch.url + '/rest/v1/rpc/trial_rank_peek', { method: 'POST', headers: { apikey: ch.key, 'Content-Type': 'application/json' }, body: JSON.stringify({ p_kind: 'cm', p_face: ch.face, p_val: parseFloat(s) }) })
+      .then(function (x) { return x.ok ? x.json() : null; })
+      .then(function (j) {
+        if (!j || !(j.rank > 0)) return;
+        var n = Math.max(1, j.n || 0);
+        var rk = n < ch.pctFrom ? ch.rankN.replace('{n}', j.rank) : ch.rankPct.replace('{n}', Math.max(1, Math.ceil(j.rank * 100 / n)));
+        document.getElementById('head').textContent = ch.head.replace('{cm}', s).replace('{rank}', rk);
+        var fa = j.face_all || 0;
+        document.getElementById('who').textContent = [j.players_today > 0 ? ch.players.replace('{n}', j.players_today) : '', fa > 0 ? ch.faceFew.replace('{n}', fa) : ch.faceNone].filter(Boolean).join(' · ');
+      })['catch'](function () {});
+  }
   var r = (q.get('r') || '').replace(/[^A-Za-z0-9_-]/g, '').slice(0, 32);
   var via = q.get('via') || '';
   if (["kakao", "share", "qr"].indexOf(via) < 0) via = '';
