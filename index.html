@@ -54,7 +54,7 @@ a{color:var(--blue-ink)}
 .col{max-width:30rem;margin:0 auto;padding:0 16px}
 h1,h2,h3,.jua{font-family:"Jua",-apple-system,"Apple SD Gothic Neo","Malgun Gothic",sans-serif;font-weight:400;letter-spacing:-.01em}
 h1{margin:0}
-h2{font-size:1.75rem;line-height:1.3;margin:0 0 1rem}
+h2{font-size:1.75rem;line-height:1.3;margin:0 0 1rem;word-break:keep-all;text-wrap:balance}
 .lead{color:var(--ink2);margin:0 0 1.2rem}
 section{padding:2.25rem 0}
 section+section{border-top:1px solid var(--line)}
@@ -76,7 +76,7 @@ section+section{border-top:1px solid var(--line)}
 .hero{background:var(--bg)}
 .hero-in{min-height:100vh;min-height:100svh;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:.7rem;padding:max(1rem,env(safe-area-inset-top)) 16px 1rem;text-align:center}
 .hero-logo{height:5.6rem;width:auto;margin:0 auto}
-.hero-tag{font-family:"Jua",sans-serif;font-size:1.75rem;line-height:1.25;margin:0}
+.hero-tag{font-family:"Jua",sans-serif;font-size:1.75rem;line-height:1.25;margin:0;text-wrap:balance}
 .hero-sub{color:var(--ink2);font-weight:600;margin:0;max-width:21rem;line-height:1.5}
 .phone{flex:none;height:clamp(15rem,calc(100svh - 24.5rem),30rem);aspect-ratio:1/2;padding:.45rem;border-radius:2rem;background:var(--frame);box-shadow:var(--shadow)}
 .phone video{width:100%;height:100%;object-fit:cover;border-radius:1.6rem;background:#cfe5c4}
@@ -94,7 +94,7 @@ section+section{border-top:1px solid var(--line)}
 .dots{display:flex;justify-content:center;gap:.45rem;margin:.6rem 0 1.4rem}
 .dots i{width:.5rem;height:.5rem;border-radius:999px;background:var(--line);transition:width .2s ease,background .2s ease}
 .dots i.on{width:1.3rem;background:var(--blue)}
-.def{font-size:.9rem;line-height:1.6;color:var(--ink2);margin:0}
+.def{font-size:15px;line-height:1.6;color:var(--ink2);margin:0 -10px}
 
 /* 뜻풀이 */
 .ex{display:flex;gap:.9rem;overflow-x:auto;scroll-snap-type:x mandatory;padding:.3rem 16px 1rem;margin:0 -16px;scrollbar-width:none}
@@ -148,7 +148,8 @@ details.fold>summary:focus-visible{outline-offset:-3px;border-radius:1.1rem}
 .jbtn[disabled]{opacity:.6;cursor:default;filter:none}
 .jerr{margin:.35rem .6rem 0;color:var(--pink-ink);font-weight:600;font-size:.9rem}
 .jerr:empty{display:none}
-.perk{font-family:"Jua",sans-serif;font-size:1.1rem;line-height:1.4;color:var(--pink-ink);background:var(--pink);border-radius:.8rem;padding:.5rem .8rem;margin:.8rem 0 0;text-align:center}
+.perk{display:flex;align-items:center;justify-content:center;gap:.35rem;margin:0 0 .6rem;font-size:.95rem;font-weight:600;line-height:1.4;color:var(--ink2);text-align:center}
+.perk svg{width:1.1rem;height:1.1rem;flex:none}
 .jfine{margin:.6rem .4rem 0;font-size:.8rem;line-height:1.55;color:var(--ink2);text-align:center}
 .jfine a{color:var(--ink2)}
 .jdone{margin:0;background:var(--card);color:var(--blue-ink);border-radius:1rem;padding:1rem 1.1rem;font-weight:700;text-align:center}
@@ -176,14 +177,16 @@ footer{background:var(--bg2);border-top:1px solid var(--line);padding:2.5rem 0 m
 /* 아래 고정 띠 = 엄지 자리 */
 .jbar{position:fixed;left:16px;right:16px;bottom:max(12px,env(safe-area-inset-bottom));z-index:20;display:flex;align-items:center;justify-content:center;min-height:3.25rem;max-width:28rem;margin:0 auto;border-radius:999px;background:var(--btn);color:var(--btn-ink);font-weight:700;font-size:1.05rem;text-decoration:none;box-shadow:var(--shadow);transform:translateY(160%);transition:transform .2s ease}
 .jbar.on{transform:none}
-body.has-bar footer{padding-bottom:6rem}
+body.has-bar footer{padding-bottom:calc(3.25rem + 28px + env(safe-area-inset-bottom))}
 
 /* 피시 = 가운데 한 줄 ＋ 옆 QR */
+.phone-wrap{position:relative;flex:none}
 .qr{display:none}
 @media (min-width:900px){
-  [data-dev="pc"] .qr{display:flex;flex-direction:column;align-items:center;gap:.6rem;position:fixed;top:50%;right:max(2rem,calc(50% - 32rem));transform:translateY(-50%);width:10.5rem;padding:1rem;background:var(--card);border:1px solid var(--line);border-radius:1.2rem;box-shadow:var(--shadow);text-align:center;font-weight:700;font-size:.92rem;color:var(--ink2);z-index:10}
+  [data-dev="pc"] .qr{display:flex;flex-direction:column;align-items:center;gap:.6rem;position:absolute;top:50%;left:calc(100% + 40px);transform:translateY(-50%);width:10.5rem;padding:1rem;background:var(--card);border:1px solid var(--line);border-radius:1.2rem;box-shadow:var(--shadow);text-align:center;font-weight:700;font-size:.92rem;color:var(--ink2)}
+  [data-dev="pc"] .hero-dev.dev-pc{display:none}
   .qr img{width:8.5rem;height:8.5rem;border-radius:.4rem;image-rendering:pixelated}
-  .qr p{margin:0;line-height:1.4}
+  .qr p{margin:0;line-height:1.4;text-wrap:balance}
 }
 
 /* 내릴 때 칸이 살짝 떠오름(한 번만) */
@@ -317,11 +320,14 @@ body.has-bar footer{padding-bottom:6rem}
     <h1><img class="hero-logo" src="img/logo.webp" alt="" width="600" height="520"><span class="sr">하이빵용 — 영어 단어 힐링 게임</span></h1>
     <p class="hero-tag">어려운 영어 단어도<br>쉬운 우리말로</p>
     <p class="hero-sub">빵용이와 낚시하고, 나무 베고, 방을 꾸미다 보면 영어 단어가 남아요.</p>
+    <div class="phone-wrap">
     <div class="phone" aria-hidden="true">
       <video id="hv" width="540" height="1080" poster="img/hero_play_first.webp" muted playsinline loop preload="none" disablepictureinpicture>
         <source data-src="img/hero_play.webm" type="video/webm">
         <source data-src="img/hero_play.mp4" type="video/mp4">
       </video>
+    </div>
+    <aside class="qr" aria-label="휴대폰으로 열기"><img src="img/qr.svg" alt="hibbangyong.com 으로 가는 QR 코드" width="29" height="29" loading="lazy"><p>휴대폰에서 더 잘 보여요</p></aside>
     </div>
     <a id="go1" class="btn" href="/play/">설치 없이 3분 해 보기</a>
     <p class="hero-dev dev dev-and"><a href="https://play.google.com/apps/testing/com.ourprojectdao.kidsenglishapp" rel="noopener">안드로이드 앱으로 받기 →</a></p>
@@ -412,6 +418,7 @@ body.has-bar footer{padding-bottom:6rem}
       </div>
       <div id="join" class="join">
         <p class="jios">아이폰은 곧 열려요 · 이메일을 남겨 주시면 열리는 날 알려 드려요</p>
+        <p class="perk"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="8" width="18" height="5" rx="1"/><path d="M5 13v8h14v-8M12 8v13M12 8S10.5 3 8 4s.5 4 4 4M12 8s1.5-5 4-4-.5 4-4 4"/></svg>베타 참여 감사 선물로 한정 꾸미기를 드려요</p>
         <form id="jf" class="jf" novalidate>
           <div class="jrow">
             <label class="sr" for="je">이메일 주소</label>
@@ -420,7 +427,6 @@ body.has-bar footer{padding-bottom:6rem}
           </div>
           <div class="trap" aria-hidden="true"><label for="jw">웹사이트</label><input id="jw" name="website" type="text" tabindex="-1" autocomplete="off"></div>
           <p id="jerr" class="jerr" role="alert"></p>
-          <p class="perk">베타 참여 감사 선물로 한정 꾸미기를 드려요</p>
           <p class="jfine">‘소식 받기’를 누르면 하이빵용 새 소식(베타·출시·이벤트) 메일 받기와 <a href="privacy">개인정보 처리방침</a>에 동의해요. 언제든 그만 받을 수 있어요.</p>
         </form>
         <p id="jdone" class="jdone" hidden tabindex="-1">신청 완료! 아이폰이 열리면 이 이메일로 링크를 보내 드려요. 안드로이드는 지금 바로 해 볼 수 있어요.</p>
@@ -482,7 +488,6 @@ body.has-bar footer{padding-bottom:6rem}
   </div>
 </footer>
 
-<aside class="qr" aria-label="휴대폰으로 열기"><img src="img/qr.svg" alt="hibbangyong.com 으로 가는 QR 코드" width="29" height="29" loading="lazy"><p>휴대폰에서 더 잘 보여요</p></aside>
 <a id="jbar" class="jbar" href="/play/" aria-hidden="true" tabindex="-1">설치 없이 3분 해 보기</a>
 <script>
 (function(){
@@ -542,7 +547,7 @@ body.has-bar footer{padding-bottom:6rem}
     var past = false, near = false;
     var paint = function(){ var on = past && !near; bar.classList.toggle('on', on); document.body.classList.toggle('has-bar', on); bar.setAttribute('aria-hidden', on ? 'false' : 'true'); bar.tabIndex = on ? 0 : -1; };
     new IntersectionObserver(function(es){ var e = es[0]; past = !e.isIntersecting && e.boundingClientRect.top < 0; paint(); }).observe(document.getElementById('go1'));
-    new IntersectionObserver(function(es){ near = es[0].isIntersecting; paint(); }).observe(document.getElementById('go2'));
+    new IntersectionObserver(function(es){ near = es[0].isIntersecting; paint(); }).observe(document.getElementById('go'));
     // 내릴 때 칸이 살짝 떠오름(한 번만)
     var rise = new IntersectionObserver(function(es){ es.forEach(function(e){ if (e.isIntersecting) { e.target.classList.add('in'); rise.unobserve(e.target); } }); }, { rootMargin: '0px 0px -8% 0px' });
     Array.prototype.forEach.call(document.querySelectorAll('.rise'), function(s){ rise.observe(s); });
