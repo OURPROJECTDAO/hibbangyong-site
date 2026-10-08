@@ -1,0 +1,586 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<base href="/">
+<meta name="robots" content="noindex,nofollow">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>하이빵용 — 놀다 보면 영어 단어가 남는 힐링 게임</title>
+<meta name="description" content="하이빵용은 빵나라에서 빵용이와 낚시·벌목·방 꾸미기를 하며 영어 단어를 익히는 힐링 게임 앱이에요. 쉬운 우리말 뜻풀이로 중학 단어부터 토플 고득점까지. 안드로이드 공개 테스트 중 · 아이폰은 곧 열려요.">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#f7efe0" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#1f1a14" media="(prefers-color-scheme: dark)">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="하이빵용">
+<meta property="og:locale" content="ko_KR">
+<meta property="og:title" content="하이빵용 — 놀다 보면 영어 단어가 남는 힐링 게임">
+<meta property="og:description" content="하이빵용은 빵나라에서 빵용이와 낚시·벌목·방 꾸미기를 하며 영어 단어를 익히는 힐링 게임 앱이에요. 쉬운 우리말 뜻풀이로 중학 단어부터 토플 고득점까지. 안드로이드 공개 테스트 중 · 아이폰은 곧 열려요.">
+<meta property="og:url" content="https://hibbangyong.com/">
+<meta property="og:image" content="https://hibbangyong.com/img/og.jpg">
+<meta property="og:image:width" content="1024">
+<meta property="og:image:height" content="500">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="canonical" href="https://hibbangyong.com/">
+<link rel="icon" type="image/png" href="img/favicon.png">
+<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Jua&display=swap" rel="stylesheet">
+<script>(function(){var u=navigator.userAgent||'',d='pc';if(/android/i.test(u))d='and';else if(/iphone|ipad|ipod/i.test(u)||(/Macintosh/.test(u)&&navigator.maxTouchPoints>1))d='ios';var h=document.documentElement;h.setAttribute('data-dev',d);if(!(window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches))h.classList.add('motion')})();</script>
+<style>
+:root{
+  --bg:#f7efe0; --bg2:#fffaf1; --card:#ffffff; --ink:#4a321c; --ink2:#7a5d40; --line:#ead9bf;
+  --blue:#2398e0; --blue-ink:#0f6fae; --pink:#f6dfe1; --pink-ink:#9c3a48;
+  --btn:#1f4a5c; --btn-ink:#ffffff; --beta:#e3f1fb; --frame:#2b2119;
+  --shadow:0 10px 30px rgba(90,60,25,.12);
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#1f1a14; --bg2:#29221a; --card:#2f271e; --ink:#f4e8d6; --ink2:#c9b49a; --line:#4a3c2c;
+    --blue:#5cb8f2; --blue-ink:#8fd0fa; --pink:#4a2c30; --pink-ink:#f3b8c0;
+    --btn:#8fd0fa; --btn-ink:#10222b; --beta:#1d2e38; --frame:#0f0c09;
+    --shadow:0 10px 30px rgba(0,0,0,.35);
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#1f1a14; --bg2:#29221a; --card:#2f271e; --ink:#f4e8d6; --ink2:#c9b49a; --line:#4a3c2c;
+  --blue:#5cb8f2; --blue-ink:#8fd0fa; --pink:#4a2c30; --pink-ink:#f3b8c0;
+  --btn:#8fd0fa; --btn-ink:#10222b; --beta:#1d2e38; --frame:#0f0c09;
+  --shadow:0 10px 30px rgba(0,0,0,.35);
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Noto Sans KR","Malgun Gothic",sans-serif;font-size:16px;line-height:1.6;word-break:keep-all;overflow-wrap:anywhere;overflow-x:hidden}
+img,video{max-width:100%;height:auto;display:block}
+a{color:var(--blue-ink)}
+.col{max-width:30rem;margin:0 auto;padding:0 16px}
+h1,h2,h3,.jua{font-family:"Jua",-apple-system,"Apple SD Gothic Neo","Malgun Gothic",sans-serif;font-weight:400;letter-spacing:-.01em}
+h1{margin:0}
+h2{font-size:1.75rem;line-height:1.3;margin:0 0 1rem;word-break:keep-all;text-wrap:balance}
+.lead{color:var(--ink2);margin:0 0 1.2rem}
+section{padding:2.25rem 0}
+section+section{border-top:1px solid var(--line)}
+:focus-visible{outline:3px solid var(--blue);outline-offset:3px}
+.sr{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+
+/* 단추 = 진한 하나 + 옅은 하나 */
+.btn{display:flex;width:100%;align-items:center;justify-content:center;gap:.5rem;background:var(--btn);color:var(--btn-ink);text-decoration:none;font-weight:700;font-size:1.1rem;border-radius:999px;padding:.8rem 1.4rem;box-shadow:var(--shadow);min-height:3.25rem;border:0;cursor:pointer;transition:transform .12s ease,filter .12s ease}
+.btn:hover{filter:brightness(1.08)}
+.btn:active{transform:scale(.97)}
+.btn-soft{background:var(--card);color:var(--ink);box-shadow:none;border:1.5px solid var(--line)}
+
+/* 기기마다 한 줄 */
+.dev{display:none}
+[data-dev="and"] .dev-and,[data-dev="ios"] .dev-ios,[data-dev="pc"] .dev-pc,html:not([data-dev]) .dev-and{display:block}
+[data-dev="and"] .btn.dev-and,html:not([data-dev]) .btn.dev-and{display:flex}
+
+/* 첫 화면 = 한 화면 안에 */
+.hero{background:var(--bg)}
+.hero-in{min-height:100vh;min-height:100svh;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:.7rem;padding:max(1rem,env(safe-area-inset-top)) 16px 1rem;text-align:center}
+.hero-logo{height:5.6rem;width:auto;margin:0 auto}
+.hero-tag{font-family:"Jua",sans-serif;font-size:1.75rem;line-height:1.25;margin:0;text-wrap:balance}
+.hero-sub{color:var(--ink2);font-weight:600;margin:0;max-width:21rem;line-height:1.5}
+.phone{flex:none;height:clamp(15rem,calc(100svh - 24.5rem),30rem);aspect-ratio:1/2;padding:.45rem;border-radius:2rem;background:var(--frame);box-shadow:var(--shadow)}
+.phone video{width:100%;height:100%;object-fit:cover;border-radius:1.6rem;background:#cfe5c4}
+.hero .btn{max-width:24rem;margin-top:.2rem}
+.hero-dev{margin:0;font-size:.95rem;font-weight:600;color:var(--ink2)}
+.hero-dev a{font-weight:700}
+
+/* 화면 여섯 장 넘김 */
+.shots{display:flex;gap:.9rem;overflow-x:auto;scroll-snap-type:x mandatory;padding:.3rem 16px .6rem;margin:0 -16px;scrollbar-width:none;overscroll-behavior-x:contain}
+.shots::-webkit-scrollbar{display:none}
+.shots figure{flex:0 0 58%;margin:0;scroll-snap-align:center}
+.shots img{width:100%;aspect-ratio:9/16;object-fit:cover;border-radius:1.2rem;box-shadow:var(--shadow);background:var(--bg2)}
+.shots figcaption{margin:.6rem .2rem 0;font-size:1rem;color:var(--ink2);line-height:1.45}
+.shots figcaption b{display:block;font-family:"Jua",sans-serif;font-weight:400;font-size:1.15rem;color:var(--ink)}
+.dots{display:flex;justify-content:center;gap:.45rem;margin:.6rem 0 1.4rem}
+.dots i{width:.5rem;height:.5rem;border-radius:999px;background:var(--line);transition:width .2s ease,background .2s ease}
+.dots i.on{width:1.3rem;background:var(--blue)}
+.def{font-size:15px;line-height:1.6;color:var(--ink2);margin:0 -10px}
+
+/* 뜻풀이 */
+.ex{display:flex;gap:.9rem;overflow-x:auto;scroll-snap-type:x mandatory;padding:.3rem 16px 1rem;margin:0 -16px;scrollbar-width:none}
+.ex::-webkit-scrollbar{display:none}
+.ex-card{flex:0 0 86%;scroll-snap-align:center;background:var(--card);border:1px solid var(--line);border-radius:1.2rem;padding:1.2rem 1.25rem;box-shadow:var(--shadow)}
+.ex-word{font-family:"Jua",sans-serif;font-size:1.9rem;line-height:1.2;margin:0}
+.ex-old{color:var(--ink2);margin:.2rem 0 .5rem}
+.ex-old s{text-decoration-thickness:2px}
+.ex-new{background:var(--pink);color:var(--pink-ink);border-radius:.7rem;padding:.6rem .8rem;margin:0;font-weight:600}
+
+/* 오래 남는 이유 · 접힘 */
+.why{display:grid;gap:.6rem}
+details.fold{background:var(--card);border:1px solid var(--line);border-radius:1.1rem}
+details.fold>summary{cursor:pointer;list-style:none;display:flex;justify-content:space-between;align-items:center;gap:1rem;padding:.75rem 1.1rem;font-weight:700;min-height:3rem}
+details.fold>summary::-webkit-details-marker{display:none}
+details.fold>summary::after{content:"";flex:none;width:.55rem;height:.55rem;border-right:2px solid currentColor;border-bottom:2px solid currentColor;transform:translateY(-.15rem) rotate(45deg)}
+details.fold[open]>summary::after{transform:translateY(.15rem) rotate(-135deg)}
+details.fold>summary:focus-visible{outline-offset:-3px;border-radius:1.1rem}
+.fold-in{padding:0 1.2rem 1.1rem}
+.fold-in p{margin:.3rem 0 0;color:var(--ink2)}
+.why summary{justify-content:flex-start}
+.why summary::before{content:"";flex:none;width:1.5rem;height:1.5rem;border-radius:999px;background:var(--beta) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%232398e0' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M6 12.5l4 4 8-9'/%3E%3C/svg%3E") center/1rem no-repeat}
+.why summary::after{margin-left:auto}
+.why summary span{display:flex;flex-direction:column;line-height:1.35}
+.why summary b{font-family:"Jua",sans-serif;font-weight:400;font-size:1.15rem}
+.why summary small{font-size:.95rem;font-weight:600;color:var(--ink2)}
+.faq{display:grid;gap:.6rem}
+
+/* 레벨 */
+.lv{list-style:none;margin:0 0 .9rem;padding:0;display:grid;gap:.5rem}
+.lv li{display:flex;align-items:center;gap:.8rem;background:var(--card);border:1px solid var(--line);border-radius:999px;padding:.6rem 1.1rem}
+.lv b{font-family:"Jua",sans-serif;font-weight:400;font-size:1.1rem;color:var(--blue-ink);white-space:nowrap}
+.lv span{font-weight:600}
+.levels{width:100%;border-collapse:collapse}
+.levels th,.levels td{text-align:left;vertical-align:top;padding:.7rem .2rem;border-bottom:1px solid var(--line)}
+.levels th{width:1%;padding-right:1rem;font-family:"Jua",sans-serif;font-weight:400;font-size:1.05rem;color:var(--blue-ink);white-space:nowrap}
+.note{color:var(--ink2);font-size:.95rem;margin:1rem 0 0}
+.src{font-size:.85rem;color:var(--ink2);margin:.8rem 0 0}
+
+/* 두 번째 행동 칸 */
+.beta{background:var(--beta);border-radius:1.4rem;padding:1.6rem 1.2rem;text-align:center}
+.go{display:grid;gap:.7rem;margin:0 0 1.4rem}
+.join{text-align:left}
+.jios{margin:0 0 .6rem;font-weight:600;color:var(--ink2);text-align:center}
+.jf{margin:0}
+.jrow{display:flex;gap:.5rem}
+.jrow input{flex:1;min-width:0;font:inherit;color:var(--ink);background:var(--card);border:1.5px solid var(--line);border-radius:999px;padding:.7rem 1.1rem;min-height:3.25rem}
+.jrow input:focus{border-color:var(--blue);outline:none;box-shadow:0 0 0 3px var(--bg2)}
+.jrow input[aria-invalid=true]{border-color:var(--pink-ink)}
+.jbtn{width:auto;flex:none;font-size:1rem;padding:.7rem 1.1rem}
+.jbtn[disabled]{opacity:.6;cursor:default;filter:none}
+.jerr{margin:.35rem .6rem 0;color:var(--pink-ink);font-weight:600;font-size:.9rem}
+.jerr:empty{display:none}
+.perk{display:flex;align-items:center;justify-content:center;gap:.35rem;margin:0 0 .6rem;font-size:.95rem;font-weight:600;line-height:1.4;color:var(--ink2);text-align:center}
+.perk svg{width:1.1rem;height:1.1rem;flex:none}
+.jfine{margin:.6rem .4rem 0;font-size:.8rem;line-height:1.55;color:var(--ink2);text-align:center}
+.jfine a{color:var(--ink2)}
+.jdone{margin:0;background:var(--card);color:var(--blue-ink);border-radius:1rem;padding:1rem 1.1rem;font-weight:700;text-align:center}
+.trap{position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden}
+
+/* 영어 · 바닥 */
+#en{margin-top:1.6rem}
+#en .lead{font-size:.92rem;margin:0}
+#en h2{font-size:1.2rem;margin:0 0 .3rem}
+footer{background:var(--bg2);border-top:1px solid var(--line);padding:2.5rem 0 max(2.5rem,env(safe-area-inset-bottom));font-size:.9rem;color:var(--ink2)}
+.foot{display:grid;gap:1.6rem}
+.foot-brand{display:flex;gap:.8rem;align-items:center}
+.foot-brand img{width:3rem;height:3rem;border-radius:.8rem}
+.foot-brand b{font-family:"Jua",sans-serif;font-weight:400;font-size:1.3rem;color:var(--ink)}
+.sns{display:flex;flex-wrap:wrap;gap:.5rem}
+.sns a{display:inline-block;border:1px solid var(--line);background:var(--card);color:var(--ink);text-decoration:none;font-weight:600;border-radius:999px;padding:.45rem .95rem}
+.sns a:hover{border-color:var(--blue)}
+.foot-cols{display:flex;flex-wrap:wrap;gap:1.4rem 3rem}
+.foot-cols nav{display:flex;flex-direction:column;gap:.25rem}
+.foot-cols nav a{color:var(--ink);text-decoration:none;font-weight:600}
+.foot-cols nav a:hover{text-decoration:underline}
+.biz p{margin:.1rem 0}
+.mail{user-select:all}
+
+/* 아래 고정 띠 = 엄지 자리 */
+.jbar{position:fixed;left:16px;right:16px;bottom:max(12px,env(safe-area-inset-bottom));z-index:20;display:flex;align-items:center;justify-content:center;min-height:3.25rem;max-width:28rem;margin:0 auto;border-radius:999px;background:var(--btn);color:var(--btn-ink);font-weight:700;font-size:1.05rem;text-decoration:none;box-shadow:var(--shadow);transform:translateY(160%);transition:transform .2s ease}
+.jbar.on{transform:none}
+body.has-bar footer{padding-bottom:calc(3.25rem + 28px + env(safe-area-inset-bottom))}
+
+/* 피시 = 가운데 한 줄 ＋ 옆 QR */
+.phone-wrap{position:relative;flex:none}
+.qr{display:none}
+@media (min-width:900px){
+  [data-dev="pc"] .qr{display:flex;flex-direction:column;align-items:center;gap:.6rem;position:absolute;top:50%;left:calc(100% + 40px);transform:translateY(-50%);width:10.5rem;padding:1rem;background:var(--card);border:1px solid var(--line);border-radius:1.2rem;box-shadow:var(--shadow);text-align:center;font-weight:700;font-size:.92rem;color:var(--ink2)}
+  [data-dev="pc"] .hero-dev.dev-pc{display:none}
+  .qr img{width:8.5rem;height:8.5rem;border-radius:.4rem;image-rendering:pixelated}
+  .qr p{margin:0;line-height:1.4;text-wrap:balance}
+}
+
+/* 내릴 때 칸이 살짝 떠오름(한 번만) */
+.motion .rise{opacity:0;transform:translateY(14px);transition:opacity .3s ease,transform .3s ease}
+.motion .rise.in{opacity:1;transform:none}
+@media (prefers-reduced-motion:reduce){.jbar,.btn,.dots i{transition:none}}
+</style>
+<!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "7c4d6053f2fc47189ee09179bfc6d627"}'></script><!-- End Cloudflare Web Analytics -->
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "Organization",
+   "@id": "https://hibbangyong.com/#org",
+   "name": "에스에스일레븐",
+   "url": "https://hibbangyong.com/",
+   "logo": "https://hibbangyong.com/img/logo.webp",
+   "email": "help@hibbangyong.com",
+   "sameAs": [
+    "https://www.instagram.com/hibbangyong/",
+    "https://www.youtube.com/@hibbangyong",
+    "https://www.tiktok.com/@hibbangyong"
+   ]
+  },
+  {
+   "@type": "WebSite",
+   "@id": "https://hibbangyong.com/#website",
+   "name": "하이빵용",
+   "alternateName": "빵용이",
+   "url": "https://hibbangyong.com/",
+   "inLanguage": "ko",
+   "publisher": {
+    "@id": "https://hibbangyong.com/#org"
+   }
+  },
+  {
+   "@type": [
+    "VideoGame",
+    "MobileApplication"
+   ],
+   "@id": "https://hibbangyong.com/#app",
+   "name": "하이빵용",
+   "description": "하이빵용은 빵나라에서 빵용이와 낚시·벌목·방 꾸미기를 하며 영어 단어를 익히는 힐링 게임 앱이에요. 쉬운 우리말 뜻풀이로 중학 단어부터 토플 고득점까지. 안드로이드 공개 테스트 중 · 아이폰은 곧 열려요.",
+   "url": "https://hibbangyong.com/",
+   "image": "https://hibbangyong.com/img/og.jpg",
+   "genre": [
+    "교육",
+    "힐링"
+   ],
+   "applicationCategory": "GameApplication",
+   "operatingSystem": "Android, iOS",
+   "inLanguage": "ko",
+   "author": {
+    "@id": "https://hibbangyong.com/#org"
+   },
+   "publisher": {
+    "@id": "https://hibbangyong.com/#org"
+   }
+  },
+  {
+   "@type": "FAQPage",
+   "@id": "https://hibbangyong.com/#faq",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "하이빵용은 어떤 게임이에요?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "하이빵용은 빵나라에서 꼬마 용 빵용이와 낚시, 벌목, 농사, 방 꾸미기를 하며 영어 단어를 익히는 힐링 게임 앱이에요. 맞는 영어 단어를 골라야 놀이가 진행되고, 단어마다 쉬운 우리말 뜻풀이가 붙어요. 한 단어를 여러 상황에서 1일·3일·7일·14일 간격으로 다시 만나서 오래 남아요."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "다른 영어 단어 앱과 뭐가 달라요?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "외우는 대신 쉬운 우리말로 먼저 이해해요. 낚시·벌목 같은 놀이 조작이 곧 복습 문제라서, 놀다 보면 복습이 끝나 있어요. 틀려도 감점은 없고, 틀린 단어는 다음 날 다시 만나요."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "언제, 어디서 받을 수 있어요?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "안드로이드는 지금 구글 플레이 공개 테스트로 바로 받을 수 있어요. 아이폰은 곧 열려요. 소식 받기를 해 두시면 열리는 날 알려 드려요."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "내 영어 실력을 몰라도 시작할 수 있어요?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "네. 처음 공부할 때 20문제를 풀면 지금 수준에 맞는 레벨을 찾아 거기서 시작해요."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "수능이나 토플 공부에도 도움이 돼요?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "레벨 1~6은 중학교~고3 교육과정 단어, 레벨 7~9는 토플 72~120점 수준의 단어예요. 단어 수준을 맞춘 것이고, 시험 점수를 약속하지는 않아요."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "하루에 얼마나 하면 돼요?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "배우기 한 판은 10~15분 정도예요. 공부로 받은 빵을 빵용이에게 먹이면, 그 힘으로 낚시나 벌목 같은 놀이를 더 즐길 수 있어요."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "내 정보는 어떻게 다뤄요?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "무엇을 왜 모으는지 개인정보처리방침에 적어 두었어요. 계정 삭제는 아래 «계정 삭제 요청»에서 할 수 있어요."
+     }
+    }
+   ]
+  }
+ ]
+}
+</script>
+</head>
+<body>
+
+<header class="hero">
+  <div class="hero-in">
+    <h1><img class="hero-logo" src="img/logo.webp" alt="" width="600" height="520"><span class="sr">하이빵용 — 영어 단어 힐링 게임</span></h1>
+    <p class="hero-tag">어려운 영어 단어도<br>쉬운 우리말로</p>
+    <p class="hero-sub">빵용이와 낚시하고, 나무 베고, 방을 꾸미다 보면 영어 단어가 남아요.</p>
+    <div class="phone-wrap">
+    <div class="phone" aria-hidden="true">
+      <video id="hv" width="540" height="1080" poster="img/hero_play_first.webp" muted playsinline loop preload="none" disablepictureinpicture>
+        <source data-src="img/hero_play.webm" type="video/webm">
+        <source data-src="img/hero_play.mp4" type="video/mp4">
+      </video>
+    </div>
+    <aside class="qr" aria-label="휴대폰으로 열기"><img src="img/qr.svg" alt="hibbangyong.com 으로 가는 QR 코드" width="29" height="29" loading="lazy"><p>휴대폰에서 더 잘 보여요</p></aside>
+    </div>
+    <a id="go1" class="btn" href="/play/">설치 없이 3분 해 보기</a>
+    <p class="hero-dev dev dev-and"><a href="https://play.google.com/apps/testing/com.ourprojectdao.kidsenglishapp" rel="noopener">안드로이드 앱으로 받기 →</a></p>
+    <p class="hero-dev dev dev-ios">아이폰 앱은 곧 열려요 · <a href="#go" data-join>소식 받기 →</a></p>
+    <p class="hero-dev dev dev-pc">휴대폰에서 더 잘 보여요</p>
+  </div>
+</header>
+
+<main>
+<section id="play" class="rise">
+  <div class="col">
+    <h2>놀다 보면 단어가 남아요</h2>
+    <div id="shots" class="shots" tabindex="0" role="group" aria-label="앱 화면 여섯 장">
+      <figure><img src="img/shot-1.webp" alt="쉬운 우리말 뜻풀이가 나오는 단어 카드" width="540" height="960" loading="lazy"><figcaption><b>배우기</b>쉬운 뜻으로 먼저 이해</figcaption></figure>
+      <figure><img src="img/shot-2.webp" alt="뜻에 맞는 단어가 뜰 때 릴을 감는 낚시" width="540" height="960" loading="lazy"><figcaption><b>낚시</b>맞는 단어가 뜰 때 릴을 감아요</figcaption></figure>
+      <figure><img src="img/shot-3.webp" alt="단어와 뜻을 선으로 잇는 벌목" width="540" height="960" loading="lazy"><figcaption><b>벌목</b>단어와 뜻을 이어 도끼질</figcaption></figure>
+      <figure><img src="img/shot-4.webp" alt="예문 빈칸에 맞는 단어를 던지는 동물 잡기" width="540" height="960" loading="lazy"><figcaption><b>포획</b>빈칸에 맞는 단어를 던져요</figcaption></figure>
+      <figure><img src="img/shot-5.webp" alt="가구를 들인 빵용이의 방" width="540" height="960" loading="lazy"><figcaption><b>방</b>모은 재료로 가구를 들여요</figcaption></figure>
+      <figure><img src="img/shot-6.webp" alt="밭과 목장이 있는 농장" width="540" height="960" loading="lazy"><figcaption><b>농장</b>밭·목장·어항을 꾸며요</figcaption></figure>
+    </div>
+    <div id="dots" class="dots" aria-hidden="true"><i class="on"></i><i></i><i></i><i></i><i></i><i></i></div>
+    <p class="def">하이빵용은 빵나라에서 꼬마 용 빵용이와 낚시, 벌목, 농사, 방 꾸미기를 하며 영어 단어를 익히는 힐링 게임 앱이에요. 맞는 영어 단어를 골라야 놀이가 진행되고, 단어마다 쉬운 우리말 뜻풀이가 붙어요. 한 단어를 여러 상황에서 1일·3일·7일·14일 간격으로 다시 만나서 오래 남아요.</p>
+  </div>
+</section>
+
+<section id="easy" class="rise">
+  <div class="col">
+    <h2>어려운 영어 단어, 쉬운 말로 풀어 드려요</h2>
+    <p class="lead">사전 속 딱딱한 한자어 대신, 누구나 한 번에 알아듣는 말로 뜻을 풀어요.</p>
+    <div class="ex" tabindex="0" role="group" aria-label="뜻풀이 보기 두 장">
+      <div class="ex-card">
+        <p class="ex-word">efficient</p>
+        <p class="ex-old"><s>효율적인</s> 대신</p>
+        <p class="ex-new">힘이나 시간을 적게 들이고도 할 일을 다 해내는</p>
+      </div>
+      <div class="ex-card">
+        <p class="ex-word">rate</p>
+        <p class="ex-old"><s>비율</s> 대신</p>
+        <p class="ex-new">1분·하루·한 개처럼 한 칸마다 얼마인지 재는 정도</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="design" class="rise">
+  <div class="col">
+    <h2>오래 남도록 설계했어요</h2>
+    <div class="why">
+      <details class="fold"><summary><span><b>잊을 때쯤 다시</b><small>1·3·7·14일 뒤 다시 나와요</small></span></summary><div class="fold-in"><p>맞힌 단어는 1일, 3일, 7일, 14일 뒤에 다시 나와요. 틀린 단어는 다음 날 또 만나요.</p></div></details>
+      <details class="fold"><summary><span><b>직접 떠올리기</b><small>읽지 않고 꺼내 봐요</small></span></summary><div class="fold-in"><p>다시 읽을 때보다 직접 떠올릴 때 더 오래 남아요. 카드를 본 뒤에도, 놀이 중에도 문제로 꺼내 봐요.</p></div></details>
+      <details class="fold"><summary><span><b>헷갈리는 말까지</b><small>rate와 ratio도 따로</small></span></summary><div class="fold-in"><p>rate와 ratio처럼 비슷한 말, 두 번째 뜻까지 따로 물어봐요. 며칠에 걸쳐 여러 상황에서 모두 맞혀야 «이해 도장»을 받아요.</p></div></details>
+      <details class="fold"><summary><span><b>그림·소리·예문</b><small>뜻·예문·발음이 함께</small></span></summary><div class="fold-in"><p>단어마다 쉬운 뜻, 예문과 해석, 발음이 있고 많은 단어에 그림도 있어요.</p></div></details>
+      <details class="fold"><summary><span><b>내 레벨에서 시작</b><small>레벨 테스트로 시작점을 찾아요</small></span></summary><div class="fold-in"><p>처음에 레벨 테스트로 지금 수준을 찾아 거기서 시작해요.</p></div></details>
+    </div>
+  </div>
+</section>
+
+<section id="levels" class="rise">
+  <div class="col">
+    <h2>레벨 안내</h2>
+    <ul class="lv">
+      <li><b>레벨 1~3</b><span>중학교~고1</span></li>
+      <li><b>레벨 4~6</b><span>고2~고3</span></li>
+      <li><b>레벨 7~9</b><span>토플 72~120점</span></li>
+    </ul>
+    <details class="fold">
+      <summary>레벨 안내 보기</summary>
+      <div class="fold-in">
+        <table class="levels">
+          <tr><th scope="row">레벨 1~3</th><td>중학교 ~ 고1 공통영어 수준</td></tr>
+          <tr><th scope="row">레벨 4~6</th><td>고2~3 영어Ⅰ·영어Ⅱ 수준 (수능 영어의 바탕 과목대)</td></tr>
+          <tr><th scope="row">레벨 7~9</th><td>토플 72~120점 수준</td></tr>
+        </table>
+        <p class="note">레벨 1~6은 교육부 기본 어휘를 바탕으로, 단계마다 눈에 보이는 말에서 생각을 나타내는 말 순서로 나눴어요. 점수대는 단어 수준을 가늠하는 기준이며, 시험 점수를 약속하지 않아요. 토플은 120점 만점 기준이에요. 2026년부터 쓰는 새 6단계 점수로는 4~6점이에요.</p>
+        <p class="src">기준 출처: 교육부 고시 제2022-33호 영어과 교육과정 기본 어휘 지침 · 한국교육과정평가원 수능 영어 출제 안내 · ETS TOEFL iBT의 CEFR 대응표(레벨 7~9 = CEFR B2·C1·C2)</p>
+      </div>
+    </details>
+  </div>
+</section>
+
+<section id="go" class="rise">
+  <div class="col">
+    <div class="beta">
+      <h2>먼저 해 보고 정하세요</h2>
+      <div class="go">
+        <a id="go2" class="btn" href="/play/">설치 없이 3분 해 보기</a>
+        <a class="btn btn-soft dev dev-and" href="https://play.google.com/apps/testing/com.ourprojectdao.kidsenglishapp" rel="noopener">안드로이드 앱으로 받기</a>
+      </div>
+      <div id="join" class="join">
+        <p class="jios">아이폰은 곧 열려요 · 이메일을 남겨 주시면 열리는 날 알려 드려요</p>
+        <p class="perk"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="8" width="18" height="5" rx="1"/><path d="M5 13v8h14v-8M12 8v13M12 8S10.5 3 8 4s.5 4 4 4M12 8s1.5-5 4-4-.5 4-4 4"/></svg>베타 참여 감사 선물로 한정 꾸미기를 드려요</p>
+        <form id="jf" class="jf" novalidate>
+          <div class="jrow">
+            <label class="sr" for="je">이메일 주소</label>
+            <input id="je" name="email" type="email" inputmode="email" autocomplete="email" autocapitalize="off" spellcheck="false" enterkeyhint="send" maxlength="254" placeholder="이메일 주소" required>
+            <button id="jb" class="btn btn-soft jbtn" type="submit">소식 받기</button>
+          </div>
+          <div class="trap" aria-hidden="true"><label for="jw">웹사이트</label><input id="jw" name="website" type="text" tabindex="-1" autocomplete="off"></div>
+          <p id="jerr" class="jerr" role="alert"></p>
+          <p class="jfine">‘소식 받기’를 누르면 하이빵용 새 소식(베타·출시·이벤트) 메일 받기와 <a href="privacy">개인정보 처리방침</a>에 동의해요. 언제든 그만 받을 수 있어요.</p>
+        </form>
+        <p id="jdone" class="jdone" hidden tabindex="-1">신청 완료! 아이폰이 열리면 이 이메일로 링크를 보내 드려요. 안드로이드는 지금 바로 해 볼 수 있어요.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="faq">
+  <div class="col">
+    <h2>자주 묻는 것</h2>
+    <div class="faq">
+      <details class="fold"><summary>하이빵용은 어떤 게임이에요?</summary><div class="fold-in"><p>하이빵용은 빵나라에서 꼬마 용 빵용이와 낚시, 벌목, 농사, 방 꾸미기를 하며 영어 단어를 익히는 힐링 게임 앱이에요. 맞는 영어 단어를 골라야 놀이가 진행되고, 단어마다 쉬운 우리말 뜻풀이가 붙어요. 한 단어를 여러 상황에서 1일·3일·7일·14일 간격으로 다시 만나서 오래 남아요.</p></div></details>
+      <details class="fold"><summary>다른 영어 단어 앱과 뭐가 달라요?</summary><div class="fold-in"><p>외우는 대신 쉬운 우리말로 먼저 이해해요. 낚시·벌목 같은 놀이 조작이 곧 복습 문제라서, 놀다 보면 복습이 끝나 있어요. 틀려도 감점은 없고, 틀린 단어는 다음 날 다시 만나요.</p></div></details>
+      <details class="fold"><summary>언제, 어디서 받을 수 있어요?</summary><div class="fold-in"><p>안드로이드는 지금 구글 플레이 공개 테스트로 바로 받을 수 있어요. 아이폰은 곧 열려요. 소식 받기를 해 두시면 열리는 날 알려 드려요.</p></div></details>
+      <details class="fold"><summary>내 영어 실력을 몰라도 시작할 수 있어요?</summary><div class="fold-in"><p>네. 처음 공부할 때 20문제를 풀면 지금 수준에 맞는 레벨을 찾아 거기서 시작해요.</p></div></details>
+      <details class="fold"><summary>수능이나 토플 공부에도 도움이 돼요?</summary><div class="fold-in"><p>레벨 1~6은 중학교~고3 교육과정 단어, 레벨 7~9는 토플 72~120점 수준의 단어예요. 단어 수준을 맞춘 것이고, 시험 점수를 약속하지는 않아요.</p></div></details>
+      <details class="fold"><summary>하루에 얼마나 하면 돼요?</summary><div class="fold-in"><p>배우기 한 판은 10~15분 정도예요. 공부로 받은 빵을 빵용이에게 먹이면, 그 힘으로 낚시나 벌목 같은 놀이를 더 즐길 수 있어요.</p></div></details>
+      <details class="fold"><summary>내 정보는 어떻게 다뤄요?</summary><div class="fold-in"><p>무엇을 왜 모으는지 <a href="privacy">개인정보처리방침</a>에 적어 두었어요. 계정 삭제는 아래 <a href="delete">«계정 삭제 요청»</a>에서 할 수 있어요.</p></div></details>
+    </div>
+  </div>
+</section>
+
+<section id="maker">
+  <div class="col">
+    <h2>만드는 사람</h2>
+    <p class="lead">하이빵용은 에스에스일레븐이 만들어요. 영어 단어를 외우는 대신 뜻을 이해하고, 놀다 보니 자연스럽게 남는 경험을 만들고 싶었어요. 빵나라 이야기와 놀이는 플레이하는 분들의 의견을 들으며 함께 키워 가려고 해요.</p>
+    <div id="en" lang="en">
+    <h2>English</h2>
+    <p class="lead"><b>Hi! Bbangyong</b> is a cozy mobile game where English words stick while you play. Fish, chop trees and decorate your room with Bbangyong, a little blue bread dragon. Every word comes with a plain-Korean explanation, and the right word is the key to every move. Korean interface. Beta coming soon on Android and iOS.</p>
+    </div>
+  </div>
+</section>
+</main>
+
+<footer>
+  <div class="col foot">
+    <div class="foot-brand"><img src="img/icon-256.webp" alt="" width="256" height="256" loading="lazy"><b>하이빵용</b></div>
+    <nav class="sns" aria-label="SNS">
+      <a href="https://www.instagram.com/hibbangyong/" rel="noopener">인스타그램</a>
+      <a href="https://www.youtube.com/@hibbangyong" rel="noopener">유튜브</a>
+      <a href="https://www.tiktok.com/@hibbangyong" rel="noopener">틱톡</a>
+      <a href="https://www.threads.com/@hibbangyong" rel="noopener">스레드</a>
+      <a href="https://blog.naver.com/hibbanggyong" rel="noopener">블로그</a>
+    </nav>
+    <div class="foot-cols">
+      <nav aria-label="안내">
+        <a href="privacy">개인정보처리방침</a>
+        <a href="terms">이용약관</a>
+        <a href="delete">계정 삭제 요청</a>
+      </nav>
+      <div class="biz">
+        <p>상호 에스에스일레븐</p>
+        <p>사업자등록번호 223-12-94953</p>
+        <p>개인정보 보호책임자 정상</p>
+        <p>문의 <a class="mail" href="mailto:help@hibbangyong.com">help@hibbangyong.com</a></p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<a id="jbar" class="jbar" href="/play/" aria-hidden="true" tabindex="-1">설치 없이 3분 해 보기</a>
+<script>
+(function(){
+  var URL_ = 'https://nvokkscghiqlohwbujso.supabase.co/rest/v1/rpc/beta_signup';
+  var KEY = 'sb_publishable_f4Ax5r5859lJ-JcC_ffJeQ_fDVdiaLv';
+  var VER = 'v1-2610';
+  var join = document.getElementById('join'), f = document.getElementById('jf'), em = document.getElementById('je');
+  var bt = document.getElementById('jb'), err = document.getElementById('jerr'), done = document.getElementById('jdone');
+  var bar = document.getElementById('jbar'), trap = document.getElementById('jw');
+  var EMAIL = /^[^@\s]+@[^@\s]+\.[^@\s]+$/;
+  var busy = false, joined = false;
+  var src = 'direct';
+  try { src = ((new URLSearchParams(location.search).get('utm_source') || '').toLowerCase().replace(/[^a-z0-9._-]/g, '').slice(0, 64)) || 'direct'; } catch (e) {}
+  try { joined = localStorage.getItem('hb_joined') === '1'; } catch (e) {}
+  var reduce = window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches;
+  function bad(t){ err.textContent = t; em.setAttribute('aria-invalid', t ? 'true' : 'false'); }
+  function finish(){
+    f.hidden = true; done.hidden = false; joined = true;
+    try { localStorage.setItem('hb_joined', '1'); } catch (e) {}
+    done.focus({ preventScroll: true });
+  }
+  function release(){ busy = false; bt.disabled = false; bt.textContent = '소식 받기'; }
+  em.addEventListener('input', function(){ if (err.textContent) bad(''); });
+  f.addEventListener('submit', function(ev){
+    ev.preventDefault();
+    if (busy) return;
+    var email = em.value.trim().toLowerCase();
+    if (!EMAIL.test(email) || email.length > 254) { bad('이메일 주소를 다시 확인해 주세요.'); em.focus(); return; }
+    bad(''); busy = true; bt.disabled = true; bt.textContent = '보내는 중…';
+    if (trap.value) { setTimeout(finish, 600); return; }
+    fetch(URL_, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', 'apikey': KEY },
+      body: JSON.stringify({ p_email: email, p_source: src, p_consent_ver: VER })
+    }).then(function(r){ if (!r.ok) throw new Error(String(r.status)); return r.json(); })
+      .then(function(v){
+        if (v === 'ok' || v === 'already') { finish(); return; }
+        release(); bad('이메일 주소를 다시 확인해 주세요.'); em.focus();
+      })
+      .catch(function(){
+        bad('지금은 신청이 안 돼요. 잠시 뒤 다시 해 주세요.'); bt.textContent = '소식 받기';
+        setTimeout(release, 3000);
+      });
+  });
+  Array.prototype.forEach.call(document.querySelectorAll('[data-join]'), function(a){
+    a.addEventListener('click', function(ev){
+      ev.preventDefault();
+      if (joined && !done.hidden) { done.scrollIntoView({ behavior: reduce ? 'auto' : 'smooth', block: 'center' }); return; }
+      em.focus({ preventScroll: true });
+      join.scrollIntoView({ behavior: reduce ? 'auto' : 'smooth', block: 'center' });
+    });
+  });
+
+  // 아래 띠 = 첫 화면 단추를 지나면 켜고, 두 번째 행동 칸이 보이면 끈다
+  var io = 'IntersectionObserver' in window;
+  if (io) {
+    var past = false, near = false;
+    var paint = function(){ var on = past && !near; bar.classList.toggle('on', on); document.body.classList.toggle('has-bar', on); bar.setAttribute('aria-hidden', on ? 'false' : 'true'); bar.tabIndex = on ? 0 : -1; };
+    new IntersectionObserver(function(es){ var e = es[0]; past = !e.isIntersecting && e.boundingClientRect.top < 0; paint(); }).observe(document.getElementById('go1'));
+    new IntersectionObserver(function(es){ near = es[0].isIntersecting; paint(); }).observe(document.getElementById('go'));
+    // 내릴 때 칸이 살짝 떠오름(한 번만)
+    var rise = new IntersectionObserver(function(es){ es.forEach(function(e){ if (e.isIntersecting) { e.target.classList.add('in'); rise.unobserve(e.target); } }); }, { rootMargin: '0px 0px -8% 0px' });
+    Array.prototype.forEach.call(document.querySelectorAll('.rise'), function(s){ rise.observe(s); });
+    // 안전망 = 관찰이 안 오는 브라우저에서도 글이 숨은 채 남지 않게(내릴 때 직접 잰다)
+    var sweep = function(){ var left = document.querySelectorAll('.rise:not(.in)'); if (!left.length) { window.removeEventListener('scroll', sweep); return; } Array.prototype.forEach.call(left, function(s){ if (s.getBoundingClientRect().top < innerHeight * 0.95) s.classList.add('in'); }); };
+    window.addEventListener('scroll', sweep, { passive: true }); sweep();
+  } else {
+    Array.prototype.forEach.call(document.querySelectorAll('.rise'), function(s){ s.classList.add('in'); });
+  }
+
+  // 화면 여섯 장 점
+  var shots = document.getElementById('shots'), dots = document.getElementById('dots').children;
+  shots.addEventListener('scroll', function(){
+    var fig = shots.children, mid = shots.scrollLeft + shots.clientWidth / 2, best = 0, bd = 1e9;
+    for (var i = 0; i < fig.length; i++) { var c = fig[i].offsetLeft + fig[i].offsetWidth / 2, d = Math.abs(c - mid); if (d < bd) { bd = d; best = i; } }
+    for (var j = 0; j < dots.length; j++) dots[j].classList.toggle('on', j === best);
+  }, { passive: true });
+
+  // 첫 화면 영상 = 글·단추가 선 뒤에 읽는다(정지 그림 먼저 · 움직임 줄이기·데이터 아끼기면 정지 그림 그대로)
+  var hv = document.getElementById('hv');
+  var save = navigator.connection && navigator.connection.saveData;
+  function startVideo(){
+    if (reduce || save || !hv) return;
+    Array.prototype.forEach.call(hv.querySelectorAll('source'), function(s){ s.src = s.getAttribute('data-src'); });
+    hv.load();
+    var p = hv.play(); if (p && p.catch) p.catch(function(){});
+  }
+  function later(){ (window.requestIdleCallback || function(cb){ setTimeout(cb, 200); })(startVideo); }
+  document.addEventListener('visibilitychange', function(){ if (!document.hidden && hv && hv.currentSrc && hv.paused) { var p = hv.play(); if (p && p.catch) p.catch(function(){}); } });
+  if (document.readyState === 'complete') later(); else window.addEventListener('load', later);
+})();
+</script>
+</body>
+</html>
