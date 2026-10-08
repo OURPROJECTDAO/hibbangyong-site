@@ -99,11 +99,12 @@ section+section{border-top:1px solid var(--line)}
 /* 뜻풀이 */
 .ex{display:flex;gap:.9rem;overflow-x:auto;scroll-snap-type:x mandatory;padding:.3rem 16px 1rem;margin:0 -16px;scrollbar-width:none}
 .ex::-webkit-scrollbar{display:none}
-.ex-card{flex:0 0 86%;scroll-snap-align:center;background:var(--card);border:1px solid var(--line);border-radius:1.2rem;padding:1.2rem 1.25rem;box-shadow:var(--shadow)}
+.ex-card{flex:0 0 86%;scroll-snap-align:center;word-break:keep-all;overflow-wrap:normal;background:var(--card);border:1px solid var(--line);border-radius:1.2rem;padding:1.2rem 1.25rem;box-shadow:var(--shadow)}
 .ex-word{font-family:"Jua",sans-serif;font-size:1.9rem;line-height:1.2;margin:0}
 .ex-old{color:var(--ink2);margin:.2rem 0 .5rem}
 .ex-old s{text-decoration-thickness:2px}
-.ex-new{background:var(--pink);color:var(--pink-ink);border-radius:.7rem;padding:.6rem .8rem;margin:0;font-weight:600}
+.nw{white-space:nowrap}
+.ex-new{background:var(--pink);color:var(--pink-ink);border-radius:.7rem;padding:.6rem .8rem;margin:0;font-weight:600;text-wrap:balance}
 
 /* 오래 남는 이유 · 접힘 */
 .why{display:grid;gap:.6rem}
@@ -360,13 +361,13 @@ body.has-bar footer{padding-bottom:calc(3.25rem + 28px + env(safe-area-inset-bot
     <div class="ex" tabindex="0" role="group" aria-label="뜻풀이 보기 두 장">
       <div class="ex-card">
         <p class="ex-word">efficient</p>
-        <p class="ex-old"><s>효율적인</s> 대신</p>
-        <p class="ex-new">힘이나 시간을 적게 들이고도 할 일을 다 해내는</p>
+        <p class="ex-old"><s>효율적인</s></p>
+        <p class="ex-new">힘이나 시간을 적게 들이고도 <span class="nw">할 일을 다</span> 해내는</p>
       </div>
       <div class="ex-card">
         <p class="ex-word">rate</p>
-        <p class="ex-old"><s>비율</s> 대신</p>
-        <p class="ex-new">1분·하루·한 개처럼 한 칸마다 얼마인지 재는 정도</p>
+        <p class="ex-old"><s>비율</s></p>
+        <p class="ex-new"><span class="nw">1분·하루·한 개처럼</span> <span class="nw">한 칸마다</span> 얼마인지 재는 정도</p>
       </div>
     </div>
   </div>
