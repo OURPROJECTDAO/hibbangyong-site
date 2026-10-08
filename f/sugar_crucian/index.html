@@ -39,6 +39,7 @@ img.card{width:100%;max-width:26rem;height:auto;border-radius:1.4rem;box-shadow:
 <h1>친구가 물 확률 6%의 설탕붕어를 잡았어요. 너는?</h1>
 <img class="card" src="/f/sugar_crucian/card.png" alt="설탕붕어 · 물 확률 6%" width="1080" height="1080">
 <p id="size" class="size"></p>
+<p id="times" class="size"></p>
 <p class="desc">코랄·크림빛 몸에 고운 설탕이 반짝이며 빛나는 물고기. 빵나라에서 가장 귀여울지도?</p>
 <a id="go" class="go" href="/play/">나도 3분 해 보기</a>
 <a class="home" href="/">하이빵용</a>
@@ -48,6 +49,8 @@ img.card{width:100%;max-width:26rem;height:auto;border-radius:1.4rem;box-shadow:
   var q = new URLSearchParams(location.search);
   var s = (q.get('s') || '').replace(/[^0-9.]/g, '').slice(0, 5);
   var g = (q.get('g') || '').replace(/[^0-9]/g, '').slice(0, 7);
+  var tl = (q.get('lt') || '').replace(/[^0-9]/g, '').slice(0, 4), tc = (q.get('ct') || '').replace(/[^0-9]/g, '').slice(0, 4), tt = ["벌목 {n}초", "포획 {n}초"];
+  document.getElementById('times').textContent = [tl ? tt[0].replace('{n}', tl) : '', tc ? tt[1].replace('{n}', tc) : ''].filter(Boolean).join(' · ');
   if (s && !isNaN(parseFloat(s))) document.getElementById('size').textContent = "{cm}cm · 최대 {max}cm · 총 가치 {g}골드".replace('{cm}', s).replace('{max}', "10").replace(g ? '{g}' : ' · 총 가치 {g}골드', g);
   var r = (q.get('r') || '').replace(/[^A-Za-z0-9_-]/g, '').slice(0, 32);
   var via = q.get('via') || '';
