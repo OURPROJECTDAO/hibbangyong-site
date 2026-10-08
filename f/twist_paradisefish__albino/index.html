@@ -82,6 +82,12 @@ img.card{width:100%;max-width:26rem;height:auto;border-radius:1.4rem;box-shadow:
   var cup = (q.get('cup') || '').toUpperCase().replace(/[^A-HJ-NP-Z2-9]/g, '').slice(0, 8);
   if (cup.length === 8) go.set('cup', cup);
   if (go.toString()) document.getElementById('go').href = '/play/?' + go.toString();
+  var ok = 'web', rules = [["kakao", "KAKAOTALK"], ["insta", "Instagram"], ["fb", "FBAN|FBAV|FB_IAB"], ["naver", "NAVER\\(inapp"]];
+  for (var i = 0; i < rules.length; i++) { if (new RegExp(rules[i][1], 'i').test(navigator.userAgent || '')) { ok = rules[i][0]; break; } }
+  var oc = '/c/o/f/' + (via || 'x') + '/' + ok + '/';
+  var seen = false;
+  try { seen = sessionStorage.getItem('hbb-o' + location.pathname) === oc; sessionStorage.setItem('hbb-o' + location.pathname, oc); } catch (e) {}
+  if (!seen) { var of = document.createElement('iframe'); of.src = oc; of.hidden = true; of.tabIndex = -1; of.setAttribute('aria-hidden', 'true'); of.style.display = 'none'; document.body.appendChild(of); }
   if (!hop) return;
   var c = '/c/f/' + (via || 'x') + '/' + Math.min(3, hop) + '/';
   try { if (sessionStorage.getItem('hbb-c' + location.pathname) === c) return; sessionStorage.setItem('hbb-c' + location.pathname, c); } catch (e) {}
