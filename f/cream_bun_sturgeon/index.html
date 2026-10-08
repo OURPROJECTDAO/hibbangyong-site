@@ -79,6 +79,8 @@ img.card{width:100%;max-width:26rem;height:auto;border-radius:1.4rem;box-shadow:
   if (r) go.set('r', r);
   var rc = (q.get('rec') || '').replace(/[^a-z0-9_.~]/g, '').slice(0, 120);
   if (rc) go.set('rec', rc);
+  var cup = (q.get('cup') || '').toUpperCase().replace(/[^A-HJ-NP-Z2-9]/g, '').slice(0, 8);
+  if (cup.length === 8) go.set('cup', cup);
   if (go.toString()) document.getElementById('go').href = '/play/?' + go.toString();
   if (!hop) return;
   var c = '/c/f/' + (via || 'x') + '/' + Math.min(3, hop) + '/';
