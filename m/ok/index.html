@@ -33,7 +33,7 @@ a{color:#6B6455}
   b.addEventListener('click', function () {
     b.disabled = true;
     var show = function (k) { var d = {"ok": ["확인됐어요", "곧 내 유형 생존 영어 카드를 메일로 보내 드릴게요."], "already": ["이미 확인됐어요", "메일은 그대로 이어서 보내 드려요."], "unsub": ["수신거부된 주소예요", "다시 받으시려면 체험판에서 새로 신청해 주세요."], "invalid": ["링크를 확인할 수 없어요", "메일의 링크를 다시 눌러 주세요."], "error": ["잠시 뒤 다시 눌러 주세요", "지금은 처리할 수 없어요."]}[k] || {"ok": ["확인됐어요", "곧 내 유형 생존 영어 카드를 메일로 보내 드릴게요."], "already": ["이미 확인됐어요", "메일은 그대로 이어서 보내 드려요."], "unsub": ["수신거부된 주소예요", "다시 받으시려면 체험판에서 새로 신청해 주세요."], "invalid": ["링크를 확인할 수 없어요", "메일의 링크를 다시 눌러 주세요."], "error": ["잠시 뒤 다시 눌러 주세요", "지금은 처리할 수 없어요."]}.error; document.getElementById('h').textContent = d[0]; document.getElementById('p').textContent = d[1]; b.hidden = true; };
-    fetch("https://nvokkscghiqlohwbujso.supabase.co/functions/v1/trial-mail", { method: 'POST', headers: { 'Content-Type': 'application/json', apikey: "sb_publishable_f4Ax5r5859lJ-JcC_ffJeQ_fDVdiaLv" }, body: JSON.stringify({ confirm: t }) })
+    fetch("https://nvokkscghiqlohwbujso.supabase.co/functions/v1/trial-mail", { method: 'POST', headers: { 'Content-Type': 'application/json', apikey: "sb_publishable_f4Ax5r5859lJ-JcC_ffJeQ_fDVdiaLv" }, body: JSON.stringify("confirm" === 'unsub' ? { unsub: t } : { confirm: t }) })
       .then(function (r) { return r.ok ? r.json() : null; })
       .then(function (j) { show(j && j.r ? j.r : 'error'); })
       ['catch'](function () { b.disabled = false; show('error'); b.hidden = false; });
