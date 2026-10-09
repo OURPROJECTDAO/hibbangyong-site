@@ -57,6 +57,8 @@ img.card{width:100%;max-width:26rem;height:auto;border-radius:1.4rem;box-shadow:
   if (r) go.set('r', r);
   var rc = (q.get('rec') || '').replace(/[^a-z0-9_.~]/g, '').slice(0, 120);
   if (rc) go.set('rec', rc);
+  var pk = q.get('pk') || '';
+  if (/^[a-z0-9]{12}$/.test(pk)) go.set('pk', pk);
   document.getElementById('go').href = '/play/?' + go.toString();
   var ok = 'web', rules = [["kakao", "KAKAOTALK"], ["insta", "Instagram"], ["fb", "FBAN|FBAV|FB_IAB"], ["naver", "NAVER\\(inapp"]];
   for (var i = 0; i < rules.length; i++) { if (new RegExp(rules[i][1], 'i').test(navigator.userAgent || '')) { ok = rules[i][0]; break; } }
