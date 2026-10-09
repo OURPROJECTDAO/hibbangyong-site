@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex">
+<title>메일 받기 확인 · 하이빵용</title>
+<link rel="icon" type="image/png" href="/img/favicon.png">
+<style>
+*{box-sizing:border-box}
+html,body{margin:0;background:#FBF7E3;color:#4a3624;font-family:-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Noto Sans KR","Malgun Gothic",sans-serif;line-height:1.6;word-break:keep-all}
+main{max-width:30rem;margin:0 auto;padding:max(2rem,env(safe-area-inset-top)) 16px 2rem;display:flex;flex-direction:column;align-items:center;gap:1rem;min-height:100vh;min-height:100svh;justify-content:center;text-align:center}
+h1{font-size:1.4rem;margin:0}
+p{margin:0;color:#6B6455}
+button{display:flex;width:100%;max-width:24rem;align-items:center;justify-content:center;min-height:3.25rem;border:0;border-radius:999px;background:#1D495D;color:#fff;font-weight:700;font-size:1.1rem;cursor:pointer}
+button[disabled]{opacity:.6}
+button[hidden]{display:none}
+a{color:#6B6455}
+</style>
+</head>
+<body>
+<main>
+<h1 id="h">내 유형 생존 영어 카드 받기</h1>
+<p id="p">아래 단추를 누르시면 빵나라 소식과 내 수준 단어 꿀팁 메일이 시작돼요. 직접 신청하지 않으셨다면 이 창을 닫으시면 돼요.</p>
+<button id="b" type="button">카드 받기 확인</button>
+<a href="/">하이빵용</a>
+</main>
+<script>
+(function(){
+  var t = (new URLSearchParams(location.search).get('t') || '').toLowerCase();
+  var b = document.getElementById('b');
+  if (!/^[a-f0-9]{32}$/.test(t)) { b.hidden = true; document.getElementById('h').textContent = {"ok": ["확인됐어요", "곧 내 유형 생존 영어 카드를 메일로 보내 드릴게요."], "already": ["이미 확인됐어요", "메일은 그대로 이어서 보내 드려요."], "unsub": ["수신거부된 주소예요", "다시 받으시려면 체험판에서 새로 신청해 주세요."], "invalid": ["링크를 확인할 수 없어요", "메일의 링크를 다시 눌러 주세요."], "error": ["잠시 뒤 다시 눌러 주세요", "지금은 처리할 수 없어요."]}.invalid[0]; document.getElementById('p').textContent = {"ok": ["확인됐어요", "곧 내 유형 생존 영어 카드를 메일로 보내 드릴게요."], "already": ["이미 확인됐어요", "메일은 그대로 이어서 보내 드려요."], "unsub": ["수신거부된 주소예요", "다시 받으시려면 체험판에서 새로 신청해 주세요."], "invalid": ["링크를 확인할 수 없어요", "메일의 링크를 다시 눌러 주세요."], "error": ["잠시 뒤 다시 눌러 주세요", "지금은 처리할 수 없어요."]}.invalid[1]; return; }
+  b.addEventListener('click', function () {
+    b.disabled = true;
+    var show = function (k) { var d = {"ok": ["확인됐어요", "곧 내 유형 생존 영어 카드를 메일로 보내 드릴게요."], "already": ["이미 확인됐어요", "메일은 그대로 이어서 보내 드려요."], "unsub": ["수신거부된 주소예요", "다시 받으시려면 체험판에서 새로 신청해 주세요."], "invalid": ["링크를 확인할 수 없어요", "메일의 링크를 다시 눌러 주세요."], "error": ["잠시 뒤 다시 눌러 주세요", "지금은 처리할 수 없어요."]}[k] || {"ok": ["확인됐어요", "곧 내 유형 생존 영어 카드를 메일로 보내 드릴게요."], "already": ["이미 확인됐어요", "메일은 그대로 이어서 보내 드려요."], "unsub": ["수신거부된 주소예요", "다시 받으시려면 체험판에서 새로 신청해 주세요."], "invalid": ["링크를 확인할 수 없어요", "메일의 링크를 다시 눌러 주세요."], "error": ["잠시 뒤 다시 눌러 주세요", "지금은 처리할 수 없어요."]}.error; document.getElementById('h').textContent = d[0]; document.getElementById('p').textContent = d[1]; b.hidden = true; };
+    fetch("https://nvokkscghiqlohwbujso.supabase.co/functions/v1/trial-mail", { method: 'POST', headers: { 'Content-Type': 'application/json', apikey: "sb_publishable_f4Ax5r5859lJ-JcC_ffJeQ_fDVdiaLv" }, body: JSON.stringify({ confirm: t }) })
+      .then(function (r) { return r.ok ? r.json() : null; })
+      .then(function (j) { show(j && j.r ? j.r : 'error'); })
+      ['catch'](function () { b.disabled = false; show('error'); b.hidden = false; });
+  });
+})();
+</script>
+</body>
+</html>
