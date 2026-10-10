@@ -80,7 +80,7 @@ img.card{width:100%;max-width:26rem;height:auto;border-radius:1.4rem;box-shadow:
   var go = new URLSearchParams();
   go.set('pt', 'W3R3A1');
   var via = q.get('via') || '';
-  if (["kakao", "share", "qr", "copy"].indexOf(via) < 0) via = '';
+  if (["kakao", "share", "qr", "copy", "pair", "save"].indexOf(via) < 0) via = '';
   var h = q.get('hop') || '';
   var hop = /^[0-9]{1,2}$/.test(h) && +h >= 1 ? +h : 0;
   if (via) go.set('via', via);
@@ -92,6 +92,8 @@ img.card{width:100%;max-width:26rem;height:auto;border-radius:1.4rem;box-shadow:
   var pk = q.get('pk') || '';
   if (/^[a-z0-9]{12}$/.test(pk)) go.set('pk', pk);
   // 🏷️🔗5차 🔴4②·8 = 보낸 사람 카드 값(c → pc)·이름(n → pn)을 «나도 3분»에 실음 → 친구가 되보낼 궁합 링크에 두 사람 결과(engine/trial-pair-link)
+  // 📈6차 ② 1·2·9 = 보낸 사람 표(sd)·뿌리 채널(ru)·광고·채널 링크 utm·클릭 종류·시험(t=1)을 «나도 3분»에 그대로(꼴은 앱이 거름 · engine/trial-track)
+  ['sd', 'ru', 'utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'gclid', 'fbclid', 'ttclid', 't'].forEach(function (k) { var v = q.get(k); if (v && v.length <= 280) go.set(k, v); });
   var pc = q.get('c') || '';
   if (pc.length <= 80 && /^[0-9_.-]+$/.test(pc)) go.set('pc', pc);
   var nk = (q.get('n') || '').replace(/~/g, '').trim();
@@ -145,7 +147,7 @@ img.card{width:100%;max-width:26rem;height:auto;border-radius:1.4rem;box-shadow:
     document.getElementById('tc').hidden = false;
     document.getElementById('og').hidden = true;
   }
-  var ok = 'web', rules = [["kakao", "KAKAOTALK"], ["insta", "Instagram"], ["fb", "FBAN|FBAV|FB_IAB"], ["naver", "NAVER\\(inapp"]];
+  var ok = 'web', rules = [["kakao", "KAKAOTALK"], ["threads", "Barcelona"], ["insta", "Instagram"], ["fb", "FBAN|FBAV|FB_IAB"], ["naver", "NAVER\\(inapp"], ["youtube", "com\\.google\\.android\\.youtube|YouTube"], ["tiktok", "musical_ly|BytedanceWebview|TikTok"], ["x", "Twitter"], ["line", " Line/"]];
   for (var i = 0; i < rules.length; i++) { if (new RegExp(rules[i][1], 'i').test(navigator.userAgent || '')) { ok = rules[i][0]; break; } }
   var oc = '/c/o/t/' + (via || 'x') + '/' + ok + '/';
   var seen = false;
