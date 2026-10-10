@@ -48,7 +48,7 @@ img.card{width:100%;max-width:26rem;height:auto;border-radius:1.4rem;box-shadow:
   var go = new URLSearchParams();
   go.set('pt', 'W3R3A3');
   var via = q.get('via') || '';
-  if (["kakao", "share", "qr"].indexOf(via) < 0) via = '';
+  if (["kakao", "share", "qr", "copy"].indexOf(via) < 0) via = '';
   var h = q.get('hop') || '';
   var hop = /^[0-9]{1,2}$/.test(h) && +h >= 1 ? +h : 0;
   if (via) go.set('via', via);
