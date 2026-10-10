@@ -95,7 +95,11 @@ img.card{width:100%;max-width:26rem;height:auto;border-radius:1.4rem;box-shadow:
   var pc = q.get('c') || '';
   if (pc.length <= 80 && /^[0-9_.-]+$/.test(pc)) go.set('pc', pc);
   var nk = (q.get('n') || '').replace(/~/g, '').trim();
-  if (nk && Array.from(nk).length >= 2 && Array.from(nk).length <= 8) { go.set('pn', nk); var who = document.getElementById('tc-who'); who.textContent = nk; who.hidden = false; }
+  // 🔒받는 쪽 이름 거르기(앱 engine/trial-pair-link linkNick 같은 꼴 · 서버 부름 0) — 2~8 글자 ＋ 허용 글자 ＋ 연락처 꼴 0 · 걸리면 «친구»
+  var nkc = (nk || '').normalize('NFKC').toLowerCase();
+  var nkBad = /(https?:[/][/]|www[.])/.test(nkc) || /[a-z0-9-]+[.](com|net|org|kr|io|me|gg|co|ly|link|xyz|app|tv)($|[^a-z])/.test(nkc) || /[a-z0-9._%+-]+@[a-z0-9-]+[.][a-z]/.test(nkc) || /[0-9]{8}/.test(nkc.replace(/[ .-]/g, ''));
+  if (nk && (Array.from(nk).length < 2 || Array.from(nk).length > 8 || !/^[가-힣ㄱ-ㅎㅏ-ㅣA-Za-z0-9 #_.-]+$/.test(nk) || nkBad)) nk = '친구';   // = 앱 PLAY_COPY_V3.nickFallback(자 trial-pair-link ⑤)
+  if (nk) { go.set('pn', nk); var who = document.getElementById('tc-who'); who.textContent = nk; who.hidden = false; }
   document.getElementById('go').href = '/play/?' + go.toString();
   var T = {"label": {"w": "아는 단어", "r": "순발력", "a": "대처력", "l": "운", "base": "기본"}, "names": {"w": ["초·중등", "고등", "토플 초입", "토플 상위"], "r": ["신중", "차분", "재빠름", "번개"], "a": ["차근차근", "침착", "척척", "즉시 해결"]}, "bands": ["표지판은 읽음", "메뉴판은 읽음", "입국 서류는 혼자 다 씀", "현지 뉴스 보며 웃음"], "rarity": ["커먼", "언커먼", "레어", "유니크", "에픽", "레전더리"], "sec": "{n}초", "top": "상위 {n}%", "weapon": "가장 센 무기: {label} {stage}", "surv": "해외 생존력", "odds": "100명 중 {n}명만 잡아요", "odds1000": "1000명 중 {n}명만 잡아요", "color": {"w": "#1D495D", "r": "#1d9e75", "a": "#C88A81", "l": "#D2A12A", "base": "#B9C6CF", "track": "#F3ECD2"}};
   /*card*/
