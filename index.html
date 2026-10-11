@@ -179,6 +179,12 @@ body.has-bar footer{padding-bottom:6rem}
 :root{--yel:#f7c531;--yel-ink:#3d2a0e}
 @media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--yel:#f5c23a;--yel-ink:#2a1d08}}
 :root[data-theme="dark"]{--yel:#f5c23a;--yel-ink:#2a1d08}
+.ap{text-align:center;padding:1.6rem 16px 1.8rem;border-bottom:1px solid var(--line)}
+.ap h2{font-family:"Jua",-apple-system,"Apple SD Gothic Neo","Malgun Gothic",sans-serif;font-weight:400;font-size:1.6rem;margin:0 0 .9rem;color:var(--ink)}
+.ap-v{position:relative;max-width:22rem;margin:0 auto;border-radius:18px;overflow:hidden;background:#000;aspect-ratio:9/16}
+.ap-v video{display:block;width:100%;height:100%;object-fit:cover}
+.ap-snd{position:absolute;right:.6rem;bottom:.6rem;border:0;border-radius:999px;padding:.45rem .9rem;font-size:.95rem;background:rgba(0,0,0,.6);color:#fff;cursor:pointer}
+.ap-note{color:var(--ink2);font-size:.95rem;margin:.9rem auto 0}
 .th{background:var(--bg2);border-bottom:1px solid var(--line);text-align:center;padding:max(1.7rem,env(safe-area-inset-top)) 16px 1.7rem}
 .th-q{font-family:"Jua",-apple-system,"Apple SD Gothic Neo","Malgun Gothic",sans-serif;font-weight:400;font-size:clamp(2.1rem,9vw,3rem);line-height:1.2;letter-spacing:-.01em;color:var(--ink);margin:0}
 .th-sub{color:var(--ink2);font-weight:600;font-size:1.05rem;margin:.4rem auto 0}
@@ -345,6 +351,16 @@ main #en .lead{font-size:1rem}
   <p class="th-pair">친구랑 하면 여행 궁합까지</p>
 </section>
 
+<section id="app" class="ap" aria-labelledby="ap-h">
+  <h2 id="ap-h">하이빵용은 이런 앱이에요</h2>
+  <div class="ap-v">
+    <video id="apv" src="/app-intro/intro.mp4" poster="/app-intro/intro_poster.webp" muted playsinline loop preload="metadata" aria-label="하이빵용 앱 소개 영상(39초)"></video>
+    <button id="aps" class="ap-snd" type="button">소리 켜기</button>
+  </div>
+  <p class="ap-note">베타 준비 중이에요 · 아래에서 소식을 받아 보세요</p>
+  <script>(function(){var v=document.getElementById('apv'),b=document.getElementById('aps');if(!v||!b)return;b.onclick=function(){v.muted=!v.muted;b.textContent=v.muted?'소리 켜기':'소리 끄기';if(v.paused){var p=v.play();if(p&&p.catch)p.catch(function(){})}};if('IntersectionObserver' in window){new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){var p=v.play();if(p&&p.catch)p.catch(function(){})}else{v.pause()}})},{threshold:.4}).observe(v)}})();</script>
+</section>
+
 <header class="hero">
   <div class="hero-in">
     <h1><img class="hero-logo" src="img/logo.webp" alt="" width="600" height="520"><span class="sr">하이빵용 — 영어 단어 힐링 게임</span></h1>
@@ -364,7 +380,7 @@ main #en .lead{font-size:1rem}
         <p id="jerr" class="jerr" role="alert"></p>
         <p class="jfine">‘소식 받기’를 누르면 하이빵용 새 소식(베타·출시·이벤트) 메일 받기와 <a href="privacy">개인정보 처리방침</a>에 동의해요. 언제든 그만 받을 수 있어요.</p>
       </form>
-      <p id="jdone" class="jdone" hidden tabindex="-1">신청 완료! 아이폰이 열리면 이 이메일로 링크를 보내 드려요. 안드로이드는 지금 바로 해 볼 수 있어요.</p>
+      <p id="jdone" class="jdone" hidden tabindex="-1">신청 완료! 앱이 열리면 이 이메일로 알려 드려요.</p>
     </div>
     <span class="soon">Google Play · App Store 곧 열려요</span>
   </div>
