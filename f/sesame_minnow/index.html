@@ -55,7 +55,7 @@ img.card{width:100%;max-width:26rem;height:auto;border-radius:1.4rem;box-shadow:
   var tl = (q.get('lt') || '').replace(/[^0-9]/g, '').slice(0, 4), tc = (q.get('ct') || '').replace(/[^0-9]/g, '').slice(0, 4), tt = ["벌목 {n}초", "포획 {n}초"];
   document.getElementById('times').textContent = [tl ? tt[0].replace('{n}', tl) : '', tc ? tt[1].replace('{n}', tc) : ''].filter(Boolean).join(' · ');
   if (s && !isNaN(parseFloat(s))) document.getElementById('size').textContent = "{cm}cm · 최대 {max}cm · 총 가치 {g}골드".replace('{cm}', s).replace('{max}', "8").replace(g ? '{g}' : ' · 총 가치 {g}골드', g);
-  var ch = {"url": "https://nvokkscghiqlohwbujso.supabase.co", "key": "sb_publishable_f4Ax5r5859lJ-JcC_ffJeQ_fDVdiaLv", "face": "sesame_minnow", "pctFrom": 20, "head": "참깨피라미를 잡았어요 · {cm}cm · {rank} — 깰 수 있어요?", "rankN": "오늘 {n}등", "rankPct": "오늘 상위 {n}%", "players": "오늘 {n}명이 도전", "faceFew": "참깨피라미는 아직 {n}명만 잡았어요", "faceNone": "참깨피라미는 아직 아무도 못 잡았어요"};
+  var ch = {"url": "https://nvokkscghiqlohwbujso.supabase.co", "key": "sb_publishable_f4Ax5r5859lJ-JcC_ffJeQ_fDVdiaLv", "face": "sesame_minnow", "pctFrom": 20, "head": "참깨피라미를 잡았어요 · {cm}cm · {rank} — 깰 수 있어요?", "rankN": "오늘 {n}등", "rankPct": "오늘 100명 중 {n}등", "players": "오늘 {n}명이 도전", "faceFew": "참깨피라미는 아직 {n}명만 잡았어요", "faceNone": "참깨피라미는 아직 아무도 못 잡았어요"};
   if (s && ch.url && typeof fetch === 'function') {
     fetch(ch.url + '/rest/v1/rpc/trial_rank_peek', { method: 'POST', headers: { apikey: ch.key, 'Content-Type': 'application/json' }, body: JSON.stringify({ p_kind: 'cm', p_face: ch.face, p_val: parseFloat(s) }) })
       .then(function (x) { return x.ok ? x.json() : null; })
