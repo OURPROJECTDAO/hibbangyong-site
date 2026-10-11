@@ -529,11 +529,14 @@ main #en .lead{font-size:1rem}
 /* 🏠 홈페이지 방문 기록(서버 0197 site_visit_put) — 정본 = kids-english-app tools/site/site-visit.html · 사이트에서 손으로 고치지 말고 정본을 고쳐 다시 붙인다(자 arch-site-visit)
    🔒익명 — vid = 이 브라우저가 만든 무작위 16자(localStorage hb_vid) · 이름·이메일·IP·전체 주소 0 · 바깥 요청 = 아래 RPC 하나뿐
    보냄 = 들어옴(탭 세션에 한 번) · 체험판 단추 · 베타 칸 보임 · 신청 됨(신청 성공 줄이 window.hbVisit('signup')) · 스토어 단추
-   ?t=1 한 번 = 이 브라우저는 늘 시험(is_test · 셈 밖) · 체험판 단추 주소에 hv=<vid>(체험판 첫 손이 trial_devs.site_vid 로 잇는다) */
+   ?t=1 한 번 = 이 브라우저는 늘 시험(is_test · 셈 밖) · 체험판 단추 주소에 hv=<vid>(체험판 첫 손이 trial_devs.site_vid 로 잇는다)
+   🤖0198 봇(UA 낱말 = engine/human-gate BOT_UA_WORDS · navigator.webdriver) = 줄 0(서버에 «봇 한 번»만) · 그 밖 = 사람 신호(진짜 누름·터치·키·휠 또는 보이고 초점 15초) 전까지 보내기를 미룸(미룬 것은 차례대로 그대로)
+   시험 문 = ?t=1 · ?hm=1 · localStorage hbb-human=1(스모크) · 공유 신호 window.hbHuman = { bot, seen(), on(cb) }(Meta 픽셀 등) */
 (function(){
   var URL_ = 'https://nvokkscghiqlohwbujso.supabase.co/rest/v1/rpc/site_visit_put';
   var KEY = 'sb_publishable_f4Ax5r5859lJ-JcC_ffJeQ_fDVdiaLv';
   var OPENED = [['kakao', 'KAKAOTALK'], ['threads', 'Barcelona'], ['insta', 'Instagram'], ['fb', 'FBAN|FBAV|FB_IAB'], ['naver', 'NAVER\\(inapp'], ['youtube', 'com\\.google\\.android\\.youtube|YouTube'], ['tiktok', 'musical_ly|BytedanceWebview|TikTok'], ['x', 'Twitter'], ['line', ' Line/']];
+  var BOTS = ['headlesschrome', 'headlessedg', 'phantomjs', 'puppeteer', 'playwright', 'lighthouse', 'selenium', 'googlebot', 'adsbot', 'mediapartners', 'google-inspectiontool', 'googleother', 'google-pagerenderer', 'google-safety', 'google web preview', 'apis-google', 'storebot-google', 'feedfetcher', 'bingbot', 'bingpreview', 'msnbot', 'yandex', 'baiduspider', 'duckduckbot', 'applebot', 'petalbot', 'bytespider', 'semrushbot', 'ahrefsbot', 'mj12bot', 'dotbot', 'gptbot', 'claudebot', 'ccbot', 'facebookexternalhit', 'facebot', 'meta-externalagent', 'meta-externalfetcher', 'twitterbot', 'slackbot', 'slack-imgproxy', 'discordbot', 'telegrambot', 'linkedinbot', 'pinterestbot', 'redditbot', 'whatsapp/', 'skypeuripreview', 'embedly', 'iframely', 'vkshare', 'kakaotalk-scrap', 'yeti/', 'daumoa', 'python-requests', 'python-urllib', 'curl/', 'wget/', 'go-http-client', 'okhttp', 'node-fetch', 'axios/', 'crawler', 'spider'];
   function get(k){ try { return localStorage.getItem(k); } catch (e) { return null; } }
   function put(k, v){ try { localStorage.setItem(k, v); } catch (e) {} }
   function part(v){ v = String(v || '').trim().toLowerCase().replace(/[^a-z0-9._-]+/g, '-').replace(/^-+|-+$/g, '').slice(0, 64); return v || null; }
@@ -548,7 +551,32 @@ main #en .lead{font-size:1rem}
   var q; try { q = new URLSearchParams(location.search); } catch (e) { q = { get: function(){ return null; } }; }
   if (q.get('t') === '1') put('hb_vtest', '1');
   var test = get('hb_vtest') === '1';
+  if (q.get('hm') === '1') put('hbb-human', '1');
+  var pass = test || get('hbb-human') === '1';
+  var lua = (navigator.userAgent || '').toLowerCase(), bot = false;
+  for (var b = 0; b < BOTS.length; b++) if (lua.indexOf(BOTS[b]) >= 0) bot = true;
+  if (navigator.webdriver === true) bot = true;
+  if (pass) bot = false;
+  var seen = pass, wait = [], quiet = 0, tick = null, EVS = ['pointerdown', 'touchstart', 'keydown', 'wheel'];
+  function human(e){
+    if (seen || bot || (e && e.isTrusted === false)) return;
+    seen = true;
+    for (var k = 0; k < EVS.length; k++) document.removeEventListener(EVS[k], human, true);
+    if (tick) clearInterval(tick);
+    var w = wait; wait = []; for (var n = 0; n < w.length; n++) w[n]();
+  }
+  function onHuman(cb){ if (seen) cb(); else if (!bot) wait.push(cb); }
+  window.hbHuman = { bot: bot, seen: function(){ return seen; }, on: onHuman };
+  if (!seen && !bot) {
+    for (var k0 = 0; k0 < EVS.length; k0++) document.addEventListener(EVS[k0], human, { capture: true, passive: true });
+    tick = setInterval(function(){ quiet = document.visibilityState === 'visible' && document.hasFocus && document.hasFocus() ? quiet + 1000 : 0; if (quiet >= 15000) human(); }, 1000);
+  }
   function send(ev, info){
+    if (bot) return;
+    onHuman(function(){ post(ev, info); });
+  }
+  function post(ev, info){
+    if (ev === 'land') { try { sessionStorage.setItem('hb_vland', '1'); } catch (e) {} }
     if (test) { info = info || {}; info.test = true; }
     var o = { method: 'POST', headers: { 'Content-Type': 'application/json', 'apikey': KEY }, body: JSON.stringify({ p_vid: vid, p_ev: ev, p_info: info || {} }) };
     try { o.keepalive = true; fetch(URL_, o).catch(function(){}); }
@@ -556,7 +584,8 @@ main #en .lead{font-size:1rem}
   }
   window.hbVisit = function(ev){ if (ev === 'signup') send('signup'); };
 
-  var once; try { once = sessionStorage.getItem('hb_vland'); sessionStorage.setItem('hb_vland', '1'); } catch (e) { once = null; }
+  if (bot) { var bs; try { bs = sessionStorage.getItem('hb_vbot'); sessionStorage.setItem('hb_vbot', '1'); } catch (e) { bs = null; } if (!bs) post('bot'); return; }   // 봇 = 탭 세션에 한 번 셈만(줄 0)
+  var once; try { once = sessionStorage.getItem('hb_vland'); } catch (e) { once = null; }
   if (!once) {
     var ua = navigator.userAgent || '', open = 'web', dev = 'pc', ref = null, via = null;
     for (var j = 0; j < OPENED.length; j++) if (new RegExp(OPENED[j][1], 'i').test(ua)) { open = OPENED[j][0]; break; }
