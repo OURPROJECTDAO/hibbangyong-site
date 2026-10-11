@@ -196,6 +196,26 @@ body.has-bar footer{padding-bottom:calc(3.25rem + 28px + env(safe-area-inset-bot
 .motion .rise{opacity:0;transform:translateY(14px);transition:opacity .3s ease,transform .3s ease}
 .motion .rise.in{opacity:1;transform:none}
 @media (prefers-reduced-motion:reduce){.jbar,.btn,.dots i{transition:none}}
+/* 🧭10-11 첫 화면 = 체험판 입구(✍️ «체험판 랜딩페이지 최상단으로 · 홈페이지 들어가자마자 클릭해 보고 싶게») */
+:root{--yel:#f7c531;--yel-ink:#3d2a0e}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--yel:#f5c23a;--yel-ink:#2a1d08}}
+:root[data-theme="dark"]{--yel:#f5c23a;--yel-ink:#2a1d08}
+.th{background:var(--bg2);border-bottom:1px solid var(--line);text-align:center;padding:max(1.7rem,env(safe-area-inset-top)) 16px 1.7rem}
+.th-q{font-family:"Jua",-apple-system,"Apple SD Gothic Neo","Malgun Gothic",sans-serif;font-weight:400;font-size:clamp(2.1rem,9vw,3rem);line-height:1.2;letter-spacing:-.01em;color:var(--ink);margin:0}
+.th-sub{color:var(--ink2);font-weight:600;font-size:1.05rem;margin:.4rem auto 0}
+.th-art{display:flex;justify-content:center;align-items:flex-end;gap:.25rem;margin:1.1rem auto 1rem;max-width:25rem}
+.th-art img{width:29%;max-width:8rem}
+.th-art img:nth-child(2){width:36%;max-width:10rem}
+.btn.th-go{background:var(--yel);color:var(--yel-ink);font-size:1.22rem;min-height:3.7rem;width:min(100%,22rem);padding:.9rem 1.6rem;box-shadow:0 8px 22px rgba(160,110,10,.28)}
+.btn.th-go:hover{filter:brightness(1.04)}
+.btn.th-go:focus-visible{outline:3px solid var(--ink);outline-offset:3px}
+.th-pair{color:var(--ink2);font-size:.95rem;margin:.65rem 0 0}
+@media (prefers-reduced-motion:no-preference){
+  .th-art img{animation:th-bob 2.6s ease-in-out infinite}
+  .th-art img:nth-child(2){animation-delay:-.9s}
+  .th-art img:nth-child(3){animation-delay:-1.7s}
+  @keyframes th-bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+}
 </style>
 <!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "7c4d6053f2fc47189ee09179bfc6d627"}'></script><!-- End Cloudflare Web Analytics -->
 <script type="application/ld+json">
@@ -317,6 +337,18 @@ body.has-bar footer{padding-bottom:calc(3.25rem + 28px + env(safe-area-inset-bot
 </script>
 </head>
 <body>
+
+<section class="th" aria-labelledby="th-q">
+  <p id="th-q" class="th-q">해외 나가면 나는?</p>
+  <p class="th-sub">3분 해외 생존 유형 테스트 · 설치 없이</p>
+  <div class="th-art" aria-hidden="true">
+    <img src="/t/art/W4R4A4-mustard.webp" alt="" width="374" height="512" decoding="async">
+    <img src="/t/art/W1R4A4-blue.webp" alt="" width="438" height="512" fetchpriority="high">
+    <img src="/t/art/W1R4A2-rosered.webp" alt="" width="384" height="512" decoding="async">
+  </div>
+  <a class="btn th-go" href="/play/?utm_source=homepage&amp;utm_medium=hero">내 유형 알아보기</a>
+  <p class="th-pair">친구랑 하면 여행 궁합까지</p>
+</section>
 
 <header class="hero">
   <div class="hero-in">
