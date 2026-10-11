@@ -356,6 +356,44 @@ main #en .lead{font-size:1rem}
  ]
 }
 </script>
+<script>
+(function () {
+  var PIXEL = '1589564712853457';
+  if (!/^\d{5,20}$/.test(PIXEL)) return;
+  var p = location.pathname;
+  if (p !== '/' && p !== '/index.html' && p !== '/m2/' && p !== '/m2/index.html') return;
+  try {
+    if (new URLSearchParams(location.search).get('t') === '1') { localStorage.setItem('hbb-trial-test', '1'); return; }
+    if (localStorage.getItem('hbb-trial-test') === '1') return;
+  } catch (e) {}
+  function go() {
+    var h = window.hbHuman;
+    if (!h || h.bot) return;
+    h.on(fire);
+  }
+  function fire() {
+    if (window.hbHuman.bot) return;
+    try {
+      var c = new URLSearchParams(location.search).get('fbclid');
+      if (c && /^[A-Za-z0-9_-]{1,500}$/.test(c) && document.cookie.indexOf('_fbc=') < 0) document.cookie = '_fbc=fb.1.' + Date.now() + '.' + c + '; path=/; max-age=7776000; SameSite=Lax';
+      if (location.search) history.replaceState(history.state, '', location.pathname + location.hash);
+    } catch (e) {}
+    if (location.search) return;
+    try {
+      var r = document.referrer;
+      if (r.indexOf('?') >= 0 || r.indexOf('#') >= 0) { var u = new URL(r), bare = u.origin + u.pathname; Object.defineProperty(document, 'referrer', { configurable: true, get: function () { return bare; } }); }
+    } catch (e) {}
+    var n = window.fbq = function () { n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments); };
+    window._fbq = n; n.push = n; n.loaded = true; n.version = '2.0'; n.queue = []; n.disablePushState = true;
+    var s = document.createElement('script'); s.async = true; s.src = 'https://connect.facebook.net/en_US/fbevents.js'; s.referrerPolicy = 'origin';
+    document.head.appendChild(s);
+    n('set', 'autoConfig', false, PIXEL);
+    n('init', PIXEL);
+    n('track', 'PageView');
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', go); else go();
+})();
+</script>
 </head>
 <body>
 
