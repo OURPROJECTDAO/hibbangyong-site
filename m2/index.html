@@ -379,7 +379,7 @@ main #en .lead{font-size:1rem}
     <button id="aps" class="ap-snd" type="button">소리 켜기</button>
   </div>
   <p class="ap-note">베타 준비 중이에요 · 아래에서 소식을 받아 보세요</p>
-  <script>(function(){var v=document.getElementById('apv'),b=document.getElementById('aps');if(!v||!b)return;b.onclick=function(){v.muted=!v.muted;b.textContent=v.muted?'소리 켜기':'소리 끄기';if(v.paused){var p=v.play();if(p&&p.catch)p.catch(function(){})}};if('IntersectionObserver' in window){new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){var p=v.play();if(p&&p.catch)p.catch(function(){})}else{v.pause()}})},{threshold:.4}).observe(v)}})();</script>
+  <script>(function(){var v=document.getElementById('apv'),b=document.getElementById('aps');if(!v||!b)return;if(window.matchMedia&&matchMedia('(max-width:600px)').matches){v.src='/intro/intro_mobile.mp4';var w=v.parentNode;if(w)w.style.aspectRatio='4/5';v.style.objectFit='cover'}b.onclick=function(){v.muted=!v.muted;b.textContent=v.muted?'소리 켜기':'소리 끄기';if(v.paused){var p=v.play();if(p&&p.catch)p.catch(function(){})}};if('IntersectionObserver' in window){new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){var p=v.play();if(p&&p.catch)p.catch(function(){})}else{v.pause()}})},{threshold:.4}).observe(v)}})();</script>
 </section>
 
 <header class="hero">
