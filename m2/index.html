@@ -547,6 +547,68 @@ main #en .lead{font-size:1rem}
 
 <a id="jbar" class="jbar" href="/play/" aria-hidden="true" tabindex="-1">설치 없이 3분 해 보기</a>
 <script>
+/* 🏠 홈페이지 방문 기록(서버 0197 site_visit_put) — 정본 = kids-english-app tools/site/site-visit.html · 사이트에서 손으로 고치지 말고 정본을 고쳐 다시 붙인다(자 arch-site-visit)
+   🔒익명 — vid = 이 브라우저가 만든 무작위 16자(localStorage hb_vid) · 이름·이메일·IP·전체 주소 0 · 바깥 요청 = 아래 RPC 하나뿐
+   보냄 = 들어옴(탭 세션에 한 번) · 체험판 단추 · 베타 칸 보임 · 신청 됨(신청 성공 줄이 window.hbVisit('signup')) · 스토어 단추
+   ?t=1 한 번 = 이 브라우저는 늘 시험(is_test · 셈 밖) · 체험판 단추 주소에 hv=<vid>(체험판 첫 손이 trial_devs.site_vid 로 잇는다) */
+(function(){
+  var URL_ = 'https://nvokkscghiqlohwbujso.supabase.co/rest/v1/rpc/site_visit_put';
+  var KEY = 'sb_publishable_f4Ax5r5859lJ-JcC_ffJeQ_fDVdiaLv';
+  var OPENED = [['kakao', 'KAKAOTALK'], ['threads', 'Barcelona'], ['insta', 'Instagram'], ['fb', 'FBAN|FBAV|FB_IAB'], ['naver', 'NAVER\\(inapp'], ['youtube', 'com\\.google\\.android\\.youtube|YouTube'], ['tiktok', 'musical_ly|BytedanceWebview|TikTok'], ['x', 'Twitter'], ['line', ' Line/']];
+  function get(k){ try { return localStorage.getItem(k); } catch (e) { return null; } }
+  function put(k, v){ try { localStorage.setItem(k, v); } catch (e) {} }
+  function part(v){ v = String(v || '').trim().toLowerCase().replace(/[^a-z0-9._-]+/g, '-').replace(/^-+|-+$/g, '').slice(0, 64); return v || null; }
+  function path(p){ p = String(p || '').toLowerCase(); return /^\/[a-z0-9\/_.-]{0,40}$/.test(p) ? p : null; }
+  var vid = get('hb_vid');
+  if (!/^[a-z0-9]{16}$/.test(vid || '')) {
+    vid = '';
+    var c = window.crypto && crypto.getRandomValues ? crypto.getRandomValues(new Uint8Array(16)) : null;
+    for (var i = 0; i < 16; i++) vid += ((c ? c[i] : Math.floor(Math.random() * 256)) % 36).toString(36);
+    put('hb_vid', vid);
+  }
+  var q; try { q = new URLSearchParams(location.search); } catch (e) { q = { get: function(){ return null; } }; }
+  if (q.get('t') === '1') put('hb_vtest', '1');
+  var test = get('hb_vtest') === '1';
+  function send(ev, info){
+    if (test) { info = info || {}; info.test = true; }
+    var o = { method: 'POST', headers: { 'Content-Type': 'application/json', 'apikey': KEY }, body: JSON.stringify({ p_vid: vid, p_ev: ev, p_info: info || {} }) };
+    try { o.keepalive = true; fetch(URL_, o).catch(function(){}); }
+    catch (e) { try { delete o.keepalive; fetch(URL_, o).catch(function(){}); } catch (e2) {} }
+  }
+  window.hbVisit = function(ev){ if (ev === 'signup') send('signup'); };
+
+  var once; try { once = sessionStorage.getItem('hb_vland'); sessionStorage.setItem('hb_vland', '1'); } catch (e) { once = null; }
+  if (!once) {
+    var ua = navigator.userAgent || '', open = 'web', dev = 'pc', ref = null, via = null;
+    for (var j = 0; j < OPENED.length; j++) if (new RegExp(OPENED[j][1], 'i').test(ua)) { open = OPENED[j][0]; break; }
+    if (/android/i.test(ua)) dev = 'and'; else if (/iphone|ipad|ipod/i.test(ua) || (/Macintosh/.test(ua) && navigator.maxTouchPoints > 1)) dev = 'ios';
+    try {
+      var r = document.referrer ? new URL(document.referrer) : null;
+      if (r && r.hostname === location.hostname) { if (r.pathname !== location.pathname) via = path(r.pathname); }
+      else if (r && /^https?:$/.test(r.protocol)) ref = r.hostname.toLowerCase().slice(0, 100);
+    } catch (e) {}
+    var u = { s: part(q.get('utm_source')), m: part(q.get('utm_medium')), c: part(q.get('utm_campaign')), t: part(q.get('utm_content')) };
+    send('land', { u: u, ref: ref, land: path(location.pathname), via: via, dev: dev, open: open, src: u.s || via || ref || 'direct' });
+  }
+
+  function isTrial(a){ return a.hostname === location.hostname && /^\/play(\/|$)/.test(a.pathname); }
+  function tag(a){ try { var x = new URL(a.href); x.searchParams.set('hv', vid); a.href = x.toString(); } catch (e) {} }
+  Array.prototype.forEach.call(document.querySelectorAll('a[href]'), function(a){ if (isTrial(a)) tag(a); });
+  document.addEventListener('click', function(ev){
+    var a = ev.target && ev.target.closest ? ev.target.closest('a[href]') : null;
+    if (!a) return;
+    if (isTrial(a)) { tag(a); send('trial'); }
+    else if (/(^|\.)play\.google\.com$|(^|\.)apps\.apple\.com$|(^|\.)itunes\.apple\.com$/.test(a.hostname)) send('store');
+  }, true);
+
+  var beta = document.querySelector('#beta, #go');
+  if (beta && 'IntersectionObserver' in window && get('hb_vseen') !== '1') {
+    var seen = new IntersectionObserver(function(es){ if (es[0].isIntersecting) { put('hb_vseen', '1'); send('beta_seen'); seen.disconnect(); } }, { threshold: 0.4 });
+    seen.observe(beta);
+  }
+})();
+</script>
+<script>
 (function(){
   var URL_ = 'https://nvokkscghiqlohwbujso.supabase.co/rest/v1/rpc/beta_signup';
   var KEY = 'sb_publishable_f4Ax5r5859lJ-JcC_ffJeQ_fDVdiaLv';
@@ -581,7 +643,7 @@ main #en .lead{font-size:1rem}
       body: JSON.stringify({ p_email: email, p_source: src, p_consent_ver: VER })
     }).then(function(r){ if (!r.ok) throw new Error(String(r.status)); return r.json(); })
       .then(function(v){
-        if (v === 'ok' || v === 'already') { finish(); return; }
+        if (v === 'ok' || v === 'already') { finish(); try { if (window.hbVisit) window.hbVisit('signup'); } catch (e) {} return; }
         release(); bad('이메일 주소를 다시 확인해 주세요.'); em.focus();
       })
       .catch(function(){
