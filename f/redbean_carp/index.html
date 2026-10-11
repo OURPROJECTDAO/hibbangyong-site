@@ -81,6 +81,8 @@ img.card{width:100%;max-width:26rem;height:auto;border-radius:1.4rem;box-shadow:
   if (rc) go.set('rec', rc);
   var cup = (q.get('cup') || '').toUpperCase().replace(/[^A-HJ-NP-Z2-9]/g, '').slice(0, 8);
   if (cup.length === 8) go.set('cup', cup);
+  // 🔴10-11 밤 ④ 보낸 사람 표(sd)·뿌리(ru)·utm·클릭 종류·시험(t=1) = «나도 3분»에 그대로(유형 받은 페이지 web_trial_type_pages 와 같은 줄 · 꼴은 앱이 거름)
+  ['sd', 'ru', 'utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'gclid', 'fbclid', 'ttclid', 't'].forEach(function (k) { var v = q.get(k); if (v && v.length <= 280) go.set(k, v); });
   if (go.toString()) document.getElementById('go').href = '/play/?' + go.toString();
   var ok = 'web', rules = [["kakao", "KAKAOTALK"], ["threads", "Barcelona"], ["insta", "Instagram"], ["fb", "FBAN|FBAV|FB_IAB"], ["naver", "NAVER\\(inapp"], ["youtube", "com\\.google\\.android\\.youtube|YouTube"], ["tiktok", "musical_ly|BytedanceWebview|TikTok"], ["x", "Twitter"], ["line", " Line/"]];
   for (var i = 0; i < rules.length; i++) { if (new RegExp(rules[i][1], 'i').test(navigator.userAgent || '')) { ok = rules[i][0]; break; } }
