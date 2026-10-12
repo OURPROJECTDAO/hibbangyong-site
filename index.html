@@ -185,6 +185,9 @@ body.has-bar footer{padding-bottom:6rem}
 .get-alt a{color:var(--ink2);font-weight:600;text-underline-offset:3px}
 [data-get="and"] .get-ios,[data-get="and"] .get-ios-note{display:none}
 [data-get="ios"] .get-and{display:none}
+.get-badge{display:block;align-self:center;margin:-.3rem 0 .3rem;line-height:0}
+.get-badge img{display:block;height:4.4rem;width:auto}
+[data-get="and"] .get-badge img{height:5rem}
 [data-get="and"] .get-alt-and,[data-get="ios"] .get-alt-ios{display:block}
 [data-get="and"] .get .play,[data-get="ios"] .get .play{font-size:1.2rem;min-height:3.8rem}
 .join .jios{margin:0 0 .5rem}
@@ -421,8 +424,8 @@ main #en .lead{font-size:1rem}
     <div id="join" class="join">
       <script>(function(){var u=navigator.userAgent||'',d='pc';if(/android/i.test(u))d='and';else if(/iphone|ipad|ipod/i.test(u)||(/Macintosh/.test(u)&&navigator.maxTouchPoints>1))d='ios';document.documentElement.setAttribute('data-get',d)})();</script>
       <div class="get">
-      <!-- 안드로이드 = Google 공식 «Google Play에서 다운로드» 배지 자리(✍️ 10-12 «정식이 좋지» · 파일 받기 허락 대기 · 그 전엔 글 단추) -->
-      <a class="btn play get-and" href="https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp" rel="noopener"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 4v11M7 10.5l5 5 5-5M5 20h14"/></svg>안드로이드에서 지금 해 보기</a>
+      <!-- 안드로이드 = Google 공식 «Google Play에서 다운로드» 배지(한국어 · play.google.com/intl/en_us/badges 공식 파일 그대로 · 색·모양·둘레 여백 고치기 0 · ✍️ 10-12) -->
+      <a class="get-and get-badge" href="https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp" rel="noopener"><img src="img/ko_badge_web_generic.png" alt="Google Play에서 다운로드" width="646" height="250"></a>
       <!-- 아이폰 = TestFlight 공개 링크(✍️ 10-12) · TestFlight 공식 배지 없음 → 글 단추＋일반 내려받기 아이콘 · App Store 출시되면 apps.apple.com 주소 ＋ Apple 공식 App Store 배지로 바꿀 자리 -->
       <a class="btn play get-ios" href="https://testflight.apple.com/join/Azj21gUf" rel="noopener"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 4v11M7 10.5l5 5 5-5M5 20h14"/></svg>아이폰에서 지금 해 보기</a>
       <p class="get-note get-ios-note">애플 공식 베타 앱 TestFlight로 받아요</p>
