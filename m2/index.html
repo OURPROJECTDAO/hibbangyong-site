@@ -79,7 +79,8 @@ section+section{border-top:1px solid var(--line)}
 .hero-in{min-height:100vh;min-height:100svh;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:.7rem;padding:max(1rem,env(safe-area-inset-top)) 16px 1rem;text-align:center}
 .hero-logo{height:5.6rem;width:auto;margin:0 auto}
 .hero-tag{font-family:"Jua",sans-serif;font-size:1.75rem;line-height:1.25;margin:0;text-wrap:balance}
-.hero-sub{color:var(--ink2);font-weight:600;margin:0;max-width:21rem;line-height:1.5}
+.hero-sub{color:var(--ink2);font-weight:600;margin:0;max-width:21rem;line-height:1.5;text-wrap:balance}
+.nw{white-space:nowrap}
 .phone{flex:none;height:clamp(15rem,calc(100svh - 24.5rem),30rem);aspect-ratio:1/2;padding:.45rem;border-radius:2rem;background:var(--frame);box-shadow:var(--shadow)}
 .phone video{width:100%;height:100%;object-fit:cover;border-radius:1.6rem;background:#cfe5c4}
 .hero .btn{max-width:24rem;margin-top:.2rem}
@@ -424,7 +425,7 @@ main #en .lead{font-size:1rem}
   <div class="hero-in">
     <h1><img class="hero-logo" src="img/logo.webp" alt="" width="600" height="520"><span class="sr">하이빵용 — 영어 단어 힐링 게임</span></h1>
     <p class="hero-tag">어려운 영어 단어도<br>쉬운 우리말로</p>
-    <p class="hero-sub">빵용이와 낚시하고, 나무 베고, 방을 꾸미다 보면 영어 단어가 남아요.</p>
+    <p class="hero-sub">빵용이와 낚시하고, 나무 베고, 방을 꾸미다 보면 <span class="nw">영어 단어가 남아요.</span></p>
     <div class="phone-wrap">
     <div class="phone" aria-hidden="true">
       <video id="hv" width="540" height="1080" poster="img/hero_play_first.webp" muted playsinline loop preload="none" disablepictureinpicture>
