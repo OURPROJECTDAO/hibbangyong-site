@@ -53,8 +53,11 @@ img.card{width:100%;max-width:26rem;height:auto;border-radius:1.4rem;box-shadow:
   var s = (q.get('s') || '').replace(/[^0-9.]/g, '').slice(0, 5);
   var g = (q.get('g') || '').replace(/[^0-9]/g, '').slice(0, 7);
   var tl = (q.get('lt') || '').replace(/[^0-9]/g, '').slice(0, 4), tc = (q.get('ct') || '').replace(/[^0-9]/g, '').slice(0, 4), tt = ["벌목 {n}초", "포획 {n}초"];
-  document.getElementById('times').textContent = [tl ? tt[0].replace('{n}', tl) : '', tc ? tt[1].replace('{n}', tc) : ''].filter(Boolean).join(' · ');
-  if (s && !isNaN(parseFloat(s))) document.getElementById('size').textContent = "{cm}cm · 최대 {max}cm · 총 가치 {g}골드".replace('{cm}', s).replace('{max}', "24").replace(g ? '{g}' : ' · 총 가치 {g}골드', g);
+  var te = document.getElementById('times'), tx = [tl ? tt[0].replace('{n}', tl) : '', tc ? tt[1].replace('{n}', tc) : ''].filter(Boolean).join(' · ');
+  te.textContent = tx; te.hidden = !tx;
+  var st = "{cm}cm · 최대 {max}cm · 총 가치 {g}골드", mx = "24";
+  if (s && parseFloat(s) >= parseFloat(mx)) st = st.split(' · ').filter(function (p) { return p.indexOf('{max}') < 0; }).join(' · ');
+  if (s && !isNaN(parseFloat(s))) document.getElementById('size').textContent = st.replace('{cm}', s).replace('{max}', mx).replace(g ? '{g}' : ' · 총 가치 {g}골드', g);
   var ch = {"url": "https://nvokkscghiqlohwbujso.supabase.co", "key": "sb_publishable_f4Ax5r5859lJ-JcC_ffJeQ_fDVdiaLv", "face": "rainbow_eel", "pctFrom": 20, "head": "무지개젤리장어를 잡았어요 · {cm}cm · {rank} — 깰 수 있어요?", "rankN": "오늘 {n}등", "rankPct": "오늘 100명 중 {n}등", "players": "오늘 {n}명이 도전", "faceFew": "무지개젤리장어는 아직 {n}명만 잡았어요", "faceNone": "무지개젤리장어는 아직 아무도 못 잡았어요"};
   if (s && ch.url && typeof fetch === 'function') {
     fetch(ch.url + '/rest/v1/rpc/trial_rank_peek', { method: 'POST', headers: { apikey: ch.key, 'Content-Type': 'application/json' }, body: JSON.stringify({ p_kind: 'cm', p_face: ch.face, p_val: parseFloat(s) }) })
