@@ -24,7 +24,7 @@
       }
     </style>
   <link rel="icon" href="/play/favicon.ico"/><link rel="preload" href="/play/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css" as="style">
-<link rel="stylesheet" href="/play/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css"><meta name="trial-js" content="/play/_expo/static/js/web/index-f272fbce5a3fe6ad613d719b51476ec7.js"><style id="trial-hold">
+<link rel="stylesheet" href="/play/_expo/static/css/global-87fd0564cfa78f37afcb8d7603e15d75.css"><meta name="trial-js" content="/play/_expo/static/js/web/index-0a4768a1ed702b52276446a2f68fc192.js"><style id="trial-hold">
 html,body{background:#FBF7E3;position:fixed;top:0;right:0;bottom:0;left:0;width:100%;height:100%;margin:0;overflow:hidden;overscroll-behavior:none;touch-action:manipulation;-webkit-tap-highlight-color:transparent;-webkit-text-size-adjust:100%}
 *{word-break:keep-all;overflow-wrap:break-word;text-wrap:pretty}
 #root{position:absolute;top:0;right:0;bottom:0;left:0;height:auto}
@@ -37,7 +37,7 @@ html,body{background:#FBF7E3;position:fixed;top:0;right:0;bottom:0;left:0;width:
     </noscript>
     <!-- The root element for your Expo app. -->
     <div id="trial-boot" role="status" aria-live="polite">
-<img src="/play/boot-logo.webp" alt="하이빵용" width="150" height="130">
+<img src="/play/boot-logo.e0786b80e6ab.webp" alt="하이빵용" width="150" height="130">
 <div class="tb-bar" aria-hidden="true"><i id="tb-fill"></i></div>
 <p id="tb-msg">빵나라로 가는 중…</p>
 </div>
@@ -52,10 +52,11 @@ html,body{background:#FBF7E3;position:fixed;top:0;right:0;bottom:0;left:0;width:
 </style>
 <script>
 (function(){
-  var JS = '/play/_expo/static/js/web/index-f272fbce5a3fe6ad613d719b51476ec7.js', WASM = '/play/canvaskit.wasm', TOTAL = 16521396;
+  var JS = '/play/_expo/static/js/web/index-0a4768a1ed702b52276446a2f68fc192.js', TOTAL = 8447764;
+  window.__TRIAL_WASM = '/play/canvaskit.eb68c7a7f602.wasm';
   var MSG = ["빵나라로 가는 중…", "빵용이가 낚싯대를 챙기고 있어요", "도끼날을 반짝반짝 닦는 중", "오늘 만날 영어 단어를 고르고 있어요", "오리가 눈치채기 전에 살금살금…", "거의 다 왔어요!"];
   var box = document.getElementById('trial-boot'), fill = document.getElementById('tb-fill'), msg = document.getElementById('tb-msg');
-  var k = 0, got = 0, started = false, wasm = null, raw = window.fetch;
+  var k = 0, got = 0, started = false, raw = window.fetch;
   var tick = setInterval(function(){ if (k < MSG.length - 1) { k += 1; msg.textContent = MSG[k]; } }, 2000);
   function bar(){ fill.style.width = Math.min(100, Math.round(got / TOTAL * 100)) + '%'; }
   function start(src){
@@ -73,21 +74,13 @@ html,body{background:#FBF7E3;position:fixed;top:0;right:0;bottom:0;left:0;width:
   }
   window.__trialBootDone = function(){
     clearInterval(tick);
-    if (window.fetch !== raw) window.fetch = raw;
-    wasm = null;
     box.classList.add('tb-out');
     setTimeout(function(){ if (box.parentNode) box.parentNode.removeChild(box); }, 300);
   };
   if (!raw || !window.Blob || !window.URL || !URL.createObjectURL) { box.classList.add('tb-nobar'); start(); return; }
-  Promise.all([pull(JS, 'text/javascript'), pull(WASM, 'application/wasm')]).then(function(b){
+  pull(JS, 'text/javascript').then(function(b){
     got = TOTAL; bar();
-    wasm = b[1];
-    window.fetch = function(input, init){
-      var u = typeof input === 'string' ? input : (input && input.url) || '';
-      if (wasm && u.replace(location.origin, '').split(/[?#]/)[0] === WASM) return Promise.resolve(new Response(wasm, { status: 200, headers: { 'Content-Type': 'application/wasm' } }));
-      return raw.apply(this, arguments);
-    };
-    start(URL.createObjectURL(b[0]));
+    start(URL.createObjectURL(b));
   }, function(){ box.classList.add('tb-nobar'); start(); });
 })();
 </script>
