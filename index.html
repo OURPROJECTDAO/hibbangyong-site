@@ -191,6 +191,15 @@ body.has-bar footer{padding-bottom:6rem}
 [data-get="and"] .get-alt-and,[data-get="ios"] .get-alt-ios{display:block}
 [data-get="and"] .get .play,[data-get="ios"] .get .play{font-size:1.2rem;min-height:3.8rem}
 .join .jios{margin:0 0 .5rem}
+.jfine{text-wrap:balance}
+.jfine a{white-space:nowrap}
+@media (min-width:768px){
+  html:not([data-get="and"]):not([data-get="ios"]) .get{display:grid;grid-template-columns:auto auto;justify-content:center;align-items:center;column-gap:12px}
+  html:not([data-get="and"]):not([data-get="ios"]) .get-badge{grid-column:1;grid-row:1;margin:0}
+  html:not([data-get="and"]):not([data-get="ios"]) .get-badge img{height:73px}
+  html:not([data-get="and"]):not([data-get="ios"]) .get .get-ios{grid-column:2;grid-row:1;justify-self:center;width:auto;height:56px;min-height:56px;margin:0;padding:0 1.4rem}
+  html:not([data-get="and"]):not([data-get="ios"]) .get-ios-note{grid-column:2;grid-row:2;margin:.45rem 0 0;white-space:nowrap}
+}
 .btn.jbtn{background:transparent;color:var(--btn);border:2px solid var(--btn);box-shadow:none}
 /* 🧭10-11 첫 화면 = 체험판 입구(✍️ «체험판 랜딩페이지 최상단으로 · 홈페이지 들어가자마자 클릭해 보고 싶게») */
 :root{--yel:#f7c531;--yel-ink:#3d2a0e}
@@ -441,7 +450,7 @@ main #en .lead{font-size:1rem}
         </div>
         <div class="trap" aria-hidden="true"><label for="jw">웹사이트</label><input id="jw" name="website" type="text" tabindex="-1" autocomplete="off"></div>
         <p id="jerr" class="jerr" role="alert"></p>
-        <p class="jfine">‘소식 받기’를 누르면 하이빵용 새 소식(베타·출시·이벤트) 메일 받기와 <a href="privacy">개인정보 처리방침</a>에 동의해요. 언제든 그만 받을 수 있어요.</p>
+        <p class="jfine">‘소식 받기’를 누르면 하이빵용 새 소식(베타·출시·이벤트) 메일 받기와 <a href="privacy">개인정보 처리방침</a>에 동의해요. 언제든 그만 <span class="nw">받을 수 있어요.</span></p>
       </form>
       <p id="jdone" class="jdone" hidden tabindex="-1">신청 완료! 새 소식이 생기면 이 이메일로 알려 드려요. 앱은 안드로이드·아이폰 모두 지금 바로 해 볼 수 있어요.</p>
     </div>
