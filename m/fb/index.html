@@ -28,7 +28,7 @@ a{color:#6B6455}
 <script>
 (function(){
   var q = new URLSearchParams(location.search);
-  var i = q.get('i') || '', f = q.get('f') || '';
+  var i = q.get('i') || '', f = q.get('f') || '', t = q.get('t') || '';
   var b = document.getElementById('b'), h = document.getElementById('h'), p = document.getElementById('p');
   var A = {"good": ["오늘 편지가 좋으셨나요?", "아래 단추를 누르시면 «좋았어요»로 전해져요. 누가 보냈는지는 남지 않아요.", "좋았어요 보내기"], "meh": ["아쉬운 점이 있으셨나요?", "아래 단추를 누르시면 «아쉬워요»로 전해져요. 자세한 의견은 help@hibbangyong.com 으로 보내 주셔도 돼요.", "아쉬워요 보내기"]}, D = {"ok": ["전해 주셔서 고마워요", "다음 편지를 만들 때 꼭 참고할게요."], "invalid": ["링크를 확인할 수 없어요", "메일의 의견 단추를 다시 눌러 주세요."], "error": ["잠시 뒤 다시 눌러 주세요", "지금은 처리할 수 없어요."]};
   if (!/^(d0|L[1-9]-(0[1-9]|1[0-2]))$/.test(i) || !A[f]) { b.hidden = true; h.textContent = D.invalid[0]; p.textContent = D.invalid[1]; return; }
@@ -36,7 +36,7 @@ a{color:#6B6455}
   b.addEventListener('click', function () {
     b.disabled = true;
     var show = function (k) { var d = D[k] || D.error; h.textContent = d[0]; p.textContent = d[1]; b.hidden = true; };
-    fetch("https://nvokkscghiqlohwbujso.supabase.co/functions/v1/trial-mail", { method: 'POST', headers: { 'Content-Type': 'application/json', apikey: "sb_publishable_f4Ax5r5859lJ-JcC_ffJeQ_fDVdiaLv" }, body: JSON.stringify({ fb: i, f: f }) })
+    fetch("https://nvokkscghiqlohwbujso.supabase.co/functions/v1/trial-mail", { method: 'POST', headers: { 'Content-Type': 'application/json', apikey: "sb_publishable_f4Ax5r5859lJ-JcC_ffJeQ_fDVdiaLv" }, body: JSON.stringify(/^[a-f0-9]{32}$/.test(t) ? { fb: i, f: f, t: t } : { fb: i, f: f }) })
       .then(function (r) { return r.ok ? r.json() : null; })
       .then(function (j) { show(j && j.r ? j.r : 'error'); })
       ['catch'](function () { b.disabled = false; show('error'); b.hidden = false; });

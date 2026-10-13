@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex">
+<title>궁합 알림 그만 받기 · 하이빵용</title>
+<link rel="icon" type="image/png" href="/img/favicon.png">
+<style>
+*{box-sizing:border-box}
+html,body{margin:0;background:#FBF7E3;color:#4a3624;font-family:-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Noto Sans KR","Malgun Gothic",sans-serif;line-height:1.6;word-break:keep-all}
+main{max-width:30rem;margin:0 auto;padding:max(2rem,env(safe-area-inset-top)) 16px 2rem;display:flex;flex-direction:column;align-items:center;gap:1rem;min-height:100vh;min-height:100svh;justify-content:center;text-align:center}
+h1{font-size:1.4rem;margin:0}
+p{margin:0;color:#6B6455}
+button{display:flex;width:100%;max-width:24rem;align-items:center;justify-content:center;min-height:3.25rem;border:0;border-radius:999px;background:#1D495D;color:#fff;font-weight:700;font-size:1.1rem;cursor:pointer}
+button[disabled]{opacity:.6}
+button[hidden]{display:none}
+a{color:#6B6455}
+</style>
+</head>
+<body>
+<main>
+<h1 id="h">궁합 알림 그만 받기</h1>
+<p id="p">아래 단추를 누르시면 친구가 궁합을 마쳤을 때 보내 드리던 알림 메일을 더 보내지 않아요. 다른 메일은 그대로예요.</p>
+<button id="b" type="button">이 알림 그만 받기</button>
+<a href="/">하이빵용</a>
+</main>
+<script>
+(function(){
+  var t = (new URLSearchParams(location.search).get('t') || '').toLowerCase();
+  var b = document.getElementById('b');
+  if (!/^[a-f0-9]{32}$/.test(t)) { b.hidden = true; document.getElementById('h').textContent = {"ok": ["알림을 껐어요", "궁합 알림 메일을 더 보내지 않아요. 다른 메일은 그대로예요."], "already": ["이미 꺼져 있어요", "궁합 알림 메일은 더 보내지 않아요."], "invalid": ["링크를 확인할 수 없어요", "메일의 «이 알림 그만 받기»를 다시 누르거나 help@hibbangyong.com 으로 알려 주세요."], "error": ["잠시 뒤 다시 눌러 주세요", "지금은 처리할 수 없어요. help@hibbangyong.com 으로 알려 주셔도 돼요."]}.invalid[0]; document.getElementById('p').textContent = {"ok": ["알림을 껐어요", "궁합 알림 메일을 더 보내지 않아요. 다른 메일은 그대로예요."], "already": ["이미 꺼져 있어요", "궁합 알림 메일은 더 보내지 않아요."], "invalid": ["링크를 확인할 수 없어요", "메일의 «이 알림 그만 받기»를 다시 누르거나 help@hibbangyong.com 으로 알려 주세요."], "error": ["잠시 뒤 다시 눌러 주세요", "지금은 처리할 수 없어요. help@hibbangyong.com 으로 알려 주셔도 돼요."]}.invalid[1]; return; }
+  b.addEventListener('click', function () {
+    b.disabled = true;
+    var show = function (k) { var d = {"ok": ["알림을 껐어요", "궁합 알림 메일을 더 보내지 않아요. 다른 메일은 그대로예요."], "already": ["이미 꺼져 있어요", "궁합 알림 메일은 더 보내지 않아요."], "invalid": ["링크를 확인할 수 없어요", "메일의 «이 알림 그만 받기»를 다시 누르거나 help@hibbangyong.com 으로 알려 주세요."], "error": ["잠시 뒤 다시 눌러 주세요", "지금은 처리할 수 없어요. help@hibbangyong.com 으로 알려 주셔도 돼요."]}[k] || {"ok": ["알림을 껐어요", "궁합 알림 메일을 더 보내지 않아요. 다른 메일은 그대로예요."], "already": ["이미 꺼져 있어요", "궁합 알림 메일은 더 보내지 않아요."], "invalid": ["링크를 확인할 수 없어요", "메일의 «이 알림 그만 받기»를 다시 누르거나 help@hibbangyong.com 으로 알려 주세요."], "error": ["잠시 뒤 다시 눌러 주세요", "지금은 처리할 수 없어요. help@hibbangyong.com 으로 알려 주셔도 돼요."]}.error; document.getElementById('h').textContent = d[0]; document.getElementById('p').textContent = d[1]; b.hidden = true; };
+    fetch("https://nvokkscghiqlohwbujso.supabase.co/functions/v1/trial-mail", { method: 'POST', headers: { 'Content-Type': 'application/json', apikey: "sb_publishable_f4Ax5r5859lJ-JcC_ffJeQ_fDVdiaLv" }, body: JSON.stringify("pa_off" === 'unsub' ? { unsub: t } : "pa_off" === 'pa_off' ? { pa_off: t } : { confirm: t }) })
+      .then(function (r) { return r.ok ? r.json() : null; })
+      .then(function (j) { show(j && j.r ? j.r : 'error'); })
+      ['catch'](function () { b.disabled = false; show('error'); b.hidden = false; });
+  });
+})();
+</script>
+</body>
+</html>
