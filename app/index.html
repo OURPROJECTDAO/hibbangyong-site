@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex">
+<title>하이빵용 — 놀다 보면 영어 단어가 남는 힐링 게임</title>
+<link rel="icon" type="image/png" href="/img/favicon.png">
+<style>
+*{box-sizing:border-box}
+html,body{margin:0;background:#FBF7E3;color:#4a3624;font-family:-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Noto Sans KR","Malgun Gothic",sans-serif;line-height:1.6;word-break:keep-all}
+main{max-width:30rem;margin:0 auto;padding:max(1.5rem,env(safe-area-inset-top)) 16px 2rem;display:flex;flex-direction:column;align-items:center;gap:.9rem;text-align:center}
+h1{font-size:1.5rem;margin:.25rem 0 0}
+p{margin:0;color:#6B6455}
+.shot{width:100%;max-width:24rem;height:auto;border-radius:18px;display:block;aspect-ratio:16/9;object-fit:cover;background:#F2E9C9}
+.btns{width:100%;max-width:24rem;display:flex;flex-direction:column;gap:.6rem}
+.go{display:flex;width:100%;align-items:center;justify-content:center;min-height:3.4rem;border-radius:999px;background:#1D495D;color:#fff;font-weight:700;font-size:1.1rem;text-decoration:none}
+.go.sub{background:#fff;color:#1D495D;border:2px solid #1D495D}
+.badge{display:block;width:100%;align-self:center;line-height:0;text-decoration:none;color:#1D495D;font-weight:700}
+.badge img{display:block;width:100%;max-width:24rem;height:auto;margin:0 auto}
+.badge.sub img{max-width:15rem}
+.note{font-size:.9rem}
+a.home{color:#6B6455;font-size:.9rem}
+</style>
+<!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "7c4d6053f2fc47189ee09179bfc6d627"}'></script><!-- End Cloudflare Web Analytics --></head>
+<body>
+<main>
+<img class="shot" src="/app-intro/intro_poster.webp" alt="하이빵용 — 빵용이와 빵나라 친구들" width="1280" height="720">
+<h1>하이빵용</h1>
+<p>놀다 보면 영어 단어가 남는 힐링 게임</p>
+<div class="btns" id="btns">
+<a class="badge" id="gp" href="https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&amp;referrer=utm_source%3Dsite%26utm_medium%3Dlanding%26utm_campaign%3Dapp"><img src="/img/ko_badge_web_generic.png" alt="Google Play에서 받기" width="646" height="250"></a>
+<a class="go sub" id="gi" href="https://testflight.apple.com/join/Azj21gUf">아이폰은 TestFlight로 받기</a>
+</div>
+<p class="note" id="n" hidden>아이폰은 App Store 에서 ‘TestFlight’ 앱을 먼저 받은 뒤 눌러 주세요.</p>
+<a class="home" href="/">하이빵용 홈</a>
+</main>
+<script>
+(function(){
+  var q = new URLSearchParams(location.search), keys = ['utm_source', 'utm_medium', 'utm_campaign', 'utm_content'], ref = [];
+  for (var k = 0; k < keys.length; k++) { var v = String(q.get(keys[k]) || '').trim().toLowerCase().replace(/[^a-z0-9._-]+/g, '-').replace(/^-+|-+$/g, '').slice(0, 64); if (v) ref.push(keys[k] + '=' + v); }
+  var gp = document.getElementById('gp'), gi = document.getElementById('gi'), n = document.getElementById('n');
+  gp.href = "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=" + encodeURIComponent(ref.length ? ref.join('&') : "utm_source=site&utm_medium=landing&utm_campaign=app");
+  var ua = navigator.userAgent || '', tp = navigator.maxTouchPoints || 0;
+  if (/iPhone|iPad|iPod/i.test(ua) || (/Macintosh/i.test(ua) && tp > 1)) { gi.className = 'go'; gp.className = 'badge sub'; gi.parentNode.insertBefore(gi, gp); n.hidden = false; }
+})();
+</script>
+<script>
+/* 🏠 홈페이지 방문 기록(서버 0197 site_visit_put) — 정본 = kids-english-app tools/site/site-visit.html · 사이트에서 손으로 고치지 말고 정본을 고쳐 다시 붙인다(자 arch-site-visit)
+   🔒익명 — vid = 이 브라우저가 만든 무작위 16자(localStorage hb_vid) · 이름·이메일·IP·전체 주소 0 · 바깥 요청 = 아래 RPC 하나뿐
+   보냄 = 들어옴(탭 세션에 한 번) · 체험판 단추 · 베타 칸 보임 · 신청 됨(신청 성공 줄이 window.hbVisit('signup')) · 스토어 단추
+   ?t=1 한 번 = 이 브라우저는 늘 시험(is_test · 셈 밖) · 체험판 단추 주소에 hv=<vid>(체험판 첫 손이 trial_devs.site_vid 로 잇는다)
+   🤖0198 봇(UA 낱말 = engine/human-gate BOT_UA_WORDS · navigator.webdriver) = 줄 0(서버에 «봇 한 번»만) · 그 밖 = 사람 신호(진짜 누름·터치·키·휠 또는 보이고 초점 15초) 전까지 보내기를 미룸(미룬 것은 차례대로 그대로)
+   시험 문 = ?t=1 · ?hm=1 · localStorage hbb-human=1(스모크) · 공유 신호 window.hbHuman = { bot, seen(), on(cb) }(Meta 픽셀 등) */
+(function(){
+  var URL_ = 'https://nvokkscghiqlohwbujso.supabase.co/rest/v1/rpc/site_visit_put';
+  var KEY = 'sb_publishable_f4Ax5r5859lJ-JcC_ffJeQ_fDVdiaLv';
+  var OPENED = [['kakao', 'KAKAOTALK'], ['threads', 'Barcelona'], ['insta', 'Instagram'], ['fb', 'FBAN|FBAV|FB_IAB'], ['naver', 'NAVER\\(inapp'], ['youtube', 'com\\.google\\.android\\.youtube|YouTube'], ['tiktok', 'musical_ly|BytedanceWebview|TikTok'], ['x', 'Twitter'], ['line', ' Line/']];
+  var BOTS = ['headlesschrome', 'headlessedg', 'phantomjs', 'puppeteer', 'playwright', 'lighthouse', 'selenium', 'googlebot', 'adsbot', 'mediapartners', 'google-inspectiontool', 'googleother', 'google-pagerenderer', 'google-safety', 'google web preview', 'apis-google', 'storebot-google', 'feedfetcher', 'bingbot', 'bingpreview', 'msnbot', 'yandex', 'baiduspider', 'duckduckbot', 'applebot', 'petalbot', 'bytespider', 'semrushbot', 'ahrefsbot', 'mj12bot', 'dotbot', 'gptbot', 'claudebot', 'ccbot', 'facebookexternalhit', 'facebot', 'meta-externalagent', 'meta-externalfetcher', 'twitterbot', 'slackbot', 'slack-imgproxy', 'discordbot', 'telegrambot', 'linkedinbot', 'pinterestbot', 'redditbot', 'whatsapp/', 'skypeuripreview', 'embedly', 'iframely', 'vkshare', 'kakaotalk-scrap', 'yeti/', 'daumoa', 'python-requests', 'python-urllib', 'curl/', 'wget/', 'go-http-client', 'okhttp', 'node-fetch', 'axios/', 'crawler', 'spider'];
+  function get(k){ try { return localStorage.getItem(k); } catch (e) { return null; } }
+  function put(k, v){ try { localStorage.setItem(k, v); } catch (e) {} }
+  function part(v){ v = String(v || '').trim().toLowerCase().replace(/[^a-z0-9._-]+/g, '-').replace(/^-+|-+$/g, '').slice(0, 64); return v || null; }
+  function path(p){ p = String(p || '').toLowerCase(); return /^\/[a-z0-9\/_.-]{0,40}$/.test(p) ? p : null; }
+  var vid = get('hb_vid');
+  if (!/^[a-z0-9]{16}$/.test(vid || '')) {
+    vid = '';
+    var c = window.crypto && crypto.getRandomValues ? crypto.getRandomValues(new Uint8Array(16)) : null;
+    for (var i = 0; i < 16; i++) vid += ((c ? c[i] : Math.floor(Math.random() * 256)) % 36).toString(36);
+    put('hb_vid', vid);
+  }
+  var q; try { q = new URLSearchParams(location.search); } catch (e) { q = { get: function(){ return null; } }; }
+  if (q.get('t') === '1') put('hb_vtest', '1');
+  var test = get('hb_vtest') === '1';
+  if (q.get('hm') === '1') put('hbb-human', '1');
+  var pass = test || get('hbb-human') === '1';
+  var lua = (navigator.userAgent || '').toLowerCase(), bot = false;
+  for (var b = 0; b < BOTS.length; b++) if (lua.indexOf(BOTS[b]) >= 0) bot = true;
+  if (navigator.webdriver === true) bot = true;
+  if (pass) bot = false;
+  var seen = pass, wait = [], quiet = 0, tick = null, EVS = ['pointerdown', 'touchstart', 'keydown', 'wheel'];
+  function human(e){
+    if (seen || bot || (e && e.isTrusted === false)) return;
+    seen = true;
+    for (var k = 0; k < EVS.length; k++) document.removeEventListener(EVS[k], human, true);
+    if (tick) clearInterval(tick);
+    var w = wait; wait = []; for (var n = 0; n < w.length; n++) w[n]();
+  }
+  function onHuman(cb){ if (seen) cb(); else if (!bot) wait.push(cb); }
+  window.hbHuman = { bot: bot, seen: function(){ return seen; }, on: onHuman };
+  if (!seen && !bot) {
+    for (var k0 = 0; k0 < EVS.length; k0++) document.addEventListener(EVS[k0], human, { capture: true, passive: true });
+    tick = setInterval(function(){ quiet = document.visibilityState === 'visible' && document.hasFocus && document.hasFocus() ? quiet + 1000 : 0; if (quiet >= 15000) human(); }, 1000);
+  }
+  function send(ev, info){
+    if (bot) return;
+    onHuman(function(){ post(ev, info); });
+  }
+  function post(ev, info){
+    if (ev === 'land') { try { sessionStorage.setItem('hb_vland', '1'); } catch (e) {} }
+    if (test) { info = info || {}; info.test = true; }
+    var o = { method: 'POST', headers: { 'Content-Type': 'application/json', 'apikey': KEY }, body: JSON.stringify({ p_vid: vid, p_ev: ev, p_info: info || {} }) };
+    try { o.keepalive = true; fetch(URL_, o).catch(function(){}); }
+    catch (e) { try { delete o.keepalive; fetch(URL_, o).catch(function(){}); } catch (e2) {} }
+  }
+  window.hbVisit = function(ev){ if (ev === 'signup') send('signup'); };
+
+  if (bot) { var bs; try { bs = sessionStorage.getItem('hb_vbot'); sessionStorage.setItem('hb_vbot', '1'); } catch (e) { bs = null; } if (!bs) post('bot'); return; }   // 봇 = 탭 세션에 한 번 셈만(줄 0)
+  var once; try { once = sessionStorage.getItem('hb_vland'); } catch (e) { once = null; }
+  if (!once) {
+    var ua = navigator.userAgent || '', open = 'web', dev = 'pc', ref = null, via = null;
+    for (var j = 0; j < OPENED.length; j++) if (new RegExp(OPENED[j][1], 'i').test(ua)) { open = OPENED[j][0]; break; }
+    if (/android/i.test(ua)) dev = 'and'; else if (/iphone|ipad|ipod/i.test(ua) || (/Macintosh/.test(ua) && navigator.maxTouchPoints > 1)) dev = 'ios';
+    try {
+      var r = document.referrer ? new URL(document.referrer) : null;
+      if (r && r.hostname === location.hostname) { if (r.pathname !== location.pathname) via = path(r.pathname); }
+      else if (r && /^https?:$/.test(r.protocol)) ref = r.hostname.toLowerCase().slice(0, 100);
+    } catch (e) {}
+    var u = { s: part(q.get('utm_source')), m: part(q.get('utm_medium')), c: part(q.get('utm_campaign')), t: part(q.get('utm_content')) };
+    send('land', { u: u, ref: ref, land: path(location.pathname), via: via, dev: dev, open: open, src: u.s || via || ref || 'direct' });
+  }
+
+  function isTrial(a){ return a.hostname === location.hostname && /^\/play(\/|$)/.test(a.pathname); }
+  function tag(a){ try { var x = new URL(a.href); x.searchParams.set('hv', vid); a.href = x.toString(); } catch (e) {} }
+  Array.prototype.forEach.call(document.querySelectorAll('a[href]'), function(a){ if (isTrial(a)) tag(a); });
+  document.addEventListener('click', function(ev){
+    var a = ev.target && ev.target.closest ? ev.target.closest('a[href]') : null;
+    if (!a) return;
+    if (isTrial(a)) { tag(a); send('trial'); }
+    else if (/(^|\.)play\.google\.com$|(^|\.)apps\.apple\.com$|(^|\.)itunes\.apple\.com$|(^|\.)testflight\.apple\.com$/.test(a.hostname)) send('store');
+  }, true);
+
+  var beta = document.querySelector('#beta, #go');
+  if (beta && 'IntersectionObserver' in window && get('hb_vseen') !== '1') {
+    var io = new IntersectionObserver(function(es){ if (es[0].isIntersecting) { put('hb_vseen', '1'); send('beta_seen'); io.disconnect(); } }, { threshold: 0.4 });
+    io.observe(beta);
+  }
+})();
+</script>
+</body>
+</html>
