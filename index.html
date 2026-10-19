@@ -222,6 +222,8 @@ body.has-bar footer{padding-bottom:6rem}
 .btn.th-go:hover{filter:brightness(1.04)}
 .btn.th-go:focus-visible{outline:3px solid var(--ink);outline-offset:3px}
 .th-pair{color:var(--ink2);font-size:.95rem;margin:.65rem 0 0}
+.th-app{display:inline-flex;align-items:center;justify-content:center;min-height:3rem;width:min(100%,19rem);margin:1.4rem auto 0;padding:.6rem 1.2rem;border:2px solid var(--ink);border-radius:999px;color:var(--ink);font-weight:700;text-decoration:none}
+.th-ios{color:var(--ink2);font-size:.88rem;margin:.5rem 0 0}
 @media (prefers-reduced-motion:no-preference){
   .th-art img{animation:th-bob 2.6s ease-in-out infinite}
   .th-art img:nth-child(2){animation-delay:-.9s}
@@ -397,22 +399,24 @@ main #en .lead{font-size:1rem}
 <body>
 
 <section class="th" aria-labelledby="th-q">
-  <p id="th-q" class="th-q">해외 나가면 나는?</p>
-  <p class="th-sub">3분 해외 생존 유형 테스트 · 설치 없이</p>
+  <p id="th-q" class="th-q">놀다 보면<br>영어 단어가 남아요</p>
+  <p class="th-sub">빵용이랑 하는 영단어 힐링 게임</p>
   <div class="th-art" aria-hidden="true">
-    <img src="/t/art/W4R4A4-mustard.webp" alt="" width="374" height="512" decoding="async">
-    <img src="/t/art/W1R4A4-blue.webp" alt="" width="438" height="512" fetchpriority="high">
-    <img src="/t/art/W1R4A2-rosered.webp" alt="" width="384" height="512" decoding="async">
+    <img src="/img/th-mustard.webp" alt="" width="374" height="512" decoding="async">
+    <img src="/img/th-blue.webp" alt="" width="438" height="512" fetchpriority="high">
+    <img src="/img/th-rosered.webp" alt="" width="384" height="512" decoding="async">
   </div>
-  <a class="btn th-go" href="/play/?utm_source=homepage&amp;utm_medium=hero">내 유형 알아보기</a>
+  <a class="btn th-go" href="/play/?utm_source=homepage&amp;utm_medium=hero">설치 없이 3분 맛보기</a>
   <script>(function(){try{var q=new URLSearchParams(location.search),o=new URLSearchParams();if(q.get('utm_source')){['utm_source','utm_medium','utm_campaign'].forEach(function(k){var v=q.get(k);if(v)o.set(k,v.slice(0,64))});o.set('utm_content','hero')}if(q.get('t')==='1')o.set('t','1');if(!o.toString())return;if(!o.get('utm_source')){o.set('utm_source','homepage');o.set('utm_medium','hero')}document.querySelectorAll('a.th-go').forEach(function(a){a.href='/play/?'+o.toString()})}catch(e){}})();</script>
-  <p class="th-pair">친구랑 하면 여행 궁합까지</p>
+  <p class="th-pair">단어 4개 배우고 · 미니게임 한 판</p>
+  <a class="th-app" href="https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&amp;referrer=utm_source%3Dsite%26utm_medium%3Dhero%26utm_campaign%3Dalways">바로 앱 받기 · Google Play</a>
+  <p class="th-ios">아이폰 앱은 App Store 심사 중이에요</p>
 </section>
 
 <section id="app" class="ap" aria-labelledby="ap-h">
   <h2 id="ap-h">하이빵용은 이런 앱이에요</h2>
   <div class="ap-v">
-    <video id="apv" src="/app-intro/intro.mp4" poster="/app-intro/intro_poster.webp" muted playsinline loop preload="metadata" aria-label="하이빵용 앱 소개 영상(39초)"></video>
+    <video id="apv" src="/intro/intro.mp4" poster="/intro/intro_poster.webp" muted playsinline loop preload="metadata" aria-label="하이빵용 앱 소개 영상(39초)"></video>
     <button id="aps" class="ap-snd" type="button">소리 켜기</button>
   </div>
   <p class="ap-note">지금 바로 받을 수 있어요 · 아래에서 받아 보세요</p>
