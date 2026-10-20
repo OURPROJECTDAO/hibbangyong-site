@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/cessation/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/cessation/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/cessation/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "cessation",
  "slug": "cessation",
  "url": "https://hibbangyong.com/words/cessation/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, cessation 맞아",
    "why": "맞아! 3년 동안 매일 다니던 버스가 이번 달부터 운행을 멈췄잖아. 계속되던 게 딱 멈춘 거니까 바로 그게 cessation이야."
-  },
-  {
-   "type": "ox",
-   "question": "동네에 새로 생긴 빵집이 오늘 아침부터 영업을 시작했어. 이건 'cessation'이야?",
-   "choices": [
-    "응, cessation 맞아",
-    "아니, cessation 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, cessation 아니야",
-   "why": "맞아, cessation이 아니야! 빵집 영업은 없던 게 오늘 아침 새로 시작된 거잖아. cessation은 계속되던 게 멈추는 거라서, 시작은 정반대 방향이야."
-  },
-  {
-   "type": "choice",
-   "question": "네 가지 상황이 있어. 이 중에서 'cessation'이 일어난 건 어느 거야?",
-   "choices": [
-    "조용하던 교실에 갑자기 음악이 울리기 시작했어",
-    "내일 하려던 체육대회가 비 때문에 취소됐어",
-    "하루 종일 돌던 공장 기계가 밤 10시에 멈췄어",
-    "쉬지 않던 비가 점점 더 세차게 쏟아졌어"
-   ],
-   "answer_index": 2,
-   "answer": "하루 종일 돌던 공장 기계가 밤 10시에 멈췄어",
-   "why": "맞아! 공장 기계는 하루 종일 쉬지 않고 돌고 있었잖아. 이미 계속되던 그 움직임이 밤 10시에 멈췄으니까, 바로 그게 cessation인 거야."
   }
  ],
  "synonyms": [

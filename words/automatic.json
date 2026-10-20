@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/automatic/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/automatic/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/automatic/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "automatic",
  "slug": "automatic",
  "url": "https://hibbangyong.com/words/automatic/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, automatic 맞아",
    "why": "맞아! 아무도 스위치를 안 눌렀는데 불이 켜졌잖아. 사람이 안 해줘도 알아서 켜진 거니까 바로 그게 automatic인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "동생이 사탕 통을 들고 와서 뚜껑을 두 손으로 잡고 힘껏 돌려서 열었어. 이렇게 뚜껑을 여는 건 'automatic'이야?",
-   "choices": [
-    "응, automatic 맞아",
-    "아니, automatic 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, automatic 아니야",
-   "why": "맞아! 두 손으로 힘껏 돌려서 열었잖아. 동생이 안 돌리면 뚜껑은 그냥 가만히 있거든. 내가 힘써야 열리는 건 automatic이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "아이 넷이 오늘 있었던 일을 말했어. 이 중에 'automatic'이라고 할 수 있는 건 누구야?",
-   "choices": [
-    "뒤에서 쿵 소리가 나자 어깨가 저 혼자 움찔한 지호",
-    "친구를 웃기려고 일부러 우스운 표정을 지은 민서",
-    "선생님이 시켜서 칠판을 싹싹 지우고 온 예린",
-    "달리기가 너무 힘들어서 중간에 멈춰 선 태오"
-   ],
-   "answer_index": 0,
-   "answer": "뒤에서 쿵 소리가 나자 어깨가 저 혼자 움찔한 지호",
-   "why": "맞아! 쿵 소리에 지호 어깨가 저 혼자 움찔한 건 지호가 움찔하자고 마음먹은 게 아니잖아. 몸이 알아서 그렇게 된 거, 그게 바로 automatic이야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/automatic.webp",
   "alt": "시키지 않아도 저절로 깜빡이는 눈",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

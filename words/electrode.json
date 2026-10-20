@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/electrode/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/electrode/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/electrode/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "electrode",
  "slug": "electrode",
  "url": "https://hibbangyong.com/words/electrode/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, electrode 맞아",
    "why": "맞아! 전선은 금속판까지만 오고, 약품에 직접 닿아 있는 건 금속판이야. 전기가 그 금속판을 거쳐 약품 속으로 들어가니까, 이 금속판이 바로 electrode인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "전봇대 꼭대기에서 전깃줄을 붙잡고 있는 하얀 도자기 뭉치가 있어. 이 도자기는 전깃줄의 전기가 전봇대 쪽으로 새어 나가지 못하게 막아 줘. 이 도자기는 'electrode'야?",
-   "choices": [
-    "응, electrode 맞아",
-    "아니, electrode 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, electrode 아니야",
-   "why": "맞아! 이 도자기는 전깃줄의 전기가 전봇대 쪽으로 새어 나가지 못하게 막아 주잖아. electrode는 전기를 다른 물질 속으로 넣거나 거기서 받아내는 부분인데, 이 도자기는 전기를 넘겨주지 않고 막으니까 하는 일이 정반대야."
-  },
-  {
-   "type": "choice",
-   "question": "가스레인지를 딸깍 켜서 불이 붙기까지 여러 부품이 일해. 이 중 'electrode'라고 부를 수 있는 건?",
-   "choices": [
-    "버너 옆에서 전기를 공기 중으로 튀겨 불꽃을 만드는 작은 쇠붙이",
-    "레인지 안쪽에서 불꽃 장치까지 전기를 실어 오는 가는 전선",
-    "전선이 열에 녹지 않도록 겉을 둘러싸고 있는 하얀 껍질",
-    "불꽃 장치로 전기를 보낼지 말지 정해 주는 딸깍 스위치"
-   ],
-   "answer_index": 0,
-   "answer": "버너 옆에서 전기를 공기 중으로 튀겨 불꽃을 만드는 작은 쇠붙이",
-   "why": "맞아! 버너 옆 작은 쇠붙이는 전선으로 실려 온 전기를 공기 중으로 튀겨서 불꽃을 만들잖아. 전기가 공기라는 다른 물질로 넘어가는 바로 그 자리라서 electrode인 거야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/electrode.webp",
   "alt": "과학 시간 소금물 컵에 쇠막대 두 개 꽂기(전기분해 실험)",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

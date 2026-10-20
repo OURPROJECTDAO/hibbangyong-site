@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/testimony/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/testimony/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/testimony/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "testimony",
  "slug": "testimony",
  "url": "https://hibbangyong.com/words/testimony/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, testimony 맞아",
    "why": "맞아! 아저씨는 파란 차가 흰 차를 박는 걸 바로 옆에서 직접 봤고, 그걸 조사하는 경찰관 앞에서 사실이라고 말했잖아. 직접 본 사람이 조사하는 자리에서 본 일을 내놓는 말, 바로 그게 testimony야."
-  },
-  {
-   "type": "ox",
-   "question": "학교 매점에서 돈통이 없어져서 선생님들이 누가 가져갔는지 조사하고 있어. 그런데 반 단체 채팅방에 '2학년 누가 가져갔다더라'라는 말이 누가 처음 했는지도 모른 채 여기저기 퍼졌어. 채팅방에 퍼진 이 말은 'testimony'야?",
-   "choices": [
-    "응, testimony 맞아",
-    "아니, testimony 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, testimony 아니야",
-   "why": "맞아! 채팅방에 퍼진 그 말은 누가 처음 했는지도 모르고, 돈통 가져가는 걸 직접 본 사람이 나선 것도 아니잖아. 그러니까 그냥 소문이지 testimony가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "지난주에 체육관 창문이 깨져서 선생님들이 누가 그랬는지 알아보고 있어. 다음 중 'testimony'라고 부를 수 있는 건?",
-   "choices": [
-    "그 시간 체육관에 있던 수아가 선생님께 불려 가 그때 일을 말했어",
-    "옆 반 민호가 친구들한테 아마 3반 애들일 거라고 자기 생각을 말했어",
-    "복도에서 누가 깼다더라 하는 이야기가 이 반 저 반으로 퍼졌어",
-    "청소하던 형이 창문 밑 화단에서 찌그러진 축구공 하나를 찾아냈어"
-   ],
-   "answer_index": 0,
-   "answer": "그 시간 체육관에 있던 수아가 선생님께 불려 가 그때 일을 말했어",
-   "why": "맞아! 수아는 그 시간에 체육관에 있었고, 선생님이 알아보는 자리에 불려 가서 자기가 겪은 일을 말했잖아. 직접 본 사람이 조사하는 자리에서 내놓은 말이라서 그게 바로 testimony인 거야. 법정이 아니라 학교여도 똑같아."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/testimony.webp",
   "alt": "체육관 창문이 깨진 뒤 그 자리에 있던 학생이 선생님 앞에서 본 것을 말하는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

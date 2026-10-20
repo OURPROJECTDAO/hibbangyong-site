@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/boost/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/boost/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/boost/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "boost",
  "slug": "boost",
  "url": "https://hibbangyong.com/words/boost/",
@@ -43,32 +43,6 @@
    "answer_index": 1,
    "answer": "아니, boost 아니야",
    "why": "맞아! 물줄기를 가늘게 만든 건 아래로 줄인 거잖아. boost는 있던 걸 더 세게, 더 많이 되게 위로 확 밀어 올리는 거라서 이건 boost가 아닌 게 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "아이 넷이 방과 후에 한 일을 말했어. 이 중에 자기가 한 일을 'boost'라고 말할 수 있는 아이는?",
-   "choices": [
-    "원래 조금 나오던 선풍기 바람을, 단추를 눌러 훨씬 세게 나오게 했어",
-    "원래 켜져 있던 선풍기를, 단추를 눌러 딱 멈추게 했어",
-    "원래 책상에 놓여 있던 선풍기를, 창문 쪽으로 옮겨 놓았어",
-    "원래 먼지가 붙어 있던 선풍기 날개를, 수건으로 닦아 놓았어"
-   ],
-   "answer_index": 0,
-   "answer": "원래 조금 나오던 선풍기 바람을, 단추를 눌러 훨씬 세게 나오게 했어",
-   "why": "맞아! 원래도 바람이 조금은 나오고 있었는데 거기서 더 세게 만들었잖아. 있던 걸 위로 확 밀어 올린 거니까 그게 바로 boost야."
-  },
-  {
-   "type": "choice",
-   "question": "학교 축제에서 아이 넷이 각자 한 일을 말했어. 이 중에 자기가 한 일을 'boost'라고 말할 수 있는 아이는?",
-   "choices": [
-    "원래도 조금씩 오던 손님을, 노래를 크게 틀어서 훨씬 많이 오게 했어",
-    "손님이 한 명도 없던 빈 구석에, 새 가게를 처음 차려서 열었어",
-    "너무 많이 몰리던 손님을, 줄을 나눠서 조금씩 덜 오게 했어",
-    "오는 손님 수는 그대로인데, 앉는 자리를 깔끔하게 다시 정리했어"
-   ],
-   "answer_index": 0,
-   "answer": "원래도 조금씩 오던 손님을, 노래를 크게 틀어서 훨씬 많이 오게 했어",
-   "why": "맞아! 손님이 원래도 조금씩은 오고 있었는데, 노래를 크게 틀어서 그 오던 수가 훨씬 위로 올라간 거잖아. 있던 걸 더 많아지게 확 밀어 올린 거, 그게 바로 boost야."
   }
  ],
  "synonyms": [],
@@ -88,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/boost.webp",
   "alt": "이미 흔들리던 그네를 뒤에서 밀어 더 높이 올리기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

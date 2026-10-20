@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/combustion/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/combustion/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/combustion/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "combustion",
  "slug": "combustion",
  "url": "https://hibbangyong.com/words/combustion/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, combustion 맞아",
    "why": "맞아! 성냥개비 끝이 불붙어서 열이랑 빛을 내며 타 들어가잖아. 산소랑 만나서 진짜로 타는 거니까 바로 그게 combustion이야."
-  },
-  {
-   "type": "ox",
-   "question": "쓰레기통에서 작은 불이 났는데, 소화기 가루로 덮었더니 불이 완전히 꺼져서 이제 아무것도 타지 않아. 이렇게 불이 꺼져 버린 상태가 'combustion'이야?",
-   "choices": [
-    "응, combustion 맞아",
-    "아니, combustion 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, combustion 아니야",
-   "why": "그렇지, 아니야! 소화기 가루가 불을 덮어서 산소가 못 들어가니까 이제 아무것도 안 타잖아. combustion은 진짜로 타고 있어야 하는 거라, 불이 꺼진 쓰레기통은 combustion이 아니야."
-  },
-  {
-   "type": "choice",
-   "question": "오토바이 엔진 이야기를 하다가 'combustion'이라는 말이 나왔어. 이 맥락에서 이 말이 가리키는 장면으로 맞는 건 어느 거야?",
-   "choices": [
-    "엔진 안에서 연료가 밖으로는 안 보이게 타며 바퀴를 돌리는 것",
-    "브레이크를 세게 잡아 바퀴와 바닥이 마찰하며 뜨거워지고 끼익 소리가 나는 것",
-    "엔진이 너무 뜨거워져서 안쪽 고무 부품이 녹아내리는 것",
-    "엔진의 쇠 부품이 빗물에 오래 젖어 천천히 녹스는 것"
-   ],
-   "answer_index": 0,
-   "answer": "엔진 안에서 연료가 밖으로는 안 보이게 타며 바퀴를 돌리는 것",
-   "why": "맞아! 밖에서는 불꽃이 안 보여도 엔진 안에서는 연료가 산소랑 만나 진짜로 타고 있어. 그 힘으로 바퀴가 도는 거니까 이게 바로 combustion이야."
   }
  ],
  "synonyms": [],
@@ -83,6 +59,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/combustion.webp",
   "alt": "가스레인지·촛불·모닥불이 타는 모습",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/let/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/let/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/let/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "let",
  "slug": "let",
  "url": "https://hibbangyong.com/words/let/",
@@ -45,17 +45,6 @@
    "answer_index": 0,
    "answer": "동생이 놀고 싶어 하니까 막지 않고 \"그래, 놀아\" 하고 그냥 뒀어.",
    "why": "맞아! 동생이 놀고 싶어 하는 걸 막지 않고 그냥 하게 뒀잖아. 그렇게 하고 싶은 대로 놔두는 게 바로 let이야."
-  },
-  {
-   "type": "ox",
-   "question": "책상 위에 장난감이 어질러져 있어. 아무도 갖고 놀고 싶어 하지도 않고, 그냥 아무도 안 치우고 그대로 놔뒀어. 이것도 'let'이라고 할 수 있어?",
-   "choices": [
-    "응, let 맞아.",
-    "아니, let 아니야."
-   ],
-   "answer_index": 1,
-   "answer": "아니, let 아니야.",
-   "why": "그렇지! let은 누가 하고 싶어 하는 걸 못 하게 안 막고 두는 거잖아. 근데 여기선 장난감 갖고 놀고 싶어 하는 사람이 아무도 없어. 하고 싶어 하는 게 없으니까 놔둘 것도 없는 거야. 그래서 이건 let이 아니야."
   }
  ],
  "synonyms": [
@@ -77,6 +66,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/let.webp",
   "alt": "동생이 자전거를 타고 싶어 하자 막지 않고 그냥 타게 둔 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

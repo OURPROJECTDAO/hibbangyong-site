@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/slim/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/slim/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/slim/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "slim",
  "slug": "slim",
  "url": "https://hibbangyong.com/words/slim/",
@@ -45,32 +45,6 @@
    "answer_index": 1,
    "answer": "종이 한 장처럼 얇디얇은 책받침",
    "why": "맞아! 종이 한 장처럼 두께가 거의 없이 얇디얇잖아. 살이 하나도 없이 가느다란 거, 바로 그게 slim인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "지호가 동전 던지기 전에 '내가 이길 가능성은 slim해'라고 했어. 지호는 어떻게 생각하는 걸까?",
-   "choices": [
-    "이길 가능성이 거의 없다고 본다",
-    "이길 가능성이 아주 많다고 본다",
-    "이길 가능성이 딱 반반이라고 본다",
-    "이길지 이미 정해졌다고 본다"
-   ],
-   "answer_index": 0,
-   "answer": "이길 가능성이 거의 없다고 본다",
-   "why": "맞아! slim은 거의 없다시피 적다는 뜻이라서, 이길 가능성이 손톱만큼 적다고 본 거야. 그래서 거의 없다고 보는 게 딱 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "다음 중 'slim'에 해당하는(맞는) 것은?",
-   "choices": [
-    "주머니에 동전이 묵직하게 가득 찼다",
-    "주머니가 온통 새빨갛게 물들어 있다",
-    "주머니에 동전이 달랑 한 개뿐이다",
-    "주머니에서 시끄러운 소리가 울린다"
-   ],
-   "answer_index": 2,
-   "answer": "주머니에 동전이 달랑 한 개뿐이다",
-   "why": "맞아! 동전이 달랑 한 개뿐이면 양이 손톱만큼 적은 거잖아. 그렇게 거의 없다시피 적은 게 바로 slim이야."
   }
  ],
  "synonyms": [
@@ -89,6 +63,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/slim.webp",
   "alt": "두툼한 사전 옆 얇디얇은 공책 — 살 없이 가느다란 두께, 그리고 손톱만큼 적은 양.",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

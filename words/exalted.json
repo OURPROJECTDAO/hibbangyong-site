@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/exalted/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/exalted/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/exalted/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "exalted",
  "slug": "exalted",
  "url": "https://hibbangyong.com/words/exalted/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, exalted 맞아",
    "why": "맞아! 왕이 궁궐에서 맨 높은 자리에 앉아 있고 신하들이 모두 그 앞에 엎드려 절을 하잖아. 자리가 제일 높아서 다들 우러러보는 사람, 바로 그게 exalted인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "사촌 형이 군대에 막 들어가서 계급이 가장 낮은 이등병이 됐어. 지금 이 형의 자리를 'exalted'라고 할 수 있어?",
-   "choices": [
-    "응, exalted 맞아",
-    "아니, exalted 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, exalted 아니야",
-   "why": "맞아! 이등병은 군대에서 계급이 가장 낮은 자리라서, 아주 높은 자리를 말하는 exalted랑은 정반대야. 이 형 자리는 맨 아래(이건 lowly야)라고 하는 게 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "실력으로 이름을 날린 적은 한 번도 없지만, 이번에 국회의장 자리에 오른 정치인이 있어. 이런 사람도 'exalted'야?",
-   "choices": [
-    "응, 'exalted' 맞아",
-    "아니, 'exalted' 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, 'exalted' 맞아",
-   "why": "맞아! 실력으로 이름을 날린 적은 없어도 국회의장이라는 아주 높은 자리에 올랐잖아. 그 자리 때문에 사람들이 올려다보는 거니까 바로 exalted인 거야."
   }
  ],
  "synonyms": [],

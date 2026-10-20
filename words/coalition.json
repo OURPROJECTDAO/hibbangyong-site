@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/coalition/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/coalition/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/coalition/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "coalition",
  "slug": "coalition",
  "url": "https://hibbangyong.com/words/coalition/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, coalition 맞아",
    "why": "맞아! 노인회, 청년회, 학교 운영위원회가 이름과 회비는 각자 따로 두고 노선을 지키는 일 하나로만 손잡았잖아. 셋이 한 모임으로 합친 게 아니라 목표 하나로 묶인 거라서 바로 그게 coalition인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "동네 빈터에 놀이터를 만들자는 이야기가 나오자 부녀회, 체육회, 청소년 봉사단이 각자 따로 구청에 계획서를 냈어. 세 모임은 서로 자기 계획이 뽑히도록 겨뤘어. 이 세 모임의 모습이 'coalition'이야?",
-   "choices": [
-    "응, coalition 맞아",
-    "아니, coalition 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, coalition 아니야",
-   "why": "맞아! 부녀회, 체육회, 청소년 봉사단이 손을 잡은 게 아니라 각자 따로 계획서를 내고 서로 자기 계획이 뽑히게 겨뤘잖아. 한 목표로 같이 뭉쳐야 coalition인데, 이건 따로따로 겨룬 거라 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "동네 조기축구회 두 곳은 경기 때마다 싸워서 사이가 아주 나빠. 그런데 구청이 공설 운동장을 없애겠다고 하자, 두 모임이 이름은 각자 그대로 두고 운동장을 지키려고 같이 구청에 요구하기로 했어. 이런 경우도 'coalition'이야?",
-   "choices": [
-    "응, coalition 맞아",
-    "아니, coalition 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, coalition 맞아",
-   "why": "맞아! 두 조기축구회는 사이가 아주 나쁘지만, 이름은 각자 그대로 두고 운동장을 지키겠다는 목표 하나로 같이 구청에 요구하기로 했잖아. 바로 그게 coalition이야."
   }
  ],
  "synonyms": [
@@ -80,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/coalition.webp",
   "alt": "선거 뒤 의석이 모자라 다투던 정당들이 손잡음",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

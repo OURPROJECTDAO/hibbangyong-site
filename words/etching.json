@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/etching/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/etching/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/etching/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "etching",
  "slug": "etching",
  "url": "https://hibbangyong.com/words/etching/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, etching 맞아",
    "why": "맞아! 할아버지 말대로 구리판에 선을 새기고, 그 홈에 잉크를 채워서 종이에 꾹 눌러 찍어 냈잖아. 금속판에 새긴 선으로 찍어 낸 그림이니까 바로 그게 etching인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "이모가 거실에 걸 해바라기 그림을 완성했어. 캔버스를 이젤에 세워 두고, 붓에 물감을 묻혀 캔버스 위에 바로 칠해서 그린 거래. 이 해바라기 그림은 'etching'이야?",
-   "choices": [
-    "응, etching 맞아",
-    "아니, etching 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, etching 아니야",
-   "why": "잘 봤어! 이모는 붓에 물감을 묻혀 캔버스에 바로 칠했잖아. 판을 파서 잉크로 찍어 낸 게 아니니까 etching이 아닌 게 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "미술 시간에 선으로 된 그림 네 장을 봤어. 그중 'etching'이라고 부를 수 있는 건?",
-   "choices": [
-    "나무판을 칼로 파고 잉크를 묻혀 종이에 찍어 낸 그림",
-    "금속판을 약품으로 파고 잉크를 묻혀 종이에 찍어 낸 그림",
-    "금속판 위에 붓으로 물감을 묻혀 선을 바로 그린 그림",
-    "종이 위에 펜으로 잉크를 묻혀 선을 바로 그린 그림"
-   ],
-   "answer_index": 1,
-   "answer": "금속판을 약품으로 파고 잉크를 묻혀 종이에 찍어 낸 그림",
-   "why": "맞아! 금속판을 약품으로 파고 잉크를 묻혀 종이에 찍어 냈잖아. 금속판에다가 파서 찍어 내기까지, 두 가지가 다 들어 있으니까 바로 etching인 거야."
   }
  ],
  "synonyms": [],

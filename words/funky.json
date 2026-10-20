@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/funky/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/funky/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/funky/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "funky",
  "slug": "funky",
  "url": "https://hibbangyong.com/words/funky/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, funky 아니야",
    "why": "맞아! 아빠도 버스 속 회사원 아저씨들도 거의 다 회색 정장에 검은 구두라서 남다른 데가 하나도 없잖아. funky는 흔한 것과 확 달라서 튀어야 하니까 이 차림은 funky가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "담임 선생님이 공룡 무늬 넥타이에 노란색 동그란 안경을 쓰고 왔어. 다른 선생님들과는 확 다른 차림인데, 반 애들이 '그 넥타이 어디서 샀어요?' 하고 물어봤어. 이 선생님 차림은 'funky'야?",
-   "choices": [
-    "응, funky 맞아",
-    "아니, funky 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, funky 맞아",
-   "why": "맞아! 공룡 무늬 넥타이에 노란색 동그란 안경이면 다른 선생님들과 확 다른 차림이잖아. 그런데 반 애들이 그 넥타이 어디서 샀냐고 물어볼 만큼 멋있게 봤으니까, 남다르면서 멋진 funky가 딱 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "동네에 새로 생긴 카페 네 곳이야. 'funky'라는 말이 가장 잘 어울리는 곳은?",
-   "choices": [
-    "오래된 버스를 고쳐 만들고 좌석마다 색이 다른 카페",
-    "호텔처럼 대리석 바닥에 금색 조명을 단 카페",
-    "다른 체인점과 똑같은 의자와 메뉴판을 쓰는 카페",
-    "벽지가 찢어지고 의자가 삐걱거리는 낡은 카페"
-   ],
-   "answer_index": 0,
-   "answer": "오래된 버스를 고쳐 만들고 좌석마다 색이 다른 카페",
-   "why": "맞아! 오래된 버스를 카페로 고치고 좌석마다 색까지 다르게 했으니까, 흔하지 않은데 멋있기도 하잖아. 남다르면서 멋진 것, 그게 바로 funky야."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/funky.webp",
   "alt": "레코드판과 알록달록한 전구로 꾸민 친구 방",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

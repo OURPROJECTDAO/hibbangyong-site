@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/economy/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/economy/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/economy/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "economy",
  "slug": "economy",
  "url": "https://hibbangyong.com/words/economy/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, economy 맞아",
    "why": "맞아! 나무 깎아 의자 만들고, 그 돈으로 우유 사고, 우유 판 돈으로 신발 고치고. 이렇게 만들고 일하고 서로 주고받는 게 마을 전체에 빙 물려 도는 거, 그게 바로 economy거든. 산속 작은 마을이라도 똑같아."
-  },
-  {
-   "type": "ox",
-   "question": "지호가 배운 거야. 산에 쌓인 눈이 봄에 녹아 계곡으로 흘러 강으로 가고, 바다에서 물이 증발해 구름이 되고, 구름은 다시 눈이 되어 산에 쌓여. 이게 'economy'야?",
-   "choices": [
-    "응, economy 맞아",
-    "아니, economy 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, economy 아니야",
-   "why": "그렇지! 눈이 녹아 물이 흐르고 구름이 됐다가 다시 눈이 되니까 빙 돌긴 도는데, 여기엔 뭘 만드는 사람도, 일하는 사람도, 서로 주고받는 사람도 하나도 없거든. 돌기만 한다고 다 economy는 아니야. 사람들이 만들고 일하고 주고받아야 economy인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "민서가 세뱃돈으로 받은 오만원짜리 지폐를 책상 위에 딱 펴놓고 한참 들여다봤어. 이 지폐 한 장을 가리키면서 'economy'라고 말해도 될까?",
-   "choices": [
-    "응, 그것도 'economy'야.",
-    "아니, 그건 'economy'가 아니야."
-   ],
-   "answer_index": 1,
-   "answer": "아니, 그건 'economy'가 아니야.",
-   "why": "맞아! 지폐 한 장은 그 살림 안에서 이리저리 오가는 것들 중 하나일 뿐이거든. 만들고, 일하고, 서로 주고받는 게 몽땅 물려서 도는 전체를 말하는 거라서, 책상 위 돈 한 장을 딱 가리키면서 그 말을 쓸 순 없는 거야."
   }
  ],
  "synonyms": [],
@@ -86,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/economy.webp",
   "alt": "빵 굽는 아저씨-사 가는 옆집-신발 사는 아저씨로 물려 도는 동네",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

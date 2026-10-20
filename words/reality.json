@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/reality/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/reality/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/reality/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "reality",
  "slug": "reality",
  "url": "https://hibbangyong.com/words/reality/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, reality 맞아",
    "why": "맞아! 서아는 아침에 엄마랑 같이 진짜로 김밥을 말았고, 지금 식탁 위에 그 김밥이 놓여 있거든. 머릿속으로 그려 본 게 아니라 진짜로 일어난 일이라서 바로 그게 reality인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "서아는 밤에 잠을 자다가 꿈속에서 커다란 용을 타고 하늘을 날았어. 아침에 눈을 떠 보니 서아는 침대 위에 누워 있었어. 서아가 용을 타고 하늘을 난 일은 'reality'야?",
-   "choices": [
-    "응, reality 맞아",
-    "아니, reality 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, reality 아니야",
-   "why": "맞아! 서아가 용을 타고 하늘을 난 건 꿈속에서만 있었던 일이거든. 아침에 눈을 떠 보니 진짜로는 침대 위에 누워 있었잖아. 꿈은 진짜로 일어난 일이 아니라서 reality가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "지우는 치과 가기 전에 엄청 아플 거라고 떠올렸어. 그런데 막상 치료를 받아 보니 하나도 안 아팠어. 이 이야기에서 'reality'는 어느 쪽일까?",
-   "choices": [
-    "가기 전에 엄청 아플 거라고 떠올린 것",
-    "치과에 가기 싫어서 계속 투덜댄 것",
-    "치료받는 동안 하나도 안 아팠던 것",
-    "다음엔 더 아플 거라고 미리 걱정한 것"
-   ],
-   "answer_index": 2,
-   "answer": "치료받는 동안 하나도 안 아팠던 것",
-   "why": "맞아! 지우가 치료를 받아 보니 진짜로 하나도 안 아팠잖아. 머릿속으로 떠올린 게 아니라 정말로 일어난 일이라서, 바로 그게 reality인 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/reality.webp",
   "alt": "소풍 전날 밤 비·긴 줄을 상상했는데 실제로는 맑고 줄이 짧았던 날",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

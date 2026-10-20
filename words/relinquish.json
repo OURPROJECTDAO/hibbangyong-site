@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/relinquish/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/relinquish/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/relinquish/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "relinquish",
  "slug": "relinquish",
  "url": "https://hibbangyong.com/words/relinquish/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, relinquish 맞아",
    "why": "맞아! 왕이 40년 동안 쥐고 있던 왕의 자리를 스스로 놓아서 아들에게 가게 했잖아. 그래서 바로 그게 relinquish인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "작은 빵집 사장님이 큰 회사에게서 가게를 넘기라는 제안을 여러 번 받았지만, 끝까지 가게를 직접 운영했어. 이 일을 'relinquish'로 말할 수 있을까?",
-   "choices": [
-    "응, relinquish 맞아",
-    "아니, relinquish 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, relinquish 아니야",
-   "why": "맞아! 사장님은 넘기라는 제안을 여러 번 받고도 끝까지 가게를 직접 운영했잖아. relinquish는 쥐고 있던 걸 내 쪽에서 놓아서 남한테 넘겨주는 건데, 사장님은 가게를 하나도 놓지 않았으니까 딱 반대인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "역사책에 이런 내용이 있어. '아주 오래전, 한 나라가 바다 건너 섬을 다스릴 권리를 이웃 나라에 relinquish했다.' 여기서 'relinquish'는 어떤 뜻에 가장 가까울까?",
-   "choices": [
-    "그 섬을 다스릴 권리를 스스로 놓아서 이웃 나라가 갖게 했어.",
-    "그 섬을 다스릴 권리를 전쟁에서 져서 이웃 나라에 빼앗겼어.",
-    "그 섬을 다스리려고 세운 계획을 중간에 그만두고 말았어.",
-    "그 섬을 다스릴 권리를 이웃 나라로부터 끝까지 지켜 냈어."
-   ],
-   "answer_index": 0,
-   "answer": "그 섬을 다스릴 권리를 스스로 놓아서 이웃 나라가 갖게 했어.",
-   "why": "맞아! 그 나라가 섬을 다스릴 권리를 스스로 놓아서 이웃 나라가 갖게 한 거니까, 바로 그게 relinquish야. 쥐고 있던 권리를 내 쪽에서 내준 거지."
   }
  ],
  "synonyms": [
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/relinquish.webp",
   "alt": "3학년 2학기 동아리 회장 자리를 후배에게 넘기는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

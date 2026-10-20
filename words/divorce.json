@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/divorce/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/divorce/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/divorce/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "divorce",
  "slug": "divorce",
  "url": "https://hibbangyong.com/words/divorce/",
@@ -43,19 +43,6 @@
    "answer_index": 1,
    "answer": "아니, divorce 아니야",
    "why": "맞아! 반지 나눠 끼고 오늘부터 부부로 살자 하고 정한 거잖아. 그건 약속을 묶는 자리지 푸는 자리가 아니거든. divorce는 그 반대로, 이미 묶여 있던 약속을 끝내는 거야."
-  },
-  {
-   "type": "choice",
-   "question": "친구 넷이 자기 부모님 얘기를 했어. 이 중에서 부모님이 'divorce'했다고 말할 수 있는 건 누구일까?",
-   "choices": [
-    "요즘 크게 싸워서 사흘째 서로 말도 안 한대.",
-    "아빠가 먼 도시에서 일해서 주말에만 집에 온대.",
-    "지난달에 어른들 앞에서 서류를 쓰고, 이제 남남이 됐대.",
-    "다음 달이 결혼기념일이라 셋이 같이 여행을 간대."
-   ],
-   "answer_index": 2,
-   "answer": "지난달에 어른들 앞에서 서류를 쓰고, 이제 남남이 됐대.",
-   "why": "맞아! 어른들 앞에서 서류를 쓰고 남남이 됐다는 게 바로 그거야. 되돌리기 없이 정식으로 부부를 끝낸 거니까, 그게 divorce인 거야."
   }
  ],
  "synonyms": [],
@@ -71,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/divorce.webp",
   "alt": "결혼할 때 한 약속을 종이에 적어 되돌리기 없이 끝내는 자리",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

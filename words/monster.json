@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/monster/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/monster/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/monster/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "monster",
  "slug": "monster",
  "url": "https://hibbangyong.com/words/monster/",
@@ -41,19 +41,6 @@
    "answer_index": 0,
    "answer": "응, 맞아",
    "why": null
-  },
-  {
-   "type": "choice",
-   "question": "monster는 어느 것일까?",
-   "choices": [
-    "뿔과 큰 눈이 달린 털복숭이 괴물",
-    "빨갛게 잘 익은 동그란 사과",
-    "하늘을 나는 은색 비행기",
-    "책상 위에 놓인 노란 연필"
-   ],
-   "answer_index": 0,
-   "answer": "뿔과 큰 눈이 달린 털복숭이 괴물",
-   "why": null
   }
  ],
  "synonyms": [],
@@ -67,6 +54,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/monster.webp",
   "alt": "몬스터: 복슬복슬 털에 큰 둥근 눈 두 개와 작은 뿔이 달린, 귀엽고 친근한 괴물 한 마리가 화면 중앙에 전신으로 서 있음",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

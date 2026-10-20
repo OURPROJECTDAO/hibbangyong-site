@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/angel/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/angel/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/angel/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "angel",
  "slug": "angel",
  "url": "https://hibbangyong.com/words/angel/",
@@ -45,19 +45,6 @@
    "answer_index": 0,
    "answer": "아무것도 안 바라고 아픈 친구를 매일 돌봐 주는 아이",
    "why": "맞아! 아무것도 안 바라고 아픈 친구를 매일 돌봐 주잖아. 그렇게 대가 없이 착한 마음으로 남을 돕는 게 바로 angel인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "이야기책에 이런 존재들이 나와. 이 중에서 'angel'이라고 부를 수 있는 건 누구일까?",
-   "choices": [
-    "커다란 나팔을 신나게 부는 존재",
-    "하얀 날개를 달고 하늘에서 내려와 사람을 지켜 주는 존재",
-    "뿔이 나서 아이들을 쫓아다니며 겁주는 존재",
-    "나무 위에서 하루 종일 낮잠을 자는 존재"
-   ],
-   "answer_index": 1,
-   "answer": "하얀 날개를 달고 하늘에서 내려와 사람을 지켜 주는 존재",
-   "why": "맞아! 하얀 날개를 달고 하늘에서 내려와 사람을 지켜 주는 존재는 착한 마음으로 남을 돕고 있잖아. 그래서 바로 그게 angel인 거야."
   }
  ],
  "synonyms": [],
@@ -73,6 +60,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/angel.webp",
   "alt": "넘어져 우는 아이를 일으켜 세우고 가방을 들어 주는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

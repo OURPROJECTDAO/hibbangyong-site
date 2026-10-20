@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/emotion/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/emotion/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/emotion/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "emotion",
  "slug": "emotion",
  "url": "https://hibbangyong.com/words/emotion/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, emotion 맞아",
    "why": "맞아! 얼굴이 확 달아오르고 주먹이 꽉 쥐어진 건 네가 그러자고 정한 게 아니라 마음에서 저절로 일어나 버린 화거든. 그렇게 저절로 일어나는 게 바로 emotion이야."
-  },
-  {
-   "type": "ox",
-   "question": "버스 정류장에서 시간표를 보고 다음 버스가 몇 분 뒤에 오는지 손가락으로 세어 봤어. 이게 'emotion'이야?",
-   "choices": [
-    "응, emotion 맞아",
-    "아니, emotion 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, emotion 아니야",
-   "why": "맞아! 시간표 보고 몇 분 남았나 세는 건 머리로 하나하나 따져 본 거잖아. 마음이 저절로 환해지거나 뜨거워진 게 아니니까 이건 emotion이 아닌 게 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "친구 넷이 방금 자기한테 있었던 일을 말했어. 이 중에 'emotion'이 일어난 사람은 누구일까?",
-   "choices": [
-    "짝꿍이 내 자리를 뺏었을 때 미운 마음이 부글부글 끓었어",
-    "내일 준비물이 뭔지 알림장을 보고 하나하나 따져봤어",
-    "운동장을 실컷 뛰고 나니까 다리가 뻐근하고 목이 탔어",
-    "교실 시계가 지금 몇 시를 가리키는지 그냥 읽었어"
-   ],
-   "answer_index": 0,
-   "answer": "짝꿍이 내 자리를 뺏었을 때 미운 마음이 부글부글 끓었어",
-   "why": "맞아! 미운 마음이 부글부글 끓은 건 네가 고르지도 않았는데 마음에서 그냥 확 일어난 거잖아. 그렇게 저절로 올라오는 마음, 바로 그게 emotion이야."
   }
  ],
  "synonyms": [],
@@ -83,6 +59,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/emotion.webp",
   "alt": "친구가 뒤에서 선물을 내밀어 마음이 환해지는 순간",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

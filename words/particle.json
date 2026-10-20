@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/particle/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/particle/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/particle/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "particle",
  "slug": "particle",
  "url": "https://hibbangyong.com/words/particle/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, particle 맞아",
    "why": "맞아! 식탁에 떨어진 소금 중에서 손끝으로 짚은 건 아주 작은 소금 한 톨이잖아. 이렇게 작은 것 딱 하나가 바로 particle인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "가게에서 산 식빵을 아직 봉지도 안 뜯었어. 통째로 한 덩어리 그대로야. 이 식빵 한 덩어리가 'particle'이야?",
-   "choices": [
-    "응, particle 맞아",
-    "아니, particle 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, particle 아니야",
-   "why": "맞아! 봉지도 안 뜯은 식빵은 통째로 한 덩어리 그대로라서, 아주 작은 알갱이 하나가 아니거든. 그래서 particle이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "아이 네 명이 각자 자기 앞에 있는 걸 하나씩 가리켰어. 이 중에서 'particle'이라고 부를 수 있는 건?",
-   "choices": [
-    "칠판지우개를 털었을 때 공중에 흩날린 분필 가루 한 톨",
-    "선물로 받은 초콜릿을 반으로 쪼갠 한 쪽",
-    "밥통에서 퍼서 그릇에 수북이 담은 쌀 한 그릇",
-    "포장을 아직 뜯지 않은 새 비누 한 개"
-   ],
-   "answer_index": 0,
-   "answer": "칠판지우개를 털었을 때 공중에 흩날린 분필 가루 한 톨",
-   "why": "맞아! 칠판지우개를 털었을 때 날린 분필 가루 한 톨은 눈에 겨우 보일 만큼 아주 작고, 딱 하나잖아. 그렇게 아주 작은 알갱이 하나가 바로 particle인 거야."
   }
  ],
  "synonyms": [],
@@ -83,6 +59,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/particle.webp",
   "alt": "손을 털고 손바닥에 남은 모래 한 알",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

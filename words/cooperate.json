@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/cooperate/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/cooperate/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/cooperate/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "cooperate",
  "slug": "cooperate",
  "url": "https://hibbangyong.com/words/cooperate/",
@@ -43,19 +43,6 @@
    "answer_index": 0,
    "answer": "응, 'cooperate' 맞아",
    "why": "맞아! 줄자 끝을 딱 잡고 안 움직여 준 덕분에 그 아이가 거리를 잴 수 있었잖아. 내가 그쪽에 맞춰 줘서 그 일이 된 거니까 그게 바로 cooperate야."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 어제 있었던 일을 하나씩 말했어. 이 중에서 'cooperate'라고 부를 수 있는 건 누구일까?",
-   "choices": [
-    "짝꿍이 색칠을 힘들어해서, 짝꿍 몫까지 내가 전부 색칠해 놓았다.",
-    "친구랑 같은 책상에 앉아, 서로 자기 그림을 열심히 그렸다.",
-    "병원에서 주사가 무서웠지만, 하라는 대로 팔을 내밀고 가만히 있었다.",
-    "다들 의자를 뒤로 옮기는데, 나는 내 의자를 앞으로 끌어다 놓았다."
-   ],
-   "answer_index": 2,
-   "answer": "병원에서 주사가 무서웠지만, 하라는 대로 팔을 내밀고 가만히 있었다.",
-   "why": "맞아! 주사가 무서웠는데도 하라는 대로 팔을 내밀었잖아. 내 맘대로 안 하고 그 일이 되게 나를 맞춰 준 거니까, 바로 그게 cooperate야."
   }
  ],
  "synonyms": [],
@@ -69,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/cooperate.webp",
   "alt": "소파를 문밖으로 빼려고 둘이 미는 쪽을 맞추는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

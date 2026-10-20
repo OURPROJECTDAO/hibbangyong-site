@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/female/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/female/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/female/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "female",
  "slug": "female",
  "url": "https://hibbangyong.com/words/female/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, female 아니야",
    "why": "맞아! 남자아이니까 female이 아닌 거야. female은 여자아이·아줌마·할머니 쪽을 부르는 말이거든. 축구를 좋아하든 말든, 남자아이는 여기 안 들어가."
-  },
-  {
-   "type": "ox",
-   "question": "농장 우리 안에 소 한 마리가 있어. 이 소는 매일 아침 우유를 짜고, 작년에 송아지를 낳았대. 이 소는 'female'이야?",
-   "choices": [
-    "응, female 맞아",
-    "아니, female 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, female 맞아",
-   "why": "맞아! 송아지를 낳았다는 게 결정적이야. 새끼를 낳을 수 있는 쪽, 그게 바로 female이거든. 이 소는 딱 그쪽이야."
-  },
-  {
-   "type": "choice",
-   "question": "동물원이랑 놀이터에서 본 것들이야. 이 중에서 'female'이라고 부를 수 있는 건 어느 것일까?",
-   "choices": [
-    "분홍 원피스를 입고 신나게 춤추는 남자아이",
-    "갈기를 크게 세우고 으르렁대는 수사자",
-    "새끼들을 데리고 물가로 내려가는 어미 사자",
-    "여자아이가 밤마다 안고 자는 곰 인형"
-   ],
-   "answer_index": 2,
-   "answer": "새끼들을 데리고 물가로 내려가는 어미 사자",
-   "why": "맞아! 새끼들을 데리고 다니는 이 사자는 새끼를 낳은 엄마잖아. 몸이 새끼를 낳을 수 있는 쪽이라서 바로 그게 female인 거야. 사냥을 하든 으르렁대든 상관없어."
   }
  ],
  "synonyms": [],
@@ -85,6 +61,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/female.webp",
   "alt": "동물병원에서 강아지의 성별을 묻는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

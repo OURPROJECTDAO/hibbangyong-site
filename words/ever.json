@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/ever/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/ever/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/ever/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "ever",
  "slug": "ever",
  "url": "https://hibbangyong.com/words/ever/",
@@ -45,30 +45,6 @@
    "answer_index": 0,
    "answer": "태어나서 지금까지 중에 한 번이라도 그런 적이 있는지",
    "why": "맞아! 아기였을 때부터 어제까지 시간을 통째로 훑어서 딱 한 번이라도 있었냐고 묻는 거, 그게 바로 ever가 하는 일이야."
-  },
-  {
-   "type": "choice",
-   "question": "친구가 'ever'를 넣어서 너한테 물어봤어. 'ever'가 들어가면 무엇을 묻는 걸까?",
-   "choices": [
-    "바로 지금 그 순간에만 그러고 있는지",
-    "그게 전부 몇 개나 되는지",
-    "지금껏 살아온 시간을 통틀어 한 번이라도 그랬는지",
-    "그게 얼마나 무거운지"
-   ],
-   "answer_index": 2,
-   "answer": "지금껏 살아온 시간을 통틀어 한 번이라도 그랬는지",
-   "why": "맞아! 친구가 ever를 넣어서 물어보면, 지금까지 살아온 시간을 통틀어 한 번이라도 그랬는지 묻는 거거든. 어제도, 작년에도, 아기였을 때도 다 합쳐서 한 번이라도 있었냐고 묻는 게 바로 ever야."
-  },
-  {
-   "type": "ox",
-   "question": "수아는 놀이터 미끄럼틀을 여태 한 번도 타 본 적이 없대. 지나온 시간 어디를 뒤져 봐도 탄 순간이 딱 한 번도 없다는 거야. 이 '어느 때에도 전혀 없음'을 나타내는 영어 단어가 ever야?",
-   "choices": [
-    "응, ever 맞아",
-    "아니, ever 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, ever 아니야",
-   "why": "맞아! 여태 한 번도 없었다는 건 시간을 통째로 훑어봐도 텅 비어 있다는 뜻이잖아. ever는 그 반대로 어느 때든 한 번이라도 있었냐를 묻는 말이라서, 수아 얘기한테는 안 맞는 거야. 한 번도 없다고 말할 땐 never를 써."
   }
  ],
  "synonyms": [],
@@ -95,6 +71,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/ever.webp",
   "alt": "코끼리 본 적 있냐고 지금까지를 통째로 묻는 상황",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

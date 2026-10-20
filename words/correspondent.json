@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/correspondent/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/correspondent/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/correspondent/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "correspondent",
  "slug": "correspondent",
  "url": "https://hibbangyong.com/words/correspondent/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, correspondent 아니야",
    "why": "맞아! 수진 씨는 신문에 실린 제주도 소식을 읽는 사람이야. 신문사가 제주도를 맡긴 기자는 아니거든. 가족한테 이야기해 주는 것도 읽은 걸 옮기는 거지, 직접 알아본 소식을 보내는 건 아니라서 correspondent가 아니야."
-  },
-  {
-   "type": "ox",
-   "question": "한 신문사가 수진 씨에게 제주도 소식을 맡겼어. 수진 씨는 제주에 살면서 그곳에서 일어난 일을 직접 알아보고 기사로 써서 신문사에 보내. 수진 씨는 'correspondent'일까?",
-   "choices": [
-    "응, correspondent 맞아",
-    "아니, correspondent 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, correspondent 맞아",
-   "why": "맞아! 신문사가 수진 씨한테 제주도 소식을 맡겼고, 수진 씨가 제주에 살면서 그곳 일을 직접 알아봐서 기사로 보내잖아. 한 지역을 맡아서 소식을 전하는 기자, 그게 바로 correspondent야."
-  },
-  {
-   "type": "choice",
-   "question": "방송국 사람들과 뉴스에 관련된 사람 넷이 있어. 이 중에서 'correspondent'라고 부를 수 있는 사람은?",
-   "choices": [
-    "다른 기자가 써 준 원고를 스튜디오에서 읽어 주는 진행자",
-    "과학 쪽 소식을 정해서 맡고, 직접 알아봐서 알려 주는 기자",
-    "길에서 사고를 보고 방송국에 영상을 보내 준 동네 주민",
-    "매일 저녁 뉴스를 챙겨 보고 인터넷에 감상을 올리는 시청자"
-   ],
-   "answer_index": 1,
-   "answer": "과학 쪽 소식을 정해서 맡고, 직접 알아봐서 알려 주는 기자",
-   "why": "맞아! 과학 쪽 소식을 맡아서 직접 알아보고 알려 주잖아. 이렇게 한 분야를 맡은 기자가 바로 correspondent야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/correspondent.webp",
   "alt": "뉴스 끝 '런던에서 전해 드렸습니다'·'스포츠 담당 기자였습니다' 인사",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

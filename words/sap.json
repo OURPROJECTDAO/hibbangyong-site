@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/sap/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/sap/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/sap/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "sap",
  "slug": "sap",
  "url": "https://hibbangyong.com/words/sap/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, sap 맞아",
    "why": "맞아! 해바라기 줄기 속에서 뿌리부터 꽃 쪽까지 쉬지 않고 올라가며 양분을 나르는 물이니까, 바로 그게 sap인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "소나기가 그친 뒤 해바라기의 넓은 잎 겉면 위에 고여 있는 빗물. 이게 'sap'이야?",
-   "choices": [
-    "응, sap 맞아",
-    "아니, sap 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, sap 아니야",
-   "why": "맞아! 잎 겉면에 고인 빗물은 소나기가 내려서 밖에서 떨어진 물이지, 해바라기 줄기 속을 돌던 물이 아니잖아. sap은 식물 안에서 흐르는 거라서 이건 sap이 아니야."
-  },
-  {
-   "type": "ox",
-   "question": "꽃밭에서 꺾이거나 긁힌 곳 하나 없이 멀쩡하게 자라는 해바라기가 있어. 지금 이 순간에도 그 줄기 속을 따라 위로 올라가고 있는 물, 이런 경우도 'sap'이야?",
-   "choices": [
-    "응, sap 맞아",
-    "아니, sap 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, sap 맞아",
-   "why": "맞아! 해바라기가 꺾이거나 긁힌 데가 없어도, 살아 있는 동안 줄기 속에서는 물이 계속 위로 올라가고 있거든. 바로 그 물이 sap이야."
   }
  ],
  "synonyms": [],
@@ -87,6 +65,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/sap.webp",
   "alt": "살아 있는 식물 줄기 속을 늘 도는 양분 섞인 물",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

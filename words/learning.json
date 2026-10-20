@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/learning/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/learning/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/learning/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "learning",
  "slug": "learning",
  "url": "https://hibbangyong.com/words/learning/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, learning 맞아",
    "why": "맞아! 동생이 처음엔 매듭이 자꾸 풀렸는데, 여러 번 해 보더니 이제는 혼자서 리본 모양으로 꽉 묶잖아. 못 하던 걸 할 수 있게 됐으니까 바로 그게 learning인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "형은 작년에 피아노 곡 하나를 처음부터 끝까지 칠 수 있었어. 그런데 1년 동안 한 번도 안 쳤더니 이제는 첫 줄밖에 기억이 안 나. 이게 'learning'일까?",
-   "choices": [
-    "응, learning 맞아",
-    "아니, learning 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, learning 아니야",
-   "why": "맞아! 형은 전에 칠 수 있던 피아노 곡을 1년 동안 안 쳐서 이제 첫 줄밖에 기억이 안 나잖아. 할 수 있던 게 거꾸로 빠져나간 거라서 learning이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 사람에게 이번 주에 일어난 일이야. 'learning'이 일어난 사람은 누구일까?",
-   "choices": [
-    "형이 책상 앞에 한 시간 앉아 있었는데 책장은 한 장도 안 넘겼어.",
-    "할머니가 옛날부터 잘 아는 노래를 오늘도 흥얼거리셨어.",
-    "동생이 숟가락질을 몇 번 흘리더니 이제 혼자서 잘 떠먹어.",
-    "누나가 지난주에 외운 구구단 7단을 오늘 다 까먹었어."
-   ],
-   "answer_index": 2,
-   "answer": "동생이 숟가락질을 몇 번 흘리더니 이제 혼자서 잘 떠먹어.",
-   "why": "맞아! 동생이 처음엔 숟가락질하다 몇 번 흘렸는데, 이제는 혼자서 잘 떠먹잖아. 못 하던 걸 흘리면서도 해 보다가 할 수 있게 된 거, 바로 그게 learning이야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/learning.webp",
   "alt": "자전거 타다 넘어지다가 혼자 타게 됨",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

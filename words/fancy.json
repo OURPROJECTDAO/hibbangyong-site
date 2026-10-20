@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/fancy/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/fancy/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/fancy/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "fancy",
  "slug": "fancy",
  "url": "https://hibbangyong.com/words/fancy/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, fancy 맞아",
    "why": "맞아! 층마다 금색 가루가 뿌려져 있고 설탕으로 만든 장미랑 진주 모양 구슬까지 빙 둘러 붙어 있잖아. 이렇게 꾸밈이 잔뜩이라 딱 봐도 비싸 보이니까, 바로 그게 fancy인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "아빠가 매일 쓰는 우산은 검은색 한 가지 색이야. 무늬도 없고, 손잡이에도 아무 장식이 없어. 이 우산은 'fancy'한 우산이야?",
-   "choices": [
-    "응, fancy 맞아",
-    "아니, fancy 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, fancy 아니야",
-   "why": "맞아! 아빠 우산은 검은색 한 가지 색이고, 무늬도 없고, 손잡이에도 아무 장식이 없잖아. 꾸밈이 하나도 없으니까 fancy가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "친구 넷이 자기 필통을 하나씩 꺼내 보여줬어. 이 가운데 'fancy'라고 부를 만한 필통은 누구 거야?",
-   "choices": [
-    "오늘 아침에 막 사서 아직 비닐도 안 뗀 필통",
-    "금색 테두리에 보석 모양 장식이 빈틈없이 붙은 필통",
-    "하늘색 한 가지 색으로 무늬 없이 매끈한 필통",
-    "모양이 동글동글 귀여워서 다들 예쁘다고 한 필통"
-   ],
-   "answer_index": 1,
-   "answer": "금색 테두리에 보석 모양 장식이 빈틈없이 붙은 필통",
-   "why": "맞아! 금색 테두리에 보석 모양 장식까지 빈틈없이 붙어 있으니까, 그냥 필통보다 꾸밈이 훨씬 많고 비싸 보이지? 그래서 바로 그게 fancy인 거야."
   }
  ],
  "synonyms": [],
@@ -90,6 +66,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/fancy.webp",
   "alt": "하얀 컵과 금색 무늬·반짝이 박힌 컵 비교",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

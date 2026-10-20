@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/agony/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/agony/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/agony/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "agony",
  "slug": "agony",
  "url": "https://hibbangyong.com/words/agony/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, agony 맞아",
    "why": "맞아! 팔뼈가 부러져서 병원 가는 내내 식은땀 흘리고 신음까지 했잖아. 그렇게 버티기 힘들 만큼 센 아픔이니까 바로 agony인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "지수가 주말에 가족이랑 온천에 가서 따뜻한 물에 몸을 담그고 한 시간 동안 느긋하게 쉬었어. 이때 지수가 느낀 게 'agony'야?",
-   "choices": [
-    "응, agony 맞아",
-    "아니, agony 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, agony 아니야",
-   "why": "잘 골랐어! 따뜻한 물에 몸 담그고 한 시간 동안 느긋하게 쉰 건 아픈 데가 하나도 없는 편한 시간이잖아. agony는 버티기 힘들 만큼 센 아픔이라서, 지수가 느낀 건 agony랑 정반대야."
-  },
-  {
-   "type": "ox",
-   "question": "스키를 타다 넘어져 다리뼈가 부러졌고, 구조대가 올 때까지 눈밭에 누워 극심한 통증에 몸부림쳤어. 마음 쪽 걱정 얘기는 없고 순전히 몸이 아픈 상황이야. 이런 경우도 'agony'야?",
-   "choices": [
-    "응, agony 맞아",
-    "아니, agony 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, agony 맞아",
-   "why": "맞아! 다리뼈가 부러져서 구조대 올 때까지 눈밭에서 몸부림칠 만큼 아픈 거잖아. agony는 몸이든 마음이든 버티기 힘든 아픔이면 다 되니까, 이렇게 순전히 몸이 아픈 것도 딱 agony야."
   }
  ],
  "synonyms": [],
@@ -84,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/agony.webp",
   "alt": "발목이 꺾여 바닥에 주저앉는 순간",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/prime/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/prime/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/prime/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "prime",
  "slug": "prime",
  "url": "https://hibbangyong.com/words/prime/",
@@ -45,32 +45,6 @@
    "answer_index": 2,
    "answer": "여러 일 가운데 가장 중요하다고 꼽은 일",
    "why": "맞아! 여러 일 가운데 제일 중요하다고 꼽은 거니까, 중요한 순서로 맨 앞에 선 거잖아. 그렇게 첫째 자리에 놓인 일이 바로 prime인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "마을 노래자랑에 네 팀이 나왔어. 어른들 이야기 중에 'prime'을 쓸 수 있는 건 뭘까?",
-   "choices": [
-    "네 팀 실력은 안 견주고, 무대에 가장 먼저 오른 팀만 적어 뒀어",
-    "네 팀 실력을 견줘 보고, 한 팀이 나머지보다 앞선다고 다들 꼽았어",
-    "네 팀 실력을 견줘 봤는데, 서로 비슷해서 아무도 앞세우지 못했어",
-    "네 팀 실력은 안 견주고, 사람 수가 가장 많은 팀만 적어 뒀어"
-   ],
-   "answer_index": 1,
-   "answer": "네 팀 실력을 견줘 보고, 한 팀이 나머지보다 앞선다고 다들 꼽았어",
-   "why": "맞아! 넷을 나란히 놓고 견줘 봤더니 한 팀이 제일 앞선다고 다들 손을 든 거잖아. 그렇게 딱 하나가 첫째 자리에 올랐으니까 그게 바로 prime인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "아이 넷이 소풍 이야기를 했어. 그중에서 'prime'을 붙여 말할 수 있는 건 누구 이야기일까?",
-   "choices": [
-    "소풍이 미뤄진 이유가 여럿인데, 그중 하나가 나머지를 다 합친 것보다 컸어",
-    "소풍이 미뤄진 이유가 여럿인데, 어느 게 더 큰지 아무도 못 골랐어",
-    "소풍 이야기가 여러 번 나왔는데, 그중 맨 처음 나온 게 지난달이야",
-    "소풍 때 먹을 김밥을 여럿이 쌌는데, 우리 엄마 김밥이 제일 커"
-   ],
-   "answer_index": 0,
-   "answer": "소풍이 미뤄진 이유가 여럿인데, 그중 하나가 나머지를 다 합친 것보다 컸어",
-   "why": "맞아! 이유가 여럿인데 그중 하나가 나머지를 다 합친 것보다 크다는 건, 중요한 순서로 줄을 세웠을 때 그게 맨 앞이라는 뜻이거든. 그래서 그게 바로 prime 이유인 거야."
   }
  ],
  "synonyms": [],
@@ -95,6 +69,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/prime.webp",
   "alt": "저녁 여덟 시, TV 앞에 사람이 가장 많이 모이는 방송 시간",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

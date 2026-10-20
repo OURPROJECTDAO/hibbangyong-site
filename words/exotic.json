@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/exotic/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/exotic/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/exotic/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "exotic",
  "slug": "exotic",
  "url": "https://hibbangyong.com/words/exotic/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, exotic 아니야",
    "why": "맞아! 강원도 밭에서 캔 감자잖아. 여기 땅에서 자란 거니까 먼 데서 온 게 아니야. 그래서 exotic이 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "저녁 밥상에 반찬이 하나 올라왔어. 인도 식당에서 쓰는 향신료 커민을 넣어 만든 거래. 이 반찬 재료는 우리한테 exotic이야?",
-   "choices": [
-    "응, exotic 맞아",
-    "아니, exotic 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, exotic 맞아",
-   "why": "맞아! 커민은 인도에서 여기까지 건너온 재료잖아. 우리 밥상엔 원래 없던 게 저 먼 데서 온 거니까, 바로 그게 exotic인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 가지를 봤어. 이 중에서 'exotic'하다고 말할 수 있는 건 뭘까?",
-   "choices": [
-    "우리 동네 뒷산에서 옛날부터 저절로 자라던 밤나무",
-    "바다 건너 아주 먼 섬에서만 자라다가 여기 처음 온 꽃",
-    "옆집 담장에 해마다 열리는 흔한 호박",
-    "할아버지가 오래 써서 손잡이가 다 닳은 낡은 숟가락"
-   ],
-   "answer_index": 1,
-   "answer": "바다 건너 아주 먼 섬에서만 자라다가 여기 처음 온 꽃",
-   "why": "맞아! 바다 건너 아주 먼 섬에서만 자라다가 여기 처음 온 꽃이니까, 여기 사람들 눈엔 처음 보는 거잖아. 먼 데서 왔다는 그게 바로 exotic인 거야."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/exotic.webp",
   "alt": "시장 끝에 놓인 가시 달린 빨간 과일 — 먼 더운 나라에서 배로 옴",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

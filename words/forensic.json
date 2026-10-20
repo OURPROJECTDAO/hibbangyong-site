@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/forensic/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/forensic/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/forensic/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "forensic",
  "slug": "forensic",
  "url": "https://hibbangyong.com/words/forensic/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, forensic 조사 맞아",
    "why": "맞아! 누가 일부러 불을 냈는지 알아내려고 타고 남은 재를 실험실에서 분석했잖아. 사건의 진실을 밝히려고 증거를 과학적으로 조사한 거니까 바로 그게 forensic 조사인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "보이스피싱 사건 수사관이 붙잡힌 범인 휴대폰을 분석해서 지워진 문자와 통화 기록을 되살리고, 그걸 법원에 증거로 냈어. 이런 경우도 'forensic' 조사야?",
-   "choices": [
-    "응, forensic 맞아",
-    "아니, forensic 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, forensic 맞아",
-   "why": "맞아! 수사관이 범인 휴대폰에서 지워진 문자랑 통화 기록을 기술로 되살려서 법원에 증거로 냈잖아. 피나 지문이 안 나와도, 사건 증거를 과학적으로 밝혀서 재판에 쓰면 그게 바로 forensic 조사야."
-  },
-  {
-   "type": "ox",
-   "question": "도난 사건이 일어났어. 20년 차 베테랑 수사관이 용의자 세 명과 차례로 이야기를 나눴어. 그리고 눈빛과 말투를 보고 오랜 경험으로 범인을 지목했어. 이 수사 방식은 'forensic'이야?",
-   "choices": [
-    "응, forensic 맞아",
-    "아니, forensic 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, forensic 아니야",
-   "why": "맞아! 이 수사관은 눈빛과 말투를 보고 오랜 경험으로 범인을 골랐을 뿐이야. 증거를 과학적으로 조사한 건 하나도 없으니까 forensic이 아닌 거야."
   }
  ],
  "synonyms": [],
@@ -80,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/forensic.webp",
   "alt": "해킹 범인이 지운 컴퓨터 기록을 전문가가 되살림",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

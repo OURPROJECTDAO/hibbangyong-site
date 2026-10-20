@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/unto/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/unto/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/unto/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "unto",
  "slug": "unto",
  "url": "https://hibbangyong.com/words/unto/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, unto 맞아",
    "why": "맞아! 어부가 물고기를 마을 사람들한테 건네주는 거잖아. 마을 사람들이 물고기를 받는 쪽이니까, to를 쓰는 자리고 옛날 글이라 unto가 딱 들어가는 거야."
-  },
-  {
-   "type": "ox",
-   "question": "옛날 영어 글에서 한 상인이 배를 타고 항구를 떠났어. 상인이 떠나온 곳인 '항구' 앞에 'unto'를 쓸 수 있을까?",
-   "choices": [
-    "응, unto 맞아",
-    "아니, unto 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, unto 아니야",
-   "why": "맞아! 상인은 항구를 떠나온 거라서 항구는 출발한 곳이야. unto는 받는 쪽이나 도착하는 곳에 붙는 옛날 말투 to라서, 떠나온 항구 앞에는 안 맞아(여긴 from 자리야)."
-  },
-  {
-   "type": "choice",
-   "question": "옛날 영어 이야기를 읽는데, 새 한 마리가 날아가는 장면에서 'unto' 바로 뒤에 '숲'이 나왔어. 이 새는 어떻게 한 걸까?",
-   "choices": [
-    "숲 안쪽으로 깊이 파고들었어",
-    "숲 나무 꼭대기 위에 올라앉았어",
-    "숲이 있는 곳까지 날아가 닿았어",
-    "숲을 떠나 먼 곳으로 날아갔어"
-   ],
-   "answer_index": 2,
-   "answer": "숲이 있는 곳까지 날아가 닿았어",
-   "why": "맞아! unto는 옛날 말투로 쓴 to라서, unto 뒤에 숲이 오면 새가 숲이 있는 곳까지 날아가 닿았다는 뜻이야. 숲이 새가 도착하는 쪽인 거지."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/unto.webp",
   "alt": "영어 성경·아주 옛날 이야기를 읽다가 만나는 옛말",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

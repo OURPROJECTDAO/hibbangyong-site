@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/allusion/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/allusion/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/allusion/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "allusion",
  "slug": "allusion",
  "url": "https://hibbangyong.com/words/allusion/",
@@ -43,28 +43,6 @@
    "answer_index": 1,
    "answer": "아니, allusion 아니야",
    "why": "맞아! 형은 다른 이야기나 사람을 끌어오지 않고 어젯밤 초코파이를 몰래 먹었냐고 그대로 대놓고 물었잖아. 하고 싶은 말을 직접 다 말했으니까 allusion이 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "동생이 꽃병을 깨 놓고 \"나 아니야\"라고 했어. 그러자 엄마가 웃으면서 \"어머, 네 코가 점점 길어지는 것 같은데?\"라고 하셨어. 엄마의 이 말은 'allusion'이야?",
-   "choices": [
-    "응, allusion 맞아",
-    "아니, allusion 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, allusion 맞아",
-   "why": "맞아! 엄마는 피노키오라는 이름을 한 번도 안 꺼냈어. 그런데 코가 길어진다는 말만으로 거짓말하면 코가 늘어나는 그 이야기를 다들 떠올리게 했잖아. 이름은 안 대고 모두가 아는 이야기를 말 속에 끌어왔으니까 바로 그게 allusion인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "쉬는 시간에 민재가 수수께끼를 냈어. 친구들이 못 맞히자 민재가 \"힌트 줄게, 그건 바다에 살고 다리가 여덟 개야.\"라고 답을 미리 알려 줬어. 이런 경우도 'allusion'이야?",
-   "choices": [
-    "응, allusion 맞아",
-    "아니, allusion 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, allusion 아니야",
-   "why": "맞아! 민재는 친구들이 이미 아는 이야기나 일을 떠올리게 한 게 아니라, 바다에 살고 다리가 여덟 개라고 답을 미리 알려 준 거야. 그건 힌트(이건 hint야)지 allusion이 아니야."
   }
  ],
  "synonyms": [],

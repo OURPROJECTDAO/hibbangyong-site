@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/bout/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/bout/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/bout/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "bout",
  "slug": "bout",
  "url": "https://hibbangyong.com/words/bout/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, bout 맞아",
    "why": "맞아! 민준이는 이틀이라는 짧은 기간 동안 보드게임만 잔뜩 하다가 월요일부터 멈췄잖아. 짧게 몰아서 잔뜩 하고 끝난 그 한 덩어리가 바로 한 bout인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "서연이는 중학교 3년 내내 매일 저녁 화분에 물을 조금씩 줬어. 이 3년 동안 물을 준 일은 한 'bout'야?",
-   "choices": [
-    "응, bout 맞아",
-    "아니, bout 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, bout 아니야",
-   "why": "맞아! 서연이는 3년 내내 매일 저녁 물을 조금씩 줬잖아. bout는 짧은 동안 뭔가를 잔뜩 하는 한차례인데, 이건 오래 꾸준히 이어진 습관이라서 bout가 아니야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 중 'bout'라고 부르기에 가장 알맞은 건?",
-   "choices": [
-    "대회 전 나흘 동안 하루 종일 피아노를 연습한 일",
-    "초등학생 때 6년 동안 같은 학원에 다닌 일",
-    "한 학기 내내 매일 10분씩 줄넘기를 한 일",
-    "수업 시간에 딱 한 번 크게 재채기를 한 일"
-   ],
-   "answer_index": 0,
-   "answer": "대회 전 나흘 동안 하루 종일 피아노를 연습한 일",
-   "why": "맞아! 대회 앞두고 나흘 동안 하루 종일 피아노만 잔뜩 연습하다가 대회가 끝나면 멈추잖아. 짧은 기간에 몰아서 잔뜩 한 한차례, 그게 바로 bout야."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/bout.webp",
   "alt": "시험 전 사흘 동안 몰아서 한 공부",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

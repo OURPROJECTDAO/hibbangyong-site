@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/explore/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/explore/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/explore/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "explore",
  "slug": "explore",
  "url": "https://hibbangyong.com/words/explore/",
@@ -45,30 +45,6 @@
    "answer_index": 0,
    "answer": "처음 가본 산길에서 어느 쪽에 뭐가 있나 이 갈래 저 갈래 들어가 보는 중",
    "why": "맞아! 처음 가본 산길이라 어느 쪽에 뭐가 있는지 하나도 모르잖아. 그래서 이 갈래 저 갈래 들어가 보면서 그 안이 어떤지 알아가는 거, 그게 바로 explore야."
-  },
-  {
-   "type": "choice",
-   "question": "처음 가 본 건물의 긴 복도에서 아이 넷이 이렇게 했어. 'explore' 한 아이는 누구야?",
-   "choices": [
-    "복도 끝 방 안으로 들어갔다가 그대로 반대편 문으로 나갔어",
-    "복도 창밖으로 지나가는 자동차를 세다가 그냥 자리를 떴어",
-    "복도에 늘어선 방문을 하나씩 열어 안이 어떤지 들여다봤어",
-    "복도 한가운데 서서 가방끈을 고쳐 매고 다시 걸어 나갔어"
-   ],
-   "answer_index": 2,
-   "answer": "복도에 늘어선 방문을 하나씩 열어 안이 어떤지 들여다봤어",
-   "why": "맞아! 방문을 하나씩 열어서 안이 어떤지 들여다봤잖아. 뭐가 있을지 모르는 데를 궁금해하면서 이리저리 살펴본 거니까, 바로 그게 explore야."
-  },
-  {
-   "type": "ox",
-   "question": "어젯밤 학교 유리창 한 장이 깨졌어. 경찰관이 와서 깨진 자리를 재고 그때 누가 거기 있었는지 한 명씩 물어서, 누가 깼는지 밝혀내려고 해. 이런 경우도 'explore'야?",
-   "choices": [
-    "응, explore 맞아",
-    "아니, explore 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, explore 아니야",
-   "why": "그렇지, 이건 explore가 아니야. 누가 깼는지 답이 딱 하나 정해져 있고 경찰관은 그 한 사람을 찾아내러 간 거거든. explore는 그 안이 어떤지를 알아가는 거라, 찾을 게 정해져 있으면 달라."
   }
  ],
  "synonyms": [],
@@ -95,6 +71,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/explore.webp",
   "alt": "안이 어떤지 모르는 동굴에 들어가 이쪽저쪽 살펴보는 아이",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

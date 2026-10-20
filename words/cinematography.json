@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/cinematography/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/cinematography/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/cinematography/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "cinematography",
  "slug": "cinematography",
  "url": "https://hibbangyong.com/words/cinematography/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, cinematography 맞아",
    "why": "맞아! 복도를 손전등 불빛 하나로만 비춘 것, 카메라를 주인공 등 바로 뒤에 붙여서 따라가게 한 것 둘 다 카메라에 장면을 어떻게 담을지 고른 거잖아. 이렇게 빛과 카메라 자리를 고른 게 바로 이 영화의 cinematography야."
-  },
-  {
-   "type": "ox",
-   "question": "어떤 드라마는 슬픈 장면이 나올 때마다 피아노 곡을 잔잔하게 깔았어. 빗소리도 크게 들리게 넣었어. 이 피아노 곡과 빗소리가 이 드라마의 'cinematography'야?",
-   "choices": [
-    "응, cinematography 맞아",
-    "아니, cinematography 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, cinematography 아니야",
-   "why": "맞아! 피아노 곡이랑 빗소리는 눈으로 보는 화면이 아니라 귀로 듣는 소리잖아. cinematography는 장면을 카메라에 어떻게 담았는지를 가리키는 말이라서 소리는 여기에 안 들어가."
-  },
-  {
-   "type": "ox",
-   "question": "한 드라마가 인물들을 처음부터 끝까지 늘 정면에서 똑같은 거리로만 잡아서, 보는 사람들이 '밋밋하고 지루하다'는 평을 많이 했어. 이렇게 지루하게 담긴 것도 그 드라마의 'cinematography'라고 할 수 있어?",
-   "choices": [
-    "응, 'cinematography' 맞아",
-    "아니, 'cinematography' 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, 'cinematography' 맞아",
-   "why": "맞아! 늘 정면에서 똑같은 거리로만 잡은 것도 카메라에 어떻게 담을지 고른 결과잖아. 밋밋하고 지루하다는 평을 받아도 그게 바로 그 드라마의 cinematography인 거야."
   }
  ],
  "synonyms": [],
@@ -84,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/cinematography.webp",
   "alt": "같은 장면을 카메라 거리·방향·빛을 달리해 찍는 상황",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

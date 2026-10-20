@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/moor/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/moor/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/moor/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "moor",
  "slug": "moor",
  "url": "https://hibbangyong.com/words/moor/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, moor 아니야",
    "why": "맞아! 농부가 봄마다 트랙터로 흙을 갈아엎고 감자를 심어 가을에 캐 가잖아. moor는 흙이 척박해서 아무도 밭을 안 가는 땅이니까, 이 감자밭은 moor가 아니야."
-  },
-  {
-   "type": "ox",
-   "question": "스코틀랜드 북쪽 높은 고원을 몇 시간 동안 걸었어. 가는 내내 나무는 거의 없고 억센 풀과 무릎 높이 덤불만 보였어. 밭이나 집도 하나 없었어. 이런 땅을 'moor'라고 부를 수 있을까?",
-   "choices": [
-    "응, moor 맞아",
-    "아니, moor 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, moor 맞아",
-   "why": "맞아! 높은 고원에 나무는 거의 없고 억센 풀과 무릎 높이 덤불만 깔려 있었잖아. 밭이나 집도 하나 없었으니까 사람이 농사를 안 짓는 땅이라는 거고, 그게 바로 moor야."
-  },
-  {
-   "type": "choice",
-   "question": "영국 여행 중에 네 군데 땅을 봤어. 이 중에서 'moor'라고 부를 수 있는 곳은?",
-   "choices": [
-    "울타리 안에 부드러운 풀이 자라고 양들이 모여 풀을 뜯는 곳",
-    "낮은 곳에 물이 고여 있어서 걸으면 발이 푹푹 빠지는 곳",
-    "나무 한 그루 없이 억센 풀과 낮은 덤불만 언덕 따라 이어진 곳",
-    "줄을 맞춰 밀을 심어 두고 가을마다 거두어들이는 곳"
-   ],
-   "answer_index": 2,
-   "answer": "나무 한 그루 없이 억센 풀과 낮은 덤불만 언덕 따라 이어진 곳",
-   "why": "맞아! 나무 한 그루 없이 억센 풀이랑 낮은 덤불만 언덕을 따라 쭉 이어져 있잖아. 사람이 손대지 않고 그대로 둔 높고 넓은 땅, 그게 바로 moor야."
   }
  ],
  "synonyms": [],
@@ -91,6 +67,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/moor.webp",
   "alt": "영국 시골 언덕 위 끝없이 펼쳐진 풀·덤불 땅",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

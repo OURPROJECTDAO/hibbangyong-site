@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/bacon/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/bacon/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/bacon/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "bacon",
  "slug": "bacon",
  "url": "https://hibbangyong.com/words/bacon/",
@@ -41,19 +41,6 @@
    "answer_index": 0,
    "answer": "응, 맞아",
    "why": null
-  },
-  {
-   "type": "choice",
-   "question": "bacon은 어느 것일까요?",
-   "choices": [
-    "프라이팬에 구운, 얇고 긴 짭짤한 고기",
-    "나뭇가지에 매달린, 둥글고 빨간 과일",
-    "길에서 타고 다니는, 바퀴 두 개 달린 것",
-    "하늘에 떠 있는, 하얗고 폭신한 것"
-   ],
-   "answer_index": 0,
-   "answer": "프라이팬에 구운, 얇고 긴 짭짤한 고기",
-   "why": null
   }
  ],
  "synonyms": [],
@@ -69,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/bacon.webp",
   "alt": "노릇하게 구운 베이컨 몇 줄(줄무늬가 선명한 붉은 살과 하얀 지방)을 접시에 가지런히 담은 모습",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

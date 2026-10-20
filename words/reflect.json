@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/reflect/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/reflect/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/reflect/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "reflect",
  "slug": "reflect",
  "url": "https://hibbangyong.com/words/reflect/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, reflect 맞아.",
    "why": "맞아! 물웅덩이가 지호 얼굴을, 게다가 고개를 왼쪽으로 돌린 그 동작까지 그대로 되돌려 준 거잖아. 물이 지어낸 게 아니라 진짜 지호를 되돌려 보여준 거니까, 그게 바로 reflect야."
-  },
-  {
-   "type": "ox",
-   "question": "지호 방 벽에 두꺼운 검은 커튼을 쳤어. 손전등을 커튼에 딱 대고 켰는데, 빛이 커튼 속으로 쑥 들어가 버리고 아무것도 되돌아 나오지 않았어. 이게 'reflect'야?",
-   "choices": [
-    "응, reflect 맞아.",
-    "아니, reflect 아니야."
-   ],
-   "answer_index": 1,
-   "answer": "아니, reflect 아니야.",
-   "why": "맞아! 빛이 커튼 속으로 쑥 들어가서 하나도 안 나왔잖아. 되돌아 나오는 게 없으면 그건 되비추는 게 아니고 그냥 빨아들여서 감춘 거야."
-  },
-  {
-   "type": "choice",
-   "question": "민수한테 오늘 이런 네 가지 일이 있었어. 이 중에서 'reflect'가 일어난 건 뭘까?",
-   "choices": [
-    "민수가 하나도 연습을 안 했더니, 시험 점수가 뚝 떨어져 나왔어.",
-    "민수가 점수를 들키기 싫어서, 시험지를 책상 서랍 깊숙이 숨겼어.",
-    "민수가 아무 기분도 아닌데, 형이 웃으니까 똑같이 따라 웃어 봤어.",
-    "민수가 기분을 좋게 바꾸려고, 일부러 신나는 노래를 크게 틀었어."
-   ],
-   "answer_index": 0,
-   "answer": "민수가 하나도 연습을 안 했더니, 시험 점수가 뚝 떨어져 나왔어.",
-   "why": "맞아! 연습을 안 한 게 뒤에 있었는데, 그게 점수로 겉에 되돌아 나온 거잖아. 뒤에 있던 진짜가 겉으로 나와서 보는 사람이 알게 된 거니까 바로 그게 reflect야. 나온 게 나쁜 쪽이어도 상관없어. 되돌아 나왔으면 맞는 거거든."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/reflect.webp",
   "alt": "밤에 캄캄한 유리창 앞에서 손을 들면 따라 드는 내 모습",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

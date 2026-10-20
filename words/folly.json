@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/folly/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/folly/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/folly/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "folly",
  "slug": "folly",
  "url": "https://hibbangyong.com/words/folly/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, folly 맞아",
    "why": "맞아! 태풍 경보가 내려졌고 가족들이 다 말렸으니까, 작은 낚싯배로 나가면 위험하다는 게 뻔히 보였잖아. 그걸 알면서도 바다에 나갔으니 그게 바로 folly야."
-  },
-  {
-   "type": "ox",
-   "question": "태풍 경보가 내리자, 낚시를 가려던 삼촌이 작은 낚싯배를 항구에 단단히 묶어 두고 집에 머물렀어. 삼촌이 한 일은 'folly'야?",
-   "choices": [
-    "응, folly 맞아",
-    "아니, folly 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, folly 아니야",
-   "why": "맞아! 삼촌은 태풍 경보를 듣고 위험한 걸 알아서 낚시를 접고 배를 항구에 단단히 묶어 둔 거야. 안 좋게 끝날 게 뻔한 쪽을 피했으니까 바보짓이 아니라 현명한 판단이고, 그래서 folly가 아니야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 중 'folly'라고 부르기 가장 알맞은 일은?",
-   "choices": [
-    "친구들이 다 말렸는데, 얼음이 얇은 강 위를 걸어서 건너려고 한 일",
-    "수업 중에 친구가 우스꽝스러운 표정을 지어서 다 같이 웃은 일",
-    "계산하다가 숫자 하나를 잘못 옮겨 적어서 한 문제를 틀린 일",
-    "비가 올 것 같아서 소풍 날짜를 하루 미루기로 한 일"
-   ],
-   "answer_index": 0,
-   "answer": "친구들이 다 말렸는데, 얼음이 얇은 강 위를 걸어서 건너려고 한 일",
-   "why": "맞아! 친구들이 다 말렸고 얼음이 얇으니 빠질 게 뻔한데도 그 강을 걸어서 건너려고 한 거잖아. 안 좋게 끝날 게 보이는데 그쪽을 고른 바보짓, 그게 바로 folly야."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/folly.webp",
   "alt": "모두 말리는데 시험 전날 밤새 게임하기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

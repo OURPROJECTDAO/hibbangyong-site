@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/truth/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/truth/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/truth/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "truth",
  "slug": "truth",
  "url": "https://hibbangyong.com/words/truth/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, truth 맞아",
    "why": "맞아! 다들 안 엎어졌다고 말해도, 바닥에 물이 흘러 있잖아. 이미 일어난 일은 딱 하나거든. 여러 명이 입을 모아도 그건 안 바뀌어. 그래서 물통이 엎어졌던 거, 그게 바로 truth인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "급식 시간에 민수가 우유를 한 모금도 안 마시고 그대로 남겼어. 그런데 민수는 자기가 우유를 다 마셨다고 말했어. 민수가 우유를 다 마셨다는 말 — 이게 'truth'야?",
-   "choices": [
-    "응, truth 맞아",
-    "아니, truth 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, truth 아니야",
-   "why": "맞아! 우유는 그대로 남아 있는데 다 마셨다고 말한 거잖아. 실제로 일어난 일이랑 말이 다르니까 이건 truth가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "우리 학교 운동장 한가운데에 큰 은행나무가 서 있어. 아무도 숨긴 적 없고 지나가는 사람이면 다 보고 다 알아. 이렇게 다들 뻔히 아는 것도 'truth'야?",
-   "choices": [
-    "응, 'truth' 맞아",
-    "아니, 'truth' 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, 'truth' 맞아",
-   "why": "맞아! 은행나무는 아무도 숨긴 적 없어도 원래 거기 서 있잖아. 숨어 있다가 밝혀져야만 truth인 게 아니야. 다들 뻔히 아는 거라도 원래 그러면 그게 바로 truth인 거야."
   }
  ],
  "synonyms": [],
@@ -80,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/truth.webp",
   "alt": "어제 놀이터에서 누가 먼저 밀었나 — 말은 여럿, 일어난 건 하나",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

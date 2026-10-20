@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/muscle-bound/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/muscle-bound/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/muscle-bound/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "muscle-bound",
  "slug": "muscle-bound",
  "url": "https://hibbangyong.com/words/muscle-bound/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, muscle-bound 아니야",
    "why": "맞아! 지아는 근육이 별로 없고 허리도 뒤로 쉽게 젖히고 손바닥이 바닥에 쫙 닿잖아. muscle-bound는 근육이 너무 붙어서 몸이 굳은 상태니까, 이렇게 잘 휘는 지아랑은 정반대야."
-  },
-  {
-   "type": "ox",
-   "question": "역도를 10년 한 삼촌은 가슴과 어깨 근육이 아주 커. 그런데 근육 때문에 팔이 머리 위로 쭉 안 올라가서 티셔츠를 갈아입을 때 한참 걸려. 이런 삼촌의 몸은 'muscle-bound'일까?",
-   "choices": [
-    "응, muscle-bound 맞아",
-    "아니, muscle-bound 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, muscle-bound 맞아",
-   "why": "맞아! 삼촌은 가슴이랑 어깨 근육이 너무 커서 팔이 머리 위로 쭉 안 올라가잖아. 근육 때문에 오히려 몸이 굳어서 티셔츠 갈아입는 것도 한참 걸리는 거니까, 이게 바로 muscle-bound야."
-  },
-  {
-   "type": "choice",
-   "question": "운동부 선배 네 명이 있어. 'muscle-bound'라는 말이 가장 잘 어울리는 선배는 누구일까?",
-   "choices": [
-    "팔뚝이 워낙 굵어져서 등 뒤로 손이 안 닿는 선배",
-    "어깨가 넓고 힘도 세면서 다리 찢기도 되는 선배",
-    "어제 팔굽혀펴기를 많이 해서 오늘 팔이 쑤시는 선배",
-    "몸이 가볍고 말라서 오래달리기가 제일 빠른 선배"
-   ],
-   "answer_index": 0,
-   "answer": "팔뚝이 워낙 굵어져서 등 뒤로 손이 안 닿는 선배",
-   "why": "맞아! 팔뚝이 워낙 굵어져서 등 뒤로 손이 안 닿는다는 건 근육이 너무 커서 오히려 몸이 굳어 버린 거잖아. 바로 그게 muscle-bound야."
   }
  ],
  "synonyms": [],
@@ -89,6 +65,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/muscle-bound.webp",
   "alt": "헬스를 오래 해 팔뚝이 굵어졌는데 등을 못 긁는 형",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

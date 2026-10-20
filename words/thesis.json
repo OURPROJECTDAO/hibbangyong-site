@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/thesis/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/thesis/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/thesis/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "thesis",
  "slug": "thesis",
  "url": "https://hibbangyong.com/words/thesis/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, thesis 맞아",
    "why": "맞아! 이모가 '공원이 많을수록 더 많이 걷는다'는 주장 하나를 세우고, 2년 동안 모은 조사 자료로 그걸 끝까지 증명한 긴 글이잖아. 대학원에서 쓰는 이런 글이 바로 thesis야."
-  },
-  {
-   "type": "ox",
-   "question": "신문 기자가 어제 시청 앞에서 열린 마라톤 대회에서 몇 시에 출발했고 누가 1등을 했는지를, 자기 생각은 하나도 넣지 않고 있었던 순서대로만 옮긴 기사를 썼어. 이 글이 'thesis'야?",
-   "choices": [
-    "응, thesis 맞아",
-    "아니, thesis 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, thesis 아니야",
-   "why": "맞아! 이 기사는 몇 시에 출발했고 누가 1등 했는지만 있었던 순서대로 옮겼잖아. 기자가 끝까지 밀고 가는 주장이 하나도 없으니까 thesis가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 사람이 급식에 대해 1년 동안 쓴 긴 글을 소개했어. 이 중에서 'thesis'라고 부르기 가장 알맞은 건?",
-   "choices": [
-    "영양사가 '다음 달 급식 메뉴'를 1년치 표로 모아 정리한 긴 글",
-    "기자가 '학교 급식 사고'를 1년 동안 있었던 순서대로 이어 쓴 긴 기사",
-    "대학원생이 '잔반은 식단 탓'이라는 생각을 1년 동안 자료로 밝힌 긴 글",
-    "학생이 '매일 먹은 급식'을 1년 동안 맛별로 나눠 적어 둔 긴 일기"
-   ],
-   "answer_index": 2,
-   "answer": "대학원생이 '잔반은 식단 탓'이라는 생각을 1년 동안 자료로 밝힌 긴 글",
-   "why": "맞아! 대학원생이 '잔반은 식단 탓'이라는 생각 하나를 1년 동안 자료로 밝혔잖아. 끝까지 증명하려는 주장이 있으니까 이게 바로 thesis야."
   }
  ],
  "synonyms": [],
@@ -94,6 +70,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/thesis.webp",
   "alt": "대학원 졸업하려는 형이 1년 내내 긴 글을 씀",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/sage/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/sage/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/sage/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "sage",
  "slug": "sage",
  "url": "https://hibbangyong.com/words/sage/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, sage 아니야",
    "why": "맞아! 민재 형은 회원 말을 끝까지 듣지도 않고 첫마디에 바로 \"그냥 그만둬\"나 \"그냥 해\"라고 정해 버리잖아. 그 말대로 했다가 틀어진 회원도 여럿이고. 깊이 보고 판단해 주는 게 sage인데 민재 형은 그 반대라서 sage가 아니야."
-  },
-  {
-   "type": "choice",
-   "question": "동네 사람 네 명이 있어. 이 중에서 'sage'라고 부르기 가장 알맞은 사람은?",
-   "choices": [
-    "책 내용을 통째로 외워서 퀴즈를 전부 맞히는 형",
-    "수염이 하얗고 동네에서 나이가 제일 많은 할아버지",
-    "싸운 두 친구 말을 다 듣고 둘 다 수긍할 길을 짚어 준 누나",
-    "남 말은 안 듣고 늘 서둘러 정했다가 후회하는 삼촌"
-   ],
-   "answer_index": 2,
-   "answer": "싸운 두 친구 말을 다 듣고 둘 다 수긍할 길을 짚어 준 누나",
-   "why": "맞아! 누나는 싸운 두 친구 말을 다 듣고, 뭐가 옳은지 깊이 따져서 둘 다 수긍할 길을 짚어 줬잖아. 이렇게 판단이 깊어서 사람들이 믿고 따를 만한 사람이 바로 sage야."
-  },
-  {
-   "type": "ox",
-   "question": "시장에서 채소를 파는 순자 아주머니는 학교를 오래 다니지 않아서 긴 글은 읽기 힘들어해. 계산기도 자주 틀리게 눌러. 옆 가게 상인들은 가게를 옮길지, 동업을 할지 정할 때 아주머니한테 먼저 물어봐. 아주머니는 몇 가지를 되물어 본 뒤, 몇 년 뒤에 어떻게 될지까지 따져서 어떤 쪽이 나은지 말해 줘. 상인들은 대부분 그 말대로 해. 순자 아주머니는 'sage'야?",
-   "choices": [
-    "응, sage 맞아",
-    "아니, sage 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, sage 맞아",
-   "why": "맞아! 순자 아주머니는 글 읽기도 계산도 서툴지만, 가게를 옮길지 동업을 할지 같은 큰일을 몇 년 뒤까지 따져서 짚어 주잖아. 그래서 상인들이 먼저 물어보고 그 말대로 하는 거고, 아는 게 많아서가 아니라 판단이 깊어서 믿고 따르는 사람, 그게 바로 sage야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/sage.webp",
   "alt": "시험마다 1등 하는 똑똑한 학생(sage가 아닌 사례)",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

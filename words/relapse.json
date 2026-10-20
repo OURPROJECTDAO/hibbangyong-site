@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/relapse/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/relapse/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/relapse/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "relapse",
  "slug": "relapse",
  "url": "https://hibbangyong.com/words/relapse/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, relapse 맞아",
    "why": "맞아! 지호는 두 달 동안 손톱 물어뜯는 버릇을 고쳤다가, 발표 날이 다가오자 다시 물어뜯기 시작했잖아. 한 번 나아졌다가 예전의 나쁜 버릇으로 되돌아간 거라서 바로 relapse인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "매일 손톱을 물어뜯던 지호가 쓴맛 나는 매니큐어를 바르고 나서 두 달째 손톱을 안 물어뜯고 있어. 이런 걸 'relapse'라고 할 수 있어?",
-   "choices": [
-    "응, relapse 맞아",
-    "아니, relapse 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, relapse 아니야",
-   "why": "맞아! 지호는 쓴맛 나는 매니큐어를 바르고 두 달째 손톱을 안 물어뜯고 있잖아. 나쁜 버릇에서 벗어나 계속 나아지는 중이니까, 예전 버릇으로 되돌아가는 relapse랑은 정반대야."
-  },
-  {
-   "type": "choice",
-   "question": "민수에 관한 이야기 네 개야. 이 중에서 'relapse'라고 부를 수 있는 건 어느 거야?",
-   "choices": [
-    "석 달 동안 게임을 끊었던 민수가 시험이 끝나자 다시 밤새 게임에 빠졌어.",
-    "게임을 한 번도 안 해 본 민수가 처음 게임을 배우고 그날 밤새 했어.",
-    "밤마다 게임을 하던 민수가 조금씩 줄여서 석 달째 게임을 안 하고 있어.",
-    "민수가 게임에서 진 판을 아쉬워하며 처음부터 다시 시작해서 끝까지 했어."
-   ],
-   "answer_index": 0,
-   "answer": "석 달 동안 게임을 끊었던 민수가 시험이 끝나자 다시 밤새 게임에 빠졌어.",
-   "why": "맞아! 석 달 동안 게임을 끊어서 나아졌던 민수가 시험이 끝나자 다시 밤새 게임에 빠졌잖아. 끊었다가 예전 버릇으로 되돌아간 거라서 바로 그게 relapse야."
   }
  ],
  "synonyms": [
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/relapse.webp",
   "alt": "감기가 나은 줄 알고 뛰어놀다가 다시 열이 나서 앓아누움",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

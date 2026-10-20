@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/figuratively/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/figuratively/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/figuratively/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "figuratively",
  "slug": "figuratively",
  "url": "https://hibbangyong.com/words/figuratively/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, 그렇게 한 거 맞아",
    "why": "맞아! 지우 손이 진짜 얼음으로 변한 건 아니고 친구도 그걸 알잖아. 너무 차갑다는 걸 얼음이라는 말로 바꿔서 한 거니까 그게 바로 figuratively야."
-  },
-  {
-   "type": "ox",
-   "question": "일기예보에서 오후에 비가 온다고 했어. 그래서 서준이가 등교하는 동생에게 말했어. \"오후에 비 온대. 우산 챙겨 가.\" 서준이는 이 말을 figuratively 한 거야?",
-   "choices": [
-    "응, 그렇게 한 거 맞아",
-    "아니, 그렇게 한 거 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 그렇게 한 거 아니야",
-   "why": "맞아! 서준이는 예보대로 진짜 비가 온다는 걸 그대로 전하고, 진짜 우산을 챙기라고 한 거야. 다른 뜻으로 바꾼 말이 하나도 없으니까 비유가 아니라 말 그대로(literally) 한 말이지."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 한마디씩 했어. 이 중에서 'figuratively' 말한 사람은 누구야?",
-   "choices": [
-    "수아: \"우리 엄마는 중학교 선생님이야.\"",
-    "민재: (1시간 해 놓고) \"어제 3시간 공부했어.\"",
-    "지호: (숙제가 많아서) \"숙제 더미에 깔려 죽겠어.\"",
-    "하린: (수요일인데) \"오늘 화요일이지?\""
-   ],
-   "answer_index": 2,
-   "answer": "지호: (숙제가 많아서) \"숙제 더미에 깔려 죽겠어.\"",
-   "why": "맞아! 지호가 진짜 숙제 더미에 깔린 것도, 죽을 것도 아니잖아. 숙제가 엄청 많다는 걸 크게 부풀려서 바꿔 말한 거고, 듣는 친구도 그걸 다 알아. 바로 그게 figuratively야."
   }
  ],
  "synonyms": [],
@@ -84,6 +60,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/figuratively.webp",
   "alt": "친구가 반 친구를 '우리 반 기둥'이라고 부른 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

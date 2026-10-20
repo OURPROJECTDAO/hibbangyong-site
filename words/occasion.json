@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/occasion/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/occasion/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/occasion/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "occasion",
  "slug": "occasion",
  "url": "https://hibbangyong.com/words/occasion/",
@@ -42,28 +42,6 @@
    "answer_index": 0,
    "answer": "응, occasion 맞아",
    "why": "맞아! 화요일에 우산을 놓고 온 그 일, 딱 한 번 있었던 일이잖아. 목요일 것 말고 화요일 것만 콕 집어서 셀 수 있으니까 그게 바로 occasion이야."
-  },
-  {
-   "type": "ox",
-   "question": "준이는 아기 때부터 지금까지 쭉 당근을 싫어해. 이 싫어하는 마음이 occasion이야?",
-   "choices": [
-    "응, occasion 맞아",
-    "아니, occasion 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, occasion 아니야",
-   "why": "그렇지, 잘 봤어! 아기 때부터 지금까지 쭉 이어지는 마음이라 언제 한 번이라고 콕 집을 데가 없잖아. occasion은 일이 벌어진 그 한 번을 집는 말이라, 이렇게 계속 이어지는 마음은 occasion이 아니야."
-  },
-  {
-   "type": "ox",
-   "question": "수민이가 이번 주에 동생이랑 다툰 게 화요일에 한 번, 금요일에 또 한 번 있었어. 하나도 특별하지 않고 그냥 안 좋은 일이었지. 이런 두 번도 'occasion'이라고 부를 수 있을까?",
-   "choices": [
-    "응, occasion 맞아.",
-    "아니, occasion 아니야."
-   ],
-   "answer_index": 0,
-   "answer": "응, occasion 맞아.",
-   "why": "맞아! 화요일에 한 번, 금요일에 또 한 번, 이렇게 일이 벌어진 그 때를 콕 집어서 셀 수 있잖아. 그러니까 다툰 그 두 번이 바로 occasion인 거야."
   }
  ],
  "synonyms": [
@@ -85,6 +63,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/occasion.webp",
   "alt": "이번 달에 학교에 늦은 세 번을 하나씩 세는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

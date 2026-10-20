@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/humor/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/humor/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/humor/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "humor",
  "slug": "humor",
  "url": "https://hibbangyong.com/words/humor/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, humor 맞아.",
    "why": "맞아! 눈 감아서 아쉬운 사진인데, 형이 그 안에서 낮잠 자는 것 같은 웃긴 데를 딱 찾아내서 다들 웃게 만들었잖아. 그게 바로 humor야."
-  },
-  {
-   "type": "ox",
-   "question": "급식 줄에서 형이 \"오늘 반찬은 김치, 계란, 국이야\" 하고 딱딱한 목소리로 말하고는 그대로 서 있었어. 이게 'humor'야?",
-   "choices": [
-    "응, humor 맞아.",
-    "아니, humor 아니야."
-   ],
-   "answer_index": 1,
-   "answer": "아니, humor 아니야.",
-   "why": "맞아! 형은 그냥 오늘 반찬이 뭔지 사실만 말한 거잖아. 웃긴 데가 하나도 없으니까 humor가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "할머니가 국에 소금 대신 설탕을 넣으셨대. 국을 뜨시더니 오늘은 국이 후식이네, 하셔서 식구들이 다 웃었어. 여기에 'humor'가 있었다고 할 수 있을까?",
-   "choices": [
-    "응, humor 있었어",
-    "아니, humor 없었어"
-   ],
-   "answer_index": 0,
-   "answer": "응, humor 있었어",
-   "why": "맞아! 웃기려고 짠 것도 아니고 그냥 실수였는데, 할머니가 그 안에서 웃긴 데를 딱 찾아내신 거잖아. 그래서 다 웃은 거고, 바로 그게 humor인 거야."
   }
  ],
  "synonyms": [
@@ -86,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/humor.webp",
   "alt": "우유를 쏟아 엉망이 된 바닥에서 누나가 웃긴 말을 던져 다 같이 웃는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/rendering/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/rendering/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/rendering/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "rendering",
  "slug": "rendering",
  "url": "https://hibbangyong.com/words/rendering/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, rendering 맞아",
    "why": "맞아! 민지가 연못이랑 벤치를 수채화 물감으로 직접 그려서 나타냈잖아. 그렇게 공원을 그림으로 나타내서 나온 모습, 그게 바로 rendering이야."
-  },
-  {
-   "type": "ox",
-   "question": "연극부가 '흥부전'을 무대에 올렸어. 공연이 끝난 뒤 한 관객이 앱에 이 연극을 보고 별점 3개를 남겼어. 이 별점 3개는 'rendering'일까?",
-   "choices": [
-    "응, rendering 맞아",
-    "아니, rendering 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, rendering 아니야",
-   "why": "맞아! 별점 3개는 연극부가 무대에 올린 흥부전이 아니라, 그 연극을 본 관객이 앱에 매긴 점수야. rendering은 연극부가 무대에서 흥부전을 나타낸 그 모습이고, 그걸 보고 남긴 평가는 따로 떨어진 거지."
-  },
-  {
-   "type": "ox",
-   "question": "한 번역가가 외국 동화책 한 권을 한국어로 옮겨 써서 새 책으로 냈어. 무대에서 공연한 건 아닌데, 이렇게 옮겨 쓴 글도 'rendering'일까?",
-   "choices": [
-    "응, rendering 맞아",
-    "아니, rendering 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, rendering 맞아",
-   "why": "맞아! 번역가가 외국 동화를 한국어 글로 옮겨 써서 새 책으로 냈잖아. 그 번역가가 그 동화를 자기 식으로 한국어 글로 나타낸 거니까 이것도 rendering이야. 무대가 없어도 상관없어."
   }
  ],
  "synonyms": [],
@@ -89,6 +67,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/rendering.webp",
   "alt": "장기자랑에서 두 반이 같은 노래를 다르게 부른 무대",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

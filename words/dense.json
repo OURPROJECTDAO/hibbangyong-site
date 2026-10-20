@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/dense/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/dense/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/dense/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "dense",
  "slug": "dense",
  "url": "https://hibbangyong.com/words/dense/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, dense 맞아",
    "why": "맞아! 좁은 엘리베이터 안이 상자로 빈틈 하나 없이 꽉 들어찼잖아. 사람 설 자리도 안 남을 만큼 사이가 사라진 거, 그게 바로 dense인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "할머니 밭에 상추 모종을 심었는데, 한 포기와 다음 포기 사이가 팔 벌린 만큼 떨어져서 그 사이로 수레가 지나다녀. 이 밭의 상추는 'dense'해?",
-   "choices": [
-    "응, dense 맞아",
-    "아니, dense 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, dense 아니야",
-   "why": "맞아! 상추 사이가 팔 벌린 만큼이나 벌어져서 수레까지 지나다니잖아. 그렇게 사이가 텅텅 비어 있으면 dense가 아니라 듬성듬성한 거야."
-  },
-  {
-   "type": "choice",
-   "question": "지호가 구슬 백 개를 세어 두 곳에 나눠 봤어. 어느 쪽을 'dense'하다고 할 수 있을까?",
-   "choices": [
-    "작은 필통 안에 구슬 백 개를 밀어 넣어서 흔들어도 달그락 소리가 안 나는 쪽",
-    "교실 바닥 전체에 구슬 백 개를 굴려 놔서 발끝으로 툭툭 건드리며 걷는 쪽",
-    "구슬 백 개를 저울에 올렸더니 바늘이 끝까지 돌아가서 들기 힘든 쪽",
-    "구슬 백 개를 한 줄로 길게 늘어놔서 줄이 복도 끝까지 이어지는 쪽"
-   ],
-   "answer_index": 0,
-   "answer": "작은 필통 안에 구슬 백 개를 밀어 넣어서 흔들어도 달그락 소리가 안 나는 쪽",
-   "why": "맞아! 작은 필통에 백 개를 꽉 눌러 담으면 구슬끼리 딱 붙어서 흔들 틈조차 없잖아. 달그락 소리가 안 나는 게 바로 빈틈이 없다는 증거야. 그게 dense인 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/dense.webp",
   "alt": "가방에 옷을 꾹꾹 눌러 담아 빈틈이 사라진 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

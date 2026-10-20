@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/side-step/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/side-step/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/side-step/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "side-step",
  "slug": "side-step",
  "url": "https://hibbangyong.com/words/side-step/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, side-step 맞아",
    "why": "맞아! 기자가 다른 팀으로 옮기냐고 물었는데, 선수는 거짓말도 안 하고 싫다고도 안 했어. 그냥 오늘 경기 얘기로 슬쩍 넘어갔지. 질문을 정면으로 안 받고 옆으로 비켜 간 거라서 바로 그게 side-step이야."
-  },
-  {
-   "type": "ox",
-   "question": "교실 에어컨이 자꾸 꺼진다는 문제가 나왔어. 반장은 꺼지는 시간과 원인을 하나씩 확인하고 행정실에 수리를 직접 신청했어. 반장이 이 문제를 'side-step'한 거야?",
-   "choices": [
-    "응, side-step 맞아",
-    "아니, side-step 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, side-step 아니야",
-   "why": "맞아! 반장은 에어컨이 꺼지는 시간이랑 원인을 하나씩 확인하고 행정실에 수리까지 직접 신청했잖아. 문제를 피하지 않고 정면으로 붙잡은 거라서 side-step이랑은 정반대야."
-  },
-  {
-   "type": "ox",
-   "question": "짝꿍이 \"네 게임기 주말에 좀 빌려줄래?\" 하고 물었어. 준호는 곧바로 \"싫어, 그건 안 빌려줄 거야\"라고 딱 잘라 말했어. 이런 경우도 'side-step'이야?",
-   "choices": [
-    "응, side-step 맞아",
-    "아니, side-step 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, side-step 아니야",
-   "why": "맞아! 준호는 빌려 달라는 말에 싫다고 대놓고 말했잖아. 부탁을 정면으로 받아서 딱 거절한 거니까, 옆으로 슬쩍 비켜 간 side-step이 아니야."
   }
  ],
  "synonyms": [
@@ -82,6 +60,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/side-step.webp",
   "alt": "친구에게 시험 점수를 물었는데 배고프다며 딴 얘기로 돌린 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

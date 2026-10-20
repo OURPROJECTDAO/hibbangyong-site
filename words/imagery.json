@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/imagery/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/imagery/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/imagery/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "imagery",
  "slug": "imagery",
  "url": "https://hibbangyong.com/words/imagery/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, imagery 맞아",
    "why": "맞아! 뜨거운 모래가 발바닥을 태우는 느낌, 파도가 철썩 부서지는 소리, 짠 냄새까지 문장이 다 건네줘서 읽기만 해도 바닷가 장면이 머릿속에 떠오르잖아. 이렇게 글이 감각으로 장면을 그려 주는 게 바로 imagery야."
-  },
-  {
-   "type": "ox",
-   "question": "도서관 안내문에 이런 문장이 적혀 있어: '도서관은 평일 오전 9시에 문을 열고 오후 6시에 닫는다.' 이 문장이 보여 주는 게 'imagery'야?",
-   "choices": [
-    "응, imagery 맞아",
-    "아니, imagery 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, imagery 아니야",
-   "why": "잘 골랐어! 이 문장은 문 여는 시간이랑 닫는 시간만 딱 알려 줄 뿐, 머릿속에 장면이나 소리, 냄새를 떠올리게 하진 않잖아. 그래서 imagery가 아니라 그냥 정보를 전하는 문장이야."
-  },
-  {
-   "type": "ox",
-   "question": "소설에서 주인공이 맨발로 한여름 모래밭을 걷는 부분을 읽는데, 내 발바닥까지 뜨겁고 따끔따끔한 것 같았어. 이런 것도 그 소설의 'imagery'야?",
-   "choices": [
-    "응, imagery 맞아",
-    "아니, imagery 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, imagery 맞아",
-   "why": "맞아! 맨발로 뜨거운 모래밭을 걷는 장면을 읽는데 네 발바닥까지 뜨겁고 따끔따끔했잖아. 그 느낌을 소설 속 글이 너한테 떠올리게 해 준 거니까, 바로 그게 그 소설의 imagery야."
   }
  ],
  "synonyms": [],
@@ -80,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/imagery.webp",
   "alt": "국어 시간에 시를 읽다가 빗소리와 흙냄새가 느껴진 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

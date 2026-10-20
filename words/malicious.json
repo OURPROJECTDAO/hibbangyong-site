@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/malicious/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/malicious/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/malicious/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "malicious",
  "slug": "malicious",
  "url": "https://hibbangyong.com/words/malicious/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, malicious 아니야",
    "why": "맞아! 할머니는 새로 이사 온 가족이 길을 헤매지 않게 도우려고 약도를 그려 주신 거잖아. malicious는 일부러 남을 해치려는 마음이 있어야 쓰는 말이라, 이렇게 돕는 마음에는 절대 안 붙어."
-  },
-  {
-   "type": "ox",
-   "question": "형이 동생이 다음 날 시험에 늦게 하려고, 동생 방 알람시계를 밤에 일부러 한 시간 늦게 바꿔 놓았어. 형의 이 행동은 'malicious'한 걸까?",
-   "choices": [
-    "응, malicious 맞아",
-    "아니, malicious 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, malicious 맞아",
-   "why": "맞아! 형은 동생이 시험에 늦게 하려고 밤에 알람시계를 일부러 한 시간 늦게 바꿔 놨잖아. 처음부터 동생을 곤란하게 만들려는 속마음으로 한 거라서 바로 malicious인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 한 일이야. 이 중에서 'malicious'하다고 말할 수 있는 건 누구 일일까?",
-   "choices": [
-    "지우가 반 친구를 골탕 먹이려고 그 애 체육복을 몰래 숨겼어.",
-    "민호가 급하게 뛰어가다가 모르고 친구 필통을 떨어뜨려 부쉈어.",
-    "서연이가 친구 생일에 얼굴에 크림을 살짝 묻히고 같이 웃었어.",
-    "준수가 아픈 친구 대신 당번 일을 아무 말 없이 해 줬어."
-   ],
-   "answer_index": 0,
-   "answer": "지우가 반 친구를 골탕 먹이려고 그 애 체육복을 몰래 숨겼어.",
-   "why": "맞아! 지우는 반 친구를 골탕 먹이려고 체육복을 몰래 숨겼잖아. 처음부터 그 애를 곤란하게 만들려는 마음으로 한 거라서, 바로 그게 malicious인 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/malicious.webp",
   "alt": "친구를 곤란하게 하려고 일부러 없는 말을 퍼뜨림",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

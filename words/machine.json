@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/machine/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/machine/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/machine/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "machine",
  "slug": "machine",
  "url": "https://hibbangyong.com/words/machine/",
@@ -45,30 +45,6 @@
    "answer_index": 0,
    "answer": "여름에 시원한 바람을 만들어 주는 선풍기",
    "why": "맞아! 선풍기는 안에 있는 부품들이 맞물려 돌아가면서 시원한 바람을 대신 만들어 주잖아. 사람이 부채질 안 해도 알아서 일해 주니까 바로 그게 machine인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "여기 네 가지가 있어. 이 중에서 'machine'이라고 부를 수 있는 건 어느 거야?",
-   "choices": [
-    "물을 주면 잎을 쭉 뻗으며 자라는 화분 속 화초",
-    "껍질을 벗기면 달콤한 냄새가 퍼지는 접시 위 바나나",
-    "연필을 꽂으면 전기로 윙~ 돌아가며 연필을 깎아 주는 전동 연필깎이",
-    "달마다 한 장씩 넘겨서 보는 벽에 걸린 달력"
-   ],
-   "answer_index": 2,
-   "answer": "연필을 꽂으면 전기로 윙~ 돌아가며 연필을 깎아 주는 전동 연필깎이",
-   "why": "맞아! 전동 연필깎이는 연필을 꽂으면 안에 든 부품들이 전기로 윙~ 돌아가면서 연필 깎는 일을 대신 해 주거든. 그래서 바로 machine인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "할머니 댁 마당의 소가 뚜벅뚜벅 걸어가며 무거운 수레를 끌고 있어. 이 소는 'machine'이야?",
-   "choices": [
-    "응, machine 맞아",
-    "아니, machine 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, machine 아니야",
-   "why": "맞아! 소는 뚜벅뚜벅 걷고 수레도 끌지만, 안에 부품이 맞물려 돌아가는 게 아니라 밥 먹고 숨 쉬는 살아있는 동물이잖아. 그래서 machine이 아닌 거야."
   }
  ],
  "synonyms": [],
@@ -89,6 +65,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/machine.webp",
   "alt": "세탁기에 빨래를 넣고 버튼을 눌러 돌리는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

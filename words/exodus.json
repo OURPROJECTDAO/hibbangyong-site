@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/exodus/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/exodus/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/exodus/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "exodus",
  "slug": "exodus",
  "url": "https://hibbangyong.com/words/exodus/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, exodus 맞아",
    "why": "맞아! 수만 명이 한꺼번에 경기장을 빠져나갔잖아. 사람이 많고 같은 곳을 떠난다는 두 가지가 다 들어 있어서 바로 exodus인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "불꽃 축제가 시작되자 수만 명의 사람이 한꺼번에 바닷가로 몰려들었어. 이 흐름을 'exodus'라고 부를 수 있을까?",
-   "choices": [
-    "응, exodus 맞아",
-    "아니, exodus 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, exodus 아니야",
-   "why": "맞아! 수만 명이 한꺼번에 움직인 건 맞는데, 바닷가를 떠난 게 아니라 바닷가로 몰려든 거잖아. exodus는 많은 사람이 한 곳을 떠나는 흐름이라서, 이렇게 모여드는 건 exodus가 아니야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 중 'exodus'라고 부르기 가장 알맞은 상황은 뭘까?",
-   "choices": [
-    "불이 나서 한 가족이 급하게 집 밖으로 뛰어나왔어.",
-    "새 가게가 문을 열자 사람들이 그 앞으로 우르르 몰려들었어.",
-    "여름휴가 첫날, 아주 많은 사람이 한꺼번에 서울을 빠져나갔어.",
-    "우리 반 친구 한 명이 먼 도시로 전학을 가 버렸어."
-   ],
-   "answer_index": 2,
-   "answer": "여름휴가 첫날, 아주 많은 사람이 한꺼번에 서울을 빠져나갔어.",
-   "why": "맞아! 아주 많은 사람이 한꺼번에 서울이라는 같은 곳을 빠져나갔잖아. 위험해서가 아니라 그냥 휴가 가는 거여도, 많은 사람이 한 곳을 떠나는 흐름이면 바로 그게 exodus야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/exodus.webp",
   "alt": "방학 첫날 기숙사에서 학생들이 한꺼번에 빠져나가는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/quarantine/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/quarantine/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/quarantine/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "quarantine",
  "slug": "quarantine",
  "url": "https://hibbangyong.com/words/quarantine/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, quarantine 아니야",
    "why": "맞아! 학생들이 사흘 동안 반 구분 없이 한 숙소에서 다 같이 밥 먹고 잠자고 놀았잖아. 아무도 따로 떼어 놓지 않았으니까 quarantine이 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "해외에서 들여온 어린 사과나무들을 병이 없다는 게 확인될 때까지 열흘 동안 다른 나무들과 떨어진 온실에 따로 뒀어. 아픈 나무는 한 그루도 없었어. 이게 'quarantine'이야?",
-   "choices": [
-    "응, quarantine 맞아",
-    "아니, quarantine 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, quarantine 맞아",
-   "why": "맞아! 아픈 나무가 한 그루도 없었는데도, 병이 없다는 게 확인될 때까지 열흘 동안 다른 나무들과 떨어진 온실에 따로 뒀잖아. 혹시 몰라서 정해진 동안 떼어 두는 거, 바로 그게 quarantine이야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 2주 동안 있었던 일을 말했어. 그중 'quarantine'에 해당하는 건?",
-   "choices": [
-    "다리가 부러진 형이 병원에 입원해서 2주 동안 치료를 받았어.",
-    "규칙을 어긴 축구 선수가 벌로 2주 동안 경기에 못 나갔어.",
-    "외국에서 들여온 소가 병이 없다고 나올 때까지 2주 동안 한쪽 우리에서 지냈어.",
-    "전학 온 친구가 첫날부터 2주 내내 반 친구들이랑 섞여서 놀았어."
-   ],
-   "answer_index": 2,
-   "answer": "외국에서 들여온 소가 병이 없다고 나올 때까지 2주 동안 한쪽 우리에서 지냈어.",
-   "why": "맞아! 그 소는 아픈 게 아니라, 혹시 병이 있을지 몰라서 병이 없다고 나올 때까지 한쪽 우리에 떼어 둔 거잖아. 바로 그게 quarantine이야."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/quarantine.webp",
   "alt": "외국에서 데려온 강아지가 며칠 동안 따로 떨어져 지냄",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

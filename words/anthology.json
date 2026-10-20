@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/anthology/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/anthology/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/anthology/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "anthology",
  "slug": "anthology",
  "url": "https://hibbangyong.com/words/anthology/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, anthology 맞아",
    "why": "맞아! 여러 시인이 따로따로 쓴 옛 시조 가운데 50편을 골라서 한 권으로 엮었잖아. 따로 있던 작품을 골라 한데 모은 책이니까 바로 그게 anthology인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "나라별 수도와 인구, 넓이를 표로 모아서 한 권으로 정리한 책이 있어. 이 책은 'anthology'일까?",
-   "choices": [
-    "응, anthology 맞아",
-    "아니, anthology 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, anthology 아니야",
-   "why": "맞아! 이 책에 모은 건 나라별 수도랑 인구, 넓이 같은 정보잖아. 시나 소설 같은 작품을 골라 묶은 게 아니라 정보를 표로 정리한 거니까 anthology가 아니고, 찾아보는 참고서 쪽이야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 이번 주에 본 책을 말했어. 그중 'anthology'라고 부를 수 있는 건?",
-   "choices": [
-    "한 작가가 삼 년 동안 쓴 긴 소설 한 편이 한 권으로 나왔어",
-    "매달 새 기사와 사진이 실려 나오는 청소년 잡지를 샀어",
-    "도서부가 부원 열두 명의 단편을 골라 한 권으로 엮었어",
-    "영어 단어와 뜻이 가나다순으로 정리된 책을 샀어"
-   ],
-   "answer_index": 2,
-   "answer": "도서부가 부원 열두 명의 단편을 골라 한 권으로 엮었어",
-   "why": "맞아! 부원 열두 명이 따로 쓴 단편을 골라서 한 권으로 엮었으니까, 바로 그게 anthology야. 여러 사람의 작품을 골라 한데 묶었다는 게 핵심이거든."
   }
  ],
  "synonyms": [],
@@ -91,6 +67,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/anthology.webp",
   "alt": "도서관 시집 코너의 여러 시인 시 모음집",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

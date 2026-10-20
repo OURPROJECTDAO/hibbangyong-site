@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/trick/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/trick/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/trick/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "trick",
  "slug": "trick",
  "url": "https://hibbangyong.com/words/trick/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, trick 맞아",
    "why": "맞아! 손이 안 닿는 어려운 일을 빗자루로 톡 밀어서 척 해냈잖아. 그렇게 어려운 걸 쉽게 해내는 영리한 방법, 그게 바로 trick인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "동생이 뻑뻑한 서랍을 열려고 손잡이를 몇 번이나 힘껏 당겼지만, 서랍은 꼼짝도 안 했고 결국 그대로 두고 갔어. 이게 'trick'이야?",
-   "choices": [
-    "응, trick 맞아",
-    "아니, trick 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, trick 아니야",
-   "why": "맞아! trick은 어려운 걸 톡 풀어내는 똑똑한 수를 말하거든. 동생은 힘으로만 당기다 서랍도 못 열고 그냥 갔잖아. 통하는 똑똑한 수가 하나도 없었으니까 trick이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 엉킨 실뭉치를 두고 저마다 다르게 했어. 이 중에서 'trick'을 쓴 아이는 누구일까?",
-   "choices": [
-    "형은 남들은 못 푸는 실뭉치를, 딱 한 곳만 잡아당겨 순식간에 풀었어.",
-    "동생은 실뭉치를 안 풀었으면서 '내가 다 풀었다'고 말로만 우겼어.",
-    "누나는 실뭉치를 한참 잡아당겼지만, 더 엉키기만 하고 결국 못 풀었어.",
-    "나는 실뭉치를 처음부터 하나하나, 시간을 들여 천천히 다 풀었어."
-   ],
-   "answer_index": 0,
-   "answer": "형은 남들은 못 푸는 실뭉치를, 딱 한 곳만 잡아당겨 순식간에 풀었어.",
-   "why": "맞아! 남들은 못 푸는 걸 딱 한 곳만 잡아당겨 순식간에 풀었잖아. 그 아이만 아는 영리한 수, 바로 그게 trick인 거야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/trick.webp",
   "alt": "마술사가 빈 모자에서 토끼를 꺼내는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

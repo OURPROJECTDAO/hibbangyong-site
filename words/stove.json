@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/stove/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/stove/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/stove/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "stove",
  "slug": "stove",
  "url": "https://hibbangyong.com/words/stove/",
@@ -41,19 +41,6 @@
    "answer_index": 1,
    "answer": "아니, 아니야",
    "why": null
-  },
-  {
-   "type": "choice",
-   "question": "stove는 어느 것일까?",
-   "choices": [
-    "냄비를 올리고 불을 켜서 음식을 끓이거나 데우는 부엌 기구",
-    "옷을 넣고 빙글빙글 돌려서 깨끗하게 빠는 부엌 옆 기계",
-    "책을 여러 칸에 꽂아 세워 두는 나무로 만든 가구",
-    "비 올 때 손에 들고 위로 펼쳐서 머리를 가리는 물건"
-   ],
-   "answer_index": 0,
-   "answer": "냄비를 올리고 불을 켜서 음식을 끓이거나 데우는 부엌 기구",
-   "why": null
   }
  ],
  "synonyms": [],
@@ -67,6 +54,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/stove.webp",
   "alt": "가스레인지(스토브) — 버너 하나에 파란 불꽃 링이 켜진 부엌 가스레인지를 정면에서 통째로",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

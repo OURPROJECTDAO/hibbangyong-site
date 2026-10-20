@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/menu/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/menu/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/menu/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "menu",
  "slug": "menu",
  "url": "https://hibbangyong.com/words/menu/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, menu 아니야",
    "why": "맞아! 엄마가 보여준 종이에는 양파 썰기, 고기 볶기, 물 붓기가 순서대로 적혀 있지? 이건 하나를 고르는 게 아니라 차례대로 다 따라 하는 거라서 menu가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "형이 게임을 켰어. 화면 네 가지를 봤는데, 이 중에서 'menu'라고 부를 수 있는 건?",
-   "choices": [
-    "'새로 하기' '이어서 하기' '소리 끄기'가 나란히 떠서, 형이 그중 하나를 눌렀어",
-    "게임을 어떻게 조종하는지 첫째 둘째 셋째 순서대로 글이 떠 있었어",
-    "형이 오늘 딴 점수, 남은 목숨, 걸린 시간이 나란히 적혀 있었어",
-    "'로딩 중'이라고 뜬 채로 동그라미만 빙빙 돌고 있었어"
-   ],
-   "answer_index": 0,
-   "answer": "'새로 하기' '이어서 하기' '소리 끄기'가 나란히 떠서, 형이 그중 하나를 눌렀어",
-   "why": "맞아! '새로 하기' '이어서 하기' '소리 끄기'가 나란히 떠 있고, 형이 그중 하나를 골라 눌렀잖아. 이렇게 고를 것들을 쭉 늘어놓은 화면, 바로 그게 menu인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "분식집 벽에 판이 하나 붙어 있어. 떡볶이, 김밥, 라면, 어묵이 쭉 적혀 있고, 손님들이 그걸 보고 먹을 걸 하나씩 골라. 이게 'menu'야?",
-   "choices": [
-    "응, menu 맞아",
-    "아니, menu 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, menu 맞아",
-   "why": "맞아! 분식집 벽에 붙은 판에 떡볶이, 김밥, 라면, 어묵이 쭉 적혀 있고, 손님들이 그걸 보고 먹을 걸 하나씩 고르잖아. 고를 수 있는 것들을 늘어놓은 판이니까 바로 그게 menu인 거야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/menu.webp",
   "alt": "식당에서 받아 든 종이 한 장에 오늘 시킬 수 있는 게 쭉 적힌 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

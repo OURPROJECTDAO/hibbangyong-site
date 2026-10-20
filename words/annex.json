@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/annex/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/annex/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/annex/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "annex",
  "slug": "annex",
  "url": "https://hibbangyong.com/words/annex/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, annex 맞아",
    "why": "맞아! 강 건너 옆 지역을 자기 나라의 한 주로 공식 지정하고 주민들한테 여권까지 나눠 줬잖아. 옆 땅을 아예 자기 나라의 한 부분으로 넣어 버린 거니까 그게 바로 annex야."
-  },
-  {
-   "type": "ox",
-   "question": "한 나라가 오래 다스리던 먼 바다 건너 식민지를 풀어 줘서, 그 땅이 이제 더 이상 그 나라 땅이 아니게 됐어. 이 나라가 그 땅에 한 일을 'annex'라고 할 수 있어?",
-   "choices": [
-    "응, annex 맞아",
-    "아니, annex 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, annex 아니야",
-   "why": "맞아! 이 나라는 바다 건너 식민지를 풀어 줘서 그 땅을 자기 땅에서 떼어 냈잖아. annex는 땅을 자기 나라에 넣는 거라서, 이건 오히려 정반대 일이야."
-  },
-  {
-   "type": "choice",
-   "question": "뉴스 네 개가 나왔어. 이 중에서 'annex'한 일이라고 말할 수 있는 건?",
-   "choices": [
-    "한 도시가 주민 투표를 거쳐 옆 마을을 자기 도시의 한 동네로 넣었어",
-    "한 나라 군대가 옆 나라 땅에 들어가 몇 달 머물다가 그냥 돌아갔어",
-    "크기가 비슷한 두 마을이 하나로 합쳐져서 새 이름의 도시가 됐어",
-    "한 나라가 자기 땅 일부를 떼어 내서 따로 나라를 세우게 해 줬어"
-   ],
-   "answer_index": 0,
-   "answer": "한 도시가 주민 투표를 거쳐 옆 마을을 자기 도시의 한 동네로 넣었어",
-   "why": "맞아! 주민 투표로 옆 마을을 받아들여서 이제 그 마을이 도시의 한 동네가 된 거잖아. 싸움이 없었어도 옆 땅을 공식적으로 자기 것의 한 부분으로 넣었으니까 바로 그게 annex야."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/annex.webp",
   "alt": "뉴스 지도에서 옆 땅이 다른 나라 땅으로 칠해지는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/mortgage/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/mortgage/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/mortgage/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "mortgage",
  "slug": "mortgage",
  "url": "https://hibbangyong.com/words/mortgage/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, mortgage 맞아",
    "why": "맞아! 삼촌은 집을 사면서 그 집을 은행에 걸고 큰돈을 빌렸고, 20년 동안 매달 나눠 갚기로 했잖아. 집을 걸고 진 이 빚이 바로 mortgage야."
-  },
-  {
-   "type": "ox",
-   "question": "이모가 운영하던 빵집을 팔았어. 그렇게 받은 돈으로 은행에서 한 푼도 빌리지 않고 작은 아파트 값을 그 자리에서 전부 치렀어. 이모가 아파트를 산 이 방식이 'mortgage'야?",
-   "choices": [
-    "응, mortgage 맞아",
-    "아니, mortgage 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, mortgage 아니야",
-   "why": "맞아! 이모는 빵집 판 돈으로 아파트 값을 그 자리에서 전부 냈잖아. 은행에서 빌린 돈이 한 푼도 없으니까 집을 걸고 진 빚도 없고, 그래서 mortgage가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 자기 집 사정을 말했어. 집에 'mortgage'가 있는 친구는 누구일까?",
-   "choices": [
-    "집주인에게 매달 돈을 내면서 그 집에 빌려 살고 있어",
-    "집을 살 때 은행 돈을 보태서 매달 은행에 나눠 내고 있어",
-    "집주인에게 큰돈을 맡겨 두고 이사 갈 때 돌려받기로 했어",
-    "모아 둔 돈으로 집값을 한 번에 다 내고 끝냈어"
-   ],
-   "answer_index": 1,
-   "answer": "집을 살 때 은행 돈을 보태서 매달 은행에 나눠 내고 있어",
-   "why": "맞아! 집을 살 때 은행 돈을 보탰으니 은행에 빚을 진 거고, 그걸 매달 은행에 나눠 내고 있잖아. 집을 사려고 은행에서 빌리고 조금씩 갚아 나가는 이 빚이 바로 mortgage야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/mortgage.webp",
   "alt": "부모님이 은행 돈을 빌려 집을 사고 몇십 년 동안 매달 갚는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

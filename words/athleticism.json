@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/athleticism/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/athleticism/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/athleticism/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "athleticism",
  "slug": "athleticism",
  "url": "https://hibbangyong.com/words/athleticism/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, athleticism 맞아",
    "why": "맞아! 언니가 구석으로 떨어지는 셔틀콕까지 순식간에 달려가고, 몸을 낮춰 받아 넘긴 다음 곧바로 가운데로 돌아왔잖아. 빠르게 움직이면서 몸까지 마음대로 다룬 거라서 바로 그게 athleticism인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "주말에 등산을 갔는데, 삼촌은 비탈길에서 발을 어디에 디딜지 몰라 한참 머뭇거렸어. 겨우 한 발씩 내딛다가 작은 돌부리에도 몸이 휘청했어. 삼촌이 보여 준 이 몸 상태를 'athleticism'이라고 할 수 있어?",
-   "choices": [
-    "응, athleticism 맞아",
-    "아니, athleticism 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, athleticism 아니야",
-   "why": "맞아! 삼촌은 비탈길에서 발을 어디에 디딜지 몰라 한참 머뭇거렸고, 작은 돌부리에도 몸이 휘청했잖아. 몸이 빠르게도, 마음대로도 안 움직인 거니까 athleticism이랑은 정반대인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "자연 다큐멘터리에서 눈표범을 보여 주던 해설자가 \"이 동물의 'athleticism'은 정말 놀랍습니다\"라고 했어. 해설자가 감탄한 건 눈표범의 무엇일까?",
-   "choices": [
-    "바위 사이를 빠르고 힘 있게 뛰어다니며 몸을 자유롭게 다루는 능력",
-    "추운 산에서도 얼지 않게 몸을 감싸 주는 크고 두꺼운 털과 덩치",
-    "먹잇감이 어디로 도망갈지 미리 알아차리는 영리한 사냥 머리",
-    "며칠을 굶고도 쓰러지지 않고 오래 버티는 끈질긴 지구력"
-   ],
-   "answer_index": 0,
-   "answer": "바위 사이를 빠르고 힘 있게 뛰어다니며 몸을 자유롭게 다루는 능력",
-   "why": "맞아! 바위 사이를 빠르고 힘 있게 뛰어다니며 몸을 자유롭게 다루는 거, 그게 바로 athleticism이야. 사람 말고 눈표범한테도, 몸이 이렇게 잘 움직이면 똑같이 쓰는 말이거든."
   }
  ],
  "synonyms": [],
@@ -93,6 +69,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/athleticism.webp",
   "alt": "피구에서 공을 피하고 몸을 틀어 받아 내는 아이",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

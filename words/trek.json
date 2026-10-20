@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/trek/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/trek/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/trek/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "trek",
  "slug": "trek",
  "url": "https://hibbangyong.com/words/trek/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, trek 아니야",
    "why": "맞아! 옆 반 교실까지 열 걸음이면 금방 다녀오고 힘들 것도 하나 없잖아. trek은 멀고 힘들어야 하는데 서연이가 옆 반에 다녀온 건 둘 다 아니라서 trek이 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "폭설 때문에 차가 다닐 수 없어서, 민준이는 옆 마을 할머니 댁까지 무릎까지 쌓인 눈길을 세 시간 동안 걸어갔어. 이 길은 'trek'일까?",
-   "choices": [
-    "응, trek 맞아",
-    "아니, trek 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, trek 맞아",
-   "why": "맞아! 폭설로 차가 못 다녀서 민준이는 무릎까지 쌓인 눈길을 세 시간이나 걸어갔잖아. 멀고 힘들게 걸어서 오래 간 길이니까 딱 trek인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 어디를 어떻게 갔는지 말했어. 이 중 'trek'이라고 부르기 가장 알맞은 건?",
-   "choices": [
-    "아파트 앞 편의점까지 1분 걸어서 다녀왔어",
-    "가족이랑 KTX를 타고 편하게 부산에 다녀왔어",
-    "버스가 끊겨서 먼 기차역까지 두 시간 넘게 걸었어",
-    "저녁 먹고 공원을 천천히 한 바퀴 돌고 왔어"
-   ],
-   "answer_index": 2,
-   "answer": "버스가 끊겨서 먼 기차역까지 두 시간 넘게 걸었어",
-   "why": "맞아! 버스가 끊겨서 먼 기차역까지 걸어간 건 멀고 힘들게 오래 걸은 길이잖아. 그래서 바로 그게 trek인 거야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/trek.webp",
   "alt": "버스가 끊겨 먼 역까지 두 시간 걸어가기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

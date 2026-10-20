@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/plume/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/plume/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/plume/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "plume",
  "slug": "plume",
  "url": "https://hibbangyong.com/words/plume/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, plume 맞아",
    "why": "맞아! 굴뚝 하나에서 나온 회색 연기가 한 줄기로 길게 솟아올라 하늘로 퍼져 나갔잖아. 한 곳에서 나와 길게 피어오르며 퍼지는 줄기, 그게 바로 plume이야."
-  },
-  {
-   "type": "ox",
-   "question": "비가 그친 뒤 산골짜기 전체에 하얀 안개가 어디서 나왔는지 모르게 고르게 깔려 있었어. 이 안개를 'plume'이라고 할 수 있을까?",
-   "choices": [
-    "응, plume 맞아",
-    "아니, plume 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, plume 아니야",
-   "why": "맞아! 이 안개는 어디서 나왔는지 모르게 산골짜기 전체에 고르게 깔려 있잖아. plume은 한 곳에서 나와 위로 길게 피어오르는 줄기라서, 시작점도 줄기도 없는 이 안개는 plume이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 중 'plume'이라고 부르기 가장 알맞은 장면은?",
-   "choices": [
-    "흙길을 트럭이 달리자 뒤에서 흙먼지가 한 줄기로 길게 솟아 퍼졌어.",
-    "아침 내내 동네 전체가 뿌연 안개에 고르게 덮여 있었어.",
-    "캠핑장 모닥불에서 불꽃이 탁탁 튀며 활활 타올랐어.",
-    "겨울 아침 교실 창문에 김이 서려 온통 뿌옇게 됐어."
-   ],
-   "answer_index": 0,
-   "answer": "흙길을 트럭이 달리자 뒤에서 흙먼지가 한 줄기로 길게 솟아 퍼졌어.",
-   "why": "맞아! 트럭 뒤에서 흙먼지가 한 줄기로 길게 솟아 퍼졌잖아. 불이나 연기가 아니어도, 한 곳에서 나와 위로 길게 피어오르며 퍼지는 줄기라서 바로 그게 plume인 거야."
   }
  ],
  "synonyms": [],

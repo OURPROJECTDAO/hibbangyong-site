@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/inspire/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/inspire/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/inspire/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "inspire",
  "slug": "inspire",
  "url": "https://hibbangyong.com/words/inspire/",
@@ -45,28 +45,6 @@
    "answer_index": 0,
    "answer": "언니가 무대에서 멋지게 노래하자, 보던 동생이 스스로 합창단을 찾아가 가입했어.",
    "why": "맞아! 언니 노래를 보고 동생 마음에 '나도 하고 싶다' 불씨가 확 붙어서 스스로 합창단까지 찾아갔잖아. 감탄에서 끝난 게 아니라 진짜로 몸이 움직였으니까, 그게 바로 inspire인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "삼촌이 혼자 산을 오르고 돌아와 눈을 반짝이며 그날 얘기를 들려줬어. 등산하는 법은 하나도 안 가르쳐 줬는데, 그 얘기를 들은 조카가 '나도 저 산에 올라 보고 싶다'며 등산화를 사러 갔어. 이런 경우도 'inspire'야?",
-   "choices": [
-    "응, 그것도 'inspire'야",
-    "아니, 그건 'inspire'가 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, 그것도 'inspire'야",
-   "why": "맞아! 삼촌은 등산하는 법은 하나도 안 가르쳐 줬지만, 그 반짝이는 얘기가 조카 마음에 '나도 저 산 올라 보고 싶다'는 불씨를 딱 심어서 등산화를 사러 움직이게 했잖아. 그래서 바로 이게 inspire인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "동생은 숙제가 하기 싫었어. 그런데 형이 '숙제 안 하면 오늘 게임 못 하게 할 거야!'라고 겁을 줘서, 동생은 억지로 숙제를 했어. 이 형이 한 일도 'inspire'야?",
-   "choices": [
-    "응, 그것도 'inspire'야",
-    "아니, 그건 'inspire'가 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 그건 'inspire'가 아니야",
-   "why": "맞아, 이건 inspire가 아니야! 동생은 숙제가 하고 싶어진 게 아니라, 게임을 못 하게 될까 봐 겁이 나서 억지로 한 거거든. inspire였다면 형 때문에 동생 마음속에 숙제를 하고 싶은 마음이 스스로 생겼어야 해."
   }
  ],
  "synonyms": [],
@@ -96,6 +74,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/inspire.webp",
   "alt": "형이 기타 치는 걸 보고 나도 뭔가 해내고 싶어진 마음",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

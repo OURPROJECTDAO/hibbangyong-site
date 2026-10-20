@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/whilst/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/whilst/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/whilst/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "whilst",
  "slug": "whilst",
  "url": "https://hibbangyong.com/words/whilst/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, whilst 맞아",
    "why": "맞아! 아빠가 앞에서 운전하신 거랑 네가 뒷자리에서 음악 들은 게 같은 시간에 함께 벌어졌잖아. 그렇게 두 일이 한꺼번에 흘러갈 때 이어 주는 말이 바로 whilst야."
-  },
-  {
-   "type": "ox",
-   "question": "토요일 아침에 나는 마당에 빨래를 널었어. 그리고 한참 지나 해가 진 저녁이 되어서야 그 빨래를 걷었어. 아침 일과 저녁 일을 이어 주는 말로 'whilst'가 맞을까?",
-   "choices": [
-    "응, whilst 맞아",
-    "아니, whilst 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, whilst 아니야",
-   "why": "그렇지, whilst는 안 맞아! 빨래를 널은 건 아침이고 걷은 건 해가 진 저녁이라, 두 일이 같은 때에 함께 벌어진 게 아니거든. whilst는 두 일이 같은 시간에 나란히 흘러갈 때 쓰는 말이야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 두 가지 일을 한 문장으로 이으려고 해. 두 일 사이에 'whilst'를 넣었을 때 하려던 말이 그대로 살아나는 사람은 누구일까?",
-   "choices": [
-    "숙제를 다 끝내고 난 뒤에 게임을 켰다는 걸 말하려는 준호",
-    "비가 너무 많이 와서 소풍이 취소됐다는 걸 말하려는 서연",
-    "동생은 수학을 잘하고 나는 영어를 잘한다는 걸 말하려는 민지",
-    "버스가 올 때까지 정류장에 서 있었다는 걸 말하려는 태민"
-   ],
-   "answer_index": 2,
-   "answer": "동생은 수학을 잘하고 나는 영어를 잘한다는 걸 말하려는 민지",
-   "why": "맞아! 민지는 동생은 수학을 잘하고 나는 영어를 잘한다는 두 사실을 나란히 놓고 다른 점을 비교하려는 거잖아. whilst는 이렇게 비교할 때 ~인 반면이라는 뜻이 돼서, 동생은 수학을 잘하는 반면 나는 영어를 잘한다고 딱 이어져."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/whilst.webp",
   "alt": "엄마는 설거지하고 나는 숙제한 같은 시간",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/merchant/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/merchant/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/merchant/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "merchant",
  "slug": "merchant",
  "url": "https://hibbangyong.com/words/merchant/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, merchant 아니야",
    "why": "맞아! 이 아저씨는 물건을 사고파는 게 아니라 아픈 강아지와 고양이를 치료해 주는 게 일이거든. merchant는 물건을 사다가 다른 데 파는 게 일인 사람이라서, 이 아저씨는 merchant가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "어떤 아저씨는 공장에서 연필을 한꺼번에 많이 사다가, 여러 동네 문구점에 나눠 파는 게 일이야. 이 아저씨는 'merchant'야?",
-   "choices": [
-    "응, merchant 맞아",
-    "아니, merchant 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, merchant 맞아",
-   "why": "맞아! 이 아저씨는 연필을 자기가 만든 게 아니라 공장에서 많이 사다가 여러 동네 문구점에 파는 게 일이거든. 사고파는 게 일이니까 바로 merchant인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "시장에 네 사람이 있어. 이 중에서 'merchant'라고 부를 수 있는 사람은 누구일까?",
-   "choices": [
-    "저녁 반찬을 사려고 시장에 들른 사람",
-    "시장 골목을 매일 비질하며 치우는 사람",
-    "다른 마을에서 쌀을 잔뜩 사다가 되파는 사람",
-    "밭에서 배추를 키워 집에서 먹는 사람"
-   ],
-   "answer_index": 2,
-   "answer": "다른 마을에서 쌀을 잔뜩 사다가 되파는 사람",
-   "why": "맞아! 다른 마을에서 쌀을 잔뜩 사다가 다시 파는 게 이 사람 일이잖아. 사서 파는 게 바로 일인 사람, 그게 merchant인 거야."
   }
  ],
  "synonyms": [],
@@ -85,6 +61,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/merchant.webp",
   "alt": "큰 배에 비단을 싣고 먼 나라로 가서 파는 사람",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

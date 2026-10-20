@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/utter/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/utter/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/utter/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "utter",
  "slug": "utter",
  "url": "https://hibbangyong.com/words/utter/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, utter 맞아",
    "why": "맞아! 준서 입에서 우와 소리가 밖으로 톡 나왔잖아. 말이든 그냥 소리든 속에만 있다가 입 밖으로 나오면 그게 바로 utter인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "엘리베이터 안에서 다은이는 인사말을 머릿속으로만 떠올리고 입은 계속 다물고 있었어. 이게 'utter'야?",
-   "choices": [
-    "응, utter 맞아",
-    "아니, utter 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, utter 아니야",
-   "why": "맞아! 다은이는 인사말을 머릿속에만 담아 두고 입은 꾹 다물고 있었잖아. 입 밖으로 나온 소리가 하나도 없으니까 utter가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "동생이 발등을 찧고 \"으윽\" 하고 앓는 소리를 냈어. 말은 하나도 아니고 그냥 소리였어. 이것도 'utter'야?",
-   "choices": [
-    "응, utter 맞아.",
-    "아니, utter 아니야."
-   ],
-   "answer_index": 0,
-   "answer": "응, utter 맞아.",
-   "why": "맞아! 말이 아니어도 소리가 입 밖으로 톡 나왔잖아. 그러니까 그게 바로 utter인 거야."
   }
  ],
  "synonyms": [
@@ -86,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/utter.webp",
   "alt": "조용한 가운데 누군가 입에서 소리 하나가 톡 나오는 순간",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

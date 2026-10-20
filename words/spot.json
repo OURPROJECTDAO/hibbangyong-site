@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/spot/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/spot/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/spot/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "spot",
  "slug": "spot",
  "url": "https://hibbangyong.com/words/spot/",
@@ -45,30 +45,6 @@
    "answer_index": 0,
    "answer": "분수대 옆 벤치, 바로 여기가 쉬기 딱 좋은 자리",
    "why": "맞아! 분수대 옆 벤치는 손가락으로 콕 집을 수 있는 작은 한 군데잖아. 바로 여기가 쉬기 딱 좋은 자리라서, 그게 spot인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "친구들이 소풍 가서 각자 이렇게 말했어. 'spot'을 말한 사람은 누구일까?",
-   "choices": [
-    "이 들판 전부 다 뛰어놀기 좋아",
-    "이 나무 밑, 바로 여기가 앉기 딱 좋아",
-    "저 끝까지 쭉 난 길이 참 예뻐",
-    "아무 데나 다 좋아, 정하기 싫어"
-   ],
-   "answer_index": 1,
-   "answer": "이 나무 밑, 바로 여기가 앉기 딱 좋아",
-   "why": "맞아! 나무 밑 바로 거기, 손가락으로 콕 집어서 여기라고 말할 수 있는 딱 한 자리잖아. 그게 바로 spot인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "체육관에서 동생이 말했어. \"공을 어디에 놔? 아무 데나, 굴러가는 대로 두면 돼.\" 동생이 말한 게 'spot'이야?",
-   "choices": [
-    "응, spot 맞아",
-    "아니, spot 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, spot 아니야",
-   "why": "맞아! 아무 데나 굴러가는 대로 두면 콕 집을 자리가 없잖아. spot은 손가락으로 콕 집을 수 있는 딱 그 한 군데라서, 동생 말은 spot이 아닌 게 맞아."
   }
  ],
  "synonyms": [
@@ -84,6 +60,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/spot.webp",
   "alt": "손가락으로 콕 집는 작은 한 군데",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

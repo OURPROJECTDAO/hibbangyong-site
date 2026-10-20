@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/psychiatric/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/psychiatric/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/psychiatric/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "psychiatric",
  "slug": "psychiatric",
  "url": "https://hibbangyong.com/words/psychiatric/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, psychiatric 치료 아니야",
    "why": "맞아! 할아버지는 닳은 무릎 연골 때문에 아프신 거라서, 몸에 난 병을 수술로 고치는 중이야. psychiatric은 마음에 난 병을 치료하는 쪽 말이라 이 무릎 수술이랑은 상관없어."
-  },
-  {
-   "type": "choice",
-   "question": "네 사람이 요즘 자기가 겪는 일을 말했어. 'psychiatric' 치료를 받는 게 가장 알맞은 사람은?",
-   "choices": [
-    "몇 달째 이유 없이 불안해서 밤마다 잠을 못 자",
-    "축구하다 발목을 삐었는데 아직도 퉁퉁 부어 있어",
-    "시험 전날 떨렸는데 친구랑 수다 떨고 나니 괜찮아졌어",
-    "이가 썩어서 밤마다 욱신욱신 아파"
-   ],
-   "answer_index": 0,
-   "answer": "몇 달째 이유 없이 불안해서 밤마다 잠을 못 자",
-   "why": "맞아! 이유 없는 불안이 몇 달째 이어지고 밤마다 잠까지 못 자면, 그건 마음에 병이 난 거야. 그런 병을 치료하는 게 바로 psychiatric 치료야."
-  },
-  {
-   "type": "ox",
-   "question": "사촌 누나는 손이 더럽다는 생각이 계속 떠올라서 하루에 손을 수십 번씩 씻어. 멈추려 해도 멈출 수가 없대. 그래서 병원에서 의사와 상담하고 약을 처방받으며 치료를 받고 있어. 누나가 받는 이 치료는 'psychiatric' 치료일까?",
-   "choices": [
-    "응, psychiatric 치료 맞아",
-    "아니, psychiatric 치료 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, psychiatric 치료 맞아",
-   "why": "맞아! 누나는 멈추고 싶어도 손 씻기를 멈출 수가 없잖아. 이건 마음에 난 병이고, 병원에서 의사가 상담하고 약까지 처방하면서 치료하니까 이게 바로 psychiatric 치료야."
   }
  ],
  "synonyms": [],
@@ -93,6 +69,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/psychiatric.webp",
   "alt": "몇 달째 불안하고 잠 못 자는 친구",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/interlude/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/interlude/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/interlude/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "interlude",
  "slug": "interlude",
  "url": "https://hibbangyong.com/words/interlude/",
@@ -45,28 +45,6 @@
    "answer_index": 0,
    "answer": "1막과 2막 사이에 무대 앞에서 짧은 마술이 열렸어",
    "why": "맞아! 1막과 2막 사이에 끼어든 짧은 마술은 연극과는 다른 시간이고, 끝나면 다시 2막으로 돌아가잖아. 쉬는 게 아니어도 두 막 사이에 잠깐 끼면 그게 interlude야."
-  },
-  {
-   "type": "ox",
-   "question": "오케스트라 연주회에서 첫 번째 교향곡이 끝나고 두 번째 교향곡이 시작되기 전에, 피아니스트 혼자 3분 동안 짧은 곡을 연주했어. 이 3분을 'interlude'라고 할 수 있을까?",
-   "choices": [
-    "응, interlude 맞아",
-    "아니, interlude 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, interlude 맞아",
-   "why": "맞아! 첫 번째 교향곡과 두 번째 교향곡이라는 큰 연주 두 개 사이에 피아니스트 혼자 치는 짧은 곡이 3분 끼어들었잖아. 그다음 다시 교향곡으로 돌아가니까, 이 3분이 바로 interlude야."
-  },
-  {
-   "type": "ox",
-   "question": "마라톤 중계방송이 광고도 다른 프로그램도 없이 세 시간 내내 한 번도 끊기지 않고 이어졌어. 이 세 시간 방송을 'interlude'라고 할 수 있을까?",
-   "choices": [
-    "응, interlude 맞아",
-    "아니, interlude 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, interlude 아니야",
-   "why": "맞아! 마라톤 중계는 광고도 다른 프로그램도 없이 세 시간 내내 한 번도 안 끊기고 쭉 이어졌잖아. interlude는 두 흐름 사이에 잠깐 끼어드는 다른 시간인데, 여기엔 사이에 낀 게 하나도 없으니까 interlude가 아닌 거야."
   }
  ],
  "synonyms": [],

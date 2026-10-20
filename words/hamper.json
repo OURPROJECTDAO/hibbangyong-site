@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/hamper/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/hamper/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/hamper/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "hamper",
  "slug": "hamper",
  "url": "https://hibbangyong.com/words/hamper/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, hamper 아니야",
    "why": "맞아! 형이 자료 찾는 걸 같이 해 줘서 준비가 하루 일찍 끝났잖아. 발목을 잡은 게 아니라 오히려 도와서 빨리 끝나게 해 준 거니까 hamper가 아니야."
-  },
-  {
-   "type": "ox",
-   "question": "등산 가는 날, 배낭이 너무 무거웠어. 정상까지 올라가긴 했는데, 평소보다 훨씬 느리고 힘들었어. 무거운 배낭이 등산을 'hamper'한 걸까?",
-   "choices": [
-    "응, hamper 맞아",
-    "아니, hamper 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, hamper 맞아",
-   "why": "맞아! 정상까지 올라가긴 했잖아. 그런데 무거운 배낭 때문에 훨씬 느리고 힘들었지. 등산을 아예 멈추게 한 건 아니고 발목만 잡은 거니까, 이게 딱 hamper야."
-  },
-  {
-   "type": "choice",
-   "question": "공사장에서 일어난 일 네 가지야. 'hamper'가 가장 잘 맞는 상황은?",
-   "choices": [
-    "태풍 때문에 공사가 아예 취소됐어.",
-    "새 기계가 들어와서 공사가 확 빨라졌어.",
-    "비가 계속 와서 공사가 자꾸 늦어졌어.",
-    "공사 소리 때문에 옆집 사람이 짜증 났어."
-   ],
-   "answer_index": 2,
-   "answer": "비가 계속 와서 공사가 자꾸 늦어졌어.",
-   "why": "맞아! 비가 계속 와도 공사는 멈추지 않고 이어졌잖아. 대신 자꾸 늦어졌지. 이렇게 일은 굴러가는데 발목을 잡는 게 바로 hamper야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/hamper.webp",
   "alt": "비 와서 질척한 운동장에서 한 운동회",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

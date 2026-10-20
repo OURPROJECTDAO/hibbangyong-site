@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/nascent/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/nascent/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/nascent/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "nascent",
  "slug": "nascent",
  "url": "https://hibbangyong.com/words/nascent/",
@@ -43,29 +43,6 @@
    "answer_index": 0,
    "answer": "응, nascent 맞아",
    "why": "맞아! 지난달 처음 생겼고 팀은 아직 세 개뿐인데 매주 조금씩 늘고 있잖아. 이제 막 생겨나서 커 가는 중이니까 바로 그게 nascent인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "어느 마을에서 50년 넘게 해마다 열려 온 가을 축제가 있어. 날짜와 순서가 오래전부터 다 정해져 있어서 매년 똑같이 진행돼. 이 축제를 'nascent'라고 할 수 있을까?",
-   "choices": [
-    "응, nascent 맞아",
-    "아니, nascent 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, nascent 아니야",
-   "why": "맞아! 이 축제는 50년 넘게 해마다 열려서 날짜도 순서도 오래전에 다 정해졌잖아. 이제 막 생겨나서 자라기 시작한 게 아니라 오래돼서 자리 잡은 거니까 nascent가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "가뭄 때문에 한 마을에 물이 부족해졌어. 뉴스에서 이걸 'nascent' 위기라고 했어. 이 말이 뜻하는 상황은?",
-   "choices": [
-    "물 부족이 이제 막 시작돼서 점점 심해지는 중인 상황",
-    "물 부족이 끝나고 좋은 변화가 막 시작되는 중인 상황",
-    "물 부족이 아주 작아서 크게 걱정할 필요는 없는 상황"
-   ],
-   "answer_index": 0,
-   "answer": "물 부족이 이제 막 시작돼서 점점 심해지는 중인 상황",
-   "why": "맞아! 가뭄 때문에 물 부족이 이제 막 시작됐고 앞으로 점점 심해질 수 있는 단계라서, 바로 그게 nascent 위기인 거야. 위기도 막 생겨나서 자라기 시작하면 nascent라고 불러."
   }
  ],
  "synonyms": [],

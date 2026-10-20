@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/punitive/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/punitive/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/punitive/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "punitive",
  "slug": "punitive",
  "url": "https://hibbangyong.com/words/punitive/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, punitive 아니야",
    "why": "맞아! 엄마는 동생이 한 달 동안 줄넘기를 열심히 해서 상으로 운동화를 사 준 거잖아. punitive는 잘못한 대가를 치르게 하려고 벌처럼 내리는 거라서, 잘한 걸 칭찬하는 상이랑은 방향이 정반대야."
-  },
-  {
-   "type": "ox",
-   "question": "동생이 엄마 몰래 밤늦게 게임을 하다가 걸렸어. 엄마는 약속을 어긴 값을 치르라며 한 달 동안 동생 휴대폰을 가져갔어. 엄마의 이 조치는 'punitive'한 거야?",
-   "choices": [
-    "응, punitive 맞아",
-    "아니, punitive 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, punitive 맞아",
-   "why": "맞아! 엄마가 약속을 어긴 값을 치르라면서 한 달 동안 휴대폰을 가져갔잖아. 잘못한 값을 치르게 하려고 내린 조치라서 바로 punitive인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "민재가 복도에서 뛰다가 선생님께 걸렸어. 그 뒤에 학교가 민재한테 한 일 중에서 'punitive'라고 부를 수 있는 건?",
-   "choices": [
-    "규칙을 어겼으니 좀 고생해 보라며 일주일 동안 점심시간에 교실 청소를 시켰어",
-    "뛰면 왜 위험한지 알려 주려고 선생님이 민재랑 안전 영상을 같이 봤어",
-    "달리기를 좋아하는 걸 알고 선생님이 민재한테 육상부에 들어오라고 권했어",
-    "다시는 못 뛰게 일주일 동안 쉬는 시간마다 선생님이 민재 옆에 붙어 다녔어"
-   ],
-   "answer_index": 0,
-   "answer": "규칙을 어겼으니 좀 고생해 보라며 일주일 동안 점심시간에 교실 청소를 시켰어",
-   "why": "맞아! 규칙을 어겼으니 좀 고생해 보라고 청소를 시킨 거잖아. 잘못한 값을 치르게 하려는 거라서 바로 그게 punitive인 거야."
   }
  ],
  "synonyms": [],
@@ -98,6 +74,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/punitive.webp",
   "alt": "숙제 안 해 온 학생을 방과 후에 남기기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/brief/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/brief/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/brief/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "brief",
  "slug": "brief",
  "url": "https://hibbangyong.com/words/brief/",
@@ -45,32 +45,6 @@
    "answer_index": 0,
    "answer": "'금방 올게!' 딱 한 줄만 적힌 쪽지",
    "why": "맞아! '금방 올게!' 딱 한 줄, 그거면 할 말이 끝나잖아. 길게 늘어놓지 않고 몇 마디로 딱 끝나는 쪽지, 그게 바로 brief인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "오늘 아침 선생님이 교실에서 'brief'한 안내를 하셨대. 다음 중 어떤 안내였을까?",
-   "choices": [
-    "아주 큰 목소리로 하신 안내",
-    "칠판에 그림을 그리며 하신 안내",
-    "딱 두 문장만 하고 바로 끝난 안내",
-    "운동장에 다 같이 모여서 하신 안내"
-   ],
-   "answer_index": 2,
-   "answer": "딱 두 문장만 하고 바로 끝난 안내",
-   "why": "맞아! 딱 두 문장만 하고 바로 끝났으니까, 오래 안 끌고 잠깐 만에 끝난 거잖아. 그게 바로 brief야."
-  },
-  {
-   "type": "choice",
-   "question": "선생님이 오늘 학교에서 있었던 일 중에 'brief'한 것을 하나 고르래. 어떤 걸까?",
-   "choices": [
-    "교실 사물함이 파란색으로 칠해져 있던 것",
-    "교장 선생님 방송이 세 마디 만에 끝난 것",
-    "급식 국그릇이 아주 뜨겁게 나왔던 것",
-    "운동장에 축구공이 두 개나 굴러다닌 것"
-   ],
-   "answer_index": 1,
-   "answer": "교장 선생님 방송이 세 마디 만에 끝난 것",
-   "why": "맞아! 세 마디 하고 딱 끝났잖아. 길게 안 끌고 잠깐 만에 끝났으니까 바로 그게 brief인 거야."
   }
  ],
  "synonyms": [],
@@ -84,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/brief.webp",
   "alt": "친구가 '잘 가!' 한마디 하고 휙 돌아서는 짧은 인사 (child 앵커)",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

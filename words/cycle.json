@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/cycle/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/cycle/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/cycle/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "cycle",
  "slug": "cycle",
  "url": "https://hibbangyong.com/words/cycle/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, cycle 맞아",
    "why": "맞아! 티셔츠는 입고, 빨고, 말리고, 개서 서랍에 넣은 다음, 마지막에 맨 처음 했던 입기로 다시 돌아오잖아. 같은 순서로 가다가 처음으로 돌아오니까 바로 그게 cycle인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "색종이 한 장이 있어. 반으로 접고, 가위로 자르고, 펼쳐서 눈꽃 모양을 만들어. 그다음엔 창문에 붙여. 색종이가 겪는 이 순서는 'cycle'일까?",
-   "choices": [
-    "응, cycle 맞아",
-    "아니, cycle 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, cycle 아니야",
-   "why": "맞아! 색종이는 접고, 자르고, 펼치고, 창문에 붙이면 거기서 끝이거든. 창문에 붙인 다음에 다시 접기로 돌아가지 않으니까 cycle이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 이야기를 했어. 'cycle'이라고 부를 수 있는 건 누구 이야기일까?",
-   "choices": [
-    "훌라후프를 허리에 걸고 빙글빙글 계속 돌렸어.",
-    "벽돌을 하나 쌓고, 또 하나, 또 하나 똑같이 쌓았어.",
-    "숙제를 미루고, 밤에 허둥지둥하고, 피곤해서 또 미뤄.",
-    "아기가 자라서 어른이 되고, 할아버지가 됐어."
-   ],
-   "answer_index": 2,
-   "answer": "숙제를 미루고, 밤에 허둥지둥하고, 피곤해서 또 미뤄.",
-   "why": "맞아! 숙제를 미루고, 밤에 허둥지둥하고, 피곤해서 또 미루지? 서로 다른 일이 순서대로 가다가 마지막에 처음 일인 미루기가 다시 오니까 바로 그게 cycle인 거야. 좋은 일이 아니어도 cycle이 될 수 있어."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/cycle.webp",
   "alt": "봄·여름·가을·겨울이 지나고 다시 봄",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

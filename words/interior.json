@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/interior/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/interior/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/interior/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "interior",
  "slug": "interior",
  "url": "https://hibbangyong.com/words/interior/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, interior 맞아",
    "why": "맞아! 마룻바닥이랑 천장 조명은 체육관 문을 열고 들어가야 만나는 것들이잖아. 건물 겉이 아니라 속에 자리한 쪽, 그러니까 바로 그게 interior인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "정류장에 버스 한 대가 서 있어. 지붕에 얹힌 광고판이랑 옆면에 그려진 노란 줄무늬, 이게 버스의 'interior'야?",
-   "choices": [
-    "응, interior 맞아",
-    "아니, interior 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, interior 아니야",
-   "why": "맞아! 지붕에 얹힌 광고판이랑 옆면 줄무늬는 버스 겉에 붙어 있는 거잖아. 밖에서 그냥 보이는 쪽이니까 속을 가리키는 interior가 아닌 거야. 버스 문을 열고 들어가야 만나는 의자랑 손잡이, 그런 게 interior야."
-  },
-  {
-   "type": "choice",
-   "question": "차를 새로 꾸미려고 'interior' 손질을 맡겼어. 정비사가 차의 어디를 손봐 줄까?",
-   "choices": [
-    "올라타서 앉으면 만지는 좌석이랑 운전대",
-    "밖에서 보이는 번쩍이는 차체랑 문짝",
-    "좌석 사이 딱 가운데 놓인 기어 하나",
-    "문에 붙어 밖으로 튀어나온 사이드미러"
-   ],
-   "answer_index": 0,
-   "answer": "올라타서 앉으면 만지는 좌석이랑 운전대",
-   "why": "맞아! 올라타서 앉으면 만지는 좌석이랑 운전대는 차 문을 열고 들어가야 나오는 속이잖아. 겉이 아니라 속에 자리한 쪽, 그게 바로 interior인 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/interior.webp",
   "alt": "뚜껑을 열면 보이는 상자의 속",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

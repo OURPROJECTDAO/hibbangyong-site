@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/hall/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/hall/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/hall/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "hall",
  "slug": "hall",
  "url": "https://hibbangyong.com/words/hall/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, hall 맞아",
    "why": "맞아! 문들 사이로 쭉 이어지고 사람들이 오가는 트인 자리잖아. 방처럼 문 닫고 갇힌 데가 아니라 여기저기로 이어지는 자리라서, 그게 바로 hall인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "도서관 건물을 나와 잔디와 벤치가 놓인 넓은 마당에 서니 머리 위로 하늘이 그대로 보여. 이 자리가 'hall'이야?",
-   "choices": [
-    "응, hall 맞아",
-    "아니, hall 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, hall 아니야",
-   "why": "맞아! 건물 밖으로 나와서 하늘이 그대로 보이는 자리잖아. hall은 건물 안에 있는 자리라서, 여긴 hall이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "민수가 오늘 다녀본 자리 네 곳을 말했어. 'hall'이라고 부를 수 있는 자리는?",
-   "choices": [
-    "교실들 사이로 이어져 아이들이 줄지어 오가는 안쪽 자리",
-    "책상과 침대를 놓고 문을 닫아 혼자 지내는 안쪽 자리",
-    "미끄럼틀이 놓여 하늘이 그대로 보이는 바깥 자리",
-    "한 사람만 겨우 지나며 위층으로 오르는 좁은 자리"
-   ],
-   "answer_index": 0,
-   "answer": "교실들 사이로 이어져 아이들이 줄지어 오가는 안쪽 자리",
-   "why": "맞아! 교실 문들 사이로 쭉 이어져서 아이들이 이쪽저쪽 오갈 수 있잖아. 방처럼 닫혀 있지 않고 여기저기로 이어지는 안쪽 자리, 그게 바로 hall이야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/hall.webp",
   "alt": "교실 문들 사이로 쭉 뻗은 학교 안쪽 길",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

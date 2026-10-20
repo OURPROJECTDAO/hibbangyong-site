@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/conscientious/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/conscientious/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/conscientious/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "conscientious",
  "slug": "conscientious",
  "url": "https://hibbangyong.com/words/conscientious/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, conscientious 맞아",
    "why": "맞아! 가정통신문 나눠주기가 민지가 맡은 일이잖아. 결석한 친구 몫까지 따로 챙겨 뒀다가 다음 날 직접 건네줬으니까, 맡은 일을 빠진 사람 하나 없이 끝까지 해낸 거야. 그게 바로 conscientious야."
-  },
-  {
-   "type": "ox",
-   "question": "준호는 교실 화분 물 주기 당번이야. 생각날 때만 물을 주다가 며칠씩 빼먹었고, 결국 화분 잎이 누렇게 말랐어. 준호는 'conscientious'한 거야?",
-   "choices": [
-    "응, conscientious 맞아",
-    "아니, conscientious 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, conscientious 아니야",
-   "why": "맞아! 준호는 화분 물 주기를 생각날 때만 하다가 며칠씩 빼먹었고, 결국 잎이 누렇게 말랐잖아. 맡은 당번을 끝까지 챙기지 않았으니까 conscientious랑은 정반대인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "민서는 학원에 안 다니는데도 영어 시험에서 늘 만점을 받아. 이런 경우도 'conscientious'라고 할 수 있을까?",
-   "choices": [
-    "응, conscientious 맞아",
-    "아니, conscientious 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, conscientious 아니야",
-   "why": "맞아! 민서 이야기엔 만점이라는 결과만 있지, 맡은 일을 끝까지 책임지고 해내는 모습은 안 나와. 시험을 잘 보는 건 똑똑한 거지, 그게 바로 conscientious인 건 아니야."
   }
  ],
  "synonyms": [],
@@ -80,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/conscientious.webp",
   "alt": "선생님이 없는데도 청소 당번 일을 끝까지 다 하는 학생",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

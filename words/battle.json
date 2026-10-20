@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/battle/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/battle/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/battle/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "battle",
  "slug": "battle",
  "url": "https://hibbangyong.com/words/battle/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, battle 맞아",
    "why": "맞아! 사흘 밤낮을 불길에 맞서서 마지막 불씨 꺼질 때까지 안 멈췄잖아. 끝까지 온 힘으로 오래 맞붙은 거니까 그게 바로 battle인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "짝꿍이 지우개 일로 토라져 등을 돌렸다가, 곧 서로 미안하다고 말하고 한 책상에서 같이 그림을 그렸어. 이걸 'battle'이라고 할 수 있을까?",
-   "choices": [
-    "응, battle 맞아",
-    "아니, battle 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, battle 아니야",
-   "why": "맞아! 줄다리기처럼 끝까지 서로 안 놓고 버틴 게 아니잖아. 금방 미안하다 하고 같이 그림까지 그렸으니까 battle이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 가지 일이 있었어. 이 중에서 'battle'이라고 부르기 딱 맞는 건?",
-   "choices": [
-    "형이 몇 달째 아픈 몸을 이겨내려고 날마다 버티는 중",
-    "동생이 과자 때문에 한마디 툭 쏘고는 금방 잊어버린 일",
-    "어제 다툰 친구랑 화해하고 다시 같이 놀기로 한 일",
-    "혼자 방에서 오래 걸리는 퍼즐을 한 조각씩 맞추는 중"
-   ],
-   "answer_index": 0,
-   "answer": "형이 몇 달째 아픈 몸을 이겨내려고 날마다 버티는 중",
-   "why": "맞아! 몇 달째 아픈 몸이랑 매일 버티는 건, 상대가 딱 있고 끝날 때까지 온 힘으로 오래 맞붙는 거잖아. 칼 들고 하는 싸움만 battle이 아니라 이렇게 병이랑 오래 버티는 것도 battle이야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/battle.webp",
   "alt": "줄다리기에서 양편이 넘어갈 때까지 끝까지 잡아당기는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

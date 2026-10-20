@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/notice/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/notice/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/notice/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "notice",
  "slug": "notice",
  "url": "https://hibbangyong.com/words/notice/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, notice 맞아",
    "why": "맞아! 준서는 똑똑 물 떨어지는 소리를 듣고, 몰랐던 수도꼭지가 덜 잠긴 걸 '어?' 하고 알게 됐거든. 귀로 듣다가 몰랐던 걸 알게 된 그 순간, 바로 그게 notice인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "아빠가 안경을 새것으로 바꿨는데, 서연이는 저녁 내내 아빠랑 마주 앉아 밥을 먹으면서도 전혀 몰랐어. 서연이가 한 게 'notice'야?",
-   "choices": [
-    "응, notice 맞아",
-    "아니, notice 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, notice 아니야",
-   "why": "맞아! 서연이는 저녁 내내 아빠랑 마주 앉아 있었는데도 안경이 새것으로 바뀐 걸 끝까지 몰랐거든. 알아챈 게 아니라 모르고 지나친 거라서, notice가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 있어. 이 중에 뭔가를 'notice' 한 친구는 누구일까?",
-   "choices": [
-    "하윤이는 창밖 구름을 오래오래 바라보며 앉아 있었어.",
-    "지호는 게임하느라 신발 끈이 풀린 줄도 모르고 뛰었어.",
-    "민호는 책을 읽다가 타는 냄새에 '어?' 하고 고개를 들었어.",
-    "수아는 잃어버린 지우개를 찾으려고 서랍을 하나씩 열었어."
-   ],
-   "answer_index": 2,
-   "answer": "민호는 책을 읽다가 타는 냄새에 '어?' 하고 고개를 들었어.",
-   "why": "맞아! 민호는 책을 읽다가 타는 냄새를 맡고 '어?' 하고 고개를 들었잖아. 몰랐던 걸 코로 딱 잡아낸 거라서, 바로 그게 notice인 거야."
   }
  ],
  "synonyms": [],
@@ -91,6 +67,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/notice.webp",
   "alt": "방에 들어갔는데 뭔가 달라진 걸 알아챔(냄새·소리·엄마 머리)",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/tug/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/tug/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/tug/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "tug",
  "slug": "tug",
  "url": "https://hibbangyong.com/words/tug/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, tug 아니야",
    "why": "맞아! 그 거대한 화물선은 컨테이너를 잔뜩 싣고 작은 배한테 밀려서 바다 쪽으로 나가는 쪽이잖아. tug는 화물선 옆구리에 붙어서 밀어 주는 그 작은 배니까, 밀려 나가는 화물선은 tug가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "항구에서 네 가지를 봤어. 이 중에 'tug'라고 부를 수 있는 건?",
-   "choices": [
-    "다른 큰 배를 밀거나 끌어서 옮겨 주는 작은 배",
-    "사람들을 태우고 섬과 육지를 오가는 작은 배",
-    "짐을 가득 싣고 먼 바다를 건너온 큰 배",
-    "줄다리기 할 때 양쪽에서 잡는 굵은 밧줄"
-   ],
-   "answer_index": 0,
-   "answer": "다른 큰 배를 밀거나 끌어서 옮겨 주는 작은 배",
-   "why": "맞아! 다른 큰 배를 밀거나 끌어서 옮겨 주는 게 일인 작은 배, 바로 그게 tug야. 사람이나 짐을 나르는 게 아니라 다른 배를 옮기는 게 일이라는 점이 핵심이야."
-  },
-  {
-   "type": "ox",
-   "question": "바다 한가운데서 엔진이 고장 난 커다란 유조선이 멈춰 섰어. 잠시 뒤 작은 배 한 척이 와서 유조선에 굵은 줄을 묶고, 육지 쪽 수리소까지 유조선을 끌고 갔어. 유조선을 끌고 간 그 작은 배는 'tug'일까?",
-   "choices": [
-    "응, tug 맞아",
-    "아니, tug 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, tug 맞아",
-   "why": "맞아! 그 작은 배는 자기는 아무것도 안 싣고, 엔진이 고장 난 유조선에 굵은 줄을 묶어서 수리소까지 끌고 갔잖아. 다른 큰 배를 끌어서 옮겨 주는 게 일인 작은 배, 바로 그게 tug야."
   }
  ],
  "synonyms": [
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/tug.webp",
   "alt": "좁은 항구에서 혼자 방향을 못 트는 큰 배를 작은 배가 끌고 미는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/folk/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/folk/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/folk/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "folk",
  "slug": "folk",
  "url": "https://hibbangyong.com/words/folk/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, folk 맞아",
    "why": "맞아! 도서관 계단에 앉은 중학생들도 여럿을 통째로 묶어 부르는 거잖아. 잘 아는 사이가 아니어도, 뭘 하고 있든 상관없이 그 무리 사람들이면 folk야."
-  },
-  {
-   "type": "ox",
-   "question": "버스 정류장 의자에 아저씨 한 분이 혼자 앉아 신문을 보고 있어. 이 아저씨도 'folk'야?",
-   "choices": [
-    "응, 이것도 folk 맞아",
-    "아니, 이건 folk 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 이건 folk 아니야",
-   "why": "맞아! 아저씨는 딱 한 명이잖아. folk는 여럿을 통째로 묶어 부르는 말이라서, 혼자 앉아 있는 한 사람한테는 안 쓰는 거야."
-  },
-  {
-   "type": "ox",
-   "question": "시골 할머니 댁에 놀러 간 얘기를 하면서 \"거기 사람들은 다 인사를 먼저 해\"라고 할 때, 이 '사람들' 자리에 'folk'를 넣어도 괜찮아?",
-   "choices": [
-    "응, folk 써도 괜찮아",
-    "아니, folk 쓰면 안 돼"
-   ],
-   "answer_index": 0,
-   "answer": "응, folk 써도 괜찮아",
-   "why": "맞아! 시골 할머니 댁 사람들처럼 어떤 동네 사람들을 통째로 묶어서 정답게 부르는 자리거든. 딱 그럴 때 쓰는 말이 folk야."
   }
  ],
  "synonyms": [],
@@ -84,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/folk.webp",
   "alt": "누가 \"여기 사람들은 다 일찍 자\"라고 말할 때 그 '사람들'",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

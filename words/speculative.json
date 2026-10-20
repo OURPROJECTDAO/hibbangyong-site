@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/speculative/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/speculative/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/speculative/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "speculative",
  "slug": "speculative",
  "url": "https://hibbangyong.com/words/speculative/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, speculative 맞아",
    "why": "맞아! 짝은 선생님 굳은 표정 하나만 보고 내일 쪽지시험을 짐작한 거야. 선생님은 시험 얘기를 한 번도 안 했으니 확인 안 된 짐작에 기댄 말이고, 그래서 speculative가 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "누나가 강아지를 안고 체중계에 올라가 몸무게를 쟀어. 누나 혼자 잰 몸무게를 빼서 계산해 보고 '우리 강아지 5kg이야'라고 말했어. 누나의 말은 'speculative'야?",
-   "choices": [
-    "응, speculative 맞아",
-    "아니, speculative 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, speculative 아니야",
-   "why": "맞아! 누나는 강아지를 안고 체중계에 직접 올라가서 재고, 누나 혼자 잰 몸무게까지 빼서 계산했잖아. 짐작이 아니라 직접 재서 확인한 숫자니까 speculative가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "형이 '밤에 고양이가 다녀갔어'라는 말을 네 가지 경우에 했어. 형의 말을 'speculative'라고 부를 수 있는 경우는?",
-   "choices": [
-    "마당 흙에 찍힌 발자국 몇 개를 보고 한 말",
-    "현관 CCTV 영상을 끝까지 돌려 보고 한 말",
-    "간식을 자기가 먹어 놓고 둘러대려고 한 말",
-    "고양이가 말을 하는 동화를 쓰다가 한 말"
-   ],
-   "answer_index": 0,
-   "answer": "마당 흙에 찍힌 발자국 몇 개를 보고 한 말",
-   "why": "맞아! 발자국 몇 개만 보고 고양이가 다녀갔다고 짐작한 거라서, 바로 그게 speculative인 거야. 진짜 고양이가 왔을 수도 있지만, 형이 직접 본 건 아니니까 아직 확인 안 된 짐작이지."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/speculative.webp",
   "alt": "화성 사진 몇 장을 보고 옛날 바다가 있었을 거라고 짐작한 과학 뉴스",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

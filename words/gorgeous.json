@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/gorgeous/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/gorgeous/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/gorgeous/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "gorgeous",
  "slug": "gorgeous",
  "url": "https://hibbangyong.com/words/gorgeous/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, gorgeous 맞아",
    "why": "맞아! 발등에 물이 스치는 게 그냥 시원한 정도가 아니라 나도 모르게 '와' 소리가 튀어나왔잖아. 너무 좋아서 저절로 나온 그 '와', 그게 바로 gorgeous인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "교실에서 네 가지 일이 있었어. 이 중에 'gorgeous'라고 말하기에 가장 알맞은 건 어느 쪽일까?",
-   "choices": [
-    "미주가 노래를 부르자 다들 하던 걸 멈추고 들었어. 목소리가 너무 좋아서 '와' 소리가 절로 났어.",
-    "천둥이 하늘을 쫙 갈랐어. 다들 하던 걸 멈추고 봤어. 무섭도록 굉장해서 다리가 후들거렸어.",
-    "아기가 조막만 한 손으로 손을 흔들었어. 다들 배시시 웃으면서 한참 들여다봤어.",
-    "지호가 새 필통을 꺼냈어. 다들 힐끗 보고 '음, 쓸 만하네' 하고 지나갔어."
-   ],
-   "answer_index": 0,
-   "answer": "미주가 노래를 부르자 다들 하던 걸 멈추고 들었어. 목소리가 너무 좋아서 '와' 소리가 절로 났어.",
-   "why": "맞아! 노래 소리에 다들 멈춰 서고 나도 모르게 '와' 소리가 튀어나왔잖아. 너무 좋아서 나온 그 '와'가 바로 gorgeous인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "학교 사진 찍는 날, 도윤이가 교복 단추를 끝까지 잠그고 머리를 단정히 빗고 왔어. 선생님이 \"아주 반듯하구나\" 하고 고개를 끄덕였어. 이런 경우도 'gorgeous'야?",
-   "choices": [
-    "응, 'gorgeous' 맞아.",
-    "아니, 'gorgeous' 아니야."
-   ],
-   "answer_index": 1,
-   "answer": "아니, 'gorgeous' 아니야.",
-   "why": "맞아! 단추 딱 잠그고 머리 빗고 온 건 반듯한 거지, 지나가다 발이 저절로 멈추고 '와' 소리가 튀어나오는 건 아니잖아. 그래서 이건 gorgeous가 아닌 거야."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/gorgeous.webp",
   "alt": "빵집 앞에서 발이 저절로 멈춘 냄새 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/seem/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/seem/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/seem/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "seem",
  "slug": "seem",
  "url": "https://hibbangyong.com/words/seem/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, seem 맞아",
    "why": "맞아! 발이 쭉 미끄러진 걸 보고 계단이 미끄럽겠구나 생각한 거잖아. 겉으로 보이는 것만 보고 그런 것 같다고 말한 거니까 바로 그게 seem인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "동생이 페트병을 흔들었어. 그다음 뚜껑을 열고 안을 들여다봐서 물이 반쯤 들어 있는 걸 두 눈으로 봤어. 그러고 '물이 반 있어'라고 말했어. 이게 'seem'이야?",
-   "choices": [
-    "응, seem 맞아",
-    "아니, seem 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, seem 아니야",
-   "why": "맞아! 뚜껑을 열고 두 눈으로 물을 직접 봤잖아. 겉으로 보이는 게 아니라 안을 확인해서 진짜를 알아버린 거니까, 이건 seem이 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "수리 아저씨가 자전거를 나사 하나까지 다 뜯어서 살펴본 다음, 뒷바퀴가 고장 났다고 말해 줬어. 이런 경우도 'seem'이야?",
-   "choices": [
-    "응, 'seem' 맞아",
-    "아니, 'seem' 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 'seem' 아니야",
-   "why": "맞아! 나사 하나까지 다 뜯어서 두 눈으로 확인했잖아. 이건 겉으로 보이는 게 아니라 진짜로 알아낸 거라서 '그런 것 같아'가 아니라 '고장 났어'라고 딱 잘라 말하는 거야."
   }
  ],
  "synonyms": [
@@ -80,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/seem.webp",
   "alt": "가볍게 든 상자가 겉으론 비어 보였지만 안에 책이 꽉 차 있던 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

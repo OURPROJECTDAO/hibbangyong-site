@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/exterior/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/exterior/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/exterior/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "exterior",
  "slug": "exterior",
  "url": "https://hibbangyong.com/words/exterior/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, exterior 맞아",
    "why": "맞아! 스티커를 붙인 곳은 기타 몸통의 겉면이잖아. 기타라는 물건 자체에 붙어 있는 바깥 면이라서 바로 그게 기타의 exterior인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "엄마가 냉장고 문을 열고 안쪽 칸 벽에 묻은 우유 자국을 행주로 닦았어. 우유 자국을 닦은 이 안쪽 벽은 냉장고의 'exterior'야?",
-   "choices": [
-    "응, exterior 맞아",
-    "아니, exterior 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, exterior 아니야",
-   "why": "잘 골랐어! 엄마가 우유 자국을 닦은 곳은 문을 열어야 보이는 냉장고 안쪽 벽이잖아. exterior는 밖에서 보이는 겉면이라서, 안쪽 벽은 exterior가 아니야(안쪽은 interior라고 해)."
-  },
-  {
-   "type": "ox",
-   "question": "동네 도서관 얘기야. 도서관 건물 앞에는 넓은 잔디 마당이 펼쳐져 있어. 이 잔디 마당도 도서관의 'exterior'야?",
-   "choices": [
-    "응, exterior 맞아",
-    "아니, exterior 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, exterior 아니야",
-   "why": "아니야, 잘 골랐어! 잔디 마당은 도서관 건물 앞에 펼쳐진 공간이지, 도서관 건물 자체의 겉면이 아니거든. exterior는 건물에 붙어 있는 바깥쪽 면, 그러니까 밖에서 보이는 도서관 벽 같은 걸 말해."
   }
  ],
  "synonyms": [],
@@ -81,6 +59,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/exterior.webp",
   "alt": "집 벽을 안팎으로 새로 칠하기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

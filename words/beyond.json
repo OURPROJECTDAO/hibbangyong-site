@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/beyond/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/beyond/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/beyond/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "beyond",
  "slug": "beyond",
  "url": "https://hibbangyong.com/words/beyond/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, beyond 맞아",
    "why": "맞아! 담이라는 금이 딱 서 있고, 공이 그 금을 넘어가서 저쪽 풀밭에 떨어졌잖아. 금 지나서 저쪽 — 그게 바로 beyond야."
-  },
-  {
-   "type": "ox",
-   "question": "아빠가 유리컵 옆면에 검은 선을 하나 긋고 \"여기까지만 물을 따르자\"고 했어. 지호는 물을 따르다가 그 검은 선에 딱 맞춰 멈췄어. 지호가 따른 물의 높이를 'beyond'라고 할 수 있을까?",
-   "choices": [
-    "응, beyond 맞아",
-    "아니, beyond 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, beyond 아니야",
-   "why": "맞아! 선까지 오고 딱 멈췄으니까 선을 넘어간 쪽이 하나도 없잖아. 넘어가야 beyond인데 지호 물은 선 안쪽에서 끝난 거야."
-  },
-  {
-   "type": "ox",
-   "question": "동생이 오늘 노래를 정말정말 크게, 온 힘을 다해 불렀어. 이런 경우도 'beyond'야?",
-   "choices": [
-    "응, 'beyond' 맞아",
-    "아니, 'beyond' 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 'beyond' 아니야",
-   "why": "맞아! 노래를 크게 부른 건 목소리가 아주 셌다는 거지, 넘어간 금이 없잖아. 여기까지가 끝이라고 정해둔 데를 지나갔을 때가 beyond인 거야."
   }
  ],
  "synonyms": [],
@@ -86,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/beyond.webp",
   "alt": "땅바닥에 그은 금 지나서 저쪽",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

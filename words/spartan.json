@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/spartan/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/spartan/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/spartan/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "spartan",
  "slug": "spartan",
  "url": "https://hibbangyong.com/words/spartan/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, spartan 맞아",
    "why": "맞아! 대피소에 얇은 매트 한 장이랑 담요 한 장, 딱 잘 수 있을 만큼만 있고 전기도 온수도 없잖아. 꼭 필요한 것만 있고 편하게 해 주는 건 하나도 없으니까 바로 그게 spartan인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "이모가 크루즈 여행을 다녀왔대. 방에는 푹신한 큰 침대와 욕조, 큰 TV가 있었고, 매일 마사지를 받고 뷔페에서 원하는 만큼 먹었대. 이모의 여행 생활은 'spartan'했을까?",
-   "choices": [
-    "응, spartan 맞아",
-    "아니, spartan 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, spartan 아니야",
-   "why": "맞아! 이모 방에는 푹신한 큰 침대에 욕조, 큰 TV까지 있었고 매일 마사지에 뷔페까지 먹었잖아. 편하게 해 주는 게 넘치니까 spartan이랑은 정반대인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "할머니가 몇 달 동안 할인 쿠폰을 모으고 중고 시장을 돌아다니면서 아주 싸게 소파, 전기장판, 두꺼운 솜이불을 사 왔어. 그걸로 방을 따뜻하고 포근하게 꾸미셨어. 이런 방도 'spartan'이야?",
-   "choices": [
-    "응, spartan 맞아",
-    "아니, spartan 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, spartan 아니야",
-   "why": "맞아! 할머니가 싸게 사 오시긴 했지만 방에는 소파, 전기장판, 두꺼운 솜이불이 다 있어서 따뜻하고 포근하잖아. spartan은 편하게 해 주는 게 하나도 없는 방이라서 이 방은 아닌 거야."
   }
  ],
  "synonyms": [],
@@ -78,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/spartan.webp",
   "alt": "수련회 숙소: 얇은 이불·책상 하나뿐, TV 없음, 난방 약함",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

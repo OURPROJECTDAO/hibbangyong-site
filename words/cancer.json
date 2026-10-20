@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/cancer/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/cancer/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/cancer/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "cancer",
  "slug": "cancer",
  "url": "https://hibbangyong.com/words/cancer/",
@@ -45,32 +45,6 @@
    "answer_index": 0,
    "answer": "몸 안에서 나쁜 세포가 멈추지 않고 자꾸 늘어나 사람을 오래 앓게 하는 병",
    "why": "맞아! 멈춰 소리를 안 듣고 나쁜 세포가 자꾸자꾸 늘어나서 사람을 오래 앓게 하는 병, 그게 바로 cancer인 거야. 잘 골랐어."
-  },
-  {
-   "type": "choice",
-   "question": "여러 가지가 '점점 많아지는' 이야기야. 이 중에서 'cancer'에 해당하는 것은 뭘까?",
-   "choices": [
-    "화분 속 콩나물이 햇빛 받고 키가 쑥쑥 자란 것",
-    "몸속 세포가 필요한 양을 훌쩍 넘겨 자꾸 불어난 것",
-    "돼지 저금통에 동전이 하루 한 개씩 쌓인 것",
-    "운동장에 친구들이 하나둘 모여 수가 많아진 것"
-   ],
-   "answer_index": 1,
-   "answer": "몸속 세포가 필요한 양을 훌쩍 넘겨 자꾸 불어난 것",
-   "why": "맞아! 멈춰야 할 세포가 '멈춰!' 소리를 안 듣고 필요한 양을 훌쩍 넘겨 자꾸 불어났잖아. 바로 그렇게 몸속에서 나쁘게 늘어나는 게 cancer인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "여러 가지 '몸에 생긴 일' 중에서 'cancer'에 해당하는 것은 뭘까?",
-   "choices": [
-    "문에 손가락이 끼여 멍이 파랗게 든 것",
-    "몸속 세포가 비정상으로 자꾸 불어난 것",
-    "뜨거운 국에 손이 닿아 살갗이 살짝 덴 것",
-    "뾰족한 것에 긁혀 팔에 빨간 줄이 난 것"
-   ],
-   "answer_index": 1,
-   "answer": "몸속 세포가 비정상으로 자꾸 불어난 것",
-   "why": "맞아! 몸속 작은 알갱이, 세포가 '멈춰!' 소리를 안 듣고 자꾸자꾸 불어난 거, 바로 그게 cancer야. 밖에서 다친 게 아니라 몸 안에서 생긴 병이라서 그래."
   }
  ],
  "synonyms": [],
@@ -88,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/cancer.webp",
   "alt": "고장 난 세포 하나가 '멈춰'를 안 듣고 몸속에서 자꾸 불어남",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

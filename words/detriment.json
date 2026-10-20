@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/detriment/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/detriment/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/detriment/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "detriment",
  "slug": "detriment",
  "url": "https://hibbangyong.com/words/detriment/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, detriment 맞아",
    "why": "맞아! 한 달 동안 매일 밤 먹은 라면 때문에 민호의 위가 자주 쓰리게 됐잖아. 그 일 때문에 민호의 건강이 해를 본 거니까, 위가 쓰리게 된 게 바로 detriment야."
-  },
-  {
-   "type": "ox",
-   "question": "서연이는 한 달 동안 매일 아침 줄넘기를 했어. 그 일 때문에 서연이의 체력이 눈에 띄게 좋아졌어. 이때 '체력이 좋아진 것', 이게 'detriment'야?",
-   "choices": [
-    "응, detriment 맞아",
-    "아니, detriment 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, detriment 아니야",
-   "why": "잘 골랐어. 줄넘기 때문에 서연이 체력은 해를 본 게 아니라 오히려 눈에 띄게 좋아졌잖아. detriment는 그 일 때문에 보는 해니까, 좋아진 건 detriment가 아니야."
-  },
-  {
-   "type": "ox",
-   "question": "수아는 학교 축제 준비에 한 달 내내 매달렸어. 돈은 한 푼도 잃지 않았지만, 그동안 수학 성적이 크게 떨어졌어. 떨어진 수학 성적도 축제 준비 때문에 생긴 'detriment'라고 할 수 있어?",
-   "choices": [
-    "응, 그것도 detriment 맞아",
-    "아니, 그건 detriment 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, 그것도 detriment 맞아",
-   "why": "맞아! 수아는 돈은 안 잃었어도, 축제 준비에 한 달 내내 매달린 탓에 수학 성적이 크게 떨어졌잖아. 이렇게 그 일 때문에 성적 쪽이 해를 본 것도 detriment야."
   }
  ],
  "synonyms": [

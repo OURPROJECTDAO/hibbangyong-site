@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/bar/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/bar/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/bar/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "bar",
  "slug": "bar",
  "url": "https://hibbangyong.com/words/bar/",
@@ -45,32 +45,6 @@
    "answer_index": 1,
    "answer": "손에 쥐어도 안 휘는, 길쭉하고 단단한 쇠 토막 하나",
    "why": "맞아! 손에 쥐어도 안 휘고 단단하게 굳은 한 토막, 바로 그게 bar야. 길쭉하든 네모나든 이렇게 딱 굳어 있으면 다 bar라고 부르는 거야."
-  },
-  {
-   "type": "choice",
-   "question": "낚시 가방을 정리하는데 네 가지가 나왔어. 이 중에서 'bar'인 건 어느 걸까?",
-   "choices": [
-    "둥글게 감겨서 축 늘어지는 낚싯줄 한 뭉치",
-    "길쭉한 네모로 단단히 굳은 납 토막 하나",
-    "동그랗게 단단히 굳은 쇠 구슬 하나",
-    "얇고 부드럽게 접히는 천 조각 하나"
-   ],
-   "answer_index": 1,
-   "answer": "길쭉한 네모로 단단히 굳은 납 토막 하나",
-   "why": "맞아! 길쭉한 네모로 딱 굳어서 한 토막이 됐잖아. 손에 쥐면 안 휘고 딱딱하지. 바로 그게 bar야."
-  },
-  {
-   "type": "choice",
-   "question": "서랍을 열었더니 네 가지 물건이 들어 있어. 이 중에서 'bar'라고 부를 수 있는 건 어느 걸까?",
-   "choices": [
-    "동그랗게 단단히 굳은 유리구슬 하나",
-    "오목하게 단단히 굳은 사기 그릇 하나",
-    "길쭉한 네모로 단단히 굳은 비누 한 토막",
-    "납작하고 얇게 단단히 굳은 플라스틱 단추 하나"
-   ],
-   "answer_index": 2,
-   "answer": "길쭉한 네모로 단단히 굳은 비누 한 토막",
-   "why": "맞아! 길쭉한 네모로 딱 굳은 한 토막, 그게 바로 bar야. 초콜릿 바랑 금괴가 그렇게 생겼잖아. 비누도 그 모양이면 soap bar인 거야."
   }
  ],
  "synonyms": [],
@@ -86,6 +60,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/bar.webp",
   "alt": "초콜릿을 길쭉하게 굳힌 chocolate bar",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

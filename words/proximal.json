@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/proximal/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/proximal/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/proximal/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "proximal",
  "slug": "proximal",
  "url": "https://hibbangyong.com/words/proximal/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, proximal 맞아",
    "why": "맞아! 꼬리 뿌리는 꼬리가 엉덩이에 붙어 있는 시작점 바로 거기라서, 꼬리에서 몸 쪽인 proximal이 되는 거야."
-  },
-  {
-   "type": "ox",
-   "question": "문어 다리 하나를 보고 있어. 머리 쪽 몸통에서 가장 멀리 떨어진, 다리의 맨 끝 가느다란 부분을 가리켰어. 이 부분은 다리에서 'proximal'한 쪽이야?",
-   "choices": [
-    "응, proximal 맞아",
-    "아니, proximal 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, proximal 아니야",
-   "why": "맞아! 가리킨 데는 머리 쪽 몸통에서 가장 멀리 떨어진 다리 맨 끝이잖아. proximal은 몸통에 붙어 있는 쪽이니까, 맨 끝은 그 반대인 먼 쪽(이건 distal이야)이라 아닌 게 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "나무에 달린 가지 하나를 보고 있어. 이 가지에서 'proximal'한 부분은 어디일까?",
-   "choices": [
-    "줄기에 붙어 있는 가지의 밑동 쪽",
-    "잎이 새로 돋은 가지의 맨 끝 쪽",
-    "가지 길이의 딱 한가운데 부분",
-    "땅에 가장 가까이 늘어진 아래쪽"
-   ],
-   "answer_index": 0,
-   "answer": "줄기에 붙어 있는 가지의 밑동 쪽",
-   "why": "맞아! proximal은 붙어 있는 곳에 더 가까운 쪽이라는 뜻이야. 이 가지는 줄기에 붙어 있으니까, 줄기에 붙은 가지의 밑동 쪽이 바로 proximal인 거야."
   }
  ],
  "synonyms": [],

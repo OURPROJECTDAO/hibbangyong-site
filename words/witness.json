@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/witness/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/witness/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/witness/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "witness",
  "slug": "witness",
  "url": "https://hibbangyong.com/words/witness/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, witness 맞아",
    "why": "맞아! 화분이 깨질 때 서준이가 바로 그 옆에 있었잖아. 그 자리에 있어서 무슨 일이 일어났는지 아는 사람, 그게 바로 witness인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "체육관에서 농구공이 벽시계를 맞혀 시계가 멈췄어. 그 시간에 하윤이는 피아노 학원에서 수업을 받고 있었고, 다음 날 같은 반 친구한테 이 얘기를 들었어. 하윤이는 이 일의 'witness'야?",
-   "choices": [
-    "응, witness 맞아",
-    "아니, witness 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, witness 아니야",
-   "why": "하윤이는 그때 피아노 학원에 있었잖아. 그 자리에 없었고 다음 날 친구 입으로 전해 들은 거니까 witness가 아닌 거야. 얘기를 전해 들은 사람 말고, 그 자리에 있어서 직접 보거나 들은 사람이 witness거든."
-  },
-  {
-   "type": "choice",
-   "question": "가게에서 어떤 아이가 사탕 한 개를 몰래 주머니에 넣었어. 아래 네 사람 중 이 일의 'witness'는 누구야?",
-   "choices": [
-    "사탕을 주머니에 넣은 그 아이 본인",
-    "바로 뒤 줄에 서서 그 장면을 다 본 손님",
-    "그날 다른 동네 놀이터에서 놀던 아이",
-    "다음 날 친구한테 그 얘기를 전해 들은 아이"
-   ],
-   "answer_index": 1,
-   "answer": "바로 뒤 줄에 서서 그 장면을 다 본 손님",
-   "why": "맞아! 바로 뒤에서 그 장면을 다 봤잖아. 그 자리에 있어서 자기 눈으로 봤으니까 바로 그게 witness인 거야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/witness.webp",
   "alt": "운동장 유리창이 깨질 때 그네에 앉아 있던 아이",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

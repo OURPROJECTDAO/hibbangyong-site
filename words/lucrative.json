@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/lucrative/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/lucrative/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/lucrative/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "lucrative",
  "slug": "lucrative",
  "url": "https://hibbangyong.com/words/lucrative/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, lucrative 맞아",
    "why": "맞아! 손님은 일주일에 두세 명뿐이라 가게가 조용해도, 부품값 빼고 회사 월급보다 훨씬 많은 돈이 남잖아. 손에 남는 돈이 크니까 바로 그게 lucrative한 일인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "이모가 연 브런치 카페는 SNS에서 유명해져서 주말마다 가게 앞에 줄이 길게 서. 그런데 월세랑 재료비를 내고 나면 매달 손해라서, 모아 둔 돈을 계속 꺼내 쓰고 있대. 이모의 카페 일은 'lucrative'한 일일까?",
-   "choices": [
-    "응, lucrative 맞아",
-    "아니, lucrative 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, lucrative 아니야",
-   "why": "맞아! 이모 카페는 줄은 길어도 월세랑 재료비를 내고 나면 매달 손해라서, 모아 둔 돈을 꺼내 쓰고 있잖아. lucrative는 하고 나서 손에 남는 돈이 큰 일이니까, 이 카페는 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "우리 동네 가게 네 곳 이야기를 들었어. 이 중에서 'lucrative'한 가게는 어디일까?",
-   "choices": [
-    "손님이 하루 종일 길게 줄을 서서 늘 붐비는 가게",
-    "물건 하나 값이 수십만 원이나 할 만큼 비싼 가게",
-    "한 달 장사를 끝내고 계산해 보면 이익이 큰 가게",
-    "직원끼리 사이가 좋아서 다들 오래 일하는 가게"
-   ],
-   "answer_index": 2,
-   "answer": "한 달 장사를 끝내고 계산해 보면 이익이 큰 가게",
-   "why": "맞아! 한 달 장사를 끝내고 계산해 보니 이익이 크다는 건 결국 손에 남는 돈이 크다는 거잖아. 그래서 바로 그 가게가 lucrative한 가게야."
   }
  ],
  "synonyms": [],
@@ -89,6 +65,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/lucrative.webp",
   "alt": "학교 축제에서 줄은 길었지만 남은 돈이 거의 없던 떡볶이 부스",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

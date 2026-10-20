@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/skill/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/skill/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/skill/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "skill",
  "slug": "skill",
  "url": "https://hibbangyong.com/words/skill/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, skill 맞아",
    "why": "맞아! 처음엔 자꾸 터졌는데 여름 내내 접고 또 접어서 이제 손이 알아서 착착 움직이잖아. 해보고 또 해봐서 몸에 붙은 그게 바로 skill이야."
-  },
-  {
-   "type": "ox",
-   "question": "준호는 오늘 처음 젓가락으로 콩을 집어 봐. 콩이 자꾸 미끄러져서 접시 밖으로 굴러 떨어지고, 아직 한 알도 못 집었어. 이게 'skill'이야?",
-   "choices": [
-    "응, skill 맞아",
-    "아니, skill 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, skill 아니야",
-   "why": "맞아! 오늘 처음 해보는 데다 아직 한 알도 못 집었잖아. 해보고 또 해봐서 몸에 붙은 게 아니라서 skill이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 각자 자기가 잘하는 걸 자랑했어. 이 중에서 'skill'을 자랑한 아이는 누구일까?",
-   "choices": [
-    "태어날 때부터 목청이 좋아서 배운 적 없이 노래가 잘 나오는 아이",
-    "몇 달 동안 몰래 손을 놀려 봐서 이제 남의 가방을 슥 여는 아이",
-    "자전거 고치는 순서를 책에서 읽어 머리로 몽땅 외우고 있는 아이",
-    "요즘 운이 좋아서 뽑기를 할 때마다 계속 당첨이 되는 아이"
-   ],
-   "answer_index": 1,
-   "answer": "몇 달 동안 몰래 손을 놀려 봐서 이제 남의 가방을 슥 여는 아이",
-   "why": "맞아! 몇 달 동안 손을 놀려 보고 또 해봐서 이제는 슥 열리는 거잖아. 해봐서 몸에 붙은 거니까 바로 그게 솜씨야. 나쁜 짓이어도 솜씨는 솜씨거든."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/skill.webp",
   "alt": "신발끈을 백 번쯤 묶어 이제 안 보고도 묶는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

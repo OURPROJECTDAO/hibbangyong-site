@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/text/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/text/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/text/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "text",
  "slug": "text",
  "url": "https://hibbangyong.com/words/text/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, text 맞아.",
    "why": "맞아! 간판에 까만 글자가 줄줄 적혀 있으면, 그게 바로 읽으라고 적어 둔 글이거든. 적혀 있는 글자니까 text가 딱 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "할머니가 옛날이야기를 입으로 도란도란 들려주셔. 어디에도 적힌 건 하나도 없어. 이게 text야?",
-   "choices": [
-    "응, text 맞아.",
-    "아니, text 아니야."
-   ],
-   "answer_index": 1,
-   "answer": "아니, text 아니야.",
-   "why": "맞아! 입으로 도란도란 들려주는 이야기는 어디에도 적혀 있질 않잖아. 글자가 종이나 화면에 적혀 있어야 글인데, 이건 그냥 소리로 흘러가니까 text가 아닌 거야. 그래서 '아니'가 딱 맞아!"
-  },
-  {
-   "type": "choice",
-   "question": "누가 \"이 책에서 text를 찾아봐\"라고 했어. text는 책의 어느 부분일까?",
-   "choices": [
-    "읽으라고 적어 둔 글자들",
-    "책에 그려 넣은 그림",
-    "책을 감싼 겉표지",
-    "입으로 들려주는 이야기"
-   ],
-   "answer_index": 0,
-   "answer": "읽으라고 적어 둔 글자들",
-   "why": "맞아! 책에 까만 글자가 줄줄줄 적혀 있잖아. 그림 보라는 게 아니라 읽으라고 적어 둔 거, 바로 그게 text거든."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/text.webp",
   "alt": "책 한 장 — 강아지 그림 옆 까만 글자 줄, 그게 text. 책이든 폰 화면이든 적힌 글이면 다 text.",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

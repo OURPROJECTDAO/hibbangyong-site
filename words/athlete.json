@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/athlete/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/athlete/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/athlete/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "athlete",
  "slug": "athlete",
  "url": "https://hibbangyong.com/words/athlete/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, athlete 맞아",
    "why": "맞아! 삼촌은 라켓을 들고 상대와 직접 공을 주고받으면서 점수를 겨루고 있잖아. 이렇게 대회에 나가서 몸으로 직접 겨루는 사람, 바로 그게 athlete인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "아빠가 야구장에 갔어. 관중석 의자에 앉아서 팝콘을 먹으며 경기를 구경하고 있어. 아빠는 'athlete'일까?",
-   "choices": [
-    "응, athlete 맞아",
-    "아니, athlete 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, athlete 아니야",
-   "why": "맞아! 아빠는 관중석 의자에 앉아서 팝콘을 먹으며 경기를 구경만 하고 있거든. 야구장에서 직접 공을 던지고 뛰는 선수들이 athlete이고, 아빠는 구경하는 사람이라서 athlete가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "체육대회 날, 네 사람이 저마다 뭔가를 하고 있어. 이 중에서 'athlete'는 누구일까?",
-   "choices": [
-    "관중석에서 깃발을 흔들며 응원하는 사람",
-    "경기를 멈추려고 호루라기를 부는 사람",
-    "물속에서 다른 사람들과 빠르기를 겨루는 사람",
-    "선수들에게 물병을 날라다 주는 사람"
-   ],
-   "answer_index": 2,
-   "answer": "물속에서 다른 사람들과 빠르기를 겨루는 사람",
-   "why": "맞아! 물속에서 다른 사람들과 빠르기를 겨루는 사람은 자기 몸으로 직접 경기에 나가서 겨루고 있거든. 그래서 바로 그 사람이 athlete인 거야."
   }
  ],
  "synonyms": [],
@@ -84,6 +60,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/athlete.webp",
   "alt": "여러 종목 선수들이 매일 땀 흘리며 몸을 단련함",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

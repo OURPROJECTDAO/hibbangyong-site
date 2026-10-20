@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/price/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/price/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/price/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "price",
  "slug": "price",
  "url": "https://hibbangyong.com/words/price/",
@@ -45,32 +45,6 @@
    "answer_index": 2,
    "answer": "값 800원",
    "why": "맞아! 800원은 이 색연필을 손에 넣으려면 네가 내야 하는 돈이잖아. 그러니까 바로 그게 price인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "동네 축제에 갔더니 네 곳 앞에 팻말이 세워져 있었어. 이 중에서 'price'가 적힌 팻말은 어느 걸까?",
-   "choices": [
-    "미끄럼틀 앞 팻말: '누구나 타세요'",
-    "솜사탕 통 앞 팻말: '한 개 2000원'",
-    "식수대 앞 팻말: '물 마음껏 드세요'",
-    "벤치 앞 팻말: '앉아서 쉬어 가세요'"
-   ],
-   "answer_index": 1,
-   "answer": "솜사탕 통 앞 팻말: '한 개 2000원'",
-   "why": "맞아! 솜사탕 하나 손에 넣으려면 2000원을 내야 하잖아. 그렇게 얼마를 내야 하는지 적힌 게 바로 price인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "엄마가 자전거 하나를 두고 네 가지를 말했어. 이 중에서 자전거의 'price'는 어느 걸 말하는 걸까?",
-   "choices": [
-    "자전거를 가지려면 내야 하는 돈이 얼마인지",
-    "자전거가 얼마나 좋고 값어치가 있는지",
-    "네가 지금 지갑에 가지고 있는 돈이 얼마인지",
-    "자전거를 다 타고 난 뒤에 되팔 때 받는 돈"
-   ],
-   "answer_index": 0,
-   "answer": "자전거를 가지려면 내야 하는 돈이 얼마인지",
-   "why": "맞아! 자전거를 가지려면 네가 내야 하는 돈, 그 얼마가 딱 price거든. 가게에서 딱지에 써 있는 그 숫자 있잖아, 바로 그거야."
   }
  ],
  "synonyms": [],
@@ -89,6 +63,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/price.webp",
   "alt": "가게에서 고른 장난감에 붙은 가격 딱지 '3000원'",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

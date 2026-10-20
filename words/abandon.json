@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/abandon/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/abandon/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/abandon/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "abandon",
  "slug": "abandon",
  "url": "https://hibbangyong.com/words/abandon/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, abandon 아니야",
    "why": "맞아! 화장실 다녀와서 다시 그 자리에 앉아 끝까지 읽었잖아. 돌아왔으니까 버린 게 아닌 거야. abandon은 다시는 안 돌아올 때 쓰는 말이거든."
-  },
-  {
-   "type": "ox",
-   "question": "삼촌이 낚시터에 접이식 의자를 펴 뒀다가 그냥 차를 타고 나왔어. 그 의자를 가지러 다시 오지 않고, 앞으로도 오지 않아. 이게 'abandon'이야?",
-   "choices": [
-    "응, abandon 맞아",
-    "아니, abandon 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, abandon 맞아",
-   "why": "맞아! 의자를 낚시터에 그냥 두고 가지러 다시 오지도, 앞으로도 안 오잖아. 두고 떠나서 영영 안 돌아오는 거, 그게 바로 abandon인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 강아지랑 있었던 일을 말했어. 강아지를 'abandon'한 사람은 누구일까?",
-   "choices": [
-    "강아지를 공원에 두고 와서 다시는 찾으러 가지 않았어",
-    "강아지를 잠깐 이웃에 맡기고 저녁에 데리러 갔어",
-    "강아지랑 늙을 때까지 끝까지 같이 살았어",
-    "강아지가 심심할까 봐 친구를 한 마리 더 데려왔어"
-   ],
-   "answer_index": 0,
-   "answer": "강아지를 공원에 두고 와서 다시는 찾으러 가지 않았어",
-   "why": "맞아! 두고 오기만 한 게 아니라 다시는 찾으러 안 갔잖아. 돌아올 마음이 아예 없는 거, 그게 바로 버린 거야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/abandon.webp",
   "alt": "놀이터에 세워둔 자전거를 고장 났다고 길에 두고 다시 안 옴",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

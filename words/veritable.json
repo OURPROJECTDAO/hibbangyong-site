@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/veritable/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/veritable/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/veritable/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "veritable",
  "slug": "veritable",
  "url": "https://hibbangyong.com/words/veritable/",
@@ -45,28 +45,6 @@
    "answer_index": 0,
    "answer": "장마 뒤 물이 무릎까지 찬 골목을 보고 \"강이네\"라고 할 때",
    "why": "맞아! 골목이 진짜 강은 아니지만, 물이 무릎까지 찼으니 강이라고 불러도 할 말이 없을 만큼 심하잖아. veritable은 바로 이렇게 진짜 그건 아니어도 그 이름이 딱 들어맞을 만큼 대단하거나 심할 때 붙이는 말이야."
-  },
-  {
-   "type": "ox",
-   "question": "누나가 자기 방 책장을 보고 'a veritable 도서관'이라고 했어. 이 말은 책장을 도서관이라 부르기엔 책이 한참 모자란다는 뜻이야?",
-   "choices": [
-    "응, 그런 뜻 맞아",
-    "아니, 그런 뜻 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 그런 뜻 아니야",
-   "why": "잘 골랐어! veritable은 부풀린 말이 아니라 딱 그 정도라고 힘을 주는 말이야. 그러니까 누나는 자기 책장에 책이 도서관이라고 불러도 될 만큼 많다고 한 거지, 모자란다고 한 게 아니야."
-  },
-  {
-   "type": "ox",
-   "question": "출근 시간 지하철이 사람으로 꽉 차서 몸을 돌릴 수도 없었어. 진짜 지옥은 아니지만 '지옥'이라고 불러도 할 말이 없을 만큼 끔찍했지. 이 '지옥'이라는 이름 앞에 'veritable'을 붙여 힘을 준다면, 이런 경우도 'veritable'야?",
-   "choices": [
-    "응, 'veritable' 맞아",
-    "아니, 'veritable' 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, 'veritable' 맞아",
-   "why": "맞아! 몸도 못 돌릴 만큼 꽉 찬 지하철은 진짜 지옥은 아니어도 '지옥'이라고 불러도 할 말이 없잖아. veritable은 이렇게 그 이름이 딱 들어맞을 만큼 심할 때 붙이는 말이라, 끔찍한 장면에도 그대로 쓸 수 있어."
   }
  ],
  "synonyms": [

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/anger/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/anger/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/anger/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "anger",
  "slug": "anger",
  "url": "https://hibbangyong.com/words/anger/",
@@ -44,30 +44,6 @@
    "answer_index": 0,
    "answer": "응, anger 맞아",
    "why": "맞아! 아끼는 신발주머니를 일부러 창밖으로 던졌잖아. 억울하고 싫으니까 가슴이 확 뜨거워져서 \"뭐 하는 거야!\" 하고 터져 나온 거야. 바로 그게 anger거든."
-  },
-  {
-   "type": "ox",
-   "question": "토요일 아침, 나는 거실 소파에 앉아 우유를 마시며 만화를 보고 있어. 다 보고 나서 하품을 한 번 하고 쿠션에 기대 누웠어. 이게 'anger'야?",
-   "choices": [
-    "응, anger 맞아",
-    "아니, anger 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, anger 아니야",
-   "why": "맞아! 우유 마시고 만화 보고 하품하고 누웠으니까, 마음이 아주 편안하고 조용하잖아. 화는 싫거나 억울한 일을 당해서 가슴이 확 뜨거워질 때 나오는 거거든. 그런 일이 하나도 없었으니 이건 화가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "친구 넷이 지금 자기 마음을 이야기했어. 이 중에서 'anger'를 느끼고 있는 친구는 누구일까?",
-   "choices": [
-    "짝꿍이 일부러 내 그림에 물을 쏟았어. 억울해서 얼굴이 확 달아오르고, 그 애한테 따지고 싶어.",
-    "오래 키운 금붕어가 죽어버렸어. 자꾸 눈물이 나고, 기운이 쭉 빠져서 축 처져.",
-    "쌓던 블록이 자꾸 무너져. 아이참, 조금 거슬리는데 다시 쌓으면 금방 괜찮아져.",
-    "갖고 싶던 선물을 받았어. 마음이 붕 떠서 자꾸 웃음이 나고 폴짝 뛰고 싶어."
-   ],
-   "answer_index": 0,
-   "answer": "짝꿍이 일부러 내 그림에 물을 쏟았어. 억울해서 얼굴이 확 달아오르고, 그 애한테 따지고 싶어.",
-   "why": "맞아! 일부러 내 그림을 망가뜨린 건 너무 부당한 일이잖아. 그래서 얼굴이 확 달아오르고 따지고 싶어지는 거야. 부당한 일 때문에 속이 뜨겁게 끓어오르는 것, 그게 바로 anger야."
   }
  ],
  "synonyms": [],
@@ -83,6 +59,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/anger.webp",
   "alt": "아끼는 물건을 누가 일부러 망가뜨린 상황",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

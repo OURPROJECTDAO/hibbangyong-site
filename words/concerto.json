@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/concerto/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/concerto/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/concerto/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "concerto",
  "slug": "concerto",
  "url": "https://hibbangyong.com/words/concerto/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, concerto 맞아",
    "why": "맞아! 바이올린 한 명이 앞에 나서서 멜로디를 먼저 켜고, 뒤의 오케스트라가 그걸 받아서 같이 이어 갔잖아. 이렇게 앞에 나선 악기 하나랑 오케스트라가 주고받는 곡이 바로 concerto야."
-  },
-  {
-   "type": "ox",
-   "question": "학교 축제에서 한 친구가 무대에 올라와 기타 한 대로 곡 하나를 처음부터 끝까지 혼자 연주했어. 다른 악기는 하나도 없었어. 이 곡은 'concerto'야?",
-   "choices": [
-    "응, concerto 맞아",
-    "아니, concerto 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, concerto 아니야",
-   "why": "맞아! 기타 한 대가 처음부터 끝까지 혼자 다 쳤고 같이 연주한 악기가 하나도 없었으니까, 이건 혼자 치는 독주곡(solo)이지 concerto가 아니야. concerto는 앞에 나선 악기를 뒤에서 오케스트라가 받아 주면서 같이 주고받아야 하거든."
-  },
-  {
-   "type": "choice",
-   "question": "음악 시간에 선생님이 네 가지 연주를 보여 줬어. 이 중에서 'concerto'라고 부를 수 있는 건?",
-   "choices": [
-    "독주자 없이 오케스트라 단원 전체가 다 같이 연주한 곡",
-    "오케스트라가 여러 곡을 이어서 들려준 저녁 공연",
-    "트럼펫 연주자가 앞에 서서 오케스트라와 주고받은 곡",
-    "피아노 한 대로 처음부터 끝까지 혼자 연주한 곡"
-   ],
-   "answer_index": 2,
-   "answer": "트럼펫 연주자가 앞에 서서 오케스트라와 주고받은 곡",
-   "why": "맞아! 트럼펫 연주자가 앞에 나서서 멜로디를 끌고, 오케스트라가 그걸 받아서 같이 주고받잖아. 앞에 나선 악기랑 오케스트라가 둘 다 있으니까 바로 그게 concerto, 협주곡인 거야. 주인공이 피아노가 아니라 트럼펫이어도 상관없어."
   }
  ],
  "synonyms": [],

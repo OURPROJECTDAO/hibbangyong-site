@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/anticipate/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/anticipate/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/anticipate/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "anticipate",
  "slug": "anticipate",
  "url": "https://hibbangyong.com/words/anticipate/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, anticipate 맞아",
    "why": "맞아! 초인종도 아직 안 울렸는데 형 머릿속에는 할머니가 문 앞에 서 계신 모습이 벌써 그려졌잖아. 아직 안 일어난 일이 미리 보여서 방 청소부터 시작했으니까, 바로 그게 anticipate인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "놀이터에서 놀다 집에 왔는데, 신발을 벗고 나서야 무릎이 까진 걸 봤어. 넘어질 때는 하나도 몰랐대. 이게 'anticipate'야?",
-   "choices": [
-    "응, anticipate 맞아",
-    "아니, anticipate 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, anticipate 아니야",
-   "why": "맞아! 무릎은 넘어질 때 벌써 까졌는데, 집에 와서 신발을 벗고 나서야 봤잖아. 일이 오기 전에 머릿속에 미리 보인 게 하나도 없으니까 anticipate가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 주에 우리 반이 새 교실로 옮겨. 네 친구들이 저마다 다르게 굴었어. 새 교실 일을 'anticipate' 한 사람은 누구일까?",
-   "choices": [
-    "새 교실이 넓기를 벌써부터 두 손 모아 빌었어",
-    "지금 교실 창문이 작다고 둘러보며 말했어",
-    "새 교실은 시끄러울 것 같아 벌써 마음이 무거웠어",
-    "교실을 옮기고 나서야 사물함이 없는 걸 알았어"
-   ],
-   "answer_index": 2,
-   "answer": "새 교실은 시끄러울 것 같아 벌써 마음이 무거웠어",
-   "why": "맞아! 새 교실은 아직 가 보지도 않았는데, 시끄러울 것 같다고 벌써 생각했잖아. 그래서 옮기기도 전에 지금 마음이 무거워진 거야. 아직 안 온 일을 그렇게 될 거라고 여기고 지금 마음이 달라지는 것, 바로 그게 anticipate인 거야."
   }
  ],
  "synonyms": [
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/anticipate.webp",
   "alt": "이사 가기 전인데 새 방과 새 학교가 벌써 머릿속에 그려지는 아이",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

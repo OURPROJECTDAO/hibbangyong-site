@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/increase/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/increase/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/increase/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "increase",
  "slug": "increase",
  "url": "https://hibbangyong.com/words/increase/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, increase 맞아",
    "why": "맞아! 40권이었다가 60권이 됐으니까 재보면 전보다 위로 간 거잖아. 스무 권이 더 붙은 거니까 바로 그게 increase인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "교실 물통에 담긴 물이 아침에는 눈금 8까지 있었는데, 점심때 재보니 눈금 3이야. 이게 'increase'야?",
-   "choices": [
-    "응, increase 맞아",
-    "아니, increase 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, increase 아니야",
-   "why": "맞아! 8이었다가 3이 됐으니까 재보니 아래로 간 거잖아. 물이 줄어든 거니까 increase가 아닌 게 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "가게 네 곳이 지난달이랑 이번 달 아이스크림 값을 나란히 붙여놨어. 'an increase'가 있었던 가게는 어디일까?",
-   "choices": [
-    "지난달엔 500원이었는데 이번 달엔 800원인 가게",
-    "지난달엔 800원이었는데 이번 달엔 500원인 가게",
-    "지난달에도 이번 달에도 3000원으로 비싼 가게",
-    "값은 그대론데 맛만 딸기에서 포도로 바뀐 가게"
-   ],
-   "answer_index": 0,
-   "answer": "지난달엔 500원이었는데 이번 달엔 800원인 가게",
-   "why": "맞아! 500원이던 게 800원이 됐잖아. 전보다 위로 올라간 거니까 바로 그게 increase야. 오른 그 300원도 increase라고 불러."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/increase.webp",
   "alt": "숙제가 두 장에서 다섯 장으로 늘어 세 장이 더 붙은 앵커 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

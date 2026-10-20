@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/apprehensive/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/apprehensive/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/apprehensive/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "apprehensive",
  "slug": "apprehensive",
  "url": "https://hibbangyong.com/words/apprehensive/",
@@ -43,29 +43,6 @@
    "answer_index": 0,
    "answer": "응, apprehensive 맞아",
    "why": "맞아! 민지는 아직 병원에 가지도 않았는데 내일 이 뽑을 때 많이 아플까 봐 밤새 걱정하잖아. 아직 오지 않은 일이 잘못될까 봐 걱정하는 마음, 그게 바로 apprehensive야."
-  },
-  {
-   "type": "ox",
-   "question": "준호는 다음 달 수영 대회에 나가. 몇 달 동안 연습을 꾸준히 해서 이번엔 잘될 거라며 대회 날을 느긋하게 기다리고 있어. 이런 준호의 마음이 'apprehensive'일까?",
-   "choices": [
-    "응, apprehensive 맞아",
-    "아니, apprehensive 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, apprehensive 아니야",
-   "why": "맞아! 준호는 다음 달 대회를 앞두고 있지만, 연습을 꾸준히 해서 잘될 거라며 느긋하게 기다리고 있잖아. apprehensive는 앞으로 올 일이 잘못될까 봐 걱정하는 마음이니까, 걱정 없이 자신 있는 준호는 오히려 반대야."
-  },
-  {
-   "type": "choice",
-   "question": "누나가 대학 합격자 발표를 기다리고 있어. 발표는 내일 아침이야. 누나가 지금 'apprehensive'하다면 누나는 어떤 마음일까?",
-   "choices": [
-    "떨어졌을까 봐 걱정하면서 발표를 기다리는 마음",
-    "붙었을 거라 믿고 들떠서 발표를 기다리는 마음",
-    "이미 확인한 발표 결과에 실망하고 있는 마음"
-   ],
-   "answer_index": 0,
-   "answer": "떨어졌을까 봐 걱정하면서 발표를 기다리는 마음",
-   "why": "맞아! 발표는 아직 내일 아침인데, 누나는 떨어졌을까 봐 미리 걱정하면서 기다리고 있잖아. 아직 오지 않은 결과가 잘못될까 봐 조마조마한 마음, 바로 그게 apprehensive야."
   }
  ],
  "synonyms": [],

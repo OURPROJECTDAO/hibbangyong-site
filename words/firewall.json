@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/firewall/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/firewall/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/firewall/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "firewall",
  "slug": "firewall",
  "url": "https://hibbangyong.com/words/firewall/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, firewall 맞아",
    "why": "맞아! 노트북과 인터넷 사이 길목에서 처음 보는 프로그램의 연결을 멈춰 세우고 허락할지 물었잖아. 안에서 밖으로 나가는 연결이라도 허락 안 된 걸 길목에서 막는 거니까, 바로 그게 firewall이야."
-  },
-  {
-   "type": "ox",
-   "question": "도서관 컴퓨터 뒤에 꽂힌 랜선은 들어오고 나가는 연결을 하나도 검사하지 않고 전부 그대로 흘려보내. 연결을 그대로 흘려보내는 이 랜선이 'firewall'이야?",
-   "choices": [
-    "응, firewall 맞아",
-    "아니, firewall 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, firewall 아니야",
-   "why": "잘 골랐어! 이 랜선은 들어오고 나가는 연결을 하나도 검사하지 않고 전부 그대로 흘려보내잖아. firewall은 연결을 하나하나 검사해서 허락 안 된 걸 막는 거니까, 이 랜선은 firewall이 아니야."
-  },
-  {
-   "type": "choice",
-   "question": "작은 회사가 사무실 인터넷 입구에 'firewall'을 새로 설치했어. 설치한 뒤에 생긴 변화로 알맞은 건?",
-   "choices": [
-    "정해 둔 규칙에 따라 어떤 연결은 통과하고 어떤 연결은 거부됐어",
-    "모든 연결이 검사 없이 전보다 훨씬 막힘없이 그대로 통과했어",
-    "사무실 인터넷 속도가 전보다 두 배쯤 빨라져서 영상이 잘 나왔어",
-    "잘 안 잡히던 와이파이 신호가 사무실 구석까지 멀리 닿게 됐어"
-   ],
-   "answer_index": 0,
-   "answer": "정해 둔 규칙에 따라 어떤 연결은 통과하고 어떤 연결은 거부됐어",
-   "why": "맞아! 방화벽은 사무실 인터넷 입구에 서서 연결을 하나하나 검사하고, 정해 둔 규칙에 맞으면 통과시키고 아니면 막는 거야. 그래서 어떤 연결은 통과하고 어떤 연결은 거부된 게 바로 방화벽이 일하는 모습이야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/firewall.webp",
   "alt": "게임 서버 접속이 컴퓨터 쪽에서 막힘",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

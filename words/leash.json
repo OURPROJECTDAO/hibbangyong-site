@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/leash/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/leash/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/leash/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "leash",
  "slug": "leash",
  "url": "https://hibbangyong.com/words/leash/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, leash 맞아",
    "why": "맞아! 할아버지가 강아지 목걸이 고리에 끈을 걸고 그 끝을 손목에 감아 쥐고 있잖아. 목걸이에 걸어서 사람이 쥐고 있는 그 끈이 바로 leash야."
-  },
-  {
-   "type": "choice",
-   "question": "민수가 강아지랑 공원에 가려고 현관에 섰어. 형이 'leash 챙겼어?'라고 물었고, 민수는 챙겼다고 했어. 민수가 손에 들고 있는 건 뭘까?",
-   "choices": [
-    "강아지 목에 채우는 버클 달린 가죽 띠",
-    "강아지 목걸이 고리에 연결하는 기다란 끈",
-    "강아지를 쏙 넣어 메고 다니는 천 가방",
-    "강아지 똥을 담아 올 작은 비닐봉투 묶음"
-   ],
-   "answer_index": 1,
-   "answer": "강아지 목걸이 고리에 연결하는 기다란 끈",
-   "why": "맞아! 강아지 목걸이 고리에 걸고, 그 끝을 민수가 손에 쥔 채 공원까지 같이 걸어가는 기다란 끈이 바로 leash야."
-  },
-  {
-   "type": "ox",
-   "question": "아침 바닷가 모래사장이야. 강아지 목에는 이름표가 달린 목걸이가 채워져 있어. 주인은 두 손을 주머니에 넣고 천천히 걷고 있고, 강아지는 주인한테서 저만치 떨어진 파도 앞까지 혼자 뛰어갔다가 돌아와. 지금 이 강아지는 leash를 하고 있어?",
-   "choices": [
-    "응, 하고 있어",
-    "아니, 안 하고 있어"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 안 하고 있어",
-   "why": "맞아! 주인은 두 손을 주머니에 넣고 걷고, 강아지는 혼자 파도 앞까지 뛰어갔다 오잖아. 주인이 손에 쥔 줄이 없으니까 이 강아지는 leash를 안 하고 있는 거야."
   }
  ],
  "synonyms": [
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/leash.webp",
   "alt": "강아지 목걸이에 줄을 걸고 산책하는 사람",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

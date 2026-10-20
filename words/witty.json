@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/witty/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/witty/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/witty/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "witty",
  "slug": "witty",
  "url": "https://hibbangyong.com/words/witty/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, witty 맞아",
    "why": "맞아! 비 때문에 체육대회가 취소된 걸 두고, 하늘이 우리 반 달리기 실력을 보기 싫었던 거라고 말을 살짝 비틀어서 다들 웃은 거잖아. 이렇게 말을 머리 써서 재밌게 만드는 게 바로 witty야."
-  },
-  {
-   "type": "ox",
-   "question": "학급회의 시간에 반장이 종이에 적힌 대로 \"다음 주 청소 당번은 3모둠입니다. 이상입니다\"라고 또박또박 읽었어. 반장의 이 말은 'witty'할까?",
-   "choices": [
-    "응, witty 맞아",
-    "아니, witty 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, witty 아니야",
-   "why": "맞아! 반장은 종이에 적힌 청소 당번을 또박또박 읽기만 했잖아. 웃음도 없고 말을 머리 써서 비튼 것도 없으니까 witty가 아닌 거지. 전달은 정확하지만 재치는 없는 말이야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 반 친구들을 웃겼어. 'witty'라는 말이 가장 잘 어울리는 친구는 누구일까?",
-   "choices": [
-    "급식 줄이 길자 학급 신문 제목을 '오늘의 운동: 줄 서기'라고 붙인 지수",
-    "복도에서 미끄러져 크게 넘어지는 바람에 다들 웃게 만든 민호",
-    "선생님 흉내를 내면서 얼굴을 우스꽝스럽게 찡그린 현우",
-    "친구 발표가 끝나자 '와, 진짜 대단하다'라며 비꼬듯 말한 서연"
-   ],
-   "answer_index": 0,
-   "answer": "급식 줄이 길자 학급 신문 제목을 '오늘의 운동: 줄 서기'라고 붙인 지수",
-   "why": "맞아! 길게 늘어선 급식 줄을 '오늘의 운동: 줄 서기'라고 바꿔 불렀잖아. 지루한 줄 서기를 머리 써서 재밌게 비튼 거라서 바로 witty인 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/witty.webp",
   "alt": "급식 카레에 투덜대는 반에서 친구가 던진 한마디",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

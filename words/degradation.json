@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/degradation/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/degradation/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/degradation/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "degradation",
  "slug": "degradation",
  "url": "https://hibbangyong.com/words/degradation/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, degradation 아니야",
    "why": "맞아! 대리에서 과장으로 올라가고 회의에서 의견을 먼저 물어봐 주는 건 위로 올라가서 더 대접받는 거라, 아래로 끌어내려지는 degradation이랑은 방향이 정반대야."
-  },
-  {
-   "type": "choice",
-   "question": "네 가지 일이 있었어. 이 중 'degradation'이라고 부르기 가장 알맞은 건?",
-   "choices": [
-    "사장이 직원을 날마다 손님들 앞에서 무시하고 깔봤어",
-    "발표 중에 말이 꼬여서 잠깐 얼굴이 빨개졌어",
-    "태풍이 와서 하룻밤 사이에 다리가 무너졌어",
-    "낡은 공원을 고쳐서 전보다 훨씬 깨끗해졌어"
-   ],
-   "answer_index": 0,
-   "answer": "사장이 직원을 날마다 손님들 앞에서 무시하고 깔봤어",
-   "why": "맞아! 사장이 직원을 날마다 손님들 앞에서 무시하고 깔봤잖아. 존중받아야 할 사람이 매일 조금씩 아래로 끌어내려진 거라서, 바로 그게 degradation인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "사진 한 장을 복사하고, 그 복사본을 또 복사하고, 또 복사했어. 복사할 때마다 화질이 한 단계씩 떨어져서 마지막엔 얼굴도 알아보기 힘들 만큼 흐려졌어. 이 사진의 화질에 일어난 일, 이게 'degradation'이야?",
-   "choices": [
-    "응, degradation 맞아",
-    "아니, degradation 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, degradation 맞아",
-   "why": "맞아! 선명하던 사진이 복사할 때마다 한 단계씩 흐려져서 마지막엔 얼굴도 못 알아볼 만큼 됐잖아. 좋던 화질이 점점 아래로 떨어진 거니까, 바로 그게 degradation이야."
   }
  ],
  "synonyms": [
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/degradation.webp",
   "alt": "날마다 사람들 앞에서 무시당하고 깔보이는 사람",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/myriad/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/myriad/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/myriad/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "myriad",
  "slug": "myriad",
  "url": "https://hibbangyong.com/words/myriad/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, myriad 아니야",
    "why": "맞아! 지갑 속 동전은 딱 세 개라 한눈에 바로 셀 수 있잖아. myriad는 세다가 포기할 만큼 어마어마하게 많을 때 쓰는 말이니까, 세 개짜리 동전엔 안 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "여름 바닷가 해변에 모래알이 깔려 있어. 한 알씩 세려다가 금방 포기할 만큼 많아. 이 모래알들을 'myriad' 모래알이라고 할 수 있을까?",
-   "choices": [
-    "응, myriad 맞아",
-    "아니, myriad 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, myriad 맞아",
-   "why": "맞아! 해변 모래알은 한 알씩 세다가 금방 포기할 만큼 많잖아. 셀 수 없을 만큼 수가 어마어마하니까 딱 myriad 모래알이야."
-  },
-  {
-   "type": "choice",
-   "question": "네 가지 상황이 있어. 이 중에서 'myriad'를 쓰기에 가장 알맞은 상황은 뭘까?",
-   "choices": [
-    "교실 책상 위에 연필이 딱 두 자루 놓여 있어.",
-    "창고 안에 있는 상자 하나가 엄청 크고 무거워.",
-    "앱을 업데이트했더니 오류가 계속 끝도 없이 튀어나와.",
-    "우리 반 학생 한 명도 빠짐없이 숙제를 다 냈어."
-   ],
-   "answer_index": 2,
-   "answer": "앱을 업데이트했더니 오류가 계속 끝도 없이 튀어나와.",
-   "why": "맞아! 앱 오류가 끝도 없이 계속 튀어나오면 셀 수가 없잖아. 이렇게 수가 어마어마하게 많을 때 myriad를 쓰는 거야. 좋은 게 아니라 골칫거리여도 상관없고."
   }
  ],
  "synonyms": [
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/myriad.webp",
   "alt": "시험 전날 밤에 끝없이 나오는 할 일",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

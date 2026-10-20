@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/total/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/total/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/total/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "total",
  "slug": "total",
  "url": "https://hibbangyong.com/words/total/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, total 맞아",
    "why": "맞아! 월요일 2권, 화요일 3권, 수요일 1권을 하나도 안 빼고 다 더해서 6권이 나왔잖아. 이렇게 세 날 읽은 책을 몽땅 더한 전부라서 바로 그게 total인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "과일 가게에 사과 6개, 배 4개, 귤 9개가 있어. 엄마가 배만 세고 '4개'라고 했어. 이 4개가 가게 과일의 'total'이야?",
-   "choices": [
-    "응, total 맞아",
-    "아니, total 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, total 아니야",
-   "why": "잘 골랐어! 엄마는 배 4개만 셌고 사과 6개랑 귤 9개는 안 셌거든. 배만 센 건 전부가 아니니까 4개는 total이 아닌 거야. 사과, 배, 귤을 하나도 안 빼고 다 더하면 19개, 그게 가게 과일의 total이야."
-  },
-  {
-   "type": "choice",
-   "question": "상자 세 개에 공이 들어 있어. 민아가 'total'이라는 말을 쓰기 딱 맞는 때는 언제일까?",
-   "choices": [
-    "세 상자의 공을 빠짐없이 더해서 셀 때",
-    "세 상자 중에 공이 제일 많은 상자를 고를 때",
-    "세 상자 중에 한 상자의 공만 따로 셀 때",
-    "세 상자의 공을 세 사람이 똑같이 나눌 때"
-   ],
-   "answer_index": 0,
-   "answer": "세 상자의 공을 빠짐없이 더해서 셀 때",
-   "why": "맞아! 세 상자의 공을 하나도 안 빼고 다 더해서 세는 거라서, 바로 그게 total인 거야."
   }
  ],
  "synonyms": [
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/total.webp",
   "alt": "놀이터 미끄럼틀·그네·모래밭 아이들 수 세기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

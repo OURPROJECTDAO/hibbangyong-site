@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/vortex/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/vortex/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/vortex/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "vortex",
  "slug": "vortex",
  "url": "https://hibbangyong.com/words/vortex/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, vortex 아니야",
    "why": "맞아! 호수 물이 거울처럼 가만히 있고 오리 모형 배도 한 자리에 그대로 있잖아. 물이 빙빙 돌지도 않고 배를 가운데로 빨아들이지도 않으니까 vortex가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "계곡에서 바위 옆의 물이 한 자리에서 빠르게 빙빙 돌아. 떠내려온 나뭇가지가 그 가운데로 끌려 들어가 물속으로 쑥 가라앉았어. 이 물의 움직임이 'vortex'일까?",
-   "choices": [
-    "응, vortex 맞아",
-    "아니, vortex 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, vortex 맞아",
-   "why": "맞아! 바위 옆의 물이 한 자리에서 빠르게 빙빙 돌면서 나뭇가지를 가운데로 끌고 들어가 가라앉혔잖아. 돌기만 하는 게 아니라 안으로 빨아들이기까지 하니까 바로 그게 vortex인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "가을날 학교 운동장에서 친구들이 바람을 봤어. 다음 중 'vortex'를 본 친구는 누구일까?",
-   "choices": [
-    "바람이 한 자리에서 빙빙 돌면서 낙엽을 가운데로 끌어모았어",
-    "바람이 한쪽으로 세게 불어서 낙엽을 담장 너머로 날렸어",
-    "동생이 돌린 팽이가 운동장 바닥에서 한참 돌다가 멈췄어",
-    "바람이 하나도 안 불어서 낙엽이 바닥에 가만히 있었어"
-   ],
-   "answer_index": 0,
-   "answer": "바람이 한 자리에서 빙빙 돌면서 낙엽을 가운데로 끌어모았어",
-   "why": "맞아! 바람이 한 자리에서 빙빙 돌면서 낙엽을 가운데로 끌어모았잖아. 돌기만 하는 게 아니라 안으로 끌어당기기까지 하니까 그게 바로 vortex야."
   }
  ],
  "synonyms": [],
@@ -94,6 +70,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/vortex.webp",
   "alt": "욕조 마개를 뽑자 물이 구멍 위에서 돌며 빨려 내려가는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

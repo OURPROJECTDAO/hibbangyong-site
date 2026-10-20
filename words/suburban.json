@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/suburban/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/suburban/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/suburban/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "suburban",
  "slug": "suburban",
  "url": "https://hibbangyong.com/words/suburban/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, suburban 맞아",
    "why": "맞아! 준호네는 큰 도시 바로 바깥 주택가에 살고, 아빠는 도시 안 회사로 출근하고, 주말엔 영화 보러 도시로 나가잖아. 도시 바로 바깥에 살면서 일이나 놀 일이 있으면 도시로 들어가니까 딱 suburban 동네인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "지은이가 점심시간에 쉬러 간 공원은 시청 바로 앞, 도시 한가운데에 있어. 공원 둘레에는 고층 빌딩과 백화점이 빽빽하게 서 있어. 이 공원은 'suburban' 공원이야?",
-   "choices": [
-    "응, suburban 맞아",
-    "아니, suburban 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, suburban 아니야",
-   "why": "맞아! 시청 바로 앞이고 둘레에 고층 빌딩이랑 백화점이 빽빽하잖아. 거긴 도시 한가운데라서, 도시 바로 바깥 동네를 말하는 suburban 공원이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "민지가 탄 기차가 'suburban' 기차래. 이 기차는 어떤 기차일까?",
-   "choices": [
-    "시내 한가운데 역들만 짧게 빙빙 도는 기차",
-    "시내와 삼십 분 거리 동네들을 오가는 기차",
-    "산골 작은 마을들까지 몇 시간씩 가는 기차",
-    "다른 큰 도시까지 쉬지 않고 달려가는 기차"
-   ],
-   "answer_index": 1,
-   "answer": "시내와 삼십 분 거리 동네들을 오가는 기차",
-   "why": "맞아! 시내랑 삼십 분 거리 동네들 사이를 오가니까, 큰 도시와 그 바로 바깥을 잇는 기차지. suburban은 동네뿐 아니라 이렇게 교외를 오가는 기차에도 붙어."
   }
  ],
  "synonyms": [],
@@ -94,6 +70,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/suburban.webp",
   "alt": "도시에서 지하철로 삼십 분 나간 집·아파트 동네",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

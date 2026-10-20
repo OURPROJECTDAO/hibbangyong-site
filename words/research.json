@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/research/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/research/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/research/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "research",
  "slug": "research",
  "url": "https://hibbangyong.com/words/research/",
@@ -44,17 +44,6 @@
    "answer_index": 0,
    "answer": "게임기를 사기 전에, 여러 날 동안 후기를 찾아 읽고 종류를 하나하나 비교했어.",
    "why": "맞아! 여러 날 동안 후기를 읽고 종류를 하나하나 비교했잖아. 궁금한 걸 제대로 알 때까지 파고 또 판 거니까, 바로 그게 research야."
-  },
-  {
-   "type": "ox",
-   "question": "형은 한국사 책을 한 권 샀어. 두 달 동안 하루도 안 빠지고 밑줄을 그어 가며, 책에 적힌 삼국시대 사건들을 순서대로 익혔어. 이런 경우도 'research'야?",
-   "choices": [
-    "응, 그것도 research야.",
-    "아니, 그건 research가 아니야."
-   ],
-   "answer_index": 1,
-   "answer": "아니, 그건 research가 아니야.",
-   "why": "맞아! 형은 책에 이미 다 적혀 있는 걸 순서대로 외우고 익힌 거거든. 그건 열심히 공부한 거지, 아직 아무도 모르는 걸 알아내려고 파고든 게 아니야. 그래서 research가 아닌 거야."
   }
  ],
  "synonyms": [],
@@ -80,6 +69,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/research.webp",
   "alt": "강아지 키우기 전 며칠 동안 먹이·목욕을 자세히 알아본 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

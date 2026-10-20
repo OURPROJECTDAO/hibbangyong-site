@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/apparent/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/apparent/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/apparent/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "apparent",
  "slug": "apparent",
  "url": "https://hibbangyong.com/words/apparent/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, apparent 맞아.",
    "why": "맞아! 코치가 아직 한마디도 안 했는데 흙자국이 옷에 그냥 딱 나와 있어서, 들어온 사람들 모두가 바로 알아봤잖아. 이렇게 찾을 것도 없이 눈에 다 띄는 게 바로 apparent인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "할머니가 케이크 안쪽에 동전을 넣고 크림으로 덮어서, 식탁에 앉은 누구도 동전이 있는 줄 몰랐어. 이 동전은 apparent야?",
-   "choices": [
-    "응, apparent 맞아.",
-    "아니, apparent 아니야."
-   ],
-   "answer_index": 1,
-   "answer": "아니, apparent 아니야.",
-   "why": "이 동전은 크림 속에 폭 숨어 있어서 식탁에 앉은 누구도 몰랐잖아. 그러니까 눈에 다 띄는 게 아니라 완전히 감춰진 거지. apparent는 안 찾아도 그냥 보이는 걸 말하는 거라서, 이 동전은 apparent가 아닌 게 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 오늘 있었던 일을 하나씩 말했어. 이 중에 'apparent'라는 말이 어울리는 건?",
-   "choices": [
-    "지호는 아무 말도 안 했는데, 교실에 들어서자마자 다들 지호가 울었다는 걸 알아봤어.",
-    "민서는 속상한 걸 꾹 참아서, 하루 종일 짝꿍도 전혀 몰랐어.",
-    "하준이는 잃어버린 지갑을 사흘이나 뒤진 끝에 겨우 찾아냈어.",
-    "서연이는 친구 웃음이 진짜인지 나중에 따로 물어봐서 확인했어."
-   ],
-   "answer_index": 0,
-   "answer": "지호는 아무 말도 안 했는데, 교실에 들어서자마자 다들 지호가 울었다는 걸 알아봤어.",
-   "why": "맞아! 지호가 아무 말도 안 했는데도 교실에 들어서자마자 다들 울었다는 걸 알아봤잖아. 찾아보지 않아도 그냥 눈에 다 보인 거, 그게 바로 apparent야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/apparent.webp",
   "alt": "말없이 들어온 형 얼굴에 화난 게 다 나와 있는 순간",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

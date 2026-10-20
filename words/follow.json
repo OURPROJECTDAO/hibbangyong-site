@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/follow/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/follow/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/follow/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "follow",
  "slug": "follow",
  "url": "https://hibbangyong.com/words/follow/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, follow 맞아",
    "why": "맞아! 선생님이 앞에서 간 그 길을, 선생님이 한 그 방식대로 뒤에서 그대로 갔잖아. 앞이 정한 대로 뒤에서 가는 거, 그게 바로 follow인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "소풍 갈 때 하준이가 맨 앞에 서서 어느 골목으로 갈지 정하고, 친구들이 하준이 뒤를 따라왔어. 하준이가 한 게 'follow'야?",
-   "choices": [
-    "응, follow 맞아",
-    "아니, follow 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, follow 아니야",
-   "why": "맞아! 하준이는 맨 앞에서 어디로 갈지 정한 사람이잖아. 정해 주는 쪽은 follow가 아니야. 하준이 뒤를 따라온 친구들이 follow를 한 거지."
-  },
-  {
-   "type": "ox",
-   "question": "지호랑 다은이가 학교 가는 길에 만났어. 둘은 어깨를 나란히 하고 서로 얘기하면서 같은 속도로 걸어갔어. 이런 경우도 'follow'야?",
-   "choices": [
-    "응, 이것도 follow야",
-    "아니, 이건 follow가 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 이건 follow가 아니야",
-   "why": "맞아! 어깨 나란히 하고 같은 속도로 걸으면 누가 앞이고 누가 뒤인 게 없잖아. 앞이 간 대로 뒤에서 따라가는 게 아니라 그냥 같이 가는 거라서 follow가 아닌 거야."
   }
  ],
  "synonyms": [
@@ -94,6 +72,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/follow.webp",
   "alt": "눈 위 앞사람 발자국을 밟고 뒤에서 걷기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

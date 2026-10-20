@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/spill/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/spill/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/spill/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "spill",
  "slug": "spill",
  "url": "https://hibbangyong.com/words/spill/",
@@ -40,30 +40,6 @@
    "answer_index": 0,
    "answer": "응, spill 맞아",
    "why": "맞아! 그릇 안에 얌전히 담겨 있던 우유가 그릇 밖 식탁으로 좌악 나와 버렸잖아. 담겨 있던 게 밖으로 나와 버린 거, 그게 바로 spill인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "형이 물병을 두 손으로 잡고 천천히 기울여서 물을 컵 안에 딱 맞게 채웠어. 물은 한 방울도 컵 밖으로 나가지 않았어. 이게 'spill'이야?",
-   "choices": [
-    "응, spill 맞아",
-    "아니, spill 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, spill 아니야",
-   "why": "맞아! 형이 물병을 기울여서 물을 컵 안에 딱 맞게 담았잖아. 물이 밖으로 한 방울도 안 나갔으니까 spill이 아닌 거야. 이렇게 일부러 조심조심 옮겨 담는 건 spill이 아니라 pour(붓다)거든."
-  },
-  {
-   "type": "choice",
-   "question": "네 가지 일이 있었어. 이 중에서 'spill'이라고 말할 수 있는 건?",
-   "choices": [
-    "가방을 거꾸로 들자 안에 있던 블록이 바닥으로 와르르 흩어졌다",
-    "물병 뚜껑 틈으로 물이 한 방울씩 오래 배어 나와 가방 안이 축축해졌다",
-    "엄마가 냄비를 기울여 국을 그릇에 조심히 담았다",
-    "비를 맞아서 겉옷이 다 젖고 무거워졌다"
-   ],
-   "answer_index": 0,
-   "answer": "가방을 거꾸로 들자 안에 있던 블록이 바닥으로 와르르 흩어졌다",
-   "why": "맞아! 가방 안에 얌전히 담겨 있던 블록이 확 뒤집히면서 담긴 자리를 벗어나 바닥으로 쏟아진 거잖아. 네 마음대로 안 되게 와르르 나와 버렸으니까 바로 그게 spill인 거야. 물이 아니어도 이렇게 쓸 수 있어."
   }
  ],
  "synonyms": [],
@@ -79,6 +55,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/spill.webp",
   "alt": "팔꿈치가 컵을 쳐서 물이 컵 밖으로 흐르는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

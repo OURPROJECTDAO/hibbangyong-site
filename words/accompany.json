@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/accompany/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/accompany/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/accompany/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "accompany",
  "slug": "accompany",
  "url": "https://hibbangyong.com/words/accompany/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, accompany 맞아",
    "why": "맞아! 이모가 병원 가는 그 길을 누나가 옆에서 같이 걸어갔잖아. 짐을 들어 주거나 돈을 낸 것도 아니고 그냥 같이 간 건데, 그게 바로 accompany야."
-  },
-  {
-   "type": "ox",
-   "question": "삼촌이 시장에 가는데, 사촌 형은 먼저 혼자 시장에 가서 삼촌을 기다리고 있었어. 이게 'accompany'야?",
-   "choices": [
-    "응, accompany 맞아",
-    "아니, accompany 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, accompany 아니야",
-   "why": "맞아! 형은 삼촌이랑 같이 간 게 아니라 혼자 먼저 가서 기다린 거잖아. 나란히 같이 걸어가야 이 말을 쓰는 거라서, 이건 아닌 게 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "엄마가 시장에 가는 날, 아이가 집에서 같이 나와 큰 건널목까지 엄마 옆에서 걸었어. 거기서 손 흔들고 아이는 놀이터로 갔대. 이런 경우도 'accompany'야?",
-   "choices": [
-    "응, 'accompany' 맞아.",
-    "아니, 'accompany' 아니야."
-   ],
-   "answer_index": 0,
-   "answer": "응, 'accompany' 맞아.",
-   "why": "맞아! 시장까지 끝까지 안 갔어도, 큰 건널목까지 걷는 동안은 엄마 옆에 딱 같이 있었잖아. 가는 길을 함께 걸었으면 그게 바로 같이 간 거야."
   }
  ],
  "synonyms": [],
@@ -84,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/accompany.webp",
   "alt": "형이 가게 갈 때 심심해서 그냥 같이 나섬(도움 없음)",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

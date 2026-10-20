@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/shortlist/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/shortlist/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/shortlist/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "shortlist",
  "slug": "shortlist",
  "url": "https://hibbangyong.com/words/shortlist/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, shortlist 맞아",
    "why": "맞아! 서른 개 중에 반장이 네 개만 골라 칠판에 붙였고, 하나로 정하는 투표는 내일이잖아. 많은 후보에서 몇 개만 추려 놓고 마지막 결정을 기다리는 목록이니까 바로 그게 shortlist인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "우리 집 새 강아지 이름 후보가 스무 개 나왔어. 가족회의에서 세 개만 남기고 나머지는 지웠어. 지워진 열일곱 개 이름 목록이 'shortlist'야?",
-   "choices": [
-    "응, shortlist 맞아",
-    "아니, shortlist 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, shortlist 아니야",
-   "why": "맞아, 아니야! shortlist는 스무 개 중에 가족회의에서 추려서 남긴 세 개 이름이거든. 지워진 열일곱 개는 빠진 쪽이니까 shortlist랑 정반대야."
-  },
-  {
-   "type": "choice",
-   "question": "선생님이 수학 경시대회 상을 정하려고 응모작 50개를 살펴봤어. 이 가운데 'shortlist'에 해당하는 건?",
-   "choices": [
-    "마지막 심사를 위해 골라 둔 작품 5개",
-    "처음 대회에 들어온 작품 50개 전부",
-    "심사가 끝나고 상을 받은 작품 1개",
-    "첫 심사에서 떨어진 작품 45개"
-   ],
-   "answer_index": 0,
-   "answer": "마지막 심사를 위해 골라 둔 작품 5개",
-   "why": "맞아! 50개 가운데 마지막 심사를 위해 5개만 골라 남겨 뒀잖아. 추려서 남겼지만 아직 상은 안 정해진 명단, 바로 그게 shortlist인 거야."
   }
  ],
  "synonyms": [],
@@ -83,6 +59,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/shortlist.webp",
   "alt": "수학여행 장소 후보 스무 곳을 세 곳으로 추리기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

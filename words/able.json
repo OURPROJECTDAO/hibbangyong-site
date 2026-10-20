@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/able/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/able/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/able/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "able",
  "slug": "able",
  "url": "https://hibbangyong.com/words/able/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, able이라고 할 수 없어",
    "why": "맞아! 선생님이 'unable'이라고 적었잖아. 그건 '할 수 없다'는 뜻이라서, 도윤이를 보고 'able(할 수 있는)'이라고 하면 안 되는 거야. 정반대니까!"
-  },
-  {
-   "type": "choice",
-   "question": "친구 넷이 수영장에 있어. 이 중에서 수영을 'able to' 하는 친구는 누구일까?",
-   "choices": [
-    "수영이 서툴러도 혼자 힘으로 물을 건너는 친구",
-    "수영을 잘하고 싶어서 매일 연습만 하는 친구",
-    "물이 무서워서 아직 혼자선 못 가는 친구",
-    "수영장에 들어가도 된다고 허락받은 친구"
-   ],
-   "answer_index": 0,
-   "answer": "수영이 서툴러도 혼자 힘으로 물을 건너는 친구",
-   "why": "맞아! 잘하든 못하든 상관없어. 서툴러도 혼자 힘으로 물을 건너 끝까지 해냈잖아. 그렇게 그걸 해낼 수 있으면 바로 able인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "은지는 피아노를 칠 줄 알아. 그런데 지금은 손도 안 씻고 악보도 안 펴서 칠 채비가 하나도 안 됐어. 이런 은지를 'able'이라고 할 수 있어?",
-   "choices": [
-    "응, 'able'이라고 할 수 있어",
-    "아니, 'able'은 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, 'able'이라고 할 수 있어",
-   "why": "맞아! 은지는 피아노를 칠 줄 알잖아. 손을 안 씻었어도, 악보를 안 폈어도, 칠 줄 아는 그 힘은 그대로 있는 거거든. 그러니까 able 맞아!"
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/able.webp",
   "alt": "손을 뻗어 선반 위 컵을 잡아내는 한 장면 — 그걸 해낼 수 있음.",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

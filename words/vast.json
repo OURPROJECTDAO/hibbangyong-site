@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/vast/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/vast/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/vast/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "vast",
  "slug": "vast",
  "url": "https://hibbangyong.com/words/vast/",
@@ -43,32 +43,6 @@
    "answer_index": 1,
    "answer": "아니, vast 아니야",
    "why": "맞아! 딱 보자마자 세 알이라고 세어지잖아. 세다가 포기하게 되는 게 아니니까 vast가 아닌 거야. vast는 끝이 어딘지 가늠도 안 될 때 쓰거든."
-  },
-  {
-   "type": "choice",
-   "question": "동네 아이 넷이 각자 오늘 본 걸 하나씩 말했어. 이 중 'vast'라고 부를 만한 건 누구 이야기일까?",
-   "choices": [
-    "비행기 창밖으로 구름 아래를 봤는데, 아무리 봐도 숲이 어디까지 이어지는지 안 보여",
-    "우체통을 열었더니 편지 세 통이 나란히 들어 있었어",
-    "자전거 바퀴에 바람을 넣었더니 팽팽해졌어",
-    "시계 초침이 한 바퀴를 다 돌아서 제자리로 왔어"
-   ],
-   "answer_index": 0,
-   "answer": "비행기 창밖으로 구름 아래를 봤는데, 아무리 봐도 숲이 어디까지 이어지는지 안 보여",
-   "why": "맞아! 아무리 봐도 숲이 어디서 끝나는지 안 보였잖아. 끝이 어딘지 가늠도 안 되는 것, 바로 그게 vast인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "친구 넷이 각자 본 걸 하나씩 말했어. 이 중에서 'vast'라고 부르기에 가장 알맞은 건 누구 이야기일까?",
-   "choices": [
-    "사막에 들어서서 몇 시간을 달렸는데 아직도 사방이 모래뿐이야",
-    "코끼리 한 마리가 우리 집 대문보다도 덩치가 더 커",
-    "학교 운동장은 끝에서 끝까지 백 걸음쯤 걸으면 다 가",
-    "주머니를 뒤졌더니 사탕 두 개가 들어 있었어"
-   ],
-   "answer_index": 0,
-   "answer": "사막에 들어서서 몇 시간을 달렸는데 아직도 사방이 모래뿐이야",
-   "why": "맞아! 몇 시간을 달렸는데도 아직 모래가 안 끝난 거잖아. 어디가 끝인지 가늠도 안 되는 그 느낌, 그게 바로 vast인 거야."
   }
  ],
  "synonyms": [
@@ -91,6 +65,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/vast.webp",
   "alt": "바닷가에 서서 끝이 안 보이는 물을 바라보는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

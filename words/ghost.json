@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/ghost/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/ghost/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/ghost/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "ghost",
  "slug": "ghost",
  "url": "https://hibbangyong.com/words/ghost/",
@@ -45,32 +45,6 @@
    "answer_index": 0,
    "answer": "다락방 계단에서 죽은 할아버지가 나타나 손을 뻗으면 그냥 지나가는 것",
    "why": "맞아! 죽은 할아버지가 나타났는데 손을 뻗으면 그냥 쑥 지나가 버리잖아. 몸이 없어서 잡히지 않는 것, 그게 바로 ghost인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "놀이터 이야기에 네 가지가 나와. 이 중에서 'ghost'인 건 어느 것일까?",
-   "choices": [
-    "미끄럼틀 옆에 죽은 아이가 나타나 손을 뻗으면 쑥 통과하는 것",
-    "모래밭에 꽂혀 있는 빨간 플라스틱 삽",
-    "그네 줄을 잡고 발을 굴러 앞뒤로 흔드는 일",
-    "벤치 등받이에 붙은 하얀 번호표 12"
-   ],
-   "answer_index": 0,
-   "answer": "미끄럼틀 옆에 죽은 아이가 나타나 손을 뻗으면 쑥 통과하는 것",
-   "why": "맞아! 죽은 아이가 나타났는데 손이 쑥 통과해 버렸잖아. 붙잡을 몸이 없다는 거, 그게 바로 ghost인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "이야기 속에 네 가지가 나왔어. 이 중에서 'ghost'라고 부를 수 있는 건 어느 것일까?",
-   "choices": [
-    "죽어서 몸이 없어졌는데, 벽을 스윽 통과하고 손을 뻗어도 안 잡히는 것",
-    "몸이 크고 털이 북슬북슬해서, 만지면 손에 딱 잡히는 무서운 괴물",
-    "밥 먹고 학교 가고 뛰어노는, 옆집에 사는 사람",
-    "하얀 뼈가 덜그럭덜그럭, 만지면 딱딱하게 잡히는 것"
-   ],
-   "answer_index": 0,
-   "answer": "죽어서 몸이 없어졌는데, 벽을 스윽 통과하고 손을 뻗어도 안 잡히는 것",
-   "why": "맞아! 죽어서 몸이 없어졌으니까 벽도 스윽 통과하고, 손을 뻗어도 잡히는 게 없잖아. 잡히지 않는다는 게 바로 ghost인 거야."
   }
  ],
  "synonyms": [],
@@ -84,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/ghost.webp",
   "alt": "밤에 하얗고 흐릿한 게 공중에 떠다니고 손이 쑥 지나가는 앵커 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

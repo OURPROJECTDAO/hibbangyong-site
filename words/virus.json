@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/virus/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/virus/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/virus/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "virus",
  "slug": "virus",
  "url": "https://hibbangyong.com/words/virus/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, virus 아니야",
    "why": "맞아! 신발에 쓸려서 까진 건 그냥 다친 거잖아. 안에서 하나가 둘로 자꾸 불어나지도 않고, 옆 사람한테 옮겨 가지도 않아. 그래서 virus가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "어린이집에서 한 아이가 눈병에 걸렸는데, 며칠 뒤 같은 반 아이 다섯 명 눈이 똑같이 빨개졌어. 이게 'virus'야?",
-   "choices": [
-    "응, virus 맞아",
-    "아니, virus 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, virus 맞아",
-   "why": "맞아! 한 아이한테서 눈에 안 보이는 게 옆으로 옆으로 옮아 가서 다섯 명이나 똑같이 빨개진 거잖아. 하나가 여럿한테 퍼지는 거, 그게 바로 virus인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 어제 있었던 일을 말했어. 이 중에서 'virus' 때문에 생긴 일은 누구 걸까?",
-   "choices": [
-    "옆자리 친구가 콜록거린 다음 날부터 나도 콧물 나고 열이 났어",
-    "계단에서 발이 미끄러져서 무릎이 까지고 피가 났어",
-    "초콜릿을 한 통 다 먹었더니 배가 아파서 화장실에 갔어",
-    "창문을 열어 놓고 잤더니 몸이 으슬으슬 떨렸어"
-   ],
-   "answer_index": 0,
-   "answer": "옆자리 친구가 콜록거린 다음 날부터 나도 콧물 나고 열이 났어",
-   "why": "맞아! 옆에서 콜록한 다음 날 너한테 똑같이 콧물이랑 열이 났잖아. 옆 사람한테서 옮아 들어와서 네 몸속에서 자꾸 불어난 거, 그게 바로 virus인 거야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/virus.webp",
   "alt": "감기 걸린 친구가 콜록 하고 옆 사람 몸에 작은 것이 들어가 불어나는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/presence/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/presence/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/presence/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "presence",
  "slug": "presence",
  "url": "https://hibbangyong.com/words/presence/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, presence 맞아",
    "why": "맞아! 어항 속에 금붕어 세 마리가 진짜로 거기 있잖아. 물고기든 사람이든 물건이든 그 자리에 와 있으면 그게 바로 presence인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "필통을 열었더니 연필도 지우개도 하나도 없이 속이 텅 비어 있어. 이렇게 텅 빈 모습, 이게 'presence'야?",
-   "choices": [
-    "응, presence 맞아",
-    "아니, presence 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, presence 아니야",
-   "why": "잘 골랐어! 필통 속에 연필도 지우개도 하나도 없이 텅 비어 있잖아. presence는 거기 무언가가 있는 거라서, 이렇게 텅 빈 모습은 presence가 아니야."
-  },
-  {
-   "type": "ox",
-   "question": "캠핑 간 날 밤, 텐트 안에 모기 한 마리가 들어와 앵앵거려서 모두 짜증이 났어. 텐트 안에 모기가 있는 이런 경우도 'presence'야?",
-   "choices": [
-    "응, presence 맞아",
-    "아니, presence 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, presence 맞아",
-   "why": "맞아! 모기가 텐트 안에 들어와서 바로 거기 있잖아. 반가운 게 아니어도, 짜증 나는 모기여도 거기 있으면 그게 presence인 거야."
   }
  ],
  "synonyms": [],
@@ -91,6 +69,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/presence.webp",
   "alt": "빈 방에 누가 숨어 있는 느낌",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

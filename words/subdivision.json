@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/subdivision/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/subdivision/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/subdivision/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "subdivision",
  "slug": "subdivision",
  "url": "https://hibbangyong.com/words/subdivision/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, subdivision 맞아",
    "why": "맞아! 민지는 서랍을 먼저 양말 칸이랑 속옷 칸으로 나눴고, 그 양말 칸 안을 또 나눠서 겨울 양말 칸이 생긴 거잖아. 이미 나눠 놓은 걸 한 번 더 나눠서 생긴 칸이니까 바로 subdivision인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "준호는 휴대폰에 '여행' 사진 앨범과 '가족' 사진 앨범을 따로 갖고 있었어. 그런데 두 앨범을 합쳐서 '2025년'이라는 큰 앨범 하나로 만들었어. 이 '2025년' 앨범은 'subdivision'일까?",
-   "choices": [
-    "응, subdivision 맞아",
-    "아니, subdivision 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, subdivision 아니야",
-   "why": "맞아! 준호는 '여행' 앨범이랑 '가족' 앨범을 합쳐서 '2025년' 앨범 하나로 더 크게 만들었잖아. subdivision은 나눠 놓은 걸 또 쪼개서 더 작은 칸을 만드는 거라, 합쳐서 크게 만든 이 앨범은 방향이 딱 반대야."
-  },
-  {
-   "type": "choice",
-   "question": "아래 짝 (A → B) 중에서 B를 A의 'subdivision'이라고 부를 수 있는 건?",
-   "choices": [
-    "우리 반 → 그 반 안의 한 모둠",
-    "한 모둠 → 그 모둠이 속한 반",
-    "1반 → 바로 옆에 있는 2반",
-    "두 모둠 → 둘을 합쳐 만든 큰 조"
-   ],
-   "answer_index": 0,
-   "answer": "우리 반 → 그 반 안의 한 모둠",
-   "why": "맞아! 모둠은 우리 반을 안에서 한 번 더 작게 나눈 칸이라서, 바로 그게 반의 subdivision인 거야."
   }
  ],
  "synonyms": [
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/subdivision.webp",
   "alt": "도서관 책을 과학·역사·소설로 나누고 과학 칸을 다시 쪼갬",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

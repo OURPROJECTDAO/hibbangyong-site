@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/dash/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/dash/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/dash/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "dash",
  "slug": "dash",
  "url": "https://hibbangyong.com/words/dash/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, dash 맞아",
    "why": "맞아! 호루라기 소리 나자마자 몇 초 만에 확 튀어 나갔잖아. 갑자기, 짧게, 온 힘을 다해 달린 거니까 바로 그게 dash인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "할아버지가 강아지 목줄을 잡고 저녁 내내 강변길을 같은 속도로 천천히 걸으셨어. 이게 'dash'야?",
-   "choices": [
-    "응, dash 맞아",
-    "아니, dash 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, dash 아니야",
-   "why": "맞아! 저녁 내내 같은 속도로 천천히 걸은 거잖아. 갑자기도 아니고 짧지도 않고 빠르지도 않으니까 dash가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 사람이 어떻게 움직였는지 말했어. 이 중에서 'dash'라고 부를 수 있는 건 누구일까?",
-   "choices": [
-    "소나기가 쏟아지자 처마 밑으로 갑자기 확 뛰어간 아이",
-    "공원을 한 시간 내내 천천히 조깅하며 돈 아저씨",
-    "따뜻한 벤치에 가만히 앉아 쉬고 있는 할머니",
-    "골목길을 어슬렁어슬렁 느리게 걸어간 형아"
-   ],
-   "answer_index": 0,
-   "answer": "소나기가 쏟아지자 처마 밑으로 갑자기 확 뛰어간 아이",
-   "why": "맞아! 소나기가 쏟아지니까 갑자기 확, 처마 밑까지 짧게 튀어 나갔잖아. 그 갑작스럽고 짧은 달림이 바로 dash인 거야."
   }
  ],
  "synonyms": [
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/dash.webp",
   "alt": "버스를 놓칠까 봐 정류장으로 갑자기 확 뛰어감",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

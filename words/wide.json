@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/wide/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/wide/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/wide/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "wide",
  "slug": "wide",
  "url": "https://hibbangyong.com/words/wide/",
@@ -45,32 +45,6 @@
    "answer_index": 0,
    "answer": "차 네 대가 양옆으로 나란히 달릴 만큼 폭이 쫙 벌어진 큰길",
    "why": "맞아! 차 네 대가 양옆으로 나란히 달릴 만큼 옆으로 쫙 벌어졌잖아. 위로가 아니라 한쪽에서 반대쪽까지 옆으로 멀~게 벌어진 거, 그게 바로 wide야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 중 'wide'에 해당하는(맞는) 것은?",
-   "choices": [
-    "어른 셋이 어깨를 나란히 하고 한꺼번에 드나드는, 양옆으로 활짝 벌어진 대문",
-    "한 사람이 몸을 옆으로 틀어야 겨우 빠져나가는, 양옆이 바짝 붙은 대문",
-    "손이 닿지 않게 천장 가까이 높이 매달린 선반",
-    "끝까지 걸어가는 데 한참 걸리는, 길게 뻗은 복도"
-   ],
-   "answer_index": 0,
-   "answer": "어른 셋이 어깨를 나란히 하고 한꺼번에 드나드는, 양옆으로 활짝 벌어진 대문",
-   "why": "맞아! 어른 셋이 어깨를 나란히 하고 한꺼번에 드나들 만큼 양옆으로 활짝 벌어졌잖아. 한쪽 끝에서 반대쪽 끝까지가 옆으로 쫙 머니까 바로 그게 wide인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "엄마가 강을 가리키며 '저 강은 정말 wide하네'라고 했어. 엄마가 본 강은 어떤 강일까?",
-   "choices": [
-    "이쪽 강가에서 저쪽 강가까지가 멀어서 아주 긴 다리를 놓아야 건너는 강",
-    "굽이굽이 한참을 흘러 끝까지 가 닿는 데 오래 걸리는 강",
-    "바닥이 안 보일 만큼 아래로 푹 꺼져 깊게 파인 강",
-    "양쪽 강가가 바짝 붙어서 한 걸음에 폴짝 건너뛰는 강"
-   ],
-   "answer_index": 0,
-   "answer": "이쪽 강가에서 저쪽 강가까지가 멀어서 아주 긴 다리를 놓아야 건너는 강",
-   "why": "맞아! 이쪽 강가에서 저쪽 강가까지가 멀어서 아주 긴 다리를 놓아야 하잖아. 옆으로 건너가는 길이 이렇게 먼 강이 바로 wide한 강인 거야."
   }
  ],
  "synonyms": [],
@@ -89,6 +63,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/wide.webp",
   "alt": "강가에서 이쪽 끝~저쪽 끝까지 옆으로 멀게 벌어진 폭을 봄.",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/evolution/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/evolution/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/evolution/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "evolution",
  "slug": "evolution",
  "url": "https://hibbangyong.com/words/evolution/",
@@ -45,28 +45,6 @@
    "answer_index": 0,
    "answer": "깜깜한 굴에 사는 벌레들이 대대로 조금씩 색이 옅어져서 이제는 하얘.",
    "why": "맞아! 대대로 조금씩, 아주 오랜 세월에 걸쳐 색이 옅어져 하얘진 거잖아. 여러 대를 거치면서 천천히 쌓인 그 흐름, 그게 바로 evolution인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "어떤 나방들은 대를 이어 가는 동안 날개 무늬가 줄무늬에서 점무늬로 바뀌었어. 더 잘 날게 되지도, 더 튼튼해지지도 않았고 무늬만 달라졌어. 이런 것도 'evolution'이야?",
-   "choices": [
-    "응, evolution 맞아",
-    "아니, evolution 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, evolution 맞아",
-   "why": "맞아! 더 잘 날게 된 것도 아니고 튼튼해진 것도 아니지만, 대를 이어 가면서 조금씩 무늬가 달라졌잖아. 좋아지든 잃든 그렇게 오래오래 바뀌어 온 흐름 자체가 바로 그거거든."
-  },
-  {
-   "type": "ox",
-   "question": "애벌레 한 마리가 몇 주 만에 번데기가 됐다가 나비로 바뀌었어. 몸 모양이 완전히 달라졌지. 그런데 대를 이어 바뀐 게 아니라 한 마리가 제 한살이 동안 바뀐 거야. 이런 것도 'evolution'이야?",
-   "choices": [
-    "응, evolution 맞아.",
-    "아니, evolution 아니야."
-   ],
-   "answer_index": 1,
-   "answer": "아니, evolution 아니야.",
-   "why": "맞아! 애벌레가 번데기를 거쳐 나비가 된 건 한 마리가 제 한살이 동안 몇 주 만에 바뀐 거거든. evolution은 엄마에서 아기로, 또 그 아기의 아기로 아주 오랜 세월 이어지면서 조금씩 바뀌는 거라서, 이건 evolution이 아닌 거야."
   }
  ],
  "synonyms": [],
@@ -93,6 +71,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/evolution.webp",
   "alt": "깜깜한 동굴 물고기의 눈이 대대로 조금씩 작아지다 사라진 일",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

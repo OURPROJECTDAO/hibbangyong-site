@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/author/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/author/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/author/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "author",
  "slug": "author",
  "url": "https://hibbangyong.com/words/author/",
@@ -45,32 +45,6 @@
    "answer_index": 1,
    "answer": "이야기를 머릿속에서 처음 지어내 글로 쓴 사람",
    "why": "맞아! 이야기를 머릿속에서 처음 지어내 글로 쓴 사람, 바로 그 사람이 author거든. 이야기의 진짜 주인이 딱 그 사람인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "어떤 동화책 한 권을 두고 네 사람이 각자 다른 일을 해. 이 중 'author'에 해당하는 사람은 누구일까?",
-   "choices": [
-    "다 나온 그 책을 빌려다 읽기만 하는 사람",
-    "그 책을 상자에 담아 다른 도시로 나르는 사람",
-    "그 이야기를 머릿속에서 처음 지어내 글로 쓴 사람",
-    "그 책값을 계산대에서 받고 봉투에 담아 주는 사람"
-   ],
-   "answer_index": 2,
-   "answer": "그 이야기를 머릿속에서 처음 지어내 글로 쓴 사람",
-   "why": "맞아! 그 이야기를 머릿속에서 처음 지어내 글로 쓴 사람이 진짜 주인이거든. 그렇게 이야기를 처음 만든 사람, 그게 바로 author야."
-  },
-  {
-   "type": "choice",
-   "question": "네 사람이 그림책 한 권을 만드는 걸 같이 도왔어. 이 책의 'author'는 누구일까?",
-   "choices": [
-    "이야기를 머릿속에서 지어내 글로 쓴 사람",
-    "이야기에 맞춰 그림을 그려 넣은 사람",
-    "책 표지를 색색으로 예쁘게 꾸민 사람",
-    "다 만든 책을 서점에서 손님에게 판 사람"
-   ],
-   "answer_index": 0,
-   "answer": "이야기를 머릿속에서 지어내 글로 쓴 사람",
-   "why": "맞아! 이야기를 머릿속에서 딱 지어내 글로 쓴 사람, 그 사람이 바로 이 책의 진짜 주인이거든. 그래서 그게 author인 거야."
   }
  ],
  "synonyms": [],
@@ -93,6 +67,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/author.webp",
   "alt": "좋아하는 이야기책을 누가 지어냈나 떠올리는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

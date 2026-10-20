@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/unit/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/unit/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/unit/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "unit",
  "slug": "unit",
  "url": "https://hibbangyong.com/words/unit/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, unit 맞아",
    "why": "맞아! 칸이 나뉘어 있어서 여기까지가 한 알이라고 딱 정해져 있잖아. 그래서 하나 둘 하고 끊어 셀 수 있는 그 한 알이 바로 unit인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "컵에 담긴 우유는 금도 칸도 없이 그냥 통으로 찰랑거려. 이 컵 속 우유 전체, 이게 'unit'이야?",
-   "choices": [
-    "응, unit 맞아",
-    "아니, unit 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, unit 아니야",
-   "why": "맞아! 이 우유는 금도 칸도 없이 통으로 이어져 있어서 여기까지가 하나라고 끊을 데가 없거든. 끊어서 셀 수 없으니까 unit이 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "영어책 차례에 '동물', '음식', '학교'가 적혀 있어. 이번 주에는 '동물'을 배운대. 그 '동물'도 'unit'이야?",
-   "choices": [
-    "응, 그것도 'unit'이야",
-    "아니, 그건 'unit'이 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, 그것도 'unit'이야",
-   "why": "맞아! 책 안에서 여기부터 여기까지가 '동물'이라고 딱 끊어 놓고 이번 주엔 이만큼 배우자고 정해 둔 거잖아. 그렇게 하나로 정해서 셀 수 있게 묶어 놓은 덩어리가 바로 unit인 거야."
   }
  ],
  "synonyms": [],
@@ -87,6 +65,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/unit.webp",
   "alt": "금이 그어져 한 칸씩 떼어 먹는 판초콜릿의 한 칸",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/sack/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/sack/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/sack/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "sack",
  "slug": "sack",
  "url": "https://hibbangyong.com/words/sack/",
@@ -41,19 +41,6 @@
    "answer_index": 0,
    "answer": "응, 맞아",
    "why": null
-  },
-  {
-   "type": "choice",
-   "question": "sack은 어느 것일까?",
-   "choices": [
-    "가지에 앉아 노래하는 작은 새",
-    "물속에서 헤엄치는 은빛 물고기",
-    "곡식을 담는 커다란 천 주머니",
-    "도로를 빠르게 달리는 자동차"
-   ],
-   "answer_index": 2,
-   "answer": "곡식을 담는 커다란 천 주머니",
-   "why": null
   }
  ],
  "synonyms": [
@@ -69,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/sack.webp",
   "alt": "입구를 끈으로 묶은 불룩한 갈색 삼베 자루 한 개(뜻: 곡물·감자를 담는 커다란 천 자루)를 단독으로 그림",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

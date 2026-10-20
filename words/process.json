@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/process/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/process/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/process/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "process",
  "slug": "process",
  "url": "https://hibbangyong.com/words/process/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, process 맞아",
    "why": "맞아! 엄마가 반죽하고, 기다려서 부풀리고, 오븐에 굽기까지 여러 일을 차례차례 거쳐서 빵이 된 거잖아. 그렇게 처음부터 끝까지 이어진 일 전부가 바로 process인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "친구랑 눈을 굴리고, 두 덩이를 쌓고, 당근 코를 붙여서 눈사람을 만들었어. 다 만들어져서 마당에 서 있는 그 눈사람, 이게 'process'야?",
-   "choices": [
-    "응, process 맞아",
-    "아니, process 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, process 아니야",
-   "why": "맞아! 마당에 서 있는 그 눈사람은 다 만들고 남은 눈사람 하나거든. process는 눈을 굴리고, 두 덩이를 쌓고, 당근 코를 붙이기까지 차례차례 이어진 그 일들 전체인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "가을이 되자 마당 나무의 잎이 몇 주 동안 초록에서 노랑, 빨강으로 조금씩 바뀌었어. 아무도 손대지 않았어. 이런 경우도 'process'야?",
-   "choices": [
-    "응, process 맞아",
-    "아니, process 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, process 맞아",
-   "why": "맞아! 아무도 손대지 않았어도, 잎이 몇 주 동안 초록에서 노랑, 빨강으로 조금씩 차례차례 바뀌었잖아. 누가 하지 않아도 이렇게 저절로 거쳐 가는 것도 process인 거야."
   }
  ],
  "synonyms": [],
@@ -94,6 +72,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/process.webp",
   "alt": "쌀을 씻고 끓이고 뜸 들여 밥이 되기까지",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

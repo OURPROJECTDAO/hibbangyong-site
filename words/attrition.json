@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/attrition/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/attrition/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/attrition/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "attrition",
  "slug": "attrition",
  "url": "https://hibbangyong.com/words/attrition/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, attrition 맞아",
    "why": "맞아! 200명이 몇 시간 동안 달리면서 지친 사람들이 한 명, 두 명씩 멈춰 서서 결승선엔 50명만 남았잖아. 시간이 가면서 사람 수가 조금씩 깎여 줄어든 거니까 바로 그게 attrition인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "동네 도서관에 처음엔 책이 500권뿐이었어. 몇 년 동안 주민들이 한두 권씩 계속 기증해서 지금은 책장마다 책이 3,000권 넘게 꽂혀 있어. 이렇게 책 수가 변한 걸 'attrition'이라고 할 수 있어?",
-   "choices": [
-    "응, attrition 맞아",
-    "아니, attrition 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, attrition 아니야",
-   "why": "맞아! 몇 년 동안 조금씩 변한 건 맞지만, 책이 500권에서 3,000권 넘게 늘어났잖아. attrition은 시간이 가면서 깎여 줄어드는 거라서 이 도서관이랑은 방향이 정반대야."
-  },
-  {
-   "type": "ox",
-   "question": "바둑을 두다가 한 수를 크게 잘못 둬서, 큰 돌 무리를 한 번에 잡히는 바람에 판이 확 기울었어. 이런 경우도 'attrition'이야?",
-   "choices": [
-    "응, attrition 맞아",
-    "아니, attrition 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, attrition 아니야",
-   "why": "맞아! 이건 한 수를 잘못 둬서 큰 돌 무리를 한 번에 잡힌 거라, 조금씩 깎여 줄어든 게 아니야. attrition은 시간이 가면서 천천히 닳아 줄어드는 거니까, 아니라고 본 게 맞아."
   }
  ],
  "synonyms": [],

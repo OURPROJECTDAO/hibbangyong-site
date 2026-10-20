@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/soul/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/soul/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/soul/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "soul",
  "slug": "soul",
  "url": "https://hibbangyong.com/words/soul/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, soul 아니야",
    "why": "맞아! 사진에 딱 찍히고 의사 선생님이 손으로 짚을 수 있는 건 몸이거든. soul은 눈에 안 보이고 사진에도 안 찍히는, 너를 너로 만드는 속 알맹이야. 그래서 뼈는 soul이 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "할머니가 그러셨어. \"내 손은 주름졌지만, 나를 나로 만드는 건 손이 아니라 눈에 안 보이는 다른 거란다.\" 할머니가 말한 그건 'soul'이야?",
-   "choices": [
-    "응, soul 맞아",
-    "아니, soul 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, soul 맞아",
-   "why": "맞아! 할머니 손은 주름졌어도 할머니를 할머니로 만드는 건 손이 아니라 눈에 안 보이는 다른 거라고 하셨잖아. 몸이 아니라 그 사람을 그 사람이게 하는 그 보이지 않는 것, 바로 그게 soul이야."
-  },
-  {
-   "type": "choice",
-   "question": "선생님이 네 가지 이야기를 들려줬어. 이 중에서 'soul'을 말하고 있는 이야기는 어느 거야?",
-   "choices": [
-    "몸은 땅에 묻혀도 그 할아버지다움은 어딘가 남는다고, 마을 사람들은 믿었대.",
-    "그 아이는 아침엔 신났다가 점심엔 시무룩해져서 하루에도 몇 번씩 오락가락했대.",
-    "밤중에 하얀 게 스윽 지나가서 아이들이 이불을 뒤집어쓰고 벌벌 떨었대.",
-    "달리기를 끝내니 다리가 후들거리고 땀이 줄줄 흘러서 그대로 주저앉았대."
-   ],
-   "answer_index": 0,
-   "answer": "몸은 땅에 묻혀도 그 할아버지다움은 어딘가 남는다고, 마을 사람들은 믿었대.",
-   "why": "맞아! 몸은 땅에 묻혔는데도 그 할아버지다움은 남아 있다고 했잖아. 눈에 안 보이는데 그 사람을 그 사람이게 하는 알맹이, 바로 그게 soul이야."
   }
  ],
  "synonyms": [
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/soul.webp",
   "alt": "아기 때 사진 속 얼굴과 지금 얼굴이 달라진 나",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/bit/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/bit/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/bit/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "bit",
  "slug": "bit",
  "url": "https://hibbangyong.com/words/bit/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, bit 맞아",
    "why": "맞아! 컵 바닥에 겨우 깔릴 만큼이면 진짜 쪼끔이잖아. 많이 말고 요만큼, 그게 딱 bit인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "과자 봉지를 뜯었어. 너는 봉지를 거꾸로 들고 안에 있던 과자를 하나도 안 남기고 전부 입에 털어 넣었어. 네가 먹은 양, 이게 'bit'야?",
-   "choices": [
-    "응, bit 맞아",
-    "아니, bit 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, bit 아니야",
-   "why": "맞아! 하나도 안 남기고 봉지째 다 털어 넣었으면 그건 통째로 전부거든. bit는 손톱만큼 쪼끔일 때 쓰는 말이니까, 이건 bit가 아닌 게 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "친구들이 케이크를 각자 얼마나 먹었는지 말했어. 'a bit' 먹었다고 할 수 있는 사람은 누구일까?",
-   "choices": [
-    "귀퉁이를 손톱만큼 아주 조금만 떼 먹은 지민",
-    "케이크를 절반이나 뚝 잘라 먹은 서준",
-    "접시에 있던 케이크를 하나도 남김없이 다 먹은 하윤",
-    "케이크는 손도 안 대고 구경만 한 도윤"
-   ],
-   "answer_index": 0,
-   "answer": "귀퉁이를 손톱만큼 아주 조금만 떼 먹은 지민",
-   "why": "맞아! 손톱만큼 아주 조금 떼 먹었으니까 딱 요만큼, 바로 그게 a bit야. 많이 말고 쪼끔 — 그 느낌 잘 잡았어."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/bit.webp",
   "alt": "통째 쿠키에서 손톱만큼만 떼어 먹고 싶은 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

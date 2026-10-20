@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/honour/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/honour/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/honour/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "honour",
  "slug": "honour",
  "url": "https://hibbangyong.com/words/honour/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, honour 맞아",
    "why": "맞아! 아무도 안 보고 있었는데도 남의 것을 그대로 갖다 드렸잖아. 남이 몰라도 내가 지켜낸 떳떳함, 그게 바로 honour인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "발표 시간에 형이 써준 글을 자기가 썼다고 읽었는데, 형이 교실 뒤에서 그걸 듣고 있다가 다 말해버렸어. 반 애들이 걔를 보는 눈이 확 달라졌어. 걔가 지금 얻은 게 'honour'야?",
-   "choices": [
-    "응, honour 맞아",
-    "아니, honour 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, honour 아니야",
-   "why": "맞아! 형이 써준 걸 자기가 썼다고 한 게 들통났잖아. 애들 눈이 확 달라진 건 우러러보는 마음이 식은 거거든. honour는 얻은 게 아니라 오히려 잃은 거야."
-  },
-  {
-   "type": "choice",
-   "question": "친구 네 명한테 요즘 있었던 일을 물어봤어. 이 중에서 'honour'를 얻은 사람은 누굴까?",
-   "choices": [
-    "애들이 걔라면 믿을 수 있다며 반장을 맡아 달라고 했어.",
-    "쉬는 시간마다 웃긴 춤을 춰서 애들이 걔 자리로 몰려들어.",
-    "뽑기 운이 좋아서 제일 큰 인형을 타 가지고 왔어.",
-    "키가 갑자기 훌쩍 커져서 애들이 다들 신기해했어."
-   ],
-   "answer_index": 0,
-   "answer": "애들이 걔라면 믿을 수 있다며 반장을 맡아 달라고 했어.",
-   "why": "맞아! 애들이 걔라면 믿을 수 있다고 해서 맡긴 자리잖아. 그렇게 우러러보는 마음으로 맡겨주는 게 바로 honour인 거야."
   }
  ],
  "synonyms": [
@@ -98,6 +74,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/honour.webp",
   "alt": "몰래 먼저 출발해 1등 했지만 애들 눈빛이 식은 달리기 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/terrace/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/terrace/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/terrace/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "terrace",
  "slug": "terrace",
  "url": "https://hibbangyong.com/words/terrace/",
@@ -42,30 +42,6 @@
    "answer_index": 0,
    "answer": "응, terrace 맞아",
    "why": "맞아! 할머니가 언덕을 깎아서 넓고 평평한 바닥 한 층을 만들었고, 그 위에 서서 고추를 땄잖아. 언덕을 깎아 만든 넓고 평평한 바닥 한 층, 바로 그게 terrace인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "눈썰매장 언덕은 아무것도 안 깎아서 위에서 아래까지 쭉 기울어져 있어. 그래서 썰매가 주르륵 내려가. 이게 'terrace'야?",
-   "choices": [
-    "응, terrace 맞아",
-    "아니, terrace 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, terrace 아니야",
-   "why": "맞아! 눈썰매장 언덕은 아무것도 안 깎아서 위에서 아래까지 쭉 기울어져 있잖아. 평평한 층이 하나도 없으니까 terrace가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "민수네 아빠가 주말에 뒷마당을 손봐서 'terrace'를 만들었대. 마당이 어떻게 바뀐 걸까?",
-   "choices": [
-    "흙을 더 부어 한쪽으로 더 기울여서, 비가 오면 물이 주르륵 흘러내리게 했어",
-    "담을 따라 발 하나 겨우 딛는 좁은 단을 여러 개 이어 붙여서, 위로 걸어 오르게 했어",
-    "기울어진 땅을 깎아 한 단을 넓고 평평하게 골라서, 그 위에 상을 펴고 앉게 했어",
-    "네 둘레에 벽을 세우고 위를 지붕으로 덮어서, 안쪽에 작은 방 하나를 들였어"
-   ],
-   "answer_index": 2,
-   "answer": "기울어진 땅을 깎아 한 단을 넓고 평평하게 골라서, 그 위에 상을 펴고 앉게 했어",
-   "why": "맞아! 기울어진 땅을 깎아서 넓고 평평한 바닥을 한 층 만들었잖아. 그 위에 상을 펴고 앉을 수 있을 만큼 넓고 평평한 바깥 바닥, 바로 그게 terrace인 거야."
   }
  ],
  "synonyms": [
@@ -81,6 +57,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/terrace.webp",
   "alt": "비탈을 층층이 깎아 평평하게 만들어 놓은 산비탈 자리",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

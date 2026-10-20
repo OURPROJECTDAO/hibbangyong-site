@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/conjecture/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/conjecture/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/conjecture/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "conjecture",
  "slug": "conjecture",
  "url": "https://hibbangyong.com/words/conjecture/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, conjecture 맞아",
    "why": "맞아! 아직 아무도 민수한테 물어보지 않았고 우산에 이름표도 없잖아. 확인도 안 해 보고 \"아마 민수 우산일 거야\" 하고 세운 생각이니까 이게 바로 conjecture야."
-  },
-  {
-   "type": "ox",
-   "question": "내 책가방 무게가 궁금해서 체중계에 가방만 올려 재 봤어. 눈금이 정확히 3킬로그램을 가리켰고, 두 번 더 재도 똑같이 3킬로그램이었어. '내 가방은 3킬로그램이다'라는 이 내용은 'conjecture'일까?",
-   "choices": [
-    "응, conjecture 맞아",
-    "아니, conjecture 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, conjecture 아니야",
-   "why": "맞아! 가방을 체중계에 직접 올려서 세 번이나 쟀는데 다 3킬로그램이었잖아. 이렇게 확인까지 끝난 사실은 '아마 이럴 거야' 하는 짐작이 아니라서 conjecture가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "학교 앞 분식집에 요즘 손님이 없는 걸 보고 친구가 '저 가게 곧 문 닫을 것 같아'라고 했어. 친구는 이걸 알아보거나 확인해 볼 생각은 전혀 없고 그냥 말만 한 거야. 이런 것도 'conjecture'라고 할 수 있어?",
-   "choices": [
-    "응, conjecture 맞아",
-    "아니, conjecture 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, conjecture 맞아",
-   "why": "맞아! 손님이 없는 걸 보고 친구가 확인도 안 해 보고 곧 문 닫을 것 같다고 말한 거잖아. 증거 없이 아마 이럴 거라고 짐작한 거니까 바로 그게 conjecture인 거야."
   }
  ],
  "synonyms": [
@@ -87,6 +65,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/conjecture.webp",
   "alt": "교실 화분이 시든 이유를 두고 '물을 너무 줘서'라고 짐작하는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

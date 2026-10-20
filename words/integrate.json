@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/integrate/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/integrate/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/integrate/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "integrate",
  "slug": "integrate",
  "url": "https://hibbangyong.com/words/integrate/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, integrate 맞아",
    "why": "맞아! 전조등이 전선으로 발전기랑 이어져서, 페달을 밟으면 같이 켜지잖아. 그냥 얹어만 둔 게 아니라 자전거랑 맞물려 같이 굴러가니까 바로 그게 integrate인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "동생이 우리 합주단에 큰북을 하나 들여와서 무대 한쪽에 세워 뒀어. 다 같이 연주하는 동안 그 북은 한 번도 소리를 내지 않아. 이런 경우도 'integrate'야?",
-   "choices": [
-    "응, integrate 맞아",
-    "아니, integrate 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, integrate 아니야",
-   "why": "맞아! 큰북이 무대에 놓여 있기만 하고 다른 악기들이랑 박자를 맞춰 같이 연주하질 않잖아. 자리만 차지하고 있는 거라서 integrate가 아닌 게 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "교실 시계가 종소리랑 같이 맞춰 돌아갔는데, 선생님이 그 시계를 벽에서 떼서 사물함 위에 올려놨어. 이제 종소리랑 상관없이 저 혼자 간대. 이건 교실에 'integrate' 한 거야?",
-   "choices": [
-    "응, integrate 맞아",
-    "아니, integrate 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, integrate 아니야",
-   "why": "맞아, 이건 integrate가 아니야! 벽에 걸려서 종소리랑 짝짝 맞춰 돌던 시계를 떼어 놨잖아. 이제 저 혼자 따로 가니까, 교실이랑 같이 굴러가는 게 아니라 오히려 떨어져 나온 거야."
   }
  ],
  "synonyms": [],
@@ -98,6 +76,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/integrate.webp",
   "alt": "블록 로봇에 얹어만 둔 새 팔이 선을 잇자 다른 팔들과 같이 움직이는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/chronology/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/chronology/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/chronology/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "chronology",
  "slug": "chronology",
  "url": "https://hibbangyong.com/words/chronology/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, chronology 맞아",
    "why": "맞아! 민지는 사진을 찍은 날짜가 빠른 것부터 차례대로 꽂았잖아. 찍은 날짜, 그러니까 여행에서 그 일이 언제 있었는지를 기준으로 줄 세운 거니까 바로 chronology야."
-  },
-  {
-   "type": "ox",
-   "question": "도서부 준호가 이번 학기에 새로 들어온 책들을 들어온 날짜는 상관없이 빨간 표지, 파란 표지처럼 표지 색깔끼리 모아 책장에 꽂았어. 이 책장에 책이 꽂힌 차례는 'chronology'일까?",
-   "choices": [
-    "응, chronology 맞아",
-    "아니, chronology 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, chronology 아니야",
-   "why": "맞아! 준호는 책이 들어온 날짜는 신경 안 쓰고 표지 색깔끼리만 모았잖아. chronology는 언제 들어왔나로 줄 세우는 거라서, 색깔로 묶은 이 책장은 chronology가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "지난주 교실에서 휴대폰이 없어졌어. 선생님이 반 애들 말을 다 듣고 그날의 'chronology'를 정리했대. 선생님이 만든 건 어떤 거였을까?",
-   "choices": [
-    "그날 생긴 일을 먼저 일어난 것부터 차례로 적은 목록",
-    "그날 교실에 있던 애들 이름을 가나다 차례로 적은 목록",
-    "그날 애들이 한 말을 중요한 것부터 차례로 적은 목록",
-    "그날 의심 가는 애들을 의심 많은 쪽부터 차례로 적은 목록"
-   ],
-   "answer_index": 0,
-   "answer": "그날 생긴 일을 먼저 일어난 것부터 차례로 적은 목록",
-   "why": "맞아! 휴대폰이 없어진 그날 일을 먼저 일어난 것부터 차례로 적었으니까, 바로 그게 chronology인 거야. 언제 일어났나를 기준으로 세운 목록이라서 맞아."
   }
  ],
  "synonyms": [],
@@ -93,6 +69,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/chronology.webp",
   "alt": "체육대회 뒤 반 다툼에서 누가 먼저 뭘 했는지 정리하기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

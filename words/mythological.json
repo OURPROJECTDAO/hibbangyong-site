@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/mythological/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/mythological/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/mythological/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "mythological",
  "slug": "mythological",
  "url": "https://hibbangyong.com/words/mythological/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, mythological 맞아",
    "why": "맞아! 히드라는 그리스 신화에 나오는 괴물이라서 mythological이야. 머리가 아홉 개라 무섭게 생겼냐가 기준이 아니라, 옛날 신과 영웅 이야기 속에 나오느냐가 기준이거든."
-  },
-  {
-   "type": "ox",
-   "question": "박물관에서 전시물 하나를 봤어. 세종 대왕 때 만들어서 비가 얼마나 왔는지 실제로 쟀던 측우기야. 이 측우기는 'mythological' 물건이야?",
-   "choices": [
-    "응, mythological 맞아",
-    "아니, mythological 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, mythological 아니야",
-   "why": "맞아! 측우기는 세종 대왕 때 진짜로 만들어서 비가 얼마나 왔는지 실제로 쟀던 물건이잖아. 신이나 영웅 이야기에 나오는 게 아니라 실제 역사에 있었던 물건이라서 mythological이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "친구 넷이 각자 본 걸 말했어. 'mythological'이라고 부를 수 있는 건?",
-   "choices": [
-    "작가가 새로 지어낸 소설 속 마법 학교",
-    "조선 시대 실제 전쟁을 적은 역사책",
-    "옛날 신들의 싸움을 그린 미술관 그림",
-    "전교에서 모르는 애가 없는 유명한 선배"
-   ],
-   "answer_index": 2,
-   "answer": "옛날 신들의 싸움을 그린 미술관 그림",
-   "why": "맞아! 그 그림은 옛날 신들의 싸움, 그러니까 신화 이야기를 그린 거라서 mythological이야. 신화에 나오는 존재뿐 아니라 신화를 다룬 그림도 신화 세계에 속하거든."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/mythological.webp",
   "alt": "그리스 로마 신화 속 제우스·메두사·페가수스",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

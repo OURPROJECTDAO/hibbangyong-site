@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/self-worth/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/self-worth/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/self-worth/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "self-worth",
  "slug": "self-worth",
  "url": "https://hibbangyong.com/words/self-worth/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, self-worth 맞아",
    "why": "맞아! 예린이는 달리기를 못한다는 건 인정하면서도, 그래도 난 사랑받을 만한 사람이라고 느끼잖아. 잘하든 못하든 내가 소중한 사람이라고 느끼는 그 마음이 바로 self-worth야."
-  },
-  {
-   "type": "ox",
-   "question": "태민이는 반에서 달리기가 제일 느려서 체육 시간마다 꼴찌야. 다음 달리기도 잘할 자신은 전혀 없대. 그래도 태민이는 '달리기가 느려도 나는 나라서 괜찮아'라고 여기면서 지내. 태민이의 'self-worth'는 높은 편이야?",
-   "choices": [
-    "응, 높은 편이야",
-    "아니, 높은 편 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, 높은 편이야",
-   "why": "맞아! 태민이는 달리기가 반에서 제일 느리고 다음에 잘할 자신도 없지만, '달리기가 느려도 나는 나라서 괜찮아'라고 여기잖아. 잘하든 못하든 자기를 괜찮은 사람으로 보는 거니까 self-worth는 높은 거야."
-  },
-  {
-   "type": "ox",
-   "question": "수영을 배운 지 석 달 된 준호가 대회 전날 '난 이번엔 50m를 끝까지 헤엄칠 수 있어'라고 굳게 믿고 있어. 준호의 이 믿음도 'self-worth'야?",
-   "choices": [
-    "응, self-worth 맞아",
-    "아니, self-worth 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, self-worth 아니야",
-   "why": "맞아! 준호가 믿는 건 50m를 끝까지 헤엄칠 수 있다는 거잖아. 그건 해낼 수 있다는 자신감(이건 confidence야)이지, 준호가 자기를 소중한 사람으로 느끼는 마음은 아니야."
   }
  ],
  "synonyms": [
@@ -91,6 +69,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/self-worth.webp",
   "alt": "시험을 망치고 자신이 쓸모없다고 느끼는 학생",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

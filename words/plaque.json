@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/plaque/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/plaque/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/plaque/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "plaque",
  "slug": "plaque",
  "url": "https://hibbangyong.com/words/plaque/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, plaque 맞아",
    "why": "맞아! 할머니 이름이랑 완공된 날짜를 새겨서 입구 벽에 박아 둔 납작한 청동 판이잖아. 누군가를 기념하려고 글씨를 새긴 단단한 판이니까 바로 그게 plaque야."
-  },
-  {
-   "type": "ox",
-   "question": "시청 앞 광장 한가운데에 옛날 장군 한 분을 기념하려고 말을 탄 모습의 커다란 청동 동상이 높이 세워져 있어. 이 동상을 'plaque'라고 부를까?",
-   "choices": [
-    "응, plaque 맞아",
-    "아니, plaque 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, plaque 아니야",
-   "why": "맞아! 이 청동 동상도 장군을 기념하려고 세운 건 맞지만, 말을 탄 모습 그대로 높이 서 있는 거라서 납작한 판이 아니잖아. plaque는 글씨를 새겨서 벽에 붙이거나 상으로 주는 납작한 판이라서 이 동상은 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "우리 학교 현관에 네 가지가 있어. 이 중에서 'plaque'라고 부를 만한 건 뭘까?",
-   "choices": [
-    "층마다 교실 이름이 새겨진 금속 안내판",
-    "학교가 처음 문 연 날짜가 새겨진 금속판",
-    "학교를 세운 분 얼굴을 본떠 만든 돌 동상",
-    "학교가 처음 문 연 날짜가 적힌 종이 포스터"
-   ],
-   "answer_index": 1,
-   "answer": "학교가 처음 문 연 날짜가 새겨진 금속판",
-   "why": "맞아! 학교가 처음 문 연 날짜를 기념하려고 글씨를 새긴 납작한 금속판이니까, 바로 그게 plaque인 거야."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/plaque.webp",
   "alt": "학교 현관 벽에 붙은 개교 날짜·설립자 이름 판",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/foster/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/foster/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/foster/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "foster",
  "slug": "foster",
  "url": "https://hibbangyong.com/words/foster/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, foster 맞아",
    "why": "맞아! 화분 하나가 이미 있었는데 지수가 매일매일 물 주고 닦아 주니까 그게 골목 전체로 점점 늘어났잖아. 없던 걸 뚝딱 만든 게 아니라 작게 있던 걸 계속 돌봐서 자라게 한 거니까 바로 그게 foster인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "교실 뒤에서 아이들이 종이비행기 날리기를 하며 점점 더 많이 모여들고 있었어. 그때 반장이 종이비행기를 전부 걷어 상자에 넣고 이제 아무도 못 하게 했어. 반장이 한 게 'foster'야?",
-   "choices": [
-    "응, foster 맞아",
-    "아니, foster 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, foster 아니야",
-   "why": "맞아! 반장은 커지던 걸 계속 돌봐서 더 자라게 한 게 아니라, 한 방에 딱 끊어서 없애 버렸잖아. 그러니까 foster는 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "지호는 동네 도서관에 그동안 아이들 인형극 시간이 하나도 없는 게 아쉬웠어. 그래서 한 달 동안 혼자 대본을 쓰고 인형을 만들어서, 지난 토요일에 인형극 시간을 처음으로 열었어. 이런 경우도 'foster'야?",
-   "choices": [
-    "응, 그것도 'foster'야",
-    "아니, 그건 'foster'가 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 그건 'foster'가 아니야",
-   "why": "맞아, 이건 foster가 아니야. 도서관에 인형극 시간이 아예 하나도 없었잖아. 없던 걸 처음부터 새로 만들어 낸 거거든. foster는 이미 작게라도 있던 걸 계속 돌봐서 자라게 하는 거야."
   }
  ],
  "synonyms": [],
@@ -89,6 +67,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/foster.webp",
   "alt": "매일 반복되는 킥킥 웃음이 교실의 놀리는 공기를 커지게 하는 앵커 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

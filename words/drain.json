@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/drain/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/drain/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/drain/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "drain",
  "slug": "drain",
  "url": "https://hibbangyong.com/words/drain/",
@@ -41,19 +41,6 @@
    "answer_index": 0,
    "answer": "응, 맞아",
    "why": null
-  },
-  {
-   "type": "choice",
-   "question": "drain은 어느 것일까?",
-   "choices": [
-    "빵을 노릇하게 구워 내는 네모난 기계",
-    "밤하늘에 둥글게 떠 있는 노란 달",
-    "물이 소용돌이치며 빠져 내려가는 동그란 구멍",
-    "책을 가지런히 꽂아 두는 나무 선반"
-   ],
-   "answer_index": 2,
-   "answer": "물이 소용돌이치며 빠져 내려가는 동그란 구멍",
-   "why": null
   }
  ],
  "synonyms": [],
@@ -70,6 +57,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/drain.webp",
   "alt": "물이 빙글빙글 소용돌이치며 빨려 내려가는 은색 원형 배수구(하수구 구멍)를 화면 중앙에 크게 — '물이 빠지는 구멍'이라는 뜻을 물의 흐름으로 명시",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

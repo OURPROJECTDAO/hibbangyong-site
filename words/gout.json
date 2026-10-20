@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/gout/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/gout/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/gout/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "gout",
  "slug": "gout",
  "url": "https://hibbangyong.com/words/gout/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, gout 맞아",
    "why": "맞아! 삼촌은 다친 적도 없는데 새벽에 발목 관절이 갑자기 퉁퉁 붓고 벌게졌잖아. 양말만 닿아도 아플 만큼 관절이 혼자 붓는 그 병이 바로 gout야."
-  },
-  {
-   "type": "ox",
-   "question": "더운 여름날, 엄마가 거실 창문과 베란다 문을 양쪽 다 활짝 열어서 바람이 시원하게 드나들게 하셨어. 이런 경우도 'gout'야?",
-   "choices": [
-    "응, 'gout' 맞아",
-    "아니, 'gout' 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 'gout' 아니야",
-   "why": "맞아! 엄마가 창문이랑 베란다 문을 열어서 바람이 드나들게 한 건 집 안 공기를 바꾼 거지, 아픈 병이 아니잖아. gout는 관절이 퉁퉁 붓고 아픈 병이라서 이 장면이랑은 상관이 없어."
-  },
-  {
-   "type": "ox",
-   "question": "이모가 명절에 무릎을 꿇고 한참 앉아 있다가 일어났더니 발이 찌릿찌릿 저려서 잠깐 못 걸으셨는데, 몇 분 지나니 싹 풀렸어. 이게 'gout'야?",
-   "choices": [
-    "응, gout 맞아",
-    "아니, gout 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, gout 아니야",
-   "why": "맞아! 이모는 무릎 꿇고 한참 앉아 있어서 발이 저렸던 거고, 몇 분 지나니 싹 풀렸잖아. gout는 관절이 갑자기 퉁퉁 붓고 몹시 아픈 병이라, 붓지도 않고 금방 풀린 이모 발은 gout가 아닌 거야."
   }
  ],
  "synonyms": [],
@@ -80,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/gout.webp",
   "alt": "할아버지가 밤에 엄지발가락이 갑자기 붓고 빨개짐",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/contractual/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/contractual/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/contractual/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "contractual",
  "slug": "contractual",
  "url": "https://hibbangyong.com/words/contractual/",
@@ -42,30 +42,6 @@
    "answer_index": 1,
    "answer": "아니, contractual 아니야",
    "why": "맞아! 공원에서 줄넘기하는 건 누구랑 계약을 맺어서 하는 게 아니라 네가 하고 싶은 만큼 하고, 피곤한 날엔 그냥 쉬어도 되는 일이잖아. 계약으로 정해진 게 하나도 없으니까 contractual이 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "형이 편의점 아르바이트를 시작하면서 '시급 1만 원, 주 3일 근무'라고 적힌 서류에 사장님과 함께 서명했어. 형이 이번 달에 시급 1만 원씩 받는 건 'contractual'한 거야?",
-   "choices": [
-    "응, contractual 맞아",
-    "아니, contractual 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, contractual 맞아",
-   "why": "맞아! 형이 사장님이랑 같이 서명한 서류에 '시급 1만 원'이라고 적혀 있잖아. 그 서류대로 받는 돈이니까 바로 계약 때문에 생긴 권리, 그러니까 contractual인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 네 상황 중에서 'contractual' 문제라고 부를 수 있는 건 어느 거야?",
-   "choices": [
-    "헬스장에 1년 다니기로 서명하고 등록했는데, 중간에 그만두려니 적어 둔 조건대로 돈을 물어내야 한대.",
-    "친구한테 내일 떡볶이 사 주겠다고 말해 놓고 깜빡해서, 친구가 약속 안 지켰다고 단단히 삐졌어.",
-    "자전거를 탈 때 헬멧을 안 쓰면 나라에서 정한 규칙을 어기는 거라서, 경찰한테 주의를 받을 수 있대.",
-    "우리 동아리 회비는 정해진 날짜도 금액도 따로 없어서, 각자 내고 싶을 때 편하게 내면 된대."
-   ],
-   "answer_index": 0,
-   "answer": "헬스장에 1년 다니기로 서명하고 등록했는데, 중간에 그만두려니 적어 둔 조건대로 돈을 물어내야 한대.",
-   "why": "맞아! 헬스장에 1년 다니기로 서명하고 등록했으니까, 그만둘 때 적어 둔 조건대로 돈을 물어내야 하는 건 그 계약 때문에 생긴 의무야. 바로 그게 contractual 문제인 거야."
   }
  ],
  "synonyms": [],
@@ -81,6 +57,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/contractual.webp",
   "alt": "휴대폰 2년 약정 계약서에 사인",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/condone/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/condone/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/condone/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "condone",
  "slug": "condone",
  "url": "https://hibbangyong.com/words/condone/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, condone 맞아",
    "why": "맞아! 엄마는 동생이 형 용돈을 몰래 가져간 게 잘못인 줄 다 알면서도 \"그 정도는 괜찮아\" 하고 넘어갔잖아. 그 뒤로 똑같이 해도 계속 아무 말 안 했으니까, 잘못을 괜찮은 일처럼 받아 준 거야. 이게 바로 condone이야."
-  },
-  {
-   "type": "ox",
-   "question": "아파트에서 한 주민이 밤에 쓰레기를 몰래 버렸어. 관리소장님이 CCTV로 그걸 확인하고, 안내 방송으로 \"이건 잘못된 행동입니다\"라고 모든 주민 앞에서 분명하게 나무랐어. 관리소장님이 한 행동이 'condone'이야?",
-   "choices": [
-    "응, condone 맞아",
-    "아니, condone 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, condone 아니야",
-   "why": "맞아! 관리소장님은 쓰레기를 몰래 버린 걸 알고 나서 모든 주민 앞에서 잘못된 행동이라고 분명하게 나무랐잖아. 잘못을 괜찮은 일처럼 넘어가 준 게 아니라 오히려 드러내고 꾸짖었으니까, condone이랑은 정반대인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "점심시간에 지훈이가 급식 줄에서 새치기를 했어. 반장이 이걸 봤어. 반장이 한 행동 중 'condone'에 가장 가까운 건?",
-   "choices": [
-    "매일 보면서도 모른 척하고 계속 그대로 두었어",
-    "지훈이가 미안하다고 하자 사과를 받아 주었어",
-    "오늘은 순서 없이 먹는 날이라 그대로 두었어",
-    "지훈이를 불러서 모두 앞에서 크게 혼냈어"
-   ],
-   "answer_index": 0,
-   "answer": "매일 보면서도 모른 척하고 계속 그대로 두었어",
-   "why": "맞아! 새치기가 잘못인 걸 매일 보면서도 모른 척하고 그대로 두었으니까, 잘못을 괜찮은 일처럼 넘겨 준 거잖아. 바로 그게 condone이야."
   }
  ],
  "synonyms": [
@@ -100,6 +76,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/condone.webp",
   "alt": "선생님이 친구 물건 숨긴 걸 알고도 웃고 넘어가는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/swap/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/swap/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/swap/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "swap",
  "slug": "swap",
  "url": "https://hibbangyong.com/words/swap/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, swap 아니야",
    "why": "맞아! 도윤이는 축구공을 줬는데 친구는 아무것도 주지 않았잖아. swap은 둘 다 주고 둘 다 받아야 하는데, 여기선 도윤이 혼자 준 거니까 그냥 선물이야."
-  },
-  {
-   "type": "ox",
-   "question": "영어 발표 날, 나는 1번이고 친구는 5번이었어. 선생님께 말씀드리고 나는 5번, 친구는 1번으로 발표 순서를 서로 바꿨어. 이게 'swap'이야?",
-   "choices": [
-    "응, swap 맞아",
-    "아니, swap 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, swap 맞아",
-   "why": "맞아! 너는 1번을 친구한테 주고 5번을 받았고, 친구는 5번을 주고 1번을 받았잖아. 둘 다 주고 둘 다 받았으니까 이게 바로 swap이야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 쉬는 시간에 한 일을 말했어. 이 중에서 'a swap'이라고 부를 수 있는 건?",
-   "choices": [
-    "준호는 스티커를 주고, 대신 친구의 연필을 받았어",
-    "서연이는 공책을 빌려주고, 다음 날 그 공책을 받았어",
-    "지훈이는 돈을 내고, 문구점에서 지우개를 받았어",
-    "하은이는 인형을 주고, 친구에게 고맙다는 말을 받았어"
-   ],
-   "answer_index": 0,
-   "answer": "준호는 스티커를 주고, 대신 친구의 연필을 받았어",
-   "why": "맞아! 준호는 스티커를 주고 친구는 연필을 줬으니까, 둘 다 하나씩 주고 하나씩 받았잖아. 서로 가진 걸 맞바꾼 거라서 바로 그게 swap이야."
   }
  ],
  "synonyms": [
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/swap.webp",
   "alt": "점심시간에 소시지와 계란말이를 서로 바꿔 먹기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

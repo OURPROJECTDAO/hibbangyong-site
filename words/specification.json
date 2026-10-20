@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/specification/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/specification/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/specification/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "specification",
  "slug": "specification",
  "url": "https://hibbangyong.com/words/specification/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, specification 맞아",
    "why": "맞아! 트로피를 만들기 전에 높이 30cm, 원목 받침, 금색 금속 컵 모양, 3반 우승 글자까지 공방이 꼭 지켜야 할 조건을 하나하나 정해 보냈잖아. 그래서 이 메모가 바로 specification이야."
-  },
-  {
-   "type": "ox",
-   "question": "동아리방에 둘 책장을 목공소에 맡기면서 이런 문자를 보냈어. '보기 좋고 오래 쓸 수 있게 알아서 잘 만들어 주세요.' 이 문자가 'specification'이야?",
-   "choices": [
-    "응, specification 맞아",
-    "아니, specification 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, specification 아니야",
-   "why": "맞아! 이 문자에는 책장 크기도, 나무 재료도, 칸이 몇 개인지도 하나도 안 적혀 있잖아. 알아서 잘 만들어 달라는 부탁일 뿐이고, 목공소가 꼭 이대로 만들어야 하는 조건 목록은 아니니까 specification이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "학교에서 급식실 식탁을 새로 주문하면서 업체랑 종이를 여러 장 주고받았어. 이 중에서 'specification'이라고 부를 수 있는 건 뭘까?",
-   "choices": [
-    "나사 A부터 끼우고 다리 B는 나중에 달라고 순서를 그려 놓은 종이",
-    "튼튼하고 예쁘게, 너무 비싸지 않게만 해 달라고 부탁한 종이",
-    "길이는 180cm, 다리는 철, 윗판은 흰색으로 하라고 적은 종이",
-    "한 개에 15만 원, 열 개면 150만 원이라고 값을 적어 보낸 종이"
-   ],
-   "answer_index": 2,
-   "answer": "길이는 180cm, 다리는 철, 윗판은 흰색으로 하라고 적은 종이",
-   "why": "맞아! 길이 180cm, 다리는 철, 윗판은 흰색처럼 식탁을 만들기 전에 이대로 만들라고 조건을 하나하나 정해 준 거라서, 바로 그게 specification이야."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/specification.webp",
   "alt": "반티 주문서에 색·글씨체·천 두께·사이즈를 적어 업체에 보내는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

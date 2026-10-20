@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/regulate/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/regulate/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/regulate/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "regulate",
  "slug": "regulate",
  "url": "https://hibbangyong.com/words/regulate/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, regulate 맞아",
    "why": "맞아! 뜨거워지면 스스로 꺼지고 식으면 다시 켜져서 26도 그 선 안에 물을 붙잡아 두잖아. 넘치면 되돌리고 모자라면 올려 주는 그게 바로 regulate야."
-  },
-  {
-   "type": "ox",
-   "question": "화분 옆에서 형이 물을 계속 부어. 흙이 이미 흠뻑 젖었는데도 멈추지 않고 더, 더 부어서 물이 화분 밖으로 넘쳐 흘러. 이게 물 주는 걸 'regulate'하는 거야?",
-   "choices": [
-    "응, regulate 맞아",
-    "아니, regulate 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, regulate 아니야",
-   "why": "맞아! 흙이 이미 흠뻑 젖었으면 물이 충분하다는 신호잖아. 그런데도 형은 안 멈추고 더 부었지. 알맞은 만큼에서 딱 손을 멈추는 게 regulate인데, 이건 그냥 계속 밀어붙인 거라서 regulate가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "형이 어항 물 온도를 딱 맞는 온도로 한 번 맞춰 놓고는, 그 뒤로는 온도계를 다시 안 봤어. 며칠 뒤 물이 너무 차가워졌는데도 그대로 뒀어. 이런 경우도 어항 물 온도를 'regulate'한 거야?",
-   "choices": [
-    "응, 'regulate'한 거 맞아",
-    "아니, 'regulate'한 거 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 'regulate'한 거 아니야",
-   "why": "맞아! regulate는 딱 한 번 맞춰 놓고 손 떼는 게 아니라, 계속 지켜보다가 물이 차가워지면 도로 데려오는 거거든. 형은 온도계를 다시 안 봤으니까 그건 regulate가 아닌 거야."
   }
  ],
  "synonyms": [],
@@ -80,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/regulate.webp",
   "alt": "언덕에서 자전거 브레이크를 잡았다 놨다 하며 빠르기를 안전한 선 안에 두는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

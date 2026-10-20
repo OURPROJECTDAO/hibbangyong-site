@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/prick/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/prick/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/prick/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "prick",
  "slug": "prick",
  "url": "https://hibbangyong.com/words/prick/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, prick 맞아",
    "why": "맞아! 바늘 끝이 손가락에 살짝 들어가서 순간 '앗' 하고 금방 괜찮아졌잖아. 뾰족한 끝이 콕 들어와서 짧고 작게 아픈 거니까 이게 딱 prick이야."
-  },
-  {
-   "type": "ox",
-   "question": "축구를 하다가 날아온 공에 정강이를 세게 맞았어. 묵직하게 아팠고 다음 날 그 자리에 멍이 들었어. 이 느낌이 'prick'이야?",
-   "choices": [
-    "응, prick 맞아",
-    "아니, prick 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, prick 아니야",
-   "why": "잘 골랐어! 공에 정강이를 세게 맞아서 묵직하게 아프고 다음 날 멍까지 들었잖아. 이건 뾰족한 끝이 콕 들어와서 짧게 따끔한 게 아니니까 prick이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 다친 이야기를 했어. 'prick'을 느낀 친구는 누구일까?",
-   "choices": [
-    "선인장을 만지다가 손끝에 작은 가시가 콕 들어왔어",
-    "넘어진 뒤로 무릎이 하루 종일 욱신욱신 아팠어",
-    "책상 모서리에 팔을 부딪혀서 파랗게 멍이 들었어",
-    "고양이 발톱에 팔이 쭉 끌리면서 길게 긁혔어"
-   ],
-   "answer_index": 0,
-   "answer": "선인장을 만지다가 손끝에 작은 가시가 콕 들어왔어",
-   "why": "맞아! 선인장의 작은 가시 끝이 손끝에 콕 들어왔다가 순간 따끔하고 마는 거잖아. 뾰족한 끝이 한 번 콕 찌르는 짧은 아픔, 바로 그게 prick이야."
   }
  ],
  "synonyms": [],
@@ -83,6 +59,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/prick.webp",
   "alt": "장미 줄기를 잡다가 가시에 손끝이 따끔한 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

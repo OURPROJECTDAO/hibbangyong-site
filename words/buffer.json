@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/buffer/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/buffer/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/buffer/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "buffer",
  "slug": "buffer",
  "url": "https://hibbangyong.com/words/buffer/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, buffer 맞아",
    "why": "맞아! 스펀지가 머리와 딱딱한 겉면 사이에 끼어서 충격을 대신 받아 주니까, 머리까지 가는 충격이 줄어들잖아. 바로 그게 buffer인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "체육 시간에 뜀틀 착지 자리에 깔려 있던 매트를 선생님이 치웠어. 이제는 뛰어내리면 발이 딱딱한 바닥에 바로 닿아. 매트를 치운 이 일은 'buffer'야?",
-   "choices": [
-    "응, buffer 맞아",
-    "아니, buffer 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, buffer 아니야",
-   "why": "잘 골랐어! 매트가 있을 땐 발과 딱딱한 바닥 사이에서 충격을 받아 줬는데, 치우고 나니 사이에 아무것도 없어서 발이 바닥에 바로 닿잖아. 그러니까 매트를 치운 일은 buffer가 아니라, 오히려 buffer를 없앤 거야."
-  },
-  {
-   "type": "choice",
-   "question": "지우가 친구랑 약속이 있는데, 타야 하는 버스가 자주 늦게 와. 지우가 뭔가를 'buffer'로 삼은 건 어느 경우야?",
-   "choices": [
-    "친구들이랑 늦으면 벌금 내기로 규칙을 정해서, 다들 늦지 않게 서둘렀어.",
-    "약속보다 20분 일찍 집을 나서서, 버스가 늦게 왔는데도 제시간에 도착했어.",
-    "버스 회사에 전화해서, 그 버스가 앞으로 안 늦게 시간표를 고쳐 달라고 했어.",
-    "버스를 아예 안 타고 걸어가서, 버스 때문에 늦을 일 자체를 없애 버렸어."
-   ],
-   "answer_index": 1,
-   "answer": "약속보다 20분 일찍 집을 나서서, 버스가 늦게 왔는데도 제시간에 도착했어.",
-   "why": "맞아! 버스가 늦게 오는 건 그대로였는데, 일찍 나서서 남겨 둔 20분이 늦은 만큼을 대신 받아 줬잖아. 그래서 약속에 안 늦은 거고, 바로 그 20분이 buffer야."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/buffer.webp",
   "alt": "시험 대비로 평소 점수를 넉넉히 따 둔 여유분",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

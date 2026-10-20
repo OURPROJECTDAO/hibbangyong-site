@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/calendar/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/calendar/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/calendar/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "calendar",
  "slug": "calendar",
  "url": "https://hibbangyong.com/words/calendar/",
@@ -41,19 +41,6 @@
    "answer_index": 0,
    "answer": "응, 맞아",
    "why": null
-  },
-  {
-   "type": "choice",
-   "question": "calendar는 어느 것일까?",
-   "choices": [
-    "비가 올 때 머리 위에 펴서 쓰는 것",
-    "이를 닦을 때 손에 쥐고 문질러 쓰는 것",
-    "며칠인지 알고 싶을 때 벽에 걸어 두고 쓰는 것",
-    "물을 마실 때 입에 가까이 대고 쓰는 것"
-   ],
-   "answer_index": 2,
-   "answer": "며칠인지 알고 싶을 때 벽에 걸어 두고 쓰는 것",
-   "why": null
   }
  ],
  "synonyms": [],
@@ -67,6 +54,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/calendar.webp",
   "alt": "벽에 걸린 달력 한 장 — 위쪽에 그림칸, 아래쪽에 가로세로로 나뉜 네모칸 격자(날짜 숫자 없이 빈 칸)로 '달력' 형태만 또렷하게. 상단 스프링 제본. (calendar=달력, 사물)",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

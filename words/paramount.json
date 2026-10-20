@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/paramount/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/paramount/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/paramount/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "paramount",
  "slug": "paramount",
  "url": "https://hibbangyong.com/words/paramount/",
@@ -43,28 +43,6 @@
    "answer_index": 1,
    "answer": "아니, paramount 아니야",
    "why": "맞아! 양말은 신발에 가려서 사진에 하나도 안 나오니까, 무늬는 아무거나 신어도 되는 거잖아. 이렇게 신경 안 써도 되는 건 맨 먼저 챙길 게 아니라 순서로 치면 맨 끝이라서 paramount가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "민호가 캠핑에 가져갈 텐트를 고르고 있어. 색깔도 보고, 무게도 보고, 가격도 비교해. 그런데 색이 마음에 안 들어도, 조금 무겁거나 비싸도 괜찮대. 비가 새는 텐트만은 무조건 안 산대. 민호에게 '비가 안 새는 것'은 'paramount'야?",
-   "choices": [
-    "응, paramount 맞아",
-    "아니, paramount 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, paramount 맞아",
-   "why": "맞아! 색이 마음에 안 들어도, 좀 무겁거나 비싸도 괜찮은데 비가 새는 텐트만은 무조건 안 사잖아. 다른 게 전부 비가 안 새는 것 앞에서 양보하니까, 그게 민호한테 paramount인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "가족 캠핑 준비물 목록에 텐트, 랜턴, 모기약, 물이 적혀 있어. 엄마가 '넷 다 필요한 거니까 하나씩 차례로 챙겨. 특별히 먼저 챙길 건 없어'라고 하셨어. 이런 경우에도 모기약을 'paramount'라고 할 수 있을까?",
-   "choices": [
-    "응, 'paramount' 맞아",
-    "아니, 'paramount' 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 'paramount' 아니야",
-   "why": "맞아! 엄마가 넷 다 필요하니까 하나씩 차례로 챙기고 특별히 먼저 챙길 건 없다고 하셨잖아. 모기약이 필요하긴 해도 텐트, 랜턴, 물보다 앞서는 게 아니니까 paramount라고 할 수 없어."
   }
  ],
  "synonyms": [],
@@ -89,6 +67,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/paramount.webp",
   "alt": "할머니와 가족 외식에서 맛·가격·자리보다 앞서는 시간 약속",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

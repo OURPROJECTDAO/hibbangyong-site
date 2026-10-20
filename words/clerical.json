@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/clerical/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/clerical/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/clerical/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "clerical",
  "slug": "clerical",
  "url": "https://hibbangyong.com/words/clerical/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, clerical 맞아",
    "why": "맞아! 삼촌은 전학 온 학생의 주소와 연락처를 컴퓨터에 입력하고 그 서류를 서류철에 꽂아 정리하잖아. 이미 정해진 정보를 적고 서류를 정리하는 일이니까 딱 clerical이야."
-  },
-  {
-   "type": "ox",
-   "question": "이모는 이삿짐센터에서 일해. 손님 집에 가서 냉장고와 책장을 직접 들어 옮기고, 트럭에 실어 새 집까지 날라. 이모가 하는 이 일은 'clerical' 일일까?",
-   "choices": [
-    "응, clerical 맞아",
-    "아니, clerical 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, clerical 아니야",
-   "why": "맞아! 이모는 냉장고랑 책장을 직접 들어 옮기고 트럭에 실어 나르니까, 몸으로 하는 일이야. clerical은 서류를 적고 정리하는 사무 일이라서 이모 일은 clerical이 아닌 거지."
-  },
-  {
-   "type": "choice",
-   "question": "병원에서 네 사람이 각자 하는 일을 말했어. 'clerical' 일을 하는 사람은 누구일까?",
-   "choices": [
-    "새 진료 규칙을 만들지 말지 회의에서 정하는 사람",
-    "환자를 직접 살펴보고 어디가 아픈지 치료하는 사람",
-    "환자 예약 명단을 정리해서 컴퓨터에 입력하는 사람",
-    "복도 바닥을 닦고 무거운 상자를 옮기는 사람"
-   ],
-   "answer_index": 2,
-   "answer": "환자 예약 명단을 정리해서 컴퓨터에 입력하는 사람",
-   "why": "맞아! 환자 예약 명단을 정리해서 컴퓨터에 입력하는 건 이미 정해진 정보를 적고 정리하는 일이라서, 바로 그게 clerical 일인 거야."
   }
  ],
  "synonyms": [],
@@ -83,6 +59,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/clerical.webp",
   "alt": "학생회에서 회의를 기록하고 명단을 입력하고 서류를 정리하는 일",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

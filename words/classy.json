@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/classy/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/classy/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/classy/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "classy",
  "slug": "classy",
  "url": "https://hibbangyong.com/words/classy/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, classy 아니야",
    "why": "맞아! 형광 분홍 종이에 반짝이 스티커가 빽빽하고 줄마다 글씨체랑 색깔이 다 다르면, 요란하게 튀기만 하지 정돈된 느낌이 없잖아. classy는 깔끔하고 점잖아서 격이 느껴지는 거라, 이 초대장은 딱 그 반대야."
-  },
-  {
-   "type": "ox",
-   "question": "이모가 결혼식 초대장을 보내왔어. 두꺼운 흰 종이에 은색 글씨로 두 사람 이름과 날짜만 단정하게 적혀 있고, 다른 장식은 없어. 이 초대장은 'classy'한 걸까?",
-   "choices": [
-    "응, classy 맞아",
-    "아니, classy 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, classy 맞아",
-   "why": "맞아! 두꺼운 흰 종이에 은색 글씨로 이름과 날짜만 단정하게 적고 다른 장식은 없잖아. 요란하지 않은데도 깔끔하고 점잖아서 격이 느껴지니까 바로 그게 classy인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "형의 졸업식에 손님 네 명이 왔고, 다들 한 번씩 칭찬을 들었어. 이 중에서 'classy'라는 칭찬이 가장 잘 맞는 손님은?",
-   "choices": [
-    "명품 가방에 비싼 시계까지 차고 와서 커다란 꽃다발을 건넨 손님",
-    "반짝이는 금색 재킷을 입고 와서 큰 소리로 축하 노래를 불러 준 손님",
-    "수수한 정장을 단정하게 입고 와서 차분하게 축하 인사를 건넨 손님",
-    "헐렁한 운동복을 입고 와서 장난을 치며 모두를 크게 웃게 만든 손님"
-   ],
-   "answer_index": 2,
-   "answer": "수수한 정장을 단정하게 입고 와서 차분하게 축하 인사를 건넨 손님",
-   "why": "맞아! 수수한 정장인데도 단정하게 입고 차분하게 인사하니까 딱 봐도 품격이 느껴지잖아. 비싸거나 튀어서가 아니라 이렇게 점잖은 게 바로 classy야."
   }
  ],
  "synonyms": [
@@ -83,6 +59,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/classy.webp",
   "alt": "비싼 걸 걸쳤는데 촌스러운 사람 vs 평범한 옷인데 격이 느껴지는 사람",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

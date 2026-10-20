@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/opera/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/opera/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/opera/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "opera",
  "slug": "opera",
  "url": "https://hibbangyong.com/words/opera/",
@@ -45,32 +45,6 @@
    "answer_index": 2,
    "answer": "무대에서 배우들이 편지 읽는 장면도 헤어지는 장면도 전부 노래로 이어 간다",
    "why": "맞아! 배우들이 편지 읽는 장면도, 헤어지는 장면도 말로 안 하고 전부 노래로 이어 가잖아. 이야기가 처음부터 끝까지 노래로 굴러가니까 바로 그게 opera인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "학교 축제 무대에 네 순서가 올라왔어. 어느 순서가 'opera'야?",
-   "choices": [
-    "마술사가 모자와 상자에서 비둘기와 꽃을 번갈아 꺼내 보여 준다",
-    "태권도부가 나란히 서서 발차기와 격파를 차례대로 보여 준다",
-    "배우들이 주고받는 말을 하나도 빼지 않고 노래로 불러 이야기를 이어 간다",
-    "배우들이 주고받는 말을 하나도 빼지 않고 말로 해서 이야기를 이어 간다"
-   ],
-   "answer_index": 2,
-   "answer": "배우들이 주고받는 말을 하나도 빼지 않고 노래로 불러 이야기를 이어 간다",
-   "why": "맞아! 배우들이 주고받는 말을 하나도 빼지 않고 전부 노래로 불러서 이야기를 이어 가잖아. 이야기가 처음부터 끝까지 노래로 이어지니까 바로 그게 opera인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 개의 무대 공연을 봤어. 이 중에서 'opera'라고 부를 수 있는 건 어느 거야?",
-   "choices": [
-    "무대 위 사람들이 이야기를 이어가는데, 화내는 말도 인사도 전부 노래로 나온다",
-    "무대 위 사람들이 이야기를 이어가는데, 대사는 말로 하고 신나는 대목에서만 노래한다",
-    "무대 위 가수가 이어지는 이야기 없이 좋아하는 곡을 한 곡씩 골라 부른다",
-    "무대 위 사람들이 이야기를 이어가는데, 말도 노래도 없이 몸짓과 춤으로만 보여준다"
-   ],
-   "answer_index": 0,
-   "answer": "무대 위 사람들이 이야기를 이어가는데, 화내는 말도 인사도 전부 노래로 나온다",
-   "why": "맞아! 화내는 말도 인사도 전부 노래로 나오잖아. 이야기를 처음부터 끝까지 노래로 이어가니까 바로 그게 opera인 거야."
   }
  ],
  "synonyms": [],
@@ -87,6 +61,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/opera.webp",
   "alt": "무대 위 인물들이 대사 대신 전부 노래로 주고받는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

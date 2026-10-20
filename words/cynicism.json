@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/cynicism/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/cynicism/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/cynicism/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "cynicism",
  "slug": "cynicism",
  "url": "https://hibbangyong.com/words/cynicism/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, cynicism 맞아",
    "why": "맞아! 사장님이 남은 빵을 경로당에 나눠 드리는 좋은 일을 하는데, 민호는 그걸 진심으로 안 보고 가게 홍보하려는 거라고 넘겨 버렸잖아. 좋은 행동 뒤에 늘 자기 이익이 숨어 있다고 믿는 그 태도가 바로 cynicism이야."
-  },
-  {
-   "type": "ox",
-   "question": "전학 온 친구가 첫날 '나 전 학교에서 전교 1등이었어'라고 말했어. 수아는 조금도 따져 보지 않고 그 말을 그대로 다 믿었어. 수아의 이런 태도는 'cynicism'일까?",
-   "choices": [
-    "응, cynicism 맞아",
-    "아니, cynicism 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, cynicism 아니야",
-   "why": "맞아! 수아는 전학 온 친구 말을 조금도 의심 안 하고 그대로 다 믿었잖아. cynicism은 남의 말 뒤에 숨은 속셈부터 의심하는 거라서, 수아는 오히려 그 반대야."
-  },
-  {
-   "type": "choice",
-   "question": "반 친구 네 명의 행동이야. 'cynicism'을 보여 주는 사람은 누구일까?",
-   "choices": [
-    "내일 체육대회는 비가 와서 어차피 망할 거라고 미리 걱정했다.",
-    "광고에 나온 착한 회사 이야기를 듣고 그대로 믿고 물건을 샀다.",
-    "옆 반 애가 쓰레기 줍는 걸 보고 속으로 잘 보이려는 거라 생각했다.",
-    "친구가 지각하자 '와, 진짜 빨리 왔네'라고 일부러 반대로 말했다."
-   ],
-   "answer_index": 2,
-   "answer": "옆 반 애가 쓰레기 줍는 걸 보고 속으로 잘 보이려는 거라 생각했다.",
-   "why": "맞아! 옆 반 애는 그냥 쓰레기를 주웠을 뿐인데, 그걸 보고 속으로 잘 보이려는 거라고 생각했잖아. 좋은 행동 뒤에 자기 이익이 숨어 있다고 믿는 거, 바로 그게 cynicism이야."
   }
  ],
  "synonyms": [],

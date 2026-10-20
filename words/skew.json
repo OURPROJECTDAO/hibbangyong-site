@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/skew/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/skew/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/skew/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "skew",
  "slug": "skew",
  "url": "https://hibbangyong.com/words/skew/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, skew한 거 아니야",
    "why": "맞아! 사서 선생님은 한 달 동안 하루도 빼지 않고 기록 그대로 표에 옮겼잖아. 빠진 날도 없고 한쪽으로 쏠린 숫자도 없으니까, 이 표는 대출 기록을 실제 모습 그대로 보여 준 거야. 그래서 skew가 아니야."
-  },
-  {
-   "type": "ox",
-   "question": "건강검진 날, 반 전체가 실내화가 아니라 굽 있는 운동화를 신은 채로 키를 쟀어. 그래서 모두 키가 실제보다 몇 cm씩 크게 기록됐어. 이 키 기록은 신발 때문에 'skewed'된 거야?",
-   "choices": [
-    "응, skewed된 거 맞아",
-    "아니, skewed된 거 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, skewed된 거 맞아",
-   "why": "맞아! 아무도 속이지 않았는데, 굽 있는 운동화 때문에 반 전체 키 기록이 다 실제보다 큰 쪽으로 쏠렸잖아. 이렇게 기록이 한 방향으로 기울어서 실제 키와 어긋난 게 바로 skew야."
-  },
-  {
-   "type": "choice",
-   "question": "네 가지 일이 있었어. 반 숫자나 기록이 'skew'됐다고 말하기에 가장 알맞은 건?",
-   "choices": [
-    "성적이 낮은 애들이 그날 많이 결석해서 반 평균 점수가 평소보다 올라갔어",
-    "반장 선거가 끝난 뒤 누군가 몰래 표를 새로 써서 바꿔 넣었어",
-    "선생님이 평균을 낼 때 숫자 하나를 잘못 옮겨 적어서 값이 틀렸어",
-    "출석부를 이름 순서 대신 키 순서로 다시 정렬해서 새로 만들었어"
-   ],
-   "answer_index": 0,
-   "answer": "성적이 낮은 애들이 그날 많이 결석해서 반 평균 점수가 평소보다 올라갔어",
-   "why": "맞아! 아무도 숫자를 속이거나 잘못 적지 않았어. 그런데 성적이 낮은 애들이 빠지니까 반 평균이 높은 쪽으로 쏠려서 평소 반 모습과 어긋났지. 바로 그게 skew야."
   }
  ],
  "synonyms": [],

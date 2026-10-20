@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/wrap/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/wrap/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/wrap/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "wrap",
  "slug": "wrap",
  "url": "https://hibbangyong.com/words/wrap/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, wrap 맞아",
    "why": "맞아! 형이 노끈을 나무 기둥 둘레로 빙글빙글 여러 바퀴 돌려 감았고, 그래서 노끈이 기둥에 착 붙었지? 둘레를 돌아서 감기게 한 거라서 바로 그게 wrap인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "손목에 여러 바퀴 감겨 있던 붕대를, 누나가 끝을 잡고 반대로 돌려 다 풀어서 손목에서 벗겨 냈어. 이거 'wrap'이야?",
-   "choices": [
-    "응, wrap 맞아",
-    "아니, wrap 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, wrap 아니야",
-   "why": "잘 골랐어! 누나는 붕대를 손목에 감은 게 아니라, 반대로 돌려서 다 풀고 손목에서 벗겨 냈거든. 붕대를 손목에 빙 둘러 감아야 wrap인데, 이건 거꾸로 푼 거니까 wrap이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "아이 넷이 긴 수건을 하나씩 들고 있어. 이 중에서 수건으로 'wrap' 했다고 말할 수 있는 건 누구일까?",
-   "choices": [
-    "수건을 반듯하게 반으로 접어 무릎 위에 올려 두었어",
-    "수건을 쫙 펼쳐서 어깨 위에 툭 걸쳐만 두었어",
-    "수건을 팔에 여러 바퀴 돌려 감고 끝을 끼워 넣었어",
-    "수건 양쪽 끝을 잡고 가운데를 꽉 매듭지어 묶었어"
-   ],
-   "answer_index": 2,
-   "answer": "수건을 팔에 여러 바퀴 돌려 감고 끝을 끼워 넣었어",
-   "why": "맞아! 수건을 팔에 여러 바퀴 돌려 감았으니까 수건이 팔 둘레를 빙 돌아서 감긴 거야. 끝까지 끼워 넣어서 풀리지도 않지. 바로 그게 wrap이야."
   }
  ],
  "synonyms": [],
@@ -85,6 +61,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/wrap.webp",
   "alt": "추운 날 담요를 몸에 빙 둘러 끝을 붙여 틈을 없애는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

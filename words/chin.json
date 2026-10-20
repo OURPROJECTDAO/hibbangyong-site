@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/chin/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/chin/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/chin/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "chin",
  "slug": "chin",
  "url": "https://hibbangyong.com/words/chin/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, 그게 chin이야",
    "why": "맞아! 면도 거품 바르고 수염 쓱 미는 그 자리, 입 바로 아래 얼굴 맨 끝 뾰족한 데가 바로 chin이거든. 그래서 삼촌 말이 딱 맞은 거야."
-  },
-  {
-   "type": "choice",
-   "question": "친구들이 자기 얼굴 한 군데씩 짚었어. 'chin'을 제대로 짚은 사람은 누구일까?",
-   "choices": [
-    "입 바로 밑, 얼굴에서 가장 아래로 톡 나온 끝 한 점을 짚은 아이",
-    "귀 밑에서 시작해 턱뼈를 따라 옆으로 죽 이어진 데를 짚은 아이",
-    "입 양옆으로 볼록 솟은 데를 짚은 아이",
-    "두 눈썹 위, 머리카락 바로 아래쪽을 짚은 아이"
-   ],
-   "answer_index": 0,
-   "answer": "입 바로 밑, 얼굴에서 가장 아래로 톡 나온 끝 한 점을 짚은 아이",
-   "why": "맞아! 입 바로 밑에 얼굴에서 제일 아래로 톡 튀어나온 그 끝 한 점, 바로 거기가 chin이야. 두 손으로 얼굴 받칠 때 손바닥에 콕 닿는 데 말이야."
-  },
-  {
-   "type": "ox",
-   "question": "열이 나는지 보려고 엄마가 눈썹 위쪽, 머리카락 나기 전 넓고 평평한 데에 손을 대 봤어. 그 부분을 'chin'이라고 하면 맞을까?",
-   "choices": [
-    "응, 그게 chin이야",
-    "아니, 그건 chin이 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 그건 chin이 아니야",
-   "why": "딱 맞았어! 손 댄 데는 눈썹 위 이마라서 얼굴 맨 위거든. chin은 입 바로 아래 얼굴 맨 끝이니까 자리가 완전 반대야. 그래서 그건 chin이 아닌 게 맞아."
   }
  ],
  "synonyms": [],
@@ -85,6 +61,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/chin.webp",
   "alt": "밥상에서 두 손으로 얼굴 받칠 때 손바닥에 콕 닿는 입 아래 끝.",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

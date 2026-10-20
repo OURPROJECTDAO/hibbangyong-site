@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/among/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/among/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/among/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "among",
  "slug": "among",
  "url": "https://hibbangyong.com/words/among/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, among 맞아",
    "why": "맞아! 두 명도 아니고 스무 명이나 되잖아. 그 여럿 속에 네가 섞여 서 있으니까 딱 among인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "넓은 운동장에 아무도 없고 나 혼자 공을 차고 있어. 이게 'among'이야?",
-   "choices": [
-    "응, among 맞아",
-    "아니, among 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, among 아니야",
-   "why": "맞아! among은 여럿이 있어야 쓰는 말이거든. 그런데 여긴 너 혼자뿐이잖아. 사이에 낄 친구가 하나도 없으니까 among이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 상황이 있어. 'among'을 딱 맞게 쓸 수 있는 건 어떤 거야?",
-   "choices": [
-    "친구가 여럿 모여 있는데, 그 여럿 속에 나도 껴 있어.",
-    "친구가 딱 두 명 있는데, 그 두 명 사이에 내가 있어.",
-    "친구가 여럿 있는데, 나는 그 앞에 혼자 나와 서 있어.",
-    "둘레에 아무도 없이, 텅 빈 곳에 나 혼자 있어."
-   ],
-   "answer_index": 0,
-   "answer": "친구가 여럿 모여 있는데, 그 여럿 속에 나도 껴 있어.",
-   "why": "맞아! 여럿이 모여 있는데 그 속에 너도 껴 있으니까, 바로 그게 among이야. 여럿 속에 섞여 있으면 among인 거지."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/among.webp",
   "alt": "나무 여럿 속에 섞여 껴 있는 것",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

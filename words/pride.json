@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/pride/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/pride/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/pride/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "pride",
  "slug": "pride",
  "url": "https://hibbangyong.com/words/pride/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, pride 맞아",
    "why": "맞아! 동생이 몇 주나 스스로 연습해서 자기 손으로 딱 해냈잖아. 그래서 가슴이 쭉 펴진 거야. 내가 해냈다 하고 차오르는 그 마음, 그게 바로 pride거든."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구 넷이 다 웃거나 시무룩해. 한 명은 길에서 우연히 100원을 주워 신났고, 한 명은 재밌는 만화를 봐서 깔깔 웃고, 한 명은 며칠을 연습해 드디어 혼자 자전거를 타냈고, 한 명은 시험을 망쳐 시무룩해. 누구 마음이 'pride'에 가장 가까울까?",
-   "choices": [
-    "며칠을 연습해 드디어 혼자 자전거를 타낸 친구",
-    "길에서 우연히 100원을 주워 신난 친구",
-    "재밌는 만화를 봐서 깔깔 웃는 친구",
-    "시험을 망쳐서 시무룩한 친구"
-   ],
-   "answer_index": 0,
-   "answer": "며칠을 연습해 드디어 혼자 자전거를 타낸 친구",
-   "why": "맞아! 며칠을 끙끙 연습해서 드디어 혼자 해낸 거잖아. 내가 해냈다 하고 가슴이 부풀어 오르는 그 마음, 그게 바로 pride인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "형이 자기 그림을 반 아이들 앞에 걸었는데, 물감이 번져 엉망인 게 보이자 얼굴이 빨개져서 그림을 얼른 떼어 가방에 숨겼어. 이 마음이 'pride'야?",
-   "choices": [
-    "응, pride 맞아",
-    "아니, pride 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, pride 아니야",
-   "why": "맞아! 형은 지금 자기 그림을 숨기고 싶잖아. 자랑스러운 마음이면 오히려 다 보라고 걸어 뒀을 텐데, 얼굴이 빨개져서 감췄으니까 그건 부끄러운 마음이지 pride가 아닌 거야."
   }
  ],
  "synonyms": [],
@@ -90,6 +66,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/pride.webp",
   "alt": "며칠 끙끙대 해낸 순간 가슴이 차오르는 마음(너무 세지면 자만으로)",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/wealth/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/wealth/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/wealth/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "wealth",
  "slug": "wealth",
  "url": "https://hibbangyong.com/words/wealth/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, wealth 아니야",
    "why": "맞아! 떡도 다 나가고 돈주머니까지 탈탈 털려서 손에 값진 게 하나도 안 남았잖아. 값진 게 잔뜩 있어야 wealth인데 지금은 텅 비었으니까 아닌 게 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "바닷가에 집이 몇 채뿐인 조용한 마을이 있어. 장터도 없고 오가는 사람도 드물어. 그런데 마을 앞 갯벌에 소금밭이 넓게 깔려서 해마다 하얀 소금이 수레 가득 나고, 그 소금을 아랫마을 사람들이 줄을 서서 사 가. 이 마을을 두고 'wealth'가 있다고 할까?",
-   "choices": [
-    "응, wealth 맞아",
-    "아니, wealth 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, wealth 맞아",
-   "why": "맞아! 소금이 수레 가득 나고 아랫마을 사람들이 줄 서서 사 갈 만큼 값진 거잖아. 값진 게 잔뜩 있으니까 바로 그게 wealth인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "마을에서 집 네 채 이야기를 들었어. 어느 집을 두고 'wealth'가 있다고 할까?",
-   "choices": [
-    "곳간에 곡식이 그득하고 밭은 산자락까지 뻗고 소도 열 마리인 집",
-    "솔방울을 자루마다 주워 담아 마당에도 마루에도 그득히 쌓아둔 집",
-    "귀한 옥반지 딱 하나를 상자에 담아 장롱 맨 아래 넣어둔 집",
-    "곳간도 마당도 텅 비어 마른 먼지만 폴폴 굴러다니는 집"
-   ],
-   "answer_index": 0,
-   "answer": "곳간에 곡식이 그득하고 밭은 산자락까지 뻗고 소도 열 마리인 집",
-   "why": "맞아! 곡식도 그득, 밭도 넓게 뻗고, 소도 열 마리잖아. 하나같이 값진 것들이 잔뜩이지? 값진 게 잔뜩 있는 것, 그게 바로 wealth야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/wealth.webp",
   "alt": "사막 마을 한가운데서 하루 종일 물이 솟는 샘",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

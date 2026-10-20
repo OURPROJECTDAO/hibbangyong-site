@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/winding/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/winding/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/winding/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "winding",
  "slug": "winding",
  "url": "https://hibbangyong.com/words/winding/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, winding 맞아",
    "why": "맞아! 이 바닷가 도로는 왼쪽으로 휘었다가 오른쪽으로 휘었다가 하는 곳이 여러 번 이어졌잖아. 그렇게 이쪽저쪽으로 계속 휘면서 이어지는 게 바로 winding이야."
-  },
-  {
-   "type": "ox",
-   "question": "공항 창문으로 비행기 활주로를 봤어. 활주로가 휘는 곳 하나 없이, 처음부터 끝까지 한 방향으로 곧게 쭉 뻗어 있었어. 이 활주로는 'winding' 모양일까?",
-   "choices": [
-    "응, winding 맞아",
-    "아니, winding 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, winding 아니야",
-   "why": "맞아! 이 활주로는 휘는 곳 하나 없이 처음부터 끝까지 곧게 쭉 뻗어 있잖아. winding은 왼쪽, 오른쪽으로 여러 번 휘어지는 모양이라서 이건 정반대인 곧은 모양(이건 straight야)인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 주말에 각자 걸은 길을 말했어. 'winding' 길을 걸은 친구는 누구일까?",
-   "choices": [
-    "왼쪽으로 돌았다가 오른쪽으로 돌았다가, 방향이 계속 바뀌었어",
-    "처음부터 끝까지 한 방향으로만 곧게 쭉 이어져 있었어",
-    "오르막이 너무 심해서 숨이 차고 다리가 아팠어",
-    "한참을 걸어도 끝이 안 나올 만큼 아주 멀었어"
-   ],
-   "answer_index": 0,
-   "answer": "왼쪽으로 돌았다가 오른쪽으로 돌았다가, 방향이 계속 바뀌었어",
-   "why": "맞아! 왼쪽으로 돌았다가 오른쪽으로 돌았다가 방향이 계속 바뀌었다는 건 휘는 곳이 여러 번 이어졌다는 거잖아. 바로 그런 길이 winding이야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/winding.webp",
   "alt": "이리저리 휘어지는 산길·시골 강·탑 안 계단",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/missile/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/missile/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/missile/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "missile",
  "slug": "missile",
  "url": "https://hibbangyong.com/words/missile/",
@@ -41,19 +41,6 @@
    "answer_index": 1,
    "answer": "아니, 아니야",
    "why": null
-  },
-  {
-   "type": "choice",
-   "question": "missile은 어느 것일까?",
-   "choices": [
-    "접시 위에 노랗게 놓인 길고 휘어진 과일",
-    "손으로 두드려서 둥둥 소리를 내는 둥근 물건",
-    "멀리 날아가서 맞으면 쾅 터지는 무기",
-    "바닥에 넓게 깔린 부드럽고 네모난 천 조각"
-   ],
-   "answer_index": 2,
-   "answer": "멀리 날아가서 맞으면 쾅 터지는 무기",
-   "why": null
   }
  ],
  "synonyms": [],
@@ -69,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/missile.webp",
   "alt": "'미사일'을 그림 — 매끈한 은백색 원통형 몸체에 뾰족한 앞코와 꼬리날개가 달린 로켓형 미사일 한 개가 맑은 하늘로 부드럽게 솟아오르는 모습(폭발·표적·전쟁 요소 없이 친근하게). anchor=사물 단독이라 false.",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

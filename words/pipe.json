@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/pipe/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/pipe/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/pipe/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "pipe",
  "slug": "pipe",
  "url": "https://hibbangyong.com/words/pipe/",
@@ -41,19 +41,6 @@
    "answer_index": 1,
    "answer": "아니, 아니야",
    "why": null
-  },
-  {
-   "type": "choice",
-   "question": "pipe는 어느 것일까?",
-   "choices": [
-    "달콤한 즙이 가득 찬, 껍질이 노란 과일",
-    "포근하게 덮고 자는, 네모난 천 조각",
-    "물이 안을 지나가는, 속이 텅 빈 긴 통",
-    "종이에 색을 칠하는, 끝이 뾰족한 막대"
-   ],
-   "answer_index": 2,
-   "answer": "물이 안을 지나가는, 속이 텅 빈 긴 통",
-   "why": null
   }
  ],
  "synonyms": [],
@@ -71,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/pipe.webp",
   "alt": "은빛 금속 물배관(파이프) 한 개 — 양 끝이 뚫린 원통형 관을 통째로 크게, 도시적 배관의 대표 형태",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

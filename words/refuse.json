@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/refuse/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/refuse/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/refuse/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "refuse",
  "slug": "refuse",
  "url": "https://hibbangyong.com/words/refuse/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, refuse 아니야",
    "why": "맞아! 두 손으로 받아서 품에 안고 고맙다고 했잖아. 그건 안 받은 게 아니라 기쁘게 받아들인 거거든. 그러니까 refuse가 아닌 게 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "놀이터에서 친구가 자기 자전거 안장을 두드리며 한 번 타보라고 했어. 지호는 자전거를 탈 줄 알아. 그런데 고개를 저으며 그네 쪽으로 걸어갔어. 지호가 한 게 'refuse'야?",
-   "choices": [
-    "응, refuse 맞아",
-    "아니, refuse 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, refuse 맞아",
-   "why": "맞아! 지호는 자전거를 탈 줄 아는데도 고개를 젓고 그냥 그네로 가버렸잖아. 못 타서 안 탄 게 아니라 안 타겠다고 마음을 정한 거니까, 그게 바로 refuse인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "선생님이 네 아이에게 각각 청소를 도와달라고 했어. 아이들이 한 행동이 아래와 같아. 이 중에서 'refuse'한 아이는 누구일까?",
-   "choices": [
-    "빗자루를 밀어 놓으며 안 하겠다고 딱 잘라 말하고 자리에 앉아 있었다",
-    "팔을 다쳐서 빗자루를 들 수가 없어 미안하다며 가만히 있었다",
-    "이따가 하겠다고 말하고는 조금 뒤에 와서 바닥을 쓸었다",
-    "하기 싫은 표정을 지었지만 결국 빗자루를 들고 바닥을 쓸었다"
-   ],
-   "answer_index": 0,
-   "answer": "빗자루를 밀어 놓으며 안 하겠다고 딱 잘라 말하고 자리에 앉아 있었다",
-   "why": "맞아! 빗자루를 밀어 놓고 안 하겠다고 딱 잘라 말한 거, 그게 바로 refuse야. 팔도 멀쩡하고 할 수 있는데 자기 마음으로 안 하겠다고 정해버린 거잖아. 바로 그게 refuse인 거야."
   }
  ],
  "synonyms": [
@@ -85,6 +61,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/refuse.webp",
   "alt": "엄마가 내민 우산을 고개 저으며 안 받고 나가는 아이",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

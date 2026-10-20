@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/merge/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/merge/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/merge/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "merge",
  "slug": "merge",
  "url": "https://hibbangyong.com/words/merge/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, merge 맞아",
    "why": "맞아! 상자 두 개에 있던 색종이가 한 상자로 다 흘러들어가서, 이제 색종이 상자를 하나로 세게 됐잖아. 바로 그게 merge야."
-  },
-  {
-   "type": "ox",
-   "question": "엄마가 케이크 한 판을 칼로 잘라서 접시 두 개에 나눠 담았어. 이게 'merge'야?",
-   "choices": [
-    "응, merge 맞아",
-    "아니, merge 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, merge 아니야",
-   "why": "그래, 이건 merge가 아니야. 케이크 한 판이 두 접시로 갈라진 거잖아. merge는 반대로 둘이 하나로 흘러들어서 이제 하나로 세는 거거든."
-  },
-  {
-   "type": "ox",
-   "question": "학교 알뜰시장 준비를 하는데, 우리 반 물건 상자랑 옆 반 물건 상자를 강당 한구석에 나란히 딱 붙여 놨어. 상자는 각자 그대로고 안에 든 물건도 서로 옮기지 않았어. 이런 경우도 'merge'야?",
-   "choices": [
-    "응, 'merge' 맞아",
-    "아니, 'merge' 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 'merge' 아니야",
-   "why": "그렇지! 상자는 각자 그대로 있고 물건도 안 옮겼으니까 세어 보면 아직 둘이잖아. 나란히 붙여만 놓은 건 merge가 아니야. 진짜 merge는 둘이 하나로 흘러들어서 이제 하나로 세게 되는 거거든."
   }
  ],
  "synonyms": [
@@ -88,6 +66,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/merge.webp",
   "alt": "작은 개울이 큰 강과 만나 그다음부터는 강 하나로 세는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

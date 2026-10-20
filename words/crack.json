@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/crack/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/crack/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/crack/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "crack",
  "slug": "crack",
  "url": "https://hibbangyong.com/words/crack/",
@@ -45,30 +45,6 @@
    "answer_index": 2,
    "answer": "달걀을 그릇 모서리에 톡 쳐서 껍데기가 쩍 갈라져 열린 것",
    "why": "맞아! 단단한 달걀 껍데기를 그릇 모서리에 톡 쳤더니 쩍 갈라져서 열렸잖아. 이렇게 단단한 게 쩍 하고 갈라지는 게 바로 crack인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "지호가 부엌에서 여러 가지를 봤어. 다음 중 'crack'에 해당하는 것은?",
-   "choices": [
-    "냄비 속 물이 보글보글 끓어오른 것",
-    "도자기 접시에 딱 소리와 함께 금이 하나 생긴 것",
-    "풍선에 바람을 넣자 동그랗게 부풀어 오른 것",
-    "양초 심지에 불이 붙어 환하게 타오른 것"
-   ],
-   "answer_index": 1,
-   "answer": "도자기 접시에 딱 소리와 함께 금이 하나 생긴 것",
-   "why": "맞아! 딱딱한 도자기가 딱 소리를 내면서 금이 하나 쫙 간 거잖아. 산산조각 난 것도 아니고 갈라진 자국이 생긴 거니까 바로 그게 crack이야. 얼음판이 쩍 갈라지던 거랑 똑같지."
-  },
-  {
-   "type": "ox",
-   "question": "지우가 마당에 있는 커다란 항아리를 망치로 톡 쳤어. 항아리 옆면에 길쭉한 선이 생겨서 위아래로 쭉 이어졌어. 항아리는 아직 한 덩어리로 붙어 있어. 이게 'crack'이야?",
-   "choices": [
-    "응, crack 맞아",
-    "아니, crack 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, crack 맞아",
-   "why": "맞아! 항아리에 길쭉한 선이 쭉 생겼는데 아직 한 덩어리로 붙어 있잖아. 단단한 게 산산조각 나지 않고 쩍 갈라진 것, 그게 바로 crack인 거야."
   }
  ],
  "synonyms": [],
@@ -85,6 +61,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/crack.webp",
   "alt": "언 얼음판 위 발밑에서 쩍 소리나며 금이 쫙 가는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

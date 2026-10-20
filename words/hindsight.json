@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/hindsight/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/hindsight/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/hindsight/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "hindsight",
  "slug": "hindsight",
  "url": "https://hibbangyong.com/words/hindsight/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, hindsight 맞아",
    "why": "맞아! 수빈이는 대회가 다 끝난 뒤에야 천천히 출발한 게 체력을 아끼는 데 도움이 됐다는 걸 알았잖아. 이렇게 일이 끝나고 나서야 제대로 보이는 게 바로 hindsight야."
-  },
-  {
-   "type": "ox",
-   "question": "김장하기 전날, 엄마는 배추가 모자랄 거라는 걸 미리 알고 배추 한 포기를 더 사 왔어. 엄마가 이렇게 미리 알아챈 게 'hindsight'야?",
-   "choices": [
-    "응, hindsight 맞아",
-    "아니, hindsight 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, hindsight 아니야",
-   "why": "그렇지, hindsight 아니야! 엄마는 김장하기 전날, 일이 일어나기도 전에 배추가 모자랄 걸 미리 알아챘잖아. 이렇게 미리 내다보는 건 foresight고, hindsight는 김장이 다 끝나고 나서야 알게 되는 거야."
-  },
-  {
-   "type": "choice",
-   "question": "체육대회 계주를 두고 네 친구가 한 말이야. 'hindsight'를 가장 잘 보여 주는 말은?",
-   "choices": [
-    "경기 끝나고 생각해 보니 민호를 마지막 주자로 둔 게 잘한 거였어.",
-    "경기 전에 생각해 보니 민호를 마지막 주자로 두면 이길 것 같았어.",
-    "경기 끝나고 지니까 너무 속상해서 그날 밤 잠이 안 왔어.",
-    "경기 끝나고 작년 계주 때 비가 왔던 게 문득 떠올랐어."
-   ],
-   "answer_index": 0,
-   "answer": "경기 끝나고 생각해 보니 민호를 마지막 주자로 둔 게 잘한 거였어.",
-   "why": "맞아! 경기가 다 끝나고 나서야 민호를 마지막 주자로 둔 게 잘한 거였다고 알게 된 거잖아. 이렇게 일이 끝난 뒤에야 제대로 보이는 게 hindsight야. 꼭 후회처럼 나쁜 쪽일 필요는 없어."
   }
  ],
  "synonyms": [],
@@ -98,6 +74,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/hindsight.webp",
   "alt": "동아리를 바꾼 게 지나고 보니 잘한 선택이었던 일",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

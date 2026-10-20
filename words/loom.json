@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/loom/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/loom/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/loom/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "loom",
  "slug": "loom",
  "url": "https://hibbangyong.com/words/loom/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, loom 맞아",
    "why": "맞아! 거대한 바위산이 어둑한 하늘 아래 흐릿하게, 그것도 텐트 바로 앞을 가로막듯 서 있잖아. 크고, 흐릿하고, 코앞에서 버티고 있으니까 이게 딱 loom이야."
-  },
-  {
-   "type": "ox",
-   "question": "부두에 서서 떠나는 여객선을 바라봤어. 배는 점점 멀어지고 작아지더니, 결국 수평선 너머로 완전히 보이지 않게 됐어. 이 여객선이 'loom'하고 있다고 할 수 있을까?",
-   "choices": [
-    "응, loom 맞아",
-    "아니, loom 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, loom 아니야",
-   "why": "맞아! 여객선은 점점 멀어지고 작아지다가 수평선 너머로 사라졌잖아. loom은 커다란 게 앞으로 다가와 버티고 있는 거라서, 멀어져 사라지는 이 배는 그 반대인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "수행평가에 대한 네 친구의 말이야. 수행평가가 'loom'하고 있다고 말할 수 있는 친구는?",
-   "choices": [
-    "수행평가를 다 내고 나니 걱정이 싹 사라졌어.",
-    "수행평가 주제가 오늘 아침 게시판에 올라왔어.",
-    "수행평가 마감이 사흘 남아서 머릿속에 계속 걸려.",
-    "수행평가가 한 달 뒤라서 아직 아무 생각 없어."
-   ],
-   "answer_index": 2,
-   "answer": "수행평가 마감이 사흘 남아서 머릿속에 계속 걸려.",
-   "why": "맞아! 마감이 사흘밖에 안 남아서 머릿속에 계속 걸린다는 건, 수행평가가 코앞까지 와서 무겁게 버티고 있다는 거잖아. 바로 그게 loom이야."
   }
  ],
  "synonyms": [],
@@ -106,6 +82,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/loom.webp",
   "alt": "안개 낀 등굣길 앞에 흐릿하게 버티고 선 커다란 형체",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

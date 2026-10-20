@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/awkward/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/awkward/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/awkward/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "awkward",
  "slug": "awkward",
  "url": "https://hibbangyong.com/words/awkward/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, awkward 아니야",
    "why": "맞아! 끈이 한 번에 걸리고 매듭도 쓱 묶여서 십 초 만에 끝났잖아. 걸리는 데 하나 없이 술술 굴러간 거니까 awkward랑은 정반대야."
-  },
-  {
-   "type": "ox",
-   "question": "지호가 형이랑 같이 소파를 옮기는데, 소파가 방문 폭에 안 맞아서 세웠다 눕혔다 돌렸다 하며 문틀에 자꾸 걸려. 이게 'awkward'야?",
-   "choices": [
-    "응, awkward 맞아",
-    "아니, awkward 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, awkward 맞아",
-   "why": "맞아! 소파가 문틀에 안 맞아서 세웠다 눕혔다 계속 걸리잖아. 매끄럽게 안 굴러가고 자꾸 걸리는 그 느낌, 그게 바로 awkward인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "지호가 하루 동안 겪은 일 네 가지야. 이 중에 'awkward'라는 말이 딱 맞는 건 어느 것일까?",
-   "choices": [
-    "긴 널빤지를 들고 좁은 계단을 도는데 모서리마다 걸려서 몇 번을 다시 잡았어",
-    "무대에 나가는 게 겁나서 손을 들려다 말고 자리에 그냥 앉아 있었어",
-    "공을 한 번 던졌더니 바구니에 쏙 들어가서 손뼉을 치며 좋아했어",
-    "구름이 토끼 모양이라 신기해서 고개를 들고 한참 쳐다보고 있었어"
-   ],
-   "answer_index": 0,
-   "answer": "긴 널빤지를 들고 좁은 계단을 도는데 모서리마다 걸려서 몇 번을 다시 잡았어",
-   "why": "맞아! 널빤지가 계단 모서리마다 턱턱 걸려서 매끄럽게 안 돌아갔잖아. 바로 그렇게 자꾸 걸리적거리고 안 풀리는 게 awkward인 거야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/awkward.webp",
   "alt": "문 앞에서 서로 비켜주려다 같은 쪽으로 자꾸 움직이는 순간",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

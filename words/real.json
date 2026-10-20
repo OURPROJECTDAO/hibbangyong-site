@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/real/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/real/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/real/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "real",
  "slug": "real",
  "url": "https://hibbangyong.com/words/real/",
@@ -45,30 +45,6 @@
    "answer_index": 0,
    "answer": "목장에서 풀을 우물우물 씹으며 뛰어다니는 말",
    "why": "맞아! 목장에서 진짜로 풀을 우물우물 씹고 뛰어다니잖아. 살아서 정말로 있는 거라서 바로 그게 real이야."
-  },
-  {
-   "type": "ox",
-   "question": "이마에 뾰족한 뿔이 하나 달리고 무지개 갈기를 흩날리며 구름 위를 달리는 유니콘 이야기가 나왔어. 이게 'real' 동물이야?",
-   "choices": [
-    "응, real 맞아",
-    "아니, real 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, real 아니야",
-   "why": "맞아! 뿔 달린 유니콘이 구름 위를 달리는 건 이야기 속에서 꾸며낸 거지, 진짜로 세상에 있는 게 아니거든. 그래서 real이 아니라고 한 네가 딱 맞았어."
-  },
-  {
-   "type": "choice",
-   "question": "친구들이 저마다 강아지 하나씩을 말했어. 이 중에서 'real' 강아지는 누구 걸까?",
-   "choices": [
-    "살아서 멍멍 짖고 밥도 먹는, 옆집에서 키우는 강아지",
-    "털까지 똑같이 만들어 진짜같이 보이는 로봇 강아지",
-    "동화책 속에서 말도 하고 하늘도 나는 강아지",
-    "진짜같이 잘 그려 놓은 강아지 그림"
-   ],
-   "answer_index": 0,
-   "answer": "살아서 멍멍 짖고 밥도 먹는, 옆집에서 키우는 강아지",
-   "why": "맞아! 살아서 뛰고 밥도 먹고 진짜로 있는 강아지니까, 바로 그게 real이야. 흉내가 아니라 정말로 살아 있는 거거든."
   }
  ],
  "synonyms": [],
@@ -95,6 +71,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/real.webp",
   "alt": "짖지도 밥 먹지도 않는 장난감 강아지 vs 살아서 짖는 옆집 강아지",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

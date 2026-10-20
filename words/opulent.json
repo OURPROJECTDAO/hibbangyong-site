@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/opulent/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/opulent/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/opulent/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "opulent",
  "slug": "opulent",
  "url": "https://hibbangyong.com/words/opulent/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, opulent 맞아",
    "why": "맞아! 벽은 대리석이고 천장엔 금빛 조각, 식탁마다 은 촛대랑 크리스털 잔이 빼곡하잖아. 돈을 아끼지 않고 화려함이 눈에 넘치니까 바로 그게 opulent인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "산속 절에 있는 작은 방에 들어갔어. 나무 바닥에 방석 하나와 낮은 앉은뱅이책상 하나만 있고, 벽에는 아무 장식도 없어. 이 방을 'opulent'하다고 할 수 있을까?",
-   "choices": [
-    "응, opulent 맞아",
-    "아니, opulent 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, opulent 아니야",
-   "why": "맞아! 방석 하나, 낮은 앉은뱅이책상 하나만 있고 벽에 장식도 하나 없잖아. 꾸밈을 확 줄인 방이라서 화려함이 넘쳐야 하는 opulent랑은 정반대인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "잡지 기사에서 은퇴한 사업가의 생활을 'opulent'하다고 표현했어. 여기서 이 말은 어떤 뜻일까?",
-   "choices": [
-    "집 안의 방 하나만 금빛 장식으로 꾸며 두었다는 뜻",
-    "집·옷·여행까지 사는 방식 전체가 번쩍번쩍 넘친다는 뜻",
-    "돈은 많지만 사는 모습은 평범하고 조용하다는 뜻",
-    "은퇴하고도 쉬지 않고 바쁘게 일하며 산다는 뜻"
-   ],
-   "answer_index": 1,
-   "answer": "집·옷·여행까지 사는 방식 전체가 번쩍번쩍 넘친다는 뜻",
-   "why": "맞아! 기사가 말한 건 방 하나가 아니라 그 사업가의 생활이잖아. 집·옷·여행까지 사는 방식 전체가 번쩍번쩍 넘친다는 거라서, 바로 그게 opulent한 생활인 거야."
   }
  ],
  "synonyms": [

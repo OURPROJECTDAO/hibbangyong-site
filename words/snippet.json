@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/snippet/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/snippet/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/snippet/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "snippet",
  "slug": "snippet",
  "url": "https://hibbangyong.com/words/snippet/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, snippet 맞아",
    "why": "맞아! 옆 사람 통화 중에 몇 마디만 짧게 들렸으니까, 그게 바로 긴 말에서 떨어져 나온 한 토막이야. 일부러 골랐든 우연히 들렸든, 짧은 한 토막이면 snippet인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "서점 앞 광고판에 어떤 소설의 중간쯤에 나오는 문장 두 줄만 적혀 있어. 그 앞뒤 내용은 안 적혀 있어. 광고판의 이 두 줄은 그 소설의 'snippet'이야?",
-   "choices": [
-    "응, snippet 맞아",
-    "아니, snippet 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, snippet 맞아",
-   "why": "맞아! 긴 소설 중간에서 두 줄만 떼어 와서 앞뒤 내용 없이 광고판에 적은 거니까, 바로 그 두 줄이 그 소설의 snippet인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "졸업식 날 교장 선생님 축사를 녹음했어. 처음 인사부터 마지막 인사까지 하나도 자르지 않고 전부 들어 있는 파일이야. 이 녹음 파일은 그 축사의 'snippet'이야?",
-   "choices": [
-    "응, snippet 맞아",
-    "아니, snippet 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, snippet 아니야",
-   "why": "맞아! 이 녹음 파일은 처음 인사부터 마지막 인사까지 하나도 안 자르고 전부 들어 있잖아. snippet은 축사에서 짧게 떨어져 나온 한 토막인데, 이건 축사 전체라서 snippet이 아닌 거야."
   }
  ],
  "synonyms": [

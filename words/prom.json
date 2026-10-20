@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/prom/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/prom/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/prom/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "prom",
  "slug": "prom",
  "url": "https://hibbangyong.com/words/prom/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, prom 맞아",
    "why": "맞아! 고등학생인 사촌 오빠가 학년 말에 학교가 학생들을 위해 연 파티에 턱시도 차려입고 가서 파트너랑 밤새 춤췄잖아. 이게 바로 prom이야."
-  },
-  {
-   "type": "ox",
-   "question": "학년 말 어느 날, 고등학생들이 평소처럼 교복을 입고 체육 시간에 학교 강당에서 선생님께 춤 동작을 배워. 이 체육 수업이 'prom'이야?",
-   "choices": [
-    "응, prom 맞아",
-    "아니, prom 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, prom 아니야",
-   "why": "맞아! 교복 입고 체육 시간에 선생님한테 춤 동작 배우는 건 그냥 수업이야. prom은 드레스랑 정장 차려입고 짝이랑 춤추러 가는 파티라서, 수업은 prom이 될 수 없어."
-  },
-  {
-   "type": "choice",
-   "question": "지난달 있었던 행사 네 개야. 이 중 'prom'이라고 부를 수 있는 건?",
-   "choices": [
-    "호텔 연회장에서, 고등학생들이 정장과 드레스를 입고 짝과 춤추는 밤",
-    "호텔 연회장에서, 회사 직원들이 정장과 드레스를 입고 짝과 춤추는 밤",
-    "학교 축제 무대에서, 고등학생들이 체육복을 입고 춤 공연을 하는 낮",
-    "학교 강당에서, 고등학생들이 졸업 가운을 입고 졸업장을 받는 아침"
-   ],
-   "answer_index": 0,
-   "answer": "호텔 연회장에서, 고등학생들이 정장과 드레스를 입고 짝과 춤추는 밤",
-   "why": "맞아! 고등학생들이 정장이랑 드레스를 차려입고 짝이랑 춤추는 밤이니까 바로 그게 prom이야. 호텔 연회장이어도 괜찮아. 누구를 위한 파티인지가 중요하거든."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/prom.webp",
   "alt": "하이틴 영화 속 고등학생들이 차려입고 짝과 춤추는 밤",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

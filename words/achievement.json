@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/achievement/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/achievement/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/achievement/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "achievement",
  "slug": "achievement",
  "url": "https://hibbangyong.com/words/achievement/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, achievement 맞아",
    "why": "맞아! 민지는 3주 동안 매일 리코더를 연습했고, 오늘 '작은 별'을 한 번도 안 틀리고 끝까지 불었잖아. 애써서 끝내 해낸 일이니까 바로 그게 achievement인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "서준이는 문구점 뽑기 기계에 동전 하나를 넣고 손잡이를 한 번 돌렸어. 그랬더니 제일 큰 로봇 장난감이 바로 나왔어. 이 일은 'achievement'야?",
-   "choices": [
-    "응, achievement 맞아",
-    "아니, achievement 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, achievement 아니야",
-   "why": "맞아! 서준이는 동전 하나 넣고 손잡이를 한 번 돌렸을 뿐인데 로봇 장난감이 나온 거잖아. 애써서 끝내 해낸 게 아니라 운 좋게 나온 거라서 achievement가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "일곱 살 동생이 몇 주 동안 끈이 자꾸 풀리고 엉키는데도 매일 연습했어. 그러다 오늘 아침 처음으로 혼자 운동화 끈을 묶었어. 뉴스에 나올 일도 아니고 아무도 박수를 쳐 주지 않았어. 이런 것도 'achievement'야?",
-   "choices": [
-    "응, achievement 맞아",
-    "아니, achievement 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, achievement 맞아",
-   "why": "맞아! 동생이 끈이 자꾸 풀리고 엉켜도 몇 주 동안 매일 연습해서 오늘 아침 처음으로 혼자 묶었잖아. 애써서 끝내 해낸 일이니까 바로 그게 achievement인 거야."
   }
  ],
  "synonyms": [
@@ -88,6 +66,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/achievement.webp",
   "alt": "일주일 동안 천 조각 퍼즐을 맞추다가 마지막 조각을 끼운 일",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

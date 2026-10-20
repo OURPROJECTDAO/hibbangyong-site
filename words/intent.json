@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/intent/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/intent/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/intent/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "intent",
  "slug": "intent",
  "url": "https://hibbangyong.com/words/intent/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, intent 맞아",
    "why": "맞아! 꽃을 그리려고 크레파스를 꺼낸 거잖아. 손이 움직이기 전에 속으로 꽃을 그리겠다고 딱 정해 놓은 마음이 있었던 거야. 그게 바로 intent야."
-  },
-  {
-   "type": "ox",
-   "question": "재현이가 교실 문을 열자 바람이 훅 들어와 벽에 붙여 둔 그림이 바닥에 떨어졌어. 바람 때문에 그림이 떨어진 거야. 여기에 'intent'가 있었을까?",
-   "choices": [
-    "응, intent 맞아",
-    "아니, intent 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, intent 아니야",
-   "why": "맞아! 바람이 불어서 그냥 떨어진 거잖아. 그림이 '이제 떨어져야지' 하고 마음먹은 게 아니고, 재현이도 그림을 떨어뜨리려고 문을 연 게 아니거든. 이렇게 정해 둔 마음 없이 그냥 벌어진 일은 intent가 아니야."
-  },
-  {
-   "type": "choice",
-   "question": "축구공에 옆집 유리창이 깨졌어. 공을 찬 아이가 그때 어땠는지 넷으로 나눠 봤어. 유리창이 깨진 일에 'intent'가 있었다고 할 수 있는 건 어느 쪽일까?",
-   "choices": [
-    "유리창을 맞히겠다고 정하고 그쪽을 겨냥해서 찼다",
-    "다른 쪽으로 찼는데 바람에 휘어서 유리창으로 갔다",
-    "유리창이 깨진 걸 보고 깜짝 놀라 한참 서 있었다",
-    "유리창이 안 깨졌으면 좋겠다고 속으로 빌기만 했다"
-   ],
-   "answer_index": 0,
-   "answer": "유리창을 맞히겠다고 정하고 그쪽을 겨냥해서 찼다",
-   "why": "맞아! 유리창을 맞히겠다고 속으로 딱 정하고 그쪽을 겨냥해서 찬 거잖아. 하기 전에 마음을 정해 뒀으니까 그게 바로 intent야."
   }
  ],
  "synonyms": [
@@ -93,6 +69,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/intent.webp",
   "alt": "물을 마시려고 마음먹고 부엌으로 걸어간 아이",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

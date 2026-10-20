@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/adverse/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/adverse/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/adverse/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "adverse",
  "slug": "adverse",
  "url": "https://hibbangyong.com/words/adverse/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, adverse 맞아",
    "why": "맞아! 비 한 방울 안 오고 땅이 쩍쩍 갈라져서 채소가 자라려는 걸 자꾸 방해하잖아. 이렇게 네 편이 아니라 맞서서 힘들게 만드는 게 딱 adverse인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "배가 항구로 돌아가는 길인데, 물살이 마침 배가 가려는 쪽으로 흘러서 노를 세게 젓지 않아도 배가 술술 잘 나아가. 이 물살이 배한테 'adverse'야?",
-   "choices": [
-    "응, adverse 맞아",
-    "아니, adverse 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, adverse 아니야",
-   "why": "딩동댕! 물살이 배가 가려는 쪽으로 밀어줘서 술술 나아가잖아. 이렇게 네 편이 돼서 일을 더 쉽게 해주면 adverse가 아니야. adverse는 반대로 너한테 맞서서 힘들게 하는 거거든."
-  },
-  {
-   "type": "choice",
-   "question": "아래 네 가지 상황 중에서, 'adverse'하다고 말할 수 있는 건 어느 거야?",
-   "choices": [
-    "폭염에 길이 뜨겁게 달아올라 숨이 턱턱 막혀서, 달리기 선수가 뛰기가 훨씬 힘들어졌어.",
-    "바람이 등 뒤에서 살살 밀어줘서, 자전거가 힘 하나 안 들이고 쭉쭉 잘 나갔어.",
-    "제일 좋아하던 아이스크림 가게가 문을 닫아 버려서, 마음이 좀 슬펐어.",
-    "별다른 일 하나 없이, 평소랑 똑같은 하루가 그냥 지나갔어."
-   ],
-   "answer_index": 0,
-   "answer": "폭염에 길이 뜨겁게 달아올라 숨이 턱턱 막혀서, 달리기 선수가 뛰기가 훨씬 힘들어졌어.",
-   "why": "맞아! 폭염이 달리기 선수 편이 아니라 딱 맞서서 뛰는 걸 더 힘들게 만들었지? 이렇게 네 일을 가로막고 불리하게 대드는 게 바로 adverse야."
   }
  ],
  "synonyms": [],
@@ -94,6 +70,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/adverse.webp",
   "alt": "소풍 날 비바람이 몰아쳐 걷기조차 힘든 장면 (child 앵커)",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

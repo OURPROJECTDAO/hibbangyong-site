@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/fare/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/fare/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/fare/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "fare",
  "slug": "fare",
  "url": "https://hibbangyong.com/words/fare/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, fare 맞아",
    "why": "맞아! 지하철은 나를 어딘가로 데려다주는 탈것이고, 타려고 정해진 돈을 냈잖아. 딱 그게 fare야."
-  },
-  {
-   "type": "ox",
-   "question": "옆집 아저씨 차를 얻어 타고 학원까지 갔는데, 아저씨가 돈은 안 받겠다고 해서 한 푼도 안 냈어. 이게 'fare'야?",
-   "choices": [
-    "응, fare 맞아",
-    "아니, fare 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, fare 아니야",
-   "why": "맞아! 탔지만 돈은 한 푼도 안 냈잖아. 타는 값을 내야 fare인데 공짜로 얻어 탄 거니까 fare가 아닌 게 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "이모가 서울에서 부산까지 기차를 타고 가려고 해. 이모가 말한 기차의 'fare'는 아래 중 어느 쪽일까?",
-   "choices": [
-    "기차 안에서 파는 도시락을 사 먹는 데 내는 돈",
-    "기차를 타고 부산까지 가는 데 내는 돈",
-    "기차가 부산까지 달려가는 데 걸리는 시간",
-    "기차를 타려고 역에서 기다리는 시간"
-   ],
-   "answer_index": 1,
-   "answer": "기차를 타고 부산까지 가는 데 내는 돈",
-   "why": "맞아! 서울에서 부산까지 나를 태워다 주는 값, 바로 그게 fare거든. 멀리 갈수록 더 내기도 하는 그 돈 말이야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/fare.webp",
   "alt": "버스에 올라타 정해진 돈을 내는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

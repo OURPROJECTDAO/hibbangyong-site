@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/reform/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/reform/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/reform/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "reform",
  "slug": "reform",
  "url": "https://hibbangyong.com/words/reform/",
@@ -45,28 +45,6 @@
    "answer_index": 1,
    "answer": "힘센 애만 늘 먼저 차던 축구 순서를, 누구든 차례가 오게 바꿨어.",
    "why": "맞아! 힘센 애만 늘 먼저 차던 건 좀 불공평했잖아. 축구를 없앤 것도 아니고 새로 만든 것도 아니고, 삐뚤어져 있던 그 순서를 바로 세운 거니까 바로 그게 reform인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "민수가 쓴 독후감에 틀린 글자가 몇 개 있고 문장도 어색했어. 그래서 다시 읽으며 글자를 고치고 문장을 매끄럽게 다듬었어. 이런 경우도 'reform'이야?",
-   "choices": [
-    "응, 'reform' 맞아.",
-    "아니, 'reform' 아니야."
-   ],
-   "answer_index": 1,
-   "answer": "아니, 'reform' 아니야.",
-   "why": "맞아! 글자 틀린 거 바로잡고 문장 매끄럽게 다듬은 건 글을 손본 거지, 잘못되고 불공평했던 방식을 뜯어고친 게 아니거든. 그래서 reform이 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "우리 도서관 벽에 아주 오래된 그림이 있는데, 색이 다 바래서 뭐가 그려졌는지도 안 보였어. 전문가가 몇 달 동안 손봐서, 처음 그려졌을 때 색을 그대로 되찾아 놨어. 이런 경우도 'reform'이야?",
-   "choices": [
-    "응, 'reform'이야.",
-    "아니, 'reform' 아니야."
-   ],
-   "answer_index": 1,
-   "answer": "아니, 'reform' 아니야.",
-   "why": "맞아! 그림은 잘못된 게 아니라 그냥 세월에 색이 바랜 거였잖아. 원래 모습을 다시 찾아준 거라서, 삐뚤어진 걸 바로 세우는 reform이랑은 다른 거야."
   }
  ],
  "synonyms": [],
@@ -91,6 +69,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/reform.webp",
   "alt": "조용한 아이들만 걸레를 들던 반 청소 당번 규칙을 다 같이 뜯어고침",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

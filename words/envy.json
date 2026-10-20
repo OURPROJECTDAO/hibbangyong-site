@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/envy/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/envy/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/envy/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "envy",
  "slug": "envy",
  "url": "https://hibbangyong.com/words/envy/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, envy 맞아",
    "why": "맞아! 남이 가진 걸 보고 나도 저게 갖고 싶어서 자꾸 눈이 가는 마음, 그게 바로 envy거든. 사촌 발만 자꾸 보게 되고 '저거 내 거였으면' 싶은 그 마음이 딱 그거야."
-  },
-  {
-   "type": "ox",
-   "question": "짝꿍이 줄넘기 2단뛰기를 처음 성공했어. 나는 내 줄넘기를 든 채로 짝꿍 쪽을 보며 웃음이 터져 같이 손뼉을 쳐. 속으로 '와, 해냈네!' 싶어. 이 마음이 'envy'야?",
-   "choices": [
-    "응, envy 맞아",
-    "아니, envy 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, envy 아니야",
-   "why": "맞아! 짝꿍이 해낸 게 내 일처럼 기뻐서 손뼉이 절로 나온 거잖아. 이 마음엔 '나도 저거 갖고 싶다'가 하나도 없거든. 그래서 envy랑은 다른 마음인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 지금 속마음을 하나씩 말했어. 이 중에서 'envy'를 느끼고 있는 사람은 누구일까?",
-   "choices": [
-    "짝꿍이 꺼낸 새 필통이 자꾸 눈에 밟혀. 나도 저거 하나 있으면 좋겠다 싶어.",
-    "내 단짝이 요즘 다른 애랑만 놀아. 내 자리를 뺏길까 봐 마음이 조마조마해.",
-    "옆 반 아이가 상 받으러 나가네. 내 일처럼 기뻐서 손뼉이 절로 쳐져.",
-    "형이 물구나무를 척 서네. 우와 대단하다 싶어서 눈을 못 떼겠어."
-   ],
-   "answer_index": 0,
-   "answer": "짝꿍이 꺼낸 새 필통이 자꾸 눈에 밟혀. 나도 저거 하나 있으면 좋겠다 싶어.",
-   "why": "맞아! 남의 필통이 자꾸 눈에 밟히면서 나도 저거 하나 있으면 좋겠다 싶은 거, 그게 바로 남이 가진 걸 내가 갖고 싶어진 마음이거든. 그래서 이게 envy인 거야."
   }
  ],
  "synonyms": [],
@@ -83,6 +59,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/envy.webp",
   "alt": "친구가 새 축구공을 들고 온 걸 보고 자꾸 그 공만 눈에 들어오는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

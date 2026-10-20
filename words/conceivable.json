@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/conceivable/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/conceivable/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/conceivable/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "conceivable",
  "slug": "conceivable",
  "url": "https://hibbangyong.com/words/conceivable/",
@@ -45,28 +45,6 @@
    "answer_index": 0,
    "answer": "질 확률이 높지만, 이기는 모습도 상상은 되는 선거",
    "why": "맞아! 질 확률이 높아도 이기는 모습을 머릿속으로 그려 볼 수는 있잖아. 이길 것 같은지는 상관없고 머릿속에 그려지기만 하면 되니까, 바로 그게 conceivable인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "우리 반 담임 선생님이 다음 달에 복권 1등에 당첨되는 일. 이 일은 'conceivable'한 일이야?",
-   "choices": [
-    "응, 맞아",
-    "아니, 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, 맞아",
-   "why": "맞아! 담임 선생님이 다음 달에 복권 1등에 당첨되는 건 확률은 엄청 낮지만, 머릿속으로 그 장면을 그려 볼 수는 있잖아. 그럴 것 같지 않아도 떠올릴 수만 있으면 conceivable인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "완전한 동그라미이면서 동시에 완전한 네모인 접시. 이런 접시는 'conceivable'한 거야?",
-   "choices": [
-    "응, 맞아",
-    "아니, 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 아니야",
-   "why": "맞아! 완전한 동그라미이면서 동시에 완전한 네모인 접시는 아무리 떠올려 봐도 머릿속에 안 그려지잖아. 이렇게 그려 볼 수조차 없는 접시는 conceivable이 아니라 그 반대(이건 inconceivable이야)인 거야."
   }
  ],
  "synonyms": [],

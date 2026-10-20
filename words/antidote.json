@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/antidote/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/antidote/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/antidote/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "antidote",
  "slug": "antidote",
  "url": "https://hibbangyong.com/words/antidote/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, antidote 맞아",
    "why": "맞아! 강아지 몸에 이미 퍼진 초콜릿 독을 풀려고 놓은 주사잖아. 독이 들어온 다음에 그 효과를 풀어 주는 약, 바로 그게 antidote야."
-  },
-  {
-   "type": "ox",
-   "question": "아빠가 복어 요리를 먹고 입술이 저려서 병원에 갔어. 의사가 원인은 복어 몸속에 들어 있던 독이라고 했어. 이 복어 독이 'antidote'야?",
-   "choices": [
-    "응, antidote 맞아",
-    "아니, antidote 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, antidote 아니야",
-   "why": "맞아! 복어 독은 아빠 입술을 저리게 만든 독 그 자체잖아. antidote는 그 독을 풀어 주는 약이라서, 독은 antidote가 아니야."
-  },
-  {
-   "type": "ox",
-   "question": "해외 캠핑을 떠나기 전에, 혹시 야생 동물에게 물려 광견병에 걸릴까 봐 병원에서 미리 주사를 맞아 뒀어. 이 주사도 'antidote'야?",
-   "choices": [
-    "응, antidote 맞아",
-    "아니, antidote 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, antidote 아니야",
-   "why": "잘 골랐어. 이 주사는 캠핑 가기 전에, 아직 아무 동물한테도 안 물렸을 때 미리 맞은 거라서 antidote가 아니야. antidote는 물린 다음에 이미 몸에 들어온 걸 풀어 주는 거거든."
   }
  ],
  "synonyms": [],
@@ -92,6 +70,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/antidote.webp",
   "alt": "뱀에 물려 독이 몸에 퍼지는 상황",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

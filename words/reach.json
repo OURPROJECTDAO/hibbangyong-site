@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/reach/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/reach/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/reach/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "reach",
  "slug": "reach",
  "url": "https://hibbangyong.com/words/reach/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, reach 맞아",
    "why": "맞아! 편지가 바다 건너 그 먼 데를 지나서 할머니 우편함까지 갔잖아. 떨어진 사이를 건너 거기까지 이른 것, 그게 바로 reach야."
-  },
-  {
-   "type": "ox",
-   "question": "부두에 선 채로 손을 흔드는 동안 배가 점점 더 멀리 나가서 사이가 자꾸 벌어졌어. 이게 'reach'야?",
-   "choices": [
-    "응, reach 맞아",
-    "아니, reach 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, reach 아니야",
-   "why": "그렇지, 이건 reach가 아니야. 배가 저기까지 간 게 아니라 자꾸 더 멀어져서 사이가 벌어지고 있잖아. 거기까지 가서 이르러야 reach인데, 여기선 반대로 가고 있는 거거든."
-  },
-  {
-   "type": "choice",
-   "question": "친구 넷이 어제 있었던 일을 하나씩 말했어. 이 중에서 'reach'라고 말할 수 있는 건 누구야?",
-   "choices": [
-    "민호는 발 앞까지 굴러온 공을 두 손으로 꽉 붙잡았어.",
-    "지수가 부른 소리가 마당 끝 아빠 귀까지 갔어.",
-    "서준이는 의자에 올라섰는데 전구까지 손이 모자랐어.",
-    "하은이는 벽에 등을 딱 붙이고 한참 서 있었어."
-   ],
-   "answer_index": 1,
-   "answer": "지수가 부른 소리가 마당 끝 아빠 귀까지 갔어.",
-   "why": "맞아! 지수 소리가 마당 끝 아빠 귀까지 갔잖아. 떨어져 있던 사이를 건너서 저기까지 이른 거니까 바로 그게 reach인 거야. 꼭 손으로 하는 게 아니어도, 소리가 거기까지 가도 이 말을 쓰거든."
   }
  ],
  "synonyms": [],
@@ -89,6 +65,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/reach.webp",
   "alt": "사다리 끝이 지붕까지 모자라 못 닿은 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

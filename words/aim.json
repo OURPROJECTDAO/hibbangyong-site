@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/aim/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/aim/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/aim/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "aim",
  "slug": "aim",
  "url": "https://hibbangyong.com/words/aim/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, aim 맞아",
    "why": "맞아! 총구를 깡통 쪽으로 딱 맞추고 멈춰 있는 거, 그게 바로 '저기로!' 하고 방향을 정한 거잖아. 콩주머니를 바구니 쪽으로 팔 맞추는 거랑 똑같아. 그래서 aim인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "수아가 눈을 감은 채 종이비행기를 아무 쪽으로나 휙 날려 보냈어. 이게 'aim'이야?",
-   "choices": [
-    "응, aim 맞아",
-    "아니, aim 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, aim 아니야",
-   "why": "맞아! 눈 감고 아무 쪽으로나 휙 날린 거니까 방향을 정한 게 아니지. 겨눈다는 건 저기로! 하고 딱 정해서 맞추는 거거든. 그러니까 이건 aim이 아닌 게 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "민수가 콩주머니를 들고 바구니 앞에 섰어. 넷 다 바구니를 앞에 두고 있는데, 콩주머니를 바구니에 'aim'하는 건 어떤 거야?",
-   "choices": [
-    "바구니에 꼭 넣겠다고 눈을 딱 고정하고, 콩주머니 든 팔을 던질 자세로 멈춰 세웠어.",
-    "바구니 앞에 서긴 했는데, 콩주머니를 아무 데로나 가라고 툭 놓아버렸어.",
-    "바구니를 바라보면서 저기 넣으면 멋지겠다 하고 상상만 했어.",
-    "콩주머니가 벌써 손을 떠나 바구니 속에 쏙 들어가 있어."
-   ],
-   "answer_index": 0,
-   "answer": "바구니에 꼭 넣겠다고 눈을 딱 고정하고, 콩주머니 든 팔을 던질 자세로 멈춰 세웠어.",
-   "why": "맞아! 바구니에 넣겠다고 눈을 딱 고정하고 팔까지 그쪽으로 맞춰 세웠잖아. 아직 던지기 전이지만 방향을 저기로! 하고 정해둔 거, 바로 그게 aim이야."
   }
  ],
  "synonyms": [
@@ -90,6 +66,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/aim.webp",
   "alt": "콩주머니를 바구니 쪽으로 팔 방향을 맞춰 던지는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

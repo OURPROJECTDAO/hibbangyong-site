@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/constitute/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/constitute/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/constitute/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "constitute",
  "slug": "constitute",
  "url": "https://hibbangyong.com/words/constitute/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, constitute 맞아",
    "why": "맞아! 삼백 명 말고 전교생이 따로 있는 게 아니거든. 그 삼백 명이 곧 전교생인 거야. 스무 명이 곧 우리 반인 거랑 똑같지."
-  },
-  {
-   "type": "ox",
-   "question": "책상 위에 쌓아 둔 블록 탑을 손으로 밀었어. 블록이 바닥에 다 흩어졌어. 이게 'constitute'야?",
-   "choices": [
-    "응, constitute 맞아",
-    "아니, constitute 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, constitute 아니야",
-   "why": "맞아! 밀어서 흩어뜨린 건 뭔가를 없앤 거잖아. constitute는 없애는 게 아니라, 이거 하나로 그게 딱 되는 거거든. 그러니까 이건 constitute가 아닌 게 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 겪은 일을 말했어. 'constitute'로 말할 수 있는 건 누구 일이야?",
-   "choices": [
-    "민수: 남의 사탕을 슬쩍 주머니에 넣었어. 그게 바로 도둑질이지 뭐야.",
-    "지호: 색종이를 오리고 풀로 붙였어. 종이배가 한 척 새로 생겼지 뭐야.",
-    "서연: 형 서랍을 열어 봤어. 딱지가 백 장이나 들었지 뭐야.",
-    "하윤: 모래로 쌓은 성을 발로 찼어. 와르르 흩어졌지 뭐야."
-   ],
-   "answer_index": 0,
-   "answer": "민수: 남의 사탕을 슬쩍 주머니에 넣었어. 그게 바로 도둑질이지 뭐야.",
-   "why": "맞아! 사탕을 슬쩍 주머니에 넣은 그 행동이 바로 도둑질이야. 도둑질이 어디 따로 있는 게 아니라, 그 행동 하나가 그대로 도둑질에 딱 해당하는 거지. 그래서 constitute로 말할 수 있어."
   }
  ],
  "synonyms": [
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/constitute.webp",
   "alt": "복도에서 뛴 그 행동이 곧 규칙 위반인 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

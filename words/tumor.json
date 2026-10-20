@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/tumor/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/tumor/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/tumor/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "tumor",
  "slug": "tumor",
  "url": "https://hibbangyong.com/words/tumor/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, tumor 맞아",
    "why": "맞아! 삼촌 목 안쪽에서 세포가 멈추지 않고 계속 불어나 뭉친 덩어리가 자라고 있다잖아. 바로 그런 덩어리가 tumor야."
-  },
-  {
-   "type": "ox",
-   "question": "동물병원에서 수의사 선생님이 고양이 배를 꼼꼼히 만져 봤어. 배 속에 불어난 덩어리는 하나도 없고, 모든 곳이 매끈하고 건강하대. 고양이 배 속의 이 상태가 'tumor'야?",
-   "choices": [
-    "응, tumor 맞아",
-    "아니, tumor 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, tumor 아니야",
-   "why": "맞아! 수의사 선생님이 만져 봤는데 배 속에 불어난 덩어리가 하나도 없대. tumor는 세포가 불어나서 생긴 그 덩어리를 말하는 거라서, 덩어리가 없는 매끈하고 건강한 배는 tumor가 아니야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 병원에서 몸에 볼록한 덩어리가 생긴 까닭을 들었어. 네 명 다 의사 선생님이 '위험한 건 아니야'라고 했대. 이 가운데 의사 선생님이 'tumor'라고 부를 만한 친구는?",
-   "choices": [
-    "부딪힌 자리 속에 피가 잔뜩 고여서 볼록한 덩어리가 생겼대.",
-    "몸속 세포 수가 자꾸자꾸 늘어나서 볼록한 덩어리가 생겼대.",
-    "벌레한테 물린 자리가 빨갛게 부어서 볼록한 덩어리가 생겼대.",
-    "감기 때문에 목 안쪽이 퉁퉁 부어서 볼록한 덩어리가 생겼대."
-   ],
-   "answer_index": 1,
-   "answer": "몸속 세포 수가 자꾸자꾸 늘어나서 볼록한 덩어리가 생겼대.",
-   "why": "맞아! 세포 수가 자꾸자꾸 늘어나서 뭉친 덩어리라서 바로 그게 tumor인 거야. 의사 선생님이 위험한 건 아니라고 했어도 세포가 불어나서 생긴 덩어리면 tumor라고 불러. 순한 tumor도 있거든."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/tumor.webp",
   "alt": "병원 사진에서 몸속에 없던 덩어리가 보인 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

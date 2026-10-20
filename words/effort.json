@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/effort/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/effort/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/effort/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "effort",
  "slug": "effort",
  "url": "https://hibbangyong.com/words/effort/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, effort 맞아",
    "why": "맞아! 안 되는 걸 그냥 포기 안 하고 열 번이나 다시 감았다 풀었다 하잖아. 그렇게 될 때까지 힘을 짜내서 붙잡고 있는 그게 바로 effort야."
-  },
-  {
-   "type": "ox",
-   "question": "자동문 앞에 서 있었더니 문이 스르륵 저절로 열렸어. 이게 'effort'야?",
-   "choices": [
-    "응, effort 맞아",
-    "아니, effort 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, effort 아니야",
-   "why": "맞아! 넌 그냥 서 있기만 했고 힘은 하나도 안 들였잖아. 문이 알아서 열린 거니까 이건 effort가 아니야."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 오늘 있었던 일을 한 마디씩 말했어. 이 중에 'effort'를 말한 아이는 누구일까?",
-   "choices": [
-    "그냥 신이 나서 운동장을 빙빙 돌며 한참 뛰어논 아이",
-    "자전거를 처음 잡은 날 바로 쌩 달려 나간 아이",
-    "자전거에서 자꾸 넘어졌는데 또 올라타 페달을 밟은 아이",
-    "자전거 대회에서 트로피를 받아 들고 온 아이"
-   ],
-   "answer_index": 2,
-   "answer": "자전거에서 자꾸 넘어졌는데 또 올라타 페달을 밟은 아이",
-   "why": "맞아! 넘어지고 또 넘어졌는데도 다시 올라타서 페달을 밟았잖아. 잘 안 되는 걸 붙잡고 애써서 밀어붙인 그 힘, 그게 바로 effort야. 성공했는지는 상관없어."
   }
  ],
  "synonyms": [
@@ -92,6 +68,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/effort.webp",
   "alt": "안 닫히는 가방 지퍼를 꾹 눌러 닫으려는 순간",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

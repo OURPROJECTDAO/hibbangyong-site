@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/lab/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/lab/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/lab/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "lab",
  "slug": "lab",
  "url": "https://hibbangyong.com/words/lab/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, lab 아니야",
    "why": "맞아! 빨래 널고 귤 까먹고 텔레비전 보는 방은 그냥 편하게 쉬는 방이지, 뭘 시험해 보고 살펴보는 방이 아니거든. 그래서 lab이 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "지호 삼촌이 다니는 회사에는 이런 방이 있어. 새로 만든 물감을 유리컵에 조금씩 담아 두고, 어느 쪽이 더 빨리 색이 바래는지 날마다 살펴보고 공책에 적어. 이 방이 'lab'이야?",
-   "choices": [
-    "응, lab 맞아",
-    "아니, lab 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, lab 맞아",
-   "why": "맞아! 새로 만든 물감이 어느 쪽이 더 빨리 색이 바래는지 날마다 살펴보고 적잖아. 이렇게 하면 어떻게 될까 궁금한 걸 직접 해 보고 지켜보는 방, 그게 바로 lab인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "지호네 학교에 'lab'이 새로 생겼대. 이 방에선 어떤 일을 할까?",
-   "choices": [
-    "흰 가운 입고 새 약이 잘 듣는지 시험하고 살펴봐",
-    "배고픈 사람들이 줄 서서 밥을 사 먹어",
-    "조용히 앉아 책을 빌려 읽어",
-    "물건을 사고팔며 돈을 주고받아"
-   ],
-   "answer_index": 0,
-   "answer": "흰 가운 입고 새 약이 잘 듣는지 시험하고 살펴봐",
-   "why": "맞아! 새 약이 잘 듣는지 직접 해 보고 살펴보는 거, 그게 바로 실험이거든. 궁금한 걸 시험해 보고 알아내는 방이라서 lab인 거야."
   }
  ],
  "synonyms": [
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/lab.webp",
   "alt": "흰 가운 입은 사람들이 유리병 속 물을 섞고 색이 바뀌는 과학 실험실 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

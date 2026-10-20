@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/remedy/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/remedy/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/remedy/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "remedy",
  "slug": "remedy",
  "url": "https://hibbangyong.com/words/remedy/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, remedy 맞아",
    "why": "맞아! 미끄러워서 넘어지던 걸 테이프 붙여서 안 넘어지게 만들었잖아. 나쁜 걸 실제로 낫게 한 거니까 이게 바로 remedy야."
-  },
-  {
-   "type": "choice",
-   "question": "우리 반이 수업 때마다 너무 시끄러워서 아무도 말을 못 들어. 네 아이가 각자 다르게 했어. 이 중 'remedy'를 내놓은 아이는 누구야?",
-   "choices": [
-    "짝꿍 자리 순서를 바꿔서 떠들던 둘을 떼어 놓았더니 교실이 조용해졌다",
-    "누가 언제부터 왜 떠드는지 꼼꼼히 알아내서 공책에 적어 두었다",
-    "시끄러운 게 싫어서 두 손으로 귀를 막고 수업 끝날 때까지 참았다",
-    "자기 말이 안 들린다며 더 크게 소리쳐서 교실이 더 시끄러워졌다"
-   ],
-   "answer_index": 0,
-   "answer": "짝꿍 자리 순서를 바꿔서 떠들던 둘을 떼어 놓았더니 교실이 조용해졌다",
-   "why": "맞아! 자리를 바꿔 놓으니까 시끄럽던 게 진짜로 조용해졌잖아. 나빠진 걸 되돌리는 방법을 실제로 쓴 거니까 바로 그게 remedy인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "형이 수수께끼를 냈어. '아침엔 다리 넷, 낮엔 둘, 저녁엔 셋인 건 뭘까?' 한참 생각하다가 답이 사람이라는 걸 알아냈어. 이 답도 'remedy'야?",
-   "choices": [
-    "응, remedy 맞아",
-    "아니, remedy 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, remedy 아니야",
-   "why": "맞아! 수수께끼 답을 알아낸 건 궁금한 걸 풀어낸 거지, 나빠진 게 있어서 되돌린 게 아니거든. 그러니까 이건 remedy가 아닌 게 맞아."
   }
  ],
  "synonyms": [
@@ -95,6 +71,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/remedy.webp",
   "alt": "문 밑 틈으로 찬바람 들어와 수건 말아 끼우기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

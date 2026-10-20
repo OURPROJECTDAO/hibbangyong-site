@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/resemble/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/resemble/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/resemble/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "resemble",
  "slug": "resemble",
  "url": "https://hibbangyong.com/words/resemble/",
@@ -45,30 +45,6 @@
    "answer_index": 0,
    "answer": "앞집 할머니가 끓인 된장국이랑 우리 엄마가 끓인 된장국은 맛이 비슷해.",
    "why": "맞아! 할머니 국이랑 엄마 국은 서로 다른 국인데 맛이 비슷하잖아. 다른 둘이 서로 비슷할 때 쓰는 말이라서 바로 그게 resemble인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 중 'resemble'에 해당하는 것은?",
-   "choices": [
-    "운동장 구석의 낡은 미끄럼틀은 은색이고 계단이 여섯 칸이야.",
-    "운동장 구석의 낡은 미끄럼틀은 우리 반 사물함이랑 생김새가 비슷해.",
-    "운동장 구석의 낡은 미끄럼틀은 우리 반 사물함이랑 겹치는 데가 하나도 없어.",
-    "운동장 구석의 낡은 미끄럼틀은 우리 반 사물함 옆에 나란히 놓여 있어."
-   ],
-   "answer_index": 1,
-   "answer": "운동장 구석의 낡은 미끄럼틀은 우리 반 사물함이랑 생김새가 비슷해.",
-   "why": "맞아! 미끄럼틀이랑 사물함은 서로 다른 물건인데 생김새가 비슷하다고 했잖아. 다른 둘이 비슷한 그게 바로 resemble이야."
-  },
-  {
-   "type": "ox",
-   "question": "우리 집 밥솥이 다 됐을 때 내는 알림 소리랑 학교 종소리는 만든 곳도 다르고 서로 아무 사이도 아니야. 높낮이랑 울리는 길이는 거의 겹쳐. 이것도 'resemble'이야?",
-   "choices": [
-    "응, resemble 맞아",
-    "아니, resemble 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, resemble 맞아",
-   "why": "맞아! 서로 아무 사이도 아닌데 높낮이랑 울리는 길이가 거의 겹치잖아. 닮았다는 건 가족이나 친척끼리만 쓰는 말이 아니라, 아무 상관 없는 둘이라도 비슷하기만 하면 쓰는 말이거든. 소리가 비슷한 것도 똑같이 닮은 거야."
   }
  ],
  "synonyms": [],
@@ -93,6 +69,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/resemble.webp",
   "alt": "나란히 세운 친구네 강아지와 우리 강아지",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

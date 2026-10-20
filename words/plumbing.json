@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/plumbing/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/plumbing/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/plumbing/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "plumbing",
  "slug": "plumbing",
  "url": "https://hibbangyong.com/words/plumbing/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, plumbing 맞아",
    "why": "맞아! 이 호텔 관들은 객실마다 물을 들여보내고, 쓰고 난 물은 건물 밖으로 내보내잖아. 층마다 벽과 바닥 속에 이어진 이 관들을 전부 합친 게 바로 plumbing이야."
-  },
-  {
-   "type": "ox",
-   "question": "5층짜리 학교 건물이 있어. 벽과 천장 속으로 층마다 전선들이 이어져 있어. 이 전선들은 교실마다 전기를 보내서 형광등과 콘센트가 작동하게 해. 이 전선들을 전부 합친 것, 이게 'plumbing'이야?",
-   "choices": [
-    "응, plumbing 맞아",
-    "아니, plumbing 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, plumbing 아니야",
-   "why": "잘 골랐어! 벽 속으로 층마다 이어진 건 같지만, 그 속을 흐르는 게 물이 아니라 전기잖아. 그러니까 이 전선들은 plumbing이 아니야."
-  },
-  {
-   "type": "choice",
-   "question": "새 집을 짓는 중이야. 다음 중 그 집의 'plumbing'을 만드는 일은 뭘까?",
-   "choices": [
-    "부엌 싱크대와 화장실 변기까지 벽 속으로 관을 이어 까는 일",
-    "거실과 방마다 불이 켜지도록 벽 속으로 전선을 이어 까는 일",
-    "마당 꽃밭에 물을 주려고 긴 고무호스 하나를 사다 놓는 일",
-    "욕실 벽에 커다란 거울과 수건걸이를 튼튼하게 달아 놓는 일"
-   ],
-   "answer_index": 0,
-   "answer": "부엌 싱크대와 화장실 변기까지 벽 속으로 관을 이어 까는 일",
-   "why": "맞아! 부엌 싱크대랑 화장실 변기까지 벽 속으로 관을 이어 까는 건, 물이 들어오고 빠져나가는 길을 집 전체에 만드는 일이야. 바로 그게 plumbing이야."
   }
  ],
  "synonyms": [],
@@ -89,6 +65,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/plumbing.webp",
   "alt": "세수하려고 수도꼭지를 틀면 벽 속 관에서 물이 나오는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

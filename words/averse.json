@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/averse/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/averse/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/averse/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "averse",
  "slug": "averse",
  "url": "https://hibbangyong.com/words/averse/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, averse 맞아",
    "why": "맞아! 민재는 물에 들어가는 게 싫어서, 계곡에 놀러 가자고 하면 웬만하면 핑계를 대고 빠지잖아. 싫어서 안 하려 드는 바로 그 마음이 averse라서, 민재는 물놀이에 averse한 거야."
-  },
-  {
-   "type": "ox",
-   "question": "하린이는 산에 오르는 게 좋아서, 주말마다 먼저 친구들한테 등산 가자고 연락을 돌려. 이런 하린이를 등산에 'averse'하다고 할 수 있을까?",
-   "choices": [
-    "응, averse 맞아",
-    "아니, averse 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, averse 아니야",
-   "why": "맞아! 하린이는 등산이 좋아서 주말마다 먼저 친구들한테 가자고 연락을 돌리잖아. averse는 싫어서 웬만하면 안 하려는 마음이니까, 하린이랑은 완전 반대야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 매운 음식 얘기를 했어. 매운 음식에 'averse'라고 할 수 있는 사람은?",
-   "choices": [
-    "지수: 매운 건 영 싫어서, 누가 권해도 웬만하면 사양해.",
-    "민호: 매운 건 엄청 좋아해서, 누가 권하면 늘 바로 받아.",
-    "서연: 매운 건 좋아하는데, 치과 치료 중이라 당분간 못 먹어.",
-    "준기: 매운 건 딱히 안 좋아하는데, 누가 권하면 사양 안 해."
-   ],
-   "answer_index": 0,
-   "answer": "지수: 매운 건 영 싫어서, 누가 권해도 웬만하면 사양해.",
-   "why": "맞아! 지수는 매운 게 영 싫어서 누가 권해도 웬만하면 사양하잖아. 싫어서 실제로 안 하려 드는 거, 바로 그게 averse야."
   }
  ],
  "synonyms": [],
@@ -83,6 +59,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/averse.webp",
   "alt": "반 회의에서 반티 맞추자는 말에 고개를 젓는 친구들",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

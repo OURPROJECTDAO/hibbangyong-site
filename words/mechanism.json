@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/mechanism/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/mechanism/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/mechanism/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "mechanism",
  "slug": "mechanism",
  "url": "https://hibbangyong.com/words/mechanism/",
@@ -44,28 +44,6 @@
    "answer_index": 0,
    "answer": "몸속에서 피를 멈추게 굴러가는 방식",
    "why": "맞아! 무릎이 까지면 네가 아무것도 안 해도 몸속에서 까진 자리의 피를 막는 일이 알아서 차례차례 되거든. 그렇게 피를 멈추게 하는 몸속의 방식이 바로 mechanism인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "우산 손잡이 버튼을 꾹 누르면 우산이 촥 펴져. 우산대 속에서 우산이 이렇게 펴지게 해 주는 것을 'mechanism'이라고 불러도 될까?",
-   "choices": [
-    "응, mechanism 맞아",
-    "아니, mechanism 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, mechanism 맞아",
-   "why": "맞아! 버튼을 꾹 누르면 우산대 속에서 여러 작은 조각이 서로 밀고 당겨서 우산이 촥 펴지거든. 이렇게 속에서 조각들이 함께 움직여서 우산을 펴 주는 것, 그게 바로 mechanism인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "민호가 책상 위 스테이플러 한 개를 손에 들고 흔들며 \"이 스테이플러가 'mechanism'이야!\" 하고 말했어. 이런 경우도 'mechanism'이야?",
-   "choices": [
-    "응, mechanism 맞아",
-    "아니, mechanism 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, mechanism 아니야",
-   "why": "잘 골랐어! 민호가 손에 든 건 스테이플러라는 물건 하나야. mechanism은 그 물건이 아니야. 스테이플러를 꾹 누르면 안에서 작은 조각들이 서로 밀어서 심이 나오게 되는데, 그렇게 되는 방식이 mechanism이거든."
   }
  ],
  "synonyms": [
@@ -83,6 +61,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/mechanism.webp",
   "alt": "열쇠를 돌리면 자물쇠 안 조각들이 맞물려 문이 열림",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

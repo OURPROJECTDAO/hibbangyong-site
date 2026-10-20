@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/excursion/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/excursion/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/excursion/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "excursion",
  "slug": "excursion",
  "url": "https://hibbangyong.com/words/excursion/",
@@ -43,28 +43,6 @@
    "answer_index": 1,
    "answer": "아니, excursion 아니야",
    "why": "맞아! 짐을 다 싸서 부산으로 이사 가 거기서 계속 사는 거니까, 잠깐 다녀오고 돌아오는 게 아니잖아. 돌아오지 않고 아예 옮겨 사는 이사라서 excursion이 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "캠핑장에서 사흘 지내는 동안, 둘째 날에 우리 가족은 근처 폭포를 보러 갔다가 저녁에 캠핑장으로 돌아왔어. 이 일, 'excursion'이야?",
-   "choices": [
-    "응, excursion 맞아",
-    "아니, excursion 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, excursion 맞아",
-   "why": "맞아! 머물던 캠핑장을 두고 둘째 날에 일부러 폭포를 보러 잠깐 나갔다가 저녁에 캠핑장으로 돌아왔잖아. 이렇게 머물던 곳에서 잠깐 다녀오는 나들이가 바로 excursion이야."
-  },
-  {
-   "type": "ox",
-   "question": "우리 가족은 강원도 콘도에 묵었는데, 하루는 버스를 타고 근처 폭포를 보러 갔다가 저녁에 콘도로 돌아왔어. 이런 경우도 'excursion'이야?",
-   "choices": [
-    "응, excursion 맞아",
-    "아니, excursion 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, excursion 맞아",
-   "why": "맞아! 콘도에 묵다가 하루는 버스 타고 근처 폭포를 일부러 보러 갔고, 저녁엔 다시 콘도로 돌아왔잖아. 머물던 곳에서 잠깐 다녀온 짧은 나들이니까, 바로 그게 excursion인 거야."
   }
  ],
  "synonyms": [

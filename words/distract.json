@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/distract/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/distract/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/distract/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "distract",
  "slug": "distract",
  "url": "https://hibbangyong.com/words/distract/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, distract 맞아",
    "why": "맞아! 누가 도현이를 붙잡거나 말린 것도 아닌데, 삐리릭 소리에 눈이 저 혼자 연필에서 화면으로 넘어갔지. 하던 일에서 마음이 딴 데로 끌려간 거, 그게 바로 distract야."
-  },
-  {
-   "type": "ox",
-   "question": "수아가 퍼즐을 맞추고 있었어. 옆에서 무슨 소리가 나도 수아는 고개도 안 들고 퍼즐 조각만 계속 들여다봤어. 이게 수아를 'distract' 한 거야?",
-   "choices": [
-    "응, distract 맞아",
-    "아니, distract 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, distract 아니야",
-   "why": "맞아! 수아는 옆에서 소리가 나도 고개도 안 들고 퍼즐만 봤잖아. 마음이 딴 데로 안 넘어가고 하던 데 그대로 붙어 있었으니까 distract 아닌 게 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "주사를 맞으러 온 다섯 살 아이가 무서워서 울먹였어. 간호사 선생님이 옆에서 곰인형을 흔들며 이름을 물어봤더니, 아이가 인형을 보며 대답하다가 주사 맞는 걸 잊었어. 이런 경우도 'distract'야?",
-   "choices": [
-    "응, distract 맞아",
-    "아니, distract 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, distract 맞아",
-   "why": "맞아! 곰인형 이름을 묻는 순간 아이 마음이 주사에서 인형 쪽으로 스르륵 넘어갔잖아. 아무도 못 하게 막은 게 아니라 마음이 저 혼자 딴 데로 끌려간 거, 그게 바로 distract야."
   }
  ],
  "synonyms": [],
@@ -84,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/distract.webp",
   "alt": "친구가 저기 봐 하고 부르자 고개가 휙 돌아가는 순간",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

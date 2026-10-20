@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/amount/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/amount/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/amount/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "amount",
  "slug": "amount",
  "url": "https://hibbangyong.com/words/amount/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, amount 맞아",
    "why": "맞아! 물이 바닥에 조금 깔렸는지 어깨까지 찼는지 보는 건, 물이 얼마만큼 있나 보는 거잖아. 그 얼마만큼이 바로 amount인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "오늘 받아쓰기에서 틀린 글자가 세 글자였어. 틀린 글자를 하나 둘 셋 세는 이건 'amount'야?",
-   "choices": [
-    "응, amount 맞아",
-    "아니, amount 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, amount 아니야",
-   "why": "맞아! 하나 둘 셋 세어서 세 글자, 이렇게 딱딱 세어지는 건 개수거든. amount는 물이나 시간처럼 세지 못하고 덩어리로 얼마만큼인지 볼 때 쓰는 말이야. 세어지면 amount가 아닌 거지."
-  },
-  {
-   "type": "ox",
-   "question": "운동장에서 아이들이 줄넘기를 하고 있어. 지호가 '저기 줄넘기하는 애들이 몇 명인지'를 말하고 싶대. 이런 경우도 'amount'야?",
-   "choices": [
-    "응, amount 맞아",
-    "아니, amount 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, amount 아니야",
-   "why": "딩동댕! 줄넘기하는 애들은 한 명, 두 명, 세 명 이렇게 하나씩 셀 수 있잖아. 그렇게 셀 수 있는 건 amount가 아니거든. amount는 물이나 시간처럼 세지는 못하고 덩어리로 얼마만큼인지만 알 수 있는 거야."
   }
  ],
  "synonyms": [
@@ -89,6 +67,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/amount.webp",
   "alt": "컵에 담긴 물이 조금인지 가득인지 보는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

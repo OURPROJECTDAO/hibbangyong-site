@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/nowhere/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/nowhere/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/nowhere/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "nowhere",
  "slug": "nowhere",
  "url": "https://hibbangyong.com/words/nowhere/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, nowhere 맞아",
    "why": "맞아! 소파 밑도 서랍도 식탁 위도 다 뒤졌는데 나온 데가 한 군데도 없잖아. 닿는 자리가 하나도 없는 거, 그게 바로 nowhere인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "비 온 다음 날 놀이터에 나갔더니 미끄럼틀 밑에도, 그네 옆에도, 모래밭 한가운데도 웅덩이가 있었어. 웅덩이가 'nowhere'에 있었던 거야?",
-   "choices": [
-    "응, nowhere 맞아",
-    "아니, nowhere 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, nowhere 아니야",
-   "why": "맞아! 미끄럼틀 밑에도, 그네 옆에도, 모래밭에도 다 있었잖아. 가는 데마다 웅덩이가 있었으니까 이건 닿는 자리가 하나도 없는 게 아니라 어디에나 다 있는 거야(이런 걸 everywhere라고 해)."
-  },
-  {
-   "type": "ox",
-   "question": "동생이 좋아하는 인형을 잃어버렸어. 방을 다 뒤졌지만 아직 못 찾았고, 엄마는 \"집 어딘가에는 분명 있을 거야\"라고 했어. 이런 경우도 'nowhere'야?",
-   "choices": [
-    "응, 'nowhere' 맞아",
-    "아니, 'nowhere' 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 'nowhere' 아니야",
-   "why": "맞아! 인형은 집 어딘가에 진짜로 있고, 아직 못 찾은 것뿐이거든. 있는데 안 보이는 거랑, 닿을 데가 한 군데도 없는 거랑은 다른 거야."
   }
  ],
  "synonyms": [],
@@ -86,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/nowhere.webp",
   "alt": "의자가 하나도 없는 교실에 애들이 우르르 들어와 앉을 자리를 못 찾는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

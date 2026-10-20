@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/subsistence/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/subsistence/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/subsistence/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "subsistence",
  "slug": "subsistence",
  "url": "https://hibbangyong.com/words/subsistence/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, subsistence 맞아",
    "why": "맞아! 아저씨는 잡은 물고기로 식구들 끼니만 겨우 채우니까 굶지는 않아. 그런데 팔거나 모아 둘 물고기는 하나도 안 남잖아. 살아가는 데 꼭 필요한 만큼만 딱 있는 거, 그게 바로 subsistence야."
-  },
-  {
-   "type": "ox",
-   "question": "삼촌은 가게를 해서 번 돈으로 생활비를 다 내고도 돈이 많이 남아. 그 돈으로 새 차를 사고 주말마다 캠핑도 다녀. 삼촌네 생활은 'subsistence'야?",
-   "choices": [
-    "응, subsistence 맞아",
-    "아니, subsistence 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, subsistence 아니야",
-   "why": "맞아! 삼촌은 생활비를 다 내고도 돈이 많이 남아서 새 차도 사고 주말마다 캠핑도 다니잖아. subsistence는 꼭 필요한 만큼만 겨우 있고 남는 게 없는 생활이라, 삼촌네처럼 넉넉한 생활은 그 반대야."
-  },
-  {
-   "type": "ox",
-   "question": "가뭄으로 농사를 완전히 망친 마을이 있어. 구호 트럭이 올 때까지 사람들이 며칠씩 아무것도 못 먹고 버티고 있대. 이런 경우도 'subsistence'야?",
-   "choices": [
-    "응, subsistence 맞아",
-    "아니, subsistence 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, subsistence 아니야",
-   "why": "그렇지, 아닌 게 맞아! 며칠씩 아무것도 못 먹고 버티는 건 꼭 필요한 만큼도 없는 거라서, 겨우 먹고사는 선보다 한참 아래야. subsistence는 굶지는 않는 그 선에 딱 걸친 상태거든."
   }
  ],
  "synonyms": [],

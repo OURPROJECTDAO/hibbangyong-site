@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/conclusion/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/conclusion/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/conclusion/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "conclusion",
  "slug": "conclusion",
  "url": "https://hibbangyong.com/words/conclusion/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, conclusion 맞아",
    "why": "맞아! 지호는 흙이 말랐는지 만져 보고, 햇빛이 잘 드는지 보고, 달력에서 물 준 날도 찾아봤어. 이렇게 하나씩 따져 본 다음에 \"물을 너무 오래 안 줘서 시들었구나!\" 하고 마지막에 딱 정한 생각이라서, 바로 그게 conclusion인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "서준이 자전거 바퀴에 바람이 빠졌어. 서준이가 바퀴를 천천히 돌려 보고, 못이 박혔는지 들여다보고, 바람 넣는 구멍도 살펴보는 중이야. 아직 왜 바람이 빠졌는지는 정하지 못했어. 지금 서준이의 이 상태가 'conclusion'이야?",
-   "choices": [
-    "응, conclusion 맞아",
-    "아니, conclusion 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, conclusion 아니야",
-   "why": "맞아! 서준이는 바퀴를 돌려 보고, 못이 박혔는지 들여다보고, 바람 넣는 구멍도 살펴보는 중이거든. 아직 왜 바람이 빠졌는지 정하지 못했으니까 conclusion이 아닌 거야. 다 따져 보고 \"이것 때문이구나!\" 하고 정해야 그게 conclusion이야."
-  },
-  {
-   "type": "ox",
-   "question": "마트에서 엄마가 우유 두 통에 적힌 날짜를 보더니 \"이쪽 우유가 더 오래 두고 먹을 수 있겠네\" 하고 생각했어. 이런 경우도 'conclusion'이야?",
-   "choices": [
-    "응, conclusion 맞아",
-    "아니, conclusion 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, conclusion 맞아",
-   "why": "맞아! 엄마는 우유 두 통에 적힌 날짜를 하나하나 보고 나서 \"이쪽 우유가 더 오래 두고 먹을 수 있겠네\" 하는 생각에 도착했거든. 이렇게 날짜를 따져 본 끝에 내린 생각이니까 바로 conclusion인 거야."
   }
  ],
  "synonyms": [
@@ -88,6 +66,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/conclusion.webp",
   "alt": "없어진 쿠키와 부스러기·초콜릿 묻은 동생 입가를 보고 누가 먹었는지 정함",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

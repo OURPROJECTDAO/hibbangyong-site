@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/belong/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/belong/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/belong/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "belong",
  "slug": "belong",
  "url": "https://hibbangyong.com/words/belong/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, belong 해",
    "why": "맞아! 지금 소파 옆에 있어도 그 우산이 원래 돌아갈 자리는 현관 우산꽂이잖아. 자리가 정해져 있으니까 바로 그게 belong인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "민수가 도서관에서 책을 빌려 와서 지금 자기 방 책상에 뒀어. 이 책이 'belong'하는 곳은 어디일까?",
-   "choices": [
-    "도서관 — 다 읽고 나면 돌아가야 할 곳이 거기라서",
-    "민수 방 책상 — 지금 책이 놓여 있는 데가 거기라서",
-    "민수 가방 — 민수가 제일 자주 들고 다니는 데라서",
-    "어디든 상관없어 — 책은 놓이는 데가 그때그때 자리라서"
-   ],
-   "answer_index": 0,
-   "answer": "도서관 — 다 읽고 나면 돌아가야 할 곳이 거기라서",
-   "why": "맞아! 다 읽고 나면 도서관으로 돌아가야 하잖아. 그렇게 원래 돌아갈 자리가 정해져 있는 게 바로 belong이야."
-  },
-  {
-   "type": "ox",
-   "question": "공원에서 바람에 이리저리 굴러다니던 낙엽 한 장이 지금 화단 흙 위에 내려앉았어. 이 낙엽은 화단에 'belong'해?",
-   "choices": [
-    "응, belong 해",
-    "아니, belong 안 해"
-   ],
-   "answer_index": 1,
-   "answer": "아니, belong 안 해",
-   "why": "맞아! 낙엽은 바람이 부는 대로 여기저기 굴러다니다가 우연히 화단에 내려앉은 거잖아. 돌아갈 자리가 정해진 게 아니라 그냥 지금 거기 있는 것뿐이라서 belong은 아닌 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/belong.webp",
   "alt": "굴러와 발밑에 멈춘 옆반 축구공",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

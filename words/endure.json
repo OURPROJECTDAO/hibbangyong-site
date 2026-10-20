@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/endure/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/endure/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/endure/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "endure",
  "slug": "endure",
  "url": "https://hibbangyong.com/words/endure/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, endure 맞아",
    "why": "맞아! 뒤꿈치가 아픈데 하루 이틀도 아니고 방학 내내 아침마다 그 신발을 신고 걸었잖아. 힘든 게 계속 오는데도 안 무너지고 그대로 지나 보낸 거, 그게 바로 endure야."
-  },
-  {
-   "type": "ox",
-   "question": "채아는 학원 가는 길에 있는 가파른 언덕이 힘들었어. 그래서 둘째 날부터는 언덕이 없는 다른 길로 빙 돌아서, 몇 달 동안 그 길로만 다녔어. 채아가 한 게 'endure'야?",
-   "choices": [
-    "응, endure 맞아",
-    "아니, endure 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, endure 아니야",
-   "why": "그래, 채아는 endure 한 게 아니야. 첫날엔 언덕을 지나갔지만 둘째 날부터는 아예 언덕 없는 길로 바꿔 버렸잖아. 힘든 걸 그대로 지나 보낸 게 아니라 힘든 걸 비켜 간 거라서, 이건 endure가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "여름 캠프에 갔는데 두 주 내내 날마다 신나는 물놀이가 이어졌어. 하루도 빠짐없이 재미있었대. 이것도 'endure'야?",
-   "choices": [
-    "응, 그것도 endure야",
-    "아니, 그건 endure가 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 그건 endure가 아니야",
-   "why": "맞아! 신나고 재미있기만 한 일은 아무리 두 주 내내 이어져도 견딜 게 없거든. endure는 힘든 게 계속 밀려오는데도 안 무너지고 그대로 가는 거라서, 즐거운 물놀이는 여기 안 들어가는 거야."
   }
  ],
  "synonyms": [
@@ -80,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/endure.webp",
   "alt": "비와 눈을 몇 해나 맞고도 그대로 걸려 있는 놀이터의 낡은 나무 그네",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

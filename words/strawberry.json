@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/strawberry/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/strawberry/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/strawberry/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "strawberry",
  "slug": "strawberry",
  "url": "https://hibbangyong.com/words/strawberry/",
@@ -41,19 +41,6 @@
    "answer_index": 0,
    "answer": "응, 맞아",
    "why": null
-  },
-  {
-   "type": "choice",
-   "question": "strawberry는 어느 것일까?",
-   "choices": [
-    "빨갛고 씨가 겉에 박힌 새콤달콤한 과일",
-    "하늘을 날아다니는 커다란 여객기",
-    "신발을 넣어 신는 길쭉한 양말",
-    "종이에 글씨를 쓰는 뾰족한 연필"
-   ],
-   "answer_index": 0,
-   "answer": "빨갛고 씨가 겉에 박힌 새콤달콤한 과일",
-   "why": null
   }
  ],
  "synonyms": [],
@@ -70,6 +57,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/strawberry.webp",
   "alt": "잘 익은 새빨간 딸기 한 알 — 하트 모양 몸통에 오톨도톨 씨앗과 위쪽 초록 꼭지가 선명하게 보이는 클로즈업(과일 딸기)",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/acoustic/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/acoustic/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/acoustic/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "acoustic",
  "slug": "acoustic",
  "url": "https://hibbangyong.com/words/acoustic/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, acoustic 아니야",
    "why": "잘 골랐어! 시력 검사표에서 제일 작은 글자가 몇 번째 줄까지 보이는지는 눈으로 보는 걸 확인하는 거야. 소리는 전혀 나오지 않으니까 acoustic 검사가 아닌 게 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "긴 터널 안에서 '야호!' 하고 외쳤더니 소리가 벽에 부딪혀 여러 번 되돌아왔어. 터널 속에서 소리가 이렇게 울리고 되돌아오는 건 'acoustic' 현상이야?",
-   "choices": [
-    "응, acoustic 맞아",
-    "아니, acoustic 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, acoustic 맞아",
-   "why": "맞아! 터널 벽에 부딪혀 '야호!'가 여러 번 되돌아오는 건 소리가 어떻게 퍼지고 어떻게 들리는지에 관한 일이라서 바로 acoustic 현상인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "학교 강당을 새로 고치는데, 한 선생님이 'acoustic' 문제부터 살펴보자고 했어. 이 선생님이 확인하려는 건 뭘까?",
-   "choices": [
-    "무대 조명이 뒷자리까지 밝게 닿는지",
-    "행사 때 틀 노래가 충분히 신나는지",
-    "뒷자리까지 말소리가 또렷하게 가는지",
-    "마이크 줄이 무대 끝까지 닿는지"
-   ],
-   "answer_index": 2,
-   "answer": "뒷자리까지 말소리가 또렷하게 가는지",
-   "why": "맞아! 선생님이 보려는 건 강당에서 말소리가 어떻게 퍼져서 뒷자리까지 또렷하게 들리느냐야. 소리가 공간에서 어떻게 전해지고 들리는지, 그게 바로 acoustic이야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/acoustic.webp",
   "alt": "강당에서는 말소리가 울리고 작은 방에서는 또렷하게 들리는 차이",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

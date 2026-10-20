@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/copy/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/copy/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/copy/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "copy",
  "slug": "copy",
  "url": "https://hibbangyong.com/words/copy/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, copy 맞아",
    "why": "맞아! 기계에서 새로 나온 스티커는 지호가 그린 도안이랑 선도 색도 크기도 똑같잖아. 지호 도안은 그대로 있고 똑같은 게 한 장 더 생긴 거니까, 바로 그게 copy인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "화가가 도화지에 손으로 직접 그린 그림이 벽에 걸려 있어. 이 그림을 보고 만든 똑같은 그림은 아직 하나도 없어. 벽에 걸린 이 그림이 'copy'야?",
-   "choices": [
-    "응, copy 맞아",
-    "아니, copy 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, copy 아니야",
-   "why": "맞아! 벽에 걸린 이 그림은 화가가 도화지에 손으로 직접 그린 처음 그림이야. 이걸 보고 똑같이 만든 게 아니라서 copy가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "민수 책상에 종이가 네 장 있어. 이 중에서 'copy'라고 부를 수 있는 건 어느 거야?",
-   "choices": [
-    "언니가 쓴 편지를 한 글자도 안 빼고 그대로 다시 적어 둔 종이",
-    "언니가 맨 처음에 손으로 써 놓은 그 편지 종이",
-    "언니 편지를 보고 중요한 말만 골라 짧게 줄여 적은 종이",
-    "언니한테 답장하려고 민수가 새로 쓴 편지 종이"
-   ],
-   "answer_index": 0,
-   "answer": "언니가 쓴 편지를 한 글자도 안 빼고 그대로 다시 적어 둔 종이",
-   "why": "맞아! 언니가 쓴 원래 편지가 따로 있고, 그걸 한 글자도 안 빼고 그대로 다시 적었잖아. 원래 편지랑 하나도 다르지 않으니까 바로 그게 copy인 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/copy.webp",
   "alt": "친구도 갖고 싶어 해서 내 그림과 똑같은 걸 하나 더 만든 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/museum/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/museum/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/museum/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "museum",
  "slug": "museum",
  "url": "https://hibbangyong.com/words/museum/",
@@ -45,32 +45,6 @@
    "answer_index": 1,
    "answer": "옛날 배 모형을 늘어놓고 찾아온 사람들이 보게 하는 곳",
    "why": "맞아! 옛날 배 모형을 늘어놓고 찾아온 사람들이 와서 보게 하잖아. 누구든 와서 보라고 늘어놓은 곳, 바로 그게 museum인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 곳 다 동네 큰길가에 나란히 있어. 이 중에서 'museum'은 어디야?",
-   "choices": [
-    "옛날 배와 커다란 나비 표본을 늘어놓고, 온 사람들이 들어와 구경하는 곳",
-    "빵과 우유를 선반에 늘어놓고, 온 사람들이 돈을 내고 사 가는 곳",
-    "공과 줄넘기를 바구니에 담아 두고, 온 아이들이 빌려서 쓰는 곳",
-    "이불과 그릇을 상자에 넣어 두고, 맡긴 사람만 꺼내 갈 수 있는 곳"
-   ],
-   "answer_index": 0,
-   "answer": "옛날 배와 커다란 나비 표본을 늘어놓고, 온 사람들이 들어와 구경하는 곳",
-   "why": "맞아! 옛날 배랑 커다란 나비를 늘어놓고, 온 사람들이 들어와 구경하는 곳이잖아. 볼 만한 걸 모아 두고 누구든 와서 보게 하는 곳, 바로 그게 museum인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 곳 모두 오래된 그릇이랑 새로 만든 로봇을 잔뜩 갖고 있어. 이 중에서 'museum'은 어디야?",
-   "choices": [
-    "값을 붙여 두고 사람들이 돈 내고 사 가게 하는 곳",
-    "문을 잠가 두고 아무도 못 들어오게 막아 둔 곳",
-    "표를 받고 사람들을 들여보내 구경하게 하는 곳",
-    "주인네 식구만 보고 손님은 들어올 수 없는 곳"
-   ],
-   "answer_index": 2,
-   "answer": "표를 받고 사람들을 들여보내 구경하게 하는 곳",
-   "why": "맞아! 표를 받고 사람들을 들여보내서 오래된 그릇이랑 새로 만든 로봇을 구경하게 하잖아. 누구든 와서 보라고 열어 둔 곳이라서 바로 그게 museum인 거야."
   }
  ],
  "synonyms": [],
@@ -88,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/museum.webp",
   "alt": "천장에 진짜 우주선이 통째로 매달린 첫 방",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

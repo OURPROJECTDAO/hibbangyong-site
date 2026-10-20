@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/dissection/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/dissection/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/dissection/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "dissection",
  "slug": "dissection",
  "url": "https://hibbangyong.com/words/dissection/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, dissection 맞아",
    "why": "맞아! 연구원이 죽은 쥐의 몸을 갈라서 심장, 폐, 위가 어떻게 생겼는지 하나씩 살펴봤잖아. 죽은 몸을 갈라 속이 어떻게 생겼는지 들여다본 거니까 바로 그게 dissection이야."
-  },
-  {
-   "type": "ox",
-   "question": "동생이 상자에 흩어져 있던 1000조각 직소 퍼즐을 하나씩 맞춰 바다 그림을 완성했어. 이 일을 'dissection'이라고 부를 수 있을까?",
-   "choices": [
-    "응, dissection 맞아",
-    "아니, dissection 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, dissection 아니야",
-   "why": "맞아! 동생은 상자에 흩어져 있던 조각을 하나씩 맞춰서 바다 그림 하나로 합친 거잖아. dissection은 반대로 하나를 갈라서 나눠 놓고 속을 들여다보는 일이라서, 이건 dissection이 아니야."
-  },
-  {
-   "type": "choice",
-   "question": "네 장면이 있어. 이 중에서 'dissection'이라고 부를 수 있는 건 어느 거야?",
-   "choices": [
-    "횟집 아저씨가 손님상에 낼 물고기를 잘게 썰어 접시에 담았어.",
-    "동물병원 의사가 다친 강아지의 배를 갈라 상처를 꿰매 줬어.",
-    "과학실에서 물고기 몸을 갈라 속에 든 기관을 하나씩 살펴봤어.",
-    "과학실에서 흩어진 뼈 조각을 맞춰서 물고기 모양을 만들었어."
-   ],
-   "answer_index": 2,
-   "answer": "과학실에서 물고기 몸을 갈라 속에 든 기관을 하나씩 살펴봤어.",
-   "why": "맞아! 과학실에서 물고기 몸을 가른 건 속에 든 기관이 어떻게 생겼는지 하나씩 살펴보려고 한 거잖아. 그렇게 살펴보려고 가르는 일이 바로 dissection이야."
   }
  ],
  "synonyms": [],
@@ -93,6 +69,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/dissection.webp",
   "alt": "과학 시간 오징어 해부",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

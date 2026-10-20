@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/silver/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/silver/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/silver/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "silver",
  "slug": "silver",
  "url": "https://hibbangyong.com/words/silver/",
@@ -45,28 +45,6 @@
    "answer_index": 1,
    "answer": "흰빛으로 빛나는 반지, 오래 두면 거뭇해져서 닦아 줘야 해",
    "why": "맞아! 흰빛으로 반짝이고, 오래 두면 거뭇해져서 닦아 줘야 하는 반지잖아. 바로 그게 silver로 만든 반지인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "지호가 문구점에서 거스름돈으로 100원짜리 동전 세 개를 받았어. 손바닥에 놓인 이 동전들의 빛깔을 'silver'라고 부를 수 있을까?",
-   "choices": [
-    "응, silver 맞아",
-    "아니, silver 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, silver 맞아",
-   "why": "맞아! 지호 손바닥에 있는 100원짜리 동전은 하얗게 반짝이잖아. 이렇게 흰빛으로 반짝이는 빛깔을 바로 silver라고 부르는 거야."
-  },
-  {
-   "type": "ox",
-   "question": "지호가 낡은 전선을 가위로 잘라 봤더니 안에 가느다란 금속 줄이 가득했어. 십 원짜리 동전이랑 똑같은 빛깔이야. 이 줄의 빛깔을 'silver'라고 부를 수 있을까?",
-   "choices": [
-    "응, silver 맞아",
-    "아니, silver 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, silver 아니야",
-   "why": "맞아! 전선 속 줄은 십 원짜리 동전이랑 똑같은 빛깔이라서 붉은빛이 돌거든. silver는 하얗게 반짝이는 빛깔이니까, 이 줄은 silver가 아닌 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +60,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/silver.webp",
   "alt": "서랍에 오래 둬서 거뭇해진 할머니 숟가락을 문질러 다시 반짝이게 하는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

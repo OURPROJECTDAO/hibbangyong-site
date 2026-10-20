@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/articulation/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/articulation/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/articulation/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "articulation",
  "slug": "articulation",
  "url": "https://hibbangyong.com/words/articulation/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, articulation 맞아",
    "why": "맞아! 민호는 처음엔 \"결말이 뭔가 좀…\"이라고만 하면서 흐릿한 느낌에 머물러 있었잖아. 그러다 주인공이 아무 이유 없이 마음을 바꿔서 어색했다고 한 문장으로 또렷하게 꺼냈으니까, 그 마지막 말이 바로 articulation이야."
-  },
-  {
-   "type": "ox",
-   "question": "병원 진료실에서 의사 선생님이 '어디가 어떻게 불편해요?'라고 물었어. 서연이는 '그냥… 좀… 이상해요'라고만 하고, 끝까지 어디가 어떤지 말하지 못했어. 서연이가 한 이 말, 'articulation'이야?",
-   "choices": [
-    "응, articulation 맞아",
-    "아니, articulation 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, articulation 아니야",
-   "why": "맞아! 서연이는 말을 하긴 했지만 '그냥… 좀… 이상해요'에서 멈췄고, 어디가 어떻게 불편한지는 끝까지 못 꺼냈잖아. 흐릿한 느낌이 흐릿한 채로 남았으니 articulation이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "반 회의에서 지우가 한 행동 네 가지야. 이 중에서 'articulation'이라고 부를 수 있는 건 어느 거야?",
-   "choices": [
-    "아는 말을 다 끌어와서, 5분 동안 한 번도 안 막히고 말을 이어 갔어.",
-    "다들 '뭔가 이상한데'만 하던 걸, '발표 순서가 안 정해져서야'라고 한 줄로 적어 보였어.",
-    "할 말을 머릿속으로 여러 번 다듬어 봤지만, 아직 입 밖에 내지는 않았어.",
-    "친구가 낸 의견을 큰 목소리로 세 번 되풀이해서, 다들 확실히 들었어."
-   ],
-   "answer_index": 1,
-   "answer": "다들 '뭔가 이상한데'만 하던 걸, '발표 순서가 안 정해져서야'라고 한 줄로 적어 보였어.",
-   "why": "맞아! 다들 '뭔가 이상한데'만 하고 흐릿하게 느끼던 걸, 지우가 '발표 순서가 안 정해져서야'라고 한 줄로 또렷하게 꺼내 놨잖아. 말이 아니라 글로 적어 보인 거여도, 흐릿하던 생각이 분명한 모양으로 밖에 나왔으면 그게 바로 articulation이야."
   }
  ],
  "synonyms": [],

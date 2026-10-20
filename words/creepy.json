@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/creepy/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/creepy/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/creepy/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "creepy",
  "slug": "creepy",
  "url": "https://hibbangyong.com/words/creepy/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, creepy 아니야",
    "why": "맞아! 눈 오는 저녁에 할머니 댁 거실에서 담요 덮고 코코아 마시고, 옆에서 고양이가 가르릉거리며 자잖아. 소름 돋을 게 하나도 없이 따뜻하고 편한 장면이라, creepy가 아니라 오히려 아늑한 거야(이건 cozy야)."
-  },
-  {
-   "type": "ox",
-   "question": "이모네 창고 문을 열었더니, 구석 선반에 머리카락이 헝클어진 낡은 인형이 눈을 뜬 채 문 쪽을 향해 앉아 있었어. 인형은 움직이지도 않고 아무 일도 없었지만, 그 앞을 지나가기가 싫었어. 이 인형은 'creepy'해?",
-   "choices": [
-    "응, creepy 맞아",
-    "아니, creepy 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, creepy 맞아",
-   "why": "맞아! 인형은 움직이지도 않고 아무 일도 없었는데, 눈을 뜬 채 문 쪽을 보고 앉아 있으니까 괜히 그 앞을 지나가기 싫었잖아. 위험한 건 없는데 뭔가 이상해서 기분 나쁜 그 느낌이 바로 creepy야."
-  },
-  {
-   "type": "choice",
-   "question": "마당에서 돌을 들춰 보던 친구가 거미를 보고 'creepy'라고 했어. 이때 친구가 말한 건 어떤 느낌일까?",
-   "choices": [
-    "거미가 날 물어서 다칠까 봐 겁이 나는 느낌",
-    "다리 여러 개가 꼼지락대는 게 징그러워 몸이 움츠러드는 느낌",
-    "거미 모양이 특이하게 생겨서 신기한 느낌",
-    "거미줄이 손에 달라붙어서 귀찮고 짜증 나는 느낌"
-   ],
-   "answer_index": 1,
-   "answer": "다리 여러 개가 꼼지락대는 게 징그러워 몸이 움츠러드는 느낌",
-   "why": "맞아! 돌 밑에서 다리 여러 개가 꼼지락대는 걸 보면 딱히 해를 끼친 것도 없는데 괜히 소름 돋고 몸이 움츠러들잖아. 그 징그럽고 찜찜한 소름이 바로 creepy야."
   }
  ],
  "synonyms": [
@@ -90,6 +66,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/creepy.webp",
   "alt": "아무 일도 없는데 괜히 소름 돋는 순간",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

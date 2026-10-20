@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/steep/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/steep/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/steep/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "steep",
  "slug": "steep",
  "url": "https://hibbangyong.com/words/steep/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, steep 맞아",
    "why": "맞아! 칸이 거의 서 있다시피 붙어 있어서 몸을 앞으로 숙여야 하잖아. 그게 바로 기울기가 확 선 거야. 그래서 steep인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "주차장 옥상으로 올라가는 자동차 길이 빙 둘러 아주 천천히 비스듬하게 이어져서, 유모차를 밀고도 쑥쑥 올라갈 수 있어. 이 길, 'steep'해?",
-   "choices": [
-    "응, steep 맞아",
-    "아니, steep 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, steep 아니야",
-   "why": "맞아! 빙 둘러서 아주 천천히 비스듬하게 이어지잖아. 유모차를 밀고도 쑥쑥 올라갈 정도면 기울기가 서 있는 게 아니라 살살 누워 있는 거거든. 그래서 steep이 아닌 게 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "친구 넷이 자기가 다녀온 길을 설명했어. 이 중에서 'steep'한 길은 어느 거야?",
-   "choices": [
-    "짧은데 벽처럼 확 치솟아 있어서 손으로 짚고 기어올라가야 하는 길",
-    "아주 높은 데까지 가긴 하는데 비스듬히 살살 돌아 이어지는 기다란 길",
-    "바닥은 평평한데 얼음이 얼어서 자꾸 발이 쭉쭉 미끄러지는 길",
-    "울퉁불퉁 돌멩이가 잔뜩 깔려 있어서 발목이 자꾸 꺾이는 길"
-   ],
-   "answer_index": 0,
-   "answer": "짧은데 벽처럼 확 치솟아 있어서 손으로 짚고 기어올라가야 하는 길",
-   "why": "맞아! 짧아도 벽처럼 확 서 있어서 손으로 짚고 기어올라가야 하잖아. 그렇게 기울기가 확 치솟은 게 바로 steep인 거야."
   }
  ],
  "synonyms": [],
@@ -84,6 +60,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/steep.webp",
   "alt": "아래가 안 보일 만큼 뚝 떨어지는 미끄럼틀 앞에 선 아이",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

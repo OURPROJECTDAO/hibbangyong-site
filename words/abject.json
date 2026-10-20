@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/abject/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/abject/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/abject/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "abject",
  "slug": "abject",
  "url": "https://hibbangyong.com/words/abject/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, 맞아",
    "why": "맞아! 사업이 세 번 연달아 망해서 집도 차도 다 잃고 공원 벤치에서 자는 건, 더 내려갈 데가 없는 바닥까지 간 처지야. 그래서 삼촌의 처지는 abject하다고 할 수 있어."
-  },
-  {
-   "type": "ox",
-   "question": "언니는 꿈꾸던 대학에 수석으로 붙고 장학금까지 받았어. 더 바랄 게 없을 만큼 최고로 잘 풀렸지. 언니의 이 처지를 'abject'하다고 할 수 있을까?",
-   "choices": [
-    "응, 맞아",
-    "아니, 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 아니야",
-   "why": "맞아! 언니는 수석으로 붙고 장학금까지 받아서 최고로 잘 풀린 거잖아. abject는 가난이나 실패 같은 나쁜 처지가 더 내려갈 데 없이 바닥까지 간 거라서, 언니 처지랑은 정반대야."
-  },
-  {
-   "type": "choice",
-   "question": "큰 잘못을 한 운동선수가 기자회견에서 'abject' 사과를 했어. 여기서 'abject'는 사과가 어떻다는 뜻일까?",
-   "choices": [
-    "자존심을 다 내려놓고 자기를 한껏 낮춘",
-    "형편이 아주 어려워져 돈이 다 떨어진",
-    "말이 짧고 별로 성의가 없어 보이는",
-    "남 탓을 섞어 가며 변명을 늘어놓는"
-   ],
-   "answer_index": 0,
-   "answer": "자존심을 다 내려놓고 자기를 한껏 낮춘",
-   "why": "맞아! 큰 잘못을 한 선수가 자존심을 다 내려놓고 자기를 바닥까지 낮춰서 한 사과야. 그래서 이게 abject 사과인 거야."
   }
  ],
  "synonyms": [],

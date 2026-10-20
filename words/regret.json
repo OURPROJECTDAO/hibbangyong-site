@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/regret/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/regret/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/regret/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "regret",
  "slug": "regret",
  "url": "https://hibbangyong.com/words/regret/",
@@ -45,28 +45,6 @@
    "answer_index": 0,
    "answer": "우산을 안 챙기고 나온 게 자꾸 마음에 걸려, 그때 다르게 했으면 싶어.",
    "why": "맞아! 우산을 안 챙긴 건 지나간 내 선택이고, 그때 다르게 했으면 싶은 마음이잖아. 그렇게 내 선택을 도로 무르고 싶어지는 게 바로 regret이야."
-  },
-  {
-   "type": "ox",
-   "question": "할머니 댁에서 키우던 강아지를 지호가 아주 예뻐했어. 이번 방학엔 할머니 댁에 못 가서, 지호는 그 강아지가 자꾸 보고 싶고 마음이 허전해. 이런 마음도 'regret'야?",
-   "choices": [
-    "응, 'regret' 맞아.",
-    "아니, 'regret' 아니야."
-   ],
-   "answer_index": 1,
-   "answer": "아니, 'regret' 아니야.",
-   "why": "잘 봤어! 지호가 '아, 그때 그럴걸' 하고 무르고 싶은 자기 선택이 없거든. 그냥 강아지가 보고 싶어서 허전한 거라서, 이건 regret이 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "수아가 동생 장난감을 부러뜨렸어. 마음속으로는 아무 생각이 없었지만, 엄마가 시켜서 동생 앞에 서서 '미안해'라고 또박또박 말했어. 수아가 지금 하고 있는 게 'regret'야?",
-   "choices": [
-    "응, 'regret' 맞아.",
-    "아니, 'regret' 아니야."
-   ],
-   "answer_index": 1,
-   "answer": "아니, 'regret' 아니야.",
-   "why": "맞아! 수아는 속으로 아무 생각이 없고 입으로만 미안하다고 말한 거잖아. 무르고 싶은 마음이 하나도 없으니까 regret은 아닌 거야."
   }
  ],
  "synonyms": [],
@@ -95,6 +73,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/regret.webp",
   "alt": "무서워서 높은 물미끄럼틀을 안 타고 내려온 아이",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

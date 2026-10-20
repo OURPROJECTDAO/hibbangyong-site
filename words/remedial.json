@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/remedial/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/remedial/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/remedial/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "remedial",
  "slug": "remedial",
  "url": "https://hibbangyong.com/words/remedial/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, remedial 맞아",
    "why": "맞아! 받아쓰기를 자꾸 틀린 애들이 맞춤법 기초부터 다시 배우는 거니까, 놓친 부분을 메워 주는 수업이야. 그래서 이게 바로 remedial 수업이야."
-  },
-  {
-   "type": "ox",
-   "question": "과학 대회에 나가는 애들이 방과 후에 대학교에서 하는 실험을 미리 해 보는 수업을 들어. 이 수업은 'remedial' 수업이야?",
-   "choices": [
-    "응, remedial 맞아",
-    "아니, remedial 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, remedial 아니야",
-   "why": "맞아! 이 수업은 과학 대회 나가는 애들이 대학교에서 하는 실험을 미리 해 보는 거라서, 모자란 걸 메우는 게 아니라 앞서 나가는 수업이야. 그러니까 remedial이 아니지."
-  },
-  {
-   "type": "choice",
-   "question": "네 명이 각자 방과 후에 듣는 수업을 말했어. 'remedial' 수업이라고 부르기에 가장 알맞은 건?",
-   "choices": [
-    "떠들었다고 벌로 남아서 반성문을 쓰는 시간",
-    "잘하는 애들이 고등 과정을 미리 배우는 시간",
-    "아파서 한 달 빠진 진도를 따라잡으려고 듣는 시간",
-    "시험 전에 반 전체가 다 같이 듣는 정리 시간"
-   ],
-   "answer_index": 2,
-   "answer": "아파서 한 달 빠진 진도를 따라잡으려고 듣는 시간",
-   "why": "맞아! 아파서 한 달 빠진 만큼 진도가 비었잖아. 그 빈 곳을 메워서 다시 따라잡으려고 듣는 수업이니까 딱 remedial인 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/remedial.webp",
   "alt": "수학 진도를 놓친 학생들을 따로 모아 다시 가르치는 수업",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

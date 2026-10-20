@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/petty/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/petty/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/petty/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "petty",
  "slug": "petty",
  "url": "https://hibbangyong.com/words/petty/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, petty 아니야",
    "why": "맞아! 마을 수백 가구가 집을 잃은 큰 홍수는 절대 가볍게 넘길 일이 아니잖아. petty는 별로 중요하지 않은 일에 쓰는 말이라, 이렇게 심각한 일에는 안 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "동생이 TV 리모컨을 먼저 잡았다는 이유 하나로 형이랑 저녁 내내 말다툼을 했어. 이 말다툼은 'petty'한 일일까?",
-   "choices": [
-    "응, petty 맞아",
-    "아니, petty 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, petty 맞아",
-   "why": "맞아! 리모컨을 누가 먼저 잡았는지는 지나고 보면 별것도 아닌 일이잖아. 그런 하찮은 일로 저녁 내내 싸운 거니까 바로 petty한 말다툼인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 가지 상황이 있어. 이 중에서 'petty'라고 부르기에 가장 알맞은 건?",
-   "choices": [
-    "교실 창가에 놓인 손톱만 한 화분",
-    "친구가 크게 다쳐서 병원에 간 일",
-    "자리 순서 하나로 하루 종일 따지는 일",
-    "작지만 없으면 시험을 못 보는 수험표"
-   ],
-   "answer_index": 2,
-   "answer": "자리 순서 하나로 하루 종일 따지는 일",
-   "why": "맞아! 자리 순서 하나는 사실 별로 중요한 게 아니잖아. 그런 걸로 하루 종일 따지니까 바로 petty한 일인 거야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/petty.webp",
   "alt": "지우개 하나 때문에 친구랑 하루 종일 삐진 일",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

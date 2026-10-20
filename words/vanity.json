@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/vanity/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/vanity/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/vanity/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "vanity",
  "slug": "vanity",
  "url": "https://hibbangyong.com/words/vanity/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, vanity 맞아",
    "why": "맞아! 민수는 새 운동화를 신은 자기 모습에 푹 빠져서 수업 시간에도 발만 내려다보며 '역시 이 신발 신은 나 진짜 멋지다' 하고 혼자 감탄하잖아. 자기 멋진 모습에 이렇게 지나치게 취해 있는 마음이 바로 vanity인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "지아는 미술 시간에 자기 그림이 친구들 것보다 훨씬 못하다고 생각해. 선생님이 앞에 나와 보여 달라고 하자 그림을 뒤집어 놓고 고개를 푹 숙였어. 지아의 이 마음이 'vanity'야?",
-   "choices": [
-    "응, vanity 맞아",
-    "아니, vanity 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, vanity 아니야",
-   "why": "맞아, 이건 vanity가 아니야! 지아는 자기 그림에 취한 게 아니라 친구들 것보다 훨씬 못하다고 여겨서 그림을 뒤집어 놓고 고개를 푹 숙였잖아. vanity는 자기 잘난 모습에 지나치게 빠진 마음이라, 지아 마음이랑은 정반대야."
-  },
-  {
-   "type": "ox",
-   "question": "몇 달 동안 연습한 피아노 곡을 드디어 틀리지 않고 끝까지 쳤어. '열심히 하니까 되네' 하고 뿌듯한 마음으로 잠자리에 들었어. 이런 경우도 'vanity'야?",
-   "choices": [
-    "응, vanity 맞아",
-    "아니, vanity 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, vanity 아니야",
-   "why": "맞아! 몇 달 연습한 곡을 드디어 끝까지 쳐냈으니까 '열심히 하니까 되네' 하고 뿌듯한 거잖아. 해낸 만큼 알맞게 뿌듯한 거라서 vanity가 아니고, 그냥 건강한 뿌듯함(이건 pride야)이야."
   }
  ],
  "synonyms": [],
@@ -84,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/vanity.webp",
   "alt": "새 옷 입은 날 거울 앞을 한 시간 동안 못 떠남",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

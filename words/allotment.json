@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/allotment/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/allotment/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/allotment/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "allotment",
  "slug": "allotment",
  "url": "https://hibbangyong.com/words/allotment/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, allotment 맞아",
    "why": "맞아! 선생님이 조마다 장작을 열 개씩 정해서 나눠 줬잖아. 우리 조가 고른 양이 아니라 선생님이 미리 정해 준 몫이니까, 그 장작 열 개가 바로 allotment인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "캠핑 체험 날, 우리 조원들이 캠핑장 옆 숲에서 마른 나뭇가지를 줍고 싶은 만큼 주워 왔어. 우리 조가 모은 나뭇가지, 이게 우리 조의 allotment야?",
-   "choices": [
-    "응, allotment 맞아",
-    "아니, allotment 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, allotment 아니야",
-   "why": "맞아! 숲에서 줍고 싶은 만큼 주워 온 나뭇가지는 누가 미리 정해서 나눠 준 게 아니잖아. 정해진 몫을 받은 게 아니라 우리가 마음대로 모은 거니까 allotment가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "수련회에서 선생님이 학생마다 하루에 휴대폰을 쓸 수 있는 시간을 20분씩만 정해 줬어. 이런 경우도 'allotment'야?",
-   "choices": [
-    "응, allotment 맞아",
-    "아니, allotment 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, allotment 맞아",
-   "why": "맞아! 학생이 고른 게 아니라 선생님이 학생마다 하루 20분씩 미리 정해서 나눠 준 몫이라서, 바로 그게 allotment인 거야."
   }
  ],
  "synonyms": [
@@ -86,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/allotment.webp",
   "alt": "동아리 발표회 팀별 무대 시간 5분",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

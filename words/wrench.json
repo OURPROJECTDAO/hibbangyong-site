@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/wrench/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/wrench/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/wrench/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "wrench",
  "slug": "wrench",
  "url": "https://hibbangyong.com/words/wrench/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, wrench 아니야",
    "why": "맞아! 지우는 자석을 냉장고 문에 톡 갖다 붙였지. wrench는 꽉 붙은 걸 힘껏 비틀어서 확 떼어 내는 거라 붙이는 거랑은 방향부터 반대야."
-  },
-  {
-   "type": "ox",
-   "question": "강아지가 밧줄 장난감을 입에 꽉 물고 놓지 않았어. 형이 그 장난감을 힘껏 비틀면서 강아지 입에서 확 빼냈어. 형이 한 일을 'wrench'라고 할 수 있어?",
-   "choices": [
-    "응, wrench 맞아",
-    "아니, wrench 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, wrench 맞아",
-   "why": "맞아! 강아지가 입에 꽉 물고 안 놓던 밧줄 장난감을 형이 힘껏 비틀면서 확 빼냈잖아. 꽉 잡혀 있는 걸 거칠게 비틀어서 떼어 낸 거니까 딱 wrench야."
-  },
-  {
-   "type": "choice",
-   "question": "민지가 뭔가를 떼어 내거나 열었어. 민지가 한 일을 'wrench'라고 부를 수 있는 건?",
-   "choices": [
-    "꽉 박힌 손잡이를 거칠게 비틀어서 뽑아냈어",
-    "병뚜껑을 손끝으로 천천히 돌려서 열었어",
-    "엉킨 줄을 한 손으로 쭉 당겨서 풀었어",
-    "붙은 스티커를 칼로 조심히 긁어서 뗐어"
-   ],
-   "answer_index": 0,
-   "answer": "꽉 박힌 손잡이를 거칠게 비틀어서 뽑아냈어",
-   "why": "맞아! 꽉 박힌 손잡이를 힘줘서 거칠게 비틀어서 뽑아냈잖아. 비틀기, 거친 힘, 떼어 내기가 다 들어 있어서 바로 그게 wrench인 거야."
   }
  ],
  "synonyms": [],
@@ -96,6 +72,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/wrench.webp",
   "alt": "친구가 꽉 쥔 필통을 비틀어 빼 오기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

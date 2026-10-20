@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/woo/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/woo/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/woo/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "woo",
  "slug": "woo",
  "url": "https://hibbangyong.com/words/woo/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, woo 아니야",
    "why": "맞아! 관장은 등록하겠다고 찾아온 학생한테 자리가 없다며 신청서도 안 받고 돌려보냈잖아. 잘해 주면서 자기 도장으로 오게 만들려고 애쓰는 게 woo인데, 이건 오겠다는 학생을 밀어낸 거니까 정반대야."
-  },
-  {
-   "type": "ox",
-   "question": "새로 문을 연 휴대폰 가게가 손님들을 끌려고 무료 액세서리를 나눠 주고, 한 달 요금 할인도 내걸었어. 이 가게는 손님들을 'woo'하고 있는 걸까?",
-   "choices": [
-    "응, woo 맞아",
-    "아니, woo 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, woo 맞아",
-   "why": "맞아! 이 가게는 무료 액세서리를 나눠 주고 한 달 요금 할인까지 내걸었잖아. 손님을 억지로 끌고 오는 게 아니라, 잘해 주면서 손님이 스스로 오게 만들려고 애쓰는 거라서 바로 woo야."
-  },
-  {
-   "type": "choice",
-   "question": "선거를 앞둔 후보가 있어. 다음 중 후보가 주민들을 'woo'하고 있는 모습은?",
-   "choices": [
-    "투표 날짜와 장소를 적은 안내문을 집집마다 붙이고 다녀",
-    "표를 안 주면 손해 볼 거라며 주민들에게 겁을 줘",
-    "주민들이 원하는 공원을 지어 주겠다며 집집마다 인사하러 다녀",
-    "시끄럽다며 구경하던 주민들을 유세장 밖으로 내보내"
-   ],
-   "answer_index": 2,
-   "answer": "주민들이 원하는 공원을 지어 주겠다며 집집마다 인사하러 다녀",
-   "why": "맞아! 주민들이 원하는 공원을 지어 주겠다고 하고 집집마다 인사까지 다니잖아. 잘해 주면서 주민들 마음이 스스로 자기 쪽으로 오게 애쓰는 거라서, 바로 그게 woo야."
   }
  ],
  "synonyms": [],
@@ -93,6 +69,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/woo.webp",
   "alt": "새 학기 동아리 홍보 날 선배들이 간식·공연으로 1학년을 끌어들이려 애씀",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/flavor/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/flavor/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/flavor/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "flavor",
  "slug": "flavor",
  "url": "https://hibbangyong.com/words/flavor/",
@@ -45,19 +45,6 @@
    "answer_index": 1,
    "answer": "혀에 닿는 달콤한 맛",
    "why": "맞아! flavor는 혀가 콕 집어내는 맛이거든. 망고를 한 입 물었을 때 혀에 딱 닿는 그 달콤함, 바로 그게 망고의 flavor인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "수아가 새 포도 음료수를 마시면서 이것저것 느꼈어. 그중에서 음료수의 'flavor'를 말하는 건 어느 거야?",
-   "choices": [
-    "새콤달콤한 포도 맛",
-    "코끝에 확 풍겨오는 달콤한 냄새",
-    "입안에서 톡톡 터지는 탄산 느낌",
-    "투명한 병에 비치는 보라색 빛깔"
-   ],
-   "answer_index": 0,
-   "answer": "새콤달콤한 포도 맛",
-   "why": "맞아! 새콤달콤한 포도 맛은 수아가 음료수를 마셨을 때 혀가 알아챈 맛이거든. 그래서 바로 그게 이 음료수의 flavor인 거야."
   }
  ],
  "synonyms": [],
@@ -74,6 +61,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/flavor.webp",
   "alt": "딸기우유 한 모금에 혀가 '딸기다!' 알아채는 입안 순간",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

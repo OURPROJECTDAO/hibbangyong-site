@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/frog/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/frog/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/frog/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "frog",
  "slug": "frog",
  "url": "https://hibbangyong.com/words/frog/",
@@ -41,19 +41,6 @@
    "answer_index": 1,
    "answer": "아니, 아니야",
    "why": null
-  },
-  {
-   "type": "choice",
-   "question": "frog은 어느 것일까?",
-   "choices": [
-    "긴 코로 물을 뿜으며 쿵쿵 걷는 커다란 동물",
-    "나뭇가지에 매달려 바나나를 까먹고 나무를 타는 동물",
-    "연못에서 폴짝폴짝 뛰고 개굴개굴 우는 초록 동물",
-    "노란 갈기를 날리며 넓은 초원을 어슬렁 걷는 동물"
-   ],
-   "answer_index": 2,
-   "answer": "연못에서 폴짝폴짝 뛰고 개굴개굴 우는 초록 동물",
-   "why": null
   }
  ],
  "synonyms": [],
@@ -69,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/frog.webp",
   "alt": "초록색 개구리 한 마리가 연잎 위에 앉아 정면을 보는 모습(frog=개구리, 사물 단독)",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

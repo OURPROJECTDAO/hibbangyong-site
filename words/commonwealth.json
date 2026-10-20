@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/commonwealth/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/commonwealth/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/commonwealth/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "commonwealth",
  "slug": "commonwealth",
  "url": "https://hibbangyong.com/words/commonwealth/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, commonwealth 아니야",
    "why": "맞아, 이건 commonwealth가 아니야! 두 나라가 대사관을 닫고 국경을 막은 채 물건도 안 사고팔고 회의도 따로 안 여니까, 함께 모여 다 같이 잘 살자는 commonwealth랑은 정반대인 거지."
-  },
-  {
-   "type": "ox",
-   "question": "4년마다 한 번 열리는 스포츠 대회에 뉴질랜드, 케냐, 자메이카 선수들이 함께 나와. 이 나라들은 예전에 영국이 다스렸다가 독립했고, 지금은 대회를 여는 모임에 모두 같은 자격의 회원국으로 속해 있어. 이 나라들의 모임이 'commonwealth'야?",
-   "choices": [
-    "응, commonwealth 맞아",
-    "아니, commonwealth 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, commonwealth 맞아",
-   "why": "맞아! 뉴질랜드, 케냐, 자메이카는 예전에 영국이 다스렸다가 독립했는데, 지금도 모두 같은 자격의 회원국으로 한 모임에 속해 있잖아. 딱 그런 나라들의 모임이 commonwealth야."
-  },
-  {
-   "type": "choice",
-   "question": "사회 시간에 나라들이 모이거나 묶이는 네 가지 모습을 배웠어. 그중 'the Commonwealth'에 해당하는 건?",
-   "choices": [
-    "예전에 한 나라 밑에 있던 여러 나라가, 이제 각자 정부를 두고 같은 자리에서 의논하는 모임",
-    "힘센 나라 하나가 멀리 있는 여러 땅을 차지하고, 그곳에 명령을 내리며 세금을 걷는 나라",
-    "전쟁이 나면 서로 군대를 보내 함께 싸우기로, 몇몇 나라가 굳게 약속해 둔 모임",
-    "여러 나라가 똑같이 돈을 내서 한 곳에 모아 두고, 필요할 때 함께 꺼내 쓰는 금고"
-   ],
-   "answer_index": 0,
-   "answer": "예전에 한 나라 밑에 있던 여러 나라가, 이제 각자 정부를 두고 같은 자리에서 의논하는 모임",
-   "why": "맞아! 예전엔 한 나라 밑에 있었어도 지금은 각자 정부를 두고, 누구 자리가 더 높은 것도 없이 같은 자리에서 의논하잖아. 바로 그게 the Commonwealth야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/commonwealth.webp",
   "alt": "영국·캐나다·인도·호주 대표들이 한 테이블에 둘러앉아 하는 회의",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

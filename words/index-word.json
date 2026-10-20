@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/index-word/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/index-word/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/index-word/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "index",
  "slug": "index-word",
  "url": "https://hibbangyong.com/words/index-word/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, index 맞아",
    "why": "맞아! 낱말 하나하나 옆에 몇 쪽인지 콕 집어 적어둔 뒷장 목록이잖아. 준호는 '사슴벌레'가 궁금하면 88쪽으로 바로 넘어가면 되는 거야. 그렇게 찾고 싶은 걸 빨리 찾게 해주는 게 index거든."
-  },
-  {
-   "type": "ox",
-   "question": "서연이가 위인전 첫 장부터 한 줄씩 소리 내어 읽으며 이야기 내용을 쭉 따라가고 있어. 이게 'index'야?",
-   "choices": [
-    "응, index 맞아",
-    "아니, index 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, index 아니야",
-   "why": "맞아! 서연이는 그냥 이야기를 처음부터 쭉 읽고 있는 거잖아. 어디에 뭐가 있는지 콕 집어주는 목록을 쓴 게 아니니까, 이건 index가 아닌 게 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "민지가 두꺼운 새 도감에서 '펭귄'이 나오는 곳을 찾고 있어. 네 친구가 저마다 다른 방법을 말했는데, 'index'를 쓴 사람은 누구야?",
-   "choices": [
-    "책 맨 뒤 목록을 폈더니 낱말이 ㄱㄴㄷ 순이라, '펭귄' 옆에 적힌 쪽수를 보고 그 쪽으로 바로 갔어",
-    "책 맨 앞 목록에서 '4장 바닷새'라는 제목을 보고, 4장을 펼쳐 그 안에서 펭귄을 찾아냈어",
-    "책 맨 뒤 목록에서 '펭귄'이라는 낱말은 찾았지만, 옆에 쪽수가 안 적혀 있어서 어느 쪽인지는 몰랐어",
-    "목록은 안 보고 첫 장부터 한 장씩 넘기며 펭귄이 나올 때까지 찾았어"
-   ],
-   "answer_index": 0,
-   "answer": "책 맨 뒤 목록을 폈더니 낱말이 ㄱㄴㄷ 순이라, '펭귄' 옆에 적힌 쪽수를 보고 그 쪽으로 바로 갔어",
-   "why": "맞아! 맨 뒤 목록에서 낱말 '펭귄'을 ㄱㄴㄷ 순으로 찾아서 옆에 적힌 쪽수로 바로 갔잖아. 낱말 하나하나가 몇 쪽에 있는지 콕 집어 주는 그 뒤쪽 목록, 그게 바로 index인 거야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/index-word.webp",
   "alt": "두꺼운 과학책 맨 뒤 찾아보기에서 '공룡 42쪽'을 찾아 그 쪽으로 넘기는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/nod/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/nod/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/nod/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "nod",
  "slug": "nod",
  "url": "https://hibbangyong.com/words/nod/",
@@ -45,30 +45,6 @@
    "answer_index": 0,
    "answer": "머리를 아래로 한 번 내렸다가 곧바로 제자리로 올렸어",
    "why": "맞아! 머리를 아래로 내렸다가 다시 올린 거, 그게 바로 고개를 위아래로 까딱하는 거잖아. 입을 안 열고도 머리로 신호를 보낸 거니까 그게 nod야."
-  },
-  {
-   "type": "choice",
-   "question": "놀이터에서 네 아이가 각각 이런 모습이었어. 이 중에서 'nod'을 한 아이는 누구일까?",
-   "choices": [
-    "고개를 아래로 한 번 숙였다가 곧바로 제자리로 올렸어",
-    "고개를 왼쪽으로 돌렸다가 오른쪽으로 돌렸다가 했어",
-    "고개를 오른쪽 어깨 쪽으로 기울여서 그대로 두었어",
-    "고개를 앞으로 쭉 내밀어서 앞쪽으로 길게 뻗었어"
-   ],
-   "answer_index": 0,
-   "answer": "고개를 아래로 한 번 숙였다가 곧바로 제자리로 올렸어",
-   "why": "맞아! 고개를 아래로 까딱 숙였다가 다시 올린 거, 그게 바로 아래위로 움직인 거잖아. 말 안 하고 머리로 신호를 보낸 거니까 그게 nod야."
-  },
-  {
-   "type": "ox",
-   "question": "급식실에서 친구가 \"이거 나 줄까?\" 하고 물었어. 세연이는 아무 말도 하지 않고 어깨를 한 번 들썩였어. 이것도 'nod'이야?",
-   "choices": [
-    "응, 'nod'이 맞아",
-    "아니, 'nod'이 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 'nod'이 아니야",
-   "why": "맞아! 어깨를 들썩인 거지 머리는 그대로였잖아. nod은 고개를 위아래로 까딱하는 거라서, 어깨가 움직인 건 nod이 아닌 거야."
   }
  ],
  "synonyms": [],
@@ -90,6 +66,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/nod.webp",
   "alt": "교실에서 말 없이 고개만 위아래로 까딱하는 순간",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

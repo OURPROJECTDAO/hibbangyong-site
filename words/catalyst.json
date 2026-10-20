@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/catalyst/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/catalyst/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/catalyst/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "catalyst",
  "slug": "catalyst",
  "url": "https://hibbangyong.com/words/catalyst/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, catalyst 맞아",
    "why": "맞아! 몇 달 동안 연습실을 옮기자는 말만 하고 미뤄 뒀는데, 천장에서 물이 새서 앰프가 젖은 그날 바로 옮기기로 정했잖아. 미뤄 두던 일을 바로 하게 만든 계기니까 그게 catalyst야."
-  },
-  {
-   "type": "ox",
-   "question": "우리 반은 체육복 규정을 바꾸자며 서명을 모으기 시작했어. 그런데 담임 선생님이 '시험 끝나고 다시 얘기하자'며 서명지를 걷어 가셨고, 그 뒤로 몇 주 동안 이 일은 멈춰 있었어. 선생님이 서명지를 걷어 간 그 일, 이게 'catalyst'야?",
-   "choices": [
-    "응, catalyst 맞아",
-    "아니, catalyst 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, catalyst 아니야",
-   "why": "맞아, catalyst가 아니야! 선생님이 서명지를 걷어 가신 뒤로 몇 주 동안 일이 멈춰 있었잖아. 변화를 확 당겨 온 게 아니라 오히려 멈춰 세운 거라서, catalyst랑은 정반대 쪽이야."
-  },
-  {
-   "type": "choice",
-   "question": "우리 동네 사람들은 오래전부터 공장 소음에 불만이 많았어. 공장은 사과문을 붙였지만 소용없었고, 어느 날 밤 기계가 새벽까지 시끄럽게 돌자 다음 날 주민들이 한꺼번에 항의하러 몰려갔어. 이 이야기에서 'catalyst'라고 부를 수 있는 건?",
-   "choices": [
-    "새벽까지 시끄럽게 돌아간 그날 밤의 기계 소리",
-    "오래전부터 조금씩 쌓여 온 주민들의 불만",
-    "다음 날 주민들이 한꺼번에 몰려간 항의",
-    "불만을 달래려고 공장이 붙여 둔 사과문"
-   ],
-   "answer_index": 0,
-   "answer": "새벽까지 시끄럽게 돌아간 그날 밤의 기계 소리",
-   "why": "맞아! 주민들 불만은 오래전부터 쌓여 있었는데, 새벽까지 기계가 돈 그날 밤이 그걸 한꺼번에 항의로 터지게 만들었잖아. 쌓인 걸 확 변화로 당긴 그 한 가지라서 바로 그게 catalyst인 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/catalyst.webp",
   "alt": "과산화수소에 이산화망가니즈를 넣는 과학 실험",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

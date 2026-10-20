@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/edifice/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/edifice/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/edifice/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "edifice",
  "slug": "edifice",
  "url": "https://hibbangyong.com/words/edifice/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, edifice 맞아",
    "why": "맞아! 하얀 돌기둥이 줄지어 서 있고, 계단 아래에서 올려다보니 지붕이 까마득했잖아. 이렇게 크고 묵직해서 고개를 젖혀 올려다보게 되는 건물이 바로 edifice야."
-  },
-  {
-   "type": "ox",
-   "question": "주말에 가족이랑 산에 갔어. 등산로 옆에 지붕이 낮은 나무 오두막이 한 채 있었는데, 방 한 칸짜리라 어른 두세 명이 들어가면 꽉 찰 크기였어. 이 오두막, 'edifice'야?",
-   "choices": [
-    "응, edifice 맞아",
-    "아니, edifice 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, edifice 아니야",
-   "why": "맞아! 그 오두막은 지붕이 낮고 방 한 칸이라 어른 두세 명만 들어가도 꽉 차잖아. edifice는 고개를 젖혀 올려다볼 만큼 크고 웅장한 건물에만 쓰는 말이라서 이 오두막은 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "도시 여행 중에 본 것 네 가지야. 'edifice'라고 부르기 가장 알맞은 건?",
-   "choices": [
-    "도심 한가운데 우뚝 선 커다란 회색 법원",
-    "주차장 구석에 놓인 작은 컨테이너 창고",
-    "놀이공원에 있는 성 모양의 풍선 미끄럼틀",
-    "강을 가로질러 길게 놓인 커다란 철교"
-   ],
-   "answer_index": 0,
-   "answer": "도심 한가운데 우뚝 선 커다란 회색 법원",
-   "why": "맞아! 도심 한가운데 우뚝 선 커다란 회색 법원은 크고 묵직해서 고개를 들어 올려다보게 되는 건물이니까 바로 edifice야. 색이 수수한 회색이어도 크고 웅장한 건물이면 충분해."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/edifice.webp",
   "alt": "고개를 젖혀야 꼭대기가 보이는 시내 건물",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

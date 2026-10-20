@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/worth/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/worth/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/worth/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "worth",
  "slug": "worth",
  "url": "https://hibbangyong.com/words/worth/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, worth 맞아",
    "why": "맞아! 민지는 여섯 달 동안 모은 용돈으로 자전거를 샀는데, 매일 학교 갈 때 타고 주말마다 공원에서도 신나게 탔잖아. 그러니까 자전거 산 돈이 하나도 안 아까운 거야. 이렇게 안 아까운 게 바로 worth야."
-  },
-  {
-   "type": "ox",
-   "question": "준호는 삼천 원을 내고 뽑기 기계에서 장난감 로봇을 뽑았어. 그런데 상자에서 꺼내자마자 팔이 뚝 부러져서 한 번도 가지고 놀지 못했어. 준호가 뽑기에 쓴 삼천 원은 'worth'였을까?",
-   "choices": [
-    "응, worth 맞아",
-    "아니, worth 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, worth 아니야",
-   "why": "맞아! 준호는 삼천 원을 냈는데 로봇 팔이 바로 부러져서 한 번도 가지고 놀지 못했잖아. 쓴 돈만큼 얻은 게 없으니까 worth가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 겪은 일을 말했어. 'worth it'이라고 말하기에 딱 맞는 건 누구 이야기일까?",
-   "choices": [
-    "비싼 신발을 샀는데 한 번 신고 발이 아파서 그 뒤로 못 신었어",
-    "천 원짜리 싼 공을 샀는데 일 년 내내 친구들이랑 신나게 가지고 놀았어",
-    "한 시간 줄 서서 떡볶이를 샀는데 너무 짜서 거의 다 남겼어",
-    "엄청 비싼 시계가 가게에 있어서 유리창 너머로 구경만 하고 왔어"
-   ],
-   "answer_index": 1,
-   "answer": "천 원짜리 싼 공을 샀는데 일 년 내내 친구들이랑 신나게 가지고 놀았어",
-   "why": "맞아! 천 원밖에 안 썼는데 일 년 내내 친구들이랑 신나게 놀았잖아. 싸도 쓴 돈보다 훨씬 많이 즐거웠으니까, 바로 그게 worth it인 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/worth.webp",
   "alt": "두 시간 줄 서서 먹은 맛있는 아이스크림",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

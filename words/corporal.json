@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/corporal/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/corporal/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/corporal/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "corporal",
  "slug": "corporal",
  "url": "https://hibbangyong.com/words/corporal/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, corporal 벌 맞아",
    "why": "맞아! 팔굽혀펴기 50개는 선수 몸을 직접 힘들게 하는 벌이잖아. 때리지 않아도 몸에 주는 벌이면 그게 바로 corporal 벌인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "수업 시간에 계속 떠든 지호를 선생님이 쉬는 시간에 교무실로 부르셨어. 선생님은 지호를 한참 동안 꾸중하셨어. 선생님이 준 이 벌은 'corporal' 벌일까?",
-   "choices": [
-    "응, corporal 벌 맞아",
-    "아니, corporal 벌 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, corporal 벌 아니야",
-   "why": "맞아! 선생님은 지호를 꾸중하신 거지, 몸에 직접 벌을 주신 게 아니잖아. 꾸중은 말로 마음에 주는 벌이라서 corporal 벌이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "민수가 지각해서 선생님께 벌을 받았어. 옆에서 본 친구가 그건 'corporal' 벌이었다고 했어. 민수가 받은 벌은 뭐였을까?",
-   "choices": [
-    "복도에서 손 들고 오래 서 있기",
-    "반성문을 세 장 채워서 내기",
-    "휴대폰을 하루 동안 맡겨 두기",
-    "벌점 두 점을 기록부에 받기"
-   ],
-   "answer_index": 0,
-   "answer": "복도에서 손 들고 오래 서 있기",
-   "why": "맞아! 복도에서 손 들고 오래 서 있으면 팔이랑 다리가 힘들잖아. 때리진 않아도 몸에 직접 주는 벌이라서 바로 그게 corporal 벌인 거야."
   }
  ],
  "synonyms": [
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/corporal.webp",
   "alt": "옛날 학교에서 손바닥 때리기·오리걸음 벌",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

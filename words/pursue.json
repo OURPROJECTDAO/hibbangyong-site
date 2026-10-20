@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/pursue/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/pursue/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/pursue/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "pursue",
  "slug": "pursue",
  "url": "https://hibbangyong.com/words/pursue/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, pursue 맞아",
    "why": "맞아! 삼촌은 바이올린 연주자가 되고 싶어서 3년째 레슨을 받고 있잖아. 잘되는 날도 안되는 날도 있지만 멈추지 않고 계속 해 나가고 있거든. 바로 그게 pursue인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "이모는 기타를 배우고 싶어서 기타를 샀어. 그런데 사흘 만에 그만두고 기타를 팔았어. 이게 'pursue'야?",
-   "choices": [
-    "응, pursue 맞아",
-    "아니, pursue 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, pursue 아니야",
-   "why": "맞아! 이모는 기타를 사흘 만에 그만두고 팔아 버렸잖아. pursue는 하고 싶은 걸 향해 오래오래 계속 해 나가는 거라서, 사흘 만에 그만둔 건 pursue가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 요즘 자기 이야기를 했어. 무언가를 'pursue'하고 있는 친구는 누구일까?",
-   "choices": [
-    "지우는 매일 밤 로봇 박사가 되는 꿈을 꿔",
-    "하은이는 그림 대회에서 드디어 상을 받았어",
-    "민재는 아직 서툴지만 일 년째 수학 문제를 풀어 가",
-    "서준이는 오늘 처음으로 수영을 배워 봤어"
-   ],
-   "answer_index": 2,
-   "answer": "민재는 아직 서툴지만 일 년째 수학 문제를 풀어 가",
-   "why": "맞아! 민재는 아직 서툴지만 일 년째 수학 문제를 계속 풀어 가고 있잖아. 잘되든 안되든 하나를 향해 오래 꾸준히 해 나가는 거, 바로 그게 pursue인 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/pursue.webp",
   "alt": "누나가 몇 달째 매일 줄넘기 이단뛰기를 연습함",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

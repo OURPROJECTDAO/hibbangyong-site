@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/invoice/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/invoice/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/invoice/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "invoice",
  "slug": "invoice",
  "url": "https://hibbangyong.com/words/invoice/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, invoice 맞아",
    "why": "맞아! 이삿짐센터가 짐 옮기는 일을 이미 다 해 준 다음에, 트럭 1대, 직원 3명, 합계 85만 원을 적어서 금요일까지 입금해 달라고 보낸 거잖아. 해 준 일에 대해 아직 안 낸 돈을 내라고 보낸 문자니까 바로 그게 invoice인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "꽃집에서 엄마가 꽃다발 값을 카드로 다 낸 다음, 직원이 꽃 이름과 가격이 적힌 종이를 건네줬어. 이런 경우도 'invoice'야?",
-   "choices": [
-    "응, 'invoice' 맞아",
-    "아니, 'invoice' 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 'invoice' 아니야",
-   "why": "맞아! 엄마가 꽃다발 값을 카드로 다 낸 다음에 받은 종이니까, 이건 낼 돈을 알려 주는 게 아니라 냈다는 걸 보여 주는 영수증(receipt)이야. invoice는 아직 안 낸 돈을 내라고 보내는 거라서 여기엔 안 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "프리랜서 디자이너인 사촌 언니가 회사의 포스터 작업을 다 끝내고, 그 회사에 'invoice'를 이메일로 보냈대. 여기서 언니가 보낸 건 뭘까?",
-   "choices": [
-    "해 준 작업에 대해 돈을 달라고 보낸 것",
-    "다 만든 포스터를 파일로 보낸 것",
-    "작업 전에 대략 값을 알려 준 것",
-    "돈을 잘 받았다고 확인해 준 것"
-   ],
-   "answer_index": 0,
-   "answer": "해 준 작업에 대해 돈을 달라고 보낸 것",
-   "why": "맞아! 언니는 포스터 작업을 다 해 줬는데 아직 돈은 못 받았잖아. 그래서 이만큼 일했으니 이만큼 달라고 회사에 이메일로 보낸 거고, 그게 바로 invoice야. 물건이 아니라 일이어도, 종이가 아니라 이메일이어도 똑같이 invoice라고 해."
   }
  ],
  "synonyms": [],

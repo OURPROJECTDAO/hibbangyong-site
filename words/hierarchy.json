@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/hierarchy/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/hierarchy/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/hierarchy/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "hierarchy",
  "slug": "hierarchy",
  "url": "https://hibbangyong.com/words/hierarchy/",
@@ -45,30 +45,6 @@
    "answer_index": 1,
    "answer": "맨 위에 '악기', 그 아래에 '북', 또 그 아래에 '작은북'이라고 적혀 있어.",
    "why": "맞아! 악기 아래에 북이 들어가고, 북 아래에 또 작은북이 들어가잖아. 위 칸이 아래 것들을 품는 층이 생긴 거야. 그게 바로 hierarchy야."
-  },
-  {
-   "type": "ox",
-   "question": "문구점 진열대에 연필 열 자루가 나란히 꽂혀 있어. 열 자루 다 길이도 같고 값도 같아서 아무거나 한 자루 뽑아 쓰면 돼. 이 연필 열 자루가 'hierarchy'야?",
-   "choices": [
-    "응, 'hierarchy' 맞아",
-    "아니, 'hierarchy' 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 'hierarchy' 아니야",
-   "why": "맞아! 열 자루가 다 나란히 한 줄로 똑같이 꽂혀 있잖아. 위 칸이 아래 것들을 품는 층이 하나도 없으니까, 이건 그냥 평평한 무리지 hierarchy가 아니야."
-  },
-  {
-   "type": "choice",
-   "question": "네 곳을 들여다봤어. 'hierarchy'가 있는 곳은 어디일까?",
-   "choices": [
-    "달리기 대회야. 빠른 차례대로 1등부터 20등까지 이름을 쭉 적어 뒀어.",
-    "놀이터야. 아이들이 그냥 모여서 아무나 먼저 미끄럼틀을 타고 놀아.",
-    "동아리 방이야. 선생님이 부장한테 시키고, 부장이 부원한테 시켜.",
-    "교실 사물함이야. 스무 칸이 나란히 붙어 있고 아이들이 하나씩 나눠 써."
-   ],
-   "answer_index": 2,
-   "answer": "동아리 방이야. 선생님이 부장한테 시키고, 부장이 부원한테 시켜.",
-   "why": "맞아! 선생님이 부장한테, 부장이 다시 부원한테 시키잖아. 위에 있는 사람이 아래 사람을 밑에 두고 층이 딱 정해진 거, 그게 hierarchy야."
   }
  ],
  "synonyms": [],
@@ -90,6 +66,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/hierarchy.webp",
   "alt": "마트 팻말이 과일-사과-빨간 사과로 층층이 나뉜 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/halt/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/halt/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/halt/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "halt",
  "slug": "halt",
  "url": "https://hibbangyong.com/words/halt/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, halt 맞아",
    "why": "맞아! 쌩쌩 달리던 택시가 빨간불 보고 딱 서 버렸잖아. 가던 게 뚝 끊긴 거니까 바로 그게 halt인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "놀이공원 회전목마가 쉬지 않고 계속 빙글빙글 돌아가고 있어. 이게 'halt'야?",
-   "choices": [
-    "응, halt 맞아",
-    "아니, halt 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, halt 아니야",
-   "why": "맞아! 회전목마가 쉬지 않고 계속 빙글빙글 돌고 있으니까 멈춘 게 하나도 없잖아. 가던 게 딱 멈춰야 halt인데 얘는 계속 가고 있으니까 halt가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 가지 장면이 있어. 'halt'가 딱 어울리는 건 어떤 거야?",
-   "choices": [
-    "잘 굴러가던 공장 기계가 신호에 다 같이 딱 멈춰 섰어.",
-    "자전거가 속도만 살짝 줄이고 그대로 계속 굴러갔어.",
-    "멈춰 있던 버스가 다시 출발해서 쌩 달려갔어.",
-    "낡은 장난감이 부서져서 이제 아예 못 쓰게 됐어."
-   ],
-   "answer_index": 0,
-   "answer": "잘 굴러가던 공장 기계가 신호에 다 같이 딱 멈춰 섰어.",
-   "why": "맞아! 잘 굴러가던 기계가 신호에 딱 서 버렸잖아. 쭉 되던 게 뚝 끊긴 거니까 그게 바로 halt야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/halt.webp",
   "alt": "줄 서서 걷다가 \"멈춰!\" 소리에 발이 딱 멈춤",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

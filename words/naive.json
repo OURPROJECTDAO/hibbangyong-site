@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/naive/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/naive/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/naive/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "naive",
  "slug": "naive",
  "url": "https://hibbangyong.com/words/naive/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, naive 맞아",
    "why": "맞아! 수영을 해본 적이 없으니까 팔만 휘저으면 그냥 뜬다고 쉽게 생각한 거잖아. 겪어보지 않아서 일이 실제보다 쉬워 보이는 거, 그게 바로 naive야."
-  },
-  {
-   "type": "ox",
-   "question": "이사를 여러 번 해본 이모가 상자를 싸면서 \"접시는 신문지로 한 장씩 싸야 안 깨져, 지난번에 그러다 깼거든\" 하고 미리 챙겼어. 이런 이모를 'naive'하다고 할 수 있을까?",
-   "choices": [
-    "응, naive 맞아",
-    "아니, naive 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, naive 아니야",
-   "why": "맞아! 이모는 지난번에 접시 깨본 적이 있어서 미리 신문지로 싸는 거잖아. 겪어보고 아는 사람이니까 naive가 아니야."
-  },
-  {
-   "type": "choice",
-   "question": "네 사람이 이런 일을 했어. 이 중에서 'naive'한 사람은 누구일까?",
-   "choices": [
-    "처음 가보는 산인데 길이 하나뿐이겠지 하고 지도도 없이 그냥 올라간 형",
-    "구구단을 아무리 외워도 시험만 보면 자꾸 틀리고 마는 아이",
-    "남의 물건에는 한 번도 몰래 손을 대본 적이 없는 옆자리 아이",
-    "그 산을 자주 다녀서 비 올 걸 알고 우비를 챙겨 넣은 삼촌"
-   ],
-   "answer_index": 0,
-   "answer": "처음 가보는 산인데 길이 하나뿐이겠지 하고 지도도 없이 그냥 올라간 형",
-   "why": "맞아! 가본 적도 없는 산인데 길이 하나뿐이겠지 하고 그냥 올라간 거잖아. 안 겪어봤으니까 쉬울 거라고 생각해 버린 거야, 그게 딱 naive야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/naive.webp",
   "alt": "텐트를 처음 보고 쉽게 여겼다가 밤새 낑낑댄 캠핑 첫날",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

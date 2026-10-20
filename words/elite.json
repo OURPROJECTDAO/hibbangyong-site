@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/elite/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/elite/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/elite/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "elite",
  "slug": "elite",
  "url": "https://hibbangyong.com/words/elite/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, elite 맞아",
    "why": "맞아! 예순 명이나 있는데 그중에서 제일 빠른 딱 네 명만 위로 뽑혔잖아. 아주 적은 몇 명이 맨 위에 붙어 있는 거, 그게 바로 elite인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "축구 리그에 팀이 스무 개 있어. 시즌 내내 한 판도 못 이겨서 맨 아래에 있는 팀 두 개가 있어. 이 두 팀이 'elite'야?",
-   "choices": [
-    "응, elite 맞아",
-    "아니, elite 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, elite 아니야",
-   "why": "맞아! 스무 팀 중에 딱 둘이라 수는 적지만, 이 팀들은 맨 아래에 있잖아. elite는 위쪽에 있는 작은 무리를 말하는 거라서, 아래에 붙어 있는 두 팀은 elite가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "어느 섬에서 손 들어 정하는데, 손 든 사람이 더 많은 쪽대로 늘 정해져. 그 많은 쪽 사람들 말이야. 이런 경우도 'elite'야?",
-   "choices": [
-    "응, elite 맞아",
-    "아니, elite 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, elite 아니야",
-   "why": "맞아! 손 든 사람이 더 많은 쪽은 수가 많잖아. elite는 맨 위에 딱 붙어 있는 아주 적은 몇 명이거든. 많은 쪽은 그 반대라서 elite가 아닌 거야."
   }
  ],
  "synonyms": [],
@@ -84,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/elite.webp",
   "alt": "서른 명 반에서 놀 것을 늘 정하는 애 셋",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

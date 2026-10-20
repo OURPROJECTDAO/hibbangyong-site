@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/loss/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/loss/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/loss/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "loss",
  "slug": "loss",
  "url": "https://hibbangyong.com/words/loss/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, loss 맞아",
    "why": "맞아! 우산이 아직 민서 손에 있으면 모를까, 버스가 떠나버려서 이제 민서한테 없잖아. 있던 게 없어진 거니까 바로 그게 loss인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "준우 필통에 색연필이 여섯 자루 있었는데, 오늘 이모가 네 자루를 더 줘서 열 자루가 됐어. 이게 'loss'야?",
-   "choices": [
-    "응, loss 맞아",
-    "아니, loss 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, loss 아니야",
-   "why": "맞아! 여섯 자루였다가 열 자루가 됐잖아. 없어진 게 아니라 오히려 늘어난 거니까 loss가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 요즘 있었던 일을 하나씩 말했어. 이 중에서 'loss'라고 부를 만한 일이 생긴 사람은 누구야?",
-   "choices": [
-    "예린이는 용돈을 차곡차곡 모아서 저금통이 점점 묵직해졌어",
-    "하윤이 자전거는 바구니가 찌그러졌지만 아직 잘 타고 다녀",
-    "수아는 운동을 열심히 해서 몸무게가 3킬로 가벼워졌어",
-    "지호는 옆집 애 킥보드를 한 번도 가져 본 적이 없어"
-   ],
-   "answer_index": 2,
-   "answer": "수아는 운동을 열심히 해서 몸무게가 3킬로 가벼워졌어",
-   "why": "맞아! 3킬로가 어디 갔게? 원래 수아 몸에 있던 무게인데 지금은 없거든. 좋아서 웃든 속상해서 울든 그건 상관없어. 있던 게 없어졌으면 그게 바로 loss인 거야. 반가운 없어짐도 없어짐이니까!"
   }
  ],
  "synonyms": [],
@@ -94,6 +70,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/loss.webp",
   "alt": "가지고 있던 것이 사라진 뒤 남은 빈자리",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

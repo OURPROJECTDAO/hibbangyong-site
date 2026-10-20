@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/own/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/own/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/own/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "own",
  "slug": "own",
  "url": "https://hibbangyong.com/words/own/",
@@ -45,32 +45,6 @@
    "answer_index": 0,
    "answer": "용돈을 모아 자전거를 사서, 이제 안 돌려줘도 되는 아이",
    "why": "맞아! 용돈 모아서 산 거니까 안 돌려줘도 되고, 두고두고 그 아이 거잖아. 팔든 남 주든 그 아이 맘인 거야. 그래서 그게 바로 own이야."
-  },
-  {
-   "type": "choice",
-   "question": "교실에서 우산 이야기가 나왔어. 다음 중 지호가 'own'하는 것은?",
-   "choices": [
-    "문구점에서 지호가 사서 계속 쓰는 노란 우산",
-    "비 오는 날 선생님께 빌려서 쓰고 돌려드린 우산",
-    "교실 뒤 우산꽂이에 꽂혀 있는 주인 없는 우산",
-    "짝꿍이 오늘 하루만 쓰라고 건네준 파란 우산"
-   ],
-   "answer_index": 0,
-   "answer": "문구점에서 지호가 사서 계속 쓰는 노란 우산",
-   "why": "맞아! 문구점에서 돈 주고 사서 계속 쓰는 거니까 돌려줄 일이 없잖아. 두고두고 지호 거라서 바로 그게 own하는 거야."
-  },
-  {
-   "type": "choice",
-   "question": "할머니가 텃밭 이야기를 하셔. 다음 중 할머니가 'own'하는 것은?",
-   "choices": [
-    "집 뒤에 있는, 할머니가 돈 주고 사서 할머니 이름으로 된 밭",
-    "밭에서 캔 감자를 삶는 데 걸리는 시간",
-    "할머니가 아침마다 밭까지 걸어가는 일",
-    "밭에 심어 놓은 배추 포기 수인 스물넷"
-   ],
-   "answer_index": 0,
-   "answer": "집 뒤에 있는, 할머니가 돈 주고 사서 할머니 이름으로 된 밭",
-   "why": "맞아! 할머니가 돈 주고 사서 할머니 이름으로 된 밭이니까, 빌린 게 아니라 진짜 할머니 거야. 그래서 할머니가 own 하는 건 바로 이 밭인 거야."
   }
  ],
  "synonyms": [],
@@ -94,6 +68,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/own.webp",
   "alt": "도서관에서 빌린 책과 서점에서 산 책 대조",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

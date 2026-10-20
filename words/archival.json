@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/archival/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/archival/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/archival/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "archival",
  "slug": "archival",
  "url": "https://hibbangyong.com/words/archival/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, archival 맞아",
    "why": "맞아! 올해 선거 포스터라서 오래된 건 아니지만, 나중에 찾아볼 수 있게 종류별로 한 장씩 모아 번호 붙여 상자에 넣어 뒀잖아. 기록으로 남겨서 보관한 거니까 바로 archival 자료인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "버스 정류장 전광판에 '3분 후 도착' 같은 숫자가 지금 이 순간 계속 바뀌면서 떠. 이 전광판 숫자는 'archival' 자료야?",
-   "choices": [
-    "응, archival 맞아",
-    "아니, archival 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, archival 아니야",
-   "why": "맞아! 전광판 숫자는 남겨 두는 게 아니라 지금 이 순간 계속 바뀌면서 바로 사라지잖아. 나중에 다시 찾아보려고 보관하는 게 아니니까 archival이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 영상 중에서 'archival' 영상이라고 부를 수 있는 건 어느 거야?",
-   "choices": [
-    "흑백 필터를 씌워서 일부러 옛날처럼 보이게 만든 새 뮤직비디오",
-    "오늘 극장에서 처음 개봉한, 조선 시대를 다룬 새 역사 영화",
-    "방송국이 나중에 쓰려고 날짜별로 정리해 둔 지난달 경기 영상",
-    "지금 경기장에서 바로 내보내고 있는 오늘 축구 생방송 영상"
-   ],
-   "answer_index": 2,
-   "answer": "방송국이 나중에 쓰려고 날짜별로 정리해 둔 지난달 경기 영상",
-   "why": "맞아! 지난달 영상이라 전혀 오래된 게 아닌데도, 방송국이 나중에 다시 쓰려고 날짜별로 정리해서 남겨 뒀잖아. 오래됐는지가 아니라 기록으로 남겨 보관하는지가 핵심이라서, 바로 이게 archival 영상인 거야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/archival.webp",
   "alt": "학교 도서관의 졸업 앨범·교지·행사 사진 보관 방",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

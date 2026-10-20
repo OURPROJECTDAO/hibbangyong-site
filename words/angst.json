@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/angst/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/angst/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/angst/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "angst",
  "slug": "angst",
  "url": "https://hibbangyong.com/words/angst/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, angst 맞아",
    "why": "맞아! 이모는 전쟁 소식 하나 때문이 아니라 세상이 앞으로 어떻게 될지가 걱정돼서, 걱정이랑 우울이 섞인 무거운 마음이 몇 주째 가라앉아 있잖아. 바로 그게 angst야."
-  },
-  {
-   "type": "ox",
-   "question": "사촌 누나는 다음 달에 외국으로 교환학생을 가. 그곳에서 시작할 새 생활을 생각하면 요즘 가슴이 두근두근하고 들떠. 누나의 이 마음은 'angst'일까?",
-   "choices": [
-    "응, angst 맞아",
-    "아니, angst 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, angst 아니야",
-   "why": "맞아! 누나는 새 생활을 생각하면 걱정돼서 가라앉는 게 아니라 두근두근 들뜨잖아. angst는 앞날이 걱정돼서 드는 무겁고 우울한 마음이라, 이렇게 설레고 기대되는 마음이랑은 방향이 정반대야."
-  },
-  {
-   "type": "choice",
-   "question": "네 사람이 요즘 자기 마음을 이야기했어. 이 중에서 'angst'를 겪고 있는 사람은 누구일까?",
-   "choices": [
-    "형: 내일 합격 발표가 나와서 오늘 밤 내내 조마조마해",
-    "아빠: 내가 잘 살고 있는 건지 몰라서 요즘 마음이 무거워",
-    "누나: 몇 달째 무릎이 아파서 계단 오를 때마다 짜증 나",
-    "삼촌: 앞으로 무슨 일을 하게 될지 생각하면 요즘 신나"
-   ],
-   "answer_index": 1,
-   "answer": "아빠: 내가 잘 살고 있는 건지 몰라서 요즘 마음이 무거워",
-   "why": "맞아! 아빠는 일 하나 때문이 아니라 내가 잘 살고 있는 건지, 삶 전체를 두고 걱정해서 마음이 무거운 거잖아. 이렇게 큰 걱정 때문에 가라앉는 마음이 바로 angst야. 어른도 충분히 겪는 거고."
   }
  ],
  "synonyms": [],
@@ -91,6 +67,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/angst.webp",
   "alt": "밤에 누워 '제대로 살고 있나' 생각에 마음이 가라앉는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

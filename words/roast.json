@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/roast/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/roast/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/roast/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "roast",
  "slug": "roast",
  "url": "https://hibbangyong.com/words/roast/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, roast 맞아",
    "why": "맞아! 통째로 넣고 오븐 뜨거운 열로 두 시간 구워서 겉이 노릇해졌잖아. 그렇게 열로 통째 구워 낸 덩어리를 부르는 이름이 바로 roast거든. 딱 맞게 골랐어."
-  },
-  {
-   "type": "ox",
-   "question": "엄마가 큰 고기 덩어리를 냄비에 넣고 물을 가득 부어 오래 끓였어. 고기는 물속에서 하얗게 익어 나왔어. 이걸 'roast'라고 할 수 있어?",
-   "choices": [
-    "응, roast 맞아",
-    "아니, roast 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, roast 아니야",
-   "why": "삶은 거랑 구운 걸 딱 구분했구나! 물을 가득 붓고 오래 끓여서 하얗게 익은 건 물이 익힌 거잖아. 불 앞에서 겉이 노릇해진 게 아니니까 이건 roast가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "잔칫상에 고기 요리 네 가지가 올라왔어. 이 중에서 'roast'라고 부를 수 있는 건 뭘까?",
-   "choices": [
-    "불 앞에서 몇 시간 돌려 겉이 노릇해진 채 통째로 접시에 올라온 고기",
-    "얇게 한 장 썰어 프라이팬에 지글지글 지져 낸 고기",
-    "냄비에 물을 붓고 오래 푹 삶아 국물째 떠 놓은 고기",
-    "아직 불에 올리지도 않은, 차갑고 붉은 채로 담아 둔 고기"
-   ],
-   "answer_index": 0,
-   "answer": "불 앞에서 몇 시간 돌려 겉이 노릇해진 채 통째로 접시에 올라온 고기",
-   "why": "맞아! 불 앞에서 몇 시간 통째로 돌아가면서 겉이 노릇해지고, 그 덩어리째 접시에 올라왔잖아. 뜨거운 열로 통째 구워 낸 그 덩어리, 바로 그게 roast인 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/roast.webp",
   "alt": "불 앞에서 몇 시간 통째로 익어 겉이 노릇해진 큰 고기 덩어리",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

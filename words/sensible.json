@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/sensible/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/sensible/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/sensible/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "sensible",
  "slug": "sensible",
  "url": "https://hibbangyong.com/words/sensible/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, sensible 맞아",
    "why": "맞아! 비 온다고 미리 봤으니까 우산 챙긴 거잖아. 그게 바로 상황 보고 딱 알맞게 똑똑하게 정하는 거야. 이게 sensible이야."
-  },
-  {
-   "type": "ox",
-   "question": "물이 깊은지 얕은지 보지도 않고 그냥 첨벙 뛰어드는 거 — 이게 'sensible'이야?",
-   "choices": [
-    "응, sensible 맞아",
-    "아니, sensible 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, sensible 아니야",
-   "why": "맞아! 물이 깊은지 얕은지 보지도 않고 그냥 뛰어드는 건 무모한 거잖아. sensible은 상황을 딱 보고 알맞게 정하는 거니까, 이건 sensible이 아니라고 한 네가 제대로 안 거야."
-  },
-  {
-   "type": "choice",
-   "question": "누가 'sensible'하게 행동한 걸까?",
-   "choices": [
-    "멋있어 보일까 봐 높은 지붕 위에서 그냥 뛰어내린 태오",
-    "다칠까 무서워서 그네도 미끄럼틀도 아무것도 못 하고 가만히만 있는 하린",
-    "맨손으로 뜨거운 냄비를 덥석 잡으려다 데일 뻔한 서윤",
-    "비가 올 것 같아 우산을 챙기고, 젖어서 미끄러운 길은 조심조심 걸은 지우"
-   ],
-   "answer_index": 3,
-   "answer": "비가 올 것 같아 우산을 챙기고, 젖어서 미끄러운 길은 조심조심 걸은 지우",
-   "why": "맞아! 지우는 비 올 것 같으니까 우산 챙기고, 미끄러운 길은 조심조심 걸었잖아. 상황을 딱 보고 무리 안 하고 똑똑하게 정한 거니까 바로 그게 sensible이야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/sensible.webp",
   "alt": "소풍날 멀리 걸을 걸 알고 편한 신발을 고르는 아이",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/withdrawn/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/withdrawn/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/withdrawn/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "withdrawn",
  "slug": "withdrawn",
  "url": "https://hibbangyong.com/words/withdrawn/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, withdrawn 맞아",
    "why": "맞아! 사촌들은 거실에서 다 같이 보드게임을 하는데 서연이는 방에 들어가 문을 닫고, 누가 불러도 대답을 안 하잖아. 사람들 사이에 섞이지 않고 혼자 안으로 닫혀 버린 모습이라 딱 withdrawn이야."
-  },
-  {
-   "type": "ox",
-   "question": "여름 캠프 첫날이야. 도윤이는 처음 보는 아이들한테 먼저 이름을 묻고, 저녁도 같이 먹자고 여기저기 말을 걸어. 이런 도윤이는 'withdrawn'이야?",
-   "choices": [
-    "응, withdrawn 맞아",
-    "아니, withdrawn 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, withdrawn 아니야",
-   "why": "잘 골랐어! 도윤이는 처음 보는 아이들한테 먼저 이름을 묻고 저녁도 같이 먹자고 말을 걸잖아. 사람들 사이로 먼저 다가가는 거라서, 물러나 닫혀 있는 withdrawn이랑은 정반대야(이런 건 outgoing이야)."
-  },
-  {
-   "type": "choice",
-   "question": "가족 캠핑에 온 삼촌 넷이야. 이 중에서 'withdrawn'과 정반대인 삼촌은?",
-   "choices": [
-    "캠핑 내내 텐트 안에만 있고 누가 불러도 대답이 거의 없는 삼촌",
-    "옆 텐트에 온 처음 보는 가족에게 먼저 인사하고 같이 고기 굽자고 하는 삼촌",
-    "혼자 개울가에 앉아 휴대폰으로 노래를 크게 틀어 놓고 따라 부르는 삼촌",
-    "저녁 먹는 동안 다른 사람이 하는 말마다 반대 의견을 크게 내는 삼촌"
-   ],
-   "answer_index": 1,
-   "answer": "옆 텐트에 온 처음 보는 가족에게 먼저 인사하고 같이 고기 굽자고 하는 삼촌",
-   "why": "맞아! 처음 보는 옆 텐트 가족한테 먼저 인사하고 같이 고기 굽자고 하는 건, 사람들한테 먼저 다가가서 섞이는 거잖아. 사람들한테서 물러나 혼자 닫혀 있는 withdrawn이랑 딱 반대쪽이야(이런 사람을 outgoing이라고 해)."
   }
  ],
  "synonyms": [],
@@ -98,6 +74,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/withdrawn.webp",
   "alt": "쉬는 시간에 혼자 앉아 매점 가자는 말에도 고개만 젓는 친구",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

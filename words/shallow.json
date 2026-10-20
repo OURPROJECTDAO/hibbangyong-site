@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/shallow/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/shallow/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/shallow/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "shallow",
  "slug": "shallow",
  "url": "https://hibbangyong.com/words/shallow/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, 맞아.",
    "why": "맞아! 손 넣자마자 바로 바닥이 만져졌잖아. 위에서 바닥까지가 금방이니까, 바로 그게 shallow인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "수영장 깊은 쪽에 들어갔더니 발이 한참 바닥에 안 닿고 몸이 쑥 잠겨. 이게 'shallow'야?",
-   "choices": [
-    "응, 맞아.",
-    "아니, 아니야."
-   ],
-   "answer_index": 1,
-   "answer": "아니, 아니야.",
-   "why": "맞아! 발이 한참 바닥에 안 닿고 몸이 쑥 잠겼으니까, 그건 깊은 물이지 shallow가 아니거든. shallow는 발목까지만 차고 바닥이 발에 딱 닿는 얕은 물이야. 그래서 '아니'가 딱 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "강 네 군데를 봤어. 어디를 'shallow'라고 부를 수 있을까?",
-   "choices": [
-    "발목까지만 물이 차서 바닥이 발에 닿는 곳",
-    "키보다 깊어서 발이 바닥에 안 닿는 곳",
-    "폭이 아주 좁아서 한 걸음에 건너뛰는 곳",
-    "물살이 너무 빨라서 휩쓸릴 것 같은 곳"
-   ],
-   "answer_index": 0,
-   "answer": "발목까지만 물이 차서 바닥이 발에 닿는 곳",
-   "why": "맞아! 발목까지만 차서 바닥이 발에 딱 닿잖아. 위에서 바닥까지가 금방이라서 바로 그게 shallow야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/shallow.webp",
   "alt": "발목까지만 차고 바닥이 발에 닿는, 위에서 바닥까지 가까운 물.",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

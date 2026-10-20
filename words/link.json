@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/link/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/link/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/link/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "link",
  "slug": "link",
  "url": "https://hibbangyong.com/words/link/",
@@ -43,32 +43,6 @@
    "answer_index": 0,
    "answer": "응, link 맞아",
    "why": "맞아! 끊어진 양쪽 사이에 쏙 들어가서 둘을 다시 붙여 준 그 하나잖아. 체인 전체가 아니라 가운데서 이어 준 그 쇠고리 하나, 그게 바로 link인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "선생님이 상자에서 물건을 하나씩 꺼내 뭐에 쓰는 건지 알려 줬어. 다음 중 'a link'인 건 뭘까?",
-   "choices": [
-    "두꺼운 종이를 두 장으로 갈라놓는 데 쓰는 가위",
-    "떨어진 사슬 두 토막을 하나로 걸어 잇는 데 쓰는 쇠고리",
-    "쏟아진 콩알을 한군데 모아 담아 두는 데 쓰는 그릇",
-    "사과가 몇 그램인지 눈금으로 알려 주는 데 쓰는 저울"
-   ],
-   "answer_index": 1,
-   "answer": "떨어진 사슬 두 토막을 하나로 걸어 잇는 데 쓰는 쇠고리",
-   "why": "맞아! 떨어진 사슬 두 토막 사이에 끼어서 양쪽을 딱 붙잡아 한 줄로 만들어 주잖아. 둘 사이를 이어 주는 그 하나, 그게 바로 link야."
-  },
-  {
-   "type": "choice",
-   "question": "네 가지 이야기를 차례로 들었어. 이 중에서 'a link'가 있다고 말할 수 있는 건 뭘까?",
-   "choices": [
-    "옆자리 아이가 뭘 하든 내 일하고는 하나도 겹치지 않던 것",
-    "처음부터 끝까지 끊긴 데 없이 죽 이어져 있던 긴 밧줄",
-    "새 신발을 신은 날이면 꼭 발뒤꿈치가 아팠던 것",
-    "별명은 두 개인데 알고 보니 그냥 한 사람이었던 것"
-   ],
-   "answer_index": 2,
-   "answer": "새 신발을 신은 날이면 꼭 발뒤꿈치가 아팠던 것",
-   "why": "맞아! 새 신발이랑 발뒤꿈치 아픈 거, 이 둘은 서로 다른 일인데 늘 붙어서 같이 오잖아. 신발 따로 아픔 따로인데 그 사이를 이어 주는 게 있는 거야. 그게 바로 link야."
   }
  ],
  "synonyms": [],
@@ -84,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/link.webp",
   "alt": "두 줄로 끊겨 선 아이들 사이에 한 아이가 들어가 양쪽을 붙잡는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

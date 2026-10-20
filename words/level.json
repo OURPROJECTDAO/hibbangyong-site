@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/level/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/level/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/level/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "level",
  "slug": "level",
  "url": "https://hibbangyong.com/words/level/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, level 맞아",
    "why": "맞아! 욕조 물이 배꼽 높이까지 차올랐지? 물이 어디까지 와 있는지, 그 높이가 바로 욕조 물의 level인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "세워 둔 항아리 안에 아무것도 들어 있지 않아서 바닥까지 훤히 비쳐. 이 항아리 속에 아무것도 없다는 것 자체가 'level'이야?",
-   "choices": [
-    "응, level 맞아",
-    "아니, level 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, level 아니야",
-   "why": "그렇지! 텅 빈 항아리는 물 윗면이 어디쯤 와 있는지 짚어 줄 자리가 아예 없잖아. 그냥 아무것도 없는 거라서 level이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "물이 서로 다르게 담긴 두 컵이 있어. 두 컵의 물 'level'이 똑같다고 하려면 어때야 할까?",
-   "choices": [
-    "물이 차오른 윗면이 두 컵에서 같은 높이에 있다",
-    "두 컵에 담긴 물의 양이 정확히 똑같다",
-    "두 컵의 크기와 모양이 서로 똑같다",
-    "두 컵이 나란히 텅 비어 있다"
-   ],
-   "answer_index": 0,
-   "answer": "물이 차오른 윗면이 두 컵에서 같은 높이에 있다",
-   "why": "맞아! 물이 딱 멈춘 그 윗면이 두 컵에서 같은 높이에 있으면, 물이 어디까지 와 있는지가 똑같은 거잖아. 바로 그게 level이 같다는 뜻이야."
   }
  ],
  "synonyms": [
@@ -89,6 +65,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/level.webp",
   "alt": "컵에 물이 차올라 윗면이 멈춘 높이",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/adopt/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/adopt/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/adopt/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "adopt",
  "slug": "adopt",
  "url": "https://hibbangyong.com/words/adopt/",
@@ -45,17 +45,6 @@
    "answer_index": 0,
    "answer": "그 순서를 그대로 받아와서, 그날부터 지금까지 우리 팀 준비운동으로 하고 있어",
    "why": "맞아! 남의 팀에서 온 순서인데 그날부터 지금까지 쭉 우리 팀 걸로 하고 있잖아. 밖에 있던 걸 받아와서 계속 내 것으로 삼은 거, 그게 바로 adopt야."
-  },
-  {
-   "type": "ox",
-   "question": "민수가 지호에게 어제 일을 미안하다고 사과했어. 지호는 그 사과를 받아 주고 다시 같이 놀았어. 이런 경우도 'adopt'야?",
-   "choices": [
-    "아니, 'adopt' 아니야",
-    "응, 'adopt' 맞아"
-   ],
-   "answer_index": 0,
-   "answer": "아니, 'adopt' 아니야",
-   "why": "그래, 이건 adopt가 아니야. 사과를 받아 준 건 마음으로 받아 준 거지, 지호가 새로운 방법을 가져와서 자기 걸로 쓰기 시작한 게 아니거든. adopt는 밖에 있던 걸 골라 와서 그날부터 쭉 내 것으로 삼는 거야."
   }
  ],
  "synonyms": [],
@@ -75,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/adopt.webp",
   "alt": "옆 반 청소 순서표를 우리 반이 가져와 우리 규칙으로 삼음",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

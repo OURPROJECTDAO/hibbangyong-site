@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/republic/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/republic/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/republic/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "republic",
  "slug": "republic",
  "url": "https://hibbangyong.com/words/republic/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, republic 맞아",
    "why": "맞아! 왕이 아예 없고 사람들이 다 같이 손 들어서 새 대장을 뽑는 나라, 바로 그게 republic이거든. 네가 딱 알아본 거야."
-  },
-  {
-   "type": "choice",
-   "question": "민수가 어떤 나라를 'republic'이라고 불렀어. 어떤 나라를 그렇게 부를 수 있을까?",
-   "choices": [
-    "사람들이 투표해서 대장을 뽑는 나라",
-    "왕의 아들이 다음 왕이 되는 나라",
-    "땅이 아주 넓고 사람이 많은 나라",
-    "힘센 장군이 힘으로 빼앗아 다스리는 나라"
-   ],
-   "answer_index": 0,
-   "answer": "사람들이 투표해서 대장을 뽑는 나라",
-   "why": "맞아! 다 같이 손 들어서 대장을 골라 뽑는 그 나라, 그게 바로 republic이야. 왕이 정해주는 게 아니라 사람들이 뽑으니까 딱 맞는 거야."
-  },
-  {
-   "type": "ox",
-   "question": "어느 나라에서는 공주로 태어나면 크면 자동으로 그 나라 대장이 돼. 사람들이 뽑는 게 아니라 태어날 때부터 정해져 있어. 이게 republic이야?",
-   "choices": [
-    "응, republic 맞아",
-    "아니, republic 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, republic 아니야",
-   "why": "맞아! 태어날 때부터 대장이 딱 정해져 있으면 사람들이 손 들어서 뽑은 게 아니잖아. republic은 다 같이 골라서 뽑는 나라니까, 이건 republic이 아닌 게 맞아."
   }
  ],
  "synonyms": [
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/republic.webp",
   "alt": "반 회장을 다 같이 투표로 뽑는 것처럼 나라 대장을 뽑는 나라",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

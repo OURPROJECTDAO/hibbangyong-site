@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/behest/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/behest/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/behest/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "behest",
  "slug": "behest",
  "url": "https://hibbangyong.com/words/behest/",
@@ -45,30 +45,6 @@
    "answer_index": 0,
    "answer": "소포를 부쳐 달라는 삼촌의 말",
    "why": "맞아! 내가 우체국에 다녀온 건 삼촌이 소포 좀 부쳐 달라고 하셔서잖아. 이렇게 내가 한 일이 시작된 남의 부탁, 바로 그 삼촌의 말이 behest야."
-  },
-  {
-   "type": "choice",
-   "question": "토요일 아침에 나는 혼자 마음먹고 운동화를 빨았어. 저녁에는 옆집 할머니가 \"화분 좀 옮겨 줘\"라고 하셔서 화분을 옮겨 드렸어. 이 이야기에서 'behest'에 해당하는 것은?",
-   "choices": [
-    "화분을 옮겨 달라는 할머니의 말",
-    "운동화를 빨기로 한 나의 마음",
-    "화분을 옮겨 드린 토요일 저녁",
-    "빨아서 널어 둔 운동화의 색깔"
-   ],
-   "answer_index": 0,
-   "answer": "화분을 옮겨 달라는 할머니의 말",
-   "why": "맞아! 화분은 할머니가 \"화분 좀 옮겨 줘\"라고 하셔서 옮긴 거잖아. 이렇게 남이 해 달래서 한 일의 출발점인 그 말이 바로 behest야."
-  },
-  {
-   "type": "ox",
-   "question": "불이 난 건물 앞에서 구조대장이 대원들에게 지금 당장 2층으로 올라가라고 명령했고, 대원들은 그 명령대로 2층으로 올라갔어. 부탁이 아니라 분명한 명령이었는데, 이것도 대장의 'behest'로 올라간 거야?",
-   "choices": [
-    "응, behest 맞아",
-    "아니, behest 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, behest 맞아",
-   "why": "맞아! 대장이 2층으로 올라가라고 명령했고 대원들이 그대로 올라갔잖아. 남이 시켜서 그 일을 한 거니까 바로 대장의 behest로 올라간 거야."
   }
  ],
  "synonyms": [],

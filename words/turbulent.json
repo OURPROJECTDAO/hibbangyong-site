@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/turbulent/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/turbulent/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/turbulent/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "turbulent",
  "slug": "turbulent",
  "url": "https://hibbangyong.com/words/turbulent/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, turbulent 아니야",
    "why": "맞아! 10년째 같은 가게, 같은 이웃이 그대로고 큰 사건 없이 하루하루가 잔잔했잖아. turbulent는 갑자기 바뀌는 일이 자꾸 터져서 계속 흔들리는 거니까, 이 마을의 10년은 딱 그 반대야."
-  },
-  {
-   "type": "ox",
-   "question": "동네 빵집이 한 달 사이에 주인이 두 번 바뀌었어. 문을 닫았다가 다시 열었고, 메뉴도 매주 확 바뀌었어. 이 빵집의 한 달은 'turbulent'했다고 할 수 있어?",
-   "choices": [
-    "응, turbulent 맞아",
-    "아니, turbulent 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, turbulent 맞아",
-   "why": "맞아! 주인이 한 달에 두 번이나 바뀌고, 문을 닫았다가 다시 열고, 메뉴까지 매주 확 바뀌었잖아. 갑자기 바뀌는 일이 자꾸 터져서 잠잠할 틈이 없었으니까 바로 그게 turbulent한 한 달인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "'turbulent' 한 단어가 두 장면에 쓰였어. ① 강에서 래프팅을 하던 중 ② 두 회사가 하나로 합쳐진 직후. 각 장면에서 'turbulent'는 무슨 뜻일까?",
-   "choices": [
-    "① 물살이 거칠게 요동치는 ② 상황이 계속 바뀌며 흔들리는",
-    "① 물살이 잔잔하게 흐르는 ② 상황이 차분히 자리 잡는",
-    "① 물살이 거칠게 요동치는 ② 상황이 차분히 자리 잡는",
-    "① 물살이 잔잔하게 흐르는 ② 상황이 계속 바뀌며 흔들리는"
-   ],
-   "answer_index": 0,
-   "answer": "① 물살이 거칠게 요동치는 ② 상황이 계속 바뀌며 흔들리는",
-   "why": "맞아! 래프팅하는 강에서는 물살이 거칠게 요동치는 거고, 두 회사가 막 합쳐진 직후엔 상황이 계속 바뀌며 흔들리는 거야. 물살이든 회사 상황이든 잠잠할 틈 없이 흔들리는 게 바로 turbulent야."
   }
  ],
  "synonyms": [],

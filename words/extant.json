@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/extant/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/extant/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/extant/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "extant",
  "slug": "extant",
  "url": "https://hibbangyong.com/words/extant/",
@@ -43,29 +43,6 @@
    "answer_index": 1,
    "answer": "아니, extant 아니야",
    "why": "맞아! 매머드는 아주 오래된 동물이긴 한데, 이미 멸종해서 지금은 한 마리도 살아 있지 않잖아. 오래됐어도 지금까지 남아 있어야 extant인데, 매머드는 사라져 버렸으니 extant가 아닌 거야(이렇게 사라진 건 extinct야)."
-  },
-  {
-   "type": "ox",
-   "question": "은행나무는 공룡이 살던 아주 옛날부터 있던 나무야. 그런데 멸종하지 않고 지금도 우리 동네 길가에서 자라고 있어. 이 은행나무 같은 종류를 'extant'라고 할 수 있을까?",
-   "choices": [
-    "응, extant 맞아",
-    "아니, extant 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, extant 맞아",
-   "why": "맞아! 은행나무는 공룡이 살던 옛날부터 있었는데 멸종하지 않고 지금도 우리 동네 길가에서 자라잖아. 오래됐는데도 사라지지 않고 지금까지 남아 있으니까 바로 extant인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "생물 시간에 선생님이 투구게라는 바다 동물을 'extant' 종이라고 소개했어. 여기서 'extant'는 무슨 뜻으로 쓰였을까?",
-   "choices": [
-    "아주 옛날부터 멸종하지 않고 지금도 살아 있는 종이라는 뜻",
-    "아주 옛날에 쓴 그 동물의 기록이 지금도 남아 있다는 뜻",
-    "아주 옛날 그 동물의 화석이 지금도 남아 있다는 뜻"
-   ],
-   "answer_index": 0,
-   "answer": "아주 옛날부터 멸종하지 않고 지금도 살아 있는 종이라는 뜻",
-   "why": "맞아! 선생님이 투구게를 extant 종이라고 한 건, 투구게가 아주 옛날부터 멸종하지 않고 지금도 바다에 살아 있다는 거야. 생물에 쓰면 그 종 자체가 아직 사라지지 않았다는 뜻이 되는 거지."
   }
  ],
  "synonyms": [],
@@ -90,6 +67,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/extant.webp",
   "alt": "옛날 편지 백 통 중 세 통만 지금까지 남은 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

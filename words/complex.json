@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/complex/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/complex/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/complex/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "complex",
  "slug": "complex",
  "url": "https://hibbangyong.com/words/complex/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, complex 아니야",
    "why": "맞아! 이 지우개는 고무 한 덩어리뿐이라 서로 이어진 부분도, 속에 든 것도 없고, 딱 보면 바로 알 수 있거든. 그러니까 complex가 아니라 아주 단순한(simple) 거야."
-  },
-  {
-   "type": "ox",
-   "question": "역에 붙은 지하철 노선도를 봤어. 색깔 선 열 개가 서로 엮여 있고, 갈아타는 역마다 선 여러 개가 만나. 어느 선이 어디로 이어지는지 한 번 봐서는 알기 어려워. 이 노선도는 'complex'할까?",
-   "choices": [
-    "응, complex 맞아",
-    "아니, complex 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, complex 맞아",
-   "why": "맞아! 색깔 선 열 개가 서로 엮여 있고 갈아타는 역마다 선 여러 개가 만나서, 어느 선이 어디로 이어지는지 한 번 봐서는 알기 어렵잖아. 여러 선이 서로 이어져서 한눈에 안 들어오니까 바로 그게 complex인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 오늘 한 일을 말했어. 'complex'한 걸 다룬 친구는 누구일까?",
-   "choices": [
-    "무거운 쌀자루를 혼자 끙끙 들어서 옮겼어",
-    "색종이 백 장을 한 장씩 차곡차곡 쌓았어",
-    "규칙끼리 서로 이어진 보드게임을 동생한테 알려 줬어",
-    "운동화 끈을 한 번 꽉 묶어서 매듭을 지었어"
-   ],
-   "answer_index": 2,
-   "answer": "규칙끼리 서로 이어진 보드게임을 동생한테 알려 줬어",
-   "why": "맞아! 그 보드게임은 규칙끼리 서로 이어져 있어서, 규칙 하나를 알려 주면 다른 규칙도 같이 알려 줘야 하거든. 여러 개가 서로 이어져서 한 번에 다 알기 어려운 거, 바로 그게 complex인 거야."
   }
  ],
  "synonyms": [],
@@ -94,6 +70,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/complex.webp",
   "alt": "시계 속에서 서로 맞물려 돌아가는 톱니들",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

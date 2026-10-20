@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/square/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/square/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/square/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "square",
  "slug": "square",
  "url": "https://hibbangyong.com/words/square/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, square 아니야",
    "why": "그렇지, square가 아니야! 네가 딱 본 것처럼 테두리가 쭉 둥글게만 이어지고 꺾인 모서리가 한 군데도 없잖아. 반듯하게 꺾인 모서리 네 군데가 있어야 square인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "미술 시간에 지호가 자로 재봤어. 왼쪽 변, 오른쪽 변, 위 변, 아래 변이 전부 10cm씩이고 모서리 네 군데가 다 반듯하게 꺾인 도화지 조각이야. 이게 'square'야?",
-   "choices": [
-    "응, square 맞아",
-    "아니, square 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, square 맞아",
-   "why": "맞아! 네 변이 전부 10cm로 딱 같고 모서리 네 군데가 다 반듯하게 꺾여 있잖아. 길이가 다 같은 반듯한 네모, 그게 바로 square인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "지호가 식탁에 있는 물건 네 개를 봤어. 이 중에서 'square'라고 부를 수 있는 건 어느 거야?",
-   "choices": [
-    "가로 길이랑 세로 길이가 똑같은 네모난 손수건",
-    "옆으로 길쭉하게 뻗은 네모난 방석",
-    "가장자리가 둥글게 이어진 하얀 접시",
-    "뾰족한 모서리가 세 개인 치즈 조각"
-   ],
-   "answer_index": 0,
-   "answer": "가로 길이랑 세로 길이가 똑같은 네모난 손수건",
-   "why": "맞아! 가로랑 세로가 딱 같고 모서리도 네 군데 다 반듯하게 꺾여 있잖아. 색종이랑 똑같은 모양이지? 그래서 그게 바로 square인 거야."
   }
  ],
  "synonyms": [],
@@ -83,6 +59,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/square.webp",
   "alt": "위아래·옆 길이가 똑같고 모서리가 반듯한 창문 유리 한 장",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

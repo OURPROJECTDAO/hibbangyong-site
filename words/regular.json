@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/regular/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/regular/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/regular/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "regular",
  "slug": "regular",
  "url": "https://hibbangyong.com/words/regular/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, regular 맞아",
    "why": "맞아! 학기 내내 금요일 4교시라고 때가 딱 정해져 있고 그게 계속 되풀이되잖아. 정해진 대로 돌아오니까 바로 그게 regular인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "옆집 개는 어떤 날은 새벽에, 어떤 날은 점심에, 어떤 날은 자정에 짖어. 짖는 때가 'regular'해?",
-   "choices": [
-    "응, regular 맞아",
-    "아니, regular 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, regular 아니야",
-   "why": "맞아! 새벽이었다가 점심이었다가 자정이었다가, 짖는 때가 매번 달라서 다음엔 언제 짖을지 아무도 모르잖아. 이렇게 들쭉날쭉하면 regular가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 지난달에 배가 아팠던 얘기를 했어. 배가 'regular'하게 아팠다고 말할 수 있는 아이는 누구일까?",
-   "choices": [
-    "지난달부터 매주 수요일 저녁마다 딱 한 번씩 아팠다는 아이",
-    "지난달에 여덟 번쯤 아팠는데 때는 그때그때 달랐다는 아이",
-    "지난달 내내 하루도 안 빼고 아침부터 밤까지 아팠다는 아이",
-    "지난달에 딱 하루, 소풍을 갔던 그날만 아팠다는 아이"
-   ],
-   "answer_index": 0,
-   "answer": "지난달부터 매주 수요일 저녁마다 딱 한 번씩 아팠다는 아이",
-   "why": "맞아! 매주 수요일 저녁마다 딱 한 번씩이면 언제 아플지 딱 정해져 있잖아. 이렇게 되풀이되는 간격이 고른 게 바로 regular인 거야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/regular.webp",
   "alt": "수도꼭지에서 물방울이 같은 간격으로 똑 똑 똑 떨어지는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

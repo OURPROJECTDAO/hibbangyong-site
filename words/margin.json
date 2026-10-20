@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/margin/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/margin/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/margin/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "margin",
  "slug": "margin",
  "url": "https://hibbangyong.com/words/margin/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, margin 맞아",
    "why": "맞아! 3점이랑 1점 사이가 2점 벌어졌잖아. 누가 이겼는지가 아니라 이긴 쪽과 진 쪽이 몇 점 차이 나는지를 말하는 게 margin이라서, 이 경기의 margin은 바로 2인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "두 팀이 농구를 했어. 파란 팀이 20점, 빨간 팀이 17점으로 끝났어. 이 경기의 'margin'은 얼마일까?",
-   "choices": [
-    "3점",
-    "17점",
-    "20점",
-    "37점"
-   ],
-   "answer_index": 0,
-   "answer": "3점",
-   "why": "맞아! 파란 팀 20점이랑 빨간 팀 17점 사이가 3점 벌어졌잖아. 이긴 쪽과 진 쪽 사이의 그 틈, 바로 그 3점이 margin인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "탁구 경기가 11 대 7로 끝났어. 경기가 끝나고 친구가 이 경기의 'margin'이 몇이냐고 물었는데, 누가 '7'이라고 대답했어. 이 '7'이 이 경기의 'margin'이 맞을까?",
-   "choices": [
-    "응, margin 맞아",
-    "아니, margin 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, margin 아니야",
-   "why": "잘 골랐어! 7은 진 쪽이 딴 점수일 뿐이야. margin은 11과 7 사이가 얼마나 벌어졌는지니까, 11에서 7을 빼면 4점 차, 그러니까 이 경기의 margin은 4야."
   }
  ],
  "synonyms": [],
@@ -95,6 +71,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/margin.webp",
   "alt": "경기 끝난 뒤 점수판(5 대 4, 9 대 1)",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

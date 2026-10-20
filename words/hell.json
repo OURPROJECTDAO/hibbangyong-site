@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/hell/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/hell/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/hell/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "hell",
  "slug": "hell",
  "url": "https://hibbangyong.com/words/hell/",
@@ -43,19 +43,6 @@
    "answer_index": 1,
    "answer": "아니, hell 아니야",
    "why": "맞아! 아픈 데 하나 없고 늘 따뜻하고 영원히 편안한 곳이면, 지독한 괴로움하고는 정반대잖아. hell은 괴로움이 안 끝나는 곳이니까, 이렇게 좋은 자리는 hell이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "아이 네 명이 각자 하루를 얘기했어. 이 중에 'hell' 같았다고 말할 만한 하루는?",
-   "choices": [
-    "뜨거운 차 안에 여덟 시간 갇혀서, 나가지도 못하고 버틴 날",
-    "어두운 방에 들어갔다가 깜짝 놀라 삼 초 만에 뛰쳐나온 날",
-    "비가 와서 못 나가고, 집에서 만화만 보며 심심했던 날",
-    "물놀이장에서 실컷 놀고, 저녁엔 아이스크림까지 먹은 날"
-   ],
-   "answer_index": 0,
-   "answer": "뜨거운 차 안에 여덟 시간 갇혀서, 나가지도 못하고 버틴 날",
-   "why": "맞아! 여덟 시간을 갇혀서 나가지도 못했잖아. 괴로움이 최고로 세고, 끝나지도 않고, 나갈 문도 없어. 그게 딱 hell이야."
   }
  ],
  "synonyms": [],
@@ -71,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/hell.webp",
   "alt": "이야기 속, 나쁜 짓을 한 사람이 죽어서 끝나지 않는 벌을 받고 나갈 문도 없는 곳",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

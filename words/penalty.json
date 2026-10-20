@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/penalty/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/penalty/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/penalty/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "penalty",
  "slug": "penalty",
  "url": "https://hibbangyong.com/words/penalty/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, penalty 맞아",
    "why": "맞아! 입구에 미리 적혀 있던 그대로, 모자 안 쓴 지호가 딱 십 분 앉아 쉰 거잖아. 누가 화내서가 아니라 정해진 만큼 잃은 거니까 그게 penalty인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "줄넘기 대회 규칙에 '백 번 넘으면 공책 한 권 준다'고 적혀 있어. 나윤이가 백 번을 넘어서 공책 한 권을 받았어. 이게 'penalty'야?",
-   "choices": [
-    "응, penalty 맞아",
-    "아니, penalty 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, penalty 아니야",
-   "why": "맞아! 백 번 잘 넘어서 상으로 받은 거잖아. 규칙에 적혀 있어도 방향이 얻는 거니까 벌칙이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "카드게임을 하던 네 아이한테 각각 이런 일이 일어났어. 이 중에서 'penalty'를 받은 아이는 누구일까?",
-   "choices": [
-    "서준이는 형이 화가 나서 손에 든 카드를 확 뺏어가는 바람에 한 장을 잃었어.",
-    "하윤이는 규칙에 카드를 잘 섞으면 한 장 더 가져간다고 적혀 있어서, 한 장을 더 가져갔어.",
-    "지민이는 규칙에 카드를 떨어뜨리면 한 장 도로 내라고 적혀 있어서, 한 장을 도로 냈어.",
-    "민재는 카드를 떨어뜨려서 다음엔 한 장 도로 내야 한다는 말만 듣고, 이번엔 그냥 넘어갔어."
-   ],
-   "answer_index": 2,
-   "answer": "지민이는 규칙에 카드를 떨어뜨리면 한 장 도로 내라고 적혀 있어서, 한 장을 도로 냈어.",
-   "why": "맞아! 규칙에 미리 그렇게 적혀 있었고, 지민이는 진짜로 한 장을 내놨잖아. 정해진 대로 잃은 거, 그게 바로 penalty야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/penalty.webp",
   "alt": "보드게임 중 카드를 떨어뜨려 규칙대로 한 장을 도로 내는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

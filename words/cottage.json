@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/cottage/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/cottage/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/cottage/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "cottage",
  "slug": "cottage",
  "url": "https://hibbangyong.com/words/cottage/",
@@ -41,19 +41,6 @@
    "answer_index": 1,
    "answer": "아니, 아니야",
    "why": null
-  },
-  {
-   "type": "choice",
-   "question": "cottage는 어느 것일까?",
-   "choices": [
-    "길에서 빠르게 달리는 자동차",
-    "접시에 놓인 빨갛고 둥근 사과",
-    "시골에 있는 작고 아담한 집",
-    "마당에서 뛰어노는 작은 강아지"
-   ],
-   "answer_index": 2,
-   "answer": "시골에 있는 작고 아담한 집",
-   "why": null
   }
  ],
  "synonyms": [],
@@ -67,6 +54,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/cottage.webp",
   "alt": "그림엔 시골의 아담한 작은 집 한 채(cottage) — 초가/기와풍 뾰족지붕·굴뚝·작은 창문·나무문, 앞에 작은 정원. 건물 전체가 중앙에 크게, 잘림 없이.",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

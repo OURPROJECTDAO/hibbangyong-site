@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/footnote/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/footnote/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/footnote/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "footnote",
  "slug": "footnote",
  "url": "https://hibbangyong.com/words/footnote/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, footnote 맞아",
    "why": "맞아! 보부상 옆에 작은 숫자 2를 붙여 두고, 그 쪽 맨 아래에 같은 숫자로 짧은 설명을 따로 달아 놨잖아. 본문은 그대로 두고 밑에 덧붙인 그 설명이 바로 footnote야."
-  },
-  {
-   "type": "ox",
-   "question": "위인전을 펼쳤더니 한 쪽 한가운데를 여러 문단이 가득 채우고 있었어. 주인공이 어릴 때 어떻게 자랐는지 이야기가 쭉 이어지는 부분이야. 이 한가운데 문단들이 'footnote'야?",
-   "choices": [
-    "응, footnote 맞아",
-    "아니, footnote 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, footnote 아니야",
-   "why": "맞아! 쪽 한가운데를 채우고 주인공이 어릴 때 자란 이야기가 쭉 이어지는 문단은 글의 중심 흐름인 본문이야. footnote는 그 본문은 그대로 두고 페이지 맨 아래에 따로 달아 둔 짧은 설명이니까, 한가운데 문단들은 footnote가 아닌 거지."
-  },
-  {
-   "type": "choice",
-   "question": "친구 네 명이 책에서 각자 읽은 부분을 말했어. 'footnote'를 읽은 친구는 누구일까?",
-   "choices": [
-    "책 맨 앞에서 작가가 쓴 인사말을 읽었어",
-    "사진 바로 밑에 붙은 사진 설명을 읽었어",
-    "페이지 맨 아래 숫자 옆의 짧은 설명을 읽었어",
-    "본문 가운데 굵은 글씨로 된 소제목을 읽었어"
-   ],
-   "answer_index": 2,
-   "answer": "페이지 맨 아래 숫자 옆의 짧은 설명을 읽었어",
-   "why": "맞아! 페이지 맨 아래에서 본문 숫자랑 짝이 되는 숫자 옆에 짧은 설명이 달려 있잖아. 본문 흐름은 그대로 두고 밑에 따로 붙인 그 설명이 바로 footnote야."
   }
  ],
  "synonyms": [],

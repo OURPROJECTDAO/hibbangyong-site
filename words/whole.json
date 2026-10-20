@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/whole/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/whole/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/whole/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "whole",
  "slug": "whole",
  "url": "https://hibbangyong.com/words/whole/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, whole 맞아",
    "why": "맞아! 엄마가 사 온 수박은 아직 자르지 않은 한 통이잖아. 한 조각도 안 떼고 처음부터 끝까지 전부 다 있으니까, 바로 그게 whole인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "지호가 초콜릿 바를 딱 반으로 나눠서 동생한테 한 쪽을 주고, 자기 손에 남은 한 쪽을 'whole'이라고 말했어. 이 말이 맞을까?",
-   "choices": [
-    "응, whole 맞아",
-    "아니, whole 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, whole 아니야",
-   "why": "딱 반으로 잘라서 동생 주고 남은 건 반쪽이잖아. 반쪽은 전부가 아니니까 whole이라고 말하면 안 되는 거야. 아무 데도 안 뜯고 통째로 하나일 때가 whole이거든."
-  },
-  {
-   "type": "choice",
-   "question": "엄마가 도시락에 'whole' 사과를 넣어 줬어. 도시락을 열면 사과가 어떤 모습일까?",
-   "choices": [
-    "칼로 자르지 않고 그대로인 사과 한 개",
-    "반으로 잘라 놓은 사과 한 개",
-    "여덟 조각으로 잘라 놓은 사과 한 개",
-    "껍질만 벗겨 반만 담아 놓은 사과"
-   ],
-   "answer_index": 0,
-   "answer": "칼로 자르지 않고 그대로인 사과 한 개",
-   "why": "맞아! 칼도 안 대고 통째로 그대로 있는 사과니까 처음부터 끝까지 빠짐없이 다 있는 거잖아. 그게 바로 whole이야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/whole.webp",
   "alt": "한 조각도 떼지 않은 통째 피자",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/barren/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/barren/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/barren/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "barren",
  "slug": "barren",
  "url": "https://hibbangyong.com/words/barren/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, barren 맞아",
    "why": "맞아! 몇 년이 지나도 들판에 풀 한 포기 안 나잖아. 땅에서 나와야 할 풀이 안 나니까 바로 barren인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "강가 들판의 논에서는 해마다 벼가 빽빽하게 자라서 쌀을 많이 거둬. 이 들판은 'barren'이야?",
-   "choices": [
-    "응, barren 맞아",
-    "아니, barren 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, barren 아니야",
-   "why": "맞아! 강가 들판의 논에서는 해마다 벼가 빽빽하게 자라서 쌀을 많이 거두잖아. barren은 아무것도 안 자라는 땅을 말하니까, 이렇게 곡식이 잘 나는 들판은 오히려 정반대인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "땅 네 곳을 봤어. 'barren'이라고 부르기 가장 알맞은 곳은?",
-   "choices": [
-    "비는 넉넉히 오는데 몇 년째 씨를 뿌려도 싹이 하나도 안 트는 언덕",
-    "한 달 넘게 비가 안 왔지만 옥수수가 아직 잘 자라고 있는 밭",
-    "사는 사람은 하나도 없지만 들풀이 무릎 높이까지 자란 빈터",
-    "거름을 듬뿍 줘서 무엇을 심어도 쑥쑥 크는 학교 텃밭"
-   ],
-   "answer_index": 0,
-   "answer": "비는 넉넉히 오는데 몇 년째 씨를 뿌려도 싹이 하나도 안 트는 언덕",
-   "why": "맞아! 비가 넉넉히 오는데도 몇 년째 싹이 하나도 안 트잖아. 물이 있어도 나와야 할 게 안 나오는 땅, 바로 그게 barren인 거야."
   }
  ],
  "synonyms": [],
@@ -84,6 +60,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/barren.webp",
   "alt": "비가 와도 풀 한 포기 안 나는 바위산 꼭대기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

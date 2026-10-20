@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/chancellor/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/chancellor/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/chancellor/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "chancellor",
  "slug": "chancellor",
  "url": "https://hibbangyong.com/words/chancellor/",
@@ -43,28 +43,6 @@
    "answer_index": 1,
    "answer": "아니, chancellor 아니야",
    "why": "맞아! 안내 데스크에서 출입증을 나눠 주는 직원은 정부 건물에서 일하긴 해도 나라 일을 이끄는 맨 윗자리는 아니잖아. chancellor는 오스트리아 같은 나라에서 정부를 이끄는 총리를 부르는 이름이라서, 이 직원한테는 안 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "독일에는 나라를 대표해서 외국 손님을 맞고 행사에 나가는 대통령이 따로 있어. 이 독일 대통령도 'chancellor'라고 부를까?",
-   "choices": [
-    "응, chancellor 맞아",
-    "아니, chancellor 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, chancellor 아니야",
-   "why": "맞아! 문제 속 독일 대통령은 나라를 대표해서 외국 손님을 맞고 행사에 나가는 사람이지, 나라 일을 실제로 끌고 가는 사람이 아니거든. 같은 독일 안에서도 대통령이랑 chancellor는 서로 다른 자리라서, 이 대통령은 chancellor가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "오스트리아 정부에서 여러 장관을 이끌며 나라 일을 책임지는 맨 윗자리 사람이 있어. 이 사람을 'chancellor'라고 부를 수 있을까?",
-   "choices": [
-    "응, chancellor 맞아",
-    "아니, chancellor 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, chancellor 맞아",
-   "why": "맞아! 오스트리아 정부에서 여러 장관을 이끌면서 나라 일을 책임지는 맨 윗자리 사람이잖아. 몇몇 나라에서 정부를 이끄는 맨 윗자리를 chancellor라고 부르니까, 이 사람도 바로 chancellor인 거야."
   }
  ],
  "synonyms": [],
@@ -78,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/chancellor.webp",
   "alt": "뉴스에 나오는 독일 총리 소식",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

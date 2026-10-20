@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/approach/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/approach/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/approach/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "approach",
  "slug": "approach",
  "url": "https://hibbangyong.com/words/approach/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, approach 맞아",
    "why": "맞아! 양말부터 모으는 것도, 한 벌씩 바로 개는 것도 같은 빨래를 두고 각자 정한 길이잖아. 그 정해 놓은 순서가 바로 approach인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "은우가 무거운 화분을 옮기려고 수건을 밑에 깔고 끌어 보기로 했어. 그런데 몇 발짝 만에 수건이 찢어져서 화분은 그 자리 그대로야. 은우가 한 이것도 'approach'야?",
-   "choices": [
-    "응, approach 맞아",
-    "아니, approach 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, approach 맞아",
-   "why": "맞아! 은우는 수건을 깔고 끌어 보자고 어떻게 할지를 정한 거잖아. 그렇게 정한 그 방식이 바로 approach야. 수건이 찢어져서 화분이 그대로여도, 정한 건 정한 거니까 approach 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "민수가 화분에 물을 아침마다 조금씩 줬어. 몇 주 뒤 새싹이 쑥 자라 잎이 세 장 났어. 이 자란 잎 세 장이 'approach'야?",
-   "choices": [
-    "응, approach 맞아",
-    "아니, approach 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, approach 아니야",
-   "why": "맞아! 쑥 자란 잎은 물을 주고 나서 생긴 결과거든. approach는 민수가 아침마다 조금씩 주기로 정한 그 방법인 거야."
   }
  ],
  "synonyms": [
@@ -80,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/approach.webp",
   "alt": "높은 선반 위 상자를 두 아이가 각각 의자와 막대로 꺼내려는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

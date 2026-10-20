@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/spin/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/spin/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/spin/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "spin",
  "slug": "spin",
  "url": "https://hibbangyong.com/words/spin/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, spin 맞아",
    "why": "맞아! 팽이가 저쪽으로 굴러가지도 않고 그 자리에서 뱅글뱅글 계속 돌잖아. 동전을 톡 쳤을 때랑 똑같지? 바로 그게 spin인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "시소 한쪽에 앉으려다 말고, 시소가 기울어진 채로 딱 멈춰서 그대로 가만히 있어. 이게 'spin'이야?",
-   "choices": [
-    "응, spin 맞아",
-    "아니, spin 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, spin 아니야",
-   "why": "맞아! 시소가 기울어진 채로 딱 멈춰 있으면 아무 데도 안 돌고 있잖아. 도는 게 하나도 없으니까 spin이랑은 정반대인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 가지 물건이 저마다 어떻게 움직였는지 말했어. 이 중에서 'spin' 한 건 어느 것일까?",
-   "choices": [
-    "빈 페트병이 잔디밭을 데굴데굴 굴러 저 끝까지 가 버렸어",
-    "선풍기 날개가 한자리에 붙어서 쉬지 않고 계속 돌았어",
-    "관람차 칸이 큰 바퀴에 매달려 위로 갔다 아래로 실려 갔어",
-    "문이 반쯤 열리다가 그대로 멈춰서 가만히 있었어"
-   ],
-   "answer_index": 1,
-   "answer": "선풍기 날개가 한자리에 붙어서 쉬지 않고 계속 돌았어",
-   "why": "맞아! 선풍기 날개는 어디로 가지도 않고 그 자리에 딱 붙어서 저 혼자 계속 돌잖아. 바로 그게 spin이야. 신나게 노는 거든 재미없는 기계든, 제자리에서 뱅뱅 돌면 다 spin인 거야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/spin.webp",
   "alt": "책상 위 동전이 손끝에 맞아 제자리에서 뱅뱅 도는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

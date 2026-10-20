@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/urban/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/urban/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/urban/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "urban",
  "slug": "urban",
  "url": "https://hibbangyong.com/words/urban/",
@@ -45,30 +45,6 @@
    "answer_index": 2,
    "answer": "지하철역과 높은 아파트가 늘어선 동네",
    "why": "맞아! 지하철역이 있고 높은 아파트가 쭉쭉 늘어선 동네, 그게 바로 도시잖아. 도시에 딸린 동네니까 딱 urban인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구 넷이 각자 사는 곳을 말했어. 'urban' 지역에 사는 사람은 누구일까?",
-   "choices": [
-    "높은 빌딩과 버스, 가게가 빽빽한 도시 한가운데 사는 아이",
-    "소와 논밭이 넓게 펼쳐진 조용한 시골 마을에 사는 아이",
-    "파도 소리만 들리는 외딴 바닷가 섬에 사는 아이",
-    "나무가 우거진 깊은 산속 오두막에 사는 아이"
-   ],
-   "answer_index": 0,
-   "answer": "높은 빌딩과 버스, 가게가 빽빽한 도시 한가운데 사는 아이",
-   "why": "맞아! 높은 빌딩이 쭉쭉 서 있고 버스랑 가게가 빽빽한 그 한가운데가 바로 도시잖아. 도시에 사니까 그게 urban인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "내가 사진 두 장을 찍었어. 한 장은 지하철역 앞 상가 골목이고, 한 장은 비닐하우스가 늘어선 밭 사잇길이야. 뒤의 사진 속 길이 'urban' 길이야?",
-   "choices": [
-    "응, urban 길 맞아",
-    "아니, urban 길 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, urban 길 아니야",
-   "why": "맞아! 비닐하우스가 늘어선 밭 사잇길은 도시가 아니라 시골 쪽이거든. 높은 건물도 없고 도시에 딸린 길도 아니니까 urban 길이 아닌 게 맞아."
   }
  ],
  "synonyms": [],
@@ -85,6 +61,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/urban.webp",
   "alt": "버스 빵빵·높은 건물·사람 붐비는 도시 거리",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

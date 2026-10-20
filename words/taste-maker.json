@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/taste-maker/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/taste-maker/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/taste-maker/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "taste-maker",
  "slug": "taste-maker",
  "url": "https://hibbangyong.com/words/taste-maker/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, taste-maker 맞아",
    "why": "맞아! 지유가 초록색 펜 필기를 먼저 골랐고, 반 친구들이 그걸 보고 '저게 예쁜 필기지' 하면서 따라 쓰게 됐잖아. 뭐가 좋은지 먼저 정하고 남들이 그 눈을 믿고 따라온 거니까, 지유가 바로 taste-maker야."
-  },
-  {
-   "type": "ox",
-   "question": "요즘 반에서 한 추리소설이 인기라서, 민재도 친구들이 읽는 걸 보고 그 책을 따라 사서 읽기 시작했어. 민재는 'taste-maker'일까?",
-   "choices": [
-    "응, taste-maker 맞아",
-    "아니, taste-maker 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, taste-maker 아니야",
-   "why": "맞아! 민재는 반에서 이미 인기인 추리소설을 친구들이 읽는 걸 보고 따라 산 거잖아. 먼저 골라서 남들이 따라오게 만든 게 아니라 따라간 쪽이라서, taste-maker가 아닌 게 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "네 사람 이야기야. 이 중에서 'taste-maker'라고 부를 만한 사람은 누구일까?",
-   "choices": [
-    "음악 블로거가 이름 없는 밴드를 소개하자, 그 밴드가 좋은 음악으로 통하게 됐다.",
-    "팔로워가 백만 명인 가수가 매일 자기 노래 연습 영상을 꾸준히 올린다.",
-    "반에 새 운동화가 뜨면 누구보다 먼저 그걸 따라 사서 신고 오는 친구.",
-    "돈을 받고 광고에 나와서 새로 나온 음료를 들고 웃는 배우."
-   ],
-   "answer_index": 0,
-   "answer": "음악 블로거가 이름 없는 밴드를 소개하자, 그 밴드가 좋은 음악으로 통하게 됐다.",
-   "why": "맞아! 블로거가 이름 없는 밴드를 먼저 골라서 소개했고, 사람들이 그 눈을 믿고 따라와서 그 밴드가 좋은 음악으로 통하게 된 거야. 남들이 좋아할 것을 먼저 정해 준 거니까 바로 그게 taste-maker인 거야."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/taste-maker.webp",
   "alt": "친구가 추천한 노래가 반 전체 플레이리스트에 퍼짐",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/trauma/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/trauma/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/trauma/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "trauma",
  "slug": "trauma",
  "url": "https://hibbangyong.com/words/trauma/",
@@ -43,32 +43,6 @@
    "answer_index": 1,
    "answer": "아니, trauma 아니야",
    "why": "맞아! 별 가득한 밤은 5년이 지나도 떠오르지만, 떠올릴 때마다 기분이 좋아지잖아. trauma는 충격적인 일이 남긴 상처라서, 이렇게 좋은 기억은 trauma가 아니야."
-  },
-  {
-   "type": "choice",
-   "question": "5년 전 한 캠핑장에서 큰불이 났어. 그 일 이후 지금까지 남아 있는 것 중 'trauma'에 해당하는 것은?",
-   "choices": [
-    "그날 이후 5년째 라이터 켜는 소리만 들어도 온몸이 굳는 지훈이의 반응",
-    "그날 이후 5년째 캠핑장 입구 옆에 나란히 세워져 있는 빨간 소화기 두 대",
-    "그날 이후 5년째 캠핑장 직원들이 매달 한 번씩 모여서 하는 소방 훈련",
-    "그날 이후 5년째 캠핑장 안내판 맨 위에 크게 적혀 있는 '불조심' 문구"
-   ],
-   "answer_index": 0,
-   "answer": "그날 이후 5년째 라이터 켜는 소리만 들어도 온몸이 굳는 지훈이의 반응",
-   "why": "맞아! 5년 전 큰불이 지훈이 마음에 깊이 박혀서, 지금도 라이터 켜는 소리만 들어도 온몸이 굳는 거잖아. 이렇게 충격적인 일이 사람 마음에 오래 남아 따라다니는 게 바로 trauma야."
-  },
-  {
-   "type": "choice",
-   "question": "친구 네 명의 이야기야. 이 중 'trauma'라고 부르기에 가장 알맞은 건?",
-   "choices": [
-    "어제 발표를 망쳐서 오늘 하루 종일 기분이 처져 있는 민호",
-    "수학여행 때 친구들과 웃던 일이 지금도 자꾸 떠오르는 서연",
-    "3년 전 큰 지진을 겪은 뒤로 작은 흔들림에도 숨이 막히는 지우",
-    "어릴 때부터 그냥 거미가 싫어서 보이면 멀리 피하는 준수"
-   ],
-   "answer_index": 2,
-   "answer": "3년 전 큰 지진을 겪은 뒤로 작은 흔들림에도 숨이 막히는 지우",
-   "why": "맞아! 지우는 큰 지진이라는 아주 충격적인 일을 겪었고, 그게 마음에 깊이 박혀서 작은 흔들림에도 숨이 막히잖아. 이렇게 충격이 마음에 오래 남아 따라다니는 게 바로 trauma야."
   }
  ],
  "synonyms": [],
@@ -88,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/trauma.webp",
   "alt": "어릴 때 바다에서 물에 빠질 뻔한 뒤 수영장 앞에서 몸이 굳음",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

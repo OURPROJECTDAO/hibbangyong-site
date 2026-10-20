@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/reward/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/reward/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/reward/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "reward",
  "slug": "reward",
  "url": "https://hibbangyong.com/words/reward/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, reward 맞아",
    "why": "맞아! 네가 지갑을 갖다준 그 일 때문에 아저씨가 상품권을 준 거잖아. 내가 한 일 때문에 되돌아온 좋은 것, 그게 바로 reward야."
-  },
-  {
-   "type": "ox",
-   "question": "형이 동생 장난감 자동차를 몰래 부러뜨렸어. 그래서 엄마가 형한테 이번 주 만화영화 보는 시간을 없앴어. 이렇게 없앤 게 'reward'야?",
-   "choices": [
-    "응, reward 맞아",
-    "아니, reward 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, reward 아니야",
-   "why": "잘 봤어! reward는 한 일 때문에 되돌아오는 좋은 거잖아. 그런데 형한테 돌아온 건 좋은 게 아니라 보던 만화를 빼앗긴 거니까, 이건 reward가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 오늘 각자 뭔가를 받았어. 이 중에 'reward'를 받은 아이는 누구일까?",
-   "choices": [
-    "생일이 되어서 할머니한테 새 필통을 받은 미나",
-    "숙제를 안 해서 청소 당번을 하나 더 받은 준서",
-    "옆집 열쇠를 찾아줘서 초콜릿 한 상자를 받은 지호",
-    "줄 순서가 되어서 오늘 급식을 받은 하윤"
-   ],
-   "answer_index": 2,
-   "answer": "옆집 열쇠를 찾아줘서 초콜릿 한 상자를 받은 지호",
-   "why": "맞아! 지호는 열쇠를 찾아준 일이 먼저 있었고, 그래서 초콜릿이 돌아온 거야. 내가 한 일 때문에 좋은 게 되돌아오는 것, 그게 바로 reward거든."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/reward.webp",
   "alt": "전봇대에 붙은 강아지 찾기 사례금 종이",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

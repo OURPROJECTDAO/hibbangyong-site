@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/transistor/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/transistor/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/transistor/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "transistor",
  "slug": "transistor",
  "url": "https://hibbangyong.com/words/transistor/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, transistor 맞아",
    "why": "맞아! 리모컨 버튼을 누르면 이 작은 부품이 전기를 흘려보낼지 막을지 정하잖아. 전기의 흐름을 조절하는 작은 부품, 바로 그게 transistor인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "손전등 안에 작은 전구가 있어. 이 전구는 전기를 받아서 빛을 내. 이 전구가 'transistor'야?",
-   "choices": [
-    "응, transistor 맞아",
-    "아니, transistor 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, transistor 아니야",
-   "why": "맞아! 손전등 전구는 전기를 받아서 빛을 내는 데 쓰는 쪽이야. transistor는 전기를 흘려보낼지 막을지, 얼마나 세게 흐를지를 조절하는 부품이니까 전구는 transistor가 아니야."
-  },
-  {
-   "type": "ox",
-   "question": "무선 이어폰 케이스 안에는 전기를 잔뜩 담아 뒀다가, 이어폰을 넣으면 그 전기를 꺼내 채워 주는 부품이 있어. 이런 부품도 'transistor'야?",
-   "choices": [
-    "응, transistor 맞아",
-    "아니, transistor 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, transistor 아니야",
-   "why": "맞아, transistor가 아니야! 케이스 안의 그 부품은 전기를 잔뜩 담아 뒀다가 이어폰을 넣으면 꺼내서 채워 주니까 배터리(battery)야. transistor는 전기를 담아 두는 게 아니라, 전기가 흐를지 말지랑 얼마나 세게 흐를지를 조절하는 부품이야."
   }
  ],
  "synonyms": [],

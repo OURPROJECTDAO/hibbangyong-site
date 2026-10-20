@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/vivid/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/vivid/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/vivid/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "vivid",
  "slug": "vivid",
  "url": "https://hibbangyong.com/words/vivid/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, vivid 맞아",
    "why": "맞아! 색이 하나도 안 흐리고 진하게 딱 보인다고 했잖아. 물 조금만 탄 물감처럼 진해서 확 다가오는 거니까, 그게 바로 vivid인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "작년 어린이날에 어디를 갔었는지 물었더니, 형이 가물가물해서 하나도 안 떠오른대. 이게 'vivid'야?",
-   "choices": [
-    "응, vivid 맞아",
-    "아니, vivid 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, vivid 아니야",
-   "why": "맞아! 가물가물해서 하나도 안 떠오르는 거잖아. 그건 머릿속 장면이 흐릿하게 지워진 거니까 vivid랑 정반대인 거야. vivid는 어젯밤 꿈처럼 하나하나 딱 떠오를 때 쓰거든."
-  },
-  {
-   "type": "ox",
-   "question": "운동회 때 반마다 깃발을 들었는데, 3반 깃발은 색이 딱 하나야. 근데 그 초록이 물 안 탄 것처럼 진해서 멀리서도 눈에 확 들어와. 이 깃발도 'vivid'야?",
-   "choices": [
-    "응, 'vivid' 맞아",
-    "아니, 'vivid' 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, 'vivid' 맞아",
-   "why": "맞아! 색이 딱 하나여도 물 안 탄 것처럼 진해서 멀리서도 눈에 확 들어오잖아. 흐리지 않고 진한 게 바로 vivid인 거야."
   }
  ],
  "synonyms": [],
@@ -94,6 +72,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/vivid.webp",
   "alt": "물을 많이 탄 흐릿한 색과 물을 조금만 탄 진한 색을 견주는 색칠 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

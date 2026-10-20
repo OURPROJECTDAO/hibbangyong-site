@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/verdict/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/verdict/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/verdict/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "verdict",
  "slug": "verdict",
  "url": "https://hibbangyong.com/words/verdict/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, verdict 아니야",
    "why": "잘 골랐어, 이건 아직 verdict가 아니야! 심판들이 비디오 판독실에서 화면을 돌려 보는 중이고 골인지 아닌지는 아무것도 안 정해졌잖아. verdict는 다 따져 본 뒤에 공식적으로 내놓는 결정이라서, 판독이 끝나고 골이다 아니다가 발표돼야 그게 verdict가 돼."
-  },
-  {
-   "type": "ox",
-   "question": "새 영화가 개봉하기 일주일 전이야. 한 기자가 예고편만 보고 '이 영화는 분명 망할 거야'라고 기사를 썼어. 이런 것도 'verdict'야?",
-   "choices": [
-    "응, verdict 맞아",
-    "아니, verdict 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, verdict 아니야",
-   "why": "맞아! 기자는 영화가 개봉도 안 했는데 예고편만 보고 망할 거라고 쓴 거잖아. 영화를 다 보고 따져 본 뒤에 내린 판정이 아니라 미리 해 본 짐작이니까 verdict가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "새로 나온 스마트폰의 리뷰 기사에 'verdict'라는 소제목이 붙은 문단이 있어. 이 문단에 담겨 있을 내용은?",
-   "choices": [
-    "기자가 여러 기능을 다 써 보고 내린 최종 평가",
-    "기자가 상자를 열자마자 받은 첫 느낌",
-    "회사가 기자에게 보내 준 제품 자랑 문구",
-    "법원이 이 제품 문제를 두고 내린 판결"
-   ],
-   "answer_index": 0,
-   "answer": "기자가 여러 기능을 다 써 보고 내린 최종 평가",
-   "why": "맞아! 리뷰 끝에 붙은 verdict는 기자가 여러 기능을 다 써 보고 따져 본 뒤에 내놓는 최종 평가야. 법정이 아니어도 살펴본 끝에 내린 결정이면 verdict라고 불러."
   }
  ],
  "synonyms": [],
@@ -91,6 +67,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/verdict.webp",
   "alt": "법정에서 증거·증인 말을 다 듣고 유죄/무죄 또는 누가 잘못했는지 발표",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

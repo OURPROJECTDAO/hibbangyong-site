@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/hypothesis/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/hypothesis/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/hypothesis/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "hypothesis",
  "slug": "hypothesis",
  "url": "https://hibbangyong.com/words/hypothesis/",
@@ -43,28 +43,6 @@
    "answer_index": 1,
    "answer": "아니, hypothesis 아니야",
    "why": "맞아! 라면이 더 맛있다는 건 그 친구 입맛이라서, 맞다 틀리다를 확인해볼 수가 없거든. 시험해볼 길이 없는 말은 hypothesis가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "동생이 감기에 자주 걸려. 형이 말했어. \"밤에 창문 열고 자서 그런 것 같아. 이번 주는 창문 닫고 재워보고 어떤지 보자.\" 형이 말한 게 'hypothesis'야?",
-   "choices": [
-    "응, hypothesis 맞아",
-    "아니, hypothesis 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, hypothesis 맞아",
-   "why": "맞아! 아직 진짜 그런지는 모르지만 창문 닫고 재워보면 알 수 있잖아. 확인해볼 길이 있는 짐작이라서 바로 그게 hypothesis인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "교실 수족관 물이 뿌예졌어. 어제 청소 시간에 태윤이는 필터를 직접 열어서 안을 들여다봤고, 솜이 먼지로 꽉 막힌 걸 눈으로 봤어. 오늘 아침 태윤이가 친구들에게 말해. \"필터가 막혀서 물이 뿌예진 거야.\" 이런 경우도 'hypothesis'야?",
-   "choices": [
-    "응, hypothesis 맞아",
-    "아니, hypothesis 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, hypothesis 아니야",
-   "why": "맞아, 이건 hypothesis가 아니야! 태윤이는 필터를 직접 열어서 솜이 막힌 걸 눈으로 봤잖아. 이미 확인해버린 건 짐작이 아니라 그냥 본 사실인 거야."
   }
  ],
  "synonyms": [
@@ -81,6 +59,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/hypothesis.webp",
   "alt": "축 늘어진 교실 화분 — 햇빛이 모자랐나 하는 짐작",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

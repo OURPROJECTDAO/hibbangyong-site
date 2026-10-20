@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/bond/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/bond/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/bond/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "bond",
  "slug": "bond",
  "url": "https://hibbangyong.com/words/bond/",
@@ -45,28 +45,6 @@
    "answer_index": 0,
    "answer": "폭풍을 같이 견딘 두 선원이 몇 년이 지나도 서로를 챙겨",
    "why": "맞아! 두 선원은 폭풍을 같이 견뎠고, 몇 년이 지나도 서로를 챙기잖아. 한 사람만 챙기는 게 아니라 둘이 서로를 챙기니까, 바로 그게 둘을 이어 주는 bond인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "서로 못마땅해하던 두 반의 반장이 학교 축제를 몇 주 동안 같이 준비했어. 둘은 아직 서로를 친구라고 부르지 않아. 그래도 이제는 힘든 일이 생기면 서로 믿고 먼저 도와줘. 이런 경우도 둘 사이에 'bond'가 생겼다고 할 수 있을까?",
-   "choices": [
-    "응, bond 맞아",
-    "아니, bond 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, bond 맞아",
-   "why": "맞아! 두 반장은 아직 서로를 친구라고 부르지 않아도, 힘든 일이 생기면 서로 믿고 먼저 도와주잖아. 서로를 이어 주는 보이지 않는 끈이 양쪽에 다 생긴 거니까, 그게 바로 bond인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "하린이와 먼 친척 오빠는 집안 족보에 이름이 같이 올라 있어. 그런데 둘은 한 번도 만난 적이 없고, 서로 얼굴도 몰라. 이런 경우도 둘 사이에 'bond'가 있는 걸까?",
-   "choices": [
-    "응, bond 맞아",
-    "아니, bond 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, bond 아니야",
-   "why": "맞아! 하린이와 오빠는 친척이긴 하지만 한 번도 만난 적이 없고 서로 얼굴도 모르거든. bond는 서로 함께 지내면서 양쪽에 생기는 끈이라서, 만난 적도 없는 둘 사이에는 아직 bond가 없는 거야."
   }
  ],
  "synonyms": [],
@@ -86,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/bond.webp",
   "alt": "서로 모르던 축구팀 아이들이 같이 뛰고 지고 이기며 가까워짐",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

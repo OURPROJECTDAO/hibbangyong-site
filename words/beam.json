@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/beam/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/beam/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/beam/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "beam",
  "slug": "beam",
  "url": "https://hibbangyong.com/words/beam/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, beam 아니야",
    "why": "맞아! 동굴 깊은 곳은 빛이 하나도 없어서 캄캄했잖아. beam은 한쪽으로 쭉 뻗어 가는 빛인데 여기엔 빛이 아예 없으니까, 이 캄캄한 모습은 beam이 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "밤바다에서 등대 꼭대기 불이 켜졌어. 빛이 바다 위로 한쪽으로 쭉 뻗어 나갔어. 이 뻗어 나간 빛이 'beam'이야?",
-   "choices": [
-    "응, beam 맞아",
-    "아니, beam 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, beam 맞아",
-   "why": "맞아! 등대 꼭대기 한 곳에서 나온 빛이 바다 위로 한쪽으로 쭉 뻗어 나갔잖아. 그래서 바로 그 빛이 beam인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "공연장 무대에서 벌어진 네 장면이야. 이 중에서 'beam'을 볼 수 있는 장면은 어느 거야?",
-   "choices": [
-    "무대 불이 다 켜져서 구석구석까지 환해졌어",
-    "무대 뒤쪽 불이 꺼져서 아무것도 안 보였어",
-    "무대 한쪽 조명에서 가수 쪽으로 빛이 쭉 뻗었어",
-    "가수 뒤쪽으로 기다란 그림자가 바닥에 쭉 뻗었어"
-   ],
-   "answer_index": 2,
-   "answer": "무대 한쪽 조명에서 가수 쪽으로 빛이 쭉 뻗었어",
-   "why": "맞아! 조명에서 나온 빛이 가수 쪽으로 한쪽으로 쭉 뻗어 갔잖아. 그렇게 한쪽으로 뻗어 가는 빛, 바로 그게 beam인 거야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/beam.webp",
   "alt": "깜깜한 방에서 켠 손전등 빛",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

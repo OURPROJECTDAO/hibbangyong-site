@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/quirky/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/quirky/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/quirky/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "quirky",
  "slug": "quirky",
  "url": "https://hibbangyong.com/words/quirky/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, quirky 맞아",
    "why": "맞아! 양말을 일부러 다른 색으로 신는 건 평범하진 않은데, 반 친구들이 싫어하지 않고 오늘은 무슨 색 조합일지 궁금해서 확인해 보잖아. 좀 이상한데 그게 재미있는 쪽이라서 딱 quirky인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "동네 문구점은 연필, 공책, 지우개를 여느 문구점처럼 진열대에 가지런히 놓고 팔아. 가게 모습도 다른 문구점이랑 거의 같아. 이 문구점은 'quirky'야?",
-   "choices": [
-    "응, quirky 맞아",
-    "아니, quirky 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, quirky 아니야",
-   "why": "맞아! 연필, 공책, 지우개를 여느 문구점처럼 가지런히 놓고, 가게 모습도 다른 데랑 거의 같잖아. 눈에 띄게 별난 구석이 하나도 없으니까 quirky가 아니라 그냥 평범한 문구점인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "학교 복도에 걸린 오래된 초상화가 있는데, 어디로 걸어가도 그림 속 눈이 나를 따라오는 것 같아. 그래서 애들이 그 앞을 지나가기 싫어해. 이런 그림도 'quirky'야?",
-   "choices": [
-    "응, quirky 맞아",
-    "아니, quirky 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, quirky 아니야",
-   "why": "잘 골랐어! 이 그림은 평범하지 않은 건 맞지만, 눈이 따라오는 것 같아서 애들이 그 앞을 지나가기 싫어하잖아. quirky는 이상한 게 오히려 재미있고 매력으로 느껴질 때 쓰는 말이라서, 이렇게 꺼림칙한 그림한테는 안 맞아."
   }
  ],
  "synonyms": [
@@ -91,6 +69,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/quirky.webp",
   "alt": "피자를 끝의 딱딱한 부분부터 먹는 친구",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/overlap/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/overlap/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/overlap/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "overlap",
  "slug": "overlap",
  "url": "https://hibbangyong.com/words/overlap/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, overlap 맞아",
    "why": "맞아! 자가 지도 위에 슥 올라타서 3cm를 둘이 같이 차지하고 있잖아. 그렇게 포개진 자리가 있으면 바로 그게 겹친 거야."
-  },
-  {
-   "type": "ox",
-   "question": "누나가 벽에 달력을 붙이고, 달력에서 3cm 떨어진 옆자리에 엽서를 붙였어. 달력과 엽서 사이에 'overlap'이 있어?",
-   "choices": [
-    "응, overlap 맞아",
-    "아니, overlap 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, overlap 아니야",
-   "why": "맞아! 3cm 떨어져 있으면 둘 사이엔 빈 벽만 있잖아. 같이 차지한 자리가 하나도 없으니까 겹친 게 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "친구 넷이 오늘 학원 시간을 말했어. 두 수업 사이에 'overlap'이 있는 사람은 누구일까?",
-   "choices": [
-    "미술이 3시에 끝나는데 태권도가 2시 50분에 시작해서 10분이 물린 지호",
-    "미술이 3시에 끝나고 태권도가 딱 3시에 시작해서 쉼 없이 이어지는 수아",
-    "미술이 3시에 끝나고 태권도가 4시에 시작해서 한 시간이 텅 비는 준서",
-    "오늘은 미술만 다니고 태권도는 쉬어서 수업이 하나밖에 없는 하은"
-   ],
-   "answer_index": 0,
-   "answer": "미술이 3시에 끝나는데 태권도가 2시 50분에 시작해서 10분이 물린 지호",
-   "why": "맞아! 미술이 아직 안 끝났는데 태권도가 벌써 시작해서, 그 10분 동안은 두 수업이 같은 시간을 같이 차지하고 있잖아. 몸이 두 군데 있어야 하는 그 10분, 그게 바로 겹친 데야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/overlap.webp",
   "alt": "색종이 두 장을 포개 한 장이 다른 장 위에 올라탄 자리",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

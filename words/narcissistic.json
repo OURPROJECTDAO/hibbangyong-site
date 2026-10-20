@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/narcissistic/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/narcissistic/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/narcissistic/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "narcissistic",
  "slug": "narcissistic",
  "url": "https://hibbangyong.com/words/narcissistic/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, narcissistic 맞아",
    "why": "맞아! 친구 생일파티에 가서도 거울 앞에서 자기 머리만 만지고, 오늘 주인공보다 자기가 더 멋지냐고 묻잖아. 남의 날인데도 자기한테만 푹 빠져서 스스로를 주인공보다 대단하게 여기니까 바로 그게 narcissistic인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "수아는 교내 그림 대회에서 1등을 했어. 그런데 \"운이 좋았을 뿐이야, 나는 아직 배울 게 많아\"라고 말하면서 자기를 낮춰. 이런 수아는 'narcissistic'한 걸까?",
-   "choices": [
-    "응, narcissistic 맞아",
-    "아니, narcissistic 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, narcissistic 아니야",
-   "why": "맞아! 수아는 1등을 하고도 운이 좋았을 뿐이고 아직 배울 게 많다면서 자기를 낮췄잖아. 자기한테 푹 빠져서 스스로를 대단하게 여기는 거랑은 정반대라서, 이건 겸손한(humble) 모습이야."
-  },
-  {
-   "type": "choice",
-   "question": "반 친구 네 명의 평소 모습이야. 'narcissistic'한 친구는 누구일까?",
-   "choices": [
-    "대화가 늘 자기 자랑으로 끝나고, 남 얘기는 흘려들어",
-    "발표 전에 나는 할 수 있다며 차분히 연습해",
-    "간식을 혼자 다 먹고 친구 몫은 안 남겨",
-    "칭찬을 받으면 친구들 덕분이라며 웃어 넘겨"
-   ],
-   "answer_index": 0,
-   "answer": "대화가 늘 자기 자랑으로 끝나고, 남 얘기는 흘려들어",
-   "why": "맞아! 대화가 늘 자기 자랑으로 끝나고 남 얘기는 흘려듣는 건, 자기한테 푹 빠져서 다른 사람이 잘 안 보이는 거잖아. 바로 그게 narcissistic인 거야."
   }
  ],
  "synonyms": [],
@@ -98,6 +74,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/narcissistic.webp",
   "alt": "대화가 늘 자기 자랑으로 돌아가는 친구",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

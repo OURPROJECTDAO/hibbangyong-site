@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/pinch/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/pinch/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/pinch/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "pinch",
  "slug": "pinch",
  "url": "https://hibbangyong.com/words/pinch/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, pinch 아니야",
    "why": "맞아! 손을 쫙 펴서 놓아버린 건 잡는 게 아니라 놓아주는 거잖아. pinch는 두 쪽 사이에 끼우고 꾹 집는 건데, 이건 딱 그 반대라서 pinch가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "아이 네 명이 저마다 형 팔에 손을 댔어. 이 중에서 형이 'a pinch'를 당한 건 어느 쪽일까?",
-   "choices": [
-    "형 팔의 살을 손가락 두 개 사이에 넣고 꾹 눌렀다",
-    "형 팔을 손 전체로 감싸 잡고 세게 흔들었다",
-    "형 팔을 집게손가락 하나로 콕콕 찔렀다",
-    "형 팔을 펼친 손바닥으로 툭 하고 쳤다"
-   ],
-   "answer_index": 0,
-   "answer": "형 팔의 살을 손가락 두 개 사이에 넣고 꾹 눌렀다",
-   "why": "맞아! 형 팔의 살을 손가락 두 개 사이에 넣고 꾹 눌렀잖아. 이렇게 두 손가락 사이에 넣고 꾹 누르는 게 바로 pinch인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "엄마가 빨래를 널면서 옷을 빨랫줄에 고정하려고, 나무 집게의 양쪽을 엄지와 검지 사이에 넣고 꾹 눌러서 벌렸어. 엄마 손가락이 한 이 동작이 pinch야?",
-   "choices": [
-    "응, pinch 맞아",
-    "아니, pinch 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, pinch 맞아",
-   "why": "맞아! 집게 양쪽을 엄지랑 검지 사이에 넣고 꾹 눌렀잖아. 두 쪽 사이에 끼워서 꼭 집는 그 손 모양, 그게 딱 pinch야."
   }
  ],
  "synonyms": [
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/pinch.webp",
   "alt": "국에 소금을 손가락 두 개로 집어 넣는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

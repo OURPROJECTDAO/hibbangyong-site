@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/routine/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/routine/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/routine/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "routine",
  "slug": "routine",
  "url": "https://hibbangyong.com/words/routine/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, routine 맞아",
    "why": "맞아! 매일 4교시 끝나면 손 씻고, 급식 받고, 자리에 앉아 먹고 — 늘 그 순서 그대로잖아. 그렇게 같은 순서로 반복되는 일 묶음이 바로 routine인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "엄마는 저녁 반찬을 그때그때 다르게 정해. 어떤 날은 김치찌개, 어떤 날은 카레, 어떤 날은 계란말이야. 이게 'routine'이야?",
-   "choices": [
-    "응, routine 맞아",
-    "아니, routine 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, routine 아니야",
-   "why": "맞아! 그날그날 다르게 정하는 건 정해진 순서가 없잖아. routine은 매번 똑같은 순서로 돌아오는 거니까, 이건 routine이 아닌 게 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구 네 명이 어제 한 일을 말했어. 이 중에서 'routine'이라고 부를 수 있는 건 누구 얘기야?",
-   "choices": [
-    "매일 아침 똑같이 세수하고, 밥 먹고, 가방 싸고 나간 애",
-    "어제 처음으로 수영장에 가 본 애",
-    "기분 따라 어떤 날은 공놀이, 어떤 날은 그림, 매번 다르게 논 애",
-    "생일이라 하루 종일 특별하게 논 애"
-   ],
-   "answer_index": 0,
-   "answer": "매일 아침 똑같이 세수하고, 밥 먹고, 가방 싸고 나간 애",
-   "why": "맞아! 매일 아침 세수하고 밥 먹고 가방 싸는 걸 똑같은 순서로 반복했잖아. 늘 정해진 대로 돌아오는 그 묶음, 그게 바로 routine인 거야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/routine.webp",
   "alt": "아침에 일어나 세수-밥-가방 챙기기를 매일 같은 순서로 하는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/unforeseen/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/unforeseen/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/unforeseen/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "unforeseen",
  "slug": "unforeseen",
  "url": "https://hibbangyong.com/words/unforeseen/",
@@ -43,32 +43,6 @@
    "answer_index": 1,
    "answer": "아니, unforeseen 아니야",
    "why": "맞아! 점검 날짜가 일주일 전부터 게시판에 붙어 있었으니까 다들 미리 알고 있던 일이잖아. 계단으로 다녀서 불편했어도, 미리 알려진 일은 unforeseen이 아니야."
-  },
-  {
-   "type": "choice",
-   "question": "가족 캠핑 이야기야. 다음 중 'unforeseen'에 해당하는 것은?",
-   "choices": [
-    "네 명이 함께 들어야 할 만큼 무거운 아이스박스",
-    "밤새 텐트 안을 비출 만큼 밝은 손전등",
-    "가족 누구도 미리 짐작하지 못한 캠핑장 앞 도로 공사",
-    "텐트 안까지 크게 들릴 만큼 시끄러운 매미 소리"
-   ],
-   "answer_index": 2,
-   "answer": "가족 누구도 미리 짐작하지 못한 캠핑장 앞 도로 공사",
-   "why": "맞아! 캠핑장 앞 도로 공사는 가족 누구도 미리 짐작하지 못했잖아. 이렇게 미리 내다보지 못한 일이 바로 unforeseen이야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 이번 주에 있었던 일을 하나씩 말했어. 'unforeseen' 일이라고 부를 수 있는 건 누구 이야기일까?",
-   "choices": [
-    "달력에 적혀 있던 시험이 아침에 금방 끝났어",
-    "미리 공지된 대로 정전이 나서 수업이 멈췄어",
-    "아무도 몰랐는데 우리 동아리가 대회에서 상을 받았어",
-    "칠판에 가려서 늘 안 보이던 글씨가 있었어"
-   ],
-   "answer_index": 2,
-   "answer": "아무도 몰랐는데 우리 동아리가 대회에서 상을 받았어",
-   "why": "맞아! 동아리가 상 받은 걸 아무도 몰랐잖아. 기분 좋은 일이어도 미리 내다보지 못했으면 바로 unforeseen인 거야."
   }
  ],
  "synonyms": [],

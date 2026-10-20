@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/option/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/option/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/option/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "option",
  "slug": "option",
  "url": "https://hibbangyong.com/words/option/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, option 맞아",
    "why": "맞아! 딸기맛, 초코맛, 바닐라맛 중에서 내가 하나를 고를 수 있잖아. 초코맛도 아직 고르기 전에 내 앞에 놓인 것 하나라서, 바로 option인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "우리 학교는 매일 아침 9시에 수업을 시작해. 이 시간은 학교에서 딱 정해 놔서 내가 바꿀 수 없어. 이 '9시 시작'은 나한테 'option'이야?",
-   "choices": [
-    "응, option 맞아",
-    "아니, option 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, option 아니야",
-   "why": "맞아! 아침 9시 시작은 학교에서 딱 정해 놔서 내가 바꿀 수 없거든. 고를 수 있는 게 아니니까 option이 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "엄마가 저녁 반찬으로 '브로콜리 먹기, 아니면 시금치 먹기' 중에 하나 고르래. 나는 시금치가 정말 싫어. 이런 경우에 그 싫은 시금치 먹기도 'option'이야?",
-   "choices": [
-    "응, option 맞아",
-    "아니, option 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, option 맞아",
-   "why": "맞아! 엄마가 브로콜리 먹기랑 시금치 먹기 중에 하나 고르라고 했잖아. 시금치가 정말 싫어도 내가 고를 수 있는 거니까, 시금치 먹기도 option인 거야."
   }
  ],
  "synonyms": [
@@ -88,6 +66,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/option.webp",
   "alt": "비 오는데 우산 없이 어떻게 갈지 고르는 상황",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

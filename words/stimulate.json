@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/stimulate/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/stimulate/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/stimulate/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "stimulate",
  "slug": "stimulate",
  "url": "https://hibbangyong.com/words/stimulate/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, stimulate 맞아",
    "why": "맞아! 창문을 열자 바깥에서 찬바람이 들어왔고, 그 찬바람 때문에 가만히 있던 네 팔에 소름이 오소소 돋았잖아. 바깥에서 들어온 찬바람이 팔에 소름이 돋게 만든 거라서, 바로 그게 stimulate인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "해가 잘 드는 창가로 방울토마토 화분을 옮겼더니, 더디던 줄기가 며칠 사이에 부쩍 자랐어. 이런 경우도 'stimulate'야?",
-   "choices": [
-    "응, stimulate 맞아",
-    "아니, stimulate 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, stimulate 맞아",
-   "why": "맞아! 창가에 잘 드는 햇빛이 바깥에서 들어와서, 천천히 자라던 방울토마토 줄기가 며칠 사이에 부쩍 자랐거든. 원래 자라던 줄기가 햇빛 때문에 더 잘 자란 거니까, 바로 그게 stimulate인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "울면서 발을 구르던 동생을 엄마가 꼭 안아 토닥토닥해 줬어. 동생은 울음을 그치고 조용해졌어. 엄마가 동생을 'stimulate'한 거야?",
-   "choices": [
-    "응, stimulate 맞아",
-    "아니, stimulate 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, stimulate 아니야",
-   "why": "그렇지, 아니야! 엄마가 안아 주고 토닥토닥해 준 건 바깥에서 온 손길이 맞아. 그런데 동생은 더 세게 운 게 아니라 울음을 그치고 조용해졌거든. stimulate는 원래 있던 게 더 세게 돌아가는 거라서, 이건 반대인 거야."
   }
  ],
  "synonyms": [
@@ -96,6 +74,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/stimulate.webp",
   "alt": "부엌에서 넘어온 피자 냄새에 조용하던 배가 꼬르륵거림",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

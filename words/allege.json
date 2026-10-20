@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/allege/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/allege/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/allege/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "allege",
  "slug": "allege",
  "url": "https://hibbangyong.com/words/allege/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, allege 맞아",
    "why": "맞아! 선수는 심판이 아직 영상도 안 봤고 정말 그랬는지 아무도 모르는데, 상대 선수가 일부러 발을 밟았다고 사실처럼 말했잖아. 아직 증명 안 된 잘못을 사실이라고 말하는 거, 그게 바로 allege야."
-  },
-  {
-   "type": "ox",
-   "question": "경찰이 금고에 남은 지문을 검사해서, 누가 금고를 열었는지 확실하게 밝혀냈어. 이제 의심할 여지가 없어. 경찰이 한 이 일이 'allege'야?",
-   "choices": [
-    "응, allege 맞아",
-    "아니, allege 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, allege 아니야",
-   "why": "맞아! 경찰은 금고에 남은 지문을 검사해서 누가 열었는지 확실하게 밝혀냈잖아. 증거로 이미 확인이 끝난 일이니까, 아직 증명 안 된 걸 사실이라고 말하는 allege랑은 정반대인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "반장이 \"준호가 창문을 깼어요.\"라고 선생님께 'allege' 했어. 이 상황에서 알 수 있는 건 뭘까?",
-   "choices": [
-    "반장이 없던 일을 일부러 지어내서 말했어",
-    "준호가 창문을 깬 게 이미 확실하게 밝혀졌어",
-    "반장은 그렇게 말했지만 맞는지는 아직 아무도 몰라",
-    "준호가 자기가 깼다고 스스로 털어놓았어"
-   ],
-   "answer_index": 2,
-   "answer": "반장은 그렇게 말했지만 맞는지는 아직 아무도 몰라",
-   "why": "맞아! 반장은 준호가 창문을 깼다고 말했지만 증거는 아직 없잖아. 맞을 수도 틀릴 수도 있는데 일단 사실이라고 말한 거, 그게 바로 allege야."
   }
  ],
  "synonyms": [],

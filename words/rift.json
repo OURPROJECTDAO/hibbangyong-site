@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/rift/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/rift/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/rift/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "rift",
  "slug": "rift",
  "url": "https://hibbangyong.com/words/rift/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, rift 맞아",
    "why": "맞아! 지우와 서연이는 방 문제로 의견이 크게 갈린 뒤 2주째 인사도 안 하잖아. 다툼 뒤에 둘 사이가 벌어진 채로 남아 있는 거니까, 바로 그게 rift야."
-  },
-  {
-   "type": "ox",
-   "question": "옆집과 우리 집은 주차 자리 문제로 한동안 서먹했어. 그런데 서로 사과한 뒤로 지금은 주말마다 같이 저녁을 먹을 만큼 가까워졌어. 지금 두 집 사이에 있는 게 'rift'야?",
-   "choices": [
-    "응, rift 맞아",
-    "아니, rift 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, rift 아니야",
-   "why": "맞아! 주차 자리 문제로 서먹했던 건 이미 지난 일이고, 서로 사과한 뒤로 지금은 주말마다 같이 저녁을 먹는 사이잖아. rift는 틀어져서 벌어진 틈이니까 틈이 메워진 지금 두 집한테는 rift가 없는 거야."
-  },
-  {
-   "type": "choice",
-   "question": "옆 반과 우리 반 사이에 있었던 일 네 가지야. 'rift'라는 말이 가장 잘 어울리는 건?",
-   "choices": [
-    "응원 방식을 두고 크게 다퉜지만, 그날 저녁에 웃으며 바로 풀었어.",
-    "한 반이 다른 건물로 옮겨서, 사이는 좋아도 볼 일이 거의 없어졌어.",
-    "응원 방식을 두고 의견이 갈린 뒤로, 두 반이 서로 차갑게 대했어.",
-    "원래 서로 잘 몰라서, 같은 학년인데도 딱히 어울린 적이 없었어."
-   ],
-   "answer_index": 2,
-   "answer": "응원 방식을 두고 의견이 갈린 뒤로, 두 반이 서로 차갑게 대했어.",
-   "why": "맞아! 응원 방식을 두고 의견이 갈린 뒤로 두 반이 서로 차갑게 대했잖아. 그렇게 틀어져서 사이가 벌어진 채로 남은 게 바로 rift야."
   }
  ],
  "synonyms": [
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/rift.webp",
   "alt": "밴드부가 대회 곡을 두고 두 편으로 갈려 몇 주째 말을 잘 안 함",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

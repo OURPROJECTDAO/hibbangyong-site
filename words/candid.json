@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/candid/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/candid/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/candid/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "candid",
  "slug": "candid",
  "url": "https://hibbangyong.com/words/candid/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, candid 맞아",
    "why": "맞아! 동생이 끓여 준 라면이라 짜다고 하기 좀 미안했을 텐데, 그래도 감추지 않고 \"좀 짜\"라고 느낀 그대로 말했잖아. 그게 바로 candid야."
-  },
-  {
-   "type": "ox",
-   "question": "삼촌이 직접 만든 나무 의자에 앉아 보니 삐걱거렸어. 삼촌이 어떠냐고 묻자, 너는 삐걱거린다는 말은 빼고 \"색깔이 예쁘네요\"라고 다른 얘기로 넘어갔어. 이건 'candid'한 거야?",
-   "choices": [
-    "응, candid 맞아",
-    "아니, candid 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, candid 아니야",
-   "why": "맞아! 의자가 삐걱거린다는 걸 빼고 색깔 얘기로 넘어갔잖아. candid는 불편한 말도 돌리지 않고 꺼내 놓는 건데, 여기선 그걸 감춘 거라 candid가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구의 행동을 봤어. 이 중 'candid'하다고 말할 수 있는 건?",
-   "choices": [
-    "동아리 회의에서 회장 계획에 빠진 점이 있다고 조심스럽게 짚었어",
-    "친구 옷이 이상하다며 반 애들 앞에서 크게 웃으며 놀렸어",
-    "선생님이 수업 어땠냐고 묻자 대충 다 좋았다고 넘어갔어",
-    "시험 점수를 묻는 친구에게 그냥 말하기 싫다며 입을 닫았어"
-   ],
-   "answer_index": 0,
-   "answer": "동아리 회의에서 회장 계획에 빠진 점이 있다고 조심스럽게 짚었어",
-   "why": "맞아! 회장한테 계획에 빠진 점이 있다고 말하는 건 불편한 일이잖아. 그래도 감추지 않고 조심스럽게 짚었으니까, 바로 그게 candid인 거야."
   }
  ],
  "synonyms": [],
@@ -93,6 +69,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/candid.webp",
   "alt": "친구 그림에 대한 느낌을 있는 그대로 말해 줌",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

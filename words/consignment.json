@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/consignment/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/consignment/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/consignment/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "consignment",
  "slug": "consignment",
  "url": "https://hibbangyong.com/words/consignment/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, consignment 맞아",
    "why": "맞아! 우유 공장에서 편의점으로 한꺼번에 보낸 우유 상자 묶음이니까, 어딘가로 보내는 물건 한 묶음이 맞잖아. 바로 그게 consignment인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "편의점 창고 선반에 몇 주째 그대로 쌓여 있는 생수 묶음이 있어. 이 생수 묶음을 'consignment'라고 부를 수 있을까?",
-   "choices": [
-    "응, consignment 맞아",
-    "아니, consignment 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, consignment 아니야",
-   "why": "맞아! 그 생수 묶음은 몇 주째 창고 선반에 그대로 쌓여 있잖아. 어디로 보내지는 중이 아니라 한자리에 가만히 있는 물건이라 consignment가 아닌 거야. consignment는 어딘가로 보내는 물건 한 묶음이거든."
-  },
-  {
-   "type": "choice",
-   "question": "지진 피해 마을 소식이야. 오늘 아침 구호 단체의 'consignment'가 마을에 도착했대. 여기서 'consignment'는 뭘까?",
-   "choices": [
-    "구호 단체가 마을로 보낸 봉사자 한 무리",
-    "구호 단체가 마을로 보낸 식량·담요 한 묶음",
-    "구호 단체가 마을로 보낸 응원 영상 메시지",
-    "구호 단체가 물건을 팔아 마을로 보낸 돈"
-   ],
-   "answer_index": 1,
-   "answer": "구호 단체가 마을로 보낸 식량·담요 한 묶음",
-   "why": "맞아! 구호 단체가 마을로 보낸 식량이랑 담요 한 묶음, 바로 그게 오늘 아침 도착한 consignment야. 실제로 손에 잡히는 물건을 한 묶음으로 실어 보낸 거니까 딱 들어맞아."
   }
  ],
  "synonyms": [],

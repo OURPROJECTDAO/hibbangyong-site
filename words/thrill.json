@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/thrill/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/thrill/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/thrill/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "thrill",
  "slug": "thrill",
  "url": "https://hibbangyong.com/words/thrill/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, thrill 맞아",
    "why": "맞아! 결승에서 마지막에 줄을 확 끌어당겨서 이긴 순간엔 가슴이 쿵 하고 뛰고 몸이 찌릿하거든. 그렇게 가슴을 확 뛰게 만든 거니까 바로 그게 thrill 인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "쉬는 시간에 도서관에 갔어. 어제 다 본 그림책을 다시 꺼내서 세 번째로 천천히 넘겨 봤어. 이 일이 나를 'thrill' 했다고 말할 수 있을까?",
-   "choices": [
-    "응, thrill 맞아",
-    "아니, thrill 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, thrill 아니야",
-   "why": "맞아! 어제 다 본 그림책을 세 번째로 천천히 넘겨 보는 건 가슴이 쿵 뛸 일이 아니거든. 이미 다 아는 그림이라 심장이 확 뛰지 않으니까, thrill 이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "아이 넷이 어제 있었던 일을 하나씩 말했어. 그 일이 자기를 'thrill' 했다고 말할 수 있는 아이는 누구일까?",
-   "choices": [
-    "내 이름이 일등으로 불리는 순간 심장이 쿵쾅쿵쾅 뛰었어",
-    "따뜻한 물에 발을 담그니까 몸이 스르르 풀렸어",
-    "복도에서 누가 튀어나와서 깜짝 놀라 그냥 굳어버렸어",
-    "동생이 그린 그림을 보고 나도 모르게 빙긋 웃음이 났어"
-   ],
-   "answer_index": 0,
-   "answer": "내 이름이 일등으로 불리는 순간 심장이 쿵쾅쿵쾅 뛰었어",
-   "why": "맞아! 내 이름이 일등으로 불리는 순간 심장이 쿵쾅쿵쾅 뛰었잖아. 그렇게 심장이 쿵 뛸 만큼 신나게 만든 일이라서 바로 그게 thrill 인 거야."
   }
  ],
  "synonyms": [
@@ -89,6 +65,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/thrill.webp",
   "alt": "롤러코스터 꼭대기에서 뚝 떨어지는 순간",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

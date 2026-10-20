@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/endorse/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/endorse/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/endorse/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "endorse",
  "slug": "endorse",
  "url": "https://hibbangyong.com/words/endorse/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, endorse한 거 맞아",
    "why": "맞아! 주민 대표가 설명회에서 마이크를 잡고 주민들 앞에서 이 계획에 찬성한다고 공식적으로 말했잖아. 여럿 앞에서 좋다고 정식으로 밝히며 힘을 실어 준 거니까 이게 바로 endorse야."
-  },
-  {
-   "type": "ox",
-   "question": "동네 공원 자리에 주차장을 짓겠다는 계획이 나왔어. 동네 약사가 자기 이름을 걸고 지역 신문에 \"저는 이 계획에 반대합니다\"라는 글을 실었어. 약사가 이 계획을 'endorse'한 걸까?",
-   "choices": [
-    "응, endorse한 거 맞아",
-    "아니, endorse한 거 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, endorse한 거 아니야",
-   "why": "맞아! 약사가 이름을 걸고 신문에 글을 실은 건 맞는데, 쓴 말이 \"저는 이 계획에 반대합니다\"잖아. endorse는 좋다고 밝히면서 힘을 실어 주는 거라서, 반대한다고 밝힌 건 endorse가 아니야."
-  },
-  {
-   "type": "ox",
-   "question": "시장 선거를 앞두고, 한 유명 소설가가 기자들 앞에 나섰어. 그러고는 '저는 김○○ 후보가 이 도시를 잘 이끌 거라 믿고, 그 후보 편에 서겠습니다'라고 밝혔어. 돈을 받고 광고를 찍은 건 아니야. 이런 경우도 이 소설가가 그 후보를 'endorse'했다고 할 수 있을까?",
-   "choices": [
-    "응, 'endorse' 맞아",
-    "아니, 'endorse' 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, 'endorse' 맞아",
-   "why": "맞아! 그 소설가는 기자들 앞에서 김○○ 후보 편에 서겠다고 자기 이름을 걸고 밝혔잖아. 돈을 받은 광고가 아니어도 이렇게 공개적으로 후보 편에 서면 그 후보를 endorse한 거야."
   }
  ],
  "synonyms": [
@@ -93,6 +71,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/endorse.webp",
   "alt": "선생님 회의에서 학생회의 새 규칙에 찬성한다고 정식으로 밝히는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

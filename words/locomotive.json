@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/locomotive/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/locomotive/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/locomotive/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "locomotive",
  "slug": "locomotive",
  "url": "https://hibbangyong.com/words/locomotive/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, locomotive 맞아",
    "why": "맞아! 엔진이 들어 있는 그 칸이 스스로 힘을 내서 뒤에 이어진 컨테이너 칸 스무 개를 끌고 가잖아. 제 힘으로 달리면서 다른 칸들을 끄는 칸이라서 바로 그게 locomotive인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "시골 철길을 달리는 화물열차에 자갈을 가득 실은 칸이 하나 있어. 이 칸에는 엔진이 없어서 스스로 힘을 내지 못하고, 앞의 칸에 매달려 끌려가. 이 칸은 'locomotive'일까?",
-   "choices": [
-    "응, locomotive 맞아",
-    "아니, locomotive 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, locomotive 아니야",
-   "why": "맞아! 자갈 실은 그 칸은 엔진이 없어서 앞의 칸에 매달려 끌려가기만 하잖아. locomotive는 제 힘으로 달리면서 다른 칸을 끄는 칸이니까, 끌려가는 그 칸은 locomotive가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "화물과 사람을 함께 싣는 긴 열차가 역에서 출발 준비를 하고 있어. 이 중 'locomotive'라고 부를 수 있는 칸은?",
-   "choices": [
-    "석탄을 가득 실어서 바퀴가 무겁게 굴러가는 칸",
-    "냉장 장치가 달려서 안이 차갑게 유지되며 굴러가는 칸",
-    "디젤 엔진이 달려서 바퀴를 직접 돌리며 굴러가는 칸",
-    "승객 쉰 명을 태워서 안이 북적이며 굴러가는 칸"
-   ],
-   "answer_index": 2,
-   "answer": "디젤 엔진이 달려서 바퀴를 직접 돌리며 굴러가는 칸",
-   "why": "맞아! 디젤 엔진이 달려서 바퀴를 직접 돌리는 칸은 제 힘으로 굴러가잖아. 이렇게 스스로 달리면서 다른 칸들을 끌고 가는 칸이 바로 locomotive, 기관차야."
   }
  ],
  "synonyms": [
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/locomotive.webp",
   "alt": "역에 서 있는 긴 열차에서 다른 칸들은 혼자 못 움직이는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

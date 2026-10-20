@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/career/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/career/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/career/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "career",
  "slug": "career",
  "url": "https://hibbangyong.com/words/career/",
@@ -45,30 +45,6 @@
    "answer_index": 2,
    "answer": "열아홉에 버스 운전대를 처음 잡았어요. 회사를 두 번 옮겼고 지금도 몰아요.",
    "why": "맞아! 열아홉에 운전대를 처음 잡은 그날부터 회사를 옮기고 옮겨 지금도 몰고 있는 그 줄 전체, 바로 그게 career야. 일한 날들이 쭉 이어져 있잖아."
-  },
-  {
-   "type": "choice",
-   "question": "네 사람이 자기 이야기를 한마디씩 했어. 자기 'career'를 말한 사람은 누구일까?",
-   "choices": [
-    "스물에 배를 타기 시작해서, 그 배에서만 일하다 예순에 내려왔어요.",
-    "지금 제 자리는 3층 사무실이에요. 거기서 서류를 정리해요.",
-    "배 고치는 기술은 스무 살 때 학교에서 삼 년 배웠어요.",
-    "쉬는 날마다 마당에서 나무를 깎아요. 스무 해 넘게요."
-   ],
-   "answer_index": 0,
-   "answer": "스물에 배를 타기 시작해서, 그 배에서만 일하다 예순에 내려왔어요.",
-   "why": "맞아! 스무 살에 배를 타기 시작해서 예순에 내려올 때까지, 그 긴 줄 전체를 말했잖아. 처음 일한 날부터 끝까지 걸어온 길, 바로 그게 career인 거야. 한 배에서만 쭉 일했어도 상관없어."
-  },
-  {
-   "type": "ox",
-   "question": "민수 이모가 말했어. \"저는 지난달부터 빵집에서 반죽을 맡고 있어요. 아침 여섯 시에 나와요.\" 이것도 이모의 'career'야?",
-   "choices": [
-    "응, career 맞아.",
-    "아니, career 아니야."
-   ],
-   "answer_index": 1,
-   "answer": "아니, career 아니야.",
-   "why": "맞아! 지난달부터 지금 하고 있는 이 빵집 일 하나는, 이모가 일하면서 걸어온 길 전체가 아니라 지금 딱 하고 있는 일이거든. 길 전체가 아니니까 career라고 하기엔 아직 짧지."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/career.webp",
   "alt": "아빠의 일하는 사진만 골라 줄 세운 사진첩",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

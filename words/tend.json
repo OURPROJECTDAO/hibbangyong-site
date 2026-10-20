@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/tend/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/tend/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/tend/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "tend",
  "slug": "tend",
  "url": "https://hibbangyong.com/words/tend/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, tend 맞아",
    "why": "맞아! 민수는 카레가 나오면 매번은 아니어도 대체로 한 번 더 받으러 가잖아. 안 갈 때가 가끔 있어도 대체로 그렇게 하니까, 바로 그게 tend인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "옆집 할아버지는 어디든 거의 걸어서 다니셔. 택시는 1년에 한두 번 타실까 말까야. 할아버지가 택시를 타는 걸 'tend'라고 할 수 있어?",
-   "choices": [
-    "응, tend 맞아",
-    "아니, tend 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, tend 아니야",
-   "why": "맞아! 할아버지는 거의 걸어서 다니시고, 택시는 1년에 한두 번 타실까 말까잖아. 택시 타는 일은 거의 안 하시는 거니까, 택시 쪽으로는 tend라고 할 수 없는 거야."
-  },
-  {
-   "type": "choice",
-   "question": "친구 네 명이 작년 7월 날씨를 떠올렸어. 7월 비를 두고 'tend'라는 말이 가장 잘 어울리는 이야기는?",
-   "choices": [
-    "비 온 날이 많았어, 맑은 날도 며칠 있었고",
-    "하루도 빠짐없이 비가 왔어, 정말 매일매일",
-    "비가 오길 다들 바랐어, 날이 너무 더워서",
-    "비 온 날은 딱 하루였어, 나머진 다 맑고"
-   ],
-   "answer_index": 0,
-   "answer": "비 온 날이 많았어, 맑은 날도 며칠 있었고",
-   "why": "맞아! 비 온 날이 많았는데 맑은 날도 며칠 있었잖아. 매일은 아니어도 대체로 비가 왔으니까, 바로 그게 tend인 거야."
   }
  ],
  "synonyms": [],
@@ -91,6 +67,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/tend.webp",
   "alt": "아침에 자주 늦게 오는 집 앞 버스",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

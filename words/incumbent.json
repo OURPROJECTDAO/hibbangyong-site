@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/incumbent/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/incumbent/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/incumbent/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "incumbent",
  "slug": "incumbent",
  "url": "https://hibbangyong.com/words/incumbent/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, incumbent 맞아",
    "why": "맞아! 작년에 따낸 벨트를 오늘도 가진 채 챔피언으로 경기에 나가니까, 지금 그 챔피언 자리를 맡고 있는 사람이잖아. 그래서 incumbent 챔피언이라고 부를 수 있어."
-  },
-  {
-   "type": "ox",
-   "question": "학교 이야기야. 다른 학교에 있던 선생님이 다음 달부터 우리 학교 교장을 맡으러 오기로 했어. 아직 우리 학교에 와서 일한 적은 없어. 이 선생님을 'incumbent' 교장이라고 부를 수 있을까?",
-   "choices": [
-    "응, incumbent 맞아",
-    "아니, incumbent 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, incumbent 아니야",
-   "why": "맞아! 이 선생님은 다음 달부터 오기로 했고, 아직 우리 학교에서 교장 일을 한 적이 없잖아. incumbent는 지금 그 자리에 앉아서 일하고 있는 사람한테만 쓰는 말이라서, 아직 시작도 안 한 이 선생님한테는 안 맞는 거야."
-  },
-  {
-   "type": "choice",
-   "question": "우리 학교 방송부 이야기야. 부장 자리를 두고 네 사람이 있어. 이 중 'incumbent' 부장이라고 부를 수 있는 사람은?",
-   "choices": [
-    "올봄부터 부장 일을 맡아서 이번 주 회의도 이끈 3학년 누나",
-    "작년까지 부장 일을 맡았다가 올봄에 물러난 3학년 형",
-    "다음 달부터 부장 일을 맡기로 어제 정해진 2학년 친구",
-    "이번 부장 선거에 나가겠다고 이름을 올린 2학년 친구"
-   ],
-   "answer_index": 0,
-   "answer": "올봄부터 부장 일을 맡아서 이번 주 회의도 이끈 3학년 누나",
-   "why": "맞아! 올봄부터 부장 일을 맡아서 이번 주 회의까지 이끈 3학년 누나는 지금 그 자리에 앉아 일하는 중이잖아. 그래서 바로 이 누나가 incumbent 부장인 거야."
   }
  ],
  "synonyms": [],
@@ -89,6 +65,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/incumbent.webp",
   "alt": "지금 학생회장 자리에 앉아 일하는 사람",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

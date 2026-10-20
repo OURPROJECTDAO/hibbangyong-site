@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/prolific/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/prolific/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/prolific/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "prolific",
  "slug": "prolific",
  "url": "https://hibbangyong.com/words/prolific/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, prolific 아니야",
    "why": "맞아! 30년 동안 그림이 딱 네 점이고 한 점에 몇 년씩 걸렸으니까, 아주 많이 만들어 낸 거랑은 정반대야. 그래서 이 화가는 prolific이 아닌 거지."
-  },
-  {
-   "type": "ox",
-   "question": "한 작곡가가 40년 동안 노래를 600곡 넘게 만들었어. 크게 뜬 곡도 있고, 아무도 모르고 지나간 곡도 있어. 이 작곡가는 'prolific'한 사람일까?",
-   "choices": [
-    "응, prolific 맞아",
-    "아니, prolific 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, prolific 맞아",
-   "why": "맞아! 40년 동안 600곡 넘게 꾸준히 만들어 냈으니까 딱 prolific이야. 크게 뜬 곡이든 아무도 모르고 지나간 곡이든, 많이 만들어 낸 것 자체가 핵심이거든."
-  },
-  {
-   "type": "choice",
-   "question": "소설가 네 명이 있어. 이 중에서 'prolific'이라고 부르기 가장 알맞은 사람은?",
-   "choices": [
-    "10년 동안 소설을 50권 넘게 냈는데, 평은 늘 엇갈리는 작가",
-    "소설을 딱 한 권 냈는데, 그 책으로 상을 휩쓴 작가",
-    "매일 바쁘게 뛰어다니는데, 낸 책은 아직 한 권도 없는 작가",
-    "20년 동안 소설을 두 권 냈는데, 둘 다 명작인 작가"
-   ],
-   "answer_index": 0,
-   "answer": "10년 동안 소설을 50권 넘게 냈는데, 평은 늘 엇갈리는 작가",
-   "why": "맞아! 10년 동안 소설을 50권 넘게 냈으니까 양이 엄청 많잖아. 평이 엇갈려도 상관없어. prolific은 잘 썼냐가 아니라 꾸준히 많이 냈냐를 보는 말이거든."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/prolific.webp",
   "alt": "매주 웹툰을 세 편씩 올리는 반 친구",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

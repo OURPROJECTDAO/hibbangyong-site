@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/synopsis/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/synopsis/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/synopsis/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "synopsis",
  "slug": "synopsis",
  "url": "https://hibbangyong.com/words/synopsis/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, synopsis 맞아",
    "why": "맞아! 은서는 두 시간짜리 뮤지컬을 주인공이 고향을 떠나는 데서부터 꿈을 이루는 데까지, 주요 사건만 골라 처음부터 끝까지 다섯 줄로 줄였잖아. 긴 작품 전체를 흐름대로 짧게 줄인 글이니까 바로 그게 synopsis인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "민서가 지난주에 읽은 소설을 친구들에게 알려 주려고 몇 줄을 썼어. '중간은 좀 지루했지만 마지막이 정말 감동적이라 꼭 읽어 봤으면 좋겠어'라는 내용이야. 이런 글도 'synopsis'야?",
-   "choices": [
-    "응, synopsis 맞아",
-    "아니, synopsis 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, synopsis 아니야",
-   "why": "맞아! 민서 글에는 중간은 지루했다, 마지막이 감동적이다, 꼭 읽어 봤으면 좋겠다 같은 민서 생각만 있고 소설에서 무슨 일이 일어나는지는 하나도 안 나와. 이렇게 내 평가를 담은 글은 감상평(이건 review야)이지 synopsis가 아니야."
-  },
-  {
-   "type": "ox",
-   "question": "민호가 친구에게 좋아하는 웹툰을 알려 주려고, 그 웹툰을 그린 작가 이름과 연재 요일, 올라오는 사이트 이름만 세 줄로 적어 보냈어. 이 세 줄이 'synopsis'야?",
-   "choices": [
-    "응, synopsis 맞아",
-    "아니, synopsis 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, synopsis 아니야",
-   "why": "맞아! 작가 이름, 연재 요일, 사이트 이름은 웹툰 바깥 정보라서 그 세 줄엔 이야기 내용이 하나도 없잖아. synopsis는 웹툰 속 주요 사건을 흐름대로 짧게 줄인 거니까, 이건 아닌 거야."
   }
  ],
  "synonyms": [

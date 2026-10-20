@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/utilize/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/utilize/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/utilize/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "utilize",
  "slug": "utilize",
  "url": "https://hibbangyong.com/words/utilize/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, utilize 맞아",
    "why": "맞아! 사다리는 원래 있던 그대로인데 선생님이 쓸 곳만 새로 정한 거잖아. 있는 걸 갖다 쓴 거니까 바로 그게 utilize인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "할머니가 다락에서 담요 상자를 꺼내 먼지를 탁탁 털었어. 그러고는 뚜껑을 덮어 원래 자리에 다시 올려놨어. 할머니가 담요를 'utilize'한 걸까?",
-   "choices": [
-    "응, utilize 맞아",
-    "아니, utilize 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, utilize 아니야",
-   "why": "그렇지! 할머니는 담요를 꺼내서 먼지만 털고 도로 그 자리에 올려놨잖아. 덮지도 깔지도 않았으니까, 있는 걸 어디에 갖다 쓴 게 아니야. 그래서 utilize가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "아이 넷이 각자 무슨 일을 했는지 말했어. 이 중에 'utilize'를 한 아이는 누구일까?",
-   "choices": [
-    "집에 굴러다니던 빈 상자를 책 넣는 통으로 삼은 아이",
-    "찰흙을 사 와서 새 그릇을 빚어 만든 아이",
-    "망가진 의자를 고쳐서 다시 튼튼하게 만든 아이",
-    "쓰던 물건을 창고에 넣고 다시 안 꺼낸 아이"
-   ],
-   "answer_index": 0,
-   "answer": "집에 굴러다니던 빈 상자를 책 넣는 통으로 삼은 아이",
-   "why": "맞아! 빈 상자가 그냥 굴러다니고 있었는데, 그 아이가 책 넣는 일에 쓰기로 정했잖아. 가진 걸 어떤 일에 갖다 쓴 거라서 바로 그게 utilize인 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/utilize.webp",
   "alt": "창고에 굴러다니던 낡은 타이어를 밧줄에 매달아 그네로 쓰는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

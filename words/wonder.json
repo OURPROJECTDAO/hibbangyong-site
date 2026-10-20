@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/wonder/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/wonder/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/wonder/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "wonder",
  "slug": "wonder",
  "url": "https://hibbangyong.com/words/wonder/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, wonder 맞아",
    "why": "맞아! 어떻게 저런 빛이 나지? 하는 물음이 톡 떠올라서 자리를 못 뜨고 계속 들여다본 거잖아. 그렇게 물음표가 생겨서 눈을 못 떼는 마음, 그게 바로 wonder야."
-  },
-  {
-   "type": "ox",
-   "question": "병원 대기실 의자에 앉아 있었어. 하얀 벽만 있고 볼 것도 없어서 아무 생각 없이 다리만 앞뒤로 흔들며 이름 불리기를 기다렸어. 이게 'wonder'야?",
-   "choices": [
-    "응, wonder 맞아",
-    "아니, wonder 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, wonder 아니야",
-   "why": "맞아! 하얀 벽만 보면서 다리만 흔들 땐 마음에 물음표가 하나도 안 뜨거든. 뭐지? 어떻게 저럴까? 하고 속으로 물어보는 게 하나도 없으니까 이건 wonder가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "친구 넷이 어젯밤 산책에서 있었던 일을 하나씩 말했어. 'wonder'라는 말이 딱 어울리는 친구는 누구일까?",
-   "choices": [
-    "구름이 달을 스쳐 지나갈 때, 달이 어디로 가는 건지 알고 싶어져서 한참 올려다봤어.",
-    "길고양이가 발밑에서 갑자기 튀어나오는 바람에, 꽥 소리를 지르고 심장이 쿵쾅거렸어.",
-    "아빠가 해 준 오리 걸음 흉내가 너무 웃겨서, 배를 잡고 데굴데굴 구르며 웃었어.",
-    "늘 다니던 길이라 새로 볼 것이 하나도 없어서, 발끝만 보고 터덜터덜 걸었어."
-   ],
-   "answer_index": 0,
-   "answer": "구름이 달을 스쳐 지나갈 때, 달이 어디로 가는 건지 알고 싶어져서 한참 올려다봤어.",
-   "why": "맞아! 달이 어디로 가는 건지 알고 싶어서 한참 올려다본 거잖아. 마음에 물음표가 톡 떠서 거기 머문 거야. 그게 바로 wonder거든."
   }
  ],
  "synonyms": [],
@@ -91,6 +67,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/wonder.webp",
   "alt": "밤에 창밖에서 후두둑 소리가 나 속으로 물음표가 떠오르는 순간",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/outpatient/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/outpatient/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/outpatient/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "outpatient",
  "slug": "outpatient",
  "url": "https://hibbangyong.com/words/outpatient/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, outpatient 아니야",
    "why": "맞아! 누나는 맹장 수술 받고 병원 병실에서 닷새 동안 지냈잖아. 그렇게 병원에서 지내는 환자는 입원 환자(inpatient)라서 outpatient가 아닌 게 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "아빠가 치과에서 충치 치료를 받고 곧장 회사로 돌아갔어. 이날 아빠는 'outpatient'야?",
-   "choices": [
-    "응, outpatient 맞아",
-    "아니, outpatient 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, outpatient 맞아",
-   "why": "맞아! 아빠는 치과에서 충치 치료를 받고 병원에 머물지 않고 곧장 회사로 돌아갔잖아. 그렇게 치료만 받고 바로 나가면 그게 outpatient야."
-  },
-  {
-   "type": "choice",
-   "question": "네 사람이 병원과 관련된 일을 했어. 이 중 'outpatient'라고 부를 수 있는 사람은 누구일까?",
-   "choices": [
-    "암 치료 주사를 맞고 그날 저녁 집으로 돌아온 이모",
-    "다리를 다쳐서 일주일째 병실 침대에서 지내는 삼촌",
-    "입원한 할머니를 보러 날마다 병원에 가는 엄마",
-    "감기가 심해져서 사흘 동안 병원에서 지낸 동생"
-   ],
-   "answer_index": 0,
-   "answer": "암 치료 주사를 맞고 그날 저녁 집으로 돌아온 이모",
-   "why": "맞아! 암 치료처럼 큰 치료를 받았어도 이모는 그날 저녁 집으로 돌아왔잖아. 병원에서 지내지 않고 오가며 치료받았으니까 바로 그게 outpatient인 거야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/outpatient.webp",
   "alt": "치료받고 밤에는 집에 가서 자는 환자",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

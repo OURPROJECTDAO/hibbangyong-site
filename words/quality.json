@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/quality/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/quality/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/quality/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "quality",
  "slug": "quality",
  "url": "https://hibbangyong.com/words/quality/",
@@ -45,30 +45,6 @@
    "answer_index": 0,
    "answer": "\"이 책은 종이가 얇아서 넘길 때마다 자꾸 찢어져.\"",
    "why": "맞아! 종이가 얇아서 자꾸 찢어진다는 건 이 책이 어떤지를 말한 거잖아. 좋은지 나쁜지 그 정도를 말했으니까 바로 그게 quality야."
-  },
-  {
-   "type": "choice",
-   "question": "반 친구 넷이 자기 얘기를 한 마디씩 했어. 이 중에서 자기 'quality'를 말한 사람은 누구일까?",
-   "choices": [
-    "\"나는 마음이 급해서 자꾸 서두르다 실수해.\"",
-    "\"나는 값이 아주 비싼 새 가방을 메고 다녀.\"",
-    "\"나는 색연필을 스물네 자루나 갖고 있어.\"",
-    "\"나는 오늘 아침에 늦잠 자서 학교까지 뛰어왔어.\""
-   ],
-   "answer_index": 0,
-   "answer": "\"나는 마음이 급해서 자꾸 서두르다 실수해.\"",
-   "why": "맞아! 마음이 급해서 자꾸 서두르는 건 그 친구가 늘 지니고 있는 성질이거든. 좋은 거든 나쁜 거든 상관없이, 그 사람이 어떤지를 말해 주니까 바로 그게 quality인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "동생이 사탕을 세어 봤더니 열두 개였어. 스무 개도 아니고 다섯 개도 아닌, 딱 열두 개. 이게 'quality'야?",
-   "choices": [
-    "응, quality 맞아",
-    "아니, quality 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, quality 아니야",
-   "why": "맞아! 열두 개는 몇 개인지 세어 본 거잖아. 개수를 세는 건 quality가 아니라 얼마나 많은지를 말하는 거거든. quality는 그 사탕이 달콤한지 딱딱한지, 어떤지를 말할 때 쓰는 거야."
   }
  ],
  "synonyms": [],
@@ -93,6 +69,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/quality.webp",
   "alt": "크레파스 두 통 — 한 통은 색이 진하고 한 통은 흐리고 부러지는 비교 앵커",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

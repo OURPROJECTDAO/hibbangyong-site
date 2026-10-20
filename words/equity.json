@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/equity/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/equity/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/equity/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "equity",
  "slug": "equity",
  "url": "https://hibbangyong.com/words/equity/",
@@ -43,28 +43,6 @@
    "answer_index": 1,
    "answer": "아니, equity 아니야",
    "why": "맞아! 다른 부원들은 다 테스트를 보는데 감독 조카만 테스트 없이 주전이 됐잖아. 한 사람만 괜히 앞서게 해 준 거라서 equity가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "반장 선거에서 선생님이 후보 네 명 모두에게 연설 시간을 똑같이 3분씩 줬어. 누구도 더 길게 말하거나 더 짧게 말하지 않았어. 이게 'equity'야?",
-   "choices": [
-    "응, equity 맞아",
-    "아니, equity 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, equity 맞아",
-   "why": "맞아! 후보 네 명 모두 똑같이 3분씩 받아서 누구도 괜히 앞서거나 밀리지 않았잖아. 바로 그게 equity인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "기말고사 때 오른팔에 깁스를 한 친구에게만 선생님이 시험 시간을 20분 더 주셨어. 다른 친구들은 원래 시간대로 봤고. 이런 경우도 'equity'야?",
-   "choices": [
-    "응, equity 맞아",
-    "아니, equity 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, equity 맞아",
-   "why": "맞아! 오른팔에 깁스를 해서 답을 쓰는 데 시간이 더 걸리니까, 20분을 더 받아야 다른 친구들이랑 같은 조건에서 시험을 보는 거야. 그 친구가 괜히 밀리지 않게 챙겨 준 거라서 바로 equity인 거지."
   }
  ],
  "synonyms": [],
@@ -78,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/equity.webp",
   "alt": "시험 전날 한 반만 문제를 미리 앎",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/proprietary/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/proprietary/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/proprietary/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "proprietary",
  "slug": "proprietary",
  "url": "https://hibbangyong.com/words/proprietary/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, proprietary 맞아",
    "why": "맞아! 이 감기약은 만든 제약회사라는 주인이 따로 있어서, 다른 회사는 그 회사 허락 없이 똑같은 약을 만들어 팔 수 없잖아. 바로 그래서 proprietary한 약인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "한 디자이너가 새 글꼴을 만들고, 누구나 가져다 쓰고 고쳐서 팔아도 된다고 풀어 뒀어. 이 글꼴은 'proprietary'한 글꼴일까?",
-   "choices": [
-    "응, proprietary 맞아",
-    "아니, proprietary 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, proprietary 아니야",
-   "why": "맞아! 디자이너가 누구나 가져다 쓰고 고쳐서 팔아도 된다고 풀어 뒀잖아. 허락 없이도 다 쓸 수 있으니까 proprietary가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 가지를 봤어. 이 중에서 'proprietary'라고 부를 수 있는 건 뭘까?",
-   "choices": [
-    "한 가게에서만 팔지만, 만드는 법을 모두에게 풀어 둬서 누가 따라 만들어도 되는 빵",
-    "누구나 내려받아 볼 수 있지만, 만든 사람 허락 없이는 고쳐서 팔 수 없는 게임 프로그램",
-    "우리 반 친구들끼리만 알고, 다른 반에는 한 번도 말해 준 적 없는 비밀 암호",
-    "나라만 정할 수 있고, 전국 모든 도로에서 똑같이 따라야 하는 공식 표지판"
-   ],
-   "answer_index": 1,
-   "answer": "누구나 내려받아 볼 수 있지만, 만든 사람 허락 없이는 고쳐서 팔 수 없는 게임 프로그램",
-   "why": "맞아! 이 게임 프로그램은 누구나 내려받아 볼 수는 있지만, 고쳐서 팔려면 만든 사람 허락이 있어야 하잖아. 다 공개돼 있어도 주인이 한 사람뿐이어도, 주인 허락 없이는 남이 고쳐서 팔 수 없으니까 바로 그게 proprietary인 거야."
   }
  ],
  "synonyms": [],
@@ -91,6 +67,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/proprietary.webp",
   "alt": "한 회사만 만드는 휴대폰 충전기 모양",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

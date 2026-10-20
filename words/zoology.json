@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/zoology/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/zoology/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/zoology/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "zoology",
  "slug": "zoology",
  "url": "https://hibbangyong.com/words/zoology/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, zoology 맞아",
    "why": "맞아! 박쥐는 동물이고, 이 공부는 박쥐가 깜깜한 동굴에서 어떻게 벽에 안 부딪히고 나는지 실험으로 밝혀내는 거잖아. 동물이 움직이는 모습을 알아내는 공부라서 바로 그게 zoology인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "대학 연구실에서 해바라기가 어떻게 해를 따라 고개를 돌리는지 실험으로 밝혀내는 공부를 하고 있어. 이 공부는 'zoology'야?",
-   "choices": [
-    "응, zoology 맞아",
-    "아니, zoology 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, zoology 아니야",
-   "why": "맞아! 해바라기는 동물이 아니라 식물이잖아. 그래서 해바라기가 해를 따라 고개를 돌리는 걸 밝혀내는 건 식물학(이건 botany야)이지, 동물을 연구하는 zoology가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 사람이 각자 하는 일을 말했어. 'zoology'를 하고 있다고 볼 수 있는 사람은?",
-   "choices": [
-    "다친 길고양이 상처를 살펴보고 약을 발라 주는 사람",
-    "선인장이 물 없이 어떻게 버티는지 조사하는 사람",
-    "지렁이가 비 온 뒤 왜 땅 위로 나오는지 조사하는 사람",
-    "동물원에서 아이들에게 먹이 주는 시간을 안내하는 사람"
-   ],
-   "answer_index": 2,
-   "answer": "지렁이가 비 온 뒤 왜 땅 위로 나오는지 조사하는 사람",
-   "why": "맞아! 지렁이가 비 온 뒤 왜 땅 위로 나오는지 알아내려는 거잖아. 동물이 왜 그렇게 움직이는지 조사하는 일, 그게 바로 zoology야. 귀여운 동물이 아니어도 동물이면 다 연구 대상이야."
   }
  ],
  "synonyms": [],

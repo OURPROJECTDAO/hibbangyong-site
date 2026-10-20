@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/grace/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/grace/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/grace/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "grace",
  "slug": "grace",
  "url": "https://hibbangyong.com/words/grace/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, grace 아니야",
    "why": "맞아! 동생은 의자에 털썩 앉다가 쿵 미끄러지고, 컵도 엎고 숟가락도 떨어뜨렸잖아. grace는 움직이는 게 부드럽고 고운 건데, 동생 모습은 그 반대라서 grace가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "발레 수업에서 언니가 한 발로 서서 팔을 천천히 머리 위로 올렸어. 그리고 흔들림 없이 사뿐 발을 내리고 인사했어. 언니의 이 모습이 'grace'야?",
-   "choices": [
-    "응, grace 맞아",
-    "아니, grace 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, grace 맞아",
-   "why": "맞아! 언니는 팔을 천천히 머리 위로 올리고, 흔들림 없이 사뿐 발을 내려서 인사했잖아. 힘주는 티 없이 부드럽고 곱게 움직였으니까 바로 그게 grace인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "운동회 달리기에서 네 친구가 각자 이런 모습이었어. 누구의 모습에 'grace'가 있을까?",
-   "choices": [
-    "비틀할 뻔했는데 사뿐 중심을 잡고 물 흐르듯 계속 달렸어",
-    "반짝이는 새 옷을 입고 머리도 예쁘게 묶고 달리러 나왔어",
-    "일등 하려고 팔다리를 마구 휘저으며 제일 빨리 달렸어",
-    "결승선에서 친구랑 쿵 부딪히고 물병까지 와르르 쏟았어"
-   ],
-   "answer_index": 0,
-   "answer": "비틀할 뻔했는데 사뿐 중심을 잡고 물 흐르듯 계속 달렸어",
-   "why": "맞아! 비틀할 뻔했는데도 사뿐 중심을 잡고 물 흐르듯 계속 달렸잖아. 움직임이 부드럽고 고운 거라서 바로 그게 grace야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/grace.webp",
   "alt": "고양이가 소리 없이 높은 담장 위로 뛰어오르기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/circumstance/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/circumstance/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/circumstance/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "circumstance",
  "slug": "circumstance",
  "url": "https://hibbangyong.com/words/circumstance/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, circumstance 맞아",
    "why": "맞아! 수아네 반은 똑같이 공원에 소풍을 갔는데, 센 바람 때문에 도시락 뚜껑이 자꾸 날아가서 소풍이 달라졌잖아. 센 바람은 소풍 그 자체가 아니라 소풍 둘레에 있으면서 소풍을 바꿔 놓은 날씨라서, 바로 그게 circumstance인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "도윤이네 가족은 이번 주말에 바다로 여행을 가기로 했어. 그런데 같이 사는 할머니가 갑자기 편찮으셔서 여행을 다음 달로 미뤘어. '할머니가 편찮으신 것', 이런 경우도 'circumstance'야?",
-   "choices": [
-    "응, circumstance 맞아",
-    "아니, circumstance 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, circumstance 맞아",
-   "why": "맞아! 할머니가 편찮으신 건 날씨도 아니고 장소도 아니지만, 바다 여행을 다음 달로 바꿔 놓았잖아. 이렇게 여행을 바꿔 놓은 사정이니까 바로 circumstance인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "지호는 줄넘기 대회에 나가기로 혼자 마음먹었어. 아무도 시키지 않았어. 이 '나가기로 한 마음'이 대회의 'circumstance'야?",
-   "choices": [
-    "응, circumstance 맞아",
-    "아니, circumstance 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, circumstance 아니야",
-   "why": "잘 골랐어, circumstance가 아닌 게 맞아! 나가기로 한 마음은 지호가 혼자 정한 거거든. circumstance는 지호가 정하지 않았는데 대회를 이렇게도 저렇게도 바꿔 놓는 형편이야. 대회 날 날씨나 그날 지호 몸 상태 같은 거지."
   }
  ],
  "synonyms": [
@@ -80,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/circumstance.webp",
   "alt": "비 오는 날 미끄러운 축구와 해가 쨍한 날 신나는 축구",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

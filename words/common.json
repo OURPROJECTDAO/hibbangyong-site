@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/common/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/common/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/common/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "common",
  "slug": "common",
  "url": "https://hibbangyong.com/words/common/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, common해",
    "why": "맞아! 놀이터 옆에도, 골목에도, 학교 가는 길에도, 공원에도 있잖아. 어딜 가도 자꾸 보이니까 바로 그게 common인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "동물원 안내판에 이렇게 써 있어. '이 거북이는 지구 전체에 200마리쯤 남아 있고, 우리나라에서는 이 동물원에서만 볼 수 있어요.' 이 거북이는 'common'해?",
-   "choices": [
-    "응, common해",
-    "아니, common 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, common 아니야",
-   "why": "맞아! 지구에 딱 200마리, 그것도 이 동물원에서만 볼 수 있다면 그건 어딜 가도 자꾸 보이는 게 아니잖아. 마주치기 진짜 어려운 귀한 거북이라서 common이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구들이 각자 필통 하나씩 보여줬어. 이 중에서 'common'한 필통은 어떤 거야?",
-   "choices": [
-    "반 애들 대부분이 똑같이 갖고 있는, 문구점에 잔뜩 파는 필통",
-    "할머니가 손바느질로 딱 하나만 만들어 준, 세상에 없는 필통",
-    "다들 부러워하고 갖고 싶어 하는, 딱 몇 개만 나온 비싼 필통",
-    "짝꿍이랑 나랑 하나를 같이 나눠 쓰는 필통"
-   ],
-   "answer_index": 0,
-   "answer": "반 애들 대부분이 똑같이 갖고 있는, 문구점에 잔뜩 파는 필통",
-   "why": "맞아! 문구점에 잔뜩 팔아서 반 애들 대부분이 똑같은 걸 들고 다니잖아. 어딜 봐도 자꾸자꾸 보이니까 그게 바로 common인 거야."
   }
  ],
  "synonyms": [
@@ -91,6 +67,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/common.webp",
   "alt": "길·놀이터에 여기저기 흔한 참새",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

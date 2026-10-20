@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/daunting/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/daunting/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/daunting/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "daunting",
  "slug": "daunting",
  "url": "https://hibbangyong.com/words/daunting/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, daunting 아니야",
    "why": "맞아! 컵 두 개 옮기는 건 듣자마자 금방 하겠다 싶었고 바로 일어나 했잖아. 시작 전부터 자신이 있었으니 daunting이랑은 정반대로 만만한(easy) 일이야."
-  },
-  {
-   "type": "ox",
-   "question": "학교 대표로 전교생 앞에서 10분 동안 발표를 하게 됐어. 아직 원고도 안 썼는데, 강당을 가득 채운 학생들을 떠올리니 '내가 이걸 해낼 수 있을까?' 싶어 시작하기도 전에 자신이 없어졌어. 이 발표는 daunting이야?",
-   "choices": [
-    "응, daunting 맞아",
-    "아니, daunting 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, daunting 맞아",
-   "why": "맞아! 아직 원고도 안 썼는데 강당을 가득 채운 학생들을 떠올리자마자 해낼 자신이 없어졌잖아. 시작하기도 전에 기가 꺾이게 만드는 일이니까 이 발표가 바로 daunting인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 중 'daunting'이라는 말이 가장 잘 맞는 순간은?",
-   "choices": [
-    "어려운 수학 문제가 나왔지만, 공식을 알아서 차근차근 풀어 나갔어.",
-    "밤에 골목에서 큰 개가 짖어서, 물릴까 봐 몸이 덜덜 떨렸어.",
-    "마라톤 전날 42km를 떠올리니, 끝까지 뛸 수 있을지 자신이 없어졌어.",
-    "숙제가 생각보다 쉬워서, 십 분 만에 끝내고 바로 놀러 나갔어."
-   ],
-   "answer_index": 2,
-   "answer": "마라톤 전날 42km를 떠올리니, 끝까지 뛸 수 있을지 자신이 없어졌어.",
-   "why": "맞아! 아직 뛰기도 전인데 42km를 떠올리기만 해도 끝까지 뛸 수 있을지 자신이 없어지잖아. 시작 전부터 기가 꺾이게 만드는 그 마라톤이 바로 daunting한 거야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/daunting.webp",
   "alt": "방학 첫날 두꺼운 문제집을 처음 펼친 순간",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

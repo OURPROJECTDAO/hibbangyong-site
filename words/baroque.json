@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/baroque/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/baroque/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/baroque/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "baroque",
  "slug": "baroque",
  "url": "https://hibbangyong.com/words/baroque/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, baroque 맞아",
    "why": "맞아! 1650년쯤 로마에서 만든 조각상인데, 옷자락이 크게 굽이치고 받침대까지 꽃과 천사 장식으로 빽빽하잖아. 1600년대 유럽에서 이렇게 꾸밈 많고 웅장하게 만든 게 바로 baroque야."
-  },
-  {
-   "type": "ox",
-   "question": "건축 잡지에 2020년쯤 일본에서 지어진 단층 주택 사진이 실렸어. 장식이 하나도 없이 흰 벽과 네모난 창문만 반듯하게 나 있어. 이 주택은 'baroque' 양식이야?",
-   "choices": [
-    "응, baroque 맞아",
-    "아니, baroque 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, baroque 아니야",
-   "why": "맞아! 이 집은 장식이 하나도 없이 흰 벽이랑 네모난 창문만 반듯하게 나 있잖아. baroque는 꾸밈이 많고 웅장한 양식이라서, 이렇게 꾸밈을 싹 뺀 집은 정반대인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "1680년쯤 로마에 지어진 성당이 있어. 지붕은 둥근 돔이고, 겉벽은 물결치듯 휘어 있고, 안에는 금빛 조각이 가득해. 이 성당도 'baroque'라고 할 수 있어?",
-   "choices": [
-    "응, 'baroque'라고 할 수 있어",
-    "아니, 'baroque'라고 할 수 없어"
-   ],
-   "answer_index": 0,
-   "answer": "응, 'baroque'라고 할 수 있어",
-   "why": "맞아! 1680년쯤이면 딱 그 시대고, 둥근 돔에 물결치듯 휜 벽, 안을 꽉 채운 금빛 조각까지 전부 꾸밈 많고 웅장한 그 양식이야. 그래서 이 성당은 baroque라고 할 수 있어."
   }
  ],
  "synonyms": [],
@@ -91,6 +69,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/baroque.webp",
   "alt": "음악 시간에 듣는 바흐 곡의 겹겹이 얽힌 선율과 꾸밈음",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

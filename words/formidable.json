@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/formidable/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/formidable/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/formidable/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "formidable",
  "slug": "formidable",
  "url": "https://hibbangyong.com/words/formidable/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, formidable 맞아",
    "why": "맞아! 작년 전국 대회 우승자면 실력이 진짜로 대단한 거잖아. 가볍게 볼 수 없는 상대니까 바로 formidable인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "오늘 수학 숙제가 한 자리 수 덧셈 세 문제뿐이야. 이 숙제는 'formidable'한 숙제야?",
-   "choices": [
-    "응, formidable 맞아",
-    "아니, formidable 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, formidable 아니야",
-   "why": "맞아! 한 자리 수 덧셈 세 문제는 양도 적고 금방 끝나는 쉬운 숙제잖아. 가볍게 볼 수 있는 일이니까 formidable이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 중 'formidable'이라고 부르기 가장 알맞은 건?",
-   "choices": [
-    "전교생 이백 명의 이름과 생일을 다 외우는 담임 선생님의 기억력",
-    "한밤중에 혼자 보다가 소리 지르고 꺼 버린 공포 영화 속 귀신 인형",
-    "몸집은 반에서 제일 크지만 팔씨름은 매번 지는 전학생",
-    "응원 소리는 제일 크지만 경기는 매번 지는 옆 반 축구팀"
-   ],
-   "answer_index": 0,
-   "answer": "전교생 이백 명의 이름과 생일을 다 외우는 담임 선생님의 기억력",
-   "why": "맞아! 전교생 이백 명의 이름과 생일을 다 외우는 건 진짜 실력이 대단한 거라서, 그 기억력은 가볍게 볼 수 없잖아. 감탄이 나올 만큼 대단한 능력에도 formidable을 쓰는 거야."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/formidable.webp",
   "alt": "체육대회 결승에서 육상부가 셋이나 있는 상대 반",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

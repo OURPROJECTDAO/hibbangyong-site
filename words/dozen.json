@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/dozen/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/dozen/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/dozen/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "dozen",
  "slug": "dozen",
  "url": "https://hibbangyong.com/words/dozen/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, a dozen 맞아",
    "why": "맞아! 세어 보니까 딱 열둘이었잖아. 열하나도 열셋도 아니고 정확히 열두 개. 그게 바로 a dozen인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "편의점에서 누나가 초콜릿을 골랐어. 계산대에 올린 건 초콜릿 한 개였어. 이 초콜릿이 'a dozen'이야?",
-   "choices": [
-    "응, a dozen 맞아",
-    "아니, a dozen 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, a dozen 아니야",
-   "why": "맞아! 초콜릿 한 개는 그냥 한 개거든. dozen은 세어서 딱 열둘일 때만 쓰는 말이라서, 한 개는 dozen이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 각자 사탕을 가져왔어. 가져온 사탕을 'a dozen'이라고 부를 수 있는 아이는?",
-   "choices": [
-    "세어 보니 열두 개를 가져온 아이",
-    "주머니가 불룩할 만큼 잔뜩 가져온 아이",
-    "한 봉지에 딱 열 개씩 담아 가져온 아이",
-    "똑같은 맛 두 개를 짝지어 가져온 아이"
-   ],
-   "answer_index": 0,
-   "answer": "세어 보니 열두 개를 가져온 아이",
-   "why": "맞아! 세어 보니까 딱 열두 개잖아. 열하나도 열셋도 아니고 정확히 열둘이니까 바로 그게 a dozen인 거야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/dozen.webp",
   "alt": "빵집에서 도넛 열두 개를 담아 주는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

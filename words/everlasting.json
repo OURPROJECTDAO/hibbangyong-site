@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/everlasting/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/everlasting/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/everlasting/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "everlasting",
  "slug": "everlasting",
  "url": "https://hibbangyong.com/words/everlasting/",
@@ -43,28 +43,6 @@
    "answer_index": 1,
    "answer": "아니, everlasting 아니야",
    "why": "맞아! 폭죽은 몇 초 반짝이다가 금방 사라졌잖아. everlasting은 끝 자체가 없이 계속 이어지는 거라서, 금방 끝나 버린 이 불꽃은 딱 그 반대야."
-  },
-  {
-   "type": "ox",
-   "question": "할머니 댁 앞 계곡물은 아주 옛날부터 한 번도 마르지 않고 흘러왔고, 앞으로도 멈출 일이 없대. 이 물줄기를 'everlasting'이라고 할 수 있을까?",
-   "choices": [
-    "응, everlasting 맞아",
-    "아니, everlasting 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, everlasting 맞아",
-   "why": "맞아! 그 계곡물은 아주 옛날부터 한 번도 마르지 않았고 앞으로도 멈출 일이 없다잖아. 끝 자체가 없이 계속 흐르는 거니까 바로 everlasting인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "선생님이 내주는 숙제가 끝날 기미 없이 계속 이어져서 반 친구들이 다들 지긋지긋해하고 있어. 이렇게 지겨운 숙제에도 'everlasting'을 쓸 수 있어?",
-   "choices": [
-    "응, everlasting 맞아",
-    "아니, everlasting 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, everlasting 맞아",
-   "why": "맞아! 숙제가 끝날 기미 없이 계속 이어지니까 바로 그게 everlasting인 거야. 좋은 거든 지긋지긋한 거든, 끝이 안 보이고 계속 가면 이 말을 쓸 수 있어."
   }
  ],
  "synonyms": [],

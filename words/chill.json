@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/chill/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/chill/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/chill/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "chill",
  "slug": "chill",
  "url": "https://hibbangyong.com/words/chill/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, chill 맞아",
    "why": "맞아! 얼음이 가득 든 유리컵을 잡으니까 손바닥에 차가운 기운이 살살 스며들었잖아. 꽁꽁 어는 추위는 아니고 살짝 스며드는 차가운 기운이니까, 바로 그게 chill인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "햇볕이 드는 창가 의자에 오래 앉아 있었어. 등에 따뜻한 기운이 살살 스며들었어. 등에 느껴진 이 기운, 'chill'이야?",
-   "choices": [
-    "응, chill 맞아",
-    "아니, chill 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, chill 아니야",
-   "why": "맞아! 햇볕이 드는 창가에서 등에 스며든 건 따뜻한 기운이잖아. chill은 차가운 기운이라서, 따뜻한 기운은 chill이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 방금 느낀 걸 말했어. 'chill'을 느낀 친구는 누구일까?",
-   "choices": [
-    "창문을 열자 서늘한 공기가 스며들어 팔이 오싹했어",
-    "난로 옆에 앉았더니 볼이 후끈하게 달아올랐어",
-    "비를 흠뻑 맞아서 옷이 축축하게 젖어 버렸어",
-    "바람이 세게 불어서 모자가 휙 날아가 버렸어"
-   ],
-   "answer_index": 0,
-   "answer": "창문을 열자 서늘한 공기가 스며들어 팔이 오싹했어",
-   "why": "맞아! 창문을 열자 서늘한 공기가 스며들어서 팔이 오싹했잖아. 몸에 살살 닿는 그 차가운 기운이 바로 chill인 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/chill.webp",
   "alt": "아침에 문 열자 바깥 공기가 들어와 어깨가 오싹함",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

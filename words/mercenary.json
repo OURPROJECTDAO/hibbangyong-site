@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/mercenary/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/mercenary/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/mercenary/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "mercenary",
  "slug": "mercenary",
  "url": "https://hibbangyong.com/words/mercenary/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, mercenary 맞아",
    "why": "맞아! 칼잡이들은 상인들이 은화를 주기로 해서, 돈을 내는 상인들 편에 서서 해적과 싸운 거잖아. 어느 편에서 싸울지를 은화가 정했으니까 이 칼잡이들이 바로 mercenary야."
-  },
-  {
-   "type": "ox",
-   "question": "임진왜란 때, 한 선비가 나라를 지키려고 스스로 의병을 모아 왜군과 싸웠어. 이 선비는 'mercenary'야?",
-   "choices": [
-    "응, mercenary 맞아",
-    "아니, mercenary 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, mercenary 아니야",
-   "why": "잘 골랐어! 이 선비는 돈을 받기로 한 게 아니라 나라를 지키려고 스스로 의병을 모아 싸웠잖아. 어느 편에서 싸울지를 돈이 아니라 자기 마음이 정했으니까 mercenary가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "뉴스에 네 사람이 나왔어. 이 중에서 'mercenary'라고 부를 수 있는 사람은 누구일까?",
-   "choices": [
-    "돈을 받기로 하고, 처음 보는 사람들 편에 서서 싸우는 사람",
-    "나라에서 월급을 받으며, 자기 나라 군대에서 싸우는 사람",
-    "돈은 받지 않고, 자기 마을이 걱정돼 싸우러 나선 사람",
-    "외국에서 건너와, 이 나라 야구팀에서 돈을 받고 뛰는 사람"
-   ],
-   "answer_index": 0,
-   "answer": "돈을 받기로 하고, 처음 보는 사람들 편에 서서 싸우는 사람",
-   "why": "맞아! 처음 보는 사람들인데도 그 편에 서서 싸우는 건 돈을 받기로 했기 때문이잖아. 이렇게 어느 편에서 싸울지를 돈이 정하는 사람, 바로 그게 mercenary야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/mercenary.webp",
   "alt": "옛날 왕의 성과 요즘 전쟁터에서 돈을 받고 싸우는 군인",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

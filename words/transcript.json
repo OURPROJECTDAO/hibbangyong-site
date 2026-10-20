@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/transcript/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/transcript/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/transcript/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "transcript",
  "slug": "transcript",
  "url": "https://hibbangyong.com/words/transcript/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, transcript 맞아",
    "why": "맞아! 진행자와 손님이 방송 중에 이미 한 말을 방송이 끝난 뒤에 글로 그대로 옮긴 거라서, 바로 그게 transcript인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "졸업식 전날 밤, 교장 선생님이 다음 날 졸업식에서 할 축사를 미리 종이에 적어 두었어. 이 글이 'transcript'야?",
-   "choices": [
-    "응, transcript 맞아",
-    "아니, transcript 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, transcript 아니야",
-   "why": "맞아! 교장 선생님은 축사를 아직 하지도 않았는데 전날 밤에 미리 적어 둔 거잖아. transcript는 누가 이미 한 말을 받아 적은 글이라서, 말하기 전에 써 둔 이 글은 transcript가 아니야."
-  },
-  {
-   "type": "choice",
-   "question": "뉴스에서 '변호사가 그 재판의 transcript를 꼼꼼히 확인했다'고 했어. 여기서 'transcript'는 무엇을 가리킬까?",
-   "choices": [
-    "재판에서 증인과 판사가 한 말을 글로 옮긴 기록",
-    "재판 전에 판사가 미리 적어 둔 판결 원고",
-    "재판이 열리는 동안 법정을 찍어 둔 영상",
-    "재판이 끝나고 결과만 짧게 정리한 발표문"
-   ],
-   "answer_index": 0,
-   "answer": "재판에서 증인과 판사가 한 말을 글로 옮긴 기록",
-   "why": "맞아! 뉴스 속 변호사가 꼼꼼히 본 건 재판에서 증인과 판사가 실제로 한 말을 글로 옮긴 기록이야. 이미 오간 말을 그대로 받아 적은 글이라서 바로 그게 transcript인 거야."
   }
  ],
  "synonyms": [
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/transcript.webp",
   "alt": "온라인 수업에서 한 말을 글로 올려 준 것",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

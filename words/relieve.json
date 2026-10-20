@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/relieve/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/relieve/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/relieve/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "relieve",
  "slug": "relieve",
  "url": "https://hibbangyong.com/words/relieve/",
@@ -43,28 +43,6 @@
    "answer_index": 1,
    "answer": "아니, relieve 아니야",
    "why": "맞아! 수레가 더 안 굴러갔잖아. 누르는 게 줄기는커녕 더 커졌으니까 relieve가 아닌 거야. relieve는 얹는 게 아니라 덜어 주는 쪽이거든."
-  },
-  {
-   "type": "ox",
-   "question": "동생이 감기에 걸려 목이 따갑다고 계속 울었어. 형이 따뜻한 물을 한 컵 줬더니 따가운 게 절반쯤 가라앉아서 동생이 말도 할 수 있게 됐대. 이게 'relieve'야?",
-   "choices": [
-    "응, relieve 맞아",
-    "아니, relieve 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, relieve 맞아",
-   "why": "맞아! 따가운 게 절반쯤 가라앉아서 말도 할 수 있게 됐잖아. 누르던 게 진짜로 줄어든 거니까 바로 그게 relieve야. 감기가 싹 나아야 하는 게 아니거든."
-  },
-  {
-   "type": "ox",
-   "question": "내일 발표가 걱정돼서 민준이는 가슴이 꽉 막힌 것 같았어. 형이 '내가 먼저 들어 줄게' 하고 발표를 다 들어 주자, 꽉 막힌 게 훨씬 느슨해져서 잠도 잘 잤어. 어디가 아픈 건 아니었어. 이런 경우도 형이 민준이를 'relieve' 한 걸까?",
-   "choices": [
-    "응, relieve 맞아.",
-    "아니, relieve 아니야."
-   ],
-   "answer_index": 0,
-   "answer": "응, relieve 맞아.",
-   "why": "맞아! 형이 발표를 들어 주니까 민준이 마음을 꽉 누르던 걱정이 훨씬 느슨해졌잖아. 누르던 게 진짜 줄어든 거니까, 몸이 안 아파도 이건 relieve가 맞아."
   }
  ],
  "synonyms": [],
@@ -80,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/relieve.webp",
   "alt": "가방을 바위 위에 얹어 등을 누르던 힘이 확 줄어든 순간",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

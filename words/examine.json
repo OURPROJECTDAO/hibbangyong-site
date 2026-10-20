@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/examine/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/examine/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/examine/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "examine",
  "slug": "examine",
  "url": "https://hibbangyong.com/words/examine/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, examine 맞아",
    "why": "맞아! 가시가 박혔나 알아내려고 발가락 사이까지 벌려서 구석구석 보고 있잖아. 그렇게 뭘 알아내려고 요리조리 뜯어보는 게 바로 examine이야."
-  },
-  {
-   "type": "ox",
-   "question": "민서는 문구점 진열장 옆을 지나 학원 쪽으로 걸어갔어. 친구랑 방학 이야기를 하면서. 이게 'examine'이야?",
-   "choices": [
-    "응, examine 맞아",
-    "아니, examine 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, examine 아니야",
-   "why": "맞아! 민서는 진열장에 뭐가 있나 알아내려고 뜯어본 게 아니라 그냥 옆을 지나간 거잖아. 마음이 방학 이야기에 가 있었지. 그러니까 examine이 아닌 게 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "미주가 쓴 글을 두고 네 사람이 각자 다른 일을 했어. 그중에 글을 'examine'한 사람은 누구일까?",
-   "choices": [
-    "글이 적힌 공책이 어디 갔는지 가방과 서랍을 죄다 뒤진 사람",
-    "글을 소리 내어 죽 읽어 친구들에게 그대로 들려준 사람",
-    "글을 한 줄씩 짚어 가며 이상한 데가 없나 따져본 사람",
-    "글 맨 끝에 적힌 날짜가 맞나만 얼른 보고 넘어간 사람"
-   ],
-   "answer_index": 2,
-   "answer": "글을 한 줄씩 짚어 가며 이상한 데가 없나 따져본 사람",
-   "why": "맞아! 한 줄씩 짚어 가며 이상한 데가 없나 따져본 건, 글 자체를 구석구석 뜯어보면서 뭔가 알아내려고 한 거잖아. 바로 그게 examine이야."
   }
  ],
  "synonyms": [
@@ -90,6 +66,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/examine.webp",
   "alt": "사과를 요리조리 돌려가며 상한 데 있나 살피는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

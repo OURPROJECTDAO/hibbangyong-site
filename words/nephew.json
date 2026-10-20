@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/nephew/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/nephew/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/nephew/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "nephew",
  "slug": "nephew",
  "url": "https://hibbangyong.com/words/nephew/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, nephew 맞아",
    "why": "맞아! 우리 오빠가 낳은 남자아이는 바로 '내 형제의 아들'이잖아? 그래서 그게 딱 nephew인 거야. 그럼 너는 그 아이의 고모가 되는 거고!"
-  },
-  {
-   "type": "choice",
-   "question": "여러 친척이 한자리에 모였어. 다음 중에서 너의 'nephew'인 사람은 누구일까?",
-   "choices": [
-    "내 형이 낳은 아들",
-    "내 누나가 낳은 딸",
-    "내 엄마의 남동생",
-    "내 이모가 낳은 아들"
-   ],
-   "answer_index": 0,
-   "answer": "내 형이 낳은 아들",
-   "why": "맞아! 네 형이 낳은 아들은 너랑 한 세대 아래 남자아이잖아. 형제자매의 아들, 그게 바로 nephew야. 그럼 너는 그 아이의 삼촌이 되는 거지!"
-  },
-  {
-   "type": "ox",
-   "question": "명절에 아빠의 형(큰아버지)이 나를 보고 반갑게 세뱃돈을 주셨어. 이 어른은 너의 'nephew'일까?",
-   "choices": [
-    "응, nephew 맞아",
-    "아니, nephew 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, nephew 아니야",
-   "why": "맞아! 큰아버지는 너보다 윗자리 어른이고, 오히려 네가 그분의 조카잖아? 방향이 정반대니까 nephew가 아닌 게 딱 맞아."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/nephew.webp",
   "alt": "형·누나에게 아들이 생겨 내가 삼촌·이모가 되는 자리",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

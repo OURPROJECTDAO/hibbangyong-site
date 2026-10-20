@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/wreck/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/wreck/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/wreck/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "wreck",
  "slug": "wreck",
  "url": "https://hibbangyong.com/words/wreck/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, wreck 아니야",
    "why": "맞아! 이 배는 흠집 하나 없이 멀쩡히 떠 있고 손님 태우고 출발까지 하잖아. 부서져서 못 쓰게 된 게 아니니까 wreck이 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "기차가 다리 위에서 탈선해서 객차가 반으로 꺾이고 창문이 다 깨진 채 강가에 처박혀 있어. 이게 'wreck'이야?",
-   "choices": [
-    "응, wreck 맞아",
-    "아니, wreck 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, wreck 맞아",
-   "why": "맞아! 기차가 반으로 꺾이고 창문이 다 깨진 채 처박혀 있잖아. 고쳐서 다시 타는 게 아니라 이제 부서진 덩어리가 된 거니까, 그게 바로 wreck인 거야. 차든 배든 기차든 사고로 이렇게 박살나면 다 똑같이 wreck이라고 불러."
-  },
-  {
-   "type": "choice",
-   "question": "길가에 차 네 대가 서 있어. 이 중에서 'wreck'이라고 부를 수 있는 차는 어떤 거야?",
-   "choices": [
-    "트럭에 받혀 앞이 다 찌그러지고 유리까지 깨진 채 뒹구는 차",
-    "기름이 똑 떨어져 시동이 안 걸린 채 길가에 멈춰 선 차",
-    "먼지가 잔뜩 쌓이고 색이 다 바랜 아주 오래된 낡은 차",
-    "방금 세차해서 유리까지 반짝반짝 광이 나는 새 차"
-   ],
-   "answer_index": 0,
-   "answer": "트럭에 받혀 앞이 다 찌그러지고 유리까지 깨진 채 뒹구는 차",
-   "why": "맞아! 트럭에 받혀서 앞이 다 찌그러지고 유리까지 깨졌잖아. 이제 고쳐서 타는 게 아니라 그냥 부서진 쇳덩이가 된 거야. 그렇게 사고로 박살난 차, 그게 바로 wreck인 거야."
   }
  ],
  "synonyms": [],
@@ -83,6 +59,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/wreck.webp",
   "alt": "트럭에 받혀 앞이 찌그러지고 유리가 깨진 채 길가에 널브러진 차",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

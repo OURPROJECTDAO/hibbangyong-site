@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/minefield/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/minefield/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/minefield/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "minefield",
  "slug": "minefield",
  "url": "https://hibbangyong.com/words/minefield/",
@@ -43,28 +43,6 @@
    "answer_index": 1,
    "answer": "아니, minefield 아니야",
    "why": "맞아! 동생 연습장은 막 그려도, 찢거나 틀려도 아무 문제가 없잖아. 어느 쪽을 펼쳐서 뭘 해도 괜찮으니까 숨어 있는 위험이 하나도 없는 거고, 그래서 minefield가 아니야."
-  },
-  {
-   "type": "ox",
-   "question": "아빠가 오래된 아파트 벽에 못을 박으려고 해. 겉으로는 그냥 평범한 하얀 벽이야. 그런데 설계도가 없어서 벽 속 어디에 전선이나 수도관이 숨어 있는지 몰라. 어디를 뚫느냐에 따라 전선이 끊기거나 물이 샐 수 있어. 이 벽은 'minefield'야?",
-   "choices": [
-    "응, minefield 맞아",
-    "아니, minefield 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, minefield 맞아",
-   "why": "맞아! 겉으로는 평범한 하얀 벽인데 속 어디에 전선이나 수도관이 숨어 있는지 모르잖아. 잘못 뚫는 순간 전선이 끊기거나 물이 샐 수 있으니까, 위험이 눈에 안 보이게 숨어 있는 바로 그 minefield인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "엘리베이터가 고장 난 날, 무거운 택배 상자를 들고 15층까지 계단으로 올라가야 한다. 숨이 차고 다리가 후들거릴 만큼 힘들다. 이런 경우도 'minefield'야?",
-   "choices": [
-    "응, minefield 맞아",
-    "아니, minefield 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, minefield 아니야",
-   "why": "맞아! 15층까지 계단으로 오르는 건 숨이 차고 다리가 후들거릴 만큼 힘들지만, 어디서 갑자기 터질지 모르는 위험이 숨어 있진 않잖아. minefield는 그냥 힘든 게 아니라 눈에 안 보이는 위험이 여기저기 숨어 있어야 하거든."
   }
  ],
  "synonyms": [],
@@ -84,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/minefield.webp",
   "alt": "전쟁 때 지뢰를 몰래 묻어 둔 땅",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

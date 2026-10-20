@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/quote/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/quote/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/quote/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "quote",
  "slug": "quote",
  "url": "https://hibbangyong.com/words/quote/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, 맞아",
    "why": "맞아! 선수가 자기 입으로 한 그 말을, 기자가 한 글자도 안 바꾸고 따옴표 안에 그대로 옮겨 놓고 누가 한 말인지도 밝혔잖아. 그게 바로 quote인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "지우가 로봇 장난감을 들고 놀면서, 아무도 한 적 없는 「출동 준비 끝」이라는 말을 자기가 방금 지어내서 말했어. 이게 'quote'야?",
-   "choices": [
-    "응, quote 맞아",
-    "아니, quote 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, quote 아니야",
-   "why": "맞아! 지우가 한 그 말은 아무도 한 적이 없고 지우가 방금 머릿속에서 새로 지어낸 거잖아. 따올 남의 말이 아예 없으니까 quote가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "수아가 친구가 한 말을 다른 사람한테 전했어. 어떻게 말해야 그 말을 'quote'한 걸까?",
-   "choices": [
-    "친구가 한 말을 한 글자도 안 바꾸고 그대로 옮겨 말했다.",
-    "친구 말을 자기 말로 짧게 요약해서 전했다.",
-    "친구가 안 한 말을 자기가 새로 지어내서 말했다.",
-    "친구 이름은 빼고 자기 생각처럼 말했다."
-   ],
-   "answer_index": 0,
-   "answer": "친구가 한 말을 한 글자도 안 바꾸고 그대로 옮겨 말했다.",
-   "why": "맞아! 친구가 한 그 말을 한 글자도 안 바꾸고 그대로 옮겼으니까, 바로 그게 quote야. 내 말로 바꾸지 않고 원래 말 그대로 따오는 거거든."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/quote.webp",
   "alt": "친구가 한 말을 다른 사람에게 한 글자도 안 바꾸고 그대로 전하는 상황",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

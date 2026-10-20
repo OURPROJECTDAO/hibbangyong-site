@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/trifle/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/trifle/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/trifle/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "trifle",
  "slug": "trifle",
  "url": "https://hibbangyong.com/words/trifle/",
@@ -43,28 +43,6 @@
    "answer_index": 1,
    "answer": "아니, a trifle 아니야",
    "why": "맞아! 소나기 맞고 흠뻑 젖어서 짜니까 물이 줄줄 흘렀잖아. 그건 완전히 젖은 거라서, 아주 조금이라는 a trifle이랑은 정반대인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "방학 동안 교실 벽을 새로 칠했더니 전보다 'a trifle' 밝아졌대. 반 친구들은 다들 좋아했어. 이렇게 좋은 쪽으로 바뀐 경우에도 'a trifle'을 쓸 수 있을까?",
-   "choices": [
-    "응, 쓸 수 있는 거 맞아",
-    "아니, 쓸 수 있는 거 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, 쓸 수 있는 거 맞아",
-   "why": "맞아! 벽을 새로 칠해서 전보다 조금 밝아진 것도 정도가 조금 달라진 거잖아. 그래서 친구들이 다 좋아한 좋은 쪽 변화에도 a trifle을 그대로 쓸 수 있어."
-  },
-  {
-   "type": "ox",
-   "question": "에어컨을 끄고 30분이 지나자 방 온도가 25도에서 26도로 올랐어. 이걸 방이 'a trifle' 더워졌다고 할 수 있을까?",
-   "choices": [
-    "응, a trifle 맞아",
-    "아니, a trifle 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, a trifle 맞아",
-   "why": "맞아! 25도에서 26도로 딱 1도 오른 거니까 더워지긴 했는데 아주 조금이잖아. 바로 그렇게 조금 달라진 걸 a trifle이라고 하는 거야."
   }
  ],
  "synonyms": [],

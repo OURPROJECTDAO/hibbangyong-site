@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/suspension/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/suspension/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/suspension/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "suspension",
  "slug": "suspension",
  "url": "https://hibbangyong.com/words/suspension/",
@@ -43,28 +43,6 @@
    "answer_index": 1,
    "answer": "아니, suspension 아니야",
    "why": "맞아! 도서관은 여름 방학 내내 하루도 쉬지 않고 매일 문을 열었잖아. 멈춘 날이 하나도 없으니까 한동안 멈춰 두는 suspension이 아니지."
-  },
-  {
-   "type": "ox",
-   "question": "민지가 체크카드를 잃어버려서 은행에 신고했어. 은행은 카드를 찾을 때까지 그 카드를 못 쓰게 잠시 멈춰 두었고, 찾으면 다시 쓸 수 있대. 은행이 한 이 일, 'suspension'이야?",
-   "choices": [
-    "응, suspension 맞아",
-    "아니, suspension 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, suspension 맞아",
-   "why": "맞아! 은행이 정해서 카드를 못 쓰게 멈춰 둔 거고, 찾으면 다시 쓸 수 있잖아. 끝낸 게 아니라 한동안 멈춰 둔 거니까 딱 suspension이야."
-  },
-  {
-   "type": "ox",
-   "question": "태풍이 오자 항구에서 섬으로 가는 배 운항을 사흘 동안 멈췄고, 태풍이 지나간 뒤 다시 다니게 했어. 이런 경우도 'suspension'이야?",
-   "choices": [
-    "응, 'suspension' 맞아",
-    "아니, 'suspension' 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, 'suspension' 맞아",
-   "why": "맞아! 아무도 잘못한 게 없어도, 태풍 때문에 누가 정해서 배 운항을 사흘 동안 멈췄다가 태풍이 지나간 뒤 다시 다니게 했잖아. 이렇게 끝낸 게 아니라 한동안 멈춰 둔 거라서 바로 suspension인 거야."
   }
  ],
  "synonyms": [
@@ -86,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/suspension.webp",
   "alt": "비 때문에 중간에 멈춘 야구 경기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

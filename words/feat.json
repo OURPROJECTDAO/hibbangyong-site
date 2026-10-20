@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/feat/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/feat/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/feat/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "feat",
  "slug": "feat",
  "url": "https://hibbangyong.com/words/feat/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, feat 아니야",
    "why": "잘 골랐어! 지민이가 한 세수랑 양치질은 아침마다 늘 하던, 누구나 쉽게 하는 일이잖아. 해내기 힘든 걸 결국 해낸 게 아니니까 feat가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "다리 수술을 받은 삼촌이 1년 동안 재활 훈련을 한 끝에 42km 마라톤을 끝까지 완주했어. 이게 'feat'야?",
-   "choices": [
-    "응, feat 맞아",
-    "아니, feat 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, feat 맞아",
-   "why": "맞아! 다리 수술을 받은 삼촌한테 42km를 뛰는 건 정말 힘든 일이었는데, 1년 동안 재활 훈련을 버틴 끝에 결국 끝까지 완주했잖아. 힘도 끈기도 많이 드는 걸 해낸 거라서 바로 feat인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 사람한테 일어난 일이야. 이 중에서 'feat'라고 부르기에 가장 알맞은 건?",
-   "choices": [
-    "손이 떨리는 할아버지가 바늘에 실을 혼자 꿰어 냈어",
-    "복권을 한 장 샀는데 우연히 1등에 당첨됐어",
-    "평소처럼 버스를 타고 학교에 제시간에 도착했어",
-    "유명한 가수가 무대에 올라 인사만 하고 내려갔어"
-   ],
-   "answer_index": 0,
-   "answer": "손이 떨리는 할아버지가 바늘에 실을 혼자 꿰어 냈어",
-   "why": "맞아! 손이 떨리는 할아버지한테는 바늘에 실 꿰는 게 정말 힘든 일인데, 그걸 혼자 끝까지 해냈잖아. 작은 일이어도 그 사람한테 어려운 걸 해냈으면 그게 바로 feat야."
   }
  ],
  "synonyms": [
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/feat.webp",
   "alt": "손 떨리는 할아버지가 바늘에 실을 혼자 꿰기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/risk/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/risk/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/risk/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "risk",
  "slug": "risk",
  "url": "https://hibbangyong.com/words/risk/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, risk 맞아",
    "why": "맞아! 아직 떨어진 게 아니잖아. 흔들흔들, 떨어질 수도 있고 안 떨어질 수도 있는 그 아슬아슬한 순간, 바로 그게 risk야."
-  },
-  {
-   "type": "ox",
-   "question": "방바닥에 이불을 깔고 그 위에 앉아 그림책을 넘기고 있어. 여기서는 나쁜 일이 생길 일이 하나도 없어. 이게 'risk'야?",
-   "choices": [
-    "응, risk 맞아",
-    "아니, risk 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, risk 아니야",
-   "why": "맞아! 이불 위에서 그림책 넘기는 데는 나빠질 게 하나도 없잖아. 무너질 수도, 다칠 수도 없으면 아슬아슬한 어쩌면이 아예 없는 거야. 그러니까 이건 risk가 아니지."
-  },
-  {
-   "type": "choice",
-   "question": "친구 넷이 겨울 강 얼음을 보고 각자 한 마디씩 했어. 이 중에 'risk'가 있는 상황을 말한 친구는 누구게?",
-   "choices": [
-    "얼음이 깨져서 친구가 물에 빠졌대. 지금 다 같이 꺼내 주는 중이야.",
-    "얼음 위로 걸어가면 깨질 수도 있대. 깨질지 안 깨질지는 아직 아무도 몰라.",
-    "얼음이 무서워서 가슴이 콩닥콩닥해. 근처에 갈 생각만 해도 그래.",
-    "얼음이 다 녹아 버려서 발을 디디면 무조건 물에 빠진대."
-   ],
-   "answer_index": 1,
-   "answer": "얼음 위로 걸어가면 깨질 수도 있대. 깨질지 안 깨질지는 아직 아무도 몰라.",
-   "why": "맞아! 깨질지 안 깨질지 아직 아무도 모르는 그 순간, 바로 거기에 risk가 있는 거야. 아무 일도 안 났는데 나쁜 일이 생길 수도 있는 그 갈림길, 그게 risk거든."
   }
  ],
  "synonyms": [],
@@ -99,6 +75,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/risk.webp",
   "alt": "젠가 탑에서 블록을 뽑기 직전의 아슬아슬한 순간",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

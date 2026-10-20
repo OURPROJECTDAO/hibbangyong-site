@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/despair/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/despair/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/despair/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "despair",
  "slug": "despair",
  "url": "https://hibbangyong.com/words/despair/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, despair 맞아",
    "why": "맞아! 저 깊은 바다에서 어떻게 찾아, 이제 영영 못 찾아 하고 손을 뗐잖아. 해볼 방법이 하나도 안 남았다고 마음의 불이 딱 꺼진 거, 그게 바로 despair야."
-  },
-  {
-   "type": "ox",
-   "question": "줄넘기 이단뛰기를 백 번 넘게 시도했는데 오늘은 한 번도 안 됐어. 아이는 줄을 감으며 '오늘은 여기까지. 내일 아침에 또 해보면 될 것 같아.' 하고 집에 갔어. 이 마음이 'despair'야?",
-   "choices": [
-    "응, despair 맞아",
-    "아니, despair 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, despair 아니야",
-   "why": "그렇지! 내일 아침에 또 해보면 될 것 같아 하는 마음이 아직 살아 있잖아. 될 거라는 기대가 남아 있으니까 이건 despair가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "자전거를 잃어버린 아이 넷이 그날 밤 이야기를 했어. 마음이 'despair'였던 아이는 누구일까?",
-   "choices": [
-    "자전거 생각에 눈물이 나서 베개를 안고 한참 울다 잠든 아이",
-    "혹시 놀이터에 있을까 싶어 내일 아침 다시 가보기로 한 아이",
-    "며칠을 찾아다니다 이젠 어디에도 없다 싶어 찾기를 그만둔 아이",
-    "누가 가져갔을까 봐 마음이 조마조마해 밤에 잠을 설친 아이"
-   ],
-   "answer_index": 2,
-   "answer": "며칠을 찾아다니다 이젠 어디에도 없다 싶어 찾기를 그만둔 아이",
-   "why": "맞아! 며칠을 찾아다니다가 이젠 어디에도 없다 싶어서 마음속 불이 딱 꺼진 거잖아. 찾기를 그만뒀다는 게 바로 기대가 끊겼다는 말이라서, 그게 despair인 거야."
   }
  ],
  "synonyms": [],
@@ -83,6 +59,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/despair.webp",
   "alt": "온 집을 뒤져도 마지막 퍼즐 조각이 안 나와 마음의 불이 꺼지는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

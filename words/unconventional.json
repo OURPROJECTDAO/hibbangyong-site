@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/unconventional/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/unconventional/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/unconventional/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "unconventional",
  "slug": "unconventional",
  "url": "https://hibbangyong.com/words/unconventional/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, unconventional 맞아",
    "why": "맞아! 이사할 땐 다들 이삿짐센터를 부르는데, 삼촌은 짐을 전부 자전거 수레에 싣고 열 번 넘게 왔다 갔다 했잖아. 남들이 보통 하는 방식에서 이렇게 크게 벗어났으니까 바로 그게 unconventional인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "이모는 이사할 때 이삿짐센터를 불렀어. 짐을 전부 상자에 나눠 담고, 트럭 한 대로 새집까지 하루 만에 옮겼어. 이모의 이사 방식은 'unconventional'일까?",
-   "choices": [
-    "응, unconventional 맞아",
-    "아니, unconventional 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, unconventional 아니야",
-   "why": "맞아! 이삿짐센터를 부르고, 짐을 상자에 나눠 담고, 트럭으로 하루 만에 옮기는 건 사람들이 보통 이사하는 방식 그대로거든. 틀에서 벗어난 데가 하나도 없으니까 unconventional이 아니야."
-  },
-  {
-   "type": "choice",
-   "question": "학교 축제에서 반마다 부스를 하나씩 열었어. 친구가 어느 반을 보더니 'unconventional'하다고 했어. 어느 반 얘기일까?",
-   "choices": [
-    "음료를 팔았는데, 이번 주에 막 나온 신상 컵에 담아 줬어",
-    "떡볶이를 팔았는데, 불 조절을 잘못해서 맛이 좀 이상했어",
-    "부스를 열었는데, 음식 대신 교실을 방탈출 게임장으로 꾸몄어",
-    "떡볶이를 팔았는데, 정해진 마감 시간을 넘겨서까지 팔았어"
-   ],
-   "answer_index": 2,
-   "answer": "부스를 열었는데, 음식 대신 교실을 방탈출 게임장으로 꾸몄어",
-   "why": "맞아! 다른 반들은 다 음식을 파는데, 이 반은 음식 대신 교실을 방탈출 게임장으로 꾸몄잖아. 부스를 여는 방식 자체가 남들이 보통 하는 것에서 확 벗어났으니까 바로 그게 unconventional인 거야. 잘될지 망할지는 몰라도 상관없어."
   }
  ],
  "synonyms": [],

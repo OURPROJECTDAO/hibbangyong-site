@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/psyche/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/psyche/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/psyche/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "psyche",
  "slug": "psyche",
  "url": "https://hibbangyong.com/words/psyche/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, psyche 맞아",
    "why": "맞아! 하은이가 작은 일에도 불안해지고 걱정을 오래 품는 건 겉으로 드러난 모습이고, 그런 생각과 감정이 생겨나는 마음 깊은 곳 전체가 바로 psyche인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "하은이는 수영을 매일 꾸준히 해서 몸이 달라졌어. 그렇게 튼튼해진 하은이의 팔 근육과 폐, 이게 'psyche'야?",
-   "choices": [
-    "응, psyche 맞아",
-    "아니, psyche 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, psyche 아니야",
-   "why": "잘 골랐어, psyche 아닌 거 맞아! 팔 근육과 폐는 수영을 매일 해서 튼튼해진 몸이잖아. psyche는 생각과 감정이 생겨나는 속마음 전체라서, 몸이 달라진 건 psyche가 아니야."
-  },
-  {
-   "type": "ox",
-   "question": "사촌 형은 병원에 다닌 적도 없고 큰 고민도 없어. 그냥 비 오는 날이면 괜히 차분해지고, 응원하는 팀이 이기면 며칠 동안 들떠 있어. 이런 형한테도 'psyche'가 있다고 할 수 있어?",
-   "choices": [
-    "응, psyche 있다고 할 수 있어",
-    "아니, psyche 있다고 할 수 없어"
-   ],
-   "answer_index": 0,
-   "answer": "응, psyche 있다고 할 수 있어",
-   "why": "맞아! 비 오는 날 괜히 차분해지고, 팀이 이기면 며칠 들떠 있는 것도 다 형 속마음에서 일어나는 일이잖아. 병원에 다닌 적이 없어도 그런 기분이 생겨나는 속마음 전체가 바로 psyche야."
   }
  ],
  "synonyms": [

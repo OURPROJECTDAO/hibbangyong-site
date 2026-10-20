@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/paralysis/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/paralysis/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/paralysis/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "paralysis",
  "slug": "paralysis",
  "url": "https://hibbangyong.com/words/paralysis/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, paralysis 맞아",
    "why": "맞아! 할머니는 오른쪽 팔과 다리를 움직이려고 애쓰는데도 전혀 안 움직이잖아. 하려고 해도 못 하는 거니까 바로 그게 paralysis인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "출근 시간인데 버스와 지하철이 모두 제시간에 오고, 사람들이 막힘없이 회사로 오가고 있어. 이 도시 교통 상태를 'paralysis'라고 할 수 있을까?",
-   "choices": [
-    "응, paralysis 맞아",
-    "아니, paralysis 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, paralysis 아니야",
-   "why": "맞아! 출근 시간인데도 버스와 지하철이 제시간에 오고 사람들이 막힘없이 오가잖아. 교통이 멈춘 게 아니라 잘 움직이고 있으니까 paralysis가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "연극에서 동상 역할을 맡은 민수가, 장면이 끝날 때까지 10분 동안 팔다리를 하나도 안 움직이고 가만히 서 있었어. 이런 경우도 민수 상태를 'paralysis'라고 할 수 있어?",
-   "choices": [
-    "응, 'paralysis' 맞아.",
-    "아니, 'paralysis' 아니야."
-   ],
-   "answer_index": 1,
-   "answer": "아니, 'paralysis' 아니야.",
-   "why": "맞아! 민수는 연극에서 동상 역할이라 일부러 안 움직인 거잖아. 마음만 먹으면 팔다리를 언제든 움직일 수 있으니까, 움직이려 해도 못 움직이는 paralysis는 아닌 거야."
   }
  ],
  "synonyms": [],
@@ -81,6 +59,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/paralysis.webp",
   "alt": "사고 뒤 힘을 줘도 안 움직이는 다리",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

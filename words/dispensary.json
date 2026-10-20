@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/dispensary/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/dispensary/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/dispensary/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "dispensary",
  "slug": "dispensary",
  "url": "https://hibbangyong.com/words/dispensary/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, dispensary 맞아",
    "why": "맞아! 직원이 소화제랑 밴드를 미리 챙겨 두었다가 배 아프다는 캠핑객한테 소화제 한 알을 건네줬잖아. 약을 준비해 뒀다가 필요한 사람한테 내어 주는 곳이니까 이 창구가 바로 dispensary인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "종합병원 2층의 한 방이야. 의사가 청진기로 환자 가슴 소리를 듣고, 배를 눌러 보면서 어디가 아픈지 찾아내. 이런 방도 'dispensary'야?",
-   "choices": [
-    "응, 'dispensary' 맞아",
-    "아니, 'dispensary' 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 'dispensary' 아니야",
-   "why": "맞아! 이 방에서 의사는 청진기로 가슴 소리를 듣고 배를 눌러 보면서 어디가 아픈지 찾고 있잖아. 아픈 데를 찾는 방이지, 약을 준비해 뒀다가 사람한테 내어 주는 곳이 아니니까 dispensary가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "산골 마을 회관에 방이 네 개 있어. 그중 'dispensary'라고 부를 수 있는 방은 어디일까?",
-   "choices": [
-    "한 달에 한 번 의사가 와서 마을 사람들 혈압을 재고 진찰하는 방",
-    "감기약이랑 파스를 챙겨 두었다가 아픈 사람이 오면 꺼내 주는 방",
-    "마을 사람들이 약초를 말리고 빻아서 약 재료를 만드는 방",
-    "다 먹은 약병이랑 기한 지난 약을 모아 두었다가 버리는 방"
-   ],
-   "answer_index": 1,
-   "answer": "감기약이랑 파스를 챙겨 두었다가 아픈 사람이 오면 꺼내 주는 방",
-   "why": "맞아! 감기약이랑 파스를 챙겨 두었다가 아픈 사람이 오면 꺼내 주는 방이니까, 약이 사람 손에 건너가는 바로 그 자리야. 그래서 이 방이 dispensary인 거야."
   }
  ],
  "synonyms": [],

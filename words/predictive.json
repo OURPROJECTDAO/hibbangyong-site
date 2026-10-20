@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/predictive/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/predictive/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/predictive/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "predictive",
  "slug": "predictive",
  "url": "https://hibbangyong.com/words/predictive/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, predictive 맞아",
    "why": "맞아! 선생님이 이번 모의고사 점수를 보면 실제 시험 점수가 대략 어떻게 나올지 짐작할 수 있다고 하셨잖아. 아직 안 본 시험을 미리 짐작하게 해 주니까 바로 그게 predictive인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "엄마가 지난 1년 동안 찍은 가족사진을 날짜순으로 모아서 앨범 한 권으로 정리하셨어. 이 앨범은 'predictive'해?",
-   "choices": [
-    "응, predictive 맞아",
-    "아니, predictive 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, predictive 아니야",
-   "why": "맞아! 엄마가 만든 앨범은 지난 1년 동안 찍은 가족사진을 날짜순으로 모아 둔 거라서, 이미 지나간 일을 돌아보는 거지 앞으로 일어날 일을 짐작하게 해 주진 않아. 그래서 predictive가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 중 'predictive'라고 부르기에 가장 알맞은 건?",
-   "choices": [
-    "지난 기록을 보고 내일 비 올 확률을 계산하는 앱",
-    "어제 경기 결과를 깔끔하게 정리해서 보여 주는 앱",
-    "매일 똑같이 행동해서 다음 행동이 뻔히 보이는 친구",
-    "시험지를 한 문제도 틀림없이 정확하게 채점하는 기계"
-   ],
-   "answer_index": 0,
-   "answer": "지난 기록을 보고 내일 비 올 확률을 계산하는 앱",
-   "why": "맞아! 지난 기록을 보고 내일 비 올 확률을 계산해 주니까, 앞으로 일어날 일을 미리 짐작하게 해 주는 거지. 그래서 이 앱이 바로 predictive인 거야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/predictive.webp",
   "alt": "먹구름을 보고 곧 비가 올 걸 짐작하는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

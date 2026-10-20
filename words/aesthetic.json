@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/aesthetic/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/aesthetic/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/aesthetic/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "aesthetic",
  "slug": "aesthetic",
  "url": "https://hibbangyong.com/words/aesthetic/",
@@ -45,28 +45,6 @@
    "answer_index": 0,
    "answer": "색이랑 생김새가 마음에 들어서 골랐어.",
    "why": "맞아! 색이랑 생김새가 마음에 든다는 건 눈으로 봐서 어떤지, 딱 보기에 관한 거잖아. 그게 바로 aesthetic이야. 튼튼함이나 값이 아니라 멋·모양 얘기라서 그게 정답인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "형이 손으로 그림을 정말 잘 그리는 '재주'가 있어. 이 그림 그리는 솜씨·재능을 두고 'aesthetic'이라고 부르면 맞을까?",
-   "choices": [
-    "응, 맞아",
-    "아니, 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 아니야",
-   "why": "맞아! 그림 그리는 재주는 손으로 잘 만들어내는 솜씨거든. aesthetic은 다 만든 그림이 눈으로 보기에 멋진지 어떤지를 말하는 거라서, 솜씨 자체를 aesthetic이라고 하면 안 되는 거야. 딱 갈라낸 거야!"
-  },
-  {
-   "type": "ox",
-   "question": "친구가 가방에 키링 장식 하나를 '덧붙여 꾸민 것'만 딱 가리키며, 그 장식이 바로 'aesthetic'의 뜻이라고 했어. 'aesthetic'이 이렇게 '덧붙인 장식'만 가리키는 말일까?",
-   "choices": [
-    "응, 맞아",
-    "아니, 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 아니야",
-   "why": "맞아! aesthetic은 가방이든 신발이든 그 물건 전체가 눈으로 봐서 어떤지, 얼마나 멋져 보이는지를 말하는 거거든. 덧붙인 장식 하나만 딱 가리키는 말이 아니라서, 아니라고 한 네가 바로 맞았어."
   }
  ],
  "synonyms": [],
@@ -98,6 +76,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/aesthetic.webp",
   "alt": "운동화 두 켤레 중 멋진 것 고르기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

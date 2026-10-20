@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/prosecute/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/prosecute/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/prosecute/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "prosecute",
  "slug": "prosecute",
  "url": "https://hibbangyong.com/words/prosecute/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, prosecute 맞아",
    "why": "맞아! 검사가 계좌에서 돈을 빼 갔다는 그 남자를 재판에 걸고, 법정에서 증거를 내밀며 죄를 따졌잖아. 나라 쪽에서 재판에 걸어 죄를 밝히려는 바로 그게 prosecute야."
-  },
-  {
-   "type": "choice",
-   "question": "동네 마트에서 물건이 없어졌고, 한 남자가 범인으로 의심을 받았어. 이 일에서 그 남자를 'prosecute'하는 사람은 누구일까?",
-   "choices": [
-    "그 남자를 붙잡아 경찰서로 데려간 경찰관",
-    "법정에서 그 남자가 훔쳤다며 증거를 내미는 검사",
-    "법정에서 그 남자 편에 서서 감싸 주는 변호사",
-    "재판 끝에 벌을 몇 달로 할지 정하는 판사"
-   ],
-   "answer_index": 1,
-   "answer": "법정에서 그 남자가 훔쳤다며 증거를 내미는 검사",
-   "why": "맞아! 검사는 법정에서 그 남자가 훔쳤다며 증거를 내밀고 죄를 따지잖아. 나라 쪽에서 그 사람을 재판에 걸어 죄를 밝히려는 거, 바로 그게 prosecute야."
-  },
-  {
-   "type": "ox",
-   "question": "한 여자가 술을 마시고 운전했다는 혐의로 재판을 받게 됐어. 변호사가 법정에서 그 여자 편에 서서 그녀를 감싸 주며 말했어. 변호사가 그 여자에게 한 이 일, 'prosecute'야?",
-   "choices": [
-    "응, prosecute 맞아",
-    "아니, prosecute 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, prosecute 아니야",
-   "why": "맞아! 이 변호사는 재판받는 그 여자 편에 서서 감싸 주는 쪽이야. prosecute는 나라 쪽에서 그 여자의 죄를 따지는 일이라, 감싸 주는 변호사 일과는 정반대거든(감싸 주는 건 defend야)."
   }
  ],
  "synonyms": [],

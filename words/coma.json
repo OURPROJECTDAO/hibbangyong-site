@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/coma/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/coma/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/coma/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "coma",
  "slug": "coma",
  "url": "https://hibbangyong.com/words/coma/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, coma 맞아",
    "why": "맞아! 형은 가족이 매일 이름을 부르고 볼을 쓰다듬어도 눈을 안 뜨고 아무 반응이 없잖아. 깨워도 못 깨는 상태가 3주째 이어지고 있으니까 바로 그게 coma인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "감기약을 먹은 누나가 소파에 멍하니 앉아 꾸벅꾸벅 졸고 있어. 엄마가 \"약 먹었어?\" 하고 묻자 누나가 눈을 반쯤 뜨고 \"응…\" 하고 대답했어. 누나의 지금 상태는 'coma'일까?",
-   "choices": [
-    "응, coma 맞아",
-    "아니, coma 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, coma 아니야",
-   "why": "맞아! 엄마가 약 먹었냐고 물으니까 누나가 눈을 반쯤 뜨고 \"응…\" 하고 대답했잖아. 묻는 말에 대답할 수 있으면 깨어 있는 거고, coma는 이름을 불러도 아무 반응이 없는 거라서 누나는 그냥 약 먹고 졸린 거야."
-  },
-  {
-   "type": "choice",
-   "question": "병원에 있는 네 사람 이야기야. 이 중에서 'coma' 상태인 사람은?",
-   "choices": [
-    "마취에서 깨어나는 중이라, 몇 시간째 묻는 말에 느리게 대답하는 환자",
-    "머리를 부딪쳐 쓰러졌다가, 몇 분 뒤 이름을 부르자 눈을 뜬 환자",
-    "뇌에 병이 나서 쓰러진 뒤, 두 주째 이름을 불러도 눈을 안 뜨는 환자",
-    "밤새 간호하다 의자에서 깊이 잠들었는데, 어깨를 흔들자 눈을 뜬 보호자"
-   ],
-   "answer_index": 2,
-   "answer": "뇌에 병이 나서 쓰러진 뒤, 두 주째 이름을 불러도 눈을 안 뜨는 환자",
-   "why": "맞아! 뇌에 병이 나서 쓰러진 뒤로 두 주째 이름을 불러도 눈을 안 뜨잖아. 깨우려 해도 못 깨는 상태가 이렇게 오래 가는 게 바로 coma야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/coma.webp",
   "alt": "병원 침대에서 며칠에서 몇 달째 눈을 뜨지 않는 사람",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

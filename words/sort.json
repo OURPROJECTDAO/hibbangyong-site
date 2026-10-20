@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/sort/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/sort/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/sort/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "sort",
  "slug": "sort",
  "url": "https://hibbangyong.com/words/sort/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, sort 맞아",
    "why": "맞아! 미역국이냐 된장국이냐, 어느 갈래 국이냐를 물어본 거잖아. 국 한 그릇을 콕 집는 게 아니라 갈래를 물은 거라서 딱 sort야."
-  },
-  {
-   "type": "ox",
-   "question": "체육 선생님이 운동장에 모인 아이들을 보고 \"전부 다 똑같이 한 줄로 서\" 하고 말했어. 이게 'sort'를 말한 거야?",
-   "choices": [
-    "응, sort 맞아",
-    "아니, sort 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, sort 아니야",
-   "why": "맞아! 갈래를 나눈 게 아니라 전부 똑같이 한 덩어리로 묶어버린 거잖아. 이건 이 갈래냐 저 갈래냐가 아예 없으니까 sort가 아닌 게 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "우산꽂이에 우산이 여러 자루 꽂혀 있었어. 형이 그중에서 손잡이가 깨진 자기 우산을 딱 집어 들었어. 형이 집어 든 그 우산 한 자루가 'sort'야?",
-   "choices": [
-    "응, 'sort' 맞아",
-    "아니, 'sort' 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 'sort' 아니야",
-   "why": "맞아! 형이 집어 든 건 우산 한 자루, 딱 그거 하나거든. 어느 쪽 우산이냐가 아니라 바로 이 우산이니까 sort가 아닌 게 맞아."
   }
  ],
  "synonyms": [],
@@ -84,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/sort.webp",
   "alt": "밤에 부스럭 소리가 나서 무슨 소리였냐고 묻는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

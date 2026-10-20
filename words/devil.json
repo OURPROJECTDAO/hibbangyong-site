@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/devil/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/devil/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/devil/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "devil",
  "slug": "devil",
  "url": "https://hibbangyong.com/words/devil/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, devil 맞아",
    "why": "맞아! 뿔 달린 존재가 착한 나무꾼 옆에 붙어서 저 사람 도끼를 몰래 네 것이라고 하라고 계속 꼬드겼잖아. 이렇게 나쁜 짓 쪽으로 끌어당기는 존재라서 바로 그게 devil인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "이야기 속 빛나는 존재가 거짓말을 하려던 아이 옆에 서서 \"사실대로 말하면 마음이 편해져\" 하고 착한 쪽으로 이끌었어. 이건 'devil'이야?",
-   "choices": [
-    "응, devil 맞아",
-    "아니, devil 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, devil 아니야",
-   "why": "맞아! 빛나는 존재는 아이 옆에서 사실대로 말하라고 하면서 착한 쪽으로 이끌었잖아. devil은 나쁜 쪽으로 끌어당기는 존재니까, 방향이 정반대인 이건 devil이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "이야기책에 나오는 넷을 아이들이 하나씩 말했어. 이 중에 'devil'은 누구일까?",
-   "choices": [
-    "밤마다 남의 집에 몰래 들어가 값진 물건을 훔쳐 가는 사람",
-    "이빨이 뾰족하고 몸집이 커서 보기만 해도 무서운 큰 짐승",
-    "지옥을 다스리며 사람 마음을 흔들어 자기 편으로 끄는 존재",
-    "길 잃은 아이 손을 잡고 집까지 데려다주는 하얀 날개 존재"
-   ],
-   "answer_index": 2,
-   "answer": "지옥을 다스리며 사람 마음을 흔들어 자기 편으로 끄는 존재",
-   "why": "맞아! 이 존재는 지옥을 다스리고, 사람 마음을 흔들어서 자기 편으로 끌어당기거든. 남까지 나쁜 쪽으로 데려가는 존재, 그게 바로 devil인 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/devil.webp",
   "alt": "만화 속 어깨 위 작은 악마가 훔치라고 속닥이는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

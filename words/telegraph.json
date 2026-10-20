@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/telegraph/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/telegraph/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/telegraph/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "telegraph",
  "slug": "telegraph",
  "url": "https://hibbangyong.com/words/telegraph/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, telegraph 맞아",
    "why": "맞아! 손잡이를 딱딱 두드린 게 전깃줄을 타고 옆 도시까지 가서, 저쪽 사람이 그걸 글자로 풀어 적었잖아. 목소리가 아니라 신호가 간 거, 그게 바로 telegraph인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "옛날 어느 마을에서 아저씨가 편지를 봉투에 넣어 우체부에게 줬고, 우체부는 자전거를 타고 그 봉투를 옆 마을 집까지 직접 갖다줬어. 이게 'telegraph'야?",
-   "choices": [
-    "응, telegraph 맞아",
-    "아니, telegraph 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, telegraph 아니야",
-   "why": "맞아! 아저씨 편지는 봉투 그대로 우체부 손에 실려서 자전거를 타고 옆 마을까지 간 거잖아. 종이가 통째로 사람 손에 실려 가는 건 telegraph가 아니야. telegraph는 종이가 가는 게 아니라 딱딱딱 두드린 신호만 전깃줄을 타고 달려가는 거거든."
-  },
-  {
-   "type": "choice",
-   "question": "아주 옛날, 네 사람이 저 멀리 사는 친척에게 생일 축하 인사를 보냈어. 'telegraph'로 보낸 사람은 누구일까?",
-   "choices": [
-    "전깃줄에 딱딱 신호를 보냈고, 저쪽 사람은 그 신호를 글자로 풀어서 읽었어",
-    "전깃줄에 목소리를 실어 보냈고, 저쪽 사람은 그 말을 귀로 그대로 들었어",
-    "종이에 인사를 적었고, 말을 탄 사람이 그 종이를 멀리까지 들고 달려갔어",
-    "높은 산에 불을 피웠고, 저쪽 사람은 그 연기를 멀리서 보고 알아챘어"
-   ],
-   "answer_index": 0,
-   "answer": "전깃줄에 딱딱 신호를 보냈고, 저쪽 사람은 그 신호를 글자로 풀어서 읽었어",
-   "why": "맞아! 딱딱 두드린 신호가 전깃줄을 타고 달려가고, 저쪽에서 그걸 글자로 풀어 읽었잖아. 목소리가 아니라 신호가 간 거, 그게 바로 telegraph인 거야. 급한 소식이든 생일 축하든 다 이렇게 보냈거든."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/telegraph.webp",
   "alt": "전깃줄을 타고 딱딱 신호가 저 멀리까지 달려가는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

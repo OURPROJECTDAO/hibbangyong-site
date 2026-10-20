@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/sharp/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/sharp/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/sharp/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "sharp",
  "slug": "sharp",
  "url": "https://hibbangyong.com/words/sharp/",
@@ -45,28 +45,6 @@
    "answer_index": 0,
    "answer": "방금 연필깎이로 뾰족하게 깎은 연필",
    "why": "맞아! 방금 깎은 연필은 끝이 가늘고 뾰족해서 손끝을 콕 누르면 따끔하잖아. 그렇게 끝이 가늘어서 잘 찌르는 게 바로 sharp인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "할머니가 바느질을 하려고 반짇고리에서 바늘 하나를 꺼내 실을 꿰었어. 이 바늘 끝, 'sharp'해?",
-   "choices": [
-    "응, sharp 맞아",
-    "아니, sharp 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, sharp 맞아",
-   "why": "맞아! 바늘 끝은 아주 가늘고 뾰족해서 콕 찌르면 따끔하잖아. 그렇게 잘 찌르는 게 바로 sharp인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "체육관 바닥에 굴러다니던 탁구공을 주워서 손바닥 위에 올려놨어. 이 탁구공, 'sharp'해?",
-   "choices": [
-    "응, sharp 맞아",
-    "아니, sharp 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, sharp 아니야",
-   "why": "맞아! 탁구공은 데굴데굴 동그랗기만 하고 뾰족한 끝도, 얇은 날도 없잖아. 손바닥에 올려놔도 하나도 안 따끔하지? 그래서 sharp가 아닌 거야."
   }
  ],
  "synonyms": [],
@@ -86,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/sharp.webp",
   "alt": "방금 깎은 연필 끝을 손끝으로 눌러 따끔한 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

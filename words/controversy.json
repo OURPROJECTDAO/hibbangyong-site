@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/controversy/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/controversy/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/controversy/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "controversy",
  "slug": "controversy",
  "url": "https://hibbangyong.com/words/controversy/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, controversy 맞아",
    "why": "맞아! 도서관을 밤늦게까지 열지 한 가지 일로, 주민들이 두 편으로 나뉘어서 몇 달째 맞다, 틀리다 했잖아. 여러 사람이 오래 편이 갈린 거라서 바로 그게 controversy인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "학교 급식에 과일을 하나 더 주자는 말에, 학생도 선생님도 부모님도 모두 같은 생각이라 그날 바로 정해졌어. 이게 'controversy'야?",
-   "choices": [
-    "응, controversy 맞아",
-    "아니, controversy 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, controversy 아니야",
-   "why": "맞아! 급식에 과일을 하나 더 주자는 말에 학생도 선생님도 부모님도 모두 같은 생각이었고, 그날 바로 정해졌잖아. 생각이 갈리지도 않았고 오래 다투지도 않았으니까, 이건 controversy가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "동네에서 여러 일이 있었어. 이 중에서 'controversy'라고 부를 수 있는 건 어느 거야?",
-   "choices": [
-    "민수랑 동생이 리모컨 때문에 저녁 내내 소리치며 다퉜어.",
-    "새 놀이터 이야기로 동네 사람들이 몇 달째 신나게 떠들었어.",
-    "새 놀이터를 지을지를 두고 동네 사람들이 몇 달째 찬반으로 갈렸어.",
-    "새 놀이터를 짓자는 말에 동네 사람들이 몇 달 내내 모두 찬성했어."
-   ],
-   "answer_index": 2,
-   "answer": "새 놀이터를 지을지를 두고 동네 사람들이 몇 달째 찬반으로 갈렸어.",
-   "why": "맞아! 새 놀이터를 지을지를 두고 동네 사람들이 여럿이, 몇 달이나, 찬성과 반대로 생각이 갈렸잖아. 바로 그게 controversy인 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/controversy.webp",
   "alt": "쉬는 시간 휴대폰 금지 규칙을 두고 학교 사람들이 몇 주째 찬반으로 갈림",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

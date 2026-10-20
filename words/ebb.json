@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/ebb/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/ebb/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/ebb/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "ebb",
  "slug": "ebb",
  "url": "https://hibbangyong.com/words/ebb/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, ebb한 거 맞아",
    "why": "맞아! 귀에 남아 있던 웅웅거림이 한 번에 뚝 끊긴 게 아니라 몇 시간 동안 조금씩 약해졌잖아. 누가 일부러 줄인 것도 아니고 저절로 빠져나간 거라서 바로 그게 ebb인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "아침부터 비가 계속 내려서 운동장 웅덩이의 물이 몇 시간 동안 조금씩 차올랐어. 이 웅덩이 물은 'ebb'한 걸까?",
-   "choices": [
-    "응, ebb한 거 맞아",
-    "아니, ebb한 거 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, ebb한 거 아니야",
-   "why": "맞아! 웅덩이 물이 몇 시간 동안 조금씩 차오른 거라서 ebb가 아니야. ebb는 조금씩 빠져나가며 줄어드는 건데, 이건 방향이 정반대로 늘어난 거거든."
-  },
-  {
-   "type": "ox",
-   "question": "놀이공원에서 한껏 신나 있었는데, 엄마 전화 한 통을 받자마자 그 기분이 한순간에 싹 사라졌어. 이런 경우도 'ebb'야?",
-   "choices": [
-    "응, ebb 맞아",
-    "아니, ebb 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, ebb 아니야",
-   "why": "잘 봤어. 놀이공원에서 신났던 기분이 엄마 전화 한 통에 한순간에 싹 사라졌잖아. ebb는 기분이 조금씩 빠져나가면서 약해지는 거라서, 이렇게 한 번에 끊긴 건 ebb가 아니야."
   }
  ],
  "synonyms": [
@@ -80,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/ebb.webp",
   "alt": "체육대회 뒤 반 분위기가 며칠에 걸쳐 가라앉음",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

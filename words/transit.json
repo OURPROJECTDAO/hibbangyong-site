@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/transit/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/transit/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/transit/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "transit",
  "slug": "transit",
  "url": "https://hibbangyong.com/words/transit/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, in transit 맞아",
    "why": "맞아! 혈액 팩은 혈액원을 이미 나왔고 병원엔 아직 안 닿았잖아. 지금 구급차 안에서 옮겨지는 중이니까 딱 in transit이야."
-  },
-  {
-   "type": "choice",
-   "question": "해외 쇼핑몰에서 산 운동화가 배송 조회에 'in transit'이라고 떠. 지금 운동화는 어떤 상태일까?",
-   "choices": [
-    "창고를 떠나 우리 집 쪽으로 옮겨 가는 중",
-    "아직 공장에서 만들어지는 중",
-    "주문이 취소되어 판매자에게 돌아간 상태",
-    "이미 도착해서 현관 앞에 놓인 상태"
-   ],
-   "answer_index": 0,
-   "answer": "창고를 떠나 우리 집 쪽으로 옮겨 가는 중",
-   "why": "맞아! in transit은 출발은 했는데 아직 도착은 안 한, 옮겨 가는 도중이라는 뜻이야. 창고를 떠나 우리 집 쪽으로 오고 있는 운동화가 딱 그 상태지."
-  },
-  {
-   "type": "ox",
-   "question": "이삿짐을 오늘 밤 방에서 상자에 싸고 있어. 이삿짐 트럭은 내일 아침에 와. 지금 이 짐은 'in transit' 상태야?",
-   "choices": [
-    "응, in transit 맞아",
-    "아니, in transit 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, in transit 아니야",
-   "why": "맞아! 짐은 아직 방에서 상자에 싸는 중이고 트럭은 내일 아침에야 오잖아. 출발도 안 했으니까 옮겨 가는 도중이 아니라서 in transit이 아닌 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/transit.webp",
   "alt": "출발했지만 아직 도착 안 한 짐·사람",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

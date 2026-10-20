@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/scholar/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/scholar/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/scholar/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "scholar",
  "slug": "scholar",
  "url": "https://hibbangyong.com/words/scholar/",
@@ -45,32 +45,6 @@
    "answer_index": 0,
    "answer": "개미가 궁금해서 3년째 개미 책을 찾아 읽고 관찰하며 캐내는 남자아이",
    "why": "맞아! 개미 하나가 궁금해서 3년이나 책 찾아 읽고 관찰하고 자꾸 새로 캐냈잖아. 그렇게 한 가지를 깊이 파고들어서 누구보다 많이 알게 된 사람, 그게 바로 scholar야. 어린애여도 되는 거고."
-  },
-  {
-   "type": "choice",
-   "question": "공원에서 네 가지를 봤어. 이 중에서 'scholar'에 해당하는 것은 뭐야?",
-   "choices": [
-    "벤치 옆 화단에 노란 꽃을 피우고 서 있는 해바라기 한 송이",
-    "돌멩이가 궁금해서 2년째 돌 책을 뒤지고 모으며 깊이 알아가는 할아버지",
-    "잔디밭에서 공을 발로 힘껏 차서 멀리 날려 보내는 동작",
-    "입구 표지판에 검은 글씨로 적혀 있는 숫자 5"
-   ],
-   "answer_index": 1,
-   "answer": "돌멩이가 궁금해서 2년째 돌 책을 뒤지고 모으며 깊이 알아가는 할아버지",
-   "why": "맞아! 돌 하나가 궁금해서 2년이나 책을 뒤지고 모으면서 자꾸 캐낸 거잖아. 그렇게 한 가지를 깊이깊이 파고들어서 누구보다 잘 알게 된 사람, 바로 그게 scholar야."
-  },
-  {
-   "type": "choice",
-   "question": "네 사람 다 뭔가를 굉장히 잘 알아. 그런데 그걸 '알게 된 길'이 저마다 달라. 이 중에서 'scholar'라고 부를 수 있는 사람은 누구야?",
-   "choices": [
-    "한 가지가 궁금해서 몇 년을 책 뒤지고 알아보며 파고들어, 그걸 누구보다 깊이 알게 된 사람",
-    "그 일을 수십 년 손수 해오면서 안 해본 게 없어, 이젠 모르는 게 없어진 사람",
-    "머리가 좋아서 무슨 문제든 그 자리에서 척척 풀어내는 똑똑한 사람",
-    "한 가지를 오래 파는 건 질색이라, 뭐든 겉핥기로만 조금씩 아는 사람"
-   ],
-   "answer_index": 0,
-   "answer": "한 가지가 궁금해서 몇 년을 책 뒤지고 알아보며 파고들어, 그걸 누구보다 깊이 알게 된 사람",
-   "why": "맞아! 한 가지가 궁금해서 몇 년을 책 뒤지고 캐내면서 그 하나를 누구보다 깊이 알게 됐잖아. 공부해서 파고든 그 길, 그게 바로 scholar인 거야."
   }
  ],
  "synonyms": [],
@@ -93,6 +67,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/scholar.webp",
   "alt": "한 가지가 궁금해 몇 년째 책을 뒤지고 알아보며 파고들어 깊이 아는 사람",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

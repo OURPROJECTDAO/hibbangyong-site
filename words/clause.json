@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/clause/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/clause/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/clause/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "clause",
  "slug": "clause",
  "url": "https://hibbangyong.com/words/clause/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, clause 아니야",
    "why": "딱 맞아! 규칙 종이엔 여러 줄이 있는데, clause는 그 안에서 딱 한 줄, 한 가지만 정해 놓은 그 한 토막이거든. 처음부터 끝까지 통째로는 여러 토막이 다 모인 종이 전체라서, 그건 clause가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "우리 반이 지킬 약속을 종이에 쭉 적었어. 이 종이에서 'clause'라고 부를 수 있는 건 어느 거야?",
-   "choices": [
-    "'복도에서는 뛰지 않기'라고 적어 놓은 줄",
-    "처음부터 끝까지, 종이에 적힌 약속을 통째로 다",
-    "맨 위에 큼직하게 쓴 '3반 약속'이라는 제목",
-    "맨 아래에 친구들이 각자 써 넣은 이름들"
-   ],
-   "answer_index": 0,
-   "answer": "'복도에서는 뛰지 않기'라고 적어 놓은 줄",
-   "why": "맞아! '복도에선 뛰지 않기'는 딱 한 가지만 정해 놓은 한 토막이잖아. 규칙 종이에서 그렇게 한 가지만 말하는 한 줄, 바로 그게 clause야."
-  },
-  {
-   "type": "ox",
-   "question": "어른들이 집을 빌릴 때 쓰는 약속 서류에 '청소는 토요일에 한다'고 한 가지만 딱 정해 놓은 한 줄이 있어. 이 한 줄도 clause라고 부를 수 있어?",
-   "choices": [
-    "응, clause 맞아",
-    "아니, clause 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, clause 맞아",
-   "why": "맞아! 집을 빌릴 때 쓰는 약속 서류에서 '청소는 토요일에 한다'처럼 한 가지만 딱 정해 놓은 한 줄이잖아. 이렇게 한 가지를 정한 한 줄이면 특별한 게 없어도 바로 clause인 거야."
   }
  ],
  "synonyms": [
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/clause.webp",
   "alt": "'복도에선 뛰지 않기'처럼 한 가지를 정한 종이 속 한 토막 (child 앵커)",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

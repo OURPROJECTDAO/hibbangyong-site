@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/forward/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/forward/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/forward/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "forward",
  "slug": "forward",
  "url": "https://hibbangyong.com/words/forward/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, forward 맞아",
    "why": "맞아! 빈자리 쪽으로 두 걸음 걸어갔다는 건 몸이 향한 앞쪽으로 나아간 거잖아. 딱 그게 forward인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "현관에서 신발을 신다가 문이 열릴 것 같아서, 얼굴은 문을 본 채로 등 뒤쪽으로 한 걸음 물러났어. 이게 'forward'야?",
-   "choices": [
-    "응, forward 맞아",
-    "아니, forward 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, forward 아니야",
-   "why": "맞아! 얼굴은 문을 보고 있어도 몸이 간 쪽은 등 뒤잖아. 앞이 아니라 뒤로 갔으니까 이건 forward가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "교실에서 네 명이 각자 움직였어. 'forward'로 움직인 사람은 누구야?",
-   "choices": [
-    "의자에 앉은 채 책상 쪽으로 몸을 쑥 기울인 아이",
-    "친구가 지나가게 옆으로 한 걸음 비켜선 아이",
-    "칠판이 안 보여서 뒤쪽 자리로 물러난 아이",
-    "시험을 잘 봐서 기분이 쭉쭉 좋아진 아이"
-   ],
-   "answer_index": 0,
-   "answer": "의자에 앉은 채 책상 쪽으로 몸을 쑥 기울인 아이",
-   "why": "맞아! 앉은 자리 그대로여도 몸이 향한 앞쪽으로 쑥 갔잖아. 걷든 안 걷든 앞쪽을 향하면 그게 바로 forward인 거야."
   }
  ],
  "synonyms": [
@@ -84,6 +60,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/forward.webp",
   "alt": "줄 서서 앞사람 따라 한 발짝 나아가기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

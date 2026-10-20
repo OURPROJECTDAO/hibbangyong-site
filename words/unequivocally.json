@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/unequivocally/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/unequivocally/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/unequivocally/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "unequivocally",
  "slug": "unequivocally",
  "url": "https://hibbangyong.com/words/unequivocally/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, unequivocally 맞아",
    "why": "맞아! 기사님이 302호 거라고 말하고 301호 거 아니라고까지 못 박아서, 몇 호 것인지 다르게 알아들을 틈이 없었잖아. 한 가지로만 읽히는 말, 바로 그게 unequivocally야."
-  },
-  {
-   "type": "ox",
-   "question": "친구가 헤어지면서 \"그럼 그때 보자.\"라고 했어. 그런데 '그때'가 오늘 저녁인지 다음 주인지, 두 가지로 다 들렸어. 친구가 이렇게 말한 방식이 'unequivocally'야?",
-   "choices": [
-    "응, unequivocally 맞아",
-    "아니, unequivocally 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, unequivocally 아니야",
-   "why": "맞아! 친구가 한 \"그럼 그때 보자.\"는 그때가 오늘 저녁인지 다음 주인지 두 가지로 다 들렸잖아. unequivocally는 딱 한 가지로만 들려야 하니까 이 말은 반대로 애매하게 한 말이야."
-  },
-  {
-   "type": "ox",
-   "question": "도핑 검사를 해 봤더니 그 선수 몸에서 금지 약물이 전혀 나오지 않았어. 결과를 두고 다른 해석이 나올 구석도 없었어. 사람이 한 말이 아니라 검사 결과인데, 이런 경우도 'unequivocally'야?",
-   "choices": [
-    "응, unequivocally 맞아",
-    "아니, unequivocally 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, unequivocally 맞아",
-   "why": "맞아! 검사 결과에 금지 약물이 전혀 없었고 다른 해석이 나올 구석도 없었잖아. 이렇게 한 가지로만 읽히면 사람이 한 말이 아니어도 unequivocally라고 할 수 있어."
   }
  ],
  "synonyms": [],
@@ -84,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/unequivocally.webp",
   "alt": "선생님이 작은 목소리로 시험 날짜가 바뀌지 않는다고 말함",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

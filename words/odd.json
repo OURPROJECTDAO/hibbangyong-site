@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/odd/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/odd/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/odd/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "odd",
  "slug": "odd",
  "url": "https://hibbangyong.com/words/odd/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, odd 맞아",
    "why": "맞아! 체육 시간엔 운동화를 신는 게 맞는데 한쪽은 장화, 한쪽은 실내화잖아. 어? 왜 저러지? 하고 갸우뚱하게 되지? 딱 안 맞아서 그게 바로 odd인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "비가 쏟아지는 아침에 형이 우비를 입고 장화를 신고 학교에 갔어. 이거 'odd'해?",
-   "choices": [
-    "응, odd 맞아",
-    "아니, odd 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, odd 아니야",
-   "why": "맞아! 비 오는 날 우비랑 장화는 딱 맞는 옷이잖아. 갸우뚱할 구석이 하나도 없으니까 odd가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "친구 네 명이 오늘 본 일을 하나씩 말했어. 이 중에서 'odd'라고 할 만한 건 누구 이야기일까?",
-   "choices": [
-    "옆집에 새로 온 형이 깜깜한 밤에 마당에서 잔디를 깎고 있었어",
-    "학교 끝나고 지나간 지하 주차장이 컴컴하고 조용해서 나는 좀 무서웠어",
-    "오늘 우리 반 급식이 열두 시 반에 나왔어. 늘 그 시간에 나와",
-    "우리 동네에 삼 년 만에 눈이 와서 다 같이 신났어"
-   ],
-   "answer_index": 0,
-   "answer": "옆집에 새로 온 형이 깜깜한 밤에 마당에서 잔디를 깎고 있었어",
-   "why": "맞아! 밤엔 깜깜해서 잔디 안 깎잖아. 그 형을 몰라도, 밤이랑 잔디 깎기가 서로 안 맞으니까 어? 하게 되는 거야. 바로 그게 odd인 거야."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/odd.webp",
   "alt": "해가 쨍쨍한 아침에 우산을 챙겨 나간 아빠",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

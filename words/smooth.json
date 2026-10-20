@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/smooth/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/smooth/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/smooth/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "smooth",
  "slug": "smooth",
  "url": "https://hibbangyong.com/words/smooth/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, smooth 아니야",
    "why": "맞아! 시멘트 블록은 까끌까끌 우툴두툴해서 손바닥이 쓱 안 지나가거든. 걸리는 데 없이 반질반질해야 smooth인데 이건 반대인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "목욕탕 거울에 김이 서려서 손바닥으로 한 번 닦았어. 그 거울 면을 손끝으로 훑었어. 이 거울 면은 'smooth'야?",
-   "choices": [
-    "응, smooth 맞아",
-    "아니, smooth 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, smooth 맞아",
-   "why": "맞아! 손끝으로 훑어보면 거울은 걸리는 데가 하나도 없이 쓱 지나가지. 우툴두툴한 데가 없이 반질반질하니까 바로 그게 smooth인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 사람이 물건을 만져보고 느낌을 말했어. 그 물건이 'smooth'하다고 할 수 있는 사람은?",
-   "choices": [
-    "유리컵 겉을 만졌더니 손이 쓱, 걸리는 데가 하나도 없었어",
-    "솜인형을 눌렀더니 말랑 폭신 들어갔어",
-    "나무껍질을 만졌더니 우툴두툴 결이 잡혔어",
-    "사포를 문질렀더니 까끌까끌 손이 걸렸어"
-   ],
-   "answer_index": 0,
-   "answer": "유리컵 겉을 만졌더니 손이 쓱, 걸리는 데가 하나도 없었어",
-   "why": "맞아! 손이 쓱 지나가고 걸리는 데가 하나도 없었잖아. 표면에 걸릴 게 없이 반질반질한 거, 그게 바로 smooth야."
   }
  ],
  "synonyms": [],
@@ -85,6 +61,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/smooth.webp",
   "alt": "강가 돌을 만지니 반질반질한 앵커 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

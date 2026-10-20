@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/percentage/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/percentage/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/percentage/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "percentage",
  "slug": "percentage",
  "url": "https://hibbangyong.com/words/percentage/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, percentage 아니야",
    "why": "잘 골랐어, 아니야가 맞아! '모두 60대'는 주차장 차를 전부 센 숫자라서 percentage가 아니거든. percentage는 60대 중에 30대처럼 일부만 떼어 봤을 때, 그게 얼마만큼인지 말하는 거야. 60대 중에 30대면 딱 반이니까 50퍼센트라고 해."
-  },
-  {
-   "type": "ox",
-   "question": "베란다에 화분이 10개 있는데, 그중 4개에 꽃이 폈어. 누나가 \"꽃 핀 화분은 40이야\"라고 했어. 누나가 말한 40은 꽃 핀 화분의 'percentage'야?",
-   "choices": [
-    "응, percentage 맞아",
-    "아니, percentage 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, percentage 맞아",
-   "why": "맞아! 화분 10개 중에 4개에 꽃이 폈으니까, 화분이 100개라고 치면 꽃 핀 화분은 40개가 되거든. 누나는 전체를 100으로 맞춰서 말한 거라서, 그 40이 바로 꽃 핀 화분의 percentage인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "수족관 물고기 이야기를 하고 있어. 이 중에서 'percentage'를 말하는 건?",
-   "choices": [
-    "수족관에 물고기가 다 합쳐 얼마나 있는지",
-    "수족관 물고기 중에 빨간 물고기가 얼마만큼 차지하는지",
-    "수족관 물고기가 하루에 먹이를 얼마나 먹는지",
-    "수족관 물고기가 한 해에 얼마나 늘었는지"
-   ],
-   "answer_index": 1,
-   "answer": "수족관 물고기 중에 빨간 물고기가 얼마만큼 차지하는지",
-   "why": "맞아! 수족관 물고기 전체 중에서 빨간 물고기가 얼마만큼 차지하는지 보는 거라서, 바로 그게 percentage인 거야. 물고기 전체를 100으로 쳤을 때 빨간 물고기가 얼마인지 말하는 거거든."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/percentage.webp",
   "alt": "우리 반에서 안경 쓴 아이 세기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

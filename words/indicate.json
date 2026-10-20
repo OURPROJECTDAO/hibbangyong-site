@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/indicate/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/indicate/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/indicate/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "indicate",
  "slug": "indicate",
  "url": "https://hibbangyong.com/words/indicate/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, indicate 맞아",
    "why": "맞아! 빨간불이 켜진 걸 보고 지금 멈춰야 하는구나 하고 알게 됐잖아. 신호등이 말은 한 마디도 안 했는데 불빛 하나가 표시가 돼서 알려준 거야. 복도 벽 화살표랑 똑같은 일을 한 거지."
-  },
-  {
-   "type": "ox",
-   "question": "형이 냉장고에 있던 우유를 마지막 한 방울까지 마셨어. 그러고는 빈 우유통을 원래 있던 칸에 똑같이 세워 뒀어. 형이 한 이 일, 'indicate'야?",
-   "choices": [
-    "응, indicate 맞아",
-    "아니, indicate 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, indicate 아니야",
-   "why": "맞아! 형은 우유가 없어진 걸 알 수 있는 표시를 하나도 안 남겼거든. 통까지 원래 자리에 똑같이 세워 뒀으니, 냉장고를 열어 봐도 아무도 모르잖아. 알게 해주는 거랑은 반대인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 가지 일이 있었어. 이 중에서 'indicate'라고 할 수 있는 건 뭘까?",
-   "choices": [
-    "문에 붙은 그림 하나만 보고, 이 방이 화장실인 걸 알게 된 것",
-    "친구가 새로 산 시계를 손목에서 풀어 내 손에 쥐여 주고 구경하게 한 것",
-    "형이 라면 끓이는 순서를 하나하나 말해 줘서 끓일 줄 알게 된 것",
-    "동생이 부서진 장난감을 이불 밑에 넣어 아무도 모르게 한 것"
-   ],
-   "answer_index": 0,
-   "answer": "문에 붙은 그림 하나만 보고, 이 방이 화장실인 걸 알게 된 것",
-   "why": "맞아! 그림 하나가 딱 붙어 있는 것뿐인데, 그걸 보고 아 여기가 화장실이구나 알게 됐잖아. 표시 하나가 무슨 일인지 알게 해주는 것 — 그게 바로 indicate야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/indicate.webp",
   "alt": "복도 벽 화살표가 갈 방향을 알려주는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

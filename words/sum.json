@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/sum/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/sum/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/sum/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "sum",
  "slug": "sum",
  "url": "https://hibbangyong.com/words/sum/",
@@ -45,30 +45,6 @@
    "answer_index": 0,
    "answer": "셋을 다 모으면 나오는 4점",
    "why": "맞아! 셋의 점수를 하나도 빼놓지 않고 다 더하니까 4가 나온 거잖아. 그렇게 모아서 나온 하나의 수가 바로 sum이야."
-  },
-  {
-   "type": "choice",
-   "question": "텃밭에서 방울토마토를 땄어. 화요일에 5개, 목요일에 2개, 토요일에 6개 땄어. 이 중에서 'sum'에 해당하는 수는 어떤 걸까?",
-   "choices": [
-    "맨 처음 날 딴 5개",
-    "가장 적게 딴 날의 2개",
-    "세 날 다 더한 13개",
-    "맨 마지막 날 딴 6개"
-   ],
-   "answer_index": 2,
-   "answer": "세 날 다 더한 13개",
-   "why": "맞아! 세 날에 딴 걸 하나도 빼놓지 않고 다 더해서 나온 수가 13이잖아. 그렇게 여럿을 한 덩어리로 모아 나온 하나의 수, 그게 바로 sum인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "내 연필은 9자루, 동생 연필은 2자루야. 내가 동생보다 7자루 더 많아. 이 7이 'sum'이야?",
-   "choices": [
-    "응, sum 맞아",
-    "아니, sum 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, sum 아니야",
-   "why": "그렇지, 이건 sum이 아니야. 9에서 2를 빼서 얼마나 더 많은지 본 거잖아. 두 사람 연필을 다 모으면 11자루, 그 11이 sum인 거야."
   }
  ],
  "synonyms": [
@@ -92,6 +68,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/sum.webp",
   "alt": "세 사람 점수를 다 더해 나온 팀 점수",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/enthusiastic/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/enthusiastic/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/enthusiastic/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "enthusiastic",
  "slug": "enthusiastic",
  "url": "https://hibbangyong.com/words/enthusiastic/",
@@ -45,32 +45,6 @@
    "answer_index": 2,
    "answer": "심자는 말이 나오자 모종삽을 들고 와 먼저 심기 시작한 아이",
    "why": "맞아! 심자는 말이 나오자마자 모종삽 들고 먼저 심기 시작했잖아. 하고 싶은 마음이 몸보다 먼저 간 거야. 바로 그게 enthusiastic이야."
-  },
-  {
-   "type": "choice",
-   "question": "방과 후에 학급 텃밭에 상추 모종을 심는 일이 생겼어. 다음 중 'enthusiastic'한 아이는 누구야?",
-   "choices": [
-    "모종 얘기가 나오자 삽을 챙겨 와서 어디에 심을지 먼저 말하는 아이",
-    "모종 옆에 앉아서 흙에 손가락으로 그림을 그리고 있는 아이",
-    "모종 상자를 세어 보고 몇 개인지 칠판에 적어 두는 아이",
-    "모종을 심는 동안 창가에서 물뿌리개를 닦고 있는 아이"
-   ],
-   "answer_index": 0,
-   "answer": "모종 얘기가 나오자 삽을 챙겨 와서 어디에 심을지 먼저 말하는 아이",
-   "why": "맞아! 모종 얘기 나오자마자 삽부터 챙기고 어디 심을지 먼저 말한 건, 그 일이 좋아서 몸이 먼저 나간 거잖아. 마음이 그 일한테 쏠려서 앞장선 거니까 바로 그게 enthusiastic이야."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 모둠 청소를 맡았어. 이 중에 'enthusiastic'하다고 할 수 있는 아이는 누구야?",
-   "choices": [
-    "청소 얘기가 나오자마자 밀대를 챙겨 와서 어디부터 할지 먼저 정하는 아이",
-    "청소 시간 내내 큰 소리로 노래를 부르며 여기저기 뛰어다니는 아이",
-    "구석 먼지까지 아주 깔끔하게 닦아 놓아서 칭찬을 받는 아이",
-    "청소가 싫어서 한숨을 쉬면서도 시키는 만큼은 딱 해내는 아이"
-   ],
-   "answer_index": 0,
-   "answer": "청소 얘기가 나오자마자 밀대를 챙겨 와서 어디부터 할지 먼저 정하는 아이",
-   "why": "맞아! 청소 얘기 나오자마자 밀대부터 챙기고 어디부터 할지 정한 건, 그 일한테 마음이 벌써 가 있어서 몸이 먼저 움직인 거거든. 남이 시키기 전에 스스로 앞장선 거, 그게 바로 enthusiastic이야."
   }
  ],
  "synonyms": [
@@ -86,6 +60,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/enthusiastic.webp",
   "alt": "그림 그릴 사람을 묻자 붓통을 먼저 들고 나온 아이",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

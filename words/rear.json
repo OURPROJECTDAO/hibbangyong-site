@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/rear/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/rear/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/rear/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "rear",
  "slug": "rear",
  "url": "https://hibbangyong.com/words/rear/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, rear 맞아",
    "why": "맞아! 맨 앞 칸에서 제일 멀리 떨어진 마지막 칸 끝이니까 그게 기차의 뒤쪽이잖아. 앞의 반대쪽 끝, 바로 그게 rear인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "현우가 자동차를 살펴봤어. 헤드라이트와 번호판이 달린, 차가 나아가는 방향 맨 끝부분을 짚었어. 이게 자동차의 'rear'야?",
-   "choices": [
-    "응, rear 맞아",
-    "아니, rear 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, rear 아니야",
-   "why": "맞아! 헤드라이트랑 번호판이 달리고 차가 앞으로 나아가는 그 맨 끝은 앞쪽이거든. rear는 그 반대편, 트렁크가 있는 뒤쪽 부분이야."
-  },
-  {
-   "type": "choice",
-   "question": "민수가 자기 집을 그림으로 그렸어. 이 집의 'rear'는 어디를 말할까?",
-   "choices": [
-    "대문이 달려 있는, 앞마당 쪽 벽",
-    "앞마당 반대편, 뒤뜰이 있는 쪽 벽",
-    "집 뒤에 따로 서 있는 커다란 나무",
-    "집 아래에 깔려 있는 바닥과 땅"
-   ],
-   "answer_index": 1,
-   "answer": "앞마당 반대편, 뒤뜰이 있는 쪽 벽",
-   "why": "맞아! 앞마당 반대쪽, 뒤뜰이 있는 그 벽이 바로 집의 뒤쪽 부분이거든. 집이 앞을 보고 서 있다고 하면 그 등짝 같은 쪽 — 그게 rear야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/rear.webp",
   "alt": "긴 버스의 앞 운전석과 반대쪽 맨 뒷자리",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

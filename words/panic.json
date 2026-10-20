@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/panic/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/panic/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/panic/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "panic",
  "slug": "panic",
  "url": "https://hibbangyong.com/words/panic/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, panic 맞아",
    "why": "맞아! 가슴이 쿵 하고 머리가 하얘져서 팔을 마구 휘젓고 소리만 질렀잖아. 무서운데 뭘 해야 할지 생각이 하나도 안 나는 그 상태, 그게 바로 panic이야."
-  },
-  {
-   "type": "ox",
-   "question": "엘리베이터가 갑자기 층 사이에서 멈췄어. 서연이는 놀랐지만 벽에 있는 비상벨 버튼을 찾아 누르고, 관리실 아저씨 목소리에 몇 층인지 또박또박 말했어. 이게 'panic'이야?",
-   "choices": [
-    "응, panic 맞아",
-    "아니, panic 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, panic 아니야",
-   "why": "그렇지! 서연이는 놀라긴 했지만 비상벨을 찾아 누르고 몇 층인지 또박또박 말했잖아. 무서워도 머리가 그대로 돌아간 거야. panic은 머리가 하얘져서 뭘 해야 할지 모르게 되는 건데, 서연이는 할 일을 하나씩 해냈으니까 panic이 아니야."
-  },
-  {
-   "type": "choice",
-   "question": "네 사람이 무서운 일을 겪었어. 이 중에서 'panic'에 빠진 사람은 누구야?",
-   "choices": [
-    "불이 꺼지자 소리를 지르며 아무 쪽으로나 뛰어나간 아저씨",
-    "불이 꺼지자 무섭다면서 손전등을 찾아 켠 아주머니",
-    "내일 병원 갈 일이 며칠째 마음에 걸려 잠을 설친 언니",
-    "큰 소리에 어깨를 움찔했다가 곧 웃으며 하던 일을 이어간 오빠"
-   ],
-   "answer_index": 0,
-   "answer": "불이 꺼지자 소리를 지르며 아무 쪽으로나 뛰어나간 아저씨",
-   "why": "맞아! 무섭기만 한 게 아니라 머리가 하얘져서 아무 쪽으로나 막 뛰어나간 거잖아. 무서움에 확 덮쳐서 뭘 해야 할지 생각이 안 되는 거, 그게 바로 panic이야."
   }
  ],
  "synonyms": [],
@@ -83,6 +59,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/panic.webp",
   "alt": "사람 많은 곳에서 엄마 손을 놓쳐 엄마가 안 보이는 순간",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

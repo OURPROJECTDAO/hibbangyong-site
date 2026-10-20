@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/mock/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/mock/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/mock/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "mock",
  "slug": "mock",
  "url": "https://hibbangyong.com/words/mock/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, mock 아니야",
    "why": "맞아! 형은 동생을 우습게 본 게 아니라 진짜 잘했다고 치켜세워 준 거잖아. 이건 깎아내리는 거랑 정반대라서 mock이 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "민수가 그린 그림을 반 아이들에게 보여줬어. 그러자 뒷자리 아이가 코를 찡그리며 \"이걸 그림이라고?\" 하고, 민수가 붓 잡던 손 모양을 우스꽝스럽게 흉내 냈어. 이게 'mock'이야?",
-   "choices": [
-    "응, mock 맞아",
-    "아니, mock 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, mock 맞아",
-   "why": "맞아! 코를 찡그리며 이걸 그림이라고 하고 손 모양까지 우스꽝스럽게 흉내 낸 건, 민수랑 민수 그림을 우습게 보고 깎아내린 거잖아. 그게 바로 mock이야."
-  },
-  {
-   "type": "choice",
-   "question": "친구가 방학에 할 계획을 발표했어. 네 아이가 각각 이렇게 했대. 'mock'을 한 아이는 누구일까?",
-   "choices": [
-    "코웃음을 치면서 \"그게 되겠냐\" 하고 되물었다",
-    "그 목소리가 멋있어서 똑같은 목소리로 따라 읽었다",
-    "그 계획이 마음에 안 든다며 화를 내고 소리를 질렀다",
-    "그 계획에서 어디를 고치면 좋을지 진지하게 짚어 주었다"
-   ],
-   "answer_index": 0,
-   "answer": "코웃음을 치면서 \"그게 되겠냐\" 하고 되물었다",
-   "why": "맞아! 코웃음을 치면서 그게 되겠냐 하고 되물은 건, 친구 계획을 아예 우습게 본 거잖아. 흉내를 안 냈어도, 얕잡아 보고 툭 찌른 그 마음이 바로 이거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/mock.webp",
   "alt": "친구가 우주비행사가 되겠다고 말하자 옆 아이들이 \"네가? 됐다 그래\" 하고 낮춰 보는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

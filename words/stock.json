@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/stock/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/stock/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/stock/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "stock",
  "slug": "stock",
  "url": "https://hibbangyong.com/words/stock/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, stock 맞아",
    "why": "맞아! 아직 안 뜯고 나중에 쓰려고 남겨 둔 색종이잖아. 그렇게 안 쓰고 남아 있는 몫이 바로 stock인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "보건실 상자에 있던 반창고를 오늘 아이들에게 다 나눠 줘서 상자가 텅 비었어. 남은 게 하나도 없어. 이게 'stock'이야?",
-   "choices": [
-    "응, stock 맞아",
-    "아니, stock 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, stock 아니야",
-   "why": "맞아! 반창고를 하나도 안 남기고 다 나눠 줬으면 남아 있는 게 없잖아. 남아 있는 게 없으면 stock이 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "세면대 아래 칸을 열어 보니 아직 뜯지 않은 치약이 딱 한 개 들어 있어. 지금 쓰는 게 다 떨어지면 쓰려고 둔 거야. 이렇게 하나뿐인 것도 'stock'이야?",
-   "choices": [
-    "응, stock 맞아",
-    "아니, stock 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, stock 맞아",
-   "why": "맞아! 아직 안 뜯고 남아 있으면 딱 하나여도 stock이야. 개수가 많아서 stock인 게 아니라, 나중에 쓰려고 안 건드리고 남겨 둔 거라서 stock인 거거든."
   }
  ],
  "synonyms": [],
@@ -84,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/stock.webp",
   "alt": "부엌 찬장에 놓인 라면 여섯 봉지",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/terrific/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/terrific/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/terrific/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "terrific",
  "slug": "terrific",
  "url": "https://hibbangyong.com/words/terrific/",
@@ -45,32 +45,6 @@
    "answer_index": 2,
    "answer": "폭죽이 터질 때마다 소리가 가슴을 쿵 울렸어",
    "why": "맞아! 소리가 가슴을 쿵 울렸다는 건 그냥 큰 게 아니라, 보통 듣던 소리를 확 넘어서 몸까지 놀란 거잖아. 그렇게 정도가 확 세서 놀랐을 때 쓰는 게 바로 terrific이야."
-  },
-  {
-   "type": "choice",
-   "question": "지호가 산에서 폭포를 보고 와서 네 가지를 얘기했어. 그중에 'terrific'이라고 말할 만한 건 어느 거야?",
-   "choices": [
-    "물이 쏟아지는 힘에 손을 대자마자 팔이 확 밀려났어",
-    "폭포 옆에 선 바위가 지호네 집채만큼 컸어",
-    "폭포 아래 웅덩이에 물고기가 백 마리 넘게 헤엄쳤어",
-    "폭포에서 마을까지 걸어 내려오는 길이 한참 이어졌어"
-   ],
-   "answer_index": 0,
-   "answer": "물이 쏟아지는 힘에 손을 대자마자 팔이 확 밀려났어",
-   "why": "맞아! 물살이 얼마나 센지 손을 대자마자 팔이 확 밀려났잖아. 힘이 보통을 확 넘어서 놀란 거, 그게 바로 terrific이야."
-  },
-  {
-   "type": "choice",
-   "question": "눈 온 아침에 지호가 집 앞에서 본 네 가지야. 그중에 'terrific'이라고 말할 만한 건 어느 거야?",
-   "choices": [
-    "지붕 끝에 고드름이 열두 개나 매달렸어",
-    "눈이 밤새 쌓여서 대문이 절반이나 파묻혔어",
-    "마당에 세운 눈사람이 지호 키만큼 컸어",
-    "지호가 눈길을 뽀득뽀득 밟으며 학교에 갔어"
-   ],
-   "answer_index": 1,
-   "answer": "눈이 밤새 쌓여서 대문이 절반이나 파묻혔어",
-   "why": "맞아! 대문이 절반이나 파묻힐 만큼 눈이 왔다는 건, 밤새 눈 오는 보통 겨울을 훌쩍 넘어선 거잖아. 와 이게 무슨 일이야, 하고 놀랄 정도라서 바로 그게 terrific인 거야."
   }
  ],
  "synonyms": [],
@@ -90,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/terrific.webp",
   "alt": "롤러코스터가 꼭대기에서 뚝 떨어질 때 귓가에 몰아치는 바람",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

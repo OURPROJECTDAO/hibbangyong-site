@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/swear/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/swear/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/swear/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "swear",
  "slug": "swear",
  "url": "https://hibbangyong.com/words/swear/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, swear 아니야",
    "why": "맞아! 이건 나를 걸고 하는 말이 아니라, 진짜 있었던 일을 다르게 꾸며서 빠져나가려는 거잖아. 그러니까 swear는 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "형이 동생한테 \"내일 아침에 내가 네 자전거 꼭 닦아 놓을게. 안 닦아 놨으면 내 용돈 한 달치 너 가져도 좋아\"라고 말했어. 이건 'swear'야?",
-   "choices": [
-    "응, swear 맞아",
-    "아니, swear 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, swear 맞아",
-   "why": "맞아! 형이 자기 용돈 한 달치를 딱 걸었잖아. 말에다 자기를 붙여 놓은 거니까 바로 그게 swear인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이 모두 아주 진지하고 세게 말했어. 이 중에 'swear'한 아이는 누구일까?",
-   "choices": [
-    "아빠 앞에서 손을 들고, 이게 거짓말이면 벌 받겠다고 말한 아이",
-    "다들 아니라고 하는데도 자기 말이 맞다고 계속 밀어붙인 아이",
-    "한 번만 봐 달라고 엄마 옷을 잡고 간절하게 매달린 아이",
-    "너무 화가 나서 목소리를 크게 높여 따지고 든 아이"
-   ],
-   "answer_index": 0,
-   "answer": "아빠 앞에서 손을 들고, 이게 거짓말이면 벌 받겠다고 말한 아이",
-   "why": "맞아! 손을 들고 이게 거짓말이면 벌 받겠다고 한 건, 자기 말에다 자기를 딱 걸어 놓은 거잖아. 나를 거는 그게 바로 swear야."
   }
  ],
  "synonyms": [],
@@ -89,6 +65,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/swear.webp",
   "alt": "\"이게 거짓말이면 벌 받아도 좋아\"라고 자기를 걸고 말하는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

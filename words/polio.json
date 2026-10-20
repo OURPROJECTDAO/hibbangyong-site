@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/polio/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/polio/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/polio/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "polio",
  "slug": "polio",
  "url": "https://hibbangyong.com/words/polio/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, polio 맞아",
    "why": "맞아! 사람끼리 옮는 바이러스가 신경을 망가뜨려서 다리를 못 움직이게 만들었잖아. 그게 바로 polio야."
-  },
-  {
-   "type": "ox",
-   "question": "사촌 형이 축구하다가 상대 선수랑 세게 부딪혀서 무릎 인대가 끊어졌대. 그래서 몇 달 동안 다리를 못 움직이고 목발을 짚고 다녀. 이게 'polio'야?",
-   "choices": [
-    "응, polio 맞아",
-    "아니, polio 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, polio 아니야",
-   "why": "맞아, polio 아니야! 사촌 형은 축구하다가 상대 선수랑 부딪혀서 무릎 인대가 끊어진 거잖아. 다리를 못 움직이는 건 같아도, 다쳐서 생긴 거지 사람끼리 옮는 바이러스 병에 걸린 게 아니라서 polio가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "할아버지가 젊었을 때 'polio'에 걸렸었대. 그 병 때문에 지금까지 남아 있을 가능성이 가장 큰 건?",
-   "choices": [
-    "얼굴에 작은 흉터 자국이 여기저기 남았어.",
-    "이가 약해져서 치과에 자주 가야 해.",
-    "한쪽 다리에 힘이 없어서 지팡이를 짚어.",
-    "눈이 나빠져서 두꺼운 안경을 써야 해."
-   ],
-   "answer_index": 2,
-   "answer": "한쪽 다리에 힘이 없어서 지팡이를 짚어.",
-   "why": "맞아! polio는 바이러스가 신경을 망가뜨려서 팔다리를 못 움직이게 만들 수 있는 병이야. 그래서 할아버지 한쪽 다리에 힘이 없어 지팡이를 짚는 게 바로 polio가 남긴 흔적인 거야."
   }
  ],
  "synonyms": [],

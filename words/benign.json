@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/benign/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/benign/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/benign/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "benign",
  "slug": "benign",
  "url": "https://hibbangyong.com/words/benign/",
@@ -45,28 +45,6 @@
    "answer_index": 0,
    "answer": "몸에 해가 없어서 크게 걱정하지 않아도 되는 혹",
    "why": "맞아! 의사가 혹을 benign이라고 했으면 몸에 해가 없는 혹이라는 뜻이야. 그래서 크게 걱정 안 해도 되는 혹인 거지."
-  },
-  {
-   "type": "ox",
-   "question": "공원 산책길에서 긴 초록색 뱀을 만났어. 생긴 건 무섭지만 독이 없고, 사람을 보면 물지 않고 풀숲으로 도망만 가. 이 뱀은 'benign'할까?",
-   "choices": [
-    "응, benign 맞아",
-    "아니, benign 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, benign 맞아",
-   "why": "맞아! 이 뱀은 생긴 건 무섭지만 독도 없고, 사람을 보면 물지 않고 풀숲으로 도망만 가잖아. 해칠 기운이 없으니까 바로 benign인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "우리 집 벽지 뒤에 곰팡이가 생겼어. 겉으로는 조용하고 티도 잘 안 나는데, 벽 속으로 조금씩 퍼져서 가족들이 계속 기침을 해. 이 곰팡이는 'benign'할까?",
-   "choices": [
-    "응, benign 맞아",
-    "아니, benign 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, benign 아니야",
-   "why": "맞아! 겉으로는 조용하고 티도 잘 안 나지만, 벽 속으로 퍼져서 가족들이 계속 기침을 하잖아. 사람을 아프게 하는 해로운 쪽이니까 benign이 아닌 거야."
   }
  ],
  "synonyms": [
@@ -95,6 +73,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/benign.webp",
   "alt": "덩치 크고 짖는 소리 큰데 순하게 누워 있는 할아버지 집 개",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

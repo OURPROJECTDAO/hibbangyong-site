@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/tacit/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/tacit/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/tacit/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "tacit",
  "slug": "tacit",
  "url": "https://hibbangyong.com/words/tacit/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, tacit 맞아",
    "why": "맞아! 지우랑 정문 앞에서 기다리자고 말한 적은 한 번도 없는데 둘 다 매일 그렇게 하잖아. 말없이 행동으로 이미 통하는 약속이라서 바로 그게 tacit인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "우리 동아리는 회의에서 '모임은 매주 금요일'이라고 말로 정하고, 그 내용을 게시판 공지문에도 적어 두었어. 이 동아리 약속은 'tacit'이야?",
-   "choices": [
-    "응, tacit 맞아",
-    "아니, tacit 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, tacit 아니야",
-   "why": "맞아! 회의에서 모임은 매주 금요일이라고 말로 정했고, 게시판 공지문에도 적어 뒀잖아. 이렇게 말과 글로 분명히 한 약속은 tacit이 아니야(이건 explicit이야)."
-  },
-  {
-   "type": "choice",
-   "question": "반에서 청소를 빼먹는 일에 대한 이야기야. 'tacit'이 들어맞는 경우는 어느 것일까?",
-   "choices": [
-    "반장이 청소 빼먹는 애들을 몇 주째 보고도 넘어가니까, 이제 다들 빼먹어도 되는 걸로 받아들이고 있어.",
-    "반장이 몇몇 친구한테만 이번 주는 빼먹어도 된다고 몰래 귓속말해 줘서, 다른 애들은 전혀 몰라.",
-    "반장이 이번 주는 빼먹어도 된다고 단톡방에 공지를 올려서, 이제 다들 그렇게 받아들이고 있어.",
-    "반장은 이 일에 대해 아무 생각이 없는데, 민호 혼자 빼먹어도 괜찮겠다고 마음대로 짐작하고 있어."
-   ],
-   "answer_index": 0,
-   "answer": "반장이 청소 빼먹는 애들을 몇 주째 보고도 넘어가니까, 이제 다들 빼먹어도 되는 걸로 받아들이고 있어.",
-   "why": "맞아! 반장이 한마디도 안 했는데, 몇 주째 보고도 넘어가는 행동만으로 다들 빼먹어도 된다고 알아들었잖아. 말없이 행동으로 전해져서 통한 거라 바로 tacit이야. 청소 빼먹는 건 좋은 일이 아니지만, 그런 일에도 tacit은 쓸 수 있어."
   }
  ],
  "synonyms": [

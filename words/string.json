@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/string/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/string/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/string/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "string",
  "slug": "string",
  "url": "https://hibbangyong.com/words/string/",
@@ -41,19 +41,6 @@
    "answer_index": 0,
    "answer": "응, 맞아",
    "why": null
-  },
-  {
-   "type": "choice",
-   "question": "string은 어느 것일까?",
-   "choices": [
-    "바람을 넣으면 동그랗게 부풀어 오르는 것",
-    "빨갛고 동그래서 한 입 베어 무는 것",
-    "돌돌 감겨 있다가 한 가닥이 스르르 풀리는 것",
-    "네모나고 단단해서 차곡차곡 쌓는 것"
-   ],
-   "answer_index": 2,
-   "answer": "돌돌 감겨 있다가 한 가닥이 스르르 풀리는 것",
-   "why": null
   }
  ],
  "synonyms": [],
@@ -71,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/string.webp",
   "alt": "화면 중앙에 놓인 도톰한 실 뭉치(끈 뭉치)에서 한 가닥이 부드럽게 풀려 곡선을 그리며 뻗어 있는 모습 — '실/끈'의 전형",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

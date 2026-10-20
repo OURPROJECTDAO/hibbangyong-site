@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/glow/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/glow/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/glow/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "glow",
  "slug": "glow",
  "url": "https://hibbangyong.com/words/glow/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, glow 아니야",
    "why": "맞아! 전등이 다 나가서 계단 쪽이 온통 새까맸잖아. 빛이 하나도 없으니까 조용히 새어나오는 빛도 없는 거야. 그래서 glow가 아니야."
-  },
-  {
-   "type": "ox",
-   "question": "자기 전에 방 불을 껐는데, 책상 위 물고기 어항 안 작은 등이 물속에서 조용히 연둣빛을 계속 내고 있어. 이게 'glow'야?",
-   "choices": [
-    "응, glow 맞아",
-    "아니, glow 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, glow 맞아",
-   "why": "맞아! 방 불을 다 껐는데 어항 안 작은 등이 번쩍이지도 않고 깜빡이지도 않고, 물속에서 조용히 연둣빛을 계속 내고 있잖아. 그렇게 조용히 이어지는 부드러운 빛이 바로 glow인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "밤에 네 가지 일이 있었어. 이 중에서 'glow'라고 부를 수 있는 건 어느 쪽일까?",
-   "choices": [
-    "밤 창밖으로 저 멀리 도시가 하늘까지 노란 빛에 잠겨 있어",
-    "거울이 지나가는 자동차 불빛을 한 번 확 튕겨 보내고 말았어",
-    "천장 감지기 빨간 불이 딸깍딸깍 켜졌다 꺼졌다 되풀이했어",
-    "장롱 안이 새까매서 손을 넣어도 아무것도 안 보였어"
-   ],
-   "answer_index": 0,
-   "answer": "밤 창밖으로 저 멀리 도시가 하늘까지 노란 빛에 잠겨 있어",
-   "why": "맞아! 저 멀리 도시에서 나온 노란 빛이 번쩍이지도 않고 꺼지지도 않고, 하늘까지 조용히 계속 퍼져 있잖아. 그렇게 부드럽게 이어지는 빛이라서 바로 그게 glow인 거야."
   }
  ],
  "synonyms": [],
@@ -84,6 +60,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/glow.webp",
   "alt": "캄캄한 천장에 붙인 야광 별 스티커가 파랗게 빛나는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

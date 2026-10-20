@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/cure/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/cure/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/cure/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "cure",
  "slug": "cure",
  "url": "https://hibbangyong.com/words/cure/",
@@ -43,32 +43,6 @@
    "answer_index": 1,
    "answer": "아니, cure 한 게 아니야",
    "why": "맞아! 열이 내리기는커녕 더 올라갔잖아. 아픈 게 통째로 없어져야 cure인 건데, 오히려 더 아파졌으니까 cure가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "딸꾹질이 난 네 아이가 저마다 다른 일을 했어. 자기 딸꾹질을 'cure' 했다고 말할 수 있는 아이는 누구일까?",
-   "choices": [
-    "물을 천천히 마신 뒤로 딸꾹질이 뚝 그쳤고, 그 뒤로 다시 안 났어",
-    "사탕을 물고 있는 동안만 조용했고, 다 녹자 또 딸꾹질이 났어",
-    "숨을 참아 소리를 안 냈더니 아무도 딸꾹질을 못 알아챘어",
-    "등을 계속 토닥여 줬는데도 딸꾹질은 저녁까지 났어"
-   ],
-   "answer_index": 0,
-   "answer": "물을 천천히 마신 뒤로 딸꾹질이 뚝 그쳤고, 그 뒤로 다시 안 났어",
-   "why": "맞아! 물 마신 뒤로 딸꾹질이 뚝 그치고 다시 안 났잖아. 아픈 게 통째로 없어져서 안 돌아온 거니까, 바로 그게 cure한 거야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 중 'cure' 한 것은 뭘까?",
-   "choices": [
-    "찰흙이 딱딱하게 굳었는데 물을 섞은 뒤로 굳은 게 없어졌고 다시 안 굳었어",
-    "강아지가 신발을 물어뜯었는데 장난감을 준 뒤로 물어뜯는 게 없어졌고 다시 안 뜯었어",
-    "목이 부어 아프던 아이가 며칠 푹 쉰 뒤로 아픈 게 없어졌고 다시 안 아팠어",
-    "글씨가 삐뚤빼뚤하던 아이가 천천히 쓴 뒤로 삐뚤한 게 없어졌고 다시 안 삐뚤었어"
-   ],
-   "answer_index": 2,
-   "answer": "목이 부어 아프던 아이가 며칠 푹 쉰 뒤로 아픈 게 없어졌고 다시 안 아팠어",
-   "why": "맞아! 목이 부어서 아팠던 게 통째로 없어지고 다시 안 아팠잖아. 아픈 걸 아예 없애 버린 거니까 바로 그게 cure야. 약이 아니라 푹 쉰 거여도 괜찮아, 없어졌으면 된 거거든."
   }
  ],
  "synonyms": [],
@@ -82,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/cure.webp",
   "alt": "다리를 절뚝이던 강아지가 며칠 뒤 아픔이 통째로 사라져 다시 뛰는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

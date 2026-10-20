@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/banish/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/banish/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/banish/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "banish",
  "slug": "banish",
  "url": "https://hibbangyong.com/words/banish/",
@@ -42,28 +42,6 @@
    "answer_index": 0,
    "answer": "응, banish 맞아",
    "why": "맞아! 회장이 직접 나서서 규칙을 계속 어긴 부원을 동아리방 밖으로 내보냈고, 그 뒤로는 못 들어오게까지 했잖아. 누가 나서서 그 자리에 더는 못 있게 만든 거니까 이게 바로 banish야."
-  },
-  {
-   "type": "ox",
-   "question": "축구 동아리 회장이 그만두려던 부원을 동아리방으로 다시 불러들이고, 그 뒤로도 동아리에 계속 남아 있게 했어. 회장이 한 일은 'banish'야?",
-   "choices": [
-    "응, banish 맞아",
-    "아니, banish 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, banish 아니야",
-   "why": "맞아! 회장은 그만두려던 부원을 동아리방으로 다시 불러들이고 계속 남아 있게 했잖아. banish는 누가 나서서 그 자리에 더는 못 있게 하는 거니까, 회장이 한 일은 방향이 정반대야."
-  },
-  {
-   "type": "ox",
-   "question": "도서관 열람실에서 한 사람이 큰 소리로 전화 통화를 계속했어. 사서 선생님이 그 사람을 열람실 밖으로 내보내고, 그날은 다시 못 들어오게 했어. 이런 경우도 사서 선생님이 그 사람을 'banish'한 거야?",
-   "choices": [
-    "응, banish 맞아",
-    "아니, banish 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, banish 맞아",
-   "why": "맞아! 사서 선생님이 직접 나서서 그 사람을 열람실 밖으로 내보내고, 그날은 다시 못 들어오게 했잖아. 누가 나서서 그 자리에 더는 못 있게 만든 거라서 바로 banish인 거야."
   }
  ],
  "synonyms": [],
@@ -85,6 +63,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/banish.webp",
   "alt": "수업 중 폰을 복도 상자에 넣고 교실에 못 들어오게 함",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

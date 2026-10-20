@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/silent/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/silent/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/silent/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "silent",
  "slug": "silent",
  "url": "https://hibbangyong.com/words/silent/",
@@ -43,28 +43,6 @@
    "answer_index": 1,
    "answer": "아니, silent 아니야",
    "why": "맞아! 나팔을 힘껏 불면 소리가 빵 하고 크게 나잖아. 소리가 0이 아니라 아주 큰 거니까, 그건 silent가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "도서관에서 지수가 앉아 있는데, 옆자리 형이 종이에 뭘 계속 적고 있었어. 형이 쓰는 연필은 silent였을까?",
-   "choices": [
-    "응, silent 맞아",
-    "아니, silent 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, silent 맞아",
-   "why": "맞아! 연필은 종이 위를 지나갈 뿐이지, 자기가 소리를 내는 물건이 아니거든. 옆에서 계속 움직이는데도 지수 자리는 조용했잖아 — 움직이냐 아니냐가 아니라 소리가 안 나는 게 silent인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "도서관에서 지우가 친구한테 귓속말을 했어. 옆자리에서 겨우 들릴 만큼 아주 작은 소리였대. 이런 경우도 'silent'야?",
-   "choices": [
-    "응, 'silent' 맞아",
-    "아니, 'silent' 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 'silent' 아니야",
-   "why": "맞아! 아주 작게라도 소리가 났으면 0이 아니거든. 귓속말은 소리를 작게 낸 거지, 안 낸 게 아니니까 silent는 아닌 거야."
   }
  ],
  "synonyms": [],
@@ -80,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/silent.webp",
   "alt": "뒤에서 걸어온 고양이, 발소리가 하나도 안 난 순간",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

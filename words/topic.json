@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/topic/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/topic/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/topic/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "topic",
  "slug": "topic",
  "url": "https://hibbangyong.com/words/topic/",
@@ -45,32 +45,6 @@
    "answer_index": 2,
    "answer": "공룡",
    "why": "맞아! 민지가 처음부터 끝까지 들려준 게 공룡 이야기였잖아. 이 코너가 무엇에 대한 이야기인지 물으면 공룡이라서, 바로 공룡이 이 코너의 topic인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "유나가 일요일에 책상에 앉아 짧은 편지를 한 통 썼어. 편지에는 처음부터 끝까지 단풍잎 이야기만 가득했지. 이 편지의 'topic'은 어느 거야?",
-   "choices": [
-    "유나",
-    "단풍잎",
-    "책상",
-    "일요일"
-   ],
-   "answer_index": 1,
-   "answer": "단풍잎",
-   "why": "맞아! 유나의 편지에는 처음부터 끝까지 단풍잎 이야기만 가득했잖아. 편지가 무엇에 대한 거냐고 물으면 단풍잎이니까, 바로 그게 이 편지의 topic인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "지호가 발표를 했어. 발표 내내 '재활용' 한 가지만 가지고 이야기했고, 발표 종이 맨 위엔 '우리 반 발표'라고 적어 뒀어. 지호 발표의 'topic'은 어느 거야?",
-   "choices": [
-    "발표가 처음부터 끝까지 말한 그 한 가지, '재활용'",
-    "발표 종이 맨 위에 적어 둔 이름, '우리 반 발표'",
-    "발표를 맡아서 한 사람, 지호",
-    "발표를 가만히 앉아 들은 친구들"
-   ],
-   "answer_index": 0,
-   "answer": "발표가 처음부터 끝까지 말한 그 한 가지, '재활용'",
-   "why": "맞아! 발표가 처음부터 끝까지 오직 '재활용' 한 가지만 다뤘잖아. 그 발표가 무엇에 대한 거였냐 하면 바로 '재활용', 그래서 그게 topic인 거야."
   }
  ],
  "synonyms": [
@@ -97,6 +71,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/topic.webp",
   "alt": "친구들과 '강아지'에 대해 한참 얘기 — 지금 다루는 그 '무엇'이 화제.",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/aristocracy/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/aristocracy/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/aristocracy/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "aristocracy",
  "slug": "aristocracy",
  "url": "https://hibbangyong.com/words/aristocracy/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, aristocracy 맞아",
    "why": "맞아! 왕 바로 아래에서 공작·후작 칭호와 넓은 영지를 대대로 물려받던 집안들이잖아. 태어난 집안 덕에 물려받고, 사회 맨 위에 있고, 그런 집안들을 한데 묶은 무리라서 딱 aristocracy인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "프랑스 혁명 전, 칭호도 영지도 없이 세금을 내며 남의 밭을 갈던 농민 집안들이 있었어. 이 집안들을 한데 묶은 무리, 이게 'aristocracy'야?",
-   "choices": [
-    "응, aristocracy 맞아",
-    "아니, aristocracy 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, aristocracy 아니야",
-   "why": "맞아! 칭호도 영지도 없이 세금 내면서 남의 밭을 갈던 농민 집안은 신분 맨 아래 평민 쪽이라서 aristocracy가 아니야. aristocracy는 태어난 집안 덕분에 칭호랑 땅을 물려받은 맨 위 무리거든."
-  },
-  {
-   "type": "choice",
-   "question": "네 사람을 소개할게. 이 중에서 'aristocracy'에 속한다고 할 수 있는 사람은 누구일까?",
-   "choices": [
-    "복권에 당첨돼서 갑자기 큰 성을 사들인 사람",
-    "대대로 남의 땅을 빌려 농사를 지어 온 집안 사람",
-    "대대로 백작 칭호와 성을 물려받아 온 집안 사람",
-    "시험을 아주 잘 봐서 나라 최고 대학에 들어간 사람"
-   ],
-   "answer_index": 2,
-   "answer": "대대로 백작 칭호와 성을 물려받아 온 집안 사람",
-   "why": "맞아! 백작 칭호랑 성을 대대로 물려받아 온 집안이니까, 태어난 집안 덕분에 맨 위에 있는 거잖아. 바로 그게 aristocracy야."
   }
  ],
  "synonyms": [

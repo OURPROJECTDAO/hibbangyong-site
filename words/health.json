@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/health/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/health/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/health/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "health",
  "slug": "health",
  "url": "https://hibbangyong.com/words/health/",
@@ -45,30 +45,6 @@
    "answer_index": 2,
    "answer": "\"요즘 잘 자고 잘 먹어서 안 아프고 몸이 가뿐해.\"",
    "why": "맞아! 잘 자고 잘 먹어서 안 아프고 몸이 가뿐하다는 건 몸이 지금 잘 굴러가고 있다는 얘기잖아. 딱 그 상태를 말하는 게 health인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "형이 그림 그리기 대회에 나가서 상장을 받아 왔어. 이건 형의 'health'야?",
-   "choices": [
-    "응, health 맞아",
-    "아니, health 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, health 아니야",
-   "why": "맞아! 상장은 형이 잘 그렸다는 표시일 뿐이고, 형 몸이 아픈지 가뿐한지는 하나도 안 알려주잖아. 그래서 health가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "지호는 다리 깁스를 풀고 잘 걷게 됐어. 수아는 걱정이 사라져 마음이 한결 편해졌고. 둘 다 자기 'health'가 좋아졌다고 말했어. 어떻게 봐야 할까?",
-   "choices": [
-    "지호 말만 맞아",
-    "수아 말만 맞아",
-    "둘 다 맞아",
-    "둘 다 아니야"
-   ],
-   "answer_index": 2,
-   "answer": "둘 다 맞아",
-   "why": "맞아! health는 몸만 말하는 게 아니라 마음이 편하고 씩씩한 것도 포함하거든. 그러니까 깁스 풀고 잘 걷게 된 지호도, 걱정이 사라져 마음이 편해진 수아도 둘 다 자기 health가 좋아진 게 맞아."
   }
  ],
  "synonyms": [],
@@ -85,6 +61,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/health.webp",
   "alt": "잘 자고 잘 먹어 몸이 가뿐하고 안 아픈 상태",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

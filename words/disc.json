@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/disc/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/disc/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/disc/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "disc",
  "slug": "disc",
  "url": "https://hibbangyong.com/words/disc/",
@@ -41,19 +41,6 @@
    "answer_index": 1,
    "answer": "아니, 아니야",
    "why": null
-  },
-  {
-   "type": "choice",
-   "question": "disc는 어느 것일까?",
-   "choices": [
-    "물을 마실 때 손에 쥐고 쓰는 둥근 물건",
-    "발에 신고 걸어 다닐 때 쓰는 물건",
-    "잔디밭에서 던지면 날아가는 납작하고 둥근 물건",
-    "글씨를 쓸 때 손에 쥐는 가늘고 긴 물건"
-   ],
-   "answer_index": 2,
-   "answer": "잔디밭에서 던지면 날아가는 납작하고 둥근 물건",
-   "why": null
   }
  ],
  "synonyms": [],
@@ -67,6 +54,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/disc.webp",
   "alt": "잔디밭 위에 놓인 밝은 색 원반(플라잉 디스크) 하나 — 납작하고 둥근 원반 모양을 살짝 위에서 전체가 다 보이게",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

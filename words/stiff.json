@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/stiff/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/stiff/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/stiff/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "stiff",
  "slug": "stiff",
  "url": "https://hibbangyong.com/words/stiff/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, stiff 아니야",
    "why": "맞아! 이 양말은 집어 올리니까 힘없이 축 늘어지고 아무렇게나 접히잖아. stiff는 힘을 줘도 잘 안 굽고 뻑뻑한 거라서, 이렇게 스르르 접히는 양말은 stiff가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "동생이 겨울에 밖에 오래 세워 둔 고무호스를 감으려고 하는데, 손으로 눌러도 잘 안 굽고 자꾸 원래 모양으로 돌아와. 이 호스가 'stiff'야?",
-   "choices": [
-    "응, stiff 맞아",
-    "아니, stiff 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, stiff 맞아",
-   "why": "맞아! 동생이 손으로 눌러도 호스가 잘 안 굽고 자꾸 원래 모양으로 돌아오잖아. 힘을 줘도 굽히기가 뻑뻑하니까 바로 그게 stiff인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "아이들이 물건을 하나씩 만져 봤어. 이 중에서 'stiff'라고 부를 수 있는 건 어느 거야?",
-   "choices": [
-    "손에 쥐면 축 늘어져서 아무렇게나 접히는 얇은 손수건",
-    "무거워서 두 손으로도 겨우 들어 옮기는 커다란 물통",
-    "힘껏 구부려도 잘 안 굽고 제 모양으로 돌아가는 새 종이봉투",
-    "겉이 오돌토돌해서 만지면 까끌까끌한 노란 수세미"
-   ],
-   "answer_index": 2,
-   "answer": "힘껏 구부려도 잘 안 굽고 제 모양으로 돌아가는 새 종이봉투",
-   "why": "맞아! 새 종이봉투는 힘껏 구부려도 잘 안 굽고, 손을 놓으면 제 모양으로 돌아가잖아. 굽히기가 이렇게 뻑뻑한 게 바로 stiff인 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/stiff.webp",
   "alt": "힘을 줘도 잘 안 굽고 도로 펴지는 두꺼운 도화지",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

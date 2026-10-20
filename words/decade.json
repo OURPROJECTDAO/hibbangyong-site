@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/decade/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/decade/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/decade/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "decade",
  "slug": "decade",
  "url": "https://hibbangyong.com/words/decade/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, a decade 맞아",
    "why": "맞아! 2014년부터 2024년까지 세어 보면 딱 열 해잖아. 열 해가 모이면 통째로 한 묶음, 그게 바로 a decade인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "바닷가 등대는 1910년에 처음 불을 켜서, 2010년에 마지막으로 불을 껐어. 등대가 불을 켜 둔 기간을 'a decade'라고 할 수 있을까?",
-   "choices": [
-    "응, a decade 맞아",
-    "아니, a decade 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, a decade 아니야",
-   "why": "맞아! 1910년에 켜서 2010년에 껐으면 백 해나 불이 켜져 있었던 거잖아. 열 해 한 묶음보다 훨씬 기니까 decade라고는 안 해."
-  },
-  {
-   "type": "choice",
-   "question": "네 사람이 앞으로 얼마나 기다려야 하는지 말했어. 이 중에서 'a decade'가 걸린다고 말할 수 있는 건 누구일까?",
-   "choices": [
-    "올해 씨를 심고 열 해가 지나야 첫 열매를 딸 농부",
-    "반죽을 시작해서 열 밤만 자면 가게를 열 빵집 아저씨",
-    "오늘 데려온 강아지가 다 자랄 때까지 열 달 기다릴 아이",
-    "갓 태어난 아기가 백 살 할머니가 되는 걸 지켜볼 사람"
-   ],
-   "answer_index": 0,
-   "answer": "올해 씨를 심고 열 해가 지나야 첫 열매를 딸 농부",
-   "why": "맞아! 씨 심고 한 해, 두 해... 그렇게 열 해가 꽉 차야 첫 열매를 따는 거잖아. 해를 열 개 모은 딱 그 묶음, 그게 바로 decade야."
   }
  ],
  "synonyms": [],
@@ -90,6 +66,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/decade.webp",
   "alt": "해를 하나씩 세다가 열에서 한 덩어리로 묶는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/impeccable/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/impeccable/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/impeccable/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "impeccable",
  "slug": "impeccable",
  "url": "https://hibbangyong.com/words/impeccable/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, impeccable 아니야",
    "why": "맞아! 간판 색이 밝고 화사해도 맞춤법이 네 군데나 틀렸잖아. 틀린 데가 하나라도 있으면 impeccable이 아닌데, 네 군데면 흠이 뚜렷한 거지."
-  },
-  {
-   "type": "ox",
-   "question": "도서관 사서가 반납된 책 300권이 꽂힌 평범한 책장을 한 칸씩 확인했어. 책 번호 순서가 어긋난 곳이 한 군데도 없었어. 이 책장 정리 상태는 'impeccable'이야?",
-   "choices": [
-    "응, impeccable 맞아",
-    "아니, impeccable 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, impeccable 맞아",
-   "why": "맞아! 사서가 300권을 한 칸씩 다 확인했는데 번호 순서가 어긋난 곳이 한 군데도 없었잖아. 꼼꼼히 따져 봤는데도 틀린 데가 하나도 없으니까 바로 그게 impeccable인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 발표를 했어. 그중 'impeccable'이라고 부르기 가장 알맞은 발표는?",
-   "choices": [
-    "수아의 발표는 화려하진 않았지만, 심사위원이 아무리 따져 봐도 틀린 곳이 없었어.",
-    "민호의 발표는 아주 신나서 박수를 많이 받았지만, 중간에 숫자 두 개를 틀렸어.",
-    "지우는 새 옷을 입어 무척 깔끔해 보였지만, 발표 내용에는 틀린 곳이 꽤 있었어.",
-    "태오의 발표는 여기저기 틀린 곳이 많아서, 다음 주에 처음부터 다시 해야 했어."
-   ],
-   "answer_index": 0,
-   "answer": "수아의 발표는 화려하진 않았지만, 심사위원이 아무리 따져 봐도 틀린 곳이 없었어.",
-   "why": "맞아! 수아의 발표는 화려하진 않았지만 심사위원이 아무리 따져 봐도 틀린 곳이 없었잖아. 이렇게 흠이 하나도 없는 게 바로 impeccable이야."
   }
  ],
  "synonyms": [],
@@ -91,6 +67,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/impeccable.webp",
   "alt": "선생님이 보고서를 샅샅이 읽었는데 고칠 데를 못 찾음",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

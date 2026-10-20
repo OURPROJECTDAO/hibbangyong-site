@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/neglect/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/neglect/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/neglect/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "neglect",
  "slug": "neglect",
  "url": "https://hibbangyong.com/words/neglect/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, neglect 아니야",
    "why": "맞아! 할머니는 하루도 안 빼먹고 챙기시잖아. 먹이도 주고 물도 갈고 유리까지 닦아서 금붕어가 쌩쌩하니까, 이건 손을 놓아버린 게 아니라 꼬박꼬박 돌본 거야. 그래서 neglect가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "형이 겨울에 신던 축구화를 신발장 맨 아래에 넣어두고 봄, 여름 내내 한 번도 꺼내지 않았어. 흙이 굳어 붙고 안쪽엔 곰팡이가 피고 끈은 삭아서 끊어졌어. 이게 'neglect'야?",
-   "choices": [
-    "응, neglect 맞아",
-    "아니, neglect 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, neglect 맞아",
-   "why": "맞아! 형이 마음만 먹으면 꺼내서 털고 말릴 수 있었는데 봄도 여름도 그냥 지나갔잖아. 챙길 수 있는 사람이 계속 손을 놓아서 곰팡이까지 핀 거니까 이게 딱 neglect야."
-  },
-  {
-   "type": "choice",
-   "question": "친구 넷이 각자 자기 화분 이야기를 했어. 'neglect' 라고 할 수 있는 건 누구네 화분일까?",
-   "choices": [
-    "민수: 몇 주째 물 주는 걸 안 하고 그냥 뒀더니 잎이 바싹 말랐대.",
-    "지호: 물은 매일 줬는데 동생이 잎을 죄다 뜯어놔서 볼품없어졌대.",
-    "예린: 하루 깜빡했지만 다음 날 바로 챙겨줘서 지금은 쌩쌩하대.",
-    "다온: 아침저녁 물 주고 볕도 잘 쬐여줬더니 잎이 쑥쑥 자랐대."
-   ],
-   "answer_index": 0,
-   "answer": "민수: 몇 주째 물 주는 걸 안 하고 그냥 뒀더니 잎이 바싹 말랐대.",
-   "why": "맞아! 몇 주째 물을 안 줘서 잎이 말라버린 거잖아. 한 번 깜빡한 게 아니라 계속 손을 놓아버린 거, 그게 바로 neglect야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/neglect.webp",
   "alt": "마당에 몇 달째 세워둔 채 녹슬고 바퀴 꺼진 자전거",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

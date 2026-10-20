@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/supplement/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/supplement/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/supplement/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "supplement",
  "slug": "supplement",
  "url": "https://hibbangyong.com/words/supplement/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, supplement 맞아",
    "why": "맞아! 원래 쌓아 둔 탑은 그대로 두고 모자란 높이만큼만 위에 블록을 더 올렸잖아. 있던 걸 치우고 바꾼 게 아니라 위에 더 얹어서 채운 거니까, 바로 그게 supplement인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "그림 그리다가 파란 물감이 다 떨어져서, 원래 쓰던 팔레트를 통째로 치우고 새 물감 세트로 몽땅 바꿔 버렸어. 이것도 'supplement'이라고 할 수 있을까?",
-   "choices": [
-    "응, 'supplement' 맞아.",
-    "아니, 'supplement' 아니야."
-   ],
-   "answer_index": 1,
-   "answer": "아니, 'supplement' 아니야.",
-   "why": "딱 맞았어! 원래 쓰던 팔레트를 통째로 치우고 새 물감으로 몽땅 바꿔 버린 건 보태는 게 아니라 갈아치운 거잖아. 그러니까 이건 supplement가 아닌 거야. 모자란 만큼만 위에 더 얹어야 supplement거든."
-  },
-  {
-   "type": "ox",
-   "question": "놀이터 한가운데 커다란 미끄럼틀 하나가 서 있었어. 그 미끄럼틀이 이 놀이터의 중심이자 주인공이었어. 이게 'supplement'이야?",
-   "choices": [
-    "응, supplement 맞아",
-    "아니, supplement 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, supplement 아니야",
-   "why": "맞아! 그 미끄럼틀은 놀이터의 중심이자 주인공이잖아. supplement는 원래 있던 것에 살짝 얹어서 모자란 걸 채워 주는 건데, 이건 채워 주는 게 아니라 놀이터의 알맹이 그 자체거든. 그러니까 supplement가 아닌 게 딱 맞아."
   }
  ],
  "synonyms": [],
@@ -80,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/supplement.webp",
   "alt": "간식·반찬이 모자랄 때 계란·김을 원래 밥에 더 얹어 채우는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/absolute/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/absolute/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/absolute/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "absolute",
  "slug": "absolute",
  "url": "https://hibbangyong.com/words/absolute/",
@@ -45,32 +45,6 @@
    "answer_index": 1,
    "answer": "빛이 한 줄기도 없이 끝까지 완전히 깜깜한 어둠",
    "why": "맞아! 탐험가가 absolute 어둠이라고 한 건, 동굴 안에 빛이 한 줄기도 없이 끝까지 완전히 깜깜했다는 거야. 조금도 빠진 데 없이 100% 그런 게 바로 absolute거든."
-  },
-  {
-   "type": "choice",
-   "question": "형이 어떤 규칙을 'absolute'한 규칙이라고 했어. 그럼 그건 어떤 규칙일까?",
-   "choices": [
-    "웬만하면 지키지만 급할 땐 어겨도 되는 규칙",
-    "지켜야 할 항목이 아주 많아서 외우기 긴 규칙",
-    "어떤 경우에도 예외 없이 꼭 지켜야 하는 규칙",
-    "새로 만들어서 확실하게 정해진 규칙"
-   ],
-   "answer_index": 2,
-   "answer": "어떤 경우에도 예외 없이 꼭 지켜야 하는 규칙",
-   "why": "맞아! absolute는 예외가 딱 하나도 없이 끝까지 다 지켜야 하는 거거든. 어떤 경우에도 안 봐주는 규칙, 그게 바로 완전한 규칙인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 중 'absolute'한 경우가 아닌 것은?",
-   "choices": [
-    "불을 다 꺼서 예외 없이 끝까지 완전히 깜깜한 방",
-    "반쯤 어둡고 한쪽 구석에 희미한 빛이 남아 있는 방",
-    "물통에 더는 못 넣을 만큼 100% 꽉 찬 물",
-    "소리가 조금도 없이 완전히 고요한 도서관"
-   ],
-   "answer_index": 1,
-   "answer": "반쯤 어둡고 한쪽 구석에 희미한 빛이 남아 있는 방",
-   "why": "맞아! 반쯤 어둡고 한쪽 구석에 희미한 빛이 남아 있으면 끝까지 다 깜깜한 게 아니잖아. 빛이 조금이라도 남아 있으니까 이 방은 absolute가 아닌 거야."
   }
  ],
  "synonyms": [
@@ -107,6 +81,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/absolute.webp",
   "alt": "불을 꺼 예외 없이 끝까지 100% 깜깜해진 어둠 (child 앵커)",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

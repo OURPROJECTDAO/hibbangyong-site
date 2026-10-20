@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/perspective/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/perspective/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/perspective/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "perspective",
  "slug": "perspective",
  "url": "https://hibbangyong.com/words/perspective/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, perspective 맞아",
    "why": "맞아! 같은 코끼리인데 네가 선 앞자리에선 긴 코가, 오빠가 선 뒷자리에선 짧은 꼬리가 보이잖아. 어디에 서서 보느냐에 따라 다르게 보이는 그게 바로 perspective인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "교실 시계가 정각을 가리키자, 창가에 앉은 민수도 문 옆에 선 하영이도 똑같이 '3시'라고 읽었어. 이게 'perspective'야?",
-   "choices": [
-    "응, perspective 맞아",
-    "아니, perspective 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, perspective 아니야",
-   "why": "맞아! 창가에서 봐도 문 옆에서 봐도 똑같이 '3시'니까, 어디에 서서 봐도 안 바뀌는 그냥 딱 정해진 사실이거든. 자리에 따라 다르게 보이는 게 아니니까 perspective가 아닌 거야, 잘했어!"
-  },
-  {
-   "type": "choice",
-   "question": "다음 네 상황 중에서 'perspective'가 드러난 경우는 어느 거야?",
-   "choices": [
-    "형은 비를 맞으며 시원하다고 좋아했는데, 우산이 없던 동생은 옷이 젖는다며 싫어했어.",
-    "두 친구가 같은 온도계를 나란히 보고 둘 다 '28도'라고 똑같이 읽었어.",
-    "산꼭대기에 오른 두 사람이 펼쳐진 경치를 함께 '예쁘다'며 바라봤어.",
-    "지아가 가게에서 딸기우유 한 팩을 사서 가방에 넣었어."
-   ],
-   "answer_index": 0,
-   "answer": "형은 비를 맞으며 시원하다고 좋아했는데, 우산이 없던 동생은 옷이 젖는다며 싫어했어.",
-   "why": "맞아! 형과 동생은 똑같은 비를 맞았는데, 형은 시원해서 좋았고 우산이 없던 동생은 옷이 젖어서 싫었거든. 같은 비라도 누구 입장에서 보느냐에 따라 이렇게 다르게 느껴지니까, 바로 그게 perspective인 거야."
   }
  ],
  "synonyms": [
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/perspective.webp",
   "alt": "옥상의 언니와 마당의 나가 같은 눈사람을 크게/작게 다르게 보는 앵커 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

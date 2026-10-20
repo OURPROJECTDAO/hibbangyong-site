@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/praise/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/praise/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/praise/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "praise",
  "slug": "praise",
  "url": "https://hibbangyong.com/words/praise/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, praise 아니야",
    "why": "맞아! 할머니는 벽 짚으면 어떡하냐고 내가 잘못한 걸 짚어 주신 거잖아. 손을 다정하게 닦아 주셨어도 말은 나무람이라서 좋은 점을 알아준 게 아니야."
-  },
-  {
-   "type": "ox",
-   "question": "비를 맞고 들어오느라 현관 바닥이 다 젖었어. 옆집 할아버지가 그걸 보시더니, 그래도 우산은 물기를 털어 가지런히 세워 놨다고, 야무지다고 말씀하셨어. 이게 'praise'야?",
-   "choices": [
-    "응, praise 맞아",
-    "아니, praise 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, praise 맞아",
-   "why": "맞아! 할아버지가 네가 이미 해 놓은 좋은 점, 우산 물기 털어서 가지런히 세워 둔 걸 콕 집어서 야무지다고 말로 알아주셨잖아. 그게 바로 praise인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "친구가 종이로 학을 접어서 보여 줬어. 네 사람이 저마다 다르게 반응했어. 이 가운데 'praise'를 한 사람은 누구야?",
-   "choices": [
-    "지호 — 접은 자리가 하나도 안 삐뚤다고 감탄했어.",
-    "민수 — 주머니에서 사탕을 꺼내 손에 쥐여 줬어.",
-    "예린 — 다음엔 더 어려운 것도 접겠다고 힘을 줬어.",
-    "태오 — 자기 것도 접어 준 게 고맙다고 인사했어."
-   ],
-   "answer_index": 0,
-   "answer": "지호 — 접은 자리가 하나도 안 삐뚤다고 감탄했어.",
-   "why": "맞아! 접은 자리가 안 삐뚤다고 콕 집어서 좋다고 말해 준 거잖아. 이미 잘 해 놓은 좋은 점을 말로 알아준 거니까 바로 그게 praise야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/praise.webp",
   "alt": "동생이 형 그림을 보고 진짜 멋있다고 말해 준 순간",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

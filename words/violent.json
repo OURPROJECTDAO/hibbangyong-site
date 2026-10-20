@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/violent/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/violent/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/violent/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "violent",
  "slug": "violent",
  "url": "https://hibbangyong.com/words/violent/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, violent 맞아",
    "why": "맞아! 형이 주먹으로 세게 때려서 동생 팔에 멍이 들었잖아. 힘을 써서 동생을 다치게 했으니까 바로 그게 violent인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "할머니가 공원 벤치에 앉아서 비둘기들에게 모이를 조용히 뿌려 주고 있어. 이 모습은 'violent'한 거야?",
-   "choices": [
-    "응, violent 맞아",
-    "아니, violent 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, violent 아니야",
-   "why": "맞아! 할머니는 비둘기들에게 모이를 조용히 뿌려 주고 있을 뿐이야. 누구를 밀치거나 때리지 않고 다치게 하는 것도 없으니까 violent가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "친구가 게임에서 져서 잔뜩 화가 났어. 어떤 때 그 친구가 'violent'하게 굴었다고 할 수 있을까?",
-   "choices": [
-    "얼굴이 빨개져서 '다시 해!' 하고 크게 외쳤을 때",
-    "옆에 있던 친구를 세게 밀쳐서 넘어뜨렸을 때",
-    "방에 들어가 문을 닫고 혼자 엉엉 울었을 때",
-    "몰래 장난으로 친구 신발끈을 묶어 놓았을 때"
-   ],
-   "answer_index": 1,
-   "answer": "옆에 있던 친구를 세게 밀쳐서 넘어뜨렸을 때",
-   "why": "맞아! 친구를 세게 밀쳐서 넘어뜨렸잖아. 화난 마음이 힘으로 밖으로 나와서 친구를 다치게 할 수 있으니까, 바로 그게 violent인 거야."
   }
  ],
  "synonyms": [],
@@ -84,6 +60,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/violent.webp",
   "alt": "화나서 소리치기와 밀치고 물건 던지기의 차이",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

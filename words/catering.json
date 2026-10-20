@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/catering/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/catering/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/catering/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "catering",
  "slug": "catering",
  "url": "https://hibbangyong.com/words/catering/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, catering 맞아",
    "why": "맞아! 업체 한 곳이 손님 60명 전체가 먹을 음식을 미리 맞춰 만들어 오고 상까지 차려 줬잖아. 여럿이 먹을 몫을 통째로 맡아서 대 주는 거니까 바로 그게 catering인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "과학 동아리가 학기 말 파티를 과학실에서 했어. 부원 20명이 각자 집에서 반찬을 한 가지씩 만들어 와서 상에 모아 나눠 먹었어. 이게 'catering'이야?",
-   "choices": [
-    "응, catering 맞아",
-    "아니, catering 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, catering 아니야",
-   "why": "맞아! 부원 20명이 각자 집에서 반찬을 직접 만들어 왔잖아. 음식을 업체에 맡긴 게 아니니까 catering이 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "민준이 생일에 친구 여섯 명이 민준이네 집에 모였어. 다들 휴대폰 배달 앱으로 자기가 먹고 싶은 메뉴를 하나씩 골라 시켰고, 음식이 도착하자 같이 먹었어. 이런 경우도 'catering'이야?",
-   "choices": [
-    "응, catering 맞아",
-    "아니, catering 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, catering 아니야",
-   "why": "맞아! 친구들이 배달 앱으로 자기가 먹고 싶은 메뉴를 하나씩 따로 시킨 거라서 그냥 배달이야. catering이 되려면 한 가게에 모두가 먹을 양을 한꺼번에 주문해서, 그 가게가 음식을 다 맡아 줘야 하거든."
   }
  ],
  "synonyms": [],
@@ -84,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/catering.webp",
   "alt": "아빠 회사 송년회 강당에서 한 업체가 음식을 전부 맡아 만들어 오고 차림",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

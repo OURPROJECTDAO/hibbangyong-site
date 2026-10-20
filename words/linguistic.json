@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/linguistic/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/linguistic/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/linguistic/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "linguistic",
  "slug": "linguistic",
  "url": "https://hibbangyong.com/words/linguistic/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, linguistic 문제 맞아",
    "why": "맞아! 짝꿍이 그 나라 말을 몰라서 국을 더 달라는 말을 못 한 거잖아. 딱 말 때문에 막힌 거니까 이게 바로 linguistic이야."
-  },
-  {
-   "type": "ox",
-   "question": "동생이 이가 흔들려서 사과를 못 씹고 접시에 내려놨어. 이건 linguistic 문제야?",
-   "choices": [
-    "응, linguistic 문제 맞아",
-    "아니, linguistic 문제 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, linguistic 문제 아니야",
-   "why": "그렇지! 이가 흔들려서 못 씹은 거니까 몸 쪽 일이지, 말이랑은 아무 상관이 없거든. 그래서 이건 linguistic이 아닌 게 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "수아가 오늘 새 학원에 처음 갔는데 힘든 게 많았대. 수아가 겪은 어려움 중에 'linguistic' 어려움은 어느 걸까?",
-   "choices": [
-    "계단을 한참 오르느라 다리가 아팠어.",
-    "처음 보는 아이들 앞이라 가슴이 콩닥거렸어.",
-    "선생님이 쓰는 낱말이 낯설어 뜻을 몰랐어.",
-    "시계 숫자를 잘못 봐 쉬는 시간을 놓쳤어."
-   ],
-   "answer_index": 2,
-   "answer": "선생님이 쓰는 낱말이 낯설어 뜻을 몰랐어.",
-   "why": "맞아! 선생님이 쓰는 낱말이 낯설어서 못 알아들은 거잖아. 이건 딱 말이랑 얽힌 어려움이라서 바로 그게 linguistic인 거야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/linguistic.webp",
   "alt": "멀리 놀러 간 곳에서 길을 물었지만 쓰는 말이 달라 못 알아들은 일",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

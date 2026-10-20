@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/juvenile/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/juvenile/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/juvenile/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "juvenile",
  "slug": "juvenile",
  "url": "https://hibbangyong.com/words/juvenile/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, juvenile 아니야",
    "why": "맞아! 마흔 살에 스무 해째 불을 끄고 있는 소방관 아저씨는 이미 다 자란 어른(adult)이라서, 아직 어른이 안 된 쪽에 붙는 juvenile로는 못 불러."
-  },
-  {
-   "type": "ox",
-   "question": "열네 살 중학생 지우가 수영장 매표소에서 입장권을 사고 있어. 지우를 영어로 'juvenile'이라고 부를 수 있을까?",
-   "choices": [
-    "응, juvenile 맞아",
-    "아니, juvenile 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, juvenile 맞아",
-   "why": "맞아! 열네 살 지우는 아직 어른이 안 된 중학생이잖아. 그래서 지우는 바로 juvenile인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "뉴스에 나온 네 사람이야. 이 중에서 'juvenile'이라고 부를 수 있는 사람은 누구일까?",
-   "choices": [
-    "마트에서 물건을 훔친 마흔 살 아저씨",
-    "과학 대회에서 상을 받은 열다섯 살 학생",
-    "회사에 다닌 지 십 년 된 서른 살 삼촌",
-    "쉰 살인데 스무 살처럼 보이는 배우"
-   ],
-   "answer_index": 1,
-   "answer": "과학 대회에서 상을 받은 열다섯 살 학생",
-   "why": "맞아! 열다섯 살 학생은 아직 어른이 안 됐으니까 딱 juvenile이야. 상을 받은 좋은 일인데도 쓸 수 있는 건, 이 말이 착하고 나쁜 것과 상관없이 나이만 보는 말이라서 그래."
   }
  ],
  "synonyms": [],
@@ -98,6 +74,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/juvenile.webp",
   "alt": "어른이 아닌 사람을 따로 나누는 버스 요금·영화 관람 등급·법",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

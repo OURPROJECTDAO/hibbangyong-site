@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/transatlantic/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/transatlantic/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/transatlantic/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "transatlantic",
  "slug": "transatlantic",
  "url": "https://hibbangyong.com/words/transatlantic/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, transatlantic 아니야",
    "why": "맞아! 토론토랑 밴쿠버는 둘 다 캐나다 안에 있는 도시라서, 그 사이를 오가는 비행기는 대서양을 건너지 않아. 바다 이쪽과 저쪽을 잇는 게 아니고 한 나라 안에서 오가는 거니까 transatlantic이 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "포르투갈 리스본과 브라질 상파울루 사이 바다 밑에 인터넷 케이블이 깔려 있어. 이 케이블을 'transatlantic' 케이블이라고 부를 수 있을까?",
-   "choices": [
-    "응, transatlantic 맞아",
-    "아니, transatlantic 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, transatlantic 맞아",
-   "why": "맞아! 리스본은 유럽, 상파울루는 남아메리카에 있고 그 사이 바다가 대서양이야. 이 케이블은 바다 밑으로 그 양쪽 도시를 잇고 있으니까 바로 transatlantic인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 가지 상황이 있어. 'transatlantic'이라고 부를 수 있는 건 어느 거야?",
-   "choices": [
-    "대서양 한가운데 섬에서 열린 여름 축제",
-    "한국과 미국 사이를 오가는 큰 화물선",
-    "영국과 미국이 함께 맺은 무역 약속",
-    "프랑스 파리와 리옹 사이를 달리는 기차"
-   ],
-   "answer_index": 2,
-   "answer": "영국과 미국이 함께 맺은 무역 약속",
-   "why": "맞아! 영국과 미국은 대서양을 사이에 두고 마주 보는 나라라서, 두 나라가 함께 맺은 무역 약속은 바다 양쪽을 잇는 거야. 아무도 배를 타고 건너지 않아도 이쪽과 저쪽을 이어 주니까 바로 그게 transatlantic인 거야."
   }
  ],
  "synonyms": [],

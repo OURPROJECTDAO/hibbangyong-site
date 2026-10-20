@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/repeat/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/repeat/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/repeat/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "repeat",
  "slug": "repeat",
  "url": "https://hibbangyong.com/words/repeat/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, repeat 맞아",
    "why": "맞아! 똑같은 비행기를 한 번 접어 날리고, 그걸 또 똑같이 접어 날렸잖아. 처음이랑 똑같은 걸 한 번 더 했으니까 바로 그게 repeat인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 중 노래를 'repeat'한 친구는 누구일까?",
-   "choices": [
-    "1절을 부르고 나서, 똑같은 1절을 한 번 더 불렀다",
-    "1절을 부르다가 멈추지 않고 그대로 2절로 이어 불렀다",
-    "1절을 부르고 나서, 가사를 바꿔 새로운 노래로 불렀다",
-    "1절만 한 번 부르고 노래를 끝냈다"
-   ],
-   "answer_index": 0,
-   "answer": "1절을 부르고 나서, 똑같은 1절을 한 번 더 불렀다",
-   "why": "맞아! 1절을 부르고 똑같은 1절을 한 번 더 불렀으니까, 같은 걸 처음부터 또 한 거잖아. 바로 그게 repeat야!"
-  },
-  {
-   "type": "ox",
-   "question": "어제는 도화지에 강아지를 그렸는데, 오늘은 완전히 다른 고양이를 그렸어. 이게 'repeat'야?",
-   "choices": [
-    "응, repeat 맞아",
-    "아니, repeat 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, repeat 아니야",
-   "why": "딱 맞혔어! 어제는 강아지, 오늘은 고양이로 그림을 아예 바꿔 버렸잖아. 똑같은 걸 또 그린 게 아니니까 repeat가 아닌 거야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/repeat.webp",
   "alt": "노래 후렴이 또 나오고, 한 번 부른 걸 똑같이 한 번 더 부름.",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

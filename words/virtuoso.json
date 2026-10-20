@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/virtuoso/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/virtuoso/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/virtuoso/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "virtuoso",
  "slug": "virtuoso",
  "url": "https://hibbangyong.com/words/virtuoso/",
@@ -43,28 +43,6 @@
    "answer_index": 1,
    "answer": "아니, virtuoso 아니야",
    "why": "맞아! 어제 바이올린을 처음 잡아서 활을 그을 때마다 끽끽 긁히는 소리만 나는 건 막 시작한 초보라서, 어려운 곡을 쉽게 해내는 virtuoso랑은 정반대인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "음악학원 드럼 선생님이 아주 빠르고 복잡한 박자의 곡을 악보도 안 보고 한 번도 안 틀리고 끝까지 쳤어. 이 선생님은 'virtuoso'야?",
-   "choices": [
-    "응, virtuoso 맞아",
-    "아니, virtuoso 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, virtuoso 맞아",
-   "why": "맞아! 빠르고 복잡한 박자의 곡을 악보도 안 보고 한 번도 안 틀리고 끝까지 쳤잖아. 어려운 연주를 이렇게 쉽게 해내는 솜씨라서 이 드럼 선생님이 바로 virtuoso인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "동네 축구 동아리 형은 공을 발에 붙인 것처럼 몰고 다니면서 수비수 세 명을 가볍게 제쳐. 악기는 하나도 다룰 줄 몰라. 이런 사람도 'virtuoso'야?",
-   "choices": [
-    "응, virtuoso 맞아",
-    "아니, virtuoso 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, virtuoso 맞아",
-   "why": "맞아! 공을 발에 붙인 것처럼 몰고 수비수 세 명을 가볍게 제치는 건 어려운 기술을 쉽게 해내는 거잖아. 그런 솜씨면 악기를 몰라도 virtuoso라고 할 수 있어."
   }
  ],
  "synonyms": [

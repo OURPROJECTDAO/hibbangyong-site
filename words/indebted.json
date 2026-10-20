@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/indebted/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/indebted/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/indebted/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "indebted",
  "slug": "indebted",
  "url": "https://hibbangyong.com/words/indebted/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, indebted 맞아",
    "why": "맞아! 형은 아저씨가 2년 동안 대 주신 등록금 덕분에 학교를 그만두지 않고 졸업까지 했잖아. 이렇게 큰 도움을 받은 쪽이라 마음에 빚이 남는 거고, 그래서 바로 indebted인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "다리를 다친 옆집 할머니가 밖에 나가실 수 없었어. 그래서 준호가 석 달 동안 할머니 장보기를 대신 해 드렸어. 준호는 할머니에게 'indebted'한 상태일까?",
-   "choices": [
-    "응, indebted 맞아",
-    "아니, indebted 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, indebted 아니야",
-   "why": "맞아! 준호는 석 달 동안 할머니 장보기를 대신 해 드린 쪽, 그러니까 도와준 쪽이야. indebted는 도움을 크게 받아서 빚진 마음이 남은 쪽한테 쓰는 말이라, 준호한테는 안 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 다른 사람과 있었던 일을 말했어. 그 사람에게 'indebted'라는 말이 가장 잘 맞는 친구는?",
-   "choices": [
-    "점원이 문을 잡아 줘서 고맙다고 인사한 민수",
-    "선배가 1년 동안 공부를 봐 줘서 시험에 붙은 서준",
-    "동생 숙제를 1년 동안 봐 줘서 동생이 상을 받게 한 지우",
-    "친구 물건을 실수로 망가뜨려서 계속 마음이 무거운 하린"
-   ],
-   "answer_index": 1,
-   "answer": "선배가 1년 동안 공부를 봐 줘서 시험에 붙은 서준",
-   "why": "맞아! 서준이는 선배가 1년 동안 공부를 봐 준 덕분에 시험에 붙었잖아. 그 합격엔 선배 몫이 크게 들어 있으니까, 서준이는 선배한테 빚진 마음이 남아. 그게 바로 indebted야."
   }
  ],
  "synonyms": [],

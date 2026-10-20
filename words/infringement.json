@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/infringement/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/infringement/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/infringement/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "infringement",
  "slug": "infringement",
  "url": "https://hibbangyong.com/words/infringement/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, infringement 아니야",
    "why": "맞아! 서윤이는 빨간불에 건너지 않고 초록불까지 서서 기다렸잖아. 신호라는 정해진 선을 그대로 지킨 거라서 infringement가 아닌 거야. 선을 넘어야 infringement거든."
-  },
-  {
-   "type": "ox",
-   "question": "박물관 전시실 입구에 '사진 촬영 금지'라고 적혀 있었어. 그런데 민재는 휴대폰을 꺼내서 전시물을 찍었어. 민재가 한 일은 'infringement'일까?",
-   "choices": [
-    "응, infringement 맞아",
-    "아니, infringement 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, infringement 맞아",
-   "why": "맞아! 입구에 사진 촬영 금지라고 적혀 있었는데 민재가 휴대폰으로 전시물을 찍었잖아. 박물관이 정해 둔 선을 그대로 넘은 거라서 바로 그게 infringement인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 오늘 있었던 일을 말했어. 이 중에서 'infringement'라고 부를 수 있는 일은 누구 이야기일까?",
-   "choices": [
-    "주차 금지 구역에 자전거를 잠깐 세워 뒀어",
-    "규칙이 불공평해서 학생회에 바꾸자고 건의했어",
-    "내 폰을 떨어뜨려서 화면이 깨져 버렸어",
-    "시험 시간표를 확인하고 그대로 따라서 움직였어"
-   ],
-   "answer_index": 0,
-   "answer": "주차 금지 구역에 자전거를 잠깐 세워 뒀어",
-   "why": "맞아! 주차 금지 구역이면 거기 세우면 안 된다는 규칙이 있는 거잖아. 자전거라도, 잠깐이라도 그 규칙을 어겼으니까 이게 바로 infringement야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/infringement.webp",
   "alt": "축구에서 공을 손으로 잡아 호루라기가 울리는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

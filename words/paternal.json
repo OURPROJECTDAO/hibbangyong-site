@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/paternal/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/paternal/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/paternal/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "paternal",
  "slug": "paternal",
  "url": "https://hibbangyong.com/words/paternal/",
@@ -43,32 +43,6 @@
    "answer_index": 0,
    "answer": "응, paternal 맞아",
    "why": "맞아! 아빠가 처음 혼자 버스 타는 지호를 걱정해서 버스 번호랑 내릴 정류장을 몇 번이나 다시 확인했잖아. 아빠 자리에서 아이를 챙기고 지키려는 마음이 바로 paternal이야."
-  },
-  {
-   "type": "choice",
-   "question": "친구가 명절에 만나는 할머니·할아버지 이야기를 하고 있어. 이 중 'paternal'을 붙여 부를 수 있는 분은?",
-   "choices": [
-    "아빠를 낳아 주신 할머니",
-    "엄마를 낳아 주신 할아버지",
-    "엄마를 낳아 주신 할머니",
-    "아빠가 존경하는 이웃 할아버지"
-   ],
-   "answer_index": 0,
-   "answer": "아빠를 낳아 주신 할머니",
-   "why": "맞아! 아빠를 낳아 주신 할머니는 아빠 쪽 핏줄로 이어진 분이라서 paternal을 붙여 부를 수 있는 거야. 우리가 친할머니라고 부르는 분이 바로 이 경우야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 자기 몸이나 주변 이야기를 했어. 'paternal'이라는 말을 붙이기에 가장 알맞은 건?",
-   "choices": [
-    "아빠한테서 물려받은 곱슬머리",
-    "엄마한테서 물려받은 보조개",
-    "엄마 아빠를 반반 닮은 눈매",
-    "처음 본 이웃 아저씨의 친절한 인사"
-   ],
-   "answer_index": 0,
-   "answer": "아빠한테서 물려받은 곱슬머리",
-   "why": "맞아! 곱슬머리를 아빠한테서 물려받았으니까 아빠 쪽에서 온 거잖아. 그래서 paternal을 붙이기에 딱 맞아."
   }
  ],
  "synonyms": [],
@@ -90,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/paternal.webp",
   "alt": "아빠가 아기를 처음 안을 때 드는 지켜야 한다는 책임감",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/agriculture/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/agriculture/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/agriculture/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "agriculture",
  "slug": "agriculture",
  "url": "https://hibbangyong.com/words/agriculture/",
@@ -45,30 +45,6 @@
    "answer_index": 2,
    "answer": "땅에 밀을 심어 길러서 거두는 일",
    "why": "맞아! 땅에 씨를 심어서 기르고 거두는 거, 그게 바로 agriculture 한가운데 있는 일이거든. 만드는 게 아니라 길러내는 일이라서 딱 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "네 사람이 자기가 하는 일을 말했어. 이 중에서 'agriculture'에 들어가는 일을 하는 사람은 누구야?",
-   "choices": [
-    "가뭄이 들어서 심어 둔 옥수수가 다 말라 버린 사람",
-    "산에 올라가 저절로 자란 밤을 주워 자루에 담는 사람",
-    "바다에 그물을 던져 헤엄치던 물고기를 건져 올리는 사람",
-    "가게에서 배추를 사다가 다듬어 김치로 담그는 사람"
-   ],
-   "answer_index": 0,
-   "answer": "가뭄이 들어서 심어 둔 옥수수가 다 말라 버린 사람",
-   "why": "맞아! 옥수수를 심어서 기른 거잖아. 잘 안 돼서 말라 버렸어도 기르는 일을 한 건 똑같거든. agriculture는 잘된 농사만 부르는 말이 아니라, 기르는 일 자체를 부르는 말이야."
-  },
-  {
-   "type": "ox",
-   "question": "어느 마을에 우박이 쏟아져 과수원 사과가 다 떨어졌어. 그 해엔 팔 것도 먹을 것도 거의 남지 않았대. 그래도 이 마을 사람들이 과수원에서 사과를 길러 온 일을 'agriculture'라고 부를 수 있을까?",
-   "choices": [
-    "응, agriculture 맞아",
-    "아니, agriculture 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, agriculture 맞아",
-   "why": "맞아! 우박 때문에 사과가 다 떨어졌어도, 마을 사람들이 과수원에서 사과를 길러 온 일은 그대로 agriculture야. 잘된 해든 안된 해든, 먹을 걸 땅에서 길러내는 일이면 다 agriculture거든."
   }
  ],
  "synonyms": [],
@@ -102,6 +78,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/agriculture.webp",
   "alt": "씨 뿌리고 물 주고 가축 키우고 거둬 보내는 일이 한 덩어리로 묶인 그림",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

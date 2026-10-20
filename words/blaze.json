@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/blaze/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/blaze/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/blaze/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "blaze",
  "slug": "blaze",
  "url": "https://hibbangyong.com/words/blaze/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, blaze 맞아",
    "why": "맞아! 목재 창고 불이 지붕 위로 몇 미터씩 치솟으면서 몇 시간 동안 활활 탔잖아. 소방차 열 대가 와서야 겨우 껐을 만큼 크게 타오른 불이니까 바로 blaze인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "고기를 다 구운 다음 날 아침, 바비큐 그릴 안을 보니 불기 하나 없는 하얀 재만 바닥에 깔려 있었어. 이 재는 'blaze'야?",
-   "choices": [
-    "응, blaze 맞아",
-    "아니, blaze 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, blaze 아니야",
-   "why": "맞아! 그릴 바닥에 깔린 하얀 재는 불기 하나 없이 타는 게 이미 다 끝난 거잖아. blaze는 지금 크게 활활 타오르는 불이니까, 이 재는 blaze가 아니야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 본 불 이야기를 했어. 'blaze'라고 부를 만한 걸 본 친구는?",
-   "choices": [
-    "쓰레기통 안 종이 몇 장에 불이 붙었는데 물 한 컵에 꺼졌어",
-    "마른 풀밭에 붙은 불이 바람을 타고 언덕 하나를 다 덮었어",
-    "양초 심지 끝에서 불꽃 하나가 바람에 계속 흔들리고 있었어",
-    "밤새 탄 모닥불이 아침에는 빨간 숯 몇 개로만 남아 있었어"
-   ],
-   "answer_index": 1,
-   "answer": "마른 풀밭에 붙은 불이 바람을 타고 언덕 하나를 다 덮었어",
-   "why": "맞아! 마른 풀밭에 붙은 불이 바람을 타고 언덕 하나를 다 덮었잖아. 그렇게 크게 활활 번지는 불이라서 바로 그게 blaze인 거야."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/blaze.webp",
   "alt": "뉴스 속 큰불로 건물 한 채가 다 탄 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

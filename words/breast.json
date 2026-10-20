@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/breast/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/breast/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/breast/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "breast",
  "slug": "breast",
  "url": "https://hibbangyong.com/words/breast/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, breast 맞아",
    "why": "맞아! 셔츠 단추를 풀고 청진기를 댄 그 자리가 바로 목 아래 앞쪽 볼록한 데잖아. 참새 앞가슴이랑 똑같은 자리야. 심장은 그 안에 들어 있거든."
-  },
-  {
-   "type": "ox",
-   "question": "아이가 밥을 많이 먹고 배꼽 둘레를 손으로 문질렀어. 그 배꼽 둘레 자리가 'breast'야?",
-   "choices": [
-    "응, breast 맞아",
-    "아니, breast 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, breast 아니야",
-   "why": "맞아, 배꼽 둘레는 breast가 아니야! breast는 목 바로 아래 몸 앞쪽에 볼록 나온 자리거든. 배꼽은 그보다 훨씬 아래라서 완전히 다른 자리야."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 자기 몸에서 한 군데씩 손을 짚었어. 'breast'를 짚은 아이는 누구일까?",
-   "choices": [
-    "목 바로 아래, 몸 앞쪽 볼록한 데를 손바닥으로 덮은 아이",
-    "배꼽 둘레를 동그랗게 문지르고 있는 아이",
-    "손을 등 뒤로 넘겨 어깨뼈 사이를 긁는 아이",
-    "옆구리에서 허리까지 쭉 쓸어내린 아이"
-   ],
-   "answer_index": 0,
-   "answer": "목 바로 아래, 몸 앞쪽 볼록한 데를 손바닥으로 덮은 아이",
-   "why": "맞아! 목 바로 아래 앞쪽이 볼록 나온 그 자리, 거기가 딱 breast거든. 참새도 사람도 앞쪽 위 볼록한 데가 바로 거기야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/breast.webp",
   "alt": "참새 앞쪽이 목 아래에서 볼록 나온 자리",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

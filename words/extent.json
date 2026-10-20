@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/extent/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/extent/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/extent/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "extent",
  "slug": "extent",
  "url": "https://hibbangyong.com/words/extent/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, extent 맞아",
    "why": "맞아! 눈이 마당을 어디까지, 얼마나 넓게 덮었는지 그 퍼진 크기를 살펴본 거잖아. 바로 그 '어디까지, 얼마만큼'이 extent인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "선생님이 아이들에게 '이번 주에 책을 읽은 extent를 적어 내라'고 했어. 무엇을 적으라는 걸까?",
-   "choices": [
-    "책을 몇 쪽까지 읽어 나갔는지",
-    "책을 어느 자리에 놓고 읽었는지",
-    "책이 무슨 이야기를 담고 있는지",
-    "책이 책장에 모두 몇 권 있는지"
-   ],
-   "answer_index": 0,
-   "answer": "책을 몇 쪽까지 읽어 나갔는지",
-   "why": "맞아! '어디까지 읽어 나갔나'가 바로 얼마만큼 나아갔는지잖아. 그렇게 쭉 뻗어 나간 만큼이 딱 extent인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "지도에서 보물이 묻힌 곳을 딱 한 지점, X표로 콕 찍어 정확히 가리켰어. 이게 'extent'야?",
-   "choices": [
-    "응, extent 맞아",
-    "아니, extent 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, extent 아니야",
-   "why": "딱 맞았어! 한 지점을 콕 찍어 가리킨 건 '거기가 어디다' 하고 자리를 알려준 거지, 얼마나 넓게 뻗었는지 말한 게 아니거든. 그래서 extent가 아닌 게 맞아."
   }
  ],
  "synonyms": [],
@@ -93,6 +69,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/extent.webp",
   "alt": "컵을 쓰러뜨려 물이 얼마나 넓게 퍼졌나 살펴봄",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

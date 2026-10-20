@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/lapse/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/lapse/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/lapse/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "lapse",
  "slug": "lapse",
  "url": "https://hibbangyong.com/words/lapse/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, lapse 아니야",
    "why": "맞아! 그 선수는 지고 있어서 화가 나서 상대 발을 일부러 걸었잖아. 잠깐 정신이 딴 데 가서 생긴 실수가 아니라 알고 한 잘못이니까 lapse가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "요리를 아주 잘하는 엄마가 국을 끓이다가 전화를 받았어. 통화하느라 정신이 없어서 이미 넣은 소금을 한 번 더 넣었어. 이게 'lapse'야?",
-   "choices": [
-    "응, lapse 맞아",
-    "아니, lapse 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, lapse 맞아",
-   "why": "맞아! 엄마는 요리를 아주 잘하는데 통화하느라 정신이 없어서 그 순간에만 소금을 한 번 더 넣은 거잖아. 평소엔 잘하다가 잠깐 딴 데 정신이 가서 생긴 실수, 그게 바로 lapse야."
-  },
-  {
-   "type": "choice",
-   "question": "네 사람이 뭔가를 잘못한 이야기를 했어. 영어로 'lapse'라고 부르기 가장 알맞은 건?",
-   "choices": [
-    "처음 보는 단원이라 시험 문제를 거의 다 틀렸어",
-    "동생이 혼날 걸 알면서도 일부러 거짓말을 했어",
-    "늘 조심히 운전하는 아빠가 딴생각하다 신호를 놓쳤어",
-    "민수는 매주 준비물을 빠뜨려서 이번에도 혼났어"
-   ],
-   "answer_index": 2,
-   "answer": "늘 조심히 운전하는 아빠가 딴생각하다 신호를 놓쳤어",
-   "why": "맞아! 아빠는 늘 조심히 운전하는 사람인데, 딴생각하던 그 잠깐 사이에 신호를 놓친 거잖아. 평소엔 잘하다가 한순간 정신이 딴 데 가서 생긴 빈틈, 바로 그게 lapse야."
   }
  ],
  "synonyms": [
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/lapse.webp",
   "alt": "수학 잘하는 친구가 시험에서 쉬운 덧셈을 틀림",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/agility/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/agility/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/agility/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "agility",
  "slug": "agility",
  "url": "https://hibbangyong.com/words/agility/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, agility 맞아",
    "why": "맞아! 공이 왼쪽, 오른쪽으로 계속 바뀌는데 지우가 그때마다 몸을 휙휙 옮겨서 다 받아쳤잖아. 이렇게 바뀌는 방향을 재빨리 따라가는 게 바로 agility야."
-  },
-  {
-   "type": "ox",
-   "question": "술래잡기에서 술래가 갑자기 방향을 바꿔 달려오자, 도윤이는 몸이 무겁게 굳어서 제자리에 멈칫 서 있다가 잡혔어. 도윤이가 보여준 게 'agility'야?",
-   "choices": [
-    "응, agility 맞아",
-    "아니, agility 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, agility 아니야",
-   "why": "맞아! 술래가 갑자기 방향을 바꿨는데 도윤이는 몸이 굳어서 제자리에 멈칫했잖아. 바뀐 상황을 재빨리 따라가지 못했으니까 agility랑은 정반대인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "체육 시간에 네 친구가 선생님한테 각자 다른 걸로 칭찬을 받았어. 그중 'agility'로 칭찬받은 친구는 누구일까?",
-   "choices": [
-    "좁게 세운 콘 사이를 지그재그로 휙휙 빠져나간 민지",
-    "100m 곧은 길을 반에서 제일 빨리 뛰어 들어온 준호",
-    "다리를 쫙 벌리고 앉아서 가슴이 바닥에 닿은 서연",
-    "운동장 열 바퀴를 한 번도 안 쉬고 끝까지 돈 하준"
-   ],
-   "answer_index": 0,
-   "answer": "좁게 세운 콘 사이를 지그재그로 휙휙 빠져나간 민지",
-   "why": "맞아! 좁게 세운 콘 사이를 지그재그로 휙휙 빠져나가려면 방향이 계속 바뀌어도 몸이 재빨리 따라가야 하잖아. 민지가 바로 그걸 해낸 거라서 agility로 칭찬받은 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/agility.webp",
   "alt": "피구에서 날아오는 공을 몸을 틀어 피하기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

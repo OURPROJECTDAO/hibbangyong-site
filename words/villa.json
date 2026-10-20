@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/villa/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/villa/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/villa/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "villa",
  "slug": "villa",
  "url": "https://hibbangyong.com/words/villa/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, villa 아니야",
    "why": "맞아! 삼촌네 집은 도시 한복판에 있고, 한 건물에 집이 백 칸이나 들어 있는 것 중 한 칸이야. 마당도 없지. villa는 도시 밖에 따로 서 있고 마당이 넓고 방도 많은 큰 집이거든. 그래서 삼촌네 집은 villa가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "이모네 집은 도시에서 차로 한참 나가면 나오는 감나무밭 옆에 있어. 담이 낮고 마당이 넓고 방이 여섯 개인데, 그 집은 이모네 식구만 통째로 써. 이게 'villa'야?",
-   "choices": [
-    "응, villa 맞아",
-    "아니, villa 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, villa 맞아",
-   "why": "맞아! 이모네 집은 도시에서 차로 한참 나가야 있고, 마당이 넓고 방이 여섯 개나 되고, 이모네 식구만 통째로 쓰거든. 그래서 바로 그 집이 villa인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 사람이 자기가 지내는 집을 이야기했어. 'villa'에서 지내는 사람은 누구일까?",
-   "choices": [
-    "도시에서 멀리 떨어진 바닷가 언덕, 마당 넓고 방 많은 집 한 채에서 지내",
-    "도시 골목 안, 여러 집이 층층이 들어찬 작은 건물의 삼층 집에서 지내",
-    "손님들이 방을 하나씩 나눠 받는 큰 건물에서, 밥도 거기서 먹고 지내",
-    "산속 깊이 나무로 지은, 방 하나뿐인 작고 낡은 오두막에서 지내"
-   ],
-   "answer_index": 0,
-   "answer": "도시에서 멀리 떨어진 바닷가 언덕, 마당 넓고 방 많은 집 한 채에서 지내",
-   "why": "맞아! 도시에서 멀리 떨어진 바닷가 언덕에, 마당 넓고 방 많은 큰 집 한 채가 통째로 한 집안 거라서 바로 그게 villa인 거야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/villa.webp",
   "alt": "도시 밖 바닷가 언덕에 홀로 선, 마당 넓고 방 많은 큰 집",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

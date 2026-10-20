@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/repel/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/repel/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/repel/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "repel",
  "slug": "repel",
  "url": "https://hibbangyong.com/words/repel/",
@@ -42,28 +42,6 @@
    "answer_index": 0,
    "answer": "응, repel 맞아",
    "why": "맞아! 병사들은 성문으로 밀려드는 적군을 그냥 멈춰 세운 게 아니라 되받아서 성 밖으로 밀어냈잖아. 다가오는 적군을 밀어내서 못 오게 한 거니까 바로 repel이야."
-  },
-  {
-   "type": "ox",
-   "question": "꽃밭에 핀 꽃의 달콤한 향기가 주변을 날던 벌들을 꽃 가까이로 끌어들였어. 꽃향기가 벌들을 'repel'한 거야?",
-   "choices": [
-    "응, repel 맞아",
-    "아니, repel 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, repel 아니야",
-   "why": "맞아! 꽃향기는 벌들을 꽃 가까이로 끌어들였잖아. repel은 다가오는 걸 밀어내서 못 오게 하는 거니까, 이건 정반대라서 repel이 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "캠핑장 테이블에 벌레 쫓는 향초를 켜 두었더니, 날아들던 날벌레들이 가까이 오다가 도로 흩어져 날아갔어. 이런 경우도 'repel'이야?",
-   "choices": [
-    "응, 'repel' 맞아",
-    "아니, 'repel' 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, 'repel' 맞아",
-   "why": "맞아! 날벌레들이 향초 쪽으로 날아들다가 가까이 와서 도로 흩어져 날아갔잖아. 향초가 다가오는 벌레를 밀어내서 못 오게 한 거니까 바로 그게 repel이야."
   }
  ],
  "synonyms": [],
@@ -96,6 +74,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/repel.webp",
   "alt": "축구 수비가 골문으로 몰려온 상대 공격을 밀어내 돌려보냄",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

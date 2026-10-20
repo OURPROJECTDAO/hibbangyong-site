@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/sloppy/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/sloppy/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/sloppy/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "sloppy",
  "slug": "sloppy",
  "url": "https://hibbangyong.com/words/sloppy/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, sloppy 맞아",
    "why": "맞아! 민호는 빨리 게임하려고 접시를 한 번만 헹구고 다시 안 봐서 거품이 남았고 컵 안쪽도 안 닦았잖아. 신경을 덜 써서 설거지가 허술하게 된 거니까 바로 sloppy인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "수아가 할머니께 보낼 택배를 쌌어. 물건을 하나씩 뽁뽁이로 감싸고 테이프도 빈틈없이 붙였고, 주소는 두 번이나 다시 확인했어. 이 포장을 'sloppy'하다고 할 수 있을까?",
-   "choices": [
-    "응, sloppy 맞아",
-    "아니, sloppy 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, sloppy 아니야",
-   "why": "맞아! 수아는 물건을 하나씩 뽁뽁이로 감싸고, 테이프도 빈틈없이 붙이고, 주소까지 두 번이나 확인했잖아. 이렇게 하나하나 신경 써서 한 포장은 허술한 데가 없으니까 sloppy가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "민호가 늦잠을 자서 급히 나오느라 셔츠 단추는 한 칸씩 어긋나 있고, 한쪽 자락은 바지 밖으로 삐져나와 있어. 이런 민호의 옷차림도 'sloppy'야?",
-   "choices": [
-    "응, sloppy 맞아",
-    "아니, sloppy 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, sloppy 맞아",
-   "why": "맞아! 민호는 늦잠 자서 급하게 나오느라 옷에 신경을 덜 썼어. 그래서 단추가 한 칸씩 어긋나고 셔츠 자락이 바지 밖으로 삐져나온, 허술한 모습이 된 거야. 바로 그게 sloppy야."
   }
  ],
  "synonyms": [],
@@ -89,6 +67,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/sloppy.webp",
   "alt": "빨리 놀고 싶어 다시 안 보고 낸 숙제(계산 빠짐·날려 쓴 글씨)",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

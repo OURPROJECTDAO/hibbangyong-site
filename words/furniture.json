@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/furniture/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/furniture/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/furniture/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "furniture",
  "slug": "furniture",
  "url": "https://hibbangyong.com/words/furniture/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, furniture 맞아",
    "why": "맞아! 이모네 사무실 책상은 바닥에 놓아두고, 사람들이 그 앞에 앉아서 일하는 큰 물건이거든. 그래서 바로 그게 furniture인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "누나가 소풍 갈 때마다 가방에 쏙 넣어서 들고 다니는 조그만 접이식 우산이 있어. 이 우산은 'furniture'야?",
-   "choices": [
-    "응, furniture 맞아",
-    "아니, furniture 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, furniture 아니야",
-   "why": "맞아! 누나 우산은 접어서 가방에 쏙 넣고 소풍 갈 때마다 들고 다니는 조그만 물건이라서, 한자리에 놓아두고 쓰는 furniture가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "아빠가 마당을 치우면서 물건들을 죽 늘어놨어. 이 중에 'furniture'라고 부를 수 있는 건?",
-   "choices": [
-    "벽에 못으로 박아 붙인 커다란 거울",
-    "마당에 놓아둔 기다란 나무 벤치",
-    "창고에 세워 둔 초록색 자전거",
-    "접어서 가방에 넣는 작은 돗자리"
-   ],
-   "answer_index": 1,
-   "answer": "마당에 놓아둔 기다란 나무 벤치",
-   "why": "맞아! 나무 벤치는 마당에 놓아두고 앉으려고 두고두고 쓰는 물건이라서 바로 furniture인 거야. 집 안이 아니라 마당에 있어도 괜찮거든."
   }
  ],
  "synonyms": [],
@@ -83,6 +59,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/furniture.webp",
   "alt": "넓은 가게에 침대·식탁·옷장이 줄줄이 놓여 있는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

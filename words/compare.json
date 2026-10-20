@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/compare/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/compare/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/compare/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "compare",
  "slug": "compare",
  "url": "https://hibbangyong.com/words/compare/",
@@ -45,32 +45,6 @@
    "answer_index": 0,
    "answer": "두 켤레를 나란히 두고 '이건 굽이 높고 저건 낮네' 하며 어디가 같고 다른지 살폈어.",
    "why": "맞아! 나란히 두고 이건 굽이 높고 저건 낮네 하면서 같은 데 다른 데를 찬찬히 따져 봤잖아. 그렇게 둘을 맞대 놓고 살펴보는 게 바로 compare야."
-  },
-  {
-   "type": "choice",
-   "question": "준서가 장난감 자동차 두 대를 'compare'했어. 준서가 한 일로 알맞은 건?",
-   "choices": [
-    "두 대를 나란히 놓고 그 위에 담요를 덮어 뒀어.",
-    "두 대를 나란히 놓고 친구랑 한 대씩 나눠 가졌어.",
-    "두 대를 나란히 놓고 바퀴 수와 색이 같은지 다른지 살폈어.",
-    "두 대를 나란히 놓고 상자에 차곡차곡 담았어."
-   ],
-   "answer_index": 2,
-   "answer": "두 대를 나란히 놓고 바퀴 수와 색이 같은지 다른지 살폈어.",
-   "why": "맞아! 준서는 두 대를 나란히 놓고 바퀴 수와 색이 같은지 다른지 살폈잖아. 둘을 놓고 같은 데 다른 데를 찬찬히 따져 본 거라서 바로 그게 compare인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "하윤이가 책 두 권을 'compare'했어. 하윤이가 한 일로 알맞은 건?",
-   "choices": [
-    "두 권을 책상에 올려 놓고 한 권만 골라 끝까지 읽었어.",
-    "두 권을 책상에 올려 놓고 표지 그림과 두께가 어떻게 다른지 봤어.",
-    "두 권을 책상에 올려 놓고 스티커를 한 장씩 나눠 붙였어.",
-    "두 권을 책상에 올려 놓고 가방에 나란히 넣었어."
-   ],
-   "answer_index": 1,
-   "answer": "두 권을 책상에 올려 놓고 표지 그림과 두께가 어떻게 다른지 봤어.",
-   "why": "맞아! 두 권을 나란히 놓고 표지 그림은 어떻게 다른지, 두께는 어느 쪽이 더 두꺼운지 살펴봤잖아. 그렇게 둘을 맞대 놓고 같은 데 다른 데를 찾는 게 바로 compare야."
   }
  ],
  "synonyms": [],
@@ -87,6 +61,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/compare.webp",
   "alt": "사과 두 개를 옆에 놓고 같은 점 다른 점을 살펴보는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

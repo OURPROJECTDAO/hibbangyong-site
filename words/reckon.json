@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/reckon/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/reckon/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/reckon/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "reckon",
  "slug": "reckon",
  "url": "https://hibbangyong.com/words/reckon/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, reckon한 거 맞아",
    "why": "맞아! 엄마는 우유 팩이 가벼운 걸 보고 \"거의 다 마셨나 보네\"라고 생각한 거잖아. 이렇게 보이는 걸 보고 이럴 것 같다고 여기는 게 바로 reckon이야."
-  },
-  {
-   "type": "ox",
-   "question": "지하철에서 \"다음 역은 시청역입니다\"라는 안내 방송이 나왔어. 준서는 그 말을 못 들은 옆자리 할머니께 방송 내용을 한 글자도 안 바꾸고 그대로 전해 드렸어. 준서가 한 이 일이 'reckon'한 걸까?",
-   "choices": [
-    "응, reckon한 거 맞아",
-    "아니, reckon한 거 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, reckon한 거 아니야",
-   "why": "맞아! 준서는 방송에서 들은 말을 한 글자도 안 바꾸고 그대로 할머니께 전해 드렸을 뿐이야. 스스로 보고 따져서 내린 생각이 없으니까 reckon이 아닌 거지."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 뭔가를 했어. 이 중에서 'reckon'하고 있는 사람은 누구일까?",
-   "choices": [
-    "지호가 채점표와 맞춰 보고 자기 점수를 알아냈어.",
-    "서연이가 내일 눈이 펑펑 오기를 속으로 빌었어.",
-    "민지가 운동장 줄을 보고 백 명쯤 되겠다고 봤어.",
-    "하윤이가 선생님이 한 말을 친구에게 옮겨 줬어."
-   ],
-   "answer_index": 2,
-   "answer": "민지가 운동장 줄을 보고 백 명쯤 되겠다고 봤어.",
-   "why": "맞아! 민지는 운동장 줄을 하나하나 센 게 아니라 눈으로 보고 백 명쯤 되겠다고 짐작한 거잖아. 확실하진 않아도 보이는 걸 보고 내린 생각, 그게 바로 reckon이야."
   }
  ],
  "synonyms": [
@@ -93,6 +69,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/reckon.webp",
   "alt": "어두워진 하늘을 보고 친구가 오후에 비가 올 거라고 말함",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

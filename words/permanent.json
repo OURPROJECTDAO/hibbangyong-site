@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/permanent/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/permanent/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/permanent/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "permanent",
  "slug": "permanent",
  "url": "https://hibbangyong.com/words/permanent/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, permanent 맞아",
    "why": "맞아! 흉터는 한 번 생기면 다 나은 뒤에도 없어지지도 바뀌지도 않고 계속 그 자리에 남잖아. 그러니까 바로 그게 permanent인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "겨울 아침 유리창에 하얀 성에가 꼈는데, 해가 뜨고 따뜻해지자 스르르 녹아 사라졌어. 이 성에는 'permanent'해?",
-   "choices": [
-    "응, permanent 맞아",
-    "아니, permanent 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, permanent 아니야",
-   "why": "맞아! 성에는 해가 뜨니까 스르르 녹아서 없어졌잖아. 잠깐 있다 사라지는 거니까 한 번 나면 계속 그대로인 permanent가 아닌 거야. 바로 그래서 아니라고 한 게 딱 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "친구 네 명이 각자 자기 물건을 하나씩 말했어. 이 중에서 'permanent'한 건 뭘까?",
-   "choices": [
-    "팔 피부에 새긴 문신",
-    "볼펜으로 손등에 그린 그림",
-    "삼 년째 메고 다니는 책가방",
-    "거실에 놓인 커다란 소파"
-   ],
-   "answer_index": 0,
-   "answer": "팔 피부에 새긴 문신",
-   "why": "맞아! 문신은 한 번 몸에 새기면 지우고 싶어도 안 지워지고 계속 그대로 있거든. 없어지지도 바뀌지도 않으니까 바로 그게 permanent인 거야."
   }
  ],
  "synonyms": [],
@@ -99,6 +75,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/permanent.webp",
   "alt": "젖니가 빠진 자리에 나는 어른 이가 평생 그대로 남음",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

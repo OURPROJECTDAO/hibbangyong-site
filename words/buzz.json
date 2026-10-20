@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/buzz/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/buzz/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/buzz/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "buzz",
  "slug": "buzz",
  "url": "https://hibbangyong.com/words/buzz/",
@@ -43,32 +43,6 @@
    "answer_index": 1,
    "answer": "아니, buzz 아니야",
    "why": "맞아! buzz는 윙— 떨리며 끊기지 않고 이어지는 소리인데, 눈 내린 새벽 운동장은 쥐 죽은 듯 아무 소리도 안 나잖아. 소리가 아예 없으니까 buzz가 아닌 게 딱 맞아!"
-  },
-  {
-   "type": "choice",
-   "question": "다음 중 'buzz'에 해당하는(맞는) 소리는 어떤 거야?",
-   "choices": [
-    "손뼉을 '짝!' 하고 한 번 치자마자 뚝 그쳐 사라지는 소리",
-    "시계 초침이 '똑… 똑… 똑' 한 칸씩 끊어 가며 띄엄띄엄 나는 소리",
-    "모기가 귓가를 맴돌며 떨리듯 끊김 없이 쭉 이어지는 윙— 소리",
-    "물방울이 '똑' 하고 한 방울 떨어진 뒤 곧 조용해지는 소리"
-   ],
-   "answer_index": 2,
-   "answer": "모기가 귓가를 맴돌며 떨리듯 끊김 없이 쭉 이어지는 윙— 소리",
-   "why": "맞아! 모기가 윙— 하고 떨리듯이 끊기지 않고 쭉 이어지잖아. 바로 그렇게 떨리며 쉬지 않고 이어지는 소리가 buzz거든."
-  },
-  {
-   "type": "choice",
-   "question": "다음 중 'buzz'라고 부를 만한 소리는 어떤 거야?",
-   "choices": [
-    "벌 떼가 귓가를 맴돌며 떨리듯 쉬지 않고 윙윙 나는 소리",
-    "큰 종을 망치로 '뎅!' 하고 딱 한 번 친 뒤 사라지는 소리",
-    "피리가 맑은 한 음을 떨림 없이 곧게 길게 뽑아내는 소리",
-    "한밤중 빈 방에서 아무 소리도 들리지 않는 고요함"
-   ],
-   "answer_index": 0,
-   "answer": "벌 떼가 귓가를 맴돌며 떨리듯 쉬지 않고 윙윙 나는 소리",
-   "why": "맞아! 떨리듯이 윙— 끊기지 않고 쭉 이어지잖아. 벌이 옆에서 날 때 나는 바로 그 소리, 그게 buzz거든."
   }
  ],
  "synonyms": [],
@@ -84,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/buzz.webp",
   "alt": "벌·전화기·모인 사람들이 떨리듯 끊김없이 내는 윙윙·웅성 소리.",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/sight/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/sight/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/sight/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "sight",
  "slug": "sight",
  "url": "https://hibbangyong.com/words/sight/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, sight라고 할 수 없어",
    "why": "맞아! 개 소리는 귀로 듣는 거지 눈으로 보는 게 아니잖아. sight는 눈에 보이는 거니까, 소리는 sight가 아니라고 한 네가 딱 맞았어."
-  },
-  {
-   "type": "choice",
-   "question": "동생이 방금 네 가지 일을 겪었어. 이 중에서 'sight'로 받아들인 건 어느 거야?",
-   "choices": [
-    "구름 사이로 무지개가 눈앞에 쫙 펼쳐졌어.",
-    "멀리서 천둥이 우르릉 울려 퍼졌어.",
-    "갓 구운 빵 냄새가 솔솔 풍겨 왔어.",
-    "차가운 아이스크림이 혀끝에서 사르르 녹았어."
-   ],
-   "answer_index": 0,
-   "answer": "구름 사이로 무지개가 눈앞에 쫙 펼쳐졌어.",
-   "why": "맞아! 무지개가 눈앞에 쫙 보였잖아. 이렇게 눈에 들어와서 보이는 거, 그게 바로 sight인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "동생이 골목에서 쥐 한 마리가 쓰레기 더미를 헤집고 다니는 걸 봤어. 하나도 멋지지 않고 좀 징그러웠대. 동생이 그렇게 본 이것도 'sight'라고 할 수 있을까?",
-   "choices": [
-    "응, 그것도 'sight'야",
-    "아니, 그건 'sight'가 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, 그것도 'sight'야",
-   "why": "맞아! 쥐가 쓰레기를 헤집는 그 징그러운 모습도 동생 눈에 딱 들어왔잖아. 눈에 보이기만 하면 예쁘든 징그럽든 다 sight인 거야. 그래서 그것도 sight인 게 맞아."
   }
  ],
  "synonyms": [
@@ -96,6 +72,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/sight.webp",
   "alt": "뿌옇던 게 가까워지며 눈에 보이게 됨 + 소리·냄새 말고 '보이는' 것",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

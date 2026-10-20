@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/toss/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/toss/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/toss/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "toss",
  "slug": "toss",
  "url": "https://hibbangyong.com/words/toss/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, toss 맞아",
    "why": "맞아! 형이 리모컨을 손목만 까딱해서 힘 하나도 안 주고 쿠션 쪽으로 툭 보냈잖아. 이렇게 가볍게 손에서 떠나보낸 거라서 바로 그게 toss인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "누나가 뜨거운 컵을 두 손으로 꼭 쥐고, 내 손에 닿을 때까지 놓지 않고 그대로 건네줬어. 이게 'toss'야?",
-   "choices": [
-    "응, toss 맞아",
-    "아니, toss 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, toss 아니야",
-   "why": "아니야, 잘 봤어! 누나는 컵을 두 손으로 꼭 쥐고 네 손에 닿을 때까지 놓지 않았거든. 컵이 누나 손을 떠나서 날아간 순간이 한 번도 없으니까 toss가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "친구 넷이 각자 손에 든 공을 어떻게 했는지 말했어. 이 중에 'toss' 한 아이는 누구야?",
-   "choices": [
-    "팔을 크게 휘둘러 힘껏 멀리 날린 아이",
-    "손에서 툭, 힘 안 들이고 옆으로 보낸 아이",
-    "허리를 굽혀 발밑 바닥에 살며시 놓은 아이",
-    "두 손으로 잡고 옆 친구 손에 쥐여 준 아이"
-   ],
-   "answer_index": 1,
-   "answer": "손에서 툭, 힘 안 들이고 옆으로 보낸 아이",
-   "why": "맞아! 손에서 툭, 힘 안 들이고 옆으로 보냈잖아. 힘도 안 주고 손에서 떠나 날아갔으니까 바로 그게 toss인 거야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/toss.webp",
   "alt": "학교에서 돌아와 가방을 소파에 툭 던져 놓기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

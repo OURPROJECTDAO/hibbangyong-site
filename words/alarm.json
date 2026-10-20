@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/alarm/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/alarm/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/alarm/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "alarm",
  "slug": "alarm",
  "url": "https://hibbangyong.com/words/alarm/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, alarm 맞아",
    "why": "맞아! 도둑이 유리창을 깨자 가게 안 기계가 아무도 누르지 않았는데 저절로 삐용삐용 크게 울렸잖아. 위험한 일이 생긴 걸 얼른 알아채게 해 주는 소리라서 바로 그게 alarm인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "엄마가 아기를 재우려고 태엽을 감자, 아기 침대 위 오르골이 작고 잔잔한 자장가를 들려줬어. 이 소리가 'alarm'이야?",
-   "choices": [
-    "응, alarm 맞아",
-    "아니, alarm 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, alarm 아니야",
-   "why": "잘 골랐어! 오르골 자장가는 작고 잔잔하게 울려서 아기를 재워 주는 소리거든. alarm은 크게 울려서 얼른 알아채고 움직이게 하는 거라, 이 소리는 alarm이 아니야."
-  },
-  {
-   "type": "choice",
-   "question": "여러 가지 소리가 들렸어. 이 중에서 'alarm'이라고 부를 수 있는 소리는 뭘까?",
-   "choices": [
-    "손님이 와서 현관에서 딩동 하고 울리는 소리",
-    "운동장에서 응원단이 크게 외치는 함성 소리",
-    "부엌에 연기가 차자 천장 기계가 울리는 소리",
-    "잠들기 전 창밖에서 조용히 들리는 빗소리"
-   ],
-   "answer_index": 2,
-   "answer": "부엌에 연기가 차자 천장 기계가 울리는 소리",
-   "why": "맞아! 부엌에 연기가 차니까 천장 기계가 저절로 울려서 얼른 알아채고 움직이라고 알려 준 거야. 이렇게 위험할 때 울리는 소리, 바로 그게 alarm인 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/alarm.webp",
   "alt": "불이 나서 벽에서 울리는 경보",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/homestead/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/homestead/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/homestead/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "homestead",
  "slug": "homestead",
  "url": "https://hibbangyong.com/words/homestead/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, homestead 맞아",
    "why": "맞아! 가족이 사는 집이 있고, 바로 옆에 직접 가꾸는 감자밭과 옥수수밭이 붙어 있잖아. 집과 밭을 합쳐 한 곳으로 부르니까 딱 homestead인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "서울 지하철역 바로 앞 오피스텔 15층에 원룸 한 칸이 있어. 둘레에 딸린 땅이나 밭은 전혀 없고, 방 한 칸만 있어. 이 원룸을 'homestead'라고 할 수 있을까?",
-   "choices": [
-    "응, homestead 맞아",
-    "아니, homestead 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, homestead 아니야",
-   "why": "맞아! 그 원룸은 방 한 칸만 있고 둘레에 딸린 땅이나 밭이 전혀 없잖아. homestead는 사는 집이랑 그 둘레 땅이 한 덩어리로 같이 있어야 하는 말이라서, 이 원룸은 homestead가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "아래 네 곳 가운데 'homestead'라고 부를 수 있는 곳은 어디일까?",
-   "choices": [
-    "마을 사람들이 날마다 와서 일하고 저녁엔 떠나는 큰 논밭",
-    "여러 가족이 층마다 나눠 사는 도시 한가운데의 높은 건물",
-    "한 식구가 집에서 살면서 둘레 밭까지 함께 가꾸는 시골 터",
-    "여행 온 사람들이 며칠 묵고 떠나는 바닷가 숙소와 정원"
-   ],
-   "answer_index": 2,
-   "answer": "한 식구가 집에서 살면서 둘레 밭까지 함께 가꾸는 시골 터",
-   "why": "맞아! 한 식구가 그 집에서 살면서 둘레 밭까지 같이 가꾸니까, 사는 집과 땅이 한 덩어리로 붙어 있잖아. 바로 그게 homestead야."
   }
  ],
  "synonyms": [],
@@ -83,6 +59,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/homestead.webp",
   "alt": "시골 할아버지네 집과 마당 너머 밭",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

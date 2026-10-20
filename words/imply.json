@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/imply/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/imply/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/imply/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "imply",
  "slug": "imply",
  "url": "https://hibbangyong.com/words/imply/",
@@ -45,17 +45,6 @@
    "answer_index": 0,
    "answer": "민수는 시험지를 등 뒤로 슬쩍 감추면서 \"아빠 오늘 늦게 오시지?\"라고만 물었어.",
    "why": "맞아! 민수는 시험지 얘기는 한 마디도 안 하고 아빠 언제 오시냐고만 물었잖아. 그런데 너는 딱 알아채지, 시험 못 봤구나 하고. 말 안 한 뜻이 슬쩍 딸려 온 거, 그게 바로 imply야."
-  },
-  {
-   "type": "ox",
-   "question": "언니가 동생이 방금 그린 그림을 한참 보더니 \"이건 냉장고 문에 붙여야겠는데?\"라고 했어. 이것도 'imply'야?",
-   "choices": [
-    "응, 'imply'한 거 맞아.",
-    "아니, 'imply'한 거 아니야."
-   ],
-   "answer_index": 0,
-   "answer": "응, 'imply'한 거 맞아.",
-   "why": "맞아! 잘 그렸다는 말은 한 마디도 안 했는데, 냉장고에 붙이자는 말에 그 뜻이 딸려 왔잖아. 동생도 딱 알아채고 기분이 좋아지는 거지. 그러니까 바로 그게 imply인 거야."
   }
  ],
  "synonyms": [
@@ -76,6 +65,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/imply.webp",
   "alt": "엄마가 \"벌써 아홉 시네\" 한 말에 자라는 뜻이 딸려 오는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

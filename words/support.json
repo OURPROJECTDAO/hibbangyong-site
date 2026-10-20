@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/support/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/support/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/support/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "support",
  "slug": "support",
  "url": "https://hibbangyong.com/words/support/",
@@ -45,32 +45,6 @@
    "answer_index": 1,
    "answer": "여린 토마토 줄기가 넘어지지 않게 옆에 막대를 꽂아 세워 줬어.",
    "why": "맞아! 여린 줄기가 넘어지지 않게 옆에서 막대가 딱 버텨 주고 있잖아. 밑에서 받쳐 줘서 안 쓰러지게 하는 그 힘, 그게 바로 support인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 중 'support'에 해당하는(맞는) 것은?",
-   "choices": [
-    "블록 탑을 손으로 탁 쳐서 와르르 무너뜨렸어.",
-    "블록을 색깔별로 나눠서 바닥에 늘어놓았어.",
-    "블록 탑이 흔들리자 옆에서 손으로 붙잡아 곧게 세워 줬어.",
-    "블록이 모두 몇 개인지 세어 상자에 담았어."
-   ],
-   "answer_index": 2,
-   "answer": "블록 탑이 흔들리자 옆에서 손으로 붙잡아 곧게 세워 줬어.",
-   "why": "맞아! 흔들리던 탑을 손으로 붙잡아서 안 무너지게 곧게 세워 줬잖아. 밑에서 딱 받쳐 준 거니까 바로 그게 support인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 겪은 일을 이야기했어. 그중에서 'support'가 일어난 상황은 어느 걸까?",
-   "choices": [
-    "무거운 지붕이 안 무너지고 잘 서 있는 건 튼튼한 기둥 덕분이었어.",
-    "선반에 무거운 짐을 자꾸 얹었더니 선반이 축 휘어 버렸어.",
-    "지나가다 친구한테 사탕 하나 툭 주고는 그냥 가 버렸어.",
-    "누가 담장을 세게 밀어서 담장이 쿵 하고 쓰러졌어."
-   ],
-   "answer_index": 0,
-   "answer": "무거운 지붕이 안 무너지고 잘 서 있는 건 튼튼한 기둥 덕분이었어.",
-   "why": "맞아! 튼튼한 기둥이 지붕을 밑에서 딱 버텨 주니까 안 무너지고 잘 서 있는 거잖아. 그렇게 밑에서 받쳐 주는 게 바로 support야."
   }
  ],
  "synonyms": [],
@@ -92,6 +66,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/support.webp",
   "alt": "텐트 안에서 천을 버텨 주는 막대",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

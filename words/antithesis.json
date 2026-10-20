@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/antithesis/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/antithesis/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/antithesis/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "antithesis",
  "slug": "antithesis",
  "url": "https://hibbangyong.com/words/antithesis/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, antithesis 맞아",
    "why": "맞아! 지우는 숙제를 늘 일주일 전에 끝내 놓고 태오는 늘 제출 직전까지 미루니까, 숙제하는 버릇이 딱 끝과 끝이야. 그래서 태오가 지우의 antithesis인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "레몬은 한 입만 먹어도 얼굴이 찡그려질 만큼 아주 신 과일이야. 라임도 레몬과 똑같이 아주 셔. 라임을 레몬의 'antithesis'라고 할 수 있을까?",
-   "choices": [
-    "응, antithesis 맞아",
-    "아니, antithesis 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, antithesis 아니야",
-   "why": "맞아! 라임도 레몬이랑 똑같이 아주 시잖아. 맛이 반대편 끝에 있는 게 아니라 같은 쪽에 붙어 있으니까 antithesis가 될 수 없는 거야."
-  },
-  {
-   "type": "ox",
-   "question": "같은 반 두 친구가 나란히 서서 키를 재 봤어. 한 친구는 162cm, 다른 친구는 158cm가 나왔어. 158cm인 친구를 162cm인 친구의 'antithesis'라고 할 수 있을까?",
-   "choices": [
-    "응, antithesis 맞아",
-    "아니, antithesis 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, antithesis 아니야",
-   "why": "맞아! 162cm랑 158cm는 겨우 4cm 차이라서 둘 다 비슷한 키야. 키가 끝과 끝으로 반대인 게 아니니까 antithesis라고 할 수 없어."
   }
  ],
  "synonyms": [],

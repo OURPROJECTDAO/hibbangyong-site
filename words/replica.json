@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/replica/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/replica/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/replica/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "replica",
  "slug": "replica",
  "url": "https://hibbangyong.com/words/replica/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, replica 맞아",
    "why": "맞아! 진짜 화석 뼈를 하나하나 본떠서 모양도 크기도 똑같이 만들었잖아. 진짜를 앞에 두고 생김새를 그대로 옮겨 만든 거라서 바로 그게 replica인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "프랑스 루브르 박물관에 걸린 '모나리자'는 약 500년 전에 레오나르도 다빈치가 직접 붓으로 그린 바로 그 그림이야. 이 그림은 'replica'야?",
-   "choices": [
-    "응, replica 맞아",
-    "아니, replica 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, replica 아니야",
-   "why": "맞아! 루브르에 걸린 모나리자는 다빈치가 직접 붓으로 그린 바로 그 그림이라서, 뭘 보고 따라 만든 게 아니야. replica는 진짜를 보고 똑같이 만든 거니까, 진짜 그 자체인 이 그림은 replica가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "동생이 마트에서 산 빨간 소방차 장난감이야. 사다리랑 바퀴가 달려서 소방차처럼 보이긴 하는데, 어느 한 소방차를 보고 만든 게 아니라 그냥 소방차 느낌이 나게 만든 거래. 이런 것도 'replica'야?",
-   "choices": [
-    "응, replica 맞아",
-    "아니, replica 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, replica 아니야",
-   "why": "맞아! 이 소방차 장난감은 어느 한 소방차를 보고 똑같이 따라 만든 게 아니라 그냥 소방차 느낌만 나게 만든 거잖아. 그래서 replica가 아닌 거야. replica는 진짜 하나를 앞에 두고 생김새를 그대로 옮겨 만든 거거든."
   }
  ],
  "synonyms": [],
@@ -78,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/replica.webp",
   "alt": "박물관 금관 전시(진품은 금고 보관)",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

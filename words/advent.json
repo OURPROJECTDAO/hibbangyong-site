@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/advent/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/advent/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/advent/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "advent",
  "slug": "advent",
  "url": "https://hibbangyong.com/words/advent/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, advent 맞아",
    "why": "맞아! 스마트폰이 처음 나와서 사람들 손에 빠르게 퍼졌고, 그 뒤로 길 찾기나 사진 찍기, 은행 일까지 휴대폰으로 하게 됐잖아. 새 기술이 처음 나타나서 그 전이랑 후가 확 달라진 거니까 이게 바로 advent야."
-  },
-  {
-   "type": "ox",
-   "question": "예전에는 음반 가게마다 카세트테이프가 가득했어. 그런데 해가 갈수록 사는 사람이 줄더니, 결국 가게 진열대에서 카세트테이프가 거의 사라졌어. 카세트테이프가 이렇게 점점 사라져 간 것을 'advent'라고 할 수 있을까?",
-   "choices": [
-    "응, advent 맞아",
-    "아니, advent 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, advent 아니야",
-   "why": "맞아! 카세트테이프는 새로 나타난 게 아니라, 사는 사람이 줄더니 진열대에서 거의 사라진 거잖아. advent는 새 물건이 처음 나타나서 퍼지는 거니까, 이 장면은 정반대라서 advent가 아니야."
-  },
-  {
-   "type": "ox",
-   "question": "며칠을 기다린 택배 상자가 드디어 우리 집 현관에 도착했어. 이런 경우도 'advent'야?",
-   "choices": [
-    "응, advent 맞아",
-    "아니, advent 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, advent 아니야",
-   "why": "잘 골랐어. 택배 상자는 며칠 기다린 끝에 우리 집 현관에 온 물건 하나야. 세상을 바꾸는 새 기술이나 새 시대가 처음 나타난 게 아니니까 advent라고 할 수 없어."
   }
  ],
  "synonyms": [],
@@ -89,6 +67,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/advent.webp",
   "alt": "온라인 쇼핑이 생긴 뒤 동네 작은 가게들이 문을 닫음",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

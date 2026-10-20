@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/literature/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/literature/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/literature/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "literature",
  "slug": "literature",
  "url": "https://hibbangyong.com/words/literature/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, literature 맞아",
    "why": "맞아! 시집이랑 소설책은 다 시와 이야기를 글로 지어낸 책이거든. 그래서 준호 앞 칸에 꽂힌 것들은 바로 literature인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "준호가 미술관 벽 앞에 섰어. 그 벽에는 물감으로 그린 풍경화가 나란히 걸려 있었어. 이 벽에 걸린 것들을 'literature'라고 부를 수 있을까?",
-   "choices": [
-    "응, literature 맞아",
-    "아니, literature 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, literature 아니야",
-   "why": "맞아! 물감으로 그린 그림은 눈으로 보는 작품이라 글자가 한 자도 없거든. 글로 써서 만든 게 아니니까 literature가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "예서가 여러 가지를 하나씩 직접 만들었어. 이 중에서 'literature'라고 부를 수 있는 건 뭘까?",
-   "choices": [
-    "직접 지어 쓴 시 한 편",
-    "직접 그린 풍경 그림 한 장",
-    "직접 만들어 부른 노래 한 곡",
-    "직접 찰흙으로 빚은 인형 하나"
-   ],
-   "answer_index": 0,
-   "answer": "직접 지어 쓴 시 한 편",
-   "why": "맞아! 시는 글로 써서 지어낸 거잖아. 눈으로 보는 것도 귀로 듣는 것도 아니고, 글로 만든 작품. 그래서 딱 한 편이어도 이게 바로 literature야."
   }
  ],
  "synonyms": [],
@@ -89,6 +65,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/literature.webp",
   "alt": "소설·시·옛날이야기처럼 글로 지어낸 작품을 떠올리는 모습",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

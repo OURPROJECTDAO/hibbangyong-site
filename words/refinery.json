@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/refinery/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/refinery/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/refinery/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "refinery",
  "slug": "refinery",
  "url": "https://hibbangyong.com/words/refinery/",
@@ -45,28 +45,6 @@
    "answer_index": 1,
    "answer": "누런 즙에서 찌꺼기를 빼 하얀 설탕으로 바꾸는 곳",
    "why": "맞아! 누런 즙에는 찌꺼기가 섞여 있는데, 그걸 빼서 하얀 설탕으로 깨끗하게 바꾸니까 바로 그게 refinery인 거야. refinery는 섞인 걸 걸러 내는 곳이거든."
-  },
-  {
-   "type": "ox",
-   "question": "광산에서 캐 온 구리 광석에는 돌가루와 흙이 잔뜩 섞여 있어. 어떤 공장이 이 광석을 받아서 섞인 것을 걸러 내고 순수한 구리로 만들어. 이 공장은 'refinery'야?",
-   "choices": [
-    "응, refinery 맞아",
-    "아니, refinery 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, refinery 맞아",
-   "why": "맞아! 구리 광석을 받아서 섞여 있는 돌가루랑 흙을 걸러 내고 순수한 구리로 만들잖아. 캐 온 걸 받아서 깨끗하게 거르는 공장, 바로 그게 refinery야."
-  },
-  {
-   "type": "ox",
-   "question": "사막 한가운데 땅속 깊이 쇠관을 박아 넣고, 시커먼 원유를 밤낮으로 뽑아 올리는 곳이 있어. 이런 곳도 'refinery'야?",
-   "choices": [
-    "응, 'refinery' 맞아",
-    "아니, 'refinery' 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 'refinery' 아니야",
-   "why": "맞아! 사막에서 쇠관을 박고 시커먼 원유를 뽑아 올리는 곳은 땅에서 캐내는 곳이지, 거르는 곳이 아니야. refinery는 그렇게 뽑아 온 원유를 받아서 섞인 걸 걸러 내고 깨끗하게 만드는 공장이거든."
   }
  ],
  "synonyms": [],
@@ -86,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/refinery.webp",
   "alt": "갓 뽑아 올린 시커먼 석유를 걸러 깨끗한 기름으로 만드는 공장",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

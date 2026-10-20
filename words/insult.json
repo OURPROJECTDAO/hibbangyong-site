@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/insult/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/insult/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/insult/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "insult",
  "slug": "insult",
  "url": "https://hibbangyong.com/words/insult/",
@@ -45,32 +45,6 @@
    "answer_index": 0,
    "answer": "\"너 그거 입으니까 진짜 못생기고 바보 같아.\"",
    "why": "맞아! 못생겼다, 바보 같다 하면서 너를 콕 집어 아래로 깎아내리려고 던진 말이잖아. 들으면 마음이 콕 찔리지. 그래서 바로 그게 insult인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "수영장에서 이런 말들이 오갔어. 이 중에서 'insult'인 건 뭐야?",
-   "choices": [
-    "언니가 나한테 \"네 수영은 개구리보다 엉망이야\"라고 했어.",
-    "언니가 나한테 \"네 수영은 돌고래처럼 매끄러워\"라고 했어.",
-    "언니가 나한테 \"물안경 끈은 귀 위로 걸어\"라고 했어.",
-    "언니가 나한테 \"물이 오늘 좀 차갑네\"라고 했어."
-   ],
-   "answer_index": 0,
-   "answer": "언니가 나한테 \"네 수영은 개구리보다 엉망이야\"라고 했어.",
-   "why": "맞아! 개구리보다 엉망이라니, 언니가 네 수영을 콕 집어서 아래로 깎아내린 거잖아. 일부러 나를 낮춰서 마음 찔리게 하는 말, 그게 바로 insult야."
-  },
-  {
-   "type": "choice",
-   "question": "교실에서 이런 일들이 있었어. 이 중에서 'insult'인 건 뭐야?",
-   "choices": [
-    "형이 동생한테 \"네 글씨는 지렁이 같아, 유치원생보다 못써\"라고 했어.",
-    "형이 동생한테 축구공을 던져서 같이 벽에 차기를 했어.",
-    "형이 동생한테 색연필 열두 자루를 책상 위에 늘어놓아 줬어.",
-    "형이 동생한테 우유갑을 건네고 빨대를 꽂아 줬어."
-   ],
-   "answer_index": 0,
-   "answer": "형이 동생한테 \"네 글씨는 지렁이 같아, 유치원생보다 못써\"라고 했어.",
-   "why": "맞아! 글씨를 지렁이 같다고 하고 유치원생보다 못한다고 콕 집어서 동생을 아래로 끌어내렸잖아. 일부러 깎아내리는 못된 말, 그게 바로 insult야."
   }
  ],
  "synonyms": [],
@@ -87,6 +61,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/insult.webp",
   "alt": "친구가 '멍청이·그것도 못하냐'며 나를 깔보는 말을 던진 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

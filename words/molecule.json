@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/molecule/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/molecule/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/molecule/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "molecule",
  "slug": "molecule",
  "url": "https://hibbangyong.com/words/molecule/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, molecule 맞아",
    "why": "맞아! 화면 속 알갱이 두 개가 서로 딱 붙어서 한 덩이가 됐잖아. 이렇게 알갱이들이 서로 붙어 한 덩이가 된 게 바로 molecule인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "식탁 위 유리컵에 물이 가득 담겨 있어. 눈에 보이는 그 물 전체가 'molecule'이야?",
-   "choices": [
-    "응, molecule 맞아",
-    "아니, molecule 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, molecule 아니야",
-   "why": "맞아! 컵에 가득 담긴 물은 눈에 안 보일 만큼 작은 물 덩이가 아주 많이 모인 거거든. molecule은 그 작은 덩이 딱 하나를 말하는 거라서, 눈에 보이는 물 전체는 molecule이 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "풍선 속을 아주 크게 키워 봤더니, 알갱이 둘이 서로 딱 붙어 짝을 지어 둥둥 떠다니고 있었어. 이 붙어 있는 짝 하나를 'molecule'이라고 불러도 돼?",
-   "choices": [
-    "응, molecule 맞아",
-    "아니, molecule 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, molecule 맞아",
-   "why": "맞아! 풍선 속 알갱이 둘이 서로 딱 붙어서 한 짝이 됐잖아. 이렇게 붙어서 한 묶음이 되면, 둘뿐이어도 그 짝 하나가 바로 molecule인 거야."
   }
  ],
  "synonyms": [
@@ -86,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/molecule.webp",
   "alt": "물 한 방울 속 알갱이 셋이 서로 딱 붙어 한 덩이를 이루고 있는 모습",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

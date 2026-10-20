@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/stretch/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/stretch/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/stretch/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "stretch",
  "slug": "stretch",
  "url": "https://hibbangyong.com/words/stretch/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, stretch 맞아",
    "why": "맞아! 손을 벌릴수록 머리끈 양쪽 끝이 점점 멀어졌잖아. 끝이 원래 있던 자리보다 더 멀리 가버린 거니까 바로 그게 stretch인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "할머니가 털장갑을 뜨거운 물에 빨았어. 마르고 나니 장갑 손가락 끝이 처음보다 안쪽으로 들어와 짧아졌어. 이게 'stretch'야?",
-   "choices": [
-    "응, stretch 맞아",
-    "아니, stretch 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, stretch 아니야",
-   "why": "그래 맞아, 이건 stretch가 아니야! 장갑 손가락 끝이 처음보다 안쪽으로 쏙 들어와 버렸잖아. 끝이 더 멀리 가야 stretch인데, 이건 반대로 가까워진 거거든."
-  },
-  {
-   "type": "choice",
-   "question": "잠옷 소매한테 벌어진 일 네 가지야. 이 중에 'stretch'가 일어난 건?",
-   "choices": [
-    "소매를 자꾸 잡아당겼더니 처음보다 길게 늘어나서 손끝까지 내려와 있어",
-    "소매가 팔에서 쑥 빠져나가 그대로 바닥에 툭 떨어져 있어",
-    "소매가 물에 빨고 나더니 작아져서 팔꿈치까지 올라가 있어",
-    "소매를 반으로 접어 올려서 두 겹으로 포개져 있어"
-   ],
-   "answer_index": 0,
-   "answer": "소매를 자꾸 잡아당겼더니 처음보다 길게 늘어나서 손끝까지 내려와 있어",
-   "why": "맞아! 소매를 잡아당겼더니 처음보다 길게 늘어나서 손끝까지 내려왔잖아. 소매 끝이 원래 있던 자리보다 더 멀리 간 거라서, 바로 그게 stretch인 거야."
   }
  ],
  "synonyms": [
@@ -97,6 +73,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/stretch.webp",
   "alt": "자꾸 잡아당겨 손이 숨을 만큼 길어진 잠옷 소매",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

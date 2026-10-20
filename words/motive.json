@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/motive/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/motive/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/motive/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "motive",
  "slug": "motive",
  "url": "https://hibbangyong.com/words/motive/",
@@ -45,30 +45,6 @@
    "answer_index": 1,
    "answer": "방이 답답해서 시원한 바람을 쐬고 싶은 속마음",
    "why": "맞아! 창문을 왜 열었냐면 방이 답답해서 시원한 바람을 쐬고 싶었던 거잖아. 그 마음속 까닭이 바로 motive거든. 눈에 안 보이는 '왜'를 딱 짚은 거야."
-  },
-  {
-   "type": "choice",
-   "question": "민수가 동생한테 사탕을 나눠 줬어. 누가 '민수의 motive가 뭐야?'라고 물으면, 뭘 말해 줘야 맞을까?",
-   "choices": [
-    "동생이 울까 봐 달래 주고 싶은 속마음",
-    "사탕을 두 개 집어서 나눠 준 그 행동",
-    "혼나기 싫어서 대충 둘러댄 핑계 말",
-    "딱히 아무 까닭도 없이 그냥 한 일"
-   ],
-   "answer_index": 0,
-   "answer": "동생이 울까 봐 달래 주고 싶은 속마음",
-   "why": "맞아! 겉으로 보이는 행동이 아니라 동생이 울까 봐 달래 주고 싶었던 그 속마음, 바로 그 마음속 까닭이 motive거든. 그걸 콕 짚었네!"
-  },
-  {
-   "type": "ox",
-   "question": "지호가 비 오는 날 친구한테 우산을 펼쳐서 씌워 줬어. 누가 '우산을 펼쳐 씌운 그 동작'이 바로 지호의 motive래. 이 말이 맞을까?",
-   "choices": [
-    "응, 그게 motive 맞아",
-    "아니, 그건 motive 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 그건 motive 아니야",
-   "why": "맞아! 우산을 펼쳐 씌운 건 지호가 한 동작이지, 왜 그랬는지 마음속 까닭은 아니거든. motive는 눈에 보이는 그 행동이 아니라, 지호가 그걸 하게 만든 속마음이야. 그래서 아니라고 한 네가 딱 맞았어!"
   }
  ],
  "synonyms": [],
@@ -98,6 +74,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/motive.webp",
   "alt": "친구가 갑자기 가방을 들어준 일(왜 그랬는지)",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

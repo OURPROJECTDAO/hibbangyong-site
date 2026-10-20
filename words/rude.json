@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/rude/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/rude/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/rude/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "rude",
  "slug": "rude",
  "url": "https://hibbangyong.com/words/rude/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, rude 맞아",
    "why": "맞아! 선생님이 건네주는 책을 휙 낚아채고 그냥 등을 돌린 거잖아. 화를 낸 것도 아니고 소리를 지른 것도 아니지만, 앞에 있는 사람을 없는 사람처럼 함부로 대한 거라서 바로 그게 rude야."
-  },
-  {
-   "type": "ox",
-   "question": "수아는 급식실에서 앞사람이 국을 다 뜰 때까지 국자를 잡지 않고 뒤에서 기다렸어. 이건 'rude'야?",
-   "choices": [
-    "응, rude 맞아",
-    "아니, rude 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, rude 아니야",
-   "why": "맞아! 앞사람이 다 뜰 때까지 기다린 건 남을 함부로 대한 게 아니라 오히려 챙겨 준 거잖아. 그러니까 rude가 아니야."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 각자 이런 행동을 했어. 이 중에 'rude'하다고 하는 건 누구일까?",
-   "choices": [
-    "무서운 개를 보고 깜짝 놀라 소리를 크게 지른 아이",
-    "부끄러워서 인사를 못 하고 엄마 뒤로 숨어 버린 아이",
-    "어른이 건네준 물건을 고맙다는 말도 없이 홱 낚아챈 아이",
-    "친구 말이 다 끝날 때까지 기다렸다가 손을 든 아이"
-   ],
-   "answer_index": 2,
-   "answer": "어른이 건네준 물건을 고맙다는 말도 없이 홱 낚아챈 아이",
-   "why": "맞아! 물건을 받으면서 고맙다는 말도 없이 홱 낚아채면, 준 사람 기분이 확 상하거든. 화를 낸 것도 아닌데 남을 함부로 대한 거라서, 바로 그게 rude인 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/rude.webp",
   "alt": "친구 말하는 중에 끼어들어 말을 자르는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

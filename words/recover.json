@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/recover/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/recover/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/recover/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "recover",
  "slug": "recover",
  "url": "https://hibbangyong.com/words/recover/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, recover 아니야",
    "why": "맞아! 동전이 빠져나가기만 하고 도로 돌아온 건 없잖아. recover는 없어진 걸 도로 갖는 건데 이건 갖고 있던 걸 잃기만 한 거라서, 방향이 아예 반대인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "형이 쓰던 축구공에서 바람이 다 빠져 납작해졌어. 펌프로 바람을 다시 넣으니 예전처럼 빵빵해졌어. 이게 'recover'야?",
-   "choices": [
-    "응, recover 맞아",
-    "아니, recover 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, recover 맞아",
-   "why": "맞아! 빵빵했다가 빠져버린 바람을 도로 채워서 예전 그 모습으로 돌아왔잖아. 없어졌던 걸 도로 갖게 된 거니까 바로 그게 recover야."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 각자 곰인형 이야기를 했어. 'recover' 했다고 말할 수 있는 건 누구야?",
-   "choices": [
-    "잃어버렸던 곰인형을 소파 밑에서 도로 찾은 아이",
-    "친구한테 곰인형을 처음으로 선물받은 아이",
-    "아끼던 곰인형을 놀이터에 두고 와서 없어진 아이",
-    "낡은 곰인형을 꾸며서 새것처럼 만든 아이"
-   ],
-   "answer_index": 0,
-   "answer": "잃어버렸던 곰인형을 소파 밑에서 도로 찾은 아이",
-   "why": "맞아! 없어졌던 곰인형이 소파 밑에서 도로 나왔잖아. 있다가 잃어버린 걸 다시 갖게 된 거니까 그게 바로 recover야."
   }
  ],
  "synonyms": [],
@@ -93,6 +69,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/recover.webp",
   "alt": "물 못 받아 축 늘어졌다가 물 준 뒤 잎이 다시 빳빳해진 화분",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

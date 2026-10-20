@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/appalling/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/appalling/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/appalling/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "appalling",
  "slug": "appalling",
  "url": "https://hibbangyong.com/words/appalling/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, appalling 아니야",
    "why": "맞아! 주문한 것보다 훨씬 좋은 운동화에 양말 선물까지 들어 있었잖아. appalling은 너무 나빠서 기가 막힐 때만 쓰니까, 이렇게 좋은 택배엔 안 맞는 거야."
-  },
-  {
-   "type": "ox",
-   "question": "동네 동물 보호소를 찾아갔더니, 개들이 며칠째 물도 못 마시고 오물이 가득한 좁은 우리에 갇혀 있었어. 이 보호소 상태를 'appalling'이라고 할 수 있을까?",
-   "choices": [
-    "응, appalling 맞아",
-    "아니, appalling 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, appalling 맞아",
-   "why": "맞아! 개들이 며칠째 물도 못 마시고 오물 가득한 좁은 우리에 갇혀 있는 건 좀 별로인 수준이 아니라 선을 한참 넘게 나쁜 거라서, 바로 그게 appalling인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 겪은 일을 말했어. 그 일을 'appalling'이라고 부르기에 가장 알맞은 건?",
-   "choices": [
-    "식당 주방에 바퀴벌레가 기어 다니고 음식은 상한 채로 나왔어",
-    "캄캄한 복도에서 갑자기 누가 튀어나와서 온몸에 소름이 돋았어",
-    "급식 반찬이 평소보다 조금 싱거워서 살짝 아쉬운 점심이었어",
-    "처음 가 본 식당이 생각보다 훨씬 맛있어서 깜짝 놀랐어"
-   ],
-   "answer_index": 0,
-   "answer": "식당 주방에 바퀴벌레가 기어 다니고 음식은 상한 채로 나왔어",
-   "why": "맞아! 식당 주방에 바퀴벌레가 기어 다니고 음식까지 상한 채로 나왔으면 너무 나빠서 '이게 말이 돼?' 소리가 절로 나오잖아. 그렇게 선을 한참 넘게 엉망인 게 바로 appalling이야."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/appalling.webp",
   "alt": "수학여행 숙소의 얼룩진 이불과 곰팡이 핀 화장실",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/confront/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/confront/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/confront/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "confront",
  "slug": "confront",
  "url": "https://hibbangyong.com/words/confront/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, confront 아니야.",
    "why": "맞아, confront는 아니야. 태오는 전화를 안 받으려고 폰을 뒤집고 다른 방까지 갔잖아. 딱 마주 서는 게 아니라 돌아서 피한 거니까 이건 confront가 아닌 게 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "수현이는 자기 이름을 자꾸 이상하게 부르는 같은 반 아이한테 쉬는 시간에 다가갔어. 목소리를 하나도 높이지 않고 차분하게 '그거 그만해 줘'라고 말했어. 이런 경우도 'confront'야?",
-   "choices": [
-    "응, 'confront' 맞아",
-    "아니, 'confront' 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, 'confront' 맞아",
-   "why": "맞아! 목소리를 높이지 않았어도 수현이는 돌아가지 않고 그 아이 앞에 딱 가서 서서 말했잖아. 그게 바로 confront야."
-  },
-  {
-   "type": "choice",
-   "question": "아이 넷이 어제 형과 있었던 일을 말했어. 이 중에 'confront' 한 아이는 누구야?",
-   "choices": [
-    "민수는 그 얘기가 나올까 봐, 형이 있는 방을 하루 종일 피해 다녔어.",
-    "예나는 복도에서 형이랑 딱 마주쳤는데, 인사만 하고 그냥 지나갔어.",
-    "지호는 혼날 걸 알면서도 형한테 가서 그 일을 먼저 꺼냈어.",
-    "수아는 형이 입을 열기도 전에 달려들어 소리부터 질렀어."
-   ],
-   "answer_index": 2,
-   "answer": "지호는 혼날 걸 알면서도 형한테 가서 그 일을 먼저 꺼냈어.",
-   "why": "맞아! 혼날 걸 알면서도 피하지 않고 형 앞에 가서 그 일을 먼저 꺼냈잖아. 없는 척을 그만두고 딱 마주 선 거, 그게 바로 confront야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/confront.webp",
   "alt": "피하고 싶은 일 앞에서 돌아가지 않고 서서 눈 맞추기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

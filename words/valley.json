@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/valley/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/valley/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/valley/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "valley",
  "slug": "valley",
  "url": "https://hibbangyong.com/words/valley/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, valley 아니야",
    "why": "맞아! 케이블카로 올라간 그 자리는 사방이 다 아래로 내려가는 제일 높은 곳이잖아. valley는 양옆보다 낮게 쭉 이어진 땅이니까, 제일 높은 자리는 valley가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "자전거를 타고 가는데 길이 쭉 아래로 내려가더니, 양옆으로 언덕이 높이 솟아 있고 그 사이 낮은 땅이 한참 이어졌어. 이게 'valley'야?",
-   "choices": [
-    "응, valley 맞아",
-    "아니, valley 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, valley 맞아",
-   "why": "맞아! 양옆으로 언덕이 높이 솟아 있고 그 사이 낮은 땅이 한참 이어졌잖아. 양옆보다 낮은 땅이 길게 이어지면 그게 바로 valley인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "친구 넷이 자기 마을이 어떤 곳인지 말했어. 'valley'에 사는 친구는 누구일까?",
-   "choices": [
-    "우리 마을은 어느 쪽으로 나가든 오르막을 올라가야 해. 대신 마을 안은 넓어서 밭도 있고 집도 많아.",
-    "우리 마을은 어느 쪽으로 걸어도 계속 평평해. 오르막도 내리막도 하나 안 나와.",
-    "우리 마을에 오려면 어느 쪽에서든 한참 올라와야 해. 대신 창밖으로 아래가 다 내려다보여.",
-    "우리 마을은 조금만 걸으면 어느 쪽이든 물이 나와. 밖에 나가려면 꼭 배를 타야 해."
-   ],
-   "answer_index": 0,
-   "answer": "우리 마을은 어느 쪽으로 나가든 오르막을 올라가야 해. 대신 마을 안은 넓어서 밭도 있고 집도 많아.",
-   "why": "맞아! 어느 쪽으로 나가든 오르막을 올라가야 한다는 건, 이 마을이 양옆 땅보다 낮은 데 있다는 뜻이거든. 그래서 이 마을이 valley인 거야. 마을 안이 넓어서 밭도 있고 집도 많은 건 상관없어. 낮은 땅이 이렇게 넓어도 valley야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/valley.webp",
   "alt": "산이나 언덕 사이로 길게 낮아진 땅",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

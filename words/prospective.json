@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/prospective/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/prospective/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/prospective/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "prospective",
  "slug": "prospective",
  "url": "https://hibbangyong.com/words/prospective/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, prospective 맞아",
    "why": "맞아! 면접 보러 온 이 사람은 아직 이 빵집에서 일한 적은 없지만, 면접에 붙으면 곧 여기 직원이 될 수 있잖아. 지금은 아니어도 앞으로 그 자리에 설 것 같은 사람이라서 바로 prospective 직원인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "동네 빵집에서 2년 동안 일하다가 지난달에 그만두고 나간 사람이 있어. 이 사람을 이 빵집의 'prospective' 직원이라고 할 수 있을까?",
-   "choices": [
-    "응, prospective 맞아",
-    "아니, prospective 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, prospective 아니야",
-   "why": "맞아! 그 사람은 지난달에 이미 그만두고 나갔잖아. prospective는 앞으로 이 빵집에서 일하게 될 사람한테 쓰는 말이라서, 이미 떠난 사람은 전 직원(former)이지 prospective가 아니야."
-  },
-  {
-   "type": "choice",
-   "question": "반 대항 축구 대회 이야기가 나왔어. 아래 중에서 'prospective'라는 말을 붙이기에 가장 알맞은 건?",
-   "choices": [
-    "작년까지 우리 팀 주장이었던 선배",
-    "지금 우리 팀 주장을 맡고 있는 친구",
-    "다음 경기에서 붙게 될 것 같은 옆 반",
-    "우리 팀 이기라고 응원하는 옆 반 친구"
-   ],
-   "answer_index": 2,
-   "answer": "다음 경기에서 붙게 될 것 같은 옆 반",
-   "why": "맞아! 옆 반은 아직 우리랑 붙은 게 아니야. 근데 다음 경기에서 우리 상대가 될 것 같잖아. 이렇게 아직은 아니지만 앞으로 그렇게 될 것 같은 상대를 prospective라고 불러."
   }
  ],
  "synonyms": [],
@@ -93,6 +69,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/prospective.webp",
   "alt": "학교 설명회에 구경 온 다른 학교 중3들",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

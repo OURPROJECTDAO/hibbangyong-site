@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/disaster/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/disaster/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/disaster/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "disaster",
  "slug": "disaster",
  "url": "https://hibbangyong.com/words/disaster/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, disaster 맞아",
    "why": "맞아! 밤새 내린 비 때문에 산의 흙이 갑자기 무너져서 집 수십 채가 흙에 묻혔잖아. 마을 사람들이 모두 집을 떠나 학교 체육관에서 지내야 했으니까, 이건 바로 disaster인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "강가에서 큰 불꽃 축제가 열렸어. 온 도시 사람들이 수만 명이나 모여서 하늘에 터지는 불꽃을 보며 다 같이 손뼉 치고 환호했어. 이 일은 'disaster'야?",
-   "choices": [
-    "응, disaster 맞아",
-    "아니, disaster 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, disaster 아니야",
-   "why": "맞아! 불꽃 축제에는 사람이 수만 명이나 모였지만, 부서진 것도 없고 힘들어진 사람도 없잖아. 다 같이 손뼉 치고 환호한 기쁜 날이니까 disaster가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "급식 시간에 우유를 쏟아서 옷이 다 젖고, 친구들이 쳐다봐서 너무 창피했어. 이런 경우도 'disaster'야?",
-   "choices": [
-    "응, 'disaster' 맞아",
-    "아니, 'disaster' 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 'disaster' 아니야",
-   "why": "맞아! 우유를 쏟아서 옷이 젖고 창피했던 건 속상한 일이지만, 부서진 것도 없고 많은 사람이 크게 힘들어진 것도 아니거든. 그래서 disaster가 아닌 거야."
   }
  ],
  "synonyms": [],
@@ -78,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/disaster.webp",
   "alt": "큰불로 동네 집들이 타 버림",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/tuition/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/tuition/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/tuition/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "tuition",
  "slug": "tuition",
  "url": "https://hibbangyong.com/words/tuition/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, tuition 맞아",
    "why": "맞아! 서준이네가 내는 12만 원은 관장님께 발차기를 배우는 값이라서, 바로 그게 tuition인 거야. 가르쳐 주는 사람이 있고 배우는 대가로 내는 돈이면 도장이든 학원이든 다 tuition이야."
-  },
-  {
-   "type": "ox",
-   "question": "하린이는 이번 학기에 성적이 좋아서 학교로부터 장학금 50만 원을 받았어. 하린이가 받은 이 50만 원, 이게 'tuition'이야?",
-   "choices": [
-    "응, tuition 맞아",
-    "아니, tuition 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, tuition 아니야",
-   "why": "맞아! tuition은 배우는 쪽이 내는 돈인데, 하린이는 이 50만 원을 학교에서 받았잖아. 돈이 가는 방향이 반대라서 tuition이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "지우가 이번 달에 수영 때문에 쓰거나 받은 돈이 네 가지 있어. 이 중에서 'tuition'이라고 부를 수 있는 건?",
-   "choices": [
-    "코치에게 수영을 배우려고 센터에 낸 돈",
-    "수영이 끝나고 매점에서 음료를 사 먹은 돈",
-    "혼자 놀려고 수영장에 들어가며 낸 돈",
-    "수영 대회에서 1등을 해서 받은 돈"
-   ],
-   "answer_index": 0,
-   "answer": "코치에게 수영을 배우려고 센터에 낸 돈",
-   "why": "맞아! 코치한테 수영을 배우려고 센터에 낸 돈이니까, 배우는 값으로 낸 거잖아. 그래서 바로 그게 tuition인 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/tuition.webp",
   "alt": "피아노 학원·대학에 배우는 값으로 돈 내기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

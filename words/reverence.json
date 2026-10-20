@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/reverence/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/reverence/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/reverence/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "reverence",
  "slug": "reverence",
  "url": "https://hibbangyong.com/words/reverence/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, reverence 맞아",
    "why": "맞아! 아무도 시키지 않았는데 수백 년 된 법당 앞에서 신발을 가지런히 벗고, 발소리를 죽이고, 고개까지 숙였잖아. 그곳을 아주 높이 여겨서 함부로 할 수 없는 마음이 저절로 나온 거니까, 이게 바로 reverence야."
-  },
-  {
-   "type": "ox",
-   "question": "준호는 동생이 열심히 접은 종이비행기를 보고 \"그런 건 유치원생이나 하는 거지\" 하며 코웃음을 쳤어. 이때 준호가 동생에게 품은 마음은 'reverence'일까?",
-   "choices": [
-    "응, reverence 맞아",
-    "아니, reverence 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, reverence 아니야",
-   "why": "맞아! 준호는 동생이 접은 종이비행기를 보고 유치원생이나 하는 거라며 코웃음을 쳤잖아. 동생을 낮게 보고 깔본 거라서, 상대를 높이 여겨 조심스러워지는 reverence랑은 정반대야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 어떤 순간에 든 마음을 말했어. 'reverence'를 느낀 친구는 누구일까?",
-   "choices": [
-    "좋아하는 가수 공연장에서 너무 신이 나서 내내 소리를 질렀어",
-    "옆 반 애가 발표하다 실수하는 걸 보고 속으로 한심하다고 생각했어",
-    "산꼭대기의 천 년 된 큰 나무 앞에서, 함부로 만지면 안 될 것 같아 조용해졌어",
-    "밤길에 큰 개가 계속 따라와서 무서워 숨을 죽이고 걸었어"
-   ],
-   "answer_index": 2,
-   "answer": "산꼭대기의 천 년 된 큰 나무 앞에서, 함부로 만지면 안 될 것 같아 조용해졌어",
-   "why": "맞아! 산꼭대기의 천 년 된 큰 나무를 아주 높이 여기니까 함부로 만지면 안 될 것 같아서 저절로 조용해진 거잖아. 그게 바로 reverence야. 사람이 아니라 큰 자연 앞에서도 이런 마음이 생겨."
   }
  ],
  "synonyms": [
@@ -96,6 +72,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/reverence.webp",
   "alt": "박물관의 천 년 된 책 앞에서 저절로 목소리가 작아짐",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/experience/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/experience/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/experience/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "experience",
  "slug": "experience",
  "url": "https://hibbangyong.com/words/experience/",
@@ -45,32 +45,6 @@
    "answer_index": 0,
    "answer": "동생이 물총을 쏴서 내 등에 찬물이 확 튀었다",
    "why": "맞아! 물총 물이 등에 확 튀었으면 그건 나한테 일어난 일이고, 차가운 걸 내가 직접 느낀 거잖아. 그래서 바로 그게 겪은 거야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 중 'experience'에 해당하는 것은?",
-   "choices": [
-    "미끄럼틀을 타고 내려오다 엉덩이가 찌릿했다",
-    "삼촌이 스키를 타다 넘어졌다고 나에게 말해줬다",
-    "누나가 놀이터에서 그네를 탔다고 나에게 얘기했다",
-    "아빠가 회사에서 커피를 쏟았다고 나에게 알려줬다"
-   ],
-   "answer_index": 0,
-   "answer": "미끄럼틀을 타고 내려오다 엉덩이가 찌릿했다",
-   "why": "맞아! 미끄럼틀 타고 내려온 것도 나고, 엉덩이가 찌릿한 것도 내가 느낀 거잖아. 나한테 일어나서 내가 몸으로 느꼈으니까 바로 그게 experience인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구 넷이 어제 있었던 일을 말했어. 'experience'한 걸 말한 친구는 누구야?",
-   "choices": [
-    "처음 김치를 먹었는데 혀가 얼얼하고 눈물이 찔끔 났다고 말한 친구",
-    "형이 번지점프를 하고 엄청 짜릿했다고 자기한테 말해줬다는 친구",
-    "이번 주말에 놀이공원 가서 회전목마를 탈 거라고 말한 친구",
-    "화산이 어떻게 터지는지 책에서 읽어서 잘 안다고 말한 친구"
-   ],
-   "answer_index": 0,
-   "answer": "처음 김치를 먹었는데 혀가 얼얼하고 눈물이 찔끔 났다고 말한 친구",
-   "why": "맞아! 김치를 먹은 것도 나, 혀가 얼얼했던 것도 나, 눈물 찔끔 난 것도 나잖아. 나한테 일어나서 내가 직접 느꼈으니까 바로 그게 experience인 거야."
   }
  ],
  "synonyms": [],
@@ -84,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/experience.webp",
   "alt": "자전거 타다 넘어져 무릎 까지고 아픔을 직접 느낌",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/status/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/status/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/status/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "status",
  "slug": "status",
  "url": "https://hibbangyong.com/words/status/",
@@ -45,28 +45,6 @@
    "answer_index": 0,
    "answer": "지금 배송 중이라 내일 도착한대.",
    "why": "맞아! 지금 배송 중이고 내일 도착한다는 건 그 택배가 지금 어디쯤 왔나, 어떤 단계에 있나를 말한 거라서 바로 그게 status인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "게임에서 친구 캐릭터가 '브론즈 → 실버 → 골드'로 올라가다가 지금은 골드 칸에 와 있어. 친구가 화면에 뜬 이 '골드'를 'status'라고 불렀어. 맞게 쓴 걸까?",
-   "choices": [
-    "응, status 맞게 썼어",
-    "아니, status가 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, status 맞게 썼어",
-   "why": "맞아! 브론즈에서 실버, 골드로 한 칸씩 올라오다가 지금 골드 칸에 와 있잖아. 지금 어디쯤 와 있나를 딱 보여주는 거니까 그게 바로 status인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "자전거가 녹슬고 바퀴 바람도 다 빠졌어. 친구가 이 망가진 형편을 보고 자전거의 'status'가 안 좋다고 했어. 이렇게 쓰는 게 딱 맞을까?",
-   "choices": [
-    "응, 그 망가진 형편이 바로 'status'야",
-    "아니, 그건 형편(condition)이지 'status'가 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 그건 형편(condition)이지 'status'가 아니야",
-   "why": "맞아! 자전거가 녹슬고 바람 빠진 건 얼마나 멀쩡하냐 망가졌냐 하는 형편(이건 condition이야), status가 아니거든. 그래서 status가 아니라고 한 네가 딱 맞췄어."
   }
  ],
  "synonyms": [
@@ -99,6 +77,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/status.webp",
   "alt": "택배 앱 '배송 중' 단계 표시 = 지금 어디쯤인지 보여주는 라벨.",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/marginally/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/marginally/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/marginally/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "marginally",
  "slug": "marginally",
  "url": "https://hibbangyong.com/words/marginally/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, marginally 맞아",
    "why": "맞아! 160.0cm에서 160.3cm면 크긴 컸는데 0.3cm라 알아챌까 말까 한 차이잖아. 이렇게 변하긴 했는데 아주 조금일 때 쓰는 말이 바로 marginally야."
-  },
-  {
-   "type": "ox",
-   "question": "어제 낮 기온은 10도였는데, 오늘 낮 기온은 25도였어. 이럴 때 오늘 기온이 어제보다 'marginally' 올랐다고 할 수 있어?",
-   "choices": [
-    "응, marginally 맞아",
-    "아니, marginally 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, marginally 아니야",
-   "why": "맞아! 10도에서 25도면 15도나 오른 거라 꽤 많이 오른 거야. marginally는 겨우 알아챌 만큼 조금 변했을 때 쓰는 말이라, 이렇게 확 오른 날엔 안 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "지난 시험 반 평균이 70점이었어. 이번 반 평균이 지난번보다 'marginally' 떨어졌다고 할 수 있는 건?",
-   "choices": [
-    "이번 평균이 69.5점이 됐어",
-    "이번 평균이 70점 그대로야",
-    "이번 평균이 60점이 됐어",
-    "이번 평균이 40점이 됐어"
-   ],
-   "answer_index": 0,
-   "answer": "이번 평균이 69.5점이 됐어",
-   "why": "맞아! 70점에서 69.5점이면 떨어지긴 떨어졌는데 알아챌까 말까 한 0.5점 차이잖아. 이렇게 아주 조금 변한 게 바로 marginally야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/marginally.webp",
   "alt": "반 평균 점수가 70점에서 70.5점으로 오른 상황",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

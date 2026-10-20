@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/declare/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/declare/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/declare/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "declare",
  "slug": "declare",
  "url": "https://hibbangyong.com/words/declare/",
@@ -45,28 +45,6 @@
    "answer_index": 0,
    "answer": "반 친구들 다 있는 앞으로 나가서 큰 소리로 '나 반장 할래!' 하고 모두한테 말했어.",
    "why": "맞아! 반 친구들 다 있는 앞에서 큰 소리로 '나 반장 할래!' 하고 모두한테 딱 정해서 내놨잖아. 모두 다 듣게 이건 이거다 하고 내놓는 그 말, 그게 바로 declare야."
-  },
-  {
-   "type": "ox",
-   "question": "민호가 복도를 지나가다가 옆 친구한테 '아 참, 오늘 급식 카레래' 하고 아는 걸 툭 알려줬어. 이런 경우도 'declare'야?",
-   "choices": [
-    "응, 'declare' 맞아.",
-    "아니, 'declare' 아니야."
-   ],
-   "answer_index": 1,
-   "answer": "아니, 'declare' 아니야.",
-   "why": "맞아! 급식이 카레라고 아는 걸 툭 알려준 건 그냥 소식을 전한 거잖아. declare는 모두 다 듣게 벌떡 일어나 딱 정해서 못 박듯 밝히는 거라, 이건 declare가 아닌 거 맞아. 잘 골랐어!"
-  },
-  {
-   "type": "ox",
-   "question": "지호가 조용하고 차분하게 '지구는 태양 주위를 돌아' 하고 아는 사실을 그냥 말했어. 이런 경우도 'declare'야?",
-   "choices": [
-    "응, 'declare' 맞아.",
-    "아니, 'declare' 아니야."
-   ],
-   "answer_index": 1,
-   "answer": "아니, 'declare' 아니야.",
-   "why": "딱 맞아! 지호는 조용하고 차분하게 그냥 아는 걸 말한 거잖아. declare는 벌떡 일어나서 모두 들으라고 크게 외치는 말이거든. 그러니까 이건 declare가 아닌 게 맞아!"
   }
  ],
  "synonyms": [
@@ -88,6 +66,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/declare.webp",
   "alt": "교실에서 벌떡 일어나 반 전체에게 방학에 수영 배우겠다고 큰 소리로 밝히는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

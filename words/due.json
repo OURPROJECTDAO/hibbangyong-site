@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/due/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/due/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/due/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "due",
  "slug": "due",
  "url": "https://hibbangyong.com/words/due/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, due 맞아",
    "why": "맞아! 10일에 내기로 딱 정해뒀는데 오늘이 바로 그 10일이잖아. 정해둔 그때가 딱 온 거니까 학원비는 지금 낼 때가 된 거야."
-  },
-  {
-   "type": "choice",
-   "question": "사서 선생님이 아이들 책 네 권을 보고 있어. 지금 'due'인 책은 어떤 거야?",
-   "choices": [
-    "돌려주기로 정한 날이 바로 오늘인 책",
-    "돌려주기로 정한 날이 아직 두 주나 남은 책",
-    "돌려주기로 정한 날이 벌써 지나 버린 책",
-    "돌려줄 날을 아예 안 정하고 빌린 책"
-   ],
-   "answer_index": 0,
-   "answer": "돌려주기로 정한 날이 바로 오늘인 책",
-   "why": "맞아! 오늘이 바로 돌려주기로 한 그날이니까 지금 딱 그때가 된 거야. 하루 전도 아니고 하루 뒤도 아니고 딱 그날, 그게 due야."
-  },
-  {
-   "type": "ox",
-   "question": "치과에 다시 오라고 한 날이 여섯 달 뒤야. 오늘은 그 여섯 달 중 아직 첫 주야. 치과 가는 게 'due'야?",
-   "choices": [
-    "응, due 맞아",
-    "아니, due 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, due 아니야",
-   "why": "맞아! 여섯 달 뒤에 오라고 했는데 아직 첫 주잖아. 다섯 달도 넘게 남았으니까 갈 때가 딱 된 게 아니야. 그래서 due가 아닌 거야."
   }
  ],
  "synonyms": [],
@@ -91,6 +67,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/due.webp",
   "alt": "도서관 책을 금요일까지 돌려주기로 한 반납 기한 (child 앵커)",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

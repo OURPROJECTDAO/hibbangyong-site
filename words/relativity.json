@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/relativity/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/relativity/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/relativity/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "relativity",
  "slug": "relativity",
  "url": "https://hibbangyong.com/words/relativity/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, relativity 맞아",
    "why": "맞아! 같은 옆 차인데 차 안에 있는 너한테는 멈춰 있는 것처럼 보이고, 길가에 서 있는 사람한테는 쌩 지나가는 걸로 보이잖아. 어디서 보느냐에 따라 움직임이 달라지는 거니까 바로 그게 relativity야."
-  },
-  {
-   "type": "ox",
-   "question": "시험지 한 장에 문제가 20개 있어. 교실 맨 앞에 앉은 애가 세든 맨 뒤에 앉은 애가 세든, 문제 수는 20개로 똑같아. 이렇게 어디서 세도 값이 하나로 정해져 있는 성질, 이게 'relativity'야?",
-   "choices": [
-    "응, relativity 맞아",
-    "아니, relativity 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, relativity 아니야",
-   "why": "잘 골랐어! 맨 앞에 앉은 애가 세든 맨 뒤에 앉은 애가 세든 문제 수는 20개로 똑같잖아. relativity는 기준에 따라 값이 달라지는 성질이라 이건 정반대야. 그래서 relativity가 아닌 거지."
-  },
-  {
-   "type": "choice",
-   "question": "과학 시간에 친구 넷이 각자 발표를 했어. 'relativity'를 다룬 발표는 어느 거야?",
-   "choices": [
-    "빠르게 나는 우주선 안 시계가 땅 위 시계보다 느리게 간다는 발표",
-    "물이 어디서나 100도에서 끓고 0도에서 언다는 발표",
-    "자석 두 개가 서로 끌어당겨 딱 붙는다는 발표",
-    "친구마다 같은 노래를 좋아하고 싫어하는 게 다르다는 발표"
-   ],
-   "answer_index": 0,
-   "answer": "빠르게 나는 우주선 안 시계가 땅 위 시계보다 느리게 간다는 발표",
-   "why": "맞아! 빠르게 나는 우주선 안이냐 땅 위냐, 어디서 재느냐에 따라 시계가 가는 빠르기 자체가 달라진다는 거잖아. 바로 그게 relativity, 상대성 이론이 말하는 거야."
   }
  ],
  "synonyms": [],

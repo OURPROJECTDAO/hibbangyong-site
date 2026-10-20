@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/direct/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/direct/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/direct/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "direct",
  "slug": "direct",
  "url": "https://hibbangyong.com/words/direct/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, direct 맞아",
    "why": "맞아! 이 버스는 중간에 어느 정류장에도 서지 않고 우리 동네에서 할머니 동네까지 한 번에 가지? 사이에 멈추는 곳이 하나도 없으니까 이 버스가 딱 direct인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "서울에서 제주도로 가는 비행기가 있어. 이 비행기는 중간에 부산 공항에 내렸다가, 다시 떠서 제주도로 가. 이 비행기는 'direct'한 비행기야?",
-   "choices": [
-    "응, direct 맞아",
-    "아니, direct 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, direct 아니야",
-   "why": "맞아! 이 비행기는 서울에서 떠서 부산 공항에 한 번 내렸다가 제주도로 가거든. 서울이랑 제주도 사이에 부산이 끼어 있으니까 direct가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "민수가 선생님께 꼭 할 말이 있었어. 민수가 그 말을 'direct'하게 전한 건 어느 거야?",
-   "choices": [
-    "쉬는 시간에 바로, 친구를 시켜서 전했어",
-    "선생님 바로 옆에서, 짝에게 전해 달라고 했어",
-    "하루 늦게, 교무실에 가서 선생님께 말했어",
-    "그날 저녁에, 엄마가 대신 전화로 말해 줬어"
-   ],
-   "answer_index": 2,
-   "answer": "하루 늦게, 교무실에 가서 선생님께 말했어",
-   "why": "맞아! 하루 늦게 갔지만, 민수가 교무실에 가서 선생님께 직접 말했잖아. 민수랑 선생님 사이에 아무도 안 끼었으니까 바로 그게 direct인 거야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/direct.webp",
   "alt": "친구 셋을 거쳐 쪽지 전달 vs 내가 바로 건네기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

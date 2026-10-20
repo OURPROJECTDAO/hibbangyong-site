@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/unsettling/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/unsettling/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/unsettling/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "unsettling",
  "slug": "unsettling",
  "url": "https://hibbangyong.com/words/unsettling/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, unsettling 아니야",
    "why": "맞아! 길 잃고 혼자 있을 때 선생님이 \"여기 있었구나, 같이 가자\" 하면서 손까지 잡아 주면 오히려 마음이 탁 놓이잖아. 그렇게 안심시켜 주는 말이니까 unsettling이랑은 정반대(이건 reassuring이야)인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "학원 끝나고 집에 왔는데 현관문이 살짝 열려 있어. 집 안은 조용하고 없어진 물건도 없어. 그래도 '왜 열려 있지?' 하는 생각이 계속 들어. 이 상황은 'unsettling'이야?",
-   "choices": [
-    "응, unsettling 맞아",
-    "아니, unsettling 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, unsettling 맞아",
-   "why": "맞아! 집 안이 조용하고 없어진 물건도 없으니까 크게 무서운 일은 없는데, 현관문이 살짝 열려 있다는 것 하나 때문에 '왜 열려 있지?' 하는 생각이 계속 들잖아. 이렇게 마음이 안 놓이고 계속 찜찜하게 만드는 게 바로 unsettling이야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 겪은 일을 말했어. 'unsettling'이라는 말이 가장 잘 어울리는 경우는?",
-   "choices": [
-    "귀신의 집에서 귀신이 갑자기 튀어나와 비명을 질렀어",
-    "옆자리 애가 계속 펜을 딸깍거려서 짜증이 났어",
-    "매일 문자하던 단짝이 사흘째 답이 없어서 마음이 쓰여",
-    "늦게 온 동생이 무사히 들어와서 마음이 놓였어"
-   ],
-   "answer_index": 2,
-   "answer": "매일 문자하던 단짝이 사흘째 답이 없어서 마음이 쓰여",
-   "why": "맞아! 무서운 일이 터진 것도 아닌데 매일 문자하던 단짝이 사흘째 답이 없으니까 마음이 계속 안 놓이잖아. 이렇게 조용히 찜찜하게 만드는 게 바로 unsettling이야."
   }
  ],
  "synonyms": [],

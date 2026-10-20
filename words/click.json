@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/click/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/click/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/click/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "click",
  "slug": "click",
  "url": "https://hibbangyong.com/words/click/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, click 맞아",
    "why": "맞아! 손가락으로 눌렀더니 짧고 딱 하고 한 번 났잖아. 볼펜 뒤를 누를 때 나는 딱 그 소리, 그게 바로 click인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "낡은 그네에 앉아 흔들었더니 삐이걱 소리가 길게 늘어지며 계속 이어졌어. 이게 'click'이야?",
-   "choices": [
-    "응, click 맞아",
-    "아니, click 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, click 아니야",
-   "why": "맞아! 삐이걱 하고 길게 늘어지는 소리는 짧고 딱딱한 딸깍이 아니거든. 그래서 이건 click이 아닌 게 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "지금 방 안에서 네 가지 일이 벌어졌어. 이 중에 'click' 소리가 난 건 어느 쪽일까?",
-   "choices": [
-    "라디오 볼륨 손잡이를 한 칸 돌리자 짧고 마른 소리가 한 번 났어",
-    "선풍기가 계속 돌면서 웅웅 소리가 끊이지 않고 이어졌어",
-    "두꺼운 사전이 책상에서 바닥으로 떨어져 둔하게 울렸어",
-    "빗자루로 바닥을 쓸자 사각사각 소리가 계속 났어"
-   ],
-   "answer_index": 0,
-   "answer": "라디오 볼륨 손잡이를 한 칸 돌리자 짧고 마른 소리가 한 번 났어",
-   "why": "맞아! 손잡이가 한 칸 딱 넘어가면서 짧고 마른 소리가 한 번 나고 끝났잖아. 그렇게 짧게 딱 끊기는 소리, 바로 그게 click이야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/click.webp",
   "alt": "볼펜 뒤를 눌러 딸깍 소리 내기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/rest/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/rest/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/rest/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "rest",
  "slug": "rest",
  "url": "https://hibbangyong.com/words/rest/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, rest 맞아",
    "why": "맞아! 한 시간이나 헤엄쳐서 팔에 힘이 쭉 빠졌는데, 그 힘든 걸 멈추고 가만히 누워서 힘이 다시 차오르길 기다리는 거잖아. 바로 그게 rest야."
-  },
-  {
-   "type": "ox",
-   "question": "체육 시간에 친구가 숨이 턱까지 찼는데도 속도를 안 줄이고 운동장을 더 힘껏 돌고 있어. 이게 'rest'야?",
-   "choices": [
-    "응, rest 맞아",
-    "아니, rest 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, rest 아니야",
-   "why": "맞아! 숨이 턱까지 찼는데 멈추기는커녕 더 힘껏 돌고 있잖아. 힘든 걸 멈추고 힘이 다시 차오르게 두는 게 rest인데, 이 친구는 반대로 힘을 계속 쓰고 있는 거야. 그래서 rest가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 소풍 길을 걷다가 각자 이렇게 했어. 지금 'rest'하고 있는 사람은 누구야?",
-   "choices": [
-    "다리에 힘이 다 빠져서, 바위에 앉아 다시 걸을 힘이 생길 때까지 가만히 있는 아이",
-    "한 번도 안 멈추고 계속 씩씩하게 앞장서 걷는 아이",
-    "신나서 팔짝 뛰고 노래하며 앞서 걷는 아이",
-    "돌에 잠깐 앉아 신발끈만 고쳐 매고 곧바로 다시 걷는 아이"
-   ],
-   "answer_index": 0,
-   "answer": "다리에 힘이 다 빠져서, 바위에 앉아 다시 걸을 힘이 생길 때까지 가만히 있는 아이",
-   "why": "맞아! 힘이 다 빠져서 멈춘 거고, 다시 걸을 힘이 생길 때까지 가만히 있잖아. 힘든 걸 멈추고 힘을 되찾는 것, 그게 바로 rest야."
   }
  ],
  "synonyms": [
@@ -93,6 +69,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/rest.webp",
   "alt": "운동장에서 뛰어논 뒤 그늘 벤치에 앉아 숨 고르며 힘을 되찾는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

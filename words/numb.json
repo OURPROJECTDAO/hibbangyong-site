@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/numb/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/numb/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/numb/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "numb",
  "slug": "numb",
  "url": "https://hibbangyong.com/words/numb/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, numb 맞아",
    "why": "맞아! 민호가 다른 손으로 팔을 만져 봐도 아무 느낌이 없잖아. 만져도 느낌이 안 나는 게 바로 numb야."
-  },
-  {
-   "type": "ox",
-   "question": "수아가 바닷가에서 어깨가 햇볕에 빨갛게 탔어. 티셔츠가 어깨에 살짝 닿기만 해도 너무 따가워. 이 어깨는 'numb'한 상태일까?",
-   "choices": [
-    "응, numb 맞아",
-    "아니, numb 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, numb 아니야",
-   "why": "맞아! 티셔츠가 살짝 닿기만 해도 따갑다는 건 수아 어깨가 느낌을 너무 잘 느끼고 있다는 거잖아. numb은 만져도 아무 느낌이 안 나는 거라서, 이 어깨는 오히려 정반대인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "준호는 키우던 강아지가 사고로 죽었다는 전화를 받고 한동안 'numb'한 상태였어. 여기서 'numb'는 어떤 뜻일까?",
-   "choices": [
-    "전화기를 오래 쥐고 있어서 손에 감각이 없어진",
-    "큰 충격에 마음이 멍해져서 아무 느낌이 안 드는",
-    "너무 슬퍼서 눈물이 계속 멈추지 않는",
-    "너무 화가 나서 도저히 참을 수가 없는"
-   ],
-   "answer_index": 1,
-   "answer": "큰 충격에 마음이 멍해져서 아무 느낌이 안 드는",
-   "why": "맞아! 강아지가 죽었다는 전화를 받은 준호는 충격이 너무 커서 마음이 멍해진 거야. 슬픔조차 안 느껴질 만큼 마음에 느낌이 통째로 꺼진 상태, 그게 바로 여기서 말하는 numb야."
   }
  ],
  "synonyms": [
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/numb.webp",
   "alt": "장갑 없이 추운 데 있다가 손등을 꼬집어 보는 상황",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

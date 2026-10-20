@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/accomplish/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/accomplish/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/accomplish/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "accomplish",
  "slug": "accomplish",
  "url": "https://hibbangyong.com/words/accomplish/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, accomplish 맞아",
    "why": "맞아! 마지막 단계까지 끝까지 다 조립했잖아. 시작만 한 게 아니라 끝까지 이뤄냈으니까 바로 그게 accomplish인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "누나가 방 정리를 하기로 했는데, 하기 싫어서 손도 안 대고 그냥 잤어. 이걸 'accomplish' 했다고 할 수 있을까?",
-   "choices": [
-    "응, accomplish 맞아",
-    "아니, accomplish 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, accomplish 아니야",
-   "why": "맞아! 손도 안 대고 그냥 자버렸으면 하려던 일을 끝까지 한 게 아니잖아. 시작도 안 했으니까 이건 accomplish가 아닌 거야. 끝까지 다 해서 이뤄내야 accomplish거든."
-  },
-  {
-   "type": "choice",
-   "question": "민지가 어떤 일을 'accomplish' 했다고 말했어. 아래 중에 정말 accomplish한 게 어떤 걸까?",
-   "choices": [
-    "줄넘기 100개를 목표로 잡고, 며칠 연습한 끝에 오늘 100개를 다 넘었어.",
-    "줄넘기 100개를 하려고 했는데, 50개쯤에서 힘들어서 그만 멈췄어.",
-    "줄넘기를 오늘 처음 손에 쥐고, 딱 한 번 폴짝 넘어 봤어.",
-    "줄넘기가 하기 싫어서 오늘은 아예 안 하고 그냥 놀았어."
-   ],
-   "answer_index": 0,
-   "answer": "줄넘기 100개를 목표로 잡고, 며칠 연습한 끝에 오늘 100개를 다 넘었어.",
-   "why": "맞아! 100개를 목표로 잡고 며칠 연습해서 오늘 진짜 100개를 다 넘었잖아. 마음먹은 걸 끝까지 해서 이뤄낸 거니까 바로 그게 accomplish야."
   }
  ],
  "synonyms": [
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/accomplish.webp",
   "alt": "며칠 넘어지다 오늘 혼자 자전거를 끝까지 탄 앵커 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

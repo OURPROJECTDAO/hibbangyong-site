@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/jury/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/jury/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/jury/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "jury",
  "slug": "jury",
  "url": "https://hibbangyong.com/words/jury/",
@@ -45,28 +45,6 @@
    "answer_index": 0,
    "answer": "죄가 있는지 없는지 함께 의논해 정하려고 동네에서 뽑혀 온 보통 사람 여럿",
    "why": "맞아! 법도 잘 모르고 사건이랑 상관도 없는데 그냥 동네에서 뽑혀 온 보통 사람 여럿이서, 재판 다 듣고 자기들끼리 의논해서 죄가 있나 없나 함께 정하잖아. 여럿이 모여 같이 정하는 그 무리, 그게 바로 jury야!"
-  },
-  {
-   "type": "ox",
-   "question": "재판을 받는 사람 하나가 재판받는 자리에 혼자 앉아 있어. 다른 사람들이 이 사람 죄가 있나 없나를 정해 줄 거래. 이렇게 판단을 '받는' 쪽인 이 사람이 'jury'야?",
-   "choices": [
-    "응, jury 맞아",
-    "아니, jury 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, jury 아니야",
-   "why": "잘 골랐어! 이 사람은 혼자 앉아서 죄가 있나 없나를 정해 받는 쪽이거든. jury는 그걸 정해 주는 다른 사람들 무리라서, 이 사람은 jury가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "재판에서 유죄인지 무죄인지 함께 정하기로 뽑혀 온 사람들이 있었어. 재판이 끝난 뒤, 그 사람들 가운데 딱 한 명이 기자 앞에 나와 소감을 말했어. 이 한 명을 가리켜 'jury'라고 부르면 맞을까?",
-   "choices": [
-    "응, 이 한 명도 'jury'라고 불러",
-    "아니, 이 한 명은 'jury'라고 부르지 않아"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 이 한 명은 'jury'라고 부르지 않아",
-   "why": "맞아! 딱 한 명만 나오면 그건 무리가 아니라 무리 속 한 사람이잖아. jury는 여럿이 모인 그 무리 전체를 부르는 말이라서, 한 명한테는 그 이름을 안 붙이는 거야. 잘 골랐어!"
   }
  ],
  "synonyms": [
@@ -88,6 +66,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/jury.webp",
   "alt": "재판정에서 재판관 옆에 나란히 앉은 보통 사람 여럿이 유무죄를 함께 정하는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

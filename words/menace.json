@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/menace/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/menace/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/menace/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "menace",
  "slug": "menace",
  "url": "https://hibbangyong.com/words/menace/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, menace 아니야",
    "why": "맞아! 안전요원은 높은 의자에 앉아서 물속 아이들을 계속 지켜보잖아. 아이들이 다치지 않게 지켜 주는 사람이라서, 해를 몰고 오는 menace랑은 정반대야."
-  },
-  {
-   "type": "ox",
-   "question": "동네 공원 산책로에 목줄 없는 큰 개 한 마리가 돌아다니면서 지나가는 사람들에게 갑자기 달려들어. 이 개는 'menace'야?",
-   "choices": [
-    "응, menace 맞아",
-    "아니, menace 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, menace 맞아",
-   "why": "맞아! 목줄 없는 큰 개가 산책로에서 지나가는 사람들한테 갑자기 달려들면 누군가 다칠 수 있잖아. 이렇게 사람들에게 해를 줄 수 있는 존재가 바로 menace야."
-  },
-  {
-   "type": "choice",
-   "question": "학교 복도에서 네 가지 일이 있었어. 이 중에서 'menace'라고 부르기 가장 알맞은 건?",
-   "choices": [
-    "복도 모퉁이에 물이 늘 고여 있어서 애들이 자꾸 미끄러질 뻔해",
-    "어제 복도에서 한 친구가 넘어져서 무릎이 크게 까졌어",
-    "복도에 미끄럼 방지 매트를 새로 깔아서 다들 편하게 다녀",
-    "밤에 불 꺼진 복도를 지나면 괜히 오싹한 기분이 들어"
-   ],
-   "answer_index": 0,
-   "answer": "복도 모퉁이에 물이 늘 고여 있어서 애들이 자꾸 미끄러질 뻔해",
-   "why": "맞아! 복도 모퉁이에 늘 고여 있는 물은 누가 일부러 둔 게 아니어도, 그대로 있으면 애들이 미끄러져 다칠 수 있잖아. 이렇게 위험을 몰고 오는 존재 자체가 menace야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/menace.webp",
   "alt": "운동장 바닥에 굴러다니는 깨진 유리 조각",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

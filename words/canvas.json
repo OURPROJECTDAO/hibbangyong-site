@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/canvas/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/canvas/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/canvas/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "canvas",
  "slug": "canvas",
  "url": "https://hibbangyong.com/words/canvas/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, canvas 아니야",
    "why": "맞아! 손톱에 살짝 걸리기만 해도 쭉 뜯어지는 천이잖아. canvas는 쭉쭉 잡아당겨도 안 찢어질 만큼 튼튼한 천이라서, 이 커튼은 canvas가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "우체국 뒤편에 우편물 담는 자루가 놓여 있어. 두껍고 뻣뻣한 천이라 무거운 소포를 잔뜩 넣고 바닥에 끌어도 안 찢어져. 이거 canvas야?",
-   "choices": [
-    "응, canvas 맞아",
-    "아니, canvas 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, canvas 맞아",
-   "why": "맞아! 두껍고 뻣뻣한 천인데 무거운 소포를 잔뜩 넣고 바닥에 쭉 끌어도 안 찢어졌잖아. 튼튼해서 그렇게 막 써도 버티는 그 천이 바로 canvas인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 각자 뭘 하나씩 들고 왔어. 이 중에서 'canvas'를 들고 온 아이는 누구일까?",
-   "choices": [
-    "매끈한 흰 종이를 여러 장 들고 왔어. 그림 그릴 때 쓰는 거래.",
-    "바람에 살랑거리는 얇은 손수건을 들고 왔어. 조금만 당겨도 쭉 늘어난대.",
-    "두껍고 뻣뻣한 천을 둘둘 말아 들고 왔어. 발로 밟고 서도 멀쩡하대.",
-    "딱딱한 나무 판자를 들고 왔어. 두드리면 똑똑 소리가 난대."
-   ],
-   "answer_index": 2,
-   "answer": "두껍고 뻣뻣한 천을 둘둘 말아 들고 왔어. 발로 밟고 서도 멀쩡하대.",
-   "why": "맞아! 두껍고 뻣뻣한 천이라서 발로 밟고 서도 멀쩡한 거야. 이렇게 두껍고 튼튼한 천이 바로 canvas거든."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/canvas.webp",
   "alt": "캠핑 텐트의 두껍고 뻣뻣한 천",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

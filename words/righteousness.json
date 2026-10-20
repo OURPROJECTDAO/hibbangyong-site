@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/righteousness/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/righteousness/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/righteousness/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "righteousness",
  "slug": "righteousness",
  "url": "https://hibbangyong.com/words/righteousness/",
@@ -46,30 +46,6 @@
    "answer_index": 1,
    "answer": "편의점에서 거스름돈을 더 받아서, 바로 돌려줬어.",
    "why": "맞아! 더 받은 거스름돈은 원래 네 돈이 아니잖아. 아무도 모를 수 있는데도 옳은 쪽을 골라서 바로 돌려줬으니까, 그게 righteousness야."
-  },
-  {
-   "type": "ox",
-   "question": "학원 친구가 편의점에서 과자를 계산하지 않고 가방에 넣는 걸 서연이가 봤어. 서연이는 친한 친구라서 점원에게 말하지 않고 끝까지 감싸 줬어. 서연이의 이 행동이 'righteousness'야?",
-   "choices": [
-    "응, 맞아",
-    "아니, 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 아니야",
-   "why": "맞아, 이건 righteousness가 아니야. 서연이는 친한 친구라는 이유로 점원에게 말하지 않고 감싸 줬잖아. 옳은지 그른지가 아니라 친구 사이를 보고 고른 거라서, 옳은 쪽에 서는 righteousness랑은 반대 방향이야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 한 일을 말했어. 'righteousness'가 가장 잘 드러난 건 누구 이야기일까?",
-   "choices": [
-    "비 오는 날, 우산이 없는 후배에게 내 우산을 그냥 빌려줬어.",
-    "수학 시험에서, 모두 틀린 어려운 문제의 답을 혼자 맞혔어.",
-    "반장이 반 돈을 몰래 쓴 걸 알고, 친한데도 선생님께 말했어.",
-    "친구가 잘못한 걸 알았지만, 의리 때문에 모른 척 넘어가 줬어."
-   ],
-   "answer_index": 2,
-   "answer": "반장이 반 돈을 몰래 쓴 걸 알고, 친한데도 선생님께 말했어.",
-   "why": "맞아! 반장이랑 친해서 사이가 틀어질 수도 있는데, 반 돈을 몰래 쓴 건 잘못이니까 선생님께 말한 거잖아. 친한 것보다 옳고 그름을 먼저 따져서 옳은 쪽에 선 거라서, 바로 그게 righteousness야."
   }
  ],
  "synonyms": [],

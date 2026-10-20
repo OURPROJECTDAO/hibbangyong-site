@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/stage/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/stage/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/stage/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "stage",
  "slug": "stage",
  "url": "https://hibbangyong.com/words/stage/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, 그거 stage 맞아",
    "why": "맞아! 씨였다가 싹이 나고 나중에 잎이 넓어지잖아. 그렇게 순서대로 지나가는 길에서 지금 딱 싹인 때, 그게 stage야."
-  },
-  {
-   "type": "choice",
-   "question": "올챙이를 키우는데 뒷다리가 쏙 나온 때래. 형이 지금을 'stage'라고 불렀어. 형이 말한 'stage'는 어느 쪽 뜻일까?",
-   "choices": [
-    "몸이 저절로 바뀌어 가는 중의 한 토막",
-    "점점 나빠지고 심해져 가는 중의 한 토막"
-   ],
-   "answer_index": 0,
-   "answer": "몸이 저절로 바뀌어 가는 중의 한 토막",
-   "why": "맞아! 올챙이는 자기가 애쓴 것도 아니고 나빠진 것도 아닌데, 몸이 알아서 쑥쑥 바뀌면서 뒷다리가 나온 거잖아. 그렇게 저절로 바뀌어 가는 길에서 지금 지나는 토막, 그게 바로 stage인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "라면을 끓이는 중이야. 엄마가 방금 냄비에 스프 봉지를 탁 털어 넣었어. 그 털어 넣는 행동 하나. 이런 경우도 'stage'야?",
-   "choices": [
-    "응, 'stage' 맞아.",
-    "아니, 'stage' 아니야."
-   ],
-   "answer_index": 1,
-   "answer": "아니, 'stage' 아니야.",
-   "why": "맞아! 스프를 탁 털어 넣는 건 손 한 번 움직인 짧은 행동이거든. 이건 순서 하나(step)일 뿐이야. stage는 그 안에 여러 행동이 들어가는 토막이라서, 이건 아닌 게 맞아."
   }
  ],
  "synonyms": [
@@ -90,6 +68,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/stage.webp",
   "alt": "감기가 목 따끔 → 콧물 → 열로 토막토막 지나가는 과정",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

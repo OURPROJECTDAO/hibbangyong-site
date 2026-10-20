@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/cheeky/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/cheeky/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/cheeky/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "cheeky",
  "slug": "cheeky",
  "url": "https://hibbangyong.com/words/cheeky/",
@@ -43,28 +43,6 @@
    "answer_index": 1,
    "answer": "아니, cheeky 아니야",
    "why": "맞아! 아이가 게임을 멈추고 일어나서 인사하고 의자까지 내드렸잖아. 선을 넘기는커녕 끝까지 지킨 거라서, 이건 cheeky랑 정반대인 예의 바른(polite) 태도야."
-  },
-  {
-   "type": "ox",
-   "question": "할아버지가 바둑을 두고 계시는데, 손녀가 옆에서 \"할아버지 이번 판도 또 지시겠다~\" 하고 히죽 웃었어. 손녀의 이 태도, 'cheeky'야?",
-   "choices": [
-    "응, cheeky 맞아",
-    "아니, cheeky 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, cheeky 맞아",
-   "why": "맞아! 손녀가 할아버지한테 또 지시겠다고 놀린 건 선을 살짝 넘은 말이지만, 히죽 웃으면서 장난으로 한 거잖아. 버릇없는데 나쁜 마음은 없는 거, 바로 그게 cheeky야."
-  },
-  {
-   "type": "ox",
-   "question": "사촌 동생이 큰아빠 생신 케이크를 보고 \"큰아빠, 초가 너무 많아서 불나겠다~\" 하고 히죽 웃다가 큰엄마한테 한 소리 들었어. 이런 경우도 'cheeky'야?",
-   "choices": [
-    "응, 'cheeky' 맞아",
-    "아니, 'cheeky' 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, 'cheeky' 맞아",
-   "why": "맞아! 사촌 동생이 큰아빠 생신 케이크를 보고 \"초가 너무 많아서 불나겠다~\" 하고 히죽 웃은 건 장난이긴 한데, 어른한테 하기엔 선을 살짝 넘은 말이야. 그래서 큰엄마한테 한 소리 들은 거고, 장난치다 선을 살짝 넘는 바로 그게 cheeky야."
   }
  ],
  "synonyms": [],
@@ -84,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/cheeky.webp",
   "alt": "동생이 엄마한테 배 나왔다고 놀리며 웃음",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

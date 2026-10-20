@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/victory/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/victory/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/victory/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "victory",
  "slug": "victory",
  "url": "https://hibbangyong.com/words/victory/",
@@ -45,17 +45,6 @@
    "answer_index": 1,
    "answer": "경기에서 상대를 이겨서 우리가 얻은 이김.",
    "why": "맞아! 겨뤄서 상대를 이겨낸 그 이김이 바로 victory거든. 경기 자체도, 받은 물건도 아니고 이겼다는 그 결과가 victory인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "지호가 문구점 뽑기 기계에 동전을 넣었는데 운 좋게 큰 인형이 나왔어. 지호는 그 인형을 들고 '이건 내 victory야!'라고 했어. 이렇게 써도 될까?",
-   "choices": [
-    "응, victory 맞아.",
-    "아니, victory 아니야."
-   ],
-   "answer_index": 1,
-   "answer": "아니, victory 아니야.",
-   "why": "맞아! 뽑기는 동전 넣고 운이 좋아서 인형이 나온 거지, 누구랑 겨뤄서 이긴 게 아니거든. 겨루거나 싸운 끝에 이겼을 때만 victory인 거야."
   }
  ],
  "synonyms": [],
@@ -77,6 +66,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/victory.webp",
   "alt": "줄다리기에서 끝까지 버텨 상대 팀을 이긴 순간",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

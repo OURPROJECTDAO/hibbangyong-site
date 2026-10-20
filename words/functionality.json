@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/functionality/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/functionality/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/functionality/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "functionality",
  "slug": "functionality",
  "url": "https://hibbangyong.com/words/functionality/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, 그 얘기 맞아",
    "why": "맞아! 우산이 할 일은 비를 막는 건데, 바람만 조금 불어도 뒤집혀서 그걸 제대로 못 하잖아. 맡은 일을 실제로 얼마나 해내느냐가 바로 functionality라서 형 말이 딱 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "누나가 산 텀블러는 요즘 유명 연예인이 들고 나와서 사려는 사람이 엄청 많대. 누나 친구가 이 점을 두고 이 텀블러의 'functionality' 얘기라고 했어. 친구 말이 맞아?",
-   "choices": [
-    "응, 그 얘기 맞아",
-    "아니, 그 얘기 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 그 얘기 아니야",
-   "why": "잘 골랐어! 친구 말은 틀렸어. 사려는 사람이 많다는 건 그냥 인기 얘기야. functionality는 이 텀블러가 음료를 담고 따뜻하거나 차가운 걸 얼마나 잘 지켜 주는지를 말하는 거고."
-  },
-  {
-   "type": "choice",
-   "question": "민지가 새로 산 가방을 보더니 'functionality'가 떨어진다고 투덜댔어. 어떤 가방일까?",
-   "choices": [
-    "색이 유행 지난 칙칙한 갈색이라 친구들이 좀 촌스럽다고 해.",
-    "지퍼가 자꾸 걸리고 칸이 없어서 책이랑 필통이 뒤엉켜.",
-    "인터넷에서 산 건데 동네 가게보다 만 원이나 더 비쌌어.",
-    "반에서 똑같은 가방을 멘 애가 벌써 다섯 명이나 돼."
-   ],
-   "answer_index": 1,
-   "answer": "지퍼가 자꾸 걸리고 칸이 없어서 책이랑 필통이 뒤엉켜.",
-   "why": "맞아! 지퍼가 자꾸 걸리고 칸이 없어서 책이랑 필통이 뒤엉키면, 가방이 맡은 일인 물건 넣고 꺼내기를 제대로 못 하는 거잖아. 바로 그게 functionality가 떨어진 거야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/functionality.webp",
   "alt": "칸이 없어 책과 필통이 뒤엉키는 예쁜 가방",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

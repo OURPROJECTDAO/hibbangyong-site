@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/notoriety/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/notoriety/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/notoriety/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "notoriety",
  "slug": "notoriety",
  "url": "https://hibbangyong.com/words/notoriety/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, notoriety 맞아",
    "why": "맞아! 23번 버스는 거의 매일 30분씩 늦는다는 좋지 않은 일 때문에 동네 사람 누구나 아는 버스가 됐잖아. 나쁜 일로 이름이 널리 퍼졌으니 바로 그게 notoriety인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "우리 학교 3학년 지민이는 힘든 친구를 늘 먼저 도와줘서, 전교생과 선생님들이 모두 이름을 알고 칭찬해. 이런 경우도 지민이가 'notoriety'를 얻었다고 할 수 있어?",
-   "choices": [
-    "응, notoriety 맞아",
-    "아니, notoriety 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, notoriety 아니야",
-   "why": "맞아! 지민이가 전교에 이름이 퍼진 건 맞지만, 힘든 친구를 도와줘서 칭찬받으며 퍼진 거잖아. 좋은 일로 알려진 거라 notoriety가 아니고, notoriety는 좋지 않은 일로 이름이 퍼질 때만 쓰는 거야."
-  },
-  {
-   "type": "ox",
-   "question": "우리 아파트 화재경보기는 툭하면 잘못 울려서 주민들이 다 '또 그 경보기야' 하고 알아. 다친 사람도 없고 누가 큰 잘못을 한 것도 아니야. 이런 경우도 이 경보기가 'notoriety'를 얻었다고 할 수 있어?",
-   "choices": [
-    "응, notoriety 맞아",
-    "아니, notoriety 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, notoriety 맞아",
-   "why": "맞아! 경보기가 툭하면 잘못 울려서 주민들이 다 '또 그 경보기야' 하고 알잖아. 좋지 않은 일로 이름이 널리 퍼진 거니까 바로 그게 notoriety야."
   }
  ],
  "synonyms": [],

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/flask/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/flask/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/flask/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "flask",
  "slug": "flask",
  "url": "https://hibbangyong.com/words/flask/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, flask 맞아",
    "why": "맞아! 아래는 둥글고 목이 길고 가는 유리병이잖아. 입구가 좁은 실험용 유리병, 바로 그게 flask야. 입구가 좁으니까 고무마개로 막기도 딱 좋은 거고."
-  },
-  {
-   "type": "ox",
-   "question": "화학 동아리 시간에 입구가 넓고 바닥이 얕은 납작한 유리 접시에 소금물을 얇게 부어 말렸어. 이 유리 접시는 'flask'야?",
-   "choices": [
-    "응, flask 맞아",
-    "아니, flask 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, flask 아니야",
-   "why": "맞아! flask는 입구가 좁은 병이거든. 그런데 이 유리 접시는 입구가 넓고 바닥이 얕은 납작한 그릇이라 생김새가 정반대야. 그래서 flask가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "과학실 선반에 유리 그릇 네 개가 있어. 이 중에서 'flask'라고 부를 수 있는 건 뭘까?",
-   "choices": [
-    "아래는 둥글고 위로 갈수록 입구가 가늘어지는 그릇",
-    "위아래 넓이가 거의 같고 입구가 넓은 컵 모양 그릇",
-    "가늘고 길쭉하며 한쪽 끝이 막혀 있는 관 모양 그릇",
-    "바닥이 얕고 납작하며 뚜껑이 달린 둥근 그릇"
-   ],
-   "answer_index": 0,
-   "answer": "아래는 둥글고 위로 갈수록 입구가 가늘어지는 그릇",
-   "why": "맞아! 아래는 둥글고 위로 갈수록 입구가 가늘어지는 그릇, 이렇게 입구가 좁아지는 병 모양이 바로 flask야. 선반 위 네 그릇 중에 위로 갈수록 좁아지는 건 이것뿐이거든."
   }
  ],
  "synonyms": [],
@@ -94,6 +70,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/flask.webp",
   "alt": "과학실 선반에 놓인, 입구가 가늘어지는 유리병",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

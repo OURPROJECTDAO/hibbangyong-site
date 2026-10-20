@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/crumble/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/crumble/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/crumble/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "crumble",
  "slug": "crumble",
  "url": "https://hibbangyong.com/words/crumble/",
@@ -42,28 +42,6 @@
    "answer_index": 0,
    "answer": "응, crumble 맞아",
    "why": "맞아! 단단하던 벽돌 모서리가 손으로 문지르니까 잘게 부서지면서 가루가 조금씩 떨어졌잖아. 단단하던 게 이렇게 조금씩 바스러지는 게 바로 crumble이야."
-  },
-  {
-   "type": "ox",
-   "question": "민호가 흩어져 있던 눈을 두 손으로 꾹꾹 눌러 뭉쳤어. 그랬더니 세게 던져도 깨지지 않는 단단한 눈덩이가 됐어. 이 눈이 'crumble'한 걸까?",
-   "choices": [
-    "응, crumble 맞아",
-    "아니, crumble 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, crumble 아니야",
-   "why": "맞아! 민호는 흩어져 있던 눈을 꾹꾹 눌러서 단단한 눈덩이로 만들었잖아. crumble은 단단하던 게 잘게 부서지면서 무너지는 거라서, 오히려 반대쪽 일이 일어난 거야."
-  },
-  {
-   "type": "ox",
-   "question": "야구공이 날아와 교실 창문에 맞았어. 유리가 쨍 소리와 함께 한순간에 큰 조각 몇 개로 갈라져 떨어졌어. 이런 경우도 'crumble'이야?",
-   "choices": [
-    "응, crumble 맞아",
-    "아니, crumble 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, crumble 아니야",
-   "why": "맞아! 창문 유리는 쨍 소리랑 함께 한순간에 큰 조각 몇 개로 갈라졌잖아. crumble은 잘게 부슬부슬, 조금씩 무너지는 거라서 이건 crumble이 아닌 거야."
   }
  ],
  "synonyms": [
@@ -79,6 +57,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/crumble.webp",
   "alt": "운동장 구석 오래된 흙벽에서 부스러기가 떨어짐",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

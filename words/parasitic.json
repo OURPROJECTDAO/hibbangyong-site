@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/parasitic/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/parasitic/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/parasitic/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "parasitic",
  "slug": "parasitic",
  "url": "https://hibbangyong.com/words/parasitic/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, parasitic 맞아",
    "why": "맞아! 머릿니는 아이 머리카락 속에 붙어 살면서 두피의 피를 빨아 먹잖아. 아이는 머릿니한테 얻는 게 하나도 없고 피만 빼앗기니까, 바로 그게 parasitic인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "다람쥐는 가을에 도토리를 모아 땅에 묻어 두었다가 겨울에 꺼내 먹어. 다람쥐가 먹고 사는 방식은 'parasitic'이야?",
-   "choices": [
-    "응, parasitic 맞아",
-    "아니, parasitic 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, parasitic 아니야",
-   "why": "맞아! 다람쥐는 가을에 도토리를 자기가 직접 모아 묻어 두고, 겨울에 그걸 꺼내 먹잖아. 다른 생물 몸에 붙어서 뭘 빼앗는 게 아니라서 parasitic이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "과학 시간에 생물들이 함께 사는 모습 네 가지를 봤어. 이 중에서 'parasitic'이라고 부를 수 있는 건?",
-   "choices": [
-    "덩굴 식물이 큰 나무에 뿌리를 박고 물과 양분을 빨아 가서 나무가 점점 말라 가",
-    "벌이 꽃에서 꿀을 먹고 대신 꽃가루를 옮겨 줘서 꽃도 열매를 맺어",
-    "작은 물고기가 큰 물고기 이빨 사이를 청소해 주고 그 찌꺼기를 먹고 살아",
-    "버섯이 숲속 나무 그늘 아래 땅에서 떨어진 잎을 먹으며 혼자 자라"
-   ],
-   "answer_index": 0,
-   "answer": "덩굴 식물이 큰 나무에 뿌리를 박고 물과 양분을 빨아 가서 나무가 점점 말라 가",
-   "why": "맞아! 덩굴 식물은 큰 나무한테서 물과 양분을 빨아 가기만 하고 아무것도 돌려주지 않잖아. 그래서 나무는 점점 말라 가. 한쪽만 가져가고 상대는 손해를 보니까 바로 parasitic인 거야."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/parasitic.webp",
   "alt": "강아지 털에 붙어 피를 빨아 먹는 진드기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

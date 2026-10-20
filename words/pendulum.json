@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/pendulum/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/pendulum/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/pendulum/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "pendulum",
  "slug": "pendulum",
  "url": "https://hibbangyong.com/words/pendulum/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, pendulum 맞아",
    "why": "맞아! 쇠공이 천장의 한 고리에 쇠줄로 매달려서 하루 종일 같은 길을 따라 이쪽저쪽 오가잖아. 한 점에 매달려 같은 길을 계속 오가는 것, 바로 그게 pendulum인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "자전거를 뒤집어 놓고 손으로 페달을 돌렸어. 뒷바퀴가 한 방향으로만 빙글빙글 계속 돌아가. 이 바퀴를 'pendulum'이라고 할 수 있을까?",
-   "choices": [
-    "응, pendulum 맞아",
-    "아니, pendulum 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, pendulum 아니야",
-   "why": "맞아! 뒷바퀴는 한 방향으로만 빙글빙글 계속 돌잖아. pendulum은 한 점에 매달려서 왼쪽, 오른쪽으로 왔다 갔다 해야 하니까 이 바퀴는 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "아빠가 낚싯줄 끝에 작은 납추를 달아 강물에 드리웠어. 납추는 물속에서 줄 끝에 가만히 매달려만 있어. 이런 것도 'pendulum'이야?",
-   "choices": [
-    "응, pendulum 맞아",
-    "아니, pendulum 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, pendulum 아니야",
-   "why": "맞아! 납추가 줄 끝에 가만히 매달려만 있지 왔다 갔다 흔들리지 않잖아. pendulum은 매달린 채로 좌우로 계속 오가야 하니까 이건 아닌 거야."
   }
  ],
  "synonyms": [],
@@ -78,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/pendulum.webp",
   "alt": "할머니 집 벽시계 아래에서 좌우로 흔들리는 추",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

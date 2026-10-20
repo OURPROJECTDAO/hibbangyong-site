@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/aboriginal/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/aboriginal/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/aboriginal/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "aboriginal",
  "slug": "aboriginal",
  "url": "https://hibbangyong.com/words/aboriginal/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, aboriginal 맞아",
    "why": "맞아! 할머니 조상들은 수만 년 전부터 바로 이 바닷가에서 물고기를 잡으며 살아왔잖아. 나중에 들어온 쪽이 아니라 원래부터 거기 있던 쪽이니까, 할머니는 aboriginal이 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "호주 북쪽 바닷가 마을에 사는 한 할아버지는, 3년 전에 독일에서 이사 와서 지금 이 바닷가에서 물고기를 잡으며 살고 있어. 이 할아버지를 'aboriginal'이라고 부를 수 있을까?",
-   "choices": [
-    "응, aboriginal 맞아",
-    "아니, aboriginal 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, aboriginal 아니야",
-   "why": "맞아! 이 할아버지는 3년 전에 독일에서 이사 온 사람이라 나중에 들어온 쪽이거든. aboriginal은 유럽 사람들이 오기 훨씬 전부터 호주에 살던 사람들한테 붙는 말이라서, 이 할아버지한테는 안 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "호주의 한 도시에서 네 사람을 만났어. 이 중에서 'aboriginal'이라고 부를 수 있는 사람은 누구일까?",
-   "choices": [
-    "작년에 한국에서 이사 와서, 시내에 작은 식당을 차린 사람",
-    "증조할아버지가 영국에서 건너온 뒤로, 대대로 농장을 해 온 사람",
-    "조상이 수만 년 전부터 이 땅에 살았고, 본인은 시내 회사에 다니는 사람",
-    "영국에서 온 여행자인데, 숲에서 전기 없이 옛날식으로 지내는 사람"
-   ],
-   "answer_index": 2,
-   "answer": "조상이 수만 년 전부터 이 땅에 살았고, 본인은 시내 회사에 다니는 사람",
-   "why": "맞아! 조상이 수만 년 전부터 이 땅에 살았으니까, 나중에 들어온 게 아니라 원래부터 거기 있던 쪽이잖아. 시내 회사에 다녀도 상관없어. 누가 먼저 있었나가 기준이니까 바로 이 사람이 aboriginal인 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/aboriginal.webp",
   "alt": "유럽인이 배로 오기 전부터 호주에 살던 사람들",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

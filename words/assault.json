@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/assault/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/assault/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/assault/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "assault",
  "slug": "assault",
  "url": "https://hibbangyong.com/words/assault/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, assault 맞아",
    "why": "맞아! 가만히 앉아 있던 아저씨한테 갑자기 확 달려들어서 주먹으로 때린 거잖아. 서로 티격태격 싸운 것도 아니고 한쪽이 먼저 몸으로 들이친 거니까, 그게 바로 assault인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "성문 안쪽 병사들은 밖에서 들이치는 적을 막으려고 문에 통나무를 대고 버티고 있었어. 이게 'assault'야?",
-   "choices": [
-    "응, assault 맞아",
-    "아니, assault 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, assault 아니야",
-   "why": "맞아! 이 병사들은 문을 밀고 들이치는 게 아니라, 들이치는 걸 몸으로 막고 버티는 쪽이잖아. 덮치는 쪽이 아니라 막는 쪽이니까 assault가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 가지 일이 있었어. 이 중에서 'assault'라고 부를 수 있는 건?",
-   "choices": [
-    "줄 서 있던 아이한테 뒤에서 달려들어 밀치고 때린 일",
-    "두 아이가 서로 밀치락달치락하다 같이 넘어진 일",
-    "화가 나서 '너 가만 안 둬!'라고 크게 소리친 일",
-    "친구 가방에서 몰래 지우개를 꺼내 간 일"
-   ],
-   "answer_index": 0,
-   "answer": "줄 서 있던 아이한테 뒤에서 달려들어 밀치고 때린 일",
-   "why": "맞아! 가만히 줄 서 있던 애한테 뒤에서 확 달려들어 밀치고 때렸잖아. 한쪽이 먼저 몸으로 들이친 거니까 바로 그게 assault인 거야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/assault.webp",
   "alt": "가만히 있는 사람에게 누가 달려들어 밀치고 때린 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

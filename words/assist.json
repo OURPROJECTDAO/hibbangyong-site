@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/assist/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/assist/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/assist/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "assist",
  "slug": "assist",
  "url": "https://hibbangyong.com/words/assist/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, assist 맞아",
    "why": "맞아! 전구를 갈고 있는 건 계속 아빠고, 너는 옆에서 사다리를 붙잡아서 아빠 일을 더 쉽게 만들어 준 거잖아. 상자 옮기는 형 옆에서 귀퉁이 들어준 거랑 똑같아. 그래서 바로 이게 assist인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "동생이 자기 방을 혼자 치우겠다고 했어. 네 사람이 각각 이렇게 했대. 동생을 'assist' 한 사람은?",
-   "choices": [
-    "동생이 장난감을 넣는 동안 옆에서 상자 뚜껑을 잡아 준 누나",
-    "동생을 밀어내고 방을 대신 다 치워 버린 삼촌",
-    "치우는 동생 옆에서 장난감을 도로 꺼내 흩뿌린 형",
-    "다 치우고 나서 잘했다고 박수를 쳐 준 아빠"
-   ],
-   "answer_index": 0,
-   "answer": "동생이 장난감을 넣는 동안 옆에서 상자 뚜껑을 잡아 준 누나",
-   "why": "맞아! 장난감을 넣는 건 여전히 동생이고, 누나는 옆에서 뚜껑만 잡아 줬잖아. 주인공은 그대로 동생인데 동생이 하는 일을 쉽게 만들어 준 거, 그게 바로 assist야."
-  },
-  {
-   "type": "ox",
-   "question": "친구가 학교 담벼락에 스프레이로 낙서를 하고 있었어. 너는 옆에서 손전등으로 그 벽을 환하게 비춰 줬어. 이것도 'assist'야?",
-   "choices": [
-    "응, 너는 친구를 assist 한 거야",
-    "아니, 너는 친구를 assist 한 게 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, 너는 친구를 assist 한 거야",
-   "why": "맞아! 낙서하는 건 친구고 너는 옆에서 잘 보이게 불을 비춰 준 거잖아. 친구가 하려던 일을 네가 더 쉽게 만들어 줬으니까 바로 그게 assist인 거야."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/assist.webp",
   "alt": "형이 옮기는 무거운 상자의 한쪽 귀퉁이를 옆에서 들어주는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

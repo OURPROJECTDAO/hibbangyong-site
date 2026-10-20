@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/core/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/core/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/core/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "core",
  "slug": "core",
  "url": "https://hibbangyong.com/words/core/",
@@ -45,28 +45,6 @@
    "answer_index": 0,
    "answer": "가장 안쪽에 있는 중심층",
    "why": "맞아! 겉을 다 걷어내고 나서 제일 안쪽에 딱 남는 중심, 그게 바로 core거든. 사과 심처럼 지구도 한가운데 알맹이가 core야."
-  },
-  {
-   "type": "ox",
-   "question": "양배추 겉잎을 몇 장만 벗기면 중간쯤에 있는 잎이 나와. 이 중간 잎을 보고 '이게 양배추의 'core'야'라고 하면 맞을까?",
-   "choices": [
-    "응, core 맞아",
-    "아니, core 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, core 아니야",
-   "why": "맞아! 겉잎 몇 장 벗겼다고 나오는 잎은 아직 한가운데 알맹이가 아니거든. core는 끝까지 벗겨야 남는, 진짜 제일 안쪽 속대라서 '아니'가 맞는 거야."
-  },
-  {
-   "type": "ox",
-   "question": "아보카도를 반으로 갈랐더니 씨가 정확히 한가운데는 아니고 살짝 위쪽에 박혀 있었어. 그래도 이 씨가 있는 자리를 아보카도의 'core'라고 부를 수 있을까?",
-   "choices": [
-    "응, 그래도 'core'라고 부를 수 있어",
-    "아니, 그건 'core'가 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, 그래도 'core'라고 부를 수 있어",
-   "why": "맞아! 겉을 벗겨내도 남는 그 알맹이가 core니까, 씨가 딱 정가운데가 아니어도 아보카도의 core가 맞는 거야. core는 자리가 아니라 속에 숨은 그 알맹이거든."
   }
  ],
  "synonyms": [],
@@ -93,6 +71,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/core.webp",
   "alt": "사과를 다 먹고 남은 가운데 딱딱한 심",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

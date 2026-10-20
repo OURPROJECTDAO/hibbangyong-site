@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/axiom/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/axiom/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/axiom/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "axiom",
  "slug": "axiom",
  "url": "https://hibbangyong.com/words/axiom/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, axiom 아니야",
    "why": "맞아! 그 말은 한 부원의 예상일 뿐이고, 다른 부원들은 저마다 다르게 예상했잖아. axiom은 다들 맞다고 받아들이고 거기서부터 생각을 시작하는 말인데, 이건 아무도 그렇게 받아들이지 않았으니까 axiom이 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "수학자들이 여러 단계의 증명을 차근차근 거쳐서 \"삼각형 세 각의 합은 180도다\"라는 결론을 이끌어 냈어. 이렇게 증명 끝에 얻은 문장도 'axiom'이야?",
-   "choices": [
-    "응, axiom 맞아",
-    "아니, axiom 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, axiom 아니야",
-   "why": "맞아! 수학자들이 여러 단계의 증명을 차근차근 거쳐서 얻어 낸 결론이니까 axiom이 아니야. axiom은 증명 없이 받아들이고 거기서 증명을 시작하는 출발점이고, 이 문장은 증명이 끝나는 쪽에 있거든(이렇게 증명으로 얻은 결론은 theorem이야)."
-  },
-  {
-   "type": "choice",
-   "question": "네 가지 상황이 있어. 이 중에서 밑줄 친 문장을 'axiom'이라고 부르기에 가장 알맞은 건?",
-   "choices": [
-    "과학자가 실험을 거듭해서 \"물은 100도에서 끓는다\"를 확인해 냄",
-    "학교가 \"복도에서 뛰지 마시오\"를 규칙으로 정해서 벽에 붙임",
-    "경제학자들이 증명 없이 \"사람은 이익을 고른다\"를 깔고 이론을 세움",
-    "친구가 \"내일 비 오겠다\"고 했지만 아무도 그 말을 믿지 않음"
-   ],
-   "answer_index": 2,
-   "answer": "경제학자들이 증명 없이 \"사람은 이익을 고른다\"를 깔고 이론을 세움",
-   "why": "맞아! 경제학자들이 증명 없이 \"사람은 이익을 고른다\"를 다들 맞다고 치고, 그 위에 이론을 세웠잖아. 증명 안 하고 받아들여서 생각의 출발점으로 삼는 문장, 바로 그게 axiom이야."
   }
  ],
  "synonyms": [

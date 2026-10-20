@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/stomach/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/stomach/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/stomach/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "stomach",
  "slug": "stomach",
  "url": "https://hibbangyong.com/words/stomach/",
@@ -43,32 +43,6 @@
    "answer_index": 1,
    "answer": "아니, stomach 아니야",
    "why": "맞아! 까진 무릎은 몸 바깥쪽 살갗이잖아. 밥이 들어가서 죽처럼 녹는 몸속 자리가 아니니까, 그래서 stomach가 아닌 게 맞는 거야."
-  },
-  {
-   "type": "choice",
-   "question": "급식실에서 아이들이 각자 몸속 자리를 하나씩 골랐어. 이 중 'stomach'는 어느 거야?",
-   "choices": [
-    "음식이 내려와 모이는 몸속 자리",
-    "손가락 마디를 이어 주는 몸속 자리",
-    "무릎을 굽히게 해 주는 몸속 자리",
-    "눈알을 이리저리 돌리는 몸속 자리"
-   ],
-   "answer_index": 0,
-   "answer": "음식이 내려와 모이는 몸속 자리",
-   "why": "맞아! 먹은 밥이 목구멍 타고 쭈욱 내려가서 딱 모이는 자리, 바로 그게 stomach거든. 거기서 밥이 죽처럼 녹아야 몸이 힘을 얻는 거야."
-  },
-  {
-   "type": "choice",
-   "question": "친구들이 몸속 여러 자리가 하는 일을 하나씩 말했어. 'stomach'가 하는 일은 어느 거야?",
-   "choices": [
-    "먹은 밥이 들어와 죽처럼 녹으면서 소화가 시작돼",
-    "숨을 들이마셔서 공기를 담았다 내보내",
-    "피를 쿵쿵 밀어서 온몸으로 보내",
-    "소리를 받아서 무슨 말인지 알아듣게 해"
-   ],
-   "answer_index": 0,
-   "answer": "먹은 밥이 들어와 죽처럼 녹으면서 소화가 시작돼",
-   "why": "맞아! 먹은 밥이 들어와서 죽처럼 슬슬 녹기 시작하는 자리, 그게 바로 stomach가 하는 일이야. 밥이 거기서 녹아야 몸이 힘을 얻거든."
   }
  ],
  "synonyms": [],
@@ -86,6 +60,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/stomach.webp",
   "alt": "밥이 목구멍 타고 내려가 배 속 자리에 모이는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

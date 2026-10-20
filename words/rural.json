@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/rural/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/rural/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/rural/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "rural",
  "slug": "rural",
  "url": "https://hibbangyong.com/words/rural/",
@@ -45,32 +45,6 @@
    "answer_index": 1,
    "answer": "우리 집 앞에는 논밭이 끝없이 펼쳐지고, 이웃집까지 걸어서 십 분이 걸려.",
    "why": "맞아! 논밭이 쭉 펼쳐지고 이웃집까지 걸어서 십 분이나 걸린다는 건, 집도 사람도 드물고 넓은 땅만 있다는 뜻이거든. 도시에서 멀리 떨어진 딱 그런 조용한 곳이 바로 rural이야."
-  },
-  {
-   "type": "choice",
-   "question": "친구가 사진 네 장을 보여 주며 어디인지 설명했어. 다음 중 'rural'에 해당하는 곳은 어디일까?",
-   "choices": [
-    "전철이 지나는 다리 아래로 자동차가 줄지어 서 있고 간판이 늘어선 곳",
-    "컨테이너를 실은 배가 드나들고 크레인이 짐을 내리는 항구",
-    "차로 한참 나가야 하고 논과 과수원 사이 흙길에 집이 드문드문 있는 곳",
-    "비행기가 활주로에 내려앉고 가방을 끈 사람들이 오가는 공항"
-   ],
-   "answer_index": 2,
-   "answer": "차로 한참 나가야 하고 논과 과수원 사이 흙길에 집이 드문드문 있는 곳",
-   "why": "맞아! 차로 한참 나가야 하고 논밭이랑 과수원 사이에 집이 드문드문 있잖아. 도시에서 멀고 넓은 땅이 펼쳐진 그 조용한 곳, 그게 바로 rural이야."
-  },
-  {
-   "type": "choice",
-   "question": "네 곳을 설명할게. 이 중에서 'rural'이라고 부를 수 있는 곳은 어디일까?",
-   "choices": [
-    "높은 빌딩과 지하철역이 빽빽하고 사람이 늘 붐비는 곳",
-    "도시 바로 옆이라 조용하지만 차로 몇 분이면 도시 한복판에 닿는 주택가",
-    "차로 도시에서 한참 나가야 하고, 집이 몇 채 없이 들판만 넓게 펼쳐진 곳",
-    "큰 도시 안에 있는 넓은 공원이라 나무도 많고 조용한 곳"
-   ],
-   "answer_index": 2,
-   "answer": "차로 도시에서 한참 나가야 하고, 집이 몇 채 없이 들판만 넓게 펼쳐진 곳",
-   "why": "맞아! 도시에서 차로 한참 나가야 하고 집도 몇 채 없이 들판만 넓게 있잖아. 도시랑 멀리 떨어져 있고 집이 드문드문한 거, 그게 딱 rural인 거야."
   }
  ],
  "synonyms": [],
@@ -98,6 +72,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/rural.webp",
   "alt": "차 타고 도시에서 멀리 나가 높은 건물이 사라지고 들판·낮은 집만 보이는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/transform/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/transform/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/transform/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "transform",
  "slug": "transform",
  "url": "https://hibbangyong.com/words/transform/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, transform 맞아",
    "why": "맞아! 통나무가 재가 되면 다시는 통나무로 못 돌아가잖아. 애벌레가 나비 된 것처럼 아예 딴 게 돼버린 거라서, 바로 그게 transform인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "어제 만든 레고 자동차를 오늘도 손 하나 안 대고 그대로 뒀어. 이게 'transform'이야?",
-   "choices": [
-    "응, transform 맞아",
-    "아니, transform 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, transform 아니야",
-   "why": "맞아! 손 하나 안 대고 그대로 뒀으면 바뀐 게 하나도 없잖아. 바뀐 게 없으면 transform이 아닌 거야. transform은 애벌레가 나비 되듯 아예 딴 게 돼야 하거든."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 한 일을 말했어. 이 중에서 'transform'이라고 부를 만한 건 누구일까?",
-   "choices": [
-    "밀가루 반죽을 오븐에 구웠더니, 폭신폭신한 빵이 됐어.",
-    "작은 눈덩이를 데굴데굴 굴렸더니, 나보다 더 커졌어.",
-    "무거운 화분을 낑낑대며 옥상 꼭대기까지 옮겨놨어.",
-    "책상 위 인형은 그대로 두고 하나도 안 건드렸어."
-   ],
-   "answer_index": 0,
-   "answer": "밀가루 반죽을 오븐에 구웠더니, 폭신폭신한 빵이 됐어.",
-   "why": "맞아! 반죽이었던 게 오븐에서 나오니까 폭신폭신한 빵이 됐지. 반죽은 이제 어디에도 없어. 아예 딴 게 돼버린 거, 이게 바로 transform이야."
   }
  ],
  "synonyms": [],
@@ -91,6 +67,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/transform.webp",
   "alt": "애벌레가 나비로 완전히 바뀌는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

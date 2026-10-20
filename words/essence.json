@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/essence/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/essence/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/essence/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "essence",
  "slug": "essence",
  "url": "https://hibbangyong.com/words/essence/",
@@ -45,28 +45,6 @@
    "answer_index": 0,
    "answer": "\"누군가의 생일을 축하하는 거야.\"",
    "why": "맞아! 축하하는 마음이 쏙 빠지면 그건 그냥 모임이지 생일 파티가 아니거든. 그래서 바로 그게 생일 파티를 생일 파티이게 만드는 알맹이인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "선우가 그러는데, 크리스마스 하면 하얀 눈이 딱 떠오르니까 '눈이 내리는 것'이 바로 크리스마스의 essence래. 선우 말이 맞을까?",
-   "choices": [
-    "응, essence 맞아",
-    "아니, essence 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, essence 아니야",
-   "why": "딱 맞았어! 눈이 안 오는 크리스마스도 여전히 크리스마스잖아. 눈은 빼도 크리스마스가 사라지지 않으니까 알맹이가 아닌 거야. 그걸 알아본 네가 대단해."
-  },
-  {
-   "type": "ox",
-   "question": "준이가 할머니가 보낸 긴 편지를 읽고 '편지 내용을 짧게 몇 줄로 줄이면 이거야'라며 요약했어. 그러고는 '이 요약이 바로 편지의 essence야'라고 했어. 맞게 쓴 걸까?",
-   "choices": [
-    "응, essence 맞아",
-    "아니, essence 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, essence 아니야",
-   "why": "맞아! 몇 줄로 짧게 줄인 건 편지의 요점이지, 편지를 바로 그 편지이게 만드는 알맹이가 아니거든. 그래서 essence라고 하면 딱 맞진 않아, 잘 골랐어."
   }
  ],
  "synonyms": [
@@ -98,6 +76,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/essence.webp",
   "alt": "레몬을 뺀 레모네이드가 그냥 설탕물이 되는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

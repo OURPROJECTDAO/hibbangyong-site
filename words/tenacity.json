@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/tenacity/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/tenacity/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/tenacity/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "tenacity",
  "slug": "tenacity",
  "url": "https://hibbangyong.com/words/tenacity/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, tenacity 아니야",
    "why": "맞아! 동생은 엄마가 \"안 돼\"라고 한 번 말하자마자 장난감을 바로 제자리에 갖다 놓았잖아. 막히자마자 놓아 버린 거라서, 끝까지 안 놓고 버티는 tenacity랑은 정반대야."
-  },
-  {
-   "type": "ox",
-   "question": "동생이 마트에서 장난감을 사 달라고 했어. 엄마가 \"안 돼\"라고 해도 집에 오는 길 내내, 저녁 먹을 때도, 자기 전까지도 계속 졸랐어. 이게 동생의 'tenacity'야?",
-   "choices": [
-    "응, tenacity 맞아",
-    "아니, tenacity 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, tenacity 맞아",
-   "why": "맞아! 엄마가 \"안 돼\"라고 막았는데도 동생은 집에 오는 길 내내, 저녁 먹을 때도, 자기 전까지도 사 달라는 걸 포기 안 했잖아. 막혀도 포기 안 하고 끝까지 버티는 거, 그게 바로 tenacity야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 중 'tenacity'를 보여 준 사람은?",
-   "choices": [
-    "상대 팀 공격수가 몇 번을 막혀도 다시 골문으로 파고들어서 우리가 진땀 뺐어",
-    "친구가 한 번 정한 생각은 누가 뭐라 해도 절대 바꾸지 않았어",
-    "형이 늦게 오는 버스를 짜증 한 번 안 내고 조용히 기다렸어",
-    "누나가 하기 싫은 숙제를 금방 접고 바로 게임을 켰어"
-   ],
-   "answer_index": 0,
-   "answer": "상대 팀 공격수가 몇 번을 막혀도 다시 골문으로 파고들어서 우리가 진땀 뺐어",
-   "why": "맞아! 상대 공격수는 몇 번을 막혀도 다시 골문으로 파고들었잖아. 우리 팀한텐 진땀 나는 일이었어도, 막혀도 안 놓고 끝까지 버틴 그 힘이 바로 tenacity야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/tenacity.webp",
   "alt": "줄다리기 장난감을 물고 안 놓는 강아지",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/fever/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/fever/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/fever/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "fever",
  "slug": "fever",
  "url": "https://hibbangyong.com/words/fever/",
@@ -45,32 +45,6 @@
    "answer_index": 0,
    "answer": "병이 나서 이마가 평소보다 뜨거워진 친구",
    "why": "맞아! 병이 나서 이마가 평소보다 뜨거워졌잖아. 아파서 몸이 뜨거워진 거, 바로 그게 fever인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "아픈 동생이 이불 속에서 한 말이야. 이 중 'fever'에 해당하는 말은 뭘까?",
-   "choices": [
-    "\"몸이 평소보다 뜨거워졌어.\"",
-    "\"손끝이 점점 차가워졌어.\"",
-    "\"발가락이 조금 간지러워졌어.\"",
-    "\"팔꿈치가 살짝 가려워졌어.\""
-   ],
-   "answer_index": 0,
-   "answer": "\"몸이 평소보다 뜨거워졌어.\"",
-   "why": "맞아! 아픈 동생이 몸이 평소보다 뜨거워졌다고 했잖아. 아파서 몸이 뜨거워진 거, 바로 그게 fever인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 지금 자기 몸이 어떤지 말했어. 이 중에서 'fever'가 있는 아이는 누구일까?",
-   "choices": [
-    "감기를 앓는 중이라, 가만히 있어도 몸이 조금 뜨끈한 아이",
-    "축구를 한참 하고 나서, 얼굴이 새빨갛게 달아오른 아이",
-    "얇게 입고 나갔다가, 몸이 으슬으슬 차가워진 아이",
-    "목이 간질간질해서, 기침만 자꾸 터져 나오는 아이"
-   ],
-   "answer_index": 0,
-   "answer": "감기를 앓는 중이라, 가만히 있어도 몸이 조금 뜨끈한 아이",
-   "why": "맞아! 이 아이는 감기를 앓는 중이라서, 가만히 있는데도 몸이 조금 뜨끈한 거야. 아파서 몸이 뜨거워진 거니까, 조금만 뜨끈해도 바로 그게 fever인 거야."
   }
  ],
  "synonyms": [],
@@ -87,6 +61,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/fever.webp",
   "alt": "감기로 이불 속에 누워 있는데 몸이 안에서부터 후끈해진 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

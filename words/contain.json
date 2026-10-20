@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/contain/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/contain/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/contain/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "contain",
  "slug": "contain",
  "url": "https://hibbangyong.com/words/contain/",
@@ -45,32 +45,6 @@
    "answer_index": 0,
    "answer": "가방 안에 책이 가득 들어 있어",
    "why": "맞아! 가방 안쪽에 책이 쏙 들어가서 밖으로 안 떨어지고 있잖아. 그렇게 안에 지니고 있는 게 바로 contain인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 중 서랍이 무언가를 'contain'하고 있는 모습은?",
-   "choices": [
-    "서랍 안에 양말이 개켜져 들어 있어",
-    "서랍 손잡이가 은색으로 반짝이고 있어",
-    "서랍이 벽 쪽으로 밀려 닫혀 있어",
-    "서랍이 나무로 튼튼하게 짜여 있어"
-   ],
-   "answer_index": 0,
-   "answer": "서랍 안에 양말이 개켜져 들어 있어",
-   "why": "맞아! 서랍이 양말을 안에 딱 품고 있어서 밖으로 안 나가잖아. 무언가를 그 안에 지니고 있는 것, 바로 그게 contain이야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 중 컵이 우유를 'contain'하고 있는 모습은?",
-   "choices": [
-    "컵 안에 우유가 반쯤 차 있어",
-    "컵이 넘어져 우유가 바닥에 다 쏟아졌어",
-    "컵이 씻겨서 안이 텅 비어 있어",
-    "컵 옆에 우유갑이 나란히 놓여 있어"
-   ],
-   "answer_index": 0,
-   "answer": "컵 안에 우유가 반쯤 차 있어",
-   "why": "맞아! 컵이 우유를 안에 딱 붙잡아 두고 있잖아. 한 방울도 밖으로 못 나가게 품고 있으니까, 바로 그게 contain이야."
   }
  ],
  "synonyms": [
@@ -94,6 +68,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/contain.webp",
   "alt": "물병이 물을 안에 붙잡아 새지 않게 담고 있는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

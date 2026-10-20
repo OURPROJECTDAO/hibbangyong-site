@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/contractor/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/contractor/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/contractor/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "contractor",
  "slug": "contractor",
  "url": "https://hibbangyong.com/words/contractor/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, contractor 맞아",
    "why": "맞아! 간판 업체는 빵집 바깥에 있는 곳인데, 50만 원에 다음 주 금요일까지 달아 주기로 약속하고 간판 일을 맡았잖아. 돈이랑 기한을 약속하고 남의 일을 맡은 쪽이니까 바로 contractor인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "시청이 가을 축제 불꽃놀이를 바깥 불꽃놀이 업체에 맡기면서 '300만 원에 축제 첫날 밤에 해 주기'로 약속했어. 이 약속으로 일을 맡기고 돈을 내는 시청은 'contractor'야?",
-   "choices": [
-    "응, contractor 맞아",
-    "아니, contractor 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, contractor 아니야",
-   "why": "맞아! 시청은 불꽃놀이를 업체에 맡기고 300만 원을 내는 쪽이잖아. contractor는 돈을 받고 그 일을 맡은 불꽃놀이 업체 쪽이니까, 시청은 contractor가 아니야."
-  },
-  {
-   "type": "choice",
-   "question": "학교와 관련된 네 쪽이 있어. 이 중에서 'contractor'라고 부를 수 있는 건 누구일까?",
-   "choices": [
-    "학교에 뽑혀 날마다 행정실로 출근하는 직원",
-    "공사가 제대로 됐는지 살피러 온 구청 공무원",
-    "돈을 받고 한 달 동안 급식을 하기로 한 바깥 업체",
-    "업체에 공사를 맡기고 돈을 내는 교장 선생님"
-   ],
-   "answer_index": 2,
-   "answer": "돈을 받고 한 달 동안 급식을 하기로 한 바깥 업체",
-   "why": "맞아! 급식 업체는 학교 바깥에 있다가, 돈을 받고 한 달 동안 급식을 하기로 약속하고 그 일을 맡았잖아. 그렇게 약속하고 일을 맡은 쪽이 바로 contractor야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/contractor.webp",
   "alt": "학교가 새 앱 제작을 바깥 회사에 맡김",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

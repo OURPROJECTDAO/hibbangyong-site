@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/none/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/none/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/none/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "none",
  "slug": "none",
  "url": "https://hibbangyong.com/words/none/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, none 맞아",
    "why": "맞아! 열두 칸 다 열어봤는데 신발이 한 켤레도 없었잖아. 그렇게 딱 영 개일 때 쓰는 말이 바로 none이야."
-  },
-  {
-   "type": "ox",
-   "question": "현장학습 동의서를 걷었는데 우리 반 스무 명이 모두 한 장씩 냈어. 동의서를 낸 사람이 'none'이야?",
-   "choices": [
-    "응, none 맞아",
-    "아니, none 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, none 아니야",
-   "why": "맞아! 스무 명이 다 냈으니까 한 장도 안 낸 게 아니잖아. 그러니까 none이 아닌 거야. none은 낸 사람이 딱 영 명일 때 쓰는 말이거든."
-  },
-  {
-   "type": "choice",
-   "question": "네 모둠이 각자 주전자를 확인하고 말했어. 남은 물이 'none'인 주전자는 어느 거게?",
-   "choices": [
-    "바닥에 몇 방울이 굴러다니는 주전자",
-    "기울여도 아무것도 안 나오는 주전자",
-    "따르면 컵 하나는 채울 수 있는 주전자",
-    "아직 반쯤 차 있는 주전자"
-   ],
-   "answer_index": 1,
-   "answer": "기울여도 아무것도 안 나오는 주전자",
-   "why": "맞아! 기울여도 아무것도 안 나온다는 건 물이 한 방울도 안 남았다는 뜻이거든. 딱 그렇게 텅 빈 게 바로 none이야."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/none.webp",
   "alt": "다 나눠 먹고 텅 빈 과자 접시의 남은 개수",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

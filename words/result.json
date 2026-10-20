@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/result/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/result/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/result/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "result",
  "slug": "result",
  "url": "https://hibbangyong.com/words/result/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, result 맞아",
    "why": "맞아! 팔꿈치로 건드린 다음에 우유가 쏟아졌잖아. 뭘 했더니 그 뒤에 생겨난 게 바로 result야. 쏟아진 우유가 딱 그거지."
-  },
-  {
-   "type": "choice",
-   "question": "지수가 방문을 아주 세게 '쾅!' 하고 닫았어. 그 바람에 벽에 걸어둔 그림이 살짝 삐뚤어졌지. 여기서 'result'는 어느 거야?",
-   "choices": [
-    "그림이 삐뚤어진 것",
-    "방문을 세게 쾅 닫은 것",
-    "방문 손잡이를 잡은 것",
-    "그림을 벽에 걸어둔 것"
-   ],
-   "answer_index": 0,
-   "answer": "그림이 삐뚤어진 것",
-   "why": "맞아! 지수가 쾅 닫은 다음에 그림이 삐뚤어졌잖아. 그렇게 뭘 하고 나서 뒤에 생겨난 게 바로 result인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "서연이가 색연필 통을 열고 파란 색연필을 손에 쥐었어. 아직 종이에는 아무것도 안 그렸어. 여기서 '색연필을 손에 쥔 것'이 result야?",
-   "choices": [
-    "응, result 맞아",
-    "아니, result 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, result 아니야",
-   "why": "맞아! 색연필을 손에 쥔 건 이제 그리려고 준비하는 거잖아. 뭔가 하고 나서 그 다음에 생겨난 게 아니니까 result가 아닌 거야."
   }
  ],
  "synonyms": [
@@ -90,6 +66,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/result.webp",
   "alt": "블록탑을 팔로 쳐서 와르르 무너진 것",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/treaty/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/treaty/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/treaty/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "treaty",
  "slug": "treaty",
  "url": "https://hibbangyong.com/words/treaty/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, 이건 treaty가 아니야.",
    "why": "맞아! 민수랑 지호는 나라가 아니라 친구 둘이잖아. 글로 적고 이름까지 걸었어도, treaty는 나라랑 나라가 맺는 거라서 이건 그냥 둘이 한 약속인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "한 나라가 자기 나라 안에서 '앞으로 여기 강에서는 밤에 고기를 못 잡는다'고 스스로 정해 글로 적어 붙였어. 이런 경우도 'treaty'야?",
-   "choices": [
-    "응, 이것도 treaty야.",
-    "아니, 이건 treaty가 아니야."
-   ],
-   "answer_index": 1,
-   "answer": "아니, 이건 treaty가 아니야.",
-   "why": "잘 골랐어! 이건 그 나라가 혼자 정해서 붙인 규칙이거든. 마주 앉을 상대 나라가 있어야, 서로 이렇게 하자고 정하고 같이 이름을 걸어야 treaty인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "두 나라 대표가 마주 앉아 종이에 적고 서로 이름을 쓴 일이 네 가지야. 이 가운데 'treaty'라고 부르는 건 어느 거야?",
-   "choices": [
-    "지난여름 두 나라 배가 바다에서 몇 번 부딪혔는지 세어 적고, 둘 다 이름을 썼어.",
-    "앞으로 두 나라 배가 바다에서 어디까지 고기를 잡을지 정해 적고, 둘 다 이름을 썼어.",
-    "그날 마주 앉아 서로 무슨 말을 했는지 말한 그대로 옮겨 적고, 둘 다 이름을 썼어.",
-    "두 나라 사이 바다에 물고기가 몇 종류 사는지 함께 세어 적고, 둘 다 이름을 썼어."
-   ],
-   "answer_index": 1,
-   "answer": "앞으로 두 나라 배가 바다에서 어디까지 고기를 잡을지 정해 적고, 둘 다 이름을 썼어.",
-   "why": "맞아! 앞으로 어디까지 고기를 잡을지 정한 거잖아. 지난 일을 적은 게 아니라 앞으로 이렇게 하자를 정해서 이름을 걸었으니까, 바로 그게 treaty야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/treaty.webp",
   "alt": "바다에서 고기 잡는 자리를 두고 부딪히던 두 나라가 마주 앉아 선을 정해 글로 적고 이름을 검",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/attack/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/attack/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/attack/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "attack",
  "slug": "attack",
  "url": "https://hibbangyong.com/words/attack/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, attack 맞아",
    "why": "맞아! 가만히 앉아 있던 참새를 고양이가 먼저 확 덮쳤잖아. 해치려고 갑자기 덮치는 그 순간, 그게 바로 attack인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "골키퍼가 골대 앞에 서서 날아든 슛을 두 손으로 붙잡아 세웠어. 이게 'attack'이야?",
-   "choices": [
-    "응, attack 맞아",
-    "아니, attack 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, attack 아니야",
-   "why": "맞아, 이건 attack이 아니야! 골키퍼는 먼저 덤빈 게 아니라 날아오는 걸 두 손으로 받아서 막아낸 거거든. 지키는 쪽이지 덮치는 쪽이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 운동장에서 한 일이야. 이 중에서 'attack'이라고 부를 수 있는 건?",
-   "choices": [
-    "민서가 날아오는 공을 팔로 막아서 밖으로 튕겨냈어",
-    "지호가 상대 골대 쪽으로 공을 몰고 확 밀고 들어갔어",
-    "준이가 친구랑 서로 밀고 당기며 한참 티격태격했어",
-    "수아가 발을 쿵쿵 구르면서 큰 소리로 화를 냈어"
-   ],
-   "answer_index": 1,
-   "answer": "지호가 상대 골대 쪽으로 공을 몰고 확 밀고 들어갔어",
-   "why": "맞아! 상대 골대 쪽으로 공을 몰고 확 밀고 들어간 거잖아. 먼저 상대 쪽으로 확 덮쳐 들어가는 거, 그게 바로 attack이야. 주먹질만 attack인 게 아니라 이렇게 몰아치는 것도 그래."
   }
  ],
  "synonyms": [],
@@ -92,6 +68,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/attack.webp",
   "alt": "가만있는 것을 갑자기 확 덮치는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

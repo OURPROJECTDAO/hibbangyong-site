@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/tap/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/tap/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/tap/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "tap",
  "slug": "tap",
  "url": "https://hibbangyong.com/words/tap/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, tap 아니야",
    "why": "맞아! 준호는 온 힘을 다해 세게 쳐서 공이 멀리 날아갔잖아. tap은 아주 가볍게 톡 건드리고 바로 떼는 거라서, 이렇게 세게 친 건 tap이 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "수아가 책상에 앉아서 연필 끝으로 공책 위를 톡, 톡, 짧게 건드렸다가 바로 뗐어. 이걸 공책을 'tap'했다고 할 수 있을까?",
-   "choices": [
-    "응, tap 맞아",
-    "아니, tap 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, tap 맞아",
-   "why": "맞아! 수아가 연필 끝으로 공책 위를 톡, 톡, 짧게 건드렸다가 바로 뗐잖아. 가볍게 닿았다가 바로 떨어졌으니까, 그게 바로 tap인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "민수가 유리창 앞에 서서 손을 댔어. 어떤 걸 유리를 'tap'했다고 말할 수 있을까?",
-   "choices": [
-    "손끝으로 유리를 두 번 짧게 건드렸다가 곧바로 뗐어",
-    "손바닥을 유리에 붙이고 한참 동안 그대로 있었어",
-    "주먹으로 유리를 쿵쿵 세게 두드려 큰 소리를 냈어",
-    "손바닥으로 유리를 위아래로 쓱쓱 문질러 닦았어"
-   ],
-   "answer_index": 0,
-   "answer": "손끝으로 유리를 두 번 짧게 건드렸다가 곧바로 뗐어",
-   "why": "맞아! 손끝으로 유리를 짧게 건드리고 곧바로 뗐잖아. 가볍게 닿았다가 바로 떨어졌으니까, 그게 바로 tap인 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/tap.webp",
   "alt": "밤에 빗방울이 창유리를 톡톡 건드리는 소리",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

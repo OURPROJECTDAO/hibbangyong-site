@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/seismic/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/seismic/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/seismic/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "seismic",
  "slug": "seismic",
  "url": "https://hibbangyong.com/words/seismic/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, seismic 맞아",
    "why": "맞아! 이 떨림은 바다 밑 땅속이 흔들리면서 시작된 거라서 딱 seismic이야. 떨림이 바닷가 마을까지 전해져서 창문이 덜컹거린 것도, 출발점이 땅속이니까 seismic 떨림인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "과학 시간에 배운 내용이야. 어떤 대륙의 한가운데 땅은 땅속이 늘 잠잠해서, 땅속에서 올라오는 떨림이 한 번도 생긴 적이 없대. 이렇게 땅속이 잠잠한 것을 'seismic'하다고 할 수 있을까?",
-   "choices": [
-    "응, seismic 맞아",
-    "아니, seismic 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, seismic 아니야",
-   "why": "맞아! seismic은 땅속에서 올라온 떨림, 그러니까 지진과 관련된 것에만 붙는 말이야. 이 대륙 한가운데 땅은 땅속 떨림이 한 번도 없었다니까 seismic하고는 정반대인 거지."
-  },
-  {
-   "type": "choice",
-   "question": "과학 뉴스에 나온 네 가지 일이야. 이 중에서 'seismic'이라고 부를 수 있는 건?",
-   "choices": [
-    "사람은 못 느낄 만큼 약한 땅속 떨림을 기계가 기록한 일",
-    "태풍이 불어서 바닷물이 크게 출렁이며 배가 흔들린 일",
-    "산꼭대기에서 뜨거운 용암이 천천히 흘러내려 온 일",
-    "그 지역 땅이 수십 년 동안 아무 움직임 없이 조용했던 일"
-   ],
-   "answer_index": 0,
-   "answer": "사람은 못 느낄 만큼 약한 땅속 떨림을 기계가 기록한 일",
-   "why": "맞아! 사람은 못 느낄 만큼 약해도 땅속에서 온 떨림이니까 seismic이 맞아. 크기는 상관없어. 기계가 잡아낸 그 작은 떨림도 지진과 관련된 일이거든."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/seismic.webp",
   "alt": "사람이 못 느낀 땅속 떨림을 기계가 기록했다는 뉴스",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

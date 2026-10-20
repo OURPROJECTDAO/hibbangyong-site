@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/holy/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/holy/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/holy/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "holy",
  "slug": "holy",
  "url": "https://hibbangyong.com/words/holy/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, holy 맞아",
    "why": "맞아! 성당 제단 한가운데 놓인 십자가는 사람들이 신이랑 이어져 있다고 믿어서 함부로 못 만지고 조심조심 받드는 거거든. 그래서 바로 그게 holy인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "문구점 안이야. 진열대 한가운데에 공책이 쌓여 있어. 이게 'holy'야?",
-   "choices": [
-    "응, holy 맞아",
-    "아니, holy 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, holy 아니야",
-   "why": "맞아! 문구점 공책은 그냥 사고파는 물건이라 신이랑 이어진 데가 하나도 없거든. 그래서 holy가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 곳을 소개할게. 사람들이 'holy'라고 부르는 곳은 어디일까?",
-   "choices": [
-    "신을 모신 자리라 사람들이 숨죽이고 조심조심 절하는 오래된 사당",
-    "아이들이 신나게 소리 지르며 뛰어노는 동네 놀이터",
-    "값비싼 보석이 많아 손대면 안 된다고 하는 반짝이는 가게",
-    "바닥까지 깨끗하게 닦아 반들반들 윤이 나는 병원 복도"
-   ],
-   "answer_index": 0,
-   "answer": "신을 모신 자리라 사람들이 숨죽이고 조심조심 절하는 오래된 사당",
-   "why": "맞아! 신을 모신 자리라 사람들이 숨을 죽이고 조심조심 절하잖아. 신이랑 이어져 있어서 함부로 못 대하고 깊이 받드는 마음, 바로 그게 holy인 거야."
   }
  ],
  "synonyms": [],
@@ -94,6 +70,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/holy.webp",
   "alt": "교회·절 안에서 목소리 낮추고 조심조심 걷는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

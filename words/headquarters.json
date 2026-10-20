@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/headquarters/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/headquarters/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/headquarters/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "headquarters",
  "slug": "headquarters",
  "url": "https://hibbangyong.com/words/headquarters/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, headquarters 맞아",
    "why": "맞아! 여섯 군데가 각자 움직이는 게 아니라, 한 군데에서 전체한테 오늘 누가 어디 맡을지 정해서 알려주잖아. 흩어진 곳들을 한 자리가 묶어서 지휘하는 거니까 바로 그게 headquarters인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "그 택배 회사 사무소 중 하나는 바닷가 동네에 있어. 여기는 정해서 알려준 대로 상자를 나르기만 하고, 어느 동네를 맡을지는 스스로 안 정해. 여기를 'headquarters'라고 부를 수 있어?",
-   "choices": [
-    "응, headquarters 맞아",
-    "아니, headquarters 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, headquarters 아니야",
-   "why": "맞아! 여기는 어디로 갈지 위에서 정해준 걸 받아서 상자만 나르잖아. 전체를 보고 명령을 내리는 자리가 아니라 명령을 받는 자리니까, headquarters가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "어떤 피자 회사에 가게가 도시에 열 군데 있어. 아래 네 곳 중에서 'headquarters'라고 부를 수 있는 곳은 어디일까?",
-   "choices": [
-    "열 군데 가게에 무슨 피자를 팔지, 사람을 몇 명 쓸지 정해서 알려주는 사무실",
-    "가게 열 군데 중에서 손님이 제일 많고 건물도 제일 큰 가게",
-    "밀가루랑 치즈를 잔뜩 쌓아두고 가게마다 실어 보내는 큰 창고",
-    "정해준 대로 피자를 만들어 팔기만 하는 길 건너 새 가게"
-   ],
-   "answer_index": 0,
-   "answer": "열 군데 가게에 무슨 피자를 팔지, 사람을 몇 명 쓸지 정해서 알려주는 사무실",
-   "why": "맞아! 무슨 피자를 팔지, 사람을 몇 명 쓸지 그 사무실이 정하면 열 군데 가게가 그대로 하잖아. 명령이 나오는 자리, 그게 바로 headquarters야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/headquarters.webp",
   "alt": "도시 곳곳 다섯 소방서를 한곳에서 지휘하는 자리",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

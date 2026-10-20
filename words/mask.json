@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/mask/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/mask/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/mask/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "mask",
  "slug": "mask",
  "url": "https://hibbangyong.com/words/mask/",
@@ -41,19 +41,6 @@
    "answer_index": 0,
    "answer": "응, 맞아",
    "why": null
-  },
-  {
-   "type": "choice",
-   "question": "mask는 어느 것일까?",
-   "choices": [
-    "등에 메어서 책과 공책을 넣는 물건",
-    "목에 둘러서 추위를 막아 주는 물건",
-    "얼굴에 써서 눈·코·입을 가리는 물건",
-    "팔에 끼워서 물에 뜨게 해 주는 물건"
-   ],
-   "answer_index": 2,
-   "answer": "얼굴에 써서 눈·코·입을 가리는 물건",
-   "why": null
   }
  ],
  "synonyms": [],
@@ -72,6 +59,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/mask.webp",
   "alt": "얼굴에 쓰는 가면 하나를 중앙에 크게 — 눈구멍이 뚫린 알록달록한 파티/축제용 가면(사물 의미)",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/commit/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/commit/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/commit/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "commit",
  "slug": "commit",
  "url": "https://hibbangyong.com/words/commit/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, commit 맞아",
    "why": "맞아! 종이에 써서 이름까지 적고 건네줬으니까 이제 도로 달라고 할 수가 없잖아. 딴 길을 스스로 닫아버린 거라서 바로 그게 commit인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "민서가 교실 칠판 '청소 당번' 칸에 분필로 자기 이름을 썼어. 그런데 마음이 바뀌면 지우개로 쓱 지우고 다른 칸에 다시 써도 아무도 뭐라 안 해. 이게 'commit'이야?",
-   "choices": [
-    "응, commit 맞아",
-    "아니, commit 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, commit 아니야",
-   "why": "맞아! 지우개로 쓱 지우고 다른 칸에 옮겨 써도 되니까 딴 길이 그대로 열려 있잖아. 물러설 데가 남아 있으면 아직 commit이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 어제 각각 이런 일을 했어. 이 중에 'commit'한 아이는 누구일까?",
-   "choices": [
-    "빌린 책을 읽다 재미없다고 도로 반납해 버린 아이",
-    "두 팀 이름을 적어 놓고 아직 못 고르고 있는 아이",
-    "모아 둔 용돈을 다 내고 캠프 신청서를 내버린 아이",
-    "내일부터 일찍 일어나겠다고 속으로 다짐만 한 아이"
-   ],
-   "answer_index": 2,
-   "answer": "모아 둔 용돈을 다 내고 캠프 신청서를 내버린 아이",
-   "why": "맞아! 용돈을 다 내고 신청서까지 내버렸으니 이제 마음 바꿔도 그 돈 도로 못 가져오고 딴 데도 못 쓰잖아. 이렇게 물러설 데를 없애버린 게 바로 commit이야."
   }
  ],
  "synonyms": [],
@@ -93,6 +69,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/commit.webp",
   "alt": "\"나 파란 팀!\" 하고 이름을 걸어 빨간 팀에 못 가게 된 아이",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

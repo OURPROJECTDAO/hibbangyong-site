@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/concur/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/concur/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/concur/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "concur",
  "slug": "concur",
  "url": "https://hibbangyong.com/words/concur/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, concur 맞아",
    "why": "맞아! 삼촌이 곧 비가 올 거라고 판단했는데, 이모도 하늘을 살펴보고 나서 \"나도 그렇게 봐\"라고 했잖아. 삼촌의 판단을 듣고 자기 생각도 똑같다고 말한 거니까 바로 그게 concur야."
-  },
-  {
-   "type": "ox",
-   "question": "과학 시간에 짝이 화분을 보고 \"이 식물이 잘 자란 건 햇빛 때문이야\"라고 결론을 냈어. 나는 화분을 살펴보더니 \"내 생각엔 물 때문인 것 같아\"라고 했어. 내가 한 말은 'concur'일까?",
-   "choices": [
-    "응, concur 맞아",
-    "아니, concur 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, concur 아니야",
-   "why": "맞아! 짝은 햇빛 때문이라고 했는데 너는 물 때문인 것 같다고 했잖아. 짝이랑 생각이 다른 거니까 concur가 아니야. concur는 짝 말을 듣고 나도 햇빛 때문이라고 보는 거거든."
-  },
-  {
-   "type": "choice",
-   "question": "다음 네 장면 중에서 누군가 'concur'한 장면은 어느 것일까?",
-   "choices": [
-    "지우가 \"게임 한 판만 해도 돼요?\"라고 묻자, 엄마가 \"그래, 딱 한 판만 해\"라고 했어.",
-    "선생님이 \"오늘 자리 바꾸자\"고 하자, 지우는 속으로는 싫었지만 그냥 자리를 옮겼어.",
-    "지우가 \"그 영화 결말은 좀 별로였어\"라고 하자, 민호가 \"응, 나도 그렇게 봤어\"라고 했어.",
-    "지우가 \"그 영화 결말은 좀 별로였어\"라고 하자, 민호가 \"난 오히려 좋았는데\"라고 했어."
-   ],
-   "answer_index": 2,
-   "answer": "지우가 \"그 영화 결말은 좀 별로였어\"라고 하자, 민호가 \"응, 나도 그렇게 봤어\"라고 했어.",
-   "why": "맞아! 지우가 영화 결말이 별로였다고 했을 때 민호도 \"나도 그렇게 봤어\"라고 했잖아. 지우랑 생각이 같다고 말한 거니까 이게 concur야. 칭찬이 아니라 별로였다는 말에 맞장구친 거라도 똑같이 concur야."
   }
  ],
  "synonyms": [],

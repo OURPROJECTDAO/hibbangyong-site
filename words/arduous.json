@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/arduous/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/arduous/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/arduous/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "arduous",
  "slug": "arduous",
  "url": "https://hibbangyong.com/words/arduous/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, arduous 맞아",
    "why": "맞아! 이틀 내내 허리를 굽힌 채 넓은 마당 잡초를 손으로 한 포기씩 뽑았잖아. 힘을 쉬지 않고 계속 쏟아야 해서 사람을 지치게 하는 일이니까, 바로 그게 arduous인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "친구 네 명이 각자 겪은 일을 말했어. 그중에서 'arduous'라고 부르기에 가장 알맞은 일은?",
-   "choices": [
-    "퀴즈 마지막 문제가 너무 헷갈려서 끝내 답을 못 썼어",
-    "대회에 나갈 곡을 석 달 동안 매일 밤 몇 시간씩 연습했어",
-    "병원 대기실에서 세 시간 동안 그냥 앉아서 기다렸어",
-    "어두운 골목을 혼자 지나오느라 가슴이 계속 쿵쾅거렸어"
-   ],
-   "answer_index": 1,
-   "answer": "대회에 나갈 곡을 석 달 동안 매일 밤 몇 시간씩 연습했어",
-   "why": "맞아! 석 달 동안 매일 밤 몇 시간씩 연습하는 건 힘이랑 끈기를 계속 쏟아야 해서 사람을 지치게 하잖아. 몸을 쓰는 일이 아니어도 이렇게 노력을 오래 쏟아야 하는 일이면 바로 arduous인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "외국으로 이사 간 사촌 형이 일 년 동안 매일 밤 낯선 나라 말을 붙잡고 공부했대. 지칠 대로 지쳤지만 버텨서 이제 겨우 대화가 된대. 이런 경우도 'arduous'야?",
-   "choices": [
-    "응, 'arduous' 맞아",
-    "아니, 'arduous' 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, 'arduous' 맞아",
-   "why": "맞아! 사촌 형은 일 년 동안 매일 밤 낯선 나라 말을 붙잡고 버텼잖아. 몸을 쓰는 일이 아니어도 힘을 계속 쏟다가 지칠 대로 지쳤으니까 이것도 arduous야."
   }
  ],
  "synonyms": [],

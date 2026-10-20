@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/transition/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/transition/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/transition/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "transition",
  "slug": "transition",
  "url": "https://hibbangyong.com/words/transition/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, transition 아니야",
    "why": "맞아! 시계가 그 자리 그대로, 색도 안 바뀌고 옮길 생각도 없잖아. 아무것도 안 변하는데 넘어가는 중일 수가 없거든. 그래서 이건 transition이 아닌 게 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "동생이 어제까지 세발자전거만 탔는데, 오늘부터 두발자전거를 배우기 시작했어. 아직 혼자서는 못 타고, 아빠가 뒤를 잡아 주면 몇 미터 가다가 발을 내려. 세발자전거는 이제 안 타고, 두발자전거는 아직 혼자 못 타는 지금 이 며칠. 이게 'transition'이야?",
-   "choices": [
-    "응, transition 맞아",
-    "아니, transition 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, transition 맞아",
-   "why": "맞아! 세발자전거는 이미 안 타고 두발자전거는 아직 혼자 못 타잖아. 떠난 데도 아니고 닿은 데도 아닌 그 사이라서, 바로 그게 transition인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "아래 네 가지 중, 'transition'이라고 부르기에 가장 알맞은 건 뭘까?",
-   "choices": [
-    "전학 온 아이가 새 반이 아직 어색해서 몇 주째 조금씩 익숙해지고 있는 나날",
-    "전학 온 아이가 첫날 아침에 벌써 반 친구들과 다 친해져서 어색함이 없어진 것",
-    "전학 온 아이가 새 반에 완전히 익숙해져서 이제 아무렇지 않게 된 지금",
-    "전학 온 아이가 몇 년째 같은 반, 같은 자리에서 하나도 달라진 게 없는 나날"
-   ],
-   "answer_index": 0,
-   "answer": "전학 온 아이가 새 반이 아직 어색해서 몇 주째 조금씩 익숙해지고 있는 나날",
-   "why": "맞아! 아직 어색한데 조금씩 익숙해지는 중이잖아. 낯선 것도 아니고 편한 것도 아닌, 그 사이를 지나가고 있는 나날. 바로 그게 transition인 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/transition.webp",
   "alt": "에스컬레이터에서 1층 발판을 떠나 2층 바닥에 닿기까지 붕 떠 있는 동안",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

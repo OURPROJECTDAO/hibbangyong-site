@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/vary/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/vary/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/vary/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "vary",
  "slug": "vary",
  "url": "https://hibbangyong.com/words/vary/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, vary 맞아",
    "why": "맞아! 같은 연필 상자인데 열한 자루, 열두 자루, 열세 자루로 상자마다 개수가 왔다갔다 하잖아. 딱 몇 자루라고 정해져 있지 않고 그때그때 다른 거, 그게 바로 vary야."
-  },
-  {
-   "type": "ox",
-   "question": "우리 집 현관 신발장 칸 수는 처음 달았을 때부터 지금까지 계속 여섯 칸이야. 이걸 'vary'라고 할 수 있어?",
-   "choices": [
-    "응, vary 맞아",
-    "아니, vary 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, vary 아니야",
-   "why": "맞아! 처음 달았을 때부터 지금까지 쭉 여섯 칸 그대로면 하나도 왔다갔다 하지 않은 거잖아. 그러니까 vary가 아닌 거야. vary는 봉지마다 과자 개수가 다르듯 그때그때 달라질 때 쓰는 말이거든."
-  },
-  {
-   "type": "choice",
-   "question": "형이 자는 시간에 대해 네 가지 이야기가 있어. 이 중에 'vary'라고 말할 수 있는 건 어느 거야?",
-   "choices": [
-    "어떤 날은 아홉 시, 어떤 날은 열 시에 잠들어.",
-    "지난달부터 아홉 시 대신 열 시에 잠들기로 했어.",
-    "무슨 일이 있어도 늘 아홉 시에 잠들어.",
-    "동생보다 한 시간 늦은 열 시에 잠들어."
-   ],
-   "answer_index": 0,
-   "answer": "어떤 날은 아홉 시, 어떤 날은 열 시에 잠들어.",
-   "why": "맞아! 어떤 날은 아홉 시, 어떤 날은 열 시. 딱 몇 시라고 정해져 있지 않고 날마다 왔다갔다 하잖아. 바로 그렇게 그때그때 달라지는 게 vary야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/vary.webp",
   "alt": "똑같은 과자 봉지마다 든 개수가 조금씩 다른 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

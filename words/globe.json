@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/globe/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/globe/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/globe/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "globe",
  "slug": "globe",
  "url": "https://hibbangyong.com/words/globe/",
@@ -41,19 +41,6 @@
    "answer_index": 0,
    "answer": "응, 맞아",
    "why": null
-  },
-  {
-   "type": "choice",
-   "question": "globe는 어느 것일까?",
-   "choices": [
-    "물을 끓여 밥을 짓는, 손잡이 달린 둥근 냄비",
-    "발에 신고 달릴 때 신는, 끈이 달린 천 신발",
-    "받침대에 올려 손으로 돌리는, 지구를 그린 둥근 공",
-    "글씨를 쓸 때 손에 쥐는, 길쭉한 나무 막대"
-   ],
-   "answer_index": 2,
-   "answer": "받침대에 올려 손으로 돌리는, 지구를 그린 둥근 공",
-   "why": null
   }
  ],
  "synonyms": [],
@@ -69,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/globe.webp",
   "alt": "받침대 위에 놓인 전형적인 탁상용 지구본(파란 바다·초록 대륙, 금속 받침·기울어진 축)",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

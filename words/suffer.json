@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/suffer/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/suffer/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/suffer/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "suffer",
  "slug": "suffer",
  "url": "https://hibbangyong.com/words/suffer/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, suffer 맞아",
    "why": "맞아! 넘어져서 무릎이 찢어진 건 민수가 원한 일이 아니라 나쁜 일을 당한 거고, 오늘도 욱신거려서 계단도 못 내려갈 만큼 아파하고 있잖아. 나쁜 일을 당해서 아파하는 쪽이 된 거, 그게 바로 suffer인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "지호는 오늘 놀이공원에서 회전목마를 세 번이나 타고 솜사탕도 먹었어. 지호는 'suffer' 하고 있는 걸까?",
-   "choices": [
-    "응, suffer 맞아",
-    "아니, suffer 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, suffer 아니야",
-   "why": "맞아! 회전목마 타고 솜사탕 먹으면서 신나는 건 나쁜 일을 당한 게 아니잖아. suffer는 아파서 끙끙 앓거나 힘든 일을 당했을 때 쓰는 말이라, 지호처럼 즐거운 하루는 suffer가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "친구 넷이 요즘 어떻게 지냈는지 이야기했어. 누구를 'suffer'라고 말할 수 있을까?",
-   "choices": [
-    "발을 크게 다쳐서 며칠째 걷지도 못하고 끙끙 앓는 아이",
-    "뜨거운 국에 혀를 살짝 데었다가 금방 멀쩡해진 아이",
-    "생일에 선물을 잔뜩 받아서 하루 종일 신난 아이",
-    "새로 이사 간 동네를 즐겁게 여기저기 구경하는 아이"
-   ],
-   "answer_index": 0,
-   "answer": "발을 크게 다쳐서 며칠째 걷지도 못하고 끙끙 앓는 아이",
-   "why": "맞아! 발을 크게 다쳐서 며칠째 걷지도 못하고 끙끙 앓고 있잖아. 나쁜 일을 당해서 계속 괴로운 거, 그게 바로 suffer인 거야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/suffer.webp",
   "alt": "배가 콕콕 아파 끙끙 앓는 아이",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/swing/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/swing/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/swing/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "swing",
  "slug": "swing",
  "url": "https://hibbangyong.com/words/swing/",
@@ -41,19 +41,6 @@
    "answer_index": 1,
    "answer": "아니, 아니야",
    "why": null
-  },
-  {
-   "type": "choice",
-   "question": "swing은 어느 것일까?",
-   "choices": [
-    "높은 곳에서 미끄러지듯 아래로 내려오는 놀이기구",
-    "양쪽 끝에 앉아 위아래로 오르내리는 긴 놀이기구",
-    "줄에 매달린 널빤지에 앉아 앞뒤로 왔다 갔다 하는 놀이기구",
-    "쇠막대를 잡고 위로 기어오르는 네모난 놀이기구"
-   ],
-   "answer_index": 2,
-   "answer": "줄에 매달린 널빤지에 앉아 앞뒤로 왔다 갔다 하는 놀이기구",
-   "why": null
   }
  ],
  "synonyms": [],
@@ -69,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/swing.webp",
   "alt": "놀이터의 그네 한 개 — 나무·쇠사슬 두 줄에 매달린 널빤지 좌석(pos=verb지만 아이 친숙 시각의미=그네 사물로 그림)",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

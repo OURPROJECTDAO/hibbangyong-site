@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/trail/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/trail/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/trail/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "trail",
  "slug": "trail",
  "url": "https://hibbangyong.com/words/trail/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, trail 아니야",
    "why": "맞아! 도시 한가운데에 까만 아스팔트가 깔려 있고, 차선이 여러 개라 버스와 트럭이 나란히 달리는 넓은 찻길이잖아. trail은 숲이나 산에서 사람이 걷는 좁은 길이니까, 이 도로는 trail이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "친구 넷이 이번 주말에 걸어 본 길을 말했어. 'trail'을 걸은 친구는 누구일까?",
-   "choices": [
-    "건물 안에서 방과 방을 잇는 긴 복도를 걸었어",
-    "자동차가 쌩쌩 달리는 넓은 찻길 옆을 걸었어",
-    "산에서 나무 사이로 난 좁은 흙길을 걸었어",
-    "기차가 다니는 쇠로 된 철길 옆을 걸었어"
-   ],
-   "answer_index": 2,
-   "answer": "산에서 나무 사이로 난 좁은 흙길을 걸었어",
-   "why": "맞아! 산에서 나무 사이로 난 좁은 흙길이니까, 바로 그게 trail인 거야. 숲이나 산에서 사람이 걸어 다니는 좁은 길이거든."
-  },
-  {
-   "type": "ox",
-   "question": "캠핑장 뒤쪽 풀밭 언덕에, 사람들이 자꾸 밟고 다녀서 풀이 눕고 흙이 드러난 좁은 길이 있어. 우리 가족은 그 길을 따라 언덕 꼭대기까지 걸어 올라갔어. 이 길은 'trail'일까?",
-   "choices": [
-    "응, trail 맞아",
-    "아니, trail 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, trail 맞아",
-   "why": "맞아! 캠핑장 뒤 풀밭 언덕에 사람들이 자꾸 밟고 다녀서 생긴 좁은 길이잖아. 언덕에서 걸어 다니는 좁은 길이니까 바로 그게 trail인 거야."
   }
  ],
  "synonyms": [
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/trail.webp",
   "alt": "나무 사이로 사람들이 걸어서 생긴 좁은 숲속 흙길",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

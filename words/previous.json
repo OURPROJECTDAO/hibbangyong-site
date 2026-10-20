@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/previous/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/previous/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/previous/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "previous",
  "slug": "previous",
  "url": "https://hibbangyong.com/words/previous/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, previous 맞아",
    "why": "맞아! 8층에 서 있는 지금, 바로 한 칸 앞에 섰던 데가 7층이잖아. 딱 한 칸 뒤로 간 그 자리, 그게 previous인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "급식 줄에서 지금 지호가 밥을 받고 있어. 지호 뒤에 서서 아직 못 받은 서연이가 'previous' 사람이야?",
-   "choices": [
-    "응, previous 맞아",
-    "아니, previous 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, previous 아니야",
-   "why": "맞아! 서연이는 아직 밥을 못 받았잖아. 지호 다음에 받을 차례니까 앞이 아니라 나중인 거야. previous는 지호보다 먼저 밥을 받고 지나간 사람이거든."
-  },
-  {
-   "type": "choice",
-   "question": "민수가 그림을 순서대로 그리고 있어. 첫 장, 둘째 장을 다 그렸고 지금은 셋째 장을 그리는 중이야. 이때 'previous' 그림은 어떤 거야?",
-   "choices": [
-    "둘째 장에 그린 그림",
-    "맨 처음 첫 장에 그린 그림",
-    "이따 그릴 넷째 장 그림",
-    "지금 그리는 셋째 장 그림"
-   ],
-   "answer_index": 0,
-   "answer": "둘째 장에 그린 그림",
-   "why": "맞아! 지금 셋째 장을 그리고 있으니까 바로 그 앞에 그린 둘째 장, 딱 한 칸 뒤로 간 그게 previous인 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/previous.webp",
   "alt": "미끄럼틀 줄에서 내 바로 앞 차례에 탄 아이",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

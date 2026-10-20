@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/biography/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/biography/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/biography/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "biography",
  "slug": "biography",
  "url": "https://hibbangyong.com/words/biography/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, biography 맞아",
    "why": "맞아! 빵집 아저씨는 진짜 우리 동네에 사는 진짜 사람이고, 옆집 누나가 직접 물어보고 알아내서 태어날 때부터 지금까지를 통째로 적었잖아. 진짜 사람 + 남이 조사 + 인생 전체, 이 세 개가 다 있으니까 바로 그게 biography인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "세상에 없는 나라에 사는 토끼 왕자가 자라는 이야기를 작가가 쓴 책이 있어. 이게 'biography'야?",
-   "choices": [
-    "응, biography 맞아",
-    "아니, biography 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, biography 아니야",
-   "why": "맞아! 세상에 없는 나라, 토끼 왕자, 이건 작가가 머릿속에서 지어낸 거잖아. 진짜 살았던 사람이 아니니까 biography가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 각자 만든 걸 들고 왔어. 이 중에 'biography'는?",
-   "choices": [
-    "준호가 오늘 학교에서 있었던 일을 밤마다 혼자 적어 두는 공책",
-    "민수가 은행을 턴 도둑을 오래 조사해서, 태어나서 잡히던 날까지를 적은 책",
-    "지아가 머릿속으로 지어낸 마법사 아이가 자라는 이야기를 적은 책",
-    "서연이가 어떤 가수가 어제 연 공연 하나만 자세히 적은 신문 기사"
-   ],
-   "answer_index": 1,
-   "answer": "민수가 은행을 턴 도둑을 오래 조사해서, 태어나서 잡히던 날까지를 적은 책",
-   "why": "맞아! 도둑이라도 그 사람이 진짜 살았던 사람이고, 태어난 날부터 잡히던 날까지 삶을 통째로 남이 조사해서 적었잖아. 훌륭한 사람이어야 하는 게 아니라 진짜 있었던 사람의 인생 전체를 남이 적으면 그게 biography인 거야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/biography.webp",
   "alt": "할머니에게 살아온 이야기를 캐물어 책으로 묶은 지훈이",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

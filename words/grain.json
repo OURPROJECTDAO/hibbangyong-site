@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/grain/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/grain/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/grain/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "grain",
  "slug": "grain",
  "url": "https://hibbangyong.com/words/grain/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, grain 맞아",
    "why": "맞아! 할머니가 말리는 보리 알은 사람이 먹으려고 거둬 온 작은 알 그대로거든. 그래서 바로 그게 grain인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "할머니가 마당 텃밭에서 길쭉한 오이를 따서 바구니에 담고 있어. 이 오이는 'grain'이야?",
-   "choices": [
-    "응, grain 맞아",
-    "아니, grain 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, grain 아니야",
-   "why": "맞아! 할머니가 딴 오이는 길쭉한 채소거든. grain은 쌀이나 밀처럼 작은 알 그대로인 거라서, 오이는 grain이 아닌 게 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "시장에 가게 네 곳이 있어. 'grain'을 파는 가게는 어디일까?",
-   "choices": [
-    "밀가루와 빵가루를 봉지에 담아 파는 가게",
-    "사과와 포도를 상자에 담아 파는 가게",
-    "옥수수 알과 보리를 자루에 담아 파는 가게",
-    "호두와 밤을 자루에 담아 파는 가게"
-   ],
-   "answer_index": 2,
-   "answer": "옥수수 알과 보리를 자루에 담아 파는 가게",
-   "why": "맞아! 옥수수 알이랑 보리는 밭에서 길러서 거둔 곡식이야. 빻지 않고 알 그대로 자루에 담겨 있잖아. 그래서 바로 그게 grain인 거야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/grain.webp",
   "alt": "가을 들판에 누렇게 익은 벼와 밀 이삭",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/mode/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/mode/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/mode/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "mode",
  "slug": "mode",
  "url": "https://hibbangyong.com/words/mode/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, mode 맞아",
    "why": "맞아! 에어컨이 할 수 있는 방법이 냉방도 있고 제습도 있는데, 그중에 냉방 하나를 딱 골라 켰지? 여러 방법 중에 고른 한 가지, 그게 바로 mode야."
-  },
-  {
-   "type": "ox",
-   "question": "상자가 툭 넘어지면서 구슬들이 쏟아져 바닥 사방으로 굴러가. 이게 'mode'야?",
-   "choices": [
-    "응, 이건 mode야",
-    "아니, 이건 mode가 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 이건 mode가 아니야",
-   "why": "맞아! 구슬이 저절로 쏟아져서 아무렇게나 굴러간 거잖아. 이건 누가 골라서 정한 방법도, 상태도 아니니까 mode가 아닌 게 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 하나씩 말했어. 이 중에서 'mode'라고 부를 수 있는 건 뭘까?",
-   "choices": [
-    "게임에서 고를 수 있는 '2인용'이나 '혼자 하기' 같은 진행 방식",
-    "게임을 하다가 갑자기 확 든 신나는 기분",
-    "게임을 살 때 상자에 들어 있던 CD 한 장",
-    "게임 세상에 딱 하나뿐이라 바꿀 수 없는 것"
-   ],
-   "answer_index": 0,
-   "answer": "게임에서 고를 수 있는 '2인용'이나 '혼자 하기' 같은 진행 방식",
-   "why": "맞아! '2인용'이랑 '혼자 하기'는 게임을 하는 여러 방법 중에 네가 하나를 골라 쓰는 거잖아. 그렇게 여러 방식 중에 골라 쓰는 하나, 그게 바로 mode인 거야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/mode.webp",
   "alt": "학교 가는 여러 방법(걸어서·버스·자전거)",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

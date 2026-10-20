@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/deprivation/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/deprivation/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/deprivation/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "deprivation",
  "slug": "deprivation",
  "url": "https://hibbangyong.com/words/deprivation/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, deprivation 아니야",
    "why": "맞아! 손님들은 음식을 배부르게 먹었고 음식이 남기까지 했잖아. 꼭 필요한 걸 못 누리는 게 deprivation인데, 이건 넉넉해서 남은 거니까 오히려 정반대야."
-  },
-  {
-   "type": "ox",
-   "question": "어떤 사람이 5년 동안 좁은 방에 갇혀 지냈어. 밖에 나가지도, 가족이나 친구를 만나지도 못했어. 이 사람의 상태를 'deprivation'이라고 할 수 있을까?",
-   "choices": [
-    "응, deprivation 맞아",
-    "아니, deprivation 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, deprivation 맞아",
-   "why": "맞아! 5년 동안 좁은 방에 갇혀서 밖에도 못 나가고 가족이나 친구도 못 만났잖아. 자유랑 곁에 있어 줄 사람, 둘 다 사람한테 꼭 필요한 건데 그걸 오래 못 누렸으니까 바로 deprivation인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 중 'deprivation'이라고 부르기 가장 알맞은 것은?",
-   "choices": [
-    "동생이 방학 내내 게임기를 못 해서 날마다 짜증을 내는 상태",
-    "산골 마을 아이들이 몇 년째 깨끗한 물을 못 마셔서 자주 배탈이 나는 상태",
-    "올여름 가뭄 때문에 마을 저수지 물이 작년보다 한참 줄어든 상태",
-    "소풍날 도시락을 두고 와서 점심 한 끼를 친구 것으로 나눠 먹은 상태"
-   ],
-   "answer_index": 1,
-   "answer": "산골 마을 아이들이 몇 년째 깨끗한 물을 못 마셔서 자주 배탈이 나는 상태",
-   "why": "맞아! 산골 마을 아이들은 몇 년째 깨끗한 물을 못 마셔서 자주 배탈까지 나잖아. 사람한테 꼭 필요한 물을 제대로 못 누려서 몸이 힘들어지는 거니까, 바로 그게 deprivation인 거야."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/deprivation.webp",
   "alt": "시험 기간 며칠 연속 세 시간 수면으로 멍해진 상태",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

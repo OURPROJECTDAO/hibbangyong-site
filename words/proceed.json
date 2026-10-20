@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/proceed/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/proceed/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/proceed/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "proceed",
  "slug": "proceed",
  "url": "https://hibbangyong.com/words/proceed/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, proceed 맞아",
    "why": "맞아! 하준이는 엄마 전화 때문에 잠깐 멈췄지만 처음부터 다시 치지 않았어. 그만두지도 않았지. 치던 마디의 다음 마디부터 끝까지 이어서 쳤으니까 바로 그게 proceed인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "민지는 퍼즐을 맞추고 있었어. 절반쯤 맞췄을 때 민지는 그만하기로 하고 조각을 전부 상자에 도로 넣었어. 민지가 한 건 'proceed'일까?",
-   "choices": [
-    "응, proceed 맞아",
-    "아니, proceed 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, proceed 아니야",
-   "why": "맞아! 민지는 퍼즐을 절반쯤 맞추다가 그만하고 조각을 전부 상자에 도로 넣었잖아. 하던 퍼즐을 이어서 맞춘 게 아니라 그만둔 거라서, proceed가 아닌 게 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "운동회에서 줄다리기가 끝나자 비가 와서 모두 천막 아래에서 30분 쉬었어. 비가 그치자 선생님들은 순서표에 적힌 다음 경기인 이어달리기를 했어. 이런 경우도 'proceed'야?",
-   "choices": [
-    "응, proceed 맞아",
-    "아니, proceed 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, proceed 맞아",
-   "why": "맞아! 비 때문에 30분 쉬긴 했지만, 선생님들은 운동회를 그만두지도 않았고 처음부터 다시 하지도 않았어. 순서표에 적힌 다음 경기인 이어달리기를 했으니까, 바로 그게 proceed인 거야."
   }
  ],
  "synonyms": [
@@ -86,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/proceed.webp",
   "alt": "받아쓰기 시험 중 소방 훈련으로 나갔다 와서 5번부터 이어 본 시험",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

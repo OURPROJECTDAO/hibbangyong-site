@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/benevolent/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/benevolent/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/benevolent/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "benevolent",
  "slug": "benevolent",
  "url": "https://hibbangyong.com/words/benevolent/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, benevolent 맞아",
    "why": "맞아! 사장님은 빵을 망쳐도 월급에서 빼지 않고 다친 데부터 물어보고, 시험 기간엔 근무 시간도 줄여 주잖아. 한 번이 아니라 늘 알바생이 잘되길 바라며 너그럽게 대하니까 바로 그게 benevolent인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "축구부 주장은 후배가 패스를 놓치면 감독님이 볼 때 일부러 더 크게 지적해. 후배가 주전에서 빠지게 하려는 거야. 후배가 골을 넣는 날엔 표정이 굳어. 이 주장은 후배들에게 늘 이렇게 대해. 이런 주장을 'benevolent'하다고 할 수 있을까?",
-   "choices": [
-    "응, benevolent 맞아",
-    "아니, benevolent 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, benevolent 아니야",
-   "why": "맞아! 이 주장은 후배가 감독님 앞에서 혼나게 만들고, 주전에서 빠지게 하려고 하고, 후배가 골을 넣으면 표정이 굳잖아. 남이 잘되길 바라는 게 benevolent인데, 이 주장은 늘 후배가 잘못되길 바라니까 정반대(이런 건 malevolent야)라서 benevolent가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "학생들이 좋아하는 선생님 네 분이 있어. 'benevolent'라는 말이 가장 잘 어울리는 선생님은 누구일까?",
-   "choices": [
-    "쉬는 시간마다 재밌는 얘기로 반 전체를 크게 웃게 만드는 선생님",
-    "학생한테도 꼬박꼬박 존댓말을 쓰고 인사를 먼저 건네는 선생님",
-    "혼낸 학생도 나중에 잘되라고 조용히 따로 불러 챙겨 주는 선생님",
-    "매일 아침 제일 일찍 와서 교실을 정리하고 수업 준비를 하는 선생님"
-   ],
-   "answer_index": 2,
-   "answer": "혼낸 학생도 나중에 잘되라고 조용히 따로 불러 챙겨 주는 선생님",
-   "why": "맞아! 혼낸 학생이라도 나중에 잘되라고 조용히 따로 불러 챙겨 주잖아. 그 학생이 잘되길 바라는 마음이 행동 밑에 깔려 있으니까 바로 그게 benevolent인 거야."
   }
  ],
  "synonyms": [],

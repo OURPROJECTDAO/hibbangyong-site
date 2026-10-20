@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/contribute/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/contribute/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/contribute/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "contribute",
  "slug": "contribute",
  "url": "https://hibbangyong.com/words/contribute/",
@@ -45,32 +45,6 @@
    "answer_index": 1,
    "answer": "나는 집에서 가져온 헌 책 두 권을 상자에 넣었고, 상자는 우리 반 책들로 가득 찼어.",
    "why": "맞아! 여러 친구들 책이 모여서 상자가 가득 찬 건데, 그 안에 네 헌 책 두 권도 섞여 들어갔잖아. 상자를 혼자 채운 건 아니지만 채워지는 데 네 것도 한 몫 한 거야. 그게 바로 contribute야."
-  },
-  {
-   "type": "choice",
-   "question": "학예회에서 우리 반 합창이 무대에서 끝났어. 다음 중 'contribute'에 해당하는 건 어느 거야?",
-   "choices": [
-    "나는 무대 옆에 서서 우리 반이 노래하는 걸 끝까지 지켜봤어.",
-    "나는 연습하는 동안 교실에 앉아서 우리 반 노래를 듣기만 했어.",
-    "나는 다 같이 노래할 때 내가 맡은 부분을 처음부터 끝까지 같이 불렀어.",
-    "나는 노래가 다 끝난 뒤에 와서 잘했다고 손뼉을 쳐 줬어."
-   ],
-   "answer_index": 2,
-   "answer": "나는 다 같이 노래할 때 내가 맡은 부분을 처음부터 끝까지 같이 불렀어.",
-   "why": "맞아! 다 같이 만든 노래 소리 안에 네 목소리가 한 조각으로 딱 섞여 들어갔잖아. 네가 혼자 다 부른 것도 아니고, 그렇다고 빠진 것도 아니고, 그 합창 안에 네 몫이 들어가 있는 거야. 그게 바로 contribute야."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 어제 있었던 일을 하나씩 말했어. 자기가 한 일을 'contribute'했다고 말할 수 있는 사람은?",
-   "choices": [
-    "미술 시간에 종이 자르기부터 색칠까지 혼자 다 해서 포스터를 완성했어",
-    "쉬는 시간에 복도에서 시끄럽게 뛰었는데, 여기저기 뛰는 소리가 겹쳐서 옆 반 시험이 엉망이 됐어",
-    "청소가 다 끝난 뒤에 교실에 도착해서, 깨끗해진 걸 보고 잘했다고 칭찬해 줬어",
-    "친구들이 놀이터 벽에 낙서하는 동안 옆에 서서 끝까지 보기만 하고 손도 안 댔어"
-   ],
-   "answer_index": 1,
-   "answer": "쉬는 시간에 복도에서 시끄럽게 뛰었는데, 여기저기 뛰는 소리가 겹쳐서 옆 반 시험이 엉망이 됐어",
-   "why": "맞아! 여기저기 뛰는 소리가 겹쳐서 옆 반 시험이 엉망이 된 거잖아. 너 혼자 뛰어서 그렇게 된 게 아니고, 여러 명 소리 중에 네 발소리도 한 몫 들어가 있었던 거야. 나쁜 일이라도 그 안에 네 것이 섞여 있으면 그게 바로 contribute야."
   }
  ],
  "synonyms": [],
@@ -84,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/contribute.webp",
   "alt": "양동이에 여러 사람의 물과 빗물이 더해져 물이 넘치는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

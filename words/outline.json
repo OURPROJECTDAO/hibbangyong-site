@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/outline/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/outline/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/outline/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "outline",
  "slug": "outline",
  "url": "https://hibbangyong.com/words/outline/",
@@ -45,28 +45,6 @@
    "answer_index": 2,
    "answer": "인사, 우리 개 이야기, 끝인사. 이렇게 셋만 차례로 적어 놨어. 나머지 말은 하나도 안 적었어.",
    "why": "맞아! 인사, 우리 개 이야기, 끝인사 — 이렇게 순서대로 딱 세 개만 적혔지? 무슨 말을 할지 속은 아직 안 채웠는데도 발표가 어떻게 흘러갈지 훤히 보이잖아. 겉 뼈대만 남긴 거, 그게 바로 outline이야."
-  },
-  {
-   "type": "ox",
-   "question": "저녁 무렵 창밖을 봤더니 안개가 자욱해서 멀리 있는 산이 겉 선만 흐릿하게 보여. 저 산은 앞으로 색칠할 것도, 뭘 더 채워 넣을 것도 없어. 지금 보이는 저 선도 산의 'outline'이야?",
-   "choices": [
-    "응, outline 맞아.",
-    "아니, outline 아니야."
-   ],
-   "answer_index": 0,
-   "answer": "응, outline 맞아.",
-   "why": "맞아! 안개 속에 산의 겉 선만 딱 보이잖아. 속은 텅 비어 보여도 저게 산인 줄 단번에 알아보지? 겉 선만으로 알아보게 해 주는 그것, 그게 바로 outline이야."
-  },
-  {
-   "type": "ox",
-   "question": "눈 온 다음 날, 마당에 누웠다 일어났더니 눈밭에 내 몸 자국이 남았어. 파인 자리 전체가 사람 모양으로 움푹 들어가 있어. 이 움푹 들어간 자리 전체를 가리켜 'outline'이라고 해?",
-   "choices": [
-    "응, outline 맞아.",
-    "아니, outline 아니야."
-   ],
-   "answer_index": 1,
-   "answer": "아니, outline 아니야.",
-   "why": "맞아! 눈에 움푹 파인 그 자리 전체는 속까지 꽉 눌린 통짜 모양이거든. outline은 그 자리를 빙 두른 가장자리 선만 말하는 거야. 속은 비워 두고 겉 선만! 그걸 딱 알아챈 거야."
   }
  ],
  "synonyms": [],
@@ -88,6 +66,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/outline.webp",
   "alt": "색칠공부 책 속 텅 빈 강아지 그림의 겉선",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

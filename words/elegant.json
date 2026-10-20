@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/elegant/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/elegant/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/elegant/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "elegant",
  "slug": "elegant",
  "url": "https://hibbangyong.com/words/elegant/",
@@ -44,30 +44,6 @@
    "answer_index": 1,
    "answer": "아니, elegant 아니야",
    "why": "맞아! 전선 엉키고 종이가 여기저기 굴러다니면 어수선하고 지저분한 거잖아. elegant는 복잡한 거 없이 단순하고 깔끔해서 딱 봐도 멋진 건데, 이 책상은 딱 그 반대인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "할머니 집 선반에 꽃병이 하나 놓여 있어. 무늬도 장식도 하나 없이, 매끈한 곡선 하나로 단순하게 빠진 하얀 꽃병이야. 이 꽃병, 'elegant'해?",
-   "choices": [
-    "응, elegant 맞아",
-    "아니, elegant 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, elegant 맞아",
-   "why": "맞아! 무늬 하나 없이 단순한데도 그 매끈한 곡선 하나로 딱 봐도 깔끔하고 멋지잖아. 요란하게 꾸미지 않았는데 아름다운 거, 그게 바로 elegant인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "친구 넷이 각자 오늘 입은 옷을 자랑했어. 어떤 옷을 'elegant'하다고 할 수 있을까?",
-   "choices": [
-    "장식 하나 없이 단순한데 선이 깔끔하고 멋진 옷",
-    "반짝이랑 리본을 잔뜩 붙여 요란하고 눈부신 옷",
-    "알록달록 예쁜 그림이 잔뜩 그려진 귀여운 옷",
-    "여기저기 구겨지고 얼룩덜룩 지저분한 옷"
-   ],
-   "answer_index": 0,
-   "answer": "장식 하나 없이 단순한데 선이 깔끔하고 멋진 옷",
-   "why": "맞아! 장식 하나 없이 단순한데도 선이 깔끔하고 딱 봐도 멋지지? 백조가 물 위를 스윽 미끄러지는 것처럼, 요란하게 꾸미지 않아도 멋진 게 바로 elegant인 거야."
   }
  ],
  "synonyms": [],
@@ -84,6 +60,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/elegant.webp",
   "alt": "백조가 물 위를 팔다리 안 휘젓고 스윽 미끄러지는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

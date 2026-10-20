@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/principle/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/principle/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/principle/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "principle",
  "slug": "principle",
  "url": "https://hibbangyong.com/words/principle/",
@@ -43,28 +43,6 @@
    "answer_index": 1,
    "answer": "아니, principle 아니야",
    "why": "맞아! 오늘 비가 와서 심심하다는 건 지금 날씨를 보고 그때 잠깐 든 기분이거든. 내일 해가 나면 또 바뀔 마음이지. principle은 날씨가 바뀌어도 안 바뀌고 밑에 깔려 있는 거야."
-  },
-  {
-   "type": "ox",
-   "question": "자전거 바퀴도, 문 손잡이도, 병뚜껑도 돌려서 힘을 쓰는 건 다 같은 이치 하나가 밑에 깔려 있어서래. 이 하나의 이치가 'principle'이야?",
-   "choices": [
-    "응, principle 맞아",
-    "아니, principle 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, principle 맞아",
-   "why": "맞아! 자전거 바퀴도 문 손잡이도 병뚜껑도 생김새는 다 다른데 돌려서 힘 쓰는 건 똑같잖아. 그렇게 여러 물건 밑에 똑같이 깔려 있는 규칙 하나, 그게 바로 principle이야. 시소랑 저울에서 같은 규칙이 통하던 거랑 똑같아."
-  },
-  {
-   "type": "ox",
-   "question": "준호는 몇 년째 잠들기 전에 꼭 오른쪽으로 돌아누워. 왜 그러냐고 물으니 자기도 모르겠고 그냥 그렇게 자게 됐대. 준호의 이 잠버릇을 'principle'이라고 할 수 있을까?",
-   "choices": [
-    "응, 'principle' 맞아.",
-    "아니, 'principle' 아니야."
-   ],
-   "answer_index": 1,
-   "answer": "아니, 'principle' 아니야.",
-   "why": "맞아! 준호도 왜 그러는지 모르고 그냥 몸에 배어 버린 거잖아. 이건 스스로 정한 기준이 아니라 그냥 든 버릇이야. principle은 나는 무슨 일이 있어도 이건 이렇게 한다 하고 밑에 깔아 둔 기준이거든."
   }
  ],
  "synonyms": [],
@@ -80,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/principle.webp",
   "alt": "시소에서 늘 무거운 쪽이 내려가게 만드는 밑에 깔린 규칙",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

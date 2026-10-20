@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/statesman/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/statesman/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/statesman/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "statesman",
  "slug": "statesman",
  "url": "https://hibbangyong.com/words/statesman/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, statesman 맞아",
    "why": "맞아! 이 총리는 당장 인기가 떨어지는데도 30년 뒤 나라에 꼭 필요한 연금 개혁을 끝까지 밀고 나갔고, 나중엔 반대편 정당 사람들까지 그 판단이 옳았다고 인정했잖아. 나라를 길게 보고 판단해서 편을 가리지 않고 인정받은 지도자니까 statesman이 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "한 시장 후보가 사실이 아닌 소문을 퍼뜨려서 동네 사람들끼리 서로 미워하게 만들었어. 그렇게 커진 분노를 이용해 표를 모았어. 이 후보는 'statesman'일까?",
-   "choices": [
-    "응, statesman 맞아",
-    "아니, statesman 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, statesman 아니야",
-   "why": "맞아! 없는 소문으로 동네 사람들끼리 서로 미워하게 만들고, 그 분노로 표를 모았잖아. statesman은 사람들을 공정하게 이끌어서 믿음을 얻는 지도자니까, 이 후보는 그 반대야."
-  },
-  {
-   "type": "choice",
-   "question": "네 사람이 뉴스에 나왔어. 'statesman'이라고 부르기에 가장 알맞은 사람은 누구일까?",
-   "choices": [
-    "선거 때마다 인기를 얻으려고 약속을 자꾸 바꾸는 국회의원",
-    "군대를 앞세워 권력을 잡고 반대하는 사람을 가두는 지도자",
-    "물러난 뒤에도 나라를 위해 바른 조언을 해서 믿음을 얻은 전 장관",
-    "나라 행사에서 회의 내용을 성실하게 통역해 칭찬받는 공무원"
-   ],
-   "answer_index": 2,
-   "answer": "물러난 뒤에도 나라를 위해 바른 조언을 해서 믿음을 얻은 전 장관",
-   "why": "맞아! 이 전 장관은 이미 자리에서 물러났는데도 나라를 위해 바른 조언을 해서 믿음을 얻었잖아. statesman은 지금 어떤 자리에 있느냐로 정해지는 게 아니야. 나라 전체를 보고 판단해서 사람들의 믿음을 얻은 정치인이면 statesman이야."
   }
  ],
  "synonyms": [],

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/vice/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/vice/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/vice/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "vice",
  "slug": "vice",
  "url": "https://hibbangyong.com/words/vice/",
@@ -45,30 +45,6 @@
    "answer_index": 0,
    "answer": "나쁜 줄 알면서도 자꾸 손톱을 물어뜯는 버릇",
    "why": "맞아! 나쁜 줄 알면서도 자꾸 손톱을 물어뜯는 그거, 안 좋은 걸 알면서도 잘 안 고쳐지는 못된 버릇이잖아. 그래서 바로 그게 vice인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "친구들이 각자 한 가지씩 골랐어. 이 중 'vice'인 건 뭐야?",
-   "choices": [
-    "나쁜 줄 알면서도 자꾸 침을 아무 데나 뱉는 버릇",
-    "한 약속을 늘 잘 지키는 반듯한 행동",
-    "도서관 책장에 꽂혀 있는 두꺼운 사전",
-    "식탁에 놓인 잘 익은 노란 바나나"
-   ],
-   "answer_index": 0,
-   "answer": "나쁜 줄 알면서도 자꾸 침을 아무 데나 뱉는 버릇",
-   "why": "맞아! 안 좋은 줄 알면서도 아무 데나 침을 자꾸자꾸 뱉는 거, 딱 그렇게 몸에 밴 못된 버릇이 바로 vice야."
-  },
-  {
-   "type": "ox",
-   "question": "삼촌은 매일 밤 자기 전에 꼭 일기를 쓰는 버릇이 있어. 이 반복되는 버릇도 '삼촌의 vice'라고 할 수 있을까?",
-   "choices": [
-    "응, 'vice' 맞아",
-    "아니, 'vice' 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 'vice' 아니야",
-   "why": "딩동댕! 일기 쓰는 건 반복되는 버릇이긴 해도 하나도 안 나쁜 좋은 습관이잖아. vice는 안 좋은 줄 알면서 자꾸 하는 못된 버릇이라, 착한 버릇은 vice가 아닌 거야. 잘 골랐어!"
   }
  ],
  "synonyms": [],
@@ -100,6 +76,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/vice.webp",
   "alt": "안 좋은 줄 알면서 슬쩍 거짓말하는 버릇",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/nigh/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/nigh/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/nigh/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "nigh",
  "slug": "nigh",
  "url": "https://hibbangyong.com/words/nigh/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, nigh 맞아",
    "why": "맞아! 전광판에 1분 후 도착이라고 떴고 버스는 아직 정류장에 안 들어왔잖아. 아직 안 닿았지만 곧 닿을 만큼 가까이 와 있으니까 바로 그게 nigh인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "올해 설날은 벌써 여덟 달 전에 지나갔어. 오늘을 기준으로 그 설날을 'nigh'라고 할 수 있어?",
-   "choices": [
-    "응, nigh 맞아",
-    "아니, nigh 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, nigh 아니야",
-   "why": "맞아! 설날은 여덟 달 전에 벌써 지나갔잖아. nigh는 아직 안 왔는데 곧 닿을 만큼 가까이 와 있을 때 쓰는 말이라서, 이미 한참 전에 끝난 날에는 안 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "달력에 행사 네 개가 적혀 있어. 오늘을 기준으로 'nigh'라고 부를 수 있는 건 어느 거야?",
-   "choices": [
-    "사흘 뒤에 열리는 친구 생일잔치",
-    "작년 가을에 열렸던 학교 운동회",
-    "오 년 뒤에 열리는 중학교 졸업식",
-    "바로 지금 열리고 있는 체육대회"
-   ],
-   "answer_index": 0,
-   "answer": "사흘 뒤에 열리는 친구 생일잔치",
-   "why": "맞아! 친구 생일잔치는 아직 안 열렸지만 사흘 뒤면 열리니까 곧 닿을 만큼 가까이 와 있잖아. 이렇게 거의 다 온 날을 nigh라고 하는 거야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/nigh.webp",
   "alt": "사흘 남은 생일을 달력으로 확인하는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

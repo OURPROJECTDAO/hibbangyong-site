@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/rid/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/rid/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/rid/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "rid",
  "slug": "rid",
  "url": "https://hibbangyong.com/words/rid/",
@@ -45,19 +45,6 @@
    "answer_index": 0,
    "answer": "옷에 붙은 고양이 털을 테이프로 떼어내 쓰레기통에 버렸어.",
    "why": "맞아! 털을 테이프로 딱 떼서 쓰레기통에 버렸으니까, 옷에 붙어서 귀찮게 남아 있던 게 이제 아예 안 남은 거잖아. 바로 그게 rid야."
-  },
-  {
-   "type": "choice",
-   "question": "민수 방에 파리 한 마리가 들어와 자꾸 앵앵거려. 네 가지 중 민수가 파리를 'rid' 했다고 할 수 있는 건?",
-   "choices": [
-    "창문을 활짝 열자 파리가 밖으로 날아갔어. 이제 방은 조용해.",
-    "파리를 컵으로 덮어 놓았어. 컵 안에서 여전히 앵앵거려.",
-    "파리가 앉은 책을 들고 거실로 갔어. 파리는 그 책에 그대로 앉아 있어.",
-    "파리 옆에 꿀을 한 방울 떨어뜨렸어. 파리가 더 신나게 몰려들어."
-   ],
-   "answer_index": 0,
-   "answer": "창문을 활짝 열자 파리가 밖으로 날아갔어. 이제 방은 조용해.",
-   "why": "맞아! 창문 열었더니 파리가 밖으로 훌쩍 나가버렸잖아. 이제 민수 방 어디를 찾아봐도 파리가 없어. 이렇게 진짜로 내 곁에 안 남게 만드는 게 rid야."
   }
  ],
  "synonyms": [],
@@ -71,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/rid.webp",
   "alt": "방에 밴 탄 냄새를 창문 열고 부채질해 날려 보내기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

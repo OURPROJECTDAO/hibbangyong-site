@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/decay/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/decay/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/decay/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "decay",
  "slug": "decay",
  "url": "https://hibbangyong.com/words/decay/",
@@ -43,28 +43,6 @@
    "answer_index": 1,
    "answer": "아니, decay 아니야",
    "why": "맞아! 나무가 해마다 더 커지고 굵어졌잖아. 시간이 갉아먹은 게 아니라 오히려 튼튼해진 거니까 decay가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "창고 구석에 오래 둔 종이 상자를 들었더니 밑바닥이 거뭇하게 변해 손가락에 부슬부슬 부서졌어. 이게 'decay'야?",
-   "choices": [
-    "응, decay 맞아",
-    "아니, decay 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, decay 맞아",
-   "why": "맞아! 아무도 안 건드렸는데 시간이 지나면서 밑바닥이 부슬부슬 부서진 거잖아. 누가 부순 것도, 그냥 오래된 것도 아니고 조금씩 썩어 무너진 거니까 바로 그게 decay야."
-  },
-  {
-   "type": "ox",
-   "question": "거실에 둔 나무 의자에 형이 폴짝 뛰어올랐더니 다리 하나가 그 자리에서 우지끈 부러졌어. 이런 경우도 'decay'야?",
-   "choices": [
-    "응, decay 맞아",
-    "아니, decay 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, decay 아니야",
-   "why": "맞아, 이건 삭아 가는 게 아니야. 형이 폴짝 뛴 그 힘 때문에 그 자리에서 우지끈 부러진 거잖아. decay는 아무도 안 건드려도 시간이 조금씩 갉아먹는 거거든."
   }
  ],
  "synonyms": [
@@ -80,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/decay.webp",
   "alt": "빈집 나무 기둥을 손끝으로 누르자 푸석 가루가 떨어지는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

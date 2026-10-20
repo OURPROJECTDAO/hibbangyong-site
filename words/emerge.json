@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/emerge/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/emerge/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/emerge/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "emerge",
  "slug": "emerge",
  "url": "https://hibbangyong.com/words/emerge/",
@@ -45,30 +45,6 @@
    "answer_index": 0,
    "answer": "수풀에 가려 안 보이던 고양이가 길가로 걸어 나와 이제 보여",
    "why": "맞아! 수풀에 가려서 안 보이던 고양이가 밖으로 나와서 이제 보이잖아. 안 보이던 게 나와서 보이게 되는 것, 그게 바로 emerge인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 가지 일이 있었어. 이 중에서 'emerge'라고 말할 수 있는 건?",
-   "choices": [
-    "동굴 안에 있던 곰이 밖으로 걸어 나와서 이제 사람들 눈에 보여",
-    "운동장 한가운데 서 있던 아이가 옆으로 몇 걸음 걸어갔어",
-    "밖에서 놀던 강아지가 집 안으로 들어가서 안 보여",
-    "책상 위에 놓여 있던 공이 그 자리에 그대로 있어"
-   ],
-   "answer_index": 0,
-   "answer": "동굴 안에 있던 곰이 밖으로 걸어 나와서 이제 사람들 눈에 보여",
-   "why": "맞아! 동굴 속에 가려져서 안 보이던 곰이 밖으로 나오니까 이제 눈에 보이잖아. 안 보이던 게 나와서 보이게 됐으니까 바로 그게 emerge인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "연못 위에 떠 있어서 잘 보이던 개구리가 물속으로 풍덩 들어가 버려서 이제 아무도 못 봐. 이게 'emerge'야?",
-   "choices": [
-    "응, emerge 맞아",
-    "아니, emerge 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, emerge 아니야",
-   "why": "맞아! 보이던 개구리가 물속으로 쏙 들어가서 안 보이게 된 거잖아. 이건 나오는 게 아니라 사라지는 거니까 emerge랑은 정반대인 거야. emerge는 안 보이던 게 밖으로 나와서 보이게 되는 거거든."
   }
  ],
  "synonyms": [],
@@ -93,6 +69,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/emerge.webp",
   "alt": "안개 속에서 큰 배가 나오는 아침",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

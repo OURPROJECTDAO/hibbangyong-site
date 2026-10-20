@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/elusive/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/elusive/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/elusive/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "elusive",
  "slug": "elusive",
  "url": "https://hibbangyong.com/words/elusive/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, elusive 아니야",
    "why": "맞아! 문 열고 손 뻗자마자 맨 앞줄 우유가 바로 집혔잖아. 잡으려 해도 자꾸 빠져나가야 elusive인데, 이건 그 반대라서 elusive가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "아침에 일어나자마자 간밤에 꾼 꿈을 공책에 적으려고 해. 그런데 떠올리려고 할수록 내용이 흐려져서, 며칠째 한 줄도 못 적고 있어. 이 꿈 내용은 'elusive'해?",
-   "choices": [
-    "응, elusive 맞아",
-    "아니, elusive 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, elusive 맞아",
-   "why": "맞아! 꿈을 떠올리려고 할수록 내용이 흐려져서 며칠째 한 줄도 못 적고 있잖아. 잡으려고 할수록 빠져나가니까 이 꿈 내용이 딱 elusive한 거야."
-  },
-  {
-   "type": "choice",
-   "question": "과학 동아리가 실험 결과가 왜 이상하게 나오는지 그 이유를 찾고 있어. 그 이유가 'elusive'하다고 말할 수 있는 건?",
-   "choices": [
-    "실험 기록이 전부 지워져서 알아낼 방법이 없어",
-    "첫날 기록을 다시 보자마자 이유가 바로 보였어",
-    "이거다 싶어 확인하면 매번 아니라서 몇 주째 헤매",
-    "선생님은 이유를 아시는데 일부러 안 알려 주셔"
-   ],
-   "answer_index": 2,
-   "answer": "이거다 싶어 확인하면 매번 아니라서 몇 주째 헤매",
-   "why": "맞아! 이거다 싶어서 확인하면 매번 아니고, 그래서 몇 주째 헤매는 거잖아. 찾을 수는 있을 것 같은데 쫓아갈수록 자꾸 빠져나가니까, 바로 그게 elusive한 이유인 거야."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/elusive.webp",
   "alt": "다큐에서 카메라에 잘 안 잡히는 표범",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

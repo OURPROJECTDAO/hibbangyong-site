@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/peel/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/peel/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/peel/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "peel",
  "slug": "peel",
  "url": "https://hibbangyong.com/words/peel/",
@@ -43,32 +43,6 @@
    "answer_index": 1,
    "answer": "아니, peel 아니야",
    "why": "맞아! 스티커는 위에 딱 붙이는 거잖아. peel은 반대로 붙어 있던 얇은 겉을 떼어내는 거라서, 붙이는 건 peel이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "부엌에서 오빠가 한 행동 네 가지야. 다음 중 'peel'에 해당하는 것은?",
-   "choices": [
-    "국수를 젓가락으로 빙빙 저었어",
-    "우유를 컵에 조르르 따랐어",
-    "삶은 달걀 겉껍데기를 손톱으로 뜯어냈어",
-    "식빵을 접시에 가지런히 올렸어"
-   ],
-   "answer_index": 2,
-   "answer": "삶은 달걀 겉껍데기를 손톱으로 뜯어냈어",
-   "why": "맞아! 손톱으로 겉껍데기를 뜯어내니까 얇게 덮고 있던 게 떨어지고 하얀 속살이 나오잖아. 바로 그게 peel이야."
-  },
-  {
-   "type": "choice",
-   "question": "엄마가 감자를 들고 네 가지를 했어. 이 중에서 감자를 'peel'한 건 어느 거야?",
-   "choices": [
-    "감자 겉을 얇게 돌려 깎아 갈색 부분만 떼어냈어",
-    "감자를 도마 위에서 반으로 툭 갈랐어",
-    "감자를 물에 담가 흙을 문질러 씻어냈어",
-    "감자를 랩으로 한 바퀴 둘러 감쌌어"
-   ],
-   "answer_index": 0,
-   "answer": "감자 겉을 얇게 돌려 깎아 갈색 부분만 떼어냈어",
-   "why": "맞아! 겉에 얇게 덮여 있던 갈색 부분만 떨어져 나오고 속에 있던 하얀 감자가 나왔잖아. 바나나 껍질 벗길 때랑 똑같아. 바로 그게 peel이야."
   }
  ],
  "synonyms": [
@@ -90,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/peel.webp",
   "alt": "바나나 위쪽을 잡고 아래로 쭉 내려 벗기는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

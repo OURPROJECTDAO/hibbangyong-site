@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/primitive/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/primitive/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/primitive/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "primitive",
  "slug": "primitive",
  "url": "https://hibbangyong.com/words/primitive/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, primitive 맞아",
    "why": "맞아! 성냥도 라이터도 아직 없던 먼 옛날에는 나무 막대 두 개를 손으로 비벼서 불을 피웠잖아. 더 나은 도구가 생기기 전 맨 처음 방법이라 아주 단순하니까, 바로 그게 primitive인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "오늘 새로 나온 자동차는 사람이 운전대를 안 잡아도 스스로 길을 찾아서 달린대. 이 자동차는 'primitive'할까?",
-   "choices": [
-    "응, primitive 맞아",
-    "아니, primitive 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, primitive 아니야",
-   "why": "맞아! 이 자동차는 오늘 새로 나왔고, 사람이 운전대를 안 잡아도 스스로 길을 찾아서 달리거든. 이렇게 아주 많이 나아진 자동차는 맨 처음의 단순한 모습이랑 정반대라서 primitive가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 가지를 봤어. 이 중에서 'primitive'라고 부르기 가장 알맞은 건 뭘까?",
-   "choices": [
-    "수백 년 전에 지어진, 방도 많고 탑도 높은 멋진 성",
-    "어제 새로 나온, 버튼이 가득 달린 똑똑한 로봇",
-    "오늘 캠프에서 나뭇가지와 잎만 엮어 지은 잠자리",
-    "오래 써서 여기저기 긁히고 낡은 할머니 냉장고"
-   ],
-   "answer_index": 2,
-   "answer": "오늘 캠프에서 나뭇가지와 잎만 엮어 지은 잠자리",
-   "why": "맞아! 나뭇가지랑 잎만 써서 아주 간단하게 만든 잠자리라서, 바로 그게 primitive인 거야. 오늘 만들었어도 이렇게 단순하면 이 말을 쓸 수 있거든."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/primitive.webp",
   "alt": "돌을 부딪쳐 칼을 만들던 맨 처음 시절",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/quit/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/quit/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/quit/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "quit",
  "slug": "quit",
  "url": "https://hibbangyong.com/words/quit/",
@@ -43,32 +43,6 @@
    "answer_index": 1,
    "answer": "아니, quit 아니야",
    "why": "맞아! 오늘도 가고 앞으로도 쭉 다닌다는 건 멈춘 게 아니라 계속 이어가는 거잖아. 멈춰야 quit인데 유나는 안 멈췄으니까 quit이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "지호가 오늘 이렇게 했대. 이 중에서 'quit'한 건 어느 걸까?",
-   "choices": [
-    "새로 산 축구공을 가방에 넣어서 운동장에 가져갔어.",
-    "축구부 친구들 이름을 공책에 하나씩 다 적어 뒀어.",
-    "2년 동안 다니던 축구부를 이제 안 하기로 딱 정했어.",
-    "축구부 연습이 끝나고 물통에 물을 가득 채워 왔어."
-   ],
-   "answer_index": 2,
-   "answer": "2년 동안 다니던 축구부를 이제 안 하기로 딱 정했어.",
-   "why": "맞아! 2년이나 다니던 축구부를 이제 안 하기로 딱 정했잖아. 하던 걸 스스로 멈추고 아예 안 하는 거, 그게 바로 quit이야."
-  },
-  {
-   "type": "choice",
-   "question": "민수가 이렇게 했대. 어느 게 'quit'한 걸까?",
-   "choices": [
-    "3년 다닌 태권도 학원을 이제 안 다니기로 딱 정했어.",
-    "태권도 학원에서 잠깐 쉬었다가 다시 이어서 했어.",
-    "태권도가 재밌어서 앞으로 더 오래 다니기로 했어.",
-    "태권도 학원이 문을 닫아서 어쩔 수 없이 못 가게 됐어."
-   ],
-   "answer_index": 0,
-   "answer": "3년 다닌 태권도 학원을 이제 안 다니기로 딱 정했어.",
-   "why": "맞아! 3년이나 다녔어도 이제 안 다니기로 스스로 딱 정했잖아. 그렇게 하던 걸 자기가 멈추고 아예 안 하는 게 바로 quit인 거야."
   }
  ],
  "synonyms": [],
@@ -88,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/quit.webp",
   "alt": "게임을 하다가 스스로 멈추는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

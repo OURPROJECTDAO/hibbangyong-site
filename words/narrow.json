@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/narrow/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/narrow/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/narrow/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "narrow",
  "slug": "narrow",
  "url": "https://hibbangyong.com/words/narrow/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, narrow 아니야",
    "why": "맞아! 유모차 세 대가 나란히 지나가도 남는다는 건 옆으로 넉넉하다는 뜻이잖아. narrow는 옆으로 짧아서 한 명씩 겨우 지나가는 거니까, 이 인도는 narrow가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "놀이터 미끄럼틀 옆에 계단이 있어. 이 계단은 한 사람씩만 발을 딛고 올라갈 수 있을 만큼 옆으로 짧아. 이 계단은 'narrow'해?",
-   "choices": [
-    "응, narrow 맞아",
-    "아니, narrow 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, narrow 맞아",
-   "why": "맞아! 한 사람씩만 겨우 발 딛을 만큼 옆으로 짧잖아. 이 벽에서 저 벽까지가 짧은 거, 그게 바로 narrow인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "다리 네 개가 있어. 이 중에서 'narrow'한 다리는 어떤 거야?",
-   "choices": [
-    "아주 길지만 차가 한 대씩만 겨우 지나가는 다리",
-    "아주 짧지만 차 세 대가 나란히 지나가는 다리",
-    "길이도 폭도 다 큼직해서 트럭도 여유롭게 다니는 다리",
-    "짧지만 사람 여럿이 나란히 걸어도 넉넉한 다리"
-   ],
-   "answer_index": 0,
-   "answer": "아주 길지만 차가 한 대씩만 겨우 지나가는 다리",
-   "why": "맞아! 이 다리는 아주 길지만 옆으로 좁아서 차가 한 대씩만 겨우 지나가거든. 다리가 길어도 옆으로 좁으면 바로 그게 narrow인 거야."
   }
  ],
  "synonyms": [],
@@ -85,6 +61,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/narrow.webp",
   "alt": "친구와 나란히 못 걷고 한 명씩 줄서서 지나가는 복도",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

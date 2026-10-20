@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/anxiety/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/anxiety/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/anxiety/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "anxiety",
  "slug": "anxiety",
  "url": "https://hibbangyong.com/words/anxiety/",
@@ -45,32 +45,6 @@
    "answer_index": 2,
    "answer": "다음 주 수영 수업이 자꾸 떠올라 며칠째 속이 조여 있는 마음",
    "why": "맞아! 다음 주 일이 아직 오지도 않았는데 며칠째 속이 조여 있잖아. 눈앞엔 아무 일도 없는데 마음이 계속 조마조마한 거, 그게 바로 anxiety야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 중 'anxiety'에 해당하는 것은 뭘까?",
-   "choices": [
-    "숙제를 다 끝내고 소파에 기대 앉아 걱정 하나 없이 느긋한 마음",
-    "다음 주에 치과에 가야 한다는 말을 듣고 며칠째 속이 조여 있는 마음",
-    "책상 위에 뚜껑이 열린 채 놓여 있는 노란 색연필 한 자루",
-    "빨랫줄에 수건을 걸고 빨래집게로 집어 두는 동작"
-   ],
-   "answer_index": 1,
-   "answer": "다음 주에 치과에 가야 한다는 말을 듣고 며칠째 속이 조여 있는 마음",
-   "why": "맞아! 치과는 다음 주 일이라 지금 눈앞에 있는 게 아닌데도 며칠째 속이 조여 있잖아. 아직 오지도 않은 일 때문에 마음이 조마조마한 거, 바로 그게 anxiety인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 지금 자기 마음이 어떤지 말했어. 이 중에서 'anxiety'를 느끼고 있는 아이는 누구일까?",
-   "choices": [
-    "내일 전학 가는데 어떨지 몰라서 며칠째 마음이 무겁고 잠도 잘 안 오는 아이",
-    "갑자기 큰 개가 달려들어서 지금 그 자리에 굳은 채 오들오들 떠는 아이",
-    "이불 속에 누워서 별생각 없이 노래를 흥얼거리며 뒹굴뒹굴하는 아이",
-    "발표 차례라 이름이 불리는 순간 심장이 딱 한 번 쿵 하고 만 아이"
-   ],
-   "answer_index": 0,
-   "answer": "내일 전학 가는데 어떨지 몰라서 며칠째 마음이 무겁고 잠도 잘 안 오는 아이",
-   "why": "맞아! 전학 가는 건 아직 오지도 않은 일인데, 며칠째 마음이 무겁고 잠까지 안 오잖아. 아직 안 온 일이 자꾸 마음에 걸려서 오래 조마조마한 거, 그게 바로 anxiety야."
   }
  ],
  "synonyms": [],
@@ -103,6 +77,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/anxiety.webp",
   "alt": "소풍 전날 밤, 아무 일도 안 일어났는데 잠이 안 오는 잠자리",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/spit/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/spit/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/spit/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "spit",
  "slug": "spit",
  "url": "https://hibbangyong.com/words/spit/",
@@ -45,30 +45,6 @@
    "answer_index": 0,
    "answer": "사탕을 오래 물고 있었더니 입 안에 잔뜩 고인 물",
    "why": "맞아! 사탕을 오래 물고 있으면 입 안에 물이 잔뜩 고이지? 입 안에 고인 그 물이 바로 spit인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "비 오는 날 우산을 접었더니 우산 끝에서 물이 뚝뚝 떨어졌어. 이게 'spit'이야?",
-   "choices": [
-    "응, spit 맞아",
-    "아니, spit 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, spit 아니야",
-   "why": "잘 골랐어! 우산 끝에서 뚝뚝 떨어진 물은 하늘에서 내린 빗물이거든. 입에서 나온 물이 아니니까 spit이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 각자 자기한테 생긴 물방울 하나를 말했어. 이 중에 'spit'인 건 누구 걸까?",
-   "choices": [
-    "말을 세게 하다가 입에서 톡 튀어나온 물방울",
-    "달리기를 하고 나서 이마에서 흘러내린 물방울",
-    "슬퍼서 울다가 눈에서 뚝 떨어진 물방울",
-    "차가운 컵 겉에 맺혀 흘러내린 물방울"
-   ],
-   "answer_index": 0,
-   "answer": "말을 세게 하다가 입에서 톡 튀어나온 물방울",
-   "why": "맞아! 말을 세게 하다가 입에서 톡 튀어나온 물방울이니까, 입에서 나온 물이잖아. 입에서 나오는 그 물이 바로 spit인 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/spit.webp",
   "alt": "가만히 있어도 입 안에 물이 고여 있는 순간",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

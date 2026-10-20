@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/ideology/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/ideology/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/ideology/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "ideology",
  "slug": "ideology",
  "url": "https://hibbangyong.com/words/ideology/",
@@ -40,30 +40,6 @@
    "answer_index": 1,
    "answer": "아니, ideology 아니야",
    "why": "맞아! 신났다가 심심해진 건 잠깐 스쳐 가는 네 기분이잖아. ideology는 한 무리가 오래오래 함께 굳게 믿는 생각 묶음이니까, 이건 ideology가 아닌 게 딱 맞아!"
-  },
-  {
-   "type": "ox",
-   "question": "한 무리가 '세상 모든 일은 나이 많은 어른들이 다 함께 정해야 옳다'고 다들 굳게 믿고, 그 믿음대로 자기들 규칙을 세워 세상을 움직여. 이게 'ideology'야?",
-   "choices": [
-    "응, ideology 맞아",
-    "아니, ideology 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, ideology 맞아",
-   "why": "맞아! 한 무리가 '세상은 나이 많은 어른들이 다 함께 정해야 옳다'고 다 같이 굳게 믿고, 그 믿음대로 규칙까지 딱 세웠잖아. 그렇게 얽힌 믿음이 한 묶음으로 뭉쳐서 그 무리가 세상을 움직이는 거니까, 바로 그게 ideology인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 가지 일이 있어. 이 중에서 'ideology'라고 부를 수 있는 건 어느 거야?",
-   "choices": [
-    "한 마을 사람들이 '땅은 모두가 똑같이 나눠 가져야 옳다'고 다 함께 믿고, 그 믿음대로 마을 규칙을 세워 살아가.",
-    "민수가 '난 축구보다 야구가 더 재밌어'라고 자기 혼자 좋아하는 걸 하나 말해.",
-    "'물은 백 도에서 끓는다'처럼, 누가 몇 번을 재도 똑같이 나오는 안 바뀌는 사실이야.",
-    "시험 결과를 기다리면서 가슴이 콩닥콩닥 뛰는, 잠깐의 조마조마한 마음이야."
-   ],
-   "answer_index": 0,
-   "answer": "한 마을 사람들이 '땅은 모두가 똑같이 나눠 가져야 옳다'고 다 함께 믿고, 그 믿음대로 마을 규칙을 세워 살아가.",
-   "why": "맞아! 한 사람 생각이 아니라 마을 사람들이 다 같이 '땅은 똑같이 나눠야 옳다'고 믿고, 그 믿음대로 규칙까지 세워서 살아가잖아. 여럿이 함께 굳게 믿고 그대로 움직이는 것, 그게 바로 ideology거든."
   }
  ],
  "synonyms": [],
@@ -92,6 +68,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/ideology.webp",
   "alt": "사람들이 세상이 어때야 좋은지 저마다 다르게 믿는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

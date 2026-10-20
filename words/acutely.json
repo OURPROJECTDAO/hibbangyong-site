@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/acutely/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/acutely/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/acutely/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "acutely",
  "slug": "acutely",
  "url": "https://hibbangyong.com/words/acutely/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, acutely 맞아",
    "why": "맞아! 짝꿍이 이사 간 뒤로 비어 있는 옆자리가 하루 종일 확 와닿았잖아. 그냥 알아챈 게 아니라 아주 세게 느낀 거라서 이게 바로 acutely야."
-  },
-  {
-   "type": "ox",
-   "question": "도윤이가 엘리베이터에 탔는데, 먼저 내린 사람의 향수 냄새가 있는 듯 없는 듯 아주 약하게 났어. 도윤이는 그 냄새를 'acutely' 느낀 걸까?",
-   "choices": [
-    "응, acutely 맞아",
-    "아니, acutely 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, acutely 아니야",
-   "why": "맞아! 도윤이한테 향수 냄새는 있는 듯 없는 듯 아주 약하게 났잖아. 그런 흐릿한 느낌은 acutely의 반대쪽이야. acutely라면 그 냄새가 코를 찌르듯 확 와닿았어야 해."
-  },
-  {
-   "type": "choice",
-   "question": "민재가 전학 간 첫날 뭔가를 'acutely' 느꼈대. 어떤 장면에 가장 잘 맞을까?",
-   "choices": [
-    "새 반 아이들 말투가 퉁명스럽고 쏘아붙이는 듯했어.",
-    "혼자만 교복이 달라서 다들 보는 게 계속 신경 쓰였어.",
-    "누가 이름을 부른 것 같았는데 긴가민가해서 넘겼어.",
-    "칠판의 시간표를 한 칸도 안 틀리고 공책에 옮겼어."
-   ],
-   "answer_index": 1,
-   "answer": "혼자만 교복이 달라서 다들 보는 게 계속 신경 쓰였어.",
-   "why": "맞아! 혼자만 교복이 달라서 다들 보는 게 계속 신경 쓰였다는 건, 민재가 그 시선을 그냥 넘기지 못하고 아주 세게 느낀 거잖아. 이렇게 뭔가를 강하게 느끼는 게 바로 acutely야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/acutely.webp",
   "alt": "시험 중 시계 초침 소리가 유난히 크게 들림",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

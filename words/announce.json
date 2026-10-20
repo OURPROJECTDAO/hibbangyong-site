@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/announce/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/announce/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/announce/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "announce",
  "slug": "announce",
  "url": "https://hibbangyong.com/words/announce/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, announce 맞아",
    "why": "맞아! 스피커에서 나온 소리를 그 자리 사람들이 다 들었잖아. 한 사람한테만 속닥인 게 아니라 알아야 할 사람들이 다 알게 소식을 내놓은 거니까, 그게 바로 announce인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "언니가 다음 주 피아노 대회 날짜를 자기 방 벽 달력에 적어 뒀어. 가족한테도 친구한테도 말하지 않았어. 이게 'announce'야?",
-   "choices": [
-    "응, announce 맞아",
-    "아니, announce 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, announce 아니야",
-   "why": "맞아! 언니는 달력에 혼자 적어만 뒀지, 가족한테도 친구한테도 아무한테도 말을 안 했잖아. 알아야 할 사람들이 아무도 모르는 채로 있으니까 announce가 아닌 게 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "소풍 날짜가 다른 날로 바뀌었어. 아이들이 각자 이렇게 했대. 이 중에 'announce'한 사람은?",
-   "choices": [
-    "지우는 바뀐 날짜를 종이에 써서 교실 게시판에 붙였어",
-    "준호는 바뀐 날짜를 짝꿍 귀에만 대고 살짝 말했어",
-    "서연이는 바뀐 날짜를 자기 수첩에 적어 가방에 넣었어",
-    "태민이는 다들 이미 아는 예전 날짜를 또 한 번 크게 말했어"
-   ],
-   "answer_index": 0,
-   "answer": "지우는 바뀐 날짜를 종이에 써서 교실 게시판에 붙였어",
-   "why": "맞아! 지우는 알아야 할 아이들이 다 볼 수 있게 게시판에 딱 내놨잖아. 말로 하든 써 붙이든 상관없어. 다들 알게 내놓은 그게 바로 announce야."
   }
  ],
  "synonyms": [],
@@ -91,6 +67,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/announce.webp",
   "alt": "학교 정문에 붙은 종이로 소풍 취소 소식이 알려지는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

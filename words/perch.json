@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/perch/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/perch/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/perch/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "perch",
  "slug": "perch",
  "url": "https://hibbangyong.com/words/perch/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, perch 아니야",
    "why": "맞아! 기러기들은 아무 데도 앉지 않고 V자로 줄지어 계속 날아가는 중이잖아. perch는 새가 올라앉아서 멈춰 쉬는 자리라서, 날고 있는 하늘 위는 perch가 될 수 없어."
-  },
-  {
-   "type": "ox",
-   "question": "매 한 마리가 절벽에서 튀어나온 바위 위에 앉아 아래 들판을 가만히 보고 있어. 매가 앉아 있는 그 바위를 매의 'perch'라고 할 수 있을까?",
-   "choices": [
-    "응, perch 맞아",
-    "아니, perch 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, perch 맞아",
-   "why": "맞아! 매가 절벽에서 튀어나온 바위에 올라앉아서 아래 들판을 가만히 내려다보고 있잖아. 새가 올라앉아 쉬거나 내려다보는 자리니까, 그 바위가 바로 매의 perch인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "민지네 앵무새가 방 안에 있어. 다음 중 그 앵무새의 'perch'라고 부를 수 있는 건?",
-   "choices": [
-    "앵무새가 알을 낳으려고 나뭇가지로 엮은 둥지",
-    "앵무새가 먹을 씨앗을 담아 두는 작은 그릇",
-    "앵무새가 올라가 앉아서 쉬곤 하는 창틀 끝",
-    "앵무새가 날개를 펴고 빙빙 돌며 나는 공중"
-   ],
-   "answer_index": 2,
-   "answer": "앵무새가 올라가 앉아서 쉬곤 하는 창틀 끝",
-   "why": "맞아! 창틀 끝은 앵무새가 올라가 앉아서 쉬는 자리라서 바로 그게 perch인 거야. perch는 무슨 물건이냐보다 새가 올라앉아 쉬는 자리냐가 중요해."
   }
  ],
  "synonyms": [],
@@ -84,6 +60,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/perch.webp",
   "alt": "새장 안에 가로로 걸린 막대에 올라앉아 쉬는 새",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

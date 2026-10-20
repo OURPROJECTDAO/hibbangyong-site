@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/initial/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/initial/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/initial/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "initial",
  "slug": "initial",
  "url": "https://hibbangyong.com/words/initial/",
@@ -45,28 +45,6 @@
    "answer_index": 0,
    "answer": "바퀴 달린 차 모양",
    "why": "맞아! 지호는 로봇을 만들기 시작할 때 맨 먼저 바퀴 달린 차 모양으로 만들 계획이었거든. 여러 계획 중에 제일 먼저 세운 거라서 바로 그게 initial 계획인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "지호는 새 반에 온 첫날, 친구들이 좀 무서워 보였대. 한 달 지나니까 다 친해졌지. 첫날 '무서워 보였다'는 느낌 — 이게 지호의 'initial' 느낌이야?",
-   "choices": [
-    "응, initial 느낌 맞아",
-    "아니, initial 느낌 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, initial 느낌 맞아",
-   "why": "맞아! 여기서 묻는 건 지호의 첫날 느낌이야. 한 달 동안 지호가 느낀 것들 중에 첫날의 '무서워 보였다'가 제일 먼저 온 느낌이라서, 바로 그게 initial 느낌인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "미나는 줄넘기를 처음 배울 땐 한 번도 못 넘었어. 한 달 연습하니까 50번을 넘게 됐지. '50번 넘는 것' — 이게 미나의 'initial' 실력이야?",
-   "choices": [
-    "응, initial 실력 맞아",
-    "아니, initial 실력 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, initial 실력 아니야",
-   "why": "맞아! 미나는 줄넘기를 처음 배울 땐 한 번도 못 넘었잖아. 50번 넘는 건 한 달 연습하고 나서 뒤에 생긴 실력이라, 맨 처음 실력이 아닌 거야. 미나의 initial 실력은 한 번도 못 넘던 그 실력이야."
   }
  ],
  "synonyms": [],
@@ -80,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/initial.webp",
   "alt": "새 학교 첫날 교실 문 열고 든 맨 처음 생각",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

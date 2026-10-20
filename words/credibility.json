@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/credibility/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/credibility/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/credibility/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "credibility",
  "slug": "credibility",
  "url": "https://hibbangyong.com/words/credibility/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, credibility 맞아",
    "why": "맞아! 아저씨가 고친 자전거가 10년 동안 한 번도 다시 고장 난 적이 없으니까, 동네 사람들이 아저씨 말을 그대로 믿는 거잖아. 남들이 믿어도 되겠다고 보는 그 정도가 바로 credibility야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 네 가지 일 가운데 준호의 'credibility'가 올라갔다고 할 수 있는 경우는?",
-   "choices": [
-    "반 대표 선거에서 애들이 준호를 좋아해서 준호가 표를 제일 많이 받았어",
-    "준호가 말한 날씨 예보가 딱 맞아서 애들이 다음부터 준호 말을 믿기로 했어",
-    "준호가 주운 지갑을 아무도 모르게 주인에게 몰래 돌려줬어",
-    "준호가 친구 말을 믿지 못해서 그게 맞는지 직접 찾아 확인했어"
-   ],
-   "answer_index": 1,
-   "answer": "준호가 말한 날씨 예보가 딱 맞아서 애들이 다음부터 준호 말을 믿기로 했어",
-   "why": "맞아! 준호가 말한 날씨 예보가 딱 맞으니까 애들이 다음부터 준호 말을 믿기로 했잖아. 남들이 준호 말을 믿어도 되겠다고 여기게 된 거니까, 바로 그게 credibility가 올라간 거야."
-  },
-  {
-   "type": "ox",
-   "question": "민재는 친구가 무슨 말을 하든 의심하지 않고 일단 믿는 성격이야. 친구가 \"급식에 오늘 치킨 나온대\"라고 하면 바로 믿고 신나 해. 민재가 남의 말을 잘 믿는 이 마음, 이게 민재의 'credibility'야?",
-   "choices": [
-    "응, credibility 맞아",
-    "아니, credibility 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, credibility 아니야",
-   "why": "잘 골랐어! 민재는 남의 말을 잘 믿는 쪽이잖아. credibility는 거꾸로 남들이 민재를 믿어도 되겠다고 보는 정도라서, 민재가 친구를 믿는 이 마음은 credibility가 아니야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/credibility.webp",
   "alt": "거짓말 잘하는 애와 반장이 똑같이 '내일 시험 없대'라고 말하는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

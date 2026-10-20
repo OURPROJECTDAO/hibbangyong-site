@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/dust/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/dust/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/dust/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "dust",
  "slug": "dust",
  "url": "https://hibbangyong.com/words/dust/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, dust 맞아",
    "why": "맞아! 오래 안 꺼낸 선풍기 날개 위에 회색 가루가 뽀얗게 앉아 있고, 손가락으로 문지르니 손끝에 묻어 나오잖아. 오래 두면 쌓이는 그 작고 가벼운 가루가 바로 dust인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "엄마가 방금 마른 수건으로 피아노 뚜껑을 구석구석 닦았어. 까만 뚜껑이 거울처럼 반짝반짝해서 내 얼굴이 비치고, 손가락으로 문질러 봐도 손끝에 아무것도 안 묻어. 지금 이 피아노 뚜껑 위의 모습, 이게 'dust'야?",
-   "choices": [
-    "응, dust 맞아",
-    "아니, dust 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, dust 아니야",
-   "why": "잘 골랐어! 엄마가 마른 수건으로 구석구석 닦아서 뚜껑이 반짝반짝하고, 손가락으로 문질러도 손끝에 아무것도 안 묻잖아. 가루가 하나도 없으니까 이건 dust가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "민지가 오늘 네 가지를 봤어. 이 중에서 'dust'라고 부를 수 있는 건 뭘까?",
-   "choices": [
-    "햇빛 비치는 창가에서 반짝이며 둥둥 떠다니는 작은 알갱이",
-    "모래 놀이터에서 신발 속에 들어간 까끌까끌한 알갱이",
-    "라면 냄비에서 모락모락 올라오는 하얗고 뜨거운 김",
-    "비 온 뒤 운동장에 고인 질척질척한 흙탕물"
-   ],
-   "answer_index": 0,
-   "answer": "햇빛 비치는 창가에서 반짝이며 둥둥 떠다니는 작은 알갱이",
-   "why": "맞아! 창가에서 둥둥 떠다니는 그 알갱이는 아주 작고 가벼워서 공중에 떠 있을 수 있는 거야. 이렇게 마르고 가벼워서 공중에 뜨는 작은 알갱이가 바로 dust야."
   }
  ],
  "synonyms": [],
@@ -83,6 +59,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/dust.webp",
   "alt": "오래 안 쓴 책장 위에 뽀얗게 앉은 회색 가루",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

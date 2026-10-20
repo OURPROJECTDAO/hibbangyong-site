@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/cease/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/cease/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/cease/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "cease",
  "slug": "cease",
  "url": "https://hibbangyong.com/words/cease/",
@@ -45,32 +45,6 @@
    "answer_index": 2,
    "answer": "계속 돌아가던 선풍기가 딱 멈춰서, 날개가 이제 안 돌아가.",
    "why": "맞아! 계속 돌아가던 선풍기가 딱 멈춰서 날개가 안 돌아가잖아. 이렇게 이어지던 게 멈춘 게 바로 cease인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 중 'cease'에 해당하는(맞는) 것은?",
-   "choices": [
-    "식탁 위 바나나가 세 개 놓여 있어서, 노랗게 익었어.",
-    "계속 멍멍 짖던 강아지가 조용해져서, 이제 짖는 소리가 안 나.",
-    "신발장에 있는 신발이 빨간색이라, 반짝반짝 윤이 나.",
-    "벽에 걸린 시계가 동그란 모양이라, 숫자가 크게 적혀 있어."
-   ],
-   "answer_index": 1,
-   "answer": "계속 멍멍 짖던 강아지가 조용해져서, 이제 짖는 소리가 안 나.",
-   "why": "맞아! 계속 멍멍 짖던 소리가 딱 멈춰서 이제 안 나잖아. 이렇게 이어지던 게 멈추는 게 바로 cease야."
-  },
-  {
-   "type": "choice",
-   "question": "네 가게 이야기를 들었어. 어떤 가게가 장사를 'cease'했다고 말할 수 있을까?",
-   "choices": [
-    "그 가게는 문을 닫아서, 이제 손님한테 물건을 안 팔아.",
-    "그 가게는 점심때 잠깐 문 닫았다가 오후에 다시 열어서 팔아.",
-    "그 가게는 전보다 손님이 더 많아져서 더 바쁘게 팔고 있어.",
-    "그 가게는 파는 물건 종류를 계속 바꿔 가면서 팔고 있어."
-   ],
-   "answer_index": 0,
-   "answer": "그 가게는 문을 닫아서, 이제 손님한테 물건을 안 팔아.",
-   "why": "맞아! 물건을 팔던 걸 뚝 멈춰서 이제 손님한테 안 판다잖아. 계속하던 장사가 멈춘 거니까, 바로 그게 cease야."
   }
  ],
  "synonyms": [
@@ -101,6 +75,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/cease.webp",
   "alt": "계속 울리던 음악 소리가 딱 그치는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

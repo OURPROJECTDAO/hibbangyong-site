@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/forthcoming/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/forthcoming/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/forthcoming/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "forthcoming",
  "slug": "forthcoming",
  "url": "https://hibbangyong.com/words/forthcoming/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, forthcoming 맞아",
    "why": "맞아! 10월 5일에 나온다고 출판사가 이미 발표했잖아. 아직 서점에 없어도 나올 날이 딱 정해져 있고 곧 닥치니까, 이 새 소설이 바로 forthcoming 책인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "오늘은 9월 24일이야. 우리 반 합창 대회는 9월 10일에 열렸고 이미 끝났어. 이 합창 대회는 'forthcoming' 행사야?",
-   "choices": [
-    "응, forthcoming 맞아",
-    "아니, forthcoming 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, forthcoming 아니야",
-   "why": "맞아! 합창 대회는 9월 10일에 열려서 이미 끝났잖아. forthcoming은 아직 안 왔는데 곧 오기로 정해진 일에 쓰는 말이라서, 벌써 지나간 이 대회에는 안 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "다음 주 화요일 오후 4시로 치과에서 충치 치료 예약이 잡혀 있어. 생각만 해도 싫은 날이야. 이 치과 치료도 'forthcoming'이야?",
-   "choices": [
-    "응, forthcoming 맞아",
-    "아니, forthcoming 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, forthcoming 맞아",
-   "why": "맞아! 다음 주 화요일 오후 4시로 날짜랑 시간까지 벌써 잡혀 있고 곧 닥치잖아. 생각만 해도 싫은 날이어도 상관없이, 그래서 이 충치 치료도 forthcoming인 거야."
   }
  ],
  "synonyms": [],
@@ -80,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/forthcoming.webp",
   "alt": "달력에 동그라미 쳐 둔 다음 달 기말고사",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

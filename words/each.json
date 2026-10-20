@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/each/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/each/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/each/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "each",
  "slug": "each",
  "url": "https://hibbangyong.com/words/each/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, each라고 할 수 있어",
    "why": "맞아! 민지도 한 장, 준이도 한 장, 너도 한 장 — 한 명도 안 빼고 한 명씩 따로 다 받았잖아. 한꺼번에 묶어서가 아니라 하나하나 돌아가면서 다 준 거니까, 바로 그게 each인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "친구가 네 명 있는데, 그중 딱 한 명한테만 색종이를 주고 나머지 셋은 못 받았어. 이걸 'each'라고 할 수 있을까?",
-   "choices": [
-    "응, each라고 할 수 있어",
-    "아니, each는 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, each는 아니야",
-   "why": "맞아! each는 한 명도 안 빼고 하나하나 다 줘야 하는 건데, 여기선 딱 한 명만 받고 셋은 못 받았잖아. 그러니까 each가 아닌 게 딱 맞아!"
-  },
-  {
-   "type": "ox",
-   "question": "운동회에서 우리 반이 '반 대표'로 큰 트로피 하나를 받아서 교실 벽에 걸어 뒀어. 반 전체가 받은 거니까 'each' 아이가 트로피를 받은 거라고 할 수 있어?",
-   "choices": [
-    "응, 'each' 라고 할 수 있어",
-    "아니, 'each' 는 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 'each' 는 아니야",
-   "why": "맞아! 트로피는 반 전체가 한 덩어리로 다 같이 받은 거지, 민수도 하나 지아도 하나 따로따로 받은 게 아니거든. 그래서 'each 아이가 받았다'고 할 수 없는 거야."
   }
  ],
  "synonyms": [],
@@ -84,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/each.webp",
   "alt": "스티커를 한 명씩 빠짐없이 나눠줌 — 하나하나 따로따로.",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

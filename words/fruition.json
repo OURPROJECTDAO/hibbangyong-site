@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/fruition/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/fruition/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/fruition/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "fruition",
  "slug": "fruition",
  "url": "https://hibbangyong.com/words/fruition/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, fruition 맞아",
    "why": "맞아! 아빠가 3년 동안 세운 자전거 일주 계획이 올여름 온 가족이 제주도를 한 바퀴 다 돌면서 진짜로 이루어졌잖아. 머릿속에만 있던 계획이 뜻한 대로 현실이 됐으니까 그게 바로 fruition이야."
-  },
-  {
-   "type": "ox",
-   "question": "우리 반은 한 달에 한 번 학급 신문을 내자고 계획했어. 그런데 아무도 기사를 쓰지 않아서 결국 신문은 한 번도 나오지 못했어. 계획이 이렇게 된 걸 'fruition'이라고 할 수 있어?",
-   "choices": [
-    "응, fruition 맞아",
-    "아니, fruition 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, fruition 아니야",
-   "why": "맞아! fruition은 계획이 진짜로 이루어지는 걸 말하는데, 학급 신문은 아무도 기사를 안 써서 한 번도 안 나왔잖아. 계획만 있고 끝내 실제로 안 이루어졌으니 fruition이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 사람 이야기를 들었어. 'fruition'이라는 말이 딱 맞는 건 누구 이야기야?",
-   "choices": [
-    "삼촌이 산책하다가 길에서 우연히 오래 못 본 옛 친구를 만났어",
-    "형이 몇 년 동안 쓰던 휴대폰이 드디어 고장 나서 새 걸 샀어",
-    "누나가 중학생 때부터 꿈꾸던 자기 만화책을 올해 직접 찍어 냈어",
-    "이모가 카페를 열어 보려고 이번 주에 처음 가게 자리를 알아봤어"
-   ],
-   "answer_index": 2,
-   "answer": "누나가 중학생 때부터 꿈꾸던 자기 만화책을 올해 직접 찍어 냈어",
-   "why": "맞아! 누나가 중학생 때부터 머릿속에 품어 온 꿈이 올해 진짜 만화책으로 나왔잖아. 꿈꾸던 게 뜻한 대로 현실이 된 거라서 바로 그게 fruition인 거야."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/fruition.webp",
   "alt": "동아리 축제 부스를 열자는 생각이 실제 부스로 열림",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/opt/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/opt/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/opt/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "opt",
  "slug": "opt",
  "url": "https://hibbangyong.com/words/opt/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, opt 맞아",
    "why": "맞아! 미끄럼틀 두 개 앞에서 빨간 쪽으로 마음을 딱 정하고 그 계단을 올라간 거잖아. 갈래를 놓고 내가 정해서 그쪽으로 간 거니까, 그게 바로 opt야."
-  },
-  {
-   "type": "ox",
-   "question": "아이가 문구점에서 파란 공책이랑 초록 공책을 번갈아 보기만 하다가, 끝내 아무것도 정하지 못하고 가게를 나왔어. 이게 'opt'야?",
-   "choices": [
-    "응, opt 맞아",
-    "아니, opt 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, opt 아니야",
-   "why": "공책 두 개를 보기만 하다 그냥 나온 거니까, 이건 opt가 아니야! 갈래 앞에서 마음속으로 딱 정해야 opt인데, 아무것도 정하지 않았잖아. 안 정한 건 고른 게 아니거든."
-  },
-  {
-   "type": "ox",
-   "question": "체험학습 날, 도자기 만들기랑 숲길 걷기 중에 한 가지만 할 수 있었어. 민재는 어느 쪽이든 상관없다고 생각했는데, 선생님이 '민재는 숲길 조'라고 정해 줘서 숲길로 갔어. 이런 경우도 'opt'야?",
-   "choices": [
-    "응, opt 맞아.",
-    "아니, opt 아니야."
-   ],
-   "answer_index": 1,
-   "answer": "아니, opt 아니야.",
-   "why": "맞아! 갈래는 둘이었지만 고른 사람이 민재가 아니잖아. 선생님이 정해 준 대로 간 거니까, 민재가 스스로 정한 게 아니라서 이건 opt가 아닌 거야."
   }
  ],
  "synonyms": [],
@@ -80,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/opt.webp",
   "alt": "우산 없이 비 쏟아지는 날 뛰어갈지 기다릴지 갈림",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

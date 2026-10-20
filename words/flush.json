@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/flush/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/flush/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/flush/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "flush",
  "slug": "flush",
  "url": "https://hibbangyong.com/words/flush/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, flush 맞아",
    "why": "맞아! 민지 얼굴이 매워서 빨갛게 달아올랐잖아. 왜 빨개졌는지는 상관없이 얼굴이 빨갛게 달아오르면 그게 바로 flush인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "차멀미가 심해서 준호 얼굴이 핏기 없이 하얗게 변했어. 이런 게 'flush'일까?",
-   "choices": [
-    "응, flush 맞아",
-    "아니, flush 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, flush 아니야",
-   "why": "맞아! 준호 얼굴은 멀미 때문에 핏기 없이 하얗게 변했잖아. flush는 얼굴이 빨갛게 되는 거라서, 하얗게 된 준호 얼굴은 flush가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구에게 각각 이런 일이 있었어. 'flush' 했다고 말할 수 있는 친구는 누구일까?",
-   "choices": [
-    "무서운 영화를 보다가 얼굴이 하얗게 질렸어",
-    "빨간 물감이 묻어서 볼이 빨갛게 보였어",
-    "줄넘기를 백 번 하고 나서 볼이 달아올랐어",
-    "발표 차례가 오자 가슴이 쿵쾅쿵쾅 뛰었어"
-   ],
-   "answer_index": 2,
-   "answer": "줄넘기를 백 번 하고 나서 볼이 달아올랐어",
-   "why": "맞아! 줄넘기를 백 번 하고 나서 몸이 더워지니까 볼이 빨갛게 달아올랐잖아. 부끄럽지 않아도 얼굴이 빨개지면 그게 바로 flush인 거야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/flush.webp",
   "alt": "뜨거운 탕에 들어가거나 달리기를 한 뒤 빨개진 볼",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

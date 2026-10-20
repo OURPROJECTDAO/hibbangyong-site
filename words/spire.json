@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/spire/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/spire/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/spire/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "spire",
  "slug": "spire",
  "url": "https://hibbangyong.com/words/spire/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, spire 맞아",
    "why": "맞아! 준호가 본 건 시계탑 맨 위에 얹힌, 하늘 쪽으로 갈수록 가늘어지다가 끝이 뾰족하게 솟은 지붕이잖아. 그게 딱 spire야. 탑 전체가 아니라 그 위의 뾰족한 지붕만 가리키는 말이거든."
-  },
-  {
-   "type": "ox",
-   "question": "수아네 동네 3층짜리 도서관 건물 꼭대기는 넓고 판판한 옥상이라, 사람들이 거기 놓인 벤치에 앉아 쉬어. 이 판판한 옥상을 'spire'라고 부를 수 있을까?",
-   "choices": [
-    "응, spire 맞아",
-    "아니, spire 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, spire 아니야",
-   "why": "맞아! spire는 꼭대기가 위로 갈수록 가늘어지다가 뾰족하게 솟은 끝인데, 이 도서관 꼭대기는 벤치를 놓고 앉아 쉴 만큼 넓고 판판한 옥상이잖아. 뾰족한 데가 하나도 없으니까 spire라고 부를 수 없는 거야."
-  },
-  {
-   "type": "choice",
-   "question": "민지가 언덕 위에서 오래된 성당이 있는 동네 사진을 찍었어. 사진 속 어느 부분을 'spire'라고 부를 수 있을까?",
-   "choices": [
-    "탑 맨 위에서 하늘 쪽으로 갈수록 가늘게 좁아지는 지붕",
-    "탑 가운데에서 큰 종이 매달려 있는 네모난 몸통",
-    "건물 위에 커다란 공을 반 잘라 덮은 듯한 지붕",
-    "건물 위에 넓고 판판하게 펼쳐진 옥상 바닥"
-   ],
-   "answer_index": 0,
-   "answer": "탑 맨 위에서 하늘 쪽으로 갈수록 가늘게 좁아지는 지붕",
-   "why": "맞아! 민지 사진 속 성당 탑 맨 위에서 하늘 쪽으로 갈수록 가늘게 좁아지는 그 지붕, 바로 그 뾰족한 끝만 spire라고 부르는 거야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/spire.webp",
   "alt": "멀리서 본 마을, 나무 위로 솟은 교회 탑 꼭대기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

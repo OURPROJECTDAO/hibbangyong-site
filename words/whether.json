@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/whether/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/whether/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/whether/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "whether",
  "slug": "whether",
  "url": "https://hibbangyong.com/words/whether/",
@@ -45,17 +45,6 @@
    "answer_index": 0,
    "answer": "이길지 질지 아직 몰라서 두 쪽을 다 생각하는 마음",
    "why": "맞아! 이길지 질지 아직 아무도 모르니까 두 쪽을 다 열어 두고 생각하는 거잖아. 그렇게 어느 쪽일까 하고 두 갈래를 나란히 놓는 마음이 바로 whether야."
-  },
-  {
-   "type": "ox",
-   "question": "형이 이렇게 말했어. 눈이 오면 썰매를 타러 나가겠다고. 이런 경우도 'whether'야?",
-   "choices": [
-    "응, 'whether' 맞아",
-    "아니, 'whether' 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 'whether' 아니야",
-   "why": "맞아! 형은 눈이 오면 썰매를 타겠다고 한쪽만 정해서 말한 거잖아. 눈이 안 올 땐 어떻게 할지는 아예 말도 안 했거든? 두 갈래를 나란히 놓고 따진 게 아니니까 이건 whether가 아닌 거야."
   }
  ],
  "synonyms": [],
@@ -69,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/whether.webp",
   "alt": "내일 비가 올지 안 올지 아무도 모르는 아침",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

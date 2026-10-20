@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/tactical/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/tactical/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/tactical/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "tactical",
  "slug": "tactical",
  "url": "https://hibbangyong.com/words/tactical/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, tactical 아니야",
    "why": "맞아! tactical은 이루고 싶은 목표가 있고, 그걸 이루려고 지금 상황에서 어떤 방법을 쓸지 골라 움직이는 거야. 서연이는 어디 갈지도 안 정하고 발길 닿는 대로 걸었으니까 목표도 없고 고른 방법도 없어서 tactical이랑은 정반대야."
-  },
-  {
-   "type": "ox",
-   "question": "체스를 두다가 민준이는 다음 수에서 상대의 퀸을 잡으려고, 일부러 자기 비숍을 상대에게 내줬어. 이 한 수는 'tactical'한 선택일까?",
-   "choices": [
-    "응, tactical 맞아",
-    "아니, tactical 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, tactical 맞아",
-   "why": "맞아! 민준이는 다음 수에서 퀸을 잡으려고 지금 판에서 비숍을 내주는 수를 골랐잖아. 목표를 이루려고 지금 상황에서 쓸 수를 고른 거니까 이게 바로 tactical이야."
-  },
-  {
-   "type": "choice",
-   "question": "옛날 전쟁 이야기야. 적군이 새벽에 강을 건너오려 하자, 장군은 밤사이 대포 부대를 다리 옆 언덕 위로 옮겨 두었어. 역사책은 이걸 'tactical' 결정이라고 불러. 여기서 'tactical'은 어떤 뜻으로 쓰였을까?",
-   "choices": [
-    "눈앞에 닥친 싸움 한 판을 이기려고 그 자리에서 골라 쓴 수라는 뜻",
-    "여러 해에 걸쳐 나라 전체 전쟁의 방향을 미리 짜 둔 큰 계획이라는 뜻",
-    "적군이 끝까지 눈치채지 못하게 몰래 숨겨 둔 속셈이 있었다는 뜻",
-    "부하들이 기분 상하지 않게 명령하는 말을 부드럽게 가려 했다는 뜻"
-   ],
-   "answer_index": 0,
-   "answer": "눈앞에 닥친 싸움 한 판을 이기려고 그 자리에서 골라 쓴 수라는 뜻",
-   "why": "맞아! 적군이 새벽에 강을 건너오니까, 그 싸움 한 판을 이기려고 밤사이 대포 부대를 다리 옆 언덕으로 옮긴 거잖아. 지금 눈앞의 싸움에서 고른 수, 바로 그게 tactical이야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/tactical.webp",
   "alt": "축구 경기 후반에 이기는 팀이 공격수를 빼고 수비수를 넣음",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

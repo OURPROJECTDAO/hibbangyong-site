@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/farce/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/farce/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/farce/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "farce",
  "slug": "farce",
  "url": "https://hibbangyong.com/words/farce/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, farce 아니야",
    "why": "맞아! 심사위원 세 명이 작품을 하나씩 직접 보고 미리 공개한 채점 기준표대로 점수를 매겼잖아. 진지한 대회가 규칙대로 제대로 굴러갔고 학생들도 결과를 받아들였으니까 엉망이 된 데가 하나도 없어. 그래서 farce가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "구청에서 주민 의견을 듣는 공청회를 열었어. 그런데 주민들이 말하는 동안 담당자는 듣지도 않고, 공청회가 끝나기도 전에 '원래 계획대로 진행합니다'라는 공지를 이미 붙여 놨어. 이 공청회는 'farce'일까?",
-   "choices": [
-    "응, farce 맞아",
-    "아니, farce 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, farce 맞아",
-   "why": "맞아! 공청회는 주민 말을 진짜 들으려고 여는 건데, 담당자는 듣지도 않고 끝나기도 전에 '원래 계획대로 진행합니다' 공지까지 붙여 놨잖아. 진지해야 할 일이 하는 척만 하는 우스운 꼴이 됐으니까 바로 그게 farce인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 네 가지 상황 중에서 'farce'라고 부르기에 가장 알맞은 건 뭘까?",
-   "choices": [
-    "심판이 한쪽 팀 선수의 형이라서 시작 전부터 결과가 뻔했던 축구 대회",
-    "친구가 보여 준 개그 영상 때문에 반 전체가 한참 동안 웃었던 쉬는 시간",
-    "열심히 준비했는데 갑자기 비가 와서 다음 주로 미뤄진 학교 운동회",
-    "규칙대로 공정하게 진행돼서 모두가 결과를 받아들인 반장 선거"
-   ],
-   "answer_index": 0,
-   "answer": "심판이 한쪽 팀 선수의 형이라서 시작 전부터 결과가 뻔했던 축구 대회",
-   "why": "맞아! 축구 대회는 공정하게 겨뤄야 하는 진지한 일이잖아. 그런데 심판이 한쪽 팀 선수의 형이라 시작 전부터 결과가 뻔했으니, 경기는 하는 척만 하는 우스운 꼴이 된 거야. 그게 바로 farce야."
   }
  ],
  "synonyms": [],

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/elasticity/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/elasticity/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/elasticity/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "elasticity",
  "slug": "elasticity",
  "url": "https://hibbangyong.com/words/elasticity/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, elasticity 맞아",
    "why": "맞아! 허리 밴드를 쭉 당겨서 늘어났는데, 놓으니까 스스로 원래 크기로 다시 줄어들었잖아. 늘어났다가 제자리로 돌아오는 그 성질이 바로 elasticity야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 네 장면 중 'elasticity'가 가장 잘 드러난 건?",
-   "choices": [
-    "껌을 길게 잡아당겼더니 쭉 늘어난 채로 축 처졌어.",
-    "쇠막대를 힘껏 눌렀는데 모양이 하나도 안 변했어.",
-    "스펀지를 꽉 쥐었다 놓았더니 금세 다시 통통해졌어.",
-    "찰흙을 손으로 주물렀더니 말랑말랑하게 풀어졌어."
-   ],
-   "answer_index": 2,
-   "answer": "스펀지를 꽉 쥐었다 놓았더니 금세 다시 통통해졌어.",
-   "why": "맞아! 스펀지는 꽉 쥐니까 모양이 바뀌었다가, 놓자마자 다시 통통하게 원래대로 돌아왔잖아. 이렇게 모양이 바뀌었다가 원래대로 돌아오는 게 바로 elasticity야."
-  },
-  {
-   "type": "ox",
-   "question": "식탁 위의 유리컵을 손으로 꽉 눌러 봤는데, 컵 모양이 조금도 변하지 않았어. 이 유리컵이 가진 성질, 이게 'elasticity'야?",
-   "choices": [
-    "응, elasticity 맞아",
-    "아니, elasticity 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, elasticity 아니야",
-   "why": "잘 골랐어! 컵을 꽉 눌러도 모양이 조금도 안 변했잖아. elasticity는 모양이 바뀌었다가 다시 원래대로 돌아오는 성질인데, 이 유리컵은 바뀐 적부터 없으니까 elasticity가 아닌 거야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/elasticity.webp",
   "alt": "스펀지를 꽉 쥐었다 놓으면 다시 통통해짐",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

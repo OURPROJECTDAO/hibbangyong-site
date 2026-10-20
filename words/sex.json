@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/sex/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/sex/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/sex/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "sex",
  "slug": "sex",
  "url": "https://hibbangyong.com/words/sex/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, sex 맞아",
    "why": "맞아! 암평아리랑 수평아리로 갈라 담는 거잖아. 암컷이냐 수컷이냐 나누는 그게 바로 sex인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "동물병원에서 새로 온 강아지를 보고 수의사한테 \"이 강아지 sex가 뭐예요?\"라고 물었어. 무엇을 묻는 걸까?",
-   "choices": [
-    "암컷인지 수컷인지",
-    "어떤 종류의 강아지인지",
-    "나이가 몇 살인지",
-    "털이 긴지 짧은지"
-   ],
-   "answer_index": 0,
-   "answer": "암컷인지 수컷인지",
-   "why": "맞아! 강아지가 암컷인지 수컷인지, 그 태어날 때부터 정해진 남·여 구분을 묻는 거니까 바로 그게 sex인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "도서관 회원증에 '2017년 3월생'이라고 적혀 있어. 이게 sex야?",
-   "choices": [
-    "응, sex 맞아",
-    "아니, sex 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, sex 아니야",
-   "why": "맞아! 2017년 3월생은 언제 태어났는지, 그러니까 나이 얘기잖아. 남자냐 여자냐를 알려주는 게 아니니까 이건 sex가 아닌 거야."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/sex.webp",
   "alt": "갓 태어난 강아지가 암컷인지 수컷인지 묻는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/eminent/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/eminent/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/eminent/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "eminent",
  "slug": "eminent",
  "url": "https://hibbangyong.com/words/eminent/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, eminent 맞아",
    "why": "맞아! 30년 동안 다리를 설계하면서 실력을 쌓았고, 다른 건축가들이 그분 다리를 교과서처럼 공부하잖아. 건축 학회에서 모르는 사람이 없을 만큼 같은 분야 사람들이 알아주고 우러러보니까 딱 eminent인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 사람이 있어. 이 중에서 'eminent'라고 부르기에 가장 알맞은 사람은?",
-   "choices": [
-    "평생 쓴 책들 덕분에 다른 학자들이 먼저 찾아와 의견을 묻는 역사학자",
-    "춤 영상 하나가 퍼져서 하루 만에 온 나라 사람들이 알게 된 학생",
-    "돈이 아주 많아서 시내에 큰 건물을 여러 채 가진 회사 사장님",
-    "요리 실력은 좋지만 아직 동네 밖에서는 이름을 아는 사람이 없는 요리사"
-   ],
-   "answer_index": 0,
-   "answer": "평생 쓴 책들 덕분에 다른 학자들이 먼저 찾아와 의견을 묻는 역사학자",
-   "why": "맞아! 그 역사학자는 평생 쓴 책으로 실력을 보여 줬고, 다른 학자들이 먼저 찾아와 의견을 물을 만큼 존경받잖아. 실력도 있고 같은 분야 사람들도 알아주니까 바로 eminent인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "한 할아버지가 30년 동안 시골 작업실에서 도자기를 빚어 왔어. 솜씨는 좋지만 도자기 만드는 사람들 사이에서도 그분 이름을 아는 사람은 거의 없어. 이 할아버지는 'eminent'야?",
-   "choices": [
-    "응, eminent 맞아",
-    "아니, eminent 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, eminent 아니야",
-   "why": "맞아! 할아버지가 30년 동안 솜씨를 쌓긴 했지만, 도자기 만드는 사람들 사이에서도 그분 이름을 아는 사람이 거의 없잖아. eminent는 실력에 더해서 그 분야 사람들이 다 알아주고 우러러봐야 하니까, 이 할아버지는 아니야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/eminent.webp",
   "alt": "학교 강연에 온, 학생들은 모르지만 과학 선생님은 들뜬 박사님",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/vaccine/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/vaccine/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/vaccine/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "vaccine",
  "slug": "vaccine",
  "url": "https://hibbangyong.com/words/vaccine/",
@@ -43,19 +43,6 @@
    "answer_index": 1,
    "answer": "아니, vaccine 아니야",
    "why": "아니야가 맞아! 진짜 힘 있는 병균이 그냥 들어온 거잖아. vaccine은 힘이 하나도 없게 만든 가짜 병균을 미리 넣어주는 거거든. 이건 그냥 진짜 감기 병균이야."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 병원에서 주사를 맞았어. 'vaccine'을 맞은 아이는 누구일까?",
-   "choices": [
-    "아직 안 아픈데, 나중에 걸릴 수도 있는 병에 대비해서 맞은 아이",
-    "며칠째 열이 펄펄 나서, 그 열을 내리려고 맞은 아이",
-    "밥을 잘 못 먹어서, 힘 나라고 영양을 넣어주려고 맞은 아이",
-    "이가 아파서, 치료할 때 안 아프게 하려고 맞은 아이"
-   ],
-   "answer_index": 0,
-   "answer": "아직 안 아픈데, 나중에 걸릴 수도 있는 병에 대비해서 맞은 아이",
-   "why": "맞아! 아직 안 아픈데 미리 맞았다는 게 딱 핵심이야. 몸한테 가짜 병균 보여주고 연습시켜 놓는 거니까, 나중에 진짜가 와도 바로 알아보고 물리치는 거지."
   }
  ],
  "synonyms": [],
@@ -69,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/vaccine.webp",
   "alt": "약하게 만든 가짜 병균을 몸에 넣어 몸이 외우게 하는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

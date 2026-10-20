@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/ease/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/ease/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/ease/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "ease",
  "slug": "ease",
  "url": "https://hibbangyong.com/words/ease/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, ease 아니야",
    "why": "맞아! 얼굴이 새빨개지고 팔이 부들부들 떨렸다는 건 힘이 잔뜩 들었다는 뜻이거든. ease는 힘이 하나도 안 드는 거니까, 이렇게 낑낑거린 건 ease가 아닌 게 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "눈 쌓인 마당에서 형이 썰매에 동생을 태우고 줄을 끌었어. 썰매는 아주 느릿느릿 굼벵이처럼 갔고, 형은 줄만 손에 쥔 채 팔에 힘 한 번 안 주고 그냥 걸었대. 이게 'ease'야?",
-   "choices": [
-    "응, ease 맞아",
-    "아니, ease 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, ease 맞아",
-   "why": "맞아! 형이 팔에 힘 한 번 안 주고 그냥 걸었잖아. 힘이 하나도 안 들었으니까 바로 그게 ease인 거야. 썰매가 느리게 갔든 빠르게 갔든 그건 상관없거든."
-  },
-  {
-   "type": "choice",
-   "question": "친구 넷이 각자 뻑뻑한 자물쇠를 열었다고 했어. 이 중에서 자물쇠를 'ease'로 연 사람은 누구야?",
-   "choices": [
-    "손가락으로 툭 건드리니까 딸깍 열려서, 열었는지도 모르고 지나갔대",
-    "눈 깜짝할 새에 열긴 했는데, 팔이 후들거릴 만큼 온 힘을 다 썼대",
-    "자물쇠 구조를 아주 잘 알긴 하는데, 이를 악물고 한참 당겨야 했대",
-    "열고 나서 푹신한 의자에 앉아 한숨 돌리니 몸이 아주 좋았대"
-   ],
-   "answer_index": 0,
-   "answer": "손가락으로 툭 건드리니까 딸깍 열려서, 열었는지도 모르고 지나갔대",
-   "why": "맞아! 손가락으로 툭 건드렸는데 열렸으니까 힘이 하나도 안 들어간 거잖아. 열었는지도 모르고 지나갈 만큼 낑낑거릴 게 없었던 거, 그게 바로 ease야."
   }
  ],
  "synonyms": [],
@@ -90,6 +66,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/ease.webp",
   "alt": "내리막길에서 페달을 안 밟아도 슝 내려가는 자전거",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

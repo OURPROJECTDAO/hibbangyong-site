@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/resuscitation/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/resuscitation/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/resuscitation/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "resuscitation",
  "slug": "resuscitation",
  "url": "https://hibbangyong.com/words/resuscitation/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, resuscitation 맞아",
    "why": "맞아! 비행기 안에서 쓰러진 승객이 숨도 없고 심장도 멈췄는데, 승무원과 의사가 그 멈춘 심장을 다시 뛰게 하려고 애쓰고 있잖아. 멈춘 사람을 되살리려는 바로 그 일이 resuscitation이야."
-  },
-  {
-   "type": "choice",
-   "question": "네 가지 장면이 있어. 이 중에서 'resuscitation'을 하고 있는 장면은?",
-   "choices": [
-    "수영장에서 숨이 멎은 아이 가슴을 구조대원이 계속 눌렀어",
-    "감기 걸린 친구가 약을 먹고 쉬어서 사흘 만에 나았어",
-    "넘어져서 무릎이 까진 동생 상처를 씻고 밴드를 붙였어",
-    "의사들이 더 할 게 없다며 병실의 기계를 끄기로 했어"
-   ],
-   "answer_index": 0,
-   "answer": "수영장에서 숨이 멎은 아이 가슴을 구조대원이 계속 눌렀어",
-   "why": "맞아! 숨이 멎은 아이를 다시 숨 쉬게 하려고 구조대원이 가슴을 계속 누른 거니까, 그게 바로 resuscitation이야. 아이가 살아날지는 아직 몰라도, 되살리려고 하는 그 일 자체를 이렇게 불러."
-  },
-  {
-   "type": "ox",
-   "question": "응급실에서 심장이 멈춘 환자에게 의료진이 40분 동안 매달렸어. 결국 의사가 손을 멈추고 시계를 보더니 '사망 시각, 오후 3시 12분'이라고 말했어. 의사가 손을 멈추고 시각을 말한 이 일이 'resuscitation'이야?",
-   "choices": [
-    "응, resuscitation 맞아",
-    "아니, resuscitation 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, resuscitation 아니야",
-   "why": "맞아! 의사가 손을 멈추고 사망 시각을 말한 건 되살리려는 일을 그만둔 거라서, resuscitation이랑은 정반대야. resuscitation은 그 전에 의료진이 40분 동안 매달린 일 쪽이야."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/resuscitation.webp",
   "alt": "갑자기 쓰러져 숨과 심장이 멈춘 사람",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

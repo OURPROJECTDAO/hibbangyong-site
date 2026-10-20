@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/self/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/self/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/self/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "self",
  "slug": "self",
  "url": "https://hibbangyong.com/words/self/",
@@ -45,32 +45,6 @@
    "answer_index": 1,
    "answer": "여기 서 있는 지호, 바로 지호 그 사람",
    "why": "맞아! 여기 서 있는 지호, 그 사람 자체잖아. 겉모습도 속마음도 다 합쳐서 세상에 하나뿐인 그 존재, 그게 바로 self인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "준서가 자기 방을 둘러보며 하나씩 말했어. 이 중 'self'는 뭐야?",
-   "choices": [
-    "책상 위에 놓인 준서의 파란 물병",
-    "준서가 아침마다 하는 줄넘기 백 번",
-    "여기 앉아 있는 준서, 바로 준서 그 사람",
-    "준서네 집 현관 비밀번호 1204"
-   ],
-   "answer_index": 2,
-   "answer": "여기 앉아 있는 준서, 바로 준서 그 사람",
-   "why": "맞아! 여기 앉아 있는 준서, 준서 그 사람 자체가 바로 self야. 물건도 행동도 아니고 세상에 하나뿐인 그 사람 자체니까 딱 맞은 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 저마다 무언가를 손으로 짚었어. 'self'를 짚은 아이는 누구야?",
-   "choices": [
-    "\"이게 바로 나지\" 하고 제 가슴을 콩 짚은 아이",
-    "\"쟤야\" 하고 옆자리 딴 친구를 짚은 아이",
-    "\"여기 있네\" 하고 제 이름표를 짚은 아이",
-    "\"이 몸이지\" 하고 거울 속 제 겉모습을 짚은 아이"
-   ],
-   "answer_index": 0,
-   "answer": "\"이게 바로 나지\" 하고 제 가슴을 콩 짚은 아이",
-   "why": "맞아! 옆 친구도 아니고 이름표도 아니고, 겉모습만도 아니고 속까지 통틀어 딱 나인 그거 있잖아. 제 가슴을 콩 짚었으니까 바로 그게 self인 거야."
   }
  ],
  "synonyms": [],
@@ -87,6 +61,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/self.webp",
   "alt": "눈 감고 마음속 '나'를 떠올리는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

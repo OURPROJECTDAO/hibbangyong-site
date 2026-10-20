@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/consist/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/consist/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/consist/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "consist",
  "slug": "consist",
  "url": "https://hibbangyong.com/words/consist/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, consist 아니야",
    "why": "맞아! 유리구슬은 안까지 꽉 찬 통짜라서 나눌 부분이 하나도 없거든. consist는 여러 부분이 모여야 되는 건데, 나눌 게 없으니까 이건 consist가 아닌 게 딱 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "동물원 우리 하나 안에 원숭이 세 마리가 있어. 그럼 '그 우리는 원숭이들로 consist 되어 있다'고 말할 수 있어?",
-   "choices": [
-    "응, consist 맞아",
-    "아니, consist 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, consist 아니야",
-   "why": "딱 맞았어! 우리는 원숭이를 그냥 안에 담아 두고 있는 거지, 원숭이들이 모여서 우리가 만들어진 건 아니잖아. 원숭이가 다 빠져도 우리는 그대로 우리니까, 이건 consist가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각각 다른 상황을 말했어. 'consist of'가 딱 어울리는 상황은 어느 거야?",
-   "choices": [
-    "야구팀은 투수랑 포수랑 타자, 그 선수들을 전부 합쳐 놓은 거야.",
-    "예쁜 상자 안에 반짝이는 사탕 몇 개가 담겨 있어.",
-    "우리 반엔 민수도 있고, 그 말고 다른 친구들도 많이 있어.",
-    "커다란 바위 하나가 통째로 있고 나눌 부분이 하나도 없어."
-   ],
-   "answer_index": 0,
-   "answer": "야구팀은 투수랑 포수랑 타자, 그 선수들을 전부 합쳐 놓은 거야.",
-   "why": "맞아! 투수랑 포수랑 타자를 몽땅 다 합쳐야 딱 야구팀 하나가 되잖아. 이렇게 여러 부분이 다 모여서 전체 하나를 이루는 게 바로 consist of인 거야."
   }
  ],
  "synonyms": [
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/consist.webp",
   "alt": "골키퍼·공격수·수비수가 모여 축구팀 전체를 이루는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

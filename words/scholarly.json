@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/scholarly/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/scholarly/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/scholarly/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "scholarly",
  "slug": "scholarly",
  "url": "https://hibbangyong.com/words/scholarly/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, scholarly 맞아",
    "why": "맞아! 대학 연구팀이 바다거북이 알 낳는 해변을 20년 동안 진지하게 조사하고 그 결과를 논문으로 정리했잖아. 한 분야를 오래 연구한 내용이 담겼으니까 딱 scholarly한 글이야."
-  },
-  {
-   "type": "ox",
-   "question": "동생이 주말에 본 만화 영화가 웃겨서, 제일 웃긴 장면을 재미로 몇 줄 적어 친구한테 보냈어. 이 메시지는 'scholarly'한 글일까?",
-   "choices": [
-    "응, scholarly 맞아",
-    "아니, scholarly 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, scholarly 아니야",
-   "why": "맞아! 동생이 본 만화 영화의 웃긴 장면을 재미로 몇 줄 적어 보낸 거라, 진지하게 연구한 내용이 하나도 없잖아. 그래서 scholarly한 글이 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "우리 반 민재는 공부를 따로 안 해도 시험마다 거의 만점이고, 어려운 퍼즐도 몇 초 만에 풀어. 주말엔 주로 게임하고 놀아. 이런 민재도 'scholarly'라고 할 수 있어?",
-   "choices": [
-    "응, scholarly 맞아",
-    "아니, scholarly 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, scholarly 아니야",
-   "why": "맞아! 민재는 공부를 따로 안 해도 만점이고 퍼즐도 몇 초 만에 풀 만큼 머리가 좋은 거지, 주말엔 게임하고 노니까 뭔가를 진지하게 연구하는 건 아니잖아. 그래서 scholarly는 아니야. 머리가 좋은 건 smart고, scholarly는 진지하게 연구하는 쪽에 붙는 말이야."
   }
  ],
  "synonyms": [],
@@ -86,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/scholarly.webp",
   "alt": "같은 공룡 이야기를 다룬 책 두 종류(그림 보며 즐기는 책 vs 학자들의 연구를 담은 책)",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

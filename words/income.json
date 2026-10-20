@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/income/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/income/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/income/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "income",
  "slug": "income",
  "url": "https://hibbangyong.com/words/income/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, income 아니야",
    "why": "그렇지! 그 팔만 원은 형 손에서 가게로 넘어간 돈이잖아. 나가는 쪽이니까 income이 아닌 게 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "엄마가 주말에 시장에서 과일을 팔았어. 하루 종일 팔아서 십오만 원을 받아 지갑에 넣었대. 이 십오만 원이 'income'이야?",
-   "choices": [
-    "응, income 맞아",
-    "아니, income 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, income 맞아",
-   "why": "맞아! 과일 팔고 받은 돈이 엄마 지갑으로 쏙 들어왔잖아. 들어오는 쪽 돈이니까 그게 바로 income인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 사람이 지난달 돈 이야기를 했어. 이 중에서 'income'을 말한 사람은 누구야?",
-   "choices": [
-    "빈방을 빌려주고 오십만 원을 받았어.",
-    "학원비로 오십만 원을 냈어.",
-    "저금통에 오십만 원이 모여 있어.",
-    "오십만 원짜리 자전거를 선물로 받았어."
-   ],
-   "answer_index": 0,
-   "answer": "빈방을 빌려주고 오십만 원을 받았어.",
-   "why": "맞아! 빈방을 빌려주고 받은 오십만 원은 내 주머니로 쏙 들어온 돈이잖아. 일해서 번 게 아니어도, 들어온 쪽이면 그게 바로 income이야."
   }
  ],
  "synonyms": [],
@@ -84,6 +60,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/income.webp",
   "alt": "집으로 돈이 들어오는 길과 나가는 길",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

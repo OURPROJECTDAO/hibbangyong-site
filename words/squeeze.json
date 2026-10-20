@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/squeeze/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/squeeze/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/squeeze/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "squeeze",
  "slug": "squeeze",
  "url": "https://hibbangyong.com/words/squeeze/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, squeeze 맞아",
    "why": "맞아! 튜브 양쪽에서 힘껏 눌러서 안에 있던 치약이 밀려 나온 거잖아. 그렇게 양쪽에서 꽉 눌러 짜내는 게 바로 squeeze인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "민수가 손에 말랑한 스펀지를 쥐고 있어. 어떤 걸 'squeeze'라고 할 수 있을까?",
-   "choices": [
-    "양손으로 꽉 눌러 쪼그라뜨렸다",
-    "손끝으로 살짝 건드리고 가만히 뒀다",
-    "손바닥 위에 올려 두고 펴 보였다",
-    "저만치 툭 던져서 굴렸다"
-   ],
-   "answer_index": 0,
-   "answer": "양손으로 꽉 눌러 쪼그라뜨렸다",
-   "why": "맞아! 양손으로 꽉 눌러서 스펀지가 쪼그라들었잖아. 양쪽에서 힘껏 누르는 그 힘, 그게 바로 squeeze인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "지호가 꽉 조여 있던 신발끈 매듭을 양쪽으로 잡아당겨 풀어서 헐렁하게 했어. 이게 'squeeze'야?",
-   "choices": [
-    "응, squeeze 맞아",
-    "아니, squeeze 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, squeeze 아니야",
-   "why": "맞아! 꽉 조여 있던 걸 잡아당겨 헐렁하게 푼 거잖아. 그건 조이는 게 아니라 반대로 벌려서 느슨하게 한 거라서 squeeze가 아닌 거야."
   }
  ],
  "synonyms": [
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/squeeze.webp",
   "alt": "말랑한 공을 손에 쥐고 꾹 눌러 쪼그라뜨리기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

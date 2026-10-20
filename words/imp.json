@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/imp/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/imp/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/imp/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "imp",
  "slug": "imp",
  "url": "https://hibbangyong.com/words/imp/",
@@ -42,30 +42,6 @@
    "answer_index": 0,
    "answer": "응, imp 맞아",
    "why": "맞아! 손가락만 한 작은 녀석이 마법으로 할머니 뜨개실을 엉키게 해 놓고 숨어서 키득거리잖아. 작은 몸, 마법, 사람을 해치지 않는 못된 장난까지 다 들어 있으니까 바로 imp인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "동화 속에서 손가락만 한 녀석이 마법으로 반딧불을 불러 길 잃은 아이에게 집에 가는 길을 밝혀 줘. 이 녀석은 'imp'야?",
-   "choices": [
-    "응, imp 맞아",
-    "아니, imp 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, imp 아니야",
-   "why": "잘 골랐어! 손가락만 한 녀석이 마법을 쓰는 건 맞는데, 장난을 치는 게 아니라 반딧불을 불러서 길 잃은 아이를 집에 데려다주고 있잖아. 이렇게 남을 돕는 녀석은 imp라고 하지 않아."
-  },
-  {
-   "type": "choice",
-   "question": "동화책에 네 존재가 나와. 이 중에서 'imp'라고 부르기에 가장 알맞은 건?",
-   "choices": [
-    "몰래 사람들 숟가락을 전부 숨겨 놓고 낄낄대는 작은 녀석",
-    "불을 뿜으며 마을을 통째로 부수어 버리는 거대한 악마",
-    "착한 아이를 찾아가 소원을 세 가지 들어주는 작은 요정",
-    "밤마다 숲속에서 나그네를 잡아먹는 커다란 괴물"
-   ],
-   "answer_index": 0,
-   "answer": "몰래 사람들 숟가락을 전부 숨겨 놓고 낄낄대는 작은 녀석",
-   "why": "맞아! 숟가락을 몰래 다 숨겨 놓고 낄낄대는 건 사람을 다치게 하지는 않는 못된 장난이잖아. 몸도 작고. 작은 몸으로 못된 장난을 치는 녀석, 그게 바로 imp야."
   }
  ],
  "synonyms": [],
@@ -81,6 +57,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/imp.webp",
   "alt": "마법으로 우유를 엎고 신발 끈을 묶어 놓는 작은 녀석",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

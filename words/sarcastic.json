@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/sarcastic/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/sarcastic/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/sarcastic/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "sarcastic",
  "slug": "sarcastic",
  "url": "https://hibbangyong.com/words/sarcastic/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, sarcastic 맞아",
    "why": "맞아! 준호는 제일 싫어하는 반찬만 나온 식판을 보고 \"와, 오늘 메뉴 최고다.\"라고 했잖아. 말은 칭찬인데 속으로는 정반대라서, 바로 그게 sarcastic한 말투인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "급식에 준호가 제일 좋아하는 돈가스가 나왔어. 준호가 식판을 보고 \"와, 오늘 메뉴 최고다.\"라고 했어. 준호의 이 말투는 'sarcastic'이야?",
-   "choices": [
-    "응, sarcastic 맞아",
-    "아니, sarcastic 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, sarcastic 아니야",
-   "why": "맞아! 준호는 제일 좋아하는 돈가스를 보고 최고라고 한 거라서 말과 속마음이 똑같아. 진짜 좋아서 한 말이니까 sarcastic이 아니야."
-  },
-  {
-   "type": "choice",
-   "question": "소풍날 아침에 비가 쏟아졌어. 민재가 한 말 중에서 'sarcastic'한 건 어느 거야?",
-   "choices": [
-    "\"비 때문에 소풍 다 망했네.\" 하고 창밖을 봤어",
-    "\"와, 소풍 가기 딱 좋은 날씨네.\" 하고 창밖을 봤어",
-    "\"비 오는 날 소풍도 재밌겠다.\" 하고 장화를 신었어",
-    "\"금방 그칠 거야, 걱정 마.\" 하고 동생 손을 잡았어"
-   ],
-   "answer_index": 1,
-   "answer": "\"와, 소풍 가기 딱 좋은 날씨네.\" 하고 창밖을 봤어",
-   "why": "맞아! 비가 쏟아져서 속으로는 짜증 났는데, 입으로는 소풍 가기 딱 좋은 날씨라고 거꾸로 말했잖아. 말과 속뜻이 반대로 가니까 이게 바로 sarcastic이야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/sarcastic.webp",
   "alt": "30분 늦게 온 친구에게 \"일찍 왔네\"라고 하는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

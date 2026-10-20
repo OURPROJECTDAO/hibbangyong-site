@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/cave/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/cave/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/cave/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "cave",
  "slug": "cave",
  "url": "https://hibbangyong.com/words/cave/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, cave 맞아",
    "why": "맞아! 산속 바위 틈으로 들어갔더니 안이 방처럼 넓게 비어 있었잖아. 산 속에 저절로 생긴 넓은 빈 곳이니까 박쥐들이 자는 이곳이 바로 cave인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "계곡에 넓적한 바위가 있어. 그 바위 바깥 겉면 위에 도마뱀이 납작 엎드려 햇볕을 쬐고 있어. 도마뱀이 있는 이곳이 'cave'일까?",
-   "choices": [
-    "응, cave 맞아",
-    "아니, cave 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, cave 아니야",
-   "why": "맞아! 도마뱀은 바위 바깥 겉면 위에서 햇볕을 쬐고 있잖아. cave는 안으로 쑥 들어가는 깜깜한 구멍인데, 여기는 햇볕이 드는 바위 바깥이라서 cave가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 주말에 가 본 곳을 말했어. 'cave'에 가 본 친구는 누굴까?",
-   "choices": [
-    "사람들이 산을 뚫어 만든 찻길 터널로 차 타고 지나갔어",
-    "마당 흙바닥에 난 작은 개미 구멍을 들여다봤어",
-    "바위 틈으로 이어진 깜깜하고 넓은 굴속을 걸었어",
-    "커다란 바위 꼭대기에 올라가 한참 앉아 있었어"
-   ],
-   "answer_index": 2,
-   "answer": "바위 틈으로 이어진 깜깜하고 넓은 굴속을 걸었어",
-   "why": "맞아! 바위 틈으로 이어진 깜깜하고 넓은 굴은 사람이 뚫은 게 아니고 자연이 만든 거야. 게다가 안으로 걸어 들어갈 만큼 크니까 바로 그게 cave인 거야."
   }
  ],
  "synonyms": [],
@@ -83,6 +59,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/cave.webp",
   "alt": "산 옆에 뻥 뚫린 깜깜하고 서늘한 구멍",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

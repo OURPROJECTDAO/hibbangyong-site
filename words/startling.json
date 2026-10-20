@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/startling/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/startling/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/startling/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "startling",
  "slug": "startling",
  "url": "https://hibbangyong.com/words/startling/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, startling 맞아",
    "why": "맞아! 예보는 하루 종일 맑다고 했는데 8월 한낮에 우박이 쏟아졌잖아. 생각했던 거랑 정반대라 깜짝 놀랄 수밖에 없으니까, 바로 그게 startling한 일인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "버스 앱에 8시 10분 도착이라고 나온 버스가 정확히 8시 10분에 정류장에 왔어. 이 일은 'startling'한 일이야?",
-   "choices": [
-    "응, startling 맞아",
-    "아니, startling 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, startling 아니야",
-   "why": "맞아! 앱에 8시 10분이라고 나온 그대로 버스가 8시 10분에 왔으니까, 생각이랑 다른 게 하나도 없잖아. 깜짝 놀랄 게 없으니 startling이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 중 'startling'이라고 부르기 가장 알맞은 일은?",
-   "choices": [
-    "늘 1등 하던 지수가 이번 시험에서도 1등을 했어",
-    "공포영화가 너무 무서워서 끝까지 못 보고 껐어",
-    "매일 지각하던 민수가 한 학기 내내 한 번도 안 늦었어",
-    "급식에 평소보다 반찬이 딱 하나 더 나왔어"
-   ],
-   "answer_index": 2,
-   "answer": "매일 지각하던 민수가 한 학기 내내 한 번도 안 늦었어",
-   "why": "맞아! 매일 지각하던 민수가 한 학기 내내 한 번도 안 늦었다니, 아무도 예상 못 한 일이라 깜짝 놀랄 만하잖아. 이렇게 좋은 쪽으로 예상이 크게 뒤집혀도 startling이야."
   }
  ],
  "synonyms": [],

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/sandstone/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/sandstone/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/sandstone/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "sandstone",
  "slug": "sandstone",
  "url": "https://hibbangyong.com/words/sandstone/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, sandstone 맞아",
    "why": "맞아! 가이드가 옛날 사막 모래가 쌓이고 눌려서 서로 붙어 딱딱하게 굳은 돌이라고 했잖아. 모래알이 붙어서 굳은 돌, 바로 그게 sandstone이야. 손바닥에 까끌한 알갱이 느낌이 난 것도 그 모래알 때문이고."
-  },
-  {
-   "type": "ox",
-   "question": "등산을 하다가 산꼭대기에서 큰 바위를 봤어. 안내판에는 이 바위가 땅속 뜨거운 마그마가 오랜 세월 천천히 식어서 딱딱하게 굳은 돌이라고 적혀 있었어. 이 바위는 'sandstone'일까?",
-   "choices": [
-    "응, sandstone 맞아",
-    "아니, sandstone 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, sandstone 아니야",
-   "why": "맞아! 안내판에 이 바위는 땅속 마그마가 식어서 굳은 돌이라고 적혀 있잖아. sandstone은 모래알이 오랜 세월 눌리고 붙어서 굳은 돌이니까, 이 바위는 sandstone이 아니야."
-  },
-  {
-   "type": "choice",
-   "question": "과학실에서 여러 돌 표본을 돋보기로 관찰했어. 'sandstone' 표본은 어떻게 보였을까?",
-   "choices": [
-    "모래알이 서로 안 붙고 병 속에서 흘러내리는 모습",
-    "반짝이는 큰 알갱이가 뒤섞여 박혀 있는 모습",
-    "까끌한 모래알들이 촘촘히 붙어 딱딱해진 모습",
-    "알갱이가 거의 안 보일 만큼 매끈하게 굳은 모습"
-   ],
-   "answer_index": 2,
-   "answer": "까끌한 모래알들이 촘촘히 붙어 딱딱해진 모습",
-   "why": "맞아! 모래알이 촘촘히 붙어서 딱딱해졌잖아. 모래알인 것도 맞고 굳은 것도 맞으니까 그게 바로 sandstone이야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/sandstone.webp",
   "alt": "바닷가 모래가 오랜 세월 눌려 돌이 되는 과정",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

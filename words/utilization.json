@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/utilization/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/utilization/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/utilization/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "utilization",
  "slug": "utilization",
  "url": "https://hibbangyong.com/words/utilization/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, utilization 맞아",
    "why": "맞아! 회사가 가진 트럭 5대를 아침부터 밤까지 실제로 배송에 돌리고 있잖아. 가진 걸 이렇게 실제로 쓰는 게 바로 utilization이야."
-  },
-  {
-   "type": "ox",
-   "question": "아파트 관리실이 새로 산 제설기를 창고에 넣어 두고 겨울 내내 한 번도 꺼내지 않았어. 가진 제설기를 이렇게 꺼내지 않고 넣어만 두는 일, 이게 'utilization'이야?",
-   "choices": [
-    "응, utilization 맞아",
-    "아니, utilization 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, utilization 아니야",
-   "why": "맞아! 제설기를 겨울 내내 창고에 넣어만 두고 한 번도 안 꺼냈잖아. utilization은 가진 걸 실제로 쓰는 거니까, 한 번도 안 쓴 이 일은 utilization이 아니야."
-  },
-  {
-   "type": "choice",
-   "question": "구청에서 동네 공영 주차장의 'utilization'을 조사한대. 구청이 알아보려는 건 뭘까?",
-   "choices": [
-    "운전하는 사람들이 주차를 얼마나 능숙하게 하는지",
-    "주차장에 차를 댈 자리가 모두 몇 칸이나 있는지",
-    "하루 동안 주차 자리가 몇 시간이나 차 있는지",
-    "차들이 주차선을 얼마나 반듯하게 지켜 서 있는지"
-   ],
-   "answer_index": 2,
-   "answer": "하루 동안 주차 자리가 몇 시간이나 차 있는지",
-   "why": "맞아! utilization은 가진 걸 실제로 얼마나 쓰느냐거든. 주차 자리가 하루에 몇 시간이나 차 있는지 보면 이 주차장이 실제로 얼마나 쓰이는지 딱 나오니까 바로 그게 구청이 알고 싶은 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/utilization.webp",
   "alt": "학교에 새로 생긴 컴퓨터실이 꽉 차거나 텅 빈 모습",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

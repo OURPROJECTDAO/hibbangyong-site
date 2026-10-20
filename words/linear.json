@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/linear/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/linear/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/linear/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "linear",
  "slug": "linear",
  "url": "https://hibbangyong.com/words/linear/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, linear 맞아",
    "why": "맞아! 이 고속도로는 굽은 곳도 갈라지는 길도 없이 끝까지 곧게 한 줄로 뻗어 있잖아. 처음부터 끝까지 옆길 없이 쭉 한 줄로 가니까 바로 그게 linear인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "달팽이 껍데기 무늬를 보면 가운데에서 시작해 바깥쪽으로 빙글빙글 감기며 돌아 나가. 이 무늬 모양은 'linear'한 걸까?",
-   "choices": [
-    "응, linear 맞아",
-    "아니, linear 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, linear 아니야",
-   "why": "맞아! 달팽이 무늬는 가운데에서 시작해 바깥쪽으로 빙글빙글 감기며 돌아 나가잖아. linear는 처음부터 끝까지 한 줄로 곧게 쭉 가는 거라서, 이렇게 도는 모양은 linear가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "친구 넷이 요즘 하는 게임을 설명했어. 이 중 'linear'한 게임은?",
-   "choices": [
-    "스테이지를 1번부터 끝까지 순서대로 하나씩 깨야 하는 게임",
-    "갈림길마다 고르는 대로 다른 결말로 갈라지는 게임",
-    "한 판이 끝나면 처음 마을로 돌아와 계속 되풀이하는 게임",
-    "넓은 지도에서 가고 싶은 곳을 아무 데나 먼저 가는 게임"
-   ],
-   "answer_index": 0,
-   "answer": "스테이지를 1번부터 끝까지 순서대로 하나씩 깨야 하는 게임",
-   "why": "맞아! 스테이지를 1번부터 끝까지 순서대로 하나씩 깨니까, 옆길 없이 한 줄로 쭉 이어지잖아. 그래서 이 게임이 linear야."
   }
  ],
  "synonyms": [
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/linear.webp",
   "alt": "운동장에 분필로 곧게 그은 줄",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

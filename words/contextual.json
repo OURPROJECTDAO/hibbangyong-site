@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/contextual/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/contextual/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/contextual/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "contextual",
  "slug": "contextual",
  "url": "https://hibbangyong.com/words/contextual/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, contextual 맞아",
    "why": "맞아! 엄마 말만 따로 떼어 들으면 칭찬 같지만, 바로 앞에 식탁에 우유를 쏟은 일이 있었잖아. 그 일에 비추어 꾸중으로 알아들었으니 그게 바로 contextual인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "영화 속에서 주인공이 \"고마워\"라고 말하는 장면이 있어. 나는 그 앞에 무슨 일이 있었는지는 하나도 안 보고, 그 대사 한 줄만 따로 떼어서 '고맙다는 뜻'이라고 정했어. 이렇게 보는 건 'contextual'한 거야?",
-   "choices": [
-    "응, contextual 맞아",
-    "아니, contextual 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, contextual 아니야",
-   "why": "맞아! 주인공이 \"고마워\"라고 하기 전에 무슨 일이 있었는지 하나도 안 보고 대사 한 줄만 따로 떼어 봤잖아. contextual은 그 앞뒤 사정을 같이 보는 거라서, 이렇게 보는 건 딱 반대야."
-  },
-  {
-   "type": "choice",
-   "question": "글 속에 나온 '배'를 네 친구가 모두 '타는 배'라고 읽었어. 그렇게 읽은 까닭이 'contextual'한 친구는 누구야?",
-   "choices": [
-    "지수: 사전에 맨 처음 나온 뜻이 그거라서, '배'를 타는 배로 읽었어",
-    "도윤: 바로 앞 문장에 '항구'와 '선장'이 나와서, '배'를 타는 배로 읽었어",
-    "하린: '배' 한 글자만 따로 놓고 봐도 그 뜻이 먼저 떠올라서, '배'를 타는 배로 읽었어",
-    "준호: 지난번 받아쓰기 때 그 뜻으로 외워 둔 거라서, '배'를 타는 배로 읽었어"
-   ],
-   "answer_index": 1,
-   "answer": "도윤: 바로 앞 문장에 '항구'와 '선장'이 나와서, '배'를 타는 배로 읽었어",
-   "why": "맞아! 도윤이는 '배' 바로 앞 문장에 나온 '항구'랑 '선장'을 보고 뜻을 정했잖아. 이렇게 낱말 둘레의 글에 비추어 읽는 게 바로 contextual한 읽기야."
   }
  ],
  "synonyms": [],

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/compulsion/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/compulsion/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/compulsion/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "compulsion",
  "slug": "compulsion",
  "url": "https://hibbangyong.com/words/compulsion/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, compulsion 맞아",
    "why": "맞아! 민지는 연필이 줄 서 있지 않으면 숙제에 집중이 안 돼서, 숙제를 하다가도 결국 다시 연필을 줄 세우게 되잖아. 하고 싶어서 고른 게 아니라 안 하면 못 배겨서 떠밀리듯 하는 거니까, 바로 그게 compulsion이야."
-  },
-  {
-   "type": "ox",
-   "question": "준호는 집 근처 수영장 두 곳의 수업 시간과 요금을 표로 정리해서 비교했어. 그리고 토요일 오전 반이 있는 곳으로 등록했어. 수영장을 고른 이 일은 'compulsion'일까?",
-   "choices": [
-    "응, compulsion 맞아",
-    "아니, compulsion 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, compulsion 아니야",
-   "why": "맞아! 준호는 수영장 두 곳의 수업 시간과 요금을 표로 정리해서 차분히 비교한 다음 토요일 오전 반이 있는 곳을 골랐잖아. 스스로 따져 보고 고른 결정이라 떠밀리는 힘이 하나도 없으니까 compulsion이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 요즘 자기 마음을 말했어. 'compulsion'에 가장 가까운 건 누구 이야기일까?",
-   "choices": [
-    "길에 쓰레기가 보이면 꼭 주워야 해. 그냥 지나치면 하루 종일 찜찜해.",
-    "놀이공원에 정말 가고 싶어서 용돈을 아끼는 중이야. 생각만 해도 신나.",
-    "아침에 일어나면 이를 닦아. 몇 년째라 생각 안 해도 먼저 하게 돼.",
-    "동아리 두 개를 일주일 동안 따져 봤어. 결국 하나를 내가 골랐어."
-   ],
-   "answer_index": 0,
-   "answer": "길에 쓰레기가 보이면 꼭 주워야 해. 그냥 지나치면 하루 종일 찜찜해.",
-   "why": "맞아! 쓰레기를 안 주우면 하루 종일 찜찜해서 결국 줍게 되는 거, 이렇게 안 하고는 못 배기게 떠밀리는 마음이 바로 compulsion이야. 좋은 일이라도 떠밀려서 하면 여기 들어가."
   }
  ],
  "synonyms": [],

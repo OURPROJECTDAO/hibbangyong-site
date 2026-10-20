@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/premises/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/premises/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/premises/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "premises",
  "slug": "premises",
  "url": "https://hibbangyong.com/words/premises/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, premises 맞아",
    "why": "맞아! 도서관 건물만이 아니라 담장 안쪽의 앞마당 벤치, 자전거 거치대, 뒤쪽 주차장까지 도서관이 쓰는 땅이니까, 전부 합쳐서 도서관의 premises가 되는 거야."
-  },
-  {
-   "type": "ox",
-   "question": "한 병원 간호사가 쉬는 시간에 병원 정문 바로 앞 인도에 서서 커피를 마시고 있어. 이 인도는 병원의 premises일까?",
-   "choices": [
-    "응, premises 맞아",
-    "아니, premises 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, premises 아니야",
-   "why": "맞아! 간호사가 서 있는 곳은 병원 정문 바로 앞이긴 해도 정문 밖 인도잖아. premises는 병원이 쓰는 건물이랑 딸린 땅, 그러니까 정문 안쪽까지만이라서 이 인도는 빠지는 거야."
-  },
-  {
-   "type": "choice",
-   "question": "한 공장이 '우리 premises 안에서는 사진 촬영 금지'라고 공지했어. 이 규칙은 어디까지 적용될까?",
-   "choices": [
-    "공장 건물 안의 작업실과 복도, 화장실",
-    "공장 담장 안의 건물과 마당, 주차장",
-    "공장이 있는 동네의 길과 가게, 공원",
-    "직원이 일하는 시간에 가는 모든 장소"
-   ],
-   "answer_index": 1,
-   "answer": "공장 담장 안의 건물과 마당, 주차장",
-   "why": "맞아! premises는 공장 건물만이 아니라 담장 안에 딸린 마당이랑 주차장까지 다 들어가. 그래서 담장 안이면 마당에서 찍어도 규칙에 걸리는 거야."
   }
  ],
  "synonyms": [],
@@ -91,6 +67,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/premises.webp",
   "alt": "교문 안쪽 학교 땅 전체(운동장·주차장·화단)",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

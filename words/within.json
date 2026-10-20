@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/within/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/within/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/within/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "within",
  "slug": "within",
  "url": "https://hibbangyong.com/words/within/",
@@ -45,30 +45,6 @@
    "answer_index": 0,
    "answer": "담장 안 마당에서 뛰어노는 강아지",
    "why": "맞아! 담장이 빙 둘러싼 그 선을 안 넘고 딱 안쪽에서 놀고 있잖아. 넘지 않고 그 안에 있는 거, 그게 바로 within인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "엄마가 라면을 끓이며 \"십 분 'within' 다 먹어\"라고 했어. 이건 무슨 뜻이야?",
-   "choices": [
-    "십 분이 다 지난 바로 그 순간에 먹으라는 뜻",
-    "십 분을 넘기지 않고 그 안에 다 먹으라는 뜻",
-    "십 분이 지나고 나서 천천히 먹으라는 뜻",
-    "십 분마다 한 번씩 나눠서 먹으라는 뜻"
-   ],
-   "answer_index": 1,
-   "answer": "십 분을 넘기지 않고 그 안에 다 먹으라는 뜻",
-   "why": "맞아! 십 분이라는 선을 넘지 않고 그 안쪽에서 끝내는 거, 그게 바로 within이거든. 팔 분에 먹어도 좋고 십 분 딱 맞춰도 좋아. 넘지만 않으면 되는 거야."
-  },
-  {
-   "type": "ox",
-   "question": "놀이터에 동그란 모래밭이 있어. 지호가 모래밭을 밟고 지나가다가 반은 모래밭에, 반은 바깥 흙바닥에 발을 딛고 서 있어. 이런 경우도 지호가 모래밭 'within' 있는 거야?",
-   "choices": [
-    "응, 'within' 맞아",
-    "아니, 'within' 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 'within' 아니야",
-   "why": "딩동댕! 반은 모래밭, 반은 흙바닥이면 지호는 벌써 모래밭 테두리를 밟고 넘어간 거잖아. within은 선을 안 넘고 통째로 안쪽에 있어야 하는 거거든. 그래서 이건 within이 아닌 게 맞아."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/within.webp",
   "alt": "담장으로 빙 둘러싸인 마당에서 강아지가 밖으로 안 나가고 안에서만 뛰노는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

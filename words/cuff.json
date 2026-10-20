@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/cuff/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/cuff/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/cuff/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "cuff",
  "slug": "cuff",
  "url": "https://hibbangyong.com/words/cuff/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, cuff 맞아",
    "why": "맞아! 셔츠 소매 맨 끝에서 손목을 빙 감싸는 단추 달린 테두리, 시계를 덮는 바로 그 부분이 cuff야. 소매 전체가 아니라 그 끝 테두리만 가리키는 말이거든."
-  },
-  {
-   "type": "choice",
-   "question": "엄마가 셔츠를 다리면서 'cuff'를 특히 빳빳하게 펴 달래. 어디를 다려야 할까?",
-   "choices": [
-    "손목을 빙 감싸는 소매 맨 끝",
-    "목을 빙 감싸는 셔츠 옷깃",
-    "어깨부터 팔꿈치까지 팔 부분",
-    "단추가 줄줄이 달린 셔츠 앞쪽"
-   ],
-   "answer_index": 0,
-   "answer": "손목을 빙 감싸는 소매 맨 끝",
-   "why": "맞아! cuff는 손목을 빙 감싸는 소매 맨 끝이라서, 엄마가 빳빳하게 펴 달라고 한 곳이 바로 거기야."
-  },
-  {
-   "type": "ox",
-   "question": "동생이 겨울 코트를 입고 벽에 기댔다가 어깨부터 손목 바로 위까지, 팔을 덮는 천 전체에 하얀 페인트가 묻었어. 페인트가 묻은 이 팔 부분 전체도 'cuff'야?",
-   "choices": [
-    "응, cuff 맞아",
-    "아니, cuff 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, cuff 아니야",
-   "why": "맞아! 페인트는 어깨부터 손목 바로 위까지 팔을 덮는 천 전체에 묻었잖아. 그건 소매 전체(이건 sleeve야)고, cuff는 손목을 빙 감싸는 맨 끝부분만 가리키니까 이 팔 부분 전체는 cuff가 아닌 거야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/cuff.webp",
   "alt": "손 씻다가 셔츠 소매 끝이 젖음",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

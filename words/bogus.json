@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/bogus/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/bogus/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/bogus/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "bogus",
  "slug": "bogus",
  "url": "https://hibbangyong.com/words/bogus/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, bogus 맞아",
    "why": "맞아! 판매자는 백화점 영수증까지 있는 브랜드 정품이라고 했는데, 그 브랜드는 그런 모델을 한 번도 만든 적이 없고 영수증도 판매자가 컴퓨터로 직접 만든 거잖아. 진짜인 척 꾸며서 민수를 속였으니까 지갑도 영수증도 bogus인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "지수가 박물관 기념품점에서 도자기 그릇을 샀어. 그릇에는 '○○ 도예가 작품' 확인서가 붙어 있었어. 도자기 전문가에게 보여 주니 확인서에 적힌 그 도예가가 실제로 빚은 그릇이 맞았어. 이 그릇은 'bogus'야?",
-   "choices": [
-    "응, bogus 맞아",
-    "아니, bogus 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, bogus 아니야",
-   "why": "맞아! 전문가가 보니까 확인서에 적힌 그 도예가가 진짜로 빚은 그릇이었잖아. 진짜인 척 꾸민 게 하나도 없으니 bogus가 아니라 진짜(genuine)인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 가지 상황이 있어. 이 중에서 'bogus'라고 부르기 가장 알맞은 건?",
-   "choices": [
-    "반장이 계산하다 실수해서 틀린 답을 칠판에 적었어.",
-    "노점이 유명 가게 이름만 베낀 간판을 달고 진짜라며 팔았어.",
-    "싼값에 산 우산이 비 한 번 맞고 금방 망가져 버렸어.",
-    "문구점에서 장난감이라고 적힌 모형 돈을 사서 놀았어."
-   ],
-   "answer_index": 1,
-   "answer": "노점이 유명 가게 이름만 베낀 간판을 달고 진짜라며 팔았어.",
-   "why": "맞아! 노점은 유명 가게 이름을 베낀 간판을 달고 진짜라며 팔았잖아. 진짜인 척 꾸며서 속인 거니까 바로 그게 bogus야."
   }
  ],
  "synonyms": [],
@@ -94,6 +70,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/bogus.webp",
   "alt": "택배 조회 링크와 돈 빌려 달라는 사연이 담긴 사기 문자",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/fee/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/fee/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/fee/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "fee",
  "slug": "fee",
  "url": "https://hibbangyong.com/words/fee/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, fee 아니야",
    "why": "맞아! 그냥 주신 세뱃돈은 뭘 이용하게 해준 것도, 뭘 해준 것도 아니고 그냥 준 돈이잖아. 아무 대가 없이 받는 돈은 fee가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "주차장에 차를 세워두고 나올 때, 세워둔 시간만큼 돈을 내고 나왔어. 이게 'fee'야?",
-   "choices": [
-    "응, fee 맞아",
-    "아니, fee 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, fee 맞아",
-   "why": "맞아! 주차장 자리를 쓰게 해준 대신에 낸 돈이잖아. 써도 된다고 내는 돈, 그게 바로 fee인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 사람이 각자 돈을 냈어. 이 중에서 낸 돈을 'fee'라고 부를 수 있는 사람은 누구일까?",
-   "choices": [
-    "수영장에 들어가려고 입구에서 돈을 냈어.",
-    "문구점에서 색연필을 사서 갖고 오려고 돈을 냈어.",
-    "친구 생일 선물을 주려고 돈을 차곡차곡 모았어.",
-    "길에 쓰레기를 버려서 벌로 돈을 냈어."
-   ],
-   "answer_index": 0,
-   "answer": "수영장에 들어가려고 입구에서 돈을 냈어.",
-   "why": "맞아! 수영장에 들어가도 된다고 허락받는 대신 낸 돈이잖아. 물건을 갖는 게 아니라 그 안에서 놀 수 있게 해줘서 내는 돈, 바로 그게 fee인 거야."
   }
  ],
  "synonyms": [],
@@ -83,6 +59,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/fee.webp",
   "alt": "놀이공원 문 앞에서 입장료를 내고 들어가는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/contagion/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/contagion/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/contagion/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "contagion",
  "slug": "contagion",
  "url": "https://hibbangyong.com/words/contagion/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, contagion 맞아",
    "why": "맞아! 눈병 난 학생한테서 수건을 같이 쓴 룸메이트로, 또 그 룸메이트한테서 붙어 다니던 옆방 친구로 눈병이 사람끼리 닿아서 옮아갔잖아. 바로 그게 contagion이야."
-  },
-  {
-   "type": "ox",
-   "question": "삼촌이 축구를 하다 다리뼈가 부러져서 한 달 동안 깁스를 했어. 그동안 가족들이 삼촌 곁에서 밥도 챙겨 주고 같이 지냈어. 이 일을 'contagion'이라고 할 수 있어?",
-   "choices": [
-    "응, contagion 맞아",
-    "아니, contagion 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, contagion 아니야",
-   "why": "맞아! 가족들이 한 달 동안 삼촌 곁에서 밥도 챙겨 주고 같이 지냈는데도, 부러진 다리뼈는 누구한테도 옮아가지 않잖아. 삼촌 한 사람한테만 머무는 일이라서 contagion이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "시험 전날, 네 반 아이들이 모두 불안해졌어. 그런데 불안해진 과정이 반마다 달라. 'contagion'이라고 부르기에 가장 알맞은 반은?",
-   "choices": [
-    "담임이 시험이 어렵다고 말하자 모두가 동시에 걱정하게 된 반",
-    "창문을 닫아 둔 탓에 공기가 탁해져 다들 머리가 아파진 반",
-    "한 명이 떨기 시작하자 옆자리, 또 그 옆자리로 떨림이 이어진 반",
-    "한 명만 불안했는데 티를 안 내서 다른 애들은 몰랐던 반"
-   ],
-   "answer_index": 2,
-   "answer": "한 명이 떨기 시작하자 옆자리, 또 그 옆자리로 떨림이 이어진 반",
-   "why": "맞아! 한 명이 떨기 시작하니까 옆자리, 또 그 옆자리로 떨림이 사람에서 사람으로 넘어갔잖아. 바로 그렇게 옆 사람한테 옮아가는 게 contagion이야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/contagion.webp",
   "alt": "감기가 짝에게서 나, 동생에게로 차례로 옮는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

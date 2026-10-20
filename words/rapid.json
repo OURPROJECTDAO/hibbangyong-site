@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/rapid/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/rapid/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/rapid/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "rapid",
  "slug": "rapid",
  "url": "https://hibbangyong.com/words/rapid/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, rapid 맞아",
    "why": "맞아! 어제 저녁엔 흙만 있었는데 오늘 아침에 새싹이 뿅 올라왔잖아. 하룻밤이라는 짧은 사이에 화단이 확 달라진 거니까 딱 rapid야."
-  },
-  {
-   "type": "ox",
-   "question": "할머니 집 마당의 돌담은 삼십 년 동안 아주 조금씩 이끼가 끼어서 초록빛이 됐대. 이런 변화가 'rapid'야?",
-   "choices": [
-    "응, rapid 맞아",
-    "아니, rapid 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, rapid 아니야",
-   "why": "맞아! 삼십 년 동안 아주 조금씩 초록이 된 거니까, 짧은 사이에 확 달라진 게 아니지. 그래서 rapid가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "동생이 목욕을 시작했는데, 물만 끼얹고 삼 분 만에 나와 버렸어. 이렇게 짧게 끝난 목욕도 'rapid'야?",
-   "choices": [
-    "응, rapid 맞아",
-    "아니, rapid 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, rapid 아니야",
-   "why": "맞아, rapid 아니야! 목욕이 짧게 끝나긴 했지만, 그동안 뭐가 확 달라진 건 없거든. 짧은 시간에 몸이 쑥 자란 것도 아니고, 물만 끼얹고 그냥 나온 거잖아. rapid는 시간이 짧다는 뜻이 아니라, 그 짧은 사이에 뭔가가 몰라보게 달라졌을 때 쓰는 말이야."
   }
  ],
  "synonyms": [],
@@ -84,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/rapid.webp",
   "alt": "쨍쨍한 날 손에 든 아이스크림이 순식간에 녹아 흐르는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

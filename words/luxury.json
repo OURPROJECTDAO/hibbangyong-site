@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/luxury/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/luxury/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/luxury/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "luxury",
  "slug": "luxury",
  "url": "https://hibbangyong.com/words/luxury/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, luxury 아니야",
    "why": "맞아! 깨진 창문으로 찬바람이 들어오면 추워서 살 수가 없잖아. 그건 없으면 안 되는 걸 다시 되돌려 놓은 거라서, 필요한 걸 넘어선 게 아니야."
-  },
-  {
-   "type": "ox",
-   "question": "교실 의자도 멀쩡하고 앉는 데 아무 문제 없는데, 등받이가 푹신하고 팔걸이까지 달린 의자로 바꿔서 앉았어. 이게 'luxury'야?",
-   "choices": [
-    "응, luxury 맞아",
-    "아니, luxury 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, luxury 맞아",
-   "why": "맞아! 앉을 의자는 이미 있었잖아. 앉는 데 아무 문제 없었는데 거기다 푹신한 등받이랑 팔걸이까지 더 얹은 거거든. 꼭 있어야 하는 걸 넘어서서 더 좋아진 거, 그게 바로 luxury야."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 어제 자기가 한 일을 하나씩 말했어. 이 중에서 'luxury'라고 부를 수 있는 건?",
-   "choices": [
-    "안 추운데도 도톰하고 폭신한 이불을 한 장 더 덮고 잤어",
-    "심심해서 길에 굴러다니는 작은 돌을 주워 주머니에 넣었어",
-    "신던 신발이 다 해져서 새 신발을 사서 신었어",
-    "이가 아파서 값이 꽤 나가는 약을 사서 먹었어"
-   ],
-   "answer_index": 0,
-   "answer": "안 추운데도 도톰하고 폭신한 이불을 한 장 더 덮고 잤어",
-   "why": "맞아! 안 추운데도 폭신한 이불을 더 덮은 거니까, 그거 없어도 잠은 잘 잤을 거야. 그런데 덮으니까 훨씬 좋았지? 없어도 되는데 아주 좋은 거, 그게 바로 luxury야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/luxury.webp",
   "alt": "목마를 때 마시는 물과 얼음 띄운 주스 대비",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

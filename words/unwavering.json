@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/unwavering/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/unwavering/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/unwavering/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "unwavering",
  "slug": "unwavering",
  "url": "https://hibbangyong.com/words/unwavering/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, unwavering 맞아",
    "why": "맞아! 10년 동안 가족들이 아무리 권해도 할아버지의 반대는 한 번도 약해지지 않았고, 올해도 똑같이 안 바꾼다고 하셨잖아. 이렇게 시간이 가도, 누가 밀어도 그대로 버티는 게 바로 unwavering이야. 반대 같은 태도에도 이 말을 써."
-  },
-  {
-   "type": "ox",
-   "question": "서윤이는 반장 선거에서 누가 한마디 할 때마다 뽑을 후보를 바꿨어. 월요일엔 민준이, 화요일엔 하린이, 수요일엔 다시 민준이였어. 서윤이의 마음은 'unwavering'했을까?",
-   "choices": [
-    "응, unwavering 맞아",
-    "아니, unwavering 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, unwavering 아니야",
-   "why": "맞아! 서윤이는 누가 한마디 할 때마다 민준이에서 하린이로, 다시 민준이로 바꿨잖아. 이렇게 남의 말에 자꾸 흔들리는 마음은 흔들림 없는 마음이 아니야. 오히려 반대쪽인 오락가락하는 마음(이건 wavering이야)이야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구의 이야기야. 마음이 'unwavering'했다고 말할 수 있는 사람은?",
-   "choices": [
-    "지수는 경기 전날 밤 우리 팀이 이긴다고 엄청 강하게 믿었는데, 아침엔 자신이 없어졌어.",
-    "민아는 좋아하는 팀이 질 때마다 그날 이긴 팀으로 응원팀을 바꿨어.",
-    "준호는 친구들이 아무리 말려도 3년 동안 그 가수를 한결같이 싫어했어.",
-    "태오는 버스가 덜컹거려도 손잡이를 꽉 잡아서 몸이 하나도 안 흔들렸어."
-   ],
-   "answer_index": 2,
-   "answer": "준호는 친구들이 아무리 말려도 3년 동안 그 가수를 한결같이 싫어했어.",
-   "why": "맞아! 준호는 친구들이 아무리 말려도 3년 동안 마음이 한 번도 안 바뀌었잖아. 싫어하는 마음이라도 시간이 가고 누가 말려도 그대로 버티면, 그게 바로 unwavering인 거야."
   }
  ],
  "synonyms": [
@@ -90,6 +66,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/unwavering.webp",
   "alt": "1년 내내 졸라도 바뀌지 않는 엄마의 평일 게임 금지",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

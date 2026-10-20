@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/tax/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/tax/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/tax/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "tax",
  "slug": "tax",
  "url": "https://hibbangyong.com/words/tax/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, tax 아니야",
    "why": "맞아! 지갑이 네 손으로 도로 돌아온 거잖아. tax는 가진 걸 떼어 가는 건데 이건 오히려 늘어난 쪽이니까, 정반대인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "아빠가 한 해 동안 번 돈에서 나라가 정해 둔 몫을 은행에 가서 내고 왔어. 이때 '아빠가 나라를 tax했다'고 말할 수 있어?",
-   "choices": [
-    "응, 그렇게 말해도 돼",
-    "아니, 그렇게 말하면 안 돼"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 그렇게 말하면 안 돼",
-   "why": "맞아! 여기서 몫을 정해서 떼어 간 쪽은 나라고, 아빠는 그걸 내러 간 거잖아. 떼어 가는 쪽이 tax하는 거니까, 아빠가 나라를 tax했다는 말은 안 되는 거야."
-  },
-  {
-   "type": "choice",
-   "question": "돈이 오가는 네 가지 일이 있어. 이 중에서 'tax'라고 부를 수 있는 건?",
-   "choices": [
-    "나라가 미리 정해 둔 대로, 가게에서 사탕이 팔릴 때마다 그 값에서 얼마씩을 떼어 가",
-    "옆집 형이 동생이 안 볼 때 과자 한 봉지를 슬쩍 집어서 자기 주머니에 넣고 가",
-    "문방구 아저씨가 지우개를 건네 주고 그 값으로 오백 원을 받아서 통에 넣어",
-    "삼촌이 조카 손에 용돈 오천 원을 쥐여 주고 웃으면서 문을 열고 나가"
-   ],
-   "answer_index": 0,
-   "answer": "나라가 미리 정해 둔 대로, 가게에서 사탕이 팔릴 때마다 그 값에서 얼마씩을 떼어 가",
-   "why": "맞아! 사탕이 팔릴 때마다 나라가 미리 정해 둔 만큼을 그 값에서 딱 떼어 가잖아. 얼마를 떼어 갈지 먼저 정해 놓고 가져가는 것, 바로 그게 tax인 거야."
   }
  ],
  "synonyms": [],
@@ -93,6 +69,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/tax.webp",
   "alt": "문방구 지우개 값에 오십 원이 더 붙어 나간 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

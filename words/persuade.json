@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/persuade/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/persuade/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/persuade/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "persuade",
  "slug": "persuade",
  "url": "https://hibbangyong.com/words/persuade/",
@@ -45,32 +45,6 @@
    "answer_index": 2,
    "answer": "왜 그게 나은지 차근차근 말했더니, 친구가 마음을 돌려 그러자고 했어",
    "why": "맞아! 왜 그게 나은지 차근차근 말했더니 친구 마음이 슬그머니 돌아섰잖아. 말로 마음을 돌린 거, 그게 바로 persuade야."
-  },
-  {
-   "type": "choice",
-   "question": "쉬는 시간에 네 아이가 각자 옆자리 친구한테 말을 걸었어. 이 중에서 친구를 'persuade' 한 아이는 누구야?",
-   "choices": [
-    "급식실이 어디냐고 묻는 친구한테, 계단으로 내려가는 길을 알려 줬어.",
-    "어제 발을 밟은 게 마음에 걸려서, 친구한테 미안하다고 사과했어.",
-    "화단에 물 주기 싫다던 친구한테 왜 해 볼 만한지 말했더니, 친구가 그러자며 같이 줬어.",
-    "우산을 잃어버려 시무룩한 친구한테, 웃긴 이야기를 해 줘서 웃겼어."
-   ],
-   "answer_index": 2,
-   "answer": "화단에 물 주기 싫다던 친구한테 왜 해 볼 만한지 말했더니, 친구가 그러자며 같이 줬어.",
-   "why": "맞아! 하기 싫다던 친구가 네 말을 듣고 스스로 마음을 바꿔서 같이 했잖아. 말로 마음을 돌린 거, 그게 바로 persuade야."
-  },
-  {
-   "type": "choice",
-   "question": "방에 블록이 잔뜩 널렸어. 네 아이가 각자 동생한테 이렇게 했어. 이 중에서 동생을 'persuade' 한 아이는 누구야?",
-   "choices": [
-    "블록을 같이 치우자고 몇 번이나 말했지만, 동생은 끝까지 싫다고 했어.",
-    "동생이 쌓은 블록이 몇 층인지 하나씩 세어서, 숫자를 말해 줬어.",
-    "동생 옆에 앉아 블록을 한 움큼씩 집어, 상자에 말없이 넣어 줬어.",
-    "처음엔 싫다던 동생한테 같이 치우면 금방 끝나고 더 놀 수 있다고 말했더니, 동생이 알겠다며 같이 치웠어."
-   ],
-   "answer_index": 3,
-   "answer": "처음엔 싫다던 동생한테 같이 치우면 금방 끝나고 더 놀 수 있다고 말했더니, 동생이 알겠다며 같이 치웠어.",
-   "why": "맞아! 동생은 처음엔 싫다고 했는데, 같이 치우면 금방 끝나고 더 놀 수 있다는 말을 듣고 마음이 바뀌어서 같이 치웠잖아. 이렇게 말로 동생 마음을 돌려서 치우게 만든 게 바로 persuade인 거야."
   }
  ],
  "synonyms": [],
@@ -84,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/persuade.webp",
   "alt": "형이 다른 놀이를 하자고 말해서 내 마음이 돌아선 상황",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

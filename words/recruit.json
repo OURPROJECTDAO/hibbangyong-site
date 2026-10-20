@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/recruit/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/recruit/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/recruit/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "recruit",
  "slug": "recruit",
  "url": "https://hibbangyong.com/words/recruit/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, recruit 맞아",
    "why": "맞아! 합창단에 없던 옆집 형을 찾아가서 며칠이나 설득해서 우리 편으로 데려온 거잖아. 밖에 있던 새 사람을 끌어들여 우리 무리에 새로 넣은 거니까 바로 그게 recruit인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "동네 야구팀 감독이 명단을 보더니 지훈이한테 '너는 이제 우리 팀 아니야' 하고 팀에서 빼 버렸어. 지훈이는 짐을 챙겨 나갔어. 감독이 지훈이를 'recruit'한 거야?",
-   "choices": [
-    "응, recruit 맞아",
-    "아니, recruit 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, recruit 아니야",
-   "why": "맞아! 팀에서 빼서 내보낸 거니까, 새 사람을 데려와 넣는 거랑은 정반대야. 그래서 recruit가 아닌 게 딱 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "지호네 방과후 클럽에서 여러 일이 있었어. 이 중에서 사람을 'recruit'한 건 어떤 걸까?",
-   "choices": [
-    "옆 반 친구한테 '너도 우리 클럽 들어올래?' 하고 설득해서 새로 들였어.",
-    "원래 클럽 멤버들한테 '얼른 모여!' 하고 한곳에 불러 모았어.",
-    "다른 클럽이 좋아 보여서 '나도 껴 줘' 하고 거기에 들어갔어.",
-    "자꾸 말썽 부린 멤버를 클럽에서 내보냈어."
-   ],
-   "answer_index": 0,
-   "answer": "옆 반 친구한테 '너도 우리 클럽 들어올래?' 하고 설득해서 새로 들였어.",
-   "why": "맞아! 클럽에 없던 옆 반 친구를 찾아가서 마음을 돌려 우리 편으로 새로 들였잖아. 밖에 있던 새 사람을 설득해서 우리 무리에 넣는 것, 그게 바로 recruit인 거야."
   }
  ],
  "synonyms": [],
@@ -89,6 +65,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/recruit.webp",
   "alt": "게임 팀에 한 명이 모자라 여기저기 다니며 낄 사람을 설득해 데려오는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

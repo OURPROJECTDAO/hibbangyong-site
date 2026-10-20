@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/hospice/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/hospice/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/hospice/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "hospice",
  "slug": "hospice",
  "url": "https://hibbangyong.com/words/hospice/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, hospice 맞아",
    "why": "맞아! 지우는 더 쓸 치료법이 없어서 항암 치료를 그만두고, 통증을 줄여 주는 약과 돌봄만 받으면서 가족과 함께 지내잖아. 낫게 하는 게 아니라 남은 날을 덜 아프고 편하게 보내도록 돌봐 주는 곳이니까 바로 hospice인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "할아버지가 뇌졸중으로 쓰러진 뒤 오른손이 잘 안 움직이게 됐어. 할아버지는 지금 한 병원에서 매일 숟가락 잡기와 글씨 쓰기를 연습하고 있고, 두 달 뒤에 퇴원해서 집에 돌아가는 게 목표야. 할아버지가 다니는 이 병원은 'hospice'일까?",
-   "choices": [
-    "응, hospice 맞아",
-    "아니, hospice 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, hospice 아니야",
-   "why": "맞아! 할아버지는 거기서 숟가락 잡기랑 글씨 쓰기를 연습해서 두 달 뒤에 퇴원하는 게 목표잖아. 이렇게 다시 손을 쓰도록 연습해서 낫고 나가는 곳은 재활 병원이지, 더 고칠 수 없을 때 남은 날을 편하게 보내도록 돌봐 주는 hospice가 아니야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 가족 이야기를 했어. 가족이 'hospice' 돌봄을 받고 있는 친구는 누구일까?",
-   "choices": [
-    "다리 수술 뒤에 다시 걷는 연습을 하고 있는 우리 형",
-    "치료를 멈추고 집에서 아프지 않게 남은 날을 보내는 우리 이모",
-    "몸은 괜찮은데 혼자 살기 힘들어 몇 년째 시설에 계신 할머니",
-    "감기가 심해서 며칠 입원해 주사를 맞고 있는 내 동생"
-   ],
-   "answer_index": 1,
-   "answer": "치료를 멈추고 집에서 아프지 않게 남은 날을 보내는 우리 이모",
-   "why": "맞아! 이모는 치료를 멈추고 집에서 아프지 않게 남은 날을 보내고 있잖아. 병을 낫게 하는 게 아니라 남은 날을 편하게 보내도록 돌봐 주는 거라서, 병원 건물이 아니라 집이어도 바로 그게 hospice인 거야."
   }
  ],
  "synonyms": [],

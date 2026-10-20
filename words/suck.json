@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/suck/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/suck/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/suck/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "suck",
  "slug": "suck",
  "url": "https://hibbangyong.com/words/suck/",
@@ -43,28 +43,6 @@
    "answer_index": 1,
    "answer": "아니, suck 아니야",
    "why": "맞아! 촛불을 끌 때는 입에서 바람이 밖으로 나갔잖아. suck은 반대로 안쪽으로 당겨오는 거라서, 후 부는 건 suck이 아닌 게 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "민준이가 포도 한 알을 입에 넣었어. 껍질은 입 안에 그대로 남아 있는데, 입술을 오므리고 입 안에서 힘을 주니 달콤한 즙만 목으로 넘어갔어. 이런 경우도 'suck'야?",
-   "choices": [
-    "응, 'suck' 맞아",
-    "아니, 'suck' 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, 'suck' 맞아",
-   "why": "맞아! 포도알은 입 안에 그대로 있는데 즙만 쏙 넘어갔지? 그렇게 입술 오므리고 힘을 줘서 속에 든 걸 딸려오게 한 게 바로 suck이야. 사탕 쪽쪽 빨 때랑 똑같은 거야."
-  },
-  {
-   "type": "ox",
-   "question": "약국에서 받은 스포이트를 물컵에 담그고 고무 머리를 꾹 눌렀다가 손힘을 풀었더니, 물이 유리관 안으로 쭉 들어왔어. 이게 'suck'이야?",
-   "choices": [
-    "응, suck 맞아",
-    "아니, suck 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, suck 맞아",
-   "why": "맞아! 고무 머리를 놓는 순간 네 손이 당기는 힘을 만들었고, 물이 그 힘에 딸려서 관 안으로 들어온 거야. 바로 그게 suck이야. 빨대로 주스 마시는 거랑 똑같은 일이 유리관에서 일어난 거지."
   }
  ],
  "synonyms": [
@@ -82,6 +60,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/suck.webp",
   "alt": "청소기가 카펫 먼지를 제 속으로 데려가는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

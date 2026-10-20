@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/twitch/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/twitch/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/twitch/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "twitch",
  "slug": "twitch",
  "url": "https://hibbangyong.com/words/twitch/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, twitch 맞아",
    "why": "맞아! 엄지 근육 한 군데가 네가 움직이지도 않았는데 혼자 짧게 한 번 움찔했잖아. 바로 그게 twitch야."
-  },
-  {
-   "type": "ox",
-   "question": "달리기를 하다가 종아리에 쥐가 나서, 근육이 몇 분 동안 딱딱하게 굳은 채 계속 아팠어. 이게 'twitch'야?",
-   "choices": [
-    "응, twitch 맞아",
-    "아니, twitch 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, twitch 아니야",
-   "why": "맞아! 종아리가 몇 분 동안 딱딱하게 굳은 채 계속 아팠잖아. twitch는 근육이 순간 움찔하고 바로 끝나는 거라서, 이건 twitch가 아니야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 몸에 생긴 일을 말했어. 'twitch'라고 부를 만한 건 누구 얘기일까?",
-   "choices": [
-    "시험 보는데 입가 근육이 나도 모르게 한 번씩 움찔했어",
-    "추운 날 버스를 기다리는데 몸 전체가 한참 덜덜 떨렸어",
-    "발표를 앞두고 긴장해서 손바닥에 땀이 계속 났어",
-    "운동장 돌다가 종아리가 딱딱하게 굳어서 한참 아팠어"
-   ],
-   "answer_index": 0,
-   "answer": "시험 보는데 입가 근육이 나도 모르게 한 번씩 움찔했어",
-   "why": "맞아! 시험 보는데 입가 근육이 나도 모르게 한 번씩 움찔한 거잖아. 내가 움직인 것도 아닌데 한 군데만 작고 짧게 움찔했으니까 바로 그게 twitch인 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/twitch.webp",
   "alt": "피곤한 날 눈 밑이 저절로 떨림",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

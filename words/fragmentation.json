@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/fragmentation/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/fragmentation/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/fragmentation/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "fragmentation",
  "slug": "fragmentation",
  "url": "https://hibbangyong.com/words/fragmentation/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, fragmentation 맞아",
    "why": "맞아! 호수를 한 판으로 덮고 있던 얼음이 작은 조각 수십 개로 쪼개져서 물 위에 따로따로 떠다니잖아. 하나였던 게 여러 조각으로 갈라져 흩어진 거라서 바로 그게 fragmentation이야."
-  },
-  {
-   "type": "ox",
-   "question": "비 오는 날 창문에 작은 빗방울이 여러 개 붙어 있었어. 그런데 흘러내리면서 서로 만나더니 큰 물방울 하나로 합쳐졌어. 이게 'fragmentation'일까?",
-   "choices": [
-    "응, fragmentation 맞아",
-    "아니, fragmentation 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, fragmentation 아니야",
-   "why": "맞아! 창문의 작은 빗방울 여러 개가 흘러내리다 만나서 큰 물방울 하나로 합쳐졌잖아. fragmentation은 하나가 여러 조각으로 쪼개져 흩어지는 거니까, 이 장면은 딱 그 반대 방향이야."
-  },
-  {
-   "type": "choice",
-   "question": "축구부에 일어난 일 네 가지야. 'fragmentation'이 일어난 건 어느 쪽일까?",
-   "choices": [
-    "하나였던 축구부가 작은 패 네 개로 갈라져서 따로 연습하게 됐어.",
-    "축구부 골대에 금이 길게 갔지만 아직 한 덩어리로 서 있어.",
-    "흩어져 있던 동네 축구팀 네 개가 큰 팀 하나로 합쳐졌어.",
-    "주장이 축구부 간식을 네 명에게 똑같이 골고루 나눠 줬어."
-   ],
-   "answer_index": 0,
-   "answer": "하나였던 축구부가 작은 패 네 개로 갈라져서 따로 연습하게 됐어.",
-   "why": "맞아! 하나였던 축구부가 작은 패 네 개로 쪼개져서 따로 연습하잖아. 하나였던 게 여러 조각으로 갈라져 따로 노는 거, 그게 바로 fragmentation이야. 꼭 물건이 깨질 때만 쓰는 말이 아니라 이렇게 사람들 무리가 갈라질 때도 써."
   }
  ],
  "synonyms": [],
@@ -91,6 +67,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/fragmentation.webp",
   "alt": "반 단톡방 하나가 작은 방 여러 개로 갈라짐",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

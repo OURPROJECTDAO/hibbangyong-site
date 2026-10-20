@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/military/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/military/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/military/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "military",
  "slug": "military",
  "url": "https://hibbangyong.com/words/military/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, military 맞아",
    "why": "맞아! 군인들이 짐 싣고 타는 트럭이니까 군인 편에 딸린 거잖아. 군인 옷도 군인 병원도 다 military인 것처럼, 이 트럭도 그대로 military인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "소방관들이 불을 끄러 갈 때 타는 빨간 소방차가 있어. 이 소방차는 'military' 소방차일까?",
-   "choices": [
-    "응, military 맞아",
-    "아니, military 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, military 아니야",
-   "why": "맞아! 소방차는 불 끄는 차지, 군인들이 쓰는 차가 아니거든. military는 나라를 지키는 군인들 쪽 이야기라서, 소방차는 여기 안 들어가는 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 곳이 있어. 이 중에서 'military' 장소는 어디일까?",
-   "choices": [
-    "군인들이 줄 맞춰 훈련하는 넓은 부대",
-    "경찰들이 신고를 받고 출동하는 경찰서",
-    "의사들이 아픈 사람을 돌보는 동네 병원",
-    "선생님들이 아이들을 가르치는 학교"
-   ],
-   "answer_index": 0,
-   "answer": "군인들이 줄 맞춰 훈련하는 넓은 부대",
-   "why": "맞아! 군인들이 줄 맞춰 훈련하는 그곳은 군대에 딱 붙어 있는 곳이잖아. 군인 편에 딸린 거라서 바로 그게 military인 거야."
   }
  ],
  "synonyms": [],
@@ -98,6 +74,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/military.webp",
   "alt": "똑같은 옷 입고 줄 맞춰 걷는 군인들",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

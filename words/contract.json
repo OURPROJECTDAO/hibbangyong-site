@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/contract/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/contract/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/contract/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "contract",
  "slug": "contract",
  "url": "https://hibbangyong.com/words/contract/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, contract 맞아.",
    "why": "맞아! 채소 가게는 매주 배추를 가져다주고, 식당은 달마다 배춧값을 내기로 했지? 두 쪽 다 할 일을 서로 정해서 종이에 적었으니까, 바로 그게 contract인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "동네 수영장이 '다음 달부터 수영 모자를 꼭 써야 해요'라고 정해서 종이에 적어 문에 붙였어. 이게 'contract'야?",
-   "choices": [
-    "응, contract 맞아.",
-    "아니, contract 아니야."
-   ],
-   "answer_index": 1,
-   "answer": "아니, contract 아니야.",
-   "why": "잘 골랐어! 수영장이 모자를 쓰라고 정해서 문에 붙인 거고, 손님이랑 서로 뭘 해 줄지 같이 정한 게 아니거든. 그래서 이건 contract가 아니라 수영장의 규칙인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 중 'contract' 때문에 생긴 일은 어느 거야?",
-   "choices": [
-    "청소 회사가 일을 대충 해도, 1년 쓰기로 서로 정해 둬서 당장 못 바꿔.",
-    "친구랑 놀기로 했는데 비가 와서, 서로 괜찮다고 하고 다음 주로 미뤘어.",
-    "마트에서 과자를 사고 받은 종이를 보니까, 과자 값이 쭉 적혀 있었어.",
-    "엄마가 오늘부터 게임은 하루 30분만 하라고, 혼자 정해서 말해 줬어."
-   ],
-   "answer_index": 0,
-   "answer": "청소 회사가 일을 대충 해도, 1년 쓰기로 서로 정해 둬서 당장 못 바꿔.",
-   "why": "맞아! 청소 회사랑 1년 쓰기로 서로 정해 뒀으니까, 일을 대충 해도 마음대로 못 바꾸는 거야. 두 쪽이 같이 정하고 꼭 지켜야 하는 약속, 바로 그게 contract야."
   }
  ],
  "synonyms": [],
@@ -89,6 +65,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/contract.webp",
   "alt": "축구 선수가 팀과 3년 뛰고 돈을 받기로 정함",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

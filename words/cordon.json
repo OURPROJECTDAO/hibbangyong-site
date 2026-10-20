@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/cordon/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/cordon/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/cordon/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "cordon",
  "slug": "cordon",
  "url": "https://hibbangyong.com/words/cordon/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, cordon 맞아",
    "why": "맞아! 경찰들이 기차역 둘레에 빙 둘러 늘어서서 아무도 역 안으로 못 들어가게 막았잖아. 한 구역을 둘러싸고 드나들지 못하게 막는 그 줄이 바로 cordon이야."
-  },
-  {
-   "type": "ox",
-   "question": "병원 진료실 앞에서 간호사가 기다리던 환자들의 이름을 부르며 한 명씩 차례로 진료실 안으로 들여보냈어. 간호사가 한 이 일이 'cordon'이야?",
-   "choices": [
-    "응, cordon 맞아",
-    "아니, cordon 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, cordon 아니야",
-   "why": "맞아! 간호사는 진료실 문 앞에서 환자 이름을 불러 한 명씩 차례로 들여보낸 거지, 여러 사람이 둘레에 쭉 늘어서서 막은 게 아니잖아. cordon은 한 구역을 빙 둘러 늘어서서 드나들지 못하게 막는 줄이라서, 이건 cordon이 아닌 게 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "아래 네 장면 중에서 사람들이 'cordon'을 만든 건 어느 거야?",
-   "choices": [
-    "경찰들이 건물 둘레에 빙 둘러서서 안에 있던 도둑이 빠져나가지 못하게 했어.",
-    "학생들이 운동장 둘레에 빙 둘러서서 가운데서 하는 공연을 끝까지 구경했어.",
-    "경찰 한 명이 골목 입구에 서서 지나가는 차들을 한 대씩 멈춰 세웠어.",
-    "직원들이 공연장 입구 앞에 서서 표 있는 사람들을 차례대로 들여보냈어."
-   ],
-   "answer_index": 0,
-   "answer": "경찰들이 건물 둘레에 빙 둘러서서 안에 있던 도둑이 빠져나가지 못하게 했어.",
-   "why": "맞아! 경찰들이 건물 둘레를 빙 둘러서서 안에 있던 도둑이 못 빠져나가게 막았잖아. 그래서 이게 cordon이야. cordon은 밖에서 못 들어오게 할 때만 쓰는 게 아니라, 이렇게 안에 있는 사람을 못 나가게 할 때도 써."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/cordon.webp",
   "alt": "큰 행사 날 광장 둘레에 늘어선 경찰",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

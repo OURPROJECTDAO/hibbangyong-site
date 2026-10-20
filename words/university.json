@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/university/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/university/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/university/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "university",
  "slug": "university",
  "url": "https://hibbangyong.com/words/university/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, university야",
    "why": "맞아! 초등학교 중학교 고등학교를 다 지나고 나서, 우주 한 가지만 골라 깊~게 파고들어 배우는 큰 학교, 바로 그게 university거든. 형이 다니는 데가 딱 그거라서 맞는 거야."
-  },
-  {
-   "type": "ox",
-   "question": "네 살 사촌 동생은 이제 막 처음으로 학교 비슷한 곳에 가서 친구들이랑 노는 법을 배우는 유치원에 다녀. 동생이 다니는 이곳이 \"university\"야?",
-   "choices": [
-    "응, university야",
-    "아니, university 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, university 아니야",
-   "why": "맞아! 유치원은 네 살 동생이 처음으로 가보는 학교 같은 곳이잖아. 그런데 university는 초등학교 중학교 고등학교를 다 지난 형 누나들이 마지막에 가는 데거든. 그러니까 동생이 다니는 곳은 university가 아닌 게 딱 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "네 사람이 각자 다니는 곳을 말했어. 이 중에서 \"university\"에 다니는 사람은 누구일까?",
-   "choices": [
-    "고등학교까지 다 마치고, 이제 의사 되는 법 한 가지를 깊게 배우는 형",
-    "이제 막 한글을 배우기 시작한, 학교에 처음 들어간 동생",
-    "학교 수업이 끝난 뒤 피아노 한 과목만 잠깐 더 배우러 가는 누나",
-    "책을 빌리러 책이 아주 많은 조용한 곳에 들르는 삼촌"
-   ],
-   "answer_index": 0,
-   "answer": "고등학교까지 다 마치고, 이제 의사 되는 법 한 가지를 깊게 배우는 형",
-   "why": "맞아! 초등학교 중학교 고등학교까지 전부 다 마친 다음에, 의사 되는 법 딱 한 가지를 골라서 깊게 파고드는 거잖아. 그렇게 다 지나고 나서 한 가지를 깊~게 배우러 가는 곳, 바로 그게 university거든."
   }
  ],
  "synonyms": [],
@@ -83,6 +59,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/university.webp",
   "alt": "정규 학교를 다 마친 뒤 한 가지를 깊게 배우러 가는 학교.",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

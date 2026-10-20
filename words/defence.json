@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/defence/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/defence/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/defence/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "defence",
  "slug": "defence",
  "url": "https://hibbangyong.com/words/defence/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, defence 맞아",
    "why": "맞아! 눈덩이가 우리 쪽으로 막 날아오는데 네가 나무판으로 앞을 딱 막고 자리를 지켰잖아. 쳐들어오는 걸 막아서 지킨 거니까 바로 그게 defence인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "눈싸움에서 나는 친구들 자리 쪽으로 달려 들어가 눈덩이를 마구 던졌어. 이게 'defence'야?",
-   "choices": [
-    "응, defence 맞아",
-    "아니, defence 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, defence 아니야",
-   "why": "맞아! 내가 상대 쪽으로 달려 들어가서 던지는 건 들어가는 쪽이잖아. 그러니까 이건 막아 지키는 게 아니라 공격이라서, defence가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 사람이 각자 한 일이야. 'defence'라고 부를 수 있는 건?",
-   "choices": [
-    "적이 성으로 쳐들어오자, 담에서 맞서 밀어내며 성을 안 뺏겼어.",
-    "옆 나라 성으로 먼저 쳐들어가 성문을 부쉈어.",
-    "적이 오자 무서워서 성을 버리고 멀리 도망쳤어.",
-    "햇볕이 뜨거워서 큰 천을 펴 그늘을 만들어 가렸어."
-   ],
-   "answer_index": 0,
-   "answer": "적이 성으로 쳐들어오자, 담에서 맞서 밀어내며 성을 안 뺏겼어.",
-   "why": "맞아! 쳐들어오는 적을 담에서 딱 맞서 밀어내고 성을 안 뺏겼잖아. 막아서 지켜낸 거니까 바로 그게 defence인 거야."
   }
  ],
  "synonyms": [
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/defence.webp",
   "alt": "축구에서 상대 공격을 막아 골대를 지키는 수비",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

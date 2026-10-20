@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/marine/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/marine/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/marine/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "marine",
  "slug": "marine",
  "url": "https://hibbangyong.com/words/marine/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, marine 아니야",
    "why": "아니야가 딱 맞아! 낙타가 걷는 사막 모래는 짠 바닷물이랑 정반대인 마른 땅이잖아. 바다에 속한 게 아니니까 marine이라고 부를 수 없는 거야."
-  },
-  {
-   "type": "ox",
-   "question": "수족관 안내판에 이런 설명이 있어. \"이 거북은 파도가 치는 곳에서 살고, 해초를 뜯어 먹어요.\" 이 거북은 'marine' 거북일까?",
-   "choices": [
-    "응, marine 맞아",
-    "아니, marine 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, marine 맞아",
-   "why": "맞아! 파도가 치고 해초를 뜯어 먹는다는 건 짠 바닷물에서 산다는 뜻이거든. 바다에 속해 사는 거북이니까 바로 그게 marine 거북인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 어제 본 걸 말했어. 이 중에서 'marine'이라고 부를 수 있는 걸 본 아이는 누구게?",
-   "choices": [
-    "\"짠물 속에서 자라는 알록달록한 산호를 봤어.\"",
-    "\"동네 호수에서 헤엄치는 오리 떼를 봤어.\"",
-    "\"수영장 물에 둥둥 뜬 큰 튜브를 봤어.\"",
-    "\"산꼭대기 바위틈에 고인 빗물을 봤어.\""
-   ],
-   "answer_index": 0,
-   "answer": "\"짠물 속에서 자라는 알록달록한 산호를 봤어.\"",
-   "why": "맞아! 짠 바닷물 속에서 자란 산호니까, 바다에 속한 거잖아. 바로 그래서 그게 marine인 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/marine.webp",
   "alt": "항구에 묶인 배의 밧줄이 소금물에 잠겨 있는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

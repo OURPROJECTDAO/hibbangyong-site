@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/gender/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/gender/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/gender/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "gender",
  "slug": "gender",
  "url": "https://hibbangyong.com/words/gender/",
@@ -45,28 +45,6 @@
    "answer_index": 0,
    "answer": "\"저는 여자예요.\"",
    "why": "맞아! 남자냐 여자냐 하는 그 갈라짐, 딱 그걸 말한 거잖아. 그래서 바로 그게 gender인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "동물원 사자 우리 앞 안내판에 \"이 사자는 암컷입니다\"라고 적혀 있어. 이게 'gender'야?",
-   "choices": [
-    "응, gender 맞아",
-    "아니, gender 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, gender 맞아",
-   "why": "맞아! 암컷이라는 건 그 사자가 여자라는 뜻이거든. 남자냐 여자냐 딱 갈라주는 그 말, 그게 바로 gender인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "동물원 사자 우리 앞 안내판에 \"이 사자가 제일 좋아하는 먹이는 소고기입니다\"라고 적혀 있어. 이게 'gender'야?",
-   "choices": [
-    "응, gender 맞아",
-    "아니, gender 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, gender 아니야",
-   "why": "맞아! 소고기를 좋아한다는 건 이 사자가 뭘 좋아하냐는 취향 이야기잖아. gender는 남자냐 여자냐를 갈라주는 거니까, 좋아하는 먹이는 gender가 아닌 게 맞아."
   }
  ],
  "synonyms": [],
@@ -83,6 +61,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/gender.webp",
   "alt": "갓 태어난 강아지를 보고 남자냐 여자냐 물어보는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

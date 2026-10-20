@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/access/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/access/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/access/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "access",
  "slug": "access",
  "url": "https://hibbangyong.com/words/access/",
@@ -45,30 +45,6 @@
    "answer_index": 2,
    "answer": "열람실은 학생증만 찍으면 누구나 들어가 쓸 수 있어.",
    "why": "맞아! 학생증만 찍으면 누구나 들어가 쓸 수 있다는 건, 그 열람실로 가는 길이 열려 있다는 뜻이거든. 바로 그게 access야."
-  },
-  {
-   "type": "choice",
-   "question": "동네 수영장에 다니는 아이들 이야기야. 다음 중 'access'에 해당하는 건 뭘까?",
-   "choices": [
-    "민수는 수영장 물이 차가워서 들어가자마자 몸이 덜덜 떨린다.",
-    "서연이는 수영장 매점에서 아이스크림을 사서 앉아 다 먹었다.",
-    "지호는 회원 카드가 있어서 수영장에 아무 때나 들어가 수영한다.",
-    "하준이는 수영장 사물함 개수를 하나씩 세어서 백 개를 적었다."
-   ],
-   "answer_index": 2,
-   "answer": "지호는 회원 카드가 있어서 수영장에 아무 때나 들어가 수영한다.",
-   "why": "맞아! 지호는 회원 카드가 있으니까 언제든 수영장 문을 열고 들어갈 수 있잖아. 바로 그 들어갈 수 있음이 access인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "형이 태블릿을 잠금 없이 거실에 두고 다녀서, 옆집 아저씨가 아무 때나 형 일기장 앱을 열어 볼 수 있게 됐어. 형은 이걸 싫어해. 아저씨한테 형 일기장 앱에 대한 'access'가 생겼다고 할 수 있을까?",
-   "choices": [
-    "응, 'access' 맞아.",
-    "아니, 'access' 아니야."
-   ],
-   "answer_index": 0,
-   "answer": "응, 'access' 맞아.",
-   "why": "맞아! 아저씨가 마음만 먹으면 아무 때나 형 일기장을 열어 볼 수 있게 됐잖아. 형이 그걸 싫어해도, 이미 길은 열려 버린 거야. 그게 바로 access인 거야."
   }
  ],
  "synonyms": [
@@ -90,6 +66,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/access.webp",
   "alt": "비밀번호가 걸린 집 와이파이",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

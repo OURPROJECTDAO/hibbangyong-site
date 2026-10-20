@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/helicopter/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/helicopter/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/helicopter/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "helicopter",
  "slug": "helicopter",
  "url": "https://hibbangyong.com/words/helicopter/",
@@ -41,19 +41,6 @@
    "answer_index": 1,
    "answer": "아니, 아니야",
    "why": null
-  },
-  {
-   "type": "choice",
-   "question": "helicopter는 어느 것일까?",
-   "choices": [
-    "바다 위를 미끄러지듯 떠서 사람을 나르는 탈것",
-    "긴 선로를 따라 이어 달리는 탈것",
-    "머리 위 날개를 돌려 곧장 위로 떠오르는 탈것",
-    "네 바퀴로 도로 위를 달리는 탈것"
-   ],
-   "answer_index": 2,
-   "answer": "머리 위 날개를 돌려 곧장 위로 떠오르는 탈것",
-   "why": null
   }
  ],
  "synonyms": [],
@@ -69,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/helicopter.webp",
   "alt": "하늘을 나는 전형적인 빨간 헬리콥터 한 대(위쪽 큰 회전 날개+꼬리 회전 날개, 유리 조종석), 옆모습 전신이 화면 중앙에 크게",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

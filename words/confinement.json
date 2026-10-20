@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/confinement/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/confinement/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/confinement/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "confinement",
  "slug": "confinement",
  "url": "https://hibbangyong.com/words/confinement/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, confinement 맞아",
    "why": "맞아! 닭들은 나가고 싶어도 주인이 닭장 밖으로 한 마리도 못 나오게 했잖아. 이유가 벌이 아니라 조류독감이어도, 정해진 곳 밖으로 못 나가면 그게 바로 confinement야."
-  },
-  {
-   "type": "ox",
-   "question": "목장 주인이 울타리 문을 활짝 열어 둬서, 말들이 하루 종일 넓은 들판 여기저기를 마음대로 돌아다녀. 말들이 이렇게 지내는 게 'confinement'야?",
-   "choices": [
-    "응, confinement 맞아",
-    "아니, confinement 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, confinement 아니야",
-   "why": "맞아! 목장 주인이 울타리 문을 활짝 열어 뒀잖아. 말들은 넓은 들판 어디든 마음대로 돌아다니니까, 나가고 싶어도 못 나가는 confinement랑은 완전 반대야."
-  },
-  {
-   "type": "choice",
-   "question": "삼촌이 겪은 일 네 가지야. 이 중에서 'confinement'라고 부를 수 있는 건?",
-   "choices": [
-    "병이 옮을까 봐 2주 동안 병실 밖으로 못 나오게 됐어",
-    "교통 규칙을 어겨서 벌금을 내라는 편지를 받았어",
-    "2주 동안 여행하면서 여러 도시를 돌아다녔어",
-    "혼자 조용히 쉬고 싶어서 2주 동안 연락을 끊었어"
-   ],
-   "answer_index": 0,
-   "answer": "병이 옮을까 봐 2주 동안 병실 밖으로 못 나오게 됐어",
-   "why": "맞아! 삼촌은 병이 옮을까 봐 2주 동안 병실 밖으로 못 나왔잖아. 나가고 싶어도 정해진 곳 밖으로 못 나가는 거, 그게 바로 confinement야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/confinement.webp",
   "alt": "병이 옮을까 봐 2주 동안 병실 밖으로 못 나가는 삼촌",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

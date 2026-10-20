@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/corps/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/corps/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/corps/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "corps",
  "slug": "corps",
  "url": "https://hibbangyong.com/words/corps/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, corps 맞아",
    "why": "맞아! 군대 안에서 전쟁터 지도를 만드는 일 하나를 맡아 같이 움직이는 군인들이잖아. 그래서 이 군인들이 바로 corps인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 가지 사람 무리가 있어. 이 중 'corps'라고 부르기 가장 알맞은 건?",
-   "choices": [
-    "강에 다리 놓는 일만 맡아서 함께 움직이는 군인들",
-    "한 나라 군대에 있는 군인들을 하나도 빠짐없이 전부",
-    "맨 앞에서 적을 막다가 혼자 남아 끝까지 버틴 군인",
-    "축구 경기를 보려고 우연히 같은 경기장에 모인 사람들"
-   ],
-   "answer_index": 0,
-   "answer": "강에 다리 놓는 일만 맡아서 함께 움직이는 군인들",
-   "why": "맞아! 강에 다리 놓는 한 가지 일을 맡아서 같이 움직이는 군인들이니까, 바로 그게 corps인 거야. 군대 안에서 맡은 일로 뭉친 한 무리라는 게 딱 맞거든."
-  },
-  {
-   "type": "ox",
-   "question": "국군의 날 행사에서 사회자가 육군·해군·공군을 모두 합친 우리나라 군대 전체를 한 단어로 부르려고 해. 이런 경우도 'corps'야?",
-   "choices": [
-    "응, corps 맞아",
-    "아니, corps 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, corps 아니야",
-   "why": "맞아! 사회자가 부르려는 건 육군·해군·공군을 모두 합친 군대 전체잖아. corps는 그 군대 안에서 한 가지 일을 맡아 같이 움직이는 한 무리라서, 군대 전체를 통째로 부를 땐 안 맞는 거야."
   }
  ],
  "synonyms": [],
@@ -96,6 +72,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/corps.webp",
   "alt": "치료·다리 놓기처럼 맡은 일로 나뉜 군대의 무리들",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

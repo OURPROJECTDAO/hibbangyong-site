@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/offshore/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/offshore/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/offshore/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "offshore",
  "slug": "offshore",
  "url": "https://hibbangyong.com/words/offshore/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, offshore 아니야",
    "why": "맞아! 이모가 일하는 송어 양식장은 바다에서 차로 세 시간이나 떨어진 산골 계곡 옆에 있잖아. offshore는 땅에서 조금 나간 바다 위에 있어야 하니까, 산골에 있는 이 양식장은 offshore가 아니야."
-  },
-  {
-   "type": "ox",
-   "question": "삼촌은 항구에서 작은 배를 타고 10분쯤 바다로 나가서 물 위에 떠 있는 굴 양식장에서 일해. 이 양식장은 'offshore'야?",
-   "choices": [
-    "응, offshore 맞아",
-    "아니, offshore 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, offshore 맞아",
-   "why": "맞아! 삼촌은 항구에서 배를 타고 10분쯤 바다로 나가잖아. 땅에서 조금 나간 바다 위에 떠 있는 양식장이니까 바로 offshore인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 본 풍력발전기 이야기를 했어. 'offshore'에 있는 발전기를 본 친구는?",
-   "choices": [
-    "배를 타고 20분쯤 나가야 닿는, 물 위에 서 있는 발전기",
-    "모래사장을 따라 걸어가면 닿는, 파도 옆에 서 있는 발전기",
-    "비행기로 바다를 건너야 닿는, 남의 나라 들판의 발전기",
-    "바다가 전혀 안 보이는, 높은 산꼭대기에 서 있는 발전기"
-   ],
-   "answer_index": 0,
-   "answer": "배를 타고 20분쯤 나가야 닿는, 물 위에 서 있는 발전기",
-   "why": "맞아! 배를 타고 20분쯤 나가야 닿는 물 위에 서 있으니까, 땅에서 조금 나간 앞바다에 있는 거지. 그게 바로 offshore야."
   }
  ],
  "synonyms": [],
@@ -83,6 +59,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/offshore.webp",
   "alt": "바닷가에서 멀리 물 위에 선 풍력발전기들을 바라봄",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

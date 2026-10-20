@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/genius/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/genius/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/genius/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "genius",
  "slug": "genius",
  "url": "https://hibbangyong.com/words/genius/",
@@ -45,32 +45,6 @@
    "answer_index": 3,
    "answer": "어른들도 못 풀던 수수께끼를 듣자마자 답을 말한 삼촌",
    "why": "맞아! 어른들도 못 풀던 걸 듣자마자 답이 튀어나온 거잖아. 남들 머리가 아무리 애써도 안 닿는 자리를 슥 넘어간 거니까, 그게 바로 genius인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "동네에 소문난 사람이 넷 있어. 이 중에 'genius'는 누구일까?",
-   "choices": [
-    "쌀가마를 양손에 하나씩 들고 계단을 오르는 사람",
-    "노래하면 옆 골목까지 목소리가 들리는 사람",
-    "아무도 못 고치던 시계를 슥 보고 새 방법으로 고친 사람",
-    "아침마다 골목을 쓸어 길을 반짝이게 하는 사람"
-   ],
-   "answer_index": 2,
-   "answer": "아무도 못 고치던 시계를 슥 보고 새 방법으로 고친 사람",
-   "why": "맞아! 아무도 못 고치던 걸 새 방법을 떠올려서 슥 고쳤잖아. 남들 손이 안 닿던 자리를 남다른 머리로 해낸 거니까 바로 그게 genius인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 사람 이야기를 들었어. 이 중에 'genius'라고 부를 만한 사람은 누구일까?",
-   "choices": [
-    "아무도 못 여는 자물쇠를 처음 보는 방법으로 열어버린 도둑",
-    "십 년을 하루도 안 빼고 연습해 남들만큼 치게 된 아저씨",
-    "선생님이 알려준 대로 그대로 따라 풀어 백 점을 받은 언니",
-    "쉬운 일도 자꾸 까먹어서 늘 처음부터 다시 하는 삼촌"
-   ],
-   "answer_index": 0,
-   "answer": "아무도 못 여는 자물쇠를 처음 보는 방법으로 열어버린 도둑",
-   "why": "맞아! 아무도 못 열던 자물쇠를 아무도 생각 못 한 방법으로 열어버렸잖아. 다른 사람들이 아무리 애써도 못 하던 걸 혼자 해낸 거니까 바로 그게 genius야. 도둑이 한 일이라도 그 남다른 머리는 genius라고 불러."
   }
  ],
  "synonyms": [],
@@ -84,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/genius.webp",
   "alt": "다들 몇 달 못 만든 걸 혼자 슥 보고 뚝딱 만들어낸 사람",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/assess/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/assess/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/assess/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "assess",
  "slug": "assess",
  "url": "https://hibbangyong.com/words/assess/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, assess 맞아",
    "why": "맞아! 할머니는 우유 냄새를 맡고 병에 적힌 날짜도 보면서, 이 우유가 아직 마셔도 되는지 따져 보셨거든. 그렇게 살펴보고 \"아직 마셔도 되겠네\" 하고 알아낸 게 바로 assess인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "지우가 새 운동화 상자를 받았어. 그런데 상자를 열어 보지도, 신어 보지도 않고 곧바로 '이거 나한테 딱 맞아!' 하고 말해 버렸어. 지우가 한 게 'assess'야?",
-   "choices": [
-    "응, assess 맞아",
-    "아니, assess 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, assess 아니야",
-   "why": "잘 골랐어! 지우는 상자를 열어 보지도, 신어 보지도 않고 바로 딱 맞는다고 말해 버렸거든. 살펴보지도 않고 말했으니까 이건 assess가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "치과 선생님이 내 이를 하나하나 살펴보고, 충치가 얼마나 깊이 들어갔는지 알아봤어. 이런 경우도 'assess'야?",
-   "choices": [
-    "응, assess 맞아",
-    "아니, assess 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, assess 맞아",
-   "why": "맞아! 치과 선생님은 충치가 있나 없나만 본 게 아니라, 얼마나 깊이 들어갔는지까지 따져 봤거든. 이렇게 하나하나 살펴서 어느 정도인지 알아내는 게 바로 assess인 거야."
   }
  ],
  "synonyms": [
@@ -86,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/assess.webp",
   "alt": "개울 건너기 전에 물 깊이와 돌이 튼튼한지 살피는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

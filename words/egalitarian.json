@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/egalitarian/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/egalitarian/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/egalitarian/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "egalitarian",
  "slug": "egalitarian",
  "url": "https://hibbangyong.com/words/egalitarian/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, egalitarian 맞아",
    "why": "맞아! 1학년이든 3학년이든 주장 뽑을 때 똑같이 한 표씩이잖아. 학년으로 위아래 안 따지고 모두 같은 권리를 주니까 바로 그게 egalitarian한 규칙인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "어느 회사는 회의에서 투표할 때 부장은 세 표, 과장은 두 표, 사원은 한 표를 던져. 이 회사 규칙, 'egalitarian'해?",
-   "choices": [
-    "응, egalitarian 맞아",
-    "아니, egalitarian 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, egalitarian 아니야",
-   "why": "맞아! 부장은 세 표, 사원은 한 표처럼 직급이 높을수록 표를 더 주니까, 위아래를 따져서 권리를 다르게 나눈 거야. 모두가 똑같은 권리를 가져야 egalitarian인데 이 회사는 정반대라서 아니라고 하는 게 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "축구부 3학년 주장은 후배들한테 늘 다정하게 말을 걸고 간식도 잘 사 줘. 그런데 포지션은 3학년이 먼저 고르고, 공 나르기와 뒷정리는 항상 1학년 몫이야. 이런 축구부도 'egalitarian'이야?",
-   "choices": [
-    "응, 'egalitarian' 맞아.",
-    "아니, 'egalitarian' 아니야."
-   ],
-   "answer_index": 1,
-   "answer": "아니, 'egalitarian' 아니야.",
-   "why": "맞아! 주장이 다정하고 간식도 사 주지만, 포지션은 3학년이 먼저 고르고 공 나르기랑 뒷정리는 늘 1학년 몫이잖아. 학년으로 위아래가 딱 나뉘어 있으니까 egalitarian이 아닌 거야."
   }
  ],
  "synonyms": [],

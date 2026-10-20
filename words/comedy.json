@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/comedy/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/comedy/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/comedy/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "comedy",
  "slug": "comedy",
  "url": "https://hibbangyong.com/words/comedy/",
@@ -45,30 +45,6 @@
    "answer_index": 2,
    "answer": "사람들이 처음부터 끝까지 우스꽝스럽게 굴어서 보는 내내 웃음이 터지는 프로그램",
    "why": "맞아! 처음부터 끝까지 우스꽝스럽게 굴어서 보는 내내 웃음이 터지잖아. 바로 그렇게 웃기려고 만든 게 comedy인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "학교 강당에서 연극을 봤는데, 주인공의 강아지가 마지막에 멀리 떠나가버려. 보던 아이들이 훌쩍이면서 눈물을 닦았어. 이게 'comedy'야?",
-   "choices": [
-    "응, comedy 맞아",
-    "아니, comedy 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, comedy 아니야",
-   "why": "맞아! 강아지가 떠나서 다들 훌쩍이고 눈물 닦았잖아. comedy는 처음부터 끝까지 웃기려고 만든 거라서, 슬퍼서 우는 이야기는 comedy가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "친구 넷이 극장에서 각자 다른 걸 보고 왔어. 'comedy'를 보고 온 사람은 누구일까?",
-   "choices": [
-    "웃기려고 만든 쇼를 한 편 통째로 봤는데, 보는 동안 계속 웃음이 터졌어.",
-    "옆 사람이 웃긴 말 딱 한마디를 던져서, 그 순간만 잠깐 피식 웃었어.",
-    "끝에 주인공이 크게 다쳐서, 보던 사람들 다 눈물을 흘렸어.",
-    "무서운 괴물이 갑자기 튀어나와서, 손에 땀을 쥐고 봤어."
-   ],
-   "answer_index": 0,
-   "answer": "웃기려고 만든 쇼를 한 편 통째로 봤는데, 보는 동안 계속 웃음이 터졌어.",
-   "why": "맞아! 웃기려고 만든 쇼를 한 편 통째로 보면서 계속 웃었잖아. 처음부터 끝까지 웃기려고 만든 거, 그게 바로 comedy인 거야."
   }
  ],
  "synonyms": [],
@@ -87,6 +63,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/comedy.webp",
   "alt": "온 가족이 소파에서 웃긴 영화를 보며 배우 실수에 깔깔 웃는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

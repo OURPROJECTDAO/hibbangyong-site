@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/stuffy/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/stuffy/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/stuffy/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "stuffy",
  "slug": "stuffy",
  "url": "https://hibbangyong.com/words/stuffy/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, stuffy 맞아",
    "why": "맞아! 창문을 꼭 닫은 채 두 시간 동안 바깥 공기가 한 번도 안 들어왔으니까, 차 안 공기가 그대로 고여 있는 거잖아. 새 공기가 안 들어와서 고여 있는 그 차 안 공기가 바로 stuffy야."
-  },
-  {
-   "type": "ox",
-   "question": "토요일 오전 집 거실이야. 앞쪽 창문과 뒤쪽 베란다 문을 활짝 열어 둬서 바깥 공기가 한쪽으로 들어와 반대쪽으로 계속 빠져나가고 있어. 이 거실 공기는 'stuffy'야?",
-   "choices": [
-    "응, stuffy 맞아",
-    "아니, stuffy 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, stuffy 아니야",
-   "why": "맞아! 앞쪽 창문으로 들어온 바깥 공기가 뒤쪽 베란다 문으로 계속 빠져나가고 있잖아. 공기가 고여 있지 않고 계속 바뀌니까 stuffy가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "할머니 댁의 빈 방이야. 며칠 동안 문과 창문을 꼭 닫아 두었고, 지금 그 안에는 아무도 없어. 문을 열고 들어가니 공기가 그대로 고여 있어. 이런 경우도 'stuffy'야?",
-   "choices": [
-    "응, stuffy 맞아",
-    "아니, stuffy 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, stuffy 맞아",
-   "why": "맞아! 방에 아무도 없어도 며칠 동안 문과 창문을 꼭 닫아 둬서 공기가 그대로 고여 있잖아. 사람이 몇 명인지가 아니라 바람이 안 통해서 공기가 고인 게 바로 stuffy야."
   }
  ],
  "synonyms": [],
@@ -78,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/stuffy.webp",
   "alt": "밖은 쌀쌀한데 창문이 다 닫힌 점심 뒤 교실",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/wheat/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/wheat/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/wheat/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "wheat",
  "slug": "wheat",
  "url": "https://hibbangyong.com/words/wheat/",
@@ -45,17 +45,6 @@
    "answer_index": 0,
    "answer": "이삭에 작은 알이 촘촘하게 달린 밀",
    "why": "맞아! 이삭에 작은 알들이 촘촘하게 달려서 바람에 살랑살랑 흔들리는 거, 그걸 탁탁 털어 빻으면 빵이랑 국수가 되는 게 바로 wheat, 밀이야."
-  },
-  {
-   "type": "ox",
-   "question": "덩굴에 주렁주렁 매달려 보라색으로 익은 포도를 가리키며 'wheat'라고 했어. 이게 'wheat'야?",
-   "choices": [
-    "응, 그것도 wheat야",
-    "아니, wheat가 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, wheat가 아니야",
-   "why": "맞아! 포도는 나무에 주렁주렁 매달려 익는 과일이지, 밭에서 털어 빵 만드는 누런 알곡이 아니거든. 그래서 이건 wheat가 아닌 거야."
   }
  ],
  "synonyms": [],
@@ -69,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/wheat.webp",
   "alt": "밭의 누런 이삭 → 털어서 빻으면 하얀 가루 → 빵·국수",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

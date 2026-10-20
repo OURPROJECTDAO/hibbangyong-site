@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/exhilarating/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/exhilarating/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/exhilarating/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "exhilarating",
  "slug": "exhilarating",
  "url": "https://hibbangyong.com/words/exhilarating/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, exhilarating 맞아",
    "why": "맞아! 준호는 내려오자마자 소리를 지를 만큼 마음이 들떴고, 끝났는데도 지치기는커녕 다시 타려고 리프트 쪽으로 뛰어갔잖아. 들뜨고 오히려 힘이 솟는 거, 그게 바로 exhilarating이야."
-  },
-  {
-   "type": "ox",
-   "question": "서연이가 이삿날 하루 종일 무거운 상자를 나르고 나서 바닥에 털썩 주저앉았어. 팔이 후들거리고 말할 힘도 남아 있지 않았어. 서연이에게 이 일은 'exhilarating'이었을까?",
-   "choices": [
-    "응, exhilarating 맞아",
-    "아니, exhilarating 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, exhilarating 아니야",
-   "why": "맞아! 서연이는 상자를 다 나르고 나서 바닥에 털썩 주저앉았고, 팔이 후들거리고 말할 힘도 없었잖아. exhilarating은 끝나고 나면 오히려 힘이 나고 기분이 붕 뜨는 거라서, 힘이 다 빠진 서연이 경우는 정반대야."
-  },
-  {
-   "type": "choice",
-   "question": "민지가 어제 들은 소식이 'exhilarating'이었대. 그 소식을 들은 뒤 민지 모습으로 가장 알맞은 건?",
-   "choices": [
-    "마음이 차분히 가라앉아서 조용히 쉬고 싶었어",
-    "가슴이 벅차서 가만히 못 있고 뭐라도 하고 싶었어",
-    "손에 땀이 나서 숨죽이고 다음 소식을 기다렸어",
-    "재미는 있었는데 저녁쯤엔 벌써 잊어버렸어"
-   ],
-   "answer_index": 1,
-   "answer": "가슴이 벅차서 가만히 못 있고 뭐라도 하고 싶었어",
-   "why": "맞아! 소식을 듣고 가슴이 벅차서 가만히 못 있고 뭐라도 하고 싶었다는 건, 마음이 들뜨면서 힘까지 솟은 거잖아. 바로 그게 exhilarating이야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/exhilarating.webp",
   "alt": "오디션 합격 문자를 받았을 때",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

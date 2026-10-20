@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/numerous/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/numerous/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/numerous/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "numerous",
  "slug": "numerous",
  "url": "https://hibbangyong.com/words/numerous/",
@@ -45,32 +45,6 @@
    "answer_index": 1,
    "answer": "장난감이 방 가득 넘치게 쌓인 방",
    "why": "맞아! 장난감이 방 가득 넘치게 쌓여 있으면 하나하나 세다가 포기할 만큼 많거든. 수가 이렇게 엄청 많은 게 바로 numerous인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "운동장에서 친구들이 각자 본 걸 말했어. 이 중에서 'numerous'라고 할 수 있는 건 뭘까?",
-   "choices": [
-    "운동장 구석에 놓인 축구 골대",
-    "개미가 줄지어 땅을 새까맣게 덮고 지나가",
-    "체육 선생님이 부는 호루라기 소리",
-    "형이 벽에 기대 세워둔 자전거"
-   ],
-   "answer_index": 1,
-   "answer": "개미가 줄지어 땅을 새까맣게 덮고 지나가",
-   "why": "맞아! 개미가 새까맣게 덮을 만큼 줄지어 가면 세다가 포기하게 되잖아. 그렇게 개수가 잔뜩인 게 바로 numerous인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "선생님이 사진 네 장을 보여줬어. 이 중에서 'numerous'에 해당하는 사진은 어떤 걸까?",
-   "choices": [
-    "교실 창문이 활짝 열려 있는 사진",
-    "주전자 뚜껑에서 김이 올라오는 사진",
-    "운동장 바닥에 참새가 새까맣게 내려앉은 사진",
-    "운동화 끈이 한쪽만 풀려 있는 사진"
-   ],
-   "answer_index": 2,
-   "answer": "운동장 바닥에 참새가 새까맣게 내려앉은 사진",
-   "why": "맞아! 참새가 새까맣게 앉아 있으면 세다가 포기할 만큼 마릿수가 잔뜩이잖아. 바로 그렇게 수가 어마어마하게 많은 걸 numerous라고 하는 거야."
   }
  ],
  "synonyms": [],
@@ -92,6 +66,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/numerous.webp",
   "alt": "밤하늘 별이 하나 둘이 아니라 셀 수 없이 많은 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

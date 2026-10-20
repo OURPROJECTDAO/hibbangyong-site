@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/platform/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/platform/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/platform/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "platform",
  "slug": "platform",
  "url": "https://hibbangyong.com/words/platform/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, platform이야",
    "why": "맞아! 둘레 바닥보다 한 단 쑥 높고 위가 판판해서 형이 그 위에 올라설 수 있잖아. 바로 그래서 그게 platform인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "여러 곳을 설명했어. 이 가운데 'platform'이라고 부를 수 있는 곳은 어디일까?",
-   "choices": [
-    "둘레 땅보다 한 단 높게 올라와 있고, 위는 판판해서 그 위에 올라서서 기다릴 수 있는 자리",
-    "둘레 땅이랑 똑같은 높이로 판판하게 쭉 이어진, 그냥 걸어다니는 길바닥",
-    "둘레 땅보다 푹 꺼져 내려가서, 그 안으로 기어 들어가야 하는 움푹한 자리",
-    "위에 천막 지붕이 높다랗게 덮여 있어서, 비를 피해 그 아래에 서 있는 자리"
-   ],
-   "answer_index": 0,
-   "answer": "둘레 땅보다 한 단 높게 올라와 있고, 위는 판판해서 그 위에 올라서서 기다릴 수 있는 자리",
-   "why": "맞아! 둘레보다 한 단 쑥 높고 위가 판판해서 그 위에 올라서서 기다릴 수 있잖아, 바로 그래서 그게 platform인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "마당 한쪽에 땅을 파서, 둘레보다 푹 꺼져 내려간 구덩이를 만들었어. 동생이 그 안으로 쏙 내려가 숨어. 이게 platform이야?",
-   "choices": [
-    "응, platform이야",
-    "아니, platform 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, platform 아니야",
-   "why": "맞아! 구덩이는 둘레보다 푹 꺼져서 아래로 내려간 거잖아. platform은 둘레보다 한 단 쑥 높아서 그 위에 올라서는 바닥이니까, 정반대인 구덩이는 platform이 아닌 게 딱 맞아."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/platform.webp",
   "alt": "기차역, 둘레보다 한 단 높은 평평한 바닥 위에 올라서서 기차를 기다림.",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

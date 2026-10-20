@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/attract/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/attract/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/attract/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "attract",
  "slug": "attract",
  "url": "https://hibbangyong.com/words/attract/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, attract 맞아",
    "why": "맞아! 감은 빨랫줄에 그대로 매달려 있었는데 참새가 담장 너머에서 이쪽으로 날아왔잖아. 감이 참새를 데리러 간 게 아닌데도 참새가 온 거니까, 딱 attract야."
-  },
-  {
-   "type": "ox",
-   "question": "놀이터 벤치에 비둘기들이 잔뜩 앉아 있었어. 지호가 우산을 펴서 휙휙 휘두르니까 비둘기들이 전부 멀리 날아가 버렸어. 이걸 'attract'했다고 할 수 있어?",
-   "choices": [
-    "응, attract 맞아",
-    "아니, attract 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, attract 아니야",
-   "why": "맞아! 우산 휘두르니까 비둘기들이 멀리 날아가 버렸잖아. 이건 오게 만든 게 아니라 쫓아낸 거라서 attract가 아닌 거야. attract는 부스러기한테 개미가 줄줄이 오는 것처럼 이쪽으로 오게 만드는 거거든."
-  },
-  {
-   "type": "ox",
-   "question": "우리 집 담장 밑에 라벤더를 심었어. 낮이 되면 벌들이 그 꽃으로 하나둘 날아와 앉아. 이런 경우도 'attract'야?",
-   "choices": [
-    "아니, 이건 'attract'가 아니야",
-    "응, 이것도 'attract'야"
-   ],
-   "answer_index": 1,
-   "answer": "응, 이것도 'attract'야",
-   "why": "맞아! 라벤더는 그 자리에 가만히 피어 있을 뿐인데 벌들이 저쪽에서 이쪽으로 날아온 거잖아. 꽃이 벌을 부르러 간 게 아니라 벌이 온 거니까, 그게 바로 attract야."
   }
  ],
  "synonyms": [
@@ -88,6 +66,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/attract.webp",
   "alt": "바닥에 떨어진 과자 부스러기에 개미가 줄지어 기어오는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

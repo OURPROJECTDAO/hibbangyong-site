@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/epoxy/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/epoxy/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/epoxy/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "epoxy",
  "slug": "epoxy",
  "url": "https://hibbangyong.com/words/epoxy/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, epoxy 맞아",
    "why": "맞아! 튜브 두 개에서 짜낸 걸 섞어서 발랐더니 다음 날 돌처럼 딱딱하게 굳어 버렸잖아. 두 가지를 섞으면 굳기 시작해서 아주 딱딱해지는 접착제, 그게 바로 epoxy야."
-  },
-  {
-   "type": "ox",
-   "question": "동생이 종이 포스터를 방 벽에 붙일 때 어떤 걸 썼어. 일주일 뒤 그 포스터를 깔끔하게 떼어서 다른 벽에 다시 붙였어. 동생이 붙일 때 쓴 게 'epoxy'야?",
-   "choices": [
-    "응, epoxy 맞아",
-    "아니, epoxy 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, epoxy 아니야",
-   "why": "맞아! 동생은 일주일 뒤에 포스터를 깔끔하게 떼어서 다른 벽에 다시 붙였잖아. epoxy는 한번 굳으면 돌처럼 딱딱해져서 그렇게 떼어지지 않으니까, 동생이 쓴 건 epoxy가 아닌 거지."
-  },
-  {
-   "type": "ox",
-   "question": "수아가 미술 시간에 색종이 조각을 도화지에 붙이려고 물풀을 발랐어. 이 물풀도 'epoxy'야?",
-   "choices": [
-    "응, epoxy 맞아",
-    "아니, epoxy 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, epoxy 아니야",
-   "why": "맞아! 수아가 바른 물풀은 그냥 짜서 바로 쓰고 말라도 돌처럼 딱딱해지지 않잖아. epoxy는 두 가지를 섞어야 굳기 시작하고 다 굳으면 아주 딱딱해지는 센 접착제라서, 물풀은 epoxy가 아니야."
   }
  ],
  "synonyms": [],

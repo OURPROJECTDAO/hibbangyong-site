@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/district/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/district/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/district/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "district",
  "slug": "district",
  "url": "https://hibbangyong.com/words/district/",
@@ -43,19 +43,6 @@
    "answer_index": 0,
    "answer": "응, district 맞아.",
    "why": "맞아! 고개 너머부터는 번호가 다르고 눈 치우는 차도 이쪽 것만 온다잖아. 어디부터 어디까지인지 금이 그어져 있고 정해진 게 따로 있으면, 그게 바로 조각 하나인 거야. 그러니까 삼촌네 마을도 district 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "친구 넷이 큰 지도를 펴 놓고 각자 한 군데씩 가리켰어. 그중 'district'를 가리킨 사람은 누구일까?",
-   "choices": [
-    "민수: 우편함에 '7번'이라고 찍혀 있는데, 옆 골목부터는 '8번'이래. 8번은 쓰레기 버리는 날도 우리랑 달라.",
-    "지호: 담장이 빙 둘러쳐 있고 표를 사야 들어가는 놀이공원. 안에 롤러코스터랑 회전목마가 있어.",
-    "수아: 사람 백만 명이 사는 이 도시 하나 통째로. 여기 사는 사람은 다 같은 시장님을 뽑아.",
-    "예린: 도시 밖 넓은 들판. 여기부터 저기까지 그냥 쭉 이어져 있고, 밟고 지나가도 아무도 뭐라 안 해."
-   ],
-   "answer_index": 0,
-   "answer": "민수: 우편함에 '7번'이라고 찍혀 있는데, 옆 골목부터는 '8번'이래. 8번은 쓰레기 버리는 날도 우리랑 달라.",
-   "why": "맞아! 우편함에 7번이 찍혀 있고 옆 골목부터는 8번이라는 건, 어디부터 어디까지인지 미리 금이 그어져 있다는 뜻이거든. 게다가 8번은 쓰레기 버리는 날도 다르잖아. 이름도 따로 붙고 정해진 것도 따로인 조각, 바로 그게 district인 거야."
   }
  ],
  "synonyms": [
@@ -74,6 +61,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/district.webp",
   "alt": "큰 도시나 나라 안이 미리 정해 놓은 금으로 조각조각 갈라져 있는 모습",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

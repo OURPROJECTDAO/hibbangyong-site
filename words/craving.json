@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/craving/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/craving/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/craving/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "craving",
  "slug": "craving",
  "url": "https://hibbangyong.com/words/craving/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, craving 맞아",
    "why": "맞아! 엄마는 커피를 끊었는데도 옆집 커피 냄새만 나면 한 잔 마시고 싶어서 참기가 너무 힘들잖아. 그냥 좋아하는 정도가 아니라 참기 힘들 만큼 끌려가는 마음이라서 이게 딱 craving이야."
-  },
-  {
-   "type": "ox",
-   "question": "형은 한 달 내내 같은 노래를 아침 알람으로 들었더니, 이제 그 노래 앞부분만 들려도 바로 끄고 싶어져. 형의 이 마음을 'craving'이라고 할 수 있을까?",
-   "choices": [
-    "응, craving 맞아",
-    "아니, craving 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, craving 아니야",
-   "why": "맞아! 형은 그 노래 앞부분만 들려도 바로 끄고 싶어지잖아. 이건 노래를 밀어내는 마음이야. craving은 참기 힘들 만큼 끌려가는 마음이니까, 형 마음은 craving이 아닌 게 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "다음 네 사람 중, 지금 느끼는 마음을 'craving'이라고 부르기에 가장 알맞은 사람은?",
-   "choices": [
-    "지호는 그 가수 노래를 좋아해서 기분 좋을 때 가끔 틀어 들어.",
-    "민지는 수의사가 되고 싶어서 올해 공부 계획을 차근차근 세웠어.",
-    "SNS를 끊은 누나는 며칠째 손이 자꾸 폰으로 가서 참느라 힘들어.",
-    "수아는 같은 반찬을 일주일 내내 먹었더니 이제 보기만 해도 질려."
-   ],
-   "answer_index": 2,
-   "answer": "SNS를 끊은 누나는 며칠째 손이 자꾸 폰으로 가서 참느라 힘들어.",
-   "why": "맞아! 누나는 며칠째 손이 자꾸 폰으로 가는데 참느라 힘들잖아. 그렇게 참기 힘들 만큼 지금 당장 끌려가는 마음이 바로 craving이야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/craving.webp",
   "alt": "시험 기간에 자꾸 폰이 당기는 상황",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

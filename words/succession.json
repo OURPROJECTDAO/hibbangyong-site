@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/succession/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/succession/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/succession/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "succession",
  "slug": "succession",
  "url": "https://hibbangyong.com/words/succession/",
@@ -43,28 +43,6 @@
    "answer_index": 1,
    "answer": "아니, succession 아니야",
    "why": "맞아! 12월에 딱 하루 내리고 봄까지 한 번도 안 내렸으니까, 그 눈 뒤를 이어 온 눈이 하나도 없잖아. succession은 하나 지나가면 또 하나가 줄줄이 이어 와야 하는 거라, 딱 한 번 내린 눈은 succession이 될 수 없어."
-  },
-  {
-   "type": "ox",
-   "question": "정류장에서 기다리는데 7번 버스가 왔다 가고, 2분 뒤 12번 버스, 또 2분 뒤 30번 버스가 왔어. 이걸 'a succession of buses'라고 할 수 있을까?",
-   "choices": [
-    "응, succession 맞아",
-    "아니, succession 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, succession 맞아",
-   "why": "맞아! 7번 버스가 왔다 가고, 2분 뒤 12번, 또 2분 뒤 30번 버스가 앞 버스 뒤를 하나씩 이어서 왔잖아. 버스가 이렇게 줄줄이 이어서 온 거니까 a succession of buses라고 할 수 있어."
-  },
-  {
-   "type": "ox",
-   "question": "점심시간 종이 울리고 급식실 문이 열리자, 기다리던 학생 백 명이 동시에 한꺼번에 안으로 몰려 들어갔어. 이런 경우도 'succession'이야?",
-   "choices": [
-    "응, succession 맞아",
-    "아니, succession 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, succession 아니야",
-   "why": "잘 골랐어! 백 명이 동시에 한꺼번에 몰려 들어간 거라 한 명 뒤에 또 한 명씩 이어 들어온 게 아니잖아. 그러니까 succession이 아닌 거야."
   }
  ],
  "synonyms": [
@@ -86,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/succession.webp",
   "alt": "교실 문으로 친구들이 한 명씩 이어 들어오는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

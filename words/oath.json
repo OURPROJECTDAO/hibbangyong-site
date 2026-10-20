@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/oath/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/oath/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/oath/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "oath",
  "slug": "oath",
  "url": "https://hibbangyong.com/words/oath/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, oath 맞아",
    "why": "맞아! 선수 대표가 오른손을 들고 자기 명예를 걸고 모든 관중 앞에서 끝까지 정정당당하게 겨루겠다고 했잖아. 명예를 걸고 엄숙하게 한, 쉽게 물릴 수 없는 약속이라서 바로 그게 oath인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "수영장 안전요원이 입구에 '물가에서 뛰지 말 것'이라고 적은 안내판을 세우고, 들어오는 사람들에게 꼭 지키라고 말했어. 안전요원이 한 이 말은 'oath'야?",
-   "choices": [
-    "응, oath 맞아",
-    "아니, oath 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, oath 아니야",
-   "why": "맞아! 안전요원은 자기가 뭘 걸고 약속한 게 아니라, 들어오는 사람들한테 물가에서 뛰지 말라고 지킬 규칙을 정해 준 거야. oath는 내가 스스로 무겁게 거는 약속이라서, 남한테 지키라고 하는 이 말은 oath가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 장면에서 모두 누군가 사람들 앞에서 진지하게 말하고 있어. 이 중에서 'oath'라고 부르기에 가장 알맞은 건?",
-   "choices": [
-    "새로 온 소방관들이 임명식에서 손을 들고 시민을 끝까지 지키겠다고 약속했다",
-    "반장 후보가 전교생 앞 연설에서 뽑아 주면 급식 메뉴를 바꾸겠다고 약속했다",
-    "준호가 새해 첫날 매일 운동하겠다고 일기장에 적어 책상 앞에 붙여 두었다",
-    "선생님이 개학 날 반 규칙을 칠판에 적고 모두 꼭 지키라고 말씀하셨다"
-   ],
-   "answer_index": 0,
-   "answer": "새로 온 소방관들이 임명식에서 손을 들고 시민을 끝까지 지키겠다고 약속했다",
-   "why": "맞아! 소방관들이 임명식이라는 엄숙한 자리에서 손까지 들고, 소방관이라는 자기 이름을 걸고 시민을 끝까지 지키겠다고 약속했잖아. 이렇게 무언가를 걸고 하는, 쉽게 물릴 수 없는 약속이 바로 oath야."
   }
  ],
  "synonyms": [
@@ -84,6 +60,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/oath.webp",
   "alt": "친구에게 만화책 돌려주겠다는 가벼운 약속(대비)",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

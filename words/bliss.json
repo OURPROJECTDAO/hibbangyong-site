@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/bliss/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/bliss/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/bliss/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "bliss",
  "slug": "bliss",
  "url": "https://hibbangyong.com/words/bliss/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, bliss 아니야",
    "why": "맞아! 무릎은 까지고 반은 꼴찌에, 친구들 얼굴도 못 보고 방에서 펑펑 울었잖아. 아프고 창피해서 괴로운 상태니까 행복이 꽉 찬 bliss랑은 정반대 끝이야."
-  },
-  {
-   "type": "ox",
-   "question": "여름방학 숙제를 첫 주에 다 끝냈어. 지금은 할머니 댁 평상에 누워 차가운 수박을 먹으면서, 선풍기 바람을 맞으며 매미 소리를 듣고 있어. 이 순간을 'bliss'라고 부를 수 있을까?",
-   "choices": [
-    "응, bliss 맞아",
-    "아니, bliss 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, bliss 맞아",
-   "why": "맞아! 숙제는 첫 주에 다 끝냈으니 마음에 걸리는 게 하나도 없잖아. 평상에 누워서 차가운 수박 먹고, 선풍기 바람 맞으며 매미 소리 듣는 그 조용한 순간이 행복으로 꽉 차 있으니까 딱 bliss야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 그때 기분을 말했어. 'bliss'라고 부르기에 가장 알맞은 건 누구 기분일까?",
-   "choices": [
-    "결혼식 날 가족이 다 웃는 걸 보는데, 부족한 게 하나도 없다고 느꼈어",
-    "골을 넣고 소리 지르며 뛰었는데, 경기는 결국 져서 속상했어",
-    "숙제는 다 끝내서 좋았는데, 내일 발표가 자꾸 마음에 걸렸어",
-    "비를 맞고 집에 왔는데, 문까지 잠겨 있어서 울고 싶었어"
-   ],
-   "answer_index": 0,
-   "answer": "결혼식 날 가족이 다 웃는 걸 보는데, 부족한 게 하나도 없다고 느꼈어",
-   "why": "맞아! 결혼식 날 가족이 다 웃는 걸 보면서 부족한 게 하나도 없다고 느꼈잖아. 마음에 걸리는 것 없이 행복이 꽉 찼으니까 딱 bliss인 거야."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/bliss.webp",
   "alt": "시험 끝난 금요일 밤 따뜻한 이불 속",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

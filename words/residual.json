@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/residual/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/residual/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/residual/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "residual",
  "slug": "residual",
  "url": "https://hibbangyong.com/words/residual/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, residual 아니야",
    "why": "맞아! 지금은 불꽃이 수십 발씩 동시에 터지면서 밤하늘을 가득 메운 한창때잖아. residual은 대부분 끝나고 조금 남은 걸 말하니까, 가장 꽉 찬 이 순간은 residual이 아니지."
-  },
-  {
-   "type": "ox",
-   "question": "태풍이 지나간 다음 날 아침, 거센 바람은 다 멎었는데 아직 나뭇잎을 살살 흔드는 약한 바람이 불고 있어. 이 약한 바람은 'residual'한 바람일까?",
-   "choices": [
-    "응, residual 맞아",
-    "아니, residual 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, residual 맞아",
-   "why": "맞아! 거센 바람은 다 멎고 나뭇잎만 살살 흔드는 약한 바람이 남은 거잖아. 큰 게 다 지나간 뒤에도 아직 안 사라진 조금이니까 딱 residual한 바람이야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 중 'residual'로 부르기 가장 알맞은 건 어느 거야?",
-   "choices": [
-    "시험 날 쓰려고 미리 더 챙겨 둔 연필",
-    "시험 끝나고 한참 뒤에도 가시지 않은 떨림",
-    "시험 시작 직전에 가장 크게 몰려온 떨림",
-    "시험 볼 때마다 똑같이 찾아오는 떨림"
-   ],
-   "answer_index": 1,
-   "answer": "시험 끝나고 한참 뒤에도 가시지 않은 떨림",
-   "why": "맞아! 시험이라는 큰 일은 다 끝났는데 떨림이 한참 뒤에도 가시지 않고 조금 남아 있잖아. 끝나고 나서도 남은 그 떨림이 바로 residual한 거야."
   }
  ],
  "synonyms": [],
@@ -94,6 +70,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/residual.webp",
   "alt": "감기가 나은 뒤에도 남은 기침",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/turret/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/turret/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/turret/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "turret",
  "slug": "turret",
  "url": "https://hibbangyong.com/words/turret/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, turret 아니야",
    "why": "맞아! turret은 건물에 붙어서 위로 솟은 작은 탑인데, 포도주 병이 쌓인 그 방은 바닥 아래로 땅을 파 내려간 곳이잖아. 위가 아니라 아래로 들어간 곳이라서 turret이 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "오래된 시청 건물 사진을 보고 있어. 건물 모서리 지붕 위에 둥근 방 하나가 붙어서 위로 솟아 있고, 그 꼭대기는 뾰족한 원뿔 모양이야. 이 부분을 'turret'이라고 부를 수 있을까?",
-   "choices": [
-    "응, turret 맞아",
-    "아니, turret 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, turret 맞아",
-   "why": "맞아! 시청이라는 큰 건물 모서리에 둥근 방이 붙어서 위로 솟아 있고 꼭대기도 뾰족하잖아. 큰 건물에 붙어 솟은 작은 탑, 그게 바로 turret이야."
-  },
-  {
-   "type": "choice",
-   "question": "동네 건물 사진 네 장을 보고 있어. 사진 속에서 'turret'이라고 부를 수 있는 부분은 어느 걸까?",
-   "choices": [
-    "오래된 도서관 지붕 한쪽에 얹혀 있고, 안에 계단과 좁은 방이 있는 부분",
-    "학교 운동장 한가운데에 혼자 높이 서 있는 시계탑",
-    "공장 건물 벽에 붙어서 높이 뻗어 있는 연기 나는 굴뚝",
-    "오래된 도서관 바닥 아래 땅속에 만들어 둔 책 창고"
-   ],
-   "answer_index": 0,
-   "answer": "오래된 도서관 지붕 한쪽에 얹혀 있고, 안에 계단과 좁은 방이 있는 부분",
-   "why": "맞아! 도서관 지붕 한쪽에 붙어서 위로 솟아 있고, 안에 계단이랑 좁은 방까지 있어서 사람이 들어갈 수 있잖아. 큰 건물에 붙은 작은 탑, 그게 바로 turret이야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/turret.webp",
   "alt": "성 그림 속 벽 위·지붕 한쪽에 붙은 작은 탑",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

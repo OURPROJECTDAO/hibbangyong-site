@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/conjunction/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/conjunction/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/conjunction/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "conjunction",
  "slug": "conjunction",
  "url": "https://hibbangyong.com/words/conjunction/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, conjunction 맞아",
    "why": "맞아! 민재는 PPT 화면이랑 화산 모형을 하나로 합치지 않고 각자 그대로 둔 채, 발표 내내 나란히 같이 썼잖아. 따로인 둘이 함께 맞물려 돌아간 거니까 바로 conjunction이야."
-  },
-  {
-   "type": "ox",
-   "question": "우리 동네를 지나던 마을버스 노선이 올해 없어졌어. 그 대신 같은 길로 새 지하철이 다니기 시작했지. 이제 버스는 안 다니고 지하철만 다녀. 버스와 지하철의 이런 관계를 'conjunction'이라고 할 수 있을까?",
-   "choices": [
-    "응, conjunction 맞아",
-    "아니, conjunction 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, conjunction 아니야",
-   "why": "맞아! 버스가 없어지고 그 자리에 지하철이 들어온 거라서, 둘이 같이 다니는 게 아니거든. 버스 대신 지하철이 다니게 된 거니까 conjunction이라고 할 수 없어."
-  },
-  {
-   "type": "ox",
-   "question": "미술 시간에 파란 물감과 노란 물감을 한 통에 부어 저은 뒤, 초록색 물감 한 통으로 만들었어. 이 두 물감을 두고 'conjunction'이라고 할 수 있어?",
-   "choices": [
-    "응, conjunction 맞아",
-    "아니, conjunction 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, conjunction 아니야",
-   "why": "맞아! 파란 물감이랑 노란 물감은 한 통에서 저어지는 순간 제 색을 잃고 초록색 물감 하나가 돼 버렸잖아. conjunction은 둘이 각자 모습을 그대로 가진 채 나란히 같이 가는 거라서, 이렇게 섞여 하나가 된 건 아니야."
   }
  ],
  "synonyms": [],
@@ -78,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/conjunction.webp",
   "alt": "학교 축제를 구청과 함께 연 것",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

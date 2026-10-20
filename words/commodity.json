@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/commodity/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/commodity/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/commodity/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "commodity",
  "slug": "commodity",
  "url": "https://hibbangyong.com/words/commodity/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, commodity 맞아",
    "why": "맞아! 같은 규격 복사용지는 이 가게 거랑 저 가게 걸 몰래 바꿔 놔도 아무도 못 알아채거든. 그러니까 형은 어느 가게 건지 볼 것도 없이 백 원 싼 쪽을 집은 거야. 바로 이게 commodity야."
-  },
-  {
-   "type": "ox",
-   "question": "이모가 공방에서 손으로 빚어 딱 하나만 구운 찻잔이 있어. 삼촌은 그 찻잔을 보고 값을 더 쳐서 사 갔어. 이게 'commodity'야?",
-   "choices": [
-    "응, commodity 맞아",
-    "아니, commodity 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, commodity 아니야",
-   "why": "맞아! 이모가 손으로 딱 하나만 빚었으니까 세상에 똑같은 짝이 없잖아. 몰래 다른 찻잔이랑 바꿔 놓으면 삼촌이 바로 알아챌걸? 이렇게 바꿔칠 수 없는 건 commodity가 아니야."
-  },
-  {
-   "type": "choice",
-   "question": "네 가지 이야기를 들었어. 이 중에서 'commodity'라고 부르기 딱 맞는 건 어느 쪽일까?",
-   "choices": [
-    "그 회사만 만드는 무늬라서, 사람들이 이름표를 보고 값을 더 쳐 준다",
-    "우리 집 창고에 쌓아 둔 못 상자라서, 여태 팔러 내놓은 적이 없다",
-    "누가 실어 오든 다 같은 모래라서, 공사장은 값 싼 데서 받아 온다",
-    "세상에 딱 하나뿐인 그림이라서, 값을 얼마 부를지 사람마다 다르다"
-   ],
-   "answer_index": 2,
-   "answer": "누가 실어 오든 다 같은 모래라서, 공사장은 값 싼 데서 받아 온다",
-   "why": "맞아! 누가 실어 오든 다 같은 모래니까, 이름표를 떼도 아무도 못 알아보잖아. 그러니까 값 싼 데서 받아 오는 거지. 바꿔 놔도 티가 안 나서 값만 보고 고르는 것, 그게 바로 commodity야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/commodity.webp",
   "alt": "이름표 뗀 두 가게의 소금 봉지가 구분 안 됨",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/naval/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/naval/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/naval/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "naval",
  "slug": "naval",
  "url": "https://hibbangyong.com/words/naval/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, naval 맞아",
    "why": "맞아! 이 잠수함은 나라의 바다를 지키는 군대, 그러니까 해군이 쓰는 거잖아. 해군이 쓰는 거면 naval이니까 이 잠수함도 naval 잠수함이야."
-  },
-  {
-   "type": "ox",
-   "question": "나라의 땅을 지키는 군대가 쓰는 탱크가 넓은 들판을 천천히 달리고 있어. 이 탱크는 'naval' 탱크야?",
-   "choices": [
-    "응, naval 맞아",
-    "아니, naval 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, naval 아니야",
-   "why": "맞아! 이 탱크는 나라의 땅을 지키는 군대가 들판에서 쓰는 거지, 바다를 지키는 해군이 쓰는 게 아니잖아. 그래서 naval이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "바다와 땅에서 탈것 네 개가 움직이고 있어. 이 중에서 'naval'이라고 부를 수 있는 건 뭘까?",
-   "choices": [
-    "새벽에 고기를 잡으러 나간 어부들의 배",
-    "섬 사이를 돌며 관광객을 태운 배",
-    "바다 경계를 돌며 지키는 군인들의 배",
-    "산속 부대를 오가는 군인들의 트럭"
-   ],
-   "answer_index": 2,
-   "answer": "바다 경계를 돌며 지키는 군인들의 배",
-   "why": "맞아! 바다 경계를 돌며 지키는 군인들의 배는 바다에 있으면서 군대 배이기도 하잖아. 바다를 지키는 군대, 그러니까 해군 배라서 바로 그게 naval인 거야."
   }
  ],
  "synonyms": [],
@@ -83,6 +59,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/naval.webp",
   "alt": "항구에 줄지어 선 회색 군함",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

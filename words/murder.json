@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/murder/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/murder/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/murder/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "murder",
  "slug": "murder",
  "url": "https://hibbangyong.com/words/murder/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, murder 맞아",
    "why": "맞아! 도둑이 주인을 몰래 뒤따라가서 죽인 거잖아. 실수로 부딪힌 것도 아니고, 나쁜 마음 먹고 일부러 그런 거니까 바로 그게 murder인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "만화에서 소방관이 불난 집에 뛰어들어 창고 주인을 업고 나왔어. 이걸 'murder'라고 해?",
-   "choices": [
-    "응, murder 맞아",
-    "아니, murder 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, murder 아니야",
-   "why": "그래, 아니야! 소방관은 사람을 업고 나와서 살려 낸 거잖아. 살려 낸 건 murder랑 정반대야. murder는 나쁜 마음으로 일부러 사람을 죽이는 거거든."
-  },
-  {
-   "type": "choice",
-   "question": "네 가지 일이 있었어. 이 중에서 'murder'라고 부를 수 있는 건 어느 거야?",
-   "choices": [
-    "나쁜 마음을 먹고 이웃을 일부러 죽인 사람",
-    "깜빡 실수로 차 사고를 내서 사람이 죽은 일",
-    "오래 병을 앓다가 할아버지가 돌아가신 일",
-    "다친 새를 밤새 돌봐서 다시 살려낸 일"
-   ],
-   "answer_index": 0,
-   "answer": "나쁜 마음을 먹고 이웃을 일부러 죽인 사람",
-   "why": "맞아! 나쁜 마음을 먹고 이웃을 일부러 죽였으니까, 바로 그게 murder인 거야. 사람을, 일부러, 나쁜 마음으로 죽인 거거든."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/murder.webp",
   "alt": "탐정 이야기 속, 나쁜 마음으로 계획해서 사람을 죽인 사건",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

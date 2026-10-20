@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/restoration/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/restoration/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/restoration/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "restoration",
  "slug": "restoration",
  "url": "https://hibbangyong.com/words/restoration/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, restoration 아니야",
    "why": "맞게 골랐어! 100년 된 한옥을 굴착기로 부숴서 없애 버린 건 원래 모습으로 되돌린 게 아니라 원래 모습을 아예 없앤 거라서, restoration이랑은 방향이 정반대야."
-  },
-  {
-   "type": "ox",
-   "question": "박물관 전문가들이 300년 된 조선 시대 그림을 1년 동안 손봤어. 색이 바래고 찢어진 부분을 처음 그렸을 때의 색과 모습으로 되돌려 놓았지. 이 일이 'restoration'이야?",
-   "choices": [
-    "응, restoration 맞아",
-    "아니, restoration 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, restoration 맞아",
-   "why": "맞아! 전문가들이 색이 바래고 찢어진 그림을 손봐서 처음 그렸을 때의 색과 모습으로 되돌려 놓았잖아. 망가진 걸 원래대로 돌려놓았으니까 restoration이 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "태풍이 지나간 뒤 마을 사람들이 한 일 네 가지야. 이 중 'restoration'이라고 부르기 가장 알맞은 건?",
-   "choices": [
-    "무너진 가게 자리에 전혀 다른 카페를 새로 지었어",
-    "부러질 것 같은 나무를 미리 줄로 묶어 두었어",
-    "끊겼던 전기를 다시 들어오게 만들어 놓았어",
-    "금이 간 낡은 담을 아예 허물어 치워 버렸어"
-   ],
-   "answer_index": 2,
-   "answer": "끊겼던 전기를 다시 들어오게 만들어 놓았어",
-   "why": "맞아! 태풍 때문에 끊겼던 전기를 원래처럼 다시 들어오게 해 놓은 거니까, 망가진 상태를 되돌린 바로 그 restoration이야. 건물이 아니라 전기 같은 상태를 되돌리는 것도 이 말로 불러."
   }
  ],
  "synonyms": [],
@@ -89,6 +65,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/restoration.webp",
   "alt": "칠이 벗겨지고 금 간 옛날 궁궐 문을 처음 모습으로 되돌림",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

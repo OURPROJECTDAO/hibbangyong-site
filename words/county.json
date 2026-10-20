@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/county/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/county/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/county/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "county",
  "slug": "county",
  "url": "https://hibbangyong.com/words/county/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, county 아니야.",
    "why": "맞아! 집 한 채는 딱 한 곳, 한 점이잖아. county는 그런 집이랑 마을이 여러 개 통째로 들어갈 만큼 넓은 칸이거든. 그러니까 파란 대문 집 하나는 county가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "친구 넷이 자기가 사는 곳이 얼마나 큰지 말했어. 'county'에 사는 사람은 누구일까?",
-   "choices": [
-    "국경선으로 빙 둘러싸인 땅 전체야. 국기도 있고 대통령도 있어.",
-    "집들이랑 가게 하나가 옹기종기 모인 데야. 걸어서 다 돌 만큼 작아.",
-    "마을이랑 도시 몇 개를 한 묶음으로 품은 데야. 나라 전체는 아니고 그 한 조각이야.",
-    "우리 식구만 사는 집 한 채야. 대문 안까지만 우리 거야."
-   ],
-   "answer_index": 2,
-   "answer": "마을이랑 도시 몇 개를 한 묶음으로 품은 데야. 나라 전체는 아니고 그 한 조각이야.",
-   "why": "맞아! 마을도 들어가고 도시도 몇 개 들어가는데 나라 전체는 아니고 그 한 조각이잖아. 딱 그만큼 크기가 바로 county야."
-  },
-  {
-   "type": "ox",
-   "question": "민서가 세계지도를 펴고 대한민국 테두리를 손가락으로 쭉 따라 그렸어. 그러고는 그 선 안에 든 땅 전부를 가리키면서 \"여기가 우리 county야\" 하고 말했어. 민서 말이 맞아?",
-   "choices": [
-    "응, county 맞아.",
-    "아니, county 아니야."
-   ],
-   "answer_index": 1,
-   "answer": "아니, county 아니야.",
-   "why": "맞아! 나라 테두리 안에 든 땅 전부는 나라(country) 통째잖아. county는 그 나라를 여러 칸으로 나눈 것 중 한 칸이라서, 나라 전체를 가리키면 county가 아닌 게 맞아."
   }
  ],
  "synonyms": [
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/county.webp",
   "alt": "지도에서 나라 하나를 여러 칸으로 나눠 그중 한 칸을 보는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

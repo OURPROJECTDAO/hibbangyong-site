@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/dissemination/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/dissemination/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/dissemination/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "dissemination",
  "slug": "dissemination",
  "url": "https://hibbangyong.com/words/dissemination/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, dissemination 맞아",
    "why": "맞아! 기상청 한 곳에서 나온 태풍 경보가 TV 방송, 라디오, 휴대폰 문자를 타고 그 지역 사람들 모두한테 퍼졌잖아. 이렇게 소식 하나가 여러 사람한테 넓게 퍼지는 게 바로 dissemination이야."
-  },
-  {
-   "type": "ox",
-   "question": "한 식당 요리사가 자기 소스 만드는 법을 가족에게도, 직원에게도 알려 주지 않고 수첩에 적어 혼자만 보관하고 있어. 이게 'dissemination'일까?",
-   "choices": [
-    "응, dissemination 맞아",
-    "아니, dissemination 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, dissemination 아니야",
-   "why": "맞아! 요리사는 소스 만드는 법을 가족한테도 직원한테도 안 알려 주고 수첩에 적어 혼자만 갖고 있잖아. 아무한테도 안 퍼뜨렸으니까 dissemination이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "아래 네 가지 일 중에서 'dissemination'이라고 부르기에 가장 알맞은 건 뭘까?",
-   "choices": [
-    "누가 가짜 뉴스를 여러 단톡방에 올려서 온 동네 사람들이 다 보게 됐어",
-    "선생님이 시험 범위를 민수 한 명한테만 조용히 귀띔해 줬어",
-    "회사가 새로 만든 기술을 아무도 모르게 금고에 꽁꽁 숨겨 뒀어",
-    "가게 주인이 들어오는 손님들한테 사은품 컵을 하나씩 나눠 줬어"
-   ],
-   "answer_index": 0,
-   "answer": "누가 가짜 뉴스를 여러 단톡방에 올려서 온 동네 사람들이 다 보게 됐어",
-   "why": "맞아! 가짜 뉴스가 여러 단톡방을 타고 온 동네 사람들한테 다 퍼졌잖아. 소식이 좋든 나쁘든, 이렇게 여러 사람한테 넓게 퍼뜨려지는 게 바로 dissemination이야."
   }
  ],
  "synonyms": [
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/dissemination.webp",
   "alt": "학생회가 바뀐 급식 시간을 단톡방에 올려 전교생에게 퍼짐",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

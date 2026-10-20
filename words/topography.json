@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/topography/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/topography/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/topography/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "topography",
  "slug": "topography",
  "url": "https://hibbangyong.com/words/topography/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, topography 맞아",
    "why": "맞아! 가파른 절벽, 움푹 파인 골짜기, 평평한 풀밭은 다 캠핑장 땅이 솟고 꺼지고 평평하게 놓인 생김새잖아. 그래서 이 소개는 바로 캠핑장의 topography를 설명한 거야."
-  },
-  {
-   "type": "ox",
-   "question": "섬 여행 안내 책자에 이런 소개가 적혀 있어. \"이 섬은 1년 내내 따뜻하고, 겨울에도 눈이 거의 내리지 않아요.\" 이 소개는 섬의 'topography'를 설명한 거야?",
-   "choices": [
-    "응, topography 맞아",
-    "아니, topography 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, topography 아니야",
-   "why": "잘 골랐어, 아닌 게 맞아. 1년 내내 따뜻하다는 것과 눈이 거의 안 온다는 건 날씨 이야기일 뿐이야. 이 섬의 땅이 어디가 솟고 어디가 꺼졌는지는 한마디도 없으니까 topography를 설명한 게 아니야."
-  },
-  {
-   "type": "choice",
-   "question": "친구들이 각자 사는 동네 얘기를 했어. 동네의 'topography'에 대해 말한 친구는 누구일까?",
-   "choices": [
-    "우리 학교는 언덕 꼭대기라 오를 때마다 숨차.",
-    "우리 학교 뒷산은 가을마다 단풍이 참 예뻐.",
-    "우리 동네는 여름마다 비가 정말 많이 와.",
-    "우리 동네 지도는 휴대폰 앱에 다 나와 있어."
-   ],
-   "answer_index": 0,
-   "answer": "우리 학교는 언덕 꼭대기라 오를 때마다 숨차.",
-   "why": "맞아! 학교가 언덕 꼭대기에 있어서 올라갈 때마다 숨이 찬다는 건, 그 동네 땅이 높이 솟아 있다는 얘기잖아. 땅이 어디가 높고 어디가 낮은지, 그 생김새가 바로 topography야."
   }
  ],
  "synonyms": [
@@ -95,6 +71,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/topography.webp",
   "alt": "자전거로 동네를 돌며 오르막과 꺼진 곳을 느끼는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

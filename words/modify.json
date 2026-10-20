@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/modify/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/modify/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/modify/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "modify",
  "slug": "modify",
  "url": "https://hibbangyong.com/words/modify/",
@@ -43,32 +43,6 @@
    "answer_index": 0,
    "answer": "응, modify 맞아",
    "why": "맞아! 앞치마는 그대로 두고 주머니 아래쪽 한 군데만 다시 박아서 다르게 만들었잖아. 있던 걸 버리지 않고 손봐서 바꾸는 거, 그게 바로 modify야."
-  },
-  {
-   "type": "choice",
-   "question": "민서가 자기 자전거를 'modify' 했대. 민서가 한 일로 맞는 것은?",
-   "choices": [
-    "자전거를 창고에 세워 둔 채로 두었어.",
-    "자전거 옆에 서서 사진을 한 장 찍었어.",
-    "자전거 손잡이를 조금 더 위로 올려 놨어.",
-    "자전거를 친구에게 하루 동안 빌려주었어."
-   ],
-   "answer_index": 2,
-   "answer": "자전거 손잡이를 조금 더 위로 올려 놨어.",
-   "why": "맞아! 손잡이를 위로 올렸으면 자전거는 그대로 있는데 한 군데만 달라진 거잖아. 바로 그게 modify야."
-  },
-  {
-   "type": "choice",
-   "question": "친구 넷이 비 오는 날 각자 자기 우산을 가지고 이렇게 했어. 자기 우산을 'modify' 한 사람은 누구야?",
-   "choices": [
-    "하준이는 우산을 폈다 접었다 하며 비가 새는 곳이 있나 살펴봤어.",
-    "시우는 자기 우산을 친구 우산과 나란히 세워 놓고 크기를 재 봤어.",
-    "도윤이는 우산 손잡이 끝에 작은 노란 방울을 하나 매달아 놨어.",
-    "유나는 우산을 쓰고 마당을 한 바퀴 돌고 다시 집으로 들어왔어."
-   ],
-   "answer_index": 2,
-   "answer": "도윤이는 우산 손잡이 끝에 작은 노란 방울을 하나 매달아 놨어.",
-   "why": "맞아! 도윤이는 우산은 그대로 두고 손잡이 끝에만 방울을 하나 달았잖아. 새 우산을 산 것도 아니고, 원래 우산에 한 군데만 달라진 거야. 그게 바로 modify야."
   }
  ],
  "synonyms": [],
@@ -88,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/modify.webp",
   "alt": "종이비행기 날개 끝을 살짝 위로 접는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

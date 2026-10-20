@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/undergo/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/undergo/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/undergo/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "undergo",
  "slug": "undergo",
  "url": "https://hibbangyong.com/words/undergo/",
@@ -43,28 +43,6 @@
    "answer_index": 1,
    "answer": "아니, undergo 아니야",
    "why": "맞아! 색연필한테는 아무 일도 안 일어났잖아. 서랍 안에서 그냥 그대로 있기만 했으니까 지나갈 일 자체가 없는 거야. 그래서 undergo가 아닌 게 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "할머니 댁 마당에 있는 낡은 대문이 페인트가 다 벗겨져서, 인부들이 사흘 동안 대문을 사포로 갈고 새 페인트를 칠했어. 대문은 그 사흘을 그대로 있으면서 그 일을 다 받았어. 대문이 이걸 'undergo' 했다고 할 수 있을까?",
-   "choices": [
-    "응, undergo 맞아",
-    "아니, undergo 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, undergo 맞아",
-   "why": "맞아! 대문은 스스로 아무것도 안 했는데 사포로 갈리고 페인트가 칠해지는 그 사흘이 대문한테 그대로 일어났잖아. 빨래통 옷이랑 똑같은 거야, 그래서 이게 바로 undergo인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "사촌 형이 일 년 사이에 키가 12센티나 자라서 작년에 입던 옷이 하나도 안 맞게 됐어. 형은 특별히 뭘 한 것도 아니고 아픈 데도 없었대. 이런 경우도 'undergo'야?",
-   "choices": [
-    "응, 'undergo' 맞아",
-    "아니, 'undergo' 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, 'undergo' 맞아",
-   "why": "맞아! 형이 뭘 한 것도 아닌데 몸에서 키가 자라는 일이 형한테 일어났고, 형은 그 일 년을 그냥 지나온 거잖아. 나한테 일어나는 일을 처음부터 끝까지 통과하는 게 바로 undergo야."
   }
  ],
  "synonyms": [
@@ -80,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/undergo.webp",
   "alt": "빨래통 속 옷이 물에 잠기고 돌고 헹궈지는 시간을 통과하는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

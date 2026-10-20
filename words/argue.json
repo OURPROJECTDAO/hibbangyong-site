@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/argue/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/argue/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/argue/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "argue",
  "slug": "argue",
  "url": "https://hibbangyong.com/words/argue/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, argue 맞아",
    "why": "맞아! 너도 노랑이 눈에 잘 띈다고 까닭을 대고, 짝꿍도 파랑이 글씨가 잘 보인다고 까닭을 댔잖아. 서로 자기가 맞다고 이유로 겨루는 그게 바로 argue인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "형이랑 네 가지 일이 있었어. 어느 게 'argue'한 걸까?",
-   "choices": [
-    "형은 \"30분만 더 하게 해 줘, 숙제 다 끝냈잖아!\" 나는 \"안 돼, 그럼 눈 나빠져!\" 서로 자기가 맞다며 안 물러섰어.",
-    "형이랑 서로 \"너 밉다!\" \"너야말로!\" 씩씩대다가 홱 돌아서 버렸어.",
-    "형이 뭐라고 하든 나는 \"응, 형 말이 맞아\" 하고 다 따랐어.",
-    "형한테 보드게임 규칙이 어떻게 되는지 차근차근 알려 주기만 했어."
-   ],
-   "answer_index": 0,
-   "answer": "형은 \"30분만 더 하게 해 줘, 숙제 다 끝냈잖아!\" 나는 \"안 돼, 그럼 눈 나빠져!\" 서로 자기가 맞다며 안 물러섰어.",
-   "why": "맞아! 숙제 다 끝냈으니까, 눈 나빠지니까 — 둘 다 자기 까닭을 대면서 안 물러섰잖아. 그렇게 이유로 겨루는 게 바로 argue인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "놀이터에서 친구가 \"오늘은 그네 말고 미끄럼틀 타자\" 했어. 나는 그네를 타고 싶었지만 아무 말도 보태지 않고 \"그래, 미끄럼틀 타자\" 하고 친구를 따라갔어. 이게 'argue'야?",
-   "choices": [
-    "응, argue 맞아",
-    "아니, argue 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, argue 아니야",
-   "why": "맞아! 그냥 \"그래\" 하고 바로 따라간 거잖아. 내 말이 맞다고 이유를 대면서 겨룬 대목이 하나도 없으니까 argue가 아닌 거야."
   }
  ],
  "synonyms": [],
@@ -93,6 +69,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/argue.webp",
   "alt": "동생이랑 저녁 메뉴(피자냐 치킨이냐)를 두고 이유 대며 겨루는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

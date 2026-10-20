@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/frost/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/frost/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/frost/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "frost",
  "slug": "frost",
  "url": "https://hibbangyong.com/words/frost/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, frost 맞아",
    "why": "맞아! 밤새 차가운 빨랫줄 철사 위에서 물기가 그 자리에서 얼어붙어 하얗게 덮인 거거든. 문지르니까 서걱거리며 벗겨지고, 그 자리가 젖었지? 얼어 있던 게 녹아서 물이 된 거야. 그래서 이게 바로 frost인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "여름 아침에 텐트 밖으로 나왔더니 텐트 천 위에 작은 물방울이 잔뜩 맺혀 있었어. 손바닥으로 쓸었더니 축축하게 젖고 물이 뚝뚝 떨어졌어. 이게 'frost'야?",
-   "choices": [
-    "응, frost 맞아",
-    "아니, frost 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, frost 아니야",
-   "why": "맞아! 텐트 천 위에 있던 건 얼지 않은 물방울이었잖아. 손바닥으로 쓸었더니 축축하게 젖고 물이 뚝뚝 떨어졌지. frost는 물기가 그 자리에서 하얗게 얼어붙은 거라서, 이건 frost가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 각자 밖에서 본 걸 말했어. 'frost'를 본 아이는 누구야?",
-   "choices": [
-    "미끄럼틀 손잡이가 하얀 가루에 덮여서 손을 대니 서걱하고 부스러졌대",
-    "하늘에서 하얀 게 펑펑 날아와 미끄럼틀 위에 발목까지 수북이 쌓였대",
-    "길에 있던 물웅덩이가 통째로 단단히 굳어서 밟아도 꿈쩍 안 했대",
-    "잎사귀마다 물방울이 동글동글 맺혀서 손을 대니 또르르 흘러내렸대"
-   ],
-   "answer_index": 0,
-   "answer": "미끄럼틀 손잡이가 하얀 가루에 덮여서 손을 대니 서걱하고 부스러졌대",
-   "why": "맞아! 미끄럼틀 손잡이 위에 하얀 가루가 얇게 덮여 있었고, 손을 대니 서걱하고 부스러졌지. 하늘에서 내려온 게 아니라 손잡이 위에서 그대로 얼어붙은 거라서, 바로 그게 frost인 거야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/frost.webp",
   "alt": "아침 마당 풀잎이 하얗게 덮인 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

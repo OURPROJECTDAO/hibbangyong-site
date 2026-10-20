@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/compression/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/compression/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/compression/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "compression",
  "slug": "compression",
  "url": "https://hibbangyong.com/words/compression/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, compression 맞아",
    "why": "맞아! 캔은 그대로 다 있는데 발로 꾹 밟아서 납작해진 거잖아. 밖에서 눌러서 더 작은 자리에 들어가게 했으니까 이게 바로 compression이야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 물건 크기가 달라진 일을 말했어. 'compression'이 일어난 건 누구 얘기일까?",
-   "choices": [
-    "캠핑 가기 전에 침낭을 끈으로 꽉 조였더니 작은 주머니에 쏙 들어갔어",
-    "가방이 안 닫혀서 만화책 두 권을 꺼냈더니 지퍼가 겨우 잠겼어",
-    "스웨터를 뜨거운 물에 빨았더니 크기가 저절로 한 치수 줄었어",
-    "빵 반죽을 따뜻한 곳에 두었더니 두 배 크기로 부풀어 올랐어"
-   ],
-   "answer_index": 0,
-   "answer": "캠핑 가기 전에 침낭을 끈으로 꽉 조였더니 작은 주머니에 쏙 들어갔어",
-   "why": "맞아! 침낭은 하나도 안 빼고 그대로인데, 끈으로 꽉 조여서 작은 주머니에 들어갈 만큼 자리만 줄였잖아. 조여서 같은 걸 더 작은 자리에 넣은 거니까 이게 바로 compression이야."
-  },
-  {
-   "type": "ox",
-   "question": "한여름 뙤약볕 아래에서 기찻길 쇠막대가 뜨겁게 달궈졌어. 그랬더니 쇠막대 길이가 조금 늘어나서 막대 사이 틈이 좁아졌어. 쇠막대가 이렇게 늘어난 일이 'compression'일까?",
-   "choices": [
-    "응, compression 맞아",
-    "아니, compression 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, compression 아니야",
-   "why": "맞아! 쇠막대는 누가 누르거나 조인 게 아니야. 뜨거워져서 스스로 길어졌잖아. 더 큰 자리를 차지하게 됐으니까 compression이랑 반대로 늘어난 거야(이건 expansion이야)."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/compression.webp",
   "alt": "이불 압축팩에서 공기 빼고 누르기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

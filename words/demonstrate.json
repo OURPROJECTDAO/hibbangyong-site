@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/demonstrate/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/demonstrate/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/demonstrate/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "demonstrate",
  "slug": "demonstrate",
  "url": "https://hibbangyong.com/words/demonstrate/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, demonstrate 맞아",
    "why": "맞아! 형이 말로만 안 뒤집힌다고 하지 않고, 동생을 데려가서 진짜 바람을 맞혀 보여줬잖아. 눈앞에서 직접 해 보여서 믿게 만든 거, 그게 바로 demonstrate야."
-  },
-  {
-   "type": "ox",
-   "question": "누나가 직접 만든 팔찌를 가방 안쪽 주머니에 넣고 지퍼를 잠갔어. 친구가 뭐 있냐고 물어도 꺼내지 않았어. 이게 'demonstrate'야?",
-   "choices": [
-    "응, demonstrate 맞아",
-    "아니, demonstrate 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, demonstrate 아니야",
-   "why": "맞아! 가방 안쪽 주머니에 넣고 지퍼까지 잠갔으니까 아무도 못 보잖아. 보여줘서 알게 하는 거랑은 정반대인 거야. 누나가 팔찌를 꺼내서 친구 손목에 대보이면서 이렇게 만들었다고 해 보이면, 그때가 demonstrate야."
-  },
-  {
-   "type": "choice",
-   "question": "선생님이 아이들한테 종이비행기 접는 법을 'demonstrate'했대. 선생님은 어떻게 한 걸까?",
-   "choices": [
-    "아이들을 앞에 모아 놓고 종이를 집어 한 단계씩 접어 나갔어.",
-    "아이들을 앞에 모아 놓고 접는 순서를 말로 또박또박 알려 줬어.",
-    "아이들이 모두 나간 뒤에 교실에서 혼자 몇 번 접어 봤어.",
-    "먼저 접어 둔 비행기를 서랍에 넣고 아무한테도 안 꺼냈어."
-   ],
-   "answer_index": 0,
-   "answer": "아이들을 앞에 모아 놓고 종이를 집어 한 단계씩 접어 나갔어.",
-   "why": "맞아! 아이들 앞에서 종이를 진짜로 집어서 한 단계씩 접어 보였잖아. 보는 사람 눈앞에서 직접 해 보여서 알게 한 거니까, 그게 바로 demonstrate야."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/demonstrate.webp",
   "alt": "장난감이 어떻게 굴러가는지 눈앞에서 굴려 보인 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

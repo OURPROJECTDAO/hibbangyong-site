@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/version/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/version/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/version/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "version",
  "slug": "version",
  "url": "https://hibbangyong.com/words/version/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, version 맞아",
    "why": "맞아! 같은 종이접기 개구리인데 눈 색만 살짝 다른 거잖아. 김밥에 시금치 넣고 안 넣고처럼, 같은 걸 조금 다르게 만든 하나하나가 바로 version인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "내 책가방 안에 필통이 들어 있어. 필통이랑 책가방은 처음부터 서로 딴 물건이야. 필통은 책가방의 다른 version이야?",
-   "choices": [
-    "응, version 맞아",
-    "아니, version 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, version 아니야",
-   "why": "맞아! 필통이랑 책가방은 처음부터 서로 딴 물건이거든. 하나가 조금 달라진 게 아니라 아예 다른 물건이라서, 이건 version이 아닌 게 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "우리 반은 '얼음땡'을 하는데, 술래를 세 명으로 정해서 놀아. 그러면 금방 다 잡혀서 원래 하던 얼음땡보다 재미가 없어. 이것도 'version'이야?",
-   "choices": [
-    "응, version 맞아",
-    "아니, version 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, version 맞아",
-   "why": "맞아! 술래를 세 명으로 바꾼 그것도 원래 얼음땡을 조금 다르게 만든 거잖아. 더 재밌어졌든 재미없어졌든 상관없거든. 같은 놀이인데 조금 다르게 만든 거라서 바로 그게 version인 거야."
   }
  ],
  "synonyms": [],
@@ -89,6 +67,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/version.webp",
   "alt": "엄마 김밥과 할머니 김밥이 시금치 하나로 갈리는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

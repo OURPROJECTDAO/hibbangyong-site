@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/opinion/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/opinion/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/opinion/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "opinion",
  "slug": "opinion",
  "url": "https://hibbangyong.com/words/opinion/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, opinion 맞아",
    "why": "맞아! 지호는 미역국이 제일 맛있다고 했는데 옆자리 친구는 제일 맛없대. 같은 미역국을 두고 둘이 딱 갈렸잖아. 이렇게 사람마다 다르게 볼 수 있는 생각이 바로 opinion이야."
-  },
-  {
-   "type": "ox",
-   "question": "운동장에서 줄자로 재보고 민서가 말했어. \"이 줄넘기 줄은 이 미터야.\" 다시 재도 똑같이 이 미터가 나왔어. 민서가 한 말은 'opinion'이야?",
-   "choices": [
-    "응, opinion 맞아",
-    "아니, opinion 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, opinion 아니야",
-   "why": "그래, 이건 opinion이 아니야. 줄자로 재면 누가 재도 똑같이 이 미터가 나오니까, 다르게 말할 수가 없거든. 이렇게 답이 하나로 딱 나오는 건 사실이야."
-  },
-  {
-   "type": "choice",
-   "question": "병원에서 네 사람이 한마디씩 했어. 이 중에서 'opinion'을 말한 사람은 누구일까?",
-   "choices": [
-    "의사: 제가 보기엔 수술보다 약이 더 나을 것 같아요.",
-    "간호사: 체온계로 재 보니 열이 삼십팔 도예요.",
-    "약사: 이 약은 하루에 세 번 먹게 정해져 있어요.",
-    "엄마: 어제부터 기침을 하기 시작했어요."
-   ],
-   "answer_index": 0,
-   "answer": "의사: 제가 보기엔 수술보다 약이 더 나을 것 같아요.",
-   "why": "맞아! 의사 선생님이 제가 보기엔 약이 더 나을 것 같다고 했잖아. 다른 의사는 수술이 낫다고 볼 수도 있거든. 이렇게 사람마다 갈릴 수 있는 생각이라서 바로 그게 opinion인 거야."
   }
  ],
  "synonyms": [],
@@ -94,6 +70,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/opinion.webp",
   "alt": "창밖 비를 두고 갈릴 게 없는 말과 갈리는 말",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

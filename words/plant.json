@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/plant/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/plant/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/plant/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "plant",
  "slug": "plant",
  "url": "https://hibbangyong.com/words/plant/",
@@ -45,30 +45,6 @@
    "answer_index": 2,
    "answer": "튤립 구근을 화단 흙에 넣고 흙 덮기",
    "why": "맞아! 구근을 흙에 쏙 넣고 흙을 도로 덮었잖아. 거기서 뿌리 내리고 자라라고 넣은 거니까, 그게 바로 plant야."
-  },
-  {
-   "type": "ox",
-   "question": "수아가 텃밭에 다 자란 당근의 잎을 잡고 흙 밖으로 쑥 뽑아서 바구니에 담았어. 이게 'plant'야?",
-   "choices": [
-    "응, plant 맞아",
-    "아니, plant 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, plant 아니야",
-   "why": "맞아! 다 자란 당근을 흙 밖으로 쑥 뽑아낸 거잖아. plant는 흙 속에 넣고 덮어서 자라게 하는 건데, 이건 딱 반대로 꺼낸 거라서 plant가 아닌 게 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "지아가 마당 흙에 뭔가를 넣고, 흙을 도로 덮었어. 뭘 넣었는지는 안 보였는데 지아가 \"이거 'plant'한 거야\"라고 했어. 그럼 지아는 며칠 뒤 그 자리가 어떻게 되어 있길 바라는 걸까?",
-   "choices": [
-    "아무도 못 찾게 그대로 숨겨져 있기",
-    "거기서 싹이 트고 잎이 올라와 있기",
-    "며칠 뒤에 도로 파내서 손에 쥐기",
-    "흙이 단단히 굳어 자국도 안 남기"
-   ],
-   "answer_index": 1,
-   "answer": "거기서 싹이 트고 잎이 올라와 있기",
-   "why": "맞아! plant는 그 자리에서 자라라고 넣는 거거든. 그러니까 며칠 뒤엔 흙을 뚫고 싹이 쏙 올라와 있는 거야. 지아가 기다리는 게 바로 그거야."
   }
  ],
  "synonyms": [],
@@ -84,6 +60,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/plant.webp",
   "alt": "마당에 구멍 파고 어린 나무 넣고 흙 덮기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/unique/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/unique/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/unique/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "unique",
  "slug": "unique",
  "url": "https://hibbangyong.com/words/unique/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, unique 맞아",
    "why": "응, 맞아! 네가 손으로 조물조물 빚은 인형은 세상에 딱 하나뿐이거든. 다른 사람이 아무리 똑같이 만들려고 해도 손자국 하나까지 똑같은 건 절대 없어. 그래서 지문처럼 unique한 거야."
-  },
-  {
-   "type": "ox",
-   "question": "편의점에서 파는 콜라 캔 하나를 집어 들었어. 이 콜라 캔, unique해?",
-   "choices": [
-    "응, unique 맞아",
-    "아니, unique 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, unique 아니야",
-   "why": "맞아! 편의점 콜라 캔은 공장에서 똑같은 걸로 수백 개 수천 개 만들어서 어디에나 있잖아. 똑같은 게 이렇게 많으니까 하나뿐인 게 아니야. 그래서 unique가 아닌 게 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "미술 시간에 네가 물감을 엎어서 우연히 얼룩이 번졌어. 두 번 다시 똑같이는 안 나오는 얼룩인데, 지저분하고 못생겼어. 이런 얼룩도 'unique'라고 할 수 있을까?",
-   "choices": [
-    "응, unique 맞아.",
-    "아니, unique 아니야."
-   ],
-   "answer_index": 0,
-   "answer": "응, unique 맞아.",
-   "why": "맞아! unique는 예쁘냐 못생겼냐가 아니라 똑같은 게 또 없느냐가 중요한 거거든. 두 번 다시 안 나오는 얼룩이니까 딱 하나뿐, 그래서 unique 맞아."
   }
  ],
  "synonyms": [
@@ -87,6 +65,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/unique.webp",
   "alt": "사람마다 다 다른 손끝 지문 무늬",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

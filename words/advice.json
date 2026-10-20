@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/advice/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/advice/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/advice/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "advice",
  "slug": "advice",
  "url": "https://hibbangyong.com/words/advice/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, advice 맞아",
    "why": "맞아! 색칠이 잘 안 될 때 이렇게 잡아보면 어떨까 하고 친구가 건네준 말이잖아. 시키는 것도 아니고 안 해도 혼나지 않아. 나 잘되라고 방법을 알려준 말, 그게 바로 advice야."
-  },
-  {
-   "type": "ox",
-   "question": "블록으로 탑을 쌓는데 자꾸 무너져. 내가 형한테 \"형, 이거 어떻게 쌓아? 나 좀 알려줘\" 하고 말했어. 내가 한 이 말이 'advice'야?",
-   "choices": [
-    "응, advice 맞아",
-    "아니, advice 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, advice 아니야",
-   "why": "맞아! 이건 형한테 알려달라고 물어본 거잖아. 말이 나한테서 나간 게 아니라 도와줘 하고 부탁한 거라서 advice가 아니야. advice는 형이 이렇게 쌓아봐 하고 나한테 건네주는 그 말이거든."
-  },
-  {
-   "type": "choice",
-   "question": "운동장에서 친구들이 너한테 한마디씩 했어. 이 중에 'advice'인 건 뭘까?",
-   "choices": [
-    "줄넘기가 자꾸 걸리네, 팔을 몸에 더 붙여봐 하고 알려준 말",
-    "지금 당장 신발 정리해, 안 하면 못 나가 하고 시킨 말",
-    "우와 너 줄넘기 진짜 빨리 넘는다 하고 칭찬한 말",
-    "나 줄넘기 어떻게 해, 나도 좀 알려줘 하고 물어본 말"
-   ],
-   "answer_index": 0,
-   "answer": "줄넘기가 자꾸 걸리네, 팔을 몸에 더 붙여봐 하고 알려준 말",
-   "why": "맞아! 줄넘기가 자꾸 걸리는 걸 보고 팔을 붙여보라고 방법을 알려줬잖아. 나 잘되라고 이렇게 해보라며 알려주는 말, 그게 바로 advice야."
   }
  ],
  "synonyms": [],
@@ -84,6 +60,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/advice.webp",
   "alt": "자전거를 타다 자꾸 넘어지는 아이에게 누나가 앞을 보라고 말해주는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

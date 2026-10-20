@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/pond/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/pond/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/pond/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "pond",
  "slug": "pond",
  "url": "https://hibbangyong.com/words/pond/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, pond 맞아",
    "why": "맞아! 노래 한 곡 부르는 사이에 한 바퀴 돌 만큼 작고, 물이 그동안 어디로도 안 흘러가고 가만히 있었잖아. 작고 고여 있는 물, 그게 딱 pond인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "가족 여행에서 큰 배를 탔어. 물 위를 반나절이나 달렸는데도 사방이 물뿐이고 건너편 땅은 보이지 않았어. 파도가 계속 밀려왔다 밀려갔어. 이게 'pond'야?",
-   "choices": [
-    "응, pond 맞아",
-    "아니, pond 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, pond 아니야",
-   "why": "맞아! 반나절이나 달렸는데 건너편 땅이 안 보이고 파도까지 밀려왔잖아. 그렇게 끝없이 넓고 파도치는 물은 pond가 아니라 바다야. pond는 빙 둘러 걸으면 금방 반대편에 닿을 만큼 작은 물이거든. 잘 골랐어!"
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 자기 동네에 있는 물을 하나씩 말했어. 이 중에서 'pond'라고 부를 수 있는 건?",
-   "choices": [
-    "공원 한쪽에 늘 고여 있는 물, 빙 둘러 걸으면 1분이면 반대편에 닿아",
-    "산에서 내려와 돌 사이로 졸졸 지나가는 물, 종이배를 놓으면 떠내려가",
-    "배를 타고 한참 가야 건너편이 보이는 아주 넓게 펼쳐진 물",
-    "어제 비가 와서 놀이터에 잠깐 생긴 물, 오늘 해가 나니 말라 버렸어"
-   ],
-   "answer_index": 0,
-   "answer": "공원 한쪽에 늘 고여 있는 물, 빙 둘러 걸으면 1분이면 반대편에 닿아",
-   "why": "맞아! 물이 흘러가지 않고 한자리에 가만히 있고, 게다가 빙 둘러 걸으면 금방 반대편에 닿을 만큼 작잖아. 늘 거기 그대로 있는 작고 가만한 물, 그게 바로 pond인 거야."
   }
  ],
  "synonyms": [],
@@ -85,6 +61,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/pond.webp",
   "alt": "공원의 고여 있는 물",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

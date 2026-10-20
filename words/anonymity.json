@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/anonymity/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/anonymity/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/anonymity/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "anonymity",
  "slug": "anonymity",
  "url": "https://hibbangyong.com/words/anonymity/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, anonymity 맞아",
    "why": "맞아! 쪽지에 이름이 없어서 사서 선생님도 누가 넣었는지 전혀 모르잖아. 의자가 삐걱거린다는 내용은 다 보이는데 넣은 사람이 누구인지만 가려져 있으니까, 바로 그게 anonymity인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "우리 학교 방송부 아나운서 선배는 매일 아침 방송에 이름과 얼굴이 나와. 그래서 학교 사람이면 누구나 그 선배가 누군지 알아. 선배의 이런 상태, 이게 'anonymity'야?",
-   "choices": [
-    "응, anonymity 맞아",
-    "아니, anonymity 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, anonymity 아니야",
-   "why": "맞아! 선배는 매일 아침 방송에 이름이랑 얼굴이 나와서 학교 사람 누구나 그 선배가 누군지 알잖아. anonymity는 누군지 아무도 모르는 상태니까, 이건 딱 반대라서 아닌 게 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "네 유튜버 모두 구독자가 백만 명쯤 되는 인기 채널을 운영해. 이 중 'anonymity'가 있는 유튜버는 누구야?",
-   "choices": [
-    "이 유튜버는 영상마다 목소리만 나오고, 이름과 얼굴을 한 번도 공개한 적이 없어.",
-    "이 유튜버는 이름과 얼굴이 TV 광고에도 나와서, 길에서 알아보는 사람이 많아.",
-    "이 유튜버는 영상마다 첫 장면에서 자기 이름을 말하고, 얼굴을 보여 주며 시작해.",
-    "이 유튜버는 이름과 얼굴을 공개했지만, 다음 영상 주제는 한 번도 미리 밝힌 적이 없어."
-   ],
-   "answer_index": 0,
-   "answer": "이 유튜버는 영상마다 목소리만 나오고, 이름과 얼굴을 한 번도 공개한 적이 없어.",
-   "why": "맞아! 구독자가 백만 명이나 되는데 이름도 얼굴도 한 번도 공개하지 않았으니까, 이 유튜버가 누구인지 아무도 몰라. 인기가 아무리 많아도 누구인지가 가려져 있으면 그게 바로 anonymity야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/anonymity.webp",
   "alt": "이름 칸 없는 학교 설문지에 솔직하게 적기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/respite/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/respite/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/respite/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "respite",
  "slug": "respite",
  "url": "https://hibbangyong.com/words/respite/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, respite 맞아",
    "why": "맞아! 석 달째 매일 이어지던 공사 소음이 일요일 하루만 멎었고, 월요일부터 다시 시끄러워지잖아. 괴로운 게 아직 안 끝났는데 잠깐 멎어서 숨 돌리는 그 하루가 바로 respite야."
-  },
-  {
-   "type": "ox",
-   "question": "여름방학이라 원래 아무 일정도 없는 날, 민준이는 하루 종일 집에서 게임만 했어. 이런 경우도 'respite'야?",
-   "choices": [
-    "응, respite 맞아",
-    "아니, respite 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, respite 아니야",
-   "why": "맞아! 민준이는 원래 일정이 없는 방학 날에 그냥 게임을 한 거라, 그 앞에 내려놓을 힘든 일이 없었어. respite는 힘든 게 있다가 잠깐 멎은 틈이라서, 이건 그냥 노는 하루일 뿐이야."
-  },
-  {
-   "type": "ox",
-   "question": "2년 동안 매일 끼고 다니던 치아 교정기를 오늘 치과에서 완전히 뺐어. 이제 다시 낄 일은 없대. 교정기를 뺀 오늘부터의 생활은 'respite'일까?",
-   "choices": [
-    "응, respite 맞아",
-    "아니, respite 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, respite 아니야",
-   "why": "맞아! 교정기는 오늘 완전히 뺐고 다시 낄 일도 없대. 힘든 게 잠깐 멎은 게 아니라 아주 끝난 거니까 respite가 아니야. respite는 힘든 게 잠깐 멈췄다가 다시 이어질 때 쓰는 말이거든."
   }
  ],
  "synonyms": [],

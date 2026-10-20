@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/distribute/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/distribute/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/distribute/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "distribute",
  "slug": "distribute",
  "url": "https://hibbangyong.com/words/distribute/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, distribute 맞아",
    "why": "맞아! 한 상자에 뭉쳐 있던 우유를 갈라서 친구들 책상마다 하나씩 가 닿게 했잖아. 한 명이 다 갖는 것도 아니고 다 같이 한 갑을 나눠 마시는 것도 아니고, 여러 몫으로 갈라서 다 가게 한 거니까 바로 그게 distribute야."
-  },
-  {
-   "type": "ox",
-   "question": "운동장 여기저기 굴러다니던 축구공을 지호가 하나씩 주워서 공 바구니 하나에 전부 담았어. 이게 'distribute'야?",
-   "choices": [
-    "응, distribute 맞아",
-    "아니, distribute 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, distribute 아니야",
-   "why": "맞아! 흩어져 있던 공을 하나로 모은 거잖아. distribute는 그 반대야 — 여러 몫으로 갈라서 여기저기 다 가게 하는 거거든. 방향이 정반대라서 이건 distribute가 아닌 게 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "오늘은 학교 대청소 날이야. 선생님이 쓰레기봉투 한 뭉치를 들고 와서 아이들 스물다섯 명 앞에 한 장씩 놓아 줬어. 이런 것도 'distribute'야?",
-   "choices": [
-    "아니, distribute 아니야",
-    "응, distribute 맞아"
-   ],
-   "answer_index": 1,
-   "answer": "응, distribute 맞아",
-   "why": "맞아! 봉투가 반가운 물건이든 아니든 상관없거든. 한 뭉치를 스물다섯 명한테 한 장씩 빠짐없이 갈라서 다 가게 했잖아. 몫을 나눠서 여기저기 다 가게 한 거니까 바로 그게 distribute야."
   }
  ],
  "synonyms": [],
@@ -86,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/distribute.webp",
   "alt": "선생님이 줄 사이를 걸으며 종이를 한 장씩 놓는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/situate/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/situate/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/situate/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "situate",
  "slug": "situate",
  "url": "https://hibbangyong.com/words/situate/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, situate 맞아",
    "why": "맞아! 마을 사람들이 지도를 펴고 주변을 살핀 다음, 기차역 바로 앞 걸어서 오기 쉬운 자리에 도서관을 두기로 했잖아. 주변을 보고 딱 그 자리에 자리 잡게 한 거니까 바로 그게 situate인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "마을 사람들이 강가에 오래 서 있던 작은 매점을 뜯어내서 그 자리를 텅 빈 땅으로 만들었어. 이렇게 매점을 그 자리에서 없앤 건 'situate'야?",
-   "choices": [
-    "응, situate 맞아",
-    "아니, situate 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, situate 아니야",
-   "why": "맞아! 마을 사람들은 매점을 강가 그 자리에 자리 잡게 한 게 아니라, 뜯어내서 그 자리를 텅 빈 땅으로 만들었거든. 자리에서 없앤 거니까 situate가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 한 일을 말했어. 무언가를 'situate'한 친구는?",
-   "choices": [
-    "지도를 보고 우체국이 어디 있는지 찾아냈어.",
-    "주인공의 집을 눈 덮인 산속에 두고 만화를 그렸어.",
-    "가방을 현관 아무 데나 휙 던져 놓고 나갔어.",
-    "공원에 있던 낡은 벤치를 트럭에 실어 치웠어."
-   ],
-   "answer_index": 1,
-   "answer": "주인공의 집을 눈 덮인 산속에 두고 만화를 그렸어.",
-   "why": "맞아! 주인공의 집을 아무 데나 그린 게 아니라, 눈 덮인 산속이라는 자리를 골라서 거기에 두었잖아. 이렇게 이야기 속 집을 어떤 자리에 자리 잡게 하는 게 바로 situate인 거야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/situate.webp",
   "alt": "새 놀이터를 어디에 둘지 정하기(학교 옆·강가·언덕 위)",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

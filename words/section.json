@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/section/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/section/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/section/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "section",
  "slug": "section",
  "url": "https://hibbangyong.com/words/section/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, section 맞아",
    "why": "맞아! 책장을 그림책 칸, 동화책 칸, 과학책 칸 이렇게 갈라 놨잖아. 그중에 동화책만 모여 있는 그 한 칸, 바로 그게 section인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "동네 수영장은 줄이나 칸막이로 나눈 데가 하나도 없고 물이 처음부터 끝까지 통째로 이어져 있어. 수아가 그 수영장 전체를 손으로 크게 가리켰어. 수아가 가리킨 게 'section'이야?",
-   "choices": [
-    "응, section 맞아",
-    "아니, section 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, section 아니야",
-   "why": "맞아! 이 수영장은 줄도 칸막이도 없이 물이 처음부터 끝까지 통째로 이어져 있잖아. 갈라 놓은 자리가 없으니까 그중 한 덩어리도 없는 거야. 그래서 수아가 가리킨 전체는 section이 아닌 게 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "놀이터 미끄럼틀 손잡이가 부러져서 작은 플라스틱 조각 하나가 바닥에 떨어져 있어. 이 떨어져 나온 조각도 'section'이야?",
-   "choices": [
-    "응, section 맞아",
-    "아니, section 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, section 아니야",
-   "why": "맞아! 이 조각은 누가 미끄럼틀을 몇 덩어리로 갈라 놓은 것 중 하나가 아니거든. 손잡이가 부러지면서 우연히 떨어져 나온 작은 조각이라서 section이 아닌 거야."
   }
  ],
  "synonyms": [],
@@ -84,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/section.webp",
   "alt": "과일·과자·우유로 자리를 갈라 놓은 마트에서 과자가 모인 한 덩어리",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

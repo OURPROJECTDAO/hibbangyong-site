@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/habitat/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/habitat/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/habitat/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "habitat",
  "slug": "habitat",
  "url": "https://hibbangyong.com/words/habitat/",
@@ -45,32 +45,6 @@
    "answer_index": 2,
    "answer": "맑은 물이 흐르는 강가",
    "why": "맞아! 수달이 헤엄치고 먹이 잡고 잠도 자는 데가 바로 그 강가잖아. 자연에서 늘 그렇게 지내는 자리, 그게 habitat인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 중 야생 농게의 'habitat'에 해당하는 것은?",
-   "choices": [
-    "한쪽만 큰 집게발",
-    "바닷물이 드나드는 갯벌",
-    "소금이 굳어 있는 호수 바닥",
-    "구멍을 파고 드나드는 일"
-   ],
-   "answer_index": 1,
-   "answer": "바닷물이 드나드는 갯벌",
-   "why": "맞아! 농게가 바닷물 드나드는 갯벌에서 밥도 찾고 집도 짓고 사는 거잖아. 그 갯벌 전체가 농게가 원래 사는 곳이라서 바로 그게 habitat인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "친구들이 야생 원숭이에 대해 말했어. 원숭이의 'habitat'을 맞게 말한 사람은 누구일까?",
-   "choices": [
-    "원숭이가 원래 살던, 나무가 우거진 숲 전체야",
-    "원숭이가 나뭇가지를 모아 만든 잠자리 하나야",
-    "원숭이를 잡아다 가둬 놓은 동물원 우리야",
-    "원숭이가 한 번도 못 사는 꽁꽁 언 얼음 나라야"
-   ],
-   "answer_index": 0,
-   "answer": "원숭이가 원래 살던, 나무가 우거진 숲 전체야",
-   "why": "맞아! 원숭이가 원래부터 사는 나무 우거진 숲 전체, 먹이도 있고 몸도 편한 그 자리 통째로가 바로 habitat인 거야."
   }
  ],
  "synonyms": [],
@@ -88,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/habitat.webp",
   "alt": "뜨거운 사막에서 사는 낙타",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

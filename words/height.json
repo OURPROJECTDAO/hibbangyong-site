@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/height/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/height/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/height/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "height",
  "slug": "height",
  "url": "https://hibbangyong.com/words/height/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, height 맞아",
    "why": "맞아! 바닥에서 책장 꼭대기까지 위로 얼마나 큰지 재고 있잖아. 위로 얼마만큼인지, 그게 바로 height인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "커다란 냉장고 하나를 두고 무엇을 잴지 정하려고 해. 냉장고의 'height'를 재려면 어디를 재야 할까?",
-   "choices": [
-    "앞면이 옆으로 얼마나 넓은지",
-    "앞에서 뒤로 얼마나 깊이 들어가는지",
-    "바닥에서 꼭대기까지 위로 얼마나 큰지",
-    "안에 선반이 몇 칸 들어 있는지"
-   ],
-   "answer_index": 2,
-   "answer": "바닥에서 꼭대기까지 위로 얼마나 큰지",
-   "why": "맞아! 바닥에서 꼭대기까지 위로 얼마나 큰지, 그게 바로 height거든. 냉장고 옆에 서서 나보다 큰가 작은가 볼 때 재는 게 딱 이거야."
-  },
-  {
-   "type": "ox",
-   "question": "수영장 가장자리에 서서, 물 표면에서 수영장 바닥까지 아래로 얼마나 깊이 내려가는지 재고 있어. 이게 'height'야?",
-   "choices": [
-    "응, height 맞아",
-    "아니, height 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, height 아니야",
-   "why": "맞아! 물 밑으로 얼마나 내려가는지를 재고 있잖아. height는 바닥에서 위로 얼마나 올라갔나 하는 거니까, 아래로 내려가는 건 height가 아닌 거야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/height.webp",
   "alt": "동생과 벽에 등 대고 키 재보기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/centralized/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/centralized/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/centralized/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "centralized",
  "slug": "centralized",
  "url": "https://hibbangyong.com/words/centralized/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, centralized 맞아",
    "why": "맞아! 전국 가게 수백 곳이 각자 정하는 게 아니라, 서울 본사 한 곳에서 무슨 물건을 얼마에 팔지 전부 정해서 알려 주잖아. 여러 곳의 일을 한 곳에서 다 정하는 거니까 바로 그게 centralized인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "어느 시에는 구립 도서관이 다섯 곳 있어. 새로 살 책은 도서관마다 그곳 사서가 자기 도서관 것만 따로 정해서 사. 이 도서관들의 책 사는 방식은 'centralized'일까?",
-   "choices": [
-    "응, centralized 맞아",
-    "아니, centralized 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, centralized 아니야",
-   "why": "맞아! 다섯 도서관 사서가 각자 자기 도서관 책만 따로 정해서 사잖아. 한 곳에서 다 정하는 게 아니니까 centralized가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "우리 학년 여섯 반은 합치지 않고 그대로 따로따로 있어. 그런데 어느 반이 체육 창고 공을 언제 빌릴지는 체육관 사무실 한 곳에서 여섯 반 것을 다 정해 줘. 이런 경우도 'centralized'야?",
-   "choices": [
-    "응, centralized 맞아",
-    "아니, centralized 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, centralized 맞아",
-   "why": "맞아! 여섯 반은 따로따로 그대로 있지만, 공을 언제 빌릴지는 체육관 사무실 한 곳에서 여섯 반 걸 다 정해 주잖아. 반이 합쳐졌냐가 아니라 한 곳에서 다 정하냐가 기준이라서 이게 바로 centralized야."
   }
  ],
  "synonyms": [],
@@ -89,6 +67,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/centralized.webp",
   "alt": "교무실에서 모든 교실 에어컨을 켜고 끄는 학교",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

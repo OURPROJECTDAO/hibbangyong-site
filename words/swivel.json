@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/swivel/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/swivel/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/swivel/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "swivel",
  "slug": "swivel",
  "url": "https://hibbangyong.com/words/swivel/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, swivel 맞아",
    "why": "맞아! 아빠는 운전석에 앉은 그대로인데 바라보는 쪽만 뒤로 바뀌었잖아. 앉은 자리는 두고 몸을 돌려 다른 쪽을 향했으니까 바로 그게 swivel인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "거실 소파에 앉아 있던 엄마가 일어나서 부엌 식탁까지 걸어가 다른 의자에 앉았어. 이걸 'swivel'이라고 할 수 있을까?",
-   "choices": [
-    "응, swivel 맞아",
-    "아니, swivel 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, swivel 아니야",
-   "why": "맞아! 엄마는 소파에서 일어나서 부엌 식탁 의자까지 걸어갔잖아. 앉은 자리가 아예 바뀌었으니까 swivel이 아니야. swivel은 앉은 자리는 그대로 두고 향하는 쪽만 휙 바뀌는 거거든."
-  },
-  {
-   "type": "choice",
-   "question": "다음 중 'swivel'로 말하기에 가장 알맞은 장면은?",
-   "choices": [
-    "동생이 문 쪽으로 걸어가서 밖을 내다봤어",
-    "천장 카메라가 문 쪽으로 빙 돌아갔어",
-    "공이 문 쪽으로 데굴데굴 굴러갔어",
-    "강아지가 문 쪽을 보며 고개를 갸웃했어"
-   ],
-   "answer_index": 1,
-   "answer": "천장 카메라가 문 쪽으로 빙 돌아갔어",
-   "why": "맞아! 천장 카메라는 천장에 붙은 자리는 그대로 두고 방향만 문 쪽으로 빙 돌린 거잖아. 사람이 아니라 물건이어도 붙은 자리에서 축을 중심으로 돌면 바로 swivel인 거야."
   }
  ],
  "synonyms": [
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/swivel.webp",
   "alt": "앞자리 친구가 의자에 앉은 채 뒤로 휙 도는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

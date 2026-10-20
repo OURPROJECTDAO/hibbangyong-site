@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/microscopic/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/microscopic/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/microscopic/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "microscopic",
  "slug": "microscopic",
  "url": "https://hibbangyong.com/words/microscopic/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, microscopic 아니야",
    "why": "맞아! 대왕고래는 버스 두 대를 이은 것보다 길잖아. microscopic은 눈으로 거의 못 볼 만큼 아주 작은 거라서, 이렇게 거대한(huge) 대왕고래랑은 완전히 반대야."
-  },
-  {
-   "type": "ox",
-   "question": "보건 시간에 선생님이 피 한 방울 속에 들어 있는 적혈구 한 개 이야기를 하셨어. 적혈구 한 개는 'microscopic'해?",
-   "choices": [
-    "응, microscopic 맞아",
-    "아니, microscopic 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, microscopic 맞아",
-   "why": "맞아! 선생님이 피 한 방울 속에 있다고 하신 적혈구 한 개는 맨눈으로 아무리 봐도 안 보일 만큼 작거든. 그래서 바로 microscopic인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "과학 시간에 민지가 어떤 걸 보고 'microscopic'하다고 했어. 민지가 말한 건 뭐였을까?",
-   "choices": [
-    "너무 멀리 있어서 밤하늘에서 안 보이는 별",
-    "손톱보다 작지만 맨눈으로 또렷이 보이는 개미",
-    "물방울 속에 떠다녀도 맨눈엔 안 잡히는 생물",
-    "교실 하나를 꽉 채울 만큼 커다란 공룡 뼈"
-   ],
-   "answer_index": 2,
-   "answer": "물방울 속에 떠다녀도 맨눈엔 안 잡히는 생물",
-   "why": "맞아! 물방울 속에 떠다니는데도 맨눈엔 안 잡히는 건, 멀리 있거나 숨어 있어서가 아니라 생물 크기 자체가 너무 작아서야. 바로 그게 microscopic인 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/microscopic.webp",
   "alt": "씻은 손에 붙은 안 보이는 세균",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

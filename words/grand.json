@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/grand/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/grand/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/grand/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "grand",
  "slug": "grand",
  "url": "https://hibbangyong.com/words/grand/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, grand 맞아",
    "why": "맞아! 지붕이 운동장만큼 넓고 돌기둥이 스무 개나 줄지어 서 있으니까, 크게 벌여 놓은 거잖아. 그래서 사람들이 고개를 젖히고 우와 하는 거야. 바로 그게 grand야."
-  },
-  {
-   "type": "ox",
-   "question": "저녁에 할머니가 부엌에서 국수를 두 그릇 삶았어. 밥상 위에는 그릇 두 개랑 김치 한 접시가 놓여 있고, 할머니랑 나 둘이 마주 앉아 먹어. 이게 'grand'야?",
-   "choices": [
-    "응, grand 맞아",
-    "아니, grand 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, grand 아니야",
-   "why": "맞아! 그릇 두 개에 둘이 마주 앉은 조용한 저녁이잖아. 크게 벌여 놓은 게 하나도 없으니까 우와 소리가 안 나오는 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 방학에 뭘 할지 말했어. 될지 안 될지는 아직 아무도 몰라. 이 중에서 'grand'한 계획은 누구 거야?",
-   "choices": [
-    "산꼭대기까지 길을 내서 마을 사람 모두 걸어 오르게 하겠다는 계획",
-    "빈 상자를 백 개 모아 마당 구석에 차곡차곡 쌓아 두겠다는 계획",
-    "손바닥만 한 수첩을 반짝이 스티커로 빼곡히 꾸미겠다는 계획",
-    "저녁마다 동생이랑 마루에 앉아 만화책을 읽겠다는 계획"
-   ],
-   "answer_index": 0,
-   "answer": "산꼭대기까지 길을 내서 마을 사람 모두 걸어 오르게 하겠다는 계획",
-   "why": "맞아! 산꼭대기까지 길을 내고 마을 사람을 다 오르게 한다니, 얼마나 크게 벌인 일이야. 듣기만 해도 우와 소리가 나오지? 될지 안 될지는 몰라도, 이렇게 크고 대단해 보이는 게 바로 grand야."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/grand.webp",
   "alt": "언덕 위에 아무도 안 사는, 대문과 계단이 어마어마한 옛날 집",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

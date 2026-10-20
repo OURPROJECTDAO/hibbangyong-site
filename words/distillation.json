@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/distillation/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/distillation/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/distillation/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "distillation",
  "slug": "distillation",
  "url": "https://hibbangyong.com/words/distillation/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, distillation 맞아",
    "why": "맞아! 민수는 파란 잉크가 섞인 물을 끓이고, 올라온 김을 차가운 유리관에서 식히고, 맺힌 맑은 물방울을 빈 컵에 모았잖아. 끓이고 식히고 다시 모으는 게 다 들어 있어서 바로 그게 distillation인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "지은이가 미술 시간에 진한 빨간 물감을 팔레트에 짜고, 거기에 물을 듬뿍 부어 붓으로 저었어. 그랬더니 연한 분홍색 물감이 됐어. 지은이가 한 이 과정이 'distillation'일까?",
-   "choices": [
-    "응, distillation 맞아",
-    "아니, distillation 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, distillation 아니야",
-   "why": "맞아! 지은이는 빨간 물감에 물을 부어서 더 섞었을 뿐이야. 끓이지도 않았고 김을 식혀 다시 모으지도 않았으니까, 뭔가를 따로 뽑아낸 게 아니라서 distillation이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "과학 시간에 네 모둠이 똑같은 바닷물로 실험을 했어. 'distillation'을 한 모둠은 어디일까?",
-   "choices": [
-    "바닷물을 끓여 나온 김을 차가운 관에 통과시켜 물방울로 받았어",
-    "바닷물을 거름종이 위에 부어 아래로 떨어진 물을 컵에 받았어",
-    "바닷물을 넓은 접시에 두고 물이 다 날아가 하얀 가루만 남게 했어",
-    "바닷물에 수돗물을 더 부어 저어서 덜 짠 물로 만들었어"
-   ],
-   "answer_index": 0,
-   "answer": "바닷물을 끓여 나온 김을 차가운 관에 통과시켜 물방울로 받았어",
-   "why": "맞아! 바닷물을 끓여 나온 김을 차가운 관에서 식혀 물방울로 다시 받았잖아. 끓이고, 식히고, 다시 모으는 걸 다 했으니까 바로 그게 distillation인 거야."
   }
  ],
  "synonyms": [],
@@ -91,6 +67,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/distillation.webp",
   "alt": "바닷물을 끓여 김을 식혀 짜지 않은 물 받기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

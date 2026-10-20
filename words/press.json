@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/press/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/press/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/press/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "press",
  "slug": "press",
  "url": "https://hibbangyong.com/words/press/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, press 맞아",
    "why": "맞아! 손바닥으로 위에서 꾹 힘껏 눌러서 납작하게 만들었잖아. 그렇게 힘을 줘서 누르는 게 바로 press야."
-  },
-  {
-   "type": "ox",
-   "question": "형이 서랍 손잡이를 잡고 자기 몸 쪽으로 쭉 당겨서 서랍을 열었어. 이게 'press'야?",
-   "choices": [
-    "응, press 맞아",
-    "아니, press 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, press 아니야",
-   "why": "맞아! 손잡이를 잡고 내 쪽으로 쭉 당긴 건 끌어오는 거잖아. press는 반대로 힘을 줘서 꾹 누르는 거니까, 당겨서 연 건 press가 아닌 게 맞아!"
-  },
-  {
-   "type": "choice",
-   "question": "다음 중 무언가를 'press'한 상황으로 가장 알맞은 건?",
-   "choices": [
-    "레몬을 손에 쥐고 꾹 눌러 즙을 짜냈다",
-    "손잡이를 잡고 문을 내 쪽으로 당겼다",
-    "지나가다 친구 어깨에 살짝 닿기만 했다",
-    "공을 잡아서 멀리 던졌다"
-   ],
-   "answer_index": 0,
-   "answer": "레몬을 손에 쥐고 꾹 눌러 즙을 짜냈다",
-   "why": "맞아! 레몬을 손에 쥐고 꾹 힘줘서 눌렀잖아. 즙이 나올 만큼 꽉 눌렀으니까 바로 그게 press야. 버튼만 누르는 게 아니라 쥐어 짜는 것도 press거든."
   }
  ],
  "synonyms": [],
@@ -85,6 +61,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/press.webp",
   "alt": "버튼·레몬·꽃·도장을 손으로 꾹 눌러 힘을 주는 한 장면.",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

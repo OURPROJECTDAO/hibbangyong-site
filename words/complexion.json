@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/complexion/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/complexion/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/complexion/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "complexion",
  "slug": "complexion",
  "url": "https://hibbangyong.com/words/complexion/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, complexion 얘기 맞아",
    "why": "맞아! 햇볕에 그을려서 얼굴 피부가 거무스름해진 건 얼굴 피부 빛깔이 바뀐 거라서, 바로 그게 complexion 얘기인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "방학 때 미용실에 가서 검은 머리카락을 밝은 갈색으로 염색했어. 이건 내 'complexion' 얘기일까?",
-   "choices": [
-    "응, complexion 얘기 맞아",
-    "아니, complexion 얘기 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, complexion 얘기 아니야",
-   "why": "맞아! 염색한 건 머리카락 색이지 얼굴 피부가 아니잖아. complexion은 얼굴 피부의 빛깔이랑 결만 말하는 거라서, 머리를 밝은 갈색으로 바꾼 건 상관없는 얘기야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 자기 얘기를 했어. 'complexion' 얘기를 한 사람은 누구일까?",
-   "choices": [
-    "요즘 볼에 뾰루지가 잔뜩 나서 얼굴이 울퉁불퉁해.",
-    "시험이 끝나니까 나도 모르게 얼굴에 웃음이 번져.",
-    "아빠를 닮아서 콧날이 높고 눈이 꽤 큰 편이야.",
-    "축구하다 넘어져서 무릎 피부가 다 까져 버렸어."
-   ],
-   "answer_index": 0,
-   "answer": "요즘 볼에 뾰루지가 잔뜩 나서 얼굴이 울퉁불퉁해.",
-   "why": "맞아! 뾰루지 때문에 얼굴 피부가 울퉁불퉁해졌다는 건 얼굴 피부의 결 얘기라서 바로 그게 complexion이야. 하얗고 고운 피부만 complexion인 게 아니라, 거칠어진 얼굴 피부도 똑같이 complexion이거든."
   }
  ],
  "synonyms": [],

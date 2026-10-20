@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/standard/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/standard/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/standard/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "standard",
  "slug": "standard",
  "url": "https://hibbangyong.com/words/standard/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, standard 맞아",
    "why": "맞아! 아이들이 오기 전부터 그 선이 이미 그어져 있었잖아. 미리 정해 두고 다들 거기다 키를 대보는 것, 그게 바로 standard야."
-  },
-  {
-   "type": "ox",
-   "question": "할머니가 김치찌개에 고춧가루를 넣어. 숟가락도 저울도 안 쓰고, 넣을 때마다 손으로 집어서 그날 마음 가는 대로 털어 넣어. 정해 둔 양은 없어. 이 고춧가루 넣는 방식이 'standard'야?",
-   "choices": [
-    "응, standard 맞아",
-    "아니, standard 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, standard 아니야",
-   "why": "맞아! 그날그날 손 가는 대로 털어 넣으면 미리 정해 둔 양이 아예 없는 거잖아. 대볼 게 없으니까 standard가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "학교 달리기 대회 날, 달리기 시작하기 전에 이미 있던 게 넷이야. 이 중에 'standard'인 건 어느 걸까?",
-   "choices": [
-    "20초 안에만 들어오면 상을 준다고 미리 알려 준 그 헐렁한 시간",
-    "복도에서는 절대 뛰지 말라고 미리 붙여 둔 그 딱딱한 말",
-    "작년에 아이들이 달린 시간을 다 모아 나온 그 가운데 시간",
-    "시간을 재려고 미리 챙겨 둔 그 초시계랑 호루라기"
-   ],
-   "answer_index": 0,
-   "answer": "20초 안에만 들어오면 상을 준다고 미리 알려 준 그 헐렁한 시간",
-   "why": "맞아! 달리기도 하기 전에 이미 스무 초가 딱 정해져 있었잖아. 그 시간에 대고 넘었나 못 넘었나를 가르는 거니까, 헐렁해 보여도 바로 그게 standard인 거야. 정해 둔 선은 낮게도 정할 수 있거든."
   }
  ],
  "synonyms": [],
@@ -83,6 +59,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/standard.webp",
   "alt": "어른들이 미리 정해 둔 종이 크기와 프린터에 쏙 들어가는 종이",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/pentagon/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/pentagon/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/pentagon/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "pentagon",
  "slug": "pentagon",
  "url": "https://hibbangyong.com/words/pentagon/",
@@ -43,28 +43,6 @@
    "answer_index": 1,
    "answer": "아니, pentagon 아니야",
    "why": "맞아! 동전 테두리는 곧은 변도 뾰족한 꼭짓점도 하나 없이 동그랗게 이어져 있잖아. pentagon은 변이 딱 다섯 개여야 하는데 하나도 없으니까 pentagon이 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "연필을 깎기 전에 뒤쪽 끝을 들여다봤어. 각진 모양이라 변을 하나씩 세어 보니 여섯 개였어. 이 모양도 'pentagon'이야?",
-   "choices": [
-    "응, pentagon 맞아",
-    "아니, pentagon 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, pentagon 아니야",
-   "why": "잘 셌어! 연필 뒤쪽 끝은 변이 여섯 개잖아. pentagon은 딱 다섯 개일 때만이라서, 여섯 개인 이 모양은 육각형(이건 hexagon이야)이야."
-  },
-  {
-   "type": "ox",
-   "question": "네모난 색종이의 한쪽 모서리를 가위로 비스듬히 싹둑 잘라냈어. 남은 종이의 곧은 변을 세어 보니 5개, 뾰족한 꼭짓점도 5개야. 이 종이 모양은 'pentagon'이야?",
-   "choices": [
-    "응, pentagon 맞아",
-    "아니, pentagon 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, pentagon 맞아",
-   "why": "맞아! 색종이 모서리 하나를 잘라내니까 곧은 변이 5개, 꼭짓점도 5개가 됐잖아. 변이 딱 다섯이니까 바로 그게 pentagon인 거야."
   }
  ],
  "synonyms": [],
@@ -78,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/pentagon.webp",
   "alt": "도형의 변 다섯 개 세기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/hence/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/hence/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/hence/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "hence",
  "slug": "hence",
  "url": "https://hibbangyong.com/words/hence/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, hence 맞아",
    "why": "맞아! 뚜껑을 안 닫아 놨으니까 붓이 굳은 거잖아. 앞엣일 때문에 뒤엣일이 생긴 거라서 바로 그게 hence인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "형이 물을 매일 줬어. 그런데도 화분의 잎이 다 시들어 버렸어. 이 두 토막을 잇는 게 'hence'야?",
-   "choices": [
-    "응, hence 맞아",
-    "아니, hence 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, hence 아니야",
-   "why": "잘 봤어! 물을 매일 줬으면 잎이 쑥쑥 자라야 어울리는데, 오히려 다 시들어 버렸잖아. 뒤에 말한 일이 앞에 한 일 때문에 생긴 게 아니라 거꾸로 어긋나 버린 거라서 hence로는 못 이어. 이런 자리엔 그런데도라고 이어 줘야 해."
-  },
-  {
-   "type": "ox",
-   "question": "민수가 말했어. \"교실에 들어가서 가방을 걸었고, 자리에 앉아서 물통을 꺼냈어.\" 두 토막 사이에 'hence'를 넣어도 맞을까?",
-   "choices": [
-    "응, 'hence' 맞아.",
-    "아니, 'hence' 아니야."
-   ],
-   "answer_index": 1,
-   "answer": "아니, 'hence' 아니야.",
-   "why": "맞아! 가방 걸고 자리에 앉은 건 그냥 순서대로 한 일이지, 가방을 걸어서 자리에 앉게 된 건 아니거든. 앞엣일 때문에 뒤엣일이 생긴 게 아니니까 hence는 안 어울려."
   }
  ],
  "synonyms": [
@@ -83,6 +61,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/hence.webp",
   "alt": "우유를 쏟고 수건을 가지러 뛰어간 장면(앵커·example)",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

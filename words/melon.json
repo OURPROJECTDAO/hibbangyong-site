@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/melon/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/melon/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/melon/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "melon",
  "slug": "melon",
  "url": "https://hibbangyong.com/words/melon/",
@@ -41,19 +41,6 @@
    "answer_index": 0,
    "answer": "응, 맞아",
    "why": null
-  },
-  {
-   "type": "choice",
-   "question": "melon은 어느 것일까?",
-   "choices": [
-    "바퀴가 달려 길 위를 빠르게 달리는 큰 탈것",
-    "손에 껴서 추위를 막아 주는 따뜻한 물건",
-    "초록빛 껍질 안에 달콤한 살과 씨가 든 둥근 과일",
-    "책장을 넘기며 글을 읽는 물건"
-   ],
-   "answer_index": 2,
-   "answer": "초록빛 껍질 안에 달콤한 살과 씨가 든 둥근 과일",
-   "why": null
   }
  ],
  "synonyms": [],
@@ -67,6 +54,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/melon.webp",
   "alt": "동그란 멜론 한 통과 옆에 잘린 반달 조각(속살과 씨가 보이는) — '멜론' 과일을 그림",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

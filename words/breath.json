@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/breath/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/breath/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/breath/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "breath",
  "slug": "breath",
  "url": "https://hibbangyong.com/words/breath/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, breath 맞아",
    "why": "맞아! 입으로 \"하—\" 하고 한 번 내보낸 그 공기가 바로 숨이거든. 그래서 유리가 뿌옇게 된 거야. 들이쉬는 것도, 내쉬는 것도 다 breath야."
-  },
-  {
-   "type": "ox",
-   "question": "형이 식탁에서 우유를 입에 넣고 목구멍으로 꿀꺽 넘겼어. 형이 넘긴 그 우유가 'breath'야?",
-   "choices": [
-    "응, breath 맞아",
-    "아니, breath 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, breath 아니야",
-   "why": "맞아! 우유는 마시는 거지 들이쉬는 게 아니거든. 숨은 코나 입으로 들이쉬고 내쉬는 공기라서, 꿀꺽 넘긴 우유는 breath가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 방금 뭘 했는지 말했어. 이 중에서 'breath'를 크게 들이마신 게 누구일까?",
-   "choices": [
-    "잠수하기 전에, 공기를 몸속으로 크게 들이마셨어.",
-    "방문을 활짝 여니까, 바깥 공기가 확 들어왔어.",
-    "부채질을 하니까, 시원한 바람이 살랑 불었어.",
-    "목이 말라서, 컵에 담긴 물을 꿀꺽 삼켰어."
-   ],
-   "answer_index": 0,
-   "answer": "잠수하기 전에, 공기를 몸속으로 크게 들이마셨어.",
-   "why": "맞아! 잠수하기 전에 공기를 몸속으로 크게 들이마셨잖아. 이렇게 몸속으로 들이쉰 공기가 바로 breath인 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/breath.webp",
   "alt": "물속에 들어가기 직전 공기를 크게 들이마시는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/super/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/super/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/super/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "super",
  "slug": "super",
  "url": "https://hibbangyong.com/words/super/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, 맞게 쓴 거야",
    "why": "맞아! 지금까지 본 어떤 미끄럼틀보다 비교도 안 되게 높고 길었잖아. 보통 미끄럼틀 선을 껑충 넘어가 버린 거니까, 그래서 딱 super인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "현우가 오늘 신은 양말은 색도 두께도 서랍에 있는 다른 양말들이랑 똑같았대. 현우가 이 양말을 'super'하다고 말하면 맞는 거야?",
-   "choices": [
-    "응, 맞는 거야",
-    "아니, 안 맞는 거야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 안 맞는 거야",
-   "why": "맞아! 서랍 속 다른 양말들이랑 색도 두께도 똑같으면 그건 딱 보통 선 안에 있는 거잖아. 보통 선을 훌쩍 넘어야 super인데 이 양말은 넘은 게 하나도 없거든. 그래서 아니라고 한 게 정확해."
-  },
-  {
-   "type": "choice",
-   "question": "민수가 오늘 있었던 일을 네 가지 말했어. 이 중에 민수가 'super'를 붙여서 말할 만한 건 어느 거야?",
-   "choices": [
-    "오늘 하루가 어제랑 거의 비슷하게 지나갔어",
-    "오늘 받아쓰기에서 우리 반 1등을 했어",
-    "오늘 숙제가 스무 장이나 한꺼번에 나왔어",
-    "오늘 숙제가 어제보다 한 장쯤 더 많았어"
-   ],
-   "answer_index": 2,
-   "answer": "오늘 숙제가 스무 장이나 한꺼번에 나왔어",
-   "why": "맞아! 숙제가 스무 장이나 한꺼번에 나온 거, 그건 보통 숙제 양이라는 선을 껑충 넘어버린 거잖아. 좋은 일이 아니어도 보통을 훌쩍 넘으면 super가 붙는 거야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/super.webp",
   "alt": "보통이라는 선을 훌쩍 넘어가는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

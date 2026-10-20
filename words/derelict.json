@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/derelict/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/derelict/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/derelict/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "derelict",
  "slug": "derelict",
  "url": "https://hibbangyong.com/words/derelict/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, derelict 맞아",
    "why": "맞아! 십오 년 동안 아무도 관리하지 않았고, 회전목마는 녹슬고 매표소 지붕은 내려앉았잖아. 오래 버려진 채로 허물어져 가는 거니까 이 놀이공원이 바로 derelict인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "기차역 옆에 지은 지 오십 년 된 벽돌 창고가 있어. 관리인이 해마다 페인트를 다시 칠하고 지붕을 고쳐서, 지금도 날마다 물건을 보관하는 데 써. 이 창고는 'derelict'야?",
-   "choices": [
-    "응, derelict 맞아",
-    "아니, derelict 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, derelict 아니야",
-   "why": "맞아! 오십 년이나 된 창고지만 관리인이 해마다 페인트를 칠하고 지붕을 고치고, 지금도 날마다 물건을 보관하는 데 쓰잖아. 이렇게 누가 돌보고 쓰는 건물은 아무리 오래돼도 derelict가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "동네를 걷다가 네 곳을 봤어. 이 중에서 'derelict'라고 부를 수 있는 건 어디일까?",
-   "choices": [
-    "지은 지 삼백 년 됐지만 스님들이 해마다 고쳐서 깨끗한 절",
-    "이사 나간 지 사흘 돼서 지금은 아무도 없는 새 아파트",
-    "주인이 떠난 뒤 십 년 동안 아무도 안 찾아와 녹슬어 가는 배",
-    "벽은 낡았지만 할머니가 날마다 쓸고 닦으며 사는 작은 집"
-   ],
-   "answer_index": 2,
-   "answer": "주인이 떠난 뒤 십 년 동안 아무도 안 찾아와 녹슬어 가는 배",
-   "why": "맞아! 주인이 떠난 뒤 십 년 동안 아무도 안 찾아와서 녹슬어 가는 배잖아. 아무도 안 쓰고 아무도 안 돌봐서 망가져 가니까 바로 그게 derelict인 거야. 건물이 아니라 배여도 똑같이 돼."
   }
  ],
  "synonyms": [],
@@ -91,6 +67,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/derelict.webp",
   "alt": "몇 년째 문 닫고 유리창 깨진 학교 앞 가게",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

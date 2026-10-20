@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/stem/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/stem/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/stem/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "stem",
  "slug": "stem",
  "url": "https://hibbangyong.com/words/stem/",
@@ -41,19 +41,6 @@
    "answer_index": 1,
    "answer": "아니, 아니야",
    "why": null
-  },
-  {
-   "type": "choice",
-   "question": "stem은 어느 것일까?",
-   "choices": [
-    "물속을 지느러미로 헤엄치는 작은 물고기",
-    "꽃과 잎을 받치며 곧게 서 있는 초록 부분",
-    "길 위를 바퀴로 빠르게 달리는 자동차",
-    "밤하늘에서 작게 반짝이는 노란 별"
-   ],
-   "answer_index": 1,
-   "answer": "꽃과 잎을 받치며 곧게 서 있는 초록 부분",
-   "why": null
   }
  ],
  "synonyms": [
@@ -71,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/stem.webp",
   "alt": "화분이나 배경 없이, 한 송이 꽃의 곧고 굵은 초록색 줄기가 화면 중앙에 세로로 서 있는 모습 — '식물의 줄기(stem)' 의미를 그림. 줄기가 주인공이라 두껍고 선명하게, 위에는 작은 꽃 한 송이와 줄기에 달린 잎 두 장.",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

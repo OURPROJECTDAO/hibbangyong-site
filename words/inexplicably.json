@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/inexplicably/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/inexplicably/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/inexplicably/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "inexplicably",
  "slug": "inexplicably",
  "url": "https://hibbangyong.com/words/inexplicably/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, inexplicably 맞아",
    "why": "맞아! 전기 기사 아저씨가 전선이랑 센서를 다 살펴봤는데도 원인을 하나도 못 찾았잖아. 왜 켜지는지 아무도 설명을 못 하니까, 센서등이 새벽 2시에 혼자 켜지는 게 딱 inexplicably 켜지는 거야."
-  },
-  {
-   "type": "ox",
-   "question": "형이 어젯밤 냉동실 문을 꽉 안 닫고 잤어. 아침에 보니 냉동실 문이 밤새 열려 있었고, 안에 있던 아이스크림이 다 녹아 있었어. 이렇게 녹은 걸 'inexplicably' 녹았다고 할 수 있을까?",
-   "choices": [
-    "응, inexplicably 맞아",
-    "아니, inexplicably 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, inexplicably 아니야",
-   "why": "맞아! 냉동실 문이 밤새 열려 있었으니 아이스크림이 녹은 이유가 딱 보이잖아. 이유를 댈 수 있으면 inexplicably가 아니야."
-  },
-  {
-   "type": "choice",
-   "question": "네 가지 일이 있었어. 이 가운데 'inexplicably' 일어났다고 말하기에 가장 알맞은 건?",
-   "choices": [
-    "공부를 하나도 안 한 동생의 성적이 떨어졌어",
-    "비가 쏟아져서 운동회가 갑자기 취소됐어",
-    "아무도 물을 안 줬는데 화분이 몇 달째 싱싱해",
-    "엄마가 몰래 준비한 케이크가 저녁에 나왔어"
-   ],
-   "answer_index": 2,
-   "answer": "아무도 물을 안 줬는데 화분이 몇 달째 싱싱해",
-   "why": "맞아! 아무도 물을 안 줬는데 화분이 몇 달째 싱싱하다니, 왜 그런지 누구도 이유를 못 대잖아. 몇 달 동안 천천히 이어진 좋은 일이어도, 이유를 모르면 바로 inexplicably야."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/inexplicably.webp",
   "alt": "매일 오후 3시에 멈추는 교실 시계",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

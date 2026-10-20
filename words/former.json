@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/former/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/former/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/former/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "former",
  "slug": "former",
  "url": "https://hibbangyong.com/words/former/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, former 골키퍼가 아니야",
    "why": "맞아! 지금 골키퍼를 맡고 있으니까 '지금'인 거지 '전에 그랬던' 게 아니거든. 그래서 former라고 부를 수 없는 거야. former는 예전엔 그랬는데 지금은 아닐 때 쓰는 말이니까."
-  },
-  {
-   "type": "choice",
-   "question": "다음 중 'former' 반장은 누구일까?",
-   "choices": [
-    "작년에 반장이었고, 지금은 반장이 아닌 아이",
-    "지금 반장을 맡고 있는 아이",
-    "반장을 여러 해째 계속 하고 있는 아이",
-    "내년에 반장이 되고 싶어 하는 아이"
-   ],
-   "answer_index": 0,
-   "answer": "작년에 반장이었고, 지금은 반장이 아닌 아이",
-   "why": "맞아! 작년엔 반장이었는데 지금은 아니지? 바로 그 '예전엔 그랬는데 지금은 아냐'가 former거든. 딱 맞혔어!"
-  },
-  {
-   "type": "ox",
-   "question": "민수가, 머리가 희끗하고 나이 지긋하지만 지금도 우리 학교에서 가르치고 계신 선생님을 가리키며 'former' 선생님이라고 불렀어. 바르게 쓴 걸까?",
-   "choices": [
-    "응, 맞게 썼어",
-    "아니, 잘못 썼어"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 잘못 썼어",
-   "why": "맞아! 지금도 우리 학교에서 가르치고 계시니까 '예전에 그랬던'이 아니라 지금도 그런 거잖아. 그러니까 former라고 부르면 안 되는 게 딱 맞아."
   }
  ],
  "synonyms": [
@@ -91,6 +67,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/former.webp",
   "alt": "전엔 우리 반이던 친구가 지금은 다른 반 — 예전엔 맞고 지금은 아님",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

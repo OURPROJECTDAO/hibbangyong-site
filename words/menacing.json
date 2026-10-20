@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/menacing/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/menacing/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/menacing/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "menacing",
  "slug": "menacing",
  "url": "https://hibbangyong.com/words/menacing/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, menacing 아니야",
    "why": "맞아! 고양이가 네 무릎 위에서 몸을 동그랗게 말고 가르랑거리며 자고 있잖아. 너한테 해가 올 것 같은 신호가 하나도 없으니까, menacing은커녕 정반대로 편안한 모습이야."
-  },
-  {
-   "type": "ox",
-   "question": "목장 울타리 안의 황소가 머리를 낮추고 앞발로 땅을 긁으면서 울타리 앞에 선 나를 똑바로 노려봐. 아직 달려들지는 않았어. 이 황소의 모습은 'menacing'이야?",
-   "choices": [
-    "응, menacing 맞아",
-    "아니, menacing 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, menacing 맞아",
-   "why": "맞아! 황소가 아직 달려들지는 않았지만 머리를 낮추고 앞발로 땅을 긁으면서 너를 노려보잖아. 곧 덤빌 수 있다는 신호를 보내고 있으니까 바로 그게 menacing인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 중 'menacing'이라고 부르기 가장 알맞은 장면은?",
-   "choices": [
-    "쓰러진 나무가 이미 길을 막아서 버스가 지나가지 못하는 도로",
-    "털이 엉망이고 생김새는 좀 이상하지만 꼬리를 흔드는 강아지",
-    "바람이 거세지고 검은 구름이 빠르게 몰려오는 산 너머 하늘",
-    "구름이 다 걷히고 햇빛이 들어서 운동장이 다시 마른 오후"
-   ],
-   "answer_index": 2,
-   "answer": "바람이 거세지고 검은 구름이 빠르게 몰려오는 산 너머 하늘",
-   "why": "맞아! 아직 비가 쏟아진 것도 아닌데, 바람이 거세지고 검은 구름이 빠르게 몰려오니까 곧 나쁜 일이 닥칠 것 같잖아. 이렇게 다가오는 위험의 기운이 바로 menacing이야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/menacing.webp",
   "alt": "이를 드러내고 으르렁대는 개",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

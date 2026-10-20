@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/torrential/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/torrential/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/torrential/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "torrential",
  "slug": "torrential",
  "url": "https://hibbangyong.com/words/torrential/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, torrential 아니야",
    "why": "맞아! 안개처럼 아주 가는 빗방울이 내려서 잠깐 서 있어도 머리카락에 물방울 몇 개만 맺혔잖아. torrential은 비가 한꺼번에 엄청 세고 많이 쏟아지는 거니까, 이렇게 가늘고 약한 비는 정반대라서 아니야."
-  },
-  {
-   "type": "ox",
-   "question": "퇴근길 차 안이야. 와이퍼를 가장 빠르게 돌려도 앞 유리에 빗물이 쉴 새 없이 한꺼번에 쏟아져서 앞이 거의 안 보였어. 이 비는 'torrential'이야?",
-   "choices": [
-    "응, torrential 맞아",
-    "아니, torrential 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, torrential 맞아",
-   "why": "맞아! 와이퍼를 가장 빠르게 돌려도 빗물이 쉴 새 없이 한꺼번에 쏟아져서 앞이 거의 안 보였잖아. 이렇게 한 번에 세고 많이 쏟아지는 비가 바로 torrential이야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 겪은 비 오는 날을 말했어. 그 비를 'torrential'이라고 부를 만한 건 누구 얘기일까?",
-   "choices": [
-    "하루 종일 가늘게 내려서 우산 없이 걸어도 조금만 젖었던 날",
-    "딱 십 분 동안 양동이로 붓듯 내려서 운동장이 금세 물바다가 된 날",
-    "바람이 세게 불어서 우산이 뒤집혔는데 빗방울은 몇 개 안 떨어진 날",
-    "해가 쨍쨍하다가 잠깐 몇 방울 떨어지고 금방 그쳐 버린 날"
-   ],
-   "answer_index": 1,
-   "answer": "딱 십 분 동안 양동이로 붓듯 내려서 운동장이 금세 물바다가 된 날",
-   "why": "맞아! 딱 십 분이었는데도 양동이로 붓듯 쏟아져서 운동장이 금세 물바다가 됐잖아. 얼마나 오래 왔느냐가 아니라 한 번에 얼마나 세고 많이 쏟아졌느냐가 중요해서, 바로 그게 torrential인 거야."
   }
  ],
  "synonyms": [],
@@ -91,6 +67,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/torrential.webp",
   "alt": "양동이로 붓듯 쏟아지는 비",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

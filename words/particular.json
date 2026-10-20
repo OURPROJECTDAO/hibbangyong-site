@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/particular/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/particular/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/particular/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "particular",
  "slug": "particular",
  "url": "https://hibbangyong.com/words/particular/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, particular 맞아",
    "why": "맞아! 다른 책은 다 안 된다고 하고 공룡 그려진 그 한 권만 콕 집었잖아. 여럿 중에 하나를 못 박아 뒀으니까 바로 그게 particular인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "문구점에서 엄마가 \"지우개는 아무거나 하나 집어 와, 어떤 거든 다 괜찮아\"라고 했어. 엄마가 말한 지우개가 'particular'한 지우개야?",
-   "choices": [
-    "응, particular 맞아",
-    "아니, particular 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, particular 아니야",
-   "why": "맞아! 아무거나 다 괜찮다고 했잖아. 그건 하나를 딱 못 박은 게 아니니까 particular가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 방학 얘기를 했어. 이 중에서 'particular'을 쓸 수 있는 얘기는 누구 걸까?",
-   "choices": [
-    "방학 중에 아무 날이나 괜찮으니 하루 놀러 가자고 했어.",
-    "방학 중에 제일 멋지고 신났던 하루를 신나서 자랑하고 있어.",
-    "방학 중에 개학 전날 하루가 어땠는지만 계속 말하고 있어.",
-    "방학 동안 밖에 나간 날이 하루뿐이라 고를 것도 없었대."
-   ],
-   "answer_index": 2,
-   "answer": "방학 중에 개학 전날 하루가 어땠는지만 계속 말하고 있어.",
-   "why": "맞아! 개학 전날 하루라고 딱 못 박았잖아. 방학에 날은 많은데 그중 그 하루만 콕 집은 거니까, 그게 바로 particular인 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/particular.webp",
   "alt": "친구가 지난주 여러 날 중 넘어진 그 하루를 말하는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

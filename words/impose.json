@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/impose/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/impose/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/impose/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "impose",
  "slug": "impose",
  "url": "https://hibbangyong.com/words/impose/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, impose 맞아",
    "why": "맞아! 사서가 이용자들한테 물어본 적 없이 위에서 규칙을 딱 정해서 얹어 버렸잖아. 다들 싫든 좋든 그 규칙 아래 있게 된 거니까 그게 바로 impose인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "형이 동생한테 'impose'했대. 어떤 상황일까?",
-   "choices": [
-    "형이 '이 방에선 이제 신발 벗기'라고 정해버려서, 동생은 싫어도 그렇게 하게 됐어",
-    "형이 '신발 좀 벗어줄래?'라고 물었고, 동생이 싫다고 해서 그냥 신고 있었어",
-    "형이 동생이 벗어둔 신발을 말없이 신발장에 대신 넣어줬어",
-    "형이 '신발은 네 마음대로 해'라고 하고 동생이 정하게 뒀어"
-   ],
-   "answer_index": 0,
-   "answer": "형이 '이 방에선 이제 신발 벗기'라고 정해버려서, 동생은 싫어도 그렇게 하게 됐어",
-   "why": "맞아! 형이 정해버렸고 동생은 싫어도 그렇게 해야 하잖아. 물어본 적도 없고 싫다고 할 수도 없지. 그렇게 위에서 얹어버리는 게 impose인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "미술 시간에 선생님이 '색연필로 그리든 크레파스로 그리든 각자 원하는 걸로 하세요'라고 했어. 아이들은 각자 고르고 있어. 이게 'impose'야?",
-   "choices": [
-    "응, impose 맞아",
-    "아니, impose 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, impose 아니야",
-   "why": "맞아, impose 아니야! 선생님이 색연필로 해라 크레파스로 해라 위에서 얹은 게 하나도 없거든. 각자 원하는 걸로 고르라고 맡겨 준 거니까, 얹은 게 아니라 고르게 해 준 거야."
   }
  ],
  "synonyms": [],
@@ -94,6 +70,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/impose.webp",
   "alt": "선생님이 급식 남기기 금지 규칙을 물어보지 않고 정하는 교실",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

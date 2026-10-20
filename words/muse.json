@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/muse/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/muse/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/muse/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "muse",
  "slug": "muse",
  "url": "https://hibbangyong.com/words/muse/",
@@ -42,30 +42,6 @@
    "answer_index": 0,
    "answer": "응, muse 맞아",
    "why": "맞아! 하은이는 할머니가 해 주신 말 한마디를 놓지 않고 벤치에 앉아 한참 천천히 이리저리 생각해 봤잖아. 생각 하나를 붙잡고 서두르지 않고 오래 잠겨 있었으니까 바로 그게 muse인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "친구가 서준이에게 \"이번 주말에 같이 농구할래?\" 하고 물었어. 서준이는 생각할 틈도 없이 곧바로 \"좋아!\" 하고 대답했어. 서준이가 한 건 'muse'야?",
-   "choices": [
-    "응, muse 맞아",
-    "아니, muse 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, muse 아니야",
-   "why": "맞아! 서준이는 생각할 틈도 없이 곧바로 \"좋아!\" 했잖아. muse는 생각 하나를 붙잡고 한참 머무는 건데, 서준이는 생각에 머문 시간이 아예 없었으니까 muse가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 생각하는 모습이야. 이 중에서 'muse' 하고 있다고 말하기 가장 알맞은 친구는?",
-   "choices": [
-    "창밖을 보며 어릴 때 살던 동네 일을 한참 동안 떠올려 본 민호",
-    "내일 시험을 망칠까 봐 밤새 불안해서 잠을 못 잔 수아",
-    "급식 메뉴 두 개 중 하나를 빨리 고르려고 장단점을 따진 준호",
-    "선생님 질문을 듣자마자 생각할 틈도 없이 바로 대답한 지은"
-   ],
-   "answer_index": 0,
-   "answer": "창밖을 보며 어릴 때 살던 동네 일을 한참 동안 떠올려 본 민호",
-   "why": "맞아! 민호는 창밖을 보면서 어릴 때 살던 동네 일을 서두르지 않고 한참 동안 떠올렸잖아. 이렇게 생각 하나를 붙잡고 천천히 생각에 잠기는 게 바로 muse야."
   }
  ],
  "synonyms": [
@@ -81,6 +57,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/muse.webp",
   "alt": "버스 창밖을 보다 떠오른 생각을 한참 굴려 보기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

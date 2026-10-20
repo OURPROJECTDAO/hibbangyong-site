@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/agile/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/agile/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/agile/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "agile",
  "slug": "agile",
  "url": "https://hibbangyong.com/words/agile/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, agile 맞아",
    "why": "맞아! 고양이가 떨어지는 화분을 몸을 살짝 틀어 피하고, 멈칫하지도 않고 바로 다시 걸어갔잖아. 빠르면서도 막힘없이 쉽게 움직였으니까 딱 agile한 몸놀림이야."
-  },
-  {
-   "type": "ox",
-   "question": "두꺼운 스키복을 입은 동생이 술래잡기를 해. 방향을 바꿀 때마다 한참 버벅이다가 천천히 몸을 돌려. 이 동생의 몸놀림을 'agile'하다고 할 수 있을까?",
-   "choices": [
-    "응, agile 맞아",
-    "아니, agile 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, agile 아니야",
-   "why": "맞아! 동생은 방향을 바꿀 때마다 한참 버벅이다가 천천히 몸을 돌리잖아. 빠르고 막힘없이 움직이는 게 agile이니까, 이렇게 무겁고 느린 몸놀림은 agile이 아니지."
-  },
-  {
-   "type": "choice",
-   "question": "경제 뉴스에서 어떤 회사를 'agile'한 회사라고 소개했어. 여기서 이 말은 어떤 뜻에 가장 가까울까?",
-   "choices": [
-    "직원들이 운동을 잘해서 몸놀림이 가볍다",
-    "형편이 달라지면 일하는 방식을 금방 바꾼다",
-    "회사 규모가 커서 어려워도 오래 버틴다",
-    "한번 세운 계획을 끝까지 그대로 지킨다"
-   ],
-   "answer_index": 1,
-   "answer": "형편이 달라지면 일하는 방식을 금방 바꾼다",
-   "why": "맞아! 뉴스에서 회사한테 agile을 쓰면, 형편이 달라졌을 때 일하는 방식을 금방, 막힘없이 바꾼다는 뜻이야. 몸이 휙 움직이듯 회사도 새 상황에 맞춰 바로 움직이는 거지."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/agile.webp",
   "alt": "피구에서 공을 피하고 바로 다시 뛰어가는 친구",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

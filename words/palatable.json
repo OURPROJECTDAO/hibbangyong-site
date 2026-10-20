@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/palatable/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/palatable/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/palatable/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "palatable",
  "slug": "palatable",
  "url": "https://hibbangyong.com/words/palatable/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, palatable 맞아",
    "why": "맞아! 컵라면을 직접 먹어 보니 입에 맞아서 국물까지 다 먹었잖아. 이렇게 먹어 보고 거부감 없이 잘 먹히는 맛이 바로 palatable이야."
-  },
-  {
-   "type": "ox",
-   "question": "여행 가서 시장에서 처음 보는 말린 생선을 사서 한 입 먹었어. 맛이 도저히 안 넘어가서 뱉고, 남은 건 못 먹었어. 이 생선 맛은 'palatable'이야?",
-   "choices": [
-    "응, palatable 맞아",
-    "아니, palatable 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, palatable 아니야",
-   "why": "맞아! 한 입 먹고 도저히 안 넘어가서 뱉었잖아. palatable은 입에 맞아서 거부감 없이 먹을 만한 맛인데, 이 생선은 그 반대라서 palatable이 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "빵집 진열장에 반짝이는 딸기 케이크가 있었어. 보기만 해도 침이 고였는데, 돈이 모자라서 사 먹지는 못하고 그냥 집에 왔어. 이 케이크, 이런 경우도 'palatable'이야?",
-   "choices": [
-    "응, palatable 맞아",
-    "아니, palatable 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, palatable 아니야",
-   "why": "맞아! 케이크를 진열장 너머로 보기만 하고 한 입도 못 먹었으니까, 맛이 입에 맞는지는 아직 모르잖아. palatable은 실제로 먹어 보고 입에 맞을 때 쓰는 말이라서 이 케이크한테는 못 쓰는 거야."
   }
  ],
  "synonyms": [],
@@ -84,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/palatable.webp",
   "alt": "급식에 처음 나온 반찬을 먹어 보니 입에 맞음",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

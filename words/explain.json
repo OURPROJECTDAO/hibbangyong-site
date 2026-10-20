@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/explain/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/explain/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/explain/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "explain",
  "slug": "explain",
  "url": "https://hibbangyong.com/words/explain/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, explain 맞아.",
    "why": "맞아! 왜 안 닫히는지 까닭도 알려주고, 고리를 어느 쪽으로 펴야 하는지 방법까지 짝꿍이 알아들을 때까지 풀어줬잖아. 그렇게 상대가 아하 할 때까지 말로 풀어주는 게 바로 explain이야."
-  },
-  {
-   "type": "ox",
-   "question": "내가 형 우산을 부러뜨렸어. 형이 우산이 왜 이러냐고 묻는데, 나는 모른다고만 하고 부러진 우산을 신발장 뒤에 밀어 넣었어. 이게 'explain'이야?",
-   "choices": [
-    "응, explain 맞아.",
-    "아니, explain 아니야."
-   ],
-   "answer_index": 1,
-   "answer": "아니, explain 아니야.",
-   "why": "맞아! 왜 그런지 아는데 입을 꾹 다물고 우산까지 숨겼잖아. explain은 듣는 사람이 아하 하고 알아듣게 풀어주는 건데, 이건 오히려 모르게 덮은 거니까 정반대인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 학교에 늦게 왔어. 선생님이 무슨 일이었냐고 묻자 각자 이렇게 말했대. 이 중에 'explain'한 아이는 누구야?",
-   "choices": [
-    "지금이 아홉 시 반이고 자기가 방금 왔다고 말했어.",
-    "다시는 늦지 않겠다고 씩씩하게 약속하고 자리에 앉았어.",
-    "타고 온 버스가 중간에 고장 나 멈춰 섰다고 말했어.",
-    "오늘 아침 하늘이 얼마나 캄캄했는지 자세히 말했어."
-   ],
-   "answer_index": 2,
-   "answer": "타고 온 버스가 중간에 고장 나 멈춰 섰다고 말했어.",
-   "why": "맞아! 버스가 고장 나서 멈췄다고 말한 순간, 선생님 머릿속에 아, 그래서 늦었구나 하는 까닭이 딱 들어온 거야. 이렇게 듣는 쪽이 이유를 알아듣게 풀어주는 게 explain이거든."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/explain.webp",
   "alt": "리모컨이 안 먹히는 까닭과 배터리 가는 법을 동생에게 알아들을 때까지 말해주는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

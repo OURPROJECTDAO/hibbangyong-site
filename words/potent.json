@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/potent/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/potent/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/potent/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "potent",
  "slug": "potent",
  "url": "https://hibbangyong.com/words/potent/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, potent 맞아",
    "why": "맞아! 고추냉이를 콩알만큼만 찍었는데도 바로 코가 찡하고 눈물이 줄줄 났잖아. 양은 조금인데 몸에 오는 효과가 이렇게 세니까 딱 potent한 거야."
-  },
-  {
-   "type": "ox",
-   "question": "어깨가 뻐근해서 파스를 한 장 붙였는데, 거의 화끈거리지도 않고 몇 시간이 지나도 뻐근한 게 그대로였어. 이 파스는 'potent'한 거야?",
-   "choices": [
-    "응, potent 맞아",
-    "아니, potent 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, potent 아니야",
-   "why": "맞아! 파스를 붙였는데 거의 화끈거리지도 않고 몇 시간 지나도 뻐근한 게 그대로였잖아. 몸에 오는 효과가 이렇게 약하면 potent가 아니야. potent는 조금만 써도 세게 먹히는 거거든."
-  },
-  {
-   "type": "choice",
-   "question": "다음 네 상황 중에서 'potent'라는 말을 쓰기에 가장 알맞은 건?",
-   "choices": [
-    "모기약을 딱 한 번 뿌렸는데 방 안 모기가 전부 떨어졌어",
-    "우리 반 민호는 팔씨름에서 지금까지 한 번도 진 적이 없어",
-    "오늘 급식 반찬이 쟁반 위에 넘칠 만큼 가득 담겨 나왔어",
-    "새로 산 샴푸는 순해서 눈에 들어가도 하나도 안 따가워"
-   ],
-   "answer_index": 0,
-   "answer": "모기약을 딱 한 번 뿌렸는데 방 안 모기가 전부 떨어졌어",
-   "why": "맞아! 모기약을 딱 한 번 뿌렸을 뿐인데 방 안 모기가 전부 떨어졌잖아. 조금만 써도 효과가 이렇게 세게 먹히는 게 바로 potent야. 모기한테는 해로운 효과라도 세게 먹히면 potent라고 해."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/potent.webp",
   "alt": "매운 소스 한 방울로 국 전체가 매워짐",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

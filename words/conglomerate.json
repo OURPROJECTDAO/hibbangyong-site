@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/conglomerate/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/conglomerate/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/conglomerate/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "conglomerate",
  "slug": "conglomerate",
  "url": "https://hibbangyong.com/words/conglomerate/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, conglomerate 아니야",
    "why": "맞아! 주인 혼자 구두만 고치는 작은 수선집은 하는 일이 딱 한 가지잖아. conglomerate는 하는 일이 서로 다른 여러 회사가 한 덩어리로 묶인 큰 기업이라서, 이 수선집은 규모도 하는 일 수도 정반대야."
-  },
-  {
-   "type": "ox",
-   "question": "한 회사가 보험 회사, 놀이공원, 전자제품 공장을 모두 갖고 한 주인 아래 운영하고 있어. 이 회사는 'conglomerate'야?",
-   "choices": [
-    "응, conglomerate 맞아",
-    "아니, conglomerate 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, conglomerate 맞아",
-   "why": "맞아! 보험 회사, 놀이공원, 전자제품 공장은 하는 일이 완전히 다른데, 이걸 한 주인이 다 묶어서 운영하잖아. 바로 그게 conglomerate야."
-  },
-  {
-   "type": "choice",
-   "question": "네 곳을 소개하는 글이 있어. 이 중 'conglomerate'라고 부를 수 있는 곳은?",
-   "choices": [
-    "공장 백 곳에서 라면, 컵라면, 짜장라면을 만드는 회사",
-    "식품 회사, 호텔, 건설 회사를 함께 가진 회사",
-    "동네 빵집 세 곳이 합쳐서 새로 연 큰 빵집",
-    "주인 혼자서 꽃, 화분, 씨앗을 같이 파는 가게"
-   ],
-   "answer_index": 1,
-   "answer": "식품 회사, 호텔, 건설 회사를 함께 가진 회사",
-   "why": "맞아! 식품 회사, 호텔, 건설 회사는 하는 일이 완전히 다르잖아. 이렇게 서로 다른 일을 하는 회사들이 한 회사 아래 묶여 있으니까 바로 이게 conglomerate인 거야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/conglomerate.webp",
   "alt": "과자 공장·호텔·조선소·방송국을 함께 가진 회사",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

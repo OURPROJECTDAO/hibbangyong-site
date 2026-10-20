@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/upon/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/upon/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/upon/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "upon",
  "slug": "upon",
  "url": "https://hibbangyong.com/words/upon/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, upon 맞아",
    "why": "맞아! 컵이 책상 위에 얹혀서 딱 닿아 있잖아. 뭐가 어디에 놓여 있는지 짚어 주는 게 바로 upon이라서, 이 컵과 책상 사이가 딱 그거야."
-  },
-  {
-   "type": "ox",
-   "question": "풍선이 줄이 끊겨 천장에 닿지 않고 방 한가운데 붕 떠 있어. 이 풍선과 바닥 사이가 'upon'이야?",
-   "choices": [
-    "응, upon 맞아",
-    "아니, upon 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, upon 아니야",
-   "why": "맞아! 풍선이 붕 떠서 바닥에 하나도 안 닿았잖아. upon은 뭐가 뭐에 붙어 있을 때 쓰는 말이라서, 떨어져 있는 이건 upon이 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "지호가 스티커 한 장이 공책 표지에 딱 붙어 있는 자리를 말하면서, 늘 쓰던 짧은 말을 빼고 그 자리에 'upon'을 넣어 말했어. 듣던 아이들이 반씩 갈렸대. 지호가 넣은 자리는 upon이 갈 수 있는 자리일까?",
-   "choices": [
-    "응, upon이 갈 수 있는 자리야",
-    "아니, upon이 갈 수 없는 자리야"
-   ],
-   "answer_index": 0,
-   "answer": "응, upon이 갈 수 있는 자리야",
-   "why": "맞아! upon은 on이랑 같은 말인데 말만 더 멋있게 한 거거든. 스티커가 공책에 딱 붙어 있는 자리면 on을 쓸 자리고, on을 쓸 자리엔 upon도 그대로 쓸 수 있어. 그래서 지호 말은 맞는 거야."
   }
  ],
  "synonyms": [],
@@ -86,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/upon.webp",
   "alt": "평상복 차림의 on과 옷을 갖춰 입고 나온 upon",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

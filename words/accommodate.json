@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/accommodate/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/accommodate/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/accommodate/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "accommodate",
  "slug": "accommodate",
  "url": "https://hibbangyong.com/words/accommodate/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, accommodate 맞아",
    "why": "맞아! 자리가 하나 모자랐는데 선생님이 책상을 하나 더 꺼내 와서 그 친구한테 딱 맞는 자리를 만들어 줬잖아. 없던 자리를 그 친구한테 맞춰 만들어 준 거라서, 바로 그게 accommodate야."
-  },
-  {
-   "type": "ox",
-   "question": "버스에 빈자리가 있었는데, 한 아이가 앉아도 되냐고 묻자 옆에 있던 아이가 '안 돼, 저리 가' 하며 가방으로 자리를 막고 안 비켜 줬어. 이게 'accommodate'야?",
-   "choices": [
-    "응, accommodate 맞아",
-    "아니, accommodate 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, accommodate 아니야",
-   "why": "맞아! 자리를 내주기는커녕 가방으로 딱 막고 저리 가라고 밀어냈잖아. 이건 그 친구한테 맞춰 주는 게 아니라 정반대로 쫓아낸 거라서, accommodate가 아닌 게 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "사촌이 놀러 왔을 때 언니가 한 착한 일이야. 넷 다 다정한데, 그중에 'accommodate'한 건 어느 거일까?",
-   "choices": [
-    "사촌이 자고 간다고 하자, 언니가 자기 침대를 한쪽으로 밀어서 같이 누울 자리를 만들어 줬어.",
-    "사촌이 오자, 언니가 문 앞까지 달려 나가 반갑게 꼭 안아 줬어.",
-    "사촌이 배고프다고 하자, 언니가 자기 간식을 반으로 딱 나눠 줬어.",
-    "사촌이 그림을 보여 주자, 언니가 '우와 진짜 잘 그렸다!' 하고 크게 칭찬해 줬어."
-   ],
-   "answer_index": 0,
-   "answer": "사촌이 자고 간다고 하자, 언니가 자기 침대를 한쪽으로 밀어서 같이 누울 자리를 만들어 줬어.",
-   "why": "맞아! 언니가 침대를 한쪽으로 밀어서 사촌이 누울 자리를 새로 만들어 줬잖아. 없던 자리를 그 사람한테 딱 맞게 만들어 준 거 — 그게 바로 accommodate야."
   }
  ],
  "synonyms": [],
@@ -101,6 +77,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/accommodate.webp",
   "alt": "옆방 의자를 하나 더 가져와 식탁에 친구 앉을 자리를 만든 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

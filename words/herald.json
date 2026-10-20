@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/herald/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/herald/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/herald/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "herald",
  "slug": "herald",
  "url": "https://hibbangyong.com/words/herald/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, herald 맞아",
    "why": "맞아! 노란 잎 몇 장이 나무 전체보다 먼저 물들어서 가을이 곧 온다는 걸 보여 주잖아. 이렇게 먼저 나타나서 다가올 일을 알려 주는 게 바로 herald야."
-  },
-  {
-   "type": "ox",
-   "question": "토요일에 광장에서 큰 축제가 열렸어. 축제가 모두 끝난 다음 날 아침, 광장 바닥에는 종이 꽃가루가 잔뜩 남아 있었어. 바닥에 남은 이 꽃가루는 그 축제의 'herald'일까?",
-   "choices": [
-    "응, herald 맞아",
-    "아니, herald 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, herald 아니야",
-   "why": "맞아! 꽃가루는 축제가 다 끝난 다음 날 아침에 바닥에 남아 있던 거잖아. herald는 일이 오기 전에 먼저 나타나서 곧 온다고 보여 주는 거니까, 끝난 뒤에 남은 흔적인 꽃가루는 herald가 아니야."
-  },
-  {
-   "type": "choice",
-   "question": "어느 섬에 태풍이 왔던 일을 네 장면으로 나눠 봤어. 이 중에서 그 태풍의 'herald'라고 부를 수 있는 건 뭘까?",
-   "choices": [
-    "여름 내내 바닷물이 뜨겁게 데워져서 그 태풍이 생겨났어",
-    "태풍이 닿기 이틀 전부터 바닷가 파도가 점점 높아졌어",
-    "태풍이 섬에 닿자 하루 종일 비바람이 세게 몰아쳤어",
-    "태풍이 지나간 뒤 해안 도로가 물에 잠겨 버렸어"
-   ],
-   "answer_index": 1,
-   "answer": "태풍이 닿기 이틀 전부터 바닷가 파도가 점점 높아졌어",
-   "why": "맞아! 태풍이 닿기 이틀 전부터 파도가 점점 높아진 건, 태풍이 아직 안 왔는데 먼저 나타나서 곧 온다고 보여 준 거잖아. 그래서 바로 그게 태풍의 herald인 거야."
   }
  ],
  "synonyms": [
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/herald.webp",
   "alt": "비 오기 전에 몰려오는 먹구름",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

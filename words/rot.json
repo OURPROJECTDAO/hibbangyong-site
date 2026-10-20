@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/rot/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/rot/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/rot/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "rot",
  "slug": "rot",
  "url": "https://hibbangyong.com/words/rot/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, rot 아니야",
    "why": "맞아! 딱 소리 내며 부러지는 건 아직 속이 단단하고 싱싱하다는 뜻이거든. 썩은 건 힘주면 부러지는 게 아니라 손가락 사이에서 그냥 뭉개져 버려. 그래서 이건 rot이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "일주일 캠프를 다녀와서 방문을 열어 보니 방 안이 이랬어. 다음 중 'rot'에 해당하는 것은?",
-   "choices": [
-    "유리컵에 따라둔 물이 반쯤 줄어들어 있는 것",
-    "종이봉투에 넣어둔 감자가 물컹해져서 누르면 쑥 들어가는 것",
-    "벽에 붙여둔 스티커가 떨어져 바닥에 놓여 있는 것",
-    "책상 위에 세워둔 연필이 옆으로 굴러가 있는 것"
-   ],
-   "answer_index": 1,
-   "answer": "종이봉투에 넣어둔 감자가 물컹해져서 누르면 쑥 들어가는 것",
-   "why": "맞아! 아무도 안 건드렸는데 감자가 저 혼자 물컹해져서 누르면 쑥 들어가잖아. 짜임이 안에서부터 슬슬 풀려버린 거라 바로 그게 rot이야."
-  },
-  {
-   "type": "ox",
-   "question": "오래 써서 손잡이가 반질반질해진 나무 도마를 설거지하다 바닥에 떨어뜨렸어. 떨어진 자리에서 가운데가 쩍 갈라져 두 조각이 났어. 이런 경우도 'rot'이야?",
-   "choices": [
-    "응, 'rot' 맞아",
-    "아니, 'rot' 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 'rot' 아니야",
-   "why": "맞아, 이건 rot이 아니야! 바닥에 쿵 떨어지는 힘이 도마를 쩍 가른 거잖아. 안 떨어뜨렸으면 멀쩡했을 거고, 그러면 시간이 슬슬 풀어놓은 게 아니라 밖에서 온 힘이 부순 거야. 진짜 rot은 아무도 안 건드렸는데 저 혼자 물러져서 뭉개지는 거거든."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/rot.webp",
   "alt": "봄에 주저앉은 마당 구석 낙엽 더미가 손에 뭉개짐",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/effect/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/effect/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/effect/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "effect",
  "slug": "effect",
  "url": "https://hibbangyong.com/words/effect/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, effect 맞아",
    "why": "맞아! 강아지가 부르르 털어서 물이 튀었고, 그 뒤에 유리창에 물방울이 생긴 거잖아. 돌 던지면 물결이 퍼지듯, 강아지가 털어서 뒤따라 생긴 게 바로 이 물방울이야."
-  },
-  {
-   "type": "choice",
-   "question": "쉬는 시간에 이런 일들이 있었어. 민지가 창문을 활짝 열었어. 바람이 들어와서 책상 위 종이들이 바닥에 흩날렸지. 창문 옆에는 화분이 놓여 있었고, 민지 손에는 지우개가 들려 있었어. 이 중에서 'effect'는 어느 것일까?",
-   "choices": [
-    "민지가 창문을 활짝 연 것",
-    "종이들이 바닥에 흩날린 것",
-    "창문 옆에 화분이 놓여 있던 것",
-    "민지 손에 지우개가 들려 있던 것"
-   ],
-   "answer_index": 1,
-   "answer": "종이들이 바닥에 흩날린 것",
-   "why": "맞아! 창문을 열었더니 바람이 들어와서 종이가 날아간 거잖아. 그러니까 종이가 흩날린 건 창문 연 것 때문에 뒤따라 생긴 일이야. 딱 그게 effect인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "언니가 동생에게 사탕 한 개를 나눠 줬어. 동생이 활짝 웃었어. 언니가 사탕을 나눠 준 것, 이게 'effect'야?",
-   "choices": [
-    "응, effect 맞아",
-    "아니, effect 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, effect 아니야",
-   "why": "맞아, 사탕을 나눠 준 건 시작이야. 연못에 던진 돌 같은 거지. 동생이 활짝 웃은 것, 그 뒤에 퍼진 물결이 effect인 거야."
   }
  ],
  "synonyms": [
@@ -85,6 +61,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/effect.webp",
   "alt": "연못에 던진 돌멩이 뒤로 퍼지는 물결",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

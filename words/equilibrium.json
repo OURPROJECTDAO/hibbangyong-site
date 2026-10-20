@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/equilibrium/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/equilibrium/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/equilibrium/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "equilibrium",
  "slug": "equilibrium",
  "url": "https://hibbangyong.com/words/equilibrium/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, equilibrium 맞아",
    "why": "맞아! 둘 다 얼굴이 빨개질 만큼 온 힘을 주는데 손이 한가운데서 1분째 그대로잖아. 힘이 없어서 멈춘 게 아니라 양쪽 힘이 딱 맞서서 멈춘 거니까, 바로 그게 equilibrium인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "놀이터 시소 양쪽에 한 명씩 앉아 있었는데, 한쪽에 친구 두 명이 더 올라타자 시소가 그쪽으로 쿵 내려가 버렸어. 이 시소의 상태는 'equilibrium'일까?",
-   "choices": [
-    "응, equilibrium 맞아",
-    "아니, equilibrium 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, equilibrium 아니야",
-   "why": "맞아! 친구 두 명이 더 올라탄 쪽 무게가 이겨서 시소가 쿵 내려가 버렸잖아. 양쪽이 맞서서 버틴 게 아니라 한쪽으로 확 기운 거니까 equilibrium이 아닌 게 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "반에서 네 가지 장면이 벌어졌어. 'equilibrium'이라고 부르기에 가장 알맞은 건?",
-   "choices": [
-    "두 모둠이 서로 자기 의견을 세게 밀어서, 몇 주째 투표가 반반으로 갈려 결정이 제자리야.",
-    "모둠 친구들이 처음부터 다 같은 생각이라, 다툴 일 없이 회의가 조용히 금방 끝났어.",
-    "간식을 네 명이 한 개씩 똑같이 나눠 가져서, 아무도 더 받겠다고 불만을 말하지 않았어.",
-    "한 모둠 목소리가 점점 커지더니, 반 전체 분위기가 며칠 만에 그쪽으로 확 쏠렸어."
-   ],
-   "answer_index": 0,
-   "answer": "두 모둠이 서로 자기 의견을 세게 밀어서, 몇 주째 투표가 반반으로 갈려 결정이 제자리야.",
-   "why": "맞아! 두 모둠이 서로 의견을 세게 밀고 있는데, 힘이 딱 맞서서 투표가 반반으로 갈리고 결정이 제자리잖아. 힘이 없어서 멈춘 게 아니라 맞선 힘이 서로를 지워서 멈춘 거라, 바로 그게 equilibrium이야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/equilibrium.webp",
   "alt": "반 대항 줄다리기에서 줄이 한가운데서 꼼짝 않는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

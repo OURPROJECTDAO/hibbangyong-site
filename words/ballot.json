@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/ballot/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/ballot/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/ballot/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "ballot",
  "slug": "ballot",
  "url": "https://hibbangyong.com/words/ballot/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, ballot 맞아",
    "why": "맞아! 부원들이 각자 쪽지에 가고 싶은 곳을 적어 접어서 통에 넣었으니까 누가 어디를 골랐는지 안 보이잖아. 그렇게 모인 쪽지를 세어서 가장 많이 나온 곳으로 정했으니까 이게 바로 ballot이야."
-  },
-  {
-   "type": "ox",
-   "question": "체육대회 반티 색깔을 정해야 하는데, 반 회장이 혼자 파란색으로 고른 다음 반 단톡방에 '반티는 파란색!'이라고 올렸어. 이렇게 정한 방식이 'ballot'이야?",
-   "choices": [
-    "응, ballot 맞아",
-    "아니, ballot 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, ballot 아니야",
-   "why": "맞아! 회장 혼자 파란색으로 고르고 단톡방에 알린 거라서, 반 애들이 각자 표를 내고 센 게 하나도 없잖아. 그래서 ballot이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 반이 각자 다른 방법으로 반장을 정했어. 'ballot'으로 정한 반은?",
-   "choices": [
-    "후보 이름을 부를 때마다 찬성하는 사람이 손을 들었어",
-    "담임 선생님이 한 명을 골라서 그 자리에서 발표했어",
-    "각자 종이에 한 명을 적어 접은 뒤 상자에 넣었어",
-    "누가 좋은지 설문지로 의견만 묻고 정하진 않았어"
-   ],
-   "answer_index": 2,
-   "answer": "각자 종이에 한 명을 적어 접은 뒤 상자에 넣었어",
-   "why": "맞아! 각자 종이에 한 명을 적어서 접으니까 누가 누굴 골랐는지 아무도 모르잖아. 그렇게 모은 표를 세어서 정하는 게 바로 ballot이야."
   }
  ],
  "synonyms": [
@@ -90,6 +66,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/ballot.webp",
   "alt": "반장을 손 들기 대신 종이에 몰래 적어 상자에 넣어 뽑기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

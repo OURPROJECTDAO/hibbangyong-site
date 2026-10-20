@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/maneuver/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/maneuver/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/maneuver/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "maneuver",
  "slug": "maneuver",
  "url": "https://hibbangyong.com/words/maneuver/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, maneuver 아니야",
    "why": "맞아! 준호는 발을 헛디뎌서 계단 세 칸을 그냥 미끄러져 내려간 거잖아. 조심조심 솜씨 있게 한 움직임이 아니라 우연히 된 거라서 maneuver가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "이삿짐 아저씨 두 명이 큰 소파를 들고 좁은 계단 모퉁이에 왔어. 소파를 세웠다 눕혔다, 조금씩 돌려 가며 벽에 안 닿게 모퉁이를 통과시켰어. 아저씨들이 한 이 움직임, 'maneuver'야?",
-   "choices": [
-    "응, maneuver 맞아",
-    "아니, maneuver 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, maneuver 맞아",
-   "why": "맞아! 아저씨들이 좁은 계단 모퉁이에서 소파를 세웠다 눕혔다 조금씩 돌려 가며 벽에 안 닿게 통과시켰잖아. 까다로운 자리를 조심조심, 솜씨 있게 빠져나간 움직임이라 바로 그게 maneuver인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "민지 아빠가 차를 운전한 이야기 네 개야. 아빠가 한 일을 'maneuver'라고 부르기에 가장 알맞은 건?",
-   "choices": [
-    "넓고 텅 빈 주차장에서 아빠가 차를 곧장 앞으로 몰고 나갔어.",
-    "차 두 대 사이 좁은 자리에 아빠가 핸들을 여러 번 꺾어 차를 댔어.",
-    "좁은 골목에서 아빠 차 바퀴가 미끄러져 옆 벽에 살짝 긁혔어.",
-    "아빠가 운전 학원에서 매일 한 시간씩 같은 코스를 돌며 연습했어."
-   ],
-   "answer_index": 1,
-   "answer": "차 두 대 사이 좁은 자리에 아빠가 핸들을 여러 번 꺾어 차를 댔어.",
-   "why": "맞아! 차 두 대 사이 좁은 자리는 까다롭잖아. 아빠가 핸들을 여러 번 꺾어 가며 조심조심, 솜씨 있게 차를 넣었으니까 바로 그게 maneuver인 거야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/maneuver.webp",
   "alt": "좁은 골목에서 차를 앞뒤로 돌려 빠져나오기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

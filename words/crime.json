@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/crime/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/crime/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/crime/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "crime",
  "slug": "crime",
  "url": "https://hibbangyong.com/words/crime/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, crime 아니야",
    "why": "맞아! 약속 안 지킨 건 진짜 얄밉고 나쁜 짓이지만, 법에 '약속 지켜라' 하고 적혀 있진 않거든. 그래서 경찰이 오지도 않고 crime도 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 명이 오늘 한 일이야. 이 중에서 'crime'이라고 부를 수 있는 건 누구 일일까?",
-   "choices": [
-    "가게 지우개를 돈 안 내고 주머니에 넣고 나온 준호",
-    "동생을 계속 놀려서 울려 버린 민수",
-    "친구 생일인 걸 까먹고 그냥 지나간 지아",
-    "줄 서 있는데 슬쩍 앞으로 끼어든 서연"
-   ],
-   "answer_index": 0,
-   "answer": "가게 지우개를 돈 안 내고 주머니에 넣고 나온 준호",
-   "why": "맞아! 지우개 하나라도 돈 안 내고 가져오는 건 법에 하면 안 된다고 적혀 있는 거거든. 작다고 봐주는 게 아니라, 적힌 걸 어겼으면 그게 바로 crime인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "동네 형들이 재미 삼아 주인 몰래 남의 집 대문을 열고 들어가서 마당에서 한참 놀다 나왔어. 이게 'crime'이야?",
-   "choices": [
-    "응, crime 맞아",
-    "아니, crime 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, crime 맞아",
-   "why": "맞아! 남의 집 대문을 몰래 열고 들어가는 건 나라가 하면 안 된다고 적어 둔 거거든. 형들은 그냥 논 거라고 해도, 적힌 걸 어겼으니까 그게 crime인 거야."
   }
  ],
  "synonyms": [],
@@ -91,6 +67,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/crime.webp",
   "alt": "가게에서 껌 하나 몰래 주머니에 넣기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

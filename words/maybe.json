@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/maybe/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/maybe/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/maybe/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "maybe",
  "slug": "maybe",
  "url": "https://hibbangyong.com/words/maybe/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, maybe 맞아",
    "why": "맞아! 주사위가 아직 데굴데굴 구르고 있으니까 6이 나올 수도 있고 다른 게 나올 수도 있잖아. 딱 잘라 모르는 그 반반인 마음, 그게 바로 maybe인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "내일 축구 할 수 있냐고 묻자 한 친구가 딱 'Maybe.'라고만 답했어. 이 친구의 속마음에 가장 가까운 건?",
-   "choices": [
-    "할 수도 있고 안 할 수도 있어. 아직 잘 모르겠어.",
-    "무조건 해. 벌써 다 정해 놨어.",
-    "절대 안 해. 그날은 딱 안 되거든.",
-    "거의 다 할 거야. 십중팔구 하지."
-   ],
-   "answer_index": 0,
-   "answer": "할 수도 있고 안 할 수도 있어. 아직 잘 모르겠어.",
-   "why": "맞아! Maybe는 할 수도 있고 안 할 수도 있는, 아직 반반인 마음이거든. 그 친구도 딱 잘라 모르겠어서 그렇게 답한 거야."
-  },
-  {
-   "type": "ox",
-   "question": "같은 보드게임에 '7이 나오면 두 칸 앞서간다'는 규칙 칸이 있어. 그런데 지호가 쓰는 주사위는 면이 1부터 6까지뿐이야. 지호가 7을 얻는 걸 두고 'maybe'라고 말해도 돼?",
-   "choices": [
-    "응, maybe 맞아",
-    "아니, maybe 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, maybe 아니야",
-   "why": "맞아! 주사위 면이 1부터 6까지밖에 없으면 7은 아예 나올 자리가 없거든. 나올 수도 있고 안 나올 수도 있어야 어쩌면인데, 여긴 나올 수가 없으니까 어쩌면이 아닌 거야."
   }
  ],
  "synonyms": [
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/maybe.webp",
   "alt": "소풍 전날 흐린 하늘을 보며 비가 올지 안 올지 모르는 상황",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

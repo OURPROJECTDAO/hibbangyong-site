@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/phrase/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/phrase/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/phrase/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "phrase",
  "slug": "phrase",
  "url": "https://hibbangyong.com/words/phrase/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, phrase 맞아",
    "why": "맞아! \"소파 밑에\"는 낱말 하나도 아니고, 누가 뭘 했는지 다 끝맺은 한 마디도 아니잖아. 낱말 몇 개가 뭉쳐서 한 덩어리로 읽히는 말 조각이라 바로 그게 phrase인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "형이 \"아침에 눈이 왔어. 그래서 우리는 눈사람을 만들었어. 장갑이 다 젖었어.\"라고 말했어. 형이 말한 이 전체가 'phrase'야?",
-   "choices": [
-    "응, phrase 맞아",
-    "아니, phrase 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, phrase 아니야",
-   "why": "그렇지! 이건 phrase가 아니야. 눈이 왔다, 눈사람을 만들었다, 장갑이 젖었다 — 이렇게 끝까지 다 말한 마디가 셋이나 붙어 있잖아. phrase는 그렇게 다 말해버리는 게 아니라 낱말 몇 개만 뭉친 조각이거든."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 종이에 각자 한 줄씩 적었어. 이 중에 'phrase'인 건 어느 거야?",
-   "choices": [
-    "학교 뒤 작은 연못",
-    "연못에 개구리가 살아",
-    "연못",
-    "비가 왔고 물이 불었고 개구리가 울었어"
-   ],
-   "answer_index": 0,
-   "answer": "학교 뒤 작은 연못",
-   "why": "맞아! 학교 뒤 작은 연못은 낱말 여러 개가 뭉쳐서 한 덩어리로 읽히지? 그런데 누가 뭘 했다고 끝맺지는 않았어. 딱 그 중간이라서 그게 바로 phrase인 거야."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/phrase.webp",
   "alt": "\"언제 가?\"에 \"내일 아침에\"라고 대답하는 순간",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

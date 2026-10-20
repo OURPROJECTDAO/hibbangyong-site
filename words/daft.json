@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/daft/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/daft/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/daft/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "daft",
  "slug": "daft",
  "url": "https://hibbangyong.com/words/daft/",
@@ -45,28 +45,6 @@
    "answer_index": 0,
    "answer": "한겨울 추운 날 반팔만 입고 눈싸움하러 나갔어",
    "why": "맞아! 한겨울 추운 날 반팔만 입고 눈싸움하러 나간 건 조금만 생각해도 말이 안 되는 행동이잖아. 이렇게 어이없을 만큼 생각이 짧은 짓이 바로 daft야."
-  },
-  {
-   "type": "ox",
-   "question": "친구가 등산 가기 전날 날씨 예보를 확인하고 우비와 여벌 양말을 미리 챙겼어. 이런 행동, 'daft'라고 할 수 있어?",
-   "choices": [
-    "응, daft 맞아",
-    "아니, daft 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, daft 아니야",
-   "why": "맞아! 등산 가기 전날 날씨 예보를 보고 우비랑 여벌 양말까지 미리 챙긴 건 앞일을 꼼꼼하게 생각한 거잖아. daft는 어이없을 만큼 생각이 짧은 걸 말하니까, 이 친구는 daft랑 정반대야."
-  },
-  {
-   "type": "ox",
-   "question": "동생이 아이스크림을 나중에 먹겠다고 책가방 속 필통 안에 넣어 뒀어. 이런 행동, 'daft'라고 할 수 있어?",
-   "choices": [
-    "응, daft 맞아",
-    "아니, daft 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, daft 맞아",
-   "why": "맞아! 아이스크림은 가방 속에 두면 금방 녹을 게 뻔한데 필통에 넣어 뒀잖아. 동생이 머리가 나쁜 게 아니라 그 행동이 어이없게 생각이 짧은 거라서, 바로 그게 daft야."
   }
  ],
  "synonyms": [],

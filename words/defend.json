@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/defend/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/defend/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/defend/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "defend",
  "slug": "defend",
  "url": "https://hibbangyong.com/words/defend/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, defend 맞아",
    "why": "맞아! 개가 짖으면서 친구한테 달려드는데, 지호가 친구 앞을 몸으로 막고 버텼잖아. 개가 친구한테 못 오게 막아서 친구가 안 다치게 한 거니까, 바로 그게 defend인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "복도에서 형들이 자기 우산을 가져가려고 다가오자, 민수는 우산을 손에서 놓고 뒤로 물러났어. 이게 'defend'야?",
-   "choices": [
-    "응, defend 맞아",
-    "아니, defend 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, defend 아니야",
-   "why": "맞아! 우산을 지키려고 앞을 막아선 게 아니라 그냥 내주고 물러난 거잖아. 막아서는 게 없으면 defend가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 각자 한 일을 말했어. 이 중에서 'defend'라고 부를 수 있는 건 누구야?",
-   "choices": [
-    "옆 반 애들이 우리 반 화단을 밟으러 몰려왔을 때, 지호가 화단 앞을 막고 서서 못 들어오게 했어",
-    "옆 반 화단이 예뻐 보여서, 민수가 먼저 넘어가 꽃을 몇 송이 꺾어 왔어",
-    "옆 반 애들이 몰려오는 걸 보고, 수아는 슬쩍 비켜서 자리를 내주고 뒤로 물러났어",
-    "언젠가 누가 올지도 몰라서, 하준이는 화단 둘레에 낮은 줄을 미리 쳐 두었어"
-   ],
-   "answer_index": 0,
-   "answer": "옆 반 애들이 우리 반 화단을 밟으러 몰려왔을 때, 지호가 화단 앞을 막고 서서 못 들어오게 했어",
-   "why": "맞아! 옆 반 애들이 지금 화단으로 몰려오고 있잖아. 그 앞을 딱 막고 서서 못 들어오게 한 거, 그게 바로 오는 걸 막아서 안 다치게 하는 거야. 지호가 한 게 defend야."
   }
  ],
  "synonyms": [],
@@ -85,6 +61,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/defend.webp",
   "alt": "골대 앞을 막아서서 상대 공을 못 들어가게 하는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

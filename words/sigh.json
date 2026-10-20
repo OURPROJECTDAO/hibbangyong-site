@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/sigh/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/sigh/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/sigh/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "sigh",
  "slug": "sigh",
  "url": "https://hibbangyong.com/words/sigh/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, sigh 맞아",
    "why": "맞아! 무거운 짐 들고 5층까지 올라오느라 힘들었잖아. 그렇게 힘든 일이 끝나면 후우— 하고 긴 숨이 저절로 나오거든. 그게 바로 sigh야."
-  },
-  {
-   "type": "ox",
-   "question": "수영장 물속에 들어갔다 물 밖으로 얼굴을 쑥 내밀면서, 하— 하고 숨을 크게 들이켰어. 이게 'sigh'야?",
-   "choices": [
-    "응, sigh 맞아",
-    "아니, sigh 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, sigh 아니야",
-   "why": "맞아! 후우— 하고 길게 내쉬는 게 sigh인데, 물 밖으로 얼굴 내밀면서 하— 하는 건 숨을 크게 들이켠 거잖아. 방향이 반대라서 sigh가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "친구 넷이 저마다 숨을 쉬었어. 이 중에서 'sigh'를 한 사람은 누구일까?",
-   "choices": [
-    "어려운 퍼즐을 드디어 다 맞추고, 어깨에 힘을 탁 풀면서 길게 숨을 내쉰 지호",
-    "뜨거운 국이 너무 뜨거워서, 입으로 후후 바람을 불어 식힌 민수",
-    "갑자기 뒤에서 큰 소리가 나서, 헉 하고 숨을 들이켠 수아",
-    "운동장을 다섯 바퀴 돌고 나서, 헉헉 가쁘게 숨을 몰아쉰 하나"
-   ],
-   "answer_index": 0,
-   "answer": "어려운 퍼즐을 드디어 다 맞추고, 어깨에 힘을 탁 풀면서 길게 숨을 내쉰 지호",
-   "why": "맞아! 어려운 걸 드디어 다 해내고 어깨 힘이 탁 풀리면서 후우— 하고 길게 나온 숨, 그게 바로 sigh야. 한숨은 슬플 때만 나오는 게 아니라 후련할 때도 저절로 새어 나오거든."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/sigh.webp",
   "alt": "숙제를 다 끝내고 후우 하고 긴 숨을 내쉬는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

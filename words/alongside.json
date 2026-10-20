@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/alongside/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/alongside/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/alongside/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "alongside",
  "slug": "alongside",
  "url": "https://hibbangyong.com/words/alongside/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, alongside 맞아",
    "why": "맞아! 포크가 접시 오른쪽 가장자리에 딱 붙어 있잖아. 앞도 뒤도 아니고 옆에 나란히 붙어 있으니까 바로 그게 alongside인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "운동회 날 언니는 트랙 안쪽 잔디밭에 앉았고, 동생은 트랙 건너편 관중석 맨 윗줄에 앉아서 서로 손을 흔들며 응원했어. 둘이 'alongside' 앉은 거야?",
-   "choices": [
-    "응, alongside 맞아",
-    "아니, alongside 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, alongside 아니야",
-   "why": "딩동댕! 언니는 잔디밭, 동생은 저 건너편 관중석 맨 위. 트랙 하나를 통째로 사이에 두고 저만치 떨어져 있잖아. 손을 흔들 만큼 멀면 옆에 붙은 게 아니야. 그래서 alongside는 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "도로에서 자동차 두 대를 봤어. 두 대가 'alongside'로 달렸다면 어떤 모습이야?",
-   "choices": [
-    "한 대가 앞서고 다른 한 대가 그 뒤에 바짝 붙어 따라 달려",
-    "한 대가 다른 한 대 앞을 가로질러 열십자로 지나가 버려",
-    "두 대가 서로 옆을 맞댄 채 같은 자리에서 같이 달려",
-    "한 대가 저 멀리 처져서 혼자 뚝 떨어져 달려"
-   ],
-   "answer_index": 2,
-   "answer": "두 대가 서로 옆을 맞댄 채 같은 자리에서 같이 달려",
-   "why": "맞아! 두 대가 옆을 딱 맞대고 나란히 같은 자리에서 달렸잖아. 앞도 아니고 뒤도 아니고 옆에 붙어서 같이 가는 거, 그게 바로 alongside인 거야."
   }
  ],
  "synonyms": [],
@@ -91,6 +67,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/alongside.webp",
   "alt": "앞뒤로 서지 않고 옆에 붙어 함께 길을 가는 두 사람",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

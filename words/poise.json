@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/poise/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/poise/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/poise/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "poise",
  "slug": "poise",
  "url": "https://hibbangyong.com/words/poise/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, poise 아니야",
    "why": "맞아! 서진이는 단상에서 허둥지둥하다가 상장을 떨어뜨렸고, 소감 말할 때는 목소리가 떨리고 계속 더듬었잖아. 차분하고 당당한 태도가 완전히 흔들린 거라서 poise가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "지호는 고등학교 입학 면접에서 전혀 예상하지 못한 질문을 받았어. 지호는 앉은 자세를 그대로 유지하고, 면접관 눈을 보면서 천천히 또박또박 대답했어. 이런 지호의 태도가 'poise'야?",
-   "choices": [
-    "응, poise 맞아",
-    "아니, poise 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, poise 맞아",
-   "why": "맞아! 예상 못 한 질문이 와서 당황할 만한 순간인데도, 지호는 앉은 자세를 그대로 유지하고 면접관 눈을 보면서 천천히 또박또박 대답했잖아. 말투도 몸가짐도 흔들리지 않고 차분하고 당당했으니까 바로 그게 poise인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구 이야기야. 이 중에서 'poise'가 가장 잘 드러난 사람은 누구일까?",
-   "choices": [
-    "서아는 무서웠지만 친구를 놀리는 애들 앞에 나서서 그만하라고 크게 외쳤어.",
-    "도윤이는 노래 대회에서 반주가 갑자기 끊겼는데, 표정 그대로 박자를 지키며 끝까지 불렀어.",
-    "하준이는 원래 말수가 적은데, 발표만 시키면 고개를 숙이고 목소리가 작아져.",
-    "유나는 시험 전날 밤새 문제집을 풀어서 이번 수학 시험에서 만점을 받았어."
-   ],
-   "answer_index": 1,
-   "answer": "도윤이는 노래 대회에서 반주가 갑자기 끊겼는데, 표정 그대로 박자를 지키며 끝까지 불렀어.",
-   "why": "맞아! 반주가 갑자기 끊기면 누구라도 당황할 순간인데, 도윤이는 표정도 그대로, 박자도 그대로 지키면서 끝까지 불렀잖아. 그렇게 흔들리지 않는 차분하고 당당한 몸가짐이 바로 poise야."
   }
  ],
  "synonyms": [],

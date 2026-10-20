@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/bracket/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/bracket/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/bracket/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "bracket",
  "slug": "bracket",
  "url": "https://hibbangyong.com/words/bracket/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, bracket 맞아",
    "why": "맞아! 몸무게를 45~49kg, 50~54kg, 55~59kg로 칸을 나눴잖아. 그중 50~54kg은 딱 한 숫자가 아니라 범위로 자른 한 칸이니까, 이게 바로 bracket이야."
-  },
-  {
-   "type": "ox",
-   "question": "동네 줄넘기 대회에서 참가자 나이를 칸으로 나누지 않고, 7살부터 60살까지 모두를 한 명단에 통째로 모았어. 이 통째 명단이 'bracket'이야?",
-   "choices": [
-    "응, bracket 맞아",
-    "아니, bracket 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, bracket 아니야",
-   "why": "잘 골랐어! 7살부터 60살까지 칸으로 안 나누고 한 명단에 통째로 모았잖아. bracket은 나이를 범위로 잘라 낸 한 칸인데, 이 명단은 자른 게 없으니까 bracket이 아니야."
-  },
-  {
-   "type": "choice",
-   "question": "여러 가지를 나눠 놓은 모습이 있어. 이 중에서 그 한 묶음을 'bracket'이라고 부르기에 딱 맞는 건?",
-   "choices": [
-    "도서관 책을 소설·과학·역사로 나눴을 때 그중 한 묶음",
-    "달리기 대회 기록을 1등·2등·3등으로 매겼을 때 그중 한 자리",
-    "마라톤 참가자를 20~29세·30~39세로 나눴을 때 그중 한 묶음",
-    "반 친구들을 A형·B형·O형으로 나눴을 때 그중 한 묶음"
-   ],
-   "answer_index": 2,
-   "answer": "마라톤 참가자를 20~29세·30~39세로 나눴을 때 그중 한 묶음",
-   "why": "맞아! 마라톤 참가자를 20~29세, 30~39세처럼 나이 숫자를 범위로 잘라 나눴잖아. 그렇게 잘라 낸 한 칸이 바로 bracket이야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/bracket.webp",
   "alt": "놀이공원 나이별 표 값 칸 나누기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

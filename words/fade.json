@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/fade/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/fade/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/fade/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "fade",
  "slug": "fade",
  "url": "https://hibbangyong.com/words/fade/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, fade 맞아",
    "why": "맞아! 뚝 끊긴 게 아니라 조금씩 작아지다가 어느새 안 들린 거잖아. 천천히 힘이 빠져 가는 그게 바로 fade인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "사진관에서 흑백 사진을 인화액에 담갔더니, 흐릿하던 얼굴이 점점 더 진하고 또렷해졌어. 이게 'fade'야?",
-   "choices": [
-    "응, fade 맞아",
-    "아니, fade 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, fade 아니야",
-   "why": "맞아! 흐릿하던 얼굴이 갈수록 진해지고 또렷해진 거잖아. fade는 반대로 힘이 빠지면서 옅어져 가는 거니까, 이건 fade가 아닌 게 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "네 가지 일이 있었어. 넷 다 '갑자기'가 아니라 천천히 조금씩 일어난 일이야. 그런데 이 중 딱 하나만 'fade'라고 부를 수 있어. 어느 거야?",
-   "choices": [
-    "방 불을 손잡이로 천천히 돌렸더니, 불빛이 조금씩 점점 더 밝아졌어.",
-    "안개가 천천히 밀려와서 앞에 선 나무의 윤곽이 뿌옇게 뭉개져 갔어.",
-    "놀이터 미끄럼틀, 새빨갛던 색이 해마다 조금씩 약해져 연한 분홍빛이 됐어.",
-    "화분 속 새싹이 날마다 조금씩 자라서 키가 한 뼘이나 커졌어."
-   ],
-   "answer_index": 2,
-   "answer": "놀이터 미끄럼틀, 새빨갛던 색이 해마다 조금씩 약해져 연한 분홍빛이 됐어.",
-   "why": "맞아! 새빨갛던 미끄럼틀 색이 누가 바꾼 것도 아닌데 해마다 조금씩 약해져서 연한 분홍빛이 됐잖아. 이렇게 색이 저절로 천천히 옅어져 가는 게 바로 fade인 거야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/fade.webp",
   "alt": "해 질 무렵 하늘의 붉은색이 조금씩 옅어지다 사라지는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

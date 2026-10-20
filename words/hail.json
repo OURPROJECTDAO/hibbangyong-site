@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/hail/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/hail/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/hail/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "hail",
  "slug": "hail",
  "url": "https://hibbangyong.com/words/hail/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, hail 맞아",
    "why": "맞아! 먹구름에서 얼음 알갱이가 그대로 떨어져서 잔디 위로 통통 튀어 오르잖아. 녹지 않은 딱딱한 얼음이라 튀는 거고, 바로 그게 hail이야."
-  },
-  {
-   "type": "ox",
-   "question": "캠핑장에서 먹구름이 몰려오더니 하늘에서 물방울들이 떨어져서 텐트 천을 적시고 주르륵 흘러내려. 떨어지는 이 물방울, 이게 'hail'이야?",
-   "choices": [
-    "응, hail 맞아",
-    "아니, hail 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, hail 아니야",
-   "why": "맞아! 텐트 천을 적시고 주르륵 흘러내리는 건 물방울이잖아. 액체라서 딱딱하게 탁탁 부딪히는 얼음 알갱이가 아니니까, 이건 hail이 아니고 그냥 비(rain)야."
-  },
-  {
-   "type": "choice",
-   "question": "하늘에서 뭔가가 떨어지는 장면 네 개야. 떨어지는 게 'hail'인 장면은?",
-   "choices": [
-    "여름 소나기 속에 딱딱한 얼음 알갱이가 차 지붕을 탁탁 때려",
-    "겨울밤에 가볍고 하얀 송이들이 천천히 내려와 쌓여",
-    "장마철에 물방울이 우산 위로 주룩주룩 계속 떨어져",
-    "초겨울에 반쯤 녹은 하얀 것들이 물과 섞여 질척하게 내려"
-   ],
-   "answer_index": 0,
-   "answer": "여름 소나기 속에 딱딱한 얼음 알갱이가 차 지붕을 탁탁 때려",
-   "why": "맞아! 차 지붕을 탁탁 때리는 게 딱딱한 얼음 알갱이잖아. 여름 소나기 속에서 얼음이 녹지 않고 그대로 떨어지는 것, 그게 바로 hail이야."
   }
  ],
  "synonyms": [],
@@ -84,6 +60,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/hail.webp",
   "alt": "여름 오후 소나기 중 창문과 차 지붕을 때리는 얼음 알갱이",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

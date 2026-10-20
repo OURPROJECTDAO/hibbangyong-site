@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/colleague/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/colleague/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/colleague/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "colleague",
  "slug": "colleague",
  "url": "https://hibbangyong.com/words/colleague/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, colleague 맞아",
    "why": "맞아! 같은 빵집에서 같이 반죽하고 오븐도 같이 돌리잖아. 같은 곳에서 같은 일을 함께 하는 사람, 그게 바로 colleague인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "이모는 놀이터에서 만난 아주머니랑 매일 저녁 같이 산책하고 수다 떨어. 일은 전혀 상관없어. 이 아주머니는 이모의 'colleague'야?",
-   "choices": [
-    "응, colleague 맞아",
-    "아니, colleague 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, colleague 아니야",
-   "why": "그렇지, 아니라고 한 게 딱 맞아! 산책하고 수다만 같이 하는 사이는 노는 사이지 같이 일하는 사이가 아니거든. colleague는 같은 곳에서 같은 일을 함께 하는 사람이야."
-  },
-  {
-   "type": "choice",
-   "question": "여러 사람이 있어. 이 중에서 우리 아빠의 'colleague'는 누구일까?",
-   "choices": [
-    "아빠랑 같은 회사에서 옆자리에 앉아 같이 일하는 아저씨",
-    "아빠랑 주말마다 만나서 축구하며 노는 어릴 적 친구",
-    "아빠 회사에서 제일 높고 아빠한테 일을 시키는 사장님",
-    "아빠랑 같은 아파트에 사는, 일은 상관없는 앞집 아저씨"
-   ],
-   "answer_index": 0,
-   "answer": "아빠랑 같은 회사에서 옆자리에 앉아 같이 일하는 아저씨",
-   "why": "맞아! 같은 회사에서 나란히 앉아 같이 일하는 사람, 바로 그게 colleague거든. 친하냐 안 친하냐가 아니라 함께 일을 하느냐가 중요한 거야."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/colleague.webp",
   "alt": "엄마가 회사 옆자리 아저씨와 서류·회의를 함께 하는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

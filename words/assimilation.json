@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/assimilation/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/assimilation/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/assimilation/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "assimilation",
  "slug": "assimilation",
  "url": "https://hibbangyong.com/words/assimilation/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, assimilation 맞아",
    "why": "맞아! 작은 빵집 회사가 큰 식품 회사에 합쳐진 뒤 원래 이름도, 일하는 방식도, 유니폼도 다 사라졌잖아. 직원들이 큰 회사 직원들과 전혀 구분이 안 될 만큼 하나가 됐으니까, 바로 그게 assimilation인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "깊은 산골 마을 사람들이 수백 년 동안 바깥으로 나가는 길을 막고 자기들끼리만 살았어. 그래서 지금도 말투, 옷, 음식이 옛날 그대로이고 바깥 사람들과 확연히 달라. 이건 'assimilation'일까?",
-   "choices": [
-    "응, assimilation 맞아",
-    "아니, assimilation 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, assimilation 아니야",
-   "why": "맞아! 이 마을은 길을 막고 자기들끼리만 살아서 말투도 옷도 음식도 옛날 그대로 남았잖아. 바깥에 섞여서 그 일부가 된 게 아니라 따로 떨어져서 다른 점을 그대로 지킨 거니까, 녹아드는 것과는 정반대야."
-  },
-  {
-   "type": "choice",
-   "question": "다른 나라로 이사 간 가족 넷이 자기 이야기를 했어. 'assimilation'이 가장 많이 일어난 가족은?",
-   "choices": [
-    "이사 온 지 십 년, 이제 집에서도 그 나라 말만 쓰고 원래 말은 거의 잊었어.",
-    "이사 온 지 십 년, 밖에선 그 나라 말투를 따라 하지만 집에선 원래 말과 명절을 지켜.",
-    "이사 온 지 십 년, 그 나라 사람들과는 거의 안 만나고 우리끼리만 모여 살아.",
-    "이사 온 지 일주일, 그 나라 날씨와 버스 타는 법에 이제 겨우 익숙해졌어."
-   ],
-   "answer_index": 0,
-   "answer": "이사 온 지 십 년, 이제 집에서도 그 나라 말만 쓰고 원래 말은 거의 잊었어.",
-   "why": "맞아! 집에서도 그 나라 말만 쓰고 원래 말은 거의 잊었으니까, 원래 가족이 갖고 있던 차이가 사라져서 그 나라랑 하나가 된 거야. 바로 그게 assimilation이야."
   }
  ],
  "synonyms": [],

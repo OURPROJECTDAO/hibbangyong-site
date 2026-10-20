@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/nerve/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/nerve/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/nerve/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "nerve",
  "slug": "nerve",
  "url": "https://hibbangyong.com/words/nerve/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, nerve 맞아",
    "why": "맞아! 지호가 발끝을 쿵 부딪혔을 때 발끝에서 머리까지 '아프다'는 소식을 날라 준 가느다란 줄이니까, 바로 그게 nerve인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "치과에서 주사를 맞은 뒤 지호는 볼을 손으로 눌러도 아무 느낌이 안 났어. 이 '아무 느낌도 안 나는 멍한 상태'가 'nerve'야?",
-   "choices": [
-    "응, nerve 맞아",
-    "아니, nerve 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, nerve 아니야",
-   "why": "잘 골랐어! 볼을 눌러도 아무 느낌이 안 나는 건 줄이 아니야. 볼이 잠깐 그렇게 된 거야. nerve는 볼이 느낀 걸 머리까지 날라 주는 가느다란 줄이거든. 그래서 이건 nerve가 아니야."
-  },
-  {
-   "type": "choice",
-   "question": "민수 몸속에서 네 가지 일이 벌어졌어. 이 중에서 'nerve'가 한 일은 어떤 거야?",
-   "choices": [
-    "왼손을 들려고 마음먹자 그 생각이 손까지 전해졌다",
-    "심장이 콩콩 뛰자 붉은 것이 온몸을 한 바퀴 돌았다",
-    "팔을 힘껏 굽히자 안쪽이 불룩하게 딱딱해졌다",
-    "오늘 무엇을 하고 놀지 머릿속에서 곰곰 정했다"
-   ],
-   "answer_index": 0,
-   "answer": "왼손을 들려고 마음먹자 그 생각이 손까지 전해졌다",
-   "why": "맞아! 왼손을 들려고 마음먹은 생각이 머리에서 손까지 전해졌잖아. 이렇게 머리가 정한 걸 몸으로 날라 주는 게 바로 nerve가 하는 일이야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/nerve.webp",
   "alt": "누가 등을 살짝 간질이는 순간",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

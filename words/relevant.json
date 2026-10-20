@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/relevant/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/relevant/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/relevant/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "relevant",
  "slug": "relevant",
  "url": "https://hibbangyong.com/words/relevant/",
@@ -46,32 +46,6 @@
    "answer_index": 1,
    "answer": "물어본 것에 딱 들어맞는 대답이었어",
    "why": "맞아! 지금 물어본 것에 딱 들어맞는 대답이라서, 바로 그게 relevant인 거야. 강아지 얘기 중엔 강아지 대답이 딱 맞는 것처럼!"
-  },
-  {
-   "type": "choice",
-   "question": "친구들이랑 이야기하는 자리에서 태오가 한 말이 'relevant'했대. 태오가 한 말은 어떤 말이었을까?",
-   "choices": [
-    "아주 빠르게 쏟아낸 말이었어",
-    "아주 작게 속삭인 말이었어",
-    "지금 하던 얘기랑 딱 이어지는 말이었어",
-    "아주 여러 번 되풀이한 말이었어"
-   ],
-   "answer_index": 2,
-   "answer": "지금 하던 얘기랑 딱 이어지는 말이었어",
-   "why": "맞아! 지금 하던 얘기에 딱 이어지는 말이었으니까 바로 그게 relevant인 거야. 얘기에 착 들어맞으면 relevant거든."
-  },
-  {
-   "type": "choice",
-   "question": "친구들이 '무슨 색이 제일 예뻐?' 하고 얘기하는 중이야. 지수가 끼어들어 한 말이 'relevant'했대. 지수는 뭐라고 했을까?",
-   "choices": [
-    "난 노란색이 제일 예쁜 것 같아.",
-    "그런 얘기보다 숙제부터 하는 게 더 중요해.",
-    "우리 이제 그만하고 밖에 나가서 놀자.",
-    "미술 시간엔 물감을 아껴 써야 한대."
-   ],
-   "answer_index": 0,
-   "answer": "난 노란색이 제일 예쁜 것 같아.",
-   "why": "맞아! 지금 친구들이 '무슨 색이 예뻐?' 하고 있는데 '난 노란색이 예뻐' 하면 딱 그 얘기에 맞잖아. 그렇게 지금 하는 얘기에 쏙 들어맞는 게 바로 relevant인 거야."
   }
  ],
  "synonyms": [],
@@ -87,6 +61,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/relevant.webp",
   "alt": "친구들과 강아지 얘기를 하는데 누가 피자 얘기를 꺼냄",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

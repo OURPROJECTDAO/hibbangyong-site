@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/damage/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/damage/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/damage/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "damage",
  "slug": "damage",
  "url": "https://hibbangyong.com/words/damage/",
@@ -45,30 +45,6 @@
    "answer_index": 1,
    "answer": "우산살이 부러져서 한쪽 천이 축 늘어졌어",
    "why": "맞아! 우산은 원래 멀쩡하게 펴지던 건데 살이 부러지고 천이 축 늘어졌잖아. 멀쩡하던 게 나빠져서 그만큼 상한 것, 그게 바로 damage야."
-  },
-  {
-   "type": "ox",
-   "question": "형 운동화 밑창이 떨어져서 수선집에 맡겼더니 밑창을 새로 붙여 줬어. 지금 그 운동화는 밑창이 딱 붙은 채로 신어져. 지금 이 운동화에 'damage'가 있어?",
-   "choices": [
-    "응, damage 있어",
-    "아니, damage 없어"
-   ],
-   "answer_index": 1,
-   "answer": "아니, damage 없어",
-   "why": "맞아! 밑창을 새로 붙여서 지금은 멀쩡하게 신어지잖아. 나빠졌던 데가 고쳐져서 남아 있지 않으면 damage는 없는 거야."
-  },
-  {
-   "type": "choice",
-   "question": "물건 네 개가 지금 어떤지 이야기했어. 이 중에 'damage'가 남아 있는 건 어느 거야?",
-   "choices": [
-    "축구공이 세게 날아왔는데 유리창은 멀쩡했어",
-    "몇 해 쓰는 동안 나무 의자 다리가 헐거워졌어",
-    "찢어진 자리를 꿰매 놔서 다시 튼튼해졌어",
-    "선반 끝에 걸쳐 놔서 곧 떨어질 것 같아"
-   ],
-   "answer_index": 1,
-   "answer": "몇 해 쓰는 동안 나무 의자 다리가 헐거워졌어",
-   "why": "맞아! 몇 해 쓰는 동안 다리가 헐거워졌다는 건 멀쩡하던 의자가 지금 그만큼 나빠져 있다는 거잖아. 쿵 하고 부딪힌 일이 없어도, 지금 남아 있는 나빠진 만큼이 바로 damage인 거야."
   }
  ],
  "synonyms": [
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/damage.webp",
   "alt": "멀쩡하던 것이 나빠진 그 만큼",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

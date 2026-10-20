@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/protein/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/protein/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/protein/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "protein",
  "slug": "protein",
  "url": "https://hibbangyong.com/words/protein/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, protein이야",
    "why": "맞아! 생선 살도 고기랑 똑같이 우리 몸을 쑥쑥 만들어 주는 힘이 들어 있거든. 그래서 고등어 살 속 영양소가 바로 protein이 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "초콜릿을 입에 넣으면 사르르 달아. 이 달콤한 맛을 내는 그것이 'protein'이야?",
-   "choices": [
-    "응, protein이야",
-    "아니, protein 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, protein 아니야",
-   "why": "맞아! 초콜릿 단맛은 우리 몸을 쑥쑥 만들어 주는 그 힘이 아니라 그냥 달콤한 맛이거든. 그래서 protein이 아니라고 한 네 말이 딱 맞아. protein은 계란이나 고기, 콩처럼 살이랑 근육을 새로 지어 주는 거야."
-  },
-  {
-   "type": "choice",
-   "question": "음식마다 우리 몸에서 하는 일이 달라. 'protein'이 우리 몸에서 하는 일은 어느 것일까?",
-   "choices": [
-    "살과 근육을 새로 만들어 몸을 자라게 해 준다",
-    "단숨에 쓸 빠른 힘(에너지)을 내준다",
-    "뼈를 단단하게 굳혀 준다",
-    "눈을 밝고 또렷하게 해 준다"
-   ],
-   "answer_index": 0,
-   "answer": "살과 근육을 새로 만들어 몸을 자라게 해 준다",
-   "why": "맞아! protein은 우리 몸을 새로 짓는 영양소거든. 그래서 살이랑 근육을 새로 만들어서 너를 쑥쑥 자라게 해 주는 게 바로 protein이 하는 일인 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/protein.webp",
   "alt": "계란·고기·콩 속에 숨어 몸을 짓는 힘.",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

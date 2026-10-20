@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/portion/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/portion/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/portion/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "portion",
  "slug": "portion",
  "url": "https://hibbangyong.com/words/portion/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, portion 맞아",
    "why": "맞아! 스무 장이 전체인데 거기서 다섯 장을 딱 갈라내서 가진 거잖아. 전체에서 떼어낸 한 덩이, 그게 바로 portion인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "문구점에서 크레파스 한 통을 샀어. 통 안에는 크레파스가 열두 자루 들어 있었고, 나는 그 열두 자루를 전부 가방에 넣었어. 가방에 들어간 크레파스 열두 자루 전부, 이게 'portion'이야?",
-   "choices": [
-    "응, portion 맞아",
-    "아니, portion 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, portion 아니야",
-   "why": "맞아, portion 아니야! 열두 자루가 곧 그 통에 든 전부거든. 전체에서 딱 떼어낸 한 덩이가 있어야 몫인데, 통째로 다 가져갔으니까 갈라낸 게 없는 거야. 열두 자루 중에 세 자루만 꺼냈다면 그건 몫이 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "피자 한 판을 여덟 조각으로 잘랐는데, 누나가 그중 다섯 조각을 자기 접시에 옮겨 담았어. 반이 훌쩍 넘는 이 다섯 조각도 'portion'이라고 부를 수 있어?",
-   "choices": [
-    "응, 이것도 'portion' 맞아.",
-    "아니, 이건 'portion' 아니야."
-   ],
-   "answer_index": 0,
-   "answer": "응, 이것도 'portion' 맞아.",
-   "why": "맞아! 여덟 조각짜리 피자에서 누나가 갈라낸 다섯 조각이잖아. 전체에서 딱 떼어낸 한 덩이면 크든 작든 그게 바로 portion인 거야."
   }
  ],
  "synonyms": [
@@ -80,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/portion.webp",
   "alt": "용돈 오천 원에서 이천 원을 저금통에 넣는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

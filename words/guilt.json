@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/guilt/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/guilt/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/guilt/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "guilt",
  "slug": "guilt",
  "url": "https://hibbangyong.com/words/guilt/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, guilt 맞아",
    "why": "맞아! 본 사람이 아무도 없는데도 서준이는 친구 우유를 몰래 마신 게 잘못이라는 걸 스스로 알아서 마음이 무거운 거거든. 누가 알든 모르든 내가 잘못한 걸 알아서 무거운 그 마음, 바로 그게 guilt인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "지아가 길에서 주운 지갑을 경찰서에 갖다 줬어. 본 사람은 아무도 없어. 지아는 잘못한 게 하나도 없어서 마음이 가볍고 떳떳해. 지아의 이 마음이 'guilt'야?",
-   "choices": [
-    "응, guilt 맞아",
-    "아니, guilt 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, guilt 아니야",
-   "why": "잘 골랐어! 지아는 잘못한 게 하나도 없어서 마음이 가볍고 떳떳하잖아. guilt는 내가 잘못한 걸 알아서 마음이 무겁고 찔리는 거라서, 지아의 이 마음은 guilt가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 모두 기분이 안 좋아. 지금 'guilt'를 느끼고 있는 친구는 누구일까?",
-   "choices": [
-    "축구 연습을 빼먹고 놀았는데, 코치님이 괜찮다고 해도 속이 자꾸 찔리는 지우",
-    "친구가 몰래 내 지우개를 가져간 걸 알고 속이 부글부글 끓는 하준",
-    "발표하다 말이 꼬여서 친구들 앞에서 얼굴이 화끈 달아오른 민수",
-    "동생이 벽에 낙서한 걸 보고, 같이 혼날까 봐 가슴이 콩닥거리는 하은"
-   ],
-   "answer_index": 0,
-   "answer": "축구 연습을 빼먹고 놀았는데, 코치님이 괜찮다고 해도 속이 자꾸 찔리는 지우",
-   "why": "맞아! 지우는 축구 연습을 빼먹은 게 자기 잘못이라는 걸 스스로 알고 있어. 코치님이 괜찮다고 했는데도 속이 자꾸 찔리지? 바로 그 마음이 guilt인 거야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/guilt.webp",
   "alt": "꽃병을 깨고 엄마가 괜찮다며 안아 줘도 마음이 무거운 순간",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

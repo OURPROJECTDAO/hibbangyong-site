@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/resign/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/resign/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/resign/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "resign",
  "slug": "resign",
  "url": "https://hibbangyong.com/words/resign/",
@@ -45,30 +45,6 @@
    "answer_index": 0,
    "answer": "\"저는 도서부 부장 자리를 오늘부로 안 맡을게요.\"",
    "why": "맞아! 도서부 부장이라는 맡고 있던 자리를 누가 시킨 것도 아닌데 자기가 먼저 안 맡겠다고 내려놨잖아. 그렇게 제 손으로 자리를 놓는 게 바로 resign인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "동아리 부장이던 태오한테 선생님이 \"넌 오늘부터 부장 아니야, 다른 애가 할 거야\" 하고 부장 자리에서 내려오게 했어. 이게 'resign'이야?",
-   "choices": [
-    "응, resign 맞아",
-    "아니, resign 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, resign 아니야",
-   "why": "맞아! 선생님이 그만두게 한 거지 태오가 스스로 내려놓은 게 아니잖아. 자리를 뺏긴 거라서 resign이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 사람이 각자 다르게 자리를 떠났어. 이 중에서 'resign'한 사람은 누구일까?",
-   "choices": [
-    "주장이 스스로 \"저 이제 주장 안 맡을게요\" 하고 자기 발로 자리를 내려놨어.",
-    "감독이 \"넌 이제 나와\" 해서 팀에서 억지로 쫓겨났어.",
-    "나이가 많이 들어서 하던 일을 다 마치고 물러났어.",
-    "몸이 아파서 그날 연습에만 안 나오고 쉬었어."
-   ],
-   "answer_index": 0,
-   "answer": "주장이 스스로 \"저 이제 주장 안 맡을게요\" 하고 자기 발로 자리를 내려놨어.",
-   "why": "맞아! 아무도 시키지 않았는데 자기 입으로 주장 안 맡겠다고 하고 자리를 스스로 내려놨잖아. 제 손으로 큰 자리를 놓는 거, 그게 바로 resign이야."
   }
  ],
  "synonyms": [
@@ -90,6 +66,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/resign.webp",
   "alt": "학급 회장이 친구들 앞에서 스스로 회장 자리를 내려놓는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

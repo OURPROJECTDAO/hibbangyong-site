@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/chef/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/chef/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/chef/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "chef",
  "slug": "chef",
  "url": "https://hibbangyong.com/words/chef/",
@@ -45,32 +45,6 @@
    "answer_index": 1,
    "answer": "짜장면을 만들어 파는 사람",
    "why": "맞아! 중국집 주방에서 짜장면을 만드는 게 바로 이 사람 일이거든. 그래서 이 사람이 chef인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "어른 네 명이 자기가 무슨 일로 돈을 버는지 소개했어. 이 중 'chef'에 해당하는 사람은 누구일까?",
-   "choices": [
-    "매일 미용실에서 손님들 머리를 잘라 주고 그걸로 돈을 벌어",
-    "매일 버스를 몰아서 손님들을 태워 나르고 그걸로 돈을 벌어",
-    "매일 호텔 부엌에서 손님들이 먹을 음식을 만들고 그걸로 돈을 벌어",
-    "매일 동물병원에서 아픈 강아지를 치료하고 그걸로 돈을 벌어"
-   ],
-   "answer_index": 2,
-   "answer": "매일 호텔 부엌에서 손님들이 먹을 음식을 만들고 그걸로 돈을 벌어",
-   "why": "맞아! 이 사람은 매일 호텔 부엌에서 손님들이 먹을 음식을 만들고, 그 일로 돈을 벌거든. 부엌에서 음식 만드는 게 일인 사람, 바로 그게 chef인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 사람이 각자 무슨 일을 하는지 말했어. 이 중에서 'chef'인 사람은 누구일까?",
-   "choices": [
-    "매일 식당 부엌에서 손님 음식을 만들고 그 일로 돈을 벌어",
-    "쉬는 날에만 집에서 가족 밥을 차리고 평소엔 회사에 다녀",
-    "주문받은 음식을 쟁반에 담아 손님 자리까지 갖다 줘",
-    "다 나온 음식을 앞에 놓고 자리에 앉아 맛있게 먹어"
-   ],
-   "answer_index": 0,
-   "answer": "매일 식당 부엌에서 손님 음식을 만들고 그 일로 돈을 벌어",
-   "why": "맞아! 이 사람은 매일 식당 부엌에서 손님이 먹을 음식을 만들고, 그 일로 돈을 벌거든. 음식 만드는 게 이 사람의 일이니까 바로 chef인 거야."
   }
  ],
  "synonyms": [],
@@ -86,6 +60,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/chef.webp",
   "alt": "식당 문 뒤 부엌에서 하루 종일 음식을 만드는 사람",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

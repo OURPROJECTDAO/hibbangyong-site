@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/recognize/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/recognize/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/recognize/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "recognize",
  "slug": "recognize",
  "url": "https://hibbangyong.com/words/recognize/",
@@ -45,32 +45,6 @@
    "answer_index": 0,
    "answer": "전에 한 번 만난 적 있는 사람을 보고 '아, 그때 그 사람!' 하고 알아봤다",
    "why": "맞아! 전에 한 번 본 사람을 다시 만나서 '아, 그때 그 사람!' 하고 딱 알아챘잖아. 전에 본 걸 다시 잇는 거, 바로 그게 recognize야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 중 'recognize'에 해당하는(맞는) 것은?",
-   "choices": [
-    "전에 가 본 빵집 냄새를 맡고 '아, 그 가게다' 하고 떠올렸다",
-    "새 색연필 한 통을 책상 위에 가지런히 줄 세워 놓았다",
-    "줄넘기를 백 번까지 쉬지 않고 이어서 넘었다",
-    "컵에 물을 반쯤 따라서 식탁으로 가져갔다"
-   ],
-   "answer_index": 0,
-   "answer": "전에 가 본 빵집 냄새를 맡고 '아, 그 가게다' 하고 떠올렸다",
-   "why": "맞아! 전에 가 본 빵집 냄새를 맡고 '아, 그 가게다' 하고 떠올렸잖아. 처음 맡는 냄새가 아니라 전에 알던 걸 다시 만나서 딱 알아챈 거니까, 그게 바로 recognize야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 중 'recognize'에 해당하는(맞는) 것은?",
-   "choices": [
-    "전화에서 들려온 목소리를 듣고 '아, 삼촌이다' 하고 누군지 알았다",
-    "도화지에 노란 해를 크게 색칠해서 벽에 붙였다",
-    "신발 끈을 두 번 묶어서 단단히 조였다",
-    "블록을 높이 쌓다가 무너져서 다시 주워 담았다"
-   ],
-   "answer_index": 0,
-   "answer": "전화에서 들려온 목소리를 듣고 '아, 삼촌이다' 하고 누군지 알았다",
-   "why": "맞아! 전에 들어서 아는 삼촌 목소리를 다시 듣고 '아, 삼촌이네' 하고 누군지 딱 이어 안 거잖아. 그게 바로 recognize야."
   }
  ],
  "synonyms": [],
@@ -105,6 +79,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/recognize.webp",
   "alt": "똑같은 가방 더미에서 흠집 보고 내 가방 딱 집어냄 — 전에 본 걸 다시 알아봄.",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

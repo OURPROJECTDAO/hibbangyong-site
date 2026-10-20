@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/search/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/search/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/search/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "search",
  "slug": "search",
  "url": "https://hibbangyong.com/words/search/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, search 맞아",
    "why": "맞아! 상자 하나씩 열어 보고 무대 뒤랑 계단까지 다시 가 본 그 돌아다닌 시간 전부가 바로 search야. 줄넘기를 끝에 찾았는지 못 찾았는지는 하나도 상관없거든."
-  },
-  {
-   "type": "ox",
-   "question": "쉬는 시간에 준서가 딱지 한 장을 잃어버렸어. 준서는 없어진 딱지는 그냥 두고, 남은 딱지를 챙겨 친구랑 딱지치기를 계속했어. 준서가 한 게 'search'야?",
-   "choices": [
-    "응, search 맞아",
-    "아니, search 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, search 아니야",
-   "why": "그렇지, 준서는 없어진 딱지를 찾아볼 생각을 아예 안 했잖아. 바닥도 안 살피고 주머니도 안 뒤지고 그냥 남은 딱지로 놀았으니, 찾으려고 애쓴 시간이 하나도 없는 거야. 그래서 이건 search가 아니라고 본 네 생각이 딱 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 오늘 있었던 일을 하나씩 말했어. 이 중에 'search'를 한 아이는 누구일까?",
-   "choices": [
-    "지우개가 없어져서 가방을 쏟고 책상 밑까지 기어들어갔어",
-    "서랍 첫 칸을 열자마자 색연필이 바로 거기 있었어",
-    "우산을 어디 뒀는지 몰랐지만 그냥 새것을 하나 샀어",
-    "길을 걷다가 발밑에 떨어진 동전을 우연히 보게 됐어"
-   ],
-   "answer_index": 0,
-   "answer": "지우개가 없어져서 가방을 쏟고 책상 밑까지 기어들어갔어",
-   "why": "맞아! 지우개를 찾으려고 가방도 쏟아 보고 책상 밑까지 기어들어갔잖아. 그렇게 여기저기 뒤지고 다닌 그 일이 통째로 search인 거야. 끝에 찾았는지 못 찾았는지는 상관없어."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/search.webp",
   "alt": "서랍·소파 밑·온 동네를 살피며 없어진 것을 찾아다니는 일",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

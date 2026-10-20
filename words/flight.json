@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/flight/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/flight/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/flight/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "flight",
  "slug": "flight",
  "url": "https://hibbangyong.com/words/flight/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, flight 아니야",
    "why": "맞아! 오리 발이 계속 땅에 딱 붙어 있잖아. 붕 떠서 하늘을 지나간 적이 한 번도 없으니까, 이건 flight가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "공원에서 놓친 풍선이 손을 떠나서 공중으로 쭉 올라가 저 멀리 아파트 옥상 너머까지 갔어. 이게 'flight'야?",
-   "choices": [
-    "응, flight 맞아",
-    "아니, flight 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, flight 맞아",
-   "why": "맞아! 풍선이 손을 떠나서 땅에 안 닿고 공중을 쭉 지나서 저 멀리까지 갔잖아. 그렇게 하늘을 지나서 가는 게 바로 flight인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 사람이 오늘 서울에서 제주도까지 어떻게 왔는지 말했어. 이 중에서 'flight'를 타고 왔다고 말할 수 있는 사람은 누구야?",
-   "choices": [
-    "하늘 위로 두 시간쯤 떠서 구름을 내려다보며 왔어",
-    "파도 위를 미끄러지며 갑판에서 바다를 보며 왔어",
-    "선로를 따라 달리며 창밖 산을 보며 왔어",
-    "커다란 다리를 건너며 자리에 앉아서 왔어"
-   ],
-   "answer_index": 0,
-   "answer": "하늘 위로 두 시간쯤 떠서 구름을 내려다보며 왔어",
-   "why": "맞아! 하늘 위로 붕 떠서 구름을 내려다봤다는 건, 땅에도 물에도 안 닿고 하늘을 지나서 왔다는 거잖아. 그렇게 하늘길로 온 그 한 번이 바로 flight인 거야."
   }
  ],
  "synonyms": [],
@@ -83,6 +59,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/flight.webp",
   "alt": "새가 나뭇가지에서 뛰어내려 땅에 안 떨어지고 지붕까지 붕 떠서 가는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

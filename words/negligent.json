@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/negligent/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/negligent/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/negligent/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "negligent",
  "slug": "negligent",
  "url": "https://hibbangyong.com/words/negligent/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, negligent 맞아",
    "why": "맞아! 냉장고 온도 확인은 주인이 맡은 일인데 일주일 내내 안 봤고, 그래서 고기가 상해 손님들이 배탈이 났잖아. 맡은 일을 안 챙겨서 탈이 났으니 딱 negligent인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "버스 기사가 출발하기 전에 문이 다 닫혔는지, 승객들이 손잡이를 잡았는지 매번 거울로 하나하나 확인해. 이 기사는 'negligent'야?",
-   "choices": [
-    "응, negligent 맞아",
-    "아니, negligent 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, negligent 아니야",
-   "why": "맞아! 이 기사는 출발 전에 문이 다 닫혔는지, 승객들이 손잡이를 잡았는지 매번 거울로 하나하나 확인하잖아. 맡은 일을 이렇게 빠짐없이 챙기니까 negligent랑은 정반대야."
-  },
-  {
-   "type": "choice",
-   "question": "네 사람의 이야기를 들었어. 이 중에서 'negligent'라고 할 수 있는 사람은?",
-   "choices": [
-    "수영장 안전요원이 근무 중에 휴대폰만 보다가 물에 빠진 아이를 못 봤어.",
-    "체육 시간에 열심히 공을 받으려다 손이 미끄러져서 공을 놓쳤어.",
-    "주말에 할 일이 하나도 없어서 하루 종일 침대에서 뒹굴었어.",
-    "아파트 경비원이 밤에 모든 문이 잠겼는지 두 번씩 확인했어."
-   ],
-   "answer_index": 0,
-   "answer": "수영장 안전요원이 근무 중에 휴대폰만 보다가 물에 빠진 아이를 못 봤어.",
-   "why": "맞아! 안전요원은 물에 있는 아이들을 지켜보는 게 맡은 일인데, 근무 중에 휴대폰만 보다가 물에 빠진 아이를 못 봤잖아. 챙겨야 할 일을 소홀히 해서 탈이 났으니까 바로 그게 negligent인 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/negligent.webp",
   "alt": "교실 문단속 당번이 그냥 가서 밤새 비에 교실이 젖음",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

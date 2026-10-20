@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/rhythm/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/rhythm/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/rhythm/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "rhythm",
  "slug": "rhythm",
  "url": "https://hibbangyong.com/words/rhythm/",
@@ -45,28 +45,6 @@
    "answer_index": 0,
    "answer": "손뼉을 짝-짝-짝 똑같은 간격으로 계속 치는 친구",
    "why": "맞아! 짝-짝-짝 똑같은 간격으로 계속 치니까, 딱딱 되풀이되는 흐름이 생기잖아. 바로 그게 rhythm이야."
-  },
-  {
-   "type": "ox",
-   "question": "탁상 종을 손바닥으로 딱 한 번 '땡!' 울리고 그쳤어. 이 하나의 소리도 'rhythm'이야?",
-   "choices": [
-    "응, rhythm 맞아",
-    "아니, rhythm 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, rhythm 아니야",
-   "why": "딩동댕! '땡!' 한 번 울리고 그친 건 되풀이가 없잖아. rhythm은 쿵-짝 쿵-짝 똑같은 간격으로 자꾸 돌아와야 하는 거라, 딱 한 번은 rhythm이 아닌 게 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "고장 난 메트로놈이 딱……딱딱…딱………딱딱딱 하고 간격이 제멋대로 들쭉날쭉하게 쳐. 이 소리에도 'rhythm'이 있어?",
-   "choices": [
-    "응, rhythm 맞아",
-    "아니, rhythm 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, rhythm 아니야",
-   "why": "맞아! 이 고장 난 메트로놈은 딱 소리 사이의 간격이 길었다가 짧았다가 제멋대로거든. 똑같은 간격으로 되풀이되는 게 하나도 없으니까 rhythm이 아닌 거야."
   }
  ],
  "synonyms": [
@@ -88,6 +66,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/rhythm.webp",
   "alt": "발을 구르며 쿵-짝 쿵-짝 되풀이하는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

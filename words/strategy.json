@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/strategy/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/strategy/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/strategy/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "strategy",
  "slug": "strategy",
  "url": "https://hibbangyong.com/words/strategy/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, strategy 맞아",
    "why": "맞아! 서연이는 퍼즐을 다 맞추려고, 시작하기 전에 테두리 조각부터 맞추고 그다음엔 색깔별로 나눠서 맞추자고 순서를 미리 정했잖아. 이렇게 해내려고 미리 짜 둔 방법이니까 바로 그게 strategy인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "도윤이는 레고로 커다란 성을 만들고 싶어. 그런데 설명서도 안 보고, 어떻게 만들지 정하지도 않고, 손에 잡히는 블록부터 되는 대로 끼웠어. 도윤이가 이렇게 한 것, 이게 'strategy'야?",
-   "choices": [
-    "응, strategy 맞아",
-    "아니, strategy 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, strategy 아니야",
-   "why": "맞아, strategy가 아니야! 도윤이는 성을 어떻게 만들지 정하지도 않고, 손에 잡히는 블록부터 되는 대로 끼웠거든. 미리 짜 둔 방법이 하나도 없으니까 strategy가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "지우는 이번 달에 줄넘기 100개를 해내고 싶어. 다음 중 지우의 'strategy'라고 할 수 있는 건?",
-   "choices": [
-    "줄넘기 100개를 꼭 해내는 게 지우의 큰 꿈이야",
-    "줄에 걸리자 그 자리에서 얼른 다시 뛰었어",
-    "첫 주는 50개, 다음 주는 70개씩 뛰기로 했어",
-    "그날그날 기분 내키는 대로 아무렇게나 뛰었어"
-   ],
-   "answer_index": 2,
-   "answer": "첫 주는 50개, 다음 주는 70개씩 뛰기로 했어",
-   "why": "맞아! 지우는 100개를 해내려고 첫 주는 50개, 다음 주는 70개씩 뛰기로 미리 정해 뒀잖아. 거기까지 어떻게 갈지 미리 짜 둔 방법, 바로 그게 strategy인 거야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/strategy.webp",
   "alt": "받아쓰기 단어 스무 개를 하루 다섯 개씩 나눠 외우기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

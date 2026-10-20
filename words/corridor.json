@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/corridor/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/corridor/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/corridor/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "corridor",
  "slug": "corridor",
  "url": "https://hibbangyong.com/words/corridor/",
@@ -43,19 +43,6 @@
    "answer_index": 1,
    "answer": "아니, corridor 아니야",
    "why": "잘 골랐어, 이 잔디밭은 corridor가 아니야! 잔디밭은 울타리 없이 사방으로 넓게 펼쳐져 있고 친구들이 그 안에 흩어져서 공을 차며 놀잖아. corridor는 양옆이 좁게 끼어 길게 뻗은 길이고, 저쪽으로 건너가라고 낸 길이거든."
-  },
-  {
-   "type": "choice",
-   "question": "친구 넷이 오늘 있었던 데를 하나씩 말했어. 이 중에 'corridor'에 있었던 사람은 누구일까?",
-   "choices": [
-    "문을 꼭 닫고 들어가 책상 앞에 앉아 숙제를 다 끝냈어",
-    "한 칸 한 칸 발을 딛고 꼭대기 층까지 걸어 올라갔어",
-    "현관문들이 줄줄이 난 사이를 쭉 걸어 우리 집 앞까지 갔어",
-    "사방이 탁 트인 데에 돗자리를 펴고 누워서 하늘을 봤어"
-   ],
-   "answer_index": 2,
-   "answer": "현관문들이 줄줄이 난 사이를 쭉 걸어 우리 집 앞까지 갔어",
-   "why": "맞아! 현관문들이 줄줄이 난 사이를 쭉 걸어서 우리 집 앞까지 갔잖아. 양옆에 문이 줄줄이 있는 좁은 길이고, 거기 머문 게 아니라 쭉 걸어서 지나갔으니까, 바로 그게 corridor인 거야."
   }
  ],
  "synonyms": [],
@@ -71,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/corridor.webp",
   "alt": "교실 문을 열고 나오면 양옆에 문이 늘어선 학교 복도",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/doom/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/doom/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/doom/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "doom",
  "slug": "doom",
  "url": "https://hibbangyong.com/words/doom/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, doom 맞아",
    "why": "맞아! 배에 물이 계속 차오르는데 막을 방법도 없고 근처에 다른 배도 없잖아. 아직 가라앉진 않았지만 곧 가라앉는 게 정해져 있으니까, 바로 그게 doom이야."
-  },
-  {
-   "type": "ox",
-   "question": "부원이 모자라서 없어질 뻔했던 학교 과학 동아리가, 마감 전날 신입 부원 세 명이 들어와서 내년에도 계속하게 됐어. 이 동아리에 일어난 일은 'doom'일까?",
-   "choices": [
-    "응, doom 맞아",
-    "아니, doom 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, doom 아니야",
-   "why": "맞아! 동아리가 없어질 뻔했지만 마감 전날 신입 부원 세 명이 들어와서 내년에도 계속하게 됐잖아. doom은 막을 수 없이 끝장나는 건데, 이 동아리는 끝을 피하고 살아났으니까 doom이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 중 'doom'이라고 부르기에 가장 알맞은 상황은?",
-   "choices": [
-    "소나기가 온다는 예보가 있지만, 우산만 챙기면 젖을 일은 없어.",
-    "등굣길에 물웅덩이를 밟아 양말이 젖었지만, 금방 말라 버렸어.",
-    "폐업 날짜가 이미 정해진 동네 서점이라, 손님이 늘어도 바뀌는 건 없어.",
-    "망할 줄 알았던 분식집이 새 메뉴 덕분에 다시 손님이 꽉 찼어."
-   ],
-   "answer_index": 2,
-   "answer": "폐업 날짜가 이미 정해진 동네 서점이라, 손님이 늘어도 바뀌는 건 없어.",
-   "why": "맞아! 폐업 날짜가 이미 정해져 있어서 손님이 늘어도 서점이 문 닫는 건 못 막잖아. 이렇게 피할 수 없이 다가오는 끝이 바로 doom이야."
   }
  ],
  "synonyms": [
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/doom.webp",
   "alt": "밀물 앞 물가에 있는 모래성",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

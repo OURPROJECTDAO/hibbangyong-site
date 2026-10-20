@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/impediment/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/impediment/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/impediment/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "impediment",
  "slug": "impediment",
  "url": "https://hibbangyong.com/words/impediment/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, impediment 맞아",
    "why": "맞아! 공사 펜스 때문에 민준이는 먼 길로 돌아가야 했고, 결국 학원에 20분 늦게 도착했잖아. 학원에 가는 길을 붙잡아서 늦어지게 했으니까 그 펜스가 바로 impediment인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "서연이네 가족이 이사를 하면서 상자를 1층 트럭까지 옮기고 있었어. 관리실에서 바퀴 달린 수레를 빌려줬고, 짐 옮기기가 예정보다 한 시간 일찍 끝났어. 이 수레는 이삿짐 옮기기에 'impediment'였을까?",
-   "choices": [
-    "응, impediment 맞아",
-    "아니, impediment 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, impediment 아니야",
-   "why": "맞아! 수레 덕분에 짐 옮기기가 예정보다 한 시간 일찍 끝났잖아. 일을 앞당겨 준 거니까 붙잡는 impediment랑은 정반대야."
-  },
-  {
-   "type": "choice",
-   "question": "반 친구들이 학교 축제를 준비하면서 여러 일이 있었어. 이 중에서 축제 준비에 'impediment'였던 건?",
-   "choices": [
-    "옆 반이 의자를 빌려줘서 무대 꾸미기가 금방 끝났어",
-    "강당을 다른 반이 먼저 써서 우리 연습이 자꾸 밀렸어",
-    "한 친구가 연습 중에 휴대폰을 잃어버려서 속상해했어",
-    "축제가 다 끝난 뒤 정리하다가 컵 하나를 깨뜨렸어"
-   ],
-   "answer_index": 1,
-   "answer": "강당을 다른 반이 먼저 써서 우리 연습이 자꾸 밀렸어",
-   "why": "맞아! 강당을 다른 반이 먼저 써서 우리 연습이 자꾸 밀렸잖아. 준비가 완전히 멈춘 건 아니어도 앞으로 나아가는 걸 붙잡아 늦어지게 했으니, 바로 그게 impediment인 거야."
   }
  ],
  "synonyms": [],

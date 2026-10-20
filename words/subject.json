@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/subject/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/subject/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/subject/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "subject",
  "slug": "subject",
  "url": "https://hibbangyong.com/words/subject/",
@@ -45,17 +45,6 @@
    "answer_index": 2,
    "answer": "사진 한가운데 크게 담긴, 늘어지게 자는 고양이",
    "why": "맞아! 이 사진은 처음부터 끝까지 저 자는 고양이를 보라고 찍은 거잖아. 사진이 통째로 담고 있는 게 고양이니까, 바로 그게 이 사진의 subject인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "어떤 동화책이 첫 장부터 마지막 장까지 늑대 한 마리가 산을 넘는 이야기야. 다 읽고 나면 '혼자여도 씩씩하게'라는 마음이 남는대. 그럼 이 책의 'subject'는 늑대일까?",
-   "choices": [
-    "응, 늑대가 subject 맞아",
-    "아니, 늑대는 subject 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, 늑대가 subject 맞아",
-   "why": "맞아! 이 책은 첫 장부터 마지막 장까지 늑대 얘기만 하고 있잖아. 책이 처음부터 끝까지 누구 얘기를 하는지, 바로 그게 subject야."
   }
  ],
  "synonyms": [
@@ -77,6 +66,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/subject.webp",
   "alt": "첫 줄부터 끝 줄까지 강아지 얘기뿐인 편지",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

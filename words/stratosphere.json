@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/stratosphere/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/stratosphere/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/stratosphere/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "stratosphere",
  "slug": "stratosphere",
  "url": "https://hibbangyong.com/words/stratosphere/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, stratosphere 아니야",
    "why": "맞아! 산 바로 위에서 논밭이랑 지붕이 또렷하게 보일 만큼 낮게 나는 거니까, 패러글라이더는 아직 비랑 구름이 생기는 맨 아래 공기층 안에 있는 거야. stratosphere는 그 맨 아래 공기층보다 더 위에 있는 층이라서 여기는 아니지."
-  },
-  {
-   "type": "ox",
-   "question": "한 스카이다이버가 특수 캡슐을 타고 땅에서 약 39km 높이까지 올라갔어. 비구름이 생기는 높이를 한참 지난 곳이었고, 거기서 캡슐 밖으로 뛰어내렸어. 그가 뛰어내린 그 높이의 공기층, 이게 'stratosphere'야?",
-   "choices": [
-    "응, stratosphere 맞아",
-    "아니, stratosphere 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, stratosphere 맞아",
-   "why": "맞아! 그가 뛰어내린 39km는 비구름이 생기는 높이를 한참 지난 곳이잖아. 비구름이 생기는 맨 아래층 바로 위의 공기층이 바로 stratosphere니까, 그 높이가 딱 여기 들어가."
-  },
-  {
-   "type": "choice",
-   "question": "저녁 뉴스에서 올해 배추값이 'stratosphere'로 갔다고 했어. 여기서 이 말은 무슨 뜻일까?",
-   "choices": [
-    "배추값이 엄청나게 치솟았다는 뜻",
-    "배추값이 바닥까지 떨어졌다는 뜻",
-    "배추값이 작년과 거의 같다는 뜻",
-    "배추값이 오르락내리락 흔들렸다는 뜻"
-   ],
-   "answer_index": 0,
-   "answer": "배추값이 엄청나게 치솟았다는 뜻",
-   "why": "맞아! stratosphere는 하늘 위쪽에 있는 아주 높은 공기층이야. 그러니까 배추값이 거기로 갔다는 건 값이 그만큼 높이 치솟았다는 뜻이야."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/stratosphere.webp",
   "alt": "비행기 창밖으로 구름이 발 아래 깔린 높이",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

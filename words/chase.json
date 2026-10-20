@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/chase/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/chase/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/chase/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "chase",
  "slug": "chase",
  "url": "https://hibbangyong.com/words/chase/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, chase 맞아",
    "why": "맞아! 비둘기가 앞으로 날아 도망가는데, 지호가 잡으려고 그 뒤를 헐레벌떡 달려갔잖아. 도망가는 걸 잡으려고 뒤에서 빠르게 따라 달린 거니까 바로 그게 chase인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "운동장에서 술래가 다가오자 민서는 반대쪽으로 앞장서서 내달렸고, 술래가 그 뒤를 따라 달렸어. 민서가 한 게 'chase'야?",
-   "choices": [
-    "응, chase 맞아",
-    "아니, chase 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, chase 아니야",
-   "why": "맞아! 민서는 잡히기 싫어서 앞장서서 도망친 쪽이잖아. 뒤에서 따라 달린 술래가 chase를 한 거고, 민서는 달아난 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 각자 한 일을 말했어. 이 중에서 'chase'한 아이는 누구일까?",
-   "choices": [
-    "앞서 걸어가는 형을 천천히 뒤따라 걸어갔어.",
-    "도망가는 고양이를 잡으려고 뒤에서 빠르게 뛰어 따라갔어.",
-    "날아온 공을 손을 쭉 뻗어 딱 붙잡았어.",
-    "뒤에서 다가오는 친구를 피해 앞으로 달아났어."
-   ],
-   "answer_index": 1,
-   "answer": "도망가는 고양이를 잡으려고 뒤에서 빠르게 뛰어 따라갔어.",
-   "why": "맞아! 도망가는 고양이를 놓칠까 봐 빠르게 뛰어서 뒤를 따라간 거잖아. 잡으려고 뒤에서 헐레벌떡 달리는 그게 바로 chase야."
   }
  ],
  "synonyms": [],
@@ -84,6 +60,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/chase.webp",
   "alt": "강아지가 굴러가는 공을 잡으려 뒤따라 달리는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

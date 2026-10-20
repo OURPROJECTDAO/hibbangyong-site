@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/tube/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/tube/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/tube/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "tube",
  "slug": "tube",
  "url": "https://hibbangyong.com/words/tube/",
@@ -41,19 +41,6 @@
    "answer_index": 1,
    "answer": "아니, 아니야",
    "why": null
-  },
-  {
-   "type": "choice",
-   "question": "tube는 어느 것일까?",
-   "choices": [
-    "밥 먹을 때 손에 쥐고 쓰는 길쭉한 도구",
-    "글씨 쓸 때 손에 잡고 종이에 긋는 물건",
-    "물 위에 떠서 몸을 받쳐 주는 도넛 모양 물건",
-    "비 올 때 머리 위에 펼쳐서 드는 물건"
-   ],
-   "answer_index": 2,
-   "answer": "물 위에 떠서 몸을 받쳐 주는 도넛 모양 물건",
-   "why": null
   }
  ],
  "synonyms": [
@@ -69,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/tube.webp",
   "alt": "도넛 모양 공기주입식 물놀이 튜브(수영 튜브) 한 개를 정면 위에서 전체가 보이게 — 한국 9세 아이가 '튜브' 하면 떠올리는 가장 전형적 의미",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

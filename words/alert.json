@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/alert/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/alert/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/alert/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "alert",
  "slug": "alert",
  "url": "https://hibbangyong.com/words/alert/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, alert 맞아",
    "why": "맞아! 아직 코끼리가 안 왔는데 미리 알려주면서 비켜서 있으라고 했잖아. 그렇게 미리 조심하라고 주는 알림이 바로 alert인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "학교 스피커에서 방송이 나왔어. \"체육관 바닥 공사가 모두 끝났습니다. 오늘부터 체육관을 쓰세요.\" 이 방송은 alert야?",
-   "choices": [
-    "응, alert 맞아",
-    "아니, alert 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, alert 아니야",
-   "why": "맞아! 공사가 다 끝나서 이제 마음 놓고 쓰라는 소식이잖아. 아직 안 온 위험을 미리 조심하라는 게 아니니까 alert가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 각자 겪은 일을 말했어. 이 중에서 'alert'를 받았다고 할 수 있는 아이는 누구일까?",
-   "choices": [
-    "산불이 더 번질 수 있으니 지금 밖에 나가지 말라는 알림이 마을에 왔어",
-    "어제 옆 마을에 산불이 났었다는 이야기를 저녁 뉴스에서 들었어",
-    "산불이 다 꺼졌으니 이제 안심해도 된다는 소식을 마을에서 들었어",
-    "산불이 났을 때 어떻게 나가야 하는지 교실에서 미리 배워 뒀어"
-   ],
-   "answer_index": 0,
-   "answer": "산불이 더 번질 수 있으니 지금 밖에 나가지 말라는 알림이 마을에 왔어",
-   "why": "맞아! 산불이 더 번질지도 모르니까 지금 조심하라고 미리 알려준 거잖아. 아직 안 온 일에 대비하라고 주는 신호, 그게 바로 alert야."
   }
  ],
  "synonyms": [
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/alert.webp",
   "alt": "하늘이 어두워지며 태풍 온다는 알림이 뜬 순간",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/flawless/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/flawless/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/flawless/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "flawless",
  "slug": "flawless",
  "url": "https://hibbangyong.com/words/flawless/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, flawless 맞아",
    "why": "맞아! 선생님이 빨간 펜으로 20개를 하나하나 채점했는데 철자 틀린 단어가 하나도 없었잖아. 흠이 하나도 없으니까 민준이 받아쓰기는 flawless인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "할머니가 손으로 떠 주신 목도리가 있어. 한 군데 코가 빠져서 작은 구멍이 났지만, 색이 예쁘고 따뜻해서 지유는 매일 두르고 다녀. 이 목도리는 'flawless'일까?",
-   "choices": [
-    "응, flawless 맞아",
-    "아니, flawless 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, flawless 아니야",
-   "why": "맞아! 목도리가 아무리 예쁘고 따뜻해도 코가 빠진 작은 구멍이 한 군데 있잖아. flawless는 흠이 하나도 없어야 하니까, 그 구멍 하나 때문에 이 목도리는 flawless가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "학교 축제에서 네 팀이 춤 공연을 했어. 심사위원이 그중 한 팀의 공연을 'flawless'라고 평가했어. 어떤 공연일까?",
-   "choices": [
-    "한 명이 동작을 살짝 틀렸지만, 그 실수가 웃겨서 박수를 제일 많이 받았어.",
-    "박자가 가끔 밀렸지만, 표정과 에너지가 넘쳐서 관객이 크게 환호했어.",
-    "화려한 기술은 없었지만, 처음부터 끝까지 동작 하나 어긋난 데가 없었어.",
-    "중간에 한 명이 넘어졌지만, 바로 일어나서 더 멋지게 무대를 마무리했어."
-   ],
-   "answer_index": 2,
-   "answer": "화려한 기술은 없었지만, 처음부터 끝까지 동작 하나 어긋난 데가 없었어.",
-   "why": "맞아! 화려한 기술은 없어도 처음부터 끝까지 동작 하나 어긋난 데가 없었잖아. 틀린 곳이 하나도 없으니까 바로 그게 flawless인 거야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/flawless.webp",
   "alt": "아무리 뜯어봐도 틀린 곳이나 긁힌 곳이 없는 것",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

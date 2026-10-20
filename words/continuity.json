@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/continuity/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/continuity/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/continuity/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "continuity",
  "slug": "continuity",
  "url": "https://hibbangyong.com/words/continuity/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, 있어",
    "why": "맞아! 이번 주 편이 지난주 편이 끝난 장면에서 바로 이어서 시작하잖아. 매주 한 편씩 올라와도 이야기가 중간에 안 끊기고 쭉 이어지니까, 이게 바로 continuity가 있는 거야."
-  },
-  {
-   "type": "ox",
-   "question": "웹 소설이 매주 한 편씩 올라와. 그런데 매주 지난 편과 상관없이 새 인물, 새 이야기로 처음부터 다시 시작해. 이 연재 방식에는 'continuity'가 있을까?",
-   "choices": [
-    "응, 있어",
-    "아니, 없어"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 없어",
-   "why": "맞아! 매주 지난 편이랑 상관없이 새 인물, 새 이야기로 처음부터 다시 시작하잖아. 앞 편과 뒤 편이 이어지지 않고 매번 끊기니까 continuity가 없는 거야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 중 'continuity'가 잘 지켜진 상황은 뭘까?",
-   "choices": [
-    "드라마에서 방금 주인공이 쓴 모자가 바로 다음 장면에선 사라져 있었어.",
-    "매일 아침 똑같은 노래를 틀어 놓고 똑같은 체조를 되풀이했어.",
-    "동아리 회장이 바뀌었지만 새 회장이 전 회장의 계획을 넘겨받아 다음 단계를 진행했어.",
-    "민호는 어려운 수학 문제를 포기하지 않고 끝까지 붙잡고 있었어."
-   ],
-   "answer_index": 2,
-   "answer": "동아리 회장이 바뀌었지만 새 회장이 전 회장의 계획을 넘겨받아 다음 단계를 진행했어.",
-   "why": "맞아! 회장은 바뀌었는데 새 회장이 전 회장의 계획을 넘겨받아서 다음 단계로 갔잖아. 사람이 바뀌어도 하던 일이 끊기지 않고 앞에서 뒤로 쭉 이어진 거, 바로 그게 continuity야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/continuity.webp",
   "alt": "학기 중 담임이 여러 번 바뀌는 반 vs 한 담임이 1년 쭉 맡는 반",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

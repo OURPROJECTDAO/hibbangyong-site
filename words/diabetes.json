@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/diabetes/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/diabetes/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/diabetes/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "diabetes",
  "slug": "diabetes",
  "url": "https://hibbangyong.com/words/diabetes/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, diabetes 맞아",
    "why": "맞아! 의사 선생님이 할아버지 몸이 밥에서 나온 당을 힘으로 잘 못 써서 피 속에 당이 계속 많이 남아 있다고 했지? 바로 그런 병이 diabetes인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "서윤이 동생이 유치원 친구한테 수두가 옮았어. 일주일 동안 몸에 빨간 점이 나고 가렵다가 다 나았어. 동생이 앓은 병은 'diabetes'일까?",
-   "choices": [
-    "응, diabetes 맞아",
-    "아니, diabetes 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, diabetes 아니야",
-   "why": "맞아! 동생은 유치원 친구한테 수두가 옮았고, 일주일 동안 빨간 점이 나고 가렵다가 다 나았잖아. diabetes는 친구한테 옮는 병이 아니야. 밥이나 빵을 먹으면 몸속에서 달달한 당이 생기는데, 몸이 그 당을 힘으로 바꿔 쓰지 못해서 피 속에 당이 자꾸 쌓이는 병이거든. 그래서 동생이 앓은 병은 diabetes가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 몸이 아픈 이야기를 했어. 'diabetes'가 있는 친구는 누구일까?",
-   "choices": [
-    "사탕을 너무 많이 먹어서 어금니가 까맣게 썩은 친구",
-    "꽃가루만 닿으면 봄마다 재채기가 멈추지 않는 친구",
-    "밥을 먹어도 몸이 당을 잘 못 써서 피에 당이 쌓이는 친구",
-    "감기에 옮아서 사흘 동안 열이 나고 콧물이 난 친구"
-   ],
-   "answer_index": 2,
-   "answer": "밥을 먹어도 몸이 당을 잘 못 써서 피에 당이 쌓이는 친구",
-   "why": "맞아! 밥을 먹으면 몸속에서 달달한 당이 생기는데, 보통은 몸이 그 당을 힘으로 바꿔서 다 써. 이 친구는 몸이 당을 힘으로 잘 못 바꿔서 쓰고 남은 당이 피 속에 자꾸 쌓이거든. 바로 그게 diabetes야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/diabetes.webp",
   "alt": "밥·빵을 먹으면 당이 되어 피를 타고 도는 몸속",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/plus/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/plus/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/plus/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "plus",
  "slug": "plus",
  "url": "https://hibbangyong.com/words/plus/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, plus 맞아",
    "why": "맞아! 어항에 있던 금붕어 세 마리에 아빠가 두 마리를 더 넣어 주셨잖아. 있던 것에 새 금붕어를 더 보탰으니까 바로 그게 plus인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "접시에 쿠키가 다섯 개 있었어. 동생이 그중 두 개를 집어 가서 먹었지. 쿠키 다섯 개에서 두 개가 줄어든 거야. 이렇게 된 걸 'plus'라고 할 수 있을까?",
-   "choices": [
-    "응, plus 맞아",
-    "아니, plus 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, plus 아니야",
-   "why": "맞아! 동생이 쿠키 두 개를 집어 가서 다섯 개에서 두 개가 줄어들었잖아. 하나도 보태지지 않고 오히려 줄었으니까 plus가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "지우가 가게에서 '사과 두 개 plus 바나나 한 개'를 샀대. 지우가 산 건 뭘까?",
-   "choices": [
-    "사과 두 개만 샀고, 바나나는 뺐어",
-    "사과 두 개나 바나나 한 개 중 하나만 샀어",
-    "사과 두 개에 바나나 한 개까지 샀어",
-    "사과 두 개 대신 바나나 한 개를 샀어"
-   ],
-   "answer_index": 2,
-   "answer": "사과 두 개에 바나나 한 개까지 샀어",
-   "why": "맞아! 지우는 사과 두 개를 사고, 거기에 바나나 한 개를 더 보태서 샀거든. 그래서 사과 두 개에 바나나 한 개까지 산 게 바로 plus인 거야."
   }
  ],
  "synonyms": [],
@@ -84,6 +60,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/plus.webp",
   "alt": "가방에 필통이 있는데 공책을 더 넣는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

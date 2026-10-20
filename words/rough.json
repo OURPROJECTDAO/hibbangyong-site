@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/rough/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/rough/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/rough/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "rough",
  "slug": "rough",
  "url": "https://hibbangyong.com/words/rough/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, rough 맞아",
    "why": "맞아! 솔방울 겉은 비늘 같은 게 층층이 삐죽삐죽 돋아 있어서 손가락으로 쓸면 하나도 안 매끈하거든. 걸리적걸리적 우툴두툴한 게 딱 rough인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "지우가 새 유리컵 옆면을 손바닥으로 쓸어봤어. 걸리는 데 하나 없이 반들반들 미끄러져. 이게 'rough'야?",
-   "choices": [
-    "응, rough 맞아.",
-    "아니, rough 아니야."
-   ],
-   "answer_index": 1,
-   "answer": "아니, rough 아니야.",
-   "why": "맞아! 손바닥이 걸리는 데 하나 없이 쭉 미끄러졌잖아. 그렇게 반들반들 매끈한 건 rough가 아니야. rough는 만지면 까끌까끌 걸리는 거거든."
-  },
-  {
-   "type": "choice",
-   "question": "민수가 물건 네 개를 손끝으로 문질러 봤어. 어떤 게 'rough'한 느낌일까?",
-   "choices": [
-    "까끌까끌한 사포. 문지르면 손끝이 오돌토돌 걸려.",
-    "차가운 얼음 조각. 문지르면 손끝이 스르륵 미끄러져.",
-    "말랑한 젤리. 문지르면 손끝이 폭 눌렸다 돌아와.",
-    "딱딱한 나무 블록. 문지르면 손끝이 단단하게 닿아."
-   ],
-   "answer_index": 0,
-   "answer": "까끌까끌한 사포. 문지르면 손끝이 오돌토돌 걸려.",
-   "why": "맞아! 문지를 때 손끝이 오돌토돌 걸리는 그 느낌, 그게 바로 rough야. 겉이 매끈하지 않고 우툴두툴하니까 손끝이 자꾸 걸리는 거거든."
   }
  ],
  "synonyms": [],
@@ -85,6 +61,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/rough.webp",
   "alt": "오래된 나무 판자를 손으로 쓱 만지는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

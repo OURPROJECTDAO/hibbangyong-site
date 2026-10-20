@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/independent/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/independent/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/independent/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "independent",
  "slug": "independent",
  "url": "https://hibbangyong.com/words/independent/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, independent 맞아",
    "why": "맞아! 삼촌은 월세도 자기 월급으로 내고, 밥도 직접 해 먹고, 주말에 뭘 할지도 스스로 정하잖아. 남한테 기대지 않고 자기 일을 혼자 해내니까 바로 그게 independent인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "동네 빵집 하나가 있어. 이 빵집은 무슨 빵을 팔지, 가격을 얼마로 할지, 몇 시에 문을 열지를 전부 본사가 정해 줘야 해. 빵집 스스로는 하나도 못 정해. 이런 빵집은 'independent'할까?",
-   "choices": [
-    "응, independent 맞아",
-    "아니, independent 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, independent 아니야",
-   "why": "맞아! 이 빵집은 무슨 빵을 팔지, 가격을 얼마로 할지, 몇 시에 문을 열지를 하나도 스스로 못 정하고 본사가 정해 줘야 하잖아. 이렇게 본사가 정해 주는 대로만 해야 하니까 independent가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구의 모습이야. 이 중에서 'independent'하다고 말할 수 있는 친구는 누구일까?",
-   "choices": [
-    "민지는 친구들이랑 어울려 놀지만, 숙제 계획은 자기가 세워서 해.",
-    "준호는 방에 혼자 있지만, 뭐든 엄마가 해 줘야 움직여.",
-    "서연이는 규칙도 안 지키고, 하고 싶은 대로 막 해 버려.",
-    "하준이는 형이 정해 준 대로만 옷을 입고 밥을 먹어."
-   ],
-   "answer_index": 0,
-   "answer": "민지는 친구들이랑 어울려 놀지만, 숙제 계획은 자기가 세워서 해.",
-   "why": "맞아! 민지는 친구들이랑 같이 놀아도, 숙제 계획은 자기가 세워서 하잖아. 누가 정해 주지 않아도 자기 일을 스스로 해내니까, 바로 그게 independent인 거야."
   }
  ],
  "synonyms": [
@@ -90,6 +66,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/independent.webp",
   "alt": "알람 없이 일어나 준비물을 스스로 챙기는 누나",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

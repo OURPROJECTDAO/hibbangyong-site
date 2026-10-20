@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/knowledge/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/knowledge/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/knowledge/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "knowledge",
  "slug": "knowledge",
  "url": "https://hibbangyong.com/words/knowledge/",
@@ -43,28 +43,6 @@
    "answer_index": 1,
    "answer": "아니, knowledge 아니야",
    "why": "맞아! 지호가 잘하는 건 퍼즐을 빨리 푸는 재주지, 머릿속에 쌓아 둔 아는 것이 아니거든. 그래서 이건 knowledge가 아닌 게 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "할머니는 아침 하늘빛과 바람만 보고도 오늘 비가 올지 안 올지 딱 맞혀. 오래 농사지으면서 그렇게 된 거야. 할머니의 이런 것도 'knowledge'야?",
-   "choices": [
-    "응, knowledge 맞아",
-    "아니, knowledge 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, knowledge 맞아",
-   "why": "맞아! 할머니는 오래오래 농사지으면서 하늘빛이랑 바람을 몸으로 겪어 왔거든. 그렇게 겪어서 머릿속에 쌓인 것도 knowledge인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "형 휴대폰에는 별자리 이름과 모양이 전부 저장돼 있어. 휴대폰 속에 담긴 그 목록도 'knowledge'야?",
-   "choices": [
-    "응, knowledge 맞아",
-    "아니, knowledge 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, knowledge 아니야",
-   "why": "맞아! 휴대폰 안에 목록이 저장돼 있는 거지 형 머릿속에 들어 있는 게 아니거든. 그건 그냥 적혀 있는 자료고, 형이 그걸 읽고 외워서 밤하늘 보고 알아볼 수 있게 됐을 때 그게 knowledge가 되는 거야."
   }
  ],
  "synonyms": [],
@@ -92,6 +70,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/knowledge.webp",
   "alt": "집에서 학교까지 제일 빠른 골목을 아는 것",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

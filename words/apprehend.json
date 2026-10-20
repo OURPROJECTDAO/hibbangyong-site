@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/apprehend/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/apprehend/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/apprehend/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "apprehend",
  "slug": "apprehend",
  "url": "https://hibbangyong.com/words/apprehend/",
@@ -43,32 +43,6 @@
    "answer_index": 0,
    "answer": "응, apprehend 맞아",
    "why": "맞아! 옆 사람 가방에서 지갑을 몰래 꺼낸 건 법을 어긴 거고, 경찰이 계단에서 그 사람 손목을 잡아 멈춰 세웠잖아. 법을 어긴 사람을 경찰이 실제로 붙잡은 거니까 바로 그게 apprehend인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 중 'apprehend'에 해당하는 것은?",
-   "choices": [
-    "경찰이 공원에서 자전거를 훔친 남자를 붙잡았다",
-    "경찰이 조사가 끝난 남자를 경찰서 밖으로 내보내 줬다",
-    "경찰이 길을 잃은 아이에게 집 가는 길을 알려 줬다",
-    "경찰이 비 온 뒤 더러워진 순찰차를 깨끗이 닦았다"
-   ],
-   "answer_index": 0,
-   "answer": "경찰이 공원에서 자전거를 훔친 남자를 붙잡았다",
-   "why": "맞아! 자전거를 훔친 남자는 법을 어긴 사람이고, 경찰이 그 사람을 실제로 붙잡았잖아. 바로 그게 apprehend야."
-  },
-  {
-   "type": "choice",
-   "question": "가게에서 돈을 안 내고 과자를 들고 나간 사람이 있어. 이 사람이 'apprehend'된 건 언제일까?",
-   "choices": [
-    "경비원이 그 사람을 보고 뒤따라 뛰기 시작했을 때",
-    "경비원이 문 앞에서 그 사람 팔을 잡아 세웠을 때",
-    "재판에서 그 사람에게 벌금을 내라고 정했을 때",
-    "경찰이 그 사람을 확인하고 집에 보내 줬을 때"
-   ],
-   "answer_index": 1,
-   "answer": "경비원이 문 앞에서 그 사람 팔을 잡아 세웠을 때",
-   "why": "맞아! 경비원이 문 앞에서 그 사람 팔을 잡아 세운 그 순간, 과자 들고 나간 사람이 실제로 붙잡힌 거잖아. 바로 그 붙잡는 순간이 apprehend야."
   }
  ],
  "synonyms": [],
@@ -88,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/apprehend.webp",
   "alt": "가게에서 돈 안 내고 나간 사람을 경비원이 문 앞에서 붙잡음",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

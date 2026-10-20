@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/outrageous/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/outrageous/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/outrageous/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "outrageous",
  "slug": "outrageous",
  "url": "https://hibbangyong.com/words/outrageous/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, outrageous 맞아",
    "why": "맞아! 동네 편의점 생수 한 병이 10만 원이면 그냥 좀 비싼 정도가 아니잖아. 누가 봐도 선을 한참 넘어서 기가 막히는 값이니까 바로 outrageous인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "한 주에 지각을 세 번 한 친구가 선생님께 교실 청소를 하루 하라는 말을 들었어. 이 벌은 'outrageous'야?",
-   "choices": [
-    "응, outrageous 맞아",
-    "아니, outrageous 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, outrageous 아니야",
-   "why": "맞아! 한 주에 세 번이나 지각했으니 교실 청소 하루는 그 잘못에 딱 맞는 벌이야. 벌이 지나친 게 없으니까 outrageous라고 할 수 없어."
-  },
-  {
-   "type": "ox",
-   "question": "버스 줄에 새치기해 놓고, 뒤에 서 있던 할머니가 한마디 하자 오히려 할머니한테 큰 소리로 화를 낸 사람이 있었어. 이런 경우도 'outrageous'야?",
-   "choices": [
-    "응, outrageous 맞아",
-    "아니, outrageous 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, outrageous 맞아",
-   "why": "맞아! 새치기부터 선을 넘었는데, 한마디 한 할머니한테 오히려 큰 소리로 화를 냈잖아. 돈 얘기가 없어도 행동이 이렇게 도를 넘으면 outrageous야."
   }
  ],
  "synonyms": [
@@ -80,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/outrageous.webp",
   "alt": "분식집 떡볶이 한 접시 5만 원",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

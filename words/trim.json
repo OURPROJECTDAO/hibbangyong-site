@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/trim/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/trim/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/trim/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "trim",
  "slug": "trim",
  "url": "https://hibbangyong.com/words/trim/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, trim 아니야",
    "why": "맞아! 새 실을 매듭으로 이어서 실이 더 길어졌잖아. trim은 삐져나온 데만 조금 잘라서 짧게 하는 거라서, 길게 만든 이건 trim이 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "미용실에서 언니가 내 앞머리 끝을 눈썹 위로 조금만 잘라 가지런하게 했어. 이게 'trim'이야?",
-   "choices": [
-    "응, trim 맞아",
-    "아니, trim 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, trim 맞아",
-   "why": "맞아! 언니가 앞머리를 다 자른 게 아니라 끝만 조금 잘라서 가지런하게 했잖아. 바로 그게 trim인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 마당 나무를 각자 어떻게 했는지 말했어. 나무를 'trim' 한 아이는 누구일까?",
-   "choices": [
-    "삐져나온 가지 끝을 조금씩만 잘라 낸 아이",
-    "밑동을 톱으로 잘라 나무를 쓰러뜨린 아이",
-    "잎에 앉은 먼지를 물수건으로 닦아 준 아이",
-    "가지에 줄을 이어 묶어 더 길게 만든 아이"
-   ],
-   "answer_index": 0,
-   "answer": "삐져나온 가지 끝을 조금씩만 잘라 낸 아이",
-   "why": "맞아! 삐져나온 가지 끝만 조금씩 잘라서 나무 모양이 가지런해졌잖아. 튀어나온 데만 살짝 덜어 내는 거, 그게 바로 trim인 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/trim.webp",
   "alt": "화분 나무에서 삐죽 튀어나온 가지 끝만 조금 잘라 모양을 맞추는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

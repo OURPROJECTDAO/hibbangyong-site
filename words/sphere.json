@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/sphere/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/sphere/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/sphere/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "sphere",
  "slug": "sphere",
  "url": "https://hibbangyong.com/words/sphere/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, sphere 맞아",
    "why": "맞아! 볼링공은 위에서 봐도 동그랗고 옆으로 돌려 봐도 여전히 똑같이 동그랗잖아. 어느 쪽으로 굴려도 그대로 부풀어 있으니까 바로 그게 sphere인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "동생이 루빅큐브를 두 손으로 들고 이리저리 돌려 봐. 이게 'sphere'야?",
-   "choices": [
-    "응, sphere 맞아",
-    "아니, sphere 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, sphere 아니야",
-   "why": "맞아! 큐브는 모서리가 뾰족하고 면이 납작해서 어느 쪽으로 돌려도 각이 툭툭 잡히잖아. 둥글게 부푼 데가 하나도 없으니까 sphere가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "보드게임 상자를 열었더니 물건이 네 개 들어 있었어. 이 중에서 'sphere'라고 부를 수 있는 건 뭐야?",
-   "choices": [
-    "모서리가 여섯 면으로 딱 각진 나무 주사위",
-    "어느 쪽으로 굴려도 똑같이 부푼 유리 구슬",
-    "네 귀퉁이가 반듯한 종이 카드 한 장",
-    "한쪽 면이 평평하게 눌린 고무 받침대"
-   ],
-   "answer_index": 1,
-   "answer": "어느 쪽으로 굴려도 똑같이 부푼 유리 구슬",
-   "why": "맞아! 어느 쪽으로 굴려도 똑같이 부풀어 있잖아. 위에서 봐도 옆에서 봐도 아래에서 봐도 다 동그라미인 거, 그게 바로 sphere야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/sphere.webp",
   "alt": "공중에 둥실 떠 있는 비눗방울 하나",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

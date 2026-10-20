@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/slash/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/slash/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/slash/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "slash",
  "slug": "slash",
  "url": "https://hibbangyong.com/words/slash/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, slash 맞아",
    "why": "맞아! 해적이 칼을 옆으로 휙, 빠르게 한 번 그어서 밧줄을 끊었잖아. 날을 빠르게 한 번 길게 긋는 동작이니까 바로 그게 slash인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "아빠가 칼을 천천히 꾹 눌러 밀면서 두꺼운 스티로폼 판을 끝까지 잘랐어. 이 동작을 'slash'라고 부를 수 있을까?",
-   "choices": [
-    "응, slash 맞아",
-    "아니, slash 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, slash 아니야",
-   "why": "맞아! 아빠는 칼을 천천히 꾹 눌러 밀면서 스티로폼 판을 잘랐잖아. slash는 날을 빠르게 한 번 휙 긋는 거라서, 이렇게 천천히 밀어서 자르는 건 slash가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "지우가 칼로 여러 가지 일을 했어. 이 중에서 'slash'라고 부를 수 있는 건 뭘까?",
-   "choices": [
-    "칼끝을 빠르게 한 번 찔러 넣어서 수박에 구멍을 냈어",
-    "칼을 위에서 한 번 세게 내리쳐서 뼈를 두 동강 냈어",
-    "칼을 빠르게 한 번 옆으로 그어서 비닐에 긴 틈을 냈어",
-    "칼을 천천히 끝까지 밀어서 두꺼운 종이를 길게 잘랐어"
-   ],
-   "answer_index": 2,
-   "answer": "칼을 빠르게 한 번 옆으로 그어서 비닐에 긴 틈을 냈어",
-   "why": "맞아! 칼을 빠르게 한 번 옆으로 그어서 비닐에 긴 틈을 냈으니까, 날을 휙 길게 긋는 바로 그 동작이 slash야. 그렇게 생긴 비닐의 긴 틈도 slash라고 부를 수 있어."
   }
  ],
  "synonyms": [
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/slash.webp",
   "alt": "게임 캐릭터가 검을 옆으로 그어 적을 베는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

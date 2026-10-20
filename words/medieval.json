@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/medieval/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/medieval/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/medieval/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "medieval",
  "slug": "medieval",
  "url": "https://hibbangyong.com/words/medieval/",
@@ -45,30 +45,6 @@
    "answer_index": 0,
    "answer": "돌로 쌓은 성벽과 갑옷 입은 병사의 칼",
    "why": "맞아! 돌로 쌓은 성벽이랑 갑옷 입은 병사의 칼, 이게 바로 성이랑 기사가 있던 그 옛날 모습이거든. 그래서 딱 medieval 전시관에 어울리는 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 다른 시대를 그림으로 그렸어. 'medieval' 시대를 그린 사람은 누구일까?",
-   "choices": [
-    "돌로 쌓은 큰 성에서 기사가 칼 차고 말을 타는 그림",
-    "공룡들이 우거진 숲속을 쿵쿵 뛰어다니는 그림",
-    "높은 빌딩 사이로 자동차가 쌩쌩 달리는 그림",
-    "로봇과 우주선이 하늘을 훨훨 날아다니는 그림"
-   ],
-   "answer_index": 0,
-   "answer": "돌로 쌓은 큰 성에서 기사가 칼 차고 말을 타는 그림",
-   "why": "맞아! 돌로 쌓은 큰 성에 기사가 칼 차고 말을 타지? 성이랑 기사가 있던 딱 그 시절, 바로 그게 medieval이야."
-  },
-  {
-   "type": "ox",
-   "question": "원시인이 동굴에 살면서 돌도끼로 사냥하던 아주 먼 옛날 — 이것도 'medieval'이라고 할 수 있을까?",
-   "choices": [
-    "응, medieval 맞아",
-    "아니, medieval 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, medieval 아니야",
-   "why": "딱 맞았어! 원시인 시대는 성도 기사도 없이 동굴에 살던 훨씬 더 옛날이라 medieval이 아니거든. medieval은 돌로 쌓은 성이랑 말 탄 기사가 있던 딱 그 시절만 말하는 거야."
   }
  ],
  "synonyms": [],
@@ -99,6 +75,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/medieval.webp",
   "alt": "칼 차고 말 탄 기사와 돌로 쌓은 커다란 성",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

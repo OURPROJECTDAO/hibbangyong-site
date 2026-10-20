@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/mood/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/mood/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/mood/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "mood",
  "slug": "mood",
  "url": "https://hibbangyong.com/words/mood/",
@@ -44,30 +44,6 @@
    "answer_index": 0,
    "answer": "응, 이런 게 mood야",
    "why": "맞아! 까닭도 없이 마음이 갰다 흐렸다 오락가락하는 게 바로 mood거든. 마음 날씨가 자꾸 바뀌는 거, 그게 딱 mood인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "민수는 좋은 일이 생기든 나쁜 일이 생기든 일 년 내내 똑같은 마음으로 한결같아. 이렇게 늘 그대로인 걸 'mood'라고 할 수 있을까?",
-   "choices": [
-    "응, 이런 게 mood야",
-    "아니, 이건 mood가 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 이건 mood가 아니야",
-   "why": "맞아! 무슨 일이 있어도 일 년 내내 똑같다면 그건 마음이 안 바뀌는 거잖아. mood는 자꾸 바뀌는 마음 날씨라서, 늘 그대로인 건 mood가 아닌 게 딱 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "친구 넷이 자기 얘기를 했어. 이 가운데 'mood'라는 말이 가장 딱 맞아떨어지는 친구는 누구일까?",
-   "choices": [
-    "아침엔 활짝 웃다가 점심엔 까닭 없이 시무룩해진 친구",
-    "좋은 일이 생겨도 나쁜 일이 생겨도 늘 한결같이 덤덤한 친구",
-    "아주 어렸을 때부터 까칠하게 잘 토라지는 성격을 타고난 친구",
-    "다른 친구가 줄을 새치기해서 그 순간 딱 화가 치민 친구"
-   ],
-   "answer_index": 0,
-   "answer": "아침엔 활짝 웃다가 점심엔 까닭 없이 시무룩해진 친구",
-   "why": "맞아! 아침엔 활짝 웃다가 점심엔 까닭도 없이 시무룩해지잖아—마음이 맑았다 흐렸다 자꾸 바뀌는 거, 그 왔다 갔다 하는 마음 날씨가 딱 mood거든."
   }
  ],
  "synonyms": [
@@ -85,6 +61,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/mood.webp",
   "alt": "아침 신남 → 점심 시무룩, 마음 날씨가 그새 바뀜.",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

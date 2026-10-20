@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/belligerent/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/belligerent/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/belligerent/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "belligerent",
  "slug": "belligerent",
  "url": "https://hibbangyong.com/words/belligerent/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, belligerent 맞아",
    "why": "맞아! 공에 살짝 맞았을 뿐인데 민수가 먼저 성큼 다가가 어깨를 툭 밀고 \"한판 붙을래?\"까지 했잖아. 작은 일을 일부러 싸움 쪽으로 끌고 가니까, 바로 그게 belligerent인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "만원 버스에서 누가 지우의 발을 세게 밟았어. 지우는 잠깐 아팠지만 \"괜찮아요\" 하고 조용히 한 걸음 옆으로 비켜 섰어. 이런 지우의 태도를 'belligerent'하다고 할 수 있어?",
-   "choices": [
-    "응, belligerent 맞아",
-    "아니, belligerent 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, belligerent 아니야",
-   "why": "맞아! 지우는 발을 세게 밟혔는데도 \"괜찮아요\" 하고 한 걸음 옆으로 비켜 섰잖아. 싸움 쪽으로 가기는커녕 오히려 피한 거라서, belligerent랑은 정반대인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "반 회의에서 네 사람이 각자 이렇게 행동했어. 이 중에서 'belligerent'하다고 할 수 있는 사람은?",
-   "choices": [
-    "자기 의견이 떨어지자 속상해서 말없이 얼굴만 붉혔어",
-    "아무도 안 나서자 먼저 손 들고 당당하게 의견을 냈어",
-    "반대 의견마다 \"그게 말이 돼?\" 하며 일부러 말싸움을 걸었어",
-    "다른 의견도 끝까지 듣고 차분하게 자기 생각을 말했어"
-   ],
-   "answer_index": 2,
-   "answer": "반대 의견마다 \"그게 말이 돼?\" 하며 일부러 말싸움을 걸었어",
-   "why": "맞아! 반대 의견마다 \"그게 말이 돼?\" 하면서 일부러 말싸움을 걸었잖아. 주먹을 안 써도 이렇게 말로 먼저 시비를 거는 게 바로 belligerent야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/belligerent.webp",
   "alt": "급식 줄에서 살짝 부딪히자 시비 걸며 다가오는 친구",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/offender/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/offender/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/offender/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "offender",
  "slug": "offender",
  "url": "https://hibbangyong.com/words/offender/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, offender 아니야",
    "why": "맞아! 운동화를 잃어버린 친구는 규칙을 어긴 게 아니라 당한 쪽이잖아. offender는 몰래 가져간 그 학생이고, 친구는 오히려 하루 종일 실내화 신고 다닌 피해자야."
-  },
-  {
-   "type": "ox",
-   "question": "아파트에서 한 주민이 소방차 전용 구역에 차를 세웠다가 주차 딱지를 받았어. 그 차 때문에 이웃 한 명은 주차할 곳을 찾아 한참 돌아다녀야 했어. 딱지를 받은 주민은 'offender'야?",
-   "choices": [
-    "응, offender 맞아",
-    "아니, offender 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, offender 맞아",
-   "why": "맞아! 그 주민은 소방차 전용 구역에 차를 세워서 규칙을 진짜로 어겼고, 그래서 딱지까지 받은 거잖아. 가벼운 주차 위반이어도 어긴 쪽이면 offender야."
-  },
-  {
-   "type": "choice",
-   "question": "뉴스에 두 사건이 나왔어. 하나는 쓰레기 무단투기, 하나는 가게 강도야. 아래 네 사람 중에 'offender'라는 말이 맞는 사람은?",
-   "choices": [
-    "쓰레기를 몰래 버리다 걸려서 벌금을 낸 아저씨",
-    "강도로 몰렸다가 진짜 범인이 잡혀서 풀려난 남자",
-    "쓰레기를 몰래 버리는 사람을 보고 신고한 이웃",
-    "강도에게 가게를 털리고 팔을 다친 가게 주인"
-   ],
-   "answer_index": 0,
-   "answer": "쓰레기를 몰래 버리다 걸려서 벌금을 낸 아저씨",
-   "why": "맞아! 쓰레기를 몰래 버린 건 가벼운 일이지만 법을 어긴 건 맞고, 걸려서 벌금까지 냈잖아. 죄가 가볍든 무겁든 실제로 어긴 쪽이면 그게 offender야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/offender.webp",
   "alt": "과속하다 걸린 운전자",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

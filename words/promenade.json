@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/promenade/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/promenade/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/promenade/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "promenade",
  "slug": "promenade",
  "url": "https://hibbangyong.com/words/promenade/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, promenade 맞아",
    "why": "맞아! 이 길은 바다를 따라 넓게 냈고, 차는 못 들어오고, 가족들이 바다를 보면서 천천히 거닐잖아. 물가에서 걸으며 쉬라고 만든 길이니까 바로 그게 promenade인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "바닷가 마을 옆으로 해안 도로가 나 있어. 이 도로에서는 버스와 트럭이 다음 도시로 가려고 쌩쌩 달려 지나가. 이 길이 'promenade'야?",
-   "choices": [
-    "응, promenade 맞아",
-    "아니, promenade 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, promenade 아니야",
-   "why": "맞아! 바닷가 옆에 있어도 이 해안 도로는 버스랑 트럭이 다음 도시로 가려고 쌩쌩 달리는 길이잖아. promenade는 차 없이 사람들이 바다 보면서 느긋하게 걷는 길이라서, 이 해안 도로는 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "바다를 따라 길게 난 길 네 개가 있어. 'promenade'라고 부르기 가장 알맞은 길은?",
-   "choices": [
-    "바다를 따라 길게 난 길인데, 버스와 트럭이 오가고 신호등이 많아",
-    "바다를 따라 길게 난 길인데, 출근하는 자전거들이 쌩쌩 지나가",
-    "바다를 따라 길게 난 길인데, 자동차는 못 들어오고 벤치가 늘어서 있어",
-    "바다를 따라 길게 난 길인데, 기차가 정해진 시간마다 빠르게 달려"
-   ],
-   "answer_index": 2,
-   "answer": "바다를 따라 길게 난 길인데, 자동차는 못 들어오고 벤치가 늘어서 있어",
-   "why": "맞아! 자동차는 못 들어오고 벤치가 늘어서 있으니까, 바다 보면서 천천히 걷다가 앉아서 쉬라고 만든 길이잖아. 바로 그게 promenade야."
   }
  ],
  "synonyms": [
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/promenade.webp",
   "alt": "바닷가 모래사장 옆 넓은 길을 걷는 여름 저녁",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/additive/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/additive/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/additive/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "additive",
  "slug": "additive",
  "url": "https://hibbangyong.com/words/additive/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, additive 맞아",
    "why": "맞아! 보존료는 식빵이 며칠 동안 곰팡이 없이 가라고 반죽에 일부러 조금 섞은 거잖아. 바탕인 반죽에 오래 가게 하려고 더 넣은 거니까 바로 그게 additive인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "할머니가 밭에서 막 캔 고구마를 흙만 털어서 가져오셨어. 아무것도 넣거나 바르지 않은 그대로야. 이 고구마가 'additive'야?",
-   "choices": [
-    "응, additive 맞아",
-    "아니, additive 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, additive 아니야",
-   "why": "맞아! 할머니 고구마는 흙만 털었지 아무것도 넣거나 바르지 않은 그대로잖아. additive는 뭔가에 일부러 더 넣는 거니까, 이렇게 원래 그대로인 고구마는 additive가 아니야."
-  },
-  {
-   "type": "choice",
-   "question": "딸기우유 한 팩을 만들 때 쓰인 것들이야. 이 중에서 'additive'라고 부를 수 있는 건 어느 거야?",
-   "choices": [
-    "맛의 바탕이 되라고 가득 부은 우유",
-    "색을 곱게 내려고 조금 섞은 색소",
-    "마시기 편하라고 옆에 붙여 준 빨대",
-    "들고 다니기 좋으라고 씌운 종이팩"
-   ],
-   "answer_index": 1,
-   "answer": "색을 곱게 내려고 조금 섞은 색소",
-   "why": "맞아! 색소는 딸기우유 색을 곱게 바꾸려고 우유에 조금 섞은 거잖아. 바탕인 우유에 일부러 더 넣은 거라서 바로 그게 additive, 첨가물이야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/additive.webp",
   "alt": "과자 봉지 뒷면 성분표에 적힌 색소·향료",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

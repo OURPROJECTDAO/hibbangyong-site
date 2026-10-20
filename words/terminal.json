@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/terminal/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/terminal/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/terminal/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "terminal",
  "slug": "terminal",
  "url": "https://hibbangyong.com/words/terminal/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, terminal 아니야",
    "why": "맞아! 앞으로 배울 게 잔뜩 남았다고 했잖아. 뒤에 남은 게 이렇게 많으면 끝이 아니거든. 그래서 terminal이 아닌 게 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "민서네 학교 배구 대회 얘기야. 아래 중에 'terminal'이라고 부를 수 있는 시합은 어느 거야?",
-   "choices": [
-    "이 경기가 끝나면 대회도 끝나서, 다음 경기가 아예 없는 시합",
-    "이 경기 뒤에도 두 경기가 더 남아 있는, 아주 중요한 시합",
-    "선수들이 여기저기 다쳐서 몹시 힘들었던, 어제 열린 시합",
-    "대회의 문을 활짝 여는, 맨 처음에 열리는 시합"
-   ],
-   "answer_index": 0,
-   "answer": "이 경기가 끝나면 대회도 끝나서, 다음 경기가 아예 없는 시합",
-   "why": "맞아! 이 경기 끝나면 대회도 같이 끝나서 뒤에 이어질 게 하나도 없잖아. 더 갈 데가 없는 그 맨 끝, 그게 바로 terminal인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "준호가 계단에서 굴러서 다리뼈가 부러졌어. 아주 아프고 두 달이나 깁스를 해야 했지만, 깁스를 풀면 다시 걸을 수 있대. 이런 부상도 'terminal'이야?",
-   "choices": [
-    "응, terminal 맞아",
-    "아니, terminal 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, terminal 아니야",
-   "why": "맞아! 깁스 풀면 다시 걸을 수 있잖아. 나은 뒤가 남아 있으니까 끝이 아니고, 그래서 terminal이 아닌 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/terminal.webp",
   "alt": "길이 끊겨 버스가 더 갈 데 없는 터미널",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

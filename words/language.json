@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/language/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/language/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/language/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "language",
  "slug": "language",
  "url": "https://hibbangyong.com/words/language/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, language 맞아",
    "why": "맞아! 진행자가 하는 말을 옆에 앉은 태국 아이는 다 알아듣고 고개를 끄덕였잖아. 두 사람이 똑같이 쓰는 그 태국말 전체가 바로 language인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "형이 밥을 급하게 먹더니 식탁에서 딸꾹, 딸꾹 소리를 열 번쯤 냈어. 이게 'language'야?",
-   "choices": [
-    "응, language 맞아",
-    "아니, language 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, language 아니야",
-   "why": "맞아! 딸꾹질은 형이 뭘 말하려고 낸 소리가 아니라 그냥 몸에서 저절로 튀어나온 소리잖아. 그러니까 language가 아닌 게 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "네 가지 소리가 있어. 이 중에 'language'라고 부를 수 있는 건 뭘까?",
-   "choices": [
-    "옆집 아저씨가 화가 나서 험한 말을 마구 퍼붓는 소리",
-    "낯선 개가 사람을 보고 사납게 짖어대는 소리",
-    "아기가 아직 아무 뜻 없이 옹알옹알 내는 소리",
-    "동생이 넘어져서 아프다고 크게 우는 소리"
-   ],
-   "answer_index": 0,
-   "answer": "옆집 아저씨가 화가 나서 험한 말을 마구 퍼붓는 소리",
-   "why": "맞아! 험한 말이라도 그건 사람들이 서로 알아듣기로 한 말 묶음 안에 있는 거거든. 곱든 험하든 뜻이 통하면 그게 language인 거야."
   }
  ],
  "synonyms": [],
@@ -97,6 +73,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/language.webp",
   "alt": "못 알아듣는 외국 친구의 손짓과 말소리",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

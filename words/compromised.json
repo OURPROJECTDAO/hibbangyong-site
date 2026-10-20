@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/compromised/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/compromised/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/compromised/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "compromised",
  "slug": "compromised",
  "url": "https://hibbangyong.com/words/compromised/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, 그 상태 맞아",
    "why": "맞아! 우리 반만 들어와야 하는 채팅방인데 링크가 게시판에 올라가서 이제 누구든 들어올 수 있잖아. 채팅방은 그대로 있어도 우리 반만 들어오게 막는 역할을 못 하게 됐으니까, 그게 바로 compromised야."
-  },
-  {
-   "type": "ox",
-   "question": "택배 상자가 배달 중에 겉이 조금 긁혔어. 그런데 봉인 스티커는 붙은 그대로이고, 아무도 연 적이 없어서 안에 든 이어폰은 처음 포장 상태 그대로야. 이 택배 상자는 'compromised' 상태야?",
-   "choices": [
-    "응, 그 상태 맞아",
-    "아니, 그 상태 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 그 상태 아니야",
-   "why": "맞아! 겉이 조금 긁히긴 했지만 봉인 스티커는 붙은 그대로고 아무도 안 열었잖아. 상자는 안에 든 이어폰을 끝까지 지켜 냈으니까 뚫린 게 아니라 온전한(intact) 상태인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 겪은 일을 말했어. 'compromised' 상태가 된 게 나오는 건 누구 이야기일까?",
-   "choices": [
-    "휴대폰을 떨어뜨렸는데, 화면이 깨져서 아예 안 켜져.",
-    "친구랑 날짜가 안 맞았는데, 하루씩 양보해서 정했어.",
-    "사물함 번호를 누르는데, 뒤에 있던 애가 다 지켜봤어.",
-    "새 자물쇠를 샀는데, 열쇠는 나 혼자만 갖고 있어."
-   ],
-   "answer_index": 2,
-   "answer": "사물함 번호를 누르는데, 뒤에 있던 애가 다 지켜봤어.",
-   "why": "맞아! 사물함은 하나도 안 부서졌는데 뒤에 있던 애가 번호를 다 봤잖아. 지켜야 할 번호가 새 버려서 사물함이 이제 제대로 못 지키니까 바로 그게 compromised인 거야."
   }
  ],
  "synonyms": [],
@@ -104,6 +80,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/compromised.webp",
   "alt": "시험 전날 답안지가 사라져서 시험지를 새로 만든 일",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/serene/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/serene/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/serene/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "serene",
  "slug": "serene",
  "url": "https://hibbangyong.com/words/serene/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, serene 맞아",
    "why": "맞아! 가끔 풍경 소리만 울릴 만큼 새벽 절 마당이 고요하고, 스님 마음까지 깊이 가라앉아 평화로우니까 바로 그게 serene인 거야. 겉만 조용한 게 아니라 속까지 고요한 거, 그게 핵심이야."
-  },
-  {
-   "type": "ox",
-   "question": "수학여행 전날 밤, 민수는 내일 생각에 가슴이 두근거려서 잠을 못 자고 계속 이불 속에서 뒤척여. 민수의 이 상태는 'serene'이야?",
-   "choices": [
-    "응, serene 맞아",
-    "아니, serene 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, serene 아니야",
-   "why": "맞아! 민수는 내일 생각에 가슴이 두근거려서 잠도 못 자고 이불 속에서 계속 뒤척이잖아. 마음이 들떠서 출렁이는 상태라서 속까지 고요하고 평화로운 serene과는 정반대인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "시험 날 아침, 네 친구의 모습이야. 이 중에서 'serene'이라는 말이 가장 잘 어울리는 사람은 누구일까?",
-   "choices": [
-    "입은 꾹 다물고 있지만 속으로는 계속 조마조마한 준호",
-    "떨리지만 할 수 있다고 되뇌며 억지로 버티는 서연",
-    "걱정이 다 풀려서 속이 편안하게 문제집을 넘기는 지우",
-    "끝나면 놀러 갈 생각에 들떠서 계속 신나 있는 현우"
-   ],
-   "answer_index": 2,
-   "answer": "걱정이 다 풀려서 속이 편안하게 문제집을 넘기는 지우",
-   "why": "맞아! 지우는 걱정이 다 풀려서 속까지 편안한 상태로 문제집을 넘기고 있잖아. 겉만 조용한 게 아니라 속까지 고요하고 평화로우니까 바로 그게 serene인 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/serene.webp",
   "alt": "바람 없는 아침의 잔잔한 호수",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

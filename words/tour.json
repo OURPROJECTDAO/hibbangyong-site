@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/tour/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/tour/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/tour/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "tour",
  "slug": "tour",
  "url": "https://hibbangyong.com/words/tour/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, tour 맞아",
    "why": "맞아! 나무 자르는 방 봤다가, 페인트 방 봤다가, 마당까지 차례로 옮겨 다니면서 둘러봤잖아. 한 군데만 딱 보고 만 게 아니라 이곳저곳을 도는 거니까 바로 그게 tour인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "삼촌이 우리를 빵 만드는 가게에 데려갔어. 창가 자리에 앉아서 갓 나온 빵을 먹으면서 한 시간 동안 이야기를 나눴어. 이게 'tour'야?",
-   "choices": [
-    "응, tour 맞아",
-    "아니, tour 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, tour 아니야",
-   "why": "맞아! 창가에 앉아서 빵 먹고 이야기만 했잖아. 한 자리에 쭉 있었으니까 tour가 아닌 거야. tour는 이 방 저 방, 이곳저곳 옮겨 다니면서 둘러봐야 하거든."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 어제 각자 뭘 했는지 말했어. 이 중에서 'tour'를 했다고 할 수 있는 사람은 누구일까?",
-   "choices": [
-    "민수는 놀이공원 한 곳에서 미끄럼틀도 타고, 그네도 타고, 솜사탕도 먹었어.",
-    "지호는 낯선 도시에서 큰 다리도 보고, 오래된 성도 보고, 넓은 시장까지 하나씩 찾아가 봤어.",
-    "수아는 큰 미술관에서 제일 유명한 그림 하나만 오래 보고 나왔어.",
-    "지훈이는 할머니 댁에 가서 저녁만 먹고 곧장 집에 왔어."
-   ],
-   "answer_index": 1,
-   "answer": "지호는 낯선 도시에서 큰 다리도 보고, 오래된 성도 보고, 넓은 시장까지 하나씩 찾아가 봤어.",
-   "why": "맞아! 큰 다리 봤다가, 오래된 성 봤다가, 시장까지 하나씩 찾아갔잖아. 이렇게 여러 곳을 차례로 옮겨 다니면서 둘러본 게 바로 tour인 거야."
   }
  ],
  "synonyms": [],
@@ -83,6 +59,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/tour.webp",
   "alt": "박물관에서 안내인 따라 이 방 저 방 옮겨 다니며 둘러보는 장면 (child 앵커)",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

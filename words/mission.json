@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/mission/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/mission/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/mission/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "mission",
  "slug": "mission",
  "url": "https://hibbangyong.com/words/mission/",
@@ -45,32 +45,6 @@
    "answer_index": 1,
    "answer": "형이 부탁한 대로 문 닫기 전에 빵집에서 식빵을 사 오는 일",
    "why": "맞아! 형이 부탁했고, 문 닫기 전에 식빵을 사 온다는 게 딱 정해져 있잖아. 해낼 게 정해진 그 일, 그게 바로 mission이야."
-  },
-  {
-   "type": "choice",
-   "question": "도서관에서 있었던 네 가지야. 이 중 'mission'에 해당하는 건 뭘까?",
-   "choices": [
-    "도서관 창가에 놓인, 다리가 조금 흔들리는 나무 의자 하나",
-    "옆 급식실에서 복도까지 퍼져 오는 따끈한 카레 냄새",
-    "사서가 부탁한 대로 오늘 반납된 책을 제자리에 꽂아 두는 일",
-    "비 갠 뒤 운동장 물웅덩이에 햇빛이 반짝이는 풍경"
-   ],
-   "answer_index": 2,
-   "answer": "사서가 부탁한 대로 오늘 반납된 책을 제자리에 꽂아 두는 일",
-   "why": "맞아! 사서가 부탁했고 오늘 끝내야 할 게 딱 정해져 있잖아. 해낼 게 정해진 그 일, 그게 바로 mission이야."
-  },
-  {
-   "type": "choice",
-   "question": "친구 넷이 오늘 한 일을 말했어. 이 중에서 'mission'이라고 부를 만한 건 누구 일일까?",
-   "choices": [
-    "지호: 선생님이 맡긴 대로, 오늘 안에 잃어버린 반 열쇠를 찾아내는 일을 했어.",
-    "형준: 늘 하던 대로, 저녁마다 방 정리하는 일을 오늘도 똑같이 했어.",
-    "수현: 가족들과 기차를 타고 바닷가 마을을 이틀 동안 돌아다녔어.",
-    "민아: 놀이터 벤치에 앉아 구름 모양이 바뀌는 걸 한참 구경했어."
-   ],
-   "answer_index": 0,
-   "answer": "지호: 선생님이 맡긴 대로, 오늘 안에 잃어버린 반 열쇠를 찾아내는 일을 했어.",
-   "why": "맞아! 선생님이 딱 맡겨서, 오늘 안에 열쇠를 찾아내야 한다는 게 정해져 있잖아. 해낼 게 딱 걸려 있는 그 일, 그게 바로 mission이야."
   }
  ],
  "synonyms": [],
@@ -90,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/mission.webp",
   "alt": "비 오는 날 우산 들고 동생을 학교 앞까지 데리러 가기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

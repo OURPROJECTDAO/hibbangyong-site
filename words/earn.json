@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/earn/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/earn/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/earn/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "earn",
  "slug": "earn",
  "url": "https://hibbangyong.com/words/earn/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, earn 맞아",
    "why": "맞아! 형이 세 시간이나 무거운 상자를 낑낑 옮겼잖아. 그렇게 힘들게 일하고 그 값으로 받은 돈이라서, 바로 그게 earn이야."
-  },
-  {
-   "type": "ox",
-   "question": "누나가 골목에서 이웃 아주머니와 마주쳤고, 아주머니가 가방에서 사탕 한 봉지를 꺼내 누나 손에 쥐여 줬어. 누나가 이 사탕을 'earn'한 거야?",
-   "choices": [
-    "응, earn 맞아",
-    "아니, earn 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, earn 아니야",
-   "why": "맞아! 아주머니가 그냥 쥐여 준 거잖아. 누나가 뭘 한 것도, 열심히 해낸 것도 없이 받기만 했으니까 이건 earn이 아니야. earn은 네가 뭔가 해내고 나서 받는 거거든."
-  },
-  {
-   "type": "choice",
-   "question": "네 사람이 저마다 무언가를 받았어. 그중에서 무언가를 'earn'했다고 말할 수 있는 사람은 누구야?",
-   "choices": [
-    "한 달 내내 신문을 돌리고 나서 월급을 받은 형",
-    "생일이라 삼촌한테 선물을 그냥 받은 동생",
-    "뽑기에서 운으로 당첨돼 인형을 받은 친구",
-    "돈을 내고 가게에서 장난감을 산 누나"
-   ],
-   "answer_index": 0,
-   "answer": "한 달 내내 신문을 돌리고 나서 월급을 받은 형",
-   "why": "맞아! 형은 한 달 내내 신문을 돌렸잖아. 그렇게 힘들게 일해서 받아낸 돈이라서, 바로 그게 earn인 거야."
   }
  ],
  "synonyms": [],
@@ -91,6 +67,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/earn.webp",
   "alt": "방을 싹 치우고 용돈을 받는 아이",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

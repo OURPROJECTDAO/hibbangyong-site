@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/kit/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/kit/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/kit/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "kit",
  "slug": "kit",
  "url": "https://hibbangyong.com/words/kit/",
@@ -40,30 +40,6 @@
    "answer_index": 0,
    "answer": "응, kit 맞아",
    "why": "맞아! 텐트 치는 그 한 가지 일에 필요한 것만 골라서 주머니 하나에 챙겨둔 거잖아. 그러니까 이게 딱 kit인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "형이 신발끈이 끊어지자 새 끈을 찾으러 서랍을 열고, 다시 가위 가지러 부엌에 가고, 또 실을 찾으러 방에 갔어. 이게 'kit'이야?",
-   "choices": [
-    "응, kit 맞아",
-    "아니, kit 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, kit 아니야",
-   "why": "맞아! 끈은 서랍에, 가위는 부엌에, 실은 방에. 이렇게 필요할 때마다 하나씩 찾으러 뛰어다니는 건 미리 묶어둔 게 없다는 거잖아. 그래서 kit이 아닌 거야. 진짜 kit이면 신발 고칠 때 필요한 끈이랑 가위랑 실이 상자 하나에 다 들어있어서 그것만 들고 오면 끝이거든."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 각자 자기 물건을 보여줬어. 이 중에 'kit'을 챙겨 온 아이는 누구일까?",
-   "choices": [
-    "모으는 게 좋아서 여러 나라 동전을 종류별로 골라 앨범에 하나씩 끼워둔 아이",
-    "소풍 가서 쓸 돗자리랑 물통이랑 도시락을 가방 하나에 미리 넣어둔 아이",
-    "방에 굴러다니던 장난감을 몽땅 큰 상자 하나에 쓸어 담아 온 아이",
-    "자전거 체인이 빠지자 그때부터 집을 돌며 필요한 공구를 하나씩 찾아 온 아이"
-   ],
-   "answer_index": 1,
-   "answer": "소풍 가서 쓸 돗자리랑 물통이랑 도시락을 가방 하나에 미리 넣어둔 아이",
-   "why": "맞아! 소풍 가서 할 일을 생각해서 필요한 것만 골라 미리 가방 하나에 담아뒀잖아. 가방만 들고 나가면 소풍 준비 끝인 거야. 그게 바로 kit이야."
   }
  ],
  "synonyms": [],
@@ -77,6 +53,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/kit.webp",
   "alt": "서랍에 흩어진 반창고·소독약·붕대를 작은 상자 하나에 모아둔 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

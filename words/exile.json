@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/exile/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/exile/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/exile/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "exile",
  "slug": "exile",
  "url": "https://hibbangyong.com/words/exile/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, exile 아니야",
    "why": "맞아! 누나는 공부하러 스스로 외국에 갔고, 졸업하고 고향 집으로 돌아와서 가족이랑 살고 있잖아. exile은 떠밀려 나와서 못 돌아가는 건데, 누나는 원해서 떠났다가 돌아왔으니까 정반대야."
-  },
-  {
-   "type": "ox",
-   "question": "한 나라의 대통령이 군대에게 자리를 빼앗겼어. 고국으로 돌아가면 바로 체포되기 때문에, 그는 이웃 나라에 머물며 10년째 돌아가지 못하고 있어. 이 대통령의 이런 생활, 이게 'exile'이야?",
-   "choices": [
-    "응, exile 맞아",
-    "아니, exile 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, exile 맞아",
-   "why": "맞아! 군대에게 자리를 빼앗긴 대통령이 돌아가면 바로 체포되니까 이웃 나라에 머물고, 10년째 못 돌아가고 있잖아. 위험 때문에 고국 밖으로 밀려나서 돌아가지 못하고 사는 거라 딱 exile이야."
-  },
-  {
-   "type": "choice",
-   "question": "고향을 떠나 먼 곳에 있었던 네 사람이야. 이 중에서 'exile' 속에 산 사람은 누구일까?",
-   "choices": [
-    "회사가 보내서 다른 나라 지사에서 3년 동안 일하는 사람",
-    "왕에게 밉보여 먼 섬으로 보내진 뒤 거기서 평생을 보낸 사람",
-    "몸이 아파서 공기 좋은 먼 섬에 가 한 해 쉬다 온 사람",
-    "그 나라가 마음에 들어서 온 가족이 옮겨 가 사는 사람"
-   ],
-   "answer_index": 1,
-   "answer": "왕에게 밉보여 먼 섬으로 보내진 뒤 거기서 평생을 보낸 사람",
-   "why": "맞아! 왕에게 밉보여 먼 섬으로 보내졌고 거기서 평생을 보냈으니까, 떠밀려 나와서 끝내 못 돌아간 거잖아. 외국이 아니라 나라 안의 섬이어도 바로 그게 exile이야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/exile.webp",
   "alt": "정부를 비판했다가 20년째 외국에서 사는 기자",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

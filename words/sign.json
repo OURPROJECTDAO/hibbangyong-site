@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/sign/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/sign/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/sign/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "sign",
  "slug": "sign",
  "url": "https://hibbangyong.com/words/sign/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, sign 맞아",
    "why": "맞아! 발자국이 거기 있기만 한 게 아니라, 조금 전에 개가 지나갔다는 걸 너한테 알려 준 거잖아. 개가 일부러 남긴 것도 아닌데 그냥 드러나서 알게 된 거, 바로 그게 sign인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "아이가 주머니에서 동그란 돌멩이를 꺼냈어. 매끈하고 차가웠어. 아이는 그냥 손바닥에 올려놓고 만지작거렸어. 이 돌멩이가 'sign'이야?",
-   "choices": [
-    "응, sign 맞아",
-    "아니, sign 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, sign 아니야",
-   "why": "맞아! 이 돌멩이는 그냥 매끈하고 차갑기만 하지, 그걸 봤다고 딴 걸 알게 되는 건 아니잖아. 그러니까 sign이 아닌 게 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "교실 문틈으로 빵 굽는 고소한 냄새가 흘러 들어왔어. 아이가 냄새를 맡고 '아, 오늘 급식에 빵 나오나 보다' 했대. 이런 냄새도 'sign'이야?",
-   "choices": [
-    "응, 냄새도 'sign' 맞아.",
-    "아니, 냄새는 'sign' 아니야."
-   ],
-   "answer_index": 0,
-   "answer": "응, 냄새도 'sign' 맞아.",
-   "why": "맞아! 냄새엔 글자가 하나도 안 적혀 있는데도, 그 냄새를 맡자마자 오늘 빵 나오겠구나 하고 알게 됐잖아. 딴 걸 알게 해 줬으니까 바로 그게 sign인 거야."
   }
  ],
  "synonyms": [
@@ -82,6 +60,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/sign.webp",
   "alt": "하늘이 시커메진 걸 보고 곧 비 올 줄 아는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

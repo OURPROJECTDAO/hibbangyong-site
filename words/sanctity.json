@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/sanctity/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/sanctity/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/sanctity/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "sanctity",
  "slug": "sanctity",
  "url": "https://hibbangyong.com/words/sanctity/",
@@ -43,28 +43,6 @@
    "answer_index": 1,
    "answer": "아니, sanctity 아니야",
    "why": "잘 골랐어. 칠판 구석 낙서는 쉬는 시간에 아무나 지우개로 지워도 되잖아. 아무나 함부로 지워도 되는 거니까, 꼭 지키고 존중해야 하는 sanctity랑은 정반대인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "우리 가족은 해마다 할아버지 산소에 가서 풀을 정리하고 절을 해. 가족이 할아버지 산소에서 지키는 이 성질이 'sanctity'야?",
-   "choices": [
-    "응, sanctity 맞아",
-    "아니, sanctity 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, sanctity 맞아",
-   "why": "맞아! 할아버지 산소는 가족이 함부로 하지 않고, 해마다 찾아가서 풀을 정리하고 절을 하며 존중하는 곳이잖아. 그렇게 꼭 지키고 존중해야 하는 성질이 바로 sanctity야."
-  },
-  {
-   "type": "ox",
-   "question": "종교가 없는 이모와 이모부는 결혼할 때 한 서로의 약속을 어떤 일이 있어도 가볍게 깨면 안 되는 것으로 여겨. 이런 경우도 'sanctity'야?",
-   "choices": [
-    "응, 'sanctity' 맞아",
-    "아니, 'sanctity' 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, 'sanctity' 맞아",
-   "why": "맞아! 이모랑 이모부는 종교가 없어도 결혼할 때 한 약속을 어떤 일이 있어도 가볍게 깨면 안 되는 걸로 여기잖아. 그렇게 꼭 지키고 존중해야 하는 성질이 바로 sanctity라서, 종교가 없어도 sanctity가 맞는 거야."
   }
  ],
  "synonyms": [],

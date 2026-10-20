@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/ambition/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/ambition/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/ambition/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "ambition",
  "slug": "ambition",
  "url": "https://hibbangyong.com/words/ambition/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, ambition 맞아",
    "why": "맞아! 그냥 \"빵집 있으면 좋겠다\" 하고 마는 게 아니라, 3년째 돈을 모으고 밤마다 반죽을 연습하잖아. 꼭 이루려고 계속 자기를 밀어붙이는 거, 그게 바로 ambition이야."
-  },
-  {
-   "type": "ox",
-   "question": "우리 삼촌은 아침마다 자전거로 강가를 한 바퀴 돌고 와. 더 멀리 가볼 생각도, 대회에 나갈 생각도 없어. 지금 이대로가 딱 좋대. 이게 'ambition'이야?",
-   "choices": [
-    "응, ambition 맞아",
-    "아니, ambition 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, ambition 아니야",
-   "why": "그렇지! 삼촌은 더 멀리 가볼 생각도, 대회에 나갈 생각도 없이 지금 이대로가 딱 좋다잖아. 속에서 밀어대는 게 하나도 없으니까, 이건 ambition이 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "선생님이 '이번 달에 책 열 권 읽기'를 반 전체 목표로 정해 줬어. 서연이는 칠판에 붙은 칸을 채우려고 열 권을 읽었고, 마지막 칸에 도장을 받은 다음 날에는 책을 펴지 않았어. 서연이의 이 마음도 'ambition'이야?",
-   "choices": [
-    "아니, ambition 아니야",
-    "응, ambition 맞아"
-   ],
-   "answer_index": 0,
-   "answer": "아니, ambition 아니야",
-   "why": "맞아! 서연이는 칸을 채우려고 열 권을 읽은 거고, 도장을 받으니까 다음 날엔 책을 안 폈잖아. 마음이 안에서 계속 밀어붙이는 게 아니라 정해준 칸이 끝나니 같이 끝난 거야. 그래서 이 마음은 ambition이 아니야."
   }
  ],
  "synonyms": [],
@@ -87,6 +65,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/ambition.webp",
   "alt": "방문에 '1등 한다' 종이를 붙이고 새벽에 일어나는 형",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

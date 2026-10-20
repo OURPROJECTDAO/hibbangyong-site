@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/bully/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/bully/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/bully/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "bully",
  "slug": "bully",
  "url": "https://hibbangyong.com/words/bully/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, bully 맞아",
    "why": "맞아! 매일 같은 1학년 애만 콕 골라서 뺏고 겁주잖아. 되받아치지 못할 애만 노리고 계속 그러는 거, 그게 바로 bully인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "놀이터에서 지우는 매일 큰 애들한테 붙잡혀서 모래를 뒤집어써. 지우는 도망도 못 가고 울기만 해. 지우가 'bully'야?",
-   "choices": [
-    "응, bully 맞아",
-    "아니, bully 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, bully 아니야",
-   "why": "맞아! 지우는 겁주는 쪽이 아니라 당하고 있는 쪽이잖아. 매일 붙잡혀서 모래를 뒤집어쓰고 울기만 하는 애를 bully라고 하진 않거든. bully는 지우를 붙잡은 그 큰 애들 쪽이야."
-  },
-  {
-   "type": "choice",
-   "question": "네 명이 체육시간에 이랬대. 이 중에 'bully'라고 부를 수 있는 애는 누구일까?",
-   "choices": [
-    "반에서 제일 힘이 세지만, 아무도 건드리지 않고 혼자 공만 차는 애",
-    "매일 쉬는 시간마다 제일 작은 애 하나만 붙잡고 겁주며 물건을 뺏는 애",
-    "달리기에서 지고 분해서 그 자리에 주저앉아 엉엉 우는 애",
-    "자기보다 훨씬 큰 형이 밀치자 그만하라고 소리치며 맞선 애"
-   ],
-   "answer_index": 1,
-   "answer": "매일 쉬는 시간마다 제일 작은 애 하나만 붙잡고 겁주며 물건을 뺏는 애",
-   "why": "맞아! 매일 제일 작은 애 하나만 콕 골라서 겁주고 뺏잖아. 되받아치지 못할 애를 일부러 고른 거야. 그게 바로 bully인 거야."
   }
  ],
  "synonyms": [],
@@ -84,6 +60,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/bully.webp",
   "alt": "교실에서 자기보다 작은 아이만 골라 툭툭 치고 놀리는 아이",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

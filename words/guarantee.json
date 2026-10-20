@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/guarantee/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/guarantee/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/guarantee/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "guarantee",
  "slug": "guarantee",
  "url": "https://hibbangyong.com/words/guarantee/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, guarantee 맞아",
    "why": "맞아! 물만 주면 틀림없이 싹이 난다고 못 박고, 안 되면 책임까지 진다고 했잖아. 그렇게 백 퍼센트라고 딱 약속하는 게 바로 guarantee인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "준호가 주말 소풍 이야기를 하다가 이렇게 말했어. \"토요일에 비가 올 수도 있고 안 올 수도 있어. 나도 잘 모르겠어.\" 이게 'guarantee'야?",
-   "choices": [
-    "응, guarantee 맞아",
-    "아니, guarantee 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, guarantee 아니야",
-   "why": "맞아! 준호는 올 수도 있고 안 올 수도 있다고, 자기도 잘 모르겠다고 했잖아. 그건 못 박은 게 아니라 그냥 헷갈리는 거라서 guarantee가 아닌 게 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 '우리 팀 이번 시합 어떻게 돼?'라는 물음에 각자 대답했어. 'guarantee'한 아이는 누구일까?",
-   "choices": [
-    "'우리 무조건 이겨. 못 이기면 내가 다 책임진다!' 하고 못 박은 아이",
-    "'제발 우리가 이겼으면! 진짜 너무 이기고 싶어!' 하고 외친 아이",
-    "'딱 봐도 우리가 이길 것 같은데?' 하고 자신 있게 말한 아이",
-    "'뭐 이길 수도 있고 질 수도 있지' 하고 말한 아이"
-   ],
-   "answer_index": 0,
-   "answer": "'우리 무조건 이겨. 못 이기면 내가 다 책임진다!' 하고 못 박은 아이",
-   "why": "맞아! 무조건 이긴다고 못 박고 안 되면 자기가 책임진다고까지 했잖아. 그렇게 백 퍼센트 확실하게 딱 약속하는 게 바로 guarantee인 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/guarantee.webp",
   "alt": "'무조건 그렇게 돼, 틀림없어'라고 딱 못 박아 확언하는 상황",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

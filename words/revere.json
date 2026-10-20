@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/revere/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/revere/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/revere/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "revere",
  "slug": "revere",
  "url": "https://hibbangyong.com/words/revere/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, revere 아니야",
    "why": "맞아! 팀장은 신입 사원의 의견을 끝까지 듣지도 않고 \"그런 건 볼 필요도 없어\"라며 서류를 책상 한쪽으로 밀어 버렸잖아. 그건 그 의견을 하찮게 여기고 무시한 거라서, 깊이 존경하며 받드는 revere와는 정반대야."
-  },
-  {
-   "type": "ox",
-   "question": "우리 할머니는 수십 년째 설날과 추석 아침마다 새벽에 일어나 조상님께 차례를 지내셔. 그동안 하루도 빼먹은 적이 없으셔. 할머니는 조상과 이 전통을 'revere'한다고 할 수 있을까?",
-   "choices": [
-    "응, revere 맞아",
-    "아니, revere 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, revere 맞아",
-   "why": "맞아! 수십 년 동안 설날과 추석 아침마다 새벽에 일어나서 하루도 안 빼먹고 차례를 지내셨잖아. 그렇게 오래, 한결같이 조상과 전통을 받드는 마음이 바로 revere야."
-  },
-  {
-   "type": "choice",
-   "question": "네 사람의 모습이야. 무언가를 'revere'하는 모습에 가장 가까운 건?",
-   "choices": [
-    "민지는 좋아하는 가수 사진을 방 벽에 가득 붙여 놨어.",
-    "반장은 누가 말하든 끝까지 듣고 예의 바르게 대답해.",
-    "할아버지는 50년 전 스승 이야기만 나오면 자세를 고쳐 앉아.",
-    "형은 친구의 멋진 슛을 보고 \"와, 잘한다\" 하고 감탄했어."
-   ],
-   "answer_index": 2,
-   "answer": "할아버지는 50년 전 스승 이야기만 나오면 자세를 고쳐 앉아.",
-   "why": "맞아! 할아버지는 50년이 지났는데도 스승 이야기만 나오면 자세를 고쳐 앉잖아. 그만큼 깊은 존경이 오랫동안 그대로 남아 있는 거라서, 이게 바로 revere야."
   }
  ],
  "synonyms": [],

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/greed/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/greed/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/greed/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "greed",
  "slug": "greed",
  "url": "https://hibbangyong.com/words/greed/",
@@ -45,17 +45,6 @@
    "answer_index": 0,
    "answer": "딱지를 제 통에 가득 채워 놓고도, 친구들 통에 남은 것까지 제 쪽으로 옮겨 놓고 싶어 해.",
    "why": "맞아! 통이 이미 가득한데도 친구 것까지 더 가져오고 싶은 거, 그게 바로 안 끝나는 마음이야. 넉넉한데도 멈춰지지가 않는 거, 그게 greed거든."
-  },
-  {
-   "type": "ox",
-   "question": "오늘은 반에서 생일 축하를 하는 날이야. 은수는 자기 생일이 아닌데도 노래도 자기가 부르고, 촛불도 자기가 끄고, 선물 상자도 자기가 열겠다고 계속 손을 들어. 아침부터 아이들 눈길은 줄곧 은수한테 가 있었어. 이런 마음도 'greed'야?",
-   "choices": [
-    "응, greed 맞아.",
-    "아니, greed 아니야."
-   ],
-   "answer_index": 0,
-   "answer": "응, greed 맞아.",
-   "why": "맞아! 은수는 지금 노래도, 촛불도, 선물도, 사람들 눈길까지 전부 자기 쪽으로 끌어오고 싶어서 멈추질 못하잖아. 이렇게 가져도 가져도 끝이 안 나는 마음이 바로 greed인 거야."
   }
  ],
  "synonyms": [],
@@ -71,6 +60,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/greed.webp",
   "alt": "사탕을 한가득 받고도 남은 것까지 제 쪽으로 쓸어 오고 싶은 마음",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

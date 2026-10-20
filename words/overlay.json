@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/overlay/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/overlay/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/overlay/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "overlay",
  "slug": "overlay",
  "url": "https://hibbangyong.com/words/overlay/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, overlay 아니야",
    "why": "맞아! 준호는 화면 위에 층을 덮은 게 아니라 붙어 있던 보호 필름을 떼어 냈잖아. 이제 화면 위에 아무 층도 없으니까 overlay가 아니야. 오히려 반대쪽 일이지."
-  },
-  {
-   "type": "ox",
-   "question": "민지가 나무 의자 겉면에 투명한 니스를 한 겹 발랐어. 나무는 밑에 그대로 있고, 그 위에 니스 층이 생겼어. 이건 의자를 'overlay'한 걸까?",
-   "choices": [
-    "응, overlay 맞아",
-    "아니, overlay 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, overlay 맞아",
-   "why": "맞아! 민지가 나무를 떼어 낸 게 아니라, 나무는 밑에 그대로 두고 겉면 위에 니스를 한 겹 덮었잖아. 원래 것 위에 층을 덮었으니까 바로 그게 overlay인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 한 일을 말했어. 이 중에서 'overlay'를 한 사람은 누구일까?",
-   "choices": [
-    "식탁 윗면에 얇은 유리판을 깔았어",
-    "낡은 창틀을 떼고 새 창틀을 달았어",
-    "벽지를 벗겨 내서 시멘트 벽이 나왔어",
-    "책상 위에 두꺼운 책을 한 권 올려놨어"
-   ],
-   "answer_index": 0,
-   "answer": "식탁 윗면에 얇은 유리판을 깔았어",
-   "why": "맞아! 유리판을 식탁 윗면에 깔아서 겉면에 얇은 층이 하나 생겼는데, 식탁은 그 밑에 그대로 있잖아. 원래 것은 남기고 그 위에 층을 덮은 거라서 바로 그게 overlay야."
   }
  ],
  "synonyms": [],
@@ -89,6 +65,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/overlay.webp",
   "alt": "사회 시간 지도 위에 필름 덮고 동네 길 그리기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

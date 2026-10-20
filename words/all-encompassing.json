@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/all-encompassing/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/all-encompassing/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/all-encompassing/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "all-encompassing",
  "slug": "all-encompassing",
  "url": "https://hibbangyong.com/words/all-encompassing/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, all-encompassing한 거 맞아",
    "why": "맞아! 점검표에 1동부터 12동까지 모든 동이 다 들어 있어서 빠진 동이 하나도 없잖아. 전부를 다 품고 있으니까 바로 all-encompassing한 점검표인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "동네 도서관에서 방학 행사 안내문을 만들었어. 안내문에는 3층 어린이실 행사가 실려 있고, 1층과 2층 행사는 실려 있지 않아. 안내문은 컬러로 인쇄됐어. 이 안내문은 'all-encompassing'한 안내문일까?",
-   "choices": [
-    "응, all-encompassing한 거 맞아",
-    "아니, all-encompassing한 거 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, all-encompassing한 거 아니야",
-   "why": "맞아! 안내문에 3층 어린이실 행사만 있고 1층, 2층 행사는 빠졌잖아. 빠진 데가 있으니까 전부를 다 아우르는 안내문이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "학급 회의에서 이번 학기 청소 계획을 정했는데, 선생님이 그 계획이 'all-encompassing'하다고 하셨어. 어떤 계획이었을까?",
-   "choices": [
-    "청소 도구를 새로 잔뜩 사 왔고, 다들 아주 힘차게 하기로 했어",
-    "학교 대부분에 담당을 정했고, 체육관 뒤편 한 곳만 비워 뒀어",
-    "교실부터 운동장 끝까지 담당을 정했고, 비워 둔 곳은 없었어",
-    "우리 교실 한 곳에만 담당을 정했고, 구석구석 꼼꼼히 닦기로 했어"
-   ],
-   "answer_index": 2,
-   "answer": "교실부터 운동장 끝까지 담당을 정했고, 비워 둔 곳은 없었어",
-   "why": "맞아! 교실부터 운동장 끝까지 담당을 정했고 비워 둔 곳이 하나도 없잖아. 빠진 데 없이 학교 전체를 다 덮었으니까 바로 그게 all-encompassing한 계획인 거야."
   }
  ],
  "synonyms": [
@@ -89,6 +65,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/all-encompassing.webp",
   "alt": "1단원부터 마지막 단원까지 전부인 시험 범위",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/yet/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/yet/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/yet/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "yet",
  "slug": "yet",
  "url": "https://hibbangyong.com/words/yet/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, yet 아니야",
    "why": "맞아! 우유를 남김없이 다 마셔서 컵이 텅 빈 건, 이미 다 끝나버린 일이거든. yet은 아직 안 한 일한테 쓰는 말이라서, 다 끝난 이 장면은 yet이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "빨랫줄에 널어둔 빨래 얘기야. 다음 중 'yet'에 딱 맞는 말을 골라봐.",
-   "choices": [
-    "빨래가 벌써 다 말랐어.",
-    "빨래가 아직 안 말랐어.",
-    "빨래가 지금 계속 마르는 중이야.",
-    "빨래는 앞으로도 영영 안 마를 거야."
-   ],
-   "answer_index": 1,
-   "answer": "빨래가 아직 안 말랐어.",
-   "why": "맞아! 널어둔 빨래를 만져봤는데 아직 축축하지. 지금까진 안 말랐지만 이따 해 좀 더 쬐면 마를 거잖아. 딱 그 느낌이 yet이야."
-  },
-  {
-   "type": "ox",
-   "question": "동생이 아침부터 지금까지 한 시간째 계속 울고 있어. 이 상황을 'yet'으로 말할 수 있을까?",
-   "choices": [
-    "응, 'yet' 맞아",
-    "아니, 'yet' 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 'yet' 아니야",
-   "why": "맞아! 지금 한 시간째 울고 있는 건 지금 되고 있는 일이잖아. yet은 아직 안 일어난 일한테 쓰는 말이라서, 계속 하고 있는 일한테는 안 붙어."
   }
  ],
  "synonyms": [],
@@ -93,6 +69,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/yet.webp",
   "alt": "숙제 다 했냐는 물음에 아직 안 했다고 고개 젓는 상황",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

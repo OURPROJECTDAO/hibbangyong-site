@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/thorough/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/thorough/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/thorough/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "thorough",
  "slug": "thorough",
  "url": "https://hibbangyong.com/words/thorough/",
@@ -45,28 +45,6 @@
    "answer_index": 0,
    "answer": "침대 밑도, 서랍 속도, 구석까지 하나도 안 빼놓고 다 치웠다",
    "why": "맞아! 침대 밑도 서랍 속도 구석까지 한 군데도 안 빼놓고 다 살폈으니까, 바로 그렇게 하나도 안 빼놓고 전부 다 하는 게 thorough인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "동생이 장난감 상자를 우당탕 거칠게 뒤집으며, 조심성이라곤 하나도 없이 모든 칸을 다 뒤져서 잃어버린 구슬을 찾았대. 이렇게 거칠게 한 것도 'thorough'하게 뒤진 거라고 할 수 있어?",
-   "choices": [
-    "응, thorough 맞아",
-    "아니, thorough 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, thorough 맞아",
-   "why": "맞아! 거칠게 했든 곱게 했든, 한 칸도 안 빼놓고 모든 칸을 다 뒤졌잖아. 하나도 안 빼놓고 싹 다 살핀 거니까 바로 그게 thorough인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "지우가 열쇠를 찾으려고 서랍을 첫 칸부터 마지막 칸까지 하나도 건너뛰지 않고 살펴봤는데, 열쇠는 원래 거기 없어서 결국 못 찾았대. 지우가 찾은 방식을 'thorough'하다고 할 수 있어?",
-   "choices": [
-    "응, thorough 맞아",
-    "아니, thorough 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, thorough 맞아",
-   "why": "맞아! 지우가 첫 칸부터 마지막 칸까지 한 칸도 안 건너뛰고 싹 다 뒤져봤잖아. 열쇠가 나왔든 안 나왔든, 이렇게 하나도 안 빼놓고 다 살핀 게 바로 thorough인 거야."
   }
  ],
  "synonyms": [],
@@ -98,6 +76,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/thorough.webp",
   "alt": "잃어버린 장난감을 침대 밑·서랍·주머니까지 다 뒤지는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

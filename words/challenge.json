@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/challenge/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/challenge/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/challenge/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "challenge",
  "slug": "challenge",
  "url": "https://hibbangyong.com/words/challenge/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, challenge 맞아",
    "why": "맞아! 절반까지는 되는데 그다음 빠른 부분이 아직 안 되잖아. 될 것도 같고 안 될 것도 같은 딱 그만큼이라서, 손가락 자리를 다시 맞춰 보면서 있는 힘을 다 쓰는 중인 거야. 그게 바로 challenge야."
-  },
-  {
-   "type": "ox",
-   "question": "예린이는 색연필 스무 자루를 통에 꽂아 정리하는 중이야. 자루가 많아서 시간은 좀 걸리지만, 늘 하던 대로 하나씩 꽂으면 돼. 이게 'challenge'야?",
-   "choices": [
-    "응, challenge 맞아",
-    "아니, challenge 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, challenge 아니야",
-   "why": "맞아! 늘 하던 대로 하나씩 꽂기만 하면 되는 일이잖아. 될까 말까 조마조마한 게 하나도 없으니까 challenge가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "민수한테 이번 주에 있었던 일 네 가지야. 이 중에서 'challenge'라고 부를 수 있는 건 어떤 거야?",
-   "choices": [
-    "민수는 신발에 자꾸 들어가는 모래 때문에, 하루 종일 신발을 털고 또 털었어.",
-    "민수는 반 대표로 달리기 시합에 나가게 돼서, 자기보다 빠른 애들 틈에서 밤마다 운동장을 돌았어.",
-    "민수는 동생이 좋아하는 노래를 배워서, 하루 종일 열 번도 넘게 따라 불렀어.",
-    "민수는 처음 가 본 도서관에서 재미있어 보이는 책을 골라, 한 권을 끝까지 읽었어."
-   ],
-   "answer_index": 1,
-   "answer": "민수는 반 대표로 달리기 시합에 나가게 돼서, 자기보다 빠른 애들 틈에서 밤마다 운동장을 돌았어.",
-   "why": "맞아! 자기보다 빠른 애들 틈에 서게 됐잖아. 될까 말까 아슬아슬하니까 밤마다 운동장을 돈 거고, 있는 힘을 다 써야 겨우 되는 그런 일이 바로 challenge인 거야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/challenge.webp",
   "alt": "될 것도 같고 안 될 것도 같은 퍼즐이 눈앞에 놓인 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

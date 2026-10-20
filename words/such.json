@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/such/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/such/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/such/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "such",
  "slug": "such",
  "url": "https://hibbangyong.com/words/such/",
@@ -45,30 +45,6 @@
    "answer_index": 2,
    "answer": "\"우와, 그렇게나 큰 케이크는 처음 봐!\" 하고 크기에 놀란 친구",
    "why": "맞아! 그렇게나 큰 케이크는 처음 봐, 하고 눈으로 본 그 정도를 콕 집어서 세게 말했잖아. 바로 그때 쓰는 게 such야."
-  },
-  {
-   "type": "ox",
-   "question": "체육관 신발장 앞에서 짝꿍이 손가락으로 한 칸을 짚으며 \"내 실내화는 저 파란 거야\" 하고 어느 신발인지만 알려줬어. 놀란 것도, 세게 말한 것도 없이 그냥 위치만 짚어준 거였지. 이런 경우도 'such'야?",
-   "choices": [
-    "응, such 맞아",
-    "아니, such 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, such 아니야",
-   "why": "맞아! 짝꿍은 그냥 어느 신발인지 손가락으로 콕 짚어서 알려준 거잖아. 놀란 것도 없고 세게 말한 것도 없으니까 such가 아닌 거야. such는 '그렇게나 파랗다니!'처럼 네가 본 그 정도를 세게 말할 때 쓰거든."
-  },
-  {
-   "type": "choice",
-   "question": "문구점에서 친구가 지우개 하나를 집어 들더니 'such'를 넣어 한마디 했어. 그 지우개는 손바닥만 한 보통 크기였는데, 모양도 냄새도 여태 써 본 지우개와는 딴판이었지. 친구가 쓴 'such'는 어느 쪽일까?",
-   "choices": [
-    "여러 지우개 중 어느 것인지 짚어 알려주는 쪽",
-    "지우개가 얼마나 큰지 크기를 세게 말하는 쪽",
-    "여태 본 것과 아예 딴것이라고 종류를 세게 말하는 쪽",
-    "지우개가 모두 몇 개나 있는지 세어 말하는 쪽"
-   ],
-   "answer_index": 2,
-   "answer": "여태 본 것과 아예 딴것이라고 종류를 세게 말하는 쪽",
-   "why": "맞아! 손바닥만 한 보통 크기인데도 여태 본 지우개랑은 딴판이었잖아. 그렇게 '이런 건 처음 봐' 하고 종류를 콕 집어 세게 말할 때도 such를 쓰는 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/such.webp",
   "alt": "산더미처럼 쌓인 케이크를 보고 감탄하는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

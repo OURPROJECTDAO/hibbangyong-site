@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/dig/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/dig/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/dig/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "dig",
  "slug": "dig",
  "url": "https://hibbangyong.com/words/dig/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, dig 아니야",
    "why": "맞아! 아저씨는 흙을 파낸 게 아니라 웅덩이에 흙을 도로 넣었거든. 흙을 파내야 dig인데, 이건 흙을 부어서 채운 거니까 dig가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 모래놀이터에서 각자 다른 걸 했어. 이 중에서 'dig'을 한 아이는 누구일까?",
-   "choices": [
-    "모래를 손으로 계속 퍼내서 그 자리가 움푹 들어갔어",
-    "젖은 모래를 손바닥으로 탕탕 두드려서 단단하게 만들었어",
-    "막대기로 모래 위에 자기 이름을 길게 그었어",
-    "양동이의 모래를 쏟아 언덕처럼 높이 쌓아 올렸어"
-   ],
-   "answer_index": 0,
-   "answer": "모래를 손으로 계속 퍼내서 그 자리가 움푹 들어갔어",
-   "why": "맞아! 모래를 손으로 계속 퍼내니까 그 자리가 움푹 들어갔잖아. 안에 있던 모래를 걷어내서 구멍이 생긴 거라서, 바로 그게 dig인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "누나가 베란다에서 화분에 담긴 흙을 숟가락으로 조금씩 퍼내 옆 접시로 옮기고 있어. 이게 'dig'야?",
-   "choices": [
-    "응, dig 맞아",
-    "아니, dig 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, dig 맞아",
-   "why": "맞아! 누나가 숟가락으로 화분 흙을 퍼낼 때마다 그 자리가 움푹 파이지? 도구가 숟가락이어도 흙을 퍼내서 자리가 움푹 파이면 그게 바로 흙을 파는 거라서 dig인 거야."
   }
  ],
  "synonyms": [],
@@ -83,6 +59,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/dig.webp",
   "alt": "삽으로 흙을 떠서 옆으로 던져 구멍이 생기는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

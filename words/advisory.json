@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/advisory/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/advisory/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/advisory/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "advisory",
  "slug": "advisory",
  "url": "https://hibbangyong.com/words/advisory/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, advisory 맞아",
    "why": "맞아! 이 선배는 감독한테 이 선수는 수비에 더 맞는다고 의견만 말해 주고, 누가 경기에 나갈지는 감독이 정하잖아. 이렇게 의견만 주고 결정은 안 하는 역할이 바로 advisory야."
-  },
-  {
-   "type": "ox",
-   "question": "우리 아파트에 새 규칙이 생겼어. \"밤 10시 이후에는 공사 금지. 어기면 벌금을 내야 해.\" 모든 집이 반드시 지켜야 해. 이 규칙은 'advisory'야?",
-   "choices": [
-    "응, advisory 맞아",
-    "아니, advisory 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, advisory 아니야",
-   "why": "맞아! 밤 10시 이후 공사 금지는 모든 집이 반드시 지켜야 하고, 어기면 벌금까지 내야 하잖아. 이렇게 꼭 따라야 하는 규칙은 조언이 아니니까 advisory가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "우리 학교에는 위원회가 네 개 있어. 이 중에서 'advisory' 위원회라고 부를 수 있는 곳은?",
-   "choices": [
-    "교장 선생님께 의견을 드리고, 결정은 교장 선생님이 해",
-    "학교 규칙을 직접 정하고, 모두가 그대로 따라야 해",
-    "규칙을 어긴 학생을 찾아내서 직접 벌점을 줘",
-    "급식 메뉴가 바뀌면 전교생에게 빠르게 알려 줘"
-   ],
-   "answer_index": 0,
-   "answer": "교장 선생님께 의견을 드리고, 결정은 교장 선생님이 해",
-   "why": "맞아! 이 위원회는 교장 선생님께 의견만 드리고, 결정은 교장 선생님이 하잖아. 말은 하지만 결정 도장은 안 찍는 자리, 바로 그게 advisory야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/advisory.webp",
   "alt": "동네 새 공원 만들 때 의견 내는 주민 모임",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

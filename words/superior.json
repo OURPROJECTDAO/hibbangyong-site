@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/superior/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/superior/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/superior/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "superior",
  "slug": "superior",
  "url": "https://hibbangyong.com/words/superior/",
@@ -44,30 +44,6 @@
    "answer_index": 0,
    "answer": "응, superior 맞아",
    "why": "맞아! 같은 비행기를 접어서 던졌는데 민수 것만 교실 끝까지 갔잖아. 둘을 나란히 놓고 견줬더니 한쪽이 더 잘 나는 게 딱 보이지? 짝보다 위, 그게 바로 superior인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "형 지우개는 한 번 문지르면 글씨가 지워지고, 내 지우개는 세 번 문질러야 지워져. 내 지우개가 형 지우개보다 superior야?",
-   "choices": [
-    "응, superior 맞아",
-    "아니, superior 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, superior 아니야",
-   "why": "맞아! 형 지우개는 한 번에 지워지는데 내 건 세 번이나 문질러야 하잖아. 그러니까 내 지우개가 형 것보다 아래인 거야. superior는 짝보다 위일 때만 쓰는 말이거든."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 자기 지우개랑 짝꿍 지우개를 나란히 놓고 써 봤어. 이 중에서 자기 지우개한테 'superior'라는 말을 쓸 수 있는 아이는 누구일까?",
-   "choices": [
-    "\"내 걸로 문지르면 연필 자국이 싹 없어져. 짝꿍 건 한참 문질러도 자국이 남더라.\"",
-    "\"짝꿍 걸로 문지르면 한 번에 싹 없어져. 내 건 열 번은 문질러야 겨우 없어져.\"",
-    "\"내 것도 짝꿍 것도 딱 세 번씩 문지르면 없어져. 둘이 하나도 안 달라.\"",
-    "\"내 건 파란색이고 짝꿍 건 노란색이야. 냄새도 서로 달라.\""
-   ],
-   "answer_index": 0,
-   "answer": "\"내 걸로 문지르면 연필 자국이 싹 없어져. 짝꿍 건 한참 문질러도 자국이 남더라.\"",
-   "why": "맞아! 나란히 놓고 문질러 봤더니 네 지우개가 짝꿍 것보다 더 잘 지웠잖아. 견줘서 위에 있는 거, 그게 딱 superior야."
   }
  ],
  "synonyms": [],
@@ -92,6 +68,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/superior.webp",
   "alt": "소방서 대장이 대원들보다 자리가 위인 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

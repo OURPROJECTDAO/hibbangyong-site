@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/indefinitely/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/indefinitely/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/indefinitely/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "indefinitely",
  "slug": "indefinitely",
  "url": "https://hibbangyong.com/words/indefinitely/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, indefinitely 맞아",
    "why": "맞아! 삼촌이 한국에 돌아오는 날을 회사가 아직 안 정했잖아. 끝나는 날이 안 정해진 채로 거기서 계속 지내는 거니까 바로 그게 indefinitely야."
-  },
-  {
-   "type": "ox",
-   "question": "형이 여름 캠프에 가게 됐어. 집에 돌아오는 날은 8월 15일로 딱 정해져 있대. 형은 캠프에서 'indefinitely' 지내게 되는 거야?",
-   "choices": [
-    "응, indefinitely 맞아",
-    "아니, indefinitely 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, indefinitely 아니야",
-   "why": "맞아! 형이 돌아오는 날이 8월 15일로 딱 정해져 있잖아. indefinitely는 끝나는 날이 안 정해진 채 계속되는 거라서, 날짜가 박혀 있는 이 캠프는 indefinitely가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "학교 매점 문에 휴업 공지 네 개가 붙었어. 매점을 'indefinitely' 닫는다는 뜻에 맞는 공지는 어느 거야?",
-   "choices": [
-    "건물을 허물어요. 이 자리에서는 다시 열지 않아요.",
-    "방학 두 달 동안 쉬어요. 개학날 아침에 다시 열어요.",
-    "재료가 없어서 쉬어요. 다시 여는 날은 아직 몰라요.",
-    "청소 때문에 쉬어요. 이번 금요일 하루만 닫아요."
-   ],
-   "answer_index": 2,
-   "answer": "재료가 없어서 쉬어요. 다시 여는 날은 아직 몰라요.",
-   "why": "맞아! 재료가 없어서 쉬는데 다시 여는 날은 아직 모른다잖아. 언젠가 다시 열긴 하겠지만 그날이 안 정해졌으니까, 바로 그게 indefinitely 닫는 거야."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/indefinitely.webp",
   "alt": "수리 때문에 다시 여는 날이 안 정해진 동네 수영장",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

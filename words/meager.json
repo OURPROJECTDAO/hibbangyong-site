@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/meager/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/meager/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/meager/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "meager",
  "slug": "meager",
  "url": "https://hibbangyong.com/words/meager/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, meager 맞아",
    "why": "맞아! 선수 이백 명이 마셔야 하는데 물이 열 병뿐이면 필요한 만큼에 한참 모자라잖아. 바로 그렇게 턱없이 부족한 양이 meager인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "캠핑 가서 네 명이 먹으려고 고기를 샀는데, 열 명이 먹고도 남을 만큼이었어. 이 고기의 양은 'meager'해?",
-   "choices": [
-    "응, meager 맞아",
-    "아니, meager 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, meager 아니야",
-   "why": "맞아! 네 명이 먹을 고기인데 열 명이 먹고도 남을 만큼이면 모자라기는커녕 한참 남는 거잖아. meager는 필요한 만큼에 한참 못 미칠 때 쓰는 말이라, 이렇게 넘치는 고기한테는 안 맞는 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 무언가를 준비한 이야기를 했어. 'meager'라는 말이 가장 잘 어울리는 건?",
-   "choices": [
-    "둘이 먹을 라면을 끓이면서 달걀을 다섯 개 넣었어",
-    "화분 스무 개에 물을 주려고 물뿌리개에 물을 한 컵 받았어",
-    "손님 열 명이 오는 캠핑에 생수를 마흔 병 챙겼어",
-    "숙제에 사진 두 장이 필요해서 사진을 여섯 장 찍었어"
-   ],
-   "answer_index": 1,
-   "answer": "화분 스무 개에 물을 주려고 물뿌리개에 물을 한 컵 받았어",
-   "why": "맞아! 화분이 스무 개나 되는데 물은 딱 한 컵이면, 한 화분에 몇 방울 돌아가지도 않잖아. 필요한 양에 한참 모자라니까 바로 그게 meager인 거야."
   }
  ],
  "synonyms": [],
@@ -93,6 +69,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/meager.webp",
   "alt": "서른 명 반 파티비로 걷은 돈이 오천 원뿐인 상황",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

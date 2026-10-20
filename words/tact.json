@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/tact/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/tact/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/tact/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "tact",
  "slug": "tact",
  "url": "https://hibbangyong.com/words/tact/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, tact 맞아",
    "why": "맞아! 국물이 짜다는 건 숨기지 않고 물만 조금 더 넣으면 된다고 진짜를 전했지. 그러면서 면은 딱 좋게 익었다는 말부터 꺼내서 친구가 덜 민망하게 말을 골랐으니까, 바로 그게 tact인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "친구가 며칠 동안 손으로 쓴 생일 편지를 수아에게 건넸어. 수아는 읽자마자 \"글씨 엉망이고 맞춤법도 다 틀렸네\"라고 떠오르는 대로 바로 말했고, 친구는 얼굴이 빨개졌어. 수아가 보여 준 건 'tact'일까?",
-   "choices": [
-    "응, tact 맞아",
-    "아니, tact 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, tact 아니야",
-   "why": "맞아! 친구가 며칠 동안 손으로 쓴 생일 편지인데, 수아는 친구 기분은 생각 안 하고 떠오르는 대로 바로 흠부터 말했잖아. 친구 얼굴이 빨개진 걸 보면 창피하지 않게 말을 고르는 tact와는 정반대인 거야(이렇게 툭 내뱉는 솔직함은 bluntness야)."
-  },
-  {
-   "type": "ox",
-   "question": "점심 먹고 나서 친구 이에 고춧가루가 낀 걸 봤어. 모른 척 넘어가지 않고, 주변에 아무도 없을 때 '잠깐 거울 한번 봐 봐' 하고 살짝 알려 줬어. 이것도 'tact'야?",
-   "choices": [
-    "응, tact 맞아",
-    "아니, tact 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, tact 맞아",
-   "why": "맞아! 모른 척 넘어가지 않고 할 말은 했고, 그것도 주변에 아무도 없을 때 거울 한번 봐 보라고 살짝 알려 줘서 친구가 덜 민망했잖아. 고춧가루가 꼈다는 진짜 사실을 전하면서 친구 마음은 덜 다치게 말을 골랐으니까, 그게 바로 tact야."
   }
  ],
  "synonyms": [],
@@ -89,6 +67,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/tact.webp",
   "alt": "친구의 새 머리 모양이 별로인데 어떠냐고 물어보는 상황",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

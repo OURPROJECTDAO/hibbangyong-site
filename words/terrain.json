@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/terrain/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/terrain/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/terrain/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "terrain",
  "slug": "terrain",
  "url": "https://hibbangyong.com/words/terrain/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, terrain 맞아",
    "why": "맞아! 바다 쪽이 낮고 평평한 모래밭이고 마을 뒤가 가파른 언덕이라는 건 땅이 어떤 모양이고 어떤 종류인지를 말한 거라서, 바로 그게 terrain이야."
-  },
-  {
-   "type": "choice",
-   "question": "등산 동아리가 다음 주 코스를 고르면서 산의 'terrain'부터 확인하자고 했어. 뭘 확인하자는 걸까?",
-   "choices": [
-    "길이 바위투성이인지, 완만한 흙길인지",
-    "그 산이 나라 땅인지, 개인 땅인지",
-    "중간에 쉴 만한 쉼터나 매점이 있는지",
-    "꼭대기에서 보는 경치가 얼마나 멋진지"
-   ],
-   "answer_index": 0,
-   "answer": "길이 바위투성이인지, 완만한 흙길인지",
-   "why": "맞아! 바위투성이인지 완만한 흙길인지는 발로 밟고 갈 땅이 어떻게 생겼는지잖아. 코스 고를 때 그걸 먼저 보자는 거니까 바로 그게 terrain이야."
-  },
-  {
-   "type": "ox",
-   "question": "새로 생긴 공원에 가 보니 땅 위에 미끄럼틀, 벤치, 화장실 건물이 세워져 있어. 이렇게 땅 위에 만들어 놓은 시설들이 'terrain'일까?",
-   "choices": [
-    "응, terrain 맞아",
-    "아니, terrain 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, terrain 아니야",
-   "why": "맞아! 미끄럼틀, 벤치, 화장실 건물은 사람이 땅 위에 세운 시설이지 땅 생김새가 아니거든. terrain은 그 밑에 있는 땅이 평평한지, 울퉁불퉁한지 같은 걸 말하는 거야."
   }
  ],
  "synonyms": [],
@@ -91,6 +67,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/terrain.webp",
   "alt": "자전거로 가며 평지·자갈밭·오르막·흙길로 바뀌는 발밑 땅",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

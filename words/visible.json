@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/visible/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/visible/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/visible/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "visible",
  "slug": "visible",
  "url": "https://hibbangyong.com/words/visible/",
@@ -45,30 +45,6 @@
    "answer_index": 0,
    "answer": "사물함 위에 그냥 놓인 노란 우산",
    "why": "맞아! 사물함 위에 그냥 놓여 있으면 아무것도 가린 게 없으니까 눈에 딱 들어오지. 그렇게 눈으로 볼 수 있는 게 바로 visible인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "주방에서 냄비 하나가 'visible'하지 않아. 어느 냄비일까?",
-   "choices": [
-    "뚜껑 덮인 찬장 안에 들어가 문을 닫아 둔 냄비",
-    "가스레인지 위에 올려 둔 냄비",
-    "싱크대 옆에 엎어 놓은 냄비",
-    "식탁 가운데에 놓인 냄비"
-   ],
-   "answer_index": 0,
-   "answer": "뚜껑 덮인 찬장 안에 들어가 문을 닫아 둔 냄비",
-   "why": "맞아! 찬장에 넣고 문까지 닫아 버렸으니 눈으로는 아무것도 안 들어오지. 안에 있는 걸 알아도 눈에 안 보이면 visible이 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "동생 무릎에 참깨만 한 아주 작은 딱지가 앉았어. 옆에 앉은 네가 그 자리를 손가락으로 콕 집어 가리켰어. 이런 것도 'visible'이야?",
-   "choices": [
-    "응, 'visible' 맞아",
-    "아니, 'visible' 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, 'visible' 맞아",
-   "why": "맞아! 참깨만 해도 네 눈에 딱 들어와서 손가락으로 콕 집었잖아. 눈에 들어오기만 하면 되는 거라서 바로 그게 visible인 거야."
   }
  ],
  "synonyms": [],
@@ -84,6 +60,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/visible.webp",
   "alt": "커튼 뒤에 숨었는데 삐죽 나온 신발 코가 술래 눈에 들어옴",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

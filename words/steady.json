@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/steady/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/steady/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/steady/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "steady",
  "slug": "steady",
  "url": "https://hibbangyong.com/words/steady/",
@@ -45,19 +45,6 @@
    "answer_index": 0,
    "answer": "아까부터 지금까지 똑같은 세기로 계속 들려. 커지지도 작아지지도 않아",
    "why": "맞아! 커지지도 작아지지도 않고 아까부터 지금까지 똑같은 세기로 들리잖아. 흔들림 없이 같은 상태로 쭉 가는 거, 그게 바로 steady야."
-  },
-  {
-   "type": "choice",
-   "question": "친구 넷이 국그릇을 들고 식탁까지 옮겼어. 이 중에서 손이 'steady'하지 않았던 친구는 누구일까?",
-   "choices": [
-    "가는 내내 손이 덜덜 떨려서 국물이 이리저리 출렁였어",
-    "가는 내내 손 높이가 그대로였고 국물도 가만히 있었어",
-    "가는 내내 그릇을 두 손으로 같은 자리에 잡고 있었어",
-    "가는 내내 걸음 빠르기가 처음과 끝이 똑같았어"
-   ],
-   "answer_index": 0,
-   "answer": "가는 내내 손이 덜덜 떨려서 국물이 이리저리 출렁였어",
-   "why": "맞아! 손이 덜덜 떨려서 국물이 이리저리 출렁였잖아. 그렇게 흔들리고 들쭉날쭉하면 steady가 아닌 거야. steady는 흔들림 없이 쭉 같은 상태로 가는 거거든."
   }
  ],
  "synonyms": [
@@ -74,6 +61,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/steady.webp",
   "alt": "살짝 튼 수도꼭지에서 쫄쫄쫄 일정하게 나오는 물",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

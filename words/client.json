@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/client/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/client/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/client/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "client",
  "slug": "client",
  "url": "https://hibbangyong.com/words/client/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, client 맞아",
    "why": "맞아! 아저씨는 차 고치는 걸 잘하는 정비사한테 내 차 좀 고쳐 달라고 일을 맡기고 돈까지 냈잖아. 그러니까 바로 client인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "피아노 고치는 아저씨가 남의 집 피아노 소리를 고쳐 주고 돈을 받았어. 이 아저씨가 'client'야?",
-   "choices": [
-    "응, client 맞아",
-    "아니, client 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, client 아니야",
-   "why": "잘 골랐어! 이 아저씨는 피아노 소리를 고쳐 주고 돈을 받은 사람이잖아. client는 일을 맡기고 돈을 내는 사람이니까, 일을 해 준 아저씨는 client가 아닌 거야. 피아노를 고쳐 달라고 맡긴 그 집 사람이 client야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 네 사람 중에서 'client'라고 부를 수 있는 사람은 누구일까?",
-   "choices": [
-    "변호사한테 자기 일을 맡기고 돈을 낸 아줌마",
-    "편의점에서 과자를 사고 계산한 남자아이",
-    "그 사무실에서 상담을 해 주는 변호사 아저씨",
-    "변호사네 집에 놀러 와서 같이 논 친구"
-   ],
-   "answer_index": 0,
-   "answer": "변호사한테 자기 일을 맡기고 돈을 낸 아줌마",
-   "why": "맞아! 그 아줌마는 변호사한테 자기 일을 맡기고 돈을 냈잖아. 이렇게 잘하는 사람한테 내 일을 부탁하고 돈 내는 사람, 바로 그게 client인 거야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/client.webp",
   "alt": "변호사 사무실에 일을 맡기러 와 돈을 낸 사람",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

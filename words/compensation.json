@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/compensation/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/compensation/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/compensation/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "compensation",
  "slug": "compensation",
  "url": "https://hibbangyong.com/words/compensation/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, compensation 맞아",
    "why": "맞아! 벽돌 때문에 우리 차 앞유리가 깨졌잖아. 공사 회사가 그 유리 값만큼 돈을 줬으니까, 깨진 걸 메워 주는 돈이라서 바로 그게 compensation인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "공원에 쓰레기를 몰래 버리다 걸려서, 한 아저씨가 구청에 돈을 냈어. 이 돈이 'compensation'이야?",
-   "choices": [
-    "응, compensation 맞아",
-    "아니, compensation 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, compensation 아니야",
-   "why": "잘 골랐어! 아저씨는 쓰레기를 몰래 버린 잘못 때문에 벌로 돈을 낸 거잖아. compensation은 손해 본 사람이 받는 돈이라서, 잘못한 사람이 내는 이 돈이랑은 방향이 거꾸로야."
-  },
-  {
-   "type": "choice",
-   "question": "택시가 빨간불에 달리다가 자전거를 타던 민수를 쳤어. 민수는 다리를 다쳤고, 지나가던 사람이 사고를 신고했어. 이 일 뒤에 'compensation'을 받을 사람으로 가장 알맞은 건?",
-   "choices": [
-    "다리를 다친 민수",
-    "사고를 신고한 행인",
-    "택시 기사를 단속한 경찰",
-    "민수에게 새 자전거를 판 가게"
-   ],
-   "answer_index": 0,
-   "answer": "다리를 다친 민수",
-   "why": "맞아! 택시가 빨간불에 달려서 민수가 다리를 다쳤잖아. 그렇게 다친 민수한테 손해를 메워 주려고 주는 돈이니까, 받을 사람은 바로 민수야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/compensation.webp",
   "alt": "택배로 보낸 노트북이 깨져 와서 택배 회사가 돈을 물어줌",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

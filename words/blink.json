@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/blink/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/blink/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/blink/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "blink",
  "slug": "blink",
  "url": "https://hibbangyong.com/words/blink/",
@@ -45,32 +45,6 @@
    "answer_index": 1,
    "answer": "눈을 딱 감았다가 곧바로 떴어",
    "why": "맞아! 눈을 딱 감았다가 곧바로 떴잖아. 그렇게 아주 잠깐 감았다가 바로 뜨는 게 바로 blink인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "놀이터에서 친구 얼굴을 봤어. 다음 중 친구가 'blink' 한 건 어느 거야?",
-   "choices": [
-    "친구가 입을 크게 벌리고 하품했어",
-    "친구가 눈을 감고 벤치에서 한참 낮잠을 잤어",
-    "친구가 두 눈을 깜빡 감았다가 곧바로 떴어",
-    "친구가 입을 꾹 다물고 볼을 부풀렸어"
-   ],
-   "answer_index": 2,
-   "answer": "친구가 두 눈을 깜빡 감았다가 곧바로 떴어",
-   "why": "맞아! 친구가 두 눈을 깜빡 감았다가 곧바로 떴잖아. 눈을 잠깐 감았다가 바로 다시 뜨는 거, 그게 바로 blink인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "밤에 길을 걷다가 가게 간판 불빛을 봤어. 이 중에서 간판 불이 'blink' 한 건 어느 거야?",
-   "choices": [
-    "간판 불이 꺼졌다가 한참 뒤에야 다시 켜졌어",
-    "간판 불이 조금씩 어두워졌다가 서서히 밝아졌어",
-    "간판 불이 툭 꺼졌다 싶은 순간 벌써 도로 켜졌어",
-    "간판 불이 한번 꺼진 뒤로 아침까지 그대로였어"
-   ],
-   "answer_index": 2,
-   "answer": "간판 불이 툭 꺼졌다 싶은 순간 벌써 도로 켜졌어",
-   "why": "맞아! 툭 꺼졌다 싶었는데 벌써 다시 켜졌잖아. 그 짧은 껌뻑, 잠깐 사라졌다가 바로 돌아오는 그게 바로 blink야."
   }
  ],
  "synonyms": [
@@ -92,6 +66,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/blink.webp",
   "alt": "눈을 감았다가 곧바로 다시 뜨는 짧은 순간",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

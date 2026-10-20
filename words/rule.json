@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/rule/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/rule/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/rule/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "rule",
  "slug": "rule",
  "url": "https://hibbangyong.com/words/rule/",
@@ -45,30 +45,6 @@
    "answer_index": 2,
    "answer": "수영장에 들어가기 전에는 꼭 샤워를 하고 들어가. 누가 오든 늘 똑같아.",
    "why": "맞아! 들어가기 전에 샤워하기는 미리 정해져 있어서 누가 오든 늘 똑같이 하는 거잖아. 그렇게 정해 두고 다 같이 따르는 게 바로 rule이야."
-  },
-  {
-   "type": "ox",
-   "question": "민지는 색칠할 때 오늘은 분홍 색연필을 꺼냈어. 어제는 초록을 꺼냈고. 이게 'rule'이야?",
-   "choices": [
-    "응, rule 맞아",
-    "아니, rule 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, rule 아니야",
-   "why": "맞아! 오늘은 분홍, 어제는 초록, 이건 민지가 그때그때 꺼내고 싶은 걸 꺼낸 거잖아. 정해 준 사람도 없고 정해진 것도 없으니까 rule이 아닌 게 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "도서관에서 있었던 네 가지 이야기야. 이 중에서 'rule'인 건 뭘까?",
-   "choices": [
-    "도서관에선 책을 두 권까지 빌려. 오늘도 내일도, 누가 오든 두 권이야.",
-    "우리 형은 아침마다 물을 한 컵 마셔. 오늘도 내일도, 형은 늘 그래.",
-    "사서 선생님이 민수한테 오늘은 책을 세 권 가져가라고 했어. 민수는 그렇게 했어.",
-    "동생은 그때 마음에 드는 책을 아무거나 꺼내. 오늘은 이 책, 내일은 저 책."
-   ],
-   "answer_index": 0,
-   "answer": "도서관에선 책을 두 권까지 빌려. 오늘도 내일도, 누가 오든 두 권이야.",
-   "why": "맞아! 두 권까지라고 도서관이 미리 정해 뒀고, 오늘 오든 내일 오든 누가 오든 똑같이 두 권이잖아. 이렇게 정해 준 사람이 있고 누구에게나 늘 같은 게 바로 rule이야."
   }
  ],
  "synonyms": [
@@ -95,6 +71,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/rule.webp",
   "alt": "새 게임을 배울 때 6 나오면 한 번 더 던진다·남의 칸은 밟지 마를 듣는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

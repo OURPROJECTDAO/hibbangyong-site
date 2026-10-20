@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/network/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/network/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/network/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "network",
  "slug": "network",
  "url": "https://hibbangyong.com/words/network/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, 이건 network야",
    "why": "맞아! 친구들이 한 줄이 아니라 여러 갈래로 이리저리 얽혀서 누구한테든 닿을 수 있잖아. 그게 바로 그물처럼 이어진 network인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "여러 가지를 설명할게. 이 중에서 'network'라고 부를 수 있는 건 뭘까?",
-   "choices": [
-    "길들이 여러 갈래로 이리저리 얽혀서, 한 곳에서 여기저기로 갈 수 있는 것",
-    "정류장들이 한 줄로 죽 이어져, 1번에서 2번, 2번에서 3번 차례로만 가는 것",
-    "물고기 잡는 그물 한 장이 강가에 펼쳐져 놓여 있는 것",
-    "외딴 오두막 한 채가 아무 데와도 이어지지 않고 떨어져 있는 것"
-   ],
-   "answer_index": 0,
-   "answer": "길들이 여러 갈래로 이리저리 얽혀서, 한 곳에서 여기저기로 갈 수 있는 것",
-   "why": "맞아! 길들이 여러 갈래로 이리저리 얽혀서 어디서든 어디로든 갈 수 있잖아. 한 줄이 아니라 그물처럼 얽혔으니까 바로 그게 network인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "컴퓨터 한 대가 다른 어떤 것과도 줄로 이어지지 않고 혼자 따로 놓여 있어. 이건 'network'야?",
-   "choices": [
-    "응, 이건 network야",
-    "아니, 이건 network가 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 이건 network가 아니야",
-   "why": "맞아! network는 여럿이 그물처럼 서로 이어진 거잖아. 그런데 이 컴퓨터는 아무하고도 안 이어지고 혼자 뚝 떨어져 있으니까, 얽힌 게 하나도 없어서 'network가 아니야'가 딱 맞는 거야."
   }
  ],
  "synonyms": [],
@@ -90,6 +66,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/network.webp",
   "alt": "마을 길들이 한 줄이 아니라 여러 갈래로 이리저리 얽혀 그물처럼 된 도로망 한 장면.",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

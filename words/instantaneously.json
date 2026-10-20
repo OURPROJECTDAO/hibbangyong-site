@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/instantaneously/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/instantaneously/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/instantaneously/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "instantaneously",
  "slug": "instantaneously",
  "url": "https://hibbangyong.com/words/instantaneously/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, instantaneously 맞아",
    "why": "맞아! 바늘 끝이 풍선에 닿는 그 순간 바로 '펑' 하고 터졌잖아. 닿는 순간과 터지는 순간 사이에 기다리는 틈이 하나도 없으니까 딱 instantaneously인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "화분에 심은 콩이 몇 주에 걸쳐 날마다 조금씩 자라서 싹이 됐어. 콩이 자란 방식은 'instantaneously'일까?",
-   "choices": [
-    "응, instantaneously 맞아",
-    "아니, instantaneously 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, instantaneously 아니야",
-   "why": "맞아! 콩은 몇 주 동안 날마다 조금씩 자라서 싹이 됐잖아. 시간을 오래 들여 천천히 자란 거라서 instantaneously가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "아래 네 가지 일 중에서 'instantaneously'로 설명하기에 가장 알맞은 건 뭘까?",
-   "choices": [
-    "휴대폰을 바닥에 떨어뜨린 순간 액정이 깨졌어",
-    "달리기 선수가 100미터를 10초 만에 뛰었어",
-    "시험 보는 날 예고도 없이 교실이 정전됐어",
-    "냉동실에서 꺼낸 얼음이 한 시간 동안 녹았어"
-   ],
-   "answer_index": 0,
-   "answer": "휴대폰을 바닥에 떨어뜨린 순간 액정이 깨졌어",
-   "why": "맞아! 휴대폰이 바닥에 닿는 그 순간 액정이 깨졌잖아. 떨어진 순간과 깨진 순간 사이에 기다리는 틈이 하나도 없어. 그래서 이게 바로 instantaneously야."
   }
  ],
  "synonyms": [],
@@ -90,6 +66,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/instantaneously.webp",
   "alt": "스위치를 누르자 불이 켜지는 순간",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

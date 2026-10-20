@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/strip/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/strip/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/strip/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "strip",
  "slug": "strip",
  "url": "https://hibbangyong.com/words/strip/",
@@ -43,28 +43,6 @@
    "answer_index": 1,
    "answer": "아니, strip 아니야",
    "why": "그렇지, 아니라고 한 게 딱 맞아. 비닐을 위에 새로 덮어 씌운 거잖아. 이 말은 반대로 붙어 있던 걸 남김없이 떼어내서 맨 알맹이만 남기는 거거든."
-  },
-  {
-   "type": "ox",
-   "question": "오래된 대문에 눌어붙은 녹과 칠을 솔로 문질러 하나도 안 남기고 다 없앴어. 이런 경우도 'strip'이야?",
-   "choices": [
-    "응, 'strip'이야",
-    "아니, 'strip'이 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, 'strip'이야",
-   "why": "맞아! 대문에 눌어붙어 있던 녹이랑 칠을 하나도 안 남기고 다 문질러 없앴잖아. 붙어 있던 걸 몽땅 떼어내서 맨 대문만 남은 거니까 바로 그게 strip인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "삼촌이 전깃줄 끝을 집게로 물고 쭉 훑었더니, 감겨 있던 고무가 쏙 빠져나오고 안쪽 구리선이 나왔어. 이걸 'strip'이라고 할 수 있어?",
-   "choices": [
-    "응, strip 맞아",
-    "아니, strip 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, strip 맞아",
-   "why": "맞아! 겉을 감싸고 있던 고무가 통째로 쏙 빠지고 안에 있던 구리선만 딱 남았잖아. 감싸던 걸 남김없이 떼어내고 알맹이만 남기는 거, 그게 바로 strip이야."
   }
  ],
  "synonyms": [
@@ -86,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/strip.webp",
   "alt": "크레용에 감긴 종이를 위에서 아래까지 쭉 다 벗겨 맨 크레용만 남기기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

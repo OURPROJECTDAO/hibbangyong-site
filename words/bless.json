@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/bless/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/bless/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/bless/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "bless",
  "slug": "bless",
  "url": "https://hibbangyong.com/words/bless/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, bless 아니야",
    "why": "그렇지, 이건 bless가 아니야. 빌어주긴 했는데 비 맞고 재미없기를 빌었잖아. bless는 좋은 일이 오라고 빌어주는 거거든. 나쁜 일이 오라고 비는 건 반대쪽 말이야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 내일 먼 동네로 이사 가. 네 사람이 친구에게 한 말이 서로 달랐어. 친구를 'bless'한 사람은 누구야?",
-   "choices": [
-    "손을 잡고, 새 동네에서 아픈 일 없이 다 잘 되기를 대신 빌어준 사람",
-    "어제 달리기에서 친구가 1등한 걸 크게 잘했다고 말해준 사람",
-    "가는 길이 꼬여서 고생 좀 실컷 해보라고 웃으며 말한 사람",
-    "이사 갈 동네에 뭐가 있는지 지도를 펴서 하나하나 알려준 사람"
-   ],
-   "answer_index": 0,
-   "answer": "손을 잡고, 새 동네에서 아픈 일 없이 다 잘 되기를 대신 빌어준 사람",
-   "why": "맞아! 손 잡고 아픈 일 없이 다 잘 되기를 빌어준 건, 아직 오지도 않은 좋은 일을 친구한테 미리 보내준 거잖아. 바로 그게 bless야."
-  },
-  {
-   "type": "ox",
-   "question": "밭에 씨를 뿌리는 아저씨 옆에서, 이웃 할머니가 아저씨 밭을 보며 올해 이 밭에 비가 알맞게 내리기를 하고 대신 빌어줬어. 이게 'bless'야?",
-   "choices": [
-    "응, bless 맞아",
-    "아니, bless 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, bless 맞아",
-   "why": "맞아! 아직 안 온 좋은 일을 다른 사람을 위해 미리 빌어준 거잖아. 할머니 밭도 아닌데 아저씨 밭에 비가 알맞게 오라고 빌어준 거니까, 그게 바로 bless인 거야."
   }
  ],
  "synonyms": [],
@@ -98,6 +74,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/bless.webp",
   "alt": "멀리 이사 가는 친구 손 잡고 배웅하는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

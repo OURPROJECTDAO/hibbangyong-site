@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/port/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/port/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/port/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "port",
  "slug": "port",
  "url": "https://hibbangyong.com/words/port/",
@@ -43,19 +43,6 @@
    "answer_index": 0,
    "answer": "응, port 맞아",
    "why": "맞아! 커다란 배가 바닷가에 멈춰 서 있고, 자동차들이 줄지어 배 안으로 들어가고 사람들도 배에 올라타잖아. 배가 서서 차랑 사람을 싣는 곳이니까 바로 그게 port인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "여행하다가 네 군데를 들렀어. 이 중에서 'port'라고 부를 수 있는 곳은 어디일까?",
-   "choices": [
-    "비행기들이 줄지어 서서 사람과 짐을 내리는 곳",
-    "기차들이 줄지어 서서 사람과 짐을 내리는 곳",
-    "배들이 줄지어 서서 사람과 짐을 내리는 곳",
-    "버스들이 줄지어 서서 사람과 짐을 내리는 곳"
-   ],
-   "answer_index": 2,
-   "answer": "배들이 줄지어 서서 사람과 짐을 내리는 곳",
-   "why": "맞아! 배들이 줄지어 서서 사람과 짐을 내리는 곳이라서 바로 그게 port인 거야. port는 배가 서는 곳이거든."
   }
  ],
  "synonyms": [],
@@ -73,6 +60,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/port.webp",
   "alt": "긴 바다를 건너온 배가 들어와 멈추는 곳",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

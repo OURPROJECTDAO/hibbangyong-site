@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/rally/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/rally/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/rally/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "rally",
  "slug": "rally",
  "url": "https://hibbangyong.com/words/rally/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, rally 맞아",
    "why": "맞아! 동네 사람 수백 명이 시청 앞에 모였고, 모두 신호등을 달아 달라는 같은 마음으로 팻말을 들고 다 함께 외쳤거든. 바라는 게 하나로 똑같은 사람들이 한곳에 모여서 크게 보여 준 거니까, 바로 그게 rally인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "놀이터에 그네를 하나 더 놓아 달라고, 지우가 혼자 시청에 전화를 걸어 직원에게 부탁했어. 이게 'rally'야?",
-   "choices": [
-    "응, rally 맞아",
-    "아니, rally 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, rally 아니야",
-   "why": "잘 골랐어! 지우는 혼자서 전화로 직원에게 부탁했잖아. rally는 같은 걸 바라는 사람들이 한곳에 많이 모여서 다 같이 크게 외치는 거라서, 지우가 한 건 rally가 아니야."
-  },
-  {
-   "type": "choice",
-   "question": "네 곳에서 일이 벌어졌어. 'rally'라고 부를 수 있는 건 어느 거야?",
-   "choices": [
-    "새 도서관을 지어 달라고 사람들이 광장에 많이 모여 다 함께 외쳤어.",
-    "좋아하는 가수 공연을 보려고 사람들이 광장에 많이 모여 신나게 따라 불렀어.",
-    "새 도서관을 지어 달라고 민수가 혼자 구청에 긴 편지를 써서 보냈어.",
-    "새 도서관 일로 동네 어른 네 명이 작은 방에 앉아 조용히 의논했어."
-   ],
-   "answer_index": 0,
-   "answer": "새 도서관을 지어 달라고 사람들이 광장에 많이 모여 다 함께 외쳤어.",
-   "why": "맞아! 사람들이 새 도서관을 지어 달라는 같은 바람을 가지고 광장에 많이 모였잖아. 그리고 다 함께 외쳐서 그 바람을 크게 보여 줬으니까 바로 그게 rally인 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/rally.webp",
   "alt": "광장에 많은 사람이 모여 다 같이 외치는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/commerce/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/commerce/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/commerce/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "commerce",
  "slug": "commerce",
  "url": "https://hibbangyong.com/words/commerce/",
@@ -45,32 +45,6 @@
    "answer_index": 1,
    "answer": "여러 도시에서 물건을 사고팔며 돈이 쉼 없이 오가는 일",
    "why": "맞아! 여러 도시에서 물건을 사고팔며 돈이 쉼 없이 오간다니까, 바로 그게 온 나라에서 사고파는 일이 굴러가는 commerce인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 네 가지 일 중에서 'commerce'에 해당하는 건 어떤 거야?",
-   "choices": [
-    "여러 마을에서 채소랑 생선을 돈 없이 그냥 나눠 주기만 하는 일",
-    "여러 공원에서 강아지랑 뛰놀며 공을 차는 일",
-    "여러 마을에서 채소랑 생선을 사고팔며 돈을 주고받는 일",
-    "여러 도서관에서 조용히 책을 읽고 그림을 그리는 일"
-   ],
-   "answer_index": 2,
-   "answer": "여러 마을에서 채소랑 생선을 사고팔며 돈을 주고받는 일",
-   "why": "맞아! 채소랑 생선을 사고팔며 돈을 주고받았지? 물건이랑 돈이 여기저기 마을에서 오가는 것, 바로 그게 commerce거든."
-  },
-  {
-   "type": "choice",
-   "question": "네 곳에서 저마다 다른 일이 바쁘게 벌어지고 있어. 이 중에서 'commerce'라고 부를 수 있는 건 어떤 거야?",
-   "choices": [
-    "온 동네 가게마다 물건을 사고팔며 돈이 오가는 일",
-    "온 동네 공장마다 새 물건을 만들어 쌓아 두는 일",
-    "온 마을 장터에서 사람들이 물건을 공짜로 나눠 주는 일",
-    "온 동네 사람들이 모여 길가 쓰레기를 주워 치우는 일"
-   ],
-   "answer_index": 0,
-   "answer": "온 동네 가게마다 물건을 사고팔며 돈이 오가는 일",
-   "why": "맞아! 가게마다 물건을 사고팔면서 돈이 오가고, 그런 일이 온 동네에서 바쁘게 벌어지잖아. 바로 그게 commerce인 거야."
   }
  ],
  "synonyms": [
@@ -103,6 +77,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/commerce.webp",
   "alt": "온 동네 가게마다 사고파는 소리가 왁자지껄한 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

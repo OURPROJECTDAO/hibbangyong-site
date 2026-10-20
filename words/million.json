@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/million/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/million/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/million/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "million",
  "slug": "million",
  "url": "https://hibbangyong.com/words/million/",
@@ -45,28 +45,6 @@
    "answer_index": 2,
    "answer": "천 번",
    "why": "맞아! 천을 천 번 모으면 딱 백만이 되거든. 천이 천 개 쌓인 거, 그게 바로 million인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "어느 교실에 있는 아이를 하나도 빠짐없이 끝까지 세었더니, 그 수가 일곱이었어. 이 일곱을 'million'이라고 부를 수 있을까?",
-   "choices": [
-    "응, million이라고 부를 수 있어",
-    "아니, million이라고 부를 수 없어"
-   ],
-   "answer_index": 1,
-   "answer": "아니, million이라고 부를 수 없어",
-   "why": "맞아! 일곱은 손가락으로도 셀 만큼 적은 수잖아. 백만은 천을 천 번이나 모은 엄청 큰 수라서, 일곱은 million이라고 부를 수 없는 게 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "학교 강당에 학생이 빈자리 없이 천 명 모여 가득 찼어. 이만큼 모인 사람 수도 'million'이라고 부를 수 있을까?",
-   "choices": [
-    "응, 'million'이라고 부를 수 있어",
-    "아니, 'million'이 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 'million'이 아니야",
-   "why": "맞아! 천 명도 진짜 많아 보이지만, million은 그 천 명을 다시 천 번이나 모아야 되거든. 그러니까 강당이 꽉 찬 정도로는 million이 아니라고 한 네가 딱 맞은 거야."
   }
  ],
  "synonyms": [],
@@ -80,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/million.webp",
   "alt": "천을 천 번 모으면 백만 — 딱 정해진, 아주 큰 진짜 수.",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

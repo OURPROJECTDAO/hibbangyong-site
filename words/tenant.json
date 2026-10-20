@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/tenant/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/tenant/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/tenant/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "tenant",
  "slug": "tenant",
  "url": "https://hibbangyong.com/words/tenant/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, tenant 맞아",
    "why": "맞아! 사무실이 아빠 거는 아니지만 달마다 돈을 내고 빌려서 쓰고 있잖아. 빌려 쓰는 그쪽이 바로 tenant인 거야. 집이든 가게든 사무실이든 다 똑같아."
-  },
-  {
-   "type": "ox",
-   "question": "하린이네 이모는 원룸 건물을 하나 갖고 있어. 이모는 그 건물 방들을 다른 사람한테 빌려주고 달마다 돈을 받아. 이모는 'tenant'야?",
-   "choices": [
-    "응, tenant 맞아",
-    "아니, tenant 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, tenant 아니야",
-   "why": "맞아! 이모는 방을 빌려주고 달마다 돈을 받는 쪽이잖아. 돈을 내고 들어가 사는 그쪽이 tenant니까, 이모는 반대편인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "한 건물에 네 사람이 있어. 이 중에 'tenant'는 누구야?",
-   "choices": [
-    "건물 주인한테 달마다 돈을 내고 3층 방을 빌려 쓰는 사람",
-    "이 건물을 사서 갖고 있고 다른 사람들한테 방을 빌려주는 사람",
-    "5층에 사는 친구를 만나러 와서 두 시간 놀다 가는 사람",
-    "건물 앞을 지나가다 잠깐 비를 피하려고 들어와 선 사람"
-   ],
-   "answer_index": 0,
-   "answer": "건물 주인한테 달마다 돈을 내고 3층 방을 빌려 쓰는 사람",
-   "why": "맞아! 달마다 돈을 내고 그 방을 빌려 쓰고 있잖아. 자기 집이 아닌데 값을 내고 들어가 사는 그쪽, 그게 바로 tenant인 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/tenant.webp",
   "alt": "윗집에 세 들어 이사 온 아저씨",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

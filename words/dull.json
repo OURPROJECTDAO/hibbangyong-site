@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/dull/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/dull/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/dull/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "dull",
  "slug": "dull",
  "url": "https://hibbangyong.com/words/dull/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, dull 맞아",
    "why": "맞아! 칼이 자꾸 미끄러지고 껍질도 안 잘리는 건 날이 무뎌졌다는 뜻이거든. 안 잘리고 미끄러지는 그 느낌, 그게 바로 dull인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "방금 연필깎이로 깎은 연필이야. 심 끝이 뾰족해서 종이에 쓱쓱 잘 써져. 이 연필은 'dull'해?",
-   "choices": [
-    "응, dull 맞아",
-    "아니, dull 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, dull 아니야",
-   "why": "맞아! 방금 깎아서 심 끝이 뾰족하고 쓱쓱 잘 써지잖아. 그건 무딘 거랑은 정반대라서 dull이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "친구 넷이 자기 연필깎이로 깎은 연필심을 보여줘. 'dull'한 연필심은 어느 거야?",
-   "choices": [
-    "끝이 뭉툭하게 닳아서 글씨가 두껍게 뭉개지는 심",
-    "바늘처럼 뾰족해서 찌르면 아플 것 같은 심",
-    "가늘고 날카로워서 얇은 선이 쓱쓱 그어지는 심",
-    "끝이 송곳처럼 서서 종이가 찢어지는 심"
-   ],
-   "answer_index": 0,
-   "answer": "끝이 뭉툭하게 닳아서 글씨가 두껍게 뭉개지는 심",
-   "why": "맞아! 끝이 뭉툭해서 글씨가 두껍게 뭉개지잖아. 날이 안 서 있고 흐리멍덩하게 닳은 거, 바로 그게 dull이야."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/dull.webp",
   "alt": "무뎌서 종이가 안 잘리고 접히기만 하는 가위",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/vermin/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/vermin/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/vermin/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "vermin",
  "slug": "vermin",
  "url": "https://hibbangyong.com/words/vermin/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, vermin 맞아",
    "why": "맞아! 생쥐 떼가 밀가루 포대를 갉아서 뚫고 병균까지 옮기잖아. 음식을 망치고 병을 옮겨서 주인이 약을 놓아 없애려는 작은 동물이니까, 바로 그게 vermin인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "우리 집에서 3년째 기르는 고양이가 식탁에 올라가 저녁 반찬인 생선을 몰래 먹어 버렸어. 이 고양이는 'vermin'이야?",
-   "choices": [
-    "응, vermin 맞아",
-    "아니, vermin 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, vermin 아니야",
-   "why": "맞아! 이 고양이는 우리 집에서 3년째 기르는 동물이잖아. 생선을 몰래 먹은 건 말썽이긴 해도, vermin은 쥐나 바퀴벌레처럼 사람들이 없애고 싶어 하는 동물을 부르는 말이라 기르는 고양이한테는 안 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "가을 논에 참새 떼가 몰려와서 다 익은 벼 이삭을 쪼아 먹었어. 농부는 참새를 쫓으려고 논 위에 그물을 쳤어. 이런 참새 떼도 'vermin'이야?",
-   "choices": [
-    "응, vermin 맞아",
-    "아니, vermin 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, vermin 맞아",
-   "why": "맞아! 참새 떼가 다 익은 벼 이삭을 쪼아 먹으니까 농부가 그물까지 쳐서 쫓으려는 거잖아. 벌레가 아니라 새여도 농작물을 망쳐서 사람이 없애고 싶어 하면 바로 vermin이야."
   }
  ],
  "synonyms": [],

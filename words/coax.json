@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/coax/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/coax/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/coax/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "coax",
  "slug": "coax",
  "url": "https://hibbangyong.com/words/coax/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, coax 맞아",
    "why": "맞아! 조카가 물에 안 들어가겠다고 버티는데, 삼촌은 억지로 끌고 가지 않고 물가에 같이 앉아 30분 동안 발부터 조금씩 담가 보게 하며 기다려 줬잖아. 싫어하는 조카를 시간 들여 살살 움직이게 했으니까 그게 바로 coax야."
-  },
-  {
-   "type": "ox",
-   "question": "강아지가 목욕을 안 하겠다고 버텨. 형은 강아지 목줄을 잡아당겨서 욕실까지 끌고 간 다음 욕조에 넣어 버렸어. 결국 강아지는 목욕을 했어. 형이 한 일은 'coax'야?",
-   "choices": [
-    "응, coax 맞아",
-    "아니, coax 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, coax 아니야",
-   "why": "맞아! 형은 목줄을 잡아당겨서 욕실까지 끌고 가 욕조에 넣어 버렸잖아. 그건 힘으로 억지로 시킨 거라서 coax가 아니야. coax는 버티는 강아지를 천천히 부드럽게 달래서 스스로 들어가게 하는 거거든."
-  },
-  {
-   "type": "choice",
-   "question": "지우가 친구를 연극 동아리에 들어오게 하고 싶어. 친구는 처음에 싫다고 했어. 지우가 친구를 'coax'한 경우는?",
-   "choices": [
-    "들어오면 시험 답을 보여 주겠다고 거짓말을 했어",
-    "동아리 소개 글을 한 번 보여 주고 그냥 끝냈어",
-    "거절해도 며칠 동안 다정하게 말 걸어 마음을 풀었어",
-    "안 들어오면 다시는 안 놀겠다고 겁을 줬어"
-   ],
-   "answer_index": 2,
-   "answer": "거절해도 며칠 동안 다정하게 말 걸어 마음을 풀었어",
-   "why": "맞아! 친구가 싫다고 해도 며칠 동안 다정하게 말 걸면서 마음을 천천히 풀었잖아. 하기 싫어하는 사람을 시간 들여 부드럽게 달래서 움직이게 하는 게 바로 coax야."
   }
  ],
  "synonyms": [
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/coax.webp",
   "alt": "병원 안 가겠다고 버티는 동생을 옆에서 달래기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

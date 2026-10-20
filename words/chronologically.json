@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/chronologically/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/chronologically/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/chronologically/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "chronologically",
  "slug": "chronologically",
  "url": "https://hibbangyong.com/words/chronologically/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, 맞아",
    "why": "맞아! 3월 2일에 빌린 책이 맨 위, 3월 9일이 그다음, 3월 15일이 맨 아래니까 먼저 빌린 것부터 날짜대로 선 거잖아. 이렇게 언제 일어났나만 보고 늘어놓은 게 바로 chronologically야."
-  },
-  {
-   "type": "ox",
-   "question": "민호가 여행 영수증 여섯 장을 봉투에서 꺼내 공책에 붙였어. 날짜를 확인하지 않고 꺼낸 대로 붙였더니 5일, 2일, 7일, 1일, 4일, 3일 순서가 됐어. 이렇게 붙인 게 'chronologically'야?",
-   "choices": [
-    "응, 맞아",
-    "아니, 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 아니야",
-   "why": "맞아! 영수증이 5일, 2일, 7일, 1일, 4일, 3일로 섞여 있어서 날짜 차례가 아니야. 꺼낸 대로 붙인 거라 chronologically가 아닌 거지. chronologically라면 1일부터 7일까지 차례대로 붙었어야 해."
-  },
-  {
-   "type": "choice",
-   "question": "수아가 반 행사 사진 20장을 앨범에 넣었어. 수아가 사진을 'chronologically' 넣었다면 어떻게 넣은 걸까?",
-   "choices": [
-    "제일 잘 나온 사진부터 덜 나온 사진 순서로 넣었어",
-    "사진 속 친구들 이름을 가나다 순서로 맞춰 넣었어",
-    "3월 입학식 사진부터 12월 사진까지 찍은 때 순서로 넣었어",
-    "순서는 신경 안 쓰고 손에 잡히는 대로 넣었어"
-   ],
-   "answer_index": 2,
-   "answer": "3월 입학식 사진부터 12월 사진까지 찍은 때 순서로 넣었어",
-   "why": "맞아! 3월 입학식 사진이 먼저 오고 12월 사진이 맨 뒤에 오잖아. 찍은 때 순서대로 넣은 거니까 바로 chronologically인 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/chronologically.webp",
   "alt": "폰 사진첩이 찍은 날짜순으로 정렬된 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

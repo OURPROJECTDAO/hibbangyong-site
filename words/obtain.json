@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/obtain/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/obtain/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/obtain/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "obtain",
  "slug": "obtain",
  "url": "https://hibbangyong.com/words/obtain/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, 맞아",
    "why": "맞아! 도장 다섯 개 모으고 줄까지 서서 네가 움직인 끝에 공이 손에 들어왔잖아. 그렇게 내 것이 된 게 바로 obtain이야."
-  },
-  {
-   "type": "ox",
-   "question": "은재는 자기 필통에 있던 지우개 하나를 짝꿍에게 건네줬고, 이제 그 지우개는 짝꿍 필통에 있어. 이게 'obtain'이야?",
-   "choices": [
-    "응, 맞아",
-    "아니, 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 아니야",
-   "why": "맞아! 은재는 지우개를 받은 게 아니라 자기 것을 내준 거잖아. 손에 들어온 게 아니라 손에서 나간 거니까 이건 obtain이 아니야."
-  },
-  {
-   "type": "choice",
-   "question": "아이 넷이 새 색연필 한 통 이야기를 했어. 이 중에서 그 색연필을 'obtain' 했다고 말할 수 있는 아이는 누구야?",
-   "choices": [
-    "문구점에 가서 모아둔 동전을 내고 그 색연필을 사 왔어",
-    "옆자리 친구가 자기 건데 쓰라며 내 책상에 놓고 갔어",
-    "문구점 세 곳을 돌았지만 그 색연필은 어디에도 없었어",
-    "작년부터 필통에 있던 그 색연필을 그냥 계속 쓰고 있어"
-   ],
-   "answer_index": 0,
-   "answer": "문구점에 가서 모아둔 동전을 내고 그 색연필을 사 왔어",
-   "why": "맞아! 동전을 모아서 문구점까지 가서 값을 내고 색연필을 손에 쥐었잖아. 네가 움직여서 새로 네 것이 됐으니까, 그게 바로 obtain이야."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/obtain.webp",
   "alt": "사물함 열쇠를 이름 적고 하루 기다려 받아 쥔 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/absorb/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/absorb/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/absorb/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "absorb",
  "slug": "absorb",
  "url": "https://hibbangyong.com/words/absorb/",
@@ -43,32 +43,6 @@
    "answer_index": 1,
    "answer": "아니, absorb 아니야",
    "why": "맞아, 이건 absorb가 아니야! 오리가 물속에 들어간 게 아니라 오히려 밖으로 퐁 튀어 나왔잖아. 물방울까지 사방으로 뿌렸으니까 안으로 들이키는 거랑은 정반대인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "교실 창가에서 화분을 돌보는 시간이야. 다음 중 'absorb'에 해당하는 건 뭐야?",
-   "choices": [
-    "나래는 화분 겉면에 나비 스티커를 하나씩 붙였어.",
-    "태오는 화분 세 개를 창가에 나란히 줄 세웠어.",
-    "지우가 부은 물은 흙 속으로 들어가 겉이 금세 말랐어.",
-    "은우는 화분 이름표에 글자를 또박또박 적었어."
-   ],
-   "answer_index": 2,
-   "answer": "지우가 부은 물은 흙 속으로 들어가 겉이 금세 말랐어.",
-   "why": "맞아! 물이 흙 속으로 쏙 들어가서 겉이 말라 버렸잖아. 밖에 있던 게 안으로 들어가 겉에선 사라진 것처럼 된 거, 그게 바로 absorb야."
-  },
-  {
-   "type": "choice",
-   "question": "비 오는 날, 현관 바닥에 물이 흥건히 고였어. 네 아이가 각자 다른 방법으로 손을 썼는데, 고인 물을 'absorb' 했다고 말할 수 있는 건 누구야?",
-   "choices": [
-    "민수는 매끈한 비닐 판을 물 위에 깔았어. 물은 판 위로 또르르 흘러 옆쪽으로 다시 퍼졌어.",
-    "하준이는 빗자루를 들고 물을 쓱쓱 밀었어. 물은 문밖으로 나가고 현관 바닥은 텅 비었어.",
-    "지호는 두꺼운 종이 상자를 물 위에 눕혀 뒀어. 조금 뒤 바닥은 말라 있고 상자가 축축해졌어.",
-    "서연이는 넓적한 나무 뚜껑을 물 위에 얹었어. 물은 그 밑에 그대로 있는데 눈에는 안 보였어."
-   ],
-   "answer_index": 2,
-   "answer": "지호는 두꺼운 종이 상자를 물 위에 눕혀 뒀어. 조금 뒤 바닥은 말라 있고 상자가 축축해졌어.",
-   "why": "맞아! 상자가 물을 쭉 들이켜서 바닥은 마르고 상자가 축축해졌잖아. 물이 그 물건 안으로 들어가 담긴 거니까 바로 그게 absorb야."
   }
  ],
  "synonyms": [
@@ -86,6 +60,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/absorb.webp",
   "alt": "체육관 매트 위로 떨어진 공이 튕기지 않고 소리도 안 나는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

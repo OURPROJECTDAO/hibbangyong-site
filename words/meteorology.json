@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/meteorology/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/meteorology/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/meteorology/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "meteorology",
  "slug": "meteorology",
  "url": "https://hibbangyong.com/words/meteorology/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, 그거 맞아",
    "why": "맞아! 눈송이는 하늘의 차가운 공기 속에서 만들어져 내리는 거잖아. 그 원리를 파고드는 게 바로 meteorology, 기상학이야."
-  },
-  {
-   "type": "ox",
-   "question": "한 과학자가 화산에서 흘러나온 용암이 식어서 어떤 돌이 되는지 연구해. 이 과학자가 하는 공부가 'meteorology'야?",
-   "choices": [
-    "응, 그거 맞아",
-    "아니, 그거 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 그거 아니야",
-   "why": "맞아! 용암이 식어서 어떤 돌이 되는지는 땅이랑 바위 쪽 공부라서, 공기랑 날씨를 파고드는 meteorology가 아닌 거야. 이 과학자는 돌을 보고 있지, 구름이나 비를 보고 있는 게 아니잖아."
-  },
-  {
-   "type": "ox",
-   "question": "아침에 휴대폰 날씨 앱에서 '오후 3시부터 소나기, 우산 챙기세요'라는 알림이 떴어. 이 알림을 보내 주는 것도 'meteorology'야?",
-   "choices": [
-    "응, meteorology 맞아",
-    "아니, meteorology 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, meteorology 아니야",
-   "why": "잘 골랐어! 휴대폰에 온 소나기 알림은 날씨를 미리 알려 주는 일일 뿐이고, meteorology는 그 알림을 보낼 수 있게 공기랑 구름, 비가 왜 생기는지 파고드는 공부 쪽이거든."
   }
  ],
  "synonyms": [],
@@ -80,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/meteorology.webp",
   "alt": "올라오는 태풍의 길을 미리 알아내는 일",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

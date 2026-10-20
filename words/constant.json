@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/constant/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/constant/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/constant/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "constant",
  "slug": "constant",
  "url": "https://hibbangyong.com/words/constant/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, 그렇게 부를 수 있어",
    "why": "맞아! 아침부터 밤까지 한순간도 안 끊기고 똑같은 소리로 위이잉— 멈추질 않잖아. 바로 그렇게 쉬지 않고 늘 똑같이 이어지니까 constant인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "쉬는 시간에 종이 딱 한 번 '땡' 울리고는 다시 조용해졌어. 이 소리를 'constant'라고 할 수 있을까?",
-   "choices": [
-    "응, 그렇게 부를 수 있어",
-    "아니, 그렇게 부르면 안 돼"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 그렇게 부르면 안 돼",
-   "why": "맞았어! 종이 딱 한 번 '땡' 울리고 끝났잖아. 한 번 하고 마는 건 쉬지 않고 늘 계속되는 게 아니라서, constant라고 부르면 안 되는 거야."
-  },
-  {
-   "type": "ox",
-   "question": "운동회 출발 신호로 '탕!' 하고 총소리가 아주 크고 세게 한 번 울렸어. 정말 우렁찼지. 이런 소리도 'constant'라고 할 수 있어?",
-   "choices": [
-    "응, 그렇게 크고 세면 'constant'라고 할 수 있어",
-    "아니, 그건 'constant'라고 할 수 없어"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 그건 'constant'라고 할 수 없어",
-   "why": "맞아! 아무리 크고 우렁차도 '탕!' 하고 한 번 울리고 끝났잖아. constant는 멈추지 않고 늘 똑같이 계속되는 거니까, 세게 한 번 운 소리는 constant가 아닌 게 맞아."
   }
  ],
  "synonyms": [
@@ -93,6 +71,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/constant.webp",
   "alt": "밤새 수도꼭지가 똑·똑·똑, 한 번도 안 멈추고 계속.",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

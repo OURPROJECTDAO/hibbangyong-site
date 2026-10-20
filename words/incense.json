@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/incense/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/incense/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/incense/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "incense",
  "slug": "incense",
  "url": "https://hibbangyong.com/words/incense/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, incense 맞아",
    "why": "맞아! 누나가 원뿔 모양 덩어리 끝에 불을 붙였더니 가는 연기가 올라오면서 방에 나무 냄새가 퍼졌잖아. 불을 붙여 태우고 연기로 좋은 냄새를 내니까, 모양이 원뿔이어도 바로 그게 incense인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "아빠가 김치 냄새가 심한 냉장고 안에 숯이 든 작은 통을 넣어 뒀어. 며칠 지나니까 냉장고 안 냄새가 싹 사라졌지. 이 통이 'incense'일까?",
-   "choices": [
-    "응, incense 맞아",
-    "아니, incense 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, incense 아니야",
-   "why": "맞아! 숯이 든 통에는 불도 안 붙이고 연기도 안 나잖아. 오히려 냉장고 안 김치 냄새를 없앴으니까, 태워서 좋은 냄새를 내는 incense랑은 하는 일이 정반대인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "봄에 공원을 걷는데 활짝 핀 라일락에서 달콤한 냄새가 바람에 실려 왔어. 이 달콤한 냄새도 'incense'라고 해?",
-   "choices": [
-    "응, incense 맞아",
-    "아니, incense 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, incense 아니야",
-   "why": "잘 골랐어! 라일락 냄새는 뭘 태워서 난 게 아니라 꽃에서 저절로 나서 바람에 실려 온 거잖아. incense는 불을 붙여 태워서 연기로 냄새를 내는 물건이라서, 이 꽃 냄새는 incense가 아니야."
   }
  ],
  "synonyms": [],
@@ -84,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/incense.webp",
   "alt": "할머니 댁 제사상 앞에서 향에 불 붙이기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

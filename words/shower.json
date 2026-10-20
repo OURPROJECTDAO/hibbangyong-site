@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/shower/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/shower/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/shower/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "shower",
  "slug": "shower",
  "url": "https://hibbangyong.com/words/shower/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, 이런 게 shower야.",
    "why": "맞아! 색종이 조각들이 위에서 사람들 머리 위로 한꺼번에 우르르 쏟아져 내렸잖아. 자잘한 게 위에서 우수수 내려오는 거, 그게 딱 shower인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 네 장면을 보고, 영어로 'a shower'라고 부르기 딱 맞는 걸 골라봐.",
-   "choices": [
-    "결혼식에서 꽃잎이 사람들 머리 위로 한꺼번에 우수수 쏟아져 내리는 것",
-    "욕조에 따뜻한 물을 가득 받아 그 안에 몸을 푹 담그고 있는 것",
-    "세면대에서 물을 조금 틀어 손이랑 얼굴만 쓱 씻는 것",
-    "양동이에 받아둔 물이 그대로 고여 가만히 있는 것"
-   ],
-   "answer_index": 0,
-   "answer": "결혼식에서 꽃잎이 사람들 머리 위로 한꺼번에 우수수 쏟아져 내리는 것",
-   "why": "맞아! 위에서 꽃잎이 사람들 머리 위로 우수수 한꺼번에 쏟아져 내렸지? 그렇게 위에서 쫙 쏟아지는 게 바로 shower야. 꽃잎이 쏟아져도 a shower of flowers라고 한다니까!"
-  },
-  {
-   "type": "ox",
-   "question": "컵에 물을 가득 따라서 책상 위에 그대로 올려두었더니 아무 일도 없이 가만히 있었어. 이게 shower야?",
-   "choices": [
-    "응, 이건 shower야.",
-    "아니, 이건 shower가 아니야."
-   ],
-   "answer_index": 1,
-   "answer": "아니, 이건 shower가 아니야.",
-   "why": "맞아! 컵에 따라둔 물은 그냥 가만히 고여만 있고 위에서 쫙 쏟아져 내리는 게 하나도 없잖아. 그러니까 이건 shower가 아닌 게 딱 맞아!"
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/shower.webp",
   "alt": "위에서 물이 비처럼 머리 위로 자잘하게 한꺼번에 우수수 쏟아져 내리는 한 장면.",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

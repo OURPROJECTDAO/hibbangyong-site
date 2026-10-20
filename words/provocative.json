@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/provocative/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/provocative/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/provocative/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "provocative",
  "slug": "provocative",
  "url": "https://hibbangyong.com/words/provocative/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, provocative 아니야",
    "why": "그렇지, provocative 아니야! '복도에서는 뛰지 맙시다'는 누구나 고개 끄덕이는 무난한 안내라서, 일부러 사람들을 건드려 들고 일어나게 하는 말이 아니거든."
-  },
-  {
-   "type": "ox",
-   "question": "학교 신문에 실린 칼럼 제목이 '교복은 전부 없애야 한다'였어. 이 제목은 'provocative'한 거야?",
-   "choices": [
-    "응, provocative 맞아",
-    "아니, provocative 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, provocative 맞아",
-   "why": "맞아! 교복을 전부 없애자는 제목을 보면 찬성하는 애, 반대하는 애가 바로 갈려서 가만있질 못하잖아. 읽는 사람을 일부러 건드려서 반응을 끌어내는 제목이니까 그게 바로 provocative인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 중 'provocative'라고 부르기 가장 알맞은 장면은?",
-   "choices": [
-    "짝이 내 그림을 보고 참지 못하고 큰 소리로 웃어 버렸어",
-    "발표 때 다들 고개만 끄덕이게 누구나 아는 얘기만 골랐어",
-    "미술 시간에 쓰레기로 만든 작품을 걸고 '이것도 예술일까?'라고 제목을 붙였어",
-    "과학 시간에 신기한 실험 영상을 틀어 줘서 다들 눈을 떼지 못했어"
-   ],
-   "answer_index": 2,
-   "answer": "미술 시간에 쓰레기로 만든 작품을 걸고 '이것도 예술일까?'라고 제목을 붙였어",
-   "why": "맞아! 쓰레기로 만든 작품에 '이것도 예술일까?'라고 붙이면 보는 사람이 그냥 못 지나가. 예술이다, 아니다 따져 보게 일부러 건드린 거라서 바로 그게 provocative야."
   }
  ],
  "synonyms": [],
@@ -91,6 +67,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/provocative.webp",
   "alt": "선생님이 칠판에 '시험은 없어져야 한다'고 써서 반이 찬반으로 들끓음",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/absurd/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/absurd/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/absurd/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "absurd",
  "slug": "absurd",
  "url": "https://hibbangyong.com/words/absurd/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, absurd 아니야",
    "why": "맞아! 공에 걸려 넘어지는 건 얼마든지 있을 수 있는 흔한 일이잖아. 앞뒤가 안 맞는 게 아니니까 그냥 웃긴 거지 absurd는 아닌 거야. 딱 잘 골랐어!"
-  },
-  {
-   "type": "ox",
-   "question": "동생이 재미로 얼굴에 스티커를 잔뜩 붙이고 유치하게 아기 목소리를 내며 놀았대. 이것도 'absurd'야?",
-   "choices": [
-    "응, absurd 맞아",
-    "아니, absurd 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, absurd 아니야",
-   "why": "맞아! 스티커 붙이고 아기 목소리 내는 건 그냥 유치하게 까부는 장난이지, 앞뒤가 안 맞는 건 아니거든. 그래서 absurd가 아닌 게 딱 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "동생이 친구들한테 들은 이야기를 옮겼어. 이 중 'absurd'가 아닌 건?",
-   "choices": [
-    "삼촌이 불을 끄려고 성냥에 새로 불을 붙였대",
-    "사촌이 받아쓰기에서 '가을'을 '가울'이라고 잘못 적어서 틀렸대",
-    "할머니가 방을 더 넓히려고 벽을 방 안쪽으로 옮겼대",
-    "형이 더 빨리 가려고 자전거 페달을 계속 뒤로만 굴렸대"
-   ],
-   "answer_index": 1,
-   "answer": "사촌이 받아쓰기에서 '가을'을 '가울'이라고 잘못 적어서 틀렸대",
-   "why": "맞아! '가을'을 '가울'로 적은 건 그냥 살짝 잘못 쓴 실수일 뿐이잖아. 앞뒤가 안 맞는 엉터리가 아니라서, 이게 바로 absurd가 아닌 거야."
   }
  ],
  "synonyms": [],
@@ -91,6 +67,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/absurd.webp",
   "alt": "물을 불로 끄라는 앞뒤 안 맞는 말(child 앵커)",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/purpose/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/purpose/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/purpose/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "purpose",
  "slug": "purpose",
  "url": "https://hibbangyong.com/words/purpose/",
@@ -45,28 +45,6 @@
    "answer_index": 1,
    "answer": "장 본 물건을 담아 나르려고 달아 둔 거야",
    "why": "맞아! 바구니를 왜 달았냐면 물건 담아서 나르려고 그런 거잖아. 달기 전부터 그걸 노리고 단 거니까, 바로 그게 purpose야."
-  },
-  {
-   "type": "ox",
-   "question": "바람이 세게 불어서 책상 위에 있던 종이가 바닥으로 떨어졌어. 종이가 떨어진 데 'purpose'가 있어?",
-   "choices": [
-    "응, purpose 있어",
-    "아니, purpose 없어"
-   ],
-   "answer_index": 1,
-   "answer": "아니, purpose 없어",
-   "why": "맞아! 바람이 불어서 그냥 떨어진 거잖아. 종이도 바람도 뭘 하려고 노린 게 아니니까, 이건 저절로 벌어진 일이야. 노린 게 없으면 purpose도 없는 거야."
-  },
-  {
-   "type": "ox",
-   "question": "수아는 아침마다 물통에 물을 채워서 가방에 넣어. 이 일에 'purpose'가 있다고 말할 수 있을까?",
-   "choices": [
-    "응, 이것도 'purpose' 있어",
-    "아니, 이건 'purpose' 없어"
-   ],
-   "answer_index": 0,
-   "answer": "응, 이것도 'purpose' 있어",
-   "why": "맞아! 물통에 물 채운 건 이따 목마를 때 마시려고 그런 거잖아. 그렇게 미리 노린 게 있으면 시시하고 매일 하는 일이라도 purpose가 있는 거야."
   }
  ],
  "synonyms": [
@@ -88,6 +66,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/purpose.webp",
   "alt": "아침에 비 맞기 싫어 우산을 챙긴 아이",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

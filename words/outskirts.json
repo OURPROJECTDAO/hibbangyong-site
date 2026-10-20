@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/outskirts/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/outskirts/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/outskirts/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "outskirts",
  "slug": "outskirts",
  "url": "https://hibbangyong.com/words/outskirts/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, outskirts 아니야",
    "why": "맞아! 서연이네 거리는 기차역, 백화점, 은행 본점이 다 모여 있고 버스도 전부 지나가는 도시의 딱 한가운데잖아. outskirts는 그 한가운데에서 가장 먼 가장자리 동네라서, 서연이네는 정반대 쪽에 있는 거야."
-  },
-  {
-   "type": "ox",
-   "question": "준호는 지하철 노선의 맨 끝 종점 근처에 살아. 거기서 조금만 더 가면 도시 경계 표지판이 나오지만, 준호네 동네는 아직 그 도시 안이야. 준호네 동네는 그 도시의 'outskirts'일까?",
-   "choices": [
-    "응, outskirts 맞아",
-    "아니, outskirts 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, outskirts 맞아",
-   "why": "맞아! 준호네 동네는 지하철 맨 끝 종점 근처라 도시 한가운데에서 제일 멀고, 경계 표지판 바로 안쪽이라 아직 도시 안이잖아. 딱 그 도시의 가장자리 동네라서 outskirts가 맞는 거야."
-  },
-  {
-   "type": "choice",
-   "question": "민지네 가족이 이사를 갔어. 새 집이 우리 도시의 'outskirts'에 있대. 민지네 새 동네는 어떤 곳일까?",
-   "choices": [
-    "시청 바로 옆에 큰 상가들이 모여 있는 도시 한복판 동네",
-    "우리 도시를 완전히 벗어나 논밭이 펼쳐진 옆 지역 시골 마을",
-    "시청까지 버스로 한참 가야 하는, 우리 도시 끝자락 동네",
-    "도시 한가운데 있는, 좁은 골목에 오래된 집들이 모인 동네"
-   ],
-   "answer_index": 2,
-   "answer": "시청까지 버스로 한참 가야 하는, 우리 도시 끝자락 동네",
-   "why": "맞아! 시청까지 버스로 한참 가야 할 만큼 한가운데에서 멀리 떨어져 있는데, 그래도 아직 우리 도시 안이잖아. 도시 끝자락이면서 도시 안인 동네, 그게 바로 outskirts야."
   }
  ],
  "synonyms": [
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/outskirts.webp",
   "alt": "지도 위 도시 한가운데(시청·상가)에서 가장자리로 나가기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

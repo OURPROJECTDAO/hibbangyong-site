@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/flash/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/flash/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/flash/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "flash",
  "slug": "flash",
  "url": "https://hibbangyong.com/words/flash/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, flash 맞아",
    "why": "맞아! 사진 찍는 그 순간에 확 밝아졌다가 눈 깜빡할 새에 사라졌잖아. 짧고 밝은 빛 한 번, 그게 바로 flash인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "극장에서 영화가 끝나자 천장 조명이 아주 천천히 조금씩 밝아져서 그대로 계속 켜져 있었어. 이게 'flash'야?",
-   "choices": [
-    "응, flash 맞아",
-    "아니, flash 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, flash 아니야",
-   "why": "맞아! 아주 천천히 조금씩 밝아진 데다가 계속 켜져 있었잖아. 이건 눈 깜빡할 새에 확 밝아졌다 바로 사라지는 게 아니라서 flash가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 가지 서로 다른 빛과 소리를 봤어. 이 중에서 'flash'라고 부를 수 있는 건 어떤 걸까?",
-   "choices": [
-    "캄캄한 밤, 갑자기 한순간 확 밝아졌다가 곧바로 사라진 빛",
-    "방 안에 오래도록 환하게 계속 켜져 있는 전등 빛",
-    "아침에 해가 뜨며 하늘이 천천히 서서히 밝아지는 빛",
-    "빛은 하나도 없이 쿵 하고 크게 울리기만 한 천둥 소리"
-   ],
-   "answer_index": 0,
-   "answer": "캄캄한 밤, 갑자기 한순간 확 밝아졌다가 곧바로 사라진 빛",
-   "why": "맞아! 캄캄하다가 한순간 확 밝아졌는데 곧바로 사라져 버렸잖아. 그 짧고 밝은 빛 딱 한 번, 그게 바로 flash인 거야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/flash.webp",
   "alt": "캄캄한 밤하늘이 갑자기 번쩍하는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

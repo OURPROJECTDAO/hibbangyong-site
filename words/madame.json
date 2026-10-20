@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/madame/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/madame/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/madame/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "madame",
  "slug": "madame",
  "url": "https://hibbangyong.com/words/madame/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, madame 맞아",
    "why": "맞아! 리옹은 프랑스어를 쓰는 곳이고, 르루아 씨는 어른 여자 손님이잖아. 그런 사람 이름 앞에 붙여서 높여 부르는 말이 바로 madame이야."
-  },
-  {
-   "type": "ox",
-   "question": "벨기에 브뤼셀의 기차역이야. 역무원이 표를 떨어뜨린 어른 남자 승객을 부르면서 높임 호칭을 썼어. 이 호칭이 'madame'이야?",
-   "choices": [
-    "응, madame 맞아",
-    "아니, madame 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, madame 아니야",
-   "why": "잘 골랐어! 역무원이 부른 사람은 어른 남자 승객이잖아. madame은 어른 여자를 높여 부를 때 쓰는 말이라서, 남자 승객한테는 monsieur라고 불러야 해."
-  },
-  {
-   "type": "choice",
-   "question": "여러 곳에서 누군가를 부르거나 적는 상황이야. 이 중에서 'madame'을 쓰기에 가장 알맞은 때는?",
-   "choices": [
-    "파리 호텔에서 직원이 이름 모르는 어른 남자 손님을 부를 때",
-    "몬트리올 호텔에서 직원이 이름 모르는 어른 여자 손님을 부를 때",
-    "파리 공원에서 할머니가 이름 모르는 다섯 살 여자아이를 부를 때",
-    "파리 가게에서 직원이 명함에 여자 사장이라는 직책을 적을 때"
-   ],
-   "answer_index": 1,
-   "answer": "몬트리올 호텔에서 직원이 이름 모르는 어른 여자 손님을 부를 때",
-   "why": "맞아! 몬트리올도 프랑스어를 쓰는 도시라서, 호텔 직원이 이름 모르는 어른 여자 손님을 높여 부를 때 딱 madame이라고 해. 프랑스가 아니어도 프랑스어를 쓰는 곳이면 똑같이 쓰는 거야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/madame.webp",
   "alt": "퀴리 부인을 프랑스식으로 부르는 이름",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

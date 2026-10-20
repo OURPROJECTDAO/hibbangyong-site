@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/incur/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/incur/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/incur/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "incur",
  "slug": "incur",
  "url": "https://hibbangyong.com/words/incur/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, incur한 거 맞아",
    "why": "맞아! 지수가 책을 2주 늦게 반납한 게 지수가 한 일이고, 그 일 때문에 연체료 3천 원을 내게 됐잖아. 내가 한 일 때문에 비용을 떠안은 거니까 바로 그게 incur인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "태민이가 휴대폰 데이터를 다 쓰기 직전에 와이파이로 바꿔서, 추가 요금을 한 푼도 안 내게 됐어. 태민이가 추가 요금을 'incur'한 걸까?",
-   "choices": [
-    "응, incur한 거 맞아",
-    "아니, incur한 거 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, incur한 거 아니야",
-   "why": "맞아! 태민이는 데이터를 다 쓰기 직전에 와이파이로 바꿔서 추가 요금을 한 푼도 안 냈잖아. 부담을 떠안은 게 아니라 피해 간 거니까 incur가 아닌 게 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "민수에게 일어난 일 네 가지야. 이 중에서 민수가 무언가를 'incur'했다고 말할 수 있는 건?",
-   "choices": [
-    "친구들이랑 캠프에 가기로 해서 버스비랑 숙박비를 내게 됐어",
-    "수업 중에 장난을 쳤는데 옆에 있던 짝꿍이 대신 혼났어",
-    "옆집 공사 때문에 민수네 창문이 깨져서 수리비가 나왔어",
-    "공을 차다 창문을 깼는데 주인 아저씨가 수리비를 안 받으셨어"
-   ],
-   "answer_index": 0,
-   "answer": "친구들이랑 캠프에 가기로 해서 버스비랑 숙박비를 내게 됐어",
-   "why": "맞아! 캠프에 가기로 한 건 민수가 고른 일이고, 그 일 때문에 버스비랑 숙박비를 민수가 떠안게 됐잖아. 잘못한 게 없어도 내가 한 일의 비용이 나한테 얹히면 그게 incur야."
   }
  ],
  "synonyms": [

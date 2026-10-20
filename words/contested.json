@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/contested/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/contested/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/contested/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "contested",
  "slug": "contested",
  "url": "https://hibbangyong.com/words/contested/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, contested 맞아",
    "why": "맞아! 누가 1등인지 아직 정리가 안 됐고, 두 팀이 서로 자기 선수가 1등이라고 맞서고 있잖아. 이렇게 결론이 안 난 채로 다투는 중인 게 바로 contested야."
-  },
-  {
-   "type": "ox",
-   "question": "반 친구들이 소풍 장소를 정했어. 투표에서 모두가 놀이공원에 손을 들어서 소풍 장소가 놀이공원으로 확정됐어. 이 소풍 장소 결정은 'contested'야?",
-   "choices": [
-    "응, contested 맞아",
-    "아니, contested 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, contested 아니야",
-   "why": "맞아! 반 친구들 모두가 놀이공원에 손을 들어서 소풍 장소가 이미 확정됐잖아. 반대하는 사람 없이 끝난 결정이니까 contested가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "어떤 과학자가 새 주장을 발표했어. 그 주장을 'contested'라고 부를 수 있는 건 언제일까?",
-   "choices": [
-    "학자들 의견이 반으로 갈려서 아직 결론이 안 났을 때",
-    "실험에서 틀린 걸로 밝혀져서 학자들이 모두 버렸을 때",
-    "학자들이 모두 맞다고 인정해서 교과서에 실렸을 때",
-    "뉴스에 자주 나와서 사람들이 모두 그 주장을 알 때"
-   ],
-   "answer_index": 0,
-   "answer": "학자들 의견이 반으로 갈려서 아직 결론이 안 났을 때",
-   "why": "맞아! 학자들 의견이 반으로 갈려서 아직 결론이 안 났으니까, 그 주장은 지금 맞는지 아닌지 다투는 중이잖아. 바로 그게 contested야."
   }
  ],
  "synonyms": [],
@@ -93,6 +69,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/contested.webp",
   "alt": "축구 경기 골 판정에 상대 팀이 오프사이드라며 항의함",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

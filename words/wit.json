@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/wit/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/wit/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/wit/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "wit",
  "slug": "wit",
  "url": "https://hibbangyong.com/words/wit/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, wit 맞아",
    "why": "맞아! 지호는 선생님이 수수께끼를 툭 던지자마자 머뭇거리지 않고 그 자리에서 똑똑하고 재미있는 말로 받아쳤잖아. 이렇게 머리가 빨리 돌아서 바로 멋진 말이 나오는 게 wit인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "쉬는 시간에 친구가 재미난 질문을 툭 던졌는데, 민수는 아무 말도 못 떠올리고 멍하니 한참을 가만히 있기만 했어. 이게 'wit'야?",
-   "choices": [
-    "응, wit 맞아",
-    "아니, wit 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, wit 아니야",
-   "why": "맞아! 멍하니 아무 말도 못 하고 가만히 있었잖아. 그건 머리가 번쩍 돌아가는 거랑 정반대라서, 이건 wit가 아닌 거야. wit는 그 자리에서 척 하고 똑똑한 말이 튀어나오는 거거든."
-  },
-  {
-   "type": "ox",
-   "question": "쉬는 시간에 우진이가 우스꽝스러운 표정을 짓고 엉덩이춤을 춰서 반 친구들을 다 웃겼어. 딱히 똑똑한 말은 없었지. 이것도 'wit'라고 할 수 있을까?",
-   "choices": [
-    "응, 'wit' 맞아",
-    "아니, 'wit' 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 'wit' 아니야",
-   "why": "맞아! 우진이는 그냥 웃긴 표정이랑 춤으로 웃긴 거지, 머리가 번쩍 돌아서 똑똑한 말을 척 한 건 아니잖아. wit는 그 자리에서 재빠르게 똑똑한 게 담겨야 하니까, 이건 아니라고 한 네가 딱 맞았어."
   }
  ],
  "synonyms": [
@@ -94,6 +72,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/wit.webp",
   "alt": "곤란한 질문을 그 자리에서 똑똑한 말로 척 받아치는 아이",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

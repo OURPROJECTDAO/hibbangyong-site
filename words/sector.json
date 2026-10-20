@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/sector/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/sector/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/sector/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "sector",
  "slug": "sector",
  "url": "https://hibbangyong.com/words/sector/",
@@ -45,28 +45,6 @@
    "answer_index": 0,
    "answer": "축구장 관중석을 A·B·C로 나눈 것 중 'A쪽'이야.",
    "why": "맞아! 큰 관중석을 A쪽·B쪽·C쪽으로 갈래갈래 나눴잖아. 그중에 한 칸인 'A쪽', 바로 그게 sector인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "자전거를 분해했더니 몸통에서 떼어낸 부품 하나가 나왔어. 이 부품 한 개를 'sector'라고 부를 수 있어?",
-   "choices": [
-    "응, 'sector' 맞아",
-    "아니, 'sector' 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 'sector' 아니야",
-   "why": "딩동댕! 맞았어. sector는 큰 걸 여러 갈래로 딱딱 나눈 그중 한 칸이거든. 자전거에서 떼어낸 부품 하나는 그냥 물건 조각일 뿐이니까, sector라고 부를 수 없는 게 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "동생이 '나는 그림 그리는 게 제일 좋아' 하고 자기가 혼자 즐기는 취미 활동 하나를 말했어. 이 활동 자체를 'sector'라고 부를 수 있어?",
-   "choices": [
-    "응, 'sector' 맞아",
-    "아니, 'sector' 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 'sector' 아니야",
-   "why": "맞아! sector는 산업이나 경제를 큰 갈래로 딱딱 나눈 한 칸을 말하는 거거든. 혼자 그림 그리는 취미 하나는 그런 갈래 한 칸이 아니라서, 바로 '아니야'가 맞는 거야."
   }
  ],
  "synonyms": [
@@ -98,6 +76,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/sector.webp",
   "alt": "큰 주차장을 A·B·C 칸으로 나눈 한 구역 (child 앵커)",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

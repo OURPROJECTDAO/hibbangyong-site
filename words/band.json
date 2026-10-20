@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/band/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/band/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/band/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "band",
  "slug": "band",
  "url": "https://hibbangyong.com/words/band/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, band 맞아",
    "why": "맞아! 연필을 빙 두른 초록색 줄 하나, 딱 좁고 길게 쭉 이어진 한 줄이지? 감싸고 있든 그냥 그어져 있든 그렇게 한 줄이면 그게 band인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "마당 바닥에 마른 낙엽 조각이 여기저기 떨어져 있어. 이게 'band'야?",
-   "choices": [
-    "응, band 맞아",
-    "아니, band 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, band 아니야",
-   "why": "맞아! 낙엽 조각들은 여기저기 흩어진 점 같은 거지, 좁고 길게 쭉 이어진 한 줄이 아니거든. 그래서 band가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 가지 물건을 봤어. 이 중에서 'band'라고 부를 수 있는 건 뭘까?",
-   "choices": [
-    "물병 허리를 빙 둘러 감은 초록 줄무늬",
-    "무릎에 붙인 네모난 반창고 한 장",
-    "공책 표지 가운데 크게 그린 노란 별 하나",
-    "종이에 점점이 찍힌 빨간 점 여러 개"
-   ],
-   "answer_index": 0,
-   "answer": "물병 허리를 빙 둘러 감은 초록 줄무늬",
-   "why": "맞아! 물병 허리를 빙 둘러 감은 초록 줄무늬는 좁고 길게 쭉 이어져서 한 바퀴 돌잖아. 그렇게 이어진 한 줄이 바로 band인 거야."
   }
  ],
  "synonyms": [
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/band.webp",
   "alt": "하얀 티셔츠 앞면에 가로로 쭉 그어진 파란 줄",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

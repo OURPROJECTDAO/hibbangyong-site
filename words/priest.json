@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/priest/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/priest/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/priest/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "priest",
  "slug": "priest",
  "url": "https://hibbangyong.com/words/priest/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, priest 맞아",
    "why": "맞아! 사람들이 둘러앉았을 때 이 사람은 앞으로 나와서 촛불을 켜고 모두의 기도를 이끌었잖아. 사람들 앞에 서서 기도를 이끄는 사람, 바로 그게 priest인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "성당 옆 골목에서 한 사람이 사다리에 올라가 깨진 유리창을 새것으로 갈아 끼우고 있었어. 이 사람이 'priest'야?",
-   "choices": [
-    "응, priest 맞아",
-    "아니, priest 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, priest 아니야",
-   "why": "맞아! 이 사람은 사다리에 올라가서 깨진 유리창을 새것으로 갈아 끼우고 있었지? 기도를 이끄는 게 아니라 유리창을 고치는 일을 하고 있으니까, priest가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "아주 옛날 어느 마을 신전에서 큰 제사가 열렸어. 네 사람이 그날 거기서 한 일이야. 이 중에 'priest'는 누구일까?",
-   "choices": [
-    "제단 앞에 서서 순서를 이끌며 기도를 올린 사람",
-    "뒤쪽에 서서 따라 절을 하며 소원을 빈 사람",
-    "신전 계단을 쓸고 문을 여닫으며 지킨 사람",
-    "밖에서 음식을 팔며 사람들을 구경한 사람"
-   ],
-   "answer_index": 0,
-   "answer": "제단 앞에 서서 순서를 이끌며 기도를 올린 사람",
-   "why": "맞아! 이 사람은 제사 자리 맨 앞에 서서 순서를 이끌고, 다 같이 드리는 기도를 올렸잖아. 제사를 맡아서 이끄는 사람, 바로 그게 priest인 거야."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/priest.webp",
   "alt": "사람들이 모여 기도할 때 맨 앞에서 이끄는 자리",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

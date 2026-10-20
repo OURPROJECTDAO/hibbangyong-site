@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/whereas/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/whereas/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/whereas/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "whereas",
  "slug": "whereas",
  "url": "https://hibbangyong.com/words/whereas/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, 맞아",
    "why": "맞아! 우리 집 고양이는 자고, 옆집 고양이는 뛰어다니고, 둘을 나란히 세워 놓고 어디가 다른지 보여 주는 거잖아. 그게 딱 whereas 자리야."
-  },
-  {
-   "type": "ox",
-   "question": "물을 안 줘서 화분의 꽃이 시들었어. 이 두 부분을 잇는 자리에 'whereas'를 쓰면 맞아?",
-   "choices": [
-    "응, 맞아",
-    "아니, 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 아니야",
-   "why": "맞아! 물을 안 줘서 시들었다는 건 앞의 일 때문에 뒤의 일이 생긴 거잖아. 이렇게 이어지는 자리에는 반면에가 안 어울려. 반면에는 두 가지를 나란히 놓고 어디가 다른지 대볼 때 쓰거든."
-  },
-  {
-   "type": "ox",
-   "question": "지호가 이렇게 말했어. '나는 방을 구석구석 치웠어. 그런데도 엄마는 알아채지 못했어.' 이런 경우도 'whereas'야?",
-   "choices": [
-    "응, 'whereas' 맞아",
-    "아니, 'whereas' 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 'whereas' 아니야",
-   "why": "맞아, 이건 whereas가 아니야. 방을 치운 거랑 엄마가 못 알아챈 건 나란히 놓고 다른 점을 대보는 게 아니라, 치웠으니 알아볼 줄 알았는데 뒤집힌 거거든. 이렇게 기대를 뒤엎는 자리는 whereas가 아니야."
   }
  ],
  "synonyms": [],
@@ -87,6 +65,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/whereas.webp",
   "alt": "나란히 놓인 장난감 상자 두 개(왼쪽은 꽉 참·오른쪽은 텅 빔)",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

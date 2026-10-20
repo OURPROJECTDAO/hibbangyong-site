@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/formula/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/formula/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/formula/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "formula",
  "slug": "formula",
  "url": "https://hibbangyong.com/words/formula/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, formula 맞아",
    "why": "맞아! 팔 돌리기 열 번, 무릎 굽히기 다섯 번, 제자리 뛰기 스무 번 — 뭘 몇 번 어떤 순서로 할지 딱 박아놨잖아. 그 종이대로만 하면 누가 하든 언제 하든 늘 똑같은 준비운동이 나오니까 바로 그게 formula인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "동생이 잡채를 만드는데, 오늘은 당근을 넣고 내일은 빼고, 간장도 그날 손이 가는 만큼 부어. 이게 'formula'야?",
-   "choices": [
-    "응, formula 맞아",
-    "아니, formula 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, formula 아니야",
-   "why": "맞아! 오늘은 당근 넣고 내일은 빼고, 간장도 그날 손 가는 대로 부으면 매번 다른 잡채가 나오잖아. 늘 같은 게 나오게 딱 정해둔 게 아니니까 formula가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 종이비행기를 접었어. 'formula'가 있는 아이는 누구일까?",
-   "choices": [
-    "민아는 칠판에 적힌 접는 순서 그대로만 접어서, 누가 접어도 똑같이 멀리 잘 나는 비행기가 나와.",
-    "지호는 그날 마음 가는 대로 접어서, 접을 때마다 모양도 나는 것도 매번 달라져.",
-    "준이는 처음 보는 종이를 이리저리 접어 보면서 뭐가 나올지 궁금해하고 있어.",
-    "은서는 남이 접은 비행기를 받아서 잘 나는지 못 나는지 봐주기만 하고 있어."
-   ],
-   "answer_index": 0,
-   "answer": "민아는 칠판에 적힌 접는 순서 그대로만 접어서, 누가 접어도 똑같이 멀리 잘 나는 비행기가 나와.",
-   "why": "맞아! 민아는 칠판에 적힌 접는 순서 그대로만 접으니까, 누가 접어도 똑같이 잘 나는 비행기가 나오잖아. 그대로만 하면 늘 같은 게 나오게 정해둔 접는 순서, 바로 그게 formula인 거야."
   }
  ],
  "synonyms": [
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/formula.webp",
   "alt": "파랑 두 방울·노랑 한 방울로 늘 같은 초록이 나오는 물감 배합(앵커이자 example 장면)",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

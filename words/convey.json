@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/convey/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/convey/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/convey/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "convey",
  "slug": "convey",
  "url": "https://hibbangyong.com/words/convey/",
@@ -43,19 +43,6 @@
    "answer_index": 0,
    "answer": "응, convey 맞아",
    "why": "맞아! 동생이 입은 꾹 다물었지만, 깨진 조각이랑 형 얼굴을 번갈아 본 그 눈빛으로 무슨 일인지가 형한테 쏙 건너간 거잖아. 소리를 냈냐가 중요한 게 아니라 상대한테 닿았냐가 중요한 거야. 그래서 바로 그게 전한 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 방금 자기가 한 일을 말했어. 이 중에서 'convey'를 한 아이는 누구일까?",
-   "choices": [
-    "지호는 입도 안 열고 고개만 천천히 저었는데, 옆에 있던 친구가 안 된다는 뜻을 알아챘어.",
-    "민수는 방문을 닫고 혼자 슬픈 노래를 크게 불렀는데, 그 소리를 들은 사람이 아무도 없었어.",
-    "수아는 옆집 앞에 택배 상자를 내려놓고 초인종만 한 번 누르고 그냥 돌아왔어.",
-    "하준이는 속으로 무서웠지만 들키기 싫어서 끝까지 웃는 얼굴을 하고 꾹 참았어."
-   ],
-   "answer_index": 0,
-   "answer": "지호는 입도 안 열고 고개만 천천히 저었는데, 옆에 있던 친구가 안 된다는 뜻을 알아챘어.",
-   "why": "맞아! 지호는 입도 안 열었는데 안 된다는 마음이 친구한테 그대로 건너가서 닿았잖아. 소리를 냈냐가 아니라 상대한테 가서 닿았냐, 바로 그게 convey인 거야."
   }
  ],
  "synonyms": [],
@@ -69,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/convey.webp",
   "alt": "아무 말 없이 들어온 형에게서 시험 망친 게 그대로 건너온 순간",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

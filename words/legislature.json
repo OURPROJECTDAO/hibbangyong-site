@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/legislature/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/legislature/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/legislature/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "legislature",
  "slug": "legislature",
  "url": "https://hibbangyong.com/words/legislature/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, legislature 맞아",
    "why": "맞아! 국민이 뽑은 대표들이 한자리에 모여서 투표로 16세 미만은 SNS 계정을 못 만든다는 법을 새로 만들었잖아. 뽑힌 대표들이 모여 법을 만드는 모임, 그게 바로 legislature야."
-  },
-  {
-   "type": "ox",
-   "question": "시청 공무원들이 이미 정해진 법에 적힌 그대로 동네 곳곳에 '쓰레기 분리배출 요일' 안내문을 붙이고 다녔어. 이 공무원들은 'legislature'야?",
-   "choices": [
-    "응, legislature 맞아",
-    "아니, legislature 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, legislature 아니야",
-   "why": "맞아! 이 공무원들은 이미 정해진 법에 적힌 그대로 안내문을 붙이고 다녔을 뿐이잖아. 법을 새로 만들거나 고친 게 아니니까 legislature가 아닌 거지. legislature는 대표들이 모여 법을 만들고 고치는 쪽이야."
-  },
-  {
-   "type": "choice",
-   "question": "오늘 뉴스에 나온 네 장면이야. 이 중에서 'legislature'가 한 일은 어느 거야?",
-   "choices": [
-    "의원들이 모여서 투표로 학교폭력에 관한 법을 새로 고쳤다",
-    "대통령과 장관들이 이미 정해진 법에 따라 나라 예산을 나눠 썼다",
-    "판사가 법을 어긴 사람에게 벌금을 내라고 판결을 내렸다",
-    "경찰이 새로 바뀐 법대로 거리에서 운전자들을 단속했다"
-   ],
-   "answer_index": 0,
-   "answer": "의원들이 모여서 투표로 학교폭력에 관한 법을 새로 고쳤다",
-   "why": "맞아! 의원들이 모여서 투표로 학교폭력에 관한 법을 고쳤잖아. 이렇게 법을 새로 만들고 고치는 곳이 바로 legislature야."
   }
  ],
  "synonyms": [
@@ -94,6 +70,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/legislature.webp",
   "alt": "학생회가 회의로 학교 규칙을 바꾸는 장면(비유)",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

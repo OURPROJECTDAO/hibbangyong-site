@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/sociology/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/sociology/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/sociology/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "sociology",
  "slug": "sociology",
  "url": "https://hibbangyong.com/words/sociology/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, sociology 맞아",
    "why": "맞아! 엘리베이터에 탄 한 사람 속마음을 보는 게 아니라, 아파트 사람들이 여럿 모이면 다들 말없이 문 쪽만 보고 서는 그 모양을 캐고 있잖아. 그래서 바로 그게 sociology인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "어떤 사람이 눈 오는 날마다 혼자 사는 할머니 집 앞의 눈을 삽으로 치워 드리고 있어. 이게 'sociology'야?",
-   "choices": [
-    "응, sociology 맞아",
-    "아니, sociology 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, sociology 아니야",
-   "why": "그래, 이건 sociology가 아니야. 눈을 치워 드리는 건 몸으로 직접 돕는 일이거든. sociology는 사람들이 모여 살면 왜 그런 모양이 생기는지 캐는 공부라서, 돕는 일이랑은 달라."
-  },
-  {
-   "type": "ox",
-   "question": "연우는 짝꿍 한 명만 붙잡고 여러 날 물어봤어. 그 애가 시험 전날마다 왜 배가 아파지는지, 그 애 마음속에서 무슨 일이 벌어지는지만 알고 싶었거든. 다른 아이들은 안 물어봤어. 이런 것도 'sociology'야?",
-   "choices": [
-    "응, sociology 맞아",
-    "아니, sociology 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, sociology 아니야",
-   "why": "맞아, 이건 sociology가 아니야. 연우는 짝꿍 한 명 마음속에서 무슨 일이 벌어지는지만 알고 싶었잖아. 사람들이 모여 있을 때 생기는 모양을 캔 게 아니라 한 사람 속을 들여다본 거라서, 그건 다른 공부야."
   }
  ],
  "synonyms": [],
@@ -86,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/sociology.webp",
   "alt": "아무도 안 정해 줬는데 늘 같은 자리끼리 뭉쳐 앉는 교실",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

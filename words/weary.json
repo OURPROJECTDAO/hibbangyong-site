@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/weary/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/weary/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/weary/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "weary",
  "slug": "weary",
  "url": "https://hibbangyong.com/words/weary/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, weary 아니야",
    "why": "맞아! 계주 1등 하고 두 팔 번쩍 들고 소리 지르며 운동장을 뛰어다니는 건 기운이 넘치는 거라서, 기운이 다 빠진 weary랑은 정반대인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "형은 한 달째 매일 새벽 5시에 일어나 신문 배달을 해. 오늘 아침에도 자전거에 올라탔는데, 다리도 마음도 무겁기만 해. 이런 형의 상태가 'weary'야?",
-   "choices": [
-    "응, weary 맞아",
-    "아니, weary 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, weary 맞아",
-   "why": "맞아! 형은 한 달째 매일 새벽 5시에 일어나서 신문 배달을 했잖아. 같은 일이 오래 이어져서 다리도 마음도 무거워진 거니까 딱 weary야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구의 오늘 상태야. 'weary'에 가장 잘 맞는 친구는?",
-   "choices": [
-    "지수: 한 달째 매일 밤 동생을 돌보느라 이제 말할 기운도 없어",
-    "민호: 새로 산 게임을 처음 켜서 밤새 하고 싶어 안달이 났어",
-    "서연: 체육 시간에 100미터를 한 번 달리고 잠깐 숨이 찼어",
-    "준우: 동생이 내 과자를 몰래 먹어서 화가 머리끝까지 났어"
-   ],
-   "answer_index": 0,
-   "answer": "지수: 한 달째 매일 밤 동생을 돌보느라 이제 말할 기운도 없어",
-   "why": "맞아! 한 달째 매일 밤 동생을 돌보는 일이 길게 이어지다 보니 이제 말할 기운까지 다 빠진 거잖아. 오래 해서 몸도 마음도 기운이 닳아 없어진 상태, 그게 바로 weary야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/weary.webp",
   "alt": "2주째 이어지는 시험 기간에 문제집 펴기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

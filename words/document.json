@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/document/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/document/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/document/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "document",
  "slug": "document",
  "url": "https://hibbangyong.com/words/document/",
@@ -45,32 +45,6 @@
    "answer_index": 1,
    "answer": "회의에서 정한 내용이 적혀 있는 컴퓨터 파일",
    "why": "맞아! 회의에서 정한 내용이 글로 적혀 있는 파일이잖아. 무슨 일이 있었는지 적어서 남겨 둔 거, 바로 그게 document인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "여러 가지가 책상에 놓여 있어. 이 중에서 'document'라고 부를 수 있는 건 뭘까?",
-   "choices": [
-    "학급 규칙이 줄줄이 적혀 있는 종이",
-    "아무것도 안 적힌 새 종이",
-    "재미로 지어낸 그림 동화책",
-    "친구한테 말로만 알려 준 이야기"
-   ],
-   "answer_index": 0,
-   "answer": "학급 규칙이 줄줄이 적혀 있는 종이",
-   "why": "맞아! 학급 규칙이 줄줄이 적힌 그 종이는, 무슨 내용인지 알려 주려고 적어 둔 거잖아. 그렇게 내용이 적혀 있어서 바로 그게 document인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "이 중에서 'document'에 해당하는(맞는) 것은 뭘까?",
-   "choices": [
-    "친구가 입으로만 들려준 옛날이야기",
-    "데굴데굴 굴러가는 동그란 축구공",
-    "무엇을 하면 되는지 적어 둔 안내문 종이",
-    "폴짝폴짝 뛰는 줄넘기"
-   ],
-   "answer_index": 2,
-   "answer": "무엇을 하면 되는지 적어 둔 안내문 종이",
-   "why": "맞아! 무엇을 하면 되는지 글로 적어 둔 안내문이니까, 종이에 내용이 딱 적혀 있잖아. 그래서 바로 그게 document인 거야."
   }
  ],
  "synonyms": [],
@@ -89,6 +63,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/document.webp",
   "alt": "글자(내용)가 가득 적힌 종이 한 장 — 알려 주려고 적어 둔 것.",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

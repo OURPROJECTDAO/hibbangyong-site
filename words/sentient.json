@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/sentient/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/sentient/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/sentient/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "sentient",
  "slug": "sentient",
  "url": "https://hibbangyong.com/words/sentient/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, sentient 맞아",
    "why": "맞아! 고양이 울음소리에 무서워서 톱밥 속으로 파고들어 덜덜 떠는 건, 햄스터가 무서움을 속으로 느낀다는 거야. 그렇게 스스로 느낄 줄 알면 바로 sentient인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "영화에 로봇 네 대가 나와. 이 중에서 'sentient'해졌다고 말할 수 있는 로봇은 누구야?",
-   "choices": [
-    "체스 세계 챔피언을 이겨 버린 로봇",
-    "친구 로봇이 부서지자 혼자 속상해하는 로봇",
-    "망가진 팔을 스스로 고쳐 끼우는 로봇",
-    "사람 목소리를 듣자마자 바로 대답하는 로봇"
-   ],
-   "answer_index": 1,
-   "answer": "친구 로봇이 부서지자 혼자 속상해하는 로봇",
-   "why": "맞아! 친구 로봇이 부서진 걸 보고 혼자 속상해한다는 건, 그 슬픔을 속으로 느끼고 있다는 거야. 이렇게 속으로 느낄 줄 알게 된 로봇한테 sentient해졌다고 하는 거지."
-  },
-  {
-   "type": "ox",
-   "question": "휴대폰 계산기 앱은 아주 어려운 곱셈도 사람보다 훨씬 빨리, 한 번도 안 틀리고 풀어. 이런 경우도 'sentient'야?",
-   "choices": [
-    "응, sentient 맞아",
-    "아니, sentient 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, sentient 아니야",
-   "why": "맞아! 계산기 앱은 곱셈을 사람보다 빨리, 한 번도 안 틀리고 풀지만, 속으로 아프거나 기쁘거나 무서운 건 하나도 못 느껴. sentient는 계산을 잘하는 게 아니라 안에서 느낄 줄 아는 거라서 아니라고 하는 게 맞아."
   }
  ],
  "synonyms": [],

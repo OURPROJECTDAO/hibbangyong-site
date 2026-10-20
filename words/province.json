@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/province/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/province/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/province/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "province",
  "slug": "province",
  "url": "https://hibbangyong.com/words/province/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, province야.",
    "why": "맞아! 강원도는 한국이라는 큰 나라를 큰 칸 몇 개로 쭉 나눠 놓은 것 중 한 칸이잖아. 도시 하나보단 훨씬 크고 나라 전체는 아니니까, 바로 그게 province인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "지도에서 '중국' 나라 땅을 처음부터 끝까지 통째로 다 칠했어. 이게 'province'야?",
-   "choices": [
-    "응, province야.",
-    "아니, province 아니야."
-   ],
-   "answer_index": 1,
-   "answer": "아니, province 아니야.",
-   "why": "맞아! 나라를 통째로 다 칠한 건 나라 전체지, 큰 칸 하나가 아니거든. 그래서 그건 province가 아니라고 한 네가 딱 맞았어. province는 나라 안의 큰 칸 하나야."
-  },
-  {
-   "type": "choice",
-   "question": "친구가 사는 땅이 'province' 하나래. 아래 넷 중 그 친구가 사는 곳은 어디일까?",
-   "choices": [
-    "이웃집 몇 채와 작은 가게 하나가 전부인 골목이야.",
-    "도시도 여러 개, 마을도 잔뜩 들어찬 아주 넓은 땅이야.",
-    "국경까지 닿는, 나라 땅을 통째로 다 합친 거야.",
-    "트랙터가 도는 논밭과 농가 몇 채만 있는 시골이야."
-   ],
-   "answer_index": 1,
-   "answer": "도시도 여러 개, 마을도 잔뜩 들어찬 아주 넓은 땅이야.",
-   "why": "맞아! 도시도 여러 개, 마을도 잔뜩 들어찬 그런 넓은 땅이 바로 province거든. 도시 하나보다 훨씬 크고, 그래도 나라 전체는 아닌 딱 그 큰 칸인 거야."
   }
  ],
  "synonyms": [
@@ -84,6 +60,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/province.webp",
   "alt": "나라를 큰 칸 몇 개로 쪼갠 것 중 한 칸(도시보다 큼·나라보단 작음).",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

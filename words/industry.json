@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/industry/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/industry/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/industry/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "industry",
  "slug": "industry",
  "url": "https://hibbangyong.com/words/industry/",
@@ -45,30 +45,6 @@
    "answer_index": 0,
    "answer": "빵을 구워서 파는 회사들을 나라 안에서 전부 묶은 것",
    "why": "맞아! 빵 만드는 회사가 한 군데가 아니라 나라 안에 잔뜩 있잖아. 그 회사들을 통째로 한 덩어리로 묶은 게 바로 industry인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 넷은 전부 '자전거와 관련된 걸 다 묶은 것'이야. 이 중에서 'industry'라고 부를 수 있는 건 어느 거야?",
-   "choices": [
-    "자전거를 만들어 파는 회사들이 나라에 아주 많은데, 그 회사들을 다 묶은 것",
-    "자전거 가게에 쭉 세워 둔 새 자전거들을 다 묶은 것",
-    "자전거를 타고 소풍 나온 아이들을 다 묶은 것",
-    "자전거의 바퀴랑 안장이랑 페달 같은 부품들을 다 묶은 것"
-   ],
-   "answer_index": 0,
-   "answer": "자전거를 만들어 파는 회사들이 나라에 아주 많은데, 그 회사들을 다 묶은 것",
-   "why": "맞아! 자전거를 만들어 파는 회사가 나라에 아주 많잖아, 그 회사들을 통째로 한 덩어리로 묶은 게 바로 industry인 거야. 회사들의 묶음, 그게 핵심이야."
-  },
-  {
-   "type": "ox",
-   "question": "어느 건물 안에 빵집 하나, 신발 고치는 가게 하나, 머리 깎는 가게 하나가 제각각 다른 일을 하며 나란히 있어. 이 세 가게를 묶은 걸 'industry'라고 해?",
-   "choices": [
-    "응, industry 맞아",
-    "아니, industry 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, industry 아니야",
-   "why": "맞아! 빵 굽는 곳, 신발 고치는 곳, 머리 깎는 곳은 하는 일이 다 다르잖아. 그냥 옆에 붙어 있다고 한 무리가 되는 게 아니라서 이건 industry가 아닌 거야."
   }
  ],
  "synonyms": [],
@@ -90,6 +66,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/industry.webp",
   "alt": "장난감 만드는 회사가 세상에 수백 개인 상황 (child 앵커)",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

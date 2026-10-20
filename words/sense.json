@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/sense/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/sense/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/sense/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "sense",
  "slug": "sense",
  "url": "https://hibbangyong.com/words/sense/",
@@ -43,32 +43,6 @@
    "answer_index": 0,
    "answer": "응, 그건 sense야",
    "why": "맞아! 발로 바닥이 울리는 걸 느끼고 누가 오는 줄 탁 알아챘잖아. 그게 바로 몸으로 느껴서 아는 거라, 딱 sense인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "민지가 한 일들이야. 이 중에서 'sense'를 쓴 건 어느 때일까?",
-   "choices": [
-    "슬픈 노래를 듣고 주룩주룩 눈물을 흘렸어.",
-    "사탕을 하나하나 세어서 몇 개인지 알아냈어.",
-    "부엌에서 매캐한 냄새가 나자 '뭐 타나 봐!' 했어.",
-    "게임에 푹 빠져서 엄마가 부르는 줄도 몰랐어."
-   ],
-   "answer_index": 2,
-   "answer": "부엌에서 매캐한 냄새가 나자 '뭐 타나 봐!' 했어.",
-   "why": "맞아! 코로 매캐한 냄새를 딱 맡고 '뭐 타나 봐!' 하고 바로 알아챈 거잖아. 몸으로 느껴서 안 거, 그게 바로 sense야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각각 한 일이야. 이 중에서 'sense'를 쓴 사람은 누구일까?",
-   "choices": [
-    "어두운 방에 들어서자 누가 있는 것 같아 멈칫했어.",
-    "옆에서 친구가 인사했는데 딴생각하느라 못 듣고 지나갔어.",
-    "모기가 발을 물었는데 한참 동안 전혀 몰랐어.",
-    "뒤에서 이름을 불렀지만 이어폰 때문에 못 알아챘어."
-   ],
-   "answer_index": 0,
-   "answer": "어두운 방에 들어서자 누가 있는 것 같아 멈칫했어.",
-   "why": "맞아! 아무도 말 안 했는데 '어, 누가 있는 것 같은데?' 하고 마음이 먼저 딱 느꼈잖아. 바로 그렇게 몸이나 마음으로 느껴서 아는 게 sense인 거야."
   }
  ],
  "synonyms": [],
@@ -91,6 +65,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/sense.webp",
   "alt": "눈·코·귀로 바깥을 느끼고, 누가 말 안 해도 '뭔가 이상한데' 하고 마음이 먼저 느끼는 그 느껴서 아는 힘.",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

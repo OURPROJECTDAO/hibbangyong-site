@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/destroy/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/destroy/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/destroy/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "destroy",
  "slug": "destroy",
  "url": "https://hibbangyong.com/words/destroy/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, 그게 바로 destroy야",
    "why": "맞아! 다시 붙일 수도 없고 무슨 그림이었는지 알아볼 수도 없게 끝장났잖아. 살짝 망가진 게 아니라 완전히 없어져서 못 돌이키는 거, 바로 그게 destroy야."
-  },
-  {
-   "type": "ox",
-   "question": "누나가 말랑한 찰흙을 조물조물해서 강아지 모양을 새로 하나 빚어 만들었어. 누나가 그 강아지를 'destroy'한 걸까?",
-   "choices": [
-    "응, 그게 바로 destroy야",
-    "아니, destroy는 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, destroy는 아니야",
-   "why": "맞아! 누나는 강아지를 새로 빚어 만든 거잖아. 만드는 건 부수는 거랑 정반대니까 destroy가 아닌 거야. 잘했어!"
-  },
-  {
-   "type": "choice",
-   "question": "민수가 가지고 놀던 장난감 로봇한테 어떤 일이 생겼어. 어떤 때 그 로봇을 'destroy'했다고 말할 수 있을까?",
-   "choices": [
-    "산산조각 나서 다시는 못 쓰게 된 때",
-    "팔 하나가 빠졌지만 도로 끼우면 되는 때",
-    "살짝 긁힌 자국만 하나 남은 때",
-    "먼지가 잔뜩 묻어 더러워진 때"
-   ],
-   "answer_index": 0,
-   "answer": "산산조각 나서 다시는 못 쓰게 된 때",
-   "why": "맞아! 산산조각 나서 다시는 못 쓰게 됐으면 로봇이 아예 끝나 버린 거잖아. 살짝 망가진 게 아니라 완전히 없어진 거, 바로 그게 destroy야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/destroy.webp",
   "alt": "발로 밟은 블록 탑이 와르르 무너져 통째로 없어짐 + 계획도 한 방에 끝장남",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

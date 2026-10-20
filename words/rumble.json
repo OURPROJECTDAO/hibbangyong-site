@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/rumble/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/rumble/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/rumble/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "rumble",
  "slug": "rumble",
  "url": "https://hibbangyong.com/words/rumble/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, rumble 아니야",
    "why": "맞아! 화재경보기 소리는 높고 날카롭게 귀를 찌르잖아. rumble은 낮고 묵직하게 길게 굴러가는 소리라서, 높이부터 정반대니까 rumble이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "저녁에 집에 있는데 여러 소리가 들렸어. 그중 'rumble'이라고 부를 만한 건 어느 거야?",
-   "choices": [
-    "냄비 뚜껑이 바닥에 떨어져서 '탕' 하고 난 소리",
-    "전자레인지가 다 됐다고 '띵' 하고 알려 준 소리",
-    "멀리 철길에서 기차가 '구구궁' 하며 한참 지나가는 소리",
-    "방 안에서 모기가 귀 옆으로 '애앵' 하며 계속 나는 소리"
-   ],
-   "answer_index": 2,
-   "answer": "멀리 철길에서 기차가 '구구궁' 하며 한참 지나가는 소리",
-   "why": "맞아! 멀리서 기차가 구구궁 하며 한참 지나가는 소리는 낮고 묵직한 소리가 길게 이어지잖아. 바로 그게 rumble이야."
-  },
-  {
-   "type": "ox",
-   "question": "도서관에서 친구가 두꺼운 사전을 책상 위에 '쿵!' 하고 한 번 세게 내려놓았어. 순간 다들 깜짝 놀랐지. 이런 소리도 'rumble'이야?",
-   "choices": [
-    "응, rumble 맞아",
-    "아니, rumble 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, rumble 아니야",
-   "why": "맞아, rumble이 아니야! 사전을 쿵 내려놓은 소리는 크고 무겁긴 해도 한 번에 짧게 끝나잖아. rumble은 낮고 묵직하게 길게 굴러가는 소리여야 하거든."
   }
  ],
  "synonyms": [

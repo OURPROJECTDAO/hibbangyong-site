@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/per/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/per/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/per/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "per",
  "slug": "per",
  "url": "https://hibbangyong.com/words/per/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, per 맞아",
    "why": "맞아! 차 한 대마다 똑같이 1000원씩 딱 짝지어지잖아. 하나하나마다 얼마씩, 그게 바로 per인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "형이 화분에 물을 주는데 어떤 날은 한 컵, 어떤 날은 세 컵, 어떤 날은 안 줘. 이걸 'per'로 이을 수 있어?",
-   "choices": [
-    "응, per 맞아",
-    "아니, per 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, per 아니야",
-   "why": "맞아, per가 아닌 게 맞아! per는 하나마다 몇 개, 이렇게 딱 정해져 있어야 하거든. 그런데 형은 어떤 날은 한 컵, 어떤 날은 세 컵, 어떤 날은 아예 안 주잖아. 날마다 제멋대로니까 per로 이을 수가 없는 거야."
-  },
-  {
-   "type": "choice",
-   "question": "간식 표에 '사탕 2개 per 사람'이라고 적혀 있어. 이 'per'가 붙어서 만든 뜻으로 맞는 건?",
-   "choices": [
-    "한 사람마다 사탕을 2개씩 준다는 뜻",
-    "사탕을 다 모아서 딱 2개만 나눠 준다는 뜻",
-    "사람 수를 사탕 2개로 나눈다는 뜻",
-    "사람마다 받는 사탕 개수가 제각각이라는 뜻"
-   ],
-   "answer_index": 0,
-   "answer": "한 사람마다 사탕을 2개씩 준다는 뜻",
-   "why": "맞아! 사탕 2개 per 사람이면 여기 한 명, 저기 한 명, 한 명마다 똑같이 2개씩 짝지어 주는 거거든. 그 하나하나마다 얼마씩을 딱 붙여 주는 게 바로 per야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/per.webp",
   "alt": "쿠키 여섯 개를 세 명이 한 명당 두 개씩 똑같이 나누는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

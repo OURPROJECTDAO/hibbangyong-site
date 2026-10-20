@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/dismay/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/dismay/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/dismay/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "dismay",
  "slug": "dismay",
  "url": "https://hibbangyong.com/words/dismay/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, dismay 맞아",
    "why": "맞아! 수학여행이 취소됐다는 뜻밖의 나쁜 문자에 깜짝 놀라고, 바로 이제 어떡하지 하는 걱정까지 같이 들면서 마음이 덜컥 내려앉았잖아. 놀람이랑 걱정이 한꺼번에 오는 바로 그 기분이 dismay야."
-  },
-  {
-   "type": "ox",
-   "question": "우리 집 강아지가 며칠 동안 밥을 안 먹어서 동물병원에서 검사를 받았어. 결과를 기다리는 동안 계속 걱정했는데, 수의사 선생님이 '아무 이상 없어요'라고 하셔서 마음이 탁 놓였어. 이 기분이 'dismay'야?",
-   "choices": [
-    "응, dismay 맞아",
-    "아니, dismay 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, dismay 아니야",
-   "why": "잘 골랐어! 강아지가 아무 이상 없다는 말을 듣고 마음이 탁 놓인 건 걱정이 풀린 안도(이건 relief야)거든. dismay는 반대로 뜻밖의 나쁜 소식을 듣고 놀라고 걱정되는 마음이라서 이 기분은 dismay가 아니야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 최근 겪은 일을 말했어. 이 중에서 'dismay'를 느낀 친구는 누구일까?",
-   "choices": [
-    "뉴스에서 자주 가던 동네 도서관이 다음 달에 문을 닫는다는 걸 보고 할 말을 잃었어.",
-    "기다리던 택배가 하루 늦게 온다는 알림을 보고 살짝 아쉬웠어.",
-    "친구들이 몰래 생일 파티를 준비한 걸 보고 할 말을 잃었어.",
-    "잃어버린 줄 알았던 지갑이 가방 안에 있어서 마음이 탁 놓였어."
-   ],
-   "answer_index": 0,
-   "answer": "뉴스에서 자주 가던 동네 도서관이 다음 달에 문을 닫는다는 걸 보고 할 말을 잃었어.",
-   "why": "맞아! 자주 가던 도서관이 다음 달에 문을 닫는다는 건 뜻밖의 나쁜 소식이라서, 놀라고 앞으로가 걱정돼서 할 말을 잃은 거야. 뉴스로 본 동네 소식이어도 이렇게 마음이 덜컥 내려앉으면 그게 바로 dismay야."
   }
  ],
  "synonyms": [
@@ -84,6 +60,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/dismay.webp",
   "alt": "시험 범위가 책 전체라는 발표에 교실이 얼어붙는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

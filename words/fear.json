@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/fear/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/fear/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/fear/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "fear",
  "slug": "fear",
  "url": "https://hibbangyong.com/words/fear/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, fear 맞아",
    "why": "맞아! 물이 자기 키보다 깊어서 빠질 것 같다는 생각이 먼저 든 거잖아. 나쁜 일이 생길까 봐 발이 안 떨어지는 그 마음이 바로 fear야."
-  },
-  {
-   "type": "ox",
-   "question": "놀이터에 제일 높은 미끄럼틀이 새로 생겼어. 지호는 보자마자 웃으면서 계단을 두 칸씩 뛰어 올라가 제일 먼저 미끄러져 내려왔고, 또 타겠다고 다시 달려갔어. 지호는 지금 그 미끄럼틀을 'fear'하는 걸까?",
-   "choices": [
-    "응, fear 맞아",
-    "아니, fear 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, fear 아니야",
-   "why": "맞아! 웃으면서 두 칸씩 뛰어 올라가고 또 타러 달려간 거잖아. 나쁜 일이 생길까 봐 겁내는 마음이 하나도 없으니까 fear가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "아이 넷이 오늘 있었던 일을 말했어. 이 중에 무언가를 'fear'하고 있는 아이는 누구일까?",
-   "choices": [
-    "풍선이 펑 터져서 어깨가 움찔했다가 곧 깔깔 웃은 아이",
-    "혼자 자는 밤이면 옷걸이가 사람처럼 보여서 숨을 죽이는 아이",
-    "국에 든 파가 싫어서 숟가락으로 자꾸 그릇 옆에 밀어 두는 아이",
-    "천둥이 우르릉대도 창가에 붙어 구경하며 신이 난 아이"
-   ],
-   "answer_index": 1,
-   "answer": "혼자 자는 밤이면 옷걸이가 사람처럼 보여서 숨을 죽이는 아이",
-   "why": "맞아! 옷걸이가 사람처럼 보인다는 건 마음속으로 나쁜 일이 생길까 봐 겁내고 있는 거거든. 그래서 숨까지 죽인 거야. 그게 바로 fear야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/fear.webp",
   "alt": "밤에 불 끄고 누웠을 때 아무것도 없는데 마음이 먼저 오그라드는 순간",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

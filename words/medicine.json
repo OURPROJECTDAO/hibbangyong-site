@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/medicine/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/medicine/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/medicine/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "medicine",
  "slug": "medicine",
  "url": "https://hibbangyong.com/words/medicine/",
@@ -45,30 +45,6 @@
    "answer_index": 0,
    "answer": "아침저녁 두 번씩 삼키라고 해서, 알약을 한 칸씩 나눠 담은 통을 꺼냈어.",
    "why": "맞아! 알약은 몸이 아픈 데를 낫게 하려고 먹는 거고, 아침저녁 두 번씩 정해진 만큼만 삼키잖아. 그래서 알약을 나눠 담은 통을 꺼낸 아이가 바로 medicine을 꺼낸 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 방금 자기가 뭘 했는지 말했어. 이 중에서 'medicine'을 쓴 아이는 누구일까?",
-   "choices": [
-    "다친 데가 빨리 아물라고, 하얀 걸 얇게 펴서 발랐어.",
-    "입이 심심해서, 달콤한 걸 하나 까서 오물오물 먹었어.",
-    "무릎이 시려서, 부드러운 천으로 무릎을 둘둘 감았어.",
-    "배가 고파서, 따뜻한 걸 한 그릇 후루룩 비웠어."
-   ],
-   "answer_index": 0,
-   "answer": "다친 데가 빨리 아물라고, 하얀 걸 얇게 펴서 발랐어.",
-   "why": "맞아! 다친 데가 빨리 아물라고 하얀 걸 발랐잖아. 낫게 하려고 만든 걸 몸에 쓴 거니까, 바르는 것도 바로 medicine인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "마당 화단에 벌레가 꼬여서, 아빠가 통에 든 액체를 뿌렸어. 그걸 마신 벌레는 죽어버린대. 이게 'medicine'이야?",
-   "choices": [
-    "응, medicine 맞아",
-    "아니, medicine 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, medicine 아니야",
-   "why": "맞아! 아빠가 뿌린 그 액체는 벌레를 낫게 하려는 게 아니라 죽게 하려고 뿌린 거잖아. medicine은 아픈 데를 낫게 하려고 쓰는 거라서, 이건 medicine이 아닌 거야."
   }
  ],
  "synonyms": [],
@@ -87,6 +63,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/medicine.webp",
   "alt": "기침이 안 멈출 때 낫게 하려고 만든 걸 한 모금 삼키는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

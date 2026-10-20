@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/affair/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/affair/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/affair/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "affair",
  "slug": "affair",
  "url": "https://hibbangyong.com/words/affair/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, affair 맞아",
    "why": "맞아! 아파트 사람들이 다 같이 얽혀서 언제 청소할지 정하는 일 한 덩어리잖아. 이렇게 여러 사람이 얽혀 굴러가는 일, 그게 바로 affair인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "아무도 없는 새벽에 강물 위로 안개가 뿌옇게 깔렸어. 이게 'affair'야?",
-   "choices": [
-    "응, affair 맞아",
-    "아니, affair 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, affair 아니야",
-   "why": "맞아! 안개는 그냥 저절로 스르륵 깔린 거잖아. 사람이 하나도 얽혀 있지 않으니까 affair가 아닌 게 맞아. affair는 사람들이 얽혀서 벌어지는 일 한 덩어리거든."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 요즘 있는 일을 하나씩 말했어. 이 중에서 'affair'라고 부를 수 있는 건 어떤 거야?",
-   "choices": [
-    "아빠가 매일 아침 공장에 가서 기계를 돌리는 것",
-    "동네 사람들이 놀이터를 새로 만들지 정하는 중인 것",
-    "밤새 눈이 소복소복 쌓여서 마당이 하얘진 것",
-    "책상 서랍에 지우개랑 연필이 굴러다니고 있는 것"
-   ],
-   "answer_index": 1,
-   "answer": "동네 사람들이 놀이터를 새로 만들지 정하는 중인 것",
-   "why": "맞아! 동네 사람들이 다 같이 얽혀서 놀이터를 만들지 말지 정하는 중이잖아. 여러 사람이 걸려서 굴러가고 있는 일 한 덩어리, 그게 바로 affair인 거야."
   }
  ],
  "synonyms": [
@@ -93,6 +69,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/affair.webp",
   "alt": "소풍 장소를 반 전체가 아직 못 정한 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/bargain/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/bargain/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/bargain/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "bargain",
  "slug": "bargain",
  "url": "https://hibbangyong.com/words/bargain/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, bargain 맞아",
    "why": "맞아! 삼천 원만 내고 오만 원짜리 축구공을 받아 왔잖아. 낸 돈은 쪼끔인데 얻은 건 훨씬 많으니까, 바로 그게 아주 싸게 잘 산 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 물건을 샀어. 누가 'bargain'을 한 걸까?",
-   "choices": [
-    "작은 장난감 하나에 이만 원이나 냈어.",
-    "아주 예쁜 새 장난감을 비싸게 주고 샀는데 마음에 쏙 들었어.",
-    "천 원만 내고 큰 장난감 상자를 통째로 받았어.",
-    "만 원짜리 장난감을 딱 만 원 주고 샀어."
-   ],
-   "answer_index": 2,
-   "answer": "천 원만 내고 큰 장난감 상자를 통째로 받았어.",
-   "why": "맞아! 천 원만 냈는데 큰 상자를 통째로 받았잖아. 낸 돈은 쪼끔인데 얻은 건 훨씬 크지? 바로 그게 잘 산 거, bargain인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "민서가 어떤 문구점에서 오천 원을 냈어. 그리고 다른 가게에서는 오백 원에 파는 지우개 한 개를 받아 왔어. 이게 'bargain'이야?",
-   "choices": [
-    "응, bargain 맞아",
-    "아니, bargain 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, bargain 아니야",
-   "why": "맞아! 오천 원이나 냈는데 손에 들어온 건 오백 원짜리 지우개 하나잖아. 낸 돈이 훨씬 크니까 이건 잘 산 게 아니라 오히려 손해 본 거야. bargain은 반대로 조금 내고 훨씬 많이 얻는 거거든."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/bargain.webp",
   "alt": "시장에서 천 원 내고 큰 장난감 상자를 통째로 받은 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

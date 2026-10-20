@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/severe/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/severe/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/severe/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "severe",
  "slug": "severe",
  "url": "https://hibbangyong.com/words/severe/",
@@ -45,30 +45,6 @@
    "answer_index": 2,
    "answer": "이가 너무 아파서 밤새 한숨도 못 자고 울었어.",
    "why": "맞아! 이가 아파서 밤새 한숨도 못 자고 울었다는 건, 그냥 조금 아픈 게 아니라 도무지 못 버틸 만큼 심하게 아픈 거잖아. 그렇게 정도가 세고 나빠서 견디기 힘든 게 바로 severe인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "아랫니가 찬물에 한 번 시렸는데, 물컵을 내려놓고 나서는 하루 종일 밥도 다 먹고 잘 잤어. 이 시린 느낌은 'severe'야?",
-   "choices": [
-    "응, severe 맞아",
-    "아니, severe 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, severe 아니야",
-   "why": "맞아, 잘 골랐어! 한 번 찡 시렸을 뿐이고 밥도 다 먹고 잠도 잘 잤잖아. 견딜 만한 거라서 severe가 아닌 거야. severe는 못 버틸 만큼 심해야 하거든."
-  },
-  {
-   "type": "choice",
-   "question": "네 사람이 각자 겪은 일을 말했어. 그중에 'severe'하다고 할 수 있는 건 어떤 거야?",
-   "choices": [
-    "생일에 선물을 산더미처럼 잔뜩 받았어.",
-    "달리기에서 친구들을 아주 많이 앞질렀어.",
-    "팔이 부러져서 오래오래 고생했어.",
-    "감기가 조금 걸려서 하루 푹 쉬었어."
-   ],
-   "answer_index": 2,
-   "answer": "팔이 부러져서 오래오래 고생했어.",
-   "why": "맞아! 팔이 부러진 건 너무 아프고 오래오래 힘들어서 도무지 못 버틸 만큼이잖아. 정도가 세면서 나쁘고 견디기 힘든 거, 그게 바로 severe인 거야."
   }
  ],
  "synonyms": [],
@@ -84,6 +60,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/severe.webp",
   "alt": "열이 펄펄 나고 온몸이 쑤셔 못 버틸 만큼 아픈 상태",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

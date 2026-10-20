@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/crease/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/crease/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/crease/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "crease",
  "slug": "crease",
  "url": "https://hibbangyong.com/words/crease/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, crease 맞아",
    "why": "맞아! 지폐가 반으로 접혀 있던 그 가운데 자리에 줄이 남은 거잖아. 접혀 있던 자리에 남은 줄, 바로 그게 crease야."
-  },
-  {
-   "type": "ox",
-   "question": "미술 시간에 새로 받은 도화지를 한 번도 접지 않고 책상 위에 반듯하게 펴 두었어. 어디에도 줄 하나 없이 매끈해. 이 매끈한 표면이 'crease'야?",
-   "choices": [
-    "응, crease 맞아",
-    "아니, crease 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, crease 아니야",
-   "why": "맞아, crease가 아니야! 이 도화지는 한 번도 접은 적이 없어서 어디에도 줄이 없잖아. crease는 접히거나 눌린 자리에 남는 줄이니까, 줄 하나 없이 매끈한 표면은 그 반대인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "식당에서 반으로 접혀 있던 종이 냅킨을 쫙 펼쳐 놨어. 이제 겹친 부분은 없는데 가운데에 한 줄이 남아 있어. 이 줄도 'crease'야?",
-   "choices": [
-    "응, crease 맞아",
-    "아니, crease 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, crease 맞아",
-   "why": "맞아! 냅킨을 쫙 펼쳐서 겹친 부분은 없어졌어도, 접혀 있던 자리에 남은 가운데 그 한 줄이 바로 crease인 거야."
   }
  ],
  "synonyms": [],
@@ -84,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/crease.webp",
   "alt": "반으로 접었다 편 시험지 가운데의 줄",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

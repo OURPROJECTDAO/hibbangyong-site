@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/rate/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/rate/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/rate/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "rate",
  "slug": "rate",
  "url": "https://hibbangyong.com/words/rate/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, 그렇게 잰 게 rate야",
    "why": "맞아! 사탕 한 개에 얼마라고 칸을 딱 정해 놓고 값을 적었잖아. 그렇게 한 칸마다 얼마인지 재는 게 바로 rate인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "물이 똑똑 떨어지는 걸 보면서, 친구가 물의 'rate'를 말했어. 친구가 말한 건 다음 중 뭘까?",
-   "choices": [
-    "1초마다 몇 방울씩 떨어지는지",
-    "지금까지 모두 몇 방울이 떨어졌는지",
-    "물방울이 처음 떨어진 때가 언제인지",
-    "물방울이 어느 쪽 그릇으로 떨어지는지"
-   ],
-   "answer_index": 0,
-   "answer": "1초마다 몇 방울씩 떨어지는지",
-   "why": "맞아! '1초마다 몇 방울'은 1초라는 똑같은 시간 안에 몇 번인지 세는 거잖아. 바로 그렇게 '같은 시간에 몇 번'으로 재는 게 rate야."
-  },
-  {
-   "type": "ox",
-   "question": "사탕을 한 통에 다 모았더니 모두 80개였어. 친구가 이 '모두 80개'를 사탕의 'rate'라고 말했어. 잘 쓴 걸까?",
-   "choices": [
-    "응, 맞게 썼어",
-    "아니, 잘못 썼어"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 잘못 썼어",
-   "why": "맞아! '모두 80개'는 그냥 다 합쳐서 쌓인 숫자일 뿐이야. rate는 '1분에 몇 번' '하루에 얼마'처럼 똑같은 묶음마다 얼마인지를 재는 건데, 80개는 그렇게 잰 게 아니거든. 그래서 잘못 쓴 거, 딱 맞췄어."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/rate.webp",
   "alt": "1분·1초·하루 같은 한 칸을 정해 놓고 그 안에 얼마인지 세는 장면.",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

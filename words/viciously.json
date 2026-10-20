@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/viciously/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/viciously/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/viciously/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "viciously",
  "slug": "viciously",
  "url": "https://hibbangyong.com/words/viciously/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, viciously 아니야",
    "why": "맞아! 엄마는 잠든 아기가 깰까 봐 머리를 살살 쓰다듬은 거잖아. 아기를 아끼는 다정한 손길이니까 해치려고 사정없이 덤비는 viciously랑은 정반대야."
-  },
-  {
-   "type": "ox",
-   "question": "골목에서 한 남자가 이미 바닥에 쓰러진 사람을 멈추지 않고 계속 발로 걷어찼어. 이 남자는 'viciously' 찬 거야?",
-   "choices": [
-    "응, viciously 맞아",
-    "아니, viciously 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, viciously 맞아",
-   "why": "맞아! 이미 바닥에 쓰러진 사람을 멈추지 않고 계속 걷어찼잖아. 다치게 하려는 게 뻔하고 봐 줄 생각도 하나도 없으니까, 이게 딱 viciously 찬 거야."
-  },
-  {
-   "type": "choice",
-   "question": "개가 입으로 무언가를 문 장면 네 가지야. 그중 'viciously'가 가장 잘 어울리는 건?",
-   "choices": [
-    "구조견이 물에 빠진 아이의 옷깃을 물고 온 힘을 다해 물가로 끌어냈어",
-    "어미 개가 새끼의 목덜미를 입에 물고 한 마리씩 집 안으로 옮겼어",
-    "떠돌이 개가 지나가던 배달원의 다리를 물고 늘어져 이리저리 흔들어 댔어",
-    "강아지가 주인 손가락을 입에 물고 꼬리를 흔들며 이리저리 굴러다녔어"
-   ],
-   "answer_index": 2,
-   "answer": "떠돌이 개가 지나가던 배달원의 다리를 물고 늘어져 이리저리 흔들어 댔어",
-   "why": "맞아! 떠돌이 개가 배달원 다리를 물고 늘어져서 이리저리 흔들어 댄 건 봐 줄 생각 없이 상대를 다치게 하려고 덤빈 거야. 그래서 바로 이게 viciously야."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/viciously.webp",
   "alt": "개가 사람에게 달려들어 물어뜯는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

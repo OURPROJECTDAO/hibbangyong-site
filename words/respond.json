@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/respond/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/respond/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/respond/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "respond",
  "slug": "respond",
  "url": "https://hibbangyong.com/words/respond/",
@@ -45,30 +45,6 @@
    "answer_index": 2,
    "answer": "공이 굴러오자, 아이가 발을 뻗어 탁 멈춰 세웠다.",
    "why": "맞아! 공이 먼저 굴러왔고, 거기에 맞춰 아이가 발을 탁 뻗었지? 뭐가 오니까 거기 맞춰 되받은 거라서, 바로 그게 respond인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "친구가 어깨를 톡 건드리자, 한 마디도 하지 않고 고개를 돌려 친구 쪽을 바라봤어. 이런 경우도 'respond'야?",
-   "choices": [
-    "응, 'respond'야 (O)",
-    "아니, 'respond' 아니야 (X)"
-   ],
-   "answer_index": 0,
-   "answer": "응, 'respond'야 (O)",
-   "why": "맞아! 누가 톡 건드린 게 먼저 오고, 거기 맞춰 고개를 돌린 거잖아. 말 한 마디 안 해도 온 거에 맞춰 되받은 거니까 바로 그게 respond인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "다음 중 'respond'에 해당하는(맞는) 것은?",
-   "choices": [
-    "내가 먼저 '안녕!' 하고 친구에게 말을 걸었다.",
-    "친구가 '몇 시야?' 하고 묻자, 나는 '세 시야' 하고 알려 주었다.",
-    "나는 혼자 콧노래를 흥얼흥얼 불렀다.",
-    "나는 속으로 숫자를 하나부터 열까지 세었다."
-   ],
-   "answer_index": 1,
-   "answer": "친구가 '몇 시야?' 하고 묻자, 나는 '세 시야' 하고 알려 주었다.",
-   "why": "맞아! 친구가 먼저 '몇 시야?' 하고 물었지? 그 물음이 톡 왔으니까 너는 거기 맞춰 '세 시야' 하고 대답한 거야. 먼저 온 말에 맞춰 반응한 거, 그게 바로 respond야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/respond.webp",
   "alt": "뭐가 톡 오면 움찔·맞춰 반응 — 부름엔 돌아보고, 빛엔 잎이 스르르 펴짐.",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

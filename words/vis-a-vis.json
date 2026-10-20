@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/vis-a-vis/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/vis-a-vis/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/vis-a-vis/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "vis-a-vis",
  "slug": "vis-a-vis",
  "url": "https://hibbangyong.com/words/vis-a-vis/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, 이렇게 쓰는 게 아니야",
    "why": "잘 골랐어! vis-a-vis는 우리말로 하면 ~에 대해, 또는 ~에 비해라는 뜻이야. 날씨를 기준으로 놓고 체험학습이 어떤지 말할 때 쓰는 말인데, 선생님은 날씨와 상관없이라는 뜻으로 썼으니까 정반대로 쓴 거지."
-  },
-  {
-   "type": "choice",
-   "question": "다음 중 'vis-a-vis'를 쓰기에 가장 알맞은 상황은?",
-   "choices": [
-    "친구와 얼굴을 마주 보고 앉아서 이야기할 때",
-    "수업이 끝난 뒤에 다 같이 운동장에 나갈 때",
-    "우리 반 점수를 옆 반 점수와 견줘서 말할 때",
-    "지금 이야기와 상관없는 주제를 새로 꺼낼 때"
-   ],
-   "answer_index": 2,
-   "answer": "우리 반 점수를 옆 반 점수와 견줘서 말할 때",
-   "why": "맞아! 옆 반 점수를 기준으로 놓고 우리 반 점수가 어느 정도인지 견주는 거라서, vis-a-vis를 쓰기 딱 좋은 상황이야. 이 말은 하나를 기준으로 세우고 다른 하나가 거기에 비해 어떤지 말할 때 쓰거든."
-  },
-  {
-   "type": "ox",
-   "question": "올해 사과 값이 작년 사과 값에 비해 얼마나 올랐는지 말하려고, '~에 비해' 자리에 'vis-a-vis'를 썼어. 이렇게 쓰는 게 맞아?",
-   "choices": [
-    "응, 맞아",
-    "아니, 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, 맞아",
-   "why": "맞아! 작년 사과 값을 기준으로 놓고 올해 사과 값이 거기서 얼마나 올랐는지 말하는 거니까, 바로 vis-a-vis의 '~에 비해' 쓰임이야."
   }
  ],
  "synonyms": [
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/vis-a-vis.webp",
   "alt": "새 휴대폰 규칙에 대한 반장의 입장",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

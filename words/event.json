@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/event/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/event/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/event/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "event",
  "slug": "event",
  "url": "https://hibbangyong.com/words/event/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, event 아니야",
    "why": "맞아! 자석은 손에 쥐고 붙였다 뗐다 하는 물건이잖아. 벌어진 일이 아니라 그냥 거기 있는 물건이라서, event가 아닌 게 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "지난 토요일에 우리 반 아이들이 체육관에 모여서 줄다리기를 했어. 이건 'event'야?",
-   "choices": [
-    "응, event 맞아",
-    "아니, event 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, event 맞아",
-   "why": "맞아! 토요일에 체육관에 다 같이 모여서 줄다리기 한 거, 그게 바로 딱 벌어진 하나의 일이거든. 학교 운동회처럼 말이야. 그래서 event가 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "네 가지를 말했어. 이 중에서 'event'라고 부를 수 있는 건 뭘까?",
-   "choices": [
-    "갑자기 온 동네 불이 다 나갔던 일",
-    "서랍 속에 넣어 둔 색연필 한 자루",
-    "늘 그대로라 아무 일도 없던 조용한 하루",
-    "벽에 걸려 있는 동그란 시계"
-   ],
-   "answer_index": 0,
-   "answer": "갑자기 온 동네 불이 다 나갔던 일",
-   "why": "맞아! 갑자기 온 동네 불이 다 나간 건 그날 딱 벌어진 일이잖아. 좋은 일만 event인 게 아니라 사고처럼 안 좋은 일도 '벌어진 하나의 일'이면 다 event인 거야."
   }
  ],
  "synonyms": [
@@ -85,6 +61,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/event.webp",
   "alt": "달력에 동그라미 친 날 벌어지는 일",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

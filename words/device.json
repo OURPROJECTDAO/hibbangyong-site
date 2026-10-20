@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/device/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/device/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/device/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "device",
  "slug": "device",
  "url": "https://hibbangyong.com/words/device/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, device 아니야",
    "why": "맞아! 도토리는 참나무에 저절로 열린 거잖아. 사람이 뭘 하려고 일부러 만든 게 아니니까 device가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "문구점에서 스테이플러를 하나 샀어. 이건 'device'야?",
-   "choices": [
-    "응, device 맞아",
-    "아니, device 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, device 맞아",
-   "why": "맞아! 스테이플러는 종이를 탁 묶으라고 사람이 일부러 만든 물건이잖아. 딱 한 가지 일 하라고 만든 거니까 바로 그게 device인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "여기 네 가지는 다 사람이 손수 만든 물건이야. 이 중에서 'device'라고 부를 수 있는 건 어떤 거야?",
-   "choices": [
-    "쥐를 잡으라고 용수철을 걸어 만든 쥐덫",
-    "벽에 걸어 두고 보라고 물감으로 그린 꽃 그림",
-    "목에 두르고 다니라고 털실로 포근하게 짠 목도리",
-    "그냥 갖고 놀라고 말랑한 고무로 찍어낸 공"
-   ],
-   "answer_index": 0,
-   "answer": "쥐를 잡으라고 용수철을 걸어 만든 쥐덫",
-   "why": "맞아! 쥐덫은 쥐를 잡는다는 딱 한 가지 일 하라고 사람이 용수철까지 걸어서 만든 물건이거든. 그러니까 화면도 없고 전기도 안 통해도, 이런 게 바로 device인 거야."
   }
  ],
  "synonyms": [
@@ -85,6 +61,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/device.webp",
   "alt": "병뚜껑을 따는 조그만 병따개",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

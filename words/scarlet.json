@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/scarlet/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/scarlet/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/scarlet/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "scarlet",
  "slug": "scarlet",
  "url": "https://hibbangyong.com/words/scarlet/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, scarlet 맞아",
    "why": "맞아! 소방차처럼 눈에 확 띄게 밝고 선명한 빨간색이니까, 바로 그게 scarlet인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "형이 새로 산 우산이 깊은 바닷속처럼 어둡고 짙은 남색이야. 이 우산 색은 'scarlet'일까?",
-   "choices": [
-    "응, scarlet 맞아",
-    "아니, scarlet 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, scarlet 아니야",
-   "why": "맞아! scarlet은 눈이 번쩍 뜨일 만큼 밝고 쨍한 빨간색이거든. 형 우산은 깊은 바닷속처럼 어둡고 짙은 남색이라 빨강과는 완전히 반대쪽 색이니까 scarlet이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "미술 시간에 네 친구가 각자 다른 물감을 칠했어. 이 중에서 'scarlet'인 물감은 어느 것일까?",
-   "choices": [
-    "말린 대추처럼 어두운 검붉은 색",
-    "한밤 하늘처럼 짙고 어두운 남색",
-    "잘 익은 딸기처럼 쨍하게 밝은 빨강",
-    "벚꽃 잎처럼 연하고 옅은 분홍색"
-   ],
-   "answer_index": 2,
-   "answer": "잘 익은 딸기처럼 쨍하게 밝은 빨강",
-   "why": "맞아! 잘 익은 딸기처럼 쨍하게 밝은 빨강은 빨강 중에서도 제일 밝고 선명한 쪽이라서, 바로 그게 scarlet인 거야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/scarlet.webp",
   "alt": "운동회 날 반 머리띠 색",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

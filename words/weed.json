@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/weed/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/weed/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/weed/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "weed",
  "slug": "weed",
  "url": "https://hibbangyong.com/words/weed/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, weed 맞아",
    "why": "맞아! 운동장 구석에 아무도 씨를 뿌린 적 없는데 낯선 풀이 혼자 쑥 올라왔잖아. 그래서 선생님이 뽑아낸 거고, 바로 그런 풀이 weed인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "할머니가 봄에 밭에 고구마 순을 하나하나 심고, 물을 주며 키워서 가을에 캤어. 이 고구마가 'weed'야?",
-   "choices": [
-    "응, weed 맞아",
-    "아니, weed 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, weed 아니야",
-   "why": "맞아! 고구마는 할머니가 봄에 순을 하나하나 직접 심고 물을 주며 키운 거잖아. weed는 아무도 안 심었는데 혼자 올라온 풀이라서, 할머니가 심은 고구마는 weed가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 오늘 마당에서 뭘 했는지 말했어. 이 중에 'weed'를 본 사람은 누구일까?",
-   "choices": [
-    "아무도 심은 적 없는데 화단에 혼자 올라온 풀을 뽑았어",
-    "봄에 씨를 뿌려 줄 맞춰 키운 상추를 하나 땄어",
-    "들판에 원래부터 넓게 깔린 풀밭 위에서 뒹굴며 놀았어",
-    "화분에 심은 꽃이 시들어서 마른 잎을 떼어냈어"
-   ],
-   "answer_index": 0,
-   "answer": "아무도 심은 적 없는데 화단에 혼자 올라온 풀을 뽑았어",
-   "why": "맞아! 그 풀은 아무도 심은 적이 없는데 화단에 혼자 올라왔잖아. 심지도 않았는데 거기 있으면 안 되는 자리에 난 풀이라서 바로 그게 weed인 거야."
   }
  ],
  "synonyms": [],
@@ -80,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/weed.webp",
   "alt": "화단에 아무도 안 심지 않았는데 혼자 올라온 풀",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

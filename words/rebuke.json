@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/rebuke/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/rebuke/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/rebuke/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "rebuke",
  "slug": "rebuke",
  "url": "https://hibbangyong.com/words/rebuke/",
@@ -43,28 +43,6 @@
    "answer_index": 1,
    "answer": "아니, rebuke 아니야",
    "why": "맞아! 선생님은 혼자 남아 바닥을 끝까지 닦은 걸 높여 준 거잖아. 잘못을 콕 짚는 게 아니라 잘한 일을 칭찬한 거라서 rebuke랑은 정반대 쪽이야."
-  },
-  {
-   "type": "ox",
-   "question": "도서관에서 한 학생이 빌린 책에 볼펜으로 낙서를 했어. 그걸 본 사서 선생님이 그 학생에게 바로 가서 \"책에 낙서하는 건 잘못이야\"라고 짧고 단호하게 말했어. 사서 선생님의 이 말, 'rebuke'야?",
-   "choices": [
-    "응, rebuke 맞아",
-    "아니, rebuke 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, rebuke 맞아",
-   "why": "맞아! 사서 선생님이 낙서한 그 학생한테 바로 가서 \"책에 낙서하는 건 잘못이야\"라고 잘못을 콕 짚었잖아. 잘못한 바로 그 사람한테 대놓고 따끔하게 한 말이니까 이게 딱 rebuke야."
-  },
-  {
-   "type": "ox",
-   "question": "엄마가 매일 아침마다 \"방 좀 치워라, 양말 아무 데나 두지 마라, 밥 천천히 먹어라\"를 똑같이 되풀이해. 이런 경우도 'rebuke'야?",
-   "choices": [
-    "응, 'rebuke' 맞아",
-    "아니, 'rebuke' 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 'rebuke' 아니야",
-   "why": "맞아! 엄마가 매일 아침 방 치우라고, 양말 아무 데나 두지 말라고, 밥 천천히 먹으라고 똑같이 되풀이하는 건 잔소리에 가까워. rebuke는 잘못한 그 일 하나를 대놓고 한 번에 따끔하게 콕 짚는 말이라서 이건 아닌 거야."
   }
  ],
  "synonyms": [],
@@ -84,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/rebuke.webp",
   "alt": "친구를 비웃던 아이에게 조용히 잘못을 짚어 주는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

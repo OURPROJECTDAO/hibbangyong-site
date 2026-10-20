@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/mediocre/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/mediocre/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/mediocre/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "mediocre",
  "slug": "mediocre",
  "url": "https://hibbangyong.com/words/mediocre/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, mediocre 맞아",
    "why": "맞아! 박자나 음정이 틀리진 않았으니까 망한 공연은 아닌데, 신나거나 기억에 남는 부분이 없었으니 좋다고 하기엔 모자라잖아. 딱 그 중간이 mediocre야."
-  },
-  {
-   "type": "ox",
-   "question": "가족여행 숙소에 갔는데 방에서 곰팡이 냄새가 심하고 온수도 안 나와서, 하룻밤 만에 다른 숙소로 옮겼어. 이 숙소는 'mediocre'야?",
-   "choices": [
-    "응, mediocre 맞아",
-    "아니, mediocre 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, mediocre 아니야",
-   "why": "맞아! 방에서 곰팡이 냄새가 심하고 온수도 안 나와서 하룻밤 만에 다른 숙소로 옮겼잖아. 이건 그저 그런 수준이 아니라 엉망인 거라서 mediocre가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 어제 본 영화 얘기를 했어. 영화가 'mediocre'였다는 말에 가장 가까운 건 누구 말일까?",
-   "choices": [
-    "끝나자마자 또 보고 싶었어. 올해 본 것 중 최고야.",
-    "중간에 나왔어. 돈이 아까울 만큼 완전 엉망이었어.",
-    "지루하진 않았는데, 나오니까 기억나는 장면이 없어.",
-    "무난하게 봤어. 딱 기대한 만큼이라 꽤 만족해."
-   ],
-   "answer_index": 2,
-   "answer": "지루하진 않았는데, 나오니까 기억나는 장면이 없어.",
-   "why": "맞아! 지루하진 않았으니까 망한 영화는 아닌데, 나와서 기억나는 장면이 하나도 없다는 건 좋다고 하기엔 모자랐다는 거잖아. 바로 그 아쉬운 느낌이 mediocre야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/mediocre.webp",
   "alt": "기대하고 간 맛집 음식이 맛없진 않지만 또 올 정도는 아님",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

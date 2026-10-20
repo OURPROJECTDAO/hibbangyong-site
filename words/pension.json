@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/pension/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/pension/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/pension/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "pension",
  "slug": "pension",
  "url": "https://hibbangyong.com/words/pension/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, pension 맞아",
    "why": "맞아! 할머니는 30년 일하시다가 나이가 들어 그만두셨는데, 학교에 안 나가셔도 나라에서 매달 25일마다 돈이 들어오잖아. 일을 멈춘 뒤에 정해진 때마다 계속 받는 돈이라서 바로 그게 pension이야."
-  },
-  {
-   "type": "ox",
-   "question": "사촌 형은 요즘 편의점에서 저녁마다 계산대 일을 하고 있어. 형이 이번 달에 일한 만큼, 매달 25일마다 편의점 사장님이 형 통장으로 돈을 넣어 줘. 이 돈이 'pension'일까?",
-   "choices": [
-    "응, pension 맞아",
-    "아니, pension 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, pension 아니야",
-   "why": "맞아! 형은 지금 저녁마다 계산대 일을 하고 있고, 그 이번 달에 일한 만큼 받는 돈이잖아. 그건 월급이지 pension이 아니야. pension은 일을 멈춘 뒤에 받는 돈이거든."
-  },
-  {
-   "type": "choice",
-   "question": "네 사람이 각자 받은 돈 이야기를 했어. 그 돈을 'pension'이라고 부를 수 있는 사람은 누구일까?",
-   "choices": [
-    "공장에서 일하는 삼촌이 한 달 일하고 받은 돈",
-    "다쳐서 일을 그만둔 소방관이 매달 나라에서 받는 돈",
-    "중학생 민지가 매달 부모님께 받는 돈",
-    "회사를 그만두던 날 한꺼번에 받은 큰돈"
-   ],
-   "answer_index": 1,
-   "answer": "다쳐서 일을 그만둔 소방관이 매달 나라에서 받는 돈",
-   "why": "맞아! 소방관은 다쳐서 일을 그만뒀는데도 나라에서 매달 돈을 받잖아. 일을 멈춘 뒤에 정해진 때마다 계속 나오는 돈, 그게 바로 pension이야. 꼭 나이 든 사람만 받는 것도 아니야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/pension.webp",
   "alt": "나이 들거나 다치거나 아파서 일을 멈춘 사람이 매달 받는 돈",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

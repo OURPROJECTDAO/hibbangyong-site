@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/liner/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/liner/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/liner/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "liner",
  "slug": "liner",
  "url": "https://hibbangyong.com/words/liner/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, liner 맞아",
    "why": "맞아! 승객 2천 명을 태우고 영국에서 호주까지 3주 동안 먼 바다를 건너간 큰 배잖아. 사람을 많이 태우고, 먼 길을 가는 큰 배라서 이게 바로 liner야."
-  },
-  {
-   "type": "ox",
-   "question": "어부 한 명이 혼자 타고 새벽마다 마을 앞바다에 나가 그물을 치는 작은 배가 있어. 이 배를 'liner'라고 부를 수 있을까?",
-   "choices": [
-    "응, liner 맞아",
-    "아니, liner 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, liner 아니야",
-   "why": "맞아! 어부 한 명이 혼자 타고 마을 앞바다에만 잠깐 나갔다 오는 작은 배잖아. liner는 사람을 많이 태우고 먼 바다를 건너는 큰 배라서, 이 배는 liner가 아니야."
-  },
-  {
-   "type": "choice",
-   "question": "민지네 동네 항구에 배 네 척이 있어. 이 중에서 'liner'라고 부르기 가장 알맞은 배는?",
-   "choices": [
-    "공장에서 만든 자동차 수백 대만 싣고 일주일 동안 바다를 건넌 배",
-    "민지네 가족이 자동차를 싣고 20분 만에 가까운 섬으로 건너간 배",
-    "민지네 가족이 방에서 자고 식당에서 밥 먹으며 일주일 동안 바다를 건넌 배",
-    "민지네 가족이 호수에서 한 시간 동안 직접 노를 저으며 돈 배"
-   ],
-   "answer_index": 2,
-   "answer": "민지네 가족이 방에서 자고 식당에서 밥 먹으며 일주일 동안 바다를 건넌 배",
-   "why": "맞아! 민지네 가족이 배 안의 방에서 자고 식당에서 밥까지 먹으면서 일주일 동안 바다를 건넜잖아. 사람을 태우고 먼 바다를 가는 큰 배, 바로 그게 liner야."
   }
  ],
  "synonyms": [],
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/liner.webp",
   "alt": "비행기 없던 시절 며칠 동안 배를 타고 바다 건너 미국 가기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

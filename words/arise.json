@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/arise/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/arise/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/arise/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "arise",
  "slug": "arise",
  "url": "https://hibbangyong.com/words/arise/",
@@ -43,19 +43,6 @@
    "answer_index": 1,
    "answer": "아니, 'arise' 아니야.",
    "why": "맞아! 그 사탕은 어제부터 이미 가방 안에 있었잖아. 없다가 새로 생긴 게 아니라 그냥 네 눈에 이제 보인 거라서, arise가 아닌 게 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "친구 넷이 오늘 겪은 일을 말했어. 'arise'라고 부를 수 있는 상황은 누구 걸까?",
-   "choices": [
-    "게임을 하다가 아무도 안 건드렸는데 새 문제가 툭 튀어나왔어.",
-    "책상에 원래 있던 연필이 이제야 눈에 딱 보였어.",
-    "내가 블록으로 새 성을 일부러 하나 만들었어.",
-    "하늘에 있던 무지개가 스르륵 다 사라졌어."
-   ],
-   "answer_index": 0,
-   "answer": "게임을 하다가 아무도 안 건드렸는데 새 문제가 툭 튀어나왔어.",
-   "why": "맞아! 아무도 안 건드렸는데 없던 문제가 저절로 툭 튀어나왔잖아. 그렇게 없다가 짠 하고 새로 생겨나는 게 바로 arise인 거야."
   }
  ],
  "synonyms": [
@@ -72,6 +59,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/arise.webp",
   "alt": "놀다가 없던 게 툭 나타난 상황",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/assume/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/assume/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/assume/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "assume",
  "slug": "assume",
  "url": "https://hibbangyong.com/words/assume/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, assume 맞아",
    "why": "맞아! 준호는 누나를 직접 보지도 않았는데, 신발장에 운동화가 없는 것만 보고 누나가 아직 학원에 있을 거라고 생각했거든. 진짜 그런지 확실히 모르면서 그럴 거라고 생각한 거니까, 바로 그게 assume인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "준호가 간식을 먹으려고 냉장고 문을 열었어. 우유 칸이 텅 빈 걸 자기 눈으로 직접 봤어. 그래서 준호는 '우유가 다 떨어졌구나' 하고 생각했어. 준호가 한 건 'assume'일까?",
-   "choices": [
-    "응, assume 맞아",
-    "아니, assume 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, assume 아니야",
-   "why": "맞아! 준호는 냉장고 문을 열고 우유 칸이 텅 빈 걸 자기 눈으로 직접 봤잖아. 확실히 보고 안 거라서 assume이 아닌 거야. assume은 확실히 모르면서 그렇다고 여기는 거거든."
-  },
-  {
-   "type": "choice",
-   "question": "민지가 네 번 모두 우산을 챙겼어. 이 가운데 민지가 비가 온다고 'assume'한 건 어느 때일까?",
-   "choices": [
-    "창문을 열어 빗방울을 직접 확인하고 나서 우산을 챙겼어.",
-    "비가 올지 말지 몰라서 동전을 던져 보고 우산을 챙겼어.",
-    "친구들이 다 우산을 들고 가길래 비가 오는 줄 알고 우산을 챙겼어.",
-    "우산 쓰고 걷는 놀이가 하고 싶어서 일부러 우산을 챙겼어."
-   ],
-   "answer_index": 2,
-   "answer": "친구들이 다 우산을 들고 가길래 비가 오는 줄 알고 우산을 챙겼어.",
-   "why": "맞아! 민지는 비가 오는 걸 직접 보지 않았어. 그래도 친구들이 다 우산을 들고 가니까 비가 오는 줄 알았잖아. 확실히 모르면서 그렇다고 여기고 우산을 챙긴 거라서, 바로 그게 assume인 거야."
   }
  ],
  "synonyms": [
@@ -85,6 +61,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/assume.webp",
   "alt": "초인종이 울리자 문을 열어 보지 않고 늘 오던 시간이라 아빠라고 여김",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -94,3 +94,4 @@ footer{background:var(--bg2);border-top:1px solid var(--line);padding:2rem 0 max
 .wgrid a{display:block;padding:.3rem .1rem;text-decoration:none;color:var(--ink);border-bottom:1px solid var(--line);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .wgrid b{font-weight:700;color:var(--blue-ink)}
 .wgrid span{color:var(--ink2);font-size:.92rem}
+.more{margin:.8rem 0 0;color:var(--ink2);font-weight:600}

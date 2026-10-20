@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/refer/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/refer/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/refer/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "refer",
  "slug": "refer",
  "url": "https://hibbangyong.com/words/refer/",
@@ -45,28 +45,6 @@
    "answer_index": 0,
    "answer": "친구가 모르는 걸 묻자 \"저 책에 나와, 거기 봐\" 하고 책을 가리킨 민수",
    "why": "맞아! 민수는 직접 답을 알려준 게 아니라 \"저 책에 나와, 거기 봐\" 하고 답이 있는 데를 콕 가리켜서 친구를 그쪽으로 보냈잖아. 바로 그게 refer야!"
-  },
-  {
-   "type": "ox",
-   "question": "친구가 \"심심해\" 하자, 네가 \"이 만화책 완전 재밌어, 너도 이거 봐!\" 하며 네가 재밌게 본 만화책을 권했어. 이것도 'refer'한 걸까?",
-   "choices": [
-    "응, 'refer'한 거야",
-    "아니, 'refer'가 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 'refer'가 아니야",
-   "why": "맞아! refer는 친구가 뭘 물어봤는데 너도 몰라서 답이 있는 데로 보내주는 거잖아. 근데 여긴 친구가 뭘 물어본 게 아니라 네가 그냥 재밌는 걸 권한 거라, refer가 아닌 게 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "동생이 숙제 문제를 묻자, 누나가 어디로 보내지 않고 자기가 아는 풀이를 처음부터 끝까지 직접 다 설명해 줬어. 이것도 'refer'라고 할 수 있을까?",
-   "choices": [
-    "응, 그것도 refer야",
-    "아니, 그건 refer가 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 그건 refer가 아니야",
-   "why": "맞아! 누나가 어디 딴 데로 보낸 게 아니라 자기가 처음부터 끝까지 직접 다 알려줬잖아. refer는 답이 있는 다른 데를 콕 가리켜 보내는 거라서, 직접 다 설명한 건 refer가 아닌 게 맞아."
   }
  ],
  "synonyms": [],
@@ -98,6 +76,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/refer.webp",
   "alt": "친구 질문에 직접 답 안 하고, 답 있는 다른 곳(책·사람)을 콕 가리켜 거기로 보냄.",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

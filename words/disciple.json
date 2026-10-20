@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/disciple/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/disciple/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/disciple/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "disciple",
  "slug": "disciple",
  "url": "https://hibbangyong.com/words/disciple/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, disciple 맞아",
    "why": "맞아! 민호는 그 환경운동가의 생각이 옳다고 믿고, 그 사람이 말한 대로 일회용 컵과 비닐봉지를 안 쓰면서 지내잖아. 생각을 믿고 자기 삶에서 그대로 따르니까 바로 disciple인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "수진이는 한 경제학자의 주장이 틀렸다고 생각해. 그래서 그 주장에 맞서는 글을 신문에 몇 년째 꾸준히 쓰고 있어. 수진이는 그 경제학자의 disciple이야?",
-   "choices": [
-    "응, disciple 맞아",
-    "아니, disciple 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, disciple 아니야",
-   "why": "맞아! disciple은 그 사람 생각을 옳다고 믿고 따르는 사람인데, 수진이는 그 경제학자 주장이 틀렸다고 보고 몇 년째 맞서는 글을 쓰고 있잖아. 믿고 따르는 게 아니라 반대하는 쪽이니까 disciple이 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 사람이 모두 누군가와의 관계를 이야기했어. 영어로 'disciple'이라고 부르기 가장 알맞은 사람은?",
-   "choices": [
-    "졸업한 뒤에도 스승의 날마다 중학교 담임 선생님을 찾아가 인사드리는 사람",
-    "유명 요리사 밑에서 3년째 칼질과 불 조절을 하나하나 배우고 있는 사람",
-    "200년 전 철학자의 책을 읽고, 그가 옳다고 한 방식대로 하루하루 사는 사람",
-    "좋아하는 가수의 머리 모양과 옷차림, 말투까지 하나하나 따라 하는 사람"
-   ],
-   "answer_index": 2,
-   "answer": "200년 전 철학자의 책을 읽고, 그가 옳다고 한 방식대로 하루하루 사는 사람",
-   "why": "맞아! 200년 전 철학자를 직접 만난 적은 없지만, 그 사람 책을 읽고 그가 옳다고 한 방식대로 하루하루 살잖아. 누군가의 생각을 믿고 자기 삶에서 따르는 사람, 바로 그게 disciple이야."
   }
  ],
  "synonyms": [],

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/bony/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/bony/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/bony/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "bony",
  "slug": "bony",
  "url": "https://hibbangyong.com/words/bony/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, bony 맞아",
    "why": "맞아! 쇄골 부분에 살이 얇아서 뼈 모양이 살 위로 또렷하게 드러나 보이잖아. 그 부분에 뼈 모양이 보이면 그게 바로 bony야."
-  },
-  {
-   "type": "ox",
-   "question": "갓 태어난 아기의 볼을 봤어. 볼에 살이 포동포동하게 올라서 그 아래 광대뼈 모양이 전혀 보이지 않아. 이 아기 볼을 'bony'하다고 할 수 있을까?",
-   "choices": [
-    "응, bony 맞아",
-    "아니, bony 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, bony 아니야",
-   "why": "맞아! 아기 볼은 살이 포동포동하게 올라서 광대뼈 모양이 전혀 안 보이잖아. bony는 살이 적어서 뼈 모양이 겉으로 보일 때 쓰는 말이니까, 이 볼은 그 반대라서 아니라고 하는 게 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "씨름 선수 삼촌은 어깨뼈가 크고 굵어서 어깨가 떡 벌어지고 아주 튼튼해 보여. 이런 경우도 'bony'야?",
-   "choices": [
-    "응, bony 맞아",
-    "아니, bony 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, bony 아니야",
-   "why": "맞아! 삼촌 어깨는 뼈가 크고 굵어서 떡 벌어지고 튼튼해 보이는 거지, 살이 적어서 뼈 모양이 겉으로 드러나 보이는 게 아니잖아. bony는 뼈가 크다는 게 아니라 살이 적어서 뼈 모양이 보인다는 뜻이라, 이건 bony가 아니야."
   }
  ],
  "synonyms": [],

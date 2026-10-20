@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/grievance/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/grievance/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/grievance/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "grievance",
  "slug": "grievance",
  "url": "https://hibbangyong.com/words/grievance/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, grievance 맞아",
    "why": "맞아! 형이랑 똑같이 주말 내내 집안일을 했는데 이유 없이 형한테만 용돈을 줬으니, 부당하게 대우받았다고 느끼는 거잖아. 그렇게 '이건 불공평해' 하는 억울한 마음이 계속 남아 있는 게 바로 grievance야."
-  },
-  {
-   "type": "ox",
-   "question": "형이랑 똑같이 주말 내내 집안일을 했고, 엄마가 둘 다 똑같이 용돈을 줬어. 그래서 나는 '공평하게 받았네' 하는 마음에 엄마한테 고마웠어. 이 마음은 'grievance'야?",
-   "choices": [
-    "응, grievance 맞아",
-    "아니, grievance 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, grievance 아니야",
-   "why": "맞아! 형이랑 똑같이 일하고 똑같이 용돈을 받아서 공평하다고 느끼고 엄마한테 고마웠잖아. grievance는 부당하게 대우받았을 때 남는 억울한 마음이라서, 이 고마운 마음은 그 반대야."
-  },
-  {
-   "type": "choice",
-   "question": "네 명의 친구가 최근 있었던 일을 말했어. 'grievance'가 생겼다고 말할 만한 사람은?",
-   "choices": [
-    "혼자만 이유 없이 청소 당번을 한 달째 맡았어",
-    "비가 와서 기다리던 소풍이 다음 주로 미뤄졌어",
-    "시험을 잘 봐서 선생님께 칭찬을 많이 들었어",
-    "좋아하던 가수가 갑자기 은퇴해서 많이 슬펐어"
-   ],
-   "answer_index": 0,
-   "answer": "혼자만 이유 없이 청소 당번을 한 달째 맡았어",
-   "why": "맞아! 아무 이유 없이 혼자만 한 달째 청소 당번을 맡았으면 불공평하게 대우받은 거잖아. 그때 드는 억울한 마음이 바로 grievance야."
   }
  ],
  "synonyms": [],
@@ -91,6 +67,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/grievance.webp",
   "alt": "반에서 혼자 이유 없이 한 달째 청소 당번",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

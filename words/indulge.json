@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/indulge/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/indulge/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/indulge/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "indulge",
  "slug": "indulge",
  "url": "https://hibbangyong.com/words/indulge/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, indulge한 거 맞아",
    "why": "맞아! 지우는 보고 싶던 드라마를 중간에 끊지 않고 열 편을 이어서 봤잖아. 하고 싶은 걸 굳이 안 막고 실컷 하게 뒀으니까 바로 그게 indulge인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "하준이는 용돈 받은 날, 사고 싶던 운동화를 끝까지 안 사고 그 돈을 저금통에 넣었어. 이게 'indulge'한 거야?",
-   "choices": [
-    "응, indulge한 거 맞아",
-    "아니, indulge한 거 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, indulge한 거 아니야",
-   "why": "맞아! 하준이는 사고 싶던 운동화를 끝까지 안 사고 그 돈을 저금통에 넣었잖아. 하고 싶은 걸 마음껏 한 게 아니라 끝까지 참은 거니까, indulge랑은 딱 반대야."
-  },
-  {
-   "type": "choice",
-   "question": "민재 얘기가 네 개 있어. 민재가 'indulge'했다고 말하기에 가장 잘 맞는 건?",
-   "choices": [
-    "민재가 먹고 싶던 케이크를, 살찔 걱정은 접어 두고 두 조각이나 먹었어.",
-    "민재가 먹고 싶던 케이크를, 살찔까 봐 걱정돼서 한 입도 안 먹었어.",
-    "민재가 제빵 수업 숙제라서, 별로 안 당기는 케이크를 한 입 맛봤어.",
-    "민재가 케이크를 먹고 싶다는 동생에게, 밥 먹고 나서 먹으라고 했어."
-   ],
-   "answer_index": 0,
-   "answer": "민재가 먹고 싶던 케이크를, 살찔 걱정은 접어 두고 두 조각이나 먹었어.",
-   "why": "맞아! 민재는 먹고 싶던 케이크를 살찔 걱정 때문에 막지 않고 두 조각이나 먹었잖아. 하고 싶은 걸 굳이 안 막고 마음껏 한 거니까 바로 그게 indulge야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/indulge.webp",
   "alt": "시험 끝난 밤 게임을 끊지 않고 실컷 함",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/dime/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/dime/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/dime/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "dime",
  "slug": "dime",
  "url": "https://hibbangyong.com/words/dime/",
@@ -43,28 +43,6 @@
    "answer_index": 1,
    "answer": "아니, dime 아니야",
    "why": "잘 골랐어! dime은 10센트짜리 동전인데, 네가 낸 건 1달러짜리 종이 지폐잖아. 동전도 아니고 값도 10배나 크니까 dime이 아닌 거지."
-  },
-  {
-   "type": "ox",
-   "question": "캐나다 여행 중에 친구가 버스비가 조금 모자란다고 해서 10센트짜리 동전 한 개를 빌려줬어. 이 동전 한 개가 'dime'이야?",
-   "choices": [
-    "응, dime 맞아",
-    "아니, dime 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, dime 맞아",
-   "why": "맞아! 친구한테 빌려준 게 10센트짜리 동전 한 개잖아. 1달러의 10분의 1인 바로 그 동전이라서 dime이 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "미국 편의점에서 껌을 사고 거스름돈으로 제일 값이 싼 1센트짜리 동전 한 닢을 받았어. 이 1센트 동전도 'dime'이야?",
-   "choices": [
-    "응, dime 맞아",
-    "아니, dime 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, dime 아니야",
-   "why": "맞아! dime은 딱 10센트짜리 동전이라서, 거스름돈으로 받은 1센트짜리는 dime이 아니야. 1센트 동전은 따로 penny라고 불러."
   }
  ],
  "synonyms": [],
@@ -89,6 +67,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/dime.webp",
   "alt": "미국 마트에서 거스름돈으로 작은 은색 동전 받기",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

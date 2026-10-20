@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/verbatim/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/verbatim/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/verbatim/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "verbatim",
  "slug": "verbatim",
  "url": "https://hibbangyong.com/words/verbatim/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, verbatim 맞아",
    "why": "맞아! 엄마가 메모에 쓴 \"우유 두 개, 계란 한 판, 두부 하나\"를 글자 하나 안 바꾸고 똑같이 쳐서 보냈잖아. 이렇게 원래 쓴 글을 그대로 옮긴 게 바로 verbatim이야."
-  },
-  {
-   "type": "ox",
-   "question": "담임선생님이 조회 시간에 30분 동안 수학여행 안내를 하셨어. 반장은 그 말씀을 반 단톡방에 올릴 때 핵심 세 가지만 골라 짧게 줄여서 올렸어. 반장이 올린 글은 'verbatim'이야?",
-   "choices": [
-    "응, verbatim 맞아",
-    "아니, verbatim 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, verbatim 아니야",
-   "why": "맞아! 반장은 30분 동안 하신 말씀을 핵심 세 가지만 골라 짧게 줄였잖아. 선생님이 쓰신 단어가 그대로 남아 있지 않으니까 verbatim이 아니라 줄여서 전한 거야(이건 summary야)."
-  },
-  {
-   "type": "choice",
-   "question": "수행평가로 친구를 인터뷰하고 그 대답을 기사에 옮겨 적었어. 친구의 대답을 'verbatim'으로 옮긴 경우는?",
-   "choices": [
-    "친구 말의 뜻은 그대로 살리고 문장만 더 매끄럽게 고쳐 적었다",
-    "친구의 긴 대답에서 중요한 부분만 골라 짧게 줄여 적었다",
-    "친구가 말한 단어를 '음…' 같은 군말까지 빼지 않고 적었다",
-    "친구가 영어로 한 대답을 한국어로 정확하게 바꿔 적었다"
-   ],
-   "answer_index": 2,
-   "answer": "친구가 말한 단어를 '음…' 같은 군말까지 빼지 않고 적었다",
-   "why": "맞아! 친구가 말한 단어를 '음…' 같은 군말까지 하나도 안 빼고 적었으니까, 친구 대답을 단어 그대로 옮긴 거야. 깔끔한 말만 골라 적는 게 아니라 군말까지 똑같이 옮겨야 verbatim이거든."
   }
  ],
  "synonyms": [],

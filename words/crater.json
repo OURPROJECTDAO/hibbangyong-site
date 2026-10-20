@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/crater/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/crater/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/crater/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "crater",
  "slug": "crater",
  "url": "https://hibbangyong.com/words/crater/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, crater 맞아",
    "why": "맞아! 다이너마이트가 크게 터진 힘 때문에 땅이 그릇처럼 둥글고 깊게 파였잖아. 터지는 큰 힘으로 둥글게 파인 넓은 자리, 그게 바로 crater야."
-  },
-  {
-   "type": "ox",
-   "question": "넓은 초원 한가운데에 땅이 둥글게 불룩 솟아올라서 완만한 언덕이 되어 있어. 이 언덕이 'crater'야?",
-   "choices": [
-    "응, crater 맞아",
-    "아니, crater 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, crater 아니야",
-   "why": "맞아! crater는 땅이 둥글게 움푹 파인 자리인데, 이 초원의 언덕은 거꾸로 불룩 솟아 있잖아. 그래서 crater가 아닌 게 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "뉴스에서 도로 한가운데 'crater'가 생겼대. 그 도로는 어떤 모습일까?",
-   "choices": [
-    "땅이 한 줄로 길게 쩍 갈라져서 금이 났어",
-    "흙이 둥글게 불룩 솟아서 작은 언덕이 됐어",
-    "폭탄이 터진 자리가 둥글고 깊게 움푹 파였어",
-    "인부들이 삽으로 네모난 구멍을 반듯하게 팠어"
-   ],
-   "answer_index": 2,
-   "answer": "폭탄이 터진 자리가 둥글고 깊게 움푹 파였어",
-   "why": "맞아! 폭탄이 터지는 큰 힘 때문에 도로가 둥글고 깊게 움푹 파였으니까, 바로 그게 crater인 거야."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/crater.webp",
   "alt": "하늘에서 큰 돌이 떨어져 들판이 둥글게 파인 자리",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

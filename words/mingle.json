@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/mingle/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/mingle/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/mingle/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "mingle",
  "slug": "mingle",
  "url": "https://hibbangyong.com/words/mingle/",
@@ -45,28 +45,6 @@
    "answer_index": 0,
    "answer": "졸업식 날 기쁜 마음과 섭섭한 마음이 한꺼번에 들었어",
    "why": "맞아! 졸업식 날 기쁜 마음과 섭섭한 마음이 따로따로 오지 않고 한꺼번에 들었잖아. 두 마음이 둘 다 살아 있으면서 한데 섞여서 온 거라 바로 그게 mingle이야."
-  },
-  {
-   "type": "ox",
-   "question": "운동회가 끝나고, 청팀 아이들과 백팀 아이들이 한 무리로 어울려 돗자리에 같이 앉아 간식을 나눠 먹었어. 이건 'mingle'이야?",
-   "choices": [
-    "응, mingle 맞아",
-    "아니, mingle 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, mingle 맞아",
-   "why": "맞아! 청팀 아이들이랑 백팀 아이들이 한 무리로 어울려서 돗자리에 같이 앉아 간식을 나눠 먹었잖아. 서로 다른 팀 아이들이 한데 섞여 어울린 거니까 이게 바로 mingle이야."
-  },
-  {
-   "type": "ox",
-   "question": "운동회가 끝나고, 청팀 아이들은 청팀끼리, 백팀 아이들은 백팀끼리 운동장 양쪽 끝에 따로 앉아 간식을 먹었어. 이건 'mingle'이야?",
-   "choices": [
-    "응, mingle 맞아",
-    "아니, mingle 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, mingle 아니야",
-   "why": "맞아! 청팀은 청팀끼리, 백팀은 백팀끼리 운동장 양쪽 끝에 따로 앉았잖아. 두 팀이 한데 섞이지 않고 나뉘었으니까 mingle이 아닌 거야."
   }
  ],
  "synonyms": [],
@@ -82,6 +60,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/mingle.webp",
   "alt": "졸업식 날 기쁜 마음과 섭섭한 마음이 함께 드는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

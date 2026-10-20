@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/sin/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/sin/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/sin/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "sin",
  "slug": "sin",
  "url": "https://hibbangyong.com/words/sin/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, sin 아니야",
    "why": "맞아! 우산 씌워 주고 같이 걸어간 건 누가 봐도 잘한 일이잖아. sin은 하면 안 되는 그른 짓을 부르는 말이라서, 착한 일한테는 절대 안 붙어."
-  },
-  {
-   "type": "ox",
-   "question": "할머니가 시장에서 거스름돈을 만 원 더 받았어. 지호는 그걸 봤고 할머니도 알았는데, 둘 다 아무 말 안 하고 그냥 왔어. 지호는 집에 와서도 그 생각이 계속 났어. 이게 'sin'이야?",
-   "choices": [
-    "응, sin 맞아",
-    "아니, sin 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, sin 맞아",
-   "why": "맞아! 아무도 혼내지 않았고 돈을 물어낸 것도 아닌데, 지호는 집에 와서까지 그게 계속 생각났잖아. 벌은 없어도 마음에 그대로 걸려 있는 것, 그게 바로 sin인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "민수네 반 아이들이 어제 있었던 일을 하나씩 말했어. 이 중에서 'sin'이라고 부르기에 가장 알맞은 건 누구 일이야?",
-   "choices": [
-    "지호: 동생 간식을 아무도 없을 때 다 먹고는 안 먹은 척했어",
-    "윤아: 세우면 안 되는 자리인 걸 알고 자전거를 세웠다가 딱지를 뗐어",
-    "태오: 팔을 휘두르다가 옆 친구 우유를 쏟아서 다 흘렸어",
-    "하린: 이불 개는 걸 매일 잊어버려서 어제도 안 갰어"
-   ],
-   "answer_index": 0,
-   "answer": "지호: 동생 간식을 아무도 없을 때 다 먹고는 안 먹은 척했어",
-   "why": "맞아! 아무도 안 볼 때 몰래 먹고 안 먹은 척까지 한 거잖아. 들키지도 않았고 혼나지도 않았는데 마음에 그대로 남아서 미안해지는 일, 그게 바로 sin이야."
   }
  ],
  "synonyms": [],
@@ -96,6 +72,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/sin.webp",
   "alt": "신이 먹지 말라고 한 열매를 사람이 먹은 옛이야기 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/accrue/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/accrue/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/accrue/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "accrue",
  "slug": "accrue",
  "url": "https://hibbangyong.com/words/accrue/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, accrue 맞아",
    "why": "맞아! 연체료 1,000원은 한 번에 생긴 게 아니라 열흘 동안 하루에 100원씩 붙어서 네가 낼 돈으로 불어난 거잖아. 손해라도 시간 따라 조금씩 붙어 쌓이면 바로 accrue야."
-  },
-  {
-   "type": "ox",
-   "question": "교통카드에 2만 원을 충전해 두고 한 달 동안 버스를 탈 때마다 요금이 빠져나가서, 잔액이 조금씩 줄어 3천 원이 됐어. 이 잔액이 바뀐 걸 'accrue'라고 할 수 있을까?",
-   "choices": [
-    "응, accrue 맞아",
-    "아니, accrue 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, accrue 아니야",
-   "why": "맞아! 버스 탈 때마다 요금이 빠져나가서 잔액이 2만 원에서 3천 원으로 줄어든 거잖아. accrue는 시간 따라 조금씩 붙어서 불어나는 거니까, 이렇게 줄어든 건 오히려 반대인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 한 달 동안 생긴 일을 말했어. 'accrue'를 쓰기 가장 알맞은 건 누구 이야기일까?",
-   "choices": [
-    "한 달 동안 매일 운동장 쓰레기를 주워서 큰 봉투에 모았어",
-    "빌린 돈을 안 갚았더니 한 달 동안 갚을 돈이 매주 더해졌어",
-    "한 달 동안 매일 물을 줬더니 화분 속 식물 키가 조금씩 자랐어",
-    "한 달 동안 용돈을 매주 조금씩 써서 지갑 속 돈이 줄어들었어"
-   ],
-   "answer_index": 1,
-   "answer": "빌린 돈을 안 갚았더니 한 달 동안 갚을 돈이 매주 더해졌어",
-   "why": "맞아! 빌린 돈을 안 갚고 있었더니 누가 일부러 보탠 것도 아닌데 시간이 가면서 갚을 돈이 매주 붙어서 불어났잖아. 그게 바로 accrue야. 이렇게 좋은 것만 붙어서 불어나는 게 아니라 갚아야 할 돈처럼 반갑지 않은 것도 붙어서 불어날 수 있어."
   }
  ],
  "synonyms": [],

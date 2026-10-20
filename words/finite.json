@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/finite/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/finite/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/finite/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "finite",
  "slug": "finite",
  "url": "https://hibbangyong.com/words/finite/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, finite 맞아",
    "why": "맞아! 하나씩 밟고 올라가다 보면 마지막 계단이 딱 나오잖아. 더 위가 없는 데가 있으니까 바로 그게 finite인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "짝수를 불러 봤어. 2, 4, 6, 8... 아무리 불러도 다음 짝수가 또 나와. 이게 'finite'야?",
-   "choices": [
-    "응, finite 맞아",
-    "아니, finite 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, finite 아니야",
-   "why": "맞아! 2, 4, 6, 8 하고 아무리 가도 다음 짝수가 또 나오잖아. 끝나는 데가 없으니까 finite가 아닌 게 맞아."
-  },
-  {
-   "type": "ox",
-   "question": "페인트가 한 통 있어. 페인트는 구슬처럼 하나 둘 셀 수가 없어. 이 통으로 벽을 칠하다 보면 통이 비어. 이런 경우도 'finite'야?",
-   "choices": [
-    "응, finite 맞아",
-    "아니, finite 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, finite 맞아",
-   "why": "맞아! 통에 든 만큼 칠하다 보면 결국 바닥이 나잖아. 하나 둘 못 세도 여기까지가 다인 데가 딱 있으니까 그게 finite인 거야."
   }
  ],
  "synonyms": [],
@@ -78,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/finite.webp",
   "alt": "운동장 모래알을 하나씩 다 세면 마지막 한 알이 나오는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

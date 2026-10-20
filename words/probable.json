@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/probable/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/probable/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/probable/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "probable",
  "slug": "probable",
  "url": "https://hibbangyong.com/words/probable/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, probable 맞아",
    "why": "맞아! 한여름 햇볕이 쨍쨍 드는 창가에 초콜릿을 두 시간이나 뒀잖아. 직접 보진 못했어도 녹아 있을 쪽이 훨씬 크니까, 바로 그게 probable인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "눈이 펑펑 쏟아지는 한겨울 아침이야. 오늘 낮에 반팔만 입고 밖에서 땀을 뻘뻘 흘리며 놀게 될 거라는 것, 이건 'probable'이야?",
-   "choices": [
-    "응, probable 맞아",
-    "아니, probable 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, probable 아니야",
-   "why": "맞아! 눈이 펑펑 쏟아지는 한겨울 아침이잖아. 그런 날 낮에 반팔만 입고 땀을 뻘뻘 흘리며 놀 일은 거의 없거든. 그렇게 될 것 같지 않으니까 probable이 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "친구 가방에서 축구공이 삐죽 나와 있고, 친구는 축구화를 신고 있어. 친구가 말해 준 건 아직 없어. 이런 경우도 친구가 방과후에 축구하러 가는 걸 'probable'이라고 해도 돼?",
-   "choices": [
-    "응, 'probable' 맞아",
-    "아니, 'probable' 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, 'probable' 맞아",
-   "why": "맞아! 가방에서 축구공이 삐죽 나와 있고 축구화까지 신고 있잖아. 친구가 아직 말해 준 건 없지만 축구하러 갈 쪽이 훨씬 크니까, 바로 그게 probable인 거야."
   }
  ],
  "synonyms": [],
@@ -87,6 +65,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/probable.webp",
   "alt": "빈 과자 봉지와 입가에 가루 묻은 동생(누가 먹었나 짐작)",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

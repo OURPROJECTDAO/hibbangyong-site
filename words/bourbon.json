@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/bourbon/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/bourbon/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/bourbon/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "bourbon",
  "slug": "bourbon",
  "url": "https://hibbangyong.com/words/bourbon/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, bourbon 아니야",
    "why": "맞아! 옥수수수염차는 옥수수가 들어가도 초등학생 동생도 마시는 음료잖아. bourbon은 옥수수로 만든 어른들 술(위스키)이라서, 술이 아닌 이 차는 bourbon이 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "미국 켄터키의 한 양조장에서 가이드가 설명해. \"여기서는 옥수수를 주재료로 해서 위스키를 만들어요.\" 이 양조장에서 만드는 위스키는 'bourbon'일까?",
-   "choices": [
-    "응, bourbon 맞아",
-    "아니, bourbon 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, bourbon 맞아",
-   "why": "맞아! 켄터키는 미국이고, 옥수수를 주재료로 만든 위스키라고 가이드가 말했잖아. 미국, 옥수수, 위스키 세 가지가 다 맞으니까 바로 그게 bourbon인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "가게에 병 네 개가 있는데, 그중 하나에만 'bourbon'이라는 이름표가 붙어 있어. 어떤 병일까?",
-   "choices": [
-    "미국에서 옥수수로 빚어 나무통에 묵힌 술",
-    "스코틀랜드에서 보리로 빚어 나무통에 묵힌 술",
-    "미국에서 보리로 빚은 거품 나는 맥주",
-    "미국에서 옥수수로 만든 달콤한 탄산음료"
-   ],
-   "answer_index": 0,
-   "answer": "미국에서 옥수수로 빚어 나무통에 묵힌 술",
-   "why": "맞아! bourbon은 미국에서 옥수수로 빚어서 나무통에 묵힌 술이야. 나라도 곡식도 술 종류도 다 맞는 병은 이것 하나뿐이야."
   }
  ],
  "synonyms": [],
@@ -86,6 +62,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/bourbon.webp",
   "alt": "영화 속 카우보이가 작은 잔에 갈색 술을 따르는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

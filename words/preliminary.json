@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/preliminary/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/preliminary/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/preliminary/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "preliminary",
  "slug": "preliminary",
  "url": "https://hibbangyong.com/words/preliminary/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, 맞아",
    "why": "맞아! 피검사랑 엑스레이는 무릎 수술 날짜를 잡기 전에 먼저 한 거잖아. 수술이라는 본게임 앞에 거치는 단계라서 바로 preliminary 검사인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "요리 대회에서 모든 심사가 다 끝났어. 사회자가 무대에 올라와서 마지막으로 올해 1등이 누구인지 발표했어. 이 발표를 'preliminary' 발표라고 부를 수 있을까?",
-   "choices": [
-    "응, 맞아",
-    "아니, 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, 아니야",
-   "why": "맞아! 모든 심사가 다 끝나고 사회자가 마지막으로 1등을 발표한 거니까, 이건 본게임 앞 단계가 아니라 최종 발표야. preliminary는 본격적인 일에 앞서 먼저 하는 거라서 이 발표에는 안 맞아."
-  },
-  {
-   "type": "choice",
-   "question": "학교 축제를 준비하면서 모임을 여러 번 했어. 'preliminary' 모임이라고 부를 수 있는 건 어느 거야?",
-   "choices": [
-    "축제가 끝나고 잘한 점을 돌아보는 모임",
-    "다음 주 전체 회의 전에 안건부터 정해 두는 모임",
-    "축제 전날 모든 걸 최종으로 확정하는 모임",
-    "시간이 없어서 오 분 만에 대충 끝낸 모임"
-   ],
-   "answer_index": 1,
-   "answer": "다음 주 전체 회의 전에 안건부터 정해 두는 모임",
-   "why": "맞아! 다음 주 전체 회의가 본게임이고, 안건부터 정해 두는 모임은 그 앞에 먼저 하는 단계잖아. 바로 그게 preliminary인 거야."
   }
  ],
  "synonyms": [],
@@ -88,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/preliminary.webp",
   "alt": "큰 일 앞에 먼저 거치는 단계",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

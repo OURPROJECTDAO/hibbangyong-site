@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/gulf/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/gulf/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/gulf/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "gulf",
  "slug": "gulf",
  "url": "https://hibbangyong.com/words/gulf/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, gulf 맞아",
    "why": "맞아! 어부 배가 있는 데는 바닷물이 육지 안쪽으로 아주 넓게 들어와 있고, 왼쪽 육지도 오른쪽 육지도 저 멀리 있거든. 가운데가 온통 바다인 그 넓은 데가 바로 gulf인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "제주 근처를 지나가며 형이 말했어. \"저기 봐, 사방이 전부 바닷물이고 그 한가운데에 땅이 솟아 있어. 배를 타야만 저 땅에 발을 디딜 수 있어.\" 이게 'gulf'야?",
-   "choices": [
-    "응, gulf 맞아",
-    "아니, gulf 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, gulf 아니야",
-   "why": "잘 골랐어! 형이 본 건 사방이 전부 바닷물이고 그 한가운데에 땅이 솟아 있는 거잖아. gulf는 거꾸로 땅이 양옆으로 감싸고 그 안쪽이 바다인 거라서, 이건 gulf가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 아이가 각자 사는 동네 물가를 그림으로 그렸어. 'gulf'를 그린 아이는 누구일까?",
-   "choices": [
-    "바닷물이 땅 안쪽으로 넓게 쑥 들어와, 땅이 양옆으로 그 물을 감싸고 있는 그림",
-    "땅이 바다 쪽으로 길게 뻗어 나가, 물이 그 땅을 양옆에서 감싸고 있는 그림",
-    "양쪽 넓은 바다를 잇는 좁고 긴 물길이 배들로 붐비는 그림",
-    "둘레가 온통 물이고 가운데만 땅인, 배를 타야 닿는 그림"
-   ],
-   "answer_index": 0,
-   "answer": "바닷물이 땅 안쪽으로 넓게 쑥 들어와, 땅이 양옆으로 그 물을 감싸고 있는 그림",
-   "why": "맞아! 바닷물이 땅 안쪽으로 넓게 쑥 들어와 있고, 땅이 양옆에서 그 바닷물을 감싸고 있잖아. 바로 그게 gulf인 거야."
   }
  ],
  "synonyms": [
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/gulf.webp",
   "alt": "세계지도에서 바닷물이 육지 안쪽으로 들어와 앉은 데",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

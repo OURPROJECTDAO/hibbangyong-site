@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/enormous/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/enormous/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/enormous/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "enormous",
  "slug": "enormous",
  "url": "https://hibbangyong.com/words/enormous/",
@@ -45,30 +45,6 @@
    "answer_index": 1,
    "answer": "서연이 키를 훌쩍 넘게 부푼 비눗방울",
    "why": "맞아! 서연이 키를 훌쩍 넘을 만큼 커다래진 비눗방울이면 보는 사람 입이 딱 벌어지잖아. 그렇게 놀랄 만큼 어마어마한 게 바로 enormous야."
-  },
-  {
-   "type": "choice",
-   "question": "민준이가 캠핑장에서 텐트들을 구경했어. 다음 중 'enormous'에 해당하는 텐트는?",
-   "choices": [
-    "혼자 앉으면 무릎이 벽에 닿는 텐트",
-    "어른 두 명이 나란히 누우면 꽉 차는 텐트",
-    "어른 열 명이 안에 서 있어도 자리가 남는 텐트",
-    "인형 하나 겨우 들어가는 장난감 텐트"
-   ],
-   "answer_index": 2,
-   "answer": "어른 열 명이 안에 서 있어도 자리가 남는 텐트",
-   "why": "맞아! 어른이 열 명이나 들어가서 서 있는데도 자리가 남는다니, 보고 입이 딱 벌어지지. 그냥 큰 게 아니라 놀랄 만큼 커야 enormous인 거야."
-  },
-  {
-   "type": "ox",
-   "question": "태호가 형 자전거를 빌려 타다가 넘어져서 앞바퀴가 완전히 휘고 체인도 다 끊어졌어. 고치는 데 새로 사는 값만큼 든대. 태호가 저지른 이 잘못도 'enormous'야?",
-   "choices": [
-    "응, enormous 맞아",
-    "아니, enormous 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, enormous 맞아",
-   "why": "맞아! 자전거가 새로 살 만큼 망가졌으면 그 실수는 어마어마하게 큰 거잖아. enormous는 좋은 일에만 쓰는 말이 아니라서, 이렇게 큰 사고에도 그대로 쓸 수 있는 거야."
   }
  ],
  "synonyms": [],
@@ -95,6 +71,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/enormous.webp",
   "alt": "두 팔로 겨우 안는 수박",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

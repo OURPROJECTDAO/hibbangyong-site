@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/privacy/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/privacy/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/privacy/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "privacy",
  "slug": "privacy",
  "url": "https://hibbangyong.com/words/privacy/",
@@ -43,30 +43,6 @@
    "answer_index": 0,
    "answer": "응, privacy 맞아",
    "why": "맞아! 세아가 자기 일을 자기만 알고 있기로 정한 거고, 아빠도 노크하고 안 들어갔잖아. 그러니까 딱 privacy인 거야. 세아가 나쁜 짓을 한 게 아니라 그냥 내 일은 내가 정한 거야."
-  },
-  {
-   "type": "ox",
-   "question": "준호가 버스 정류장에서 종이 한 장을 들고 있었어. 옆에 서 있던 아저씨도, 뒤에 앉은 할머니도, 지나가던 학생도 그 종이에 뭐가 적혔는지 다 읽었어. 이게 'privacy'야?",
-   "choices": [
-    "응, privacy 맞아",
-    "아니, privacy 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, privacy 아니야",
-   "why": "바로 그거야! 아저씨도 할머니도 지나가던 학생도 그 종이를 다 읽었잖아. 남들이 다 볼 수 있으면 나만 아는 게 아니니까, 이건 privacy가 아닌 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구들이 어제 자기 집에서 있었던 일을 하나씩 말했어. 이 중에서 'privacy'를 안 지켜준 사람은 누구일까?",
-   "choices": [
-    "형이 동생 자전거를 말도 없이 타고 나갔다가, 바퀴를 망가뜨렸다",
-    "친구가 유리컵을 깨뜨리고는, 아무한테도 말하지 않고 혼자 치웠다",
-    "동생이 누나 서랍을 열어 일기장을 읽고는, 별 내용 없더라고 말했다",
-    "옆집 아이가 하루 종일 방에 혼자 있었는데, 아무도 말을 걸지 않았다"
-   ],
-   "answer_index": 2,
-   "answer": "동생이 누나 서랍을 열어 일기장을 읽고는, 별 내용 없더라고 말했다",
-   "why": "맞아! 서랍 열고 일기장 읽은 거, 바로 그게 남의 자리에 쑥 들어간 거야. 게다가 별 내용 없더라고 말했잖아? 감출 게 있든 없든 상관없어. 보여줄지 말지는 누나가 정하는 거였거든. 그걸 대신 정해버려서 privacy를 안 지켜준 거야."
   }
  ],
  "synonyms": [],
@@ -95,6 +71,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/privacy.webp",
   "alt": "문 닫은 방을 누가 벌컥 여는 순간",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

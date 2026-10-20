@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/conviction/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/conviction/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/conviction/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "conviction",
  "slug": "conviction",
  "url": "https://hibbangyong.com/words/conviction/",
@@ -43,28 +43,6 @@
    "answer_index": 0,
    "answer": "응, conviction 맞아",
    "why": "맞아! 판사가 이 남자한테 과자를 훔친 죄가 있다고 딱 정했잖아. 재판에서 죄가 있다고 정한 그 판결이 바로 conviction이야. 과자 하나처럼 작은 잘못이어도 똑같아."
-  },
-  {
-   "type": "ox",
-   "question": "회사 돈을 몰래 가져갔다는 의심을 받은 직원이 재판을 받았어. 판사가 '이 사람은 회사 돈을 가져간 죄가 없다'고 판결했어. 이 판결은 'conviction'일까?",
-   "choices": [
-    "응, conviction 맞아",
-    "아니, conviction 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, conviction 아니야",
-   "why": "맞아! 판사가 이 직원한테 회사 돈을 가져간 죄가 없다고 판결했잖아. conviction은 죄가 있다고 정해질 때만 쓰는 말이라서, 죄가 없다는 이 판결은 conviction이 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "편의점 CCTV에 찍힌 모습 때문에 경찰이 한 남자를 집 앞에서 붙잡아 경찰서로 데려갔어. 경찰에게 이렇게 붙잡혀 간 것도 'conviction'이야?",
-   "choices": [
-    "응, conviction 맞아",
-    "아니, conviction 아니야"
-   ],
-   "answer_index": 1,
-   "answer": "아니, conviction 아니야",
-   "why": "맞아! 경찰이 남자를 붙잡아 경찰서로 데려간 건 아직 의심받는 단계일 뿐이야. conviction은 재판에서 법원이 죄 지은 게 맞다고 딱 정해야 붙는 말이거든."
   }
  ],
  "synonyms": [],
@@ -78,6 +56,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/conviction.webp",
   "alt": "재판에서 법원이 유죄를 정하는 순간(체포·고소와 다른 단계)",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

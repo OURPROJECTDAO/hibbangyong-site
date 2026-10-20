@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/blast/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/blast/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/blast/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "blast",
  "slug": "blast",
  "url": "https://hibbangyong.com/words/blast/",
@@ -43,30 +43,6 @@
    "answer_index": 1,
    "answer": "아니, blast 아니야",
    "why": "맞아! 호숫가에는 아무 소리도 없고 물도 가만히 있었잖아. 아무것도 꽝 터지지 않았으니까 blast가 아닌 거야."
-  },
-  {
-   "type": "ox",
-   "question": "낡은 빌딩을 허물려고 사람들이 빌딩 안에 장치를 넣고 일부러 한 번에 꽝! 터뜨렸어. 먼지랑 조각이 사방으로 확 밀려나갔어. 이게 'blast'야?",
-   "choices": [
-    "응, blast 맞아",
-    "아니, blast 아니야"
-   ],
-   "answer_index": 0,
-   "answer": "응, blast 맞아",
-   "why": "맞아! 사람들이 빌딩 안에 장치를 넣고 한 번에 꽝! 터뜨렸고, 먼지랑 조각이 사방으로 확 밀려나갔잖아. 이렇게 안에서 한순간에 터지면서 둘레로 밀려나가는 게 바로 blast인 거야."
-  },
-  {
-   "type": "choice",
-   "question": "네 친구가 각자 본 일을 말했어. 'blast'라고 부를 수 있는 건 누가 본 일일까?",
-   "choices": [
-    "큰 불이 번져서 창고가 몽땅 타 버렸어",
-    "망치로 바위를 쾅쾅 내리쳐서 깨뜨렸어",
-    "가스통이 꽝 터져서 둘레 유리창이 깨졌어",
-    "트럭 두 대가 쾅 부딪혀서 유리가 깨졌어"
-   ],
-   "answer_index": 2,
-   "answer": "가스통이 꽝 터져서 둘레 유리창이 깨졌어",
-   "why": "맞아! 가스통이 안에서 한순간에 꽝 터졌고, 그 힘이 둘레로 퍼져서 유리창까지 깨졌잖아. 바로 그게 blast인 거야."
   }
  ],
  "synonyms": [
@@ -82,6 +58,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/blast.webp",
   "alt": "공사장에서 바위를 깨려고 일부러 터뜨리는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

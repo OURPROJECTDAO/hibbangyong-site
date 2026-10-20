@@ -1,13 +1,13 @@
 {
- "license": "https://creativecommons.org/licenses/by-nc/4.0/",
- "license_name": "CC BY-NC 4.0",
+ "terms": "https://hibbangyong.com/words/terms/",
  "copyright_holder": "에스에스일레븐",
  "attribution": "출처: 하이빵용(hibbangyong.com/words/engine/)",
- "commercial_use": false,
+ "quote_per_entry": true,
+ "bulk_reuse": false,
  "excludes": [
   "images"
  ],
- "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/engine/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "note": "이 페이지의 글은 출처(하이빵용 · hibbangyong.com/words/engine/)를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요.",
  "word": "engine",
  "slug": "engine",
  "url": "https://hibbangyong.com/words/engine/",
@@ -43,32 +43,6 @@
    "answer_index": 1,
    "answer": "아니, engine 아니야",
    "why": "맞아! 천을 미는 건 바람이잖아. 천은 스스로 힘을 하나도 못 만들고 그냥 밀리는 거라서 engine이 아닌 거야. 진짜 engine은 아무도 안 밀어도 안에서 혼자 힘을 만들어 내거든."
-  },
-  {
-   "type": "choice",
-   "question": "큰 배 안을 구경하러 들어갔어. 배에서 'engine'은 어느 거야?",
-   "choices": [
-    "아래층에서 부르릉 돌면서 배를 앞으로 나아가게 하는 쇳덩이",
-    "맨 위층에서 바람에 펄럭이면서 색이 알록달록한 깃발",
-    "뱃머리에 걸어 두고 물속으로 던져서 배를 세워 두는 쇠갈고리",
-    "갑판에 줄지어 놓여서 사람들이 앉아 바다를 보는 나무 의자"
-   ],
-   "answer_index": 0,
-   "answer": "아래층에서 부르릉 돌면서 배를 앞으로 나아가게 하는 쇳덩이",
-   "why": "맞아! 아무도 안 미는데 부르릉 돌면서 배를 앞으로 나아가게 하잖아. 안에서 힘을 만들어 내니까 배가 혼자 달리는 거야. 바로 그게 engine이야."
-  },
-  {
-   "type": "choice",
-   "question": "아빠가 자동차 앞뚜껑을 열고 안을 보여 줬어. 아빠가 가리킨 것 중에 'engine'은 어느 거야?",
-   "choices": [
-    "열쇠를 돌리자 부르릉 떨면서 바퀴를 돌리기 시작한 쇳덩이",
-    "그 쇳덩이 안으로 흘러들어 가라고 기름을 가득 채워 둔 통",
-    "뚜껑까지 덮고 나면 길로 나가는 그 빨간 자동차 통째로",
-    "시동이 안 걸릴 때 뒤에서 밀어 주는 옆집 아저씨"
-   ],
-   "answer_index": 0,
-   "answer": "열쇠를 돌리자 부르릉 떨면서 바퀴를 돌리기 시작한 쇳덩이",
-   "why": "맞아! 부르릉 힘을 스스로 만들어서 바퀴를 돌리기 시작했잖아. 아무도 안 밀었는데 자기 안에서 힘이 생긴 그 쇳덩이, 그게 바로 engine인 거야."
   }
  ],
  "synonyms": [
@@ -90,6 +64,6 @@
  "image": {
   "url": "https://hibbangyong.com/words/img/engine.webp",
   "alt": "장난감 자동차를 손으로 밀어 굴리는 장면",
-  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+  "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }
