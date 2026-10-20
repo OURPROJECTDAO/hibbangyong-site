@@ -1,7 +1,15 @@
 {
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "낱말 페이지의 글(뜻풀이·설명·예문·문제)은 출처를 밝히면 인용할 수 있어요. 상업적 이용은 안 돼요. 그림은 빠져요.",
  "updated": "2026-10-20",
  "source": "하이빵용 (https://hibbangyong.com/)",
- "cite_note_draft": "이 페이지의 뜻풀이·설명·문제는 출처(하이빵용, 이 페이지 주소)를 밝히면 인용할 수 있어요.",
  "words": [
   {
    "word": "curious",
