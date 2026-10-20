@@ -1,0 +1,92 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/loud/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/loud/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "loud",
+ "slug": "loud",
+ "url": "https://hibbangyong.com/words/loud/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "소리가 빵빵 크게 나는",
+ "gloss_ko": "소리가 크게 나는",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "와, TV 소리를 확 키웠더니 온 방이 쩌렁쩌렁 울려!",
+  "소리가 어찌나 큰지 옆방, 저 멀리까지 다 들리잖아.",
+  "높은 소리냐고? 아니아니, 음이 높은 거랑은 달라. 그냥 소리가 크다는 거야.",
+  "쾅 터지는 소리든, 쩌렁쩌렁 큰 노래든, 소리가 빵 큰 게 loud야."
+ ],
+ "scene": "TV를 확 키웠더니 온 방이 쩌렁쩌렁, 멀리까지 들릴 만큼 소리가 큼",
+ "examples": [
+  {
+   "en": "The music at the party was very loud.",
+   "ko": "파티의 음악 소리가 아주 시끄러웠어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "운동장에서 폭죽이 펑! 하고 터지자, 저 멀리 교문 밖에 있던 사람들까지 깜짝 놀라 휙 돌아봤어. 이게 'loud'야?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 맞아",
+   "why": "맞아! 교문 밖 저 멀리까지 사람들이 다 듣고 깜짝 놀랐잖아. 그렇게 소리가 빵 크게 퍼지는 게 바로 loud인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "낮잠 든 동생이 깰까 봐 발끝으로 살금살금 걸어서, 방 안에 거의 아무 소리도 나지 않았어. 이게 'loud'야?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 아니야",
+   "why": "맞아! 발끝으로 살금살금, 방이 거의 쥐 죽은 듯 조용했잖아. 소리가 빵빵 큰 게 loud인데 지금은 거의 소리가 안 났으니까, loud가 아닌 게 딱 맞는 거야."
+  },
+  {
+   "type": "choice",
+   "question": "친구가 \"소리가 loud 했어\"라고 말했어. 어떤 상황이 가장 잘 맞을까?",
+   "choices": [
+    "북을 쾅쾅 쳐서, 멀리까지 다 들릴 만큼 소리가 컸다",
+    "피리를 불어서, 삐익 아주 높은 음의 소리가 났다",
+    "북이 아주 커다랗고 묵직해서, 번쩍 들기 힘들었다",
+    "속닥속닥, 바로 옆에서도 안 들릴 만큼 소리가 작았다"
+   ],
+   "answer_index": 0,
+   "answer": "북을 쾅쾅 쳐서, 멀리까지 다 들릴 만큼 소리가 컸다",
+   "why": "맞아! 북을 쾅쾅 쳐서 멀리까지 다 들릴 만큼 소리가 빵 컸지? 소리가 그렇게 크게 나는 게 바로 loud야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "quiet"
+ ],
+ "confusable": [],
+ "related_scene": [
+  "alarm",
+  "bang",
+  "boom",
+  "roar"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-loud",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-loud"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/loud.webp",
+  "alt": "TV를 확 키웠더니 온 방이 쩌렁쩌렁, 멀리까지 들릴 만큼 소리가 큼",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

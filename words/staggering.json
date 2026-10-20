@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/staggering/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/staggering/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "staggering",
+ "slug": "staggering",
+ "url": "https://hibbangyong.com/words/staggering/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "엄청난 — 듣는 순간 멍해질 만큼 양·수·정도가 어마어마한",
+ "gloss_ko": "멍해질 만큼 엄청난",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "급식실에서 1년 동안 버린 밥 양을 들었는데, 트럭 수십 대 분량이래.",
+  "그냥 많은 게 아니야. 듣는 순간 멍해질 만큼 커.",
+  "좋은 일에도 써. 신인 가수 영상이 하루 만에 조회수 천만을 찍었다, 이런 것도 그래.",
+  "'크네' 하고 넘어가는 정도랑은 달라. 머리가 잠깐 휘청할 만큼이어야 해. 비틀거린다는 뜻의 stagger에서 나온 말이거든."
+ ],
+ "scene": "급식실에서 1년 동안 버린 음식물 쓰레기 양",
+ "examples": [
+  {
+   "en": "The team raised a staggering amount of money for the new hospital.",
+   "ko": "그 팀이 새 병원 짓는 데 쓰라고 입이 떡 벌어질 만큼 큰돈을 모았어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "짝꿍 필통 속 볼펜이 어제보다 한 자루 줄었다는 얘기를 들었어. 이 변화를 'staggering'이라고 부를 수 있을까?",
+   "choices": [
+    "응, staggering 맞아",
+    "아니, staggering 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, staggering 아니야",
+   "why": "맞아! 볼펜이 한 자루 줄어든 건 짝꿍도 그냥 넘길 만큼 작은 변화라서 staggering이 아니야. staggering은 듣는 순간 머리가 휘청할 만큼 엄청나게 클 때 쓰는 말이거든."
+  },
+  {
+   "type": "ox",
+   "question": "과학 기사에서 지구에 사는 개미가 약 2경 마리라는 숫자를 읽었어. 이 숫자를 'staggering'이라고 부를 수 있을까?",
+   "choices": [
+    "응, staggering 맞아",
+    "아니, staggering 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, staggering 맞아",
+   "why": "맞아! 지구에 사는 개미가 약 2경 마리라니, 그냥 많은 게 아니라 듣는 순간 멍해질 만큼 어마어마한 수잖아. 그래서 바로 staggering인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "친구 네 명이 각자 요즘 있었던 일을 말했어. 그 일을 'staggering'이라고 부르기에 가장 알맞은 건?",
+   "choices": [
+    "동네 축제에 작년보다 사람이 열 명쯤 더 왔어.",
+    "신인 가수 콘서트 표 5만 장이 1분 만에 다 팔렸어.",
+    "밤새 못 자서 아침에 복도를 휘청휘청 걸었어.",
+    "우리 반에서 이번 주 지각한 애가 딱 한 명이었어."
+   ],
+   "answer_index": 1,
+   "answer": "신인 가수 콘서트 표 5만 장이 1분 만에 다 팔렸어.",
+   "why": "맞아! 표 5만 장이 1분 만에 다 팔렸다는 건 듣는 순간 멍해질 만큼 어마어마한 숫자라서, 바로 그게 staggering인 거야. 좋은 일에도 이렇게 쓸 수 있어."
+  }
+ ],
+ "synonyms": [
+  "phenomenal"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "astonishing",
+   "kind": "confusable",
+   "from": "vs astonishing"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-staggering",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-staggering"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/staggering.webp",
+  "alt": "급식실에서 1년 동안 버린 음식물 쓰레기 양",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

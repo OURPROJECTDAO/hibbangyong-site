@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/profile/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/profile/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "profile",
+ "slug": "profile",
+ "url": "https://hibbangyong.com/words/profile/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "어떤 사람을 한눈에 알게 해 주는 짤막한 소개 — 키·성격·잘하는 것처럼 핵심 몇 가지만 콕 집어 짧게 알려주는 것. 또, 옆에서 봤을 때 드러나는 얼굴·사물의 옆모습 윤곽도 profile이라고 해.",
+ "gloss_ko": "짤막한 소개",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "새 친구가 전학 왔을 때, 그 친구를 한번에 알고 싶잖아.",
+  "키가 크다, 축구를 잘한다, 조용한 성격이다 — 이렇게 딱 그 친구만의 핵심 몇 가지만 콕 집어 알려주는 걸 profile이라고 해.",
+  "다 자세히 적은 게 아니라, 중요한 것만 짧게 간추린 거야.",
+  "그리고 옆에서 봤을 때 보이는 얼굴 윤곽선도 profile이라고 부르는데, 오늘은 '짧은 소개'라는 뜻으로 기억해두자."
+ ],
+ "scene": "전학 온 친구를 반 아이들에게 키·성격·잘하는 것 몇 가지로 콕 집어 소개하는 카드",
+ "examples": [
+  {
+   "en": "You can read his profile to learn his name, his age, and what sport he loves.",
+   "ko": "그 애 프로필을 읽으면 이름이랑 나이, 좋아하는 운동을 알 수 있어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "지호네 반에 새 친구가 왔어. 반 아이들이 그 친구를 알 수 있게 뭔가 하나를 만들려고 해. 어떤 걸 그 친구의 'profile'이라고 부를 수 있을까?",
+   "choices": [
+    "키·좋아하는 것·잘하는 것처럼 그 친구만의 핵심 몇 가지만 콕 집어 짧게 적은 것",
+    "그 친구가 태어나서 지금까지 있었던 일을 하나도 안 빠뜨리고 전부 자세히 적은 것",
+    "그냥 얼굴 사진 한 장만 붙이고 아무 설명도 안 적은 것",
+    "그 친구랑 상관없는 이야기들을 아무렇게나 섞어서 적은 것"
+   ],
+   "answer_index": 0,
+   "answer": "키·좋아하는 것·잘하는 것처럼 그 친구만의 핵심 몇 가지만 콕 집어 짧게 적은 것",
+   "why": "맞아! 키가 크다, 축구를 잘한다, 이렇게 그 친구만의 중요한 것만 콕 집어 짧게 적었잖아. 딱 그렇게 핵심만 간추린 게 바로 profile인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "사물함 문에 어떤 아이의 얼굴 사진 딱 한 장만 붙어 있고, 글자는 하나도 안 적혀 있어. 이걸 그 아이의 'profile'이라고 할 수 있을까?",
+   "choices": [
+    "응, profile 맞아",
+    "아니, profile 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, profile 아니야",
+   "why": "맞아, profile이 아닌 게 맞아! 사진 한 장만 딱 붙어 있으면 그 아이가 뭘 잘하는지, 어떤 성격인지 하나도 모르잖아. 짧게라도 그 아이만의 핵심을 알려주는 게 있어야 profile인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "어떤 축구 선수가 태어나서 지금까지 겪은 일을 하나도 안 빼고 두꺼운 책 한 권에 빽빽이 다 적었어. 이 책을 그 선수의 'profile'이라고 부를 수 있어?",
+   "choices": [
+    "응, 그것도 profile이야",
+    "아니, 그건 profile이 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 그건 profile이 아니야",
+   "why": "맞아! profile은 그 사람 핵심만 콕콕 짧게 간추린 거거든. 태어나서 지금까지 하나도 안 빼고 다 적은 두꺼운 책은 짧게 간추린 게 아니라 처음부터 끝까지 다 풀어쓴 긴 이야기라서, 그건 profile이라고 안 해."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "biography",
+   "kind": "confusable",
+   "from": "전기(biography) — 처음부터 끝까지 다 풀어쓴 두꺼운 이야기책"
+  }
+ ],
+ "related_scene": [
+  "biography"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-profile",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-profile"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/profile.webp",
+  "alt": "전학 온 친구를 반 아이들에게 키·성격·잘하는 것 몇 가지로 콕 집어 소개하는 카드",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/degradation/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/degradation/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "degradation",
+ "slug": "degradation",
+ "url": "https://hibbangyong.com/words/degradation/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "굴욕 — 사람이 존중받지 못하고 품위가 깎여 내려가는 것, 넓게는 무언가의 상태가 점점 아래로 떨어지는 것",
+ "gloss_ko": "품위·상태 떨어짐",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "누가 날마다 사람들 앞에서 무시당하고 깔보이면, 그 사람은 점점 작아지는 기분이 들겠지?",
+  "존중받아야 할 사람이 아래로 끌어내려지는 것, 그게 degradation의 첫 번째 뜻이야.",
+  "같은 말을 강물, 땅, 배터리에도 써. 좋던 상태가 한 단계씩 떨어져 가는 거지.",
+  "한 번 말실수해서 창피한 거나, 한순간에 부서지는 거랑은 달라. grade(등급)가 de(아래로) 내려간다고 기억해."
+ ],
+ "scene": "날마다 사람들 앞에서 무시당하고 깔보이는 사람",
+ "examples": [
+  {
+   "en": "Having to beg for food every day was a real degradation for him.",
+   "ko": "매일 먹을 걸 구걸해야 했던 건 그 사람한테 진짜 굴욕이었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "회사에서 5년 동안 일한 직원이 대리에서 과장으로 올라갔어. 회의에서도 이제 그 사람 의견을 먼저 물어봐. 이 직원에게 일어난 일, 이게 'degradation'이야?",
+   "choices": [
+    "응, degradation 맞아",
+    "아니, degradation 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, degradation 아니야",
+   "why": "맞아! 대리에서 과장으로 올라가고 회의에서 의견을 먼저 물어봐 주는 건 위로 올라가서 더 대접받는 거라, 아래로 끌어내려지는 degradation이랑은 방향이 정반대야."
+  },
+  {
+   "type": "choice",
+   "question": "네 가지 일이 있었어. 이 중 'degradation'이라고 부르기 가장 알맞은 건?",
+   "choices": [
+    "사장이 직원을 날마다 손님들 앞에서 무시하고 깔봤어",
+    "발표 중에 말이 꼬여서 잠깐 얼굴이 빨개졌어",
+    "태풍이 와서 하룻밤 사이에 다리가 무너졌어",
+    "낡은 공원을 고쳐서 전보다 훨씬 깨끗해졌어"
+   ],
+   "answer_index": 0,
+   "answer": "사장이 직원을 날마다 손님들 앞에서 무시하고 깔봤어",
+   "why": "맞아! 사장이 직원을 날마다 손님들 앞에서 무시하고 깔봤잖아. 존중받아야 할 사람이 매일 조금씩 아래로 끌어내려진 거라서, 바로 그게 degradation인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "사진 한 장을 복사하고, 그 복사본을 또 복사하고, 또 복사했어. 복사할 때마다 화질이 한 단계씩 떨어져서 마지막엔 얼굴도 알아보기 힘들 만큼 흐려졌어. 이 사진의 화질에 일어난 일, 이게 'degradation'이야?",
+   "choices": [
+    "응, degradation 맞아",
+    "아니, degradation 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, degradation 맞아",
+   "why": "맞아! 선명하던 사진이 복사할 때마다 한 단계씩 흐려져서 마지막엔 얼굴도 못 알아볼 만큼 됐잖아. 좋던 화질이 점점 아래로 떨어진 거니까, 바로 그게 degradation이야."
+  }
+ ],
+ "synonyms": [
+  "humiliation"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "deterioration",
+   "kind": "confusable",
+   "from": "vs deterioration"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-degradation",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-degradation"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/degradation.webp",
+  "alt": "날마다 사람들 앞에서 무시당하고 깔보이는 사람",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

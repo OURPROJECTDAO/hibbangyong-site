@@ -1,0 +1,91 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/interrogation/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/interrogation/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "interrogation",
+ "slug": "interrogation",
+ "url": "https://hibbangyong.com/words/interrogation/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "심문 — 누군가 숨기거나 말하기 싫어하는 걸 알아내려고, 오래 세게 계속 묻는 것",
+ "gloss_ko": "세게 계속 묻는 심문",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "경찰이 방에 한 사람을 앉혀 놓고 몇 시간째 묻고 또 물어.",
+  "상대는 말하기 싫어하는데, 알아낼 때까지 쉽게 놓아주지 않아. 그게 interrogation이야.",
+  "경찰만 쓰는 말은 아니야. 늦게 들어온 날 엄마가 \"어디 갔어? 누구랑?\" 하고 계속 물어대도, 농담 삼아 interrogation이라고 해.",
+  "궁금해서 이것저것 편하게 묻는 거랑은 달라. 증거만 뒤지는 조사도 아니야. 사람한테 직접, 버티는 걸 뽑아내려고 묻는 거야."
+ ],
+ "scene": "경찰이 방에 한 사람을 앉혀 놓고 몇 시간째 묻는 장면",
+ "examples": [
+  {
+   "en": "When I got home late, I faced my mom's long interrogation at the kitchen table.",
+   "ko": "늦게 집에 왔더니, 엄마가 식탁에 나를 앉혀 놓고 한참을 캐물었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "버스 정류장에서 두 친구가 버스를 기다리며 \"주말에 무슨 영화 봤어?\", \"누구랑 갔어?\" 하고 서로 번갈아 묻고 답했어. 버스가 오자 둘 다 그냥 버스에 탔어. 이게 'interrogation'이야?",
+   "choices": [
+    "응, interrogation 맞아",
+    "아니, interrogation 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, interrogation 아니야",
+   "why": "맞아! interrogation은 상대가 말하기 싫어서 숨기는 걸 알아내려고 놓아주지 않고 계속 묻는 거야. 버스 정류장의 두 친구는 숨기는 것도 없이 영화 얘기를 서로 편하게 주고받았을 뿐이니까, 그냥 수다지 interrogation이 아니야."
+  },
+  {
+   "type": "ox",
+   "question": "형의 게임기 화면이 깨져 있었어. 형은 동생을 방에 앉혀 놓고 \"네가 떨어뜨렸지? 언제 만졌어?\" 하고 30분째 계속 물었어. 동생은 대답을 피했지만 형은 보내 주지 않았어. 이게 'interrogation'이야?",
+   "choices": [
+    "응, interrogation 맞아",
+    "아니, interrogation 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, interrogation 맞아",
+   "why": "맞아! 동생은 대답을 피하는데 형이 깨진 게임기 일을 알아내려고 보내 주지도 않고 30분째 계속 물었잖아. 숨기는 걸 뽑아내려고 직접 오래 몰아붙이는 거라서 이게 바로 interrogation이야."
+  },
+  {
+   "type": "choice",
+   "question": "다음 네 장면 중에서 'interrogation'이라고 부를 수 있는 건 어느 거야?",
+   "choices": [
+    "동아리 회비가 사라지자, 회장이 총무를 남겨 놓고 돈이 어디 갔냐고 한 시간 넘게 물었어",
+    "전학 온 친구에게 반 아이들이 쉬는 시간마다 좋아하는 게 뭐냐고 이것저것 물었어",
+    "경찰이 사라진 돈을 찾으려고 학교 CCTV 영상을 몇 시간 동안 계속 돌려 봤어",
+    "선생님이 수업 끝에 오늘 배운 내용을 아이들에게 한 명씩 돌아가며 물었어"
+   ],
+   "answer_index": 0,
+   "answer": "동아리 회비가 사라지자, 회장이 총무를 남겨 놓고 돈이 어디 갔냐고 한 시간 넘게 물었어",
+   "why": "맞아! 회비가 어디 갔는지 알아내려고 회장이 총무 한 사람을 남겨 놓고 한 시간 넘게 묻고 또 물었잖아. 쉽게 놓아주지 않고 한 사람한테 직접 캐묻는 거라서 이게 바로 interrogation이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "questioning",
+   "kind": "confusable",
+   "from": "vs questioning"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-interrogation",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-interrogation"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/interrogation.webp",
+  "alt": "경찰이 방에 한 사람을 앉혀 놓고 몇 시간째 묻는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/corpus/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/corpus/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "corpus",
+ "slug": "corpus",
+ "url": "https://hibbangyong.com/words/corpus/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "글 전체 모음 — 한 작가가 쓴 글이나 한 종류의 글을 빠짐없이 모아 놓은 것 (말을 연구하려고 모은 '말뭉치'도 이렇게 불러)",
+ "gloss_ko": "글 전체 모음",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "어떤 시인이 평생 쓴 시랑 편지를 한 장도 안 빼고 다 모았다고 해 봐. 그렇게 모은 글 전체가 corpus야.",
+  "꼭 한 사람이 쓴 글일 필요는 없어. '조선 시대 사람들이 쓴 편지 전부'처럼 한 종류의 글을 몽땅 모아도 corpus야.",
+  "요즘엔 말을 연구하려고 뉴스, 채팅, 대화 녹음까지 수백만 문장을 모아 두는데, 이것도 corpus라고 불러.",
+  "대표작 몇 편만 골라 뽑은 거나 그 작가에 대해 남이 쓴 책은 corpus가 아니야. 그 글들 자체를 통째로 모아야 돼."
+ ],
+ "scene": "한 시인이 평생 쓴 시와 편지를 빠짐없이 모으기",
+ "examples": [
+  {
+   "en": "Her corpus includes over two hundred poems and fifty letters.",
+   "ko": "그 시인이 남긴 글 전체에는 시가 이백 편 넘게, 편지가 쉰 통 들어 있어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "한 연구팀이 셰익스피어가 쓴 희곡과 시를 한 편도 빼지 않고 전부 한데 모았어. 이렇게 모은 글 전체를 셰익스피어의 corpus라고 할 수 있을까?",
+   "choices": [
+    "응, corpus 맞아",
+    "아니, corpus 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, corpus 맞아",
+   "why": "맞아! 연구팀이 셰익스피어가 쓴 희곡과 시를 한 편도 빼지 않고 전부 한데 모았잖아. 한 작가가 쓴 글을 통째로 모은 거니까 바로 그게 셰익스피어의 corpus인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "출판사가 한 소설가의 단편소설 가운데 가장 유명한 세 편만 골라 얇은 책 한 권으로 냈어. 이 책에 실린 세 편을 그 소설가의 corpus라고 할 수 있을까?",
+   "choices": [
+    "응, corpus 맞아",
+    "아니, corpus 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, corpus 아니야",
+   "why": "맞아! 출판사가 유명한 세 편만 골라서 얇은 책에 실은 거잖아. corpus는 그 소설가가 쓴 단편을 한 편도 안 빼고 통째로 모아야 하니까, 골라 뽑은 세 편은 corpus가 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "연구팀이 사람들이 인터넷에 실제로 쓴 댓글 수백만 개를 모아 컴퓨터 파일 하나에 저장했어. 이런 경우도 'corpus'야?",
+   "choices": [
+    "응, corpus 맞아",
+    "아니, corpus 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, corpus 맞아",
+   "why": "맞아! 사람들이 인터넷에 실제로 쓴 댓글을 수백만 개나 통째로 모아 둔 거잖아. 연구하려고 실제 글을 이렇게 잔뜩 모은 게 바로 corpus야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "database",
+   "kind": "confusable",
+   "from": "vs database"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-corpus",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-corpus"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/corpus.webp",
+  "alt": "한 시인이 평생 쓴 시와 편지를 빠짐없이 모으기",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

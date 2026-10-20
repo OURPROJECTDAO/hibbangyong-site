@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/allegation/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/allegation/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "allegation",
+ "slug": "allegation",
+ "url": "https://hibbangyong.com/words/allegation/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "(잘못했다는) 주장 — 누가 나쁜 짓을 했다고 말하지만, 아직 증명되지 않은 말",
+ "gloss_ko": "잘못했다는 주장",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "반에 이런 말이 돌아. \"민수가 시험 답지 몰래 봤대.\"",
+  "누가 잘못했다고 콕 집어 말하는데, 아직 증거는 없어. 이런 말이 allegation이야.",
+  "나중에 사실로 밝혀질 수도 있고, 거짓으로 끝날 수도 있어. 아직 모르는 거야.",
+  "그냥 떠도는 소문이나 이미 밝혀진 사실이랑은 달라. 잘못을 짚었는데 아직 확인 전인 말이야."
+ ],
+ "scene": "반 친구가 시험 답지를 몰래 봤다는 말이 돎",
+ "examples": [
+  {
+   "en": "The school is checking the allegation that someone stole the test answers.",
+   "ko": "학교는 누가 시험 답지를 훔쳤다는 그 주장이 진짜인지 알아보고 있어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "축구 경기가 끝나고, 상대 팀 감독이 기자들에게 \"저 팀 7번 선수가 일부러 우리 선수를 걷어찼다\"고 말했어. 심판 측은 아직 경기 영상을 확인하지 않았어. 감독의 이 말은 'allegation'일까?",
+   "choices": [
+    "응, allegation 맞아",
+    "아니, allegation 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, allegation 맞아",
+   "why": "맞아! 감독이 7번 선수가 일부러 걷어찼다고 잘못을 콕 집어 말했는데, 심판 측은 아직 영상을 확인하지 않았잖아. 잘못을 짚었지만 아직 증명은 안 된 말이니까 바로 그게 allegation인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "도서관 책이 찢어진 채로 발견됐어. 사서 선생님이 CCTV를 끝까지 확인해서, 한 학생이 그 책을 찢은 게 맞다고 확정해 공지했어. 이 공지 내용은 'allegation'일까?",
+   "choices": [
+    "응, allegation 맞아",
+    "아니, allegation 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, allegation 아니야",
+   "why": "맞아! 사서 선생님이 CCTV를 끝까지 보고 그 학생이 찢은 게 맞다고 확정했잖아. 이미 증명이 끝난 사실이니까 아직 확인 전인 말인 allegation이 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "반장과 학급비에 대한 네 가지 상황이 있어. 이 중에서 'allegation'이라고 부를 수 있는 건 뭘까?",
+   "choices": [
+    "선생님이 영수증을 다 확인한 뒤, 반장이 학급비를 몰래 썼다고 발표했어.",
+    "한 친구가 반장이 학급비를 몰래 썼다고 말했는데, 아직 아무도 확인하지 않았어.",
+    "반장이 다음 달에는 학급비를 조금 더 걷자고 반 친구들에게 말했어.",
+    "몇몇 친구들이 반장이 요즘 새 신발을 산 것 같다고 뒤에서 수군거렸어."
+   ],
+   "answer_index": 1,
+   "answer": "한 친구가 반장이 학급비를 몰래 썼다고 말했는데, 아직 아무도 확인하지 않았어.",
+   "why": "맞아! 한 친구가 반장이 학급비를 몰래 썼다고 잘못을 콕 집어 말했는데, 아직 아무도 확인하지 않았잖아. 잘못을 짚었지만 증명은 안 된 말, 바로 그게 allegation이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "claim",
+   "kind": "confusable",
+   "from": "vs claim"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-allegation",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-allegation"
+ },
+ "image": null
+}

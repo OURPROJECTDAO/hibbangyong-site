@@ -1,0 +1,94 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/price/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/price/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "price",
+ "slug": "price",
+ "url": "https://hibbangyong.com/words/price/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "값(가격) — 뭘 사려면 내야 하는 돈이 얼마인지 말하는 거야.",
+ "gloss_ko": "값(가격)",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "가게에서 장난감 하나 딱 골랐어. 근데 그냥 못 가져가지?",
+  "밑에 붙은 딱지에 '3000원' 이렇게 써 있잖아.",
+  "그게 이걸 손에 넣으려면 네가 내야 하는 돈이야.",
+  "싸든 비싸든, 그 '얼마'가 바로 price야."
+ ],
+ "scene": "가게에서 고른 장난감에 붙은 가격 딱지 '3000원'",
+ "examples": [
+  {
+   "en": "The price of the toy is three dollars.",
+   "ko": "그 장난감 값은 3달러야."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "친구 책상에 색연필 한 자루가 놓여 있어. 이 색연필을 재고 살펴서 네 가지를 적어 뒀어. 이 중에서 색연필의 'price'는 어느 걸까?",
+   "choices": [
+    "길이 15센티미터",
+    "무게 20그램",
+    "값 800원",
+    "굵기 7밀리미터"
+   ],
+   "answer_index": 2,
+   "answer": "값 800원",
+   "why": "맞아! 800원은 이 색연필을 손에 넣으려면 네가 내야 하는 돈이잖아. 그러니까 바로 그게 price인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "동네 축제에 갔더니 네 곳 앞에 팻말이 세워져 있었어. 이 중에서 'price'가 적힌 팻말은 어느 걸까?",
+   "choices": [
+    "미끄럼틀 앞 팻말: '누구나 타세요'",
+    "솜사탕 통 앞 팻말: '한 개 2000원'",
+    "식수대 앞 팻말: '물 마음껏 드세요'",
+    "벤치 앞 팻말: '앉아서 쉬어 가세요'"
+   ],
+   "answer_index": 1,
+   "answer": "솜사탕 통 앞 팻말: '한 개 2000원'",
+   "why": "맞아! 솜사탕 하나 손에 넣으려면 2000원을 내야 하잖아. 그렇게 얼마를 내야 하는지 적힌 게 바로 price인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "엄마가 자전거 하나를 두고 네 가지를 말했어. 이 중에서 자전거의 'price'는 어느 걸 말하는 걸까?",
+   "choices": [
+    "자전거를 가지려면 내야 하는 돈이 얼마인지",
+    "자전거가 얼마나 좋고 값어치가 있는지",
+    "네가 지금 지갑에 가지고 있는 돈이 얼마인지",
+    "자전거를 다 타고 난 뒤에 되팔 때 받는 돈"
+   ],
+   "answer_index": 0,
+   "answer": "자전거를 가지려면 내야 하는 돈이 얼마인지",
+   "why": "맞아! 자전거를 가지려면 네가 내야 하는 돈, 그 얼마가 딱 price거든. 가게에서 딱지에 써 있는 그 숫자 있잖아, 바로 그거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "expense",
+  "mark-up",
+  "tag",
+  "worth"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-price",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-price"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/price.webp",
+  "alt": "가게에서 고른 장난감에 붙은 가격 딱지 '3000원'",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

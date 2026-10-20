@@ -1,0 +1,91 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/beyond/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/beyond/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "beyond",
+ "slug": "beyond",
+ "url": "https://hibbangyong.com/words/beyond/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "너머 — 어떤 선(자리·때·정도)을 지나서 저쪽에",
+ "gloss_ko": "너머",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "땅바닥에 금을 하나 쓱 그어봐. 금 이쪽은 우리가 선 자리, 금 지나서 저쪽은 딴 세상이지?",
+  "그런데 금은 땅에만 긋는 게 아니야. 오늘까지, 딱 이만큼까지 — 이런 금도 있거든?",
+  "그 금을 지나가면 뭐든 다 저쪽이야. 저쪽에 뭐가 있는지는 안 정해져 있어. 좋은 것도 있고 무서운 것도 있어.",
+  "그냥 아주 멀리, 엄청 많이가 아니라 금을 넘어선 쪽. 그게 beyond야."
+ ],
+ "scene": "땅바닥에 그은 금 지나서 저쪽",
+ "examples": [
+  {
+   "en": "Our yard ends at the fence, and the wide field beyond is full of flowers.",
+   "ko": "우리 마당은 울타리에서 끝나는데, 그 너머 넓은 들판엔 꽃이 가득해."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "놀이터 끝에 낮은 철망 담이 쭉 서 있어. 지호가 찬 공이 그 담 위로 날아가서 담 바깥쪽 풀밭에 툭 떨어졌어. 공이 떨어진 그 자리를 'beyond'라고 할 수 있을까?",
+   "choices": [
+    "응, beyond 맞아",
+    "아니, beyond 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, beyond 맞아",
+   "why": "맞아! 담이라는 금이 딱 서 있고, 공이 그 금을 넘어가서 저쪽 풀밭에 떨어졌잖아. 금 지나서 저쪽 — 그게 바로 beyond야."
+  },
+  {
+   "type": "ox",
+   "question": "아빠가 유리컵 옆면에 검은 선을 하나 긋고 \"여기까지만 물을 따르자\"고 했어. 지호는 물을 따르다가 그 검은 선에 딱 맞춰 멈췄어. 지호가 따른 물의 높이를 'beyond'라고 할 수 있을까?",
+   "choices": [
+    "응, beyond 맞아",
+    "아니, beyond 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, beyond 아니야",
+   "why": "맞아! 선까지 오고 딱 멈췄으니까 선을 넘어간 쪽이 하나도 없잖아. 넘어가야 beyond인데 지호 물은 선 안쪽에서 끝난 거야."
+  },
+  {
+   "type": "ox",
+   "question": "동생이 오늘 노래를 정말정말 크게, 온 힘을 다해 불렀어. 이런 경우도 'beyond'야?",
+   "choices": [
+    "응, 'beyond' 맞아",
+    "아니, 'beyond' 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 'beyond' 아니야",
+   "why": "맞아! 노래를 크게 부른 건 목소리가 아주 셌다는 거지, 넘어간 금이 없잖아. 여기까지가 끝이라고 정해둔 데를 지나갔을 때가 beyond인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "past",
+   "kind": "confusable",
+   "from": "vs past"
+  }
+ ],
+ "related_scene": [
+  "fence"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-beyond",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-beyond"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/beyond.webp",
+  "alt": "땅바닥에 그은 금 지나서 저쪽",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

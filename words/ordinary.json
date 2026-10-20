@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/ordinary/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/ordinary/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "ordinary",
+ "slug": "ordinary",
+ "url": "https://hibbangyong.com/words/ordinary/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "보통의 — 놀랄 것도 특별할 것도 없는, 늘 보는 그런",
+ "gloss_ko": "보통의",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "창밖에 비가 와. 그냥 비야. 우산 쓰고 나가면 되는, 늘 오던 그런 비.",
+  "그런데 어떤 날은 바람이 창문을 쿵쿵 흔들고 나무가 휘어져. 그건 그냥 비가 아니지? 놀랄 게 있으니까.",
+  "그냥 비는 좋은 것도 나쁜 것도 아니야. 놀랄 게 없을 뿐이야. 비 오는 날 신나게 놀 수도 있어.",
+  "많아서 그런 것도 아니야. 가게에 딱 하나 남은 거라도 보고 그냥 지나가면 그거야. 그게 ordinary야."
+ ],
+ "scene": "우산 쓰고 나가면 되는, 늘 오던 그런 비",
+ "examples": [
+  {
+   "en": "It was just an ordinary day, but I was really happy.",
+   "ko": "그냥 평범한 하루였는데 나는 정말 행복했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "급식실 앞 복도 벽에 초록색 게시판이 걸려 있어. 지나가는 애들이 아무도 고개를 돌리지 않고 그냥 지나가. 이 게시판은 'ordinary'해?",
+   "choices": [
+    "응, ordinary 맞아",
+    "아니, ordinary 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, ordinary 맞아",
+   "why": "맞아! 지나가는 애들이 아무도 고개를 안 돌렸잖아. 눈길이 안 머문다는 건 놀랄 게 없다는 뜻이거든. 그래서 이 게시판은 ordinary인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 친구가 학교 앞에 자기 자전거를 세워 뒀어. 자기 자전거를 'ordinary'하다고 말할 수 있는 사람은 누구야?",
+   "choices": [
+    "수아: 자전거 앞에 노란 바구니가 달렸어. 페달을 밟으면 바퀴에서 불빛이 돌아서 애들이 멈춰서 봐.",
+    "민재: 자전거 앞에 노란 바구니가 달렸어. 벨을 누르면 새소리가 나서 애들이 소리 쪽으로 고개를 돌려.",
+    "지호: 자전거 앞에 노란 바구니가 달렸어. 세워 두면 애들이 옆을 그냥 지나가.",
+    "하준: 자전거 앞에 노란 바구니가 달렸어. 손잡이 술이 펄럭여서 애들이 따라 뛰면서 봐."
+   ],
+   "answer_index": 2,
+   "answer": "지호: 자전거 앞에 노란 바구니가 달렸어. 세워 두면 애들이 옆을 그냥 지나가.",
+   "why": "맞아! 애들이 옆을 그냥 지나간다는 건 놀랄 게 없다는 뜻이거든. 노란 바구니가 달렸어도 아무도 멈춰서 보지 않으면, 그게 바로 ordinary인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "주말에 할머니 댁에 가서 늘 먹던 김밥을 먹고 늘 하던 공놀이를 했어. 놀랄 일은 하나도 없었는데 정말 즐거웠대. 이런 하루도 'ordinary'야?",
+   "choices": [
+    "응, ordinary 맞아.",
+    "아니, ordinary 아니야."
+   ],
+   "answer_index": 0,
+   "answer": "응, ordinary 맞아.",
+   "why": "맞아! 늘 먹던 김밥에 늘 하던 공놀이, 놀랄 게 하나도 없었잖아. 즐거웠어도 놀랄 게 없으면 그게 ordinary인 거야."
+  }
+ ],
+ "synonyms": [
+  "common"
+ ],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-ordinary",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-ordinary"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/ordinary.webp",
+  "alt": "우산 쓰고 나가면 되는, 늘 오던 그런 비",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/principally/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/principally/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "principally",
+ "slug": "principally",
+ "url": "https://hibbangyong.com/words/principally/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "주로 — 여러 가지가 섞여 있지만 그중 가장 큰 몫이나 가장 큰 이유가 되는 쪽",
+ "gloss_ko": "주로",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "아침 7시 반 그 버스, 타는 사람 거의 다 우리 학교 애들이야. 가끔 회사원 아저씨도 타고.",
+  "그래도 누가 \"그 버스 누가 타?\" 물으면 답은 \"우리 학교 애들\"이지. 여럿이 섞여 있을 때 그중 제일 큰 쪽을 짚는 말이 principally야.",
+  "사람 수만 말하는 게 아니야. 이유가 여러 개일 때 제일 큰 이유를 댈 때도 써. 학원을 principally 집이 가까워서 옮겼다면, 다른 이유도 있지만 그게 제일 컸다는 거야.",
+  "다른 게 섞여 있어도 된다는 게 포인트야. \"오직 그것만\"이랑은 달라. 생긴 게 비슷한 principle(원칙)의 \"원칙적으로\"랑도 다른 말이야."
+ ],
+ "scene": "아침 등굣길 버스 승객 대부분이 같은 학교 학생, 가끔 회사원",
+ "examples": [
+  {
+   "en": "This bus is used principally by students from our school.",
+   "ko": "이 버스는 주로 우리 학교 애들이 타."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "동네 빵집에서 팔리는 빵은 거의 다 식빵이야. 케이크도 가끔 팔리긴 해. 사장님이 \"우리 가게는 'principally' 식빵을 팔아서 돈을 벌어.\"라고 했어. 사장님이 'principally'를 맞게 쓴 거야?",
+   "choices": [
+    "응, 맞게 쓴 거야",
+    "아니, 맞게 쓴 거 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 맞게 쓴 거야",
+   "why": "맞아! 그 빵집에서 팔리는 건 거의 다 식빵이고 케이크는 가끔 팔리는 정도잖아. 케이크가 좀 섞여 있어도 돈을 버는 제일 큰 몫은 식빵이니까, 사장님이 principally를 딱 맞게 쓴 거야."
+  },
+  {
+   "type": "ox",
+   "question": "동네 빵집에서 하루에 팔리는 빵은 대부분 식빵이야. 케이크는 생일 있는 손님이 올 때나 한두 개씩 나가. 사장님이 케이크를 가리켜 \"케이크는 우리 가게에서 principally 팔리는 빵이야\"라고 했어. 케이크를 두고 'principally'라고 한 게 맞아?",
+   "choices": [
+    "응, principally 맞아",
+    "아니, principally 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, principally 아니야",
+   "why": "잘 봤어! 이 빵집에서 제일 많이 팔리는 건 식빵이고, 케이크는 생일 손님 올 때 한두 개 나가는 게 전부잖아. principally는 제일 큰 몫을 짚는 말이라서, 사장님이 케이크한테 쓴 건 틀린 거야."
+  },
+  {
+   "type": "ox",
+   "question": "반 간식 투표에서 떡볶이가 60%를 받았고, 나머지 40%는 김밥·핫도그·붕어빵으로 나뉘었어. 반장이 '우리 반은 principally 떡볶이를 골랐어'라고 말했어. 이 말이 맞으려면 떡볶이 말고 다른 걸 고른 애가 한 명도 없어야 해?",
+   "choices": [
+    "응, 한 명도 없어야 맞아",
+    "아니, 없어야 하는 거 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 없어야 하는 거 아니야",
+   "why": "맞아! 떡볶이가 60%로 제일 큰 몫이니까, 김밥·핫도그·붕어빵을 고른 애들이 40% 섞여 있어도 principally 떡볶이라고 할 수 있어. 다른 걸 고른 애가 있어도 된다는 게 바로 이 말의 핵심이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "only",
+   "kind": "confusable",
+   "from": "오직·~만(only)"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-principally",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-principally"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/principally.webp",
+  "alt": "아침 등굣길 버스 승객 대부분이 같은 학교 학생, 가끔 회사원",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

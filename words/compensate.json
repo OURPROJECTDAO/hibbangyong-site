@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/compensate/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/compensate/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "compensate",
+ "slug": "compensate",
+ "url": "https://hibbangyong.com/words/compensate/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "모자라거나 잃은 만큼을 다른 걸로 채워서 원래대로 맞추다",
+ "gloss_ko": "모자란 만큼 메우다",
+ "level": {
+  "code": "L6",
+  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "책상 다리 하나가 짧으면 기우뚱하잖아? 그 짧은 만큼을 딱 채워 주면 다시 평평해져.",
+  "사람 사이에서도 똑같아. 누가 네 장난감을 망가뜨렸으면 망가진 만큼을 돈으로 채워 주는 거야.",
+  "꼭 미안해서만은 아니야. 달리기가 느리면 남보다 일찍 출발해서 그 느린 만큼을 메우기도 하거든.",
+  "그냥 하나 더 주는 선물이랑은 달라. 비어 버린 자리를 딱 그만큼 메워서 제자리로 돌리는 거, 그게 compensate야."
+ ],
+ "scene": "다리 하나가 짧아 기우뚱한 책상을 그 짧은 만큼 채워 평평하게 만들기",
+ "examples": [
+  {
+   "en": "My legs are short, so I take extra steps to compensate.",
+   "ko": "내 다리가 짧아서, 그걸 메우려고 걸음을 더 많이 걸어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "의자에 앉으면 식탁이 너무 높아서 민서 팔이 안 닿아. 그래서 엄마가 모자란 높이만큼 두꺼운 방석을 깔아 줬더니 딱 맞게 됐어. 이게 'compensate'야?",
+   "choices": [
+    "응, compensate 맞아",
+    "아니, compensate 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, compensate 맞아",
+   "why": "맞아! 모자란 높이만큼 방석으로 딱 채워서 팔이 닿게 원래대로 맞춘 거잖아. 비어 있던 만큼을 그만큼 메워 준 거라서 바로 그게 compensate야."
+  },
+  {
+   "type": "ox",
+   "question": "준우는 색연필 통에 초록색이 없어. 준우는 초록색을 채우지 않고 그냥 그림 그리기를 그만뒀어. 이게 'compensate'야?",
+   "choices": [
+    "응, compensate 맞아",
+    "아니, compensate 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, compensate 아니야",
+   "why": "그래, 아니야가 딱 맞았어! 초록색이 빈 자리를 다른 색으로도 안 채우고 그냥 그림을 그만뒀잖아. 비어 있는 그 자리를 그만큼 메워 줘야 compensate인데, 준우는 아무것도 안 메웠거든."
+  },
+  {
+   "type": "ox",
+   "question": "민수가 실수로 서연이 우산을 부러뜨렸어. 민수는 서연이한테 정말 미안하다고 진심으로 여러 번 사과했지만, 서연이는 비 오는 날 그냥 젖으면서 집에 갔어. 이런 경우도 민수가 서연이에게 'compensate' 한 거야?",
+   "choices": [
+    "응, compensate 맞아",
+    "아니, compensate 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, compensate 아니야",
+   "why": "딩동댕! 미안하다는 말은 정말 소중하지만, 부러진 우산을 대신해 주지는 못하잖아. 서연이는 여전히 우산이 없어서 비를 쫄딱 맞았거든. 비어 버린 그 자리를 아무것도 채워 주지 않았으니까 compensate가 아닌 거야."
+  }
+ ],
+ "synonyms": [
+  "repair"
+ ],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "compensation"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-compensate",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-compensate"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/compensate.webp",
+  "alt": "다리 하나가 짧아 기우뚱한 책상을 그 짧은 만큼 채워 평평하게 만들기",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

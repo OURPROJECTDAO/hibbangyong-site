@@ -1,0 +1,91 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/enthusiastic/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/enthusiastic/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "enthusiastic",
+ "slug": "enthusiastic",
+ "url": "https://hibbangyong.com/words/enthusiastic/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "어떤 일이 정말 좋아서 신나게 하고 싶어 하는",
+ "gloss_ko": "신나게 하고 싶어 하는",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "선생님이 \"우리 반 벽에 그림 그릴 사람?\" 했거든. 민수는 의자에 딱 붙어서 \"음...\" 하고 있었어. 근데 지호는 벌써 붓통을 들고 앞에 나와 있었어.",
+  "지호가 소리를 지른 건 아니야. 그냥 그 일이 좋아서 몸이 먼저 간 거야.",
+  "꼭 재밌는 일만 그런 것도 아니야. 남들 다 \"으...\" 하는 청소나 숙제인데도 \"오, 이거 해보고 싶은데?\" 하면서 나서는 애가 있잖아.",
+  "그냥 기분이 좋은 거랑은 달라. 하고 싶은 일이 딱 있고, 그 일한테 마음이 가 있어야 해. 그게 enthusiastic이야."
+ ],
+ "scene": "그림 그릴 사람을 묻자 붓통을 먼저 들고 나온 아이",
+ "examples": [
+  {
+   "en": "Dad was enthusiastic about our messy plan to build a fort.",
+   "ko": "아빠는 요새를 짓겠다는 우리 엉성한 계획에 아주 신나 했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "방과후에 학교 텃밭에 상추 모종을 심기로 했어. 다음 중 'enthusiastic'에 해당하는 것은?",
+   "choices": [
+    "텃밭 창고 벽에 나란히 걸려 있는 초록색 모종삽 세 자루",
+    "모종을 심은 뒤에 흙 위에 뿌려 주는 하얀 알갱이 비료",
+    "심자는 말이 나오자 모종삽을 들고 와 먼저 심기 시작한 아이",
+    "텃밭 옆 나무 팻말에 적어 둔 상추를 심은 날짜"
+   ],
+   "answer_index": 2,
+   "answer": "심자는 말이 나오자 모종삽을 들고 와 먼저 심기 시작한 아이",
+   "why": "맞아! 심자는 말이 나오자마자 모종삽 들고 먼저 심기 시작했잖아. 하고 싶은 마음이 몸보다 먼저 간 거야. 바로 그게 enthusiastic이야."
+  },
+  {
+   "type": "choice",
+   "question": "방과 후에 학급 텃밭에 상추 모종을 심는 일이 생겼어. 다음 중 'enthusiastic'한 아이는 누구야?",
+   "choices": [
+    "모종 얘기가 나오자 삽을 챙겨 와서 어디에 심을지 먼저 말하는 아이",
+    "모종 옆에 앉아서 흙에 손가락으로 그림을 그리고 있는 아이",
+    "모종 상자를 세어 보고 몇 개인지 칠판에 적어 두는 아이",
+    "모종을 심는 동안 창가에서 물뿌리개를 닦고 있는 아이"
+   ],
+   "answer_index": 0,
+   "answer": "모종 얘기가 나오자 삽을 챙겨 와서 어디에 심을지 먼저 말하는 아이",
+   "why": "맞아! 모종 얘기 나오자마자 삽부터 챙기고 어디 심을지 먼저 말한 건, 그 일이 좋아서 몸이 먼저 나간 거잖아. 마음이 그 일한테 쏠려서 앞장선 거니까 바로 그게 enthusiastic이야."
+  },
+  {
+   "type": "choice",
+   "question": "네 아이가 모둠 청소를 맡았어. 이 중에 'enthusiastic'하다고 할 수 있는 아이는 누구야?",
+   "choices": [
+    "청소 얘기가 나오자마자 밀대를 챙겨 와서 어디부터 할지 먼저 정하는 아이",
+    "청소 시간 내내 큰 소리로 노래를 부르며 여기저기 뛰어다니는 아이",
+    "구석 먼지까지 아주 깔끔하게 닦아 놓아서 칭찬을 받는 아이",
+    "청소가 싫어서 한숨을 쉬면서도 시키는 만큼은 딱 해내는 아이"
+   ],
+   "answer_index": 0,
+   "answer": "청소 얘기가 나오자마자 밀대를 챙겨 와서 어디부터 할지 먼저 정하는 아이",
+   "why": "맞아! 청소 얘기 나오자마자 밀대부터 챙기고 어디부터 할지 정한 건, 그 일한테 마음이 벌써 가 있어서 몸이 먼저 움직인 거거든. 남이 시키기 전에 스스로 앞장선 거, 그게 바로 enthusiastic이야."
+  }
+ ],
+ "synonyms": [
+  "eager"
+ ],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-enthusiastic",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-enthusiastic"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/enthusiastic.webp",
+  "alt": "그림 그릴 사람을 묻자 붓통을 먼저 들고 나온 아이",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

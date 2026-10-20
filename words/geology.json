@@ -1,0 +1,90 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/geology/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/geology/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "geology",
+ "slug": "geology",
+ "url": "https://hibbangyong.com/words/geology/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "땅 공부 — 땅과 돌이 뭘로 되어 있고, 어쩌다 지금 모습이 됐는지 캐내는 공부(지질학)",
+ "gloss_ko": "땅 공부",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "길 옆으로 싹 잘려서 옆면이 드러난 언덕, 본 적 있어? 색이 다른 줄이 층층이 나 있거든.",
+  "그 줄 하나하나가 아주 옛날에 차곡차곡 쌓인 거야. 그걸 읽으면 여기가 옛날엔 바다였는지, 불 뿜는 산이었는지 알아낼 수 있어.",
+  "땅이 뭘로 되어 있는지, 어쩌다 지금 모습이 됐는지 캐묻는 공부야. 땅이 왜 흔들리는지도, 달의 땅은 어떤지도 여기 들어가.",
+  "예쁜 돌 모으기랑은 달라. 돌한테 '너 어디서 왔니?' 하고 묻는 쪽이야. 이게 geology야."
+ ],
+ "scene": "길가에 잘려 옆면이 드러난 언덕의 층층 줄무늬",
+ "examples": [
+  {
+   "en": "My aunt uses geology to find out if this hill was once under the sea.",
+   "ko": "이모는 이 언덕이 옛날에 바닷속이었는지 알아내려고 땅 공부를 활용해."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "네 사람이 각자 무엇을 알아내는 중인지 말했어. 이 중에서 'geology'를 하는 사람은 누구일까?",
+   "choices": [
+    "강바닥에 깔린 자갈을 주워 살펴보고, 이 자갈들이 어느 산에서 깎여 흘러왔는지 알아내는 사람",
+    "놀이터 미끄럼틀을 타 보고, 이 미끄럼틀이 어느 정도 기울어야 잘 내려가는지 알아내는 사람",
+    "시장에 늘어놓은 사과를 세어 보고, 오늘 몇 개나 팔렸는지 알아내는 사람",
+    "교실 창문을 열어 보고, 지금 바깥 바람이 어느 쪽에서 부는지 알아내는 사람"
+   ],
+   "answer_index": 0,
+   "answer": "강바닥에 깔린 자갈을 주워 살펴보고, 이 자갈들이 어느 산에서 깎여 흘러왔는지 알아내는 사람",
+   "why": "맞아! 자갈한테 너 어디서 왔니 하고 물어서 깎여 나온 산까지 알아낸 거잖아. 돌이 뭘로 되어 있고 어쩌다 여기까지 왔는지 캐묻는 거, 그게 바로 geology야."
+  },
+  {
+   "type": "ox",
+   "question": "이모는 뒷산에 올라가 줄자로 비탈의 길이와 높이를 재고, 사진을 찍어 오늘 산의 모습을 공책에 꼼꼼히 그렸어. 그리고 그 그림을 보며 '여기쯤에 길을 내면 사람들이 걷기 좋겠다' 하고 길 낼 자리를 정했어. 이게 geology야?",
+   "choices": [
+    "응, geology 맞아",
+    "아니, geology 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, geology 아니야",
+   "why": "맞아! 이모는 산을 지금 생긴 그대로 재고 그리기만 했지, 이 산이 옛날엔 뭐였는지는 하나도 안 물었거든. 땅한테 '너 어쩌다 이렇게 됐니?' 하고 캐물어야 geology인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 사람이 저마다 무엇을 알아내려고 애쓰는지 말했어. 이 중에서 'geology'를 하는 사람은 누구일까?",
+   "choices": [
+    "땅속에 묻힌 옛사람 그릇 조각을 꺼내서, 그 시절 사람들이 뭘 먹고 살았나 알아내는 사람",
+    "나무를 잘라 나이테 줄을 하나하나 세어 보고, 그 나무가 몇 해나 자랐는지 알아내는 사람",
+    "돌을 쪼개 안쪽을 들여다보고, 이 돌이 불에서 굳었는지 물속에서 쌓였는지 알아내는 사람",
+    "여러 도시를 돌아다니며 어디에 사람이 많이 모여 사는지, 왜 거기 모였는지 알아내는 사람"
+   ],
+   "answer_index": 2,
+   "answer": "돌을 쪼개 안쪽을 들여다보고, 이 돌이 불에서 굳었는지 물속에서 쌓였는지 알아내는 사람",
+   "why": "맞아! 돌을 쪼개서 이게 불에서 굳었는지 물속에서 쌓였는지 알아내는 건, 돌한테 너 어디서 왔니 하고 묻는 거잖아. 땅이랑 돌 자체를 캐묻는 그게 바로 geology야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "geography",
+  "soil"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-geology",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-geology"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/geology.webp",
+  "alt": "길가에 잘려 옆면이 드러난 언덕의 층층 줄무늬",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/single/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/single/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "single",
+ "slug": "single",
+ "url": "https://hibbangyong.com/words/single/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "딱 하나의 — 둘도 셋도 아니고 오직 하나뿐인",
+ "gloss_ko": "딱 하나의",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "과자 봉지를 딱 열었는데, 안에 과자가 하나만 들어 있어. 딱 하나!",
+  "둘도 아니고 셋도 아니야. 오직 하나.",
+  "'몇 개 있네'가 아니라 '딱 하나 있네' 할 때 쓰는 말이거든?",
+  "여러 개랑은 완전 달라. 그게 single이야."
+ ],
+ "scene": "봉지 안에 딱 하나만 남은 과자",
+ "examples": [
+  {
+   "en": "She ate a single grape and stopped.",
+   "ko": "걔는 포도를 딱 한 알만 먹고 그만뒀어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "필통을 열었더니 안에 연필이 딱 한 자루 들어 있어. 이 연필 개수가 'single'이야?",
+   "choices": [
+    "응, single 맞아",
+    "아니, single 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, single 맞아",
+   "why": "맞아! 연필이 딱 한 자루, 둘도 셋도 아니고 오직 하나잖아. 바로 그게 single인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "신발장을 열었더니 안에 신발이 여섯 켤레나 꽉 차 있어. 이 신발 개수가 'single'이야?",
+   "choices": [
+    "응, single 맞아",
+    "아니, single 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, single 아니야",
+   "why": "맞아! 여섯 켤레는 딱 하나가 아니라 여러 개잖아. 오직 하나뿐일 때만 single이라서, 이건 single이 아닌 게 맞아."
+  },
+  {
+   "type": "choice",
+   "question": "네 개의 접시에 사탕이 놓여 있어. 어떤 접시를 보고 'single' candy라고 말할 수 있을까?",
+   "choices": [
+    "사탕이 하나만 놓인 접시",
+    "사탕이 여러 개 놓인 접시",
+    "사탕이 하나도 없는 빈 접시",
+    "사탕 두 개가 붙어 놓인 접시"
+   ],
+   "answer_index": 0,
+   "answer": "사탕이 하나만 놓인 접시",
+   "why": "맞아! 사탕이 딱 하나만 놓여 있잖아. 둘도 셋도 아니고 오직 하나. 바로 그게 single이야."
+  }
+ ],
+ "synonyms": [
+  "individual"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "only",
+   "kind": "confusable",
+   "from": "vs only"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-single",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-single"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/single.webp",
+  "alt": "봉지 안에 딱 하나만 남은 과자",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/meticulously/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/meticulously/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "meticulously",
+ "slug": "meticulously",
+ "url": "https://hibbangyong.com/words/meticulously/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "꼼꼼하게 — 작은 부분 하나까지 그냥 넘기지 않고 세심하게 챙겨서",
+ "gloss_ko": "꼼꼼하게",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "친구가 여행 계획표를 짰는데, 버스 시간이랑 화장실 위치까지 다 적어 놨더라.",
+  "작은 것 하나도 그냥 안 넘기고 챙기는 거, 그게 meticulously야.",
+  "숙제든 요리든, 심지어 나쁜 일을 꾸미는 계획이든 다 쓸 수 있어.",
+  "천천히 하는 거나 겉보기에 깔끔한 거랑은 달라. 빨리 해도 작은 부분까지 챙기면 이거야."
+ ],
+ "scene": "버스 시간이랑 화장실 위치까지 적은 친구의 여행 계획표",
+ "examples": [
+  {
+   "en": "She meticulously copied her friend's homework, so the teacher didn't notice.",
+   "ko": "걔가 친구 숙제를 하나하나 꼼꼼하게 베껴서 선생님이 눈치도 못 챘어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "삼촌이 자전거를 고쳤어. 나사 열두 개를 하나씩 다 조였는지 확인하고, 브레이크 줄도 끝까지 손으로 따라가며 살펴봤어. 이렇게 고친 게 'meticulously' 고친 거야?",
+   "choices": [
+    "응, meticulously 맞아",
+    "아니, meticulously 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, meticulously 맞아",
+   "why": "맞아! 삼촌은 나사 열두 개를 하나씩 다 조였는지 확인하고, 브레이크 줄도 끝까지 손으로 따라가며 살펴봤잖아. 작은 부분 하나도 그냥 넘기지 않았으니까 바로 그게 meticulously 고친 거야."
+  },
+  {
+   "type": "ox",
+   "question": "누나가 이삿짐을 쌌어. 유리컵을 신문지로 싸지 않고 상자에 그냥 넣었고, 상자마다 뭐가 들었는지도 안 적었어. 이렇게 싼 게 'meticulously' 싼 거야?",
+   "choices": [
+    "응, meticulously 맞아",
+    "아니, meticulously 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, meticulously 아니야",
+   "why": "맞아! 유리컵을 신문지로 싸지도 않고 상자에 뭐가 들었는지도 안 적었잖아. 작은 부분을 이렇게 건너뛰었으니 meticulously가 아니야. 오히려 반대로 대충(carelessly) 싼 거지."
+  },
+  {
+   "type": "choice",
+   "question": "뉴스에서 '사기꾼들이 가짜 상품권을 meticulously 만들었다'고 했대. 여기서 'meticulously'는 어떤 뜻으로 쓰였을까?",
+   "choices": [
+    "나쁜 일인데도 사소한 부분까지 빈틈없이 챙겨서",
+    "착하고 바른 마음으로 정성을 다해서",
+    "나쁜 일이라 들킬까 봐 서둘러 대강",
+    "잘못인 줄 알아서 망설이며 조심조심"
+   ],
+   "answer_index": 0,
+   "answer": "나쁜 일인데도 사소한 부분까지 빈틈없이 챙겨서",
+   "why": "맞아! 사기꾼들이 한 건 나쁜 일이지만, 가짜 상품권을 사소한 부분까지 빈틈없이 챙겨서 만든 거야. meticulously는 좋은 일이든 나쁜 일이든 작은 것 하나 안 넘기고 챙기면 다 쓸 수 있거든."
+  }
+ ],
+ "synonyms": [
+  "painstakingly"
+ ],
+ "antonyms": [
+  "carelessly"
+ ],
+ "confusable": [],
+ "related_scene": [
+  "meticulous"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-meticulously",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-meticulously"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/meticulously.webp",
+  "alt": "버스 시간이랑 화장실 위치까지 적은 친구의 여행 계획표",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

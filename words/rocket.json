@@ -1,0 +1,74 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/rocket/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/rocket/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "rocket",
+ "slug": "rocket",
+ "url": "https://hibbangyong.com/words/rocket/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "로켓 — 불을 뿜으며 하늘 높이 솟아 우주로 날아가는 탈것",
+ "gloss_ko": "로켓",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "그림 속 하얗고 빨간 이것은 불을 뿜으며 하늘로 쭉 날아오르는 로켓이에요.",
+  "우주 비행사가 로켓을 타고 지구 밖 우주로 여행을 가요."
+ ],
+ "scene": "발사되어 날아오르는 흰색·빨강 우주 로켓 한 대(가장 전형적 의미=우주 로켓)",
+ "examples": [
+  {
+   "en": "The rocket flew up into the sky.",
+   "ko": "로켓이 하늘로 쭉 날아올랐어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "길 위를 달리며 사람들을 태우고 정류장마다 서서 내려 주는 커다란 탈것이 있어. 이게 rocket이야?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 아니야",
+   "why": null
+  },
+  {
+   "type": "choice",
+   "question": "rocket은 어느 것일까?",
+   "choices": [
+    "시원한 물을 쏟으며 아래로 곧게 떨어지는 것",
+    "뜨거운 불을 뿜으며 하늘로 곧게 솟아오르는 것",
+    "알록달록 돌면서 바닥에서 빙글빙글 도는 것",
+    "활활 타오르며 위로 연기를 모락모락 내는 것"
+   ],
+   "answer_index": 1,
+   "answer": "뜨거운 불을 뿜으며 하늘로 곧게 솟아오르는 것",
+   "why": null
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "universe"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-rocket",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-rocket"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/rocket.webp",
+  "alt": "발사되어 날아오르는 흰색·빨강 우주 로켓 한 대(가장 전형적 의미=우주 로켓)",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

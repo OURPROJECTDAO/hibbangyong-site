@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/prom/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/prom/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "prom",
+ "slug": "prom",
+ "url": "https://hibbangyong.com/words/prom/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "프롬 — 고등학생들을 위해 학교 쪽에서 여는, 차려입고 가는 댄스파티(보통 학년 말쯤)",
+ "gloss_ko": "학생 댄스파티",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "외국 하이틴 영화 보면 나오는 밤 있잖아. 고등학생들이 드레스랑 정장 차려입고 짝이랑 춤추러 가는 날.",
+  "그게 prom이야. 학교 쪽에서 학생들을 위해 여는 댄스파티고, 보통 학년 말쯤 열려. 졸업반만 가는 것도 아니고, 장소도 학교 강당일 수도 호텔 연회장일 수도 있어.",
+  "그렇다고 어른들이 차려입고 춤추는 파티를 다 prom이라고 하진 않아. 고등학생들 파티여야 해.",
+  "졸업식이랑도 달라. 졸업식은 졸업장 받는 자리고, prom은 춤추고 노는 밤이야."
+ ],
+ "scene": "하이틴 영화 속 고등학생들이 차려입고 짝과 춤추는 밤",
+ "examples": [
+  {
+   "en": "My sister bought a long blue dress for her prom.",
+   "ko": "우리 언니가 프롬 때 입으려고 긴 파란 드레스를 샀어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "미국 고등학교에 다니는 사촌 오빠가 학년 말에 학교가 학생들을 위해 연 파티에 갔어. 턱시도를 차려입고, 파트너 손목에 꽃 코르사주를 달아 주고, 밤새 같이 춤췄대. 이 파티가 'prom'이야?",
+   "choices": [
+    "응, prom 맞아",
+    "아니, prom 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, prom 맞아",
+   "why": "맞아! 고등학생인 사촌 오빠가 학년 말에 학교가 학생들을 위해 연 파티에 턱시도 차려입고 가서 파트너랑 밤새 춤췄잖아. 이게 바로 prom이야."
+  },
+  {
+   "type": "ox",
+   "question": "학년 말 어느 날, 고등학생들이 평소처럼 교복을 입고 체육 시간에 학교 강당에서 선생님께 춤 동작을 배워. 이 체육 수업이 'prom'이야?",
+   "choices": [
+    "응, prom 맞아",
+    "아니, prom 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, prom 아니야",
+   "why": "맞아! 교복 입고 체육 시간에 선생님한테 춤 동작 배우는 건 그냥 수업이야. prom은 드레스랑 정장 차려입고 짝이랑 춤추러 가는 파티라서, 수업은 prom이 될 수 없어."
+  },
+  {
+   "type": "choice",
+   "question": "지난달 있었던 행사 네 개야. 이 중 'prom'이라고 부를 수 있는 건?",
+   "choices": [
+    "호텔 연회장에서, 고등학생들이 정장과 드레스를 입고 짝과 춤추는 밤",
+    "호텔 연회장에서, 회사 직원들이 정장과 드레스를 입고 짝과 춤추는 밤",
+    "학교 축제 무대에서, 고등학생들이 체육복을 입고 춤 공연을 하는 낮",
+    "학교 강당에서, 고등학생들이 졸업 가운을 입고 졸업장을 받는 아침"
+   ],
+   "answer_index": 0,
+   "answer": "호텔 연회장에서, 고등학생들이 정장과 드레스를 입고 짝과 춤추는 밤",
+   "why": "맞아! 고등학생들이 정장이랑 드레스를 차려입고 짝이랑 춤추는 밤이니까 바로 그게 prom이야. 호텔 연회장이어도 괜찮아. 누구를 위한 파티인지가 중요하거든."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "suit"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-prom",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-prom"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/prom.webp",
+  "alt": "하이틴 영화 속 고등학생들이 차려입고 짝과 춤추는 밤",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

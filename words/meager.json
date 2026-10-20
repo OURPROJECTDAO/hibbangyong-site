@@ -1,0 +1,98 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/meager/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/meager/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "meager",
+ "slug": "meager",
+ "url": "https://hibbangyong.com/words/meager/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "빈약한 — 필요하거나 기대한 만큼에 한참 못 미칠 정도로 적은",
+ "gloss_ko": "모자라게 적은",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "반 서른 명이 파티를 하려고 돈을 걷었는데, 다 모으니 오천 원이었어.",
+  "필요한 만큼에 한참 모자랄 정도로 적은 것, 그게 meager야.",
+  "돈만 그런 게 아니야. 밥, 월급, 증거, 성적, 박수 소리에도 다 써.",
+  "그냥 작은 거랑은 달라. 혼자 먹을 작은 빵이 딱 맞으면 그건 meager가 아니야."
+ ],
+ "scene": "서른 명 반 파티비로 걷은 돈이 오천 원뿐인 상황",
+ "examples": [
+  {
+   "en": "After three weeks of study, my score went up by a meager two points.",
+   "ko": "3주나 공부했는데 점수는 겨우 2점 올랐어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "마라톤 대회에 선수 이백 명이 나왔는데, 급수대에 준비된 물은 열 병뿐이었어. 이 물의 양은 'meager'해?",
+   "choices": [
+    "응, meager 맞아",
+    "아니, meager 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, meager 맞아",
+   "why": "맞아! 선수 이백 명이 마셔야 하는데 물이 열 병뿐이면 필요한 만큼에 한참 모자라잖아. 바로 그렇게 턱없이 부족한 양이 meager인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "캠핑 가서 네 명이 먹으려고 고기를 샀는데, 열 명이 먹고도 남을 만큼이었어. 이 고기의 양은 'meager'해?",
+   "choices": [
+    "응, meager 맞아",
+    "아니, meager 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, meager 아니야",
+   "why": "맞아! 네 명이 먹을 고기인데 열 명이 먹고도 남을 만큼이면 모자라기는커녕 한참 남는 거잖아. meager는 필요한 만큼에 한참 못 미칠 때 쓰는 말이라, 이렇게 넘치는 고기한테는 안 맞는 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 친구가 무언가를 준비한 이야기를 했어. 'meager'라는 말이 가장 잘 어울리는 건?",
+   "choices": [
+    "둘이 먹을 라면을 끓이면서 달걀을 다섯 개 넣었어",
+    "화분 스무 개에 물을 주려고 물뿌리개에 물을 한 컵 받았어",
+    "손님 열 명이 오는 캠핑에 생수를 마흔 병 챙겼어",
+    "숙제에 사진 두 장이 필요해서 사진을 여섯 장 찍었어"
+   ],
+   "answer_index": 1,
+   "answer": "화분 스무 개에 물을 주려고 물뿌리개에 물을 한 컵 받았어",
+   "why": "맞아! 화분이 스무 개나 되는데 물은 딱 한 컵이면, 한 화분에 몇 방울 돌아가지도 않잖아. 필요한 양에 한참 모자라니까 바로 그게 meager인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "ample"
+ ],
+ "confusable": [
+  {
+   "word": "plentiful",
+   "kind": "confusable",
+   "from": "넉넉한·풍부한(plentiful/generous)"
+  },
+  {
+   "word": "generous",
+   "kind": "confusable",
+   "from": "넉넉한·풍부한(plentiful/generous)"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-meager",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-meager"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/meager.webp",
+  "alt": "서른 명 반 파티비로 걷은 돈이 오천 원뿐인 상황",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

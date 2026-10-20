@@ -1,0 +1,110 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/exclude/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/exclude/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "exclude",
+ "slug": "exclude",
+ "url": "https://hibbangyong.com/words/exclude/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "안에 못 들어오게 빼놓다 — 원래 무리에서 하나를 딱 잘라 빼는 것",
+ "gloss_ko": "안에 못 들어오게 빼놓다",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "줄넘기 하려고 애들이 다 모였어. 그런데 한 명한테만 '넌 빠져' 했어. 그게 exclude 야.",
+  "나쁜 것만 골라 빼는 게 아니거든? 밥값에 음료값은 안 들어간다, 이것도 exclude 야. 음료가 나빠서가 아니라 그냥 그 묶음 밖이라서.",
+  "빼는 게 좋을 때도 있어. 알레르기 있어서 우유만 쏙 뺀 빵, 그것도 exclude 야.",
+  "그냥 안 들어간 거랑은 좀 달라. 원래 들어갈 만했는데 일부러 밖에 둔 거, 그게 exclude 야."
+ ],
+ "scene": "줄넘기 모임에서 한 명만 '넌 빠져' 하고 밀어낸 장면",
+ "examples": [
+  {
+   "en": "This ticket excludes rides after six o'clock.",
+   "ko": "이 표는 6시 이후에는 놀이기구를 못 타게 빼놨어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "학예회 무대에 우리 반이 다 올라가는데, 선생님이 민수한테만 \"너는 이번 무대에 서지 마\"라고 했어. 이게 'exclude'야?",
+   "choices": [
+    "응, exclude 맞아",
+    "아니, exclude 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, exclude 맞아",
+   "why": "맞아! 원래 우리 반이 다 올라가는 무대인데 민수만 딱 잘라서 밖에 둔 거잖아. 들어갈 수 있었던 애를 일부러 빼놓은 거, 그게 바로 exclude 인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "도서관 카드를 만들면 만화책도 빌릴 수 있어. 만화책이 빌릴 수 있는 책 목록 안에 들어가 있는 거야. 이게 'exclude'야?",
+   "choices": [
+    "응, exclude 맞아",
+    "아니, exclude 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, exclude 아니야",
+   "why": "맞아! 만화책이 빌릴 수 있는 목록 안에 들어가 있잖아. 안에 들어가 있는 건 빼놓은 게 아니니까 exclude가 아닌 거야. exclude는 반대로 목록 밖으로 딱 잘라 빼는 거거든."
+  },
+  {
+   "type": "choice",
+   "question": "네 가지 일이 있어. 이 중에서 'exclude'라고 부를 수 있는 건 뭘까?",
+   "choices": [
+    "생일잔치에 반 아이들을 다 부르면서 한 명한테만 오지 말라고 했다",
+    "가방 안에 있던 공책을 꺼내 책상 위에 올려놓았다",
+    "동생이 볼까 봐 사탕을 서랍 속에 넣어 두었다",
+    "친구들과 놀다가 시간이 늦어서 다 같이 집에 갔다"
+   ],
+   "answer_index": 0,
+   "answer": "생일잔치에 반 아이들을 다 부르면서 한 명한테만 오지 말라고 했다",
+   "why": "맞아! 다 부르면서 한 명한테만 오지 말라고 했잖아. 원래 그 무리에 들어갈 아이였는데 딱 그 애만 밖에 둔 거니까, 바로 그게 exclude 인 거야."
+  }
+ ],
+ "synonyms": [
+  "except"
+ ],
+ "antonyms": [
+  "include"
+ ],
+ "confusable": [
+  {
+   "word": "remove",
+   "kind": "confusable",
+   "from": "그냥 빼다/없애다(remove)"
+  },
+  {
+   "word": "include",
+   "kind": "confusable",
+   "from": "포함하다(include)"
+  },
+  {
+   "word": "omit",
+   "kind": "confusable",
+   "from": "vs omit"
+  },
+  {
+   "word": "reject",
+   "kind": "confusable",
+   "from": "vs reject"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-exclude",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-exclude"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/exclude.webp",
+  "alt": "줄넘기 모임에서 한 명만 '넌 빠져' 하고 밀어낸 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

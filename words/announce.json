@@ -1,0 +1,96 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/announce/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/announce/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "announce",
+ "slug": "announce",
+ "url": "https://hibbangyong.com/words/announce/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "알리다 — 한 사람한테만 살짝이 아니라, 알아야 할 사람들이 다 알게 소식을 내놓는 것",
+ "gloss_ko": "알리다",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "학교 정문에 종이 한 장이 딱 붙었어. 내일 소풍은 안 간대.",
+  "한 사람 붙잡고 속닥이는 게 아니야. 알아야 할 사람들이 다 알게 내놓는 거지.",
+  "말로 해도 되고, 써 붙여도 되고, 방송으로 흘러나와도 돼. 새로 정한 일이든 취소든, 기쁜 거든 안 기쁜 거든 다 돼.",
+  "몇몇만 아는 채로 두는 거랑은 딴판이지? 그게 announce야."
+ ],
+ "scene": "학교 정문에 붙은 종이로 소풍 취소 소식이 알려지는 장면",
+ "examples": [
+  {
+   "en": "The teacher announced that the field trip was canceled because of the rain.",
+   "ko": "선생님은 비 때문에 소풍이 취소됐다고 알렸어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "수영장 천장 스피커에서 안내 방송이 흘러나왔어. \"오늘 3시부터 물놀이 대회를 시작합니다.\" 수영장 안에 있던 사람들이 다 그 소리를 들었어. 이게 'announce'야?",
+   "choices": [
+    "응, announce 맞아",
+    "아니, announce 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, announce 맞아",
+   "why": "맞아! 스피커에서 나온 소리를 그 자리 사람들이 다 들었잖아. 한 사람한테만 속닥인 게 아니라 알아야 할 사람들이 다 알게 소식을 내놓은 거니까, 그게 바로 announce인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "언니가 다음 주 피아노 대회 날짜를 자기 방 벽 달력에 적어 뒀어. 가족한테도 친구한테도 말하지 않았어. 이게 'announce'야?",
+   "choices": [
+    "응, announce 맞아",
+    "아니, announce 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, announce 아니야",
+   "why": "맞아! 언니는 달력에 혼자 적어만 뒀지, 가족한테도 친구한테도 아무한테도 말을 안 했잖아. 알아야 할 사람들이 아무도 모르는 채로 있으니까 announce가 아닌 게 맞아."
+  },
+  {
+   "type": "choice",
+   "question": "소풍 날짜가 다른 날로 바뀌었어. 아이들이 각자 이렇게 했대. 이 중에 'announce'한 사람은?",
+   "choices": [
+    "지우는 바뀐 날짜를 종이에 써서 교실 게시판에 붙였어",
+    "준호는 바뀐 날짜를 짝꿍 귀에만 대고 살짝 말했어",
+    "서연이는 바뀐 날짜를 자기 수첩에 적어 가방에 넣었어",
+    "태민이는 다들 이미 아는 예전 날짜를 또 한 번 크게 말했어"
+   ],
+   "answer_index": 0,
+   "answer": "지우는 바뀐 날짜를 종이에 써서 교실 게시판에 붙였어",
+   "why": "맞아! 지우는 알아야 할 아이들이 다 볼 수 있게 게시판에 딱 내놨잖아. 말로 하든 써 붙이든 상관없어. 다들 알게 내놓은 그게 바로 announce야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "reveal",
+   "kind": "confusable",
+   "from": "vs reveal"
+  },
+  {
+   "word": "declare",
+   "kind": "confusable",
+   "from": "vs declare"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-announce",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-announce"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/announce.webp",
+  "alt": "학교 정문에 붙은 종이로 소풍 취소 소식이 알려지는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

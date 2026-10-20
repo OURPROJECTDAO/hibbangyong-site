@@ -1,0 +1,94 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/clay/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/clay/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "clay",
+ "slug": "clay",
+ "url": "https://hibbangyong.com/words/clay/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "찰흙 — 끈적한 흙. 물기가 있으면 말랑해서 손으로 모양을 만들 수 있고, 마르거나 구우면 딱딱하게 굳어.",
+ "gloss_ko": "찰흙",
+ "level": {
+  "code": "L4",
+  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "비 온 다음 날 땅을 파면 끈적하게 뭉쳐 있는 흙덩이가 나올 때가 있거든?",
+  "손으로 조물조물하면 그릇도 되고 동그란 공도 되고, 그대로 두면 그 모양 그대로 굳어 버려.",
+  "옆에 있는 모래는 아무리 눌러도 좌르르 흩어지고, 물이 너무 많은 흙은 손가락 사이로 뚝뚝 떨어져. 그거랑은 달라.",
+  "모양이 잡히고 굳는 이런 흙, 그게 clay야."
+ ],
+ "scene": "비 온 다음 날 땅을 파서 나온 끈적한 흙덩이",
+ "examples": [
+  {
+   "en": "I squeezed the wet clay into a little bird, and the next day it was hard.",
+   "ko": "젖은 찰흙을 조몰락거려서 작은 새 모양을 만들었는데 다음 날엔 딱딱해졌어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "아이 넷이 각자 뭔가를 만들었어. 'clay'로 만든 건 어느 것일까?",
+   "choices": [
+    "밀가루에 물을 붓고 조물조물 반죽해서 동그란 빵을 구워 냈어.",
+    "강가에서 퍼온 흙을 조물조물 빚어 작은 항아리를 만들고 햇볕에 말렸어.",
+    "마당에 쌓인 눈을 꾹꾹 뭉쳐 커다란 눈사람을 만들어 세워 뒀어.",
+    "납작한 돌을 하나씩 골라 차곡차곡 쌓아 올려 작은 탑을 만들었어."
+   ],
+   "answer_index": 1,
+   "answer": "강가에서 퍼온 흙을 조물조물 빚어 작은 항아리를 만들고 햇볕에 말렸어.",
+   "why": "맞아! 강가에서 퍼온 흙을 조물조물 빚어서 항아리 모양을 만들고, 햇볕에 말리니까 그 모양 그대로 딱딱해졌잖아. 손으로 모양을 만들 수 있고 마르면 딱딱해지는 흙, 그게 바로 clay인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 아이가 손바닥에 하나씩 올려놓고 눌러 보며 보여 줬어. 이 중 'clay'는 어느 것일까?",
+   "choices": [
+    "꾹 눌러도 딱딱해서 자국 하나 나지 않아.",
+    "꾹 누르면 바스락 소리를 내면서 부서져.",
+    "꾹 누르면 오목하게 들어가서 그릇 모양이 돼.",
+    "꾹 쥐고 있으면 차가워서 물이 되어 흘러."
+   ],
+   "answer_index": 2,
+   "answer": "꾹 누르면 오목하게 들어가서 그릇 모양이 돼.",
+   "why": "맞아! 꾹 누르니까 오목하게 들어가서 그릇 모양이 됐잖아. 이렇게 손으로 누른 대로 모양이 생기는 흙, 그게 바로 clay인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "미술 시간에 선생님이 책상 위에 네 가지를 놓고 하나씩 설명해 줬어. 이 중 'clay'는 어느 것일까?",
+   "choices": [
+    "물을 조금 뿌리면 금세 눅눅해져서 바삭한 맛이 사라져.",
+    "물을 조금 섞으면 말랑해져서 원하는 모양을 잡을 수 있어.",
+    "물을 조금 부으면 쭉 빨아들여서 축축하고 무거워져.",
+    "물을 조금 섞으면 색이 번지면서 그림이 흐릿해져."
+   ],
+   "answer_index": 1,
+   "answer": "물을 조금 섞으면 말랑해져서 원하는 모양을 잡을 수 있어.",
+   "why": "맞아! 물을 조금 섞으면 말랑해지고, 그러면 원하는 모양을 잡을 수 있잖아. 바로 그런 게 clay인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "stone"
+ ],
+ "confusable": [],
+ "related_scene": [
+  "brick",
+  "soil"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-clay",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-clay"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/clay.webp",
+  "alt": "비 온 다음 날 땅을 파서 나온 끈적한 흙덩이",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

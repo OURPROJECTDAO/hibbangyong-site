@@ -1,0 +1,75 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/drain/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/drain/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "drain",
+ "slug": "drain",
+ "url": "https://hibbangyong.com/words/drain/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "배수구 — 물이 빠져나가는 구멍",
+ "gloss_ko": "배수구",
+ "level": {
+  "code": "L4",
+  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "물이 빙글빙글 돌며 쏙 빨려 내려가는 그 동그란 구멍이 drain이에요.",
+  "목욕이 끝나고 욕조 마개를 빼면 물이 이 구멍으로 빠져나가요."
+ ],
+ "scene": "물이 빙글빙글 소용돌이치며 빨려 내려가는 은색 원형 배수구(하수구 구멍)를 화면 중앙에 크게 — '물이 빠지는 구멍'이라는 뜻을 물의 흐름으로 명시",
+ "examples": [
+  {
+   "en": "The water went down the drain after my bath.",
+   "ko": "목욕이 끝나고 물이 배수구로 쏙 빠져나갔어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "설거지가 끝나고 싱크대 바닥 구멍으로 물이 소용돌이치며 빠져 내려가요. 이게 drain이야?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 맞아",
+   "why": null
+  },
+  {
+   "type": "choice",
+   "question": "drain은 어느 것일까?",
+   "choices": [
+    "빵을 노릇하게 구워 내는 네모난 기계",
+    "밤하늘에 둥글게 떠 있는 노란 달",
+    "물이 소용돌이치며 빠져 내려가는 동그란 구멍",
+    "책을 가지런히 꽂아 두는 나무 선반"
+   ],
+   "answer_index": 2,
+   "answer": "물이 소용돌이치며 빠져 내려가는 동그란 구멍",
+   "why": null
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "pipe",
+  "vortex"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-drain",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-drain"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/drain.webp",
+  "alt": "물이 빙글빙글 소용돌이치며 빨려 내려가는 은색 원형 배수구(하수구 구멍)를 화면 중앙에 크게 — '물이 빠지는 구멍'이라는 뜻을 물의 흐름으로 명시",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

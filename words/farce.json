@@ -1,0 +1,89 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/farce/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/farce/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "farce",
+ "slug": "farce",
+ "url": "https://hibbangyong.com/words/farce/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "웃음거리 — 제대로 해야 할 일이 엉망으로 돌아가서 우스운 꼴이 된 상황",
+ "gloss_ko": "엉터리 웃음거리",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "반장 선거를 한다는데 후보는 한 명이고, 누가 될지는 벌써 정해져 있어.",
+  "투표는 하는 척만 하는 거야. 다들 속으로 이게 뭐 하는 건가 싶지.",
+  "제대로 해야 할 일이 엉망이 돼서 우스운 꼴이 된 상황, 그게 farce야.",
+  "친구랑 장난치며 웃는 거랑은 달라. 진지해야 할 일이 우습게 돼 버린 거야."
+ ],
+ "scene": "후보 한 명에 결과가 이미 정해진 반장 선거",
+ "examples": [
+  {
+   "en": "The class election was a farce because everyone already knew the winner.",
+   "ko": "누가 될지 다들 이미 알고 있어서 반장 선거는 완전 웃음거리였어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "학교 과학 탐구 대회에서 심사위원 세 명이 모든 작품을 직접 하나씩 살펴보고, 미리 공개한 채점 기준표대로 점수를 매겼어. 학생들도 발표된 결과를 그대로 받아들였어. 이 대회는 'farce'일까?",
+   "choices": [
+    "응, farce 맞아",
+    "아니, farce 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, farce 아니야",
+   "why": "맞아! 심사위원 세 명이 작품을 하나씩 직접 보고 미리 공개한 채점 기준표대로 점수를 매겼잖아. 진지한 대회가 규칙대로 제대로 굴러갔고 학생들도 결과를 받아들였으니까 엉망이 된 데가 하나도 없어. 그래서 farce가 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "구청에서 주민 의견을 듣는 공청회를 열었어. 그런데 주민들이 말하는 동안 담당자는 듣지도 않고, 공청회가 끝나기도 전에 '원래 계획대로 진행합니다'라는 공지를 이미 붙여 놨어. 이 공청회는 'farce'일까?",
+   "choices": [
+    "응, farce 맞아",
+    "아니, farce 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, farce 맞아",
+   "why": "맞아! 공청회는 주민 말을 진짜 들으려고 여는 건데, 담당자는 듣지도 않고 끝나기도 전에 '원래 계획대로 진행합니다' 공지까지 붙여 놨잖아. 진지해야 할 일이 하는 척만 하는 우스운 꼴이 됐으니까 바로 그게 farce인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "다음 네 가지 상황 중에서 'farce'라고 부르기에 가장 알맞은 건 뭘까?",
+   "choices": [
+    "심판이 한쪽 팀 선수의 형이라서 시작 전부터 결과가 뻔했던 축구 대회",
+    "친구가 보여 준 개그 영상 때문에 반 전체가 한참 동안 웃었던 쉬는 시간",
+    "열심히 준비했는데 갑자기 비가 와서 다음 주로 미뤄진 학교 운동회",
+    "규칙대로 공정하게 진행돼서 모두가 결과를 받아들인 반장 선거"
+   ],
+   "answer_index": 0,
+   "answer": "심판이 한쪽 팀 선수의 형이라서 시작 전부터 결과가 뻔했던 축구 대회",
+   "why": "맞아! 축구 대회는 공정하게 겨뤄야 하는 진지한 일이잖아. 그런데 심판이 한쪽 팀 선수의 형이라 시작 전부터 결과가 뻔했으니, 경기는 하는 척만 하는 우스운 꼴이 된 거야. 그게 바로 farce야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "comedy",
+   "kind": "confusable",
+   "from": "vs comedy"
+  }
+ ],
+ "related_scene": [
+  "comedy"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-farce",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-farce"
+ },
+ "image": null
+}

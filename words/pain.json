@@ -1,0 +1,92 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/pain/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/pain/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "pain",
+ "slug": "pain",
+ "url": "https://hibbangyong.com/words/pain/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "아픔 — 몸이든 마음이든, 쑤시고 욱신거려서 그만 좀 했으면 싶은 느낌",
+ "gloss_ko": "아픔",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "밤에 이불 속에서 배가 콕콕 쑤셔서 잠이 깬 적 있지? 어디 부딪힌 것도 아닌데 말이야.",
+  "다쳐야만 아픈 게 아니거든? 아무 데도 안 긁혔는데 머리가 지끈, 배가 살살, 그럴 때 있잖아.",
+  "몸만 그런 것도 아니야. 제일 친한 친구가 멀리 이사 가 버리면 가슴께가 싸하게 아프잖아. 그것도 똑같아.",
+  "화나는 거랑은 달라. 화는 확 뜨거워지는 거고, 이건 그냥 이제 그만 아팠으면 싶은 거야. 이게 pain이야."
+ ],
+ "scene": "밤에 이불 속에서 배가 콕콕 쑤셔 잠이 깬 장면",
+ "examples": [
+  {
+   "en": "I woke up at night with a pain in my tummy, and nothing made it stop.",
+   "ko": "밤에 배가 아파서 깼는데 뭘 해도 아픔이 안 가셨어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "낮잠 자고 일어났는데 몸이 개운하고 어디도 쑤시는 데가 없어. 이게 'pain'이야?",
+   "choices": [
+    "응, pain 맞아",
+    "아니, pain 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, pain 아니야",
+   "why": "그렇지, 몸이 개운하고 쑤시는 데가 하나도 없으면 pain이 아닌 거야. pain은 어디가 콕콕 쑤시거나 지끈거려서 그만했으면 싶을 때 쓰는 말이거든. 지금은 딱 그 반대인 거지."
+  },
+  {
+   "type": "ox",
+   "question": "수영장에서 나온 뒤부터 지금까지 오른쪽 귀 안쪽이 계속 욱신거려. 이게 'pain'이야?",
+   "choices": [
+    "응, pain 맞아",
+    "아니, pain 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, pain 맞아",
+   "why": "맞아! 수영장 다녀온 뒤로 귀 안쪽이 계속 욱신거리면, 그게 딱 이제 그만 아팠으면 싶은 그 느낌이잖아. 다친 것도 아니고 긁힌 데도 없는데 욱신욱신, 바로 그게 pain인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "친구 넷이 지금 자기가 어떤지 말했어. 이 중에서 'pain'을 느끼고 있는 사람은 누구일까?",
+   "choices": [
+    "무릎에 옛날 흉터가 남아 있는데 지금은 아무 느낌도 없다는 지수",
+    "넘어진 데는 하나도 없는데 아까부터 머리가 지끈지끈 눌린다는 민호",
+    "오늘 달리기에서 져서 분하고 화가 잔뜩 치밀어 오른다는 서연",
+    "이불 속이 따끈따끈해서 계속 뒹굴뒹굴 좋기만 하다는 준우"
+   ],
+   "answer_index": 1,
+   "answer": "넘어진 데는 하나도 없는데 아까부터 머리가 지끈지끈 눌린다는 민호",
+   "why": "맞아! 민호는 어디 부딪히지도 긁히지도 않았는데 머리가 지끈지끈 눌리잖아. 다친 데가 없어도 지금 쑤시고 그만했으면 싶은 그 느낌, 그게 바로 pain인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "comfort"
+ ],
+ "confusable": [],
+ "related_scene": [
+  "hurt",
+  "prick",
+  "relieve",
+  "suffer"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-pain",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-pain"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/pain.webp",
+  "alt": "밤에 이불 속에서 배가 콕콕 쑤셔 잠이 깬 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/monastery/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/monastery/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "monastery",
+ "slug": "monastery",
+ "url": "https://hibbangyong.com/words/monastery/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "수도원 — 종교를 위해 사는 사람들(수도사·스님)이 세상과 떨어져 함께 모여 살며 기도하는 곳",
+ "gloss_ko": "수도원",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "산속 깊은 곳에 스님들이 같이 먹고 자면서 날마다 기도하는 절 있잖아.",
+  "유럽에도 비슷한 곳이 있어. 수도사들이 세상과 떨어져 모여 사는 오래된 건물.",
+  "둘 다 monastery야. 핵심은 종교 때문에 거기서 함께 산다는 거.",
+  "주말에 예배만 드리고 집에 가는 교회랑은 달라. 교회에는 보통 아무도 안 살잖아."
+ ],
+ "scene": "산속에서 스님들이 함께 먹고 자며 기도하는 절",
+ "examples": [
+  {
+   "en": "We stayed one night at a monastery in the mountains and ate breakfast with the monks.",
+   "ko": "산속 수도원에서 하룻밤 묵고 수도사들이랑 아침도 같이 먹었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "지훈이네 가족 넷이 사는 아파트 12층 집이야. 저녁이면 다 같이 식탁에 모여 밥을 먹고, 각자 방에서 잠을 자. 이 집은 'monastery'야?",
+   "choices": [
+    "응, monastery 맞아",
+    "아니, monastery 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, monastery 아니야",
+   "why": "맞아! 지훈이네 집도 넷이 같이 밥 먹고 자긴 하지만, 가족이 모여 사는 보통 집이지 종교 때문에 세상과 떨어져 모인 곳은 아니잖아. 그래서 monastery가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "민수가 여행 중에 'monastery'에 들렀어. 거기서 민수가 봤을 장면으로 가장 알맞은 건?",
+   "choices": [
+    "승객들이 표를 끊고 줄을 서서 기차를 기다리고 있었어",
+    "신자들이 주말 예배를 마치고 각자 집으로 돌아가고 있었어",
+    "스님들이 새벽에 같이 일어나 마당을 쓸고 밥을 먹고 있었어",
+    "학생들이 조용히 책을 고르고 자리에 앉아 읽고 있었어"
+   ],
+   "answer_index": 2,
+   "answer": "스님들이 새벽에 같이 일어나 마당을 쓸고 밥을 먹고 있었어",
+   "why": "맞아! 스님들이 새벽에 같이 일어나서 마당 쓸고 밥까지 같이 먹잖아. 종교 때문에 한곳에 모여 함께 사는 거, 바로 그게 monastery야."
+  },
+  {
+   "type": "ox",
+   "question": "마을에서 멀리 떨어진 언덕 위 돌 건물에서 수도사들이 평생 함께 지내며 날마다 기도하고 텃밭을 가꿔. 이 건물은 'monastery'야?",
+   "choices": [
+    "응, monastery 맞아",
+    "아니, monastery 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, monastery 맞아",
+   "why": "맞아! 수도사들이 마을에서 멀리 떨어진 언덕 위 돌 건물에서 평생 함께 지내면서 날마다 기도하잖아. 종교 때문에 세상과 떨어져 같이 사는 곳이니까 이 건물이 바로 monastery야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-monastery",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-monastery"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/monastery.webp",
+  "alt": "산속에서 스님들이 함께 먹고 자며 기도하는 절",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

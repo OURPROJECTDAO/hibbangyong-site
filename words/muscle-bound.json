@@ -1,0 +1,94 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/muscle-bound/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/muscle-bound/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "muscle-bound",
+ "slug": "muscle-bound",
+ "url": "https://hibbangyong.com/words/muscle-bound/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "근육이 너무 커서 몸이 뻣뻣한 — 근육이 지나치게 붙어서 오히려 몸이 굳고 마음대로 잘 안 움직이는",
+ "gloss_ko": "근육 커서 뻣뻣한",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "헬스를 몇 년 한 형이 팔뚝이 엄청 굵어졌어. 근데 이제는 등 뒤로 손이 안 닿아서 등을 못 긁어.",
+  "근육이 너무 붙어서 오히려 몸이 굳고 잘 안 움직이는 상태, 그게 muscle-bound야.",
+  "그냥 근육이 멋지게 붙은 거(muscular)랑은 달라. 핵심은 너무 커서 굳어 버렸다는 쪽이야.",
+  "그래서 덩치 큰 회사가 너무 커서 변화에 느릴 때도 이 말을 빌려 써."
+ ],
+ "scene": "헬스를 오래 해 팔뚝이 굵어졌는데 등을 못 긁는 형",
+ "examples": [
+  {
+   "en": "After years at the gym, Tom got muscle-bound and couldn't scratch his own back.",
+   "ko": "몇 년 동안 헬스장을 다니더니 톰은 근육 때문에 몸이 굳어서 자기 등도 못 긁게 됐어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "체조부 친구 지아는 몸이 가늘고 근육이 별로 없어. 허리를 뒤로 쉽게 젖히고, 서서 몸을 굽히면 손바닥이 바닥에 쫙 닿아. 이런 지아의 몸은 'muscle-bound'일까?",
+   "choices": [
+    "응, muscle-bound 맞아",
+    "아니, muscle-bound 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, muscle-bound 아니야",
+   "why": "맞아! 지아는 근육이 별로 없고 허리도 뒤로 쉽게 젖히고 손바닥이 바닥에 쫙 닿잖아. muscle-bound는 근육이 너무 붙어서 몸이 굳은 상태니까, 이렇게 잘 휘는 지아랑은 정반대야."
+  },
+  {
+   "type": "ox",
+   "question": "역도를 10년 한 삼촌은 가슴과 어깨 근육이 아주 커. 그런데 근육 때문에 팔이 머리 위로 쭉 안 올라가서 티셔츠를 갈아입을 때 한참 걸려. 이런 삼촌의 몸은 'muscle-bound'일까?",
+   "choices": [
+    "응, muscle-bound 맞아",
+    "아니, muscle-bound 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, muscle-bound 맞아",
+   "why": "맞아! 삼촌은 가슴이랑 어깨 근육이 너무 커서 팔이 머리 위로 쭉 안 올라가잖아. 근육 때문에 오히려 몸이 굳어서 티셔츠 갈아입는 것도 한참 걸리는 거니까, 이게 바로 muscle-bound야."
+  },
+  {
+   "type": "choice",
+   "question": "운동부 선배 네 명이 있어. 'muscle-bound'라는 말이 가장 잘 어울리는 선배는 누구일까?",
+   "choices": [
+    "팔뚝이 워낙 굵어져서 등 뒤로 손이 안 닿는 선배",
+    "어깨가 넓고 힘도 세면서 다리 찢기도 되는 선배",
+    "어제 팔굽혀펴기를 많이 해서 오늘 팔이 쑤시는 선배",
+    "몸이 가볍고 말라서 오래달리기가 제일 빠른 선배"
+   ],
+   "answer_index": 0,
+   "answer": "팔뚝이 워낙 굵어져서 등 뒤로 손이 안 닿는 선배",
+   "why": "맞아! 팔뚝이 워낙 굵어져서 등 뒤로 손이 안 닿는다는 건 근육이 너무 커서 오히려 몸이 굳어 버린 거잖아. 바로 그게 muscle-bound야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "muscular",
+   "kind": "confusable",
+   "from": "vs muscular"
+  }
+ ],
+ "related_scene": [
+  "gym",
+  "muscle"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-muscle-bound",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-muscle-bound"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/muscle-bound.webp",
+  "alt": "헬스를 오래 해 팔뚝이 굵어졌는데 등을 못 긁는 형",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

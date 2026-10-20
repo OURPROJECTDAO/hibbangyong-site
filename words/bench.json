@@ -1,0 +1,74 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/bench/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/bench/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "bench",
+ "slug": "bench",
+ "url": "https://hibbangyong.com/words/bench/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "벤치 — 공원이나 길가에 놓인, 여러 사람이 나란히 앉는 긴 의자",
+ "gloss_ko": "벤치",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "그림 속 잔디밭에 놓인 저 긴 나무 의자가 bench예요. 등받이가 있고 두세 명이 나란히 앉을 수 있어요.",
+  "공원에서 걷다가 다리가 아프면 이런 의자에 앉아서 쉬어요."
+ ],
+ "scene": "공원에 놓인 나무 벤치 한 개(앉는 가구 '벤치' 의미) — 초록 잔디 위, 정면 살짝 비스듬한 각도로 전체가 다 보이게",
+ "examples": [
+  {
+   "en": "We sat on the bench in the park to eat our snacks.",
+   "ko": "우리는 간식을 먹으려고 공원 벤치에 앉았어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "공원에 줄로 매달린 그네가 있어서 아이가 올라타 앞뒤로 흔들며 놀아요. 이게 bench야?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 아니야",
+   "why": null
+  },
+  {
+   "type": "choice",
+   "question": "bench는 어느 것일까?",
+   "choices": [
+    "하늘을 날아다니는 커다란 새",
+    "물을 담아서 마시는 둥근 컵",
+    "여러 사람이 앉아서 쉬는 긴 의자",
+    "방을 환하게 밝혀 주는 전등"
+   ],
+   "answer_index": 2,
+   "answer": "여러 사람이 앉아서 쉬는 긴 의자",
+   "why": null
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "furniture"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-bench",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-bench"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/bench.webp",
+  "alt": "공원에 놓인 나무 벤치 한 개(앉는 가구 '벤치' 의미) — 초록 잔디 위, 정면 살짝 비스듬한 각도로 전체가 다 보이게",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

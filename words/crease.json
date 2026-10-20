@@ -1,0 +1,89 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/crease/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/crease/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "crease",
+ "slug": "crease",
+ "url": "https://hibbangyong.com/words/crease/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "접힌 자국 — 종이나 천이 접히거나 눌린 자리에 남는 줄",
+ "gloss_ko": "접힌 자국",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "시험지를 반으로 접었다가 다시 펴 봐. 가운데에 줄이 하나 남지?",
+  "일부러 접었든, 가방 속에서 눌렸든 상관없어. 접히거나 눌린 자리에 남은 그 줄이 crease야.",
+  "웃을 때 눈가 피부가 접히면서 생기는 줄도 crease라고 해.",
+  "볼펜으로 그은 줄이나 찢어진 틈은 crease가 아니야. 그건 접혀서 생긴 줄이 아니니까."
+ ],
+ "scene": "반으로 접었다 편 시험지 가운데의 줄",
+ "examples": [
+  {
+   "en": "I opened the test paper, and a crease ran right down the middle.",
+   "ko": "시험지를 펴 보니까 가운데로 접힌 자국이 쭉 나 있었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "지갑 속에 반으로 접혀 있던 지폐를 꺼내서 쫙 폈더니, 접혀 있던 가운데 자리에 줄이 하나 남아 있어. 이 줄이 'crease'야?",
+   "choices": [
+    "응, crease 맞아",
+    "아니, crease 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, crease 맞아",
+   "why": "맞아! 지폐가 반으로 접혀 있던 그 가운데 자리에 줄이 남은 거잖아. 접혀 있던 자리에 남은 줄, 바로 그게 crease야."
+  },
+  {
+   "type": "ox",
+   "question": "미술 시간에 새로 받은 도화지를 한 번도 접지 않고 책상 위에 반듯하게 펴 두었어. 어디에도 줄 하나 없이 매끈해. 이 매끈한 표면이 'crease'야?",
+   "choices": [
+    "응, crease 맞아",
+    "아니, crease 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, crease 아니야",
+   "why": "맞아, crease가 아니야! 이 도화지는 한 번도 접은 적이 없어서 어디에도 줄이 없잖아. crease는 접히거나 눌린 자리에 남는 줄이니까, 줄 하나 없이 매끈한 표면은 그 반대인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "식당에서 반으로 접혀 있던 종이 냅킨을 쫙 펼쳐 놨어. 이제 겹친 부분은 없는데 가운데에 한 줄이 남아 있어. 이 줄도 'crease'야?",
+   "choices": [
+    "응, crease 맞아",
+    "아니, crease 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, crease 맞아",
+   "why": "맞아! 냅킨을 쫙 펼쳐서 겹친 부분은 없어졌어도, 접혀 있던 자리에 남은 가운데 그 한 줄이 바로 crease인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "fold",
+   "kind": "confusable",
+   "from": "vs fold"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-crease",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-crease"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/crease.webp",
+  "alt": "반으로 접었다 편 시험지 가운데의 줄",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

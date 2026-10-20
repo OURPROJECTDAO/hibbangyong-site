@@ -1,0 +1,98 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/clue/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/clue/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "clue",
+ "slug": "clue",
+ "url": "https://hibbangyong.com/words/clue/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "단서 — 아직 모르는 답 쪽으로 데려다주는 작은 조각",
+ "gloss_ko": "단서",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "보물찾기에서 \"물 있는 데를 봐\" 딱 한마디만 들었어.",
+  "답은 안 알려줬는데도 어디부터 뒤질지 알겠지? 발이 어항 쪽으로 먼저 가잖아.",
+  "누가 일부러 안 줘도 돼. 현관에 우산이 젖어 있으면 그거 하나로 밖에 비 왔구나 알게 되는 것도 똑같아.",
+  "답을 통째로 알려주는 말이랑은 달라. 답 쪽으로 한 걸음 데려다주기만 하는 조각, 그게 clue야."
+ ],
+ "scene": "보물찾기에서 \"물 있는 데를 봐\" 한마디를 듣고 어항 쪽으로 가는 장면",
+ "examples": [
+  {
+   "en": "The muddy paw print was a clue that our dog went in my room.",
+   "ko": "진흙 발자국이 우리 개가 내 방에 들어갔다는 단서였어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "다음 중 'clue'에 해당하는 것은?",
+   "choices": [
+    "그 냄비는 손잡이가 까만색이야.",
+    "우리 집 냄비는 모두 네 개야.",
+    "냄비 뚜껑이 아직 따끈따끈해.",
+    "냄비는 찬장 두 번째 칸에 넣어 둬."
+   ],
+   "answer_index": 2,
+   "answer": "냄비 뚜껑이 아직 따끈따끈해.",
+   "why": "맞아! 뚜껑이 따끈한 걸 만져 보면 아무도 말 안 해 줬는데도 방금 누가 여기서 요리했구나 알게 되잖아. 그렇게 모르던 답 쪽으로 한 걸음 데려다주는 조각, 그게 바로 clue인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "다음 중 'clue'에 해당하는 것은?",
+   "choices": [
+    "크레파스 상자는 노란색이야.",
+    "스케치북 위에 빨간 크레파스 가루가 묻어 있어.",
+    "크레파스는 한 통에 열두 색이 들어 있어.",
+    "우리 반 아이들은 미술 시간을 좋아해."
+   ],
+   "answer_index": 1,
+   "answer": "스케치북 위에 빨간 크레파스 가루가 묻어 있어.",
+   "why": "맞아! 크레파스 가루가 남아 있으면 그거 하나로 아까 여기서 누가 빨강을 썼구나 하고 알게 되잖아. 안 봤는데도 알게 해 주는 그 조각, 그게 바로 clue야."
+  },
+  {
+   "type": "choice",
+   "question": "민수 자전거가 자꾸 한쪽으로 기울어. 왜 그런지 아직 아무도 몰라. 그날 네 가지 일이 있었어. 이 중에서 'clue'는 어떤 걸까?",
+   "choices": [
+    "가게 아저씨가 앞바퀴 축이 휘어서 그런 거라고 말해 줬어.",
+    "타이어 한쪽만 바람이 쏙 빠져 있는 게 눈에 띄었어.",
+    "손잡이에 민수 이름이 적혀 있는 걸 그제야 봤어.",
+    "옆집 형이 자전거는 원래 잘 고장 난다고 말해 줬어."
+   ],
+   "answer_index": 1,
+   "answer": "타이어 한쪽만 바람이 쏙 빠져 있는 게 눈에 띄었어.",
+   "why": "맞아! 바람 빠진 타이어는 아무도 답을 안 알려줬는데도 왜 기울까 하는 궁금증의 답 쪽으로 네 눈을 딱 데려다주잖아. 그렇게 답 쪽을 가리켜 주는 작은 조각, 그게 clue인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "evidence",
+   "kind": "confusable",
+   "from": "vs evidence"
+  }
+ ],
+ "related_scene": [
+  "crime",
+  "solve"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-clue",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-clue"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/clue.webp",
+  "alt": "보물찾기에서 \"물 있는 데를 봐\" 한마디를 듣고 어항 쪽으로 가는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

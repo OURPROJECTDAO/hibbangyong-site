@@ -1,0 +1,88 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/despair/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/despair/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "despair",
+ "slug": "despair",
+ "url": "https://hibbangyong.com/words/despair/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "이제 무슨 수를 써도 안 된다고 느끼는 마음 — 될 거라는 기대가 딱 꺼진 상태",
+ "gloss_ko": "이제 안 된다고 느끼는 마음",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "퍼즐을 하루 종일 맞췄는데 마지막 한 조각이 없어. 온 집을 다 뒤져도 안 나와. 그때 속에서 이제 절대 못 맞춰 하고 불이 딱 꺼지지? 그 꺼진 마음 말이야.",
+  "그냥 슬픈 거랑은 달라. 슬플 땐 그래도 혹시 하는 게 조금 남아 있거든? 이건 그 혹시까지 없어진 거야.",
+  "큰일에만 오는 것도 아니야. 잃어버린 자전거든, 자꾸 틀리는 문제든, 안 낫는 아픔이든 — 이젠 어떻게 해도 안 돼 소리가 마음에 들어차면 다 이거야.",
+  "그게 despair야."
+ ],
+ "scene": "온 집을 뒤져도 마지막 퍼즐 조각이 안 나와 마음의 불이 꺼지는 장면",
+ "examples": [
+  {
+   "en": "I looked everywhere for the last puzzle piece, and then I sat down in despair.",
+   "ko": "마지막 퍼즐 조각을 여기저기 다 찾아봤는데도 없어서 이제 안 되겠다 싶은 마음으로 주저앉았어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "할머니가 준 반지를 배 위에서 만지작거리다 바다에 빠뜨렸어. 아이는 물속을 한참 보다가 '저 깊은 바다에서 저걸 어떻게 찾아. 이제 영영 못 찾아.' 하고 뱃전에서 손을 뗐어. 이 마음이 'despair'야?",
+   "choices": [
+    "응, despair 맞아",
+    "아니, despair 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, despair 맞아",
+   "why": "맞아! 저 깊은 바다에서 어떻게 찾아, 이제 영영 못 찾아 하고 손을 뗐잖아. 해볼 방법이 하나도 안 남았다고 마음의 불이 딱 꺼진 거, 그게 바로 despair야."
+  },
+  {
+   "type": "ox",
+   "question": "줄넘기 이단뛰기를 백 번 넘게 시도했는데 오늘은 한 번도 안 됐어. 아이는 줄을 감으며 '오늘은 여기까지. 내일 아침에 또 해보면 될 것 같아.' 하고 집에 갔어. 이 마음이 'despair'야?",
+   "choices": [
+    "응, despair 맞아",
+    "아니, despair 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, despair 아니야",
+   "why": "그렇지! 내일 아침에 또 해보면 될 것 같아 하는 마음이 아직 살아 있잖아. 될 거라는 기대가 남아 있으니까 이건 despair가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "자전거를 잃어버린 아이 넷이 그날 밤 이야기를 했어. 마음이 'despair'였던 아이는 누구일까?",
+   "choices": [
+    "자전거 생각에 눈물이 나서 베개를 안고 한참 울다 잠든 아이",
+    "혹시 놀이터에 있을까 싶어 내일 아침 다시 가보기로 한 아이",
+    "며칠을 찾아다니다 이젠 어디에도 없다 싶어 찾기를 그만둔 아이",
+    "누가 가져갔을까 봐 마음이 조마조마해 밤에 잠을 설친 아이"
+   ],
+   "answer_index": 2,
+   "answer": "며칠을 찾아다니다 이젠 어디에도 없다 싶어 찾기를 그만둔 아이",
+   "why": "맞아! 며칠을 찾아다니다가 이젠 어디에도 없다 싶어서 마음속 불이 딱 꺼진 거잖아. 찾기를 그만뒀다는 게 바로 기대가 끊겼다는 말이라서, 그게 despair인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "desperate",
+  "desperation"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-despair",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-despair"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/despair.webp",
+  "alt": "온 집을 뒤져도 마지막 퍼즐 조각이 안 나와 마음의 불이 꺼지는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

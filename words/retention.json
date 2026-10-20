@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/retention/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/retention/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "retention",
+ "slug": "retention",
+ "url": "https://hibbangyong.com/words/retention/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "유지 — 빠져나가거나 잃지 않고 계속 가지고 있는 것",
+ "gloss_ko": "안 잃고 계속 지님",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "동아리에 3월에 신입이 열 명 들어왔는데, 12월까지 남은 게 일곱 명이야.",
+  "새로 얻는 게 아니야. 이미 가진 걸 빠져나가지 않게 계속 가지고 있는 거, 그게 retention이야.",
+  "머리에 남는 기억, 흙이 머금은 물, 몸에 괜히 고인 물도 다 돼. 좋은 거든 불편한 거든 상관없어.",
+  "다 빠져나가서 잃는 거랑은 반대고, 처음에 새로 모으는 거랑도 달라."
+ ],
+ "scene": "동아리 신입 열 명 중 연말까지 남은 일곱 명",
+ "examples": [
+  {
+   "en": "Our club has a retention problem — most new members leave before summer.",
+   "ko": "우리 동아리는 새로 들어온 애들 대부분이 여름 전에 나가서, 사람이 안 남는 게 문제야."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "난로로 방을 따뜻하게 데워 놨는데, 창문을 열어 뒀더니 따뜻한 공기가 밖으로 다 빠져나가 방이 차가워졌어. 이런 걸 'retention'이라고 할 수 있을까?",
+   "choices": [
+    "응, retention 맞아",
+    "아니, retention 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, retention 아니야",
+   "why": "맞아! 방에 있던 따뜻한 공기를 계속 붙잡아 둔 게 아니라, 창문으로 밖에 다 빠져나가서 방이 차가워졌잖아. retention은 빠져나가지 않게 계속 가지고 있는 거라서, 이렇게 다 잃은 건 딱 반대야."
+  },
+  {
+   "type": "ox",
+   "question": "아침에 보온병에 뜨거운 물을 담았는데, 저녁에 따라 보니 물이 아직도 뜨거웠어. 열이 이렇게 남아 있는 걸 'retention'이라고 할 수 있을까?",
+   "choices": [
+    "응, retention 맞아",
+    "아니, retention 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, retention 맞아",
+   "why": "맞아! 보온병은 아침에 담은 뜨거운 물의 열을 밖으로 빠져나가지 않게 저녁까지 계속 붙잡고 있었잖아. 이미 가진 걸 잃지 않고 계속 가지고 있는 거, 그게 바로 retention이야."
+  },
+  {
+   "type": "choice",
+   "question": "새로 나온 게임 회사가 올해 'retention'이 아주 좋았다고 발표했어. 어떤 일이 있었던 걸까?",
+   "choices": [
+    "한 달 전에 게임을 깐 사람들 대부분이 지금도 계속 하고 있어.",
+    "광고를 크게 했더니 게임을 새로 까는 사람이 확 늘었어.",
+    "게임을 깐 사람들 대부분이 일주일 만에 지워 버렸어.",
+    "회사가 가입한 사람 수를 날마다 표로 정리해 두었어."
+   ],
+   "answer_index": 0,
+   "answer": "한 달 전에 게임을 깐 사람들 대부분이 지금도 계속 하고 있어.",
+   "why": "맞아! 한 달 전에 게임을 깐 사람들이 빠져나가지 않고 지금도 계속 하고 있잖아. 이미 들어온 사람을 계속 붙잡아 두는 거, 바로 그게 retention이 좋은 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-retention",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-retention"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/retention.webp",
+  "alt": "동아리 신입 열 명 중 연말까지 남은 일곱 명",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

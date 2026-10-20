@@ -1,0 +1,98 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/yet/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/yet/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "yet",
+ "slug": "yet",
+ "url": "https://hibbangyong.com/words/yet/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "아직 — (기다리는 일이) 지금까진 안 됐다는 말 (근데 곧 될 수도 있어)",
+ "gloss_ko": "아직",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "엄마가 물어. 숙제 다 했어? 넌 고개를 절레절레. 아직 안 했거든.",
+  "근데 봐봐, '아직'은 '영영 안 해'가 아니야.",
+  "지금까진 안 했지만, 이따가 할 거란 말이거든.",
+  "헷갈리는 '벌써 다 했어'랑은 정반대야. 이게 yet이야."
+ ],
+ "scene": "숙제 다 했냐는 물음에 아직 안 했다고 고개 젓는 상황",
+ "examples": [
+  {
+   "en": "I haven't cleaned my room yet, but I will after lunch.",
+   "ko": "아직 방 청소를 안 했는데, 점심 먹고 나서 할 거야."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "컵에 있던 우유를 남김없이 다 마셔서, 지금 컵이 텅 비었어. 이게 'yet'이야?",
+   "choices": [
+    "응, yet 맞아",
+    "아니, yet 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, yet 아니야",
+   "why": "맞아! 우유를 남김없이 다 마셔서 컵이 텅 빈 건, 이미 다 끝나버린 일이거든. yet은 아직 안 한 일한테 쓰는 말이라서, 다 끝난 이 장면은 yet이 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "빨랫줄에 널어둔 빨래 얘기야. 다음 중 'yet'에 딱 맞는 말을 골라봐.",
+   "choices": [
+    "빨래가 벌써 다 말랐어.",
+    "빨래가 아직 안 말랐어.",
+    "빨래가 지금 계속 마르는 중이야.",
+    "빨래는 앞으로도 영영 안 마를 거야."
+   ],
+   "answer_index": 1,
+   "answer": "빨래가 아직 안 말랐어.",
+   "why": "맞아! 널어둔 빨래를 만져봤는데 아직 축축하지. 지금까진 안 말랐지만 이따 해 좀 더 쬐면 마를 거잖아. 딱 그 느낌이 yet이야."
+  },
+  {
+   "type": "ox",
+   "question": "동생이 아침부터 지금까지 한 시간째 계속 울고 있어. 이 상황을 'yet'으로 말할 수 있을까?",
+   "choices": [
+    "응, 'yet' 맞아",
+    "아니, 'yet' 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 'yet' 아니야",
+   "why": "맞아! 지금 한 시간째 울고 있는 건 지금 되고 있는 일이잖아. yet은 아직 안 일어난 일한테 쓰는 말이라서, 계속 하고 있는 일한테는 안 붙어."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "already"
+ ],
+ "confusable": [
+  {
+   "word": "still",
+   "kind": "confusable",
+   "from": "여전히 계속(still)"
+  },
+  {
+   "word": "so",
+   "kind": "confusable",
+   "from": "vs so far"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-yet",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-yet"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/yet.webp",
+  "alt": "숙제 다 했냐는 물음에 아직 안 했다고 고개 젓는 상황",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

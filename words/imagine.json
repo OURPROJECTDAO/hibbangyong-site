@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/imagine/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/imagine/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "imagine",
+ "slug": "imagine",
+ "url": "https://hibbangyong.com/words/imagine/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "상상하다 — 눈앞에 없는 일이나 기분을 머릿속에서 만들어 겪어 보다",
+ "gloss_ko": "상상하다",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "내일 이사 갈 방, 아직 한 번도 못 봤지? 그런데 눈 감으면 창문은 여기, 침대는 저기, 머릿속에 슥 만들어져.",
+  "모습만 그런 게 아니야. 거기서 밤에 무서울까, 아는 친구가 없어 심심할까 — 겪어 보지도 않은 기분까지 머릿속에서 미리 겪어 볼 수 있거든.",
+  "신나는 것만 그러는 것도 아니야. 부스럭 소리에 무서운 게 슥 떠오르는 것도 똑같아.",
+  "어제 본 걸 다시 떠올리는 거랑은 달라. 그건 있던 걸 꺼내는 거고, 이건 없던 걸 머릿속에서 만드는 거야. 이게 imagine이야."
+ ],
+ "scene": "아직 못 본 이사 갈 방을 눈 감고 머릿속에 만들어 보는 장면",
+ "examples": [
+  {
+   "en": "Imagine how your little sister feels when nobody plays with her.",
+   "ko": "아무도 안 놀아줄 때 네 여동생 기분이 어떨지 상상해 봐."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "준호는 지금 동물원 우리 앞에 서서 코끼리가 코로 물을 뿌리는 걸 두 눈으로 보고 있어. 이게 'imagine'이야?",
+   "choices": [
+    "응, imagine 맞아",
+    "아니, imagine 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, imagine 아니야",
+   "why": "맞아! 준호는 지금 코끼리를 두 눈으로 진짜 보고 있잖아. 눈앞에 있는 걸 그냥 보는 건 머릿속에서 만들어 내는 게 아니라서, 이건 imagine이 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "수아는 아직 강아지를 키운 적이 없어. 그런데 눈을 감고 '내 강아지가 있다면 이름은 뭘로 하고, 아침마다 어떻게 나를 깨울까'를 머릿속에서 만들어 봐. 이게 'imagine'이야?",
+   "choices": [
+    "응, imagine 맞아",
+    "아니, imagine 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, imagine 맞아",
+   "why": "맞아! 수아는 강아지를 키워 본 적이 없는데도 이름이랑 아침에 깨우는 모습을 머릿속에서 새로 만들어 냈잖아. 없던 걸 머릿속에 만들어 겪어 보는 게 바로 imagine이야."
+  },
+  {
+   "type": "choice",
+   "question": "선생님이 반 아이들한테 'imagine' 해 보라고 했어. 선생님 말대로 한 아이는 누구일까?",
+   "choices": [
+    "전학 간 친구가 새 학교에서 어떤 기분일지 머릿속으로 떠올려 본 아이",
+    "작년 소풍에서 먹은 김밥 맛을 그대로 다시 떠올려 본 아이",
+    "창밖에 내리는 비를 한참 동안 내다보고 있던 아이",
+    "칠판에 있는 그림을 도화지에 똑같이 따라 그린 아이"
+   ],
+   "answer_index": 0,
+   "answer": "전학 간 친구가 새 학교에서 어떤 기분일지 머릿속으로 떠올려 본 아이",
+   "why": "맞아! 전학 간 친구의 새 학교는 네가 한 번도 겪어 본 적이 없잖아. 그런데도 친구가 어떤 기분일지 머릿속에서 새로 만들어 본 거니까, 바로 그게 imagine인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-imagine",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-imagine"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/imagine.webp",
+  "alt": "아직 못 본 이사 갈 방을 눈 감고 머릿속에 만들어 보는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

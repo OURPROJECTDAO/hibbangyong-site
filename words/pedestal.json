@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/pedestal/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/pedestal/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "pedestal",
+ "slug": "pedestal",
+ "url": "https://hibbangyong.com/words/pedestal/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "받침대 — 조각상이나 기둥, 꽃병을 바닥에서 높이 올려 세워 두는 아래 받침",
+ "gloss_ko": "조각상 받침대",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "공원 한가운데 서 있는 동상 떠올려 봐.",
+  "동상 발밑에 네모난 돌덩이가 하나 있잖아. 그게 pedestal이야.",
+  "그냥 밑에 깔린 바닥이 아니야. 위에 있는 걸 높이 올려서 잘 보이게 해 주는 자리야.",
+  "그래서 누구를 pedestal에 올려놨다고 하면, 그 사람을 흠 하나 없는 사람처럼 떠받든다는 뜻도 돼."
+ ],
+ "scene": "공원 한가운데 동상 발밑의 네모난 돌 받침",
+ "examples": [
+  {
+   "en": "The statue was gone, and only its pedestal was left in the square.",
+   "ko": "동상은 없어지고 광장에는 그 받침대만 남아 있었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "학교 현관에 우승 트로피가 있는데, 허리 높이의 하얀 대리석 기둥 위에 세워져 있어. 트로피 밑의 그 대리석 기둥은 'pedestal'일까?",
+   "choices": [
+    "응, pedestal 맞아",
+    "아니, pedestal 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, pedestal 맞아",
+   "why": "맞아! 그 하얀 대리석 기둥은 트로피를 바닥에서 허리 높이까지 올려서 현관 지나가는 사람들 눈에 잘 띄게 해 주잖아. 위에 있는 걸 높이 받쳐 올리는 자리니까 바로 pedestal인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "이삿날 도자기 항아리를 거실 바닥에 그냥 내려놓았어. 항아리 밑의 그 거실 바닥은 'pedestal'일까?",
+   "choices": [
+    "응, pedestal 맞아",
+    "아니, pedestal 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, pedestal 아니야",
+   "why": "맞아! 항아리는 거실 바닥에 그냥 내려놓은 거지, 어디 위로 높이 올려 둔 게 아니잖아. pedestal은 위에 있는 걸 높이 올려서 잘 보이게 해 주는 받침이라서, 그냥 밑에 깔린 거실 바닥은 pedestal이 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "지우가 동아리 선배 얘기를 하자, 친구가 지우는 그 선배를 'pedestal'에 두고 있다고 말했어. 여기서 'pedestal'은 어떤 뜻으로 쓰였을까?",
+   "choices": [
+    "선배를 실수 하나 없는 사람처럼 우러러본다는 뜻",
+    "선배를 틈만 나면 깎아내리고 흉을 본다는 뜻",
+    "선배 사진을 높은 받침 위에 세워 두었다는 뜻",
+    "선배와 일부러 거리를 두고 늘 피한다는 뜻"
+   ],
+   "answer_index": 0,
+   "answer": "선배를 실수 하나 없는 사람처럼 우러러본다는 뜻",
+   "why": "맞아! 친구 말은 지우가 그 선배를 높은 자리에 올려놓고 실수 하나 없는 사람처럼 우러러본다는 거야. 사람을 pedestal에 둔다고 하면 바로 그렇게 떠받든다는 뜻이거든."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "base",
+   "kind": "confusable",
+   "from": "vs base"
+  }
+ ],
+ "related_scene": [
+  "statue"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-pedestal",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-pedestal"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/pedestal.webp",
+  "alt": "공원 한가운데 동상 발밑의 네모난 돌 받침",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

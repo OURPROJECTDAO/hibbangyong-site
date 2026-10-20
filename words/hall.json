@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/hall/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/hall/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "hall",
+ "slug": "hall",
+ "url": "https://hibbangyong.com/words/hall/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "홀 — 건물 안에서 방 하나에 갇히지 않고 트여 있는 자리. 방들 사이로 이어진 길일 수도, 사람들이 모이는 큰 자리일 수도 있어.",
+ "gloss_ko": "홀",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "학교에서 교실 문들 사이로 쭉 뻗은 그 길, 걸어가 봤지? 그 자리가 hall이야.",
+  "근데 다 같이 모여 앉는 그 큰 자리도 hall이라고 불러. 어? 길인데 큰 자리라고?",
+  "둘 다 맞아. 문 닫고 갇힌 방이 아니라, 들어서면 여기저기로 이어지거나 사람들이 모이는 트인 자리면 hall이거든. 아주 클 수도 있고, 집 대문 열고 들어선 자리처럼 작을 수도 있어.",
+  "그러니까 침대 놓고 문 닫고 혼자 있는 방 말고, 그게 hall이야."
+ ],
+ "scene": "교실 문들 사이로 쭉 뻗은 학교 안쪽 길",
+ "examples": [
+  {
+   "en": "We waited in the hall until the door opened.",
+   "ko": "우리는 문이 열릴 때까지 복도에서 기다렸어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "병원 건물에 들어가니, 진료실 문들이 양옆으로 늘어서 있고 그 사이로 사람들이 오가는 자리가 쭉 이어져 있어. 이 자리가 'hall'이야?",
+   "choices": [
+    "응, hall 맞아",
+    "아니, hall 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, hall 맞아",
+   "why": "맞아! 문들 사이로 쭉 이어지고 사람들이 오가는 트인 자리잖아. 방처럼 문 닫고 갇힌 데가 아니라 여기저기로 이어지는 자리라서, 그게 바로 hall인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "도서관 건물을 나와 잔디와 벤치가 놓인 넓은 마당에 서니 머리 위로 하늘이 그대로 보여. 이 자리가 'hall'이야?",
+   "choices": [
+    "응, hall 맞아",
+    "아니, hall 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, hall 아니야",
+   "why": "맞아! 건물 밖으로 나와서 하늘이 그대로 보이는 자리잖아. hall은 건물 안에 있는 자리라서, 여긴 hall이 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "민수가 오늘 다녀본 자리 네 곳을 말했어. 'hall'이라고 부를 수 있는 자리는?",
+   "choices": [
+    "교실들 사이로 이어져 아이들이 줄지어 오가는 안쪽 자리",
+    "책상과 침대를 놓고 문을 닫아 혼자 지내는 안쪽 자리",
+    "미끄럼틀이 놓여 하늘이 그대로 보이는 바깥 자리",
+    "한 사람만 겨우 지나며 위층으로 오르는 좁은 자리"
+   ],
+   "answer_index": 0,
+   "answer": "교실들 사이로 이어져 아이들이 줄지어 오가는 안쪽 자리",
+   "why": "맞아! 교실 문들 사이로 쭉 이어져서 아이들이 이쪽저쪽 오갈 수 있잖아. 방처럼 닫혀 있지 않고 여기저기로 이어지는 안쪽 자리, 그게 바로 hall이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-hall",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-hall"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/hall.webp",
+  "alt": "교실 문들 사이로 쭉 뻗은 학교 안쪽 길",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

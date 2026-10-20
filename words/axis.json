@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/axis/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/axis/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "axis",
+ "slug": "axis",
+ "url": "https://hibbangyong.com/words/axis/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "축 — 무언가가 빙 돌 때 그 한가운데를 지나는 곧은 선. 그래프나 모양에서 기준이 되는 선도 이렇게 불러",
+ "gloss_ko": "회전축",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "팽이가 빙글빙글 돌 때, 한가운데를 위아래로 지나는 곧은 선이 있다고 생각해 봐. 그게 axis야.",
+  "지구도 북극과 남극을 잇는 이 선을 중심으로 하루에 한 바퀴 돌아.",
+  "진짜 막대도 아니고 점 하나도 아니야. 기준이 되는 선이야. 바깥을 빙 도는 길이랑도 달라.",
+  "그래서 그래프의 가로·세로 기준선이나, 모양을 똑같은 두 쪽으로 가르는 선도 axis라고 불러."
+ ],
+ "scene": "팽이가 한가운데 선을 중심으로 빙글빙글 도는 장면",
+ "examples": [
+  {
+   "en": "My little brother's top kept spinning around its axis for a whole minute.",
+   "ko": "동생 팽이가 자기 축을 중심으로 1분 내내 빙글빙글 돌았어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "호텔 입구의 회전문이 빙글빙글 돌고 있어. 이 문이 돌 때 문 한가운데를 위아래로 곧게 지나는 선이 있어. 이 선을 'axis'라고 부를 수 있을까?",
+   "choices": [
+    "응, axis 맞아",
+    "아니, axis 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, axis 맞아",
+   "why": "맞아! 회전문이 빙글빙글 돌 때 문 한가운데를 위아래로 곧게 지나는 그 선이 바로 문이 도는 중심이야. 빙 도는 것의 한가운데를 지나는 곧은 선, 그게 axis거든."
+  },
+  {
+   "type": "ox",
+   "question": "인공위성이 지구 둘레를 빙 돌면서 하늘에 커다랗고 둥근 길을 그려. 이 둥근 길을 'axis'라고 부를 수 있을까?",
+   "choices": [
+    "응, axis 맞아",
+    "아니, axis 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, axis 아니야",
+   "why": "맞아! 인공위성이 그리는 건 지구 바깥을 빙 도는 둥근 길(이건 orbit이야)이라서 axis가 아니야. axis는 도는 것의 한가운데를 곧게 지나는 선이거든. 지구로 치면 지구 한가운데를 뚫고 지나는 선이 axis야."
+  },
+  {
+   "type": "choice",
+   "question": "놀이공원 회전목마에 여러 가지 선을 그려 봤어. 이 중 회전목마의 'axis'는 어느 것일까?",
+   "choices": [
+    "말들이 가운데 기둥 둘레를 빙 돌며 그리는 둥근 선",
+    "회전목마가 돌 때 가운데 기둥 속을 위아래로 곧게 지나는 선",
+    "가운데 기둥에서 바깥 울타리까지 옆으로 곧게 뻗은 선",
+    "바깥 울타리를 따라 한 바퀴 빙 둘러 그린 둥근 선"
+   ],
+   "answer_index": 1,
+   "answer": "회전목마가 돌 때 가운데 기둥 속을 위아래로 곧게 지나는 선",
+   "why": "맞아! 회전목마는 가운데 기둥을 중심으로 빙 도는데, 그 기둥 속을 위아래로 곧게 지나는 선만은 제자리에 있거든. 그래서 바로 그 선이 axis인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-axis",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-axis"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/axis.webp",
+  "alt": "팽이가 한가운데 선을 중심으로 빙글빙글 도는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

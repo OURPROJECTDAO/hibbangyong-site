@@ -1,0 +1,79 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/disposition/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/disposition/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "disposition",
+ "slug": "disposition",
+ "url": "https://hibbangyong.com/words/disposition/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "기질 — 무슨 일이 생기면 늘 비슷한 쪽으로 반응하게 만드는 평소 성격",
+ "gloss_ko": "평소 성향",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "비가 와서 소풍이 취소됐어. 한 명은 '그럼 영화 보자' 하고 바로 털어. 다른 한 명은 하루 종일 툴툴대.",
+  "일이 터질 때마다 그 사람이 늘 기우는 쪽이 있어. 그게 disposition이야.",
+  "밝은 쪽일 수도 있고, 걱정 많거나 화 잘 내는 쪽일 수도 있어. 사람뿐 아니라 강아지한테도 써.",
+  "오늘 하루 기분이랑은 달라. 기분은 금방 바뀌지만, 이건 평소에 늘 그래."
+ ],
+ "scene": "비로 소풍이 취소됐을 때 친구 둘의 다른 반응",
+ "examples": [
+  {
+   "en": "My dog has a nervous disposition, so she hides under the bed whenever someone visits.",
+   "ko": "우리 강아지는 원래 겁이 많은 성격이라서 누가 놀러 오기만 하면 침대 밑에 숨어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "민수는 시험을 망쳤을 때도, 버스를 놓쳤을 때도, 운동장에서 넘어졌을 때도 웃으면서 \"괜찮아, 다음에 잘하면 되지\" 하고 넘겨. 이런 민수의 모습이 민수의 'disposition'이야?",
+   "choices": [
+    "응, disposition 맞아",
+    "아니, disposition 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, disposition 맞아",
+   "why": "맞아! 시험을 망쳤을 때도, 버스를 놓쳤을 때도, 운동장에서 넘어졌을 때도 민수는 매번 웃으면서 넘기잖아. 무슨 일이 생겨도 늘 같은 쪽으로 반응하니까 바로 그게 민수의 disposition인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "우리 삼촌은 줄이 조금만 길어도, 버스가 조금만 늦어도 금방 버럭 화를 내. 몇 년째 늘 그래. 삼촌의 이렇게 화를 잘 내는 쪽도 'disposition'이라고 할 수 있어?",
+   "choices": [
+    "응, disposition 맞아",
+    "아니, disposition 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, disposition 맞아",
+   "why": "맞아! 삼촌은 줄이 조금 길거나 버스가 조금 늦을 때마다 몇 년째 늘 버럭 화를 내잖아. 일이 생길 때마다 늘 같은 쪽으로 반응하는 평소 성격이니까, 화를 잘 내는 쪽도 disposition이 맞아."
+  },
+  {
+   "type": "ox",
+   "question": "서연이는 오늘 점심시간에 몸이 안 좋은 친구 대신 급식 당번을 해 줬어. 이게 서연이의 'disposition'이야?",
+   "choices": [
+    "응, disposition 맞아",
+    "아니, disposition 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, disposition 아니야",
+   "why": "맞아! 서연이가 오늘 점심시간에 급식 당번을 해 준 건 딱 그날 있었던 일이야. 착한 일이긴 한데, 서연이가 평소에도 늘 그렇게 하는지는 문제에 안 나오거든. 그래서 이것만 보고 disposition이라고 할 수는 없어."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-disposition",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-disposition"
+ },
+ "image": null
+}

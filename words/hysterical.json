@@ -1,0 +1,96 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/hysterical/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/hysterical/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "hysterical",
+ "slug": "hysterical",
+ "url": "https://hibbangyong.com/words/hysterical/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "제정신 못 차릴 만큼 흥분한 — 너무 겁나거나 속상하거나 신나서, 감정을 스스로 못 다스리는",
+ "gloss_ko": "감정 폭주한",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "수련회 방에 벌이 들어왔다고 해 봐. 한 친구가 비명 지르고 울면서 방 안을 뛰어다녀. 옆에서 괜찮다고 해도 안 들려.",
+  "겁나서만 그런 게 아니야. 너무 속상하거나 너무 신나도 똑같이 될 수 있어.",
+  "핵심은 감정이 너무 커져서 내 말과 몸을 내가 못 다스리는 상태라는 거야.",
+  "짜증 좀 내는 거랑은 달라. 짜증은 아직 내가 나를 잡고 있잖아."
+ ],
+ "scene": "수련회 방에 벌이 들어와 친구가 비명 지르며 울고 뛰어다니는 장면",
+ "examples": [
+  {
+   "en": "She became hysterical when she heard that her dog was lost.",
+   "ko": "강아지를 잃어버렸다는 말을 듣고 걔는 완전히 무너져서 울며 어쩔 줄을 몰랐어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "놀이공원 관람차가 꼭대기에서 갑자기 멈췄어. 민재는 소리를 지르고 울면서 창문을 계속 두드렸어. 옆에서 형이 \"곧 움직여, 괜찮아\"라고 해도 전혀 안 들리는 것 같았어. 이런 민재의 상태를 'hysterical'이라고 할 수 있을까?",
+   "choices": [
+    "응, hysterical 맞아",
+    "아니, hysterical 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, hysterical 맞아",
+   "why": "맞아! 민재는 겁이 너무 커져서 소리 지르고 울면서 창문을 계속 두드리고, 형이 괜찮다고 해도 안 들리잖아. 감정이 너무 커져서 자기 말과 몸을 못 다스리는 상태, 바로 그게 hysterical이야."
+  },
+  {
+   "type": "ox",
+   "question": "축구 결승전에서 지유네 반이 마지막에 한 골을 먹고 졌어. 지유는 무척 속상했지만 숨을 한 번 크게 쉬고, 상대 반 친구들에게 다가가 차분하게 악수를 했어. 이런 지유의 상태를 'hysterical'이라고 할 수 있을까?",
+   "choices": [
+    "응, hysterical 맞아",
+    "아니, hysterical 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, hysterical 아니야",
+   "why": "맞아! 지유는 속상했지만 숨을 한 번 크게 쉬고 차분하게 악수를 했잖아. 자기 감정을 스스로 다스린 거니까 hysterical이랑은 정반대야."
+  },
+  {
+   "type": "choice",
+   "question": "친구 네 명의 모습이야. 'hysterical'이라고 부를 수 있는 건 누구일까?",
+   "choices": [
+    "동생이 방을 안 치워서 짜증을 내며 몇 번이나 잔소리를 했어.",
+    "발표 직전에 손이 떨렸지만 숨을 고르고 끝까지 또박또박 말했어.",
+    "합격 소식에 소리 지르고 울다 웃다, 엄마가 진정하라 해도 한참 그랬어.",
+    "합격 소식에 소리를 크게 한 번 지르고, 바로 친구들에게 문자를 돌렸어."
+   ],
+   "answer_index": 2,
+   "answer": "합격 소식에 소리 지르고 울다 웃다, 엄마가 진정하라 해도 한참 그랬어.",
+   "why": "맞아! 합격 소식에 소리 지르고 울다 웃다 했는데, 엄마가 진정하라 해도 한참 멈추지 못했잖아. 기뻐서 그런 거라도 감정이 너무 커져서 자기를 못 다스리면 바로 hysterical인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "frantic",
+   "kind": "confusable",
+   "from": "vs frantic"
+  },
+  {
+   "word": "panicky",
+   "kind": "confusable",
+   "from": "vs panicky"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-hysterical",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-hysterical"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/hysterical.webp",
+  "alt": "수련회 방에 벌이 들어와 친구가 비명 지르며 울고 뛰어다니는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

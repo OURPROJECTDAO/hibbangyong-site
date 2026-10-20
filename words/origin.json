@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/origin/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/origin/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "origin",
+ "slug": "origin",
+ "url": "https://hibbangyong.com/words/origin/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "처음 시작된 곳 — 그게 어디서 나왔는지, 거슬러 올라가면 나오는 맨 처음 자리",
+ "gloss_ko": "처음 시작된 곳",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "소문이 반에 쫙 퍼졌어. 누가 맨 처음 말했나 거꾸로 따라가 봐.",
+  "따라가고 따라가면 딱 걸리는 자리가 있거든? 거기서 처음 튀어나온 거야.",
+  "소문만 그런 게 아니야. 이 과자가 어느 나라에서 왔는지, 강물이 어디서 처음 솟는지, 이 말이 어디서 나온 말인지 — 거슬러 올라가면 다 처음 자리가 나와.",
+  "지금 어디까지 퍼졌나도 아니고, 어디로 갔나도 아니야. 맨 처음 어디서 나왔나. 그게 origin이야."
+ ],
+ "scene": "누가 처음 말했나 거꾸로 따라가는 반 소문",
+ "examples": [
+  {
+   "en": "Nobody knows the origin of this weird rumor.",
+   "ko": "이 이상한 소문이 어디서 시작됐는지 아무도 몰라."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "택배 상자가 부산 창고를 떠나 트럭을 타고 이 집 저 집 거쳐서 마지막으로 우리 집 현관 앞에 도착했어. 우리 집 현관이 이 택배의 'origin'이야?",
+   "choices": [
+    "응, origin 맞아",
+    "아니, origin 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, origin 아니야",
+   "why": "그래, 현관은 도착한 곳이지 처음 나온 자리가 아니거든. 거꾸로 거꾸로 따라 올라가면 부산 창고에서 딱 걸리잖아? 거기가 바로 이 택배의 origin인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "할머니가 마당에 심은 감나무 한 그루가 있었어. 지금 우리 동네 감나무는 전부 그 나무에서 딴 씨를 심어서 자란 거래. 할머니 마당의 그 나무가 동네 감나무들의 'origin'이야?",
+   "choices": [
+    "응, origin 맞아",
+    "아니, origin 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, origin 맞아",
+   "why": "맞아! 동네 감나무들을 하나씩 거꾸로 따라가 보면 결국 할머니 마당 그 나무에서 딱 멈추잖아. 거기서 씨가 처음 나온 거니까 그 나무가 바로 처음 자리인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "'2반이 청소 안 하고 갔대' 하는 소문이 학교에 쫙 퍼졌어. 친구 넷이 이 소문에 대해 한 마디씩 했는데, 그중에 이 소문의 'origin'을 말한 애는 누구일까?",
+   "choices": [
+    "어제 급식실에서 민수 입에서 처음 튀어나온 말이래.",
+    "지금은 3반 애들이 제일 크게 떠들고 다닌대.",
+    "돌고 돌아 결국 옆 학교까지 흘러 들어갔대.",
+    "민수가 그날 2반한테 삐쳐서 그런 거래."
+   ],
+   "answer_index": 0,
+   "answer": "어제 급식실에서 민수 입에서 처음 튀어나온 말이래.",
+   "why": "맞아! 소문을 거꾸로 거꾸로 따라가니까 급식실에서 민수 입에서 딱 튀어나온 그 자리가 나오잖아. 거기가 이 소문이 맨 처음 생긴 자리라서 바로 그게 origin인 거야."
+  }
+ ],
+ "synonyms": [
+  "root"
+ ],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-origin",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-origin"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/origin.webp",
+  "alt": "누가 처음 말했나 거꾸로 따라가는 반 소문",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

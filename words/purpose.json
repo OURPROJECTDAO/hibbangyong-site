@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/purpose/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/purpose/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "purpose",
+ "slug": "purpose",
+ "url": "https://hibbangyong.com/words/purpose/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "목적 — 그 일을 왜 하는지, 그걸로 뭘 하려는 건지",
+ "gloss_ko": "목적",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "너 아침에 우산 챙겼지? 왜 챙겼어? 비 맞기 싫어서잖아.",
+  "그 '뭐 하려고'가 바로 그거야. 물건한테도 붙어. 지우개는 지우려고 있는 거니까.",
+  "멋진 꿈일 때만 쓰는 말 아니야. 누가 몰래 거짓말할 때도 노리는 게 있거든? 그것도 똑같아.",
+  "하고 나서 생긴 일 말고, 하기 전부터 노린 것 — 이게 purpose야."
+ ],
+ "scene": "아침에 비 맞기 싫어 우산을 챙긴 아이",
+ "examples": [
+  {
+   "en": "Dad dug a hole in the yard, and its purpose was to plant a tree.",
+   "ko": "아빠가 마당에 구멍을 팠는데, 그 목적은 나무를 심으려는 거였어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "지호가 자전거 앞에 바구니를 달았어. 다음 중 이 바구니의 'purpose'를 말한 건 어느 쪽일까?",
+   "choices": [
+    "바구니는 은색 철사를 엮어서 만들었어",
+    "장 본 물건을 담아 나르려고 달아 둔 거야",
+    "바구니는 지난주 화요일 아침에 달았어",
+    "바구니 무게는 우유 한 팩 정도야"
+   ],
+   "answer_index": 1,
+   "answer": "장 본 물건을 담아 나르려고 달아 둔 거야",
+   "why": "맞아! 바구니를 왜 달았냐면 물건 담아서 나르려고 그런 거잖아. 달기 전부터 그걸 노리고 단 거니까, 바로 그게 purpose야."
+  },
+  {
+   "type": "ox",
+   "question": "바람이 세게 불어서 책상 위에 있던 종이가 바닥으로 떨어졌어. 종이가 떨어진 데 'purpose'가 있어?",
+   "choices": [
+    "응, purpose 있어",
+    "아니, purpose 없어"
+   ],
+   "answer_index": 1,
+   "answer": "아니, purpose 없어",
+   "why": "맞아! 바람이 불어서 그냥 떨어진 거잖아. 종이도 바람도 뭘 하려고 노린 게 아니니까, 이건 저절로 벌어진 일이야. 노린 게 없으면 purpose도 없는 거야."
+  },
+  {
+   "type": "ox",
+   "question": "수아는 아침마다 물통에 물을 채워서 가방에 넣어. 이 일에 'purpose'가 있다고 말할 수 있을까?",
+   "choices": [
+    "응, 이것도 'purpose' 있어",
+    "아니, 이건 'purpose' 없어"
+   ],
+   "answer_index": 0,
+   "answer": "응, 이것도 'purpose' 있어",
+   "why": "맞아! 물통에 물 채운 건 이따 목마를 때 마시려고 그런 거잖아. 그렇게 미리 노린 게 있으면 시시하고 매일 하는 일이라도 purpose가 있는 거야."
+  }
+ ],
+ "synonyms": [
+  "aim"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "reason",
+   "kind": "confusable",
+   "from": "vs reason"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-purpose",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-purpose"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/purpose.webp",
+  "alt": "아침에 비 맞기 싫어 우산을 챙긴 아이",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

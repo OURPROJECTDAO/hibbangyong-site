@@ -1,0 +1,91 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/successive/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/successive/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "successive",
+ "slug": "successive",
+ "url": "https://hibbangyong.com/words/successive/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "잇따른 — 하나가 끝나면 다음 것이 차례로 이어서 오는",
+ "gloss_ko": "차례로 잇따른",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "운동회 날, 소풍 날, 체험학습 날. 세 번 다 비가 왔어.",
+  "이렇게 하나 끝나면 다음 게 줄지어 오는 게 successive야.",
+  "좋은 일이든 나쁜 일이든, 날이든 사람이든 상관없어. 차례로 이어지기만 하면 돼.",
+  "successful(성공한)이랑 생긴 게 비슷하지만 뜻은 전혀 달라. 여기엔 '성공'이 없어."
+ ],
+ "scene": "운동회·소풍·체험학습 날에 세 번 연달아 비가 옴",
+ "examples": [
+  {
+   "en": "Each successive teacher changed the class rules.",
+   "ko": "새로 온 선생님마다 차례로 반 규칙을 또 바꿨어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "동생이 2024년, 2025년, 2026년 여름방학 때 해마다 팔을 다쳤어. 이 세 번의 부상은 'successive' 부상이야?",
+   "choices": [
+    "응, successive 맞아",
+    "아니, successive 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, successive 맞아",
+   "why": "맞아! 동생은 2024년 여름방학에 한 번 다치고, 2025년 여름방학에 또 새로 다치고, 2026년 여름방학에 또 다쳤잖아. 빠진 해 없이 해마다 한 번씩 차례로 이어졌으니까 바로 successive 부상인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "민지의 등교 이야기 네 가지야. 'successive'라는 말이 가장 잘 어울리는 건?",
+   "choices": [
+    "월요일, 화요일, 수요일 사흘 내리 지각했어",
+    "지난달에 한 번, 오늘 한 번 가끔 지각했어",
+    "친구 셋이랑 같은 시각에 한꺼번에 지각했어",
+    "한 달 내내 한 번도 지각 안 하고 잘 버텼어"
+   ],
+   "answer_index": 0,
+   "answer": "월요일, 화요일, 수요일 사흘 내리 지각했어",
+   "why": "맞아! 월요일 지각이 끝나자 화요일, 그다음 수요일까지 하루도 안 끊기고 차례로 이어졌잖아. 지각처럼 나쁜 일이어도 이렇게 줄지어 오면 그게 바로 successive야."
+  },
+  {
+   "type": "ox",
+   "question": "이번 주에 우리 집 냉장고, 세탁기, 전자레인지가 하나 고장 나면 다음 게 또 고장 나는 식으로 차례로 망가졌어. 이렇게 안 좋은 일이 이어진 것도 'successive'라고 할 수 있어?",
+   "choices": [
+    "응, successive 맞아",
+    "아니, successive 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, successive 맞아",
+   "why": "맞아! 냉장고가 고장 나고, 다음엔 세탁기, 그다음엔 전자레인지까지 차례로 망가졌잖아. 이렇게 하나 끝나면 다음 게 이어서 오면 그게 successive야. 좋은 일인지 나쁜 일인지는 상관없어."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "continuous",
+   "kind": "confusable",
+   "from": "vs continuous"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-successive",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-successive"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/successive.webp",
+  "alt": "운동회·소풍·체험학습 날에 세 번 연달아 비가 옴",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

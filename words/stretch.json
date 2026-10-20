@@ -1,0 +1,102 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/stretch/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/stretch/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "stretch",
+ "slug": "stretch",
+ "url": "https://hibbangyong.com/words/stretch/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "늘이다·늘어나다 — 잡아당기거나 쭉 뻗어서 끝이 원래보다 더 멀리 가다",
+ "gloss_ko": "늘이다·늘어나다",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "잠옷 소매를 자꾸 잡아당겼더니 쭉 길어져서 손이 쏙 숨어 버렸어.",
+  "끝이 원래 있던 자리보다 더 멀리 가버린 거야.",
+  "꼭 잡아당겨야만 그런 건 아니거든? 아침에 팔을 쭉 뻗을 때도, 길이 저 바다까지 쭉 뻗어 있을 때도 똑같이 말해.",
+  "그냥 자리를 옮긴 게 아니라 끝이 더 멀리 뻗은 거, 그게 stretch야."
+ ],
+ "scene": "자꾸 잡아당겨 손이 숨을 만큼 길어진 잠옷 소매",
+ "examples": [
+  {
+   "en": "My sleeve stretched until it covered my whole hand.",
+   "ko": "소매가 손 전체를 덮을 만큼 쭉 늘어났어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "동생이 머리끈 하나를 양손으로 잡고 좌우로 당겼어. 손을 벌릴수록 머리끈 양쪽 끝이 서로 점점 멀어졌어. 이게 'stretch'야?",
+   "choices": [
+    "응, stretch 맞아",
+    "아니, stretch 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, stretch 맞아",
+   "why": "맞아! 손을 벌릴수록 머리끈 양쪽 끝이 점점 멀어졌잖아. 끝이 원래 있던 자리보다 더 멀리 가버린 거니까 바로 그게 stretch인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "할머니가 털장갑을 뜨거운 물에 빨았어. 마르고 나니 장갑 손가락 끝이 처음보다 안쪽으로 들어와 짧아졌어. 이게 'stretch'야?",
+   "choices": [
+    "응, stretch 맞아",
+    "아니, stretch 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, stretch 아니야",
+   "why": "그래 맞아, 이건 stretch가 아니야! 장갑 손가락 끝이 처음보다 안쪽으로 쏙 들어와 버렸잖아. 끝이 더 멀리 가야 stretch인데, 이건 반대로 가까워진 거거든."
+  },
+  {
+   "type": "choice",
+   "question": "잠옷 소매한테 벌어진 일 네 가지야. 이 중에 'stretch'가 일어난 건?",
+   "choices": [
+    "소매를 자꾸 잡아당겼더니 처음보다 길게 늘어나서 손끝까지 내려와 있어",
+    "소매가 팔에서 쑥 빠져나가 그대로 바닥에 툭 떨어져 있어",
+    "소매가 물에 빨고 나더니 작아져서 팔꿈치까지 올라가 있어",
+    "소매를 반으로 접어 올려서 두 겹으로 포개져 있어"
+   ],
+   "answer_index": 0,
+   "answer": "소매를 자꾸 잡아당겼더니 처음보다 길게 늘어나서 손끝까지 내려와 있어",
+   "why": "맞아! 소매를 잡아당겼더니 처음보다 길게 늘어나서 손끝까지 내려왔잖아. 소매 끝이 원래 있던 자리보다 더 멀리 간 거라서, 바로 그게 stretch인 거야."
+  }
+ ],
+ "synonyms": [
+  "extend"
+ ],
+ "antonyms": [
+  "shrink"
+ ],
+ "confusable": [
+  {
+   "word": "extend",
+   "kind": "confusable",
+   "from": "vs extend"
+  },
+  {
+   "word": "pull",
+   "kind": "confusable",
+   "from": "그냥 잡아당겨 옮기기(pull)"
+  }
+ ],
+ "related_scene": [
+  "reach"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-stretch",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-stretch"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/stretch.webp",
+  "alt": "자꾸 잡아당겨 손이 숨을 만큼 길어진 잠옷 소매",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

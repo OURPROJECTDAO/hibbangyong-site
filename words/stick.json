@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/stick/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/stick/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "stick",
+ "slug": "stick",
+ "url": "https://hibbangyong.com/words/stick/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "붙다, 붙이다 — 착 달라붙어서 잘 안 떨어지다",
+ "gloss_ko": "붙다, 붙이다",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "사탕을 손에 한참 쥐고 있었더니, 손가락에 착 달라붙었어. 떼려는데 잘 안 떨어져.",
+  "풀 발라서 종이를 딱 붙일 때도 그래. 그건 네가 일부러 붙인 거고.",
+  "붙일 생각 없었는데 그냥 붙어버릴 때도 있어. 어느 쪽이든 괜찮아.",
+  "톡 닿았다가 바로 떨어지는 건 아니야. 닿은 채로 안 떨어져야, 그게 stick이야."
+ ],
+ "scene": "손가락에 달라붙어 잘 안 떨어지는 사탕",
+ "examples": [
+  {
+   "en": "I stick my drawing on the fridge so everyone can see it.",
+   "ko": "다들 보라고 나는 내 그림을 냉장고에 붙여."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "네 아이가 방금 있었던 일을 하나씩 말했어. 이 중에서 'stick'이 일어난 건 누구일까?",
+   "choices": [
+    "신발 바닥에 껌이 딱 달라붙어서 발을 들어도 같이 딸려 왔어",
+    "공이 벽에 부딪히더니 곧장 다시 굴러 나왔어",
+    "손끝으로 유리창을 톡 건드렸다가 바로 뗐어",
+    "책을 두 손으로 꽉 잡고 있다가 책상에 내려놨어"
+   ],
+   "answer_index": 0,
+   "answer": "신발 바닥에 껌이 딱 달라붙어서 발을 들어도 같이 딸려 왔어",
+   "why": "맞아! 껌이 신발 바닥에 달라붙어서, 발을 들어도 떨어지지 않고 같이 딸려 왔잖아. 닿은 채로 안 떨어졌으니까 바로 그게 stick인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "체육관 마루에 물이 조금 엎질러져 있었어. 형이 그 위를 밟자 발바닥이 마루 위에서 앞으로 쭉 밀려 나갔어. 이게 'stick'이야?",
+   "choices": [
+    "응, stick 맞아",
+    "아니, stick 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, stick 아니야",
+   "why": "맞아! 형 발바닥이 마루에 붙어 있지 않고 앞으로 쭉 밀려 나갔잖아. 착 붙어서 잘 안 떨어져야 stick인데, 이건 그 반대라서 stick이 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "형이 아침에 흘린 젖은 밥알이 식탁 위에 그대로 남았어. 저녁에 숟가락으로 옆으로 밀어 봤는데 밥알이 식탁 위에서 꿈쩍도 안 했어. 이게 'stick'이야?",
+   "choices": [
+    "응, stick 맞아",
+    "아니, stick 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, stick 맞아",
+   "why": "맞아! 형이 흘린 밥알이 아침부터 저녁까지 식탁에 딱 붙어 있어서, 숟가락으로 밀어도 꿈쩍도 안 했잖아. 닿은 채로 안 떨어지니까 바로 그게 stick인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "stamp"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-stick",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-stick"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/stick.webp",
+  "alt": "손가락에 달라붙어 잘 안 떨어지는 사탕",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/witty/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/witty/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "witty",
+ "slug": "witty",
+ "url": "https://hibbangyong.com/words/witty/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "재치 있는 — 말이나 글을 머리를 써서 재밌게 하는",
+ "gloss_ko": "재치 있는",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "급식에 또 카레가 나와서 다들 투덜댔어. 그때 한 친구가 \"카레가 우리 반 출석률 1등이네\" 해서 다 웃었어.",
+  "넘어지거나 표정을 우습게 짓는 몸개그랑은 달라. 말을 머리 써서 재밌게 짓는 거야.",
+  "짧은 한마디든, 글이든, 광고 문구든 똑똑하면서도 웃기면 다 witty야.",
+  "아는 게 많기만 한 똑똑함이나 남을 비꼬는 말투랑도 달라. 번뜩이는 재치가 있어야 해."
+ ],
+ "scene": "급식 카레에 투덜대는 반에서 친구가 던진 한마디",
+ "examples": [
+  {
+   "en": "Minho always has a witty answer when the teacher asks why he is late.",
+   "ko": "민호는 선생님이 왜 늦었냐고 물으면 늘 재치 있게 받아쳐."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "비 때문에 체육대회가 취소됐어. 그때 한 친구가 \"하늘도 우리 반 달리기 실력은 보기 싫었나 봐\"라고 말해서 반 전체가 웃었어. 이 친구의 한마디는 'witty'할까?",
+   "choices": [
+    "응, witty 맞아",
+    "아니, witty 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, witty 맞아",
+   "why": "맞아! 비 때문에 체육대회가 취소된 걸 두고, 하늘이 우리 반 달리기 실력을 보기 싫었던 거라고 말을 살짝 비틀어서 다들 웃은 거잖아. 이렇게 말을 머리 써서 재밌게 만드는 게 바로 witty야."
+  },
+  {
+   "type": "ox",
+   "question": "학급회의 시간에 반장이 종이에 적힌 대로 \"다음 주 청소 당번은 3모둠입니다. 이상입니다\"라고 또박또박 읽었어. 반장의 이 말은 'witty'할까?",
+   "choices": [
+    "응, witty 맞아",
+    "아니, witty 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, witty 아니야",
+   "why": "맞아! 반장은 종이에 적힌 청소 당번을 또박또박 읽기만 했잖아. 웃음도 없고 말을 머리 써서 비튼 것도 없으니까 witty가 아닌 거지. 전달은 정확하지만 재치는 없는 말이야."
+  },
+  {
+   "type": "choice",
+   "question": "네 친구가 각자 반 친구들을 웃겼어. 'witty'라는 말이 가장 잘 어울리는 친구는 누구일까?",
+   "choices": [
+    "급식 줄이 길자 학급 신문 제목을 '오늘의 운동: 줄 서기'라고 붙인 지수",
+    "복도에서 미끄러져 크게 넘어지는 바람에 다들 웃게 만든 민호",
+    "선생님 흉내를 내면서 얼굴을 우스꽝스럽게 찡그린 현우",
+    "친구 발표가 끝나자 '와, 진짜 대단하다'라며 비꼬듯 말한 서연"
+   ],
+   "answer_index": 0,
+   "answer": "급식 줄이 길자 학급 신문 제목을 '오늘의 운동: 줄 서기'라고 붙인 지수",
+   "why": "맞아! 길게 늘어선 급식 줄을 '오늘의 운동: 줄 서기'라고 바꿔 불렀잖아. 지루한 줄 서기를 머리 써서 재밌게 비튼 거라서 바로 witty인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "wit"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-witty",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-witty"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/witty.webp",
+  "alt": "급식 카레에 투덜대는 반에서 친구가 던진 한마디",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

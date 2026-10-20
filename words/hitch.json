@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/hitch/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/hitch/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "hitch",
+ "slug": "hitch",
+ "url": "https://hibbangyong.com/words/hitch/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "얻어 타다 — 남의 차에 공짜로 태워 달라고 해서 같이 타고 가다",
+ "gloss_ko": "차 얻어 타다",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "막차는 끊겼고 집까지 걸어가기엔 너무 멀어.",
+  "길가에서 손 들고 지나가는 트럭을 세우든, 같은 쪽으로 가는 친구 아빠한테 부탁하든, 남이 모는 차에 돈 안 내고 같이 타고 가면 그게 hitch야.",
+  "승용차 말고 트럭이나 배라도, 남이 모는 탈것을 공짜로 얻어 타는 거면 다 돼.",
+  "태워 주는 쪽 말은 아니야. 버스비 누가 대신 내 준 거나, 남의 자전거 빌려서 내가 직접 모는 것도 아니고."
+ ],
+ "scene": "막차 끊겨 길가에서 손 들어 트럭 세워 얻어 타기",
+ "examples": [
+  {
+   "en": "Our car broke down, so we had to hitch a ride with our neighbor.",
+   "ko": "우리 차가 고장 나서 옆집 아저씨 차를 얻어 타야 했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "삼촌이 설날 아침에 자기 차를 직접 운전해서 할머니 댁까지 갔어. 이게 삼촌이 'hitch'한 거야?",
+   "choices": [
+    "응, hitch 맞아",
+    "아니, hitch 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, hitch 아니야",
+   "why": "맞아! 삼촌은 자기 차를 자기가 직접 몰고 할머니 댁에 갔잖아. hitch는 남이 모는 차에 공짜로 얻어 타는 거라서, 제 차로 간 삼촌은 hitch가 아니야."
+  },
+  {
+   "type": "ox",
+   "question": "캠핑장에서 자전거 체인이 끊어졌어. 지나가던 캠핑카 아저씨한테 부탁해서, 돈은 안 내고 그 캠핑카에 같이 타고 마을까지 갔어. 이게 'hitch'야?",
+   "choices": [
+    "응, hitch 맞아",
+    "아니, hitch 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, hitch 맞아",
+   "why": "맞아! 캠핑카는 아저씨가 모는 거고, 너는 부탁해서 돈 안 내고 같이 타고 마을까지 갔잖아. 남이 모는 차에 공짜로 얻어 탄 거니까 바로 그게 hitch야."
+  },
+  {
+   "type": "choice",
+   "question": "등산하다 해가 져서 넷이 각자 산 아래 마을까지 내려간 방법을 말했어. 'hitch'한 사람은 누구일까?",
+   "choices": [
+    "일행과 손전등을 켜고 산길을 끝까지 걸어서 내려왔어",
+    "주차장에 둔 내 차에 일행을 태우고 내가 몰고 내려왔어",
+    "마을로 가는 농부 아저씨 트럭 짐칸에 일행과 올라타고 내려왔어",
+    "일행과 함께 각자 가져온 산악자전거를 타고 내려왔어"
+   ],
+   "answer_index": 2,
+   "answer": "마을로 가는 농부 아저씨 트럭 짐칸에 일행과 올라타고 내려왔어",
+   "why": "맞아! 마을로 가는 농부 아저씨가 모는 트럭에 올라타서 같이 내려왔잖아. 남이 모는 차를 얻어 탄 거라서 바로 그게 hitch야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "ride",
+   "kind": "confusable",
+   "from": "vs ride"
+  }
+ ],
+ "related_scene": [
+  "vehicle"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-hitch",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-hitch"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/hitch.webp",
+  "alt": "막차 끊겨 길가에서 손 들어 트럭 세워 얻어 타기",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

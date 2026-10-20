@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/bumper/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/bumper/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "bumper",
+ "slug": "bumper",
+ "url": "https://hibbangyong.com/words/bumper/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "범퍼 — 자동차 앞뒤 끝에 가로로 붙어서, 부딪힐 때 차를 먼저 막아 주는 막대",
+ "gloss_ko": "범퍼",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "주차장에서 차가 뒤로 가다가 기둥에 살짝 닿았어.",
+  "근데 문이랑 몸통은 멀쩡하고, 맨 뒤 끝에 가로로 붙은 부분만 긁혔어.",
+  "차 앞 끝이랑 뒤 끝에 붙어서 먼저 부딪혀 주는 그 부분이 bumper야.",
+  "옆문이나 바퀴를 덮은 판이랑은 달라. 앞뒤 끝에서 충격을 대신 받는 자리야."
+ ],
+ "scene": "주차하다 뒤로 가다 기둥에 닿은 차",
+ "examples": [
+  {
+   "en": "My dad hit a pole, and now the back bumper has a big scratch.",
+   "ko": "아빠가 기둥을 박아서 뒤 범퍼에 큰 흠집이 났어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "택배 트럭 맨 뒤 끝에 가로로 길게 붙은 막대에 '안전거리 유지' 스티커가 붙어 있어. 스티커가 붙은 그 막대가 'bumper'일까?",
+   "choices": [
+    "응, bumper 맞아",
+    "아니, bumper 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, bumper 맞아",
+   "why": "맞아! 스티커가 붙은 그 막대는 트럭 맨 뒤 끝에 가로로 길게 붙어 있잖아. 뒤에서 누가 부딪히면 그 막대가 먼저 막아 주니까 바로 그게 bumper인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "누가 차 옆면 한가운데에 있는 운전석 문에 손가락으로 먼지 낙서를 해 놨어. 낙서가 있는 그 문이 'bumper'일까?",
+   "choices": [
+    "응, bumper 맞아",
+    "아니, bumper 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, bumper 아니야",
+   "why": "맞아! 낙서가 있는 건 차 옆면 한가운데 있는 운전석 문이잖아. bumper는 차 앞 끝이나 뒤 끝에 가로로 붙어서 먼저 부딪혀 주는 부분이라, 옆면 한가운데 있는 문은 bumper가 아니야."
+  },
+  {
+   "type": "choice",
+   "question": "차 네 대가 각각 다른 일로 조금씩 긁혔어. 이 중에서 'bumper'가 긁혔을 가능성이 가장 큰 차는 어느 차일까?",
+   "choices": [
+    "좁은 골목에서 벽에 옆면을 스치며 지나간 차",
+    "신호를 기다리다 앞차에 너무 다가가서 앞쪽 끝이 닿은 차",
+    "길가 턱에 너무 붙어서 바퀴 위를 덮은 판이 긁힌 차",
+    "짐을 싣고 뒤쪽 짐칸 뚜껑을 세게 닫다가 위쪽이 찌그러진 차"
+   ],
+   "answer_index": 1,
+   "answer": "신호를 기다리다 앞차에 너무 다가가서 앞쪽 끝이 닿은 차",
+   "why": "맞아! 앞차에 다가가다 닿은 곳이 차 맨 앞쪽 끝이잖아. 앞뒤 끝에 가로로 붙어서 먼저 부딪혀 주는 자리, 바로 그게 bumper야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-bumper",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-bumper"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/bumper.webp",
+  "alt": "주차하다 뒤로 가다 기둥에 닿은 차",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

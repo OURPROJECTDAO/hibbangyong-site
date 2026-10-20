@@ -1,0 +1,99 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/appear/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/appear/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "appear",
+ "slug": "appear",
+ "url": "https://hibbangyong.com/words/appear/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "나타나다 — 안 보이던 것이 눈에 보이게 되다",
+ "gloss_ko": "나타나다",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "저녁 하늘을 가만히 보고 있어 봐. 아까까진 아무것도 없던 자리에 별 하나가 딱 보여.",
+  "그 별이 방금 새로 만들어진 건 아니거든? 그냥 이제 우리 눈에 보이게 된 거야.",
+  "벽에 없던 금이 슬금슬금 보이는 것도, 안개 속에서 다리가 스윽 드러나는 것도 똑같아.",
+  "누가 걸어 들어와야만 하는 것도 아니고, 있던 게 없어지는 거랑은 반대쪽이야. 안 보이던 게 보이는 쪽으로 넘어오면, 그게 appear야."
+ ],
+ "scene": "저녁 하늘에 별 하나가 처음 눈에 띄는 순간",
+ "examples": [
+  {
+   "en": "Words appeared on the screen one by one.",
+   "ko": "글자들이 화면에 하나씩 나타났어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "아이 넷이 방금 겪은 일을 한 줄씩 적었어. 이 중 'appear'에 해당하는 건 어느 것이야?",
+   "choices": [
+    "구름이 걷히자 산 위에 무지개가 눈에 들어왔어.",
+    "우산을 접어서 가방 옆에 세워 두었어.",
+    "계단을 다섯 칸씩 뛰어서 내려갔어.",
+    "연필 세 자루를 필통에 나란히 넣었어."
+   ],
+   "answer_index": 0,
+   "answer": "구름이 걷히자 산 위에 무지개가 눈에 들어왔어.",
+   "why": "맞아! 구름이 걷히기 전엔 안 보이던 무지개가 이제 눈에 딱 들어왔잖아. 무지개가 그때 새로 생긴 게 아니라 안 보이던 게 보이는 쪽으로 넘어온 거, 그게 바로 appear야."
+  },
+  {
+   "type": "choice",
+   "question": "아이 넷이 창밖을 보며 한마디씩 했어. 이 중 'appear'라고 말할 수 있는 건 어느 것이야?",
+   "choices": [
+    "어두운 골목 끝에 가로등 불빛이 들어왔어.",
+    "마당에 있던 고양이가 담을 넘어 사라졌어.",
+    "빨래를 걷어서 방 안으로 들여놓았어.",
+    "화분 다섯 개를 창가에 줄지어 놓았어."
+   ],
+   "answer_index": 0,
+   "answer": "어두운 골목 끝에 가로등 불빛이 들어왔어.",
+   "why": "맞아! 아까까진 어두워서 아무것도 안 보이던 골목 끝에 불빛이 딱 눈에 들어온 거잖아. 없던 게 보이는 쪽으로 넘어온 거니까 그게 바로 appear야."
+  },
+  {
+   "type": "ox",
+   "question": "형이 찰흙을 조물조물해서 조금 전까지 없던 작은 오리 인형을 하나 빚어 놨어. 이런 경우도 'appear'야?",
+   "choices": [
+    "응, 'appear' 맞아.",
+    "아니, 'appear' 아니야."
+   ],
+   "answer_index": 1,
+   "answer": "아니, 'appear' 아니야.",
+   "why": "맞아! 형이 손으로 조물조물해서 새로 만들어 낸 거잖아. 아까는 세상에 아예 없던 오리가 생겨난 거지, 어딘가 있던 게 눈에 들어온 게 아니거든. 그래서 이건 appear가 아닌 게 맞아."
+  }
+ ],
+ "synonyms": [
+  "seem"
+ ],
+ "antonyms": [
+  "disappear"
+ ],
+ "confusable": [
+  {
+   "word": "emerge",
+   "kind": "confusable",
+   "from": "vs emerge"
+  }
+ ],
+ "related_scene": [
+  "apparent"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-appear",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-appear"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/appear.webp",
+  "alt": "저녁 하늘에 별 하나가 처음 눈에 띄는 순간",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

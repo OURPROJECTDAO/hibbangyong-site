@@ -1,0 +1,102 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/topic/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/topic/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "topic",
+ "slug": "topic",
+ "url": "https://hibbangyong.com/words/topic/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "이야기나 글이 '무엇에 대한 것'인지, 그 다루는 거리(주제)",
+ "gloss_ko": "이야기의 주제",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "친구들이랑 모여서 '강아지' 얘기를 한참 했어.\n무슨 얘기였냐고? 바로 '강아지'에 대한 거였지!",
+  "이렇게 우리가 '무엇에 대해' 말하거나 글로 쓰는지, 그 '무엇'이 있거든?",
+  "그게 웃긴 얘기든 슬픈 얘기든, 쉬운 얘기든 어려운 얘기든 다 돼.",
+  "지금 다루고 있는 그 '무엇', 그게 topic이야."
+ ],
+ "scene": "친구들과 '강아지'에 대해 한참 얘기 — 지금 다루는 그 '무엇'이 화제.",
+ "examples": [
+  {
+   "en": "We started a fun topic, and everyone wanted to talk about it.",
+   "ko": "우리가 재밌는 얘깃거리를 꺼냈더니, 다들 그 얘기를 하고 싶어 했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "라디오에 짧은 코너가 하나 나왔어. 진행자 민지가 저녁 7시에 방송실에서 처음부터 끝까지 공룡 이야기만 들려줬어. 이 코너의 'topic'은 어느 거야?",
+   "choices": [
+    "민지",
+    "방송실",
+    "공룡",
+    "저녁 7시"
+   ],
+   "answer_index": 2,
+   "answer": "공룡",
+   "why": "맞아! 민지가 처음부터 끝까지 들려준 게 공룡 이야기였잖아. 이 코너가 무엇에 대한 이야기인지 물으면 공룡이라서, 바로 공룡이 이 코너의 topic인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "유나가 일요일에 책상에 앉아 짧은 편지를 한 통 썼어. 편지에는 처음부터 끝까지 단풍잎 이야기만 가득했지. 이 편지의 'topic'은 어느 거야?",
+   "choices": [
+    "유나",
+    "단풍잎",
+    "책상",
+    "일요일"
+   ],
+   "answer_index": 1,
+   "answer": "단풍잎",
+   "why": "맞아! 유나의 편지에는 처음부터 끝까지 단풍잎 이야기만 가득했잖아. 편지가 무엇에 대한 거냐고 물으면 단풍잎이니까, 바로 그게 이 편지의 topic인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "지호가 발표를 했어. 발표 내내 '재활용' 한 가지만 가지고 이야기했고, 발표 종이 맨 위엔 '우리 반 발표'라고 적어 뒀어. 지호 발표의 'topic'은 어느 거야?",
+   "choices": [
+    "발표가 처음부터 끝까지 말한 그 한 가지, '재활용'",
+    "발표 종이 맨 위에 적어 둔 이름, '우리 반 발표'",
+    "발표를 맡아서 한 사람, 지호",
+    "발표를 가만히 앉아 들은 친구들"
+   ],
+   "answer_index": 0,
+   "answer": "발표가 처음부터 끝까지 말한 그 한 가지, '재활용'",
+   "why": "맞아! 발표가 처음부터 끝까지 오직 '재활용' 한 가지만 다뤘잖아. 그 발표가 무엇에 대한 거였냐 하면 바로 '재활용', 그래서 그게 topic인 거야."
+  }
+ ],
+ "synonyms": [
+  "subject"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "theme",
+   "kind": "confusable",
+   "from": "vs theme"
+  },
+  {
+   "word": "title",
+   "kind": "confusable",
+   "from": "제목(title)으로 뭉갬"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-topic",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-topic"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/topic.webp",
+  "alt": "친구들과 '강아지'에 대해 한참 얘기 — 지금 다루는 그 '무엇'이 화제.",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

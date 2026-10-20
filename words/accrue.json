@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/accrue/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/accrue/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "accrue",
+ "slug": "accrue",
+ "url": "https://hibbangyong.com/words/accrue/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "쌓이다 — 이득이든 손해든 시간이 지나면서 조금씩 붙어 누군가의 몫으로 불어나는 것",
+ "gloss_ko": "시간 따라 쌓이다",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "통장에 넣어 둔 돈엔 이자가 붙고, 안 갚은 빚엔 갚을 돈이 더 붙어.",
+  "둘 다 한 번에 생긴 게 아니야. 시간이 가는 동안 조금씩 붙어서 쌓인 거지.",
+  "이득이든 손해든, 시간 따라 누군가의 몫으로 쌓여 가면 accrue야. 그게 나일 수도, 회사나 나라일 수도 있어.",
+  "일부러 주워 모으는 거나, 식물 키처럼 몸집이 자라는 거랑은 달라."
+ ],
+ "scene": "통장 돈에 이자가 붙음",
+ "examples": [
+  {
+   "en": "Interest accrues on the money I borrowed from my brother.",
+   "ko": "형한테 빌린 돈에 이자가 계속 붙고 있어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "도서관 책을 반납일보다 열흘 늦게 돌려줬더니, 연체료가 하루에 100원씩 붙어서 1,000원이 됐어. 이 연체료가 늘어난 걸 'accrue'라고 할 수 있을까?",
+   "choices": [
+    "응, accrue 맞아",
+    "아니, accrue 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, accrue 맞아",
+   "why": "맞아! 연체료 1,000원은 한 번에 생긴 게 아니라 열흘 동안 하루에 100원씩 붙어서 네가 낼 돈으로 불어난 거잖아. 손해라도 시간 따라 조금씩 붙어 쌓이면 바로 accrue야."
+  },
+  {
+   "type": "ox",
+   "question": "교통카드에 2만 원을 충전해 두고 한 달 동안 버스를 탈 때마다 요금이 빠져나가서, 잔액이 조금씩 줄어 3천 원이 됐어. 이 잔액이 바뀐 걸 'accrue'라고 할 수 있을까?",
+   "choices": [
+    "응, accrue 맞아",
+    "아니, accrue 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, accrue 아니야",
+   "why": "맞아! 버스 탈 때마다 요금이 빠져나가서 잔액이 2만 원에서 3천 원으로 줄어든 거잖아. accrue는 시간 따라 조금씩 붙어서 불어나는 거니까, 이렇게 줄어든 건 오히려 반대인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 친구가 한 달 동안 생긴 일을 말했어. 'accrue'를 쓰기 가장 알맞은 건 누구 이야기일까?",
+   "choices": [
+    "한 달 동안 매일 운동장 쓰레기를 주워서 큰 봉투에 모았어",
+    "빌린 돈을 안 갚았더니 한 달 동안 갚을 돈이 매주 더해졌어",
+    "한 달 동안 매일 물을 줬더니 화분 속 식물 키가 조금씩 자랐어",
+    "한 달 동안 용돈을 매주 조금씩 써서 지갑 속 돈이 줄어들었어"
+   ],
+   "answer_index": 1,
+   "answer": "빌린 돈을 안 갚았더니 한 달 동안 갚을 돈이 매주 더해졌어",
+   "why": "맞아! 빌린 돈을 안 갚고 있었더니 누가 일부러 보탠 것도 아닌데 시간이 가면서 갚을 돈이 매주 붙어서 불어났잖아. 그게 바로 accrue야. 이렇게 좋은 것만 붙어서 불어나는 게 아니라 갚아야 할 돈처럼 반갑지 않은 것도 붙어서 불어날 수 있어."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "accumulate",
+   "kind": "confusable",
+   "from": "vs accumulate"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-accrue",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-accrue"
+ },
+ "image": null
+}

@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/gorge/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/gorge/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "gorge",
+ "slug": "gorge",
+ "url": "https://hibbangyong.com/words/gorge/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "협곡 — 양쪽이 가파른 바위벽이고, 좁고 깊게 파인 골짜기",
+ "gloss_ko": "협곡",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "양쪽으로 바위벽이 거의 똑바로 서 있어.",
+  "그 사이 땅은 좁고, 아래로 아주 깊게 파여 있지. 바닥에는 보통 강물이 흘러.",
+  "이런 골짜기를 gorge라고 해.",
+  "넓고 완만하게 펼쳐진 골짜기는 gorge라고 안 해. 폭이 좁고 깊고, 벽이 가팔라야 gorge야."
+ ],
+ "scene": "양쪽 바위벽 사이로 좁고 깊게 파인 땅, 바닥에 흐르는 강물",
+ "examples": [
+  {
+   "en": "We walked across a bridge high above the gorge.",
+   "ko": "우리는 협곡 위에 높이 걸린 다리를 건넜어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "비행기 창밖을 내려다보니 산도 언덕도 하나 없이 납작한 초원이 지평선까지 이어져 있어. 그 위에서 소들이 풀을 뜯고 있어. 이 초원이 'gorge'야?",
+   "choices": [
+    "응, gorge 맞아",
+    "아니, gorge 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, gorge 아니야",
+   "why": "잘 봤어, 이 초원은 gorge가 아니야! 창밖으로 보이는 건 산도 언덕도 없이 납작하게 지평선까지 이어진 땅이잖아. gorge가 되려면 양쪽에 가파른 바위벽이 서 있고 그 사이가 좁고 깊게 파여 있어야 해."
+  },
+  {
+   "type": "ox",
+   "question": "고무보트를 타고 강을 따라 내려가는 중이야. 양옆으로 높은 바위벽이 거의 수직으로 바짝 붙어 솟아 있어서, 고개를 들면 하늘이 가늘게만 보여. 이 보트가 지나는 곳이 'gorge'야?",
+   "choices": [
+    "응, gorge 맞아",
+    "아니, gorge 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, gorge 맞아",
+   "why": "맞아! 양옆 바위벽이 거의 수직으로 솟아 있고, 바짝 붙어 있어서 폭이 좁고, 하늘이 가늘게 보일 만큼 깊잖아. 바닥엔 보트가 내려가는 강까지 흐르니까 바로 gorge인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "여행 중에 네 군데에서 사진을 찍었어. 'gorge'를 찍은 사진은 어느 거야?",
+   "choices": [
+    "완만한 언덕 사이로 넓은 들판과 논이 펼쳐진 곳",
+    "마주 선 바위벽 사이로 한참 아래에 강물이 보이는 곳",
+    "땅이 끝없이 평평하고 멀리까지 탁 트인 곳",
+    "한쪽은 바다고 다른 쪽엔 높은 벼랑 하나만 있는 곳"
+   ],
+   "answer_index": 1,
+   "answer": "마주 선 바위벽 사이로 한참 아래에 강물이 보이는 곳",
+   "why": "맞아! 바위벽이 양쪽에서 마주 서 있고, 그 사이가 한참 아래까지 파여서 강물이 저 밑에 보이잖아. 벽이 가파르고, 폭이 좁고, 깊게 파였으니까 바로 그게 gorge야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "valley"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-gorge",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-gorge"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/gorge.webp",
+  "alt": "양쪽 바위벽 사이로 좁고 깊게 파인 땅, 바닥에 흐르는 강물",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

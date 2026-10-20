@@ -1,0 +1,98 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/slab/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/slab/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "slab",
+ "slug": "slab",
+ "url": "https://hibbangyong.com/words/slab/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "두꺼운 판 — 돌이나 콘크리트처럼 단단한 것이 두툼하고 넓적하게 된 덩어리(고기·케이크 같은 음식에도 써)",
+ "gloss_ko": "두꺼운 판",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "공사장에서 크레인이 두툼하고 넓적한 콘크리트 판을 들어 올리는 거 봤지?",
+  "그게 slab이야. 돌이든 콘크리트든 고기든 케이크든, 재료는 상관없어.",
+  "중요한 건 모양이야. 판판하게 넓은데 두께도 꽤 있어야 돼.",
+  "종이처럼 얇은 판은 아니고, 주먹처럼 울퉁불퉁 뭉친 덩어리도 아니야."
+ ],
+ "scene": "공사장 크레인이 두툼한 콘크리트 판을 들어 올리는 장면",
+ "examples": [
+  {
+   "en": "They put a stone slab over the hole in the yard.",
+   "ko": "마당에 난 구멍 위에 두꺼운 돌판을 덮어 놨어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "석재 가게에서 대리석을 기계로 자르고 나니 작업대 바닥에 하얀 돌가루가 소복하게 쌓였어. 이 돌가루를 'slab'이라고 부를 수 있을까?",
+   "choices": [
+    "응, slab 맞아",
+    "아니, slab 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, slab 아니야",
+   "why": "맞아! 작업대 바닥에 소복하게 쌓인 건 잘게 부서진 돌가루잖아. slab은 판판하고 두툼한 한 덩어리여야 하는데, 가루는 그런 모양이 아니라서 slab이 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "석재 가게에서 식탁 윗면으로 쓸 대리석을 샀어. 손 한 뼘만큼 두껍고 식탁만큼 넓적한 한 장짜리 돌판이야. 이 돌판을 'slab'이라고 부를 수 있을까?",
+   "choices": [
+    "응, slab 맞아",
+    "아니, slab 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, slab 맞아",
+   "why": "맞아! 손 한 뼘만큼 두껍고 식탁만큼 넓적한 한 장짜리 돌판이니까, 판판하게 넓으면서 두께도 있는 돌판, 그게 바로 slab이야."
+  },
+  {
+   "type": "choice",
+   "question": "정육점 아저씨가 고기를 썰어 줬어. 받은 고기를 'slab'이라고 부를 수 있는 건 어느 쪽일까?",
+   "choices": [
+    "손바닥만큼 넓고 두툼하게 판판히 썰어 준 고기",
+    "종이처럼 얇고 넓적하게 저며서 겹쳐 준 고기",
+    "주먹만 하게 울퉁불퉁 뭉텅뭉텅 잘라 준 고기",
+    "볶음밥에 넣게 아주 잘게 다져서 준 고기"
+   ],
+   "answer_index": 0,
+   "answer": "손바닥만큼 넓고 두툼하게 판판히 썰어 준 고기",
+   "why": "맞아! 손바닥만큼 넓으면서 두툼하게 판판히 썰었으니까, 넓적한 것과 두께가 있는 것 둘 다 갖춘 거야. 바로 그게 slab이지."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "sheet",
+   "kind": "confusable",
+   "from": "얇은 판·한 장(sheet)"
+  },
+  {
+   "word": "block",
+   "kind": "confusable",
+   "from": "vs block"
+  }
+ ],
+ "related_scene": [
+  "thick"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-slab",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-slab"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/slab.webp",
+  "alt": "공사장 크레인이 두툼한 콘크리트 판을 들어 올리는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

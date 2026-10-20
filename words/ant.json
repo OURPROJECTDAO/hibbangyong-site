@@ -1,0 +1,74 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/ant/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/ant/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "ant",
+ "slug": "ant",
+ "url": "https://hibbangyong.com/words/ant/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "개미 — 땅 위를 줄지어 다니며 먹이를 나르는 아주 작은 곤충",
+ "gloss_ko": "개미",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "그림 속 흙바닥에 있는 작고 검은 이 벌레가 ant예요. 가느다란 다리로 땅 위를 부지런히 기어다녀요.",
+  "공원이나 놀이터 흙바닥에서 줄지어 지나가는 모습을 본 적이 있을 거예요."
+ ],
+ "scene": "흙바닥 위에 서 있는 통통하고 귀여운 검은 개미 한 마리를 크게 클로즈업",
+ "examples": [
+  {
+   "en": "A tiny ant is carrying a crumb back to its home.",
+   "ko": "조그만 개미가 부스러기를 집으로 나르고 있어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "흙바닥 위에서 아주 작은 몸으로 줄지어 기어다니며 부스러기를 나르는 벌레를 봤어요. 이게 ant야?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 맞아",
+   "why": null
+  },
+  {
+   "type": "choice",
+   "question": "ant는 어느 것일까?",
+   "choices": [
+    "하늘 높이 나는 커다란 비행기",
+    "물속을 헤엄치는 미끄러운 물고기",
+    "땅 위를 기어다니는 작고 검은 곤충",
+    "나뭇가지에 열리는 빨간 사과"
+   ],
+   "answer_index": 2,
+   "answer": "땅 위를 기어다니는 작고 검은 곤충",
+   "why": null
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "bug"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-ant",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-ant"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/ant.webp",
+  "alt": "흙바닥 위에 서 있는 통통하고 귀여운 검은 개미 한 마리를 크게 클로즈업",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

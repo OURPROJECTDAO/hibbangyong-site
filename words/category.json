@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/category/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/category/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "category",
+ "slug": "category",
+ "url": "https://hibbangyong.com/words/category/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "종류 — 같은 점이 있는 것끼리 묶어 나눈 한 칸",
+ "gloss_ko": "같은 점끼리 묶음",
+ "level": {
+  "code": "L3",
+  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "도서관 책은 동화, 과학, 역사로 나뉘어 있지? 대회도 노래 부, 춤 부로 딱딱 나뉘고.",
+  "나누는 기준은 뭐든 돼. 뭔지, 몇 살인지, 어떤 모양인지. 같은 점이 있으면 한 칸에 착!",
+  "한데 모여 있을 필요도 없어. 세상 고래는 뿔뿔이 흩어져 살아도 전부 바다 동물이라는 한 칸이거든.",
+  "칸에 든 물건 하나도 아니고, 우르르 모인 무리도 아니야. 같은 점으로 묶은 그 칸, 그게 category야."
+ ],
+ "scene": "도서관 책을 동화·과학·역사로 나눈 칸",
+ "examples": [
+  {
+   "en": "At the contest, my sister sang in the under-10 category.",
+   "ko": "대회에서 우리 언니는 10살 아래 부에 나가서 노래했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "이사 날 거실 바닥에 블록, 냄비, 양말 한 짝, 크레파스, 리모컨이 한 더미로 쌓여 있어. 이 더미는 하나의 category야?",
+   "choices": [
+    "응, category 맞아",
+    "아니, category 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, category 아니야",
+   "why": "맞아! 블록, 냄비, 양말 한 짝, 크레파스, 리모컨은 이삿날 거실 바닥에 한 더미로 모여 있을 뿐이야. 다섯 개가 서로 같은 점이 있어서 한 칸에 묶인 게 아니거든. 그래서 이 더미는 category가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "수족관에 고래, 상어, 문어가 살아. 다음 중 'category'라고 부를 수 있는 건?",
+   "choices": [
+    "셋 다 바닷속에 살아서 함께 들어가는 '바다 동물'",
+    "지금 큰 수조 하나에 같이 모여 헤엄치는 '3번 수조 식구'",
+    "셋 중에 몸집이 가장 커서 뽑힌 '제일 큰 고래'",
+    "오늘 먹이를 받은 차례대로 세운 '먹이 주는 순서'"
+   ],
+   "answer_index": 0,
+   "answer": "셋 다 바닷속에 살아서 함께 들어가는 '바다 동물'",
+   "why": "맞아! 고래, 상어, 문어는 셋 다 바닷속에 산다는 같은 점이 있거든. 그래서 '바다 동물'이라는 한 칸에 함께 들어가. 이렇게 같은 점으로 묶은 칸이 바로 category인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "마트 앱 첫 화면에 '과자', '음료', '과일'이라고 적힌 버튼이 줄지어 있어. '과자' 버튼을 누르면 과자만 쭉 나와. 이런 경우의 '과자'도 'category'야?",
+   "choices": [
+    "응, category 맞아",
+    "아니, category 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, category 맞아",
+   "why": "맞아! '과자' 버튼을 누르면 과자만 쭉 나오잖아. 과자라는 같은 점이 있는 것끼리 한 칸에 모아 둔 거라서 바로 그게 category인 거야. 옆에 있는 '음료', '과일' 버튼도 다 category야."
+  }
+ ],
+ "synonyms": [
+  "sort"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "kind",
+   "kind": "confusable",
+   "from": "vs kind"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-category",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-category"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/category.webp",
+  "alt": "도서관 책을 동화·과학·역사로 나눈 칸",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/legion/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/legion/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "legion",
+ "slug": "legion",
+ "url": "https://hibbangyong.com/words/legion/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "군단 — 군대를 이루는 병사 수천 명짜리 큰 무리(특히 옛 로마). 넓혀서 셀 수 없이 많은 사람 떼",
+ "gloss_ko": "군단",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "옛날 로마 군대는 병사 수천 명을 한 덩어리로 묶어서 움직였어. 그 큰 덩어리 하나가 legion, 군단이야.",
+  "군대 전체가 아니야. 군대 안에 있는 아주 큰 한 무리야.",
+  "그래서 엄청 많은 사람이 몰려 있을 때도 이 말을 써. 우리도 '팬 군단'이라고 하잖아.",
+  "친구 몇 명 모인 무리랑은 달라. 병사나 사람이 세기 힘들 만큼 많이 모여야 legion이야. 모래알처럼 사람이 아닌 것에는 이 말을 쓰지 않아."
+ ],
+ "scene": "옛 로마 군대에서 병사 수천 명을 묶은 큰 무리",
+ "examples": [
+  {
+   "en": "Legions of fans waited outside the stadium in the rain.",
+   "ko": "팬 군단이 비를 맞으면서 경기장 밖에서 기다렸어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "일요일 아침, 동네 도서관 창가 자리에 학생 한 명이 혼자 앉아 수학 문제집을 풀고 있어. 이 학생 한 명을 'legion'이라고 부를 수 있을까?",
+   "choices": [
+    "응, legion 맞아",
+    "아니, legion 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, legion 아니야",
+   "why": "맞아! 도서관 창가에 혼자 앉아 문제집 푸는 학생은 딱 한 명이잖아. legion은 셀 수 없을 만큼 많은 사람이 모인 큰 무리라서, 한 명은 legion이 될 수 없어."
+  },
+  {
+   "type": "ox",
+   "question": "마라톤 대회 날, 출발선 뒤에 참가자 수만 명이 한 덩어리로 빽빽하게 모여 출발 신호를 기다리고 있어. 이 거대한 사람 무리를 'legion'이라고 부를 수 있을까?",
+   "choices": [
+    "응, legion 맞아",
+    "아니, legion 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, legion 맞아",
+   "why": "맞아! 출발선 뒤에 수만 명이 한 덩어리로 빽빽하게 모여 있잖아. 세기 힘들 만큼 많은 사람이 뭉친 무리니까 바로 그게 legion인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "옛 로마 군대 안에서 병사 수천 명을 하나로 묶어 깃발 하나를 앞세우고 함께 행진하던 부대가 있었어. 이 부대 하나를 'legion'이라고 할 수 있을까?",
+   "choices": [
+    "응, legion 맞아",
+    "아니, legion 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, legion 맞아",
+   "why": "맞아! 로마 군대 안에서 병사 수천 명이 깃발 하나 앞세우고 같이 행진하던 그 부대 하나가 바로 legion이야. 군대 전체가 아니라 그 안의 큰 부대 하나를 부르는 말이거든."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "army",
+   "kind": "confusable",
+   "from": "vs army"
+  },
+  {
+   "word": "multitude",
+   "kind": "confusable",
+   "from": "vs multitude"
+  }
+ ],
+ "related_scene": [
+  "military"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-legion",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-legion"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/legion.webp",
+  "alt": "옛 로마 군대에서 병사 수천 명을 묶은 큰 무리",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

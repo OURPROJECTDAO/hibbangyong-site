@@ -1,0 +1,79 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/bony/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/bony/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "bony",
+ "slug": "bony",
+ "url": "https://hibbangyong.com/words/bony/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "앙상한 — 살이 적어서 뼈 모양이 겉으로 드러나 보이는",
+ "gloss_ko": "뼈가 드러난",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "키가 갑자기 쑥 큰 친구가 반바지를 입으면 무릎뼈가 동그랗게 튀어나와 보이지?",
+  "그 자리에 살이 적어서 뼈 모양이 겉으로 보이는 것, 그걸 bony라고 해.",
+  "아픈 것과는 상관없어. 할아버지 손, 마른 길고양이 등, 누구 팔꿈치든 뼈 모양이 보이면 다 bony야.",
+  "뼈가 크고 튼튼하다는 말이 아니야. 몸 전체가 날씬한지보다는 그 부분에 뼈 모양이 보이는지가 중요해."
+ ],
+ "scene": "반바지 아래로 무릎뼈가 튀어나와 보이는 키 큰 친구",
+ "examples": [
+  {
+   "en": "My little brother hugged me with his bony arms.",
+   "ko": "내 남동생이 뼈가 앙상한 팔로 나를 꼭 안아 줬어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "친구가 목 부분이 넓게 파인 티셔츠를 입었어. 목 아래 쇄골 부분에 살이 얇아서 뼈 모양이 살 위로 또렷하게 드러나 보여. 이 쇄골 부분을 'bony'하다고 할 수 있을까?",
+   "choices": [
+    "응, bony 맞아",
+    "아니, bony 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, bony 맞아",
+   "why": "맞아! 쇄골 부분에 살이 얇아서 뼈 모양이 살 위로 또렷하게 드러나 보이잖아. 그 부분에 뼈 모양이 보이면 그게 바로 bony야."
+  },
+  {
+   "type": "ox",
+   "question": "갓 태어난 아기의 볼을 봤어. 볼에 살이 포동포동하게 올라서 그 아래 광대뼈 모양이 전혀 보이지 않아. 이 아기 볼을 'bony'하다고 할 수 있을까?",
+   "choices": [
+    "응, bony 맞아",
+    "아니, bony 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, bony 아니야",
+   "why": "맞아! 아기 볼은 살이 포동포동하게 올라서 광대뼈 모양이 전혀 안 보이잖아. bony는 살이 적어서 뼈 모양이 겉으로 보일 때 쓰는 말이니까, 이 볼은 그 반대라서 아니라고 하는 게 맞아."
+  },
+  {
+   "type": "ox",
+   "question": "씨름 선수 삼촌은 어깨뼈가 크고 굵어서 어깨가 떡 벌어지고 아주 튼튼해 보여. 이런 경우도 'bony'야?",
+   "choices": [
+    "응, bony 맞아",
+    "아니, bony 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, bony 아니야",
+   "why": "맞아! 삼촌 어깨는 뼈가 크고 굵어서 떡 벌어지고 튼튼해 보이는 거지, 살이 적어서 뼈 모양이 겉으로 드러나 보이는 게 아니잖아. bony는 뼈가 크다는 게 아니라 살이 적어서 뼈 모양이 보인다는 뜻이라, 이건 bony가 아니야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-bony",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-bony"
+ },
+ "image": null
+}

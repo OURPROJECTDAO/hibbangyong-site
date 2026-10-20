@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/fare/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/fare/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "fare",
+ "slug": "fare",
+ "url": "https://hibbangyong.com/words/fare/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "차비 — 버스나 기차, 택시 같은 걸 탈 때 내는 돈",
+ "gloss_ko": "차비",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "버스에 그냥 올라타면 될까? 아니야, 탈 때마다 정해진 돈을 내야 해.",
+  "그 돈이 바로 타는 값이야. 기차도, 택시도, 비행기도 다 있어.",
+  "가게에서 물건 사는 돈이 아니라, 나를 어디로 데려다주는 값이거든.",
+  "멀리 갈수록 더 내기도 해. 그게 fare야."
+ ],
+ "scene": "버스에 올라타 정해진 돈을 내는 장면",
+ "examples": [
+  {
+   "en": "The train fare cost a lot, so we took the bus instead.",
+   "ko": "기차 차비가 너무 비싸서 우리는 대신 버스를 탔어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "지하철을 타려고 개찰구에서 카드를 찍었더니 정해진 돈이 빠져나갔어. 이게 'fare'야?",
+   "choices": [
+    "응, fare 맞아",
+    "아니, fare 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, fare 맞아",
+   "why": "맞아! 지하철은 나를 어딘가로 데려다주는 탈것이고, 타려고 정해진 돈을 냈잖아. 딱 그게 fare야."
+  },
+  {
+   "type": "ox",
+   "question": "옆집 아저씨 차를 얻어 타고 학원까지 갔는데, 아저씨가 돈은 안 받겠다고 해서 한 푼도 안 냈어. 이게 'fare'야?",
+   "choices": [
+    "응, fare 맞아",
+    "아니, fare 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, fare 아니야",
+   "why": "맞아! 탔지만 돈은 한 푼도 안 냈잖아. 타는 값을 내야 fare인데 공짜로 얻어 탄 거니까 fare가 아닌 게 맞아."
+  },
+  {
+   "type": "choice",
+   "question": "이모가 서울에서 부산까지 기차를 타고 가려고 해. 이모가 말한 기차의 'fare'는 아래 중 어느 쪽일까?",
+   "choices": [
+    "기차 안에서 파는 도시락을 사 먹는 데 내는 돈",
+    "기차를 타고 부산까지 가는 데 내는 돈",
+    "기차가 부산까지 달려가는 데 걸리는 시간",
+    "기차를 타려고 역에서 기다리는 시간"
+   ],
+   "answer_index": 1,
+   "answer": "기차를 타고 부산까지 가는 데 내는 돈",
+   "why": "맞아! 서울에서 부산까지 나를 태워다 주는 값, 바로 그게 fare거든. 멀리 갈수록 더 내기도 하는 그 돈 말이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-fare",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-fare"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/fare.webp",
+  "alt": "버스에 올라타 정해진 돈을 내는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

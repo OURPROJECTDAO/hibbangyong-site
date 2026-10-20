@@ -1,0 +1,74 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/globe/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/globe/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "globe",
+ "slug": "globe",
+ "url": "https://hibbangyong.com/words/globe/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "지구본 — 지구를 작게 줄여 받침대에 올린 둥근 모형",
+ "gloss_ko": "지구본",
+ "level": {
+  "code": "L4",
+  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "받침대 위에 동그란 공처럼 놓인 이건 globe예요. 파란 바다와 초록 땅이 진짜 지구 모습 그대로 그려져 있어요.",
+  "교실이나 방에서 이걸 살살 돌려 보면 우리나라가 어디 있는지, 가 보고 싶은 나라가 어디쯤인지 찾아볼 수 있어요."
+ ],
+ "scene": "받침대 위에 놓인 전형적인 탁상용 지구본(파란 바다·초록 대륙, 금속 받침·기울어진 축)",
+ "examples": [
+  {
+   "en": "We found our country on the globe in the classroom.",
+   "ko": "우리는 교실에 있는 지구본에서 우리나라를 찾았어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "책상 위 받침대에 올린 둥근 공에 파란 바다와 초록 대륙이 그려져 있고, 손으로 밀면 빙글 돌아가요. 이게 globe야?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 맞아",
+   "why": null
+  },
+  {
+   "type": "choice",
+   "question": "globe는 어느 것일까?",
+   "choices": [
+    "물을 끓여 밥을 짓는, 손잡이 달린 둥근 냄비",
+    "발에 신고 달릴 때 신는, 끈이 달린 천 신발",
+    "받침대에 올려 손으로 돌리는, 지구를 그린 둥근 공",
+    "글씨를 쓸 때 손에 쥐는, 길쭉한 나무 막대"
+   ],
+   "answer_index": 2,
+   "answer": "받침대에 올려 손으로 돌리는, 지구를 그린 둥근 공",
+   "why": null
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "global"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-globe",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-globe"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/globe.webp",
+  "alt": "받침대 위에 놓인 전형적인 탁상용 지구본(파란 바다·초록 대륙, 금속 받침·기울어진 축)",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

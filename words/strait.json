@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/strait/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/strait/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "strait",
+ "slug": "strait",
+ "url": "https://hibbangyong.com/words/strait/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "해협 — 두 땅덩어리 사이에 끼어서 바다와 바다를 이어 주는 좁은 물길",
+ "gloss_ko": "해협",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "지도에서 큰 땅 두 개가 서로 딱 붙을 것처럼 가까이 있는 곳을 찾아봐.",
+  "그 사이에 좁게 남은 바닷물 길이 보일 거야. 양쪽 바다를 이어 주는 길이지.",
+  "이게 strait야. 사방이 물인 섬이나, 땅이 바다 쪽으로 튀어나온 곳이랑은 달라. 물이 땅 사이로 좁게 지나가는 길이야.",
+  "강은 땅 위를 흘러가는 민물이잖아. strait는 바닷물이 이쪽 바다에서 저쪽 바다로 건너가는 통로야. 그리고 사람이 땅을 파서 만든 운하(canal)와 달리, strait는 자연이 만든 물길이야."
+ ],
+ "scene": "지도에서 가까이 붙은 두 땅 사이의 좁은 바닷길",
+ "examples": [
+  {
+   "en": "Big ships wait for hours to pass through the narrow strait between the two countries.",
+   "ko": "큰 배들이 두 나라 사이 좁은 해협을 지나가려고 몇 시간씩 기다려."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "바다 한가운데에 둘레가 온통 바닷물로 둘러싸인 작은 땅이 있고, 그 위에 하얀 등대 하나가 서 있어. 등대가 서 있는 이 작은 땅이 'strait'일까?",
+   "choices": [
+    "응, strait 맞아",
+    "아니, strait 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, strait 아니야",
+   "why": "맞아! 등대가 서 있는 그 작은 땅은 둘레가 온통 바닷물이라 섬이야. strait는 땅 두 개 사이에 끼어 있는 좁은 바닷물 길이라서 거꾸로거든."
+  },
+  {
+   "type": "ox",
+   "question": "두 커다란 땅이 서로 가까이 마주 보고 있고, 그 사이의 좁은 바닷물 길이 북쪽 바다와 남쪽 바다를 이어 줘. 사람들은 이 좁은 바닷물 길 위에 긴 다리를 놓아 두 땅을 오가. 다리 아래의 이 바닷물 길이 'strait'일까?",
+   "choices": [
+    "응, strait 맞아",
+    "아니, strait 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, strait 맞아",
+   "why": "맞아! 다리 아래 그 물길은 가까이 마주 본 두 땅 사이에 끼어 있고, 북쪽 바다와 남쪽 바다를 이어 주는 좁은 바닷물 길이잖아. 그게 바로 strait야."
+  },
+  {
+   "type": "choice",
+   "question": "배를 타고 가다가 바다 지형 네 곳을 지났어. 이 중 'strait'라고 부를 수 있는 곳은?",
+   "choices": [
+    "양쪽에 땅이 가까이 있고, 앞뒤로 다른 바다와 이어진 좁은 물길",
+    "세 방향이 땅으로 막혀 있고, 한쪽으로만 바다와 이어진 물가",
+    "사방이 끝없이 바다뿐이고, 어느 쪽에도 땅이 보이지 않는 곳",
+    "둘레가 온통 바다이고, 가운데에 사람이 사는 마을이 있는 땅"
+   ],
+   "answer_index": 0,
+   "answer": "양쪽에 땅이 가까이 있고, 앞뒤로 다른 바다와 이어진 좁은 물길",
+   "why": "맞아! 양쪽에 땅이 가까이 붙어 있고, 앞뒤로 다른 바다랑 이어진 좁은 물길이잖아. 배가 이쪽 바다에서 저쪽 바다로 빠져나가는 그 좁은 길이 바로 strait야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "channel"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-strait",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-strait"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/strait.webp",
+  "alt": "지도에서 가까이 붙은 두 땅 사이의 좁은 바닷길",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

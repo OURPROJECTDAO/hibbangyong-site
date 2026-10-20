@@ -1,0 +1,89 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/severe/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/severe/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "severe",
+ "slug": "severe",
+ "url": "https://hibbangyong.com/words/severe/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "심한 — 정도가 너무 세고 나빠서 도저히 견디기 힘든 것. 그냥 많은 게 아니라, 심하게 나쁜 것.",
+ "gloss_ko": "견디기 힘들 만큼 심한",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "그냥 '조금 아파'가 아니야.",
+  "열이 펄펄 나고 온몸이 쑤셔서 도무지 못 버틸 만큼인 거.",
+  "날씨든, 아픈 거든, 혼나는 거든 — 정도가 너무 세고 나빠서 견디기 힘들면,",
+  "그게 severe야."
+ ],
+ "scene": "열이 펄펄 나고 온몸이 쑤셔 못 버틸 만큼 아픈 상태",
+ "examples": [
+  {
+   "en": "The storm was so severe that our old tree fell down.",
+   "ko": "폭풍이 너무 심해서 오래된 나무가 쓰러졌어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "친구 네 명이 어제 있었던 일을 한 문장씩 적었어. 이 중에서 'severe'한 건 어떤 거야?",
+   "choices": [
+    "색연필 열두 자루를 필통에 차곡차곡 넣었어.",
+    "머리를 빗고 노란 고무줄로 하나로 묶었어.",
+    "이가 너무 아파서 밤새 한숨도 못 자고 울었어.",
+    "우유를 컵에 따라서 식탁 위에 올려 두었어."
+   ],
+   "answer_index": 2,
+   "answer": "이가 너무 아파서 밤새 한숨도 못 자고 울었어.",
+   "why": "맞아! 이가 아파서 밤새 한숨도 못 자고 울었다는 건, 그냥 조금 아픈 게 아니라 도무지 못 버틸 만큼 심하게 아픈 거잖아. 그렇게 정도가 세고 나빠서 견디기 힘든 게 바로 severe인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "아랫니가 찬물에 한 번 시렸는데, 물컵을 내려놓고 나서는 하루 종일 밥도 다 먹고 잘 잤어. 이 시린 느낌은 'severe'야?",
+   "choices": [
+    "응, severe 맞아",
+    "아니, severe 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, severe 아니야",
+   "why": "맞아, 잘 골랐어! 한 번 찡 시렸을 뿐이고 밥도 다 먹고 잠도 잘 잤잖아. 견딜 만한 거라서 severe가 아닌 거야. severe는 못 버틸 만큼 심해야 하거든."
+  },
+  {
+   "type": "choice",
+   "question": "네 사람이 각자 겪은 일을 말했어. 그중에 'severe'하다고 할 수 있는 건 어떤 거야?",
+   "choices": [
+    "생일에 선물을 산더미처럼 잔뜩 받았어.",
+    "달리기에서 친구들을 아주 많이 앞질렀어.",
+    "팔이 부러져서 오래오래 고생했어.",
+    "감기가 조금 걸려서 하루 푹 쉬었어."
+   ],
+   "answer_index": 2,
+   "answer": "팔이 부러져서 오래오래 고생했어.",
+   "why": "맞아! 팔이 부러진 건 너무 아프고 오래오래 힘들어서 도무지 못 버틸 만큼이잖아. 정도가 세면서 나쁘고 견디기 힘든 거, 그게 바로 severe인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "mild"
+ ],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-severe",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-severe"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/severe.webp",
+  "alt": "열이 펄펄 나고 온몸이 쑤셔 못 버틸 만큼 아픈 상태",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

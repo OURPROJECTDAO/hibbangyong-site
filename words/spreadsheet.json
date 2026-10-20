@@ -1,0 +1,90 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/spreadsheet/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/spreadsheet/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "spreadsheet",
+ "slug": "spreadsheet",
+ "url": "https://hibbangyong.com/words/spreadsheet/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "스프레드시트 — 가로줄과 세로줄로 나뉜 칸에 숫자나 목록을 넣으면 계산까지 해 주는 컴퓨터 표 프로그램(또는 그렇게 만든 표 파일)",
+ "gloss_ko": "스프레드시트",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "반 친구들 체육 기록을 컴퓨터로 정리한다고 해 봐.",
+  "가로줄, 세로줄로 칸이 쫙 나뉜 화면에 이름이랑 기록을 하나씩 넣어.",
+  "그럼 합계나 평균은 프로그램이 알아서 계산해 줘. 돈, 점수, 명단 뭐든 담을 수 있어.",
+  "공책에 손으로 그린 표나, 글만 쓰는 프로그램이랑은 달라."
+ ],
+ "scene": "반 친구들 체육 기록을 컴퓨터 표에 정리하기",
+ "examples": [
+  {
+   "en": "My mom keeps a spreadsheet of everything we spend each month.",
+   "ko": "우리 엄마는 매달 우리가 쓰는 돈을 전부 스프레드시트에 정리해 둬."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "네 친구가 반 체육 기록으로 각자 뭔가를 만들었어. 'spreadsheet'를 쓴 친구는 누구일까?",
+   "choices": [
+    "기록을 공책에 자로 줄을 그어 칸을 만든 뒤 손으로 적었어",
+    "기록에 대한 소감을 컴퓨터에 긴 글로 써서 저장했어",
+    "기록을 컴퓨터 칸에 넣었더니 반 평균이 자동으로 나왔어",
+    "기록을 막대그래프 그림 한 장으로만 그려서 발표했어"
+   ],
+   "answer_index": 2,
+   "answer": "기록을 컴퓨터 칸에 넣었더니 반 평균이 자동으로 나왔어",
+   "why": "맞아! 기록을 컴퓨터 칸에 넣었더니 반 평균이 알아서 나왔잖아. 칸에 넣기만 하면 계산까지 해 주는 컴퓨터 표, 바로 그게 spreadsheet야."
+  },
+  {
+   "type": "ox",
+   "question": "동아리 회비를 정리하려고 휴대폰 앱을 열었어. 화면 위쪽에는 A, B, C, 왼쪽에는 1, 2, 3이 붙어 있어. B열에 부원마다 낸 돈을 적고, 맨 아래 칸에 =SUM을 쳤더니 총액이 떴어. 이 앱으로 만든 파일이 'spreadsheet'일까?",
+   "choices": [
+    "응, spreadsheet 맞아",
+    "아니, spreadsheet 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, spreadsheet 맞아",
+   "why": "맞아! 위쪽 A, B, C랑 왼쪽 1, 2, 3으로 칸이 나뉘어 있고, B열에 낸 돈을 적은 다음 =SUM을 쳤더니 총액이 바로 떴잖아. 칸에 숫자를 넣으면 계산까지 해 주는 표니까, 휴대폰 앱으로 만들었어도 그 파일은 spreadsheet야."
+  },
+  {
+   "type": "choice",
+   "question": "방송반 반장이 단체 대화방에 '이번에 들어온 신입 부원 spreadsheet 좀 보내 줘'라고 올렸어. 여기서 반장이 달라는 'spreadsheet'는 어떤 걸까?",
+   "choices": [
+    "신입 부원의 이름·학년·반을 칸마다 나눠 넣은 컴퓨터 파일",
+    "신입 부원들이 낸 동아리 회비 영수증을 찍은 사진 파일",
+    "신입 부원들이 저마다 쓴 자기소개 글을 모아 둔 문서 파일",
+    "신입 부원들이 첫 모임에서 다 같이 찍은 단체 사진 파일"
+   ],
+   "answer_index": 0,
+   "answer": "신입 부원의 이름·학년·반을 칸마다 나눠 넣은 컴퓨터 파일",
+   "why": "맞아! 이름, 학년, 반을 칸마다 나눠 넣은 컴퓨터 파일이니까 바로 그게 spreadsheet야. 돈 계산만 하는 게 아니라 이렇게 부원 명단을 정리할 때도 쓰거든."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "data",
+  "sheet"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-spreadsheet",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-spreadsheet"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/spreadsheet.webp",
+  "alt": "반 친구들 체육 기록을 컴퓨터 표에 정리하기",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

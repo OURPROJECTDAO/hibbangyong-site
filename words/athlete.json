@@ -1,0 +1,89 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/athlete/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/athlete/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "athlete",
+ "slug": "athlete",
+ "url": "https://hibbangyong.com/words/athlete/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "운동선수 — 운동 경기에 나가서 실력을 겨루는 사람",
+ "gloss_ko": "운동선수",
+ "level": {
+  "code": "L4",
+  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "달리기, 수영, 축구, 체조… 종목은 다 달라도 똑같은 게 하나 있어.",
+  "매일 땀 뻘뻘 흘리며 몸을 갈고닦고, 경기에 나가서 직접 겨루거든.",
+  "응원석에서 와아! 소리치는 팬이나, 삑! 호루라기 부는 심판은? 아니야. 직접 뛰는 사람만!",
+  "몸으로 뛰고 겨루는 바로 그 사람, 그게 athlete야."
+ ],
+ "scene": "여러 종목 선수들이 매일 땀 흘리며 몸을 단련함",
+ "examples": [
+  {
+   "en": "My aunt is an athlete, so she gets up early every day.",
+   "ko": "우리 이모는 운동선수라서 날마다 아침 일찍 일어나."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "삼촌이 탁구 대회에 나갔어. 라켓을 들고 상대와 직접 공을 주고받으며 점수를 겨루고 있어. 삼촌은 'athlete'일까?",
+   "choices": [
+    "응, athlete 맞아",
+    "아니, athlete 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, athlete 맞아",
+   "why": "맞아! 삼촌은 라켓을 들고 상대와 직접 공을 주고받으면서 점수를 겨루고 있잖아. 이렇게 대회에 나가서 몸으로 직접 겨루는 사람, 바로 그게 athlete인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "아빠가 야구장에 갔어. 관중석 의자에 앉아서 팝콘을 먹으며 경기를 구경하고 있어. 아빠는 'athlete'일까?",
+   "choices": [
+    "응, athlete 맞아",
+    "아니, athlete 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, athlete 아니야",
+   "why": "맞아! 아빠는 관중석 의자에 앉아서 팝콘을 먹으며 경기를 구경만 하고 있거든. 야구장에서 직접 공을 던지고 뛰는 선수들이 athlete이고, 아빠는 구경하는 사람이라서 athlete가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "체육대회 날, 네 사람이 저마다 뭔가를 하고 있어. 이 중에서 'athlete'는 누구일까?",
+   "choices": [
+    "관중석에서 깃발을 흔들며 응원하는 사람",
+    "경기를 멈추려고 호루라기를 부는 사람",
+    "물속에서 다른 사람들과 빠르기를 겨루는 사람",
+    "선수들에게 물병을 날라다 주는 사람"
+   ],
+   "answer_index": 2,
+   "answer": "물속에서 다른 사람들과 빠르기를 겨루는 사람",
+   "why": "맞아! 물속에서 다른 사람들과 빠르기를 겨루는 사람은 자기 몸으로 직접 경기에 나가서 겨루고 있거든. 그래서 바로 그 사람이 athlete인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "athleticism",
+  "coach",
+  "compete"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-athlete",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-athlete"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/athlete.webp",
+  "alt": "여러 종목 선수들이 매일 땀 흘리며 몸을 단련함",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/jail/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/jail/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "jail",
+ "slug": "jail",
+ "url": "https://hibbangyong.com/words/jail/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "감옥 — 나쁜 짓을 해서 벌로 갇혀 못 나가는 곳",
+ "gloss_ko": "감옥",
+ "level": {
+  "code": "L4",
+  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "철문이 쾅! 닫히고 철컹— 잠겼어.",
+  "안에 있는 사람은 나가고 싶어도 못 나가.",
+  "왜냐고? 법을 어겨서 거기 갇힌 거거든.",
+  "이렇게 갇혀서 못 나가는 곳, 이게 jail이야."
+ ],
+ "scene": "철문 철컹 잠기고, 안의 사람이 나가려 해도 못 나감.",
+ "examples": [
+  {
+   "en": "In our board game, my piece landed in jail, so I had to skip a turn.",
+   "ko": "보드게임에서 내 말이 감옥 칸에 걸려서 한 번 쉬어야 했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "아래 넷 중에서 'jail'이라고 부를 수 있는 건 뭘까?",
+   "choices": [
+    "입에 넣으면 달콤하게 녹는 작은 사탕",
+    "공을 차며 마당을 뛰어다니는 놀이",
+    "법을 어긴 사람이 갇혀서 못 나오는 곳",
+    "하나 둘 셋 소리 내어 세는 숫자"
+   ],
+   "answer_index": 2,
+   "answer": "법을 어긴 사람이 갇혀서 못 나오는 곳",
+   "why": "맞아! 법을 어겨서 갇혔고 나가고 싶어도 못 나오잖아. 철문이 철컹 잠긴 그곳, 바로 그게 jail이야."
+  },
+  {
+   "type": "choice",
+   "question": "다음 중 'jail'에 해당하는(맞는) 것을 골라 봐.",
+   "choices": [
+    "나쁜 짓을 해서 잡혀가 갇혀 있는 곳",
+    "자기 전에 도란도란 부르는 노래",
+    "추운 날 호호 불어 마시는 따뜻한 국",
+    "하늘과 바다처럼 눈에 보이는 색깔"
+   ],
+   "answer_index": 0,
+   "answer": "나쁜 짓을 해서 잡혀가 갇혀 있는 곳",
+   "why": "맞아! 나쁜 짓을 해서 잡혀가 못 나가게 갇혀 있잖아, 그게 바로 jail이야. 가고 싶어도 못 나가는 게 핵심이거든."
+  },
+  {
+   "type": "choice",
+   "question": "아래 네 곳을 설명했어. 어디를 'jail'이라고 부를 수 있을까?",
+   "choices": [
+    "법을 어겨서 갇혀 마음대로 못 나가는 곳",
+    "사람이 많고 북적이는 커다란 건물",
+    "언제든 들어왔다 나갔다 할 수 있는 놀이터",
+    "동물을 가둬서 키우는 튼튼한 우리"
+   ],
+   "answer_index": 0,
+   "answer": "법을 어겨서 갇혀 마음대로 못 나가는 곳",
+   "why": "맞아! 법을 어긴 사람이 갇혀서 나가고 싶어도 마음대로 못 나가는 곳이라서 바로 그게 jail인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-jail",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-jail"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/jail.webp",
+  "alt": "철문 철컹 잠기고, 안의 사람이 나가려 해도 못 나감.",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

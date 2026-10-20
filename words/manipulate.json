@@ -1,0 +1,95 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/manipulate/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/manipulate/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "manipulate",
+ "slug": "manipulate",
+ "url": "https://hibbangyong.com/words/manipulate/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "내가 바라는 대로 되게 요리조리 다루는 것 — 물건도, 사람 마음도, 숫자도",
+ "gloss_ko": "바라는 대로 요리조리 다루다",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "뽑기 기계 손잡이를 잡고 아주 조금씩 움직여 봐. 집게가 스르르 가서 인형을 딱 집지?",
+  "이렇게 손끝으로 살살 다뤄서 내가 바라는 대로 만드는 게 이 말이야. 물건만 그런 게 아니야. 말을 슬쩍슬쩍 골라 써서 친구가 내 뜻대로 하게 만드는 것도, 점수가 좋아 보이게 숫자를 손보는 것도 같은 말을 써.",
+  "좋은 쪽 나쁜 쪽 다 돼. 의사 선생님이 아주 작은 도구를 손끝으로 다루는 것도 이 말이거든.",
+  "힘으로 확 밀어붙이는 것도 아니고 그냥 만지작거리는 것도 아니야. 솜씨 좋게 다뤄서 내 뜻대로 되게 하는 거 — 그게 manipulate야."
+ ],
+ "scene": "뽑기 기계 손잡이를 조금씩 움직여 집게가 인형을 집게 하는 장면",
+ "examples": [
+  {
+   "en": "He manipulated the claw with two handles until it picked up the toy bear.",
+   "ko": "그는 손잡이 두 개로 집게를 요리조리 다뤄서 결국 곰 인형을 집어 올렸어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "뽑기 기계 앞에서 네 아이가 각자 한 일을 말했어. 이 중에 기계를 'manipulate' 했다고 할 수 있는 아이는 누구일까?",
+   "choices": [
+    "기계를 발로 쾅쾅 차서 인형이 툭 떨어지게 만든 아이",
+    "손잡이를 조금씩 번갈아 움직여서 집게가 인형을 딱 집게 만든 아이",
+    "동전을 넣고 기계가 알아서 하는 걸 옆에서 구경만 한 아이",
+    "기계 유리창을 손바닥으로 문질러 닦아 보기만 한 아이"
+   ],
+   "answer_index": 1,
+   "answer": "손잡이를 조금씩 번갈아 움직여서 집게가 인형을 딱 집게 만든 아이",
+   "why": "맞아! 손잡이를 조금씩 살살 움직여서 집게가 인형을 딱 집게 만들었잖아. 내 뜻대로 되게 솜씨 좋게 다룬 거니까 바로 그게 manipulate야."
+  },
+  {
+   "type": "choice",
+   "question": "창고 문에 숫자 돌리는 자물쇠가 걸려 있어. 네 아이가 자물쇠 앞에서 한 일이야. 이 중 자물쇠를 'manipulate' 했다고 할 수 있는 아이는 누구일까?",
+   "choices": [
+    "자물쇠에 쌓인 먼지를 헝겊으로 문질러 반짝반짝 닦아 놓았어",
+    "자물쇠 고리 옆에 노란 스티커를 붙여 눈에 잘 띄게 했어",
+    "숫자 고리를 하나씩 천천히 돌려서 맞는 숫자에 딱 서게 했어",
+    "자물쇠에 적힌 글자를 공책에 하나씩 똑같이 베껴 적었어"
+   ],
+   "answer_index": 2,
+   "answer": "숫자 고리를 하나씩 천천히 돌려서 맞는 숫자에 딱 서게 했어",
+   "why": "맞아! 숫자 고리를 하나씩 천천히 돌려서 딱 맞는 자리에 세운 거잖아. 손끝으로 살살 다뤄서 자물쇠를 내가 바라는 상태로 만든 거니까 바로 그게 manipulate야."
+  },
+  {
+   "type": "choice",
+   "question": "공이 나무 가지에 턱 걸렸어. 네 아이가 한 일 중에 'manipulate' 했다고 할 수 있는 아이는 누구일까?",
+   "choices": [
+    "나무 아래에 앉아서 바람에 공이 저절로 떨어지기를 기다렸어",
+    "긴 막대 끝을 가지에 대고 조금씩 밀어서 공이 스르르 내려오게 했어",
+    "빗자루로 나무 아래 낙엽을 싹 쓸어서 바닥이 깨끗해지게 했어",
+    "가지에 걸린 공을 손가락으로 가리키며 친구들에게 알려 주었어"
+   ],
+   "answer_index": 1,
+   "answer": "긴 막대 끝을 가지에 대고 조금씩 밀어서 공이 스르르 내려오게 했어",
+   "why": "맞아! 막대 끝으로 조금씩 밀어서 공이 내려오게 했잖아. 힘으로 확 밀어붙인 것도 아니고 그냥 만지작거린 것도 아니고, 솜씨 좋게 다뤄서 내 뜻대로 되게 한 거 — 그게 바로 manipulate야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "operate",
+   "kind": "confusable",
+   "from": "vs operate"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-manipulate",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-manipulate"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/manipulate.webp",
+  "alt": "뽑기 기계 손잡이를 조금씩 움직여 집게가 인형을 집게 하는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

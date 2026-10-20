@@ -1,0 +1,62 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/revolution/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/revolution/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "revolution",
+ "slug": "revolution",
+ "url": "https://hibbangyong.com/words/revolution/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "혁명 — 낡은 것을 싹 뒤집고 세상을 통째로 새롭게 갈아엎는 큰 변화.",
+ "gloss_ko": "혁명",
+ "level": {
+  "code": "L6",
+  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "옛날엔 다들 말 타고 다녔거든? 그런데 자동차가 딱 나타나더니, 온 세상이 통째로 확 바뀌었어.",
+  "낡은 걸 조금 고친 게 아니야. 예전 방식을 싹 뒤집고 완전히 새로 시작한 거야.",
+  "이렇게 세상을 뿌리째 갈아엎는 아주 큰 변화, 그게 revolution이야."
+ ],
+ "scene": "말 타던 세상에 자동차가 나타나 온 세상이 통째로 뒤바뀐 장면",
+ "examples": [
+  {
+   "en": "Cars brought a revolution, and soon the whole world stopped using horses.",
+   "ko": "자동차가 revolution을 몰고 왔고, 곧 온 세상이 말을 안 타게 됐어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "세상을 바꾼 이야기 네 개가 있어. 이 중에서 'revolution'이라고 부를 수 있는 건 어떤 걸까?",
+   "choices": [
+    "옛날 방식은 자취를 감추고, 전혀 다른 새 방식이 그 자리를 통째로 대신했어.",
+    "옛날 방식은 그대로 둔 채, 좋은 점을 아주 많이 더 보태서 예전보다 훨씬 좋아졌어.",
+    "옛날 방식을 밀어내려고 다 같이 크게 맞섰지만, 옛날 방식은 끄떡없이 그대로였어.",
+    "옛날이나 지금이나 하는 게 똑같아서, 달라진 건 하나도 없었어."
+   ],
+   "answer_index": 0,
+   "answer": "옛날 방식은 자취를 감추고, 전혀 다른 새 방식이 그 자리를 통째로 대신했어.",
+   "why": "맞아! 옛날 방식은 싹 사라지고, 완전히 다른 새 방식이 그 자리를 통째로 차지했잖아. 세상이 뿌리째 뒤집혀 새로 시작된 거니까, 바로 그게 revolution이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-revolution",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-revolution"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/revolution.webp",
+  "alt": "말 타던 세상에 자동차가 나타나 온 세상이 통째로 뒤바뀐 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

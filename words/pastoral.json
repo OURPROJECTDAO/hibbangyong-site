@@ -1,0 +1,82 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/pastoral/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/pastoral/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "pastoral",
+ "slug": "pastoral",
+ "url": "https://hibbangyong.com/words/pastoral/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "목회의 — 목사나 신부가 맡은 사람들의 마음과 생활을 하나하나 보살피는 일에 관한",
+ "gloss_ko": "신도를 보살피는 목회의",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "교회 목사님이 시험 망치고 풀 죽은 학생을 따로 불러서 고민을 들어 줘.",
+  "설교하는 거 말고, 맡은 사람 한 명 한 명의 마음이랑 생활을 챙기는 일. 그게 pastoral한 일이야.",
+  "그래서 학교 선생님이 학생 마음을 돌볼 때도 이 말을 써. 가르치는 일이나 서류 일하고는 다른 쪽이야.",
+  "pastor는 원래 양치기라는 뜻이야. 양치기가 양 떼를 돌보듯 사람을 돌보는 거지. 그래서 양 떼가 있는 조용한 시골 풍경을 말할 때도 이 단어가 나와."
+ ],
+ "scene": "목사님이 시험 망친 학생을 따로 불러 고민을 들어 줌",
+ "examples": [
+  {
+   "en": "The priest spends most of his week on pastoral care for the families in our town.",
+   "ko": "신부님은 한 주의 대부분을 우리 동네 가족들 하나하나 돌보는 일에 써."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "군부대 목사님이 새로 들어온 병사들을 한 명씩 따로 만나서, 요즘 잠은 잘 자는지, 집 걱정은 없는지 물어보고 이야기를 들어 줘. 이건 'pastoral' 일이야?",
+   "choices": [
+    "응, pastoral 일 맞아",
+    "아니, pastoral 일 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, pastoral 일 맞아",
+   "why": "맞아! 목사님이 새로 온 병사들을 한 명씩 따로 만나서 잠은 잘 자는지, 집 걱정은 없는지 듣고 있잖아. 맡은 사람 한 명 한 명의 마음이랑 생활을 챙기는 거니까 바로 그게 pastoral한 일이야."
+  },
+  {
+   "type": "ox",
+   "question": "교회 목사님이 오후 내내 교회 승합차 보험 서류를 새로 갱신하고, 주차장 이용 시간표를 만들어 게시판에 붙였어. 이건 'pastoral' 일이야?",
+   "choices": [
+    "응, pastoral 일 맞아",
+    "아니, pastoral 일 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, pastoral 일 아니야",
+   "why": "잘 골랐어! 목사님이 한 건 승합차 보험 서류를 갱신하고 주차장 시간표를 붙인 거잖아. 사람 마음을 직접 돌본 게 아니라 서류랑 시설을 챙긴 일이라서 pastoral 일이 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "한 중학교의 소개 책자에 'pastoral' 담당 선생님이 따로 있다고 적혀 있어. 여기서 'pastoral'은 어떤 쪽 뜻으로 쓰인 걸까?",
+   "choices": [
+    "학생들 각자의 걱정과 학교생활을 살피는 쪽",
+    "학교 텃밭과 들판에서 자연을 가르치는 쪽",
+    "학생들의 출결과 성적 서류를 맡는 쪽"
+   ],
+   "answer_index": 0,
+   "answer": "학생들 각자의 걱정과 학교생활을 살피는 쪽",
+   "why": "맞아! 학교 소개 책자에서 말하는 pastoral 담당 선생님은 학생들 각자의 걱정과 학교생활을 살피는 쪽이야. 양치기가 양을 한 마리씩 돌보듯 학생 한 명 한 명을 챙기는 일이라서 바로 이 뜻인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "pastor"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-pastoral",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-pastoral"
+ },
+ "image": null
+}

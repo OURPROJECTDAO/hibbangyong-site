@@ -1,0 +1,89 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/genius/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/genius/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "genius",
+ "slug": "genius",
+ "url": "https://hibbangyong.com/words/genius/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "천재 — 남들이 아무리 애써도 못 닿는 걸 해내는 남다른 머리, 또는 그런 사람.",
+ "gloss_ko": "천재",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "다들 몇 달을 붙들고도 못 만든 걸, 한 사람이 슥 보더니 뚝딱 만들어놔. 어떻게 저런 생각을 했지 싶게.",
+  "똑똑하다, 공부 잘한다 정도가 아니야. 오래 연습해서 잘하게 된 거랑도 달라. 아무리 연습해도 남들 손이 안 닿는 자리거든?",
+  "그런 사람도, 그 남다른 머리 자체도 이 말로 불러. 좋은 일에만 쓰냐고? 아니. 나쁜 짓을 기막히게 꾸며내도 이렇게 불러.",
+  "그게 genius야."
+ ],
+ "scene": "다들 몇 달 못 만든 걸 혼자 슥 보고 뚝딱 만들어낸 사람",
+ "examples": [
+  {
+   "en": "The bad guy in the movie was an evil genius.",
+   "ko": "그 영화 속 악당은 사악한 천재였어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "친구가 자기 삼촌 넷을 자랑했어. 이 중 'genius'인 삼촌은 누구일까?",
+   "choices": [
+    "배가 고프면 라면을 다섯 봉지까지 끓여 먹는 삼촌",
+    "방금 들은 이름도 돌아서면 잊어버려 다시 묻는 삼촌",
+    "자전거로 산꼭대기까지 쉬지 않고 올라가는 삼촌",
+    "어른들도 못 풀던 수수께끼를 듣자마자 답을 말한 삼촌"
+   ],
+   "answer_index": 3,
+   "answer": "어른들도 못 풀던 수수께끼를 듣자마자 답을 말한 삼촌",
+   "why": "맞아! 어른들도 못 풀던 걸 듣자마자 답이 튀어나온 거잖아. 남들 머리가 아무리 애써도 안 닿는 자리를 슥 넘어간 거니까, 그게 바로 genius인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "동네에 소문난 사람이 넷 있어. 이 중에 'genius'는 누구일까?",
+   "choices": [
+    "쌀가마를 양손에 하나씩 들고 계단을 오르는 사람",
+    "노래하면 옆 골목까지 목소리가 들리는 사람",
+    "아무도 못 고치던 시계를 슥 보고 새 방법으로 고친 사람",
+    "아침마다 골목을 쓸어 길을 반짝이게 하는 사람"
+   ],
+   "answer_index": 2,
+   "answer": "아무도 못 고치던 시계를 슥 보고 새 방법으로 고친 사람",
+   "why": "맞아! 아무도 못 고치던 걸 새 방법을 떠올려서 슥 고쳤잖아. 남들 손이 안 닿던 자리를 남다른 머리로 해낸 거니까 바로 그게 genius인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 사람 이야기를 들었어. 이 중에 'genius'라고 부를 만한 사람은 누구일까?",
+   "choices": [
+    "아무도 못 여는 자물쇠를 처음 보는 방법으로 열어버린 도둑",
+    "십 년을 하루도 안 빼고 연습해 남들만큼 치게 된 아저씨",
+    "선생님이 알려준 대로 그대로 따라 풀어 백 점을 받은 언니",
+    "쉬운 일도 자꾸 까먹어서 늘 처음부터 다시 하는 삼촌"
+   ],
+   "answer_index": 0,
+   "answer": "아무도 못 여는 자물쇠를 처음 보는 방법으로 열어버린 도둑",
+   "why": "맞아! 아무도 못 열던 자물쇠를 아무도 생각 못 한 방법으로 열어버렸잖아. 다른 사람들이 아무리 애써도 못 하던 걸 혼자 해낸 거니까 바로 그게 genius야. 도둑이 한 일이라도 그 남다른 머리는 genius라고 불러."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-genius",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-genius"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/genius.webp",
+  "alt": "다들 몇 달 못 만든 걸 혼자 슥 보고 뚝딱 만들어낸 사람",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

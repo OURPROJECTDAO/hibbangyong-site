@@ -1,0 +1,89 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/elite/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/elite/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "elite",
+ "slug": "elite",
+ "url": "https://hibbangyong.com/words/elite/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "맨 위에 있는 아주 적은 몇 명 무리 — 잘해서든 힘이 세서든 위쪽을 차지한 사람들",
+ "gloss_ko": "맨 위의 아주 적은 무리",
+ "level": {
+  "code": "L6",
+  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "반이 서른 명인데, 뭐 하고 놀지 늘 정하는 애는 딱 셋이거든? 나머지 스물일곱은 그냥 따라가. 위에 있는 건 그 셋뿐이야.",
+  "잘해서 위에 있을 수도 있어. 백 명 중에 진짜 빠른 다섯만 뽑아 만든 달리기 팀처럼. 착해서가 아니라, 그냥 위쪽 몇 명이면 돼.",
+  "나라를 쥐고 흔드는 어른 몇 명도 그래. 좋은 사람들이란 뜻이 아니야. 자리가 위라는 뜻이지.",
+  "잘하는 사람 여럿 모인 큰 모임도 아니고, 혼자 제일 센 애 하나도 아니야. 위쪽에 딱 붙어 있는 그 작은 무리, 그게 elite야."
+ ],
+ "scene": "서른 명 반에서 놀 것을 늘 정하는 애 셋",
+ "examples": [
+  {
+   "en": "The king listened only to the elite, so nobody knew what the poor people wanted.",
+   "ko": "임금님이 위쪽 몇 명 말만 들어서 가난한 사람들이 뭘 원하는지 아무도 몰랐어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "수영 클럽에 아이가 예순 명 있어. 그중에서 제일 빠른 네 명만 뽑아서 대회 나갈 팀을 만들었어. 그 네 명이 'elite'야?",
+   "choices": [
+    "응, elite 맞아",
+    "아니, elite 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, elite 맞아",
+   "why": "맞아! 예순 명이나 있는데 그중에서 제일 빠른 딱 네 명만 위로 뽑혔잖아. 아주 적은 몇 명이 맨 위에 붙어 있는 거, 그게 바로 elite인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "축구 리그에 팀이 스무 개 있어. 시즌 내내 한 판도 못 이겨서 맨 아래에 있는 팀 두 개가 있어. 이 두 팀이 'elite'야?",
+   "choices": [
+    "응, elite 맞아",
+    "아니, elite 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, elite 아니야",
+   "why": "맞아! 스무 팀 중에 딱 둘이라 수는 적지만, 이 팀들은 맨 아래에 있잖아. elite는 위쪽에 있는 작은 무리를 말하는 거라서, 아래에 붙어 있는 두 팀은 elite가 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "어느 섬에서 손 들어 정하는데, 손 든 사람이 더 많은 쪽대로 늘 정해져. 그 많은 쪽 사람들 말이야. 이런 경우도 'elite'야?",
+   "choices": [
+    "응, elite 맞아",
+    "아니, elite 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, elite 아니야",
+   "why": "맞아! 손 든 사람이 더 많은 쪽은 수가 많잖아. elite는 맨 위에 딱 붙어 있는 아주 적은 몇 명이거든. 많은 쪽은 그 반대라서 elite가 아닌 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "majority",
+   "kind": "confusable",
+   "from": "vs majority"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-elite",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-elite"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/elite.webp",
+  "alt": "서른 명 반에서 놀 것을 늘 정하는 애 셋",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

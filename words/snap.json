@@ -1,0 +1,91 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/snap/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/snap/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "snap",
+ "slug": "snap",
+ "url": "https://hibbangyong.com/words/snap/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "딱 — 뭔가 끊기거나 맞물릴 때 아주 짧게 한순간 나는 소리",
+ "gloss_ko": "딱",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "마른 나뭇가지 밟아 봤어? 짧게 딱! 하고 소리 나지.",
+  "근데 부러질 때만 그런 거 아니야. 상자 뚜껑 맞물려 닫힐 때도, 손가락 튕길 때도 그래.",
+  "쿵- 하고 길게 울리는 소리랑은 달라. 눈 깜짝할 새에 시작하고 끝나거든?",
+  "그 한순간 짧게 나는 소리, 그게 snap이야."
+ ],
+ "scene": "마른 나뭇가지를 밟아 짧게 부러지는 순간",
+ "examples": [
+  {
+   "en": "The box lid shut with a snap.",
+   "ko": "상자 뚜껑이 딱 소리를 내며 닫혔어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "형이 고무줄을 양쪽으로 힘껏 당겼더니 가운데가 끊어졌어. 이때 난 소리를 'snap'이라고 할 수 있을까?",
+   "choices": [
+    "응, snap 맞아",
+    "아니, snap 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, snap 맞아",
+   "why": "맞아! 고무줄이 팽팽하다가 뚝 끊어지는 그 순간, 짧게 한 번 소리 나잖아. 눈 깜짝할 새에 시작하고 끝나는 그 소리가 바로 snap이야."
+  },
+  {
+   "type": "ox",
+   "question": "천둥이 치더니 하늘에서 우르릉- 하고 크고 길게 울리는 소리가 한참 이어졌어. 이런 경우도 'snap'이야?",
+   "choices": [
+    "응, 'snap' 맞아",
+    "아니, 'snap' 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 'snap' 아니야",
+   "why": "그렇지, 아니야가 맞아! 우르릉- 하고 한참 이어지는 소리는 시작하고 끝날 때까지 시간이 꽤 걸리잖아. snap은 눈 깜짝할 새에 딱 하고 끝나는 소리라서, 이렇게 길게 끄는 천둥소리는 snap이 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "누나가 샤워기를 틀자 욕실에 물이 쏟아지는 소리가 났어. 이 소리를 'snap'이라고 할 수 있을까?",
+   "choices": [
+    "응, snap 맞아",
+    "아니, snap 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, snap 아니야",
+   "why": "맞아! 샤워 물소리는 계속 이어지면서 쏴아- 하고 나는 소리잖아. snap은 눈 깜짝할 새에 딱! 하고 끝나는 소리라서, 이렇게 계속 나는 물소리는 snap이 아닌 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "crack",
+   "kind": "confusable",
+   "from": "vs crack"
+  }
+ ],
+ "related_scene": [
+  "branch"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-snap",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-snap"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/snap.webp",
+  "alt": "마른 나뭇가지를 밟아 짧게 부러지는 순간",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

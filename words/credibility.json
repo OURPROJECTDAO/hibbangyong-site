@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/credibility/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/credibility/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "credibility",
+ "slug": "credibility",
+ "url": "https://hibbangyong.com/words/credibility/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "신뢰성 — 사람이나 말, 자료를 남들이 믿어도 되겠다고 여기는 정도",
+ "gloss_ko": "믿어도 될 만한 정도",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "똑같은 말이라도 누가 했는지에 따라 사람들이 믿는 정도가 달라.",
+  "'내일 시험 없대.' 이 말을 자주 거짓말하던 애가 하면 아무도 안 믿어. 늘 맞는 말만 하던 반장이 하면 다들 믿지.",
+  "이렇게 믿어도 되겠다 싶은 정도가 credibility야. 사람한테만 쓰는 말이 아니야. 뉴스, 연구 결과, 누군가의 주장에도 쓰고, 생기기도 하고 잃기도 해.",
+  "정직함이랑은 달라. 속으로는 진짜 정직해도 남들이 믿을 근거가 없으면 credibility는 낮아."
+ ],
+ "scene": "거짓말 잘하는 애와 반장이 똑같이 '내일 시험 없대'라고 말하는 장면",
+ "examples": [
+  {
+   "en": "The scientist's new data gave her idea more credibility.",
+   "ko": "그 과학자가 새 자료를 내놓으니까 사람들이 그 생각을 더 믿게 됐어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "동네 자전거 수리점 아저씨가 고쳐 준 자전거는 10년 동안 다시 고장 난 적이 한 번도 없어. 그래서 아저씨가 \"이 부품은 바꿔야 해\"라고 하면 동네 사람들은 그 말을 그대로 믿어. 동네 사람들이 아저씨 말을 믿어도 되겠다고 보는 이 정도, 이게 아저씨의 'credibility'야?",
+   "choices": [
+    "응, credibility 맞아",
+    "아니, credibility 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, credibility 맞아",
+   "why": "맞아! 아저씨가 고친 자전거가 10년 동안 한 번도 다시 고장 난 적이 없으니까, 동네 사람들이 아저씨 말을 그대로 믿는 거잖아. 남들이 믿어도 되겠다고 보는 그 정도가 바로 credibility야."
+  },
+  {
+   "type": "choice",
+   "question": "다음 네 가지 일 가운데 준호의 'credibility'가 올라갔다고 할 수 있는 경우는?",
+   "choices": [
+    "반 대표 선거에서 애들이 준호를 좋아해서 준호가 표를 제일 많이 받았어",
+    "준호가 말한 날씨 예보가 딱 맞아서 애들이 다음부터 준호 말을 믿기로 했어",
+    "준호가 주운 지갑을 아무도 모르게 주인에게 몰래 돌려줬어",
+    "준호가 친구 말을 믿지 못해서 그게 맞는지 직접 찾아 확인했어"
+   ],
+   "answer_index": 1,
+   "answer": "준호가 말한 날씨 예보가 딱 맞아서 애들이 다음부터 준호 말을 믿기로 했어",
+   "why": "맞아! 준호가 말한 날씨 예보가 딱 맞으니까 애들이 다음부터 준호 말을 믿기로 했잖아. 남들이 준호 말을 믿어도 되겠다고 여기게 된 거니까, 바로 그게 credibility가 올라간 거야."
+  },
+  {
+   "type": "ox",
+   "question": "민재는 친구가 무슨 말을 하든 의심하지 않고 일단 믿는 성격이야. 친구가 \"급식에 오늘 치킨 나온대\"라고 하면 바로 믿고 신나 해. 민재가 남의 말을 잘 믿는 이 마음, 이게 민재의 'credibility'야?",
+   "choices": [
+    "응, credibility 맞아",
+    "아니, credibility 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, credibility 아니야",
+   "why": "잘 골랐어! 민재는 남의 말을 잘 믿는 쪽이잖아. credibility는 거꾸로 남들이 민재를 믿어도 되겠다고 보는 정도라서, 민재가 친구를 믿는 이 마음은 credibility가 아니야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "plausibility",
+   "kind": "confusable",
+   "from": "vs plausibility"
+  }
+ ],
+ "related_scene": [
+  "credible"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-credibility",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-credibility"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/credibility.webp",
+  "alt": "거짓말 잘하는 애와 반장이 똑같이 '내일 시험 없대'라고 말하는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

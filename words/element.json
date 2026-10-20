@@ -1,0 +1,100 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/element/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/element/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "element",
+ "slug": "element",
+ "url": "https://hibbangyong.com/words/element/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "무언가를 이루는 하나하나의 부분",
+ "gloss_ko": "이루는 하나하나의 부분",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "로봇 하나를 만든다고 해봐. 바퀴, 팔, 눈, 버튼…",
+  "이런 부품 하나하나가 들어가야 비로소 로봇이 되거든?",
+  "근데 만질 수 있는 부품만 그런 게 아니야. 이야기를 재밌게 하는 '깜짝 놀람' 같은 것도 한 부분이지.",
+  "이렇게 뭔가를 이루는 부분 하나하나, 그게 element야."
+ ],
+ "scene": "로봇—바퀴·팔·버튼 부품 하나하나가 모여 로봇이 됨(+이야기의 '놀람'도 한 부분).",
+ "examples": [
+  {
+   "en": "Surprise is an exciting element of a good story.",
+   "ko": "놀라움은 좋은 이야기를 이루는 신나는 한 부분이야."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "동생이 블록을 하나하나 다 쌓아서 멋진 성을 완성했어. 다 만들어진 이 성이 element야?",
+   "choices": [
+    "응, 맞아.",
+    "아니, 아니야."
+   ],
+   "answer_index": 1,
+   "answer": "아니, 아니야.",
+   "why": "맞아! 다 지어진 성은 부분들이 합쳐진 결과물 전체라서, 부분 하나하나를 가리키는 element가 아닌 게 맞아. 성을 이루는 블록 하나가 element거든."
+  },
+  {
+   "type": "choice",
+   "question": "피자 한 판을 만들고 있어. 다음 중 이 피자의 'element'에 해당하는 것은?",
+   "choices": [
+    "피자를 접시째 통째로 다 먹는 일",
+    "피자가 식탁에 놓인 시각 6시",
+    "피자 위에 올린 치즈 한 가지",
+    "다 구워져 완성된 피자 한 판 전체"
+   ],
+   "answer_index": 2,
+   "answer": "피자 위에 올린 치즈 한 가지",
+   "why": "맞아! 치즈는 피자 위에 올리는 하나하나의 부품이거든. 이렇게 피자를 이루는 한 조각 같은 게 바로 element야."
+  },
+  {
+   "type": "choice",
+   "question": "다음 중 무엇을 컴퓨터의 'element'라고 하면 알맞을까?",
+   "choices": [
+    "컴퓨터에 끼워 넣는 키보드",
+    "키보드까지 다 끼워 완성한 컴퓨터",
+    "가게에 진열된 컴퓨터 완제품",
+    "방금 새로 산 컴퓨터 한 대"
+   ],
+   "answer_index": 0,
+   "answer": "컴퓨터에 끼워 넣는 키보드",
+   "why": "맞아! 키보드는 컴퓨터 안에 쏙 들어가서 컴퓨터를 이루는 부품 하나잖아. 이렇게 뭔가를 이루는 한 부분, 그게 바로 element인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "part",
+   "kind": "confusable",
+   "from": "vs part"
+  },
+  {
+   "word": "factor",
+   "kind": "confusable",
+   "from": "vs factor"
+  }
+ ],
+ "related_scene": [
+  "system"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-element",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-element"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/element.webp",
+  "alt": "로봇—바퀴·팔·버튼 부품 하나하나가 모여 로봇이 됨(+이야기의 '놀람'도 한 부분).",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

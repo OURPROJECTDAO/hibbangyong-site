@@ -1,0 +1,75 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/whale/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/whale/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "whale",
+ "slug": "whale",
+ "url": "https://hibbangyong.com/words/whale/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "고래 — 바다에 사는 아주 커다란 동물",
+ "gloss_ko": "고래",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "바다에 사는 아주 커다란 동물이에요. 등에서 물을 뿜기도 해요.",
+  "물고기처럼 보이지만 우리처럼 숨을 쉬려고 가끔 물 위로 올라와요."
+ ],
+ "scene": "바다 위 수면에서 등에서 물을 뿜는 커다랗고 통통한 파란 고래 한 마리(고래=동물 그 자체)",
+ "examples": [
+  {
+   "en": "We saw a huge whale jump out of the sea.",
+   "ko": "우리는 아주 커다란 고래가 바다에서 뛰어오르는 걸 봤어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "바다에서 아주 커다란 동물이 물 위로 올라와 등에서 물을 뿜었어. 이 동물을 'whale'이라고 해?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 맞아",
+   "why": null
+  },
+  {
+   "type": "choice",
+   "question": "다음 중 'whale'은 어느 거야?",
+   "choices": [
+    "바다에서 헤엄치며 물을 뿜는 아주 커다란 동물",
+    "나무에 열리는 노란 과일",
+    "하늘을 나는 쇠로 만든 것",
+    "가족이 사는 작은 집"
+   ],
+   "answer_index": 0,
+   "answer": "바다에서 헤엄치며 물을 뿜는 아주 커다란 동물",
+   "why": null
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "dolphin",
+  "huge"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-whale",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-whale"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/whale.webp",
+  "alt": "바다 위 수면에서 등에서 물을 뿜는 커다랗고 통통한 파란 고래 한 마리(고래=동물 그 자체)",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

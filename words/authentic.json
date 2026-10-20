@@ -1,0 +1,63 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/authentic/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/authentic/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "authentic",
+ "slug": "authentic",
+ "url": "https://hibbangyong.com/words/authentic/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "진짜인 — 흉내 낸 가짜·짝퉁이 아니라, 진짜 바로 그것인.",
+ "gloss_ko": "진짜인",
+ "level": {
+  "code": "L6",
+  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "가게에 똑같은 인형이 잔뜩 쌓여 있어도, 흉내 낸 짝퉁이 아니라 진짜 그거인 인형은 딱 하나거든?",
+  "나머지는 그걸 보고 비슷하게 따라 만든 가짜야.",
+  "물건만 그런 게 아니야 — 웃음도, 억지로 짓는 게 아니라 속에서 진짜로 나온 거면 authentic한 웃음이고.",
+  "흉내가 아니라 진짜 그것, 그게 authentic이야."
+ ],
+ "scene": "가게에 똑같은 인형이 잔뜩 쌓여 있고 그중 흉내 아닌 진짜 인형 딱 하나",
+ "examples": [
+  {
+   "en": "Grandma says this old drum is authentic — her own grandpa really made it long ago.",
+   "ko": "할머니가 그러는데, 이 오래된 북은 진짜배기래. 할머니의 할아버지가 아주 옛날에 직접 만든 거라서."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "그림 네 점이 있어. 어떤 게 'authentic'한 그림일까?",
+   "choices": [
+    "다른 사람이 그 그림을 똑같이 흉내 내서 베낀 그림",
+    "그런 그림이 세상에 맨 처음 생겼을 때의 모양",
+    "지금 벽에 실제로 걸려 있어서 손으로 만질 수 있는 그림",
+    "그 화가가 자기 손으로 직접 그려서 낸 그림"
+   ],
+   "answer_index": 3,
+   "answer": "그 화가가 자기 손으로 직접 그려서 낸 그림",
+   "why": "맞아! 그 화가가 자기 손으로 직접 그려서 낸 그림이니까, 흉내가 아니라 진짜 그 사람한테서 나온 거잖아. 그게 바로 authentic이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-authentic",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-authentic"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/authentic.webp",
+  "alt": "가게에 똑같은 인형이 잔뜩 쌓여 있고 그중 흉내 아닌 진짜 인형 딱 하나",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

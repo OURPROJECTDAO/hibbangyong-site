@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/flashback/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/flashback/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "flashback",
+ "slug": "flashback",
+ "url": "https://hibbangyong.com/words/flashback/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "회상 장면 — 이야기 도중에 그보다 앞서 있었던 일로 되돌아가서 보여 주는 장면",
+ "gloss_ko": "회상 장면",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "드라마든 영화든 소설이든, 이야기가 갑자기 전에 있었던 일로 확 넘어갈 때 있지? 몇 년 전일 수도 있고, 바로 그날 아침일 수도 있어.",
+  "지금 흐름을 잠깐 멈추고, 그보다 앞선 일로 돌아가서 그 장면을 직접 보여 주는 거. 그게 flashback이야.",
+  "앞으로 건너뛰는 거랑은 반대야. 인물이 옛날 얘기를 말로만 하는 것도, 본 걸 한 번 더 다시 보는 것도 아니야.",
+  "실제 사람한테도 써. 지난 일이 머릿속에서 갑자기 장면처럼 확 되살아나면 그것도 flashback이야."
+ ],
+ "scene": "드라마·영화·소설 중간에 이야기가 전에 있었던 일로 넘어가는 장면(몇 년 전 또는 그날 아침)",
+ "examples": [
+  {
+   "en": "In the middle of the fight scene, the drama showed a flashback to the day they first met.",
+   "ko": "둘이 싸우는 장면 한가운데서, 드라마가 둘이 처음 만난 날로 확 돌아가는 장면을 보여 줬어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "애니메이션 영화에서 주인공이 육상 대회 결승선 앞을 달리고 있어. 그런데 화면이 갑자기 일곱 살 때 동네 공터에서 처음 달리기 연습하던 모습으로 바뀌어서, 그때 일이 한동안 펼쳐져. 이 부분이 'flashback'이야?",
+   "choices": [
+    "응, flashback 맞아",
+    "아니, flashback 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, flashback 맞아",
+   "why": "맞아! 결승선 앞을 달리던 흐름을 잠깐 멈추고, 그보다 앞선 일곱 살 때 공터에서 연습하던 모습으로 돌아가서 그 장면을 직접 보여 주잖아. 바로 그게 flashback인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "웹툰에서 두 친구가 중학교 졸업식 날 운동장에 서 있어. 그런데 다음 컷이 갑자기 이십 년 뒤 어른이 된 두 사람이 회사 앞에서 다시 만나는 모습으로 바뀌어서, 그때 일이 한동안 펼쳐져. 이 부분이 'flashback'이야?",
+   "choices": [
+    "응, flashback 맞아",
+    "아니, flashback 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, flashback 아니야",
+   "why": "맞아! 졸업식 날에서 이십 년 뒤 회사 앞으로 넘어갔잖아. 그건 앞선 일로 되돌아간 게 아니라 뒤의 일로 앞으로 건너뛴 거라서 flashback이 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "시험 날 이야기가 나오는 소설을 읽고 있어. 다음 중 'flashback'이 들어간 부분은?",
+   "choices": [
+    "시험 끝난 날 저녁 이야기를 하다가, 글이 갑자기 그날 아침 교실로 가서 그때 일을 펼쳐 보였어",
+    "시험 보는 날 이야기를 하다가, 글이 갑자기 십 년 뒤 어른이 된 주인공 모습을 펼쳐 보였어",
+    "시험 끝난 날 저녁, 주인공이 엄마한테 그날 아침 교실에서 있었던 일을 짧게 말해 줬어",
+    "시험 끝난 날 저녁 이야기가 나온 장이 재밌어서, 그 장을 처음부터 한 번 더 읽었어"
+   ],
+   "answer_index": 0,
+   "answer": "시험 끝난 날 저녁 이야기를 하다가, 글이 갑자기 그날 아침 교실로 가서 그때 일을 펼쳐 보였어",
+   "why": "맞아! 시험 끝난 날 저녁 이야기를 하다가 글이 그보다 앞선 그날 아침 교실로 돌아가서 그때 일을 직접 펼쳐 보였잖아. 이렇게 지금 흐름을 멈추고 앞선 장면으로 돌아가서 보여 주는 게 바로 flashback이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-flashback",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-flashback"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/flashback.webp",
+  "alt": "드라마·영화·소설 중간에 이야기가 전에 있었던 일로 넘어가는 장면(몇 년 전 또는 그날 아침)",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/monitor/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/monitor/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "monitor",
+ "slug": "monitor",
+ "url": "https://hibbangyong.com/words/monitor/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "모니터 — 컴퓨터의 글자와 그림을 보여주는 네모난 화면",
+ "gloss_ko": "모니터",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "책상 위에 있는 이 네모난 화면이 monitor예요. 컴퓨터가 보여주는 글자와 그림이 여기에 나타나요.",
+  "집에서 컴퓨터를 켜면 제일 먼저 켜지는 화면이 바로 이거예요."
+ ],
+ "scene": "책상 위 컴퓨터 모니터(평면 LCD 화면) 한 대 — '모니터'의 가장 친숙한 사물 의미. 화면은 은은하게 빛나는 빈 화면(글자·아이콘 없음).",
+ "examples": [
+  {
+   "en": "She turned on the monitor to start the game.",
+   "ko": "그 애가 게임을 시작하려고 모니터를 켰어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "컴퓨터에 연결되어 글자와 그림을 보여주는 네모난 화면이 켜져 있어요. 이게 monitor야?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 맞아",
+   "why": null
+  },
+  {
+   "type": "choice",
+   "question": "monitor는 어느 것일까?",
+   "choices": [
+    "물을 끓여 국을 데우는 부엌의 뜨거운 냄비",
+    "컴퓨터에 연결해 글자와 그림을 보여주는 네모난 화면",
+    "몸을 씻을 때 문지르는 향기 나는 동그란 비누",
+    "마당에서 뛰노는 꼬리를 흔드는 작은 강아지"
+   ],
+   "answer_index": 1,
+   "answer": "컴퓨터에 연결해 글자와 그림을 보여주는 네모난 화면",
+   "why": null
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "screen"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-monitor",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-monitor"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/monitor.webp",
+  "alt": "책상 위 컴퓨터 모니터(평면 LCD 화면) 한 대 — '모니터'의 가장 친숙한 사물 의미. 화면은 은은하게 빛나는 빈 화면(글자·아이콘 없음).",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

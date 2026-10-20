@@ -1,0 +1,68 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/metal/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/metal/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "metal",
+ "slug": "metal",
+ "url": "https://hibbangyong.com/words/metal/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "쇠붙이 — 쇠·구리·금처럼 단단하고 반짝이는 재료",
+ "gloss_ko": "쇠붙이",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "숟가락을 손톱으로 톡 쳐봐. 띵! 하고 맑게 울리지?",
+  "그 숟가락이 뭘로 만들어졌냐면, 딱딱하고 반질반질한 거야. 나무도 아니고 돌도 아니고 플라스틱도 아니야.",
+  "열쇠도 그래. 못도, 동전도, 반지도. 색깔은 제각각인데 다 한 식구야. 은색이든 노란 금색이든 붉은 구리색이든 상관없어.",
+  "이렇게 톡 치면 울리고 반짝이는 그 재료, 이게 metal이야."
+ ],
+ "scene": "손톱으로 톡 쳐서 띵 울리는 숟가락",
+ "examples": [
+  {
+   "en": "My key is made of metal, so it feels cold in my hand.",
+   "ko": "내 열쇠는 쇠붙이로 만들어서 손에 쥐면 차가워."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "엄마가 부엌에서 네 가지를 꺼냈어. 이 중에서 'metal'로 만들어진 건 뭘까?",
+   "choices": [
+    "국을 뜨는 국자. 손잡이까지 온통 은색이고 손에 쥐면 서늘해",
+    "물을 담는 컵. 속이 훤히 비치고 바닥에 톡 치면 맑게 울려",
+    "빵을 자르는 도마. 결이 보이고 손에 쥐면 살짝 따뜻해",
+    "설거지할 때 쓰는 고무장갑. 말랑하고 늘어나고 물이 안 새"
+   ],
+   "answer_index": 0,
+   "answer": "국을 뜨는 국자. 손잡이까지 온통 은색이고 손에 쥐면 서늘해",
+   "why": "맞아! 온통 은색으로 반짝이고 손에 쥐면 서늘한 그 국자, 그게 바로 metal이야. 딱딱하고 반질반질하고 차가운 느낌, 숟가락이랑 똑같은 식구거든."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "coin",
+  "magnet",
+  "ore",
+  "silver"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-metal",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-metal"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/metal.webp",
+  "alt": "손톱으로 톡 쳐서 띵 울리는 숟가락",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

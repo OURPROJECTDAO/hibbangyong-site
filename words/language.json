@@ -1,0 +1,102 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/language/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/language/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "language",
+ "slug": "language",
+ "url": "https://hibbangyong.com/words/language/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "말 — 사람들이 뜻을 주고받으려고 함께 쓰기로 한 소리나 몸짓, 글자의 한 묶음",
+ "gloss_ko": "말",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "한국에 온 친구가 손을 흔들면서 뭐라뭐라 했는데, 너는 하나도 못 알아들었어. 근데 그 친구네 동네에선 다들 척척 알아듣거든? 그 소리 묶음이 걔네끼리 통하는 거야.",
+  "이런 묶음은 세상에 아주 많아. 한국말, 영어, 손으로 말하는 수어까지. 소리로만 있는 것도 아니야.",
+  "예쁜 말만 이 묶음인 것도 아니야. 화나서 지르는 말도, 거짓말도, 못된 말도 다 같은 묶음 안에 있어.",
+  "한 마디가 아니라 통째로 한 세트, 그게 language야."
+ ],
+ "scene": "못 알아듣는 외국 친구의 손짓과 말소리",
+ "examples": [
+  {
+   "en": "My grandma and I speak the same language, but she uses old words I have to ask about.",
+   "ko": "할머니랑 나는 같은 말을 쓰는데, 할머니는 내가 물어봐야 아는 옛말을 써."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "텔레비전을 켰더니 태국 방송이 나오고 있었어. 진행자가 쉬지 않고 말하는데 너는 한 마디도 못 알아들었어. 옆에 앉은 태국 아이는 그 방송을 보면서 고개를 끄덕였어. 진행자와 태국 아이가 함께 쓰는 그 태국말, 그게 'language'야?",
+   "choices": [
+    "응, language 맞아",
+    "아니, language 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, language 맞아",
+   "why": "맞아! 진행자가 하는 말을 옆에 앉은 태국 아이는 다 알아듣고 고개를 끄덕였잖아. 두 사람이 똑같이 쓰는 그 태국말 전체가 바로 language인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "형이 밥을 급하게 먹더니 식탁에서 딸꾹, 딸꾹 소리를 열 번쯤 냈어. 이게 'language'야?",
+   "choices": [
+    "응, language 맞아",
+    "아니, language 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, language 아니야",
+   "why": "맞아! 딸꾹질은 형이 뭘 말하려고 낸 소리가 아니라 그냥 몸에서 저절로 튀어나온 소리잖아. 그러니까 language가 아닌 게 맞아."
+  },
+  {
+   "type": "choice",
+   "question": "네 가지 소리가 있어. 이 중에 'language'라고 부를 수 있는 건 뭘까?",
+   "choices": [
+    "옆집 아저씨가 화가 나서 험한 말을 마구 퍼붓는 소리",
+    "낯선 개가 사람을 보고 사납게 짖어대는 소리",
+    "아기가 아직 아무 뜻 없이 옹알옹알 내는 소리",
+    "동생이 넘어져서 아프다고 크게 우는 소리"
+   ],
+   "answer_index": 0,
+   "answer": "옆집 아저씨가 화가 나서 험한 말을 마구 퍼붓는 소리",
+   "why": "맞아! 험한 말이라도 그건 사람들이 서로 알아듣기로 한 말 묶음 안에 있는 거거든. 곱든 험하든 뜻이 통하면 그게 language인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "voice",
+   "kind": "confusable",
+   "from": "vs voice"
+  },
+  {
+   "word": "speech",
+   "kind": "confusable",
+   "from": "vs speech"
+  }
+ ],
+ "related_scene": [
+  "colloquial",
+  "dictionary",
+  "linguistic",
+  "translate",
+  "vocabulary"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-language",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-language"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/language.webp",
+  "alt": "못 알아듣는 외국 친구의 손짓과 말소리",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

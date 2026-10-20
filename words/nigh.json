@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/nigh/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/nigh/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "nigh",
+ "slug": "nigh",
+ "url": "https://hibbangyong.com/words/nigh/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "가까이 — 때나 자리가 거의 다 와서 곧 닿을 만큼 가깝다는 옛말투 표현. well nigh 꼴로 쓰면 '거의'라는 뜻이 돼",
+ "gloss_ko": "곧 닿을 만큼 가까이",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "달력을 보니까 생일이 딱 사흘 남았어. 아직 안 왔는데 거의 다 왔지.",
+  "nigh는 이렇게 뭔가가 곧 닿을 만큼 가까이 와 있다는 말이야. 날짜만 그런 게 아니라 누가 내 쪽으로 가까이 다가올 때도 써. 반가운 날이든 싫은 시험이든 상관없어.",
+  "이미 와 있는 거랑은 달라. 아직 닿기 전이야. 그리고 well nigh라고 하면 '거의'라는 뜻이 돼.",
+  "요즘 말투는 아니고 옛이야기나 글에서 near 대신 나오는 느낌이야."
+ ],
+ "scene": "사흘 남은 생일을 달력으로 확인하는 장면",
+ "examples": [
+  {
+   "en": "The school festival is nigh, and our class still has no idea for a booth.",
+   "ko": "학교 축제가 코앞인데 우리 반은 아직 부스 아이디어가 하나도 없어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "버스 정류장 전광판에 '152번 버스 1분 후 도착'이라고 떠 있어. 버스는 아직 정류장에 안 들어왔어. 지금 이 버스 도착을 'nigh'라고 할 수 있어?",
+   "choices": [
+    "응, nigh 맞아",
+    "아니, nigh 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, nigh 맞아",
+   "why": "맞아! 전광판에 1분 후 도착이라고 떴고 버스는 아직 정류장에 안 들어왔잖아. 아직 안 닿았지만 곧 닿을 만큼 가까이 와 있으니까 바로 그게 nigh인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "올해 설날은 벌써 여덟 달 전에 지나갔어. 오늘을 기준으로 그 설날을 'nigh'라고 할 수 있어?",
+   "choices": [
+    "응, nigh 맞아",
+    "아니, nigh 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, nigh 아니야",
+   "why": "맞아! 설날은 여덟 달 전에 벌써 지나갔잖아. nigh는 아직 안 왔는데 곧 닿을 만큼 가까이 와 있을 때 쓰는 말이라서, 이미 한참 전에 끝난 날에는 안 맞아."
+  },
+  {
+   "type": "choice",
+   "question": "달력에 행사 네 개가 적혀 있어. 오늘을 기준으로 'nigh'라고 부를 수 있는 건 어느 거야?",
+   "choices": [
+    "사흘 뒤에 열리는 친구 생일잔치",
+    "작년 가을에 열렸던 학교 운동회",
+    "오 년 뒤에 열리는 중학교 졸업식",
+    "바로 지금 열리고 있는 체육대회"
+   ],
+   "answer_index": 0,
+   "answer": "사흘 뒤에 열리는 친구 생일잔치",
+   "why": "맞아! 친구 생일잔치는 아직 안 열렸지만 사흘 뒤면 열리니까 곧 닿을 만큼 가까이 와 있잖아. 이렇게 거의 다 온 날을 nigh라고 하는 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-nigh",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-nigh"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/nigh.webp",
+  "alt": "사흘 남은 생일을 달력으로 확인하는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

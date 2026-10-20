@@ -1,0 +1,66 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/stack/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/stack/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "stack",
+ "slug": "stack",
+ "url": "https://hibbangyong.com/words/stack/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "위로 하나씩 포개 올린 한 덩어리",
+ "gloss_ko": "포개 올린 더미",
+ "level": {
+  "code": "L4",
+  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "설거지한 접시, 하나 위에 또 하나 차곡차곡 포개 올리잖아?",
+  "그렇게 위로 포개 올린 한 덩어리를 말해.",
+  "옆으로 늘어놓거나 펼친 게 아니라, 위로 하나씩 올린 거거든.",
+  "두 개든 열 개든, 위로 포개지면 그게 stack이야."
+ ],
+ "scene": "접시를 하나씩 포개 위로 올린 한 더미.",
+ "examples": [
+  {
+   "en": "There is a tall stack of books on my desk.",
+   "ko": "내 책상 위엔 책이 높이 쌓여 있어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "민수가 책 여러 권을 책상에 깔끔하게 정리했어. 네 가지 정리 방법 중 'stack'이라고 부를 수 있는 건?",
+   "choices": [
+    "한 권 위에 또 한 권, 위로 포개 올렸어",
+    "옆으로 나란히 한 줄로 세워 꽂았어",
+    "책상 위에 빙 둘러 동그랗게 놨어",
+    "바둑판처럼 칸칸이 펼쳐서 깔았어"
+   ],
+   "answer_index": 0,
+   "answer": "한 권 위에 또 한 권, 위로 포개 올렸어",
+   "why": "맞아! 한 권 위에 또 한 권 위로 차곡차곡 포개 올렸지? 옆도 아니고 펼친 것도 아니라 위로 쌓아 올린 한 덩어리, 그게 바로 stack이야."
+  }
+ ],
+ "synonyms": [
+  "lot",
+  "mass"
+ ],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-stack",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-stack"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/stack.webp",
+  "alt": "접시를 하나씩 포개 위로 올린 한 더미.",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

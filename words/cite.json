@@ -1,0 +1,98 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/cite/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/cite/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "cite",
+ "slug": "cite",
+ "url": "https://hibbangyong.com/words/cite/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "누가 한 말이나 진짜 있었던 일을, 어디서 나왔는지 밝히며 내 말을 뒷받침하려고 끌어오다",
+ "gloss_ko": "출처 밝혀 끌어오다",
+ "level": {
+  "code": "L6",
+  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "동생이 저녁 전에 과자를 꺼냈어. 그때 네가 그랬지. 엄마가 저녁 전엔 안 된다고 하셨잖아, 하고.",
+  "봐봐, 네 말이 아니라 엄마 말이야. 누가 한 말인지까지 딱 밝히면서 끌어왔지.",
+  "책에서 읽은 거든, 규칙이든, 진짜 있었던 일이든 똑같아. 어디서 가져왔는지 밝히고 내 말을 뒷받침하는 거야.",
+  "그냥 따라 옮기기만 하는 거랑은 달라. 내 말을 뒷받침해야, 그게 cite야."
+ ],
+ "scene": "저녁 전 과자를 꺼낸 동생에게 엄마가 정한 규칙을 끌어다 대는 장면",
+ "examples": [
+  {
+   "en": "I cited Mom's rule when my brother tried to grab a cookie before dinner.",
+   "ko": "동생이 저녁 전에 과자를 집으려 하길래 나는 엄마 규칙을 끌어다 댔어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "학교 화단에 물을 주자는 얘기가 나왔어. 지호가 \"과학책에 봉숭아는 아침에 물을 줘야 잘 자란다고 쓰여 있었어\" 하면서 그 책을 펴서 그 줄을 짚었어. 지호가 한 게 'cite'야?",
+   "choices": [
+    "응, cite 맞아",
+    "아니, cite 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, cite 맞아",
+   "why": "맞아! 지호는 아침에 물을 주자는 자기 말이 맞다는 걸 보여 주려고, 과학책에 쓰여 있다고 어디서 나온 말인지 밝혔거든. 과학책을 펴서 그 줄까지 짚었으니까 바로 그게 cite인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "쉬는 시간에 줄넘기를 두 명씩 하자는 얘기가 나왔어. 민우가 \"두 명씩 하면 더 빨리 돌아가\" 하고 말했는데, 사실 그건 어제 형한테서 들은 말이야. 그런데 형 얘기는 빼고 자기가 생각해낸 것처럼 말했어. 민우가 한 게 'cite'야?",
+   "choices": [
+    "응, cite 맞아",
+    "아니, cite 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, cite 아니야",
+   "why": "맞아! 민우는 어제 형한테 들은 말을 쓰면서 형 얘기는 빼고 자기가 생각해낸 것처럼 말했거든. cite는 누가 한 말인지 꼭 밝히면서 쓰는 거라서, 민우가 한 건 cite가 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "동생이 놀이터 미끄럼틀을 거꾸로 기어 올라가려고 했어. 네가 어제 관리 아저씨가 거꾸로 올라가면 위험하니 안 된다고 하셨다고 말하면서, 그러니까 내려와서 계단으로 가라고 했어. 책은 한 권도 안 봤어. 이런 경우도 'cite'야?",
+   "choices": [
+    "응, 'cite' 맞아",
+    "아니, 'cite' 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 'cite' 맞아",
+   "why": "맞아! 네가 한 말이 아니라 어제 관리 아저씨가 하신 말을 가져왔고, 누가 한 말인지도 밝혔잖아. 그 말을 동생한테 내려와서 계단으로 가라고 한 이유로 썼으니까, 바로 그게 cite인 거야."
+  }
+ ],
+ "synonyms": [
+  "refer"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "quote",
+   "kind": "confusable",
+   "from": "vs quote"
+  },
+  {
+   "word": "refer",
+   "kind": "confusable",
+   "from": "vs refer"
+  }
+ ],
+ "related_scene": [
+  "footnote"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-cite",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-cite"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/cite.webp",
+  "alt": "저녁 전 과자를 꺼낸 동생에게 엄마가 정한 규칙을 끌어다 대는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/funeral/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/funeral/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "funeral",
+ "slug": "funeral",
+ "url": "https://hibbangyong.com/words/funeral/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "장례식 — 누가 죽었을 때, 그 사람을 보내주려고 치르는 그날 그 자리",
+ "gloss_ko": "장례식",
+ "level": {
+  "code": "L4",
+  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "누가 죽으면 그 사람 몸을 보내주는 날이 와. 땅에 묻기도 하고, 태우기도 하고. 그날 사람들이 순서를 정해 놓고 하는 게 있거든?",
+  "노래를 부르기도 하고, 한 사람씩 나와서 인사도 해. 내내 우는 날일 때도 있고, 웃긴 얘기 하면서 보내주는 날일 때도 있어.",
+  "수천 명이 줄 서서 지켜보는 날일 수도 있고, 딱 두 명만 서 있는 날일 수도 있어. 사람 수는 상관없어.",
+  "슬픈 마음 자체도 아니고, 묻은 자리에 세운 돌도 아니야. 그 사람을 보내주려고 치르는 그날 그 자리 — 그게 funeral이야."
+ ],
+ "scene": "누가 죽은 사람의 몸을 땅에 묻거나 태워 보내주면서 순서를 정해 놓고 치르는 날",
+ "examples": [
+  {
+   "en": "Only five people came to Grandpa's funeral, but we did it just the way he wanted.",
+   "ko": "할아버지 장례식엔 다섯 명밖에 안 왔지만 원하시던 대로 해 드렸어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "옆집 아저씨가 돌아가셨어. 정해진 시각에 사람들이 검은 옷을 입고 한자리에 모였고, 아저씨 몸을 관에 넣어 앞에 놓은 다음, 적어 온 순서대로 인사를 하고 그 관을 태우러 보냈어. 이게 'funeral'이야?",
+   "choices": [
+    "응, funeral 맞아",
+    "아니, funeral 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, funeral 맞아",
+   "why": "맞아! 아저씨가 돌아가셔서, 사람들이 시각 맞춰 모여서 몸을 앞에 두고 순서대로 인사하고 보내드렸잖아. 그렇게 그 사람을 보내주려고 치르는 그날 그 자리, 그게 바로 funeral인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "할머니가 돌아가신 뒤 며칠 동안 있었던 일 네 가지야. 이 중에서 'funeral'인 날은?",
+   "choices": [
+    "할머니 관을 앞에 두고 사람들이 노래를 부른 다음, 그 관을 땅에 내려놓은 날",
+    "삼촌이 혼자 방에 앉아 할머니 사진을 보면서 한참을 울었던 날",
+    "할머니가 묻힌 곳에 이름을 새긴 돌을 세우고 꽃을 놓고 온 날",
+    "가족들이 할머니가 아끼던 물건을 하나씩 나눠 가지려고 모인 날"
+   ],
+   "answer_index": 0,
+   "answer": "할머니 관을 앞에 두고 사람들이 노래를 부른 다음, 그 관을 땅에 내려놓은 날",
+   "why": "맞아! 관을 앞에 두고 노래를 부르고, 그 관을 땅에 내려놓았잖아. 할머니 몸을 보내주면서 사람들이 순서대로 치른 그날 그 자리 — 바로 그게 funeral인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "이모가 돌아가시고 한 달이 지난 어느 날, 친척들이 이모 집 거실에 모였어. 이모 몸은 이미 오래전에 보내드렸고, 이 날은 앨범을 펼쳐 놓고 이모 사진을 한 장씩 보면서 이야기를 나눴어. 이게 'funeral'이야?",
+   "choices": [
+    "응, funeral 맞아",
+    "아니, funeral 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, funeral 아니야",
+   "why": "맞아! 이모 몸은 이미 오래전에 보내드렸잖아. funeral은 그 사람 몸을 보내주는 그날 그 자리인데, 이 날은 그게 아니라 그냥 앨범 보면서 이모 이야기 나눈 날이거든. 그래서 funeral이 아닌 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "priest",
+  "rite"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-funeral",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-funeral"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/funeral.webp",
+  "alt": "누가 죽은 사람의 몸을 땅에 묻거나 태워 보내주면서 순서를 정해 놓고 치르는 날",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

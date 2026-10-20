@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/repertoire/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/repertoire/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "repertoire",
+ "slug": "repertoire",
+ "url": "https://hibbangyong.com/words/repertoire/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "레퍼토리 — 한 사람이나 팀이 할 줄 알아서 언제든 꺼내 보일 수 있는 곡이나 재주 전부",
+ "gloss_ko": "할 줄 아는 것 목록",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "노래방 가면 친구마다 부를 줄 아는 노래가 딱 정해져 있잖아.",
+  "그 노래들 전부, 언제든 꺼내 부를 수 있는 그 목록 전체가 repertoire야.",
+  "노래만 되는 게 아니야. 할 줄 아는 요리, 농구 기술, 아빠의 아재개그 모음도 다 repertoire야.",
+  "오늘 고른 한 곡이나 아직 연습 중인 건 달라. 이미 몸에 익어서 언제든 꺼낼 수 있는 것만 들어가."
+ ],
+ "scene": "노래방에서 친구마다 부를 줄 아는 노래 목록",
+ "examples": [
+  {
+   "en": "My little brother has only three jokes in his repertoire, and we've heard them all a hundred times.",
+   "ko": "내 남동생은 할 줄 아는 농담이 딱 세 개뿐이라, 우리 다 백 번은 들었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "수아는 피아노 곡 여섯 개를 악보 없이도 언제든 칠 수 있어. 이 여섯 곡 전체가 수아의 피아노 'repertoire'야?",
+   "choices": [
+    "응, repertoire 맞아",
+    "아니, repertoire 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, repertoire 맞아",
+   "why": "맞아! 수아는 그 여섯 곡을 악보 없이도 언제든 칠 수 있잖아. 이미 손에 익어서 언제든 꺼내 칠 수 있는 곡 전체니까, 그 여섯 곡이 바로 수아의 피아노 repertoire야."
+  },
+  {
+   "type": "ox",
+   "question": "민재는 영상에서 본 카드 마술 세 개를 아직 한 번도 성공 못 했는데, 언젠가 해 보고 싶대. 이 세 개가 민재의 마술 'repertoire'야?",
+   "choices": [
+    "응, repertoire 맞아",
+    "아니, repertoire 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, repertoire 아니야",
+   "why": "맞아! 민재는 그 카드 마술 세 개를 아직 한 번도 성공 못 했잖아. repertoire는 이미 할 줄 알아서 언제든 꺼내 보일 수 있는 것만 들어가니까, 해 보고 싶기만 한 마술은 아직 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "지민이는 스케이트보드를 3년 탔어. 알리, 킥플립, 매뉴얼, 쇼빗, 50-50 그라인드 이 다섯 가지 기술은 언제 해 봐도 거의 다 성공해. 지민이가 이렇게 언제든 해낼 수 있는 기술 다섯 가지 전부를 가리킬 때도 'repertoire'라고 할 수 있어?",
+   "choices": [
+    "응, repertoire 맞아",
+    "아니, repertoire 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, repertoire 맞아",
+   "why": "맞아! 지민이가 3년 타면서 몸에 익혀서 언제 해 봐도 거의 다 성공하는 기술 다섯 가지 전부니까, 그게 바로 지민이의 repertoire야. 노래가 아니라 스케이트보드 기술이어도 똑같이 쓸 수 있어."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "collection",
+   "kind": "confusable",
+   "from": "vs collection"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-repertoire",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-repertoire"
+ },
+ "image": null
+}

@@ -1,0 +1,95 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/antiquity/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/antiquity/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "antiquity",
+ "slug": "antiquity",
+ "url": "https://hibbangyong.com/words/antiquity/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "고대 — 수천 년 전, 이집트·그리스·로마 같은 옛 문명이 있던 아주 먼 옛 시대",
+ "gloss_ko": "아주 먼 옛 시대",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "역사 연표에서 사람이 글로 기록을 남기기 시작한 맨 앞쪽, 수천 년 전 시대가 있지.",
+  "이집트·그리스·로마 같은 옛 문명이 있던 그 시대를 antiquity라고 해.",
+  "공룡 시대는 사람 기록이 없으니까 너무 멀고, 성에 살던 기사나 조선 시대는 한참 뒤라 너무 가까워.",
+  "antiquities처럼 여러 개로 쓰면 그 시대에 남긴 유물을 말하고, 어떤 풍습이 아주 오래됐다는 걸 말할 때도 써."
+ ],
+ "scene": "역사 연표 맨 앞쪽(기록이 시작된 수천 년 전)",
+ "examples": [
+  {
+   "en": "People have played board games since antiquity.",
+   "ko": "사람들은 아주 먼 고대 때부터 보드게임을 해 왔어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "타임머신 영화에서 주인공이 도착한 곳은 사람들이 스마트폰으로 영상 통화를 하고 전기차를 타고 다니는 시대야. 이 시대는 'antiquity'야?",
+   "choices": [
+    "응, antiquity 맞아",
+    "아니, antiquity 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, antiquity 아니야",
+   "why": "맞아! 스마트폰으로 영상 통화하고 전기차 타는 건 지금 우리 시대 모습이라서, 수천 년 전 이집트·그리스·로마 같은 옛 문명이 있던 antiquity랑은 완전 반대쪽 끝이야. 그러니까 antiquity 아닌 게 딱 맞지."
+  },
+  {
+   "type": "choice",
+   "question": "과학관에 시대별 전시실이 있어. 'antiquity' 전시실에 걸려 있을 그림은?",
+   "choices": [
+    "그리스 신전 앞에서 사람들이 제사를 지내는 그림",
+    "사람들이 스마트폰으로 영상 통화를 하는 그림",
+    "우주인들이 화성 기지에서 일하는 상상 그림",
+    "증기기관차가 처음 철로를 달리는 그림"
+   ],
+   "answer_index": 0,
+   "answer": "그리스 신전 앞에서 사람들이 제사를 지내는 그림",
+   "why": "맞아! 그리스 신전 앞에서 사람들이 제사를 지내던 건 수천 년 전 그리스 문명 때 일이라서, 바로 그게 antiquity 전시실에 걸릴 그림인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "친구들이 역사 발표 주제를 정했어. 'antiquity'의 시대를 다루는 주제를 고른 친구는?",
+   "choices": [
+    "콜로세움에서 검투사들이 싸우던 시절",
+    "성에 살던 기사들이 말 타고 싸우던 시절",
+    "공룡들이 땅 위를 걸어 다니던 시절",
+    "조선 선비들이 과거 시험을 보던 시절"
+   ],
+   "answer_index": 0,
+   "answer": "콜로세움에서 검투사들이 싸우던 시절",
+   "why": "맞아! 콜로세움은 수천 년 전 로마 사람들이 지은 곳이라, 검투사들이 거기서 싸우던 시절이 바로 antiquity야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "antique",
+   "kind": "confusable",
+   "from": "vs antique"
+  }
+ ],
+ "related_scene": [
+  "relic"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-antiquity",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-antiquity"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/antiquity.webp",
+  "alt": "역사 연표 맨 앞쪽(기록이 시작된 수천 년 전)",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

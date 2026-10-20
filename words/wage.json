@@ -1,0 +1,97 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/wage/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/wage/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "wage",
+ "slug": "wage",
+ "url": "https://hibbangyong.com/words/wage/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "일한 값으로 받는 돈. 놀아서가 아니라 일해서 버는 돈이야.",
+ "gloss_ko": "일해서 받는 돈",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "삼촌이 빵집에서 일하거든? 하루 종일 반죽하고 나면, 사장님이 일한 값으로 돈을 줘.",
+  "그냥 놀아서 받는 게 아니야. 일한 만큼 받는 돈이거든.",
+  "많이 일하면 더 받기도 하고, 적게 일하면 적게 받기도 해.",
+  "그게 wage야."
+ ],
+ "scene": "빵집에서 하루 종일 일하고 사장님에게 받는 돈",
+ "examples": [
+  {
+   "en": "My uncle gets his wage every Friday for working at the bakery.",
+   "ko": "삼촌은 빵집에서 일하고 금요일마다 일한 값으로 돈을 받아."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "네 친구들이 각자 돈을 어떻게 얻었는지 말했어. 이 중에서 'wage'라고 부를 수 있는 돈은 누구 거야?",
+   "choices": [
+    "민수가 카페 일을 돕고 사장님에게 받은 돈",
+    "할머니가 생일에 그냥 쥐어 준 용돈",
+    "달리기 시합에서 1등 해서 받은 상금",
+    "장난감 사느라 지갑에서 꺼내 쓴 돈"
+   ],
+   "answer_index": 0,
+   "answer": "민수가 카페 일을 돕고 사장님에게 받은 돈",
+   "why": "맞아! 민수는 카페에서 일을 돕고, 그 일한 값으로 사장님한테 돈을 받았거든. 그래서 바로 그게 wage인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 사촌 형이 돈을 어떻게 받았는지 얘기해. 이 중에서 'wage'는 어느 거야?",
+   "choices": [
+    "형이 세탁소에서 옷을 개고 사장님에게 매주 받는 돈",
+    "형이 길을 걷다 바닥에서 주운 돈",
+    "형이 안 쓰는 자전거를 이웃에게 팔고 받은 돈",
+    "형이 삼촌 집에 놀러 갔다가 그냥 받은 돈"
+   ],
+   "answer_index": 0,
+   "answer": "형이 세탁소에서 옷을 개고 사장님에게 매주 받는 돈",
+   "why": "맞아! 옷 개는 일을 해서, 그 일한 값으로 매주 돈을 받은 거잖아. 일한 만큼 받는 그 돈이 바로 wage인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "삼촌은 지난달에 빵집에서 일해서 번 돈이랑, 은행에 맡겨 둔 돈에 붙은 이자랑, 친척이 보내 준 축하금까지 다 합쳐서 계산했어. 이 합친 돈 전부를 'wage'라고 불러도 돼?",
+   "choices": [
+    "응, 전부 wage라고 해도 돼",
+    "아니, 전부 wage는 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 전부 wage는 아니야",
+   "why": "맞아! 빵집에서 반죽하고 받은 돈만 일한 값이거든. 은행 이자랑 축하금은 삼촌이 일해서 번 게 아니라 그냥 들어온 돈이야. 그러니까 다 합친 걸 wage라고는 못 불러."
+  }
+ ],
+ "synonyms": [
+  "salary"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "income",
+   "kind": "confusable",
+   "from": "vs income"
+  }
+ ],
+ "related_scene": [
+  "earn"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-wage",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-wage"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/wage.webp",
+  "alt": "빵집에서 하루 종일 일하고 사장님에게 받는 돈",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/firewall/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/firewall/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "firewall",
+ "slug": "firewall",
+ "url": "https://hibbangyong.com/words/firewall/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "방화벽 — 인터넷과 컴퓨터 사이에서 허락 안 된 연결이 넘나들지 못하게 막아 주는 장치",
+ "gloss_ko": "방화벽",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "게임을 켰는데 서버에 접속이 안 돼서 봤더니, 컴퓨터가 그 연결을 막아 놨더라.",
+  "인터넷과 내 컴퓨터 사이에 서서, 들어오고 나가는 연결을 하나하나 검사하는 게 있어.",
+  "허락 안 된 건 길목에서 막아. 그래서 가끔 멀쩡한 연결도 같이 걸려.",
+  "이미 들어온 바이러스를 찾아 지우는 백신이랑은 달라. 이건 들어오기 전에 길목에서 막는 쪽이야. 원래 불이 옆으로 번지지 않게 막는 벽(fire+wall)에서 온 말이야."
+ ],
+ "scene": "게임 서버 접속이 컴퓨터 쪽에서 막힘",
+ "examples": [
+  {
+   "en": "The firewall stopped my game from connecting to the server.",
+   "ko": "방화벽이 내 게임이 서버에 접속하는 걸 막아 버렸어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "수아 노트북에서 처음 보는 프로그램이 몰래 인터넷에 연결하려고 했어. 그런데 노트북과 인터넷 사이의 길목에서 무언가가 그 연결을 멈춰 세우고 \"이 연결을 허락할까요?\"라고 물었어. 연결을 멈춰 세운 이게 'firewall'이야?",
+   "choices": [
+    "응, firewall 맞아",
+    "아니, firewall 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, firewall 맞아",
+   "why": "맞아! 노트북과 인터넷 사이 길목에서 처음 보는 프로그램의 연결을 멈춰 세우고 허락할지 물었잖아. 안에서 밖으로 나가는 연결이라도 허락 안 된 걸 길목에서 막는 거니까, 바로 그게 firewall이야."
+  },
+  {
+   "type": "ox",
+   "question": "도서관 컴퓨터 뒤에 꽂힌 랜선은 들어오고 나가는 연결을 하나도 검사하지 않고 전부 그대로 흘려보내. 연결을 그대로 흘려보내는 이 랜선이 'firewall'이야?",
+   "choices": [
+    "응, firewall 맞아",
+    "아니, firewall 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, firewall 아니야",
+   "why": "잘 골랐어! 이 랜선은 들어오고 나가는 연결을 하나도 검사하지 않고 전부 그대로 흘려보내잖아. firewall은 연결을 하나하나 검사해서 허락 안 된 걸 막는 거니까, 이 랜선은 firewall이 아니야."
+  },
+  {
+   "type": "choice",
+   "question": "작은 회사가 사무실 인터넷 입구에 'firewall'을 새로 설치했어. 설치한 뒤에 생긴 변화로 알맞은 건?",
+   "choices": [
+    "정해 둔 규칙에 따라 어떤 연결은 통과하고 어떤 연결은 거부됐어",
+    "모든 연결이 검사 없이 전보다 훨씬 막힘없이 그대로 통과했어",
+    "사무실 인터넷 속도가 전보다 두 배쯤 빨라져서 영상이 잘 나왔어",
+    "잘 안 잡히던 와이파이 신호가 사무실 구석까지 멀리 닿게 됐어"
+   ],
+   "answer_index": 0,
+   "answer": "정해 둔 규칙에 따라 어떤 연결은 통과하고 어떤 연결은 거부됐어",
+   "why": "맞아! 방화벽은 사무실 인터넷 입구에 서서 연결을 하나하나 검사하고, 정해 둔 규칙에 맞으면 통과시키고 아니면 막는 거야. 그래서 어떤 연결은 통과하고 어떤 연결은 거부된 게 바로 방화벽이 일하는 모습이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "network"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-firewall",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-firewall"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/firewall.webp",
+  "alt": "게임 서버 접속이 컴퓨터 쪽에서 막힘",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

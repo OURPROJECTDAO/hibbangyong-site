@@ -1,0 +1,96 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/gap/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/gap/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "gap",
+ "slug": "gap",
+ "url": "https://hibbangyong.com/words/gap/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "틈 — 둘 사이가 벌어져서 비어 있는 자리(시간이 비거나 차이가 벌어진 것도 이렇게 불러)",
+ "gloss_ko": "틈",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "줄을 섰는데 앞에 선 애랑 내 사이가 휑하게 벌어졌어. 그 벌어진 빈 자리, 그거 말이야.",
+  "근데 이건 물건 사이에서만 쓰는 말이 아니거든?",
+  "학교 끝나고 학원 갈 때까지 한 시간이 텅 비어도, 나랑 형 키가 한 뼘이나 떨어져 있어도 똑같이 그렇게 불러.",
+  "뚫려서 생긴 구멍하고는 달라. 둘 사이가 떨어져서 비는 거야. 그게 gap이야."
+ ],
+ "scene": "줄 서다 앞사람과 나 사이가 휑하게 벌어진 자리",
+ "examples": [
+  {
+   "en": "There was a big gap between me and the kid in front of me in line.",
+   "ko": "줄에서 나랑 앞에 선 애 사이가 휑하게 벌어져 있었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "지하철을 타려는데 전동차 발판과 승강장 바닥이 서로 닿지 않고 아래로 발이 쑥 들어갈 만큼 떨어져 있어. 이 자리를 'gap'이라고 해?",
+   "choices": [
+    "응, gap 맞아",
+    "아니, gap 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, gap 맞아",
+   "why": "맞아! 전동차 발판이랑 승강장 바닥이 서로 안 닿고 뚝 떨어져서 발이 쑥 들어갈 만큼 비었잖아. 둘 사이가 벌어져서 생긴 그 빈 자리, 그게 바로 gap이야."
+  },
+  {
+   "type": "ox",
+   "question": "점퍼 지퍼를 목 끝까지 올리니 앞자락 양쪽 천이 서로 맞물려 하나로 이어졌어. 여기를 'gap'이라고 해?",
+   "choices": [
+    "응, gap 맞아",
+    "아니, gap 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, gap 아니야",
+   "why": "맞아! 양쪽 천이 서로 딱 맞물려서 하나로 이어졌잖아. 벌어져서 비는 자리가 아예 없으니까 gap이라고 부를 게 없는 거야. gap은 둘 사이가 떨어져서 생긴 빈 자리를 부르는 말이거든."
+  },
+  {
+   "type": "ox",
+   "question": "토요일에 태권도가 오전 열 시에 끝나고 피아노는 오후 두 시에 시작해. 그 사이 네 시간이 통째로 비어 있어. 이런 경우도 'gap'이야?",
+   "choices": [
+    "응, 'gap' 맞아",
+    "아니, 'gap' 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 'gap' 맞아",
+   "why": "맞아! 태권도 끝나고 피아노 시작할 때까지 그 네 시간이 아무것도 없이 텅 비어 있잖아. 둘 사이가 벌어져서 비는 자리는 시간이어도 똑같이 gap이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "difference",
+   "kind": "confusable",
+   "from": "vs difference"
+  },
+  {
+   "word": "distance",
+   "kind": "confusable",
+   "from": "vs distance"
+  }
+ ],
+ "related_scene": [
+  "crack"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-gap",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-gap"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/gap.webp",
+  "alt": "줄 서다 앞사람과 나 사이가 휑하게 벌어진 자리",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

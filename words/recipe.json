@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/recipe/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/recipe/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "recipe",
+ "slug": "recipe",
+ "url": "https://hibbangyong.com/words/recipe/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "만드는 법 — 무엇을 얼마나 넣고 어떤 순서로 해야 그 음식이 되는지 알려 주는 방법",
+ "gloss_ko": "음식 만드는 법",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "주말 아침에 아빠가 팬케이크를 만들어. 근데 아무렇게나 휙휙 안 해. 밀가루 얼마, 우유 얼마, 먼저 섞고 나중에 굽고 — 그 만드는 방법이 정해져 있거든?",
+  "그 방법은 종이에 적혀 있을 수도 있고, 할머니 머릿속에만 있을 수도 있어. 수프도, 주스도, 쿠키도 저마다 그 방법이 있어.",
+  "헷갈리지 마. 재료만 잔뜩 쌓아 둔 것도 아니고, 다 만들어져서 접시에 올라온 것도 아니야.",
+  "어떻게 만드는지 그 방법, 그게 recipe야."
+ ],
+ "scene": "주말 아침 아빠가 정해진 방법대로 팬케이크 만들기",
+ "examples": [
+  {
+   "en": "Dad and I made pancakes by following Grandma's recipe.",
+   "ko": "아빠랑 나는 할머니가 알려준 만드는 법대로 팬케이크를 만들었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "생일 아침 식탁에 케이크가 놓여 있어. 크림도 다 발라져 있고 초까지 꽂혀 있어서 이제 먹기만 하면 돼. 이 케이크가 'recipe'야?",
+   "choices": [
+    "응, recipe 맞아",
+    "아니, recipe 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, recipe 아니야",
+   "why": "맞아! 식탁 위 케이크는 크림도 다 발라져 있고 초까지 꽂혀 있어서 먹기만 하면 되는 거잖아. recipe는 다 만든 케이크가 아니라, 그 케이크를 어떻게 만드는지 알려 주는 방법이거든."
+  },
+  {
+   "type": "ox",
+   "question": "이모가 카레를 끓일 때는 늘 똑같이 해. 감자를 먼저 볶고, 물을 두 컵 붓고, 카레 가루는 맨 마지막에 넣어. 이모가 그대로 따라 하는 이게 'recipe'야?",
+   "choices": [
+    "응, recipe 맞아",
+    "아니, recipe 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, recipe 맞아",
+   "why": "맞아! 이모는 감자를 먼저 볶고, 물은 두 컵 붓고, 카레 가루는 맨 마지막에 넣잖아. 무엇을 얼마나, 어떤 순서로 넣는지 정해진 그 방법이 바로 recipe야."
+  },
+  {
+   "type": "choice",
+   "question": "친구 넷이 부엌에서 본 걸 각자 이야기했어. 'recipe'를 말한 사람은 누구일까?",
+   "choices": [
+    "지호: 할머니가 김밥 마는 순서를 하나도 안 빼고 나한테 알려 줬어.",
+    "민아: 우리 집 냉장고에 달걀이랑 당근이랑 시금치가 잔뜩 들어 있어.",
+    "태오: 식당 벽에 김밥 삼천 원, 라면 사천 원이라고 붙어 있어.",
+    "수빈: 접시에 김밥이 동그랗게 잘려서 담겨 나왔어."
+   ],
+   "answer_index": 0,
+   "answer": "지호: 할머니가 김밥 마는 순서를 하나도 안 빼고 나한테 알려 줬어.",
+   "why": "맞아! 할머니가 알려 준 건 김밥을 어떤 순서로 마는지, 그 만드는 방법이거든. 말로 알려 줬어도 김밥 만드는 방법이니까 바로 그게 recipe인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-recipe",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-recipe"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/recipe.webp",
+  "alt": "주말 아침 아빠가 정해진 방법대로 팬케이크 만들기",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

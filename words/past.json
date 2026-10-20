@@ -1,0 +1,89 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/past/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/past/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "past",
+ "slug": "past",
+ "url": "https://hibbangyong.com/words/past/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "과거 — 지금보다 앞서 이미 지나가 버린 모든 때(방금 전부터 아주 먼 옛날까지).",
+ "gloss_ko": "과거",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "어제 먹은 아침도, 작년 생일도, 아주 먼 옛날 공룡들 살던 때도 다 지나갔지?",
+  "시곗바늘이 이미 지나쳐 버린 때들 말이야.",
+  "방금 1분 전도, 백 년 전도 전부 여기 들어가. 아주 옛날만 그런 게 아니라 조금 전 일도 들어가거든?",
+  "그게 past야."
+ ],
+ "scene": "어제 아침·작년 생일·먼 옛날 공룡 시대가 다 지나가 버린 때라는 장면",
+ "examples": [
+  {
+   "en": "I can't change the past, so I said sorry to my friend.",
+   "ko": "지나간 일은 되돌릴 수 없어서 나는 친구한테 미안하다고 했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "할머니가 앨범을 펼치며 \"이건 네가 아기였을 때 찍은 사진이야\"라고 하셨어. 사진 속 그 때는 'the past'야?",
+   "choices": [
+    "응, past 맞아",
+    "아니, past 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, past 맞아",
+   "why": "맞아! 네가 아기였을 때는 이미 다 지나가 버린 때잖아. 그러니까 앨범 속 그 때는 past인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "형이 달력을 짚으며 \"이번 주 토요일에 우리 가족 다 같이 물놀이 갈 거야\"라고 했어. 형이 말한 그 토요일은 'the past'야?",
+   "choices": [
+    "응, past 맞아",
+    "아니, past 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, past 아니야",
+   "why": "아니야, 맞아! 형이 말한 그 토요일은 아직 오지도 않았거든. 달력에서 앞으로 짚어 갈 날이지? 아직 안 온 날은 지나간 때가 아니니까 past가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 친구들이 각자 어떤 때 있었던 일을 말했어. 이 중에서 'the past'에 들어가는 일은 어떤 거야?",
+   "choices": [
+    "어제 놀다가 무릎을 다친 일",
+    "내일 가기로 한 소풍",
+    "지금 막 밥을 먹는 중인 일",
+    "다음 주에 세울 여행 계획"
+   ],
+   "answer_index": 0,
+   "answer": "어제 놀다가 무릎을 다친 일",
+   "why": "맞아! 어제 놀다가 다친 건 이미 지나가 버린 일이잖아. 오늘 되돌릴 수도 없고 벌써 끝나 버린 때, 그게 바로 past야. 아주 먼 옛날만 past인 게 아니라 어제처럼 조금 전 일도 다 들어가거든."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "previous",
+  "recollection",
+  "relic"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-past",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-past"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/past.webp",
+  "alt": "어제 아침·작년 생일·먼 옛날 공룡 시대가 다 지나가 버린 때라는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

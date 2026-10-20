@@ -1,0 +1,96 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/premises/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/premises/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "premises",
+ "slug": "premises",
+ "url": "https://hibbangyong.com/words/premises/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "구내(건물과 딸린 땅 전체) — 가게·회사·학교 같은 곳이 쓰는 건물과 거기 딸린 땅 전체",
+ "gloss_ko": "건물과 딸린 땅",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "학교 교문을 딱 넘어서면 거기서부터는 다 학교 땅이지.",
+  "교실 건물만 그런 게 아니야. 운동장, 주차장, 뒤뜰 화단까지 전부 들어가.",
+  "가게나 회사, 식당도 똑같아. 그곳이 쓰는 건물이랑 딸린 땅을 한꺼번에 부르는 말이야.",
+  "대신 담장 밖 동네까지는 안 넓어져. 그리고 늘 끝에 s가 붙은 채로 써."
+ ],
+ "scene": "교문 안쪽 학교 땅 전체(운동장·주차장·화단)",
+ "examples": [
+  {
+   "en": "Dogs are not allowed anywhere on the school premises, even in the parking lot.",
+   "ko": "학교 안에서는 주차장까지 포함해서 어디든 개를 데리고 올 수 없어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "한 시립 도서관이 있어. 담장 안쪽에 도서관 건물, 앞마당 벤치, 자전거 거치대, 뒤쪽 주차장이 있어. 이것들을 모두 합쳐서 도서관의 'premises'라고 부를 수 있을까?",
+   "choices": [
+    "응, premises 맞아",
+    "아니, premises 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, premises 맞아",
+   "why": "맞아! 도서관 건물만이 아니라 담장 안쪽의 앞마당 벤치, 자전거 거치대, 뒤쪽 주차장까지 도서관이 쓰는 땅이니까, 전부 합쳐서 도서관의 premises가 되는 거야."
+  },
+  {
+   "type": "ox",
+   "question": "한 병원 간호사가 쉬는 시간에 병원 정문 바로 앞 인도에 서서 커피를 마시고 있어. 이 인도는 병원의 premises일까?",
+   "choices": [
+    "응, premises 맞아",
+    "아니, premises 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, premises 아니야",
+   "why": "맞아! 간호사가 서 있는 곳은 병원 정문 바로 앞이긴 해도 정문 밖 인도잖아. premises는 병원이 쓰는 건물이랑 딸린 땅, 그러니까 정문 안쪽까지만이라서 이 인도는 빠지는 거야."
+  },
+  {
+   "type": "choice",
+   "question": "한 공장이 '우리 premises 안에서는 사진 촬영 금지'라고 공지했어. 이 규칙은 어디까지 적용될까?",
+   "choices": [
+    "공장 건물 안의 작업실과 복도, 화장실",
+    "공장 담장 안의 건물과 마당, 주차장",
+    "공장이 있는 동네의 길과 가게, 공원",
+    "직원이 일하는 시간에 가는 모든 장소"
+   ],
+   "answer_index": 1,
+   "answer": "공장 담장 안의 건물과 마당, 주차장",
+   "why": "맞아! premises는 공장 건물만이 아니라 담장 안에 딸린 마당이랑 주차장까지 다 들어가. 그래서 담장 안이면 마당에서 찍어도 규칙에 걸리는 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "property",
+   "kind": "confusable",
+   "from": "vs property"
+  },
+  {
+   "word": "grounds",
+   "kind": "confusable",
+   "from": "vs grounds"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-premises",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-premises"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/premises.webp",
+  "alt": "교문 안쪽 학교 땅 전체(운동장·주차장·화단)",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

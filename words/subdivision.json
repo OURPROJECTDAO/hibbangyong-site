@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/subdivision/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/subdivision/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "subdivision",
+ "slug": "subdivision",
+ "url": "https://hibbangyong.com/words/subdivision/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "다시 더 작게 나누기(세분) — 이미 나눠 놓은 것을 다시 더 작게 나누는 일, 또는 그렇게 해서 생긴 작은 부분",
+ "gloss_ko": "나눈 걸 다시 작게 나눔",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "도서관은 책을 먼저 과학, 역사, 소설로 나눠 놔.",
+  "근데 과학 칸 안을 또 우주, 동물, 사람 몸으로 쪼개. 이렇게 한 번 더 나누는 일도, 그래서 생긴 칸도 subdivision이야.",
+  "책꽂이만 그런 게 아니야. 회사 부서 안의 팀, 도 안의 시나 군, 넓은 땅을 집 지을 자리로 잘게 나눈 구역도 다 여기에 들어가.",
+  "그냥 떼어 낸 조각이나 처음 나눈 큰 칸이랑은 달라. 나눠 놓은 걸 또 나눴다는 게 포인트야."
+ ],
+ "scene": "도서관 책을 과학·역사·소설로 나누고 과학 칸을 다시 쪼갬",
+ "examples": [
+  {
+   "en": "The science section of our library has a subdivision just for space books.",
+   "ko": "우리 도서관 과학 코너 안에는 우주 책만 따로 모아 둔 칸이 있어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "민지는 옷장 서랍을 먼저 '양말 칸'과 '속옷 칸'으로 나눠 놨어. 그런 다음 양말 칸 안을 다시 '겨울 양말'과 '여름 양말'로 나눴어. 이 '겨울 양말' 칸은 양말 칸의 'subdivision'일까?",
+   "choices": [
+    "응, subdivision 맞아",
+    "아니, subdivision 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, subdivision 맞아",
+   "why": "맞아! 민지는 서랍을 먼저 양말 칸이랑 속옷 칸으로 나눴고, 그 양말 칸 안을 또 나눠서 겨울 양말 칸이 생긴 거잖아. 이미 나눠 놓은 걸 한 번 더 나눠서 생긴 칸이니까 바로 subdivision인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "준호는 휴대폰에 '여행' 사진 앨범과 '가족' 사진 앨범을 따로 갖고 있었어. 그런데 두 앨범을 합쳐서 '2025년'이라는 큰 앨범 하나로 만들었어. 이 '2025년' 앨범은 'subdivision'일까?",
+   "choices": [
+    "응, subdivision 맞아",
+    "아니, subdivision 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, subdivision 아니야",
+   "why": "맞아! 준호는 '여행' 앨범이랑 '가족' 앨범을 합쳐서 '2025년' 앨범 하나로 더 크게 만들었잖아. subdivision은 나눠 놓은 걸 또 쪼개서 더 작은 칸을 만드는 거라, 합쳐서 크게 만든 이 앨범은 방향이 딱 반대야."
+  },
+  {
+   "type": "choice",
+   "question": "아래 짝 (A → B) 중에서 B를 A의 'subdivision'이라고 부를 수 있는 건?",
+   "choices": [
+    "우리 반 → 그 반 안의 한 모둠",
+    "한 모둠 → 그 모둠이 속한 반",
+    "1반 → 바로 옆에 있는 2반",
+    "두 모둠 → 둘을 합쳐 만든 큰 조"
+   ],
+   "answer_index": 0,
+   "answer": "우리 반 → 그 반 안의 한 모둠",
+   "why": "맞아! 모둠은 우리 반을 안에서 한 번 더 작게 나눈 칸이라서, 바로 그게 반의 subdivision인 거야."
+  }
+ ],
+ "synonyms": [
+  "branch"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "division",
+   "kind": "confusable",
+   "from": "vs division"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-subdivision",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-subdivision"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/subdivision.webp",
+  "alt": "도서관 책을 과학·역사·소설로 나누고 과학 칸을 다시 쪼갬",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

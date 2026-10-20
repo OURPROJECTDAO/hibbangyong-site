@@ -1,0 +1,72 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/drill/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/drill/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "drill",
+ "slug": "drill",
+ "url": "https://hibbangyong.com/words/drill/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "드릴 — 나무나 벽에 구멍을 뚫을 때 쓰는 공구",
+ "gloss_ko": "드릴",
+ "level": {
+  "code": "L4",
+  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "그림 속 이것은 위잉 소리를 내며 돌아가서 단단한 벽이나 나무에 구멍을 뚫는 공구예요.",
+  "집에서 어른들이 벽에 못이나 선반을 달 때 이것으로 먼저 구멍을 뚫는 모습을 볼 수 있어요."
+ ],
+ "scene": "전동 드릴(공구) 한 개 — 아이에게 가장 친숙한 시각 의미인 '드릴 공구'를 그림",
+ "examples": [
+  {
+   "en": "My dad used a drill to make a hole in the wall.",
+   "ko": "아빠가 드릴로 벽에 구멍을 뚫었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "위잉 돌아가는 뾰족한 끝을 벽에 대고 구멍을 뚫는 공구를 손에 들었어. 이게 drill이야?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 맞아",
+   "why": null
+  },
+  {
+   "type": "choice",
+   "question": "drill은 어느 것일까?",
+   "choices": [
+    "물을 마실 때 쓰는, 손잡이가 달린 물건",
+    "비가 올 때 머리 위로 펼치는 물건",
+    "벽에 구멍을 뚫을 때 위잉 돌아가는 물건",
+    "글씨를 쓸 때 쓰는, 가늘고 긴 물건"
+   ],
+   "answer_index": 2,
+   "answer": "벽에 구멍을 뚫을 때 위잉 돌아가는 물건",
+   "why": null
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-drill",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-drill"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/drill.webp",
+  "alt": "전동 드릴(공구) 한 개 — 아이에게 가장 친숙한 시각 의미인 '드릴 공구'를 그림",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

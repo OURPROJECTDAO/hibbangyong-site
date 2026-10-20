@@ -1,0 +1,91 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/hermit/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/hermit/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "hermit",
+ "slug": "hermit",
+ "url": "https://hibbangyong.com/words/hermit/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "은둔자(혼자 떨어져 사는 사람) — 사람들 곁을 스스로 떠나 혼자 조용히 사는 사람",
+ "gloss_ko": "혼자 숨어 사는 사람",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "산속 오두막에서 몇십 년째 혼자 사는 할아버지도, 연락을 다 끊고 외딴 섬에 들어가 혼자 사는 아저씨도 여기 들어가.",
+  "둘 다 사람들 사이를 떠나서 따로 혼자 지내는 사람이야.",
+  "중요한 건 쫓겨난 게 아니라 자기가 골라서 떨어져 산다는 거.",
+  "그래서 친구들이 안 끼워 줘서 혼자인 애나, 그냥 말수 적은 조용한 애랑은 달라."
+ ],
+ "scene": "산속 오두막에서 수십 년 혼자 사는 할아버지",
+ "examples": [
+  {
+   "en": "My uncle sold his car and moved to a small island to live as a hermit.",
+   "ko": "삼촌이 차까지 팔고 작은 섬에 들어가서 사람 안 만나고 혼자 사는 사람이 됐어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "옆집 아저씨는 동네 축제마다 봉사하러 나가고, 처음 보는 사람한테도 먼저 말을 걸어서 금방 친해져. 이 아저씨는 'hermit'일까?",
+   "choices": [
+    "응, hermit 맞아",
+    "아니, hermit 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, hermit 아니야",
+   "why": "맞아! 아저씨는 축제마다 봉사하러 나가고, 처음 보는 사람한테도 먼저 말을 걸잖아. 사람들 곁을 떠나서 혼자 사는 hermit하고는 완전히 반대라서 hermit 아닌 게 맞아."
+  },
+  {
+   "type": "ox",
+   "question": "바닷가 외딴 등대 옆 작은 집에 사는 할머니가 있어. 할머니는 스스로 원해서 그곳에 들어갔고, 이십 년째 마을에도 거의 안 내려오고 사람도 거의 안 만나며 혼자 지내. 이 할머니는 'hermit'일까?",
+   "choices": [
+    "응, hermit 맞아",
+    "아니, hermit 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, hermit 맞아",
+   "why": "맞아! 할머니는 스스로 원해서 그 등대 옆 작은 집에 들어갔고, 이십 년째 사람도 거의 안 만나고 혼자 지내잖아. 누가 떠민 게 아니라 자기가 골라서 사람들 곁을 떠나 사는 거라서 바로 hermit인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 사람 얘기야. 이 중에서 'hermit'이라고 부르기 가장 알맞은 사람은 누구일까?",
+   "choices": [
+    "반 애들이 안 끼워 줘서 쉬는 시간마다 혼자 앉아 있는 지훈",
+    "말수는 적지만 매일 학교 오고 동아리도 꼬박꼬박 나가는 서연",
+    "회사를 그만두고 깊은 시골집에 들어가 사람을 거의 안 만나는 삼촌",
+    "주말마다 새 사람들 만나러 여기저기 모임에 나가는 이모"
+   ],
+   "answer_index": 2,
+   "answer": "회사를 그만두고 깊은 시골집에 들어가 사람을 거의 안 만나는 삼촌",
+   "why": "맞아! 삼촌은 누가 쫓아낸 게 아니라 자기가 회사를 그만두고 깊은 시골집에 들어가서 사람을 거의 안 만나잖아. 스스로 골라서 사람들 곁을 떠나 혼자 사는 거, 바로 그게 hermit이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "monk",
+   "kind": "confusable",
+   "from": "vs monk"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-hermit",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-hermit"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/hermit.webp",
+  "alt": "산속 오두막에서 수십 년 혼자 사는 할아버지",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

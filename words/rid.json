@@ -1,0 +1,76 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/rid/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/rid/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "rid",
+ "slug": "rid",
+ "url": "https://hibbangyong.com/words/rid/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "없애다 — 귀찮게 남아 있는 걸 떼어내서 내 곁에 안 남게 하다",
+ "gloss_ko": "없애다",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "방에서 뭔가 탄 냄새가 나. 코가 찡할 만큼 지독해.",
+  "창문 활짝, 부채질 팔랑팔랑. 조금 뒤엔 냄새가 싹 사라졌어.",
+  "냄새처럼 손으로 못 잡는 것도, 서랍 속 부서진 장난감도 똑같아. 귀찮아서 안 남게 만들면 다 이거야.",
+  "그냥 다른 방으로 옮겨 둔 건 아니라고? 옮기면 아직 거기 있잖아. 내 곁에서 진짜로 없어져야 rid야."
+ ],
+ "scene": "방에 밴 탄 냄새를 창문 열고 부채질해 날려 보내기",
+ "examples": [
+  {
+   "en": "Dad helped me get rid of the sticker stuck on my desk.",
+   "ko": "아빠가 책상에 붙은 스티커를 떼는 걸 도와줬어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "지우가 방에서 여러 가지를 했어. 다음 중 지우가 뭔가를 'rid' 한 것은?",
+   "choices": [
+    "옷에 붙은 고양이 털을 테이프로 떼어내 쓰레기통에 버렸어.",
+    "색종이를 여러 번 접어 종이비행기를 하나 새로 만들었어.",
+    "서랍 속 구슬이 몇 개인지 손가락으로 하나씩 세어 봤어.",
+    "도화지에 크레파스로 무지개를 일곱 줄 색칠했어."
+   ],
+   "answer_index": 0,
+   "answer": "옷에 붙은 고양이 털을 테이프로 떼어내 쓰레기통에 버렸어.",
+   "why": "맞아! 털을 테이프로 딱 떼서 쓰레기통에 버렸으니까, 옷에 붙어서 귀찮게 남아 있던 게 이제 아예 안 남은 거잖아. 바로 그게 rid야."
+  },
+  {
+   "type": "choice",
+   "question": "민수 방에 파리 한 마리가 들어와 자꾸 앵앵거려. 네 가지 중 민수가 파리를 'rid' 했다고 할 수 있는 건?",
+   "choices": [
+    "창문을 활짝 열자 파리가 밖으로 날아갔어. 이제 방은 조용해.",
+    "파리를 컵으로 덮어 놓았어. 컵 안에서 여전히 앵앵거려.",
+    "파리가 앉은 책을 들고 거실로 갔어. 파리는 그 책에 그대로 앉아 있어.",
+    "파리 옆에 꿀을 한 방울 떨어뜨렸어. 파리가 더 신나게 몰려들어."
+   ],
+   "answer_index": 0,
+   "answer": "창문을 활짝 열자 파리가 밖으로 날아갔어. 이제 방은 조용해.",
+   "why": "맞아! 창문 열었더니 파리가 밖으로 훌쩍 나가버렸잖아. 이제 민수 방 어디를 찾아봐도 파리가 없어. 이렇게 진짜로 내 곁에 안 남게 만드는 게 rid야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-rid",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-rid"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/rid.webp",
+  "alt": "방에 밴 탄 냄새를 창문 열고 부채질해 날려 보내기",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/catering/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/catering/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "catering",
+ "slug": "catering",
+ "url": "https://hibbangyong.com/words/catering/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "출장 요리 — 행사나 단체가 먹을 음식을 미리 맞춰 준비해서 대 주는 일",
+ "gloss_ko": "출장 요리",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "아빠 회사 송년회는 회사 강당에서 했어. 음식은 한 업체가 전부 맡았어.",
+  "몇십 명이 먹을 양을 미리 맞춰서 만들어 오고, 차려 놓는 것까지 했어.",
+  "결혼식, 회의, 비행기 기내식, 매일 나오는 단체 점심처럼 여럿이 먹을 음식을 맡아서 대 주는 일이 다 catering이야.",
+  "내가 먹을 걸 골라 시키는 배달이랑은 달라. 먹을 사람들 전체 몫을 미리 맡기는 거야."
+ ],
+ "scene": "아빠 회사 송년회 강당에서 한 업체가 음식을 전부 맡아 만들어 오고 차림",
+ "examples": [
+  {
+   "en": "The catering for my sister's wedding was great.",
+   "ko": "누나 결혼식 음식 맡은 업체, 진짜 괜찮았어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "할머니 칠순 잔치를 동네 마을회관에서 했어. 한 업체가 손님 60명이 먹을 음식을 미리 맞춰 만들어 와서 상까지 차려 줬어. 이게 'catering'이야?",
+   "choices": [
+    "응, catering 맞아",
+    "아니, catering 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, catering 맞아",
+   "why": "맞아! 업체 한 곳이 손님 60명 전체가 먹을 음식을 미리 맞춰 만들어 오고 상까지 차려 줬잖아. 여럿이 먹을 몫을 통째로 맡아서 대 주는 거니까 바로 그게 catering인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "과학 동아리가 학기 말 파티를 과학실에서 했어. 부원 20명이 각자 집에서 반찬을 한 가지씩 만들어 와서 상에 모아 나눠 먹었어. 이게 'catering'이야?",
+   "choices": [
+    "응, catering 맞아",
+    "아니, catering 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, catering 아니야",
+   "why": "맞아! 부원 20명이 각자 집에서 반찬을 직접 만들어 왔잖아. 음식을 업체에 맡긴 게 아니니까 catering이 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "민준이 생일에 친구 여섯 명이 민준이네 집에 모였어. 다들 휴대폰 배달 앱으로 자기가 먹고 싶은 메뉴를 하나씩 골라 시켰고, 음식이 도착하자 같이 먹었어. 이런 경우도 'catering'이야?",
+   "choices": [
+    "응, catering 맞아",
+    "아니, catering 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, catering 아니야",
+   "why": "맞아! 친구들이 배달 앱으로 자기가 먹고 싶은 메뉴를 하나씩 따로 시킨 거라서 그냥 배달이야. catering이 되려면 한 가게에 모두가 먹을 양을 한꺼번에 주문해서, 그 가게가 음식을 다 맡아 줘야 하거든."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "buffet",
+   "kind": "confusable",
+   "from": "vs buffet"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-catering",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-catering"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/catering.webp",
+  "alt": "아빠 회사 송년회 강당에서 한 업체가 음식을 전부 맡아 만들어 오고 차림",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

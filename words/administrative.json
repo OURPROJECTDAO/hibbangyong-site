@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/administrative/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/administrative/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "administrative",
+ "slug": "administrative",
+ "url": "https://hibbangyong.com/words/administrative/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "행정의(조직을 뒤에서 꾸려 가는 일의) — 회사·학교·병원·나라 같은 조직이 굴러가도록 뒤에서 맡는 운영 일에 관한",
+ "gloss_ko": "뒤에서 꾸려 가는 일의",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "학교에는 수업 말고도 꼭 해야 하는 일이 많아. 전학 서류 처리하기, 급식비 챙기기, 시간표 짜기 같은 거.",
+  "이런 건 가르치는 일이 아니야. 학교가 굴러가게 뒤에서 받쳐 주는 일이지.",
+  "회사든 병원이든 나라든, 조직을 돌리는 이런 운영 일에 붙는 말이 administrative야.",
+  "그러니까 정부 일만 뜻하는 게 아니야. 사무실에 앉아 있다고 다 해당되는 것도 아니고, 무슨 일을 맡았느냐가 기준이야."
+ ],
+ "scene": "학교에서 전학 서류·급식비·시간표를 처리하는 일",
+ "examples": [
+  {
+   "en": "My aunt has an administrative job at a hospital.",
+   "ko": "우리 이모는 병원에서 행정 일을 해."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "한 빵 공장에서 제빵사가 반죽을 틀에 담아 오븐에 넣고 식빵을 굽고 있어. 이 제빵사가 하는 일은 'administrative' 일일까?",
+   "choices": [
+    "응, administrative 일 맞아",
+    "아니, administrative 일 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, administrative 일 아니야",
+   "why": "맞아! 반죽을 틀에 담아 오븐에 넣고 식빵을 굽는 건 빵 공장이 하는 본업 그 자체야. 뒤에서 공장이 굴러가게 받쳐 주는 운영 일이 아니니까 administrative 일이 아닌 거지."
+  },
+  {
+   "type": "ox",
+   "question": "한 항공사 본사 사무실에서 직원이 조종사들의 다음 달 비행 근무표를 짜고, 승무원들의 출장비 서류를 정리하고 있어. 이 직원이 하는 일은 'administrative' 일일까?",
+   "choices": [
+    "응, administrative 일 맞아",
+    "아니, administrative 일 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, administrative 일 맞아",
+   "why": "맞아! 조종사 근무표를 짜고 출장비 서류를 정리하는 건 비행기를 직접 모는 일은 아니지만, 항공사가 잘 돌아가게 뒤에서 받쳐 주는 운영 일이야. 그래서 바로 administrative 일인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "한 병원 안에 네 사람이 있어. 이 중에서 'administrative' 일을 하고 있는 사람은 누구일까?",
+   "choices": [
+    "수술실에서 환자를 직접 수술하고 있는 의사",
+    "환자 입원 서류와 직원 근무표를 챙기는 직원",
+    "병원 로비에서 의료 법에 대해 연설하는 국회의원",
+    "사무실 책상에 앉아 자기 소설을 쓰는 간호사"
+   ],
+   "answer_index": 1,
+   "answer": "환자 입원 서류와 직원 근무표를 챙기는 직원",
+   "why": "맞아! 입원 서류를 챙기고 직원 근무표를 짜는 건 환자를 직접 고치는 일은 아니지만, 병원이 굴러가게 뒤에서 받쳐 주는 운영 일이잖아. 바로 그게 administrative한 일이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "secretary"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-administrative",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-administrative"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/administrative.webp",
+  "alt": "학교에서 전학 서류·급식비·시간표를 처리하는 일",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

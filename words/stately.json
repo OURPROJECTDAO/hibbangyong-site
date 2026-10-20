@@ -1,0 +1,83 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/stately/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/stately/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "stately",
+ "slug": "stately",
+ "url": "https://hibbangyong.com/words/stately/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "위엄 있는 — 서두르지 않고 반듯해서 저절로 품위가 느껴지는 (행렬·걸음에도, 큰 건물·나무에도)",
+ "gloss_ko": "위엄 있는",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "졸업식 때 기수단이 깃발 들고 한 걸음씩 들어오는 모습, 그리고 몇백 년 된 큰 건물이 반듯하게 서 있는 모습을 떠올려 봐.",
+  "둘 다 서두르지도 않고 꾸미지도 않았는데, 보는 사람이 저절로 자세를 고치게 돼.",
+  "그런 차분한 무게감이 stately야. 움직임에도 쓰고, 건물이나 오래된 큰 나무에도 써.",
+  "그냥 느린 거, 반짝반짝 화려한 거, 잘난 척하는 거랑은 달라."
+ ],
+ "scene": "졸업식에서 기수단이 깃발 들고 한 걸음씩 입장하는 장면",
+ "examples": [
+  {
+   "en": "The band marched down the street at a stately pace.",
+   "ko": "밴드가 서두르지 않고 위엄 있게 발맞춰 거리를 걸어갔어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "경복궁 수문장 교대식에서 수문장들이 북소리에 맞춰 한 걸음씩 천천히, 줄을 반듯하게 맞춰 걸어 나와. 이 걸음걸이를 'stately'라고 할 수 있어?",
+   "choices": [
+    "응, stately 맞아",
+    "아니, stately 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, stately 맞아",
+   "why": "맞아! 수문장들이 북소리에 맞춰 한 걸음씩 천천히, 줄까지 반듯하게 맞춰 걸어 나오잖아. 서두르지 않고 반듯해서 보는 사람이 저절로 자세를 고치게 되는 걸음, 그게 바로 stately야."
+  },
+  {
+   "type": "ox",
+   "question": "지각할까 봐 친구가 신발도 제대로 못 신은 채 허둥지둥 교문 안으로 뛰어 들어와. 이 걸음걸이를 'stately'라고 할 수 있어?",
+   "choices": [
+    "응, stately 맞아",
+    "아니, stately 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, stately 아니야",
+   "why": "맞아! stately는 서두르지 않고 반듯한 걸음에서 저절로 품위가 느껴질 때 쓰는 말이야. 신발도 제대로 못 신고 허둥지둥 뛰어 들어오는 건 딱 그 반대니까 아니라고 하는 게 맞아."
+  },
+  {
+   "type": "choice",
+   "question": "사람들이 걸어가는 모습 네 가지야. 'stately'라고 부르기 가장 알맞은 건 어느 거야?",
+   "choices": [
+    "지각할까 봐 학생들이 가방을 흔들며 운동장으로 우르르 뛰어 들어가.",
+    "잠이 덜 깬 동생이 슬리퍼를 질질 끌며 거실로 천천히 걸어 나와.",
+    "결혼식에서 신부가 아버지 손을 잡고 한 걸음씩 반듯하게 걸어 들어가.",
+    "놀이터에서 아이들이 깔깔대며 이리저리 깡충깡충 뛰어다녀."
+   ],
+   "answer_index": 2,
+   "answer": "결혼식에서 신부가 아버지 손을 잡고 한 걸음씩 반듯하게 걸어 들어가.",
+   "why": "맞아! 신부가 아버지 손을 잡고 한 걸음씩 반듯하게 걸어 들어가잖아. 서두르지도 않고 흐트러지지도 않아서 저절로 품위가 느껴지니까, 바로 그게 stately인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "palace"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-stately",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-stately"
+ },
+ "image": null
+}

@@ -1,0 +1,86 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/hypothesis/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/hypothesis/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "hypothesis",
+ "slug": "hypothesis",
+ "url": "https://hibbangyong.com/words/hypothesis/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "확인해보려고 세워 둔 짐작 — 맞는지 틀리는지 시험해볼 수 있는 생각",
+ "gloss_ko": "확인해보려고 세워 둔 짐작",
+ "level": {
+  "code": "L6",
+  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "교실 화분이 축 늘어졌어. 왜지? 너는 생각해. 햇빛이 모자랐나?",
+  "아직 맞는지 몰라. 근데 그냥 찍은 게 아니거든? 화분 하나만 창가로 옮겨보면 알잖아. 확인할 길이 있는 짐작이야.",
+  "맞을 수도 있고 완전 틀릴 수도 있어. 틀려도 돼. 원래 시험해보려고 세운 거니까.",
+  "'내 생각엔 그래' 하고 그냥 끝나는 말이랑은 달라. 이게 hypothesis야."
+ ],
+ "scene": "축 늘어진 교실 화분 — 햇빛이 모자랐나 하는 짐작",
+ "examples": [
+  {
+   "en": "My hypothesis was that the plant needed more sun, but I was wrong.",
+   "ko": "내 짐작은 그 식물한테 햇빛이 더 필요하다는 거였는데, 틀렸어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "점심시간에 친구가 말했어. \"나는 김밥보다 라면이 더 맛있어. 라면이 최고야.\" 친구가 말한 게 'hypothesis'야?",
+   "choices": [
+    "응, hypothesis 맞아",
+    "아니, hypothesis 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, hypothesis 아니야",
+   "why": "맞아! 라면이 더 맛있다는 건 그 친구 입맛이라서, 맞다 틀리다를 확인해볼 수가 없거든. 시험해볼 길이 없는 말은 hypothesis가 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "동생이 감기에 자주 걸려. 형이 말했어. \"밤에 창문 열고 자서 그런 것 같아. 이번 주는 창문 닫고 재워보고 어떤지 보자.\" 형이 말한 게 'hypothesis'야?",
+   "choices": [
+    "응, hypothesis 맞아",
+    "아니, hypothesis 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, hypothesis 맞아",
+   "why": "맞아! 아직 진짜 그런지는 모르지만 창문 닫고 재워보면 알 수 있잖아. 확인해볼 길이 있는 짐작이라서 바로 그게 hypothesis인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "교실 수족관 물이 뿌예졌어. 어제 청소 시간에 태윤이는 필터를 직접 열어서 안을 들여다봤고, 솜이 먼지로 꽉 막힌 걸 눈으로 봤어. 오늘 아침 태윤이가 친구들에게 말해. \"필터가 막혀서 물이 뿌예진 거야.\" 이런 경우도 'hypothesis'야?",
+   "choices": [
+    "응, hypothesis 맞아",
+    "아니, hypothesis 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, hypothesis 아니야",
+   "why": "맞아, 이건 hypothesis가 아니야! 태윤이는 필터를 직접 열어서 솜이 막힌 걸 눈으로 봤잖아. 이미 확인해버린 건 짐작이 아니라 그냥 본 사실인 거야."
+  }
+ ],
+ "synonyms": [
+  "possibility",
+  "theory"
+ ],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-hypothesis",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-hypothesis"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/hypothesis.webp",
+  "alt": "축 늘어진 교실 화분 — 햇빛이 모자랐나 하는 짐작",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

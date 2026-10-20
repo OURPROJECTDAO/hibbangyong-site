@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/utilize/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/utilize/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "utilize",
+ "slug": "utilize",
+ "url": "https://hibbangyong.com/words/utilize/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "가진 걸 어디에 쓰다 — 그냥 쓰는 게 아니라, 있는 걸 무슨 일에 갖다 쓰는 것",
+ "gloss_ko": "가진 걸 어디에 쓰다",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "창고에 낡은 타이어가 굴러다녀. 아무도 안 쳐다봐.",
+  "근데 아저씨가 그걸 끌고 와서 밧줄에 매달았어. 그네가 됐지.",
+  "타이어는 그대로야. 아저씨가 한 건 딱 하나, 있는 걸 어디다 쓸지 정한 거야.",
+  "새로 만든 게 아니고, 있는 걸 갖다 쓴 거. 그게 utilize야."
+ ],
+ "scene": "창고에 굴러다니던 낡은 타이어를 밧줄에 매달아 그네로 쓰는 장면",
+ "examples": [
+  {
+   "en": "The team had only one small room, so they utilized the hallway for their meeting.",
+   "ko": "그 팀은 작은 방 하나뿐이라 회의할 때 복도를 활용했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "강당 무대 뒤에 안 쓰는 커다란 나무 사다리가 세워져 있었어. 선생님이 그걸 가져와 옆으로 눕히고, 칸칸마다 아이들 그림을 걸어서 전시대로 삼았어. 이게 'utilize'야?",
+   "choices": [
+    "응, utilize 맞아",
+    "아니, utilize 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, utilize 맞아",
+   "why": "맞아! 사다리는 원래 있던 그대로인데 선생님이 쓸 곳만 새로 정한 거잖아. 있는 걸 갖다 쓴 거니까 바로 그게 utilize인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "할머니가 다락에서 담요 상자를 꺼내 먼지를 탁탁 털었어. 그러고는 뚜껑을 덮어 원래 자리에 다시 올려놨어. 할머니가 담요를 'utilize'한 걸까?",
+   "choices": [
+    "응, utilize 맞아",
+    "아니, utilize 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, utilize 아니야",
+   "why": "그렇지! 할머니는 담요를 꺼내서 먼지만 털고 도로 그 자리에 올려놨잖아. 덮지도 깔지도 않았으니까, 있는 걸 어디에 갖다 쓴 게 아니야. 그래서 utilize가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "아이 넷이 각자 무슨 일을 했는지 말했어. 이 중에 'utilize'를 한 아이는 누구일까?",
+   "choices": [
+    "집에 굴러다니던 빈 상자를 책 넣는 통으로 삼은 아이",
+    "찰흙을 사 와서 새 그릇을 빚어 만든 아이",
+    "망가진 의자를 고쳐서 다시 튼튼하게 만든 아이",
+    "쓰던 물건을 창고에 넣고 다시 안 꺼낸 아이"
+   ],
+   "answer_index": 0,
+   "answer": "집에 굴러다니던 빈 상자를 책 넣는 통으로 삼은 아이",
+   "why": "맞아! 빈 상자가 그냥 굴러다니고 있었는데, 그 아이가 책 넣는 일에 쓰기로 정했잖아. 가진 걸 어떤 일에 갖다 쓴 거라서 바로 그게 utilize인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "utilization"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-utilize",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-utilize"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/utilize.webp",
+  "alt": "창고에 굴러다니던 낡은 타이어를 밧줄에 매달아 그네로 쓰는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/romantic/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/romantic/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "romantic",
+ "slug": "romantic",
+ "url": "https://hibbangyong.com/words/romantic/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "사랑 이야기 같은 — 사랑이나 아름다운 꿈에 마음이 젖어 있는",
+ "gloss_ko": "사랑 이야기 같은",
+ "level": {
+  "code": "L6",
+  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "아빠가 저녁에 촛불을 켜고 엄마한테 꽃을 줬어. 밥은 그냥 카레였는데, 왜 촛불이냐고? 그냥 그러고 싶었대. 마음이 사랑 쪽으로 기울어 있는 거야.",
+  "꼭 사랑 얘기만 그런 건 아니야. 어떤 형은 바다에 나가 배를 타고 세상을 다 보겠다고 해. 돈도 없고 배도 없는데 눈이 반짝반짝해. 그것도 romantic이야.",
+  "그러니까 romantic은 딱 두 가지야. 사랑에 젖은 마음이거나, 현실보다 아름다운 꿈에 젖은 마음이거나.",
+  "조심할 게 있어. 그냥 재밌는 거, 그냥 예쁜 거는 romantic이 아니야. 마음이 사랑이나 꿈 쪽으로 폭 젖어 있어야 그게 romantic이야."
+ ],
+ "scene": "촛불 켜고 꽃 주는 저녁 밥상",
+ "examples": [
+  {
+   "en": "His romantic idea of living on a boat sounds fun, but he has no money.",
+   "ko": "배에서 살겠다는 그 낭만적인 생각은 재밌어 보이는데 돈이 없대."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "버스에서 옆자리 형이 창밖을 오래 보다가 말했어. 언젠가 저 산 너머 마을에 작은 집을 짓고 매일 별을 보며 살 거래. 돈도 땅도 없지만 눈을 반짝이며 말했어. 이게 'romantic'이야?",
+   "choices": [
+    "응, romantic 맞아",
+    "아니, romantic 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, romantic 맞아",
+   "why": "맞아! 형은 산 너머 작은 집, 매일 별 보는 삶을 진짜처럼 그리고 있잖아. 돈도 땅도 없는데 마음은 이미 그 아름다운 꿈으로 가득 차 있어. 그렇게 마음이 꿈 쪽으로 기울어 있는 게 바로 romantic이야."
+  },
+  {
+   "type": "ox",
+   "question": "누나가 공책에 숫자를 적었어. 이번 달 용돈은 만 원, 필요한 준비물은 팔천 원, 그러니 과자는 이천 원어치까지만 산다고 딱 정했어. 이게 'romantic'이야?",
+   "choices": [
+    "응, romantic 맞아",
+    "아니, romantic 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, romantic 아니야",
+   "why": "맞아! 누나는 얼마 들어오고 얼마 나가는지 숫자만 딱딱 따져서 정했잖아. 마음이 사랑이나 꿈 쪽으로 젖은 게 하나도 없으니까 romantic이 아닌 게 맞아."
+  },
+  {
+   "type": "ox",
+   "question": "민수는 친구들이랑 물총 싸움을 했어. 온몸이 다 젖도록 뛰어다니면서 웃음이 터져 나왔고, 집에 갈 때까지 신이 나서 계속 소리를 질렀대. 이런 마음도 'romantic'이야?",
+   "choices": [
+    "응, romantic 맞아",
+    "아니, romantic 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, romantic 아니야",
+   "why": "맞아, 이건 romantic이 아니야! 물총 싸움은 그냥 신나고 재밌는 거잖아. 소리 지르고 뛰어다니는 신남만 있지, 사랑하는 마음도 없고 꿈꾸는 마음도 없거든. 재밌다고 다 romantic은 아니야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-romantic",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-romantic"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/romantic.webp",
+  "alt": "촛불 켜고 꽃 주는 저녁 밥상",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

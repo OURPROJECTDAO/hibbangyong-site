@@ -1,0 +1,88 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/piece/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/piece/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "piece",
+ "slug": "piece",
+ "url": "https://hibbangyong.com/words/piece/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "조각 — 큰 것에서 떼어낸 한 부분",
+ "gloss_ko": "조각",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "큰 초콜릿 판 있잖아, 딱! 하고 부러뜨려 봐.",
+  "그럼 손에 작은 하나가 뚝 떨어져 나오지?",
+  "통째 큰 거 말고, 거기서 떼어낸 딱 그 하나.",
+  "그게 piece야."
+ ],
+ "scene": "큰 초콜릿 판을 부러뜨려 손에 떨어진 한 조각",
+ "examples": [
+  {
+   "en": "I broke the cookie into three pieces.",
+   "ko": "쿠키를 딱 세 조각으로 부러뜨렸어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "긴 바게트 빵 한 덩어리에서 손으로 끝을 뚝 뜯어냈어. 손에 든 그 작은 하나 — 이게 'piece'야?",
+   "choices": [
+    "응, piece 맞아",
+    "아니, piece 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, piece 맞아",
+   "why": "맞아! 큰 빵 덩어리에서 끝을 뚝 뜯어냈으니까, 손에 든 그 작은 하나가 바로 떼어낸 조각이야. 그래서 그게 piece인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "식탁에 아직 칼도 안 댄 통째 수박 한 통이 그대로 놓여 있어. 이 통째 수박 — 이게 'piece'야?",
+   "choices": [
+    "응, piece 맞아",
+    "아니, piece 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, piece 아니야",
+   "why": "맞아! 칼도 안 대고 통째로 그대로 있으니까 아직 아무것도 떼어낸 게 없잖아. 그러니까 이건 piece가 아닌 게 맞아. 큰 데서 딱 떼어낸 하나가 piece거든."
+  },
+  {
+   "type": "choice",
+   "question": "동생 손에 큰 초콜릿이 있어. 다음 중 'piece' 하나라고 부를 수 있는 건?",
+   "choices": [
+    "큰 초콜릿에서 딱 떼어낸 하나",
+    "아직 안 나눈 초콜릿 판 전체",
+    "잘게 바스러진 초콜릿 가루",
+    "초콜릿 먹고 남은 은박 껍질"
+   ],
+   "answer_index": 0,
+   "answer": "큰 초콜릿에서 딱 떼어낸 하나",
+   "why": "맞아! 큰 초콜릿 판에서 딱 떼어낸 그 하나, 바로 그게 piece야. 통째 큰 거 말고 거기서 뚝 떨어져 나온 그 부분이거든. 잘 골랐어!"
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "splinter",
+  "tear"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-piece",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-piece"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/piece.webp",
+  "alt": "큰 초콜릿 판을 부러뜨려 손에 떨어진 한 조각",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/jar/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/jar/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "jar",
+ "slug": "jar",
+ "url": "https://hibbangyong.com/words/jar/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "병·단지 — 잼이나 꿀 같은 걸 담는 뚜껑 달린 통통한 유리통",
+ "gloss_ko": "병·단지",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "그림 속 뚜껑 달린 투명한 유리통이 바로 jar예요.",
+  "부엌에서 잼이나 꿀, 사탕을 담아 두는 그 병을 떠올리면 돼요."
+ ],
+ "scene": "금속 뚜껑이 달린 통통한 투명 유리병(잼 단지) 한 개를 정면 중앙에 크게 — pos=verb지만 아이 친숙 시각 의미인 사물 'jar(병·단지)'를 그림",
+ "examples": [
+  {
+   "en": "Mom keeps the strawberry jam in a glass jar.",
+   "ko": "엄마는 딸기잼을 유리병에 담아 둬."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "부엌 선반에 뚜껑이 달린 투명한 유리통이 있고, 그 안에 딸기잼이 가득 담겨 있어요. 이게 jar야?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 맞아",
+   "why": null
+  },
+  {
+   "type": "choice",
+   "question": "jar는 어느 것일까?",
+   "choices": [
+    "뚜껑을 열어 잼을 담는 통통한 유리통",
+    "발에 신고 밖에 나갈 때 신는 신발",
+    "글씨를 쓸 때 손에 쥐는 연필",
+    "비 올 때 머리 위에 펴서 드는 우산"
+   ],
+   "answer_index": 0,
+   "answer": "뚜껑을 열어 잼을 담는 통통한 유리통",
+   "why": null
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "lid"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-jar",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-jar"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/jar.webp",
+  "alt": "금속 뚜껑이 달린 통통한 투명 유리병(잼 단지) 한 개를 정면 중앙에 크게 — pos=verb지만 아이 친숙 시각 의미인 사물 'jar(병·단지)'를 그림",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

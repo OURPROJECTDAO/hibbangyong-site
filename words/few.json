@@ -1,0 +1,98 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/few/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/few/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "few",
+ "slug": "few",
+ "url": "https://hibbangyong.com/words/few/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "몇 안 되는 — 수가 얼마 안 되게 적은 (셀 수 있는 것의 개수가 적음)",
+ "gloss_ko": "몇 안 되는",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "쿠키 통을 열었어. 안에 딱 세 개 남았네?",
+  "잔뜩도 아니고, 그렇다고 하나도 없는 것도 아니야.",
+  "그냥 몇 개, 손에 금방 쥐어질 만큼 적은 수야.",
+  "크기가 작다는 게 아니라 개수가 얼마 안 된다는 거야. 이게 few야."
+ ],
+ "scene": "쿠키 통에 딱 세 개만 남은 장면",
+ "examples": [
+  {
+   "en": "Few cookies were left in the jar, so we shared them.",
+   "ko": "통에 쿠키가 몇 개 안 남아서 우리는 나눠 먹었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "책상 서랍을 열었더니 크레파스가 딱 두 자루 들어 있어. 이게 'few'야?",
+   "choices": [
+    "응, few 맞아",
+    "아니, few 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, few 맞아",
+   "why": "맞아! 두 자루면 손에 딱 쥐어질 만큼 적은 개수잖아. 쿠키 세 개랑 똑같아. 잔뜩도 아니고 텅 빈 것도 아니고 그냥 몇 개, 바로 그게 few인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "주차장에 차가 빈자리 하나 없이 빽빽하게 들어차 있어. 이게 'few'야?",
+   "choices": [
+    "응, few 맞아",
+    "아니, few 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, few 아니야",
+   "why": "맞아! 빈자리 하나 없이 꽉 들어찼다는 건 차가 넘칠 만큼 많다는 거잖아. 많은 거랑 몇 안 되는 건 완전히 반대라서, 이건 few가 아닌 게 맞아."
+  },
+  {
+   "type": "choice",
+   "question": "간식 접시를 보고 민수가 'few'라고 했어. 어떤 접시를 보고 한 말일까?",
+   "choices": [
+    "사탕이 서너 개만 놓여 있는 접시",
+    "아주 작은 사탕들이 접시 가득 쌓인 접시",
+    "사탕이 넘칠 만큼 수북이 담긴 접시",
+    "사탕이 한 개도 없는 텅 빈 접시"
+   ],
+   "answer_index": 0,
+   "answer": "사탕이 서너 개만 놓여 있는 접시",
+   "why": "맞아! 서너 개, 딱 손에 쥐어질 만큼 개수가 얼마 안 되잖아. 잔뜩도 아니고 텅 빈 것도 아닌 그 느낌, 그게 바로 few야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "many"
+ ],
+ "confusable": [
+  {
+   "word": "little",
+   "kind": "confusable",
+   "from": "vs little"
+  },
+  {
+   "word": "several",
+   "kind": "confusable",
+   "from": "vs several"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-few",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-few"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/few.webp",
+  "alt": "쿠키 통에 딱 세 개만 남은 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/contextual/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/contextual/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "contextual",
+ "slug": "contextual",
+ "url": "https://hibbangyong.com/words/contextual/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "맥락의 — 어떤 말이나 일을 그 앞뒤 사정과 주변 상황에 비추어 보는",
+ "gloss_ko": "앞뒤 사정에 따른",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "친구가 우는 사진 한 장이 있어. 결혼식 사진이면 기뻐서 우는 거고, 장례식 사진이면 슬퍼서 우는 거야.",
+  "똑같은 눈물인데 둘레에 뭐가 있느냐에 따라 뜻이 바뀌어. 그 둘레, 앞뒤 사정 쪽을 보는 게 contextual이야.",
+  "글 속 단어든, 사람 행동이든, 뉴스 속 사건이든 다 돼.",
+  "그것만 따로 떼어 보는 거랑은 반대야. 그리고 속에 뭐가 들어 있는지(내용) 따지는 것도 아니야. 둘레를 보는 거야."
+ ],
+ "scene": "우는 사진 한 장 — 결혼식이면 기쁨, 장례식이면 슬픔",
+ "examples": [
+  {
+   "en": "Without the contextual information, the photo looked like a fight, but the boys were just playing.",
+   "ko": "앞뒤 사정을 모르고 보면 그 사진은 싸우는 것처럼 보였는데, 사실 남자애들은 그냥 놀고 있었던 거야."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "엄마가 나한테 \"잘~한다\"라고 했어. 내가 방금 식탁에 우유를 쏟은 바로 뒤였어. 그래서 나는 그 말을 칭찬이 아니라 꾸중으로 알아들었어. 이렇게 그 말 앞에 무슨 일이 있었는지에 비추어 뜻을 정하는 건 'contextual'한 거야?",
+   "choices": [
+    "응, contextual 맞아",
+    "아니, contextual 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, contextual 맞아",
+   "why": "맞아! 엄마 말만 따로 떼어 들으면 칭찬 같지만, 바로 앞에 식탁에 우유를 쏟은 일이 있었잖아. 그 일에 비추어 꾸중으로 알아들었으니 그게 바로 contextual인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "영화 속에서 주인공이 \"고마워\"라고 말하는 장면이 있어. 나는 그 앞에 무슨 일이 있었는지는 하나도 안 보고, 그 대사 한 줄만 따로 떼어서 '고맙다는 뜻'이라고 정했어. 이렇게 보는 건 'contextual'한 거야?",
+   "choices": [
+    "응, contextual 맞아",
+    "아니, contextual 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, contextual 아니야",
+   "why": "맞아! 주인공이 \"고마워\"라고 하기 전에 무슨 일이 있었는지 하나도 안 보고 대사 한 줄만 따로 떼어 봤잖아. contextual은 그 앞뒤 사정을 같이 보는 거라서, 이렇게 보는 건 딱 반대야."
+  },
+  {
+   "type": "choice",
+   "question": "글 속에 나온 '배'를 네 친구가 모두 '타는 배'라고 읽었어. 그렇게 읽은 까닭이 'contextual'한 친구는 누구야?",
+   "choices": [
+    "지수: 사전에 맨 처음 나온 뜻이 그거라서, '배'를 타는 배로 읽었어",
+    "도윤: 바로 앞 문장에 '항구'와 '선장'이 나와서, '배'를 타는 배로 읽었어",
+    "하린: '배' 한 글자만 따로 놓고 봐도 그 뜻이 먼저 떠올라서, '배'를 타는 배로 읽었어",
+    "준호: 지난번 받아쓰기 때 그 뜻으로 외워 둔 거라서, '배'를 타는 배로 읽었어"
+   ],
+   "answer_index": 1,
+   "answer": "도윤: 바로 앞 문장에 '항구'와 '선장'이 나와서, '배'를 타는 배로 읽었어",
+   "why": "맞아! 도윤이는 '배' 바로 앞 문장에 나온 '항구'랑 '선장'을 보고 뜻을 정했잖아. 이렇게 낱말 둘레의 글에 비추어 읽는 게 바로 contextual한 읽기야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "content",
+   "kind": "confusable",
+   "from": "'내용의/내용에 관한'(content)과 혼동"
+  }
+ ],
+ "related_scene": [
+  "context"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-contextual",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-contextual"
+ },
+ "image": null
+}

@@ -1,0 +1,91 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/loose/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/loose/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "loose",
+ "slug": "loose",
+ "url": "https://hibbangyong.com/words/loose/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "꽉 조이거나 딱 붙지 않고, 헐렁하거나 흔들흔들 잘 움직이는",
+ "gloss_ko": "헐렁하고 흔들리는",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "앞니가 흔들흔들, 혀로 밀면 앞뒤로 살짝 움직이지?",
+  "꽉 안 박혀 있어서 그래.",
+  "헐렁한 신발끈도, 몸에 안 붙고 남아도는 옷도 다 똑같아 — 딱 안 붙고 남는 거야.",
+  "꽉 조이거나 착 붙은 거 말고, 헐렁하게 잘 움직이는 거. 이게 loose야."
+ ],
+ "scene": "흔들리는 앞니를 혀로 밀어 앞뒤로 움직이는 장면",
+ "examples": [
+  {
+   "en": "My front tooth feels loose, so I keep touching it.",
+   "ko": "앞니가 흔들흔들해서 자꾸 만지게 돼."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "동생이 옷 네 벌을 입어 봤어. 그중에 'loose'한 옷은 어떤 거야?",
+   "choices": [
+    "헐렁해서 자꾸 어깨에서 흘러내리는 셔츠",
+    "몸에 딱 맞아 착 달라붙는 셔츠",
+    "단추를 끝까지 꽉 채워 조인 셔츠",
+    "빳빳하고 빤질빤질한 새 셔츠"
+   ],
+   "answer_index": 0,
+   "answer": "헐렁해서 자꾸 어깨에서 흘러내리는 셔츠",
+   "why": "맞아! 헐렁해서 어깨에서 자꾸 흘러내리는 건, 몸에 딱 안 붙고 남아돌아서 그런 거거든. 꽉 안 잡혀 있으니까 흔들흔들 움직이는 거, 바로 그게 loose야."
+  },
+  {
+   "type": "choice",
+   "question": "다음 중 'loose'한 것은 어떤 거야?",
+   "choices": [
+    "머리에 꼭 맞게 눌러쓴 야구모자",
+    "실이 늘어나 손목에서 빙글빙글 도는 팔찌",
+    "햇빛을 받아 뜨거워진 자전거 안장",
+    "흙이 묻어 까매진 운동화"
+   ],
+   "answer_index": 1,
+   "answer": "실이 늘어나 손목에서 빙글빙글 도는 팔찌",
+   "why": "맞아! 실이 늘어나서 손목에 딱 안 붙고 남으니까 빙글빙글 돌잖아. 꽉 안 조이고 헐렁하게 잘 움직이는 거, 그게 바로 loose야."
+  },
+  {
+   "type": "choice",
+   "question": "다음 중 'loose'한 것은 어떤 거야?",
+   "choices": [
+    "얼음물에 담가 두어 차가워진 유리컵",
+    "물감을 칠해 파랗게 된 도화지",
+    "나사가 덜 박혀서 좌우로 흔들거리는 의자 다리",
+    "여덟 조각으로 잘라 놓은 수박"
+   ],
+   "answer_index": 2,
+   "answer": "나사가 덜 박혀서 좌우로 흔들거리는 의자 다리",
+   "why": "맞아! 나사가 덜 박혀서 좌우로 흔들거리는 다리는 꽉 안 박혀 있어서 흔들흔들하잖아. 흔들리는 앞니랑 똑같지. 딱 안 붙고 헐렁하게 움직이는 거, 그게 바로 loose야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "tight"
+ ],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-loose",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-loose"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/loose.webp",
+  "alt": "흔들리는 앞니를 혀로 밀어 앞뒤로 움직이는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

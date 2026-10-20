@@ -1,0 +1,76 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/cotton/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/cotton/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "cotton",
+ "slug": "cotton",
+ "url": "https://hibbangyong.com/words/cotton/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "솜(면) — 하얀 솜뭉치, 또 그 솜으로 뽑은 실과 짠 천",
+ "gloss_ko": "솜(면)",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "밭에 하얀 솜뭉치가 뭉게뭉게 달린 풀이 있어. 톡 따면 손안에 구름 한 줌.",
+  "그 솜을 배배 꼬면 실이 되고, 실을 짜면 천이 돼. 네 티셔츠가 바로 그거야.",
+  "양 털도 폭신하지? 근데 그건 아니야. 이건 동물 몸이 아니라 밭에서 자란 거거든.",
+  "솜 그대로여도, 실이 돼도, 천이 돼도 다 cotton이야."
+ ],
+ "scene": "밭에서 하얀 솜뭉치가 달린 풀을 손으로 톡 따는 장면",
+ "examples": [
+  {
+   "en": "My favorite T-shirt is soft because it is made of cotton.",
+   "ko": "내가 제일 좋아하는 티셔츠는 면이라서 보들보들해."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "놀이터 미끄럼틀은 단단한 쇠로 만들어서 두드리면 땡땡 소리가 나. 이 쇠, 'cotton'이야?",
+   "choices": [
+    "응, cotton 맞아",
+    "아니, cotton 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, cotton 아니야",
+   "why": "맞아! 미끄럼틀 쇠는 밭에서 자란 것도 아니고 폭신하지도 않잖아. 딱딱하고 두드리면 땡땡 소리 나는 건 cotton이 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "보들보들한 천 네 가지가 있어. 이 중에서 'cotton'으로 만든 천은 어떤 걸까?",
+   "choices": [
+    "밭에서 자란 풀에 달린 하얀 솜뭉치를 따서 실로 꼰 천",
+    "양의 몸에서 가위로 깎아낸 폭신한 털을 실로 꼰 천",
+    "누에벌레가 입에서 길게 뽑아낸 반질반질한 실로 짠 천",
+    "공장에서 기름을 녹여 가늘게 뽑아낸 실로 짠 천"
+   ],
+   "answer_index": 0,
+   "answer": "밭에서 자란 풀에 달린 하얀 솜뭉치를 따서 실로 꼰 천",
+   "why": "맞아! 밭에서 자란 풀에 하얀 솜뭉치가 뭉게뭉게 달리고, 그걸 톡 따서 배배 꼬면 실이 되거든. 그 실로 짠 천이라서 바로 그게 cotton인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "fabric"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-cotton",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-cotton"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/cotton.webp",
+  "alt": "밭에서 하얀 솜뭉치가 달린 풀을 손으로 톡 따는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

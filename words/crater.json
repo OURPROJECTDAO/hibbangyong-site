@@ -1,0 +1,91 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/crater/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/crater/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "crater",
+ "slug": "crater",
+ "url": "https://hibbangyong.com/words/crater/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "구덩이 — 무언가 세게 떨어지거나 터져서 땅이 둥글게 움푹 파인 큰 자리",
+ "gloss_ko": "큰 구덩이",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "하늘에서 큰 돌이 쾅 떨어진 들판을 떠올려 봐. 땅이 둥글게 움푹 파인 큰 자리가 남아.",
+  "달 사진에 보이는 동그란 자국들도, 폭탄이 터진 도로 자리도, 화산 꼭대기의 둥근 입구도 다 이거야.",
+  "사람이 삽으로 판 구멍이나 땅이 길게 갈라진 틈이랑은 달라.",
+  "부딪히거나 터지는 큰 힘 때문에 둥글게 파인 자리, 그게 crater야."
+ ],
+ "scene": "하늘에서 큰 돌이 떨어져 들판이 둥글게 파인 자리",
+ "examples": [
+  {
+   "en": "From the plane, we could see a big crater in the desert.",
+   "ko": "비행기에서 보니까 사막 한가운데 커다랗게 움푹 파인 구덩이가 있었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "광산에서 다이너마이트를 크게 터뜨렸더니, 땅이 그릇처럼 둥글고 깊게 움푹 파인 넓은 자리가 남았어. 이 자리가 'crater'야?",
+   "choices": [
+    "응, crater 맞아",
+    "아니, crater 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, crater 맞아",
+   "why": "맞아! 다이너마이트가 크게 터진 힘 때문에 땅이 그릇처럼 둥글고 깊게 파였잖아. 터지는 큰 힘으로 둥글게 파인 넓은 자리, 그게 바로 crater야."
+  },
+  {
+   "type": "ox",
+   "question": "넓은 초원 한가운데에 땅이 둥글게 불룩 솟아올라서 완만한 언덕이 되어 있어. 이 언덕이 'crater'야?",
+   "choices": [
+    "응, crater 맞아",
+    "아니, crater 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, crater 아니야",
+   "why": "맞아! crater는 땅이 둥글게 움푹 파인 자리인데, 이 초원의 언덕은 거꾸로 불룩 솟아 있잖아. 그래서 crater가 아닌 게 맞아."
+  },
+  {
+   "type": "choice",
+   "question": "뉴스에서 도로 한가운데 'crater'가 생겼대. 그 도로는 어떤 모습일까?",
+   "choices": [
+    "땅이 한 줄로 길게 쩍 갈라져서 금이 났어",
+    "흙이 둥글게 불룩 솟아서 작은 언덕이 됐어",
+    "폭탄이 터진 자리가 둥글고 깊게 움푹 파였어",
+    "인부들이 삽으로 네모난 구멍을 반듯하게 팠어"
+   ],
+   "answer_index": 2,
+   "answer": "폭탄이 터진 자리가 둥글고 깊게 움푹 파였어",
+   "why": "맞아! 폭탄이 터지는 큰 힘 때문에 도로가 둥글고 깊게 움푹 파였으니까, 바로 그게 crater인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "dent",
+   "kind": "confusable",
+   "from": "vs dent"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-crater",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-crater"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/crater.webp",
+  "alt": "하늘에서 큰 돌이 떨어져 들판이 둥글게 파인 자리",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

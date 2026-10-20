@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/impoverished/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/impoverished/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "impoverished",
+ "slug": "impoverished",
+ "url": "https://hibbangyong.com/words/impoverished/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "몹시 가난한 — 생활에 꼭 필요한 것까지 모자랄 만큼 가난해진 (돈 말고 중요한 것이 크게 빠진 상태에도 씀)",
+ "gloss_ko": "몹시 가난한",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "공장이 문을 닫자 동네 사람들 일자리가 한꺼번에 사라졌어.",
+  "몇 년 지나니 밥값이랑 집세를 걱정하는 집이 많아졌지. 그 동네가 impoverished해진 거야.",
+  "이번 주 용돈이 좀 빠듯한 거랑은 달라. 살아가는 데 꼭 필요한 것까지 바닥난 상태야.",
+  "돈 말고 다른 것에도 써. 영양분이 다 빠진 땅처럼 중요한 게 텅 빈 것에도 붙어."
+ ],
+ "scene": "공장이 문 닫아 일자리가 사라진 동네",
+ "examples": [
+  {
+   "en": "The war left the small village impoverished for many years.",
+   "ko": "전쟁 때문에 그 작은 마을은 오랫동안 몹시 가난하게 살아야 했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "어느 시골 마을에 가뭄이 몇 해 동안 이어져 농사를 다 망쳤어. 이제 많은 집이 쌀과 약을 살 돈조차 없어. 이 마을을 'impoverished' 마을이라고 할 수 있을까?",
+   "choices": [
+    "응, impoverished 맞아",
+    "아니, impoverished 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, impoverished 맞아",
+   "why": "맞아! 가뭄 때문에 농사를 다 망쳐서 쌀이랑 약 살 돈조차 없잖아. 살아가는 데 꼭 필요한 것까지 모자라니까 바로 impoverished한 마을인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "어느 바닷가 마을에 관광객이 크게 늘어서 집집마다 벌이가 넉넉해졌어. 요즘은 새 집을 짓는 가족도 많아. 이 마을을 'impoverished' 마을이라고 할 수 있을까?",
+   "choices": [
+    "응, impoverished 맞아",
+    "아니, impoverished 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, impoverished 아니야",
+   "why": "맞아! 관광객 덕에 집집마다 벌이가 넉넉해지고 새 집까지 짓는 마을이잖아. impoverished는 꼭 필요한 것까지 모자랄 만큼 가난한 거라서, 이 마을은 그 정반대야."
+  },
+  {
+   "type": "choice",
+   "question": "네 가지 경우가 있어. 'impoverished'라고 부르기에 가장 알맞은 건?",
+   "choices": [
+    "공장이 문을 닫은 뒤로 많은 집이 끼니와 집세를 걱정하는 마을",
+    "이번 달 용돈을 일찍 다 써서 주말까지만 군것질을 못 하는 민수",
+    "통장에 돈이 많은데도 아까워서 새 옷 한 벌 안 사는 삼촌",
+    "새 공장이 들어선 뒤로 일자리가 넘쳐 가게마다 손님이 많은 마을"
+   ],
+   "answer_index": 0,
+   "answer": "공장이 문을 닫은 뒤로 많은 집이 끼니와 집세를 걱정하는 마을",
+   "why": "맞아! 공장이 문을 닫아서 일자리가 사라지고, 많은 집이 끼니랑 집세까지 걱정하게 됐잖아. 살아가는 데 꼭 필요한 것까지 모자란 상태가 이어지는 거라 바로 그게 impoverished인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "poor",
+   "kind": "confusable",
+   "from": "vs poor"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-impoverished",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-impoverished"
+ },
+ "image": null
+}

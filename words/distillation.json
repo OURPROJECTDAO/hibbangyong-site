@@ -1,0 +1,96 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/distillation/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/distillation/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "distillation",
+ "slug": "distillation",
+ "url": "https://hibbangyong.com/words/distillation/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "증류 — 섞인 액체를 끓여 김으로 만든 뒤, 그 김을 식혀 다시 액체로 모아서 원하는 것만 따로 뽑아내는 과정",
+ "gloss_ko": "증류",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "바닷물을 끓이면 물만 김이 돼서 올라가. 소금은 냄비 바닥에 그대로 남아.",
+  "올라간 김을 차가운 데서 식혀 받으면 다시 물이 돼. 이번엔 짜지 않은 물이야. 이 끓이고, 식히고, 다시 모으는 과정 전체가 distillation이야.",
+  "깨끗한 물을 얻을 때도, 꽃에서 향수 원액을 뽑을 때도 다 이 방법을 써. 그래서 긴 글이나 생각에서 핵심만 골라 뽑아낸 것도 이렇게 불러.",
+  "그냥 끓이기만 하는 거랑은 달라. 거름종이로 거르는 거랑도 다르고, 김을 그냥 날려 보내는 거랑도 달라. 김을 다시 받아 모아야 distillation이야."
+ ],
+ "scene": "바닷물을 끓여 김을 식혀 짜지 않은 물 받기",
+ "examples": [
+  {
+   "en": "We got drinking water from seawater by distillation.",
+   "ko": "우리 바닷물을 증류해서 마실 수 있는 물을 얻었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "민수가 파란 잉크가 섞인 물을 플라스크에 넣고 끓였어. 올라온 김을 차가운 유리관에 지나가게 해서 식혔더니 맑은 물방울이 맺혔고, 그 물방울을 빈 컵에 모았어. 민수가 한 이 과정 전체가 'distillation'일까?",
+   "choices": [
+    "응, distillation 맞아",
+    "아니, distillation 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, distillation 맞아",
+   "why": "맞아! 민수는 파란 잉크가 섞인 물을 끓이고, 올라온 김을 차가운 유리관에서 식히고, 맺힌 맑은 물방울을 빈 컵에 모았잖아. 끓이고 식히고 다시 모으는 게 다 들어 있어서 바로 그게 distillation인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "지은이가 미술 시간에 진한 빨간 물감을 팔레트에 짜고, 거기에 물을 듬뿍 부어 붓으로 저었어. 그랬더니 연한 분홍색 물감이 됐어. 지은이가 한 이 과정이 'distillation'일까?",
+   "choices": [
+    "응, distillation 맞아",
+    "아니, distillation 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, distillation 아니야",
+   "why": "맞아! 지은이는 빨간 물감에 물을 부어서 더 섞었을 뿐이야. 끓이지도 않았고 김을 식혀 다시 모으지도 않았으니까, 뭔가를 따로 뽑아낸 게 아니라서 distillation이 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "과학 시간에 네 모둠이 똑같은 바닷물로 실험을 했어. 'distillation'을 한 모둠은 어디일까?",
+   "choices": [
+    "바닷물을 끓여 나온 김을 차가운 관에 통과시켜 물방울로 받았어",
+    "바닷물을 거름종이 위에 부어 아래로 떨어진 물을 컵에 받았어",
+    "바닷물을 넓은 접시에 두고 물이 다 날아가 하얀 가루만 남게 했어",
+    "바닷물에 수돗물을 더 부어 저어서 덜 짠 물로 만들었어"
+   ],
+   "answer_index": 0,
+   "answer": "바닷물을 끓여 나온 김을 차가운 관에 통과시켜 물방울로 받았어",
+   "why": "맞아! 바닷물을 끓여 나온 김을 차가운 관에서 식혀 물방울로 다시 받았잖아. 끓이고, 식히고, 다시 모으는 걸 다 했으니까 바로 그게 distillation인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "dilution"
+ ],
+ "confusable": [
+  {
+   "word": "boiling",
+   "kind": "confusable",
+   "from": "그냥 끓이기(boiling)"
+  }
+ ],
+ "related_scene": [
+  "liquid",
+  "steam"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-distillation",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-distillation"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/distillation.webp",
+  "alt": "바닷물을 끓여 김을 식혀 짜지 않은 물 받기",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

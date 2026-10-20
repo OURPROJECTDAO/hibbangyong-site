@@ -1,0 +1,81 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/worldly/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/worldly/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "worldly",
+ "slug": "worldly",
+ "url": "https://hibbangyong.com/words/worldly/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "세속적인 — 종교나 마음의 세계가 아니라, 돈·물건·일·성공처럼 이 세상을 살아가는 일에 관한",
+ "gloss_ko": "세속적인",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "템플스테이에 가면 입구에서 휴대폰부터 맡겨. 시험 점수, 용돈, 인기 걱정은 잠깐 문밖에 두고 오라는 거야.",
+  "문밖에 둔 것들, 그러니까 돈·물건·성적·성공처럼 이 세상을 살아가는 일이 worldly한 것들이야.",
+  "나쁜 말만은 아니야. 먹고살 걱정도, 열심히 일해서 얻은 성공도 다 worldly야.",
+  "world가 들어 있다고 '전 세계의'로 읽으면 틀려. 반대편은 기도, 영혼, 마음 닦기 같은 쪽이야."
+ ],
+ "scene": "템플스테이 입구에서 휴대폰을 맡기고 시험·용돈·인기 걱정을 내려놓음",
+ "examples": [
+  {
+   "en": "At the temple, I forgot my worldly worries about tests and money for two days.",
+   "ko": "절에서 이틀 지내는 동안 시험이랑 돈 같은 세상살이 걱정을 싹 잊었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "삼촌은 요즘 회사에서 승진하는 것과 새 차를 살 돈을 모으는 것만 생각한대. 삼촌의 이런 고민은 'worldly'한 거야?",
+   "choices": [
+    "응, worldly 맞아",
+    "아니, worldly 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, worldly 맞아",
+   "why": "맞아! 승진은 회사 일에서 성공하는 거고, 새 차를 살 돈은 돈이랑 물건 얘기잖아. 삼촌 머릿속이 전부 이 세상을 살아가는 일로 꽉 차 있으니까 딱 worldly한 고민인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "산속 암자에서 스님이 하루 종일 불경을 읽으며 깨달음을 얻으려고 애쓰고 계셔. 스님의 이 일은 'worldly'한 거야?",
+   "choices": [
+    "응, worldly 맞아",
+    "아니, worldly 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, worldly 아니야",
+   "why": "맞아! 스님은 산속 암자에서 불경을 읽으며 깨달음을 얻으려고 애쓰시잖아. 그건 돈이나 성공이 아니라 마음과 종교 쪽 일이라서 worldly의 반대편이야."
+  },
+  {
+   "type": "choice",
+   "question": "미술 시간에 선생님이 그림 한 장을 보여 주시면서 \"이 그림은 'worldly'한 모습을 그린 거야\"라고 하셨어. 그림에는 뭐가 그려져 있을까?",
+   "choices": [
+    "시장에서 물건을 사고팔며 돈을 세는 사람들",
+    "지구본 둘레에 세계 여러 나라 국기를 그린 것",
+    "하늘로 올라가는 천사와 무릎 꿇고 기도하는 사람",
+    "용과 요정이 함께 사는 상상 속의 신비한 숲"
+   ],
+   "answer_index": 0,
+   "answer": "시장에서 물건을 사고팔며 돈을 세는 사람들",
+   "why": "맞아! 시장에서 물건을 사고팔고 돈을 세는 건 이 세상을 살아가는 일 그 자체야. 그래서 바로 그게 worldly한 모습인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-worldly",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-worldly"
+ },
+ "image": null
+}

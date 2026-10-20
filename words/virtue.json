@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/virtue/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/virtue/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "virtue",
+ "slug": "virtue",
+ "url": "https://hibbangyong.com/words/virtue/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "착한 성품 — 정직·친절·용기처럼 사람이 늘 지니고 있는 바른 마음.",
+ "gloss_ko": "착한 성품",
+ "level": {
+  "code": "L6",
+  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "사람 속에 있는 '좋은 점' 있잖아. 거짓말 안 하는 거, 친절한 거, 참을 줄 아는 거.",
+  "그거 하나하나가 다 virtue야.",
+  "딱 한 번 착한 게 아니라, 평소에도 늘 그런 마음을 품고 사는 거거든?",
+  "그게 virtue야."
+ ],
+ "scene": "평소에도 거짓말 안 하고 친절하고 참을 줄 아는 사람의 좋은 점",
+ "examples": [
+  {
+   "en": "Being honest even when nobody is watching is a real virtue.",
+   "ko": "아무도 안 볼 때도 정직한 거, 그게 진짜 훌륭한 점이야."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "무서운 일 앞에서도 물러서지 않고 늘 먼저 나서는 성격이 몸에 배어 있는 사람이 있어. 이 사람의 그런 점을 virtue라고 할 수 있어?",
+   "choices": [
+    "응, virtue 맞아",
+    "아니, virtue 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, virtue 맞아",
+   "why": "맞아! 무서워도 늘 먼저 나서는 그 마음이 몸에 딱 배어 있잖아. 한 번이 아니라 평소에도 그런 바른 마음을 품고 사니까, 바로 그게 virtue인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "친구를 보고 '저 애는 virtue가 있어'라고 말할 수 있는 건, 그 친구의 어떤 점을 봤을 때일까?",
+   "choices": [
+    "늘 그림을 반에서 제일 예쁘게 그려 내는 솜씨",
+    "늘 달리기가 누구보다 빨라 일등을 하는 몸",
+    "늘 정직하고, 손해를 봐도 남을 먼저 챙기는 마음",
+    "늘 어려운 셈도 척척 풀어내는 빠른 머리"
+   ],
+   "answer_index": 2,
+   "answer": "늘 정직하고, 손해를 봐도 남을 먼저 챙기는 마음",
+   "why": "맞아! 손해를 봐도 남을 먼저 챙기고 늘 정직한 그 마음, 그게 바로 사람 속에 오래 품고 사는 착한 성품이거든. 그래서 그 친구한테 virtue가 있다고 말할 수 있는 거야."
+  },
+  {
+   "type": "ox",
+   "question": "평소엔 자주 심술을 부리는 아이가, 오늘 딱 한 번 넘어진 친구를 일으켜 줬어. 이 한 번의 행동만 보고 '저 아이한테 virtue가 있다'고 말할 수 있을까?",
+   "choices": [
+    "응, virtue 맞아",
+    "아니, virtue 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, virtue 아니야",
+   "why": "맞아! virtue는 딱 한 번 착한 게 아니라 평소에도 늘 품고 사는 마음이거든. 오늘 한 번 도와줬다고 되는 게 아니라서, '아니야'가 딱 맞는 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "kindness",
+   "kind": "confusable",
+   "from": "vs kindness"
+  }
+ ],
+ "related_scene": [
+  "moral"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-virtue",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-virtue"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/virtue.webp",
+  "alt": "평소에도 거짓말 안 하고 친절하고 참을 줄 아는 사람의 좋은 점",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

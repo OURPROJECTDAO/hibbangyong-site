@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/luxury/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/luxury/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "luxury",
+ "slug": "luxury",
+ "url": "https://hibbangyong.com/words/luxury/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "꼭 있어야 하는 건 아닌데, 필요한 걸 넘어서서 아주 좋고 넉넉한 것",
+ "gloss_ko": "필요 넘어 아주 좋은 것",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "살아가는 데 꼭 있어야 하는 건 아니야. 없어도 아무 일 안 생겨. 근데 있으면 와, 소리가 절로 나.",
+  "목마를 땐 물이 꼭 있어야 하지? 근데 얼음 동동 띄운 주스는 없어도 되거든. 그래도 있으면 훨씬 좋잖아. 필요한 걸 넘어서서 좋은 거, 그게 이거야.",
+  "돈이 많이 드는 걸 수도 있고, 그냥 늦잠 한 번일 수도 있어. 넉넉한 집은 이런 걸 날마다 누리기도 해. 어쩌다 한 번이어야만 되는 건 아니거든.",
+  "쓸데없는 거랑은 달라. 쓸데없는 건 있어 봤자 시시하지만, 이건 없어도 되는데 아주 좋은 거야. 이게 luxury야."
+ ],
+ "scene": "목마를 때 마시는 물과 얼음 띄운 주스 대비",
+ "examples": [
+  {
+   "en": "The hotel had every luxury, even a pool on the roof.",
+   "ko": "그 호텔엔 옥상 수영장까지, 있으면 정말 좋은 것들이 죄다 있었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "한겨울에 창문이 깨져서 방으로 찬바람이 계속 들어와. 그래서 깨진 창문을 갈아 끼웠어. 이게 'luxury'야?",
+   "choices": [
+    "응, luxury 맞아",
+    "아니, luxury 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, luxury 아니야",
+   "why": "맞아! 깨진 창문으로 찬바람이 들어오면 추워서 살 수가 없잖아. 그건 없으면 안 되는 걸 다시 되돌려 놓은 거라서, 필요한 걸 넘어선 게 아니야."
+  },
+  {
+   "type": "ox",
+   "question": "교실 의자도 멀쩡하고 앉는 데 아무 문제 없는데, 등받이가 푹신하고 팔걸이까지 달린 의자로 바꿔서 앉았어. 이게 'luxury'야?",
+   "choices": [
+    "응, luxury 맞아",
+    "아니, luxury 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, luxury 맞아",
+   "why": "맞아! 앉을 의자는 이미 있었잖아. 앉는 데 아무 문제 없었는데 거기다 푹신한 등받이랑 팔걸이까지 더 얹은 거거든. 꼭 있어야 하는 걸 넘어서서 더 좋아진 거, 그게 바로 luxury야."
+  },
+  {
+   "type": "choice",
+   "question": "네 아이가 어제 자기가 한 일을 하나씩 말했어. 이 중에서 'luxury'라고 부를 수 있는 건?",
+   "choices": [
+    "안 추운데도 도톰하고 폭신한 이불을 한 장 더 덮고 잤어",
+    "심심해서 길에 굴러다니는 작은 돌을 주워 주머니에 넣었어",
+    "신던 신발이 다 해져서 새 신발을 사서 신었어",
+    "이가 아파서 값이 꽤 나가는 약을 사서 먹었어"
+   ],
+   "answer_index": 0,
+   "answer": "안 추운데도 도톰하고 폭신한 이불을 한 장 더 덮고 잤어",
+   "why": "맞아! 안 추운데도 폭신한 이불을 더 덮은 거니까, 그거 없어도 잠은 잘 잤을 거야. 그런데 덮으니까 훨씬 좋았지? 없어도 되는데 아주 좋은 거, 그게 바로 luxury야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "treat",
+   "kind": "confusable",
+   "from": "vs treat"
+  }
+ ],
+ "related_scene": [
+  "wealth"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-luxury",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-luxury"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/luxury.webp",
+  "alt": "목마를 때 마시는 물과 얼음 띄운 주스 대비",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

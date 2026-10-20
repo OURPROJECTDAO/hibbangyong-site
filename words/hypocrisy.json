@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/hypocrisy/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/hypocrisy/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "hypocrisy",
+ "slug": "hypocrisy",
+ "url": "https://hibbangyong.com/words/hypocrisy/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "위선(겉과 속이 다른 척) — 남에게는 옳다고 내세우는 기준을 정작 자기는 안 지키면서 지키는 척하는 것",
+ "gloss_ko": "위선",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "단톡방에서 '뒷담화 좀 그만하자' 해 놓고, 딴 방에선 자기가 뒷담화하는 애 있지.",
+  "남한테 내세우는 기준을 정작 자기는 안 지키면서 괜찮은 척하는 거, 그게 hypocrisy야.",
+  "사람만 그런 게 아니야. '환경 지킨다' 광고하면서 몰래 폐수 버리는 회사도 똑같아.",
+  "지키려다 한 번 실패하고 솔직히 인정하는 건 달라. 겉과 속이 다른데 모른 척하는 게 핵심이야."
+ ],
+ "scene": "단톡방에서 뒷담화 그만하자더니 딴 방에서 뒷담화하는 친구",
+ "examples": [
+  {
+   "en": "He tells everyone to save water, but he takes hour-long showers every day. What hypocrisy!",
+   "ko": "모두한테 물 아끼라면서 자기는 매일 한 시간씩 샤워하다니, 완전 위선이야!"
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "학급회의에서 반장이 '급식 남기지 말자'고 발표했어. 그런데 정작 반장은 매일 자기 식판 반찬을 절반 넘게 버리면서, 아무 일 없다는 듯 넘어가. 반장의 이런 모습이 'hypocrisy'야?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 맞아",
+   "why": "맞아! 반장이 반 애들한테는 급식 남기지 말자고 해 놓고, 정작 자기는 매일 반찬을 절반 넘게 버리면서 아무 일 없다는 듯 넘어가잖아. 남한테 내세운 기준을 자기는 안 지키면서 괜찮은 척하는 거, 바로 그게 hypocrisy야."
+  },
+  {
+   "type": "ox",
+   "question": "독서 동아리 회장이 '모임 중엔 휴대폰을 무음으로 하자'는 규칙을 만들었어. 회장은 모임이 시작되면 자기 휴대폰도 제일 먼저 무음으로 바꿔 둬. 회장의 이런 모습이 'hypocrisy'야?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 아니야",
+   "why": "맞아! 회장은 무음으로 하자고 해 놓고 자기 휴대폰부터 제일 먼저 무음으로 바꾸잖아. 말한 대로 자기가 먼저 지키니까 겉과 속이 똑같아서 hypocrisy가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "친구 네 명의 행동이야. 이 중에서 'hypocrisy'라고 부를 수 있는 건 누구의 행동일까?",
+   "choices": [
+    "다이어트한다더니 치킨을 먹고 '내가 졌다'며 웃으며 인정한 민지",
+    "숙제를 안 해 놓고 엄마한테는 다 했다고 대충 둘러댄 준호",
+    "지각하는 애들을 흉보면서 자기도 매일 늦는 걸 모른 척하는 서연",
+    "작년엔 채식을 편들다가 올해는 생각이 바뀌었다고 밝힌 지훈"
+   ],
+   "answer_index": 2,
+   "answer": "지각하는 애들을 흉보면서 자기도 매일 늦는 걸 모른 척하는 서연",
+   "why": "맞아! 서연이는 지각하는 애들을 흉보면서 남한테는 늦지 말라는 기준을 내세웠잖아. 그런데 자기도 매일 늦으면서 모른 척하니까, 이게 바로 hypocrisy야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-hypocrisy",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-hypocrisy"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/hypocrisy.webp",
+  "alt": "단톡방에서 뒷담화 그만하자더니 딴 방에서 뒷담화하는 친구",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/discovery/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/discovery/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "discovery",
+ "slug": "discovery",
+ "url": "https://hibbangyong.com/words/discovery/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "발견 — 숨어 있거나 몰랐던 것을 찾아내거나 알아내는 것, 또는 그렇게 알아낸 것",
+ "gloss_ko": "찾아낸 것",
+ "level": {
+  "code": "L3",
+  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "어항 물이 자꾸 줄었거든? 아무도 이유를 몰랐어. 그런데 봐봐, 바닥에 가느다란 금이 숨어 있었던 거야. 딱!",
+  "온 세상이 몰랐던 새 별이든, 우리 집에서만 몰랐던 금이든 다 돼. 좋은 일이든 속상한 일이든 상관없어.",
+  "원래 있었는데 몰랐던 걸 찾아내거나 알아내면 돼.",
+  "없던 걸 새로 만든 거랑은 달라. 있던 걸 알아낸 거, 그게 discovery야."
+ ],
+ "scene": "어항 바닥에서 물이 새는 가는 금을 찾아냄",
+ "examples": [
+  {
+   "en": "The discovery of the crack showed us why the water kept going down.",
+   "ko": "금이 간 걸 찾아내니까 물이 왜 자꾸 줄었는지 알 수 있었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "할머니 댁 다락방 상자를 열어 봤는데, 가족 누구도 있는 줄 몰랐던 옛날 사진첩이 그 안에 들어 있었어. 이걸 찾아낸 일은 'discovery'야?",
+   "choices": [
+    "응, discovery 맞아",
+    "아니, discovery 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, discovery 맞아",
+   "why": "맞아! 그 사진첩은 원래 다락방 상자 안에 있었는데, 가족 누구도 몰랐거든. 그걸 네가 찾아냈으니까 바로 그게 discovery인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "나는 구구단 2단을 벌써 다 외우고 있어. 오늘 2단을 처음부터 끝까지 한 번 더 외워 봤어. 이 일은 'discovery'야?",
+   "choices": [
+    "응, discovery 맞아",
+    "아니, discovery 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, discovery 아니야",
+   "why": "맞아! 너는 2단을 벌써 다 외우고 있었잖아. 이미 아는 걸 한 번 더 외운 거라서 새로 알아낸 게 없거든. 그래서 discovery가 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "아빠가 며칠째 바람이 빠지는 자전거 바퀴를 살펴봤더니, 타이어에 작은 못이 박혀 있었어. 기쁜 일도 아니고 세상에서 처음 있는 일도 아니야. 이런 경우도 'discovery'야?",
+   "choices": [
+    "응, discovery 맞아",
+    "아니, discovery 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, discovery 맞아",
+   "why": "맞아! 아빠는 바퀴 바람이 왜 빠지는지 몰랐는데, 살펴보다가 타이어에 박혀 있던 작은 못을 찾아냈잖아. 기쁜 일이 아니어도, 세상에서 처음 있는 일이 아니어도, 원래 있었는데 몰랐던 걸 알아냈으니까 그게 바로 discovery인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-discovery",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-discovery"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/discovery.webp",
+  "alt": "어항 바닥에서 물이 새는 가는 금을 찾아냄",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

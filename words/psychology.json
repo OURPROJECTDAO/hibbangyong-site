@@ -1,0 +1,86 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/psychology/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/psychology/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "psychology",
+ "slug": "psychology",
+ "url": "https://hibbangyong.com/words/psychology/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "사람 마음이 어떤 때 어떻게 움직이는지 캐내는 공부, 또 그렇게 굴러가는 마음의 길 자체(심리·심리학)",
+ "gloss_ko": "심리학",
+ "level": {
+  "code": "L6",
+  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "친구들이 다 웃으니까, 뭐가 웃긴지도 모르면서 너도 따라 웃은 적 있지?",
+  "그럴 때 마음이 왜 그렇게 움직였는지, 어떤 때 겁이 나고 어떤 때 자꾸 미루는지, 그 길을 캐내는 공부가 있거든.",
+  "누굴 도우려고 캐내기도 하고, 가게가 물건 더 팔려고 써먹기도 해. 그렇게 굴러가는 마음의 길 자체를 가리킬 때도 있고.",
+  "마음 아픈 사람을 약으로 고쳐 주는 일이나, 속마음을 척척 알아맞히는 재주랑은 달라. 그게 psychology야."
+ ],
+ "scene": "뭐가 웃긴지도 모르면서 친구들 따라 웃는 순간",
+ "examples": [
+  {
+   "en": "Our coach uses psychology to help scared players feel brave again.",
+   "ko": "우리 코치님은 겁먹은 선수들이 다시 용감해지도록 심리학을 활용해."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "어떤 사람이 아이들이 몇 살쯤부터 거짓말을 하기 시작하고 그때 속으로 무슨 생각을 하는지 오래 살펴서 규칙을 알아냈어. 이게 'psychology'야?",
+   "choices": [
+    "응, psychology 맞아.",
+    "아니, psychology 아니야."
+   ],
+   "answer_index": 0,
+   "answer": "응, psychology 맞아.",
+   "why": "맞아! 아이들이 몇 살쯤 거짓말을 시작하는지, 그때 속으로 무슨 생각을 하는지를 오래 살펴서 규칙을 찾아냈잖아. 마음이 어떻게 움직이는지 그 길을 캐낸 거니까 바로 그게 psychology인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "어떤 사람이 처음 만난 손님을 잠깐 보고는 '어제 동생이랑 다퉜죠?', '요즘 밤에 자꾸 깨죠?' 하고 줄줄이 맞혀서 둘러선 사람들이 다 놀랐대. 이런 것도 'psychology'야?",
+   "choices": [
+    "아니, 'psychology' 아니야",
+    "응, 'psychology' 맞아"
+   ],
+   "answer_index": 0,
+   "answer": "아니, 'psychology' 아니야",
+   "why": "맞아! 척척 알아맞히는 건 신기한 재주지, 마음이 어떤 때 어떻게 움직이는지 캐내는 공부는 아니거든. 그래서 이건 psychology가 아닌 게 맞아."
+  },
+  {
+   "type": "ox",
+   "question": "한 의사가 마음이 자꾸 가라앉고 잠도 못 잔다는 사람을 진료실에서 만나. 약을 지어 주고, 몇 주마다 다시 만나 잘 듣는지 보고 약을 바꿔 가며 낫게 해 준대. 이런 것도 'psychology'야?",
+   "choices": [
+    "응, 'psychology' 맞아",
+    "아니, 'psychology' 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 'psychology' 아니야",
+   "why": "맞아! 이건 마음이 어떻게 움직이는지 알아내는 게 아니라, 아픈 사람한테 약을 지어 주고 몸에 잘 듣나 살펴 주는 치료야. psychology는 사람 마음이 언제 왜 그렇게 움직이는지 알아내는 공부거든. 그래서 이건 아닌 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "psychiatric",
+  "psychiatrist"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-psychology",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-psychology"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/psychology.webp",
+  "alt": "뭐가 웃긴지도 모르면서 친구들 따라 웃는 순간",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

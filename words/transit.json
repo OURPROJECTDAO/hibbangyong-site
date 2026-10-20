@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/transit/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/transit/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "transit",
+ "slug": "transit",
+ "url": "https://hibbangyong.com/words/transit/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "수송 — 사람이나 물건을 한 곳에서 다른 곳으로 옮기는 과정(출발했지만 아직 도착 전인 도중)",
+ "gloss_ko": "옮겨 가는 도중",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "짐이든 사람이든, 출발은 했는데 아직 도착은 안 한 그 사이가 있지.",
+  "택배가 트럭에 실려 가는 중도, 여행객이 공항을 거쳐 가는 중도 다 그 사이야.",
+  "보내는 순간이나 받는 순간 말고, 한 곳에서 다른 곳으로 옮겨 가는 과정 자체가 transit이야.",
+  "그래서 미국에선 사람을 실어 나르는 버스나 지하철 같은 대중교통을 transit이라고도 불러."
+ ],
+ "scene": "출발했지만 아직 도착 안 한 짐·사람",
+ "examples": [
+  {
+   "en": "We spent six hours in transit at the airport in Dubai.",
+   "ko": "우리 두바이 공항에서 비행기 갈아타느라 여섯 시간이나 보냈어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "혈액원에서 나온 혈액 팩이 지금 구급차 안에 있어. 병원에는 10분 뒤에 도착해. 지금 이 혈액 팩은 'in transit' 상태야?",
+   "choices": [
+    "응, in transit 맞아",
+    "아니, in transit 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, in transit 맞아",
+   "why": "맞아! 혈액 팩은 혈액원을 이미 나왔고 병원엔 아직 안 닿았잖아. 지금 구급차 안에서 옮겨지는 중이니까 딱 in transit이야."
+  },
+  {
+   "type": "choice",
+   "question": "해외 쇼핑몰에서 산 운동화가 배송 조회에 'in transit'이라고 떠. 지금 운동화는 어떤 상태일까?",
+   "choices": [
+    "창고를 떠나 우리 집 쪽으로 옮겨 가는 중",
+    "아직 공장에서 만들어지는 중",
+    "주문이 취소되어 판매자에게 돌아간 상태",
+    "이미 도착해서 현관 앞에 놓인 상태"
+   ],
+   "answer_index": 0,
+   "answer": "창고를 떠나 우리 집 쪽으로 옮겨 가는 중",
+   "why": "맞아! in transit은 출발은 했는데 아직 도착은 안 한, 옮겨 가는 도중이라는 뜻이야. 창고를 떠나 우리 집 쪽으로 오고 있는 운동화가 딱 그 상태지."
+  },
+  {
+   "type": "ox",
+   "question": "이삿짐을 오늘 밤 방에서 상자에 싸고 있어. 이삿짐 트럭은 내일 아침에 와. 지금 이 짐은 'in transit' 상태야?",
+   "choices": [
+    "응, in transit 맞아",
+    "아니, in transit 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, in transit 아니야",
+   "why": "맞아! 짐은 아직 방에서 상자에 싸는 중이고 트럭은 내일 아침에야 오잖아. 출발도 안 했으니까 옮겨 가는 도중이 아니라서 in transit이 아닌 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "transition"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-transit",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-transit"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/transit.webp",
+  "alt": "출발했지만 아직 도착 안 한 짐·사람",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/label/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/label/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "label",
+ "slug": "label",
+ "url": "https://hibbangyong.com/words/label/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "이름표·꼬리표 — 물건에 붙어서 그게 뭔지 알려 주는 종이나 천 조각",
+ "gloss_ko": "이름표·꼬리표",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "가운데 있는 건 아직 아무것도 안 쓰인 빈 이름표예요. 끈으로 물건에 매달아 두는 작은 태그랍니다.",
+  "새로 산 옷이나 가방에 대롱대롱 붙어 있던 그거예요. 여기에 이름을 적으면 내 물건이라고 알려 줄 수 있어요."
+ ],
+ "scene": "label을 '꼬리표·이름표(택)' 사물로 그림 — 구멍에 끈을 꿴 빈 종이 태그 한 장을 중앙에 크게(글자 없이 표면은 빈칸)",
+ "examples": [
+  {
+   "en": "Mom wrote my name on the label so my water bottle wouldn't get mixed up at school.",
+   "ko": "엄마가 학교에서 물병이 안 섞이게 이름표에 내 이름을 적어 줬어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "옷 안쪽에 작게 붙어서 사이즈랑 빨래하는 방법을 알려 주는 조각을 봤어. 이게 label이야?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 맞아",
+   "why": null
+  },
+  {
+   "type": "choice",
+   "question": "label은 어느 것일까?",
+   "choices": [
+    "손목에 차고 시간을 보는 작은 시계",
+    "비가 오면 머리 위로 펼쳐 드는 우산",
+    "물건에 매달거나 붙이는 작은 종이 딱지",
+    "이를 닦을 때 손에 쥐고 쓰는 칫솔"
+   ],
+   "answer_index": 2,
+   "answer": "물건에 매달거나 붙이는 작은 종이 딱지",
+   "why": null
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-label",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-label"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/label.webp",
+  "alt": "label을 '꼬리표·이름표(택)' 사물로 그림 — 구멍에 끈을 꿴 빈 종이 태그 한 장을 중앙에 크게(글자 없이 표면은 빈칸)",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

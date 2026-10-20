@@ -1,0 +1,96 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/conjure/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/conjure/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "conjure",
+ "slug": "conjure",
+ "url": "https://hibbangyong.com/words/conjure/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "마법처럼 만들어 내다 — 거의 없는 데서 뭔가를 갑자기 나타나게 하다",
+ "gloss_ko": "마법처럼 만들어 냄",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "냉장고엔 달걀 두 개랑 식은 밥뿐이었는데, 엄마가 10분 만에 그럴듯한 저녁을 차려 냈어.",
+  "거의 없는 데서 뭔가를 마법처럼 나타나게 하는 거, 그게 conjure야.",
+  "마술사가 모자에서 토끼를 꺼내는 것도, 냄새 하나가 옛 장면을 눈앞에 불러오는 것도 다 여기 들어가.",
+  "그냥 '만들다'랑은 달라. 재료가 넉넉해서 계획대로 만드는 게 아니라, 없을 것 같은 데서 나오는 거야."
+ ],
+ "scene": "거의 빈 냉장고로 엄마가 저녁을 차려 냄",
+ "examples": [
+  {
+   "en": "With only five minutes left, she conjured a whole speech from a few notes.",
+   "ko": "5분밖에 안 남았는데, 걔는 메모 몇 줄로 연설 하나를 뚝딱 만들어 냈어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "마술사가 아무것도 없는 빈 손바닥을 꽉 쥐었다가 폈더니, 그 위에 동전 하나가 놓여 있었어. 마술사가 한 이 일, 이게 'conjure'야?",
+   "choices": [
+    "응, conjure 맞아",
+    "아니, conjure 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, conjure 맞아",
+   "why": "맞아! 아무것도 없던 빈 손바닥 위에 동전이 갑자기 나타났잖아. 없는 데서 마법처럼 나타나게 했으니까 바로 그게 conjure인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "마술사가 손바닥 위에 올려 둔 동전을 꽉 쥐었다가 폈더니, 동전이 감쪽같이 없어져 있었어. 마술사가 한 이 일, 이게 'conjure'야?",
+   "choices": [
+    "응, conjure 맞아",
+    "아니, conjure 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, conjure 아니야",
+   "why": "맞아! 마술사는 손바닥에 있던 동전을 없앤 거지, 없던 걸 나타나게 한 게 아니잖아. conjure는 거의 없는 데서 뭔가를 나오게 하는 쪽이라 이건 정반대 방향이야."
+  },
+  {
+   "type": "ox",
+   "question": "쉬는 시간에 운동장에 공도 줄넘기도 없었는데, 친구가 나뭇가지 하나와 돌멩이 몇 개로 금세 다 같이 할 수 있는 게임을 만들어 냈어. 이런 경우도 'conjure'야?",
+   "choices": [
+    "응, 'conjure' 맞아",
+    "아니, 'conjure' 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 'conjure' 맞아",
+   "why": "맞아! 운동장에 공도 줄넘기도 없었는데 나뭇가지 하나랑 돌멩이 몇 개로 금세 다 같이 할 게임이 나왔잖아. 거의 없는 데서 놀이가 툭 나타난 거라서 바로 그게 conjure인 거야."
+  }
+ ],
+ "synonyms": [
+  "invoke"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "summon",
+   "kind": "confusable",
+   "from": "vs summon"
+  },
+  {
+   "word": "improvise",
+   "kind": "confusable",
+   "from": "vs improvise"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-conjure",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-conjure"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/conjure.webp",
+  "alt": "거의 빈 냉장고로 엄마가 저녁을 차려 냄",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

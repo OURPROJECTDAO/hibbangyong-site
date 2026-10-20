@@ -1,0 +1,92 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/cull/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/cull/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "cull",
+ "slug": "cull",
+ "url": "https://hibbangyong.com/words/cull/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "솎아 내 죽이다 — 동물 무리가 너무 불어나지 않게 그중 몇 마리를 골라 죽이다",
+ "gloss_ko": "솎아 죽이다",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "어떤 섬에 사슴이 너무 늘어서 나무가 남아나질 않았어.",
+  "그래서 관리인들이 무리 전체가 버틸 수 있도록 사슴 몇 마리를 골라 죽였어. 이게 cull이야.",
+  "재미로 하는 사냥과는 달라. 한 마리도 안 남기고 다 없애는 것과도 달라.",
+  "수를 맞추려고 무리에서 몇을 솎아 내는 거야. 농장에서 약하거나 병든 닭을 골라낼 때도 이 말을 써."
+ ],
+ "scene": "섬에 사슴이 너무 늘어 관리인들이 몇 마리를 골라 죽임",
+ "examples": [
+  {
+   "en": "Every winter, the rangers cull a few deer in the park.",
+   "ko": "겨울마다 공원 관리인들이 사슴 수를 줄이려고 몇 마리를 골라 죽여."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "어느 보호구역에 캥거루가 너무 많아져서 풀이 모자라게 됐어. 그래서 관리인들이 캥거루 무리에서 일부를 골라 죽였어. 이 일을 'cull'이라고 할 수 있을까?",
+   "choices": [
+    "응, cull 맞아",
+    "아니, cull 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, cull 맞아",
+   "why": "맞아! 캥거루가 너무 많아져서 풀이 모자라니까, 관리인들이 수를 줄이려고 무리에서 일부만 골라 죽인 거잖아. 바로 그게 cull이야."
+  },
+  {
+   "type": "ox",
+   "question": "송어 양식장 주인이 송어 수를 더 늘리려고 알을 잔뜩 부화시켜 새끼를 많이 길러 냈어. 이 일을 'cull'이라고 할 수 있을까?",
+   "choices": [
+    "응, cull 맞아",
+    "아니, cull 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, cull 아니야",
+   "why": "맞아! 양식장 주인은 송어 수를 늘리려고 새끼를 길러 낸 거잖아. cull은 수를 줄이려고 몇 마리를 골라 죽이는 거라서 방향이 정반대야."
+  },
+  {
+   "type": "choice",
+   "question": "네 가지 일이 있었어. 이 중에서 'cull'이라고 부를 수 있는 일은 어떤 거야?",
+   "choices": [
+    "숲이 망가질 만큼 사슴이 많아지자, 관리인들이 사슴 몇십 마리를 죽였어.",
+    "주말마다 아저씨들이 재미 삼아 산에 가서 멧돼지를 잡아 왔어.",
+    "소 농장 주인이 소를 더 늘리려고 어미 소들한테 새끼를 많이 낳게 했어.",
+    "병을 옮긴다고 해서, 마을 사람들이 쥐를 마지막 한 마리까지 다 잡았어."
+   ],
+   "answer_index": 0,
+   "answer": "숲이 망가질 만큼 사슴이 많아지자, 관리인들이 사슴 몇십 마리를 죽였어.",
+   "why": "맞아! 사슴이 너무 많아져서 숲이 망가지니까, 관리인들이 수를 줄이려고 몇십 마리만 골라 죽인 거잖아. 무리가 버틸 수 있게 일부를 솎아 내는 거, 그게 바로 cull이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "slaughter",
+   "kind": "confusable",
+   "from": "vs slaughter"
+  },
+  {
+   "word": "thin",
+   "kind": "confusable",
+   "from": "vs thin out"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-cull",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-cull"
+ },
+ "image": null
+}

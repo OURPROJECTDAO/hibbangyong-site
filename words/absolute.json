@@ -1,0 +1,112 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/absolute/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/absolute/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "absolute",
+ "slug": "absolute",
+ "url": "https://hibbangyong.com/words/absolute/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "완전한 — 예외도 한계도 조금도 없이 딱 100%인",
+ "gloss_ko": "완전한",
+ "level": {
+  "code": "L3",
+  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "방에 불을 딱 껐어. 근데 그냥 어두운 게 아니야.",
+  "반쯤 어두운 것도 아니고, 어디 한 군데 희미하게 남은 빛도 없어.",
+  "예외가 하나도 없이 끝까지 다 깜깜해. 더 어두워질 것도 없어, 딱 100%.",
+  "이렇게 예외도 한계도 조금도 없이 완전히 그런 게 absolute야."
+ ],
+ "scene": "불을 꺼 예외 없이 끝까지 100% 깜깜해진 어둠 (child 앵커)",
+ "examples": [
+  {
+   "en": "When the movie started, there was absolute silence in the theater.",
+   "ko": "영화가 시작되니까, 극장 안이 완전히 조용해졌어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "탐험가가 동굴 안이 'absolute' 어둠이었다고 했어. 다음 중 어떤 뜻일까?",
+   "choices": [
+    "조금 어둑어둑해서 흐릿하게 보이는 어둠",
+    "빛이 한 줄기도 없이 끝까지 완전히 깜깜한 어둠",
+    "밤이 되어서 평소처럼 어두운 어둠",
+    "무섭게 보이는 어둠"
+   ],
+   "answer_index": 1,
+   "answer": "빛이 한 줄기도 없이 끝까지 완전히 깜깜한 어둠",
+   "why": "맞아! 탐험가가 absolute 어둠이라고 한 건, 동굴 안에 빛이 한 줄기도 없이 끝까지 완전히 깜깜했다는 거야. 조금도 빠진 데 없이 100% 그런 게 바로 absolute거든."
+  },
+  {
+   "type": "choice",
+   "question": "형이 어떤 규칙을 'absolute'한 규칙이라고 했어. 그럼 그건 어떤 규칙일까?",
+   "choices": [
+    "웬만하면 지키지만 급할 땐 어겨도 되는 규칙",
+    "지켜야 할 항목이 아주 많아서 외우기 긴 규칙",
+    "어떤 경우에도 예외 없이 꼭 지켜야 하는 규칙",
+    "새로 만들어서 확실하게 정해진 규칙"
+   ],
+   "answer_index": 2,
+   "answer": "어떤 경우에도 예외 없이 꼭 지켜야 하는 규칙",
+   "why": "맞아! absolute는 예외가 딱 하나도 없이 끝까지 다 지켜야 하는 거거든. 어떤 경우에도 안 봐주는 규칙, 그게 바로 완전한 규칙인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "다음 중 'absolute'한 경우가 아닌 것은?",
+   "choices": [
+    "불을 다 꺼서 예외 없이 끝까지 완전히 깜깜한 방",
+    "반쯤 어둡고 한쪽 구석에 희미한 빛이 남아 있는 방",
+    "물통에 더는 못 넣을 만큼 100% 꽉 찬 물",
+    "소리가 조금도 없이 완전히 고요한 도서관"
+   ],
+   "answer_index": 1,
+   "answer": "반쯤 어둡고 한쪽 구석에 희미한 빛이 남아 있는 방",
+   "why": "맞아! 반쯤 어둡고 한쪽 구석에 희미한 빛이 남아 있으면 끝까지 다 깜깜한 게 아니잖아. 빛이 조금이라도 남아 있으니까 이 방은 absolute가 아닌 거야."
+  }
+ ],
+ "synonyms": [
+  "total"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "certain",
+   "kind": "confusable",
+   "from": "확실한/분명한(certain)"
+  },
+  {
+   "word": "complete",
+   "kind": "confusable",
+   "from": "vs complete"
+  },
+  {
+   "word": "total",
+   "kind": "confusable",
+   "from": "vs total"
+  },
+  {
+   "word": "pure",
+   "kind": "confusable",
+   "from": "vs pure"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-absolute",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-absolute"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/absolute.webp",
+  "alt": "불을 꺼 예외 없이 끝까지 100% 깜깜해진 어둠 (child 앵커)",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

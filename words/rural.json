@@ -1,0 +1,103 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/rural/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/rural/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "rural",
+ "slug": "rural",
+ "url": "https://hibbangyong.com/words/rural/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "시골의 — 큰 도시에서 멀리 떨어져, 집은 드물고 들판이나 산 같은 넓은 땅이 펼쳐진 곳의.",
+ "gloss_ko": "시골의",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "차 타고 도시에서 아주 멀리 나가 봐. 높은 건물은 하나둘 사라지고 넓은 들판이랑 낮은 집 몇 채만 보여.",
+  "사람도 별로 없고 버스도 가끔 오지.",
+  "꼭 농사짓는 곳만 그런 게 아니라, 산속 작은 마을도 도시에서 멀면 다 여기 들어가.",
+  "복잡한 도시랑은 딴판인, 이 조용한 시골이 rural이야."
+ ],
+ "scene": "차 타고 도시에서 멀리 나가 높은 건물이 사라지고 들판·낮은 집만 보이는 장면",
+ "examples": [
+  {
+   "en": "My grandma lives in a small, quiet rural town with wide open fields.",
+   "ko": "할머니는 넓은 들판이 펼쳐진 작고 조용한 시골 마을에 사셔."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "친구 네 명이 각자 사는 곳을 한 문장으로 말했어. 이 중에서 'rural'인 곳을 말한 친구는 누구일까?",
+   "choices": [
+    "우리 집은 버스 정류장 두 개를 지나면 큰 백화점이 나오는 곳에 있어.",
+    "우리 집 앞에는 논밭이 끝없이 펼쳐지고, 이웃집까지 걸어서 십 분이 걸려.",
+    "우리 집은 놀이공원 바로 뒤에 있어서 주말이면 사람들이 줄을 서 있어.",
+    "우리 집은 항구 근처라 배가 드나들고 시장이 새벽부터 열려."
+   ],
+   "answer_index": 1,
+   "answer": "우리 집 앞에는 논밭이 끝없이 펼쳐지고, 이웃집까지 걸어서 십 분이 걸려.",
+   "why": "맞아! 논밭이 쭉 펼쳐지고 이웃집까지 걸어서 십 분이나 걸린다는 건, 집도 사람도 드물고 넓은 땅만 있다는 뜻이거든. 도시에서 멀리 떨어진 딱 그런 조용한 곳이 바로 rural이야."
+  },
+  {
+   "type": "choice",
+   "question": "친구가 사진 네 장을 보여 주며 어디인지 설명했어. 다음 중 'rural'에 해당하는 곳은 어디일까?",
+   "choices": [
+    "전철이 지나는 다리 아래로 자동차가 줄지어 서 있고 간판이 늘어선 곳",
+    "컨테이너를 실은 배가 드나들고 크레인이 짐을 내리는 항구",
+    "차로 한참 나가야 하고 논과 과수원 사이 흙길에 집이 드문드문 있는 곳",
+    "비행기가 활주로에 내려앉고 가방을 끈 사람들이 오가는 공항"
+   ],
+   "answer_index": 2,
+   "answer": "차로 한참 나가야 하고 논과 과수원 사이 흙길에 집이 드문드문 있는 곳",
+   "why": "맞아! 차로 한참 나가야 하고 논밭이랑 과수원 사이에 집이 드문드문 있잖아. 도시에서 멀고 넓은 땅이 펼쳐진 그 조용한 곳, 그게 바로 rural이야."
+  },
+  {
+   "type": "choice",
+   "question": "네 곳을 설명할게. 이 중에서 'rural'이라고 부를 수 있는 곳은 어디일까?",
+   "choices": [
+    "높은 빌딩과 지하철역이 빽빽하고 사람이 늘 붐비는 곳",
+    "도시 바로 옆이라 조용하지만 차로 몇 분이면 도시 한복판에 닿는 주택가",
+    "차로 도시에서 한참 나가야 하고, 집이 몇 채 없이 들판만 넓게 펼쳐진 곳",
+    "큰 도시 안에 있는 넓은 공원이라 나무도 많고 조용한 곳"
+   ],
+   "answer_index": 2,
+   "answer": "차로 도시에서 한참 나가야 하고, 집이 몇 채 없이 들판만 넓게 펼쳐진 곳",
+   "why": "맞아! 도시에서 차로 한참 나가야 하고 집도 몇 채 없이 들판만 넓게 있잖아. 도시랑 멀리 떨어져 있고 집이 드문드문한 거, 그게 딱 rural인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "urban",
+  "urban"
+ ],
+ "confusable": [
+  {
+   "word": "pastoral",
+   "kind": "confusable",
+   "from": "vs pastoral"
+  },
+  {
+   "word": "rustic",
+   "kind": "confusable",
+   "from": "vs rustic"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-rural",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-rural"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/rural.webp",
+  "alt": "차 타고 도시에서 멀리 나가 높은 건물이 사라지고 들판·낮은 집만 보이는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

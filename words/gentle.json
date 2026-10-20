@@ -1,0 +1,90 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/gentle/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/gentle/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "gentle",
+ "slug": "gentle",
+ "url": "https://hibbangyong.com/words/gentle/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "부드러운 — 세게 몰아치지 않고 힘을 줄여서 하는",
+ "gloss_ko": "부드러운",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "비눗방울이 네 손에 톡 앉았어. 콱 쥐면? 퍽, 터지지. 그래서 손힘을 쫙 빼고 받치잖아.",
+  "손 얘기만이 아니야. 보슬보슬 오는 비도, 확 치솟지 않고 슬슬 올라가는 언덕도, 아주 약하게 켠 불도 그래.",
+  "사람한테도 써. 근데 마음이 착하다는 말은 아니야. 말도 행동도 안 거칠다는 뜻이거든? 착해도 문을 쾅 닫는 애 있잖아.",
+  "힘이 없는 게 아니라 있는 힘을 줄여 쓰는 거야. 그게 gentle이야."
+ ],
+ "scene": "손바닥에 톡 앉은 비눗방울을 손힘 빼고 받치기",
+ "examples": [
+  {
+   "en": "The rain was gentle, so we kept playing outside.",
+   "ko": "비가 부드럽게 내려서 우리는 계속 밖에서 놀았어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "준호가 서랍을 있는 힘껏 확 잡아당겨 열었어. 이게 'gentle'이야?",
+   "choices": [
+    "응, gentle 맞아",
+    "아니, gentle 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, gentle 아니야",
+   "why": "맞아! 있는 힘껏 확 잡아당긴 거니까 힘을 준 쪽이지, 줄인 쪽이 아니잖아. gentle은 열 수 있는 힘이 있어도 스르륵 살살 당기는 거거든. 그래서 이건 gentle이 아닌 게 맞아."
+  },
+  {
+   "type": "ox",
+   "question": "누나가 기타 줄을 튕길 때 손가락에 주던 힘을 줄여서 튕겼어. 소리가 작게 났어. 이거 'gentle'이야?",
+   "choices": [
+    "응, gentle 맞아",
+    "아니, gentle 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, gentle 맞아",
+   "why": "맞아! 손가락 힘을 줄여서 튕겼으니까 소리도 작게 난 거잖아. 있는 힘을 빼고 살살 쓰는 것, 그게 바로 gentle이야."
+  },
+  {
+   "type": "choice",
+   "question": "가족이 각자 이렇게 했어. 이 중에서 딱 하나만 'gentle'이라고 말할 수 있어. 어느 거야?",
+   "choices": [
+    "엄마가 잠든 동생 어깨를 조금씩만 흔들어 깨웠어",
+    "형이 아무 말도 안 하고 방문을 쾅 닫고 나갔어",
+    "누나가 비 맞는 동생한테 우산을 얼른 씌워 줬어",
+    "할아버지가 무거운 화분을 힘이 부쳐 쿵 내려놨어"
+   ],
+   "answer_index": 0,
+   "answer": "엄마가 잠든 동생 어깨를 조금씩만 흔들어 깨웠어",
+   "why": "맞아! 깨우긴 해야 하는데 확 흔들면 동생이 놀라니까, 흔드는 힘을 조금씩만 쓴 거잖아. 그렇게 힘을 줄여서 하는 게 바로 gentle이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "rough",
+  "violent"
+ ],
+ "confusable": [],
+ "related_scene": [
+  "breeze"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-gentle",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-gentle"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/gentle.webp",
+  "alt": "손바닥에 톡 앉은 비눗방울을 손힘 빼고 받치기",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

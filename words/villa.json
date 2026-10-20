@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/villa/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/villa/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "villa",
+ "slug": "villa",
+ "url": "https://hibbangyong.com/words/villa/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "별장 — 도시 밖 시골이나 바닷가에 있는, 마당 넓고 방 많은 큰 집",
+ "gloss_ko": "별장",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "차를 타고 도시를 한참 빠져나가면, 바닷가 언덕에 집 한 채가 딱 서 있어.",
+  "담은 낮고 마당은 넓고 방도 많은, 크고 좋은 집이야.",
+  "휴가 때 며칠 놀다 오기도 하고, 아예 거기서 쭉 사는 사람도 있어.",
+  "우리가 흔히 말하는 그 빌라, 작은 집 여러 개가 층층이 든 건물 말이야, 그거랑은 아주 달라. 이게 villa야."
+ ],
+ "scene": "도시 밖 바닷가 언덕에 홀로 선, 마당 넓고 방 많은 큰 집",
+ "examples": [
+  {
+   "en": "We stayed at a villa near the sea last summer.",
+   "ko": "우리는 작년 여름에 바닷가 근처 별장에서 지냈어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "삼촌네 집은 도시 한복판 지하철역 바로 앞에 있어. 한 건물에 집이 층층이 백 칸 들어 있고, 삼촌네는 그중 12층의 방 두 개짜리 한 칸을 써. 마당은 없어. 이게 'villa'야?",
+   "choices": [
+    "응, villa 맞아",
+    "아니, villa 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, villa 아니야",
+   "why": "맞아! 삼촌네 집은 도시 한복판에 있고, 한 건물에 집이 백 칸이나 들어 있는 것 중 한 칸이야. 마당도 없지. villa는 도시 밖에 따로 서 있고 마당이 넓고 방도 많은 큰 집이거든. 그래서 삼촌네 집은 villa가 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "이모네 집은 도시에서 차로 한참 나가면 나오는 감나무밭 옆에 있어. 담이 낮고 마당이 넓고 방이 여섯 개인데, 그 집은 이모네 식구만 통째로 써. 이게 'villa'야?",
+   "choices": [
+    "응, villa 맞아",
+    "아니, villa 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, villa 맞아",
+   "why": "맞아! 이모네 집은 도시에서 차로 한참 나가야 있고, 마당이 넓고 방이 여섯 개나 되고, 이모네 식구만 통째로 쓰거든. 그래서 바로 그 집이 villa인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 사람이 자기가 지내는 집을 이야기했어. 'villa'에서 지내는 사람은 누구일까?",
+   "choices": [
+    "도시에서 멀리 떨어진 바닷가 언덕, 마당 넓고 방 많은 집 한 채에서 지내",
+    "도시 골목 안, 여러 집이 층층이 들어찬 작은 건물의 삼층 집에서 지내",
+    "손님들이 방을 하나씩 나눠 받는 큰 건물에서, 밥도 거기서 먹고 지내",
+    "산속 깊이 나무로 지은, 방 하나뿐인 작고 낡은 오두막에서 지내"
+   ],
+   "answer_index": 0,
+   "answer": "도시에서 멀리 떨어진 바닷가 언덕, 마당 넓고 방 많은 집 한 채에서 지내",
+   "why": "맞아! 도시에서 멀리 떨어진 바닷가 언덕에, 마당 넓고 방 많은 큰 집 한 채가 통째로 한 집안 거라서 바로 그게 villa인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-villa",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-villa"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/villa.webp",
+  "alt": "도시 밖 바닷가 언덕에 홀로 선, 마당 넓고 방 많은 큰 집",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

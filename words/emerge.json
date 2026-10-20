@@ -1,0 +1,98 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/emerge/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/emerge/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "emerge",
+ "slug": "emerge",
+ "url": "https://hibbangyong.com/words/emerge/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "가려져 있다가 밖으로 나와 보이게 되다",
+ "gloss_ko": "가려져 있다가 밖으로 나오다",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "안개가 자욱한 아침이야. 앞이 뿌옇게 아무것도 안 보여.",
+  "그런데 그 뿌연 것 속에서 커다란 배 한 척이 스윽 나와. 안 보이던 게 이제 보여.",
+  "물속에 있던 오리가 물 위로 쏙 올라올 때도, 굴속에 있던 토끼가 밖으로 폴짝 나올 때도 똑같아.",
+  "안 보이던 데서 밖으로 나와 보이게 되는 것, 그게 emerge야."
+ ],
+ "scene": "안개 속에서 큰 배가 나오는 아침",
+ "examples": [
+  {
+   "en": "A big ship emerged from the fog.",
+   "ko": "커다란 배가 안개 속에서 쓱 나타났어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "공원에서 네 장면을 봤어. 이 중에서 'emerge'인 건?",
+   "choices": [
+    "수풀에 가려 안 보이던 고양이가 길가로 걸어 나와 이제 보여",
+    "벤치에 앉아 있던 아저씨가 신문을 한 장 넘겼어",
+    "분수대 물이 위로 솟았다가 아래로 떨어졌어",
+    "자전거를 탄 아이가 길을 따라 곧장 달려갔어"
+   ],
+   "answer_index": 0,
+   "answer": "수풀에 가려 안 보이던 고양이가 길가로 걸어 나와 이제 보여",
+   "why": "맞아! 수풀에 가려서 안 보이던 고양이가 밖으로 나와서 이제 보이잖아. 안 보이던 게 나와서 보이게 되는 것, 그게 바로 emerge인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 가지 일이 있었어. 이 중에서 'emerge'라고 말할 수 있는 건?",
+   "choices": [
+    "동굴 안에 있던 곰이 밖으로 걸어 나와서 이제 사람들 눈에 보여",
+    "운동장 한가운데 서 있던 아이가 옆으로 몇 걸음 걸어갔어",
+    "밖에서 놀던 강아지가 집 안으로 들어가서 안 보여",
+    "책상 위에 놓여 있던 공이 그 자리에 그대로 있어"
+   ],
+   "answer_index": 0,
+   "answer": "동굴 안에 있던 곰이 밖으로 걸어 나와서 이제 사람들 눈에 보여",
+   "why": "맞아! 동굴 속에 가려져서 안 보이던 곰이 밖으로 나오니까 이제 눈에 보이잖아. 안 보이던 게 나와서 보이게 됐으니까 바로 그게 emerge인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "연못 위에 떠 있어서 잘 보이던 개구리가 물속으로 풍덩 들어가 버려서 이제 아무도 못 봐. 이게 'emerge'야?",
+   "choices": [
+    "응, emerge 맞아",
+    "아니, emerge 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, emerge 아니야",
+   "why": "맞아! 보이던 개구리가 물속으로 쏙 들어가서 안 보이게 된 거잖아. 이건 나오는 게 아니라 사라지는 거니까 emerge랑은 정반대인 거야. emerge는 안 보이던 게 밖으로 나와서 보이게 되는 거거든."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "appear",
+   "kind": "confusable",
+   "from": "그냥 나타나다(appear) — 원래 안 보이던 곳에서 '나오는' 과정이 빠짐"
+  },
+  {
+   "word": "escape",
+   "kind": "confusable",
+   "from": "vs escape"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-emerge",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-emerge"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/emerge.webp",
+  "alt": "안개 속에서 큰 배가 나오는 아침",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

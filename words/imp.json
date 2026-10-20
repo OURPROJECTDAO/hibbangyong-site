@@ -1,0 +1,86 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/imp/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/imp/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "imp",
+ "slug": "imp",
+ "url": "https://hibbangyong.com/words/imp/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "꼬마 도깨비 — 이야기 속에서 마법을 부리며 못된 장난을 치는 작은 존재 (장난이 심한 아이를 귀엽게 부를 때도 써)",
+ "gloss_ko": "꼬마 도깨비",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "동화를 보면 주먹만 한 녀석이 마법으로 우유를 엎고, 신발 끈을 서로 묶어 놓고는 킥킥 웃잖아.",
+  "그런 녀석이 imp야. 크고 무서운 악마랑은 달라. 사람을 크게 해치지는 않고, 작은 몸으로 못된 장난을 치는 쪽이야.",
+  "그래서 말썽꾸러기 동생한테 반은 혼내고 반은 귀여워서 이 말을 쓰기도 해."
+ ],
+ "scene": "마법으로 우유를 엎고 신발 끈을 묶어 놓는 작은 녀석",
+ "examples": [
+  {
+   "en": "In the story, a tiny imp hid the king's crown just to make him angry.",
+   "ko": "이야기 속에서 조그만 꼬마 도깨비가 그냥 왕을 약 올리려고 왕관을 숨겨 버렸어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "동화 속에서 손가락만 한 녀석이 마법으로 할머니의 뜨개실을 온통 엉키게 해 놓고 숨어서 키득거려. 이 녀석은 'imp'야?",
+   "choices": [
+    "응, imp 맞아",
+    "아니, imp 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, imp 맞아",
+   "why": "맞아! 손가락만 한 작은 녀석이 마법으로 할머니 뜨개실을 엉키게 해 놓고 숨어서 키득거리잖아. 작은 몸, 마법, 사람을 해치지 않는 못된 장난까지 다 들어 있으니까 바로 imp인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "동화 속에서 손가락만 한 녀석이 마법으로 반딧불을 불러 길 잃은 아이에게 집에 가는 길을 밝혀 줘. 이 녀석은 'imp'야?",
+   "choices": [
+    "응, imp 맞아",
+    "아니, imp 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, imp 아니야",
+   "why": "잘 골랐어! 손가락만 한 녀석이 마법을 쓰는 건 맞는데, 장난을 치는 게 아니라 반딧불을 불러서 길 잃은 아이를 집에 데려다주고 있잖아. 이렇게 남을 돕는 녀석은 imp라고 하지 않아."
+  },
+  {
+   "type": "choice",
+   "question": "동화책에 네 존재가 나와. 이 중에서 'imp'라고 부르기에 가장 알맞은 건?",
+   "choices": [
+    "몰래 사람들 숟가락을 전부 숨겨 놓고 낄낄대는 작은 녀석",
+    "불을 뿜으며 마을을 통째로 부수어 버리는 거대한 악마",
+    "착한 아이를 찾아가 소원을 세 가지 들어주는 작은 요정",
+    "밤마다 숲속에서 나그네를 잡아먹는 커다란 괴물"
+   ],
+   "answer_index": 0,
+   "answer": "몰래 사람들 숟가락을 전부 숨겨 놓고 낄낄대는 작은 녀석",
+   "why": "맞아! 숟가락을 몰래 다 숨겨 놓고 낄낄대는 건 사람을 다치게 하지는 않는 못된 장난이잖아. 몸도 작고. 작은 몸으로 못된 장난을 치는 녀석, 그게 바로 imp야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "devil"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-imp",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-imp"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/imp.webp",
+  "alt": "마법으로 우유를 엎고 신발 끈을 묶어 놓는 작은 녀석",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

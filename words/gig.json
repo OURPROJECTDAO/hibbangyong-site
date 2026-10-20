@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/gig/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/gig/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "gig",
+ "slug": "gig",
+ "url": "https://hibbangyong.com/words/gig/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "공연 — 가수나 밴드가 무대에 올라 음악을 들려주는 한 번의 라이브 무대(작은 카페 무대부터 큰 콘서트까지)",
+ "gloss_ko": "라이브 공연",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "동네 카페 구석의 작은 무대에서 인디 밴드가 노래 다섯 곡을 불렀어.",
+  "큰 공연장에서 만 명 앞에서 하는 콘서트도 똑같이 gig라고 해. 크기는 상관없어.",
+  "중요한 건 음악하는 사람이 날을 잡고 가서 하는 한 번의 무대라는 거야.",
+  "연습실에서 혼자 치는 건 gig가 아니야. 누군가 들으러 온 자리여야 해."
+ ],
+ "scene": "동네 카페 작은 무대의 인디 밴드 공연",
+ "examples": [
+  {
+   "en": "My brother's band played its first gig at a small cafe last Friday.",
+   "ko": "우리 형 밴드가 지난 금요일에 작은 카페에서 첫 공연을 했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "재즈 피아니스트인 삼촌이 금요일 저녁 호텔 라운지에 가서 손님들 앞에서 한 시간 동안 피아노를 연주했어. 삼촌이 한 이 무대는 'gig'야?",
+   "choices": [
+    "응, gig 맞아",
+    "아니, gig 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, gig 맞아",
+   "why": "맞아! 삼촌이 금요일 저녁으로 날을 잡고 호텔 라운지에 가서, 손님들 앞에서 한 시간 동안 피아노를 라이브로 연주했잖아. 음악하는 사람이 가서 누군가 앞에서 하는 한 번의 무대니까 바로 gig인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "민지는 좋아하는 가수의 콘서트에 가서 객석에 앉아 응원봉을 흔들며 노래를 따라 불렀어. 민지가 한 이 일은 민지의 'gig'야?",
+   "choices": [
+    "응, gig 맞아",
+    "아니, gig 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, gig 아니야",
+   "why": "맞아! 민지는 무대 위에서 노래한 게 아니라 객석에 앉아 응원봉 흔들며 따라 부른 관객이잖아. gig는 무대에 올라 노래를 들려주는 가수 쪽의 무대라서, 그날 gig는 민지 게 아니라 그 가수 거야."
+  },
+  {
+   "type": "ox",
+   "question": "재즈 트리오가 손님 스무 명쯤 있는 동네 식당 한쪽에서 저녁 내내 연주했어. 이런 경우도 'gig'야?",
+   "choices": [
+    "응, 'gig' 맞아",
+    "아니, 'gig' 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 'gig' 맞아",
+   "why": "맞아! 손님이 스무 명뿐인 동네 식당 한쪽이어도, 재즈 트리오가 저녁 내내 사람들 앞에서 라이브로 연주했으면 그게 바로 gig야. 무대가 크든 작든 상관없거든."
+  }
+ ],
+ "synonyms": [
+  "lance"
+ ],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-gig",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-gig"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/gig.webp",
+  "alt": "동네 카페 작은 무대의 인디 밴드 공연",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

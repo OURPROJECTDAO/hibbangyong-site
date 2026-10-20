@@ -1,0 +1,77 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/dish/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/dish/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "dish",
+ "slug": "dish",
+ "url": "https://hibbangyong.com/words/dish/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "접시 — 음식을 담는 납작하고 둥근 그릇",
+ "gloss_ko": "접시",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "둥글고 납작해서 위에 음식을 올려놓는 그릇이에요.",
+  "밥을 먹을 때 반찬이나 과일을 하나씩 담아 두는 데 써요."
+ ],
+ "scene": "빈 흰색 도자기 접시 한 장을 위에서 살짝 비스듬히 본 모습(식기 '접시'의 의미로 그림)",
+ "examples": [
+  {
+   "en": "Mom put the warm cookies on a small dish.",
+   "ko": "엄마가 따뜻한 과자를 작은 접시에 올려놨어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "식탁 위에 납작하고 둥근 그릇이 놓여 있고, 그 위에 빵과 과일이 담겨 있어요. 이게 dish야?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 맞아",
+   "why": null
+  },
+  {
+   "type": "choice",
+   "question": "dish는 어느 것일까?",
+   "choices": [
+    "시간을 알려 주는 것",
+    "음식을 담아 올려놓는 것",
+    "공중으로 던지고 받는 것",
+    "물기를 닦을 때 쓰는 것"
+   ],
+   "answer_index": 1,
+   "answer": "음식을 담아 올려놓는 것",
+   "why": null
+  }
+ ],
+ "synonyms": [
+  "plate"
+ ],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "bowl",
+  "tray"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-dish",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-dish"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/dish.webp",
+  "alt": "빈 흰색 도자기 접시 한 장을 위에서 살짝 비스듬히 본 모습(식기 '접시'의 의미로 그림)",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

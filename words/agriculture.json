@@ -1,0 +1,107 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/agriculture/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/agriculture/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "agriculture",
+ "slug": "agriculture",
+ "url": "https://hibbangyong.com/words/agriculture/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "농사 — 사람이 먹고 쓸 걸 땅에서 길러내는 일 전체",
+ "gloss_ko": "농사",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "논밭 가는 아저씨만 떠올렸지? 그거보다 훨씬 넓어.",
+  "씨 뿌리고, 물 주고, 소랑 닭 키우고, 거둬서 실어 보내고 — 이 모든 게 한 덩어리로 묶인 일이야.",
+  "잘될 때도 있고 가뭄에 다 말라죽을 때도 있어. 좋은 얘기만 하는 말이 아니거든?",
+  "집 텃밭에서 잠깐 풀 뽑는 것 말고, 먹을 걸 길러 내려고 땅이랑 가축을 돌보는 그 일 통째. 그게 agriculture야."
+ ],
+ "scene": "씨 뿌리고 물 주고 가축 키우고 거둬 보내는 일이 한 덩어리로 묶인 그림",
+ "examples": [
+  {
+   "en": "In our country, agriculture is having a hard year because of the rain.",
+   "ko": "우리나라는 비 때문에 올해 농사가 힘든 해를 보내고 있어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "공장 견학 안내판에 일 네 가지가 적혀 있어. 이 중 'agriculture'에 해당하는 일은 뭐야?",
+   "choices": [
+    "쇠를 깎아 자전거를 만드는 일",
+    "천을 꿰매 겨울옷을 만드는 일",
+    "땅에 밀을 심어 길러서 거두는 일",
+    "벽돌을 쌓아 담을 세우는 일"
+   ],
+   "answer_index": 2,
+   "answer": "땅에 밀을 심어 길러서 거두는 일",
+   "why": "맞아! 땅에 씨를 심어서 기르고 거두는 거, 그게 바로 agriculture 한가운데 있는 일이거든. 만드는 게 아니라 길러내는 일이라서 딱 맞아."
+  },
+  {
+   "type": "choice",
+   "question": "네 사람이 자기가 하는 일을 말했어. 이 중에서 'agriculture'에 들어가는 일을 하는 사람은 누구야?",
+   "choices": [
+    "가뭄이 들어서 심어 둔 옥수수가 다 말라 버린 사람",
+    "산에 올라가 저절로 자란 밤을 주워 자루에 담는 사람",
+    "바다에 그물을 던져 헤엄치던 물고기를 건져 올리는 사람",
+    "가게에서 배추를 사다가 다듬어 김치로 담그는 사람"
+   ],
+   "answer_index": 0,
+   "answer": "가뭄이 들어서 심어 둔 옥수수가 다 말라 버린 사람",
+   "why": "맞아! 옥수수를 심어서 기른 거잖아. 잘 안 돼서 말라 버렸어도 기르는 일을 한 건 똑같거든. agriculture는 잘된 농사만 부르는 말이 아니라, 기르는 일 자체를 부르는 말이야."
+  },
+  {
+   "type": "ox",
+   "question": "어느 마을에 우박이 쏟아져 과수원 사과가 다 떨어졌어. 그 해엔 팔 것도 먹을 것도 거의 남지 않았대. 그래도 이 마을 사람들이 과수원에서 사과를 길러 온 일을 'agriculture'라고 부를 수 있을까?",
+   "choices": [
+    "응, agriculture 맞아",
+    "아니, agriculture 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, agriculture 맞아",
+   "why": "맞아! 우박 때문에 사과가 다 떨어졌어도, 마을 사람들이 과수원에서 사과를 길러 온 일은 그대로 agriculture야. 잘된 해든 안된 해든, 먹을 걸 땅에서 길러내는 일이면 다 agriculture거든."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "farming",
+   "kind": "confusable",
+   "from": "vs farming"
+  },
+  {
+   "word": "cultivation",
+   "kind": "confusable",
+   "from": "vs cultivation"
+  },
+  {
+   "word": "harvest",
+   "kind": "confusable",
+   "from": "vs harvest"
+  }
+ ],
+ "related_scene": [
+  "crop",
+  "harvest",
+  "soil"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-agriculture",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-agriculture"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/agriculture.webp",
+  "alt": "씨 뿌리고 물 주고 가축 키우고 거둬 보내는 일이 한 덩어리로 묶인 그림",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

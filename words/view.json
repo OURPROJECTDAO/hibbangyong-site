@@ -1,0 +1,108 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/view/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/view/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "view",
+ "slug": "view",
+ "url": "https://hibbangyong.com/words/view/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "보이는 것 — 창밖 풍경처럼 눈에 보이는 모습, 또 어떤 일을 보는 내 생각(의견)",
+ "gloss_ko": "눈에 보이는 풍경",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "창문 앞에 서서 밖을 봐봐. 쫙 펼쳐지는 그 모습 있지? 산이든 길이든, 그 자리에서 보이는 거.",
+  "근데 자리를 옮기면? 보이는 것도 싹 달라져. '내가 어디서 보느냐'가 중요한 거거든.",
+  "머릿속도 똑같아. 같은 일을 두고 '내가 보기엔 이래' 하는 거 있잖아. 그게 마음으로 본 모습이야.",
+  "눈으로 보든 마음으로 보든, 그 자리에서 보이는 것 — 이게 view야."
+ ],
+ "scene": "창가에서 밖을 봄 → 같은 일을 머릿속으로 봄(내 생각). '보는 자리'가 보이는 걸 바꾼다.",
+ "examples": [
+  {
+   "en": "Everyone has a different view about the best ice cream flavor.",
+   "ko": "최고의 아이스크림 맛이 뭔지에 대해 다들 생각이 달라."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "다음 중 영어 단어 'view'에 해당하는(맞는) 것은?",
+   "choices": [
+    "주머니 속에 들어 있는 동그란 단추 하나",
+    "친구에게 공을 힘껏 던지는 동작",
+    "전망대에 오르니 눈앞에 죽 펼쳐진 도시 모습",
+    "공책에 적혀 있는 숫자 일곱"
+   ],
+   "answer_index": 2,
+   "answer": "전망대에 오르니 눈앞에 죽 펼쳐진 도시 모습",
+   "why": "맞아! 전망대에 올라서서 눈앞에 죽 펼쳐진 도시 모습, 바로 그 자리에서 보이는 그 모습이 view야. 자리에 올라가니까 쫙 보이는 풍경, 그게 딱 view인 거지."
+  },
+  {
+   "type": "choice",
+   "question": "영어 단어 'view'는 한 가지가 아니라 두 가지를 함께 가리킬 수 있어. 다음 중 'view'가 가리키는 두 가지가 바르게 묶인 건 뭘까?",
+   "choices": [
+    "눈에 보이는 바깥 모습, 그리고 어떤 일을 두고 갖는 내 생각",
+    "무언가를 뚫어지게 쳐다보는 행동, 그리고 손으로 가리키는 일",
+    "누구나 똑같이 아는 사실, 그리고 이미 정해진 답",
+    "아주 멀리 떨어진 곳, 그리고 눈에 잘 안 보이는 것"
+   ],
+   "answer_index": 0,
+   "answer": "눈에 보이는 바깥 모습, 그리고 어떤 일을 두고 갖는 내 생각",
+   "why": "맞아! 창밖에 쫙 펼쳐진 풍경도 view고, 같은 일을 두고 '내 생각엔 이래' 하는 마음속 모습도 view거든. 눈으로 보든 마음으로 보든 그 자리에서 보이는 것, 두 가지를 다 묶었으니 딱 맞는 거야."
+  },
+  {
+   "type": "ox",
+   "question": "길에서 강아지 두 마리가 서로 뒤엉켜 뛰노는 한바탕 소동이 막 벌어지고 있어. 이렇게 눈앞에서 벌어지는 사건 한 장면도 'view'라고 할까?",
+   "choices": [
+    "응, 그것도 view야",
+    "아니, 그건 view가 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 그건 view가 아니야",
+   "why": "맞아! 강아지들이 뒤엉켜 뛰노는 건 한바탕 벌어지는 사건이지, 창밖처럼 한자리에서 쫙 펼쳐지는 모습이 아니거든. 그래서 그건 view가 아닌 게 딱 맞아."
+  }
+ ],
+ "synonyms": [
+  "scene",
+  "sight"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "scene",
+   "kind": "confusable",
+   "from": "vs scene"
+  },
+  {
+   "word": "look",
+   "kind": "confusable",
+   "from": "보는 동작(look)"
+  },
+  {
+   "word": "opinion",
+   "kind": "confusable",
+   "from": "vs opinion"
+  }
+ ],
+ "related_scene": [
+  "landscape"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-view",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-view"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/view.webp",
+  "alt": "창가에서 밖을 봄 → 같은 일을 머릿속으로 봄(내 생각). '보는 자리'가 보이는 걸 바꾼다.",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

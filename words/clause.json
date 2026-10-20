@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/clause/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/clause/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "clause",
+ "slug": "clause",
+ "url": "https://hibbangyong.com/words/clause/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "조항(규칙을 적은 한 줄) — 규칙·약속·법을 적은 종이에서, 한 가지를 딱 정해 놓은 한 항목(한 줄).",
+ "gloss_ko": "규칙의 한 줄",
+ "level": {
+  "code": "L6",
+  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "규칙이나 약속을 종이에 쭉 적을 때 있잖아, 줄마다 한 가지씩만 정해 놔.",
+  "'복도에선 뛰지 않기' — 이렇게 딱 한 가지만 말하는 한 토막.",
+  "이런 토막이 종이에 여러 개 있어. 어른들 법이나 약속 적은 종이도 다 이렇게 토막토막.",
+  "그 한 토막 한 토막, 그게 clause야."
+ ],
+ "scene": "'복도에선 뛰지 않기'처럼 한 가지를 정한 종이 속 한 토막 (child 앵커)",
+ "examples": [
+  {
+   "en": "This rule book has a clause that says we must clean up after the game.",
+   "ko": "이 규칙 책에는 게임 끝나고 다 같이 치우자고 정해 놓은 조항이 하나 있어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "놀이공원 놀이기구 안내 종이에 지킬 규칙이 여러 줄 적혀 있어. 어떤 사람이 그 종이에 적힌 규칙을 처음부터 끝까지 통째로 가리키면서 '이게 clause야'라고 했어. 맞는 말이야?",
+   "choices": [
+    "응, clause 맞아",
+    "아니, clause 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, clause 아니야",
+   "why": "딱 맞아! 규칙 종이엔 여러 줄이 있는데, clause는 그 안에서 딱 한 줄, 한 가지만 정해 놓은 그 한 토막이거든. 처음부터 끝까지 통째로는 여러 토막이 다 모인 종이 전체라서, 그건 clause가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "우리 반이 지킬 약속을 종이에 쭉 적었어. 이 종이에서 'clause'라고 부를 수 있는 건 어느 거야?",
+   "choices": [
+    "'복도에서는 뛰지 않기'라고 적어 놓은 줄",
+    "처음부터 끝까지, 종이에 적힌 약속을 통째로 다",
+    "맨 위에 큼직하게 쓴 '3반 약속'이라는 제목",
+    "맨 아래에 친구들이 각자 써 넣은 이름들"
+   ],
+   "answer_index": 0,
+   "answer": "'복도에서는 뛰지 않기'라고 적어 놓은 줄",
+   "why": "맞아! '복도에선 뛰지 않기'는 딱 한 가지만 정해 놓은 한 토막이잖아. 규칙 종이에서 그렇게 한 가지만 말하는 한 줄, 바로 그게 clause야."
+  },
+  {
+   "type": "ox",
+   "question": "어른들이 집을 빌릴 때 쓰는 약속 서류에 '청소는 토요일에 한다'고 한 가지만 딱 정해 놓은 한 줄이 있어. 이 한 줄도 clause라고 부를 수 있어?",
+   "choices": [
+    "응, clause 맞아",
+    "아니, clause 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, clause 맞아",
+   "why": "맞아! 집을 빌릴 때 쓰는 약속 서류에서 '청소는 토요일에 한다'처럼 한 가지만 딱 정해 놓은 한 줄이잖아. 이렇게 한 가지를 정한 한 줄이면 특별한 게 없어도 바로 clause인 거야."
+  }
+ ],
+ "synonyms": [
+  "article"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "provision",
+   "kind": "confusable",
+   "from": "vs provision"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-clause",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-clause"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/clause.webp",
+  "alt": "'복도에선 뛰지 않기'처럼 한 가지를 정한 종이 속 한 토막 (child 앵커)",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

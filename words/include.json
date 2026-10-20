@@ -1,0 +1,95 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/include/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/include/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "include",
+ "slug": "include",
+ "url": "https://hibbangyong.com/words/include/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "포함하다 — 그 안에 ~도 같이 들어 있어(무리에 끼워 넣는 것도 돼).",
+ "gloss_ko": "포함하다",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "봐봐, 네 필통 안에 연필이랑 지우개랑 자가 다 들어 있지?",
+  "그 필통이 그것들을 안에 품고 있는 거야.",
+  "사람도 그래 — 우리 놀이에 친구를 끼워서 같이 하면, 그 친구도 우리 안에 넣은 거거든.",
+  "이렇게 전체 안에 부분으로 들어 있는 게 include야."
+ ],
+ "scene": "필통 안에 연필·지우개·자가 다 들어 있는 장면",
+ "examples": [
+  {
+   "en": "My lunchbox includes rice, eggs, and an apple.",
+   "ko": "내 도시락에는 밥이랑 계란이랑 사과가 들어 있어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "친구들이 놀이를 하는데, 나를 'include'했어. 어떤 일이 일어난 걸까?",
+   "choices": [
+    "놀이 무리 안에 나도 넣어서 같이 하게 됐다",
+    "놀이에서 나를 빼고 자기들끼리만 했다",
+    "놀이가 다 끝난 다음에 나를 불렀다",
+    "놀이 규칙만 나한테 알려 줬다"
+   ],
+   "answer_index": 0,
+   "answer": "놀이 무리 안에 나도 넣어서 같이 하게 됐다",
+   "why": "맞아! 놀이하는 무리 안에 너도 쏙 들어가서 같이 하게 된 거잖아. 전체 안에 부분으로 품어 준 거, 그게 바로 include야."
+  },
+  {
+   "type": "ox",
+   "question": "이사 준비로 장난감 상자를 정리하는데, 언니가 팔이 부러진 낡은 로봇도 그 상자 안에 함께 담아 뚜껑을 닫았어. 상자가 그 로봇을 'include'해?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 맞아",
+   "why": "맞아! 상자 뚜껑을 닫았을 때 로봇도 그 안에 같이 들어가 있잖아. 그러면 상자가 로봇을 안에 품고 있는 거니까 바로 그게 include인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "체육 시간에 이어달리기 팀을 짰어. 준서는 응원 담당으로 뽑혀서 트랙 옆에서 신나게 응원했고, 달리는 팀에는 준서 자리가 없었어. 팀이 준서를 'include'했어?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 아니야",
+   "why": "맞아! 준서는 달리는 팀 안에 자리가 없었으니까 팀 밖에 있는 거잖아. 안에 넣은 게 아니라 빼놓은 거라서, 팀이 준서를 include한 게 아닌 거야."
+  }
+ ],
+ "synonyms": [
+  "contain"
+ ],
+ "antonyms": [
+  "exclude"
+ ],
+ "confusable": [
+  {
+   "word": "have",
+   "kind": "confusable",
+   "from": "vs have"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-include",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-include"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/include.webp",
+  "alt": "필통 안에 연필·지우개·자가 다 들어 있는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

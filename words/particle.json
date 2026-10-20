@@ -1,0 +1,88 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/particle/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/particle/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "particle",
+ "slug": "particle",
+ "url": "https://hibbangyong.com/words/particle/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "알갱이 — 눈에 겨우 보이거나 아예 안 보일 만큼 작은 하나",
+ "gloss_ko": "알갱이",
+ "level": {
+  "code": "L4",
+  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "모래를 한 줌 쥐었다가 손을 탈탈 털어 봐. 손바닥에 딱 한 알 남지? 그 한 알 말이야.",
+  "공기 속에도 그런 게 잔뜩 떠다녀. 너무 작아서 눈에 안 보이는 것도 많아. 안 보여도 있는 건 있는 거야.",
+  "설탕을 물에 넣으면 없어진 것 같지? 아니야. 아주 작은 하나하나로 흩어져서 물속에 그대로 있어.",
+  "손으로 집어서 뚝 뗀 조각 말고, 그런 덩어리를 이루는 훨씬 작은 낱개 하나. 이게 particle이야."
+ ],
+ "scene": "손을 털고 손바닥에 남은 모래 한 알",
+ "examples": [
+  {
+   "en": "I could see particles floating in the sunlight by the window.",
+   "ko": "창가 햇빛 속에 알갱이들이 떠다니는 게 보였어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "소금통을 흔들어 식탁 위에 소금이 조금 떨어졌어. 그중에 딱 하나, 아주 작은 소금 한 톨을 손끝으로 짚었어. 이 한 톨이 'particle'이야?",
+   "choices": [
+    "응, particle 맞아",
+    "아니, particle 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, particle 맞아",
+   "why": "맞아! 식탁에 떨어진 소금 중에서 손끝으로 짚은 건 아주 작은 소금 한 톨이잖아. 이렇게 작은 것 딱 하나가 바로 particle인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "가게에서 산 식빵을 아직 봉지도 안 뜯었어. 통째로 한 덩어리 그대로야. 이 식빵 한 덩어리가 'particle'이야?",
+   "choices": [
+    "응, particle 맞아",
+    "아니, particle 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, particle 아니야",
+   "why": "맞아! 봉지도 안 뜯은 식빵은 통째로 한 덩어리 그대로라서, 아주 작은 알갱이 하나가 아니거든. 그래서 particle이 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "아이 네 명이 각자 자기 앞에 있는 걸 하나씩 가리켰어. 이 중에서 'particle'이라고 부를 수 있는 건?",
+   "choices": [
+    "칠판지우개를 털었을 때 공중에 흩날린 분필 가루 한 톨",
+    "선물로 받은 초콜릿을 반으로 쪼갠 한 쪽",
+    "밥통에서 퍼서 그릇에 수북이 담은 쌀 한 그릇",
+    "포장을 아직 뜯지 않은 새 비누 한 개"
+   ],
+   "answer_index": 0,
+   "answer": "칠판지우개를 털었을 때 공중에 흩날린 분필 가루 한 톨",
+   "why": "맞아! 칠판지우개를 털었을 때 날린 분필 가루 한 톨은 눈에 겨우 보일 만큼 아주 작고, 딱 하나잖아. 그렇게 아주 작은 알갱이 하나가 바로 particle인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "dust",
+  "powder"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-particle",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-particle"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/particle.webp",
+  "alt": "손을 털고 손바닥에 남은 모래 한 알",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

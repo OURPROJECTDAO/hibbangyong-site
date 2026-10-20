@@ -1,0 +1,88 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/code/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/code/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "code",
+ "slug": "code",
+ "url": "https://hibbangyong.com/words/code/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "암호, 부호 — 약속을 아는 사람만 풀 수 있게 숫자·글자·소리 같은 기호로 바꿔 적은 것(숨길 때도 쓰고, 다 같이 배워서 쓸 때도 있어)",
+ "gloss_ko": "암호, 부호",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "친구랑 쪽지 놀이 해 봤어? '1'은 '가', '2'는 '나'로 둘이 약속하는 거야.",
+  "그럼 '1 2'만 써도 딱! '가나'로 읽혀. 약속을 모르면? 그냥 숫자일 뿐이지.",
+  "배끼리 뚜-뚜뚜 소리로 글자를 보내는 것도, 현관문 여는 번호도 다 이런 약속된 기호야.",
+  "쪽지를 꼭꼭 숨기기만 한 거랑은 달라. 약속한 기호로 바꿔 적은 것, 그게 code야."
+ ],
+ "scene": "친구와 숫자를 글자로 약속해 쓰는 쪽지 놀이",
+ "examples": [
+  {
+   "en": "Ships used a code of long and short beeps to send words.",
+   "ko": "배들은 길고 짧은 삐 소리로 된 부호를 써서 말을 주고받았어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "엄마가 냉장고 문에 '우유 사 오기'라고 보통 한글로 적은 메모를 붙여 놓았어. 이 메모 글씨가 'code'야?",
+   "choices": [
+    "응, code 맞아",
+    "아니, code 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, code 아니야",
+   "why": "그렇지, code가 아니야! 엄마는 '우유 사 오기'를 다른 글자나 숫자로 바꾸지 않고 한글 그대로 적었거든. 그래서 한글을 읽을 줄 아는 사람은 누구나 바로 읽을 수 있는 보통 메모인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "야구 경기에서 감독이 모자를 만지면 '뛰어!', 귀를 만지면 '멈춰!'라는 뜻이야. 선수들은 감독의 손만 보고 움직여. 감독의 이 손짓들이 'code'야?",
+   "choices": [
+    "응, code 맞아",
+    "아니, code 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, code 맞아",
+   "why": "맞아! 모자를 만지면 '뛰어!', 귀를 만지면 '멈춰!'라고 감독이랑 선수들이 미리 약속해 둔 손짓이거든. 그래서 선수들은 감독의 손만 보고도 뜻을 알아. 약속한 손짓으로 뜻을 바꿔서 보낸 거니까 바로 code인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "다음 중 'code'를 쓴 경우는 어느 것일까?",
+   "choices": [
+    "배가 짧은 불빛·긴 불빛을 글자와 짝지어 깜빡이는 것",
+    "아무도 못 보게 쪽지를 접어서 필통 속에 숨긴 것",
+    "알아보기 힘들게 글씨를 아주 흘려서 날려 쓴 것",
+    "공책 여기저기에 하트랑 별을 잔뜩 그려 넣은 것"
+   ],
+   "answer_index": 0,
+   "answer": "배가 짧은 불빛·긴 불빛을 글자와 짝지어 깜빡이는 것",
+   "why": "맞아! 배가 짧은 불빛, 긴 불빛을 글자와 하나씩 짝지어 두고 깜빡이는 거잖아. 그 약속을 아는 배는 불빛을 보고 글자로 읽을 수 있으니까, 바로 그게 code인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "secret",
+  "telegraph"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-code",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-code"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/code.webp",
+  "alt": "친구와 숫자를 글자로 약속해 쓰는 쪽지 놀이",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

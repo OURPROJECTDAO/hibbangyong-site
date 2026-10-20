@@ -1,0 +1,95 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/fancy/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/fancy/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "fancy",
+ "slug": "fancy",
+ "url": "https://hibbangyong.com/words/fancy/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "화려한, 고급스러운 — 평범한 것보다 꾸밈이 많고 비싸 보이는",
+ "gloss_ko": "꾸밈 많은",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "컵 두 개가 있어. 하나는 그냥 하얀 컵, 하나는 금색 무늬에 반짝이가 콕콕 박힌 컵. 뒤엣거 봐봐, 딱 봐도 꾸밈이 잔뜩이지?",
+  "식당도 그래. 촛불 켜고 하얀 식탁보 깔린, 딱 봐도 비싸 보이는 곳 있잖아. 너무 번쩍번쩍해서 오히려 불편할 때도 이 말을 써.",
+  "근데 예쁘다고 다 그런 건 아니야. 들꽃은 예쁘지만 꾸밈이 하나도 없거든.",
+  "평범한 것보다 더 꾸미고 더 비싸 보이는 것, 그게 fancy야."
+ ],
+ "scene": "하얀 컵과 금색 무늬·반짝이 박힌 컵 비교",
+ "examples": [
+  {
+   "en": "We went to a fancy restaurant for Grandma's birthday.",
+   "ko": "할머니 생신이라서 우리는 비싸고 멋진 식당에 갔어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "케이크 가게 진열대에 3단 케이크가 있어. 층마다 금색 가루가 뿌려져 있고, 설탕으로 만든 장미와 진주 모양 구슬이 빙 둘러 붙어 있어. 이 케이크는 'fancy'한 케이크야?",
+   "choices": [
+    "응, fancy 맞아",
+    "아니, fancy 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, fancy 맞아",
+   "why": "맞아! 층마다 금색 가루가 뿌려져 있고 설탕으로 만든 장미랑 진주 모양 구슬까지 빙 둘러 붙어 있잖아. 이렇게 꾸밈이 잔뜩이라 딱 봐도 비싸 보이니까, 바로 그게 fancy인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "아빠가 매일 쓰는 우산은 검은색 한 가지 색이야. 무늬도 없고, 손잡이에도 아무 장식이 없어. 이 우산은 'fancy'한 우산이야?",
+   "choices": [
+    "응, fancy 맞아",
+    "아니, fancy 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, fancy 아니야",
+   "why": "맞아! 아빠 우산은 검은색 한 가지 색이고, 무늬도 없고, 손잡이에도 아무 장식이 없잖아. 꾸밈이 하나도 없으니까 fancy가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "친구 넷이 자기 필통을 하나씩 꺼내 보여줬어. 이 가운데 'fancy'라고 부를 만한 필통은 누구 거야?",
+   "choices": [
+    "오늘 아침에 막 사서 아직 비닐도 안 뗀 필통",
+    "금색 테두리에 보석 모양 장식이 빈틈없이 붙은 필통",
+    "하늘색 한 가지 색으로 무늬 없이 매끈한 필통",
+    "모양이 동글동글 귀여워서 다들 예쁘다고 한 필통"
+   ],
+   "answer_index": 1,
+   "answer": "금색 테두리에 보석 모양 장식이 빈틈없이 붙은 필통",
+   "why": "맞아! 금색 테두리에 보석 모양 장식까지 빈틈없이 붙어 있으니까, 그냥 필통보다 꾸밈이 훨씬 많고 비싸 보이지? 그래서 바로 그게 fancy인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "plain"
+ ],
+ "confusable": [
+  {
+   "word": "luxurious",
+   "kind": "confusable",
+   "from": "vs luxurious"
+  }
+ ],
+ "related_scene": [
+  "palace"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-fancy",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-fancy"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/fancy.webp",
+  "alt": "하얀 컵과 금색 무늬·반짝이 박힌 컵 비교",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

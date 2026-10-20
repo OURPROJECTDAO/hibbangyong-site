@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/list/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/list/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "list",
+ "slug": "list",
+ "url": "https://hibbangyong.com/words/list/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "여러 개를 하나씩 죽 대거나 적다",
+ "gloss_ko": "하나씩 죽 대기",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "소풍 가려면 뭐뭐 챙겨야 하지? 하고 하나씩 대봐.",
+  "\"물통, 김밥, 돗자리, 모자...\" 이렇게 쭉!",
+  "머릿속에 있는 걸 순서대로 하나하나 꺼내서 말하거나 적는 거야.",
+  "하나만 툭 말하는 게 아니라 여러 개를 죽 늘어놓으면, 그게 list야."
+ ],
+ "scene": "소풍 준비물을 물통·김밥·돗자리 하나씩 대는 장면",
+ "examples": [
+  {
+   "en": "List three animals that live in the sea.",
+   "ko": "바다에 사는 동물 세 가지를 하나씩 대 봐."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "동생이 \"우리 반 친구 이름 list 해봐\"라고 했어. 내가 \"민수, 지우, 하은, 태양\"이라고 말했어. 이게 list야?",
+   "choices": [
+    "응, list 맞아",
+    "아니, list 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, list 맞아",
+   "why": "맞아! 친구 이름을 민수, 지우, 하은, 태양 이렇게 하나씩 죽 대줬잖아. 여러 개를 순서대로 꺼내 놓는 게 바로 list인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "엄마가 \"주말에 갈 수 있는 곳들 list 해봐\"라고 했어. 내가 \"동물원\"이라고 말했어. 이게 list야?",
+   "choices": [
+    "응, list 맞아",
+    "아니, list 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, list 아니야",
+   "why": "맞아! 동물원 하나만 딱 말한 거잖아. 여러 개를 죽 늘어놓아야 list인데, 하나만 툭 말한 거라서 아직 list가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "선생님이 \"먹고 싶은 간식을 list 해봐\"라고 했어. 어떻게 하는 게 list야?",
+   "choices": [
+    "사과, 바나나, 젤리를 하나씩 쭉 대며 말했어",
+    "제일 좋아하는 간식 하나만 콕 집어 말했어",
+    "간식이 얼마나 맛있는지 길게 이야기했어",
+    "간식들을 크기 순서대로 줄만 세웠어"
+   ],
+   "answer_index": 0,
+   "answer": "사과, 바나나, 젤리를 하나씩 쭉 대며 말했어",
+   "why": "맞아! 사과, 바나나, 젤리를 하나씩 쭉 대면서 여러 개를 늘어놓았잖아. 바로 그렇게 하나하나 꺼내 놓는 게 list인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "shortlist"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-list",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-list"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/list.webp",
+  "alt": "소풍 준비물을 물통·김밥·돗자리 하나씩 대는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

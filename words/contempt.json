@@ -1,0 +1,91 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/contempt/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/contempt/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "contempt",
+ "slug": "contempt",
+ "url": "https://hibbangyong.com/words/contempt/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "경멸(깔보는 마음) — 상대나 어떤 것을 존중할 가치도 없다고 내려다보는 마음",
+ "gloss_ko": "깔보는 마음",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "조별과제에서 한 명이 아무것도 안 하고 이름만 올렸어. 다른 애들은 걔 말에 대꾸도 안 하고, 쳐다보는 눈빛이 싸늘해.",
+  "씩씩대며 화내는 거랑은 달라. 쟤는 존중할 가치도 없다고 위에서 내려다보는 마음이야.",
+  "꼭 사람한테만 쓰는 것도 아니야. 규칙이나 약속처럼, 지킬 가치도 없다고 하찮게 보는 마음도 이거야.",
+  "소리를 지르지 않아도 돼. 조용한 눈빛 하나로도 충분히 드러나."
+ ],
+ "scene": "조별과제에서 무임승차한 친구를 싸늘하게 대하는 조원들",
+ "examples": [
+  {
+   "en": "His contempt for the rules got him in trouble again.",
+   "ko": "걔는 규칙을 우습게 보다가 또 혼났어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "소방관이 불난 집에서 아이를 안고 나오자, 지켜보던 동네 사람들이 고개를 숙이며 그분을 우러러봤어. 이 사람들의 마음이 'contempt'야?",
+   "choices": [
+    "응, contempt 맞아",
+    "아니, contempt 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, contempt 아니야",
+   "why": "맞아! 동네 사람들은 소방관을 고개 숙여 우러러본 거잖아. contempt는 상대를 존중할 가치도 없다고 내려다보는 마음이라, 올려다보는 이 마음이랑은 방향이 정반대야."
+  },
+  {
+   "type": "ox",
+   "question": "바둑 대회에서 이긴 선수가 진 상대를 위아래로 훑어보고는, 상대할 가치도 없다는 듯 코웃음 치며 악수도 안 하고 돌아섰어. 이 선수의 마음이 'contempt'야?",
+   "choices": [
+    "응, contempt 맞아",
+    "아니, contempt 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, contempt 맞아",
+   "why": "맞아! 진 상대를 위아래로 훑어보고 코웃음 치면서 악수도 안 하고 돌아섰잖아. 상대할 가치도 없다고 내려다본 거니까 바로 그게 contempt야."
+  },
+  {
+   "type": "ox",
+   "question": "동생이 내 게임 저장 파일을 실수로 지웠어. 나는 얼굴이 빨개져서 발을 구르며 동생한테 소리를 질렀어. 이런 경우도 'contempt'야?",
+   "choices": [
+    "응, 'contempt' 맞아",
+    "아니, 'contempt' 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 'contempt' 아니야",
+   "why": "맞아! 동생이 파일을 지워서 얼굴이 빨개지고 발을 구르며 소리 지른 건 뜨겁게 화가 난 거야. 동생을 존중할 가치도 없다고 내려다보는 마음은 장면에 없으니까 contempt는 아니야."
+  }
+ ],
+ "synonyms": [
+  "despite"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "scorn",
+   "kind": "confusable",
+   "from": "vs scorn"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-contempt",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-contempt"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/contempt.webp",
+  "alt": "조별과제에서 무임승차한 친구를 싸늘하게 대하는 조원들",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

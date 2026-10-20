@@ -1,0 +1,92 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/pull/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/pull/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "pull",
+ "slug": "pull",
+ "url": "https://hibbangyong.com/words/pull/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "당기다 — 잡고 내 쪽으로 오게 힘 주다(끌다)",
+ "gloss_ko": "당기다",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "줄 끝을 잡아봐. 그리고 나 있는 쪽으로 힘을 줘. 그럼 줄이 스르륵 딸려와.",
+  "서랍도 문도 그래. 잡고 내 쪽으로 오게 하면 다 이거야.",
+  "수레 손잡이를 잡고 걸어가도 그래. 수레가 내 뒤를 졸졸 따라오거든?",
+  "미는 거랑은 반대야. 미는 건 저쪽으로 가버리고, 이건 내 쪽으로 와. 그게 pull이야."
+ ],
+ "scene": "줄 끝을 잡고 내 쪽으로 힘 주기",
+ "examples": [
+  {
+   "en": "I had to pull the wagon up the hill.",
+   "ko": "나는 언덕 위로 수레를 끌고 올라가야 했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "강아지 목줄 끝을 잡고 내 쪽으로 힘을 줬더니 강아지가 내 앞으로 딸려왔어. 이게 'pull'이야?",
+   "choices": [
+    "응, pull 맞아",
+    "아니, pull 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, pull 맞아",
+   "why": "맞아! 줄 끝을 잡고 네 쪽으로 힘을 줬더니 강아지가 네 앞으로 딸려온 거잖아. 잡고 내 쪽으로 오게 하는 것, 그게 바로 pull인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "장난감 상자에 두 손을 대고 저쪽 벽 쪽으로 힘을 줬더니 상자가 나한테서 멀어져 갔어. 이게 'pull'이야?",
+   "choices": [
+    "응, pull 맞아",
+    "아니, pull 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, pull 아니야",
+   "why": "맞아! 상자가 나한테서 멀어졌으니까 그건 미는 거야. 잡고 내 쪽으로 오게 해야 pull이거든. 딱 반대인 걸 잘 잡아냈어."
+  },
+  {
+   "type": "choice",
+   "question": "문 앞에서 네 명이 각자 손잡이를 잡고 이렇게 했대. 'pull'을 한 사람은 누구게?",
+   "choices": [
+    "손잡이를 잡고 자기 몸 쪽으로 힘을 줬더니 문이 열렸어",
+    "손잡이를 잡고 저쪽 바깥으로 힘을 줬더니 문이 열렸어",
+    "손잡이를 잡고 위로 번쩍 들었더니 문이 들썩했어",
+    "손잡이를 잡은 채로 가만히 서 있었더니 문은 그대로였어"
+   ],
+   "answer_index": 0,
+   "answer": "손잡이를 잡고 자기 몸 쪽으로 힘을 줬더니 문이 열렸어",
+   "why": "맞아! 잡고 내 몸 쪽으로 힘을 준 거잖아. 줄이든 문이든 내 쪽으로 오게 하는 게 바로 pull인 거야. 방향을 딱 맞게 봤어."
+  }
+ ],
+ "synonyms": [
+  "drag"
+ ],
+ "antonyms": [
+  "push"
+ ],
+ "confusable": [],
+ "related_scene": [
+  "force",
+  "gravitational"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-pull",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-pull"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/pull.webp",
+  "alt": "줄 끝을 잡고 내 쪽으로 힘 주기",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

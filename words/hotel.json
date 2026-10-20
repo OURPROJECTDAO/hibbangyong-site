@@ -1,0 +1,89 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/hotel/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/hotel/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "hotel",
+ "slug": "hotel",
+ "url": "https://hibbangyong.com/words/hotel/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "호텔 — 여행 가서 돈 내고 며칠 밤 자고 오는 큰 집",
+ "gloss_ko": "호텔",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "여행 멀리 갔어. 밤이 됐는데 잘 데가 없어. 그때 가는 곳이야.",
+  "돈을 내면 방 하나를 빌려줘. 침대도 있고 화장실도 있어.",
+  "거기서 며칠 자고, 아침엔 밥도 주고, 갈 때 방을 딱 돌려주고 떠나. 내 집이 아니거든?",
+  "그게 hotel이야."
+ ],
+ "scene": "여행 가서 밤에 잘 데가 없어 방을 빌리는 장면",
+ "examples": [
+  {
+   "en": "We stayed at a hotel near the beach for two nights.",
+   "ko": "우리는 바닷가 옆 호텔에서 두 밤 잤어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "다음 중 'hotel'에 해당하는 것은 어느 것일까?",
+   "choices": [
+    "비가 올 때 손으로 펴서 머리 위에 드는 접히는 물건",
+    "먼 도시로 기차 타고 간 사람이 밤에 방 열쇠를 받아 자는 큰 건물",
+    "물속에서 지느러미를 흔들며 이리저리 헤엄치는 작은 동물",
+    "종이를 사이에 넣고 두 날을 움직여 잘라 내는 도구"
+   ],
+   "answer_index": 1,
+   "answer": "먼 도시로 기차 타고 간 사람이 밤에 방 열쇠를 받아 자는 큰 건물",
+   "why": "맞아! 먼 도시로 기차 타고 가서 밤에 방 열쇠를 받아 자는 큰 건물, 바로 그게 hotel이야. 내 집이 아닌데도 돈을 내면 며칠 밤 잘 방을 빌려주는 곳이거든."
+  },
+  {
+   "type": "choice",
+   "question": "네 가지를 설명할게. 이 중에서 'hotel'은 어느 것일까?",
+   "choices": [
+    "엄마 아빠와 매일 저녁 돌아와 지내는, 내 이불과 옷장이 놓인 곳",
+    "손가락으로 줄을 튕겨서 소리를 내는, 나무로 만든 악기",
+    "여행 온 사람이 돈을 내고 하룻밤 방을 빌려 자는 곳",
+    "네 발로 마당을 뛰어다니며 꼬리를 흔드는 털 있는 동물"
+   ],
+   "answer_index": 2,
+   "answer": "여행 온 사람이 돈을 내고 하룻밤 방을 빌려 자는 곳",
+   "why": "맞아! 여행 가서 돈을 내고 하룻밤 방을 빌려 자는 곳, 그게 딱 hotel이야. 내 집이 아니라서 잠깐 빌렸다가 방을 돌려주고 떠나는 거거든."
+  },
+  {
+   "type": "choice",
+   "question": "네 곳을 설명했어. 이 중에서 'hotel'은 어디일까?",
+   "choices": [
+    "여행 가서 돈 내고 방을 빌려 며칠 자고, 떠날 때 방을 돌려주는 큰 건물",
+    "우리 가족이 돈 안 내고 늘 함께 사는, 내 물건이 다 있는 곳",
+    "책을 빌려 조용히 읽고 다 보면 다시 돌려주는 곳",
+    "몸이 아플 때 가서 의사한테 치료받고 낫는 곳"
+   ],
+   "answer_index": 0,
+   "answer": "여행 가서 돈 내고 방을 빌려 며칠 자고, 떠날 때 방을 돌려주는 큰 건물",
+   "why": "맞아! 여행 가서 돈 내고 방을 빌려 며칠 자고, 갈 때 방을 딱 돌려주고 떠나잖아. 내 집이 아니라서 잠깐 빌리는 거, 바로 그게 hotel이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-hotel",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-hotel"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/hotel.webp",
+  "alt": "여행 가서 밤에 잘 데가 없어 방을 빌리는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

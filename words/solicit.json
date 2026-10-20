@@ -1,0 +1,95 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/solicit/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/solicit/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "solicit",
+ "slug": "solicit",
+ "url": "https://hibbangyong.com/words/solicit/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "청하다 — 돈·도움·의견 같은 걸 남한테 달라고 나서서 부탁하는 거",
+ "gloss_ko": "달라고 청하다",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "학생회가 축제 아이디어가 모자라서 전교생한테 설문을 돌렸어.",
+  "생각 좀 보내 달라고 먼저 나서서 부탁한 거야.",
+  "돈이든 도움이든 의견이든, 남한테 달라고 청하는 게 solicit야. 좋은 일에도 쓰고, 뒷돈 달라는 나쁜 일에도 써.",
+  "안 주면 혼낸다며 억지로 내놓으라는 거랑은 달라. 상대가 줄지 말지 고를 수 있어야 solicit야."
+ ],
+ "scene": "학생회가 축제 아이디어를 달라고 전교생에게 설문을 돌림",
+ "examples": [
+  {
+   "en": "The officer was fired for soliciting money from drivers.",
+   "ko": "그 경찰은 운전자들한테 돈을 달라고 했다가 잘렸어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "한 유튜버가 영상 끝에서 시청자들에게 다음 영상 주제를 댓글로 추천해 달라고 부탁했어. 이걸 'solicit'라고 할 수 있어?",
+   "choices": [
+    "응, solicit 맞아",
+    "아니, solicit 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, solicit 맞아",
+   "why": "맞아! 유튜버가 다음 영상 주제를 추천해 달라고 시청자들한테 먼저 나서서 부탁했잖아. 시청자는 댓글을 달지 말지 고를 수 있으니까, 바로 그게 solicit인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "동네 도서관이 다 읽은 동화책들을 상자에 담아 근처 어린이집에 나눠 줬어. 이걸 'solicit'라고 할 수 있어?",
+   "choices": [
+    "응, solicit 맞아",
+    "아니, solicit 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, solicit 아니야",
+   "why": "맞아! 도서관은 어린이집한테 뭘 달라고 부탁한 게 아니라, 다 읽은 동화책을 상자에 담아 나눠 준 거잖아. solicit는 남한테 달라고 청하는 쪽인데, 도서관이 한 건 그 반대인 주는 쪽이라서 solicit가 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "한 작가가 신문에 광고를 내서 독자들에게 다음 책 제목 아이디어를 보내 달라고 했어. 이런 경우도 'solicit'야?",
+   "choices": [
+    "응, solicit 맞아",
+    "아니, solicit 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, solicit 맞아",
+   "why": "맞아! 작가가 신문 광고로 독자들한테 책 제목 아이디어를 보내 달라고 먼저 나서서 부탁했잖아. 독자는 보낼지 말지 고를 수 있으니까 이게 바로 solicit야."
+  }
+ ],
+ "synonyms": [
+  "woo"
+ ],
+ "antonyms": [
+  "offer",
+  "give"
+ ],
+ "confusable": [
+  {
+   "word": "seek",
+   "kind": "confusable",
+   "from": "vs seek"
+  },
+  {
+   "word": "canvass",
+   "kind": "confusable",
+   "from": "vs canvass"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-solicit",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-solicit"
+ },
+ "image": null
+}

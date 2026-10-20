@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/worth/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/worth/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "worth",
+ "slug": "worth",
+ "url": "https://hibbangyong.com/words/worth/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "~의 가치가 있는 — 들인 돈이나 시간, 힘만큼 값어치가 있는 (얼마만큼 값이 나가는)",
+ "gloss_ko": "그만한 값이 있는",
+ "level": {
+  "code": "L3",
+  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "두 시간이나 줄 서서 아이스크림을 먹었어. 한 입 딱! 와, 기다린 게 하나도 안 아까워.",
+  "들인 시간이나 돈, 힘만큼 값이 나올 때 쓰는 말이거든? 이 카드 한 장이 천 원만큼 값이 나간다고 할 때도 써.",
+  "그냥 비싼 거랑은 달라. 싸도 그만큼 좋으면 그만한 값이 있는 거고, 비싸도 별로면 그만한 값이 없는 거야.",
+  "들인 만큼 값이 있다, 그게 worth야."
+ ],
+ "scene": "두 시간 줄 서서 먹은 맛있는 아이스크림",
+ "examples": [
+  {
+   "en": "The line was so long, but it was worth it because the ice cream was yummy.",
+   "ko": "줄이 엄청 길었는데, 아이스크림이 너무 맛있어서 기다린 보람이 있었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "민지는 여섯 달 동안 용돈을 모아서 자전거를 샀어. 그 뒤로 매일 그 자전거로 학교에 가고, 주말마다 공원에서 신나게 탔어. 민지가 자전거에 쓴 돈은 'worth'였을까?",
+   "choices": [
+    "응, worth 맞아",
+    "아니, worth 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, worth 맞아",
+   "why": "맞아! 민지는 여섯 달 동안 모은 용돈으로 자전거를 샀는데, 매일 학교 갈 때 타고 주말마다 공원에서도 신나게 탔잖아. 그러니까 자전거 산 돈이 하나도 안 아까운 거야. 이렇게 안 아까운 게 바로 worth야."
+  },
+  {
+   "type": "ox",
+   "question": "준호는 삼천 원을 내고 뽑기 기계에서 장난감 로봇을 뽑았어. 그런데 상자에서 꺼내자마자 팔이 뚝 부러져서 한 번도 가지고 놀지 못했어. 준호가 뽑기에 쓴 삼천 원은 'worth'였을까?",
+   "choices": [
+    "응, worth 맞아",
+    "아니, worth 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, worth 아니야",
+   "why": "맞아! 준호는 삼천 원을 냈는데 로봇 팔이 바로 부러져서 한 번도 가지고 놀지 못했잖아. 쓴 돈만큼 얻은 게 없으니까 worth가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 친구가 각자 겪은 일을 말했어. 'worth it'이라고 말하기에 딱 맞는 건 누구 이야기일까?",
+   "choices": [
+    "비싼 신발을 샀는데 한 번 신고 발이 아파서 그 뒤로 못 신었어",
+    "천 원짜리 싼 공을 샀는데 일 년 내내 친구들이랑 신나게 가지고 놀았어",
+    "한 시간 줄 서서 떡볶이를 샀는데 너무 짜서 거의 다 남겼어",
+    "엄청 비싼 시계가 가게에 있어서 유리창 너머로 구경만 하고 왔어"
+   ],
+   "answer_index": 1,
+   "answer": "천 원짜리 싼 공을 샀는데 일 년 내내 친구들이랑 신나게 가지고 놀았어",
+   "why": "맞아! 천 원밖에 안 썼는데 일 년 내내 친구들이랑 신나게 놀았잖아. 싸도 쓴 돈보다 훨씬 많이 즐거웠으니까, 바로 그게 worth it인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "price"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-worth",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-worth"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/worth.webp",
+  "alt": "두 시간 줄 서서 먹은 맛있는 아이스크림",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

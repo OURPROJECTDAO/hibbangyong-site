@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/desperation/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/desperation/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "desperation",
+ "slug": "desperation",
+ "url": "https://hibbangyong.com/words/desperation/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "절박함 — 상황이 너무 나빠서 막다른 곳에 몰린 채, 뭐라도 붙잡으려는 마음",
+ "gloss_ko": "절박함",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "시험 전날 밤, 한 과목도 안 봤는데 시계는 벌써 새벽 2시야.",
+  "길이 거의 다 막혔다는 느낌이 들지. 그래서 뭐라도 붙잡고 싶어지는 그 마음이 desperation이야.",
+  "이런 마음이 들면 평소라면 안 할 행동까지 하게 되기도 해.",
+  "그냥 뭔가를 정말 원하는 간절함이랑은 달라. 상황이 나빠서 몰린 거라서 desperation이라고 하는 거야."
+ ],
+ "scene": "아무것도 안 봤는데 새벽 2시가 된 시험 전날 밤",
+ "examples": [
+  {
+   "en": "In desperation, he called his old friend for money at midnight.",
+   "ko": "너무 막막했던 걔는 한밤중에 옛 친구한테 전화해서 돈을 빌려 달라고 했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "과제 마감이 2주 남았어. 자료는 벌써 다 모아 두었어. 그래서 이번 주말엔 쉬고, 월요일부터 하루에 조금씩 쓰기로 한 사람의 마음, 이게 'desperation'이야?",
+   "choices": [
+    "응, desperation 맞아",
+    "아니, desperation 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, desperation 아니야",
+   "why": "맞아! 마감은 2주나 남았고 자료도 벌써 다 모아 뒀잖아. 주말엔 쉬고 월요일부터 조금씩 쓰겠다는 건 몰린 데 없이 여유 있게 계획을 세운 거야. 막다른 곳에 몰린 마음인 desperation과는 정반대라서 아닌 거지."
+  },
+  {
+   "type": "ox",
+   "question": "밤 12시에 막차를 놓쳤어. 휴대폰 배터리는 꺼졌고, 지갑엔 돈이 없어. 집까지 걸어가기엔 너무 멀어. 그래서 지나가는 차마다 손을 흔들며 태워 달라고 하는 사람의 마음, 이게 'desperation'이야?",
+   "choices": [
+    "응, desperation 맞아",
+    "아니, desperation 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, desperation 맞아",
+   "why": "맞아! 막차도 놓쳤고 배터리도 꺼졌고 돈도 없으니까 길이 거의 다 막힌 거잖아. 그래서 평소라면 안 할 일, 지나가는 차마다 손 흔들며 태워 달라고 하는 거까지 하게 된 거니까 바로 그게 desperation이야."
+  },
+  {
+   "type": "choice",
+   "question": "네 사람의 모습이야. 'desperation'이 가장 잘 어울리는 사람은?",
+   "choices": [
+    "보고 싶던 공연 표를 사려고 새벽부터 매표소 앞에 줄을 선 사람",
+    "시험이 한 달 남아서 매일 저녁 차분하게 한 단원씩 공부하는 사람",
+    "월세가 석 달 밀려 쫓겨날 판이라 모르는 사람한테까지 돈을 빌리러 다니는 사람",
+    "반 친구들 앞에서 발표하기 직전에 손에 땀이 나고 가슴이 뛰는 사람"
+   ],
+   "answer_index": 2,
+   "answer": "월세가 석 달 밀려 쫓겨날 판이라 모르는 사람한테까지 돈을 빌리러 다니는 사람",
+   "why": "맞아! 월세가 석 달 밀려 쫓겨날 판이면 길이 거의 다 막힌 거잖아. 그래서 모르는 사람한테까지 돈을 빌리러 다니는 거고, 이렇게 나쁜 상황에 몰려서 뭐라도 붙잡으려는 마음이 바로 desperation이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "despair"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-desperation",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-desperation"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/desperation.webp",
+  "alt": "아무것도 안 봤는데 새벽 2시가 된 시험 전날 밤",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

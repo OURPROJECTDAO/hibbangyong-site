@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/mild/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/mild/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "mild",
+ "slug": "mild",
+ "url": "https://hibbangyong.com/words/mild/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "가벼운 — 세지 않고 살짝 약한 정도(감기·맛·날씨·꾸중 모두)",
+ "gloss_ko": "세지 않은",
+ "level": {
+  "code": "L4",
+  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "감기에 걸렸는데 콧물만 쪼르르, 기침은 콜록 한 번뿐이야.",
+  "떡볶이를 먹었는데 매운맛이 살짝만 나. 혀가 안 따가워.",
+  "엄마가 화났는데 소리는 안 치고 \"다음엔 조심해\" 한마디만 했어.",
+  "셋 다 있긴 있어. 근데 세지 않고 살짝이야. 아예 없는 거랑은 달라. 그게 mild야."
+ ],
+ "scene": "콧물만 조금 나는 가벼운 감기",
+ "examples": [
+  {
+   "en": "I had a mild cold, so I still went to school.",
+   "ko": "감기가 가볍게 걸려서 그래도 학교는 갔어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "태풍이 와서 바람이 엄청 세게 불었어. 길가의 나무가 쓰러지고 창문이 밤새 덜컹덜컹 흔들렸어. 이 바람은 'mild'야?",
+   "choices": [
+    "응, mild 맞아",
+    "아니, mild 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, mild 아니야",
+   "why": "맞아! 나무가 쓰러지고 창문이 밤새 덜컹덜컹 흔들릴 만큼 바람이 엄청 셌잖아. mild는 세지 않고 살짝 약한 거니까, 이렇게 센 바람은 mild가 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "운동장에서 뛰다가 넘어졌어. 무릎이 조금 따끔했지만 피는 안 났고, 금방 일어나서 다시 뛰었어. 이 아픔은 'mild'야?",
+   "choices": [
+    "응, mild 맞아",
+    "아니, mild 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, mild 맞아",
+   "why": "맞아! 무릎이 조금 따끔하긴 했지만 피는 안 났고 금방 일어나서 다시 뛰었잖아. 아프긴 한데 세지 않고 살짝이니까 바로 그게 mild인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 친구가 각자 오늘 있었던 일을 말했어. 'mild'라고 부를 수 있는 건 누구 이야기일까?",
+   "choices": [
+    "지호: 겨울인데 바람이 살짝 차가울 뿐, 별로 안 추웠어.",
+    "서연: 물을 마셨는데 아무 맛도 안 났어.",
+    "민준: 열이 펄펄 나서 하루 종일 누워 있었어.",
+    "하은: 라면이 너무 매워서 눈물이 줄줄 났어."
+   ],
+   "answer_index": 0,
+   "answer": "지호: 겨울인데 바람이 살짝 차가울 뿐, 별로 안 추웠어.",
+   "why": "맞아! 지호 이야기에는 차가운 바람이 있긴 있었는데, 살짝 차가울 뿐 별로 안 추웠잖아. 이렇게 있긴 있는데 세지 않고 살짝인 게 바로 mild인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "intense"
+ ],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-mild",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-mild"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/mild.webp",
+  "alt": "콧물만 조금 나는 가벼운 감기",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

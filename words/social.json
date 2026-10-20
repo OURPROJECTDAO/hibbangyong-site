@@ -1,0 +1,90 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/social/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/social/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "social",
+ "slug": "social",
+ "url": "https://hibbangyong.com/words/social/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "혼자가 아니라 여럿이 서로 어울리는 거랑 관련된",
+ "gloss_ko": "여럿이 어울리는",
+ "level": {
+  "code": "L3",
+  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "개미들 좀 봐봐. 혼자 사는 개미는 없어. 늘 떼로 모여서 같이 일하고 같이 살거든?",
+  "사람도 그래. 모여서 수다 떨고, 같이 놀고, 생일 파티도 하잖아.",
+  "이렇게 혼자 말고 여럿이 서로서로 어울리는 거, 그거랑 관련된 게 social이야."
+ ],
+ "scene": "떼 지어 함께 모여 사는 개미 무리",
+ "examples": [
+  {
+   "en": "Bees are social — they always live and work together in a big group.",
+   "ko": "벌은 social해 — 늘 다 같이 큰 무리를 지어 일하고 살거든."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "다음 중 'social'에 해당하는(맞는) 것은?",
+   "choices": [
+    "솜사탕처럼 입에 넣으면 사르르 녹는 것",
+    "볼링공처럼 들어 보면 아주 무거운 것",
+    "미어캣처럼 여러 마리가 늘 함께 모여 사는 것",
+    "얼음처럼 손에 쥐면 차가운 것"
+   ],
+   "answer_index": 2,
+   "answer": "미어캣처럼 여러 마리가 늘 함께 모여 사는 것",
+   "why": "맞아! 미어캣은 혼자가 아니라 여러 마리가 늘 붙어서 같이 살잖아. 바로 그렇게 여럿이 서로 어울리는 게 social인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "다음 넷 중에서 'social'에 해당하는(맞는) 것은 어떤 거야?",
+   "choices": [
+    "바위가 오랫동안 그 자리에 단단하게 굳어 있는 것",
+    "아이들이 운동장에 모여 서로 어울려 함께 노는 것",
+    "주전자의 물이 부글부글 끓어 뜨거워지는 것",
+    "종이비행기가 바람을 타고 멀리 날아가는 것"
+   ],
+   "answer_index": 1,
+   "answer": "아이들이 운동장에 모여 서로 어울려 함께 노는 것",
+   "why": "맞아! 여럿이 모여서 서로 어울려 노는 거, 그게 딱 social이야. 혼자가 아니라 다 같이 어울린다는 게 바로 핵심이거든."
+  },
+  {
+   "type": "choice",
+   "question": "네 마리 동물이 어떻게 사는지 봐봐. 'social'한 동물이라고 부를 수 있는 건 어떤 거야?",
+   "choices": [
+    "개미처럼 늘 떼 지어 함께 모여 사는 동물",
+    "호랑이처럼 넓은 숲을 혼자서 돌아다니는 동물",
+    "누구한테나 순하고 다정하게 잘 구는 동물",
+    "무리에서 힘도 세고 인기도 제일 많은 동물"
+   ],
+   "answer_index": 0,
+   "answer": "개미처럼 늘 떼 지어 함께 모여 사는 동물",
+   "why": "맞아! 개미처럼 늘 떼 지어 같이 모여 사는 거, 그게 바로 혼자가 아니라 여럿이 서로 어울려 사는 거잖아. 그래서 이 동물이 딱 social한 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "mingle"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-social",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-social"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/social.webp",
+  "alt": "떼 지어 함께 모여 사는 개미 무리",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

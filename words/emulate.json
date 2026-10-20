@@ -1,0 +1,94 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/emulate/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/emulate/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "emulate",
+ "slug": "emulate",
+ "url": "https://hibbangyong.com/words/emulate/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "본받다 — 멋지다고 생각하는 사람이나 것을 따라 하며 그만큼 되려고 애쓰다",
+ "gloss_ko": "본받아 따라가다",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "동아리 선배가 발표를 진짜 잘해. 너도 저만큼 잘하고 싶어서 연습을 시작해.",
+  "그래서 선배가 자료를 짜는 법, 말하는 속도 같은 걸 눈여겨보고 따라 해 봐. 핵심은 멋진 사람을 따라 하면서 저 수준까지 가 보려는 거야.",
+  "사람 말고 학교나 회사, 누군가의 성공도 본받을 수 있어. 옆 학교 축제가 대박 나서 우리도 그만큼 해 보려는 것도 이거야.",
+  "그냥 부러워만 하거나, 웃기려고 흉내 내는 거랑은 달라."
+ ],
+ "scene": "동아리 선배만큼 발표를 잘하려고 연습하기",
+ "examples": [
+  {
+   "en": "Other schools want to emulate our recycling program.",
+   "ko": "다른 학교들도 우리 학교 재활용 프로그램을 본받고 싶어 해."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "민지는 사촌 누나가 요리 대회에서 우승한 걸 보고, 자기도 누나만큼 요리를 잘하게 되려고 누나가 재료를 손질하고 불을 조절하는 법을 따라 하며 주말마다 연습했어. 민지가 한 일은 'emulate'야?",
+   "choices": [
+    "응, emulate 맞아",
+    "아니, emulate 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, emulate 맞아",
+   "why": "맞아! 민지는 우승한 누나가 멋져 보여서 누나만큼 요리를 잘하게 되려고 재료 손질이랑 불 조절하는 법을 따라 하며 주말마다 연습했잖아. 멋진 사람만큼 되려고 애쓰는 거, 그게 바로 emulate야."
+  },
+  {
+   "type": "ox",
+   "question": "하준이는 유명한 운동선수가 매일 하는 운동 순서를 알게 됐는데, 그 선수가 하는 순서와 일부러 정반대로만 운동했어. 하준이가 한 일은 'emulate'야?",
+   "choices": [
+    "응, emulate 맞아",
+    "아니, emulate 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, emulate 아니야",
+   "why": "맞아! 하준이는 그 선수처럼 되려고 따라간 게 아니라 일부러 정반대로만 운동했잖아. emulate는 멋진 사람만큼 되려고 그쪽으로 다가가는 건데, 하준이는 오히려 반대쪽으로 간 거라 emulate가 아니야."
+  },
+  {
+   "type": "ox",
+   "question": "동네의 작은 빵집 사장님이 손님이 늘 줄 서는 유명 빵집을 봤어. 그리고 우리 가게에도 그만큼 손님이 오게 하려고 그 빵집이 하는 것처럼 빵 종류와 포장을 새로 바꿨어. 이런 경우도 'emulate'야?",
+   "choices": [
+    "응, emulate 맞아",
+    "아니, emulate 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, emulate 맞아",
+   "why": "맞아! 빵집 사장님이 따라 한 건 사람이 아니라 유명 빵집이지만, 우리 가게도 그만큼 손님이 줄 서게 하려고 빵 종류와 포장을 바꿨잖아. 이렇게 가게의 성공을 보고 그 수준까지 가 보려고 애쓰는 것도 emulate야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "imitate",
+   "kind": "confusable",
+   "from": "vs imitate"
+  },
+  {
+   "word": "mimic",
+   "kind": "confusable",
+   "from": "vs mimic"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-emulate",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-emulate"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/emulate.webp",
+  "alt": "동아리 선배만큼 발표를 잘하려고 연습하기",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

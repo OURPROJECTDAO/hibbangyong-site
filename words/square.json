@@ -1,0 +1,88 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/square/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/square/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "square",
+ "slug": "square",
+ "url": "https://hibbangyong.com/words/square/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "정사각형 — 네 변이 다 똑같고 모서리가 반듯한 네모. 또 그런 네모난 것·네모난 자리",
+ "gloss_ko": "정사각형",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "창문 유리 한 장을 봐봐. 위아래 길이랑 옆 길이가 딱 같아. 모서리는 네 군데 다 반듯하게 꺾여 있고.",
+  "이런 네모는 어디에나 있어. 초콜릿 한 조각, 화장실 바닥 타일 한 칸, 종이접기 색종이 한 장. 크기는 다 다르지만 '길이가 다 같은 네모'라는 건 똑같아.",
+  "도시 한가운데에 건물들이 빙 둘러싸고 가운데가 네모나게 뻥 뚫린 자리가 있으면, 사람들은 그 자리도 이렇게 불러. 땅도 네모나면 그렇게 부르거든?",
+  "옆으로 길쭉한 네모랑은 달라. 길쭉하면 square가 아니야. 네 변 길이가 다 같아야 square야."
+ ],
+ "scene": "위아래·옆 길이가 똑같고 모서리가 반듯한 창문 유리 한 장",
+ "examples": [
+  {
+   "en": "My sandwich was cut into four small squares.",
+   "ko": "내 샌드위치는 작은 정사각형 네 조각으로 잘려 있었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "체육관 벽에 걸린 시계를 봤어. 가장자리가 끊김 없이 둥글게 이어져서 꺾인 모서리가 한 군데도 없어. 이게 'square'야?",
+   "choices": [
+    "응, square 맞아",
+    "아니, square 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, square 아니야",
+   "why": "그렇지, square가 아니야! 네가 딱 본 것처럼 테두리가 쭉 둥글게만 이어지고 꺾인 모서리가 한 군데도 없잖아. 반듯하게 꺾인 모서리 네 군데가 있어야 square인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "미술 시간에 지호가 자로 재봤어. 왼쪽 변, 오른쪽 변, 위 변, 아래 변이 전부 10cm씩이고 모서리 네 군데가 다 반듯하게 꺾인 도화지 조각이야. 이게 'square'야?",
+   "choices": [
+    "응, square 맞아",
+    "아니, square 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, square 맞아",
+   "why": "맞아! 네 변이 전부 10cm로 딱 같고 모서리 네 군데가 다 반듯하게 꺾여 있잖아. 길이가 다 같은 반듯한 네모, 그게 바로 square인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "지호가 식탁에 있는 물건 네 개를 봤어. 이 중에서 'square'라고 부를 수 있는 건 어느 거야?",
+   "choices": [
+    "가로 길이랑 세로 길이가 똑같은 네모난 손수건",
+    "옆으로 길쭉하게 뻗은 네모난 방석",
+    "가장자리가 둥글게 이어진 하얀 접시",
+    "뾰족한 모서리가 세 개인 치즈 조각"
+   ],
+   "answer_index": 0,
+   "answer": "가로 길이랑 세로 길이가 똑같은 네모난 손수건",
+   "why": "맞아! 가로랑 세로가 딱 같고 모서리도 네 군데 다 반듯하게 꺾여 있잖아. 색종이랑 똑같은 모양이지? 그래서 그게 바로 square인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "shape",
+  "triangle"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-square",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-square"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/square.webp",
+  "alt": "위아래·옆 길이가 똑같고 모서리가 반듯한 창문 유리 한 장",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

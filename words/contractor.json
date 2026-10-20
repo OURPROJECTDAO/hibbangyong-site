@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/contractor/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/contractor/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "contractor",
+ "slug": "contractor",
+ "url": "https://hibbangyong.com/words/contractor/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "계약업자(돈 받고 일을 맡아 해 주는 사람) — 돈을 받고 남(회사·학교 등)의 일을 맡아서 해 주기로 약속한 사람이나 회사",
+ "gloss_ko": "돈 받고 일 맡는 곳",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "학교에 새 앱이 필요해. 그런데 선생님들이 직접 만들 수는 없어서 바깥 회사에 맡겨.",
+  "얼마를 주고 언제까지 끝낼지 서로 약속해. 그렇게 약속하고 일을 맡은 쪽이 contractor야.",
+  "집 공사하는 업체만 그런 게 아니야. 급식 업체든 청소 업체든 앱 만드는 사람이든, 약속하고 일을 맡았으면 다 contractor야.",
+  "학교 직원이랑은 달라. 직원은 학교에 소속된 사람이고, contractor는 바깥에 있다가 그 일만 맡아 온 쪽이야."
+ ],
+ "scene": "학교가 새 앱 제작을 바깥 회사에 맡김",
+ "examples": [
+  {
+   "en": "The school hired a contractor to build its new app.",
+   "ko": "학교가 새 앱 만드는 일을 바깥 업체한테 따로 맡겼어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "동네 빵집 사장님이 가게 간판을 새로 달고 싶어서 바깥 간판 업체와 '50만 원에 다음 주 금요일까지 달아 주기'로 약속했어. 이 약속대로 일을 맡아 간판을 만들어 다는 간판 업체는 'contractor'야?",
+   "choices": [
+    "응, contractor 맞아",
+    "아니, contractor 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, contractor 맞아",
+   "why": "맞아! 간판 업체는 빵집 바깥에 있는 곳인데, 50만 원에 다음 주 금요일까지 달아 주기로 약속하고 간판 일을 맡았잖아. 돈이랑 기한을 약속하고 남의 일을 맡은 쪽이니까 바로 contractor인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "시청이 가을 축제 불꽃놀이를 바깥 불꽃놀이 업체에 맡기면서 '300만 원에 축제 첫날 밤에 해 주기'로 약속했어. 이 약속으로 일을 맡기고 돈을 내는 시청은 'contractor'야?",
+   "choices": [
+    "응, contractor 맞아",
+    "아니, contractor 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, contractor 아니야",
+   "why": "맞아! 시청은 불꽃놀이를 업체에 맡기고 300만 원을 내는 쪽이잖아. contractor는 돈을 받고 그 일을 맡은 불꽃놀이 업체 쪽이니까, 시청은 contractor가 아니야."
+  },
+  {
+   "type": "choice",
+   "question": "학교와 관련된 네 쪽이 있어. 이 중에서 'contractor'라고 부를 수 있는 건 누구일까?",
+   "choices": [
+    "학교에 뽑혀 날마다 행정실로 출근하는 직원",
+    "공사가 제대로 됐는지 살피러 온 구청 공무원",
+    "돈을 받고 한 달 동안 급식을 하기로 한 바깥 업체",
+    "업체에 공사를 맡기고 돈을 내는 교장 선생님"
+   ],
+   "answer_index": 2,
+   "answer": "돈을 받고 한 달 동안 급식을 하기로 한 바깥 업체",
+   "why": "맞아! 급식 업체는 학교 바깥에 있다가, 돈을 받고 한 달 동안 급식을 하기로 약속하고 그 일을 맡았잖아. 그렇게 약속하고 일을 맡은 쪽이 바로 contractor야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "contract"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-contractor",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-contractor"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/contractor.webp",
+  "alt": "학교가 새 앱 제작을 바깥 회사에 맡김",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

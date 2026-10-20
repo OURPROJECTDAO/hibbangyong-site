@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/secular/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/secular/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "secular",
+ "slug": "secular",
+ "url": "https://hibbangyong.com/words/secular/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "종교와 상관없는(세속적인) — 종교와 상관없는, 종교가 정하거나 이끌지 않는",
+ "gloss_ko": "종교와 상관없는",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "결혼식 떠올려 봐. 성당에서 신부님이 진행하는 결혼식도 있고, 그냥 예식장에서 하는 결혼식도 있지.",
+  "예식장 결혼식처럼 종교가 정하거나 이끌지 않는 게 secular야. 학교, 나라, 노래, 명절에도 다 붙어.",
+  "종교를 싫어하거나 반대한다는 뜻이 아니야. 그냥 종교 밖에 있다는 거지.",
+  "한국말 '세속적'엔 돈만 밝힌다는 느낌도 있는데, secular엔 그런 뜻이 없어."
+ ],
+ "scene": "성당 결혼식과 예식장 결혼식 비교",
+ "examples": [
+  {
+   "en": "Many secular songs are played in stores in December.",
+   "ko": "12월엔 가게에서 종교와 상관없는 노래가 많이 흘러나와."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "성당에서 신부님이 기도하며 아기에게 물을 뿌리는 세례식이 열렸어. 이 세례식은 'secular' 행사일까?",
+   "choices": [
+    "응, secular 맞아",
+    "아니, secular 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, secular 아니야",
+   "why": "맞아! 성당에서 신부님이 기도하며 아기에게 물을 뿌리는 세례식은 종교가 이끄는 행사잖아. 그래서 secular가 아닌 거야. secular는 종교 밖에 있는 것에만 붙어."
+  },
+  {
+   "type": "ox",
+   "question": "민수네 할아버지 장례식은 종교 의식 없이 치러졌어. 가족들이 모여 할아버지 사진을 보며 추억 이야기만 나눴지. 이 장례식은 'secular' 장례식일까?",
+   "choices": [
+    "응, secular 맞아",
+    "아니, secular 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, secular 맞아",
+   "why": "맞아! 민수네 할아버지 장례식은 종교 의식 없이 가족들이 사진 보며 추억 이야기만 나눴잖아. 종교가 정하거나 이끌지 않은 장례식이니까 바로 secular인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 친구가 자기 학교를 소개했어. 'secular' 학교에 다니는 친구는 누구일까?",
+   "choices": [
+    "교회가 세워서 아침마다 다 같이 예배를 드리는 학교",
+    "종교 단체가 아니라 시에서 세워서 종교 행사가 없는 학교",
+    "종교를 가진 학생은 아예 들어올 수 없게 막는 학교",
+    "대학 잘 가고 돈 잘 버는 법만 골라 가르치는 학교"
+   ],
+   "answer_index": 1,
+   "answer": "종교 단체가 아니라 시에서 세워서 종교 행사가 없는 학교",
+   "why": "맞아! 시에서 세워서 종교 행사가 없으니까, 종교가 정하거나 이끌지 않는 학교잖아. 바로 그게 secular 학교야."
+  }
+ ],
+ "synonyms": [
+  "worldly"
+ ],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-secular",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-secular"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/secular.webp",
+  "alt": "성당 결혼식과 예식장 결혼식 비교",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

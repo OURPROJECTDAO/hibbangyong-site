@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/sustain/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/sustain/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "sustain",
+ "slug": "sustain",
+ "url": "https://hibbangyong.com/words/sustain/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "끊기지 않고 계속 이어지게 받쳐 주다",
+ "gloss_ko": "안 끊기게 이어감",
+ "level": {
+  "code": "L6",
+  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "노래 부를 때 마지막에 '사랑해~~~~' 하고 소리 쭉 늘려 본 적 있지?",
+  "숨이 다 빠질 때까지 그 소리를 안 끊고 붙잡아 두는 거야.",
+  "이렇게 뭔가가 도중에 뚝 멈추거나 사라지지 않게, 오래오래 계속 이어지도록 받쳐 주는 거.",
+  "그게 sustain이야."
+ ],
+ "scene": "노래에서 마지막 소리를 숨이 다할 때까지 안 끊고 길게 뽑아 이어 가는 장면(child 앵커)",
+ "examples": [
+  {
+   "en": "It was hard to sustain our energy on the long, long walk.",
+   "ko": "그 길고 긴 길을 걷는 동안 힘이 안 빠지게 계속 버티는 게 힘들었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "캠핑장 모닥불이 꺼지려고 하면 장작을 계속 넣어 줘서, 불이 밤새 안 꺼지고 쭉 타오르게 했어. 이게 'sustain'이야?",
+   "choices": [
+    "응, sustain 맞아",
+    "아니, sustain 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, sustain 맞아",
+   "why": "맞아! 불이 꺼지려는데 장작을 계속 넣어서 밤새 안 꺼지고 쭉 타오르게 했잖아. 뚝 멈추려는 걸 안 멈추게 오래오래 이어 준 거니까, 바로 그게 sustain인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "켜져 있던 손전등을 스위치로 딱 꺼 버려서 불빛이 그 자리에서 뚝 사라졌어. 이게 'sustain'이야?",
+   "choices": [
+    "응, sustain 맞아",
+    "아니, sustain 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, sustain 아니야",
+   "why": "맞아! 불빛이 뚝 꺼져서 그 자리에서 사라져 버렸잖아. 이건 계속 이어지게 받쳐 주는 게 아니라 오히려 딱 멈춰 버린 거니까, sustain이 아닌 게 딱 맞아."
+  },
+  {
+   "type": "choice",
+   "question": "네 친구가 작은 화분 하나를 두고 각자 다른 일을 했어. 이 중에서 화분의 꽃을 'sustain'한 사람은 누구일까?",
+   "choices": [
+    "날마다 빼먹지 않고 물을 줘서 꽃이 안 시들었어.",
+    "처음에 물을 흠뻑 딱 한 번 주고는 다시 안 줬어.",
+    "빈 화분에 씨앗을 새로 하나 더 심었어.",
+    "물을 안 줘서 꽃이 그만 시들어 버렸어."
+   ],
+   "answer_index": 0,
+   "answer": "날마다 빼먹지 않고 물을 줘서 꽃이 안 시들었어.",
+   "why": "맞아! 날마다 안 빼먹고 계속 물을 줬으니까 꽃이 뚝 시들지 않고 오래오래 이어진 거야. 이렇게 도중에 멈추지 않게 계속 받쳐 주는 게 바로 sustain이야."
+  }
+ ],
+ "synonyms": [
+  "suffer"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "continue",
+   "kind": "confusable",
+   "from": "vs continue"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-sustain",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-sustain"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/sustain.webp",
+  "alt": "노래에서 마지막 소리를 숨이 다할 때까지 안 끊고 길게 뽑아 이어 가는 장면(child 앵커)",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

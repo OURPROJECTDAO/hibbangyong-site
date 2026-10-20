@@ -1,0 +1,95 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/global/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/global/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "global",
+ "slug": "global",
+ "url": "https://hibbangyong.com/words/global/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "전 세계의 — 어느 한 곳이 아니라 온 세계에 다 걸친",
+ "gloss_ko": "온 세계에 걸친",
+ "level": {
+  "code": "L3",
+  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "우리 동네에 비가 오는 건 우리 동네 일이지? 근데 지구가 통째로 조금씩 더워지는 건 좀 달라.",
+  "어느 한 나라 일이 아니거든. 온 세상 여기저기에 다 걸쳐 있어.",
+  "좋은 일이든 걱정되는 일이든 상관없어. 그냥 유명한 거나, 딴 나라 한 곳 얘기랑은 달라.",
+  "온 세계를 한꺼번에 덮는 것, 그게 global이야."
+ ],
+ "scene": "지구 전체가 조금씩 더워지는 일",
+ "examples": [
+  {
+   "en": "Plastic in the sea is a global problem.",
+   "ko": "바다에 쌓인 플라스틱은 온 세계가 같이 겪는 문제야."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "우리 학교 앞 문구점이 오늘 하루 문을 닫았어. 이건 'global'한 일일까?",
+   "choices": [
+    "응, global 맞아",
+    "아니, global 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, global 아니야",
+   "why": "맞아! 학교 앞 문구점 한 곳이 오늘 하루만 문을 닫은 거라서, 온 세계에 다 걸친 일이 아니거든. 그래서 global이 아니라고 한 게 딱 맞는 거야."
+  },
+  {
+   "type": "ox",
+   "question": "아시아, 유럽, 아프리카, 아메리카… 세계 거의 모든 나라에서 사람들이 인터넷을 써. 이건 'global'한 일일까?",
+   "choices": [
+    "응, global 맞아",
+    "아니, global 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, global 맞아",
+   "why": "맞아! 아시아, 유럽, 아프리카, 아메리카까지, 세계 거의 모든 나라에서 사람들이 인터넷을 쓰잖아. 어느 한 나라 일이 아니라 온 세계에 다 걸쳐 있으니까 바로 그게 global인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 가지 일이 있어. 이 중에서 'global'한 일은 어떤 걸까?",
+   "choices": [
+    "우리 동네 놀이터 그네가 뚝 끊어진 일",
+    "아시아에도 유럽에도 아프리카에도 퍼진 감기",
+    "일본의 한 도시에서만 열린 커다란 불꽃 축제",
+    "우리 반 친구들이 모두 좋아하는 인기 가수"
+   ],
+   "answer_index": 1,
+   "answer": "아시아에도 유럽에도 아프리카에도 퍼진 감기",
+   "why": "맞아! 감기가 아시아에도, 유럽에도, 아프리카에도 퍼졌잖아. 어느 한 곳이 아니라 온 세계 여기저기에 다 걸쳐 있으니까 바로 그게 global인 거야. 감기는 좋은 일이 아닌데도 global이 될 수 있어."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "local"
+ ],
+ "confusable": [
+  {
+   "word": "foreign",
+   "kind": "confusable",
+   "from": "외국의·딴 나라 한 곳의(foreign)"
+  }
+ ],
+ "related_scene": [
+  "globe"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-global",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-global"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/global.webp",
+  "alt": "지구 전체가 조금씩 더워지는 일",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/trend/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/trend/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "trend",
+ "slug": "trend",
+ "url": "https://hibbangyong.com/words/trend/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "흐름 — 시간이 지나면서 한쪽으로 꾸준히 바뀌어 가는 것(반짝 유행이랑은 달라).",
+ "gloss_ko": "한쪽으로 바뀌어 가는 흐름",
+ "level": {
+  "code": "L6",
+  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "매일 바깥 온도를 재서 점을 콕콕 찍어 봐. 어제보다 오늘, 오늘보다 내일 조금씩 더 올라가네?",
+  "하루만 딱 보면 잘 몰라. 근데 며칠을 쭉 이어서 보면 '위로 올라가는 중'인 게 딱 보여.",
+  "이렇게 시간이 지나면서 한쪽으로 쭉 흘러가는 방향, 그게 trend야. 올라갈 수도, 내려갈 수도 있어.",
+  "그러니까 지금 반짝 인기 있는 것 하나(그건 그냥 유행)랑은 좀 달라."
+ ],
+ "scene": "매일 바깥 온도를 점 찍어 며칠을 이어 보니 위로 올라가는 흐름이 보이는 장면",
+ "examples": [
+  {
+   "en": "Every day it gets a little warmer, so the trend is going up.",
+   "ko": "매일 조금씩 더 더워져서, 흐름이 자꾸 위로 올라가는 중이야."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "교실 뒤에 걸린 시계는 작년에도 올해도 똑같은 자리에 똑같은 모습으로 아무것도 안 변한 채 걸려 있어. 이게 'trend'야?",
+   "choices": [
+    "응, trend 맞아",
+    "아니, trend 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, trend 아니야",
+   "why": "맞아! 시계는 작년이나 올해나 똑같은 자리에 똑같은 모습이잖아. 하나도 안 바뀌었지? trend는 시간이 갈수록 점점 달라지는 흐름인데, 이건 아무 흐름이 없으니까 trend가 아닌 게 맞아."
+  },
+  {
+   "type": "choice",
+   "question": "다음 중 'trend'라고 부를 수 있는 건 뭘까?",
+   "choices": [
+    "우리 동네 여름 기온이 해마다 조금씩 더 높아지고 있어.",
+    "그 장난감은 딱 일주일 반짝 인기였다가 지금은 아무도 안 찾아.",
+    "저 산은 백 년째 하나도 안 바뀌고 똑같은 모습으로 그대로 서 있어.",
+    "어느 날 하루만 아이스크림이 확 팔리고 다음 날엔 뚝 떨어졌어."
+   ],
+   "answer_index": 0,
+   "answer": "우리 동네 여름 기온이 해마다 조금씩 더 높아지고 있어.",
+   "why": "맞아! 해마다 조금씩 계속 더 높아지고 있잖아. 이렇게 시간이 갈수록 한 방향으로 쭉 이어지는 흐름이 바로 trend야."
+  },
+  {
+   "type": "ox",
+   "question": "지난달에 딱 2주 동안 우리 반 모두가 팽이 돌리기에 푹 빠졌었어. 그런데 3주째부터는 아무도 팽이를 안 꺼내고 싹 시들해졌어. 이런 것도 'trend'라고 할 수 있을까?",
+   "choices": [
+    "응, 'trend' 맞아",
+    "아니, 'trend' 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 'trend' 아니야",
+   "why": "딱 맞아! 잠깐 2주 반짝 빠졌다가 3주째부터 싹 시들해졌잖아. 계속 한 방향으로 쭉 늘어나거나 몰려가는 게 아니라 반짝했다 사라진 거니까, 이건 trend가 아닌 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "fashion",
+   "kind": "confusable",
+   "from": "vs fashion"
+  },
+  {
+   "word": "tendency",
+   "kind": "confusable",
+   "from": "vs tendency"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-trend",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-trend"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/trend.webp",
+  "alt": "매일 바깥 온도를 점 찍어 며칠을 이어 보니 위로 올라가는 흐름이 보이는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

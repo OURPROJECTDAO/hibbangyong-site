@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/archival/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/archival/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "archival",
+ "slug": "archival",
+ "url": "https://hibbangyong.com/words/archival/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "기록 보관의 — 나중에 다시 찾아볼 수 있게 기록을 남겨 두는 일이나 그런 곳에 관한",
+ "gloss_ko": "기록 보관용",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "학교 도서관 한쪽에 졸업 앨범, 교지, 행사 사진을 모아 두는 방 있지?",
+  "거기엔 나중에 다시 찾아보려고 남긴 기록이 들어가. 옛날 앨범도 있고, 올해 체육대회 사진도 있어.",
+  "archival은 이렇게 기록을 보관하는 일에 속한 것, 또는 오래 보관하려고 만든 것에 붙는 말이야.",
+  "그냥 옛날 느낌이 나는 거랑은 달라. 오래됐는지보다 기록으로 남겨서 보관하는지가 핵심이야."
+ ],
+ "scene": "학교 도서관의 졸업 앨범·교지·행사 사진 보관 방",
+ "examples": [
+  {
+   "en": "The school keeps archival copies of every student newspaper, even last week's.",
+   "ko": "우리 학교는 학생 신문을 지난주 것까지 한 부씩 빠짐없이 기록용으로 모아 둬."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "시청에서 올해 선거 때 붙었던 포스터를 종류별로 한 장씩 모아, 나중에 찾아볼 수 있게 번호를 붙여 상자에 넣어 두었어. 이 포스터 상자는 'archival' 자료야?",
+   "choices": [
+    "응, archival 맞아",
+    "아니, archival 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, archival 맞아",
+   "why": "맞아! 올해 선거 포스터라서 오래된 건 아니지만, 나중에 찾아볼 수 있게 종류별로 한 장씩 모아 번호 붙여 상자에 넣어 뒀잖아. 기록으로 남겨서 보관한 거니까 바로 archival 자료인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "버스 정류장 전광판에 '3분 후 도착' 같은 숫자가 지금 이 순간 계속 바뀌면서 떠. 이 전광판 숫자는 'archival' 자료야?",
+   "choices": [
+    "응, archival 맞아",
+    "아니, archival 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, archival 아니야",
+   "why": "맞아! 전광판 숫자는 남겨 두는 게 아니라 지금 이 순간 계속 바뀌면서 바로 사라지잖아. 나중에 다시 찾아보려고 보관하는 게 아니니까 archival이 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "다음 영상 중에서 'archival' 영상이라고 부를 수 있는 건 어느 거야?",
+   "choices": [
+    "흑백 필터를 씌워서 일부러 옛날처럼 보이게 만든 새 뮤직비디오",
+    "오늘 극장에서 처음 개봉한, 조선 시대를 다룬 새 역사 영화",
+    "방송국이 나중에 쓰려고 날짜별로 정리해 둔 지난달 경기 영상",
+    "지금 경기장에서 바로 내보내고 있는 오늘 축구 생방송 영상"
+   ],
+   "answer_index": 2,
+   "answer": "방송국이 나중에 쓰려고 날짜별로 정리해 둔 지난달 경기 영상",
+   "why": "맞아! 지난달 영상이라 전혀 오래된 게 아닌데도, 방송국이 나중에 다시 쓰려고 날짜별로 정리해서 남겨 뒀잖아. 오래됐는지가 아니라 기록으로 남겨 보관하는지가 핵심이라서, 바로 이게 archival 영상인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "stored",
+   "kind": "confusable",
+   "from": "vs stored"
+  }
+ ],
+ "related_scene": [
+  "record"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-archival",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-archival"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/archival.webp",
+  "alt": "학교 도서관의 졸업 앨범·교지·행사 사진 보관 방",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

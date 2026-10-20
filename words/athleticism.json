@@ -1,0 +1,98 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/athleticism/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/athleticism/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "athleticism",
+ "slug": "athleticism",
+ "url": "https://hibbangyong.com/words/athleticism/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "운동 능력 — 빠르고 힘 있게, 몸을 마음대로 다루며 잘 움직이는 능력",
+ "gloss_ko": "운동 능력",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "피구할 때 날아오는 공을 휙 피하고, 바로 몸을 틀어서 받아 내는 애 있지.",
+  "빠르고, 힘 있고, 몸을 마음대로 다루는 그 능력. 그게 athleticism이야.",
+  "타고났든 몇 년 훈련해서 길렀든 상관없어. 사람이든 고양이든 몸이 이렇게 잘 움직이면 다 써.",
+  "덩치가 큰 거나 운동 규칙을 잘 아는 거랑은 달라. 몸이 실제로 얼마나 잘 움직이느냐야."
+ ],
+ "scene": "피구에서 공을 피하고 몸을 틀어 받아 내는 아이",
+ "examples": [
+  {
+   "en": "After a year of training, her athleticism surprised everyone on the team.",
+   "ko": "1년 동안 훈련하고 나니까 걔 운동 능력에 팀 애들이 다 놀랐어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "사촌 언니랑 공원에서 배드민턴을 쳤어. 셔틀콕이 코트 구석 쪽으로 떨어지자 언니가 순식간에 달려가 몸을 낮춰 받아 넘기고, 곧바로 가운데 자리로 돌아왔어. 언니의 이런 능력을 'athleticism'이라고 할 수 있어?",
+   "choices": [
+    "응, athleticism 맞아",
+    "아니, athleticism 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, athleticism 맞아",
+   "why": "맞아! 언니가 구석으로 떨어지는 셔틀콕까지 순식간에 달려가고, 몸을 낮춰 받아 넘긴 다음 곧바로 가운데로 돌아왔잖아. 빠르게 움직이면서 몸까지 마음대로 다룬 거라서 바로 그게 athleticism인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "주말에 등산을 갔는데, 삼촌은 비탈길에서 발을 어디에 디딜지 몰라 한참 머뭇거렸어. 겨우 한 발씩 내딛다가 작은 돌부리에도 몸이 휘청했어. 삼촌이 보여 준 이 몸 상태를 'athleticism'이라고 할 수 있어?",
+   "choices": [
+    "응, athleticism 맞아",
+    "아니, athleticism 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, athleticism 아니야",
+   "why": "맞아! 삼촌은 비탈길에서 발을 어디에 디딜지 몰라 한참 머뭇거렸고, 작은 돌부리에도 몸이 휘청했잖아. 몸이 빠르게도, 마음대로도 안 움직인 거니까 athleticism이랑은 정반대인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "자연 다큐멘터리에서 눈표범을 보여 주던 해설자가 \"이 동물의 'athleticism'은 정말 놀랍습니다\"라고 했어. 해설자가 감탄한 건 눈표범의 무엇일까?",
+   "choices": [
+    "바위 사이를 빠르고 힘 있게 뛰어다니며 몸을 자유롭게 다루는 능력",
+    "추운 산에서도 얼지 않게 몸을 감싸 주는 크고 두꺼운 털과 덩치",
+    "먹잇감이 어디로 도망갈지 미리 알아차리는 영리한 사냥 머리",
+    "며칠을 굶고도 쓰러지지 않고 오래 버티는 끈질긴 지구력"
+   ],
+   "answer_index": 0,
+   "answer": "바위 사이를 빠르고 힘 있게 뛰어다니며 몸을 자유롭게 다루는 능력",
+   "why": "맞아! 바위 사이를 빠르고 힘 있게 뛰어다니며 몸을 자유롭게 다루는 거, 그게 바로 athleticism이야. 사람 말고 눈표범한테도, 몸이 이렇게 잘 움직이면 똑같이 쓰는 말이거든."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "stamina",
+   "kind": "confusable",
+   "from": "vs stamina"
+  },
+  {
+   "word": "agility",
+   "kind": "confusable",
+   "from": "vs agility"
+  }
+ ],
+ "related_scene": [
+  "athlete"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-athleticism",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-athleticism"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/athleticism.webp",
+  "alt": "피구에서 공을 피하고 몸을 틀어 받아 내는 아이",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

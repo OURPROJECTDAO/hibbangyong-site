@@ -1,0 +1,91 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/currency/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/currency/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "currency",
+ "slug": "currency",
+ "url": "https://hibbangyong.com/words/currency/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "화폐(나라마다 쓰기로 한 돈) — 어떤 곳에서 다 같이 쓰기로 한 돈(여기선 원, 미국은 달러)",
+ "gloss_ko": "나라마다 쓰는 돈",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "문방구에서 천 원짜리 한 장 내면 과자를 주지? 여기선 그게 통하거든.",
+  "근데 바다 건너 다른 나라 가게는? 그 천 원 안 받아줘. 거긴 거기서 통하는 돈이 따로 있어.",
+  "돈이 얼마나 많냐, 그런 얘기가 아니야. 여기선 원, 저기선 달러, 어떤 돈을 쓰기로 했느냐는 거야.",
+  "그게 currency야."
+ ],
+ "scene": "문방구에서 천 원짜리를 내고 과자를 사는 장면",
+ "examples": [
+  {
+   "en": "Our currency is the won, but Japan uses the yen.",
+   "ko": "우리는 원을 화폐로 쓰는데 일본은 엔을 써."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "프랑스에 사는 사촌 누나는 빵집에서도 서점에서도 값을 유로로 치러. 이게 'currency'야?",
+   "choices": [
+    "응, currency 맞아",
+    "아니, currency 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, currency 맞아",
+   "why": "맞아! 프랑스 빵집에서도 서점에서도 다 같이 유로로 값을 치른다는 게, 그 나라에서 쓰기로 한 돈이 유로라는 뜻이거든. 어떤 돈을 쓰느냐, 바로 그게 currency야."
+  },
+  {
+   "type": "ox",
+   "question": "사촌 형이 친구랑 야구 카드랑 색연필을 서로 바꿔 가졌어. 이게 'currency'야?",
+   "choices": [
+    "응, currency 맞아",
+    "아니, currency 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, currency 아니야",
+   "why": "그렇지, 이건 currency가 아니야. 카드랑 색연필을 그냥 서로 바꿔 가진 거잖아. 돈이 하나도 안 나왔지? currency는 여기선 원, 미국은 달러처럼 다 같이 쓰기로 한 돈 이야기거든."
+  },
+  {
+   "type": "choice",
+   "question": "삼촌이 여러 나라를 다녀와서 이야기를 넷 해 줬어. 이 중에 'currency' 이야기를 한 건 어느 거게?",
+   "choices": [
+    "그 나라 가게에서는 원이 아니라 페소로 값을 치른다고 했어",
+    "여행하는 동안 돈을 생각보다 많이 썼다고 했어",
+    "시장에서 쓰던 모자를 주고 과일을 받아 왔다고 했어",
+    "그 나라 가게들은 밤늦게까지 문을 열어 둔다고 했어"
+   ],
+   "answer_index": 0,
+   "answer": "그 나라 가게에서는 원이 아니라 페소로 값을 치른다고 했어",
+   "why": "맞아! 그 나라 가게에서는 원이 아니라 페소로 값을 치른다고 했잖아. 여기선 원, 그 나라에선 페소, 이렇게 그곳에서 쓰기로 한 돈이 뭐냐는 얘기라서 바로 그게 currency인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "money",
+   "kind": "confusable",
+   "from": "vs money"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-currency",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-currency"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/currency.webp",
+  "alt": "문방구에서 천 원짜리를 내고 과자를 사는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

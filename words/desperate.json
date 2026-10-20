@@ -1,0 +1,99 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/desperate/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/desperate/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "desperate",
+ "slug": "desperate",
+ "url": "https://hibbangyong.com/words/desperate/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "너무 급해서 못 참는 — 뭐라도 해야겠다는 마음이 꽉 찬",
+ "gloss_ko": "너무 급해서 뭐라도 하게 되는",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "오래 참다가 화장실 앞에 섰는데 문이 잠겼어. 발을 동동 굴러. 노크를 쾅쾅, 옆 칸까지 뛰어가.",
+  "이때 마음이 딱 그거야. 그냥 원하는 게 아니라, 지금 아니면 안 되겠는 거. 참을 수가 없어서 뭐라도 하게 되는 거.",
+  "좋은 일에도 써. 나쁜 일에도 써. 물 한 모금이 간절할 때도, 들키기 전에 도망치고 싶을 때도 똑같이 써.",
+  "그냥 많이 갖고 싶은 거랑은 달라. 갖고 싶은 건 기다릴 수 있잖아. 이건 못 기다려. 그게 desperate야."
+ ],
+ "scene": "잠긴 화장실 문 앞에서 발을 동동 구르는 순간",
+ "examples": [
+  {
+   "en": "The lost puppy was desperate to find its way home.",
+   "ko": "길 잃은 강아지는 집에 가는 길을 찾으려고 뭐든지 다 했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "수영장 물속에서 오래 버티기를 하던 형이 숨이 막혀 팔을 마구 휘저으며 물 밖으로 솟구쳐 올라 숨을 크게 들이켰어. 이 마음이 'desperate'야?",
+   "choices": [
+    "응, desperate 맞아",
+    "아니, desperate 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, desperate 맞아",
+   "why": "맞아! 숨이 턱까지 차서 더는 못 참고 몸이 저절로 튀어나온 거잖아. 지금 아니면 안 되겠는 그 마음, 그게 바로 desperate야."
+  },
+  {
+   "type": "ox",
+   "question": "준이는 도서관에서 읽고 싶은 책이 대출 중이래. 사서 선생님이 다음 주에 들어온다고 하자 준이는 알겠다고 하고 다른 책을 골라 자리에 앉아 읽기 시작했어. 지금 준이 마음이 'desperate'야?",
+   "choices": [
+    "응, desperate 맞아",
+    "아니, desperate 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, desperate 아니야",
+   "why": "그렇지, 준이는 다음 주까지 기다릴 수 있잖아. 다른 책을 펴서 조용히 읽고 있는 걸 보면 하나도 급하지 않은 거야. 이렇게 기다릴 수 있으면 desperate가 아니야."
+  },
+  {
+   "type": "ox",
+   "question": "길고양이가 시장에서 생선을 물고 도망치다가 상인한테 들켰어. 골목 끝은 막혀 있고, 고양이는 담벼락을 몇 번이나 미끄러지며 기어오르다가 결국 좁은 하수구 구멍으로 몸을 밀어넣었어. 이런 경우도 'desperate'야?",
+   "choices": [
+    "응, desperate 맞아.",
+    "아니, desperate 아니야."
+   ],
+   "answer_index": 0,
+   "answer": "응, desperate 맞아.",
+   "why": "맞아! 담벼락을 몇 번이나 미끄러지면서도 또 올라가고, 결국 그 좁은 구멍에 몸까지 밀어넣었잖아. 지금 아니면 안 되겠어서 뭐라도 해보는 그 마음, 그게 바로 desperate야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "calm",
+  "patient"
+ ],
+ "confusable": [
+  {
+   "word": "hopeless",
+   "kind": "confusable",
+   "from": "vs hopeless"
+  },
+  {
+   "word": "impatient",
+   "kind": "confusable",
+   "from": "vs impatient"
+  }
+ ],
+ "related_scene": [
+  "despair"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-desperate",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-desperate"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/desperate.webp",
+  "alt": "잠긴 화장실 문 앞에서 발을 동동 구르는 순간",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

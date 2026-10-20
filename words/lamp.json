@@ -1,0 +1,74 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/lamp/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/lamp/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "lamp",
+ "slug": "lamp",
+ "url": "https://hibbangyong.com/words/lamp/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "램프 — 밤에 방을 밝혀 주는 전등",
+ "gloss_ko": "램프",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "방이 어두울 때 켜면 갓 아래로 노란 불빛이 나와 주변을 환하게 밝혀 주는 물건이야.",
+  "잠자기 전 침대맡에서 책을 읽거나, 밤에 화장실 갈 때 이걸 켜면 안 넘어지고 잘 볼 수 있어."
+ ],
+ "scene": "탁자 위에 놓인 전형적인 침대맡 스탠드 램프 — 갓 아래로 따뜻한 노란 불빛이 켜져 빛나는 모습(전등/램프 의미)",
+ "examples": [
+  {
+   "en": "I turned on the lamp so I could read my book in bed.",
+   "ko": "침대에서 책 읽으려고 램프를 켰어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "낮에 창문으로 햇빛이 쏟아져 들어와서 방 안이 환하게 밝아졌어. 이게 lamp야?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 아니야",
+   "why": null
+  },
+  {
+   "type": "choice",
+   "question": "lamp은 어느 것일까?",
+   "choices": [
+    "손목에 차고 다니며 지금 몇 시인지 알려 주는 물건",
+    "탁자에 세워 두고 갓이 씌워져 어두울 때 켜는 물건",
+    "발에 꿰어 신고 문밖으로 나갈 때 신는 물건",
+    "등에 메고 다니며 책과 준비물을 넣어 두는 물건"
+   ],
+   "answer_index": 1,
+   "answer": "탁자에 세워 두고 갓이 씌워져 어두울 때 켜는 물건",
+   "why": null
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "furniture"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-lamp",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-lamp"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/lamp.webp",
+  "alt": "탁자 위에 놓인 전형적인 침대맡 스탠드 램프 — 갓 아래로 따뜻한 노란 불빛이 켜져 빛나는 모습(전등/램프 의미)",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

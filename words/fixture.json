@@ -1,0 +1,106 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/fixture/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/fixture/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "fixture",
+ "slug": "fixture",
+ "url": "https://hibbangyong.com/words/fixture/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "붙박이 설비(건물에 붙어 있는 것) — 욕조·변기·전등처럼 건물에 고정돼서 건물과 함께 넘어가는 것",
+ "gloss_ko": "건물에 붙은 것",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "이사 갈 때를 떠올려 봐. 소파랑 책상은 트럭에 싣지.",
+  "근데 변기, 싱크대, 천장 전등은 벽이랑 바닥에 붙어 있어서 그냥 두고 가.",
+  "이렇게 건물에 고정돼서 건물이랑 같이 넘어가는 게 fixture야. 들고 옮기는 가구랑은 달라.",
+  "그래서 어떤 곳에 늘 붙어 있다시피 하는 사람을 fixture라고 부르기도 해."
+ ],
+ "scene": "이사 갈 때 가구는 싣고 변기·싱크대·전등은 두고 가는 장면",
+ "examples": [
+  {
+   "en": "When we moved out, we left all the fixtures, like the bathtub and the kitchen sink.",
+   "ko": "우리 이사 나올 때 욕조랑 부엌 싱크대 같은 붙박이 설비는 전부 두고 왔어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "집을 팔려고 내놓았어. 거실 구석 바닥에 그냥 세워 둔 스탠드형 선풍기, 이건 'fixture'야?",
+   "choices": [
+    "응, fixture 맞아",
+    "아니, fixture 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, fixture 아니야",
+   "why": "잘 골랐어. 그 선풍기는 바닥에 그냥 세워 둔 거라 집을 팔 때 들어서 이삿짐으로 가져가면 돼. 벽이나 바닥에 고정된 게 아니니까 fixture가 아니야."
+  },
+  {
+   "type": "ox",
+   "question": "새 학기가 되어 교실을 옮기게 됐어. 교실 뒤쪽에 줄지어 놓인 학생용 나무 책상과 의자들이 있어. 이런 것도 'fixture'야?",
+   "choices": [
+    "응, fixture 맞아",
+    "아니, fixture 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, fixture 아니야",
+   "why": "맞아, 이건 fixture가 아니야! 나무 책상과 의자는 교실을 옮길 때 들어서 옮길 수 있는 가구(furniture)라서, 벽이나 바닥에 붙어 있는 fixture랑은 달라."
+  },
+  {
+   "type": "ox",
+   "question": "집을 팔려고 내놓았어. 부엌 가스레인지 위 벽에 나사로 박아 설치한 환풍기 후드, 이건 'fixture'야?",
+   "choices": [
+    "응, fixture 맞아",
+    "아니, fixture 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, fixture 맞아",
+   "why": "맞아! 환풍기 후드는 가스레인지 위 벽에 나사로 박혀 있잖아. 집을 팔면 떼어 가는 게 아니라 집이랑 같이 넘어가니까 바로 fixture인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "furniture",
+   "kind": "confusable",
+   "from": "가구(furniture)"
+  },
+  {
+   "word": "appliance",
+   "kind": "confusable",
+   "from": "가전제품(appliance)"
+  },
+  {
+   "word": "fitting",
+   "kind": "confusable",
+   "from": "vs fitting"
+  },
+  {
+   "word": "equipment",
+   "kind": "confusable",
+   "from": "vs equipment"
+  }
+ ],
+ "related_scene": [
+  "toilet"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-fixture",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-fixture"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/fixture.webp",
+  "alt": "이사 갈 때 가구는 싣고 변기·싱크대·전등은 두고 가는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

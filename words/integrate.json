@@ -1,0 +1,103 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/integrate/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/integrate/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "integrate",
+ "slug": "integrate",
+ "url": "https://hibbangyong.com/words/integrate/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "따로 놀던 것을 안에 넣어서, 나머지랑 맞물려 같이 돌아가게 하다",
+ "gloss_ko": "맞물려 하나로 넣다",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "블록 로봇에 팔을 하나 더 얹어만 놨어. 스위치를 눌러도 그 팔은 꼼짝을 안 해.",
+  "선을 이어 줬더니 척! 다른 팔들이랑 같이 움직여. 이제 로봇 몸의 한 부분이 된 거야.",
+  "물건만 그런 게 아니야. 새 규칙을 놀이 안에 넣어서 놀이 순서대로 같이 돌아가게 해도 똑같아. 그러면 놀이가 더 잘 굴러가.",
+  "그냥 옆에 갖다 놓거나 자리만 채우는 거랑은 달라. 따로 놀던 게 나머지랑 맞물려 같이 굴러가야 해. 이게 integrate야."
+ ],
+ "scene": "블록 로봇에 얹어만 둔 새 팔이 선을 잇자 다른 팔들과 같이 움직이는 장면",
+ "examples": [
+  {
+   "en": "We integrated the new arm into the robot, and now it moves with the other arms.",
+   "ko": "우리는 새 팔을 로봇 안에 맞물려 넣었고, 이제 다른 팔들이랑 같이 움직여."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "형이 자전거에 작은 전조등을 달았어. 전선을 페달 쪽 발전기에 이어 놓아서, 형이 페달을 밟으면 그 전조등도 같이 켜져. 이건 자전거에 'integrate' 한 거야?",
+   "choices": [
+    "응, integrate 맞아",
+    "아니, integrate 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, integrate 맞아",
+   "why": "맞아! 전조등이 전선으로 발전기랑 이어져서, 페달을 밟으면 같이 켜지잖아. 그냥 얹어만 둔 게 아니라 자전거랑 맞물려 같이 굴러가니까 바로 그게 integrate인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "동생이 우리 합주단에 큰북을 하나 들여와서 무대 한쪽에 세워 뒀어. 다 같이 연주하는 동안 그 북은 한 번도 소리를 내지 않아. 이런 경우도 'integrate'야?",
+   "choices": [
+    "응, integrate 맞아",
+    "아니, integrate 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, integrate 아니야",
+   "why": "맞아! 큰북이 무대에 놓여 있기만 하고 다른 악기들이랑 박자를 맞춰 같이 연주하질 않잖아. 자리만 차지하고 있는 거라서 integrate가 아닌 게 맞아."
+  },
+  {
+   "type": "ox",
+   "question": "교실 시계가 종소리랑 같이 맞춰 돌아갔는데, 선생님이 그 시계를 벽에서 떼서 사물함 위에 올려놨어. 이제 종소리랑 상관없이 저 혼자 간대. 이건 교실에 'integrate' 한 거야?",
+   "choices": [
+    "응, integrate 맞아",
+    "아니, integrate 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, integrate 아니야",
+   "why": "맞아, 이건 integrate가 아니야! 벽에 걸려서 종소리랑 짝짝 맞춰 돌던 시계를 떼어 놨잖아. 이제 저 혼자 따로 가니까, 교실이랑 같이 굴러가는 게 아니라 오히려 떨어져 나온 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "separate"
+ ],
+ "confusable": [
+  {
+   "word": "attach",
+   "kind": "confusable",
+   "from": "그냥 붙이기·얹기·자리 차지(attach/place)"
+  },
+  {
+   "word": "place",
+   "kind": "confusable",
+   "from": "그냥 붙이기·얹기·자리 차지(attach/place)"
+  },
+  {
+   "word": "combine",
+   "kind": "confusable",
+   "from": "vs combine"
+  }
+ ],
+ "related_scene": [
+  "integral"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-integrate",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-integrate"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/integrate.webp",
+  "alt": "블록 로봇에 얹어만 둔 새 팔이 선을 잇자 다른 팔들과 같이 움직이는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

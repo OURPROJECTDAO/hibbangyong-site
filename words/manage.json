@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/manage/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/manage/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "manage",
+ "slug": "manage",
+ "url": "https://hibbangyong.com/words/manage/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "벅찬 일을 어떻게든 잘 해내다, 또는 큰일을 맡아서 잘 굴러가게 이끌어가다",
+ "gloss_ko": "어떻게든 해냄",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "양손에 짐이 가득! 문은 잠겼는데 열쇠는 주머니 깊숙이 들어 있어. 이거 못 하겠다 싶지?",
+  "근데 낑낑대다가 짐 하나 안 떨어뜨리고, 문도 열고 집까지 다 왔어. 힘들었지만 어떻게든 해낸 거야.",
+  "꼭 힘들어야만 쓰는 말은 아냐. 큰 가게를 맡아서 안 망하게 잘 돌보고 굴러가게 이끄는 것도 똑같이 이 말이야.",
+  "벅찬 일을 이겨내 해내든, 큰일을 맡아 잘 굴려가든 — 잘 다뤄서 되게 만드는 거. 이게 manage야."
+ ],
+ "scene": "양손 가득 짐을 들고 잠긴 문을 어떻게든 열어 집까지 옴",
+ "examples": [
+  {
+   "en": "It was heavy, but I managed to carry all the bags home by myself.",
+   "ko": "무거웠지만 나는 혼자서 가방을 다 집까지 어떻게든 들고 왔어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "수민이는 반 아이들 25명 도시락을 혼자 나눠 주는 당번을 맡았어. 종이 울리기 전에 25개를 다 나눠 줬어. 이걸 'manage'했다고 할 수 있을까?",
+   "choices": [
+    "응, manage 맞아",
+    "아니, manage 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, manage 맞아",
+   "why": "맞아! 25명분을 혼자 나눠 주는 건 벅찬 일인데, 종 울리기 전에 끝까지 다 해냈잖아. 힘든 걸 어떻게든 해낸 거, 그게 바로 manage야."
+  },
+  {
+   "type": "ox",
+   "question": "준호는 자전거 체인이 빠져서 다시 끼우려고 손을 댔어. 체인은 계속 빠진 채로 있고, 준호는 자전거를 끌고 걸어갔어. 준호가 체인을 'manage'했다고 할 수 있을까?",
+   "choices": [
+    "응, manage 맞아",
+    "아니, manage 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, manage 아니야",
+   "why": "맞아! 체인이 아직도 빠진 채로 있잖아. 손은 댔지만 되게 만들지는 못한 거라서 manage가 아닌 거야. 만져본 거랑 해낸 거는 다르거든."
+  },
+  {
+   "type": "choice",
+   "question": "네 친구가 각자 큰 개를 산책시킨 이야기를 했어. 이 중에서 'manage'라는 말이 딱 맞는 사람은 누구일까?",
+   "choices": [
+    "힘센 큰 개가 자꾸 앞으로 끌어당겼는데, 놓치지 않고 공원까지 잘 데리고 갔어.",
+    "개가 워낙 얌전해서 힘 하나 안 들이고 슬슬 공원까지 데리고 갔어.",
+    "개가 너무 세게 끌어당겨서 그만 줄을 놓쳐 못 데리고 갔어.",
+    "개를 데려가려고 줄을 꽉 잡아 보긴 했는데, 끝까지 갔는지는 몰라."
+   ],
+   "answer_index": 0,
+   "answer": "힘센 큰 개가 자꾸 앞으로 끌어당겼는데, 놓치지 않고 공원까지 잘 데리고 갔어.",
+   "why": "맞아! 힘센 개가 자꾸 앞으로 끌어당겨서 정말 벅찼는데, 놓치지 않고 끝까지 공원까지 데려갔잖아. 힘든 걸 잘 다뤄서 끝내 되게 만든 거, 그게 바로 manage야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "handle",
+   "kind": "confusable",
+   "from": "vs handle"
+  }
+ ],
+ "related_scene": [
+  "executive"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-manage",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-manage"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/manage.webp",
+  "alt": "양손 가득 짐을 들고 잠긴 문을 어떻게든 열어 집까지 옴",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

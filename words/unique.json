@@ -1,0 +1,92 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/unique/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/unique/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "unique",
+ "slug": "unique",
+ "url": "https://hibbangyong.com/words/unique/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "하나뿐인 — 세상에 똑같은 게 없이 오직 하나만 있는.",
+ "gloss_ko": "하나뿐인",
+ "level": {
+  "code": "L6",
+  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "네 손끝에 있는 무늬 있잖아, 지문 말이야. 그거 봐봐.",
+  "세상 사람 누구랑도 똑같은 게 하나도 없어. 딱 너만 그 무늬거든.",
+  "멋지다는 뜻이 아니야. 그냥 '똑같은 게 없다'는 거야. 좋을 수도, 이상할 수도 있어. 아무튼 하나뿐인 거.",
+  "그게 unique야."
+ ],
+ "scene": "사람마다 다 다른 손끝 지문 무늬",
+ "examples": [
+  {
+   "en": "My grandma made me a unique hat.",
+   "ko": "할머니가 나한테 세상에 딱 하나뿐인 모자를 만들어 줬어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "미술 시간에 네가 찰흙을 손으로 조물조물 빚어서 인형을 하나 만들었어. 이 찰흙 인형, unique해?",
+   "choices": [
+    "응, unique 맞아",
+    "아니, unique 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, unique 맞아",
+   "why": "응, 맞아! 네가 손으로 조물조물 빚은 인형은 세상에 딱 하나뿐이거든. 다른 사람이 아무리 똑같이 만들려고 해도 손자국 하나까지 똑같은 건 절대 없어. 그래서 지문처럼 unique한 거야."
+  },
+  {
+   "type": "ox",
+   "question": "편의점에서 파는 콜라 캔 하나를 집어 들었어. 이 콜라 캔, unique해?",
+   "choices": [
+    "응, unique 맞아",
+    "아니, unique 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, unique 아니야",
+   "why": "맞아! 편의점 콜라 캔은 공장에서 똑같은 걸로 수백 개 수천 개 만들어서 어디에나 있잖아. 똑같은 게 이렇게 많으니까 하나뿐인 게 아니야. 그래서 unique가 아닌 게 맞아."
+  },
+  {
+   "type": "ox",
+   "question": "미술 시간에 네가 물감을 엎어서 우연히 얼룩이 번졌어. 두 번 다시 똑같이는 안 나오는 얼룩인데, 지저분하고 못생겼어. 이런 얼룩도 'unique'라고 할 수 있을까?",
+   "choices": [
+    "응, unique 맞아.",
+    "아니, unique 아니야."
+   ],
+   "answer_index": 0,
+   "answer": "응, unique 맞아.",
+   "why": "맞아! unique는 예쁘냐 못생겼냐가 아니라 똑같은 게 또 없느냐가 중요한 거거든. 두 번 다시 안 나오는 얼룩이니까 딱 하나뿐, 그래서 unique 맞아."
+  }
+ ],
+ "synonyms": [
+  "sole",
+  "single"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "distinctive",
+   "kind": "confusable",
+   "from": "vs distinctive"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-unique",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-unique"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/unique.webp",
+  "alt": "사람마다 다 다른 손끝 지문 무늬",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

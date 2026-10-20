@@ -1,0 +1,74 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/helicopter/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/helicopter/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "helicopter",
+ "slug": "helicopter",
+ "url": "https://hibbangyong.com/words/helicopter/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "헬리콥터 — 큰 날개를 빙빙 돌려 하늘로 곧장 떠오르는 탈것",
+ "gloss_ko": "헬리콥터",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "그림 속에서 머리 위 커다란 날개가 빙글빙글 돌며 하늘을 나는 저것이 helicopter예요.",
+  "뉴스에서 다친 사람을 병원으로 실어 나르거나, 하늘 위를 낮게 도는 모습으로 볼 수 있어요."
+ ],
+ "scene": "하늘을 나는 전형적인 빨간 헬리콥터 한 대(위쪽 큰 회전 날개+꼬리 회전 날개, 유리 조종석), 옆모습 전신이 화면 중앙에 크게",
+ "examples": [
+  {
+   "en": "The helicopter flew high above the tall buildings.",
+   "ko": "헬리콥터가 높은 건물들 위로 높이 날았어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "양옆에 긴 날개가 꼼짝 않고 붙어 있고, 긴 길을 빠르게 달리다가 하늘로 떠올랐어요. 이게 helicopter야?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 아니야",
+   "why": null
+  },
+  {
+   "type": "choice",
+   "question": "helicopter는 어느 것일까?",
+   "choices": [
+    "바다 위를 미끄러지듯 떠서 사람을 나르는 탈것",
+    "긴 선로를 따라 이어 달리는 탈것",
+    "머리 위 날개를 돌려 곧장 위로 떠오르는 탈것",
+    "네 바퀴로 도로 위를 달리는 탈것"
+   ],
+   "answer_index": 2,
+   "answer": "머리 위 날개를 돌려 곧장 위로 떠오르는 탈것",
+   "why": null
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "plane"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-helicopter",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-helicopter"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/helicopter.webp",
+  "alt": "하늘을 나는 전형적인 빨간 헬리콥터 한 대(위쪽 큰 회전 날개+꼬리 회전 날개, 유리 조종석), 옆모습 전신이 화면 중앙에 크게",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

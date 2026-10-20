@@ -1,0 +1,95 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/unauthorized/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/unauthorized/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "unauthorized",
+ "slug": "unauthorized",
+ "url": "https://hibbangyong.com/words/unauthorized/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "허가받지 않은 — 허락해 줄 자격이 있는 쪽의 허락 없이 한",
+ "gloss_ko": "허락 안 받은",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "동아리 애들이 선생님한테 안 묻고 음악실에 들어가서 연습했어.",
+  "나쁜 짓을 하려던 건 아니야. 그냥 해도 된다는 허락을 안 받은 거지.",
+  "허락해 줄 사람이 따로 있는데 그 사람이 오케이를 안 한 상태, 그게 unauthorized야.",
+  "범죄라서, 몰래 해서 붙는 말이 아니야. 빠진 게 허락이라는 게 핵심이야."
+ ],
+ "scene": "선생님께 묻지 않고 동아리가 음악실에 들어가 연습함",
+ "examples": [
+  {
+   "en": "My brother wrote an unauthorized story about his favorite singer and posted it on his blog.",
+   "ko": "우리 형이 좋아하는 가수 이야기를 가수 쪽 허락도 없이 써서 자기 블로그에 올렸어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "지우는 방과 후에 체육 선생님께 먼저 여쭤보고 허락을 받은 다음 체육관 창고의 농구공을 꺼내 썼어. 이렇게 공을 쓴 걸 'unauthorized'라고 할 수 있을까?",
+   "choices": [
+    "응, unauthorized 맞아",
+    "아니, unauthorized 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, unauthorized 아니야",
+   "why": "맞아! 지우는 체육 선생님께 먼저 여쭤보고 허락을 받은 다음 농구공을 꺼내 썼잖아. 허락해 줄 사람이 오케이를 했으니 unauthorized가 아니고, 오히려 허가받은(authorized) 쪽이야."
+  },
+  {
+   "type": "ox",
+   "question": "민수는 동아리 홍보를 하려고 아파트 관리사무소에 묻지 않은 채 엘리베이터 안에 포스터를 붙였어. 이렇게 붙인 포스터를 'unauthorized' 포스터라고 할 수 있을까?",
+   "choices": [
+    "응, unauthorized 맞아",
+    "아니, unauthorized 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, unauthorized 맞아",
+   "why": "맞아! 엘리베이터에 포스터를 붙여도 되는지는 관리사무소가 허락해 주는 건데, 민수는 묻지도 않고 붙였잖아. 그 허락이 빠졌으니까 바로 unauthorized 포스터인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "다음 네 상황 중에서 'unauthorized'라고 부를 수 있는 건 뭘까?",
+   "choices": [
+    "선생님 허락을 받고 과학실 현미경을 빌려 썼어",
+    "선생님 허락을 받고 친구들 몰래 파티를 준비했어",
+    "선생님 허락 없이 반 게시판 공지를 바꿔 붙였어",
+    "내 방 책상을 내 마음대로 새로 꾸며 놓았어"
+   ],
+   "answer_index": 2,
+   "answer": "선생님 허락 없이 반 게시판 공지를 바꿔 붙였어",
+   "why": "맞아! 반 게시판 공지는 선생님 허락이 있어야 바꿀 수 있는데, 그 허락 없이 바꿔 붙였으니까 이게 바로 unauthorized야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "authorized"
+ ],
+ "confusable": [
+  {
+   "word": "unofficial",
+   "kind": "confusable",
+   "from": "vs unofficial"
+  }
+ ],
+ "related_scene": [
+  "consent"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-unauthorized",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-unauthorized"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/unauthorized.webp",
+  "alt": "선생님께 묻지 않고 동아리가 음악실에 들어가 연습함",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

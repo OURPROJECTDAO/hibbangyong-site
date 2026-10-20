@@ -1,0 +1,91 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/burglary/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/burglary/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "burglary",
+ "slug": "burglary",
+ "url": "https://hibbangyong.com/words/burglary/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "침입 절도 — 남의 집이나 가게, 사무실 같은 건물에 몰래 들어가서 물건을 훔치는 범죄",
+ "gloss_ko": "몰래 들어가 훔침",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "아침에 학교 앞 가게에 갔는데 유리문이 깨져 있고 돈통이 텅 비어 있었어.",
+  "밤사이 누가 몰래 들어와서 훔쳐 간 거야. 그게 burglary야.",
+  "가게든 집이든 사무실이든 상관없고, 사람이 안에서 자고 있었어도 똑같아.",
+  "대신 길에서 사람을 협박해서 뺏는 강도랑은 달라. 핵심은 건물 안으로 몰래 들어간다는 거야."
+ ],
+ "scene": "밤사이 유리문이 깨지고 돈통이 털린 학교 앞 가게",
+ "examples": [
+  {
+   "en": "There was a burglary at the shop near our school last night.",
+   "ko": "어젯밤에 우리 학교 근처 가게에 도둑이 몰래 들어서 물건을 털어 갔대."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "월요일 아침, 동네 미용실 원장님이 출근해 보니 뒷문 자물쇠가 부서져 있었고, 안에 있던 드라이기 다섯 대가 없어졌어. 일요일 밤사이 누가 들어왔다 간 거래. 이 일을 'burglary'라고 할 수 있을까?",
+   "choices": [
+    "응, burglary 맞아",
+    "아니, burglary 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, burglary 맞아",
+   "why": "맞아! 일요일 밤사이 누가 뒷문 자물쇠를 부수고 닫힌 미용실 안으로 들어와서 드라이기 다섯 대를 가져간 거잖아. 건물 안으로 들어가서 물건을 훔쳤으니까 바로 그게 burglary인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "지은이네 가족이 3일 동안 여행을 갔어. 그사이 옆집 아주머니가 지은이 엄마한테 부탁을 받고, 받아 둔 열쇠로 집 안에 들어가 고양이 밥을 주고 나왔어. 이게 'burglary'야?",
+   "choices": [
+    "응, burglary 맞아",
+    "아니, burglary 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, burglary 아니야",
+   "why": "맞아! 옆집 아주머니는 지은이 엄마 부탁을 받고 받아 둔 열쇠로 들어갔고, 고양이 밥만 주고 아무것도 안 가져갔잖아. 몰래 들어간 것도 아니고 훔친 것도 없으니까 burglary가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "새벽에 가족이 모두 안방에서 자고 있었어. 그 사이 누가 현관으로 조용히 들어와 거실 탁자 위 휴대폰을 가져갔고, 아무도 깨지 않았어. 이 사건과 'burglary'에 대해 바르게 말한 건 뭘까?",
+   "choices": [
+    "'burglary'가 아니야. 사람이 집에 있었으니까 사람을 상대로 한 강도 사건이야",
+    "'burglary'가 맞아. 사람이 자고 있었어도 몰래 들어와 가져갔으니까",
+    "'burglary'가 아니야. 빈집이 아니었으니까 그냥 물건을 잃어버린 일이야",
+    "'burglary'가 맞아. 하지만 집이 아니라 회사 사무실이었다면 'burglary'가 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "'burglary'가 맞아. 사람이 자고 있었어도 몰래 들어와 가져갔으니까",
+   "why": "맞아! 가족이 안방에서 자고 있었어도 누가 현관으로 조용히 들어와 휴대폰을 가져갔으니까, 집 안에 몰래 들어가 훔친 거라서 바로 burglary인 거야. 집에 사람이 있었는지는 상관없어."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "break",
+   "kind": "confusable",
+   "from": "vs break-in"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-burglary",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-burglary"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/burglary.webp",
+  "alt": "밤사이 유리문이 깨지고 돈통이 털린 학교 앞 가게",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

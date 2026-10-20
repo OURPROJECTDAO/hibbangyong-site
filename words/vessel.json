@@ -1,0 +1,88 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/vessel/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/vessel/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "vessel",
+ "slug": "vessel",
+ "url": "https://hibbangyong.com/words/vessel/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "속이 비어서 무언가를 담아 나르는 것 — 물 담는 항아리도, 사람 태우는 배도, 몸속에 피가 지나는 가는 관도 다 vessel이야",
+ "gloss_ko": "담아 나르는 것",
+ "level": {
+  "code": "L4",
+  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "물을 가득 담은 항아리 있잖아. 속이 텅 비어 있으니까 담기고, 담았으니까 들고 갈 수 있어.",
+  "사람을 태우고 물 위를 가는 큰 배도 똑같아. 속이 비어서 사람을 담고 옮겨 주거든?",
+  "네 몸속에도 있어. 피가 지나다니는 가느다란 관, 그것도 담아서 흘려보내니까 같은 말로 불러.",
+  "다리는 사람을 건네줘도 이건 아니야. 담지를 못하잖아. 속이 비어서 담고 나르는 것, 그게 vessel이야."
+ ],
+ "scene": "물을 가득 담은 항아리를 들고 나르는 장면",
+ "examples": [
+  {
+   "en": "Tiny vessels carry blood all through your body.",
+   "ko": "몸속 가느다란 혈관들이 온몸 구석구석 피를 날라줘."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "할머니가 된장을 가득 담은 뚜껑 달린 통을 들고 옆집으로 갔어. 이게 'vessel'이야?",
+   "choices": [
+    "응, vessel 맞아",
+    "아니, vessel 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, vessel 맞아",
+   "why": "맞아! 뚜껑 달린 통은 원래 속이 비어 있는 통이라서 된장을 가득 담을 수 있었고, 할머니가 그 통에 담아 옆집까지 들고 갔잖아. 담아서 옮겨 주는 통, 바로 그게 vessel인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 아이가 강가에서 각자 본 걸 말했어. 이 중에서 'vessel'을 본 아이는 누구야?",
+   "choices": [
+    "강물이 아주 세게 흘러가는 걸 봤어.",
+    "강 위에 길게 놓인 다리를 봤어.",
+    "사람들을 태우고 건너편으로 가는 배를 봤어.",
+    "강가에 놓인 커다란 돌덩이를 봤어."
+   ],
+   "answer_index": 2,
+   "answer": "사람들을 태우고 건너편으로 가는 배를 봤어.",
+   "why": "맞아! 배는 속이 비어 있어서 사람들을 안에 태울 수 있고, 태운 채로 건너편까지 옮겨 주잖아. 그래서 배가 바로 vessel인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "공사장에 속이 꽉 찬 벽돌 한 장이 놓여 있어. 아저씨가 그걸 들고 옆으로 옮겼어. 이게 'vessel'이야?",
+   "choices": [
+    "응, vessel 맞아",
+    "아니, vessel 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, vessel 아니야",
+   "why": "맞아! 벽돌은 속이 꽉 차 있어서 안에 아무것도 담을 수가 없거든. 아저씨가 들고 옮겼어도 벽돌은 무언가를 담지 못하니까 vessel이 아닌 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "bowl",
+  "pot"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-vessel",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-vessel"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/vessel.webp",
+  "alt": "물을 가득 담은 항아리를 들고 나르는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

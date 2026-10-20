@@ -1,0 +1,88 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/offshore/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/offshore/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "offshore",
+ "slug": "offshore",
+ "url": "https://hibbangyong.com/words/offshore/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "앞바다의 — 땅에서 조금 나간 바다 위에 있는",
+ "gloss_ko": "앞바다의",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "바닷가에 서서 멀리 보면, 물 위에 커다란 바람개비들이 줄지어 서 있을 때가 있어.",
+  "모래사장 위가 아니야. 바다 건너 먼 나라도 아니고. 땅에서 조금 나간 바로 그 바다 위야.",
+  "거기 있는 건 뭐든 offshore라고 해. 전기 만드는 바람개비든, 바다 밑에서 기름 뽑는 시설이든, 고기 잡는 배든.",
+  "해변에 붙어 있으면 아니고, 물 위로 좀 나가 있어야 맞아."
+ ],
+ "scene": "바닷가에서 멀리 물 위에 선 풍력발전기들을 바라봄",
+ "examples": [
+  {
+   "en": "Our town is building an offshore wind farm to make clean energy.",
+   "ko": "우리 동네는 깨끗한 에너지를 만들려고 앞바다에 풍력발전 단지를 짓고 있어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "이모는 바다에서 차로 세 시간쯤 떨어진 산골 마을로 가서 계곡 옆에 있는 송어 양식장에서 일해. 이 양식장은 'offshore'야?",
+   "choices": [
+    "응, offshore 맞아",
+    "아니, offshore 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, offshore 아니야",
+   "why": "맞아! 이모가 일하는 송어 양식장은 바다에서 차로 세 시간이나 떨어진 산골 계곡 옆에 있잖아. offshore는 땅에서 조금 나간 바다 위에 있어야 하니까, 산골에 있는 이 양식장은 offshore가 아니야."
+  },
+  {
+   "type": "ox",
+   "question": "삼촌은 항구에서 작은 배를 타고 10분쯤 바다로 나가서 물 위에 떠 있는 굴 양식장에서 일해. 이 양식장은 'offshore'야?",
+   "choices": [
+    "응, offshore 맞아",
+    "아니, offshore 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, offshore 맞아",
+   "why": "맞아! 삼촌은 항구에서 배를 타고 10분쯤 바다로 나가잖아. 땅에서 조금 나간 바다 위에 떠 있는 양식장이니까 바로 offshore인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 친구가 각자 본 풍력발전기 이야기를 했어. 'offshore'에 있는 발전기를 본 친구는?",
+   "choices": [
+    "배를 타고 20분쯤 나가야 닿는, 물 위에 서 있는 발전기",
+    "모래사장을 따라 걸어가면 닿는, 파도 옆에 서 있는 발전기",
+    "비행기로 바다를 건너야 닿는, 남의 나라 들판의 발전기",
+    "바다가 전혀 안 보이는, 높은 산꼭대기에 서 있는 발전기"
+   ],
+   "answer_index": 0,
+   "answer": "배를 타고 20분쯤 나가야 닿는, 물 위에 서 있는 발전기",
+   "why": "맞아! 배를 타고 20분쯤 나가야 닿는 물 위에 서 있으니까, 땅에서 조금 나간 앞바다에 있는 거지. 그게 바로 offshore야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "coast",
+  "marine"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-offshore",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-offshore"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/offshore.webp",
+  "alt": "바닷가에서 멀리 물 위에 선 풍력발전기들을 바라봄",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

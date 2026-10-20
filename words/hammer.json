@@ -1,0 +1,74 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/hammer/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/hammer/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "hammer",
+ "slug": "hammer",
+ "url": "https://hibbangyong.com/words/hammer/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "망치 — 못을 두드려 박는 쇠 연장",
+ "gloss_ko": "망치",
+ "level": {
+  "code": "L4",
+  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "그림 속 이것은 못을 두드려 박을 때 쓰는 망치예요.",
+  "벽에 못을 박아 그림이나 시계를 걸 때 어른들이 이것을 사용해요."
+ ],
+ "scene": "손잡이 있는 쇠망치 한 자루(못 박는 도구) — 단독 클로즈업",
+ "examples": [
+  {
+   "en": "My dad used a hammer to put a nail in the wall.",
+   "ko": "아빠가 망치로 벽에 못을 박았어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "친구가 가위를 들고 종이를 싹둑 잘랐어요. 이게 hammer야?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 아니야",
+   "why": null
+  },
+  {
+   "type": "choice",
+   "question": "hammer는 어느 것일까?",
+   "choices": [
+    "물을 담는 투명한 유리컵",
+    "글씨를 쓰는 뾰족한 연필",
+    "못을 박는 무거운 쇠 연장",
+    "바람에 나는 가벼운 종이"
+   ],
+   "answer_index": 2,
+   "answer": "못을 박는 무거운 쇠 연장",
+   "why": null
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "nail"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-hammer",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-hammer"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/hammer.webp",
+  "alt": "손잡이 있는 쇠망치 한 자루(못 박는 도구) — 단독 클로즈업",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

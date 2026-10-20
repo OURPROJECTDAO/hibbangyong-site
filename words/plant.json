@@ -1,0 +1,89 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/plant/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/plant/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "plant",
+ "slug": "plant",
+ "url": "https://hibbangyong.com/words/plant/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "심다 — 씨앗이나 뿌리, 어린 나무를 흙 속에 넣고 덮어서, 그 자리에서 자라게 하는 것.",
+ "gloss_ko": "심다",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "마당에 구멍을 파고, 어린 나무를 쏙 넣고, 흙을 도로 덮어.",
+  "왜 덮냐고? 거기서 뿌리 내리고 자라라고.",
+  "씨앗 한 알도, 마늘 한 쪽도, 화분 흙에 이렇게 넣어.",
+  "보물 상자 파묻는 거랑은 달라. 그건 숨기려고 넣는 거고, 이건 자라라고 넣는 거야. 이게 plant야."
+ ],
+ "scene": "마당에 구멍 파고 어린 나무 넣고 흙 덮기",
+ "examples": [
+  {
+   "en": "Every spring we plant a small apple tree next to the fence.",
+   "ko": "우리는 봄마다 울타리 옆에 작은 사과나무를 심어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "민서네 반이 오늘 각자 해 볼 일을 하나씩 고르고 있어. 다음 중 'plant'에 해당하는 것은?",
+   "choices": [
+    "빨래를 줄에 널어서 말리기",
+    "컵에 우유를 따라서 마시기",
+    "튤립 구근을 화단 흙에 넣고 흙 덮기",
+    "운동화 끈을 두 번 묶기"
+   ],
+   "answer_index": 2,
+   "answer": "튤립 구근을 화단 흙에 넣고 흙 덮기",
+   "why": "맞아! 구근을 흙에 쏙 넣고 흙을 도로 덮었잖아. 거기서 뿌리 내리고 자라라고 넣은 거니까, 그게 바로 plant야."
+  },
+  {
+   "type": "ox",
+   "question": "수아가 텃밭에 다 자란 당근의 잎을 잡고 흙 밖으로 쑥 뽑아서 바구니에 담았어. 이게 'plant'야?",
+   "choices": [
+    "응, plant 맞아",
+    "아니, plant 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, plant 아니야",
+   "why": "맞아! 다 자란 당근을 흙 밖으로 쑥 뽑아낸 거잖아. plant는 흙 속에 넣고 덮어서 자라게 하는 건데, 이건 딱 반대로 꺼낸 거라서 plant가 아닌 게 맞아."
+  },
+  {
+   "type": "choice",
+   "question": "지아가 마당 흙에 뭔가를 넣고, 흙을 도로 덮었어. 뭘 넣었는지는 안 보였는데 지아가 \"이거 'plant'한 거야\"라고 했어. 그럼 지아는 며칠 뒤 그 자리가 어떻게 되어 있길 바라는 걸까?",
+   "choices": [
+    "아무도 못 찾게 그대로 숨겨져 있기",
+    "거기서 싹이 트고 잎이 올라와 있기",
+    "며칠 뒤에 도로 파내서 손에 쥐기",
+    "흙이 단단히 굳어 자국도 안 남기"
+   ],
+   "answer_index": 1,
+   "answer": "거기서 싹이 트고 잎이 올라와 있기",
+   "why": "맞아! plant는 그 자리에서 자라라고 넣는 거거든. 그러니까 며칠 뒤엔 흙을 뚫고 싹이 쏙 올라와 있는 거야. 지아가 기다리는 게 바로 그거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "seed"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-plant",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-plant"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/plant.webp",
+  "alt": "마당에 구멍 파고 어린 나무 넣고 흙 덮기",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

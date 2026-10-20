@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/terminal/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/terminal/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "terminal",
+ "slug": "terminal",
+ "url": "https://hibbangyong.com/words/terminal/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "마지막의 — 뒤에 더 남은 게 없어서 거기서 아주 끝나는",
+ "gloss_ko": "마지막의",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "버스가 한참 달리다 터미널에 딱 서. 거기서 길이 끝나거든? 더 갈 데가 없어.",
+  "그렇게 뒤에 아무것도 안 남은 맨 끝을 두고 하는 말이야. 길 끝의 정류장도, 한 학기 맨 끝에 보는 시험도 그렇지.",
+  "병한테도 써. 이제 나을 데 없이 끝으로만 가는 병.",
+  "그냥 늦은 거나 심한 거랑은 달라. 뒤에 조금이라도 남아 있으면 아니야. 그게 terminal이야."
+ ],
+ "scene": "길이 끊겨 버스가 더 갈 데 없는 터미널",
+ "examples": [
+  {
+   "en": "The zoo is the terminal station on this train line, so everyone gets off there.",
+   "ko": "동물원이 이 기차 노선의 마지막 역이라서 다들 거기서 내려."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "수영 강습 첫날, 코치님이 물에 뜨는 법부터 알려주면서 앞으로 배울 게 아주 많이 남았다고 했어. 이 수업을 'terminal'이라고 할 수 있어?",
+   "choices": [
+    "응, terminal 맞아",
+    "아니, terminal 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, terminal 아니야",
+   "why": "맞아! 앞으로 배울 게 잔뜩 남았다고 했잖아. 뒤에 남은 게 이렇게 많으면 끝이 아니거든. 그래서 terminal이 아닌 게 맞아."
+  },
+  {
+   "type": "choice",
+   "question": "민서네 학교 배구 대회 얘기야. 아래 중에 'terminal'이라고 부를 수 있는 시합은 어느 거야?",
+   "choices": [
+    "이 경기가 끝나면 대회도 끝나서, 다음 경기가 아예 없는 시합",
+    "이 경기 뒤에도 두 경기가 더 남아 있는, 아주 중요한 시합",
+    "선수들이 여기저기 다쳐서 몹시 힘들었던, 어제 열린 시합",
+    "대회의 문을 활짝 여는, 맨 처음에 열리는 시합"
+   ],
+   "answer_index": 0,
+   "answer": "이 경기가 끝나면 대회도 끝나서, 다음 경기가 아예 없는 시합",
+   "why": "맞아! 이 경기 끝나면 대회도 같이 끝나서 뒤에 이어질 게 하나도 없잖아. 더 갈 데가 없는 그 맨 끝, 그게 바로 terminal인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "준호가 계단에서 굴러서 다리뼈가 부러졌어. 아주 아프고 두 달이나 깁스를 해야 했지만, 깁스를 풀면 다시 걸을 수 있대. 이런 부상도 'terminal'이야?",
+   "choices": [
+    "응, terminal 맞아",
+    "아니, terminal 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, terminal 아니야",
+   "why": "맞아! 깁스 풀면 다시 걸을 수 있잖아. 나은 뒤가 남아 있으니까 끝이 아니고, 그래서 terminal이 아닌 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "intermediate"
+ ],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-terminal",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-terminal"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/terminal.webp",
+  "alt": "길이 끊겨 버스가 더 갈 데 없는 터미널",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

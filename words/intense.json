@@ -1,0 +1,94 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/intense/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/intense/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "intense",
+ "slug": "intense",
+ "url": "https://hibbangyong.com/words/intense/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "세다 — 정도가 아주 크고 꽉 찬",
+ "gloss_ko": "정도가 아주 센",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "약한 바람이랑 태풍은 둘 다 바람이야. 근데 태풍은 세기가 확 올라가 있지?",
+  "그렇게 세기가 꼭대기까지 올라간 걸 말해. 좋은 거든 나쁜 거든 상관없어.",
+  "빛도, 더위도, 아픔도, 좋아하는 마음도 다 셀 수 있거든? 눈이 부실 만큼 밝은 빛, 참기 힘든 더위, 심장이 쿵쾅거릴 만큼 좋아하는 마음.",
+  "그냥 '많다'랑은 달라. 물 열 컵은 많은 거고, 팔팔 끓는 물 한 컵이 이거야. 그게 intense야."
+ ],
+ "scene": "세기가 꼭대기까지 올라간 태풍 바람",
+ "examples": [
+  {
+   "en": "The pain in my tooth was so intense that I couldn't sleep.",
+   "ko": "이가 너무 심하게 아파서 잠을 잘 수가 없었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "지호가 국을 한 숟갈 떠먹었는데, 맛이 있는 듯 없는 듯 밍밍했어. 이 국 맛은 'intense'해?",
+   "choices": [
+    "응, intense 맞아",
+    "아니, intense 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, intense 아니야",
+   "why": "맞아! 있는 듯 없는 듯 밍밍한 맛은 세기가 바닥까지 내려간 거잖아. 세다는 건 세기가 꼭대기까지 올라간 걸 말하니까, 이 국은 딱 반대인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "지호가 부엌에서 한 일 네 가지야. 이 중에 'intense'한 건?",
+   "choices": [
+    "지호는 국을 먹고 혀가 얼얼했다",
+    "지호는 국그릇을 여섯 번 옮겼다",
+    "지호는 파란 앞치마를 입었다",
+    "지호는 싱크대 앞에 서 있었다"
+   ],
+   "answer_index": 0,
+   "answer": "지호는 국을 먹고 혀가 얼얼했다",
+   "why": "맞아! 혀가 얼얼할 만큼 매운 건 매운 세기가 꼭대기까지 올라간 거잖아. 그렇게 세기가 꽉 찬 게 바로 intense인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "눈 덮인 산에서 해가 눈에 반사돼 눈을 못 뜰 만큼 밝았어. 이런 경우도 'intense'야?",
+   "choices": [
+    "응, intense 맞아",
+    "아니, intense 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, intense 맞아",
+   "why": "맞아! 눈을 못 뜰 만큼 밝다는 건 밝기가 그만큼 확 올라갔다는 거잖아. 좋은 거든 나쁜 거든 상관없이, 그렇게 확 올라가 있으면 그게 바로 intense인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "mild",
+  "faint"
+ ],
+ "confusable": [
+  {
+   "word": "severe",
+   "kind": "confusable",
+   "from": "vs severe"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-intense",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-intense"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/intense.webp",
+  "alt": "세기가 꼭대기까지 올라간 태풍 바람",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

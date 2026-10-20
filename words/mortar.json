@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/mortar/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/mortar/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "mortar",
+ "slug": "mortar",
+ "url": "https://hibbangyong.com/words/mortar/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "모르타르 — 벽돌이나 돌 사이에 발라서 굳으면 서로 붙게 해 주는 반죽",
+ "gloss_ko": "모르타르",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "벽돌 담을 가까이서 본 적 있어? 벽돌과 벽돌 사이에 회색 줄이 쭉 나 있지.",
+  "그 줄이 mortar야. 처음엔 질척한 반죽인데, 사이에 발라 두면 딱딱하게 굳어서 벽돌끼리 꽉 붙여 줘.",
+  "벽돌 그 자체도 아니고, 틀에 통째로 부어서 벽을 만드는 콘크리트도 아니야.",
+  "쌓는 것들 사이를 채워서 붙이는 반죽, 그게 핵심이야."
+ ],
+ "scene": "벽돌 담 사이의 회색 줄",
+ "examples": [
+  {
+   "en": "The old wall was falling apart because the mortar had cracked.",
+   "ko": "벽돌 사이 모르타르가 쩍쩍 갈라져서 그 낡은 담이 무너져 가고 있었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "옛 성벽을 가까이서 보면 큰 돌덩이들이 층층이 쌓여 있어. 돌덩이와 돌덩이 사이 틈을 메운 채 딱딱하게 굳어서 돌들을 서로 붙잡고 있는 회색 반죽, 이게 'mortar'야?",
+   "choices": [
+    "응, mortar 맞아",
+    "아니, mortar 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, mortar 맞아",
+   "why": "맞아! 돌덩이와 돌덩이 사이 틈을 메우고, 딱딱하게 굳어서 돌들을 서로 붙잡고 있잖아. 쌓은 것들 사이를 채워서 붙이는 반죽, 그게 바로 mortar야."
+  },
+  {
+   "type": "ox",
+   "question": "공원 화단 둘레에 돌 테두리가 낮게 쌓여 있어. 그 테두리를 이루며 하나씩 차곡차곡 놓인 둥글넓적한 돌덩이 한 개 한 개, 이게 'mortar'야?",
+   "choices": [
+    "응, mortar 맞아",
+    "아니, mortar 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, mortar 아니야",
+   "why": "맞아, 이건 mortar가 아니야! 테두리에 하나씩 차곡차곡 놓인 돌덩이는 쌓이는 쪽이고, mortar는 그 돌덩이들 사이를 채워서 굳으면 서로 붙여 주는 반죽이거든."
+  },
+  {
+   "type": "choice",
+   "question": "민수네 동네에서 벽돌 담을 쌓는 공사를 하고 있어. 공사장에서 본 것 중 'mortar'라고 부를 수 있는 건?",
+   "choices": [
+    "트럭에서 내려서 한 장씩 차곡차곡 쌓아 올리는 네모난 붉은 덩어리",
+    "나무 틀 안에 한꺼번에 부어서 벽 전체를 통째로 굳히는 회색 반죽",
+    "아저씨가 쌓은 벽돌 한 줄 위에 넓적한 도구로 펴 바르는 회색 반죽",
+    "다 쌓은 벽 겉면에 마지막으로 골고루 칠해서 색을 입히는 하얀 페인트"
+   ],
+   "answer_index": 2,
+   "answer": "아저씨가 쌓은 벽돌 한 줄 위에 넓적한 도구로 펴 바르는 회색 반죽",
+   "why": "맞아! 아저씨가 쌓은 벽돌 한 줄 위에 펴 바르는 그 회색 반죽이 다음 줄 벽돌이랑 사이에 끼어서 굳으면 둘을 꽉 붙여 주거든. 벽돌과 벽돌 사이를 채워서 붙이는 반죽, 바로 그게 mortar야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "plaster",
+   "kind": "confusable",
+   "from": "vs plaster"
+  }
+ ],
+ "related_scene": [
+  "brick"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-mortar",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-mortar"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/mortar.webp",
+  "alt": "벽돌 담 사이의 회색 줄",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

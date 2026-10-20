@@ -1,0 +1,96 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/bustling/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/bustling/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "bustling",
+ "slug": "bustling",
+ "url": "https://hibbangyong.com/words/bustling/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "북적이는 — 어떤 곳에 사람들이 바쁘게 오가며 이것저것 일이 벌어지고 있는",
+ "gloss_ko": "북적이는",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "점심 한 시간 전 급식실 떠올려 봐. 몇 명은 국을 젓고, 몇 명은 식판을 나르고, 계속 움직이잖아.",
+  "이렇게 어떤 곳 안에서 사람들이 바쁘게 움직이고 있을 때, 그곳을 bustling하다고 해. 시장이든 역이든 축제든 다 돼.",
+  "사람이 꽉 차 있기만 한 거랑은 달라. 극장에 다들 가만히 앉아 있으면 그건 bustling이 아니야.",
+  "그냥 시끄럽기만 한 것도 아니야. 바쁘게 움직이는 게 있어야 해."
+ ],
+ "scene": "점심 전 급식실에서 국 젓고 식판 나르는 사람들",
+ "examples": [
+  {
+   "en": "The school kitchen was bustling an hour before lunch.",
+   "ko": "점심 한 시간 전부터 학교 급식실은 다들 바쁘게 움직이느라 북적였어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "새벽 네 시, 아파트 단지 안 놀이터야. 아무도 없고 그네와 미끄럼틀만 그대로 있어. 이 놀이터를 'bustling'하다고 할 수 있어?",
+   "choices": [
+    "응, bustling해",
+    "아니, bustling하지 않아"
+   ],
+   "answer_index": 1,
+   "answer": "아니, bustling하지 않아",
+   "why": "맞아! 새벽 네 시라 아무도 없고 그네랑 미끄럼틀만 그대로 있잖아. 바쁘게 오가는 사람도, 벌어지는 일도 하나 없으니까 bustling이랑은 정반대인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "김장하는 날 할머니 댁 마당이야. 몇 명은 배추를 씻고, 몇 명은 양념을 버무리고, 몇 명은 김치통을 계속 나르고 있어. 이 마당을 'bustling'하다고 할 수 있어?",
+   "choices": [
+    "응, bustling해",
+    "아니, bustling하지 않아"
+   ],
+   "answer_index": 0,
+   "answer": "응, bustling해",
+   "why": "맞아! 마당에서 누구는 배추를 씻고, 누구는 양념을 버무리고, 누구는 김치통을 계속 나르잖아. 한 곳에서 여러 사람이 바쁘게 움직이며 일이 계속 벌어지니까 바로 bustling한 마당인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 군데 장소를 봤어. 그 장소를 'bustling'하다고 부르기 가장 알맞은 곳은?",
+   "choices": [
+    "사람이 꽉 찼지만 다들 조용히 앉아 영화를 보는 극장",
+    "점심시간에 주문을 외치고 쟁반을 나르느라 다들 움직이는 식당",
+    "문 닫은 뒤 불이 꺼지고 아무도 남지 않은 시장",
+    "혼자 있는 집에서 텔레비전 소리만 크게 울리는 거실"
+   ],
+   "answer_index": 1,
+   "answer": "점심시간에 주문을 외치고 쟁반을 나르느라 다들 움직이는 식당",
+   "why": "맞아! 점심시간 식당은 주문을 외치고 쟁반을 나르느라 다들 쉴 새 없이 움직이잖아. 사람이 바쁘게 오가며 일이 벌어지고 있으니까 바로 그게 bustling인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "busy",
+   "kind": "confusable",
+   "from": "vs busy"
+  },
+  {
+   "word": "lively",
+   "kind": "confusable",
+   "from": "vs lively"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-bustling",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-bustling"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/bustling.webp",
+  "alt": "점심 전 급식실에서 국 젓고 식판 나르는 사람들",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

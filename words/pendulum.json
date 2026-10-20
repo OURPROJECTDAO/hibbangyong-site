@@ -1,0 +1,83 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/pendulum/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/pendulum/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "pendulum",
+ "slug": "pendulum",
+ "url": "https://hibbangyong.com/words/pendulum/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "진자(시계추) — 한 점에 매달려서 좌우로 규칙적으로 왔다 갔다 흔들리는 추",
+ "gloss_ko": "진자, 흔들리는 추",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "할머니 집 큰 벽시계 아래에서 무거운 추가 왼쪽, 오른쪽으로 왔다 갔다 하지? 그게 pendulum이야.",
+  "시계에 달린 것만 그런 건 아니야. 과학 시간에 실 끝에 구슬을 매달아서 흔드는 것도 pendulum이야.",
+  "중요한 건 한 점에 매달려서 같은 길을 계속 오간다는 거야. 가만히 매달려 있는 저울추나 빙글빙글 도는 팽이는 아니야.",
+  "사람들 생각이 이쪽 끝에서 저쪽 끝으로 오락가락할 때도 이 말을 빌려서 써."
+ ],
+ "scene": "할머니 집 벽시계 아래에서 좌우로 흔들리는 추",
+ "examples": [
+  {
+   "en": "In science class, we checked how long the pendulum took to come back.",
+   "ko": "과학 시간에 진자가 갔다가 돌아오는 데 얼마나 걸리는지 재 봤어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "과학관 천장의 한 고리에 긴 쇠줄이 달려 있고, 그 끝에 큰 쇠공이 매달려 있어. 쇠공은 하루 종일 같은 길을 따라 이쪽저쪽으로 천천히 왔다 갔다 해. 이 쇠공을 'pendulum'이라고 할 수 있을까?",
+   "choices": [
+    "응, pendulum 맞아",
+    "아니, pendulum 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, pendulum 맞아",
+   "why": "맞아! 쇠공이 천장의 한 고리에 쇠줄로 매달려서 하루 종일 같은 길을 따라 이쪽저쪽 오가잖아. 한 점에 매달려 같은 길을 계속 오가는 것, 바로 그게 pendulum인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "자전거를 뒤집어 놓고 손으로 페달을 돌렸어. 뒷바퀴가 한 방향으로만 빙글빙글 계속 돌아가. 이 바퀴를 'pendulum'이라고 할 수 있을까?",
+   "choices": [
+    "응, pendulum 맞아",
+    "아니, pendulum 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, pendulum 아니야",
+   "why": "맞아! 뒷바퀴는 한 방향으로만 빙글빙글 계속 돌잖아. pendulum은 한 점에 매달려서 왼쪽, 오른쪽으로 왔다 갔다 해야 하니까 이 바퀴는 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "아빠가 낚싯줄 끝에 작은 납추를 달아 강물에 드리웠어. 납추는 물속에서 줄 끝에 가만히 매달려만 있어. 이런 것도 'pendulum'이야?",
+   "choices": [
+    "응, pendulum 맞아",
+    "아니, pendulum 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, pendulum 아니야",
+   "why": "맞아! 납추가 줄 끝에 가만히 매달려만 있지 왔다 갔다 흔들리지 않잖아. pendulum은 매달린 채로 좌우로 계속 오가야 하니까 이건 아닌 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-pendulum",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-pendulum"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/pendulum.webp",
+  "alt": "할머니 집 벽시계 아래에서 좌우로 흔들리는 추",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

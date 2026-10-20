@@ -1,0 +1,99 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/legislature/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/legislature/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "legislature",
+ "slug": "legislature",
+ "url": "https://hibbangyong.com/words/legislature/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "입법부(법을 만드는 곳) — 사람들이 뽑은 대표들이 모여 법을 만들고 고치는 기관(우리나라 국회 같은 곳)",
+ "gloss_ko": "법 만드는 곳",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "법은 누가 만들까? 학생회가 회의해서 학교 규칙을 바꾸는 것처럼, 나라에도 그런 모임이 있어.",
+  "사람들이 뽑은 대표들이 모여서 투표로 법을 새로 만들고, 고치고, 없애.",
+  "우리나라 국회도, 미국의 각 주에 따로 있는 의회도 다 legislature라고 불러.",
+  "법대로 나라 살림을 하는 정부, 법으로 재판하는 법원이랑은 달라. 여긴 법을 만드는 쪽이야."
+ ],
+ "scene": "학생회가 회의로 학교 규칙을 바꾸는 장면(비유)",
+ "examples": [
+  {
+   "en": "The state legislature voted to raise the minimum age for driving.",
+   "ko": "그 주 의회가 투표해서 운전할 수 있는 최소 나이를 올리기로 했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "호주에서 국민이 뽑은 대표들이 한자리에 모였어. 이들은 투표를 해서 '16세 미만은 SNS 계정을 만들 수 없다'는 법을 새로 만들었어. 이 대표들의 모임은 'legislature'야?",
+   "choices": [
+    "응, legislature 맞아",
+    "아니, legislature 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, legislature 맞아",
+   "why": "맞아! 국민이 뽑은 대표들이 한자리에 모여서 투표로 16세 미만은 SNS 계정을 못 만든다는 법을 새로 만들었잖아. 뽑힌 대표들이 모여 법을 만드는 모임, 그게 바로 legislature야."
+  },
+  {
+   "type": "ox",
+   "question": "시청 공무원들이 이미 정해진 법에 적힌 그대로 동네 곳곳에 '쓰레기 분리배출 요일' 안내문을 붙이고 다녔어. 이 공무원들은 'legislature'야?",
+   "choices": [
+    "응, legislature 맞아",
+    "아니, legislature 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, legislature 아니야",
+   "why": "맞아! 이 공무원들은 이미 정해진 법에 적힌 그대로 안내문을 붙이고 다녔을 뿐이잖아. 법을 새로 만들거나 고친 게 아니니까 legislature가 아닌 거지. legislature는 대표들이 모여 법을 만들고 고치는 쪽이야."
+  },
+  {
+   "type": "choice",
+   "question": "오늘 뉴스에 나온 네 장면이야. 이 중에서 'legislature'가 한 일은 어느 거야?",
+   "choices": [
+    "의원들이 모여서 투표로 학교폭력에 관한 법을 새로 고쳤다",
+    "대통령과 장관들이 이미 정해진 법에 따라 나라 예산을 나눠 썼다",
+    "판사가 법을 어긴 사람에게 벌금을 내라고 판결을 내렸다",
+    "경찰이 새로 바뀐 법대로 거리에서 운전자들을 단속했다"
+   ],
+   "answer_index": 0,
+   "answer": "의원들이 모여서 투표로 학교폭력에 관한 법을 새로 고쳤다",
+   "why": "맞아! 의원들이 모여서 투표로 학교폭력에 관한 법을 고쳤잖아. 이렇게 법을 새로 만들고 고치는 곳이 바로 legislature야."
+  }
+ ],
+ "synonyms": [
+  "parliament",
+  "congress"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "parliament",
+   "kind": "confusable",
+   "from": "vs parliament"
+  },
+  {
+   "word": "legislation",
+   "kind": "confusable",
+   "from": "vs legislation"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-legislature",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-legislature"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/legislature.webp",
+  "alt": "학생회가 회의로 학교 규칙을 바꾸는 장면(비유)",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

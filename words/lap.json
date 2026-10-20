@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/lap/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/lap/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "lap",
+ "slug": "lap",
+ "url": "https://hibbangyong.com/words/lap/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "무릎 위 — 앉았을 때 허벅지 위에 생기는 판판한 자리",
+ "gloss_ko": "앉은 무릎 위",
+ "level": {
+  "code": "L4",
+  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "의자에 앉아 봐. 허벅지 위에 판판한 자리가 생기지?",
+  "고양이가 폴짝! 거기 올라와 앉아. 책도 놓고, 동생도 앉혀.",
+  "근데 일어서면? 그 자리가 싹 사라져. 다리 굽히는 뼈마디랑은 다르거든.",
+  "앉을 때만 생기는 그 자리, 그게 lap이야."
+ ],
+ "scene": "의자에 앉자 허벅지 위에 생기는 판판한 자리",
+ "examples": [
+  {
+   "en": "My cat sleeps on my lap every night.",
+   "ko": "우리 고양이는 밤마다 내 무릎 위에서 자."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "공원 돗자리에 앉은 엄마가 도시락 통을 허벅지 위에 올려놨어. 도시락 통이 놓인 그 자리, 이게 'lap'이야?",
+   "choices": [
+    "응, lap 맞아",
+    "아니, lap 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, lap 맞아",
+   "why": "맞아! 엄마가 돗자리에 앉아 있고, 도시락 통을 허벅지 위에 올려놨잖아. 앉았을 때 허벅지 위에 생기는 판판한 자리, 바로 그게 lap인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "버스에서 손잡이를 잡고 서 있는 형이 있어. 서 있는 형의 허벅지 앞쪽, 이게 'lap'이야?",
+   "choices": [
+    "응, lap 맞아",
+    "아니, lap 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, lap 아니야",
+   "why": "잘 골랐어! 버스에서 손잡이를 잡고 서 있는 형은 앉아 있지 않잖아. lap은 앉았을 때만 허벅지 위에 생기는 판판한 자리라서, 서 있는 형한테는 그 자리가 없는 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 가지 장면이 있어. 'lap'이라는 말을 쓸 수 있는 장면은 어느 걸까?",
+   "choices": [
+    "넘어져서 다리 굽히는 뼈마디가 까졌을 때",
+    "누워 있는데 고양이가 배 위로 올라왔을 때",
+    "앉은 아빠가 다리 위에 아기를 올렸을 때",
+    "걸어가는데 가방이 등에서 덜렁거릴 때"
+   ],
+   "answer_index": 2,
+   "answer": "앉은 아빠가 다리 위에 아기를 올렸을 때",
+   "why": "맞아! 아빠가 앉아 있어서 허벅지 위에 판판한 자리가 생겼고, 아기가 바로 거기에 올라간 거야. 앉을 때 생기는 그 자리가 lap이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "knee"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-lap",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-lap"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/lap.webp",
+  "alt": "의자에 앉자 허벅지 위에 생기는 판판한 자리",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

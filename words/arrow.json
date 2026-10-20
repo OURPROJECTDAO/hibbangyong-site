@@ -1,0 +1,72 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/arrow/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/arrow/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "arrow",
+ "slug": "arrow",
+ "url": "https://hibbangyong.com/words/arrow/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "화살 — 활에 걸어 쏘는, 앞이 뾰족한 곧은 막대",
+ "gloss_ko": "화살",
+ "level": {
+  "code": "L4",
+  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "활 시위에 걸어 멀리 날려 보내는, 앞이 뾰족한 곧은 막대예요. 뒤쪽에는 깃털이 달려 있어요.",
+  "양궁 선수가 활로 과녁을 맞힐 때 쏘는 게 바로 이거예요."
+ ],
+ "scene": "활에 쓰는 화살 한 자루 — 뾰족한 금속 촉·곧은 나무대·꽁지 깃털이 다 보이게 중앙에 크게 (도구로서의 '화살'을 그림)",
+ "examples": [
+  {
+   "en": "The boy shot an arrow at the target with his bow.",
+   "ko": "남자애가 활로 과녁에 화살을 쐈어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "손잡이를 돌려서 문을 여는 둥근 물건이 있어요. 이게 arrow야?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 아니야",
+   "why": null
+  },
+  {
+   "type": "choice",
+   "question": "arrow는 어느 것일까?",
+   "choices": [
+    "물을 담아 마시는, 손잡이가 달린 둥근 컵",
+    "발에 신고 걷는, 끈으로 묶는 운동화",
+    "활에 걸어 쏘는, 앞이 뾰족하고 깃털이 달린 막대",
+    "글씨를 쓰는, 심이 들어 있는 기다란 연필"
+   ],
+   "answer_index": 2,
+   "answer": "활에 걸어 쏘는, 앞이 뾰족하고 깃털이 달린 막대",
+   "why": null
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-arrow",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-arrow"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/arrow.webp",
+  "alt": "활에 쓰는 화살 한 자루 — 뾰족한 금속 촉·곧은 나무대·꽁지 깃털이 다 보이게 중앙에 크게 (도구로서의 '화살'을 그림)",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

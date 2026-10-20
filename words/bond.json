@@ -1,0 +1,91 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/bond/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/bond/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "bond",
+ "slug": "bond",
+ "url": "https://hibbangyong.com/words/bond/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "유대 — 사람이나 무리를 서로 이어 주는 보이지 않는 끈",
+ "gloss_ko": "이어 주는 끈",
+ "level": {
+  "code": "L3",
+  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "축구팀 애들, 처음엔 서로 이름도 몰랐어. 근데 비 오는 날 같이 뛰고, 같이 지고, 같이 이겼지.",
+  "그러다 보니 둘 사이를 꽉 잡아 주는 보이지 않는 끈이 생긴 거야. 엄마랑 아기 사이에도 있고, 나라랑 나라 사이에도 생겨.",
+  "근데 혼자서 좋아하는 마음이랑은 달라. 이 끈은 한쪽 끝만으로는 안 되고, 꼭 양쪽을 이어야 생기거든.",
+  "그냥 얼굴만 아는 사이랑도 달라. 서로를 딱 묶어 주는 그 끈, 그게 bond야."
+ ],
+ "scene": "서로 모르던 축구팀 아이들이 같이 뛰고 지고 이기며 가까워짐",
+ "examples": [
+  {
+   "en": "Fixing the broken fence together built a bond between the two grumpy neighbors.",
+   "ko": "망가진 울타리를 같이 고치다가, 맨날 투덜대던 두 이웃이 서로 끈끈하게 이어졌어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "네 가지 장면이 있어. 이 가운데 'bond'가 있다고 말할 수 있는 건 어느 장면일까?",
+   "choices": [
+    "폭풍을 같이 견딘 두 선원이 몇 년이 지나도 서로를 챙겨",
+    "기차 옆자리 두 사람이 무지개를 보고 서로 쳐다보며 웃었어",
+    "준호는 지우를 정말 좋아해서 매일 편지를 쓰는데 지우는 준호를 몰라",
+    "할아버지는 30년 동안 쓴 낡은 시계를 아직도 아주 아껴"
+   ],
+   "answer_index": 0,
+   "answer": "폭풍을 같이 견딘 두 선원이 몇 년이 지나도 서로를 챙겨",
+   "why": "맞아! 두 선원은 폭풍을 같이 견뎠고, 몇 년이 지나도 서로를 챙기잖아. 한 사람만 챙기는 게 아니라 둘이 서로를 챙기니까, 바로 그게 둘을 이어 주는 bond인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "서로 못마땅해하던 두 반의 반장이 학교 축제를 몇 주 동안 같이 준비했어. 둘은 아직 서로를 친구라고 부르지 않아. 그래도 이제는 힘든 일이 생기면 서로 믿고 먼저 도와줘. 이런 경우도 둘 사이에 'bond'가 생겼다고 할 수 있을까?",
+   "choices": [
+    "응, bond 맞아",
+    "아니, bond 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, bond 맞아",
+   "why": "맞아! 두 반장은 아직 서로를 친구라고 부르지 않아도, 힘든 일이 생기면 서로 믿고 먼저 도와주잖아. 서로를 이어 주는 보이지 않는 끈이 양쪽에 다 생긴 거니까, 그게 바로 bond인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "하린이와 먼 친척 오빠는 집안 족보에 이름이 같이 올라 있어. 그런데 둘은 한 번도 만난 적이 없고, 서로 얼굴도 몰라. 이런 경우도 둘 사이에 'bond'가 있는 걸까?",
+   "choices": [
+    "응, bond 맞아",
+    "아니, bond 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, bond 아니야",
+   "why": "맞아! 하린이와 오빠는 친척이긴 하지만 한 번도 만난 적이 없고 서로 얼굴도 모르거든. bond는 서로 함께 지내면서 양쪽에 생기는 끈이라서, 만난 적도 없는 둘 사이에는 아직 bond가 없는 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "tie",
+   "kind": "confusable",
+   "from": "vs tie"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-bond",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-bond"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/bond.webp",
+  "alt": "서로 모르던 축구팀 아이들이 같이 뛰고 지고 이기며 가까워짐",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

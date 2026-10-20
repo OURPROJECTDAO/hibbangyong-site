@@ -1,0 +1,90 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/glee/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/glee/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "glee",
+ "slug": "glee",
+ "url": "https://hibbangyong.com/words/glee/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "신남 — 일이 잘 풀려서, 때로는 남이 잘 안 돼서 겉으로 드러날 만큼 들뜬 기쁨",
+ "gloss_ko": "들뜬 신남",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "시험이 취소됐다는 말에 반 애들이 소리 지르며 들썩였지. 그렇게 들떠서 신난 마음이 glee야.",
+  "근데 라이벌 팀이 골을 놓쳤을 때 킥킥 웃는 것도 glee야. 남이 잘 안 돼서 신나는 마음도 여기 들어가.",
+  "조용히 흐뭇한 행복이나 '휴' 하는 안도랑은 달라. 참으려 해도 밖으로 새어 나오는 신남이야."
+ ],
+ "scene": "시험 취소 소식에 반 전체가 소리 지르며 들썩임",
+ "examples": [
+  {
+   "en": "My little brother couldn't hide his glee when I got in trouble with Mom.",
+   "ko": "내가 엄마한테 혼나니까 남동생은 신난 티를 숨기지도 못하더라."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "이번 주말에 놀이공원에 간다는 아빠 말을 듣자마자, 동생이 소파 위에서 방방 뛰면서 \"야호!\" 하고 소리를 질렀어. 이때 동생의 마음, 'glee'야?",
+   "choices": [
+    "응, glee 맞아",
+    "아니, glee 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, glee 맞아",
+   "why": "맞아! 놀이공원 간다는 말에 소파 위에서 방방 뛰면서 \"야호!\" 하고 소리까지 질렀잖아. 이렇게 참을 새도 없이 밖으로 튀어나온 신남이 바로 glee야."
+  },
+  {
+   "type": "ox",
+   "question": "단짝 친구가 먼 도시로 전학 가는 날, 배웅하고 돌아온 언니가 방에 들어가 혼자 조용히 눈물을 닦았어. 이때 언니의 마음, 'glee'야?",
+   "choices": [
+    "응, glee 맞아",
+    "아니, glee 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, glee 아니야",
+   "why": "맞아! 언니는 단짝이랑 헤어져서 슬퍼서 방에서 혼자 조용히 눈물을 닦았잖아. glee는 밖으로 튀어나올 만큼 들뜬 신남이라서, 가라앉은 이 마음이랑은 정반대야."
+  },
+  {
+   "type": "choice",
+   "question": "네 사람의 순간이 있어. 그 사람 마음을 'glee'라고 부르기에 가장 잘 맞는 건?",
+   "choices": [
+    "계주에서 라이벌 반이 넘어지자 우리 반 애들이 손뼉 치며 킥킥댔어",
+    "할머니가 따뜻한 차를 마시며 창밖을 보고 조용히 미소 지었어",
+    "잃어버린 지갑을 찾은 형이 '휴' 하면서 의자에 털썩 앉았어",
+    "키우던 화분이 시들어 버리자 동생이 한참 동안 말이 없었어"
+   ],
+   "answer_index": 0,
+   "answer": "계주에서 라이벌 반이 넘어지자 우리 반 애들이 손뼉 치며 킥킥댔어",
+   "why": "맞아! 라이벌 반이 넘어진 걸 보고 손뼉 치며 킥킥댄 건, 남이 잘 안 돼서 참지 못하고 밖으로 새어 나온 신남이라 바로 그게 glee인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "delight",
+   "kind": "confusable",
+   "from": "vs delight"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-glee",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-glee"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/glee.webp",
+  "alt": "시험 취소 소식에 반 전체가 소리 지르며 들썩임",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

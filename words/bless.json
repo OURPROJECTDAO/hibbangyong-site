@@ -1,0 +1,103 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/bless/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/bless/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "bless",
+ "slug": "bless",
+ "url": "https://hibbangyong.com/words/bless/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "축복하다 — 남에게 좋은 일이 오기를 대신 빌어주다, 또는 큰 쪽이 좋은 것을 내려주다",
+ "gloss_ko": "축복하다",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "멀리 이사 가는 친구 손을 잡고 이렇게 말해. 가는 데서 아픈 일 없고 좋은 일만 있어라.",
+  "잘했다고 칭찬하는 것도, 축하해주는 것도 아니야. 그건 이미 온 일이잖아. 이건 아직 안 온 좋은 일을 미리 빌어주는 거거든.",
+  "하늘처럼 큰 쪽이 좋은 걸 내려줄 때도 이 말을 써. 저 애는 예쁜 목소리를 받았다, 이렇게.",
+  "그게 bless야."
+ ],
+ "scene": "멀리 이사 가는 친구 손 잡고 배웅하는 장면",
+ "examples": [
+  {
+   "en": "Grandma held my hand and blessed me before my long trip.",
+   "ko": "할머니는 내 긴 여행 전에 내 손을 잡고 축복해 주셨어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "짝꿍이 내 지우개를 말없이 가져갔어. 나는 조용히, 짝꿍이 내일 소풍에서 비를 맞고 하나도 재미없기를 빌었어. 이게 'bless'야?",
+   "choices": [
+    "응, bless 맞아",
+    "아니, bless 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, bless 아니야",
+   "why": "그렇지, 이건 bless가 아니야. 빌어주긴 했는데 비 맞고 재미없기를 빌었잖아. bless는 좋은 일이 오라고 빌어주는 거거든. 나쁜 일이 오라고 비는 건 반대쪽 말이야."
+  },
+  {
+   "type": "choice",
+   "question": "네 친구가 내일 먼 동네로 이사 가. 네 사람이 친구에게 한 말이 서로 달랐어. 친구를 'bless'한 사람은 누구야?",
+   "choices": [
+    "손을 잡고, 새 동네에서 아픈 일 없이 다 잘 되기를 대신 빌어준 사람",
+    "어제 달리기에서 친구가 1등한 걸 크게 잘했다고 말해준 사람",
+    "가는 길이 꼬여서 고생 좀 실컷 해보라고 웃으며 말한 사람",
+    "이사 갈 동네에 뭐가 있는지 지도를 펴서 하나하나 알려준 사람"
+   ],
+   "answer_index": 0,
+   "answer": "손을 잡고, 새 동네에서 아픈 일 없이 다 잘 되기를 대신 빌어준 사람",
+   "why": "맞아! 손 잡고 아픈 일 없이 다 잘 되기를 빌어준 건, 아직 오지도 않은 좋은 일을 친구한테 미리 보내준 거잖아. 바로 그게 bless야."
+  },
+  {
+   "type": "ox",
+   "question": "밭에 씨를 뿌리는 아저씨 옆에서, 이웃 할머니가 아저씨 밭을 보며 올해 이 밭에 비가 알맞게 내리기를 하고 대신 빌어줬어. 이게 'bless'야?",
+   "choices": [
+    "응, bless 맞아",
+    "아니, bless 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, bless 맞아",
+   "why": "맞아! 아직 안 온 좋은 일을 다른 사람을 위해 미리 빌어준 거잖아. 할머니 밭도 아닌데 아저씨 밭에 비가 알맞게 오라고 빌어준 거니까, 그게 바로 bless인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "curse"
+ ],
+ "confusable": [
+  {
+   "word": "praise",
+   "kind": "confusable",
+   "from": "칭찬하다(praise)"
+  },
+  {
+   "word": "congratulate",
+   "kind": "confusable",
+   "from": "축하하다(congratulate)"
+  },
+  {
+   "word": "wish",
+   "kind": "confusable",
+   "from": "vs wish"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-bless",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-bless"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/bless.webp",
+  "alt": "멀리 이사 가는 친구 손 잡고 배웅하는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

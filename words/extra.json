@@ -1,0 +1,91 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/extra/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/extra/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "extra",
+ "slug": "extra",
+ "url": "https://hibbangyong.com/words/extra/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "정해진 만큼 말고 그 밖에 더 붙은 것 — 반가운 덤일 수도, 귀찮은 짐일 수도",
+ "gloss_ko": "원래보다 더 붙은 것",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "식탁에 의자가 네 개야. 그런데 오늘은 할머니까지 다섯이 앉아야 해.",
+  "그래서 옆방에서 의자를 하나 갖고 나왔어. 원래 그 자리에 없던 의자지?",
+  "좋은 것만 그런 게 아니야. 가방에 짐이 하나 늘어도, 낼 돈이 조금 붙어도 똑같아.",
+  "쓰다 남은 게 아니라 정해진 것 밖에서 더 붙은 거, 그게 extra야. 하나든 열이든 똑같아."
+ ],
+ "scene": "할머니가 오셔서 옆방에서 갖고 나온 다섯 번째 의자",
+ "examples": [
+  {
+   "en": "The bus was full, so we waited ten extra minutes.",
+   "ko": "버스가 꽉 차서 우리는 10분을 더 기다렸어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "우리 반은 한 사람이 공책을 두 권씩 받기로 했어. 지호는 두 권을 받은 다음에 한 권을 더 받아서 세 권이 됐어. 지호가 더 받은 그 한 권, 이게 'extra'야?",
+   "choices": [
+    "응, extra 맞아",
+    "아니, extra 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, extra 맞아",
+   "why": "맞아! 두 권까지가 원래 받기로 한 거였는데 그 밖에서 한 권이 더 붙었잖아. 정해진 것 밖에서 하나 더 붙은 거, 그게 바로 extra야."
+  },
+  {
+   "type": "ox",
+   "question": "지호가 크레파스 통을 열어 보니 크레파스가 열두 자루 들어 있었어. 통 겉면에도 '열두 자루'라고 적혀 있어. 통 안의 그 열두 자루, 이게 'extra'야?",
+   "choices": [
+    "응, extra 맞아",
+    "아니, extra 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, extra 아니야",
+   "why": "맞아! 통에 열두 자루라고 적혀 있고 안에도 딱 열두 자루니까, 정해진 만큼 그대로인 거야. 밖에서 하나 더 붙은 게 없으니 extra가 아닌 거지."
+  },
+  {
+   "type": "ox",
+   "question": "수영장 입장료는 삼천 원이야. 지호는 오늘 수영모를 안 가져와서, 입장료와 함께 수영모 값 천 원을 냈대. 지호가 낸 이 천 원도 'extra'야?",
+   "choices": [
+    "아니, 이건 extra 아니야",
+    "응, 이것도 extra 맞아"
+   ],
+   "answer_index": 1,
+   "answer": "응, 이것도 extra 맞아",
+   "why": "맞아! 원래 삼천 원만 내면 되는 건데 수영모 때문에 천 원이 더 붙었잖아. 정해진 것 밖에서 하나 더 붙은 거니까 그게 바로 extra인 거야."
+  }
+ ],
+ "synonyms": [
+  "spare"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "bonus",
+   "kind": "confusable",
+   "from": "vs bonus"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-extra",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-extra"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/extra.webp",
+  "alt": "할머니가 오셔서 옆방에서 갖고 나온 다섯 번째 의자",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/pension/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/pension/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "pension",
+ "slug": "pension",
+ "url": "https://hibbangyong.com/words/pension/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "연금 — 나이가 들거나 몸이 아파서 더는 일하지 않는 사람이 나라나 회사에서 정기적으로 받는 돈",
+ "gloss_ko": "연금",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "나이가 들었거나, 다치거나 아파서 더는 일하지 않는 사람이 있어.",
+  "일은 멈췄는데도 나라나 회사에서 매달 꼬박꼬박 돈이 들어와. 이 돈이 연금이야.",
+  "회사를 그만둘 때 한 번에 받고 끝나는 퇴직금이랑은 달라. 연금은 정해진 때마다 계속 나와.",
+  "지금 일한 대가로 받는 월급도 아니야. 일을 멈춘 뒤에 받는 돈이라는 게 핵심이야."
+ ],
+ "scene": "나이 들거나 다치거나 아파서 일을 멈춘 사람이 매달 받는 돈",
+ "examples": [
+  {
+   "en": "After the accident, he couldn't work anymore, so he got a small pension every month.",
+   "ko": "사고 난 뒤로 그 아저씨는 더 일을 못 하게 돼서, 매달 적은 연금을 받았어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "우리 할머니는 초등학교 선생님으로 30년 일하시다가 나이가 들어 일을 그만두셨어. 지금은 학교에 안 나가시는데, 매달 25일마다 나라에서 할머니 통장으로 돈이 들어와. 이 돈이 'pension'일까?",
+   "choices": [
+    "응, pension 맞아",
+    "아니, pension 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, pension 맞아",
+   "why": "맞아! 할머니는 30년 일하시다가 나이가 들어 그만두셨는데, 학교에 안 나가셔도 나라에서 매달 25일마다 돈이 들어오잖아. 일을 멈춘 뒤에 정해진 때마다 계속 받는 돈이라서 바로 그게 pension이야."
+  },
+  {
+   "type": "ox",
+   "question": "사촌 형은 요즘 편의점에서 저녁마다 계산대 일을 하고 있어. 형이 이번 달에 일한 만큼, 매달 25일마다 편의점 사장님이 형 통장으로 돈을 넣어 줘. 이 돈이 'pension'일까?",
+   "choices": [
+    "응, pension 맞아",
+    "아니, pension 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, pension 아니야",
+   "why": "맞아! 형은 지금 저녁마다 계산대 일을 하고 있고, 그 이번 달에 일한 만큼 받는 돈이잖아. 그건 월급이지 pension이 아니야. pension은 일을 멈춘 뒤에 받는 돈이거든."
+  },
+  {
+   "type": "choice",
+   "question": "네 사람이 각자 받은 돈 이야기를 했어. 그 돈을 'pension'이라고 부를 수 있는 사람은 누구일까?",
+   "choices": [
+    "공장에서 일하는 삼촌이 한 달 일하고 받은 돈",
+    "다쳐서 일을 그만둔 소방관이 매달 나라에서 받는 돈",
+    "중학생 민지가 매달 부모님께 받는 돈",
+    "회사를 그만두던 날 한꺼번에 받은 큰돈"
+   ],
+   "answer_index": 1,
+   "answer": "다쳐서 일을 그만둔 소방관이 매달 나라에서 받는 돈",
+   "why": "맞아! 소방관은 다쳐서 일을 그만뒀는데도 나라에서 매달 돈을 받잖아. 일을 멈춘 뒤에 정해진 때마다 계속 나오는 돈, 그게 바로 pension이야. 꼭 나이 든 사람만 받는 것도 아니야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "benefit",
+   "kind": "confusable",
+   "from": "vs benefit"
+  }
+ ],
+ "related_scene": [
+  "salary"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-pension",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-pension"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/pension.webp",
+  "alt": "나이 들거나 다치거나 아파서 일을 멈춘 사람이 매달 받는 돈",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

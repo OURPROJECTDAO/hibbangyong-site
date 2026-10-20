@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/dominate/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/dominate/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "dominate",
+ "slug": "dominate",
+ "url": "https://hibbangyong.com/words/dominate/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "제일 세서 그 자리를 통째로 차지하다 — 나머지는 눌려서 잘 안 보일 만큼",
+ "gloss_ko": "제일 세서 통째로 차지하다",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "쉬는 시간에 한 명 목소리만 쩌렁쩌렁해. 다른 애들도 말하고 있는데 안 들려. 그 목소리가 교실을 통째로 차지한 거야.",
+  "싸워서 이긴 거냐고? 아니. 겨루지도 않았어. 그냥 제일 세서 나머지가 밀린 거야.",
+  "그림도 그래. 빨강을 너무 많이 칠하면 파랑이 있어도 안 보여. 온통 빨개 보이지.",
+  "하나가 제일 세게 판을 차지해서 나머지가 눌리는 거, 이게 dominate야."
+ ],
+ "scene": "쉬는 시간 교실을 한 아이 목소리가 다 차지하는 장면",
+ "examples": [
+  {
+   "en": "One voice dominated the classroom.",
+   "ko": "한 사람 목소리가 교실을 통째로 차지했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "화단에 해바라기랑 채송화를 같이 심었어. 여름이 되니 해바라기가 쑥 자라서, 화단을 보면 해바라기만 보여. 채송화는 뒤에 가려서 안 보여. 해바라기가 화단을 dominate 한 거야?",
+   "choices": [
+    "응, dominate 맞아",
+    "아니, dominate 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, dominate 맞아",
+   "why": "맞아! 해바라기가 제일 크게 자라서 화단을 통째로 차지했잖아. 채송화가 뒤에 있는데도 눌려서 안 보이지. 하나가 제일 세서 나머지가 안 보이게 되는 거, 그게 바로 dominate야."
+  },
+  {
+   "type": "ox",
+   "question": "운동회 날 우리 반이 리코더를 불었어. 그때 옆에서 응원 스피커가 켜졌고, 리코더 소리는 스피커 소리에 묻혀서 하나도 안 들렸어. 리코더 소리가 운동장을 dominate 한 거야?",
+   "choices": [
+    "응, dominate 맞아",
+    "아니, dominate 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, dominate 아니야",
+   "why": "그렇지, 아니야! 리코더는 스피커한테 밀려서 안 들리게 된 쪽이거든. 판을 차지한 건 스피커고, 리코더는 눌린 쪽이야."
+  },
+  {
+   "type": "choice",
+   "question": "네 가지 일이 있어. 'dominate'라는 말이 딱 맞는 건 어떤 거야?",
+   "choices": [
+    "드럼 소리가 너무 커서 노래랑 기타가 거의 안 들리게 된 것",
+    "달리기에서 한 명이 제일 먼저 결승선을 끊고 일등을 한 것",
+    "지휘자가 손을 흔들어 악기들을 하나씩 조용히 시킨 것",
+    "드럼이랑 기타랑 노래가 서로 비슷하게 들리게 맞춘 것"
+   ],
+   "answer_index": 0,
+   "answer": "드럼 소리가 너무 커서 노래랑 기타가 거의 안 들리게 된 것",
+   "why": "맞아! 드럼이 너무 세서 노래랑 기타가 있는데도 안 들리잖아. 나머지가 다 묻히고 드럼 하나가 그 소리를 통째로 차지한 거, 그게 바로 dominate야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-dominate",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-dominate"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/dominate.webp",
+  "alt": "쉬는 시간 교실을 한 아이 목소리가 다 차지하는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

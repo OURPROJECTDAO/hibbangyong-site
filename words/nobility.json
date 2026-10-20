@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/nobility/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/nobility/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "nobility",
+ "slug": "nobility",
+ "url": "https://hibbangyong.com/words/nobility/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "귀족 — 왕 아래에서 공작·백작 같은 높은 신분을 집안 대대로 물려받은 사람들 전체. 그런 사람에게 기대하던 높고 깨끗한 마음씨(고귀함)를 가리킬 때도 써.",
+ "gloss_ko": "귀족",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "옛날 영국 드라마 보면 공작, 백작 같은 호칭이 붙은 사람들이 나오지?",
+  "왕은 아니지만 높은 신분을 태어날 때부터 집안에서 물려받은 사람들이야. 그 무리 전체를 nobility라고 해.",
+  "돈만 많은 부자랑은 달라. 기준은 돈이 아니라 물려받은 신분이야.",
+  "그런 사람한테 기대하던 높고 깨끗한 마음씨도 nobility라고 불러. 남을 위해 손해를 보는 행동 같은 거."
+ ],
+ "scene": "옛날 영국 드라마 속 공작·백작 호칭을 가진 사람들",
+ "examples": [
+  {
+   "en": "Back then, only members of the nobility could become officers in the army.",
+   "ko": "그때는 귀족 집안 사람만 군대 장교가 될 수 있었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "옛날 영국에서는 상원 자리를 집안 대대로 물려받는 사람들이 있었어. 후작이나 자작 칭호를 아버지에게서 물려받은 집안 사람들 전체 말이야. 이 사람들을 통틀어 'nobility'라고 할 수 있을까?",
+   "choices": [
+    "응, nobility 맞아",
+    "아니, nobility 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, nobility 맞아",
+   "why": "맞아! 후작이나 자작 칭호를 아버지에게서 물려받은 집안 사람들 전체니까, 왕 아래 높은 신분을 대대로 물려받은 무리, 바로 그게 nobility야."
+  },
+  {
+   "type": "ox",
+   "question": "중세 유럽 마을에는 영주의 밭을 빌려 농사를 짓고 해마다 곡식으로 세금을 바치던 보통 농민들이 살았어. 이 농민들 전체를 통틀어 'nobility'라고 할 수 있을까?",
+   "choices": [
+    "응, nobility 맞아",
+    "아니, nobility 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, nobility 아니야",
+   "why": "맞아! 영주의 밭을 빌려 농사짓고 해마다 곡식으로 세금을 바치던 사람들은 높은 신분을 물려받은 게 없는 보통 농민이잖아. nobility는 그 밭의 주인인 영주 쪽처럼 신분을 집안 대대로 물려받은 사람들이라서, 농민들은 nobility가 아니야."
+  },
+  {
+   "type": "choice",
+   "question": "18세기 프랑스 이야기야. 아래 네 사람 중 'the nobility'에 속하는 사람은 누구일까?",
+   "choices": [
+    "장사로 큰돈을 모았지만 칭호는 없는 상인",
+    "아버지의 뒤를 이어 백작 칭호를 받은 아들",
+    "전쟁에서 공을 세워 마을에서 존경받는 농부",
+    "백작네 성에서 평생 요리를 해 온 요리사"
+   ],
+   "answer_index": 1,
+   "answer": "아버지의 뒤를 이어 백작 칭호를 받은 아들",
+   "why": "맞아! 아버지 뒤를 이어 백작 칭호를 받았다는 건 신분을 집안에서 물려받았다는 거야. 바로 그 물려받은 신분 때문에 귀족(nobility)에 들어가는 거지."
+  }
+ ],
+ "synonyms": [
+  "aristocracy"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "aristocracy",
+   "kind": "confusable",
+   "from": "vs aristocracy"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-nobility",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-nobility"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/nobility.webp",
+  "alt": "옛날 영국 드라마 속 공작·백작 호칭을 가진 사람들",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

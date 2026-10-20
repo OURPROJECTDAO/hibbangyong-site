@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/transistor/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/transistor/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "transistor",
+ "slug": "transistor",
+ "url": "https://hibbangyong.com/words/transistor/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "트랜지스터 — 전자 기기 안에서 전기가 흐를지 말지, 얼마나 세게 흐를지를 조절하는 아주 작은 부품",
+ "gloss_ko": "트랜지스터",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "폰 칩 안에는 눈에 안 보일 만큼 작은 부품이 수십억 개 들어 있어.",
+  "걔들은 전기를 흘려보낼지 막을지 정해. 약한 전기 신호를 세게 키워 주기도 해.",
+  "전기를 모아 두는 배터리나 전기가 지나가는 길인 전선이랑은 달라. 얘는 전기의 흐름을 조절해.",
+  "이게 transistor야. 폰, 라디오, 컴퓨터가 다 이 부품 덕분에 돌아가."
+ ],
+ "scene": "폰 칩 안에 든 수십억 개의 작은 부품",
+ "examples": [
+  {
+   "en": "My phone has billions of tiny transistors inside its chip.",
+   "ko": "내 폰 칩 안에는 아주 작은 트랜지스터가 수십억 개나 들어 있어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "TV 리모컨 회로판에 아주 작은 부품이 있어. 버튼을 누르면 이 부품이 전기를 흘려보낼지 막을지 정해. 이 부품이 'transistor'야?",
+   "choices": [
+    "응, transistor 맞아",
+    "아니, transistor 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, transistor 맞아",
+   "why": "맞아! 리모컨 버튼을 누르면 이 작은 부품이 전기를 흘려보낼지 막을지 정하잖아. 전기의 흐름을 조절하는 작은 부품, 바로 그게 transistor인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "손전등 안에 작은 전구가 있어. 이 전구는 전기를 받아서 빛을 내. 이 전구가 'transistor'야?",
+   "choices": [
+    "응, transistor 맞아",
+    "아니, transistor 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, transistor 아니야",
+   "why": "맞아! 손전등 전구는 전기를 받아서 빛을 내는 데 쓰는 쪽이야. transistor는 전기를 흘려보낼지 막을지, 얼마나 세게 흐를지를 조절하는 부품이니까 전구는 transistor가 아니야."
+  },
+  {
+   "type": "ox",
+   "question": "무선 이어폰 케이스 안에는 전기를 잔뜩 담아 뒀다가, 이어폰을 넣으면 그 전기를 꺼내 채워 주는 부품이 있어. 이런 부품도 'transistor'야?",
+   "choices": [
+    "응, transistor 맞아",
+    "아니, transistor 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, transistor 아니야",
+   "why": "맞아, transistor가 아니야! 케이스 안의 그 부품은 전기를 잔뜩 담아 뒀다가 이어폰을 넣으면 꺼내서 채워 주니까 배터리(battery)야. transistor는 전기를 담아 두는 게 아니라, 전기가 흐를지 말지랑 얼마나 세게 흐를지를 조절하는 부품이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "chip",
+   "kind": "confusable",
+   "from": "vs chip"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-transistor",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-transistor"
+ },
+ "image": null
+}

@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/abject/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/abject/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "abject",
+ "slug": "abject",
+ "url": "https://hibbangyong.com/words/abject/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "비참한 — 가난·실패·두려움 같은 나쁜 상태가 더 내려갈 데 없이 바닥까지 간",
+ "gloss_ko": "바닥까지 비참한",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "가난도, 실패도, 두려움도 다 정도가 있어.",
+  "그게 더 내려갈 데 없이 바닥까지 가서 처지가 말이 아닐 때 abject를 써. 먹을 것도 잘 곳도 없는 가난, 몸이 얼어붙는 두려움 같은 거.",
+  "사과에 붙이면 자존심을 다 내려놓고 납작 엎드린 사과가 돼. 그것도 바닥까지 간 거야.",
+  "그냥 좀 안 좋은 일, 슬픈 기분 하나, 당장 급한 위기랑은 달라. 이미 밑바닥에 처해 있는 상태야."
+ ],
+ "scene": "먹을 것도 잘 곳도 없는 바닥까지 간 가난",
+ "examples": [
+  {
+   "en": "After the war, the family lived in abject poverty for years.",
+   "ko": "전쟁이 끝난 뒤에 그 가족은 몇 년 동안 정말 비참하게 가난하게 살았어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "삼촌은 사업이 세 번 연달아 망해서 집도 차도 다 잃었어. 지금은 공원 벤치에서 잠을 자. 삼촌의 이 처지를 'abject'하다고 할 수 있을까?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 맞아",
+   "why": "맞아! 사업이 세 번 연달아 망해서 집도 차도 다 잃고 공원 벤치에서 자는 건, 더 내려갈 데가 없는 바닥까지 간 처지야. 그래서 삼촌의 처지는 abject하다고 할 수 있어."
+  },
+  {
+   "type": "ox",
+   "question": "언니는 꿈꾸던 대학에 수석으로 붙고 장학금까지 받았어. 더 바랄 게 없을 만큼 최고로 잘 풀렸지. 언니의 이 처지를 'abject'하다고 할 수 있을까?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 아니야",
+   "why": "맞아! 언니는 수석으로 붙고 장학금까지 받아서 최고로 잘 풀린 거잖아. abject는 가난이나 실패 같은 나쁜 처지가 더 내려갈 데 없이 바닥까지 간 거라서, 언니 처지랑은 정반대야."
+  },
+  {
+   "type": "choice",
+   "question": "큰 잘못을 한 운동선수가 기자회견에서 'abject' 사과를 했어. 여기서 'abject'는 사과가 어떻다는 뜻일까?",
+   "choices": [
+    "자존심을 다 내려놓고 자기를 한껏 낮춘",
+    "형편이 아주 어려워져 돈이 다 떨어진",
+    "말이 짧고 별로 성의가 없어 보이는",
+    "남 탓을 섞어 가며 변명을 늘어놓는"
+   ],
+   "answer_index": 0,
+   "answer": "자존심을 다 내려놓고 자기를 한껏 낮춘",
+   "why": "맞아! 큰 잘못을 한 선수가 자존심을 다 내려놓고 자기를 바닥까지 낮춰서 한 사과야. 그래서 이게 abject 사과인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "wretched",
+   "kind": "confusable",
+   "from": "vs wretched"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-abject",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-abject"
+ },
+ "image": null
+}

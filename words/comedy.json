@@ -1,0 +1,92 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/comedy/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/comedy/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "comedy",
+ "slug": "comedy",
+ "url": "https://hibbangyong.com/words/comedy/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "코미디 — 웃기려고 만든 웃긴 것(영화·무대 쇼·연극 다 돼). 보는 내내 웃게 하고, 보고 나면 기분이 좋아져.",
+ "gloss_ko": "코미디",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "온 가족이 소파에 붙어 앉아 웃긴 영화를 봐.",
+  "배우가 자꾸 미끄러지고 실수하니까 다들 배꼽 잡고 깔깔 웃어.",
+  "영화든 무대에서 사람이 직접 하는 쇼든, 이렇게 처음부터 끝까지 웃기려고 만든 게 있거든? 슬픈 얘기 말고, 보고 나면 기분 좋아지는 거.",
+  "그게 comedy야."
+ ],
+ "scene": "온 가족이 소파에서 웃긴 영화를 보며 배우 실수에 깔깔 웃는 장면",
+ "examples": [
+  {
+   "en": "On movie night we picked a comedy, and by the end my whole family was still laughing.",
+   "ko": "영화 보는 날 웃긴 영화를 골랐는데 끝날 때까지 온 가족이 웃었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "삼촌이 티비에서 하는 프로그램 네 개를 알려줬어. 이 중에 'comedy'는 어느 거야?",
+   "choices": [
+    "요리사가 나와서 김치찌개 끓이는 순서를 차근차근 알려주는 프로그램",
+    "축구 선수들이 운동장에서 공을 차며 시합하는 걸 그대로 보여주는 프로그램",
+    "사람들이 처음부터 끝까지 우스꽝스럽게 굴어서 보는 내내 웃음이 터지는 프로그램",
+    "바다에 사는 고래가 헤엄치는 모습을 따라가며 설명해 주는 프로그램"
+   ],
+   "answer_index": 2,
+   "answer": "사람들이 처음부터 끝까지 우스꽝스럽게 굴어서 보는 내내 웃음이 터지는 프로그램",
+   "why": "맞아! 처음부터 끝까지 우스꽝스럽게 굴어서 보는 내내 웃음이 터지잖아. 바로 그렇게 웃기려고 만든 게 comedy인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "학교 강당에서 연극을 봤는데, 주인공의 강아지가 마지막에 멀리 떠나가버려. 보던 아이들이 훌쩍이면서 눈물을 닦았어. 이게 'comedy'야?",
+   "choices": [
+    "응, comedy 맞아",
+    "아니, comedy 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, comedy 아니야",
+   "why": "맞아! 강아지가 떠나서 다들 훌쩍이고 눈물 닦았잖아. comedy는 처음부터 끝까지 웃기려고 만든 거라서, 슬퍼서 우는 이야기는 comedy가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "친구 넷이 극장에서 각자 다른 걸 보고 왔어. 'comedy'를 보고 온 사람은 누구일까?",
+   "choices": [
+    "웃기려고 만든 쇼를 한 편 통째로 봤는데, 보는 동안 계속 웃음이 터졌어.",
+    "옆 사람이 웃긴 말 딱 한마디를 던져서, 그 순간만 잠깐 피식 웃었어.",
+    "끝에 주인공이 크게 다쳐서, 보던 사람들 다 눈물을 흘렸어.",
+    "무서운 괴물이 갑자기 튀어나와서, 손에 땀을 쥐고 봤어."
+   ],
+   "answer_index": 0,
+   "answer": "웃기려고 만든 쇼를 한 편 통째로 봤는데, 보는 동안 계속 웃음이 터졌어.",
+   "why": "맞아! 웃기려고 만든 쇼를 한 편 통째로 보면서 계속 웃었잖아. 처음부터 끝까지 웃기려고 만든 거, 그게 바로 comedy인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "tragedy"
+ ],
+ "confusable": [],
+ "related_scene": [
+  "farce",
+  "theatre"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-comedy",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-comedy"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/comedy.webp",
+  "alt": "온 가족이 소파에서 웃긴 영화를 보며 배우 실수에 깔깔 웃는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

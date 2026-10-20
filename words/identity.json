@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/identity/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/identity/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "identity",
+ "slug": "identity",
+ "url": "https://hibbangyong.com/words/identity/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "정체 — 그 사람이나 그것이 누구인지, 무엇인지",
+ "gloss_ko": "누구인지, 무엇인지",
+ "level": {
+  "code": "L3",
+  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "똑똑! '누구세요?' 물으면 문 밖에서 그래. '나야, 옆집 민지!'",
+  "그 대답이 민지가 누구인지 알려 줘. 옷을 갈아입어도, 머리를 싹둑 잘라도 민지는 그대로 민지거든?",
+  "사람만 그런 게 아니야. 가면 쓴 저 사람이 누군지, 상자 속 저 물건이 뭔지도 똑같이 물어볼 수 있어.",
+  "겉모습 말고 '누구야? 뭐야?'에 대한 진짜 대답. 그게 identity야."
+ ],
+ "scene": "문을 두드리고 '누구세요?' 묻자 옆집 민지가 대답하는 장면",
+ "examples": [
+  {
+   "en": "Even in my scary mask, my dog knew my identity.",
+   "ko": "무서운 가면을 썼는데도 우리 강아지는 내가 누군지 딱 알아봤어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "운동회 날, 아이들이 모두 똑같은 흰 체육복을 입고 있었어. 할머니가 \"저 아이는 누구니?\" 하고 물으셨고, 선생님이 \"저 아이는 3반 김지호예요.\" 하고 대답했어. 선생님이 알려 준 게 저 아이의 'identity'일까?",
+   "choices": [
+    "응, identity 맞아",
+    "아니, identity 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, identity 맞아",
+   "why": "맞아! 모두 똑같은 흰 체육복을 입어서 겉모습으로는 알 수 없었는데, 선생님이 할머니의 \"저 아이는 누구니?\"에 \"3반 김지호예요\" 하고 진짜 대답을 해 주셨잖아. 그렇게 누구인지 알려 주는 대답이 바로 identity인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "숨바꼭질을 시작할 때 형이 \"술래는 아무나 한 명 하자!\"라고 했어. 아직 누가 술래가 될지는 정해지지 않았어. 이 '아무나 한 명'이 술래의 'identity'일까?",
+   "choices": [
+    "응, identity 맞아",
+    "아니, identity 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, identity 아니야",
+   "why": "맞아! 형이 아무나 한 명 하자고 했을 때는 아직 누가 술래인지 정해지지 않았거든. 누구인지 모르니까 술래가 누구냐고 물어도 대답이 안 나와. 그래서 identity가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "책상 위에 쪽지가 하나 있었어. 친구들이 쪽지 쓴 사람에 대해 알아낸 걸 하나씩 말했어. 쪽지 쓴 사람의 'identity'를 알아낸 친구는 누구일까?",
+   "choices": [
+    "\"쪽지 쓴 사람은 파란 펜을 썼어.\"",
+    "\"쪽지 쓴 사람은 짝꿍 서준이랑 친해.\"",
+    "\"쪽지 쓴 사람은 짝꿍 서준이었어.\"",
+    "\"쪽지 쓴 사람은 아침 일찍 왔어.\""
+   ],
+   "answer_index": 2,
+   "answer": "\"쪽지 쓴 사람은 짝꿍 서준이었어.\"",
+   "why": "맞아! 쪽지 쓴 사람이 바로 짝꿍 서준이었다는 걸 알아냈잖아. 누가 썼는지 그 사람 자체를 찾아낸 거라서, 바로 그게 쪽지 쓴 사람의 identity인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "mask"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-identity",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-identity"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/identity.webp",
+  "alt": "문을 두드리고 '누구세요?' 묻자 옆집 민지가 대답하는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/relinquish/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/relinquish/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "relinquish",
+ "slug": "relinquish",
+ "url": "https://hibbangyong.com/words/relinquish/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "(자리·권리·힘을) 내주다 — 쥐고 있던 자리나 권리를 내 쪽에서 놓아 남에게 가게 하는 것, 아쉬워하면서 그럴 때가 많음",
+ "gloss_ko": "쥔 것 내주기",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "3학년 2학기, 아직 더 하고 싶은데 동아리 회장 자리를 후배한테 넘겨야 할 때가 왔어.",
+  "쥐고 있던 자리, 권리, 다스리던 힘을 내 쪽에서 놓아서 남한테 가게 하는 거야. 나라가 다스리던 땅을 다른 나라에 내줄 때도 똑같이 써.",
+  "남한테 뺏기거나 그냥 잃어버리는 거랑은 달라. 놓는 건 결국 나야.",
+  "하던 공부나 연습을 중간에 그만두는 것과도 달라. 하던 걸 멈추는 게 아니라 가진 걸 내주는 거야."
+ ],
+ "scene": "3학년 2학기 동아리 회장 자리를 후배에게 넘기는 장면",
+ "examples": [
+  {
+   "en": "Minho did not want to relinquish the club leader's job to anyone.",
+   "ko": "민호는 동아리 회장 자리를 누구한테도 내주고 싶지 않았어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "40년 동안 나라를 다스린 왕이 나이가 들자, 스스로 왕의 자리를 아들에게 물려주었어. 이 일을 'relinquish'로 말할 수 있을까?",
+   "choices": [
+    "응, relinquish 맞아",
+    "아니, relinquish 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, relinquish 맞아",
+   "why": "맞아! 왕이 40년 동안 쥐고 있던 왕의 자리를 스스로 놓아서 아들에게 가게 했잖아. 그래서 바로 그게 relinquish인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "작은 빵집 사장님이 큰 회사에게서 가게를 넘기라는 제안을 여러 번 받았지만, 끝까지 가게를 직접 운영했어. 이 일을 'relinquish'로 말할 수 있을까?",
+   "choices": [
+    "응, relinquish 맞아",
+    "아니, relinquish 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, relinquish 아니야",
+   "why": "맞아! 사장님은 넘기라는 제안을 여러 번 받고도 끝까지 가게를 직접 운영했잖아. relinquish는 쥐고 있던 걸 내 쪽에서 놓아서 남한테 넘겨주는 건데, 사장님은 가게를 하나도 놓지 않았으니까 딱 반대인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "역사책에 이런 내용이 있어. '아주 오래전, 한 나라가 바다 건너 섬을 다스릴 권리를 이웃 나라에 relinquish했다.' 여기서 'relinquish'는 어떤 뜻에 가장 가까울까?",
+   "choices": [
+    "그 섬을 다스릴 권리를 스스로 놓아서 이웃 나라가 갖게 했어.",
+    "그 섬을 다스릴 권리를 전쟁에서 져서 이웃 나라에 빼앗겼어.",
+    "그 섬을 다스리려고 세운 계획을 중간에 그만두고 말았어.",
+    "그 섬을 다스릴 권리를 이웃 나라로부터 끝까지 지켜 냈어."
+   ],
+   "answer_index": 0,
+   "answer": "그 섬을 다스릴 권리를 스스로 놓아서 이웃 나라가 갖게 했어.",
+   "why": "맞아! 그 나라가 섬을 다스릴 권리를 스스로 놓아서 이웃 나라가 갖게 한 거니까, 바로 그게 relinquish야. 쥐고 있던 권리를 내 쪽에서 내준 거지."
+  }
+ ],
+ "synonyms": [
+  "resign"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "abandon",
+   "kind": "confusable",
+   "from": "버리고 떠나다(abandon)"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-relinquish",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-relinquish"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/relinquish.webp",
+  "alt": "3학년 2학기 동아리 회장 자리를 후배에게 넘기는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

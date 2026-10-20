@@ -1,0 +1,110 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/general/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/general/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "general",
+ "slug": "general",
+ "url": "https://hibbangyong.com/words/general/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "두루 걸친 — 딱 하나만 콕 집지 않고, 여럿·전체에 두루 걸치거나, 자세한 건 빼고 큰 틀만 잡은",
+ "gloss_ko": "여럿에 두루 걸친",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "선생님이 '내일 다들 체육복 입고 와' 하잖아? 너 한 명 콕 집은 게 아니라 반 전체한테 두루 하는 말이거든.",
+  "또 이런 것도 있어. 지도가 공원이 정확히 어딘지는 안 알려주고 '이 근처야' 하고 대충 큰 자리만 보여줄 때도 general이야.",
+  "'자주 있다(흔하다)'랑은 달라. 자주 보이냐가 아니라, 하나 콕 안 집고 두루 걸치거나 대충 큰 틀만 잡냐가 핵심이거든.",
+  "이렇게 하나만 딱 안 집고 크게 두루 걸치거나 큰 틀만 잡는 게 general이야."
+ ],
+ "scene": "선생님이 반 전체에게 체육복 입고 오라 두루 지시하는 장면",
+ "examples": [
+  {
+   "en": "The map only shows the general area where the park is.",
+   "ko": "지도는 공원이 있는 대략적인 자리만 보여줘."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "엄마가 '이 동네 general한 지도 하나 사자' 그랬어. 엄마가 사려는 지도는 어떤 거야?",
+   "choices": [
+    "골목은 몰라도 동네가 대충 어디쯤인지 나온 지도",
+    "우리 집 한 채만 딱 콕 집어 그린 지도",
+    "사람들이 제일 자주 사 가는 인기 많은 지도",
+    "풀 한 포기까지 몽땅 빠짐없이 그린 지도"
+   ],
+   "answer_index": 0,
+   "answer": "골목은 몰라도 동네가 대충 어디쯤인지 나온 지도",
+   "why": "맞아! 골목까지 콕 집진 않아도 동네가 대충 어디쯤인지 큰 틀만 보여주잖아. 하나하나 다 안 집고 크게 두루 보여주니까 바로 그게 general인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "수영장에서 안내 방송이 나왔어. 다음 중 general한 안내는 뭐야?",
+   "choices": [
+    "여기 들어오는 사람은 누구나 수영모를 쓰고 들어와 주세요",
+    "5번 레인에서 헤엄치는 사람들은 지금 잠깐 나와 주세요",
+    "노란 수영모를 쓴 어린이는 지금 카운터 앞으로 와 주세요",
+    "지금 이 수영장 물 온도는 28도로 맞춰져 있습니다"
+   ],
+   "answer_index": 0,
+   "answer": "여기 들어오는 사람은 누구나 수영모를 쓰고 들어와 주세요",
+   "why": "맞아! 여기 들어오는 사람 누구나, 그러니까 이 수영장에 있는 사람 전체한테 두루 하는 말이잖아. 한 명 콕 집지 않고 다 같이 걸치니까 바로 그게 general인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "동생이 여행을 다녀와서 얘기해 줬어. 다음 중 general한 얘기는 뭐야?",
+   "choices": [
+    "바다도 보고 밥도 먹고 그냥 재밌게 놀다가 왔어",
+    "둘째 날 아침에 미역국이랑 계란말이를 먹었어",
+    "숙소 방 창문에서 등대랑 배 두 척이 보였어",
+    "돌아오는 기차가 4시 20분에 출발해서 6시에 도착했어"
+   ],
+   "answer_index": 0,
+   "answer": "바다도 보고 밥도 먹고 그냥 재밌게 놀다가 왔어",
+   "why": "맞아! 바다도 보고 밥도 먹고 재밌게 놀았다는 건 뭘 먹었는지 어디서 놀았는지 하나도 콕 안 집고 여행 전체를 크게 뭉뚱그린 얘기잖아. 자세한 건 빼고 큰 틀만 잡은 거, 바로 그게 general인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "particular",
+  "local",
+  "specific",
+  "particular"
+ ],
+ "confusable": [
+  {
+   "word": "common",
+   "kind": "confusable",
+   "from": "흔한·자주 일어나는(common/usual)"
+  },
+  {
+   "word": "usual",
+   "kind": "confusable",
+   "from": "흔한·자주 일어나는(common/usual)"
+  },
+  {
+   "word": "overall",
+   "kind": "confusable",
+   "from": "vs overall"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-general",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-general"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/general.webp",
+  "alt": "선생님이 반 전체에게 체육복 입고 오라 두루 지시하는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

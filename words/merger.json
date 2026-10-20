@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/merger/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/merger/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "merger",
+ "slug": "merger",
+ "url": "https://hibbangyong.com/words/merger/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "합병(둘이 하나로 합치기) — 둘 이상의 회사나 단체가 합쳐서 하나가 되는 것",
+ "gloss_ko": "하나로 합치기",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "학생 수가 줄어든 두 학교가 있다고 쳐 봐.",
+  "내년부터 둘이 합쳐서 교문도 하나, 이름도 하나인 학교가 돼.",
+  "회사끼리, 은행끼리 이렇게 한 몸이 되는 것도 다 merger야.",
+  "그냥 손잡고 같이 일하는 거랑은 달라. 합친 뒤엔 따로가 아니라 하나거든."
+ ],
+ "scene": "학생 수가 줄어 두 학교가 하나로 합쳐짐",
+ "examples": [
+  {
+   "en": "Many parents were worried when they heard about the school merger.",
+   "ko": "두 학교가 합쳐진다는 소식을 듣고 걱정한 부모님이 많았어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "우리 동네에 있던 병원 두 곳이 다음 달부터 합쳐져서, 간판도 하나, 이름도 하나인 병원 한 곳이 된대. 이런 일을 'merger'라고 할 수 있어?",
+   "choices": [
+    "응, merger 맞아",
+    "아니, merger 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, merger 맞아",
+   "why": "맞아! 따로 있던 병원 두 곳이 합쳐져서 간판도 하나, 이름도 하나인 병원 한 곳이 되잖아. 둘이 하나가 되는 거니까 이게 바로 merger야."
+  },
+  {
+   "type": "ox",
+   "question": "시에서 운영하던 합창단 하나가 다음 달부터 어린이 합창단과 어른 합창단, 두 단체로 나뉘어 따로 활동한대. 이런 일을 'merger'라고 할 수 있어?",
+   "choices": [
+    "응, merger 맞아",
+    "아니, merger 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, merger 아니야",
+   "why": "맞아! 합창단 하나가 어린이 합창단과 어른 합창단, 두 단체로 나뉘는 거잖아. merger는 둘이 합쳐서 하나가 되는 건데, 이건 정반대로 하나가 둘로 쪼개지는 거라 merger가 아니야."
+  },
+  {
+   "type": "choice",
+   "question": "동네 축구 동호회들에 생긴 소식 네 가지야. 이 중에서 'merger'라고 부를 수 있는 건 어느 거야?",
+   "choices": [
+    "두 축구 동호회가 이름은 그대로 두고 연습만 같이 하기로 했어",
+    "한 축구 동호회가 두 팀으로 갈라져서 따로 뛰기로 했어",
+    "두 축구 동호회가 이제부터 한 팀 이름으로만 뛰기로 했어",
+    "한 축구 동호회가 옆 동호회 선수 몇 명을 데려오기로 했어"
+   ],
+   "answer_index": 2,
+   "answer": "두 축구 동호회가 이제부터 한 팀 이름으로만 뛰기로 했어",
+   "why": "맞아! 두 동호회가 이제 한 팀 이름으로만 뛰면 따로 있던 둘이 진짜 하나가 된 거잖아. 바로 그게 merger야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "merge"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-merger",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-merger"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/merger.webp",
+  "alt": "학생 수가 줄어 두 학교가 하나로 합쳐짐",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/integral/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/integral/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "integral",
+ "slug": "integral",
+ "url": "https://hibbangyong.com/words/integral/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "없어서는 안 될 — 전체를 이루는 한 부분이라서, 빼면 그 전체가 제대로 안 되는",
+ "gloss_ko": "없어서는 안 될",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "합창에서 알토 파트를 빼 봐. 노래가 휑해지고 그 노래가 아니게 돼.",
+  "이렇게 전체 안에 들어 있는 한 조각인데, 빠지면 전체가 흔들리는 게 integral이야.",
+  "좋은 것만 해당되는 건 아니야. 시험 스트레스도 학교생활의 integral한 부분이라고 할 수 있어.",
+  "그냥 '중요한'이랑은 달라. 아무리 중요해도 바깥에 있는 거면 안 되고, 그 안에 박혀 있는 부분이어야 해."
+ ],
+ "scene": "합창에서 알토 파트를 빼는 장면",
+ "examples": [
+  {
+   "en": "Making mistakes is an integral part of learning to swim.",
+   "ko": "수영 배울 때 실수하는 건 원래 그 과정 안에 빠질 수 없이 들어 있는 거야."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "샌드위치를 만들 때 위아래로 덮는 빵 두 장이 있어. 이 빵은 샌드위치의 'integral'한 부분이야?",
+   "choices": [
+    "응, integral 맞아",
+    "아니, integral 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, integral 맞아",
+   "why": "맞아! 빵 두 장은 바깥을 덮고 있어도 샌드위치를 이루는 한 부분이야. 빼 버리면 속재료만 남아서 더는 샌드위치가 아니게 되니까, 바로 그게 integral인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "생일 케이크 위에 작은 종이 깃발 장식을 하나 꽂아 두었어. 이 종이 깃발은 케이크의 'integral'한 부분이야?",
+   "choices": [
+    "응, integral 맞아",
+    "아니, integral 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, integral 아니야",
+   "why": "맞아! 종이 깃발은 케이크 위에 꽂아 둔 장식이라서, 떼어 내도 케이크는 그대로 케이크야. 빼도 전체가 멀쩡하면 integral이 아니고, 그냥 얹혀 있는 곁다리인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "마라톤 코치가 선수들에게 '다리 근육이 쑤시는 건 마라톤 훈련에 integral해'라고 말했어. 여기서 코치가 한 말은 어떤 뜻일까?",
+   "choices": [
+    "쑤시는 게 느껴져야 훈련이 잘되는 거니까 반갑게 여기라는 뜻",
+    "훈련을 하다 보면 쑤시는 게 원래 그 과정에 따라 들어온다는 뜻",
+    "쑤시는 건 훈련보다 먼저 조심해서 막아야 할 위험이라는 뜻"
+   ],
+   "answer_index": 1,
+   "answer": "훈련을 하다 보면 쑤시는 게 원래 그 과정에 따라 들어온다는 뜻",
+   "why": "맞아! 코치 말은 다리가 쑤시는 게 마라톤 훈련 안에 원래 들어 있는 한 부분이라는 거야. 좋든 싫든 훈련을 하면 따라오는 거니까, 그게 바로 integral이야."
+  }
+ ],
+ "synonyms": [
+  "entire",
+  "inherent"
+ ],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "integrate"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-integral",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-integral"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/integral.webp",
+  "alt": "합창에서 알토 파트를 빼는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

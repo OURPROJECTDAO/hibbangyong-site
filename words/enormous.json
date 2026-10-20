@@ -1,0 +1,100 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/enormous/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/enormous/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "enormous",
+ "slug": "enormous",
+ "url": "https://hibbangyong.com/words/enormous/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "엄청나게 큰 — 보통 큰 게 아니라 놀랄 만큼 큰",
+ "gloss_ko": "거대한",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "엄마가 마트에서 수박을 사 왔는데, 두 팔로 겨우 안았어.",
+  "그냥 '큰' 수박이 아니야. 보고 입이 딱 벌어지는 크기지.",
+  "쌓인 숙제도, 밖에서 나는 소리도, 잘못 저지른 실수도 이렇게 말할 수 있어. 좋은 거든 나쁜 거든 상관없어.",
+  "크기든 양이든 소리든, 놀랄 만큼 어마어마하면 그게 enormous야."
+ ],
+ "scene": "두 팔로 겨우 안는 수박",
+ "examples": [
+  {
+   "en": "We made an enormous mess in the kitchen.",
+   "ko": "우리는 부엌을 엄청나게 어질러 놨어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "서연이가 공원에서 비눗방울을 불었어. 다음 중 'enormous'에 해당하는 비눗방울은?",
+   "choices": [
+    "야구공만 하게 부푼 비눗방울",
+    "서연이 키를 훌쩍 넘게 부푼 비눗방울",
+    "손톱만 하게 부푼 비눗방울",
+    "귤만 하게 부푼 비눗방울"
+   ],
+   "answer_index": 1,
+   "answer": "서연이 키를 훌쩍 넘게 부푼 비눗방울",
+   "why": "맞아! 서연이 키를 훌쩍 넘을 만큼 커다래진 비눗방울이면 보는 사람 입이 딱 벌어지잖아. 그렇게 놀랄 만큼 어마어마한 게 바로 enormous야."
+  },
+  {
+   "type": "choice",
+   "question": "민준이가 캠핑장에서 텐트들을 구경했어. 다음 중 'enormous'에 해당하는 텐트는?",
+   "choices": [
+    "혼자 앉으면 무릎이 벽에 닿는 텐트",
+    "어른 두 명이 나란히 누우면 꽉 차는 텐트",
+    "어른 열 명이 안에 서 있어도 자리가 남는 텐트",
+    "인형 하나 겨우 들어가는 장난감 텐트"
+   ],
+   "answer_index": 2,
+   "answer": "어른 열 명이 안에 서 있어도 자리가 남는 텐트",
+   "why": "맞아! 어른이 열 명이나 들어가서 서 있는데도 자리가 남는다니, 보고 입이 딱 벌어지지. 그냥 큰 게 아니라 놀랄 만큼 커야 enormous인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "태호가 형 자전거를 빌려 타다가 넘어져서 앞바퀴가 완전히 휘고 체인도 다 끊어졌어. 고치는 데 새로 사는 값만큼 든대. 태호가 저지른 이 잘못도 'enormous'야?",
+   "choices": [
+    "응, enormous 맞아",
+    "아니, enormous 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, enormous 맞아",
+   "why": "맞아! 자전거가 새로 살 만큼 망가졌으면 그 실수는 어마어마하게 큰 거잖아. enormous는 좋은 일에만 쓰는 말이 아니라서, 이렇게 큰 사고에도 그대로 쓸 수 있는 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "tiny"
+ ],
+ "confusable": [
+  {
+   "word": "big",
+   "kind": "confusable",
+   "from": "그냥 큰(big) 정도"
+  },
+  {
+   "word": "tall",
+   "kind": "confusable",
+   "from": "vs tall"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-enormous",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-enormous"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/enormous.webp",
+  "alt": "두 팔로 겨우 안는 수박",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

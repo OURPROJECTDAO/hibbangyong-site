@@ -1,0 +1,91 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/survive/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/survive/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "survive",
+ "slug": "survive",
+ "url": "https://hibbangyong.com/words/survive/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "살아남다 — 무섭거나 힘든 일을 겪고도 죽지 않고, 또는 사라지지 않고 그대로 남아 있다",
+ "gloss_ko": "살아남다",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "밤새 비바람이 세게 몰아쳤어. 작은 나무가 마구 흔들렸지.",
+  "쓰러질 것 같았는데, 아침에 나가 보니까 그대로 서 있는 거야!",
+  "힘든 걸 다 겪고도 죽지 않고 남았어.",
+  "이렇게 무서운 일을 겪고도 여전히 살아 있는 게 survive야."
+ ],
+ "scene": "밤샌 비바람 뒤에도 쓰러지지 않고 그대로 서 있는 작은 나무",
+ "examples": [
+  {
+   "en": "The little tree survived the big storm.",
+   "ko": "작은 나무가 큰 폭풍을 견디고 살아남았어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "눈사람을 마당에 세워 놨는데 낮에 해가 쨍쨍 났어. 저녁에 나가 보니 물 웅덩이만 있고 눈사람은 없어졌어. 이 눈사람이 'survive'한 거야?",
+   "choices": [
+    "응, survive 맞아",
+    "아니, survive 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, survive 아니야",
+   "why": "맞아! 눈사람이 해를 못 이기고 몽땅 녹아서 물만 남았잖아. 겪고 나서 그대로 남아 있어야 살아남은 건데, 없어져 버렸으니까 survive가 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "할머니 집 유리컵이 식탁에서 바닥으로 떨어졌어. 주워 보니까 금 하나 없이 멀쩡해. 이 컵이 'survive'한 거야?",
+   "choices": [
+    "응, survive 맞아",
+    "아니, survive 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, survive 맞아",
+   "why": "맞아! 컵이 바닥으로 떨어지는 무서운 일을 겪었는데도 금 하나 없이 그대로 남아 있잖아. 힘든 일을 겪고도 멀쩡히 남아 있는 게 바로 survive인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "산불이 휩쓸고 지나간 숲이야. 어떤 나무를 보고 'survive'했다고 말할 수 있을까?",
+   "choices": [
+    "겉은 새까맣게 그을렸지만 아직 잎이 돋아나는 나무",
+    "지금 막 불이 붙어 활활 타고 있는 나무",
+    "불에 다 타서 잿더미만 남은 나무",
+    "불나기 전에 딴 데로 옮겨져서 불을 아예 안 만난 나무"
+   ],
+   "answer_index": 0,
+   "answer": "겉은 새까맣게 그을렸지만 아직 잎이 돋아나는 나무",
+   "why": "맞아! 겉은 새까맣게 그을렸는데도 잎이 다시 돋아나잖아. 불이라는 무서운 일을 다 겪고도 죽지 않고 살아 있는 거야. 바로 그게 survive야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "escape",
+   "kind": "confusable",
+   "from": "도망쳐 빠져나오다(escape)"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-survive",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-survive"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/survive.webp",
+  "alt": "밤샌 비바람 뒤에도 쓰러지지 않고 그대로 서 있는 작은 나무",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

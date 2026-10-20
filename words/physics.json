@@ -1,0 +1,99 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/physics/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/physics/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "physics",
+ "slug": "physics",
+ "url": "https://hibbangyong.com/words/physics/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "물리 — 물건이 왜 그렇게 움직이는지 그 규칙, 또 그 규칙을 캐내는 공부",
+ "gloss_ko": "물리",
+ "level": {
+  "code": "L6",
+  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "공을 위로 던지면 잠깐 올라갔다가 다시 툭 떨어지지? 왜 그럴까.",
+  "세상 물건들은 아무렇게나 움직이는 게 아니거든. 다 정해진 규칙대로 움직여. 공이 떨어지는 것도, 자석이 딱 붙는 것도, 소리가 퍼지는 것도, 별이 도는 것도 다 그래.",
+  "그 규칙이 뭔지 캐내는 게 physics야. 살아있는 것이 어떻게 자라는지도 아니고, 마음이 왜 슬픈지도 아니야. 물건과 힘, 그 얘기만 해.",
+  "공이 왜 떨어지는지 그 규칙, 그게 physics야."
+ ],
+ "scene": "위로 던진 공이 다시 떨어지는 장면",
+ "examples": [
+  {
+   "en": "In physics we found out why a heavy ball and a light ball fall at the same speed.",
+   "ko": "물리 시간에 무거운 공과 가벼운 공이 왜 같은 빠르기로 떨어지는지 알아냈어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "놀이터 미끄럼틀 위에서 손을 놓으면 왜 몸이 아래로 쭉 미끄러지는지, 그 규칙을 알아내려는 아이가 있어. 이 아이가 알아내려는 건 'physics'일까?",
+   "choices": [
+    "응, physics 맞아",
+    "아니, physics 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, physics 맞아",
+   "why": "맞아! 미끄럼틀에서 몸이 쭉 내려가는 건 물건이 힘을 받아서 움직이는 거잖아. 왜 그렇게 움직이는지 그 규칙을 캐내는 게 바로 physics야."
+  },
+  {
+   "type": "ox",
+   "question": "동생이 오늘따라 왜 자꾸 울고 싶어지는지, 그 마음의 이유를 알아내려는 아이가 있어. 이 아이가 알아내려는 건 'physics'일까?",
+   "choices": [
+    "응, physics 맞아",
+    "아니, physics 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, physics 아니야",
+   "why": "맞아! 마음이 왜 슬픈지, 왜 울고 싶은지는 물건 얘기도 힘 얘기도 아니거든. physics는 공이 왜 떨어지는지, 자석이 왜 붙는지 그런 규칙만 캐내는 거라서 마음속 이유는 physics가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "아이 넷이 각자 무엇을 알아내고 싶은지 말했어. 이 중에 'physics'를 하고 있는 아이는 누구일까?",
+   "choices": [
+    "강아지가 밥을 먹으면 왜 몸이 쑥쑥 커지는지 알아내려는 아이",
+    "빵 반죽을 오븐에 구우면 왜 갈색으로 바뀌는지 알아내려는 아이",
+    "위로 던진 공이 왜 잠깐 뒤에 다시 떨어지는지 알아내려는 아이",
+    "친구가 어제 왜 그렇게 화가 났었는지 알아내려는 아이"
+   ],
+   "answer_index": 2,
+   "answer": "위로 던진 공이 왜 잠깐 뒤에 다시 떨어지는지 알아내려는 아이",
+   "why": "맞아! 위로 던진 공이 왜 다시 떨어지는지는 물건이 정해진 규칙대로 움직이는 얘기거든. 그 규칙을 캐내는 게 바로 physics인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "biology",
+   "kind": "confusable",
+   "from": "생물(biology)"
+  },
+  {
+   "word": "chemistry",
+   "kind": "confusable",
+   "from": "화학(chemistry)"
+  }
+ ],
+ "related_scene": [
+  "physical",
+  "relativity"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-physics",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-physics"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/physics.webp",
+  "alt": "위로 던진 공이 다시 떨어지는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

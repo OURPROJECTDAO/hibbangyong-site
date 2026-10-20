@@ -1,0 +1,96 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/vicinity/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/vicinity/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "vicinity",
+ "slug": "vicinity",
+ "url": "https://hibbangyong.com/words/vicinity/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "부근 — 어떤 곳을 빙 둘러싼 가까운 지역 (한 점이 아니라 그 둘레 전체)",
+ "gloss_ko": "부근",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "폰을 잃어버렸는데 정확히 어디서 떨어뜨렸는지는 몰라.",
+  "그래도 운동장 둘레 어딘가인 건 확실해. 바로 옆 벤치든 조금 떨어진 수돗가든, 그 가까운 구역 전체가 vicinity야.",
+  "멀리 떨어진 곳은 안 쳐주고, 그 장소 자체보다는 그걸 둘러싼 언저리를 가리켜.",
+  "뉴스에서 '사고 현장 부근'이라고 할 때 그 부근이 이거야. 숫자에 붙이면 '대략 그쯤'이라는 뜻도 돼."
+ ],
+ "scene": "운동장 둘레에서 잃어버린 휴대폰",
+ "examples": [
+  {
+   "en": "Many people saw a bright light in the vicinity of the airport last night.",
+   "ko": "어젯밤 공항 부근에서 밝은 불빛을 봤다는 사람이 많았어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "우리 집을 기준으로 생각해 봐. 비행기를 타고 열 시간 넘게 가야 하는 다른 나라의 호텔이 있어. 이 호텔은 우리 집의 'vicinity'에 있는 걸까?",
+   "choices": [
+    "응, vicinity 맞아",
+    "아니, vicinity 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, vicinity 아니야",
+   "why": "맞아! 비행기로 열 시간 넘게 가야 하는 다른 나라 호텔은 우리 집 둘레의 가까운 곳이 아니잖아. vicinity는 우리 집 바로 근처만 쳐주니까 그 호텔은 빠지는 게 맞아."
+  },
+  {
+   "type": "ox",
+   "question": "동네 도서관을 기준으로 생각해 봐. 도서관 정문에서 길 하나만 건너면 있는 버스 정류장이 있어. 이 버스 정류장은 도서관의 'vicinity'에 있는 걸까?",
+   "choices": [
+    "응, vicinity 맞아",
+    "아니, vicinity 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, vicinity 맞아",
+   "why": "맞아! 도서관 정문에서 길 하나만 건너면 바로 있는 정류장이니까, 도서관을 둘러싼 가까운 구역 안에 딱 들어가. 도서관 건물 자체가 아니라 그 둘레까지 넓게 치는 게 vicinity라서 이 정류장도 도서관 vicinity인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "뉴스에서 어떤 가게가 'the vicinity of the school'에 있다고 했어. 그 가게는 어떤 가게일까?",
+   "choices": [
+    "학교 건물 안 1층 매점",
+    "학교 졸업생이 차린 빵집",
+    "학교 정문 건너편 분식집",
+    "옆 도시 기차역 앞 식당"
+   ],
+   "answer_index": 2,
+   "answer": "학교 정문 건너편 분식집",
+   "why": "맞아! 정문 건너편 분식집은 학교 안은 아니지만 학교 바로 앞이잖아. 학교를 둘러싼 가까운 바깥쪽, 그게 바로 vicinity야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "proximity",
+   "kind": "confusable",
+   "from": "vs proximity"
+  },
+  {
+   "word": "neighborhood",
+   "kind": "confusable",
+   "from": "vs neighborhood"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-vicinity",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-vicinity"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/vicinity.webp",
+  "alt": "운동장 둘레에서 잃어버린 휴대폰",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

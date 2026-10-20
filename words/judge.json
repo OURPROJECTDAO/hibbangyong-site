@@ -1,0 +1,96 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/judge/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/judge/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "judge",
+ "slug": "judge",
+ "url": "https://hibbangyong.com/words/judge/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "보고 따져서 좋은지 나쁜지, 맞는지 틀리는지 정하다",
+ "gloss_ko": "맞는지 틀린지 정하다",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "친구가 새 신발을 신고 왔어. 너 속으로 '오, 저건 멋진데' 하고 정했지? 그게 벌써 judge야.",
+  "보고 따져서 좋다 나쁘다, 맞다 틀리다를 정하는 거거든.",
+  "그냥 쳐다보는 거랑은 달라. 쳐다보기만 하면 아무것도 안 정한 거니까.",
+  "대회에서 누가 제일 잘했나 정하는 것도, 겉만 슥 보고 '쟤는 별로야' 해버리는 것도 다 judge야. 그게 judge야."
+ ],
+ "scene": "친구의 새 신발을 보고 속으로 멋진지 아닌지 정하는 순간",
+ "examples": [
+  {
+   "en": "Don't judge my drawing before I finish it!",
+   "ko": "내 그림 다 그리기 전에 함부로 판단하지 마!"
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "체육 시간에 새로 온 줄넘기를 우진이가 몇 번 돌려 보더니 \"이건 손잡이가 미끄러워서 안 좋네\" 하고 말했어. 이게 'judge'야?",
+   "choices": [
+    "응, judge 맞아",
+    "아니, judge 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, judge 맞아",
+   "why": "맞아! 우진이가 줄넘기를 돌려 보고 나서 이건 안 좋다 하고 정했잖아. 보고 따져서 좋다 나쁘다를 정한 거니까 그게 바로 judge인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "복도에서 은우가 새로 붙은 시간표를 손가락으로 짚어 가며 끝까지 읽더니 \"음악 시간은 목요일에 있네\" 하고 말했어. 이게 'judge'야?",
+   "choices": [
+    "응, judge 맞아",
+    "아니, judge 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, judge 아니야",
+   "why": "맞아! 은우는 시간표를 자세히 읽고 본 대로만 말했지, 좋다 나쁘다도 맞다 틀리다도 하나도 안 정했거든. 그래서 judge가 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "미술관에 간 형이 큰 그림 앞에 서서 위에서 아래까지 구석구석 오래 봤어. 이것도 'judge'야?",
+   "choices": [
+    "응, judge 맞아",
+    "아니, judge 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, judge 아니야",
+   "why": "맞아, 형은 그림을 오래 보기만 했지 좋다 나쁘다는 아무것도 안 정했거든. 그래서 judge가 아닌 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "decide",
+   "kind": "confusable",
+   "from": "무엇을 할지 그냥 고르기(decide)"
+  },
+  {
+   "word": "criticize",
+   "kind": "confusable",
+   "from": "vs criticize"
+  }
+ ],
+ "related_scene": [
+  "condemn"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-judge",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-judge"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/judge.webp",
+  "alt": "친구의 새 신발을 보고 속으로 멋진지 아닌지 정하는 순간",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

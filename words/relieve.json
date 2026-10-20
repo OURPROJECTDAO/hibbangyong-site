@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/relieve/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/relieve/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "relieve",
+ "slug": "relieve",
+ "url": "https://hibbangyong.com/words/relieve/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "힘든 걸 덜어 주다 — 아프거나 무겁거나 걱정되는 게 누를 때, 그 누르는 양을 줄여서 견딜 만하게 해 주는 거야.",
+ "gloss_ko": "힘든 걸 덜어 주다",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "무거운 가방을 메고 언덕을 오르는데, 가방이 등을 콱 눌러서 숨도 제대로 안 쉬어졌어. 그때 가방을 잠깐 바위 위에 얹었어. 누르던 게 확 줄어서 그제야 살 것 같았지.",
+  "가방이 사라진 건 아니야. 이따 다시 메야 해. 그래도 지금 누르는 게 줄면 그걸로 된 거야 — 싹 없어져야 하는 게 아니거든.",
+  "누르는 게 꼭 무게만은 아니야. 걱정이 마음을 꽉 누를 때 누가 '내가 같이 할게' 하면 그 누름도 줄어들어. 이가 욱신거릴 때 약이 아픈 세기를 줄여 주는 것도 똑같아.",
+  "옆에서 '힘들겠다' 하고 고개만 끄덕여 주는 거랑은 달라 — 누르는 양이 진짜 줄어야 하거든. 그게 relieve야."
+ ],
+ "scene": "가방을 바위 위에 얹어 등을 누르던 힘이 확 줄어든 순간",
+ "examples": [
+  {
+   "en": "A hug from Mom relieved my worry about the new school.",
+   "ko": "엄마가 안아준 덕분에 새 학교에 대한 내 걱정이 덜어졌어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "수레를 끌고 가는 형한테 누나가 자기 책 다섯 권을 수레에 더 얹었어. 형은 수레가 더 안 굴러가서 이를 악물고 끌었대. 이게 'relieve'야?",
+   "choices": [
+    "응, relieve 맞아",
+    "아니, relieve 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, relieve 아니야",
+   "why": "맞아! 수레가 더 안 굴러갔잖아. 누르는 게 줄기는커녕 더 커졌으니까 relieve가 아닌 거야. relieve는 얹는 게 아니라 덜어 주는 쪽이거든."
+  },
+  {
+   "type": "ox",
+   "question": "동생이 감기에 걸려 목이 따갑다고 계속 울었어. 형이 따뜻한 물을 한 컵 줬더니 따가운 게 절반쯤 가라앉아서 동생이 말도 할 수 있게 됐대. 이게 'relieve'야?",
+   "choices": [
+    "응, relieve 맞아",
+    "아니, relieve 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, relieve 맞아",
+   "why": "맞아! 따가운 게 절반쯤 가라앉아서 말도 할 수 있게 됐잖아. 누르던 게 진짜로 줄어든 거니까 바로 그게 relieve야. 감기가 싹 나아야 하는 게 아니거든."
+  },
+  {
+   "type": "ox",
+   "question": "내일 발표가 걱정돼서 민준이는 가슴이 꽉 막힌 것 같았어. 형이 '내가 먼저 들어 줄게' 하고 발표를 다 들어 주자, 꽉 막힌 게 훨씬 느슨해져서 잠도 잘 잤어. 어디가 아픈 건 아니었어. 이런 경우도 형이 민준이를 'relieve' 한 걸까?",
+   "choices": [
+    "응, relieve 맞아.",
+    "아니, relieve 아니야."
+   ],
+   "answer_index": 0,
+   "answer": "응, relieve 맞아.",
+   "why": "맞아! 형이 발표를 들어 주니까 민준이 마음을 꽉 누르던 걱정이 훨씬 느슨해졌잖아. 누르던 게 진짜 줄어든 거니까, 몸이 안 아파도 이건 relieve가 맞아."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "pain"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-relieve",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-relieve"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/relieve.webp",
+  "alt": "가방을 바위 위에 얹어 등을 누르던 힘이 확 줄어든 순간",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

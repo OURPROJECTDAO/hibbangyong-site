@@ -1,0 +1,96 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/ore/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/ore/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "ore",
+ "slug": "ore",
+ "url": "https://hibbangyong.com/words/ore/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "광석 — 쇠나 구리 같은 금속을 뽑아낼 수 있는 돌이나 흙",
+ "gloss_ko": "광석",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "땅에서 캐낸 돌덩이 중에는 안에 쇠나 구리가 섞여 있는 게 있어.",
+  "이걸 아주 뜨거운 불에 녹이면 그 속에서 금속이 흘러나와. 녹이기 전의 그 돌덩이가 ore야.",
+  "공장에서 이미 뽑아낸 반짝이는 쇠판은 ore가 아니야. 금속이 하나도 없는 보통 돌도 ore가 아니고.",
+  "금속을 품고 있어서 뽑아낼 수 있는 돌이나 흙, 딱 그 자리야."
+ ],
+ "scene": "땅에서 캐낸, 쇠나 구리가 섞인 돌덩이",
+ "examples": [
+  {
+   "en": "The trucks carried tons of iron ore from the mine to the factory.",
+   "ko": "트럭들이 광산에서 공장까지 철광석을 몇 톤씩 실어 날랐어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "철물점에서 새 못 한 상자를 샀어. 쇠를 녹여서 모양까지 다 만들어 놓은, 끝이 뾰족한 쇠못들이야. 이 쇠못이 'ore'야?",
+   "choices": [
+    "응, ore 맞아",
+    "아니, ore 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, ore 아니야",
+   "why": "잘 골랐어! 이 쇠못들은 쇠를 녹여서 모양까지 다 만들어 놓은 거라, 쇠를 뽑아낼 돌은 이미 거쳐 간 셈이야. ore는 녹이기 전에 쇠를 품고 있는 돌덩이라서, 다 만든 쇠못은 ore가 아니야."
+  },
+  {
+   "type": "choice",
+   "question": "네 친구가 각자 들고 온 걸 보여줬어. 이 중에서 'ore'라고 부를 수 있는 건 누구 거야?",
+   "choices": [
+    "광산에서 캐 온, 속에 구리가 섞여 있는 거무스름한 돌덩이",
+    "공장에서 녹여 만든, 표면이 반짝이는 얇은 구리 판",
+    "강가에서 주워 온, 속에 금속이 없는 동글동글한 조약돌",
+    "반지에 박으려고 깎아 다듬은, 빛나는 빨간 보석"
+   ],
+   "answer_index": 0,
+   "answer": "광산에서 캐 온, 속에 구리가 섞여 있는 거무스름한 돌덩이",
+   "why": "맞아! 광산에서 캐 온 거무스름한 돌덩이 속에 구리가 섞여 있잖아. 금속을 품고 있는데 아직 뽑아내기 전이니까 바로 그게 ore인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "자동차 한 대가 만들어지기까지 거치는 것들을 순서 없이 늘어놓았어. 이 중 'ore'라고 부를 수 있는 건?",
+   "choices": [
+    "광산에서 막 캐내 쌓아 둔, 철이 섞인 불그스름한 돌무더기",
+    "공장에서 철판을 눌러 찍어 만든, 매끈한 자동차 문짝",
+    "쇳물을 틀에 부어 굳혀 만든, 묵직한 볼트와 너트",
+    "철 부품을 용접해 조립을 마친, 튼튼한 자동차 뼈대"
+   ],
+   "answer_index": 0,
+   "answer": "광산에서 막 캐내 쌓아 둔, 철이 섞인 불그스름한 돌무더기",
+   "why": "맞아! 광산에서 막 캐낸 불그스름한 돌무더기는 아직 철이 돌 속에 섞여 있어서, 녹여야 철을 뽑아낼 수 있잖아. 바로 그 녹이기 전의 돌이 ore야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "mineral",
+   "kind": "confusable",
+   "from": "vs mineral"
+  }
+ ],
+ "related_scene": [
+  "metal",
+  "mineral"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-ore",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-ore"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/ore.webp",
+  "alt": "땅에서 캐낸, 쇠나 구리가 섞인 돌덩이",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/whole/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/whole/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "whole",
+ "slug": "whole",
+ "url": "https://hibbangyong.com/words/whole/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "전체의 — 일부가 아니라 처음부터 끝까지 빠짐없이 몽땅 다.",
+ "gloss_ko": "전체의",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "피자가 딱 나왔어. 아직 한 조각도 안 뗐지?",
+  "반쪽도 아니고 한 조각도 아니야. 처음부터 끝까지 전부 다야.",
+  "일부만 있는 게 아니라, 몽땅 하나로 다 있는 거.",
+  "이렇게 빠짐없이 전부인 게 whole이야."
+ ],
+ "scene": "한 조각도 떼지 않은 통째 피자",
+ "examples": [
+  {
+   "en": "I ate the whole pizza by myself!",
+   "ko": "내가 혼자서 피자를 통째로 다 먹었어!"
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "엄마가 자르지 않은 수박 한 통을 사 왔어. 지호가 그 수박을 'whole'이라고 말했어. 이 말이 맞을까?",
+   "choices": [
+    "응, whole 맞아",
+    "아니, whole 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, whole 맞아",
+   "why": "맞아! 엄마가 사 온 수박은 아직 자르지 않은 한 통이잖아. 한 조각도 안 떼고 처음부터 끝까지 전부 다 있으니까, 바로 그게 whole인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "지호가 초콜릿 바를 딱 반으로 나눠서 동생한테 한 쪽을 주고, 자기 손에 남은 한 쪽을 'whole'이라고 말했어. 이 말이 맞을까?",
+   "choices": [
+    "응, whole 맞아",
+    "아니, whole 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, whole 아니야",
+   "why": "딱 반으로 잘라서 동생 주고 남은 건 반쪽이잖아. 반쪽은 전부가 아니니까 whole이라고 말하면 안 되는 거야. 아무 데도 안 뜯고 통째로 하나일 때가 whole이거든."
+  },
+  {
+   "type": "choice",
+   "question": "엄마가 도시락에 'whole' 사과를 넣어 줬어. 도시락을 열면 사과가 어떤 모습일까?",
+   "choices": [
+    "칼로 자르지 않고 그대로인 사과 한 개",
+    "반으로 잘라 놓은 사과 한 개",
+    "여덟 조각으로 잘라 놓은 사과 한 개",
+    "껍질만 벗겨 반만 담아 놓은 사과"
+   ],
+   "answer_index": 0,
+   "answer": "칼로 자르지 않고 그대로인 사과 한 개",
+   "why": "맞아! 칼도 안 대고 통째로 그대로 있는 사과니까 처음부터 끝까지 빠짐없이 다 있는 거잖아. 그게 바로 whole이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "half"
+ ],
+ "confusable": [
+  {
+   "word": "part",
+   "kind": "confusable",
+   "from": "반쪽·조각(part)"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-whole",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-whole"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/whole.webp",
+  "alt": "한 조각도 떼지 않은 통째 피자",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

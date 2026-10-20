@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/lack/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/lack/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "lack",
+ "slug": "lack",
+ "url": "https://hibbangyong.com/words/lack/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "부족 — 있어야 할 만큼 없어서 모자란 것(하나도 없어도, 조금 있어도)",
+ "gloss_ko": "부족",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "여름 내내 비가 몇 방울밖에 안 왔어. 밭이 쩍쩍 갈라졌지.",
+  "있어야 할 만큼이 안 되는 거야. 아예 없어도, 조금 있는데 모자라도 똑같이 이 말을 써.",
+  "물만 그런 게 아니야. 잠도, 연습도, 하고 싶은 마음도 모자랄 수 있거든? 원래 있다가 줄어든 거든, 처음부터 없던 거든 다 돼.",
+  "손에 다 있는데 그냥 안 꺼내는 거랑은 달라. 모자라야 그게 lack이야."
+ ],
+ "scene": "여름 내내 비가 몇 방울뿐이라 쩍쩍 갈라진 밭",
+ "examples": [
+  {
+   "en": "Grandpa keeps talking about the lack of rain this summer.",
+   "ko": "할아버지는 이번 여름 비가 부족하다고 자꾸 얘기하셔."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "교실에 아이가 스무 명 왔는데 의자는 열두 개뿐이라 여덟 명이 그냥 서 있어. 이게 'lack'이야?",
+   "choices": [
+    "응, lack 맞아",
+    "아니, lack 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, lack 맞아",
+   "why": "맞아! 스무 명이 앉아야 하는데 의자가 열두 개니까 여덟 개가 모자라잖아. 이렇게 있어야 할 만큼이 안 될 때 쓰는 말이 바로 lack인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "도서관에 같은 그림책이 서른 권 있어서 반 아이 스무 명이 한 권씩 받고도 열 권이 남았어. 이게 'lack'이야?",
+   "choices": [
+    "응, lack 맞아",
+    "아니, lack 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, lack 아니야",
+   "why": "맞아! 스무 명이 한 권씩 다 받고도 열 권이나 남았잖아. 있어야 할 만큼보다 오히려 넉넉한 거니까 모자란 게 아니야. 그래서 lack이 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "미술 시간에 아이 넷이 색연필 이야기를 했어. 이 중에서 'lack'이라는 말이 딱 맞는 아이는?",
+   "choices": [
+    "색연필이 두 자루뿐이라 그림을 끝까지 못 칠한 아이",
+    "색연필이 다 있는데 색을 고르느라 아직 못 칠한 아이",
+    "색연필이 넉넉해서 옆자리 친구한테 한 움큼 빌려준 아이",
+    "색연필을 챙겨 왔는데 귀찮아서 아예 안 꺼낸 아이"
+   ],
+   "answer_index": 0,
+   "answer": "색연필이 두 자루뿐이라 그림을 끝까지 못 칠한 아이",
+   "why": "맞아! 색연필이 두 자루뿐이면 칠할 색이 있어야 할 만큼 안 되는 거잖아. 아예 없어야만 lack인 게 아니라, 조금 있는데 모자라도 lack인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "plenty"
+ ],
+ "confusable": [
+  {
+   "word": "shortage",
+   "kind": "confusable",
+   "from": "vs shortage"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-lack",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-lack"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/lack.webp",
+  "alt": "여름 내내 비가 몇 방울뿐이라 쩍쩍 갈라진 밭",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

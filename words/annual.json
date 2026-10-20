@@ -1,0 +1,83 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/annual/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/annual/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "annual",
+ "slug": "annual",
+ "url": "https://hibbangyong.com/words/annual/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "해마다 한 번씩 돌아오는 — 좋은 일이든 싫은 일이든, 일 년에 딱 한 번",
+ "gloss_ko": "해마다 한 번씩 돌아오는",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "병원에서 몸 검사 받는 날 있잖아. 재미도 없는데 해마다 한 번씩 꼬박꼬박 돌아오거든?",
+  "작년에도 했고, 올해도 하고, 내년에도 해. 일 년에 딱 한 번씩.",
+  "신나는 축제도, 지겨운 검사도 똑같이 그래. 좋은 일이냐 싫은 일이냐는 상관없어.",
+  "일 년 내내 쭉 이어지는 거랑은 달라. 쉬었다가 해마다 한 번, 그게 annual이야."
+ ],
+ "scene": "병원에서 해마다 한 번 받는 몸 검사",
+ "examples": [
+  {
+   "en": "I have my annual checkup at the dentist tomorrow, so I feel a little nervous.",
+   "ko": "내일 해마다 하는 치과 검진이 있어서 좀 긴장돼."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "동네 수영장에서 물놀이 대회를 열어. 작년 여름에도 했고, 올해 여름에도 하고, 내년 여름에도 딱 한 번씩 해. 이 대회는 'annual'이야?",
+   "choices": [
+    "응, annual 맞아",
+    "아니, annual 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, annual 맞아",
+   "why": "맞아! 작년 여름에도 하고, 올해도 하고, 내년에도 딱 한 번씩 하잖아. 일 년에 한 번씩 꼬박꼬박 돌아오니까 바로 그게 annual이야."
+  },
+  {
+   "type": "ox",
+   "question": "동물원에서 아기 코끼리가 태어난 걸 축하하는 행사를 오늘 열었어. 이 행사는 오늘 딱 한 번 하고, 앞으로는 다시 안 해. 이 행사는 'annual'이야?",
+   "choices": [
+    "응, annual 맞아",
+    "아니, annual 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, annual 아니야",
+   "why": "맞아! 오늘 딱 한 번 하고 다시는 안 하는 거니까 annual이 아닌 거야. annual은 작년에도 했고 올해도 하고 내년에도 하는, 해마다 돌아오는 거거든."
+  },
+  {
+   "type": "ox",
+   "question": "산 위 약수터는 봄에도 여름에도 가을에도 겨울에도 물이 마르지 않고 흘러. 이 물 흐름을 'annual'이라고 할 수 있을까?",
+   "choices": [
+    "응, annual 맞아",
+    "아니, annual 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, annual 아니야",
+   "why": "맞아, annual 아니야! 그 약수터 물은 봄에도 여름에도 가을에도 겨울에도 쉬지 않고 계속 흐르잖아. annual은 쭉 이어지는 게 아니라, 한참 쉬었다가 해마다 딱 한 번씩 돌아오는 거거든."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-annual",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-annual"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/annual.webp",
+  "alt": "병원에서 해마다 한 번 받는 몸 검사",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

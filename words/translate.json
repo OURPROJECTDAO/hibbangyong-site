@@ -1,0 +1,89 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/translate/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/translate/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "translate",
+ "slug": "translate",
+ "url": "https://hibbangyong.com/words/translate/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "번역하다 — 말이나 글을 뜻은 그대로 두고 다른 나라 말로 옮기다",
+ "gloss_ko": "번역하다",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "친구 둘이 나란히 있는데 쓰는 말이 서로 달라. 한 명은 한국말만, 한 명은 영어만 하거든?",
+  "네가 가운데서 \"배고파\"를 \"I'm hungry\"로 바꿔 주고, 거꾸로도 해 줘. 말로 해도 되고, 종이에 적어 줘도 되고.",
+  "소리는 완전 딴판인데 속뜻은 똑같이 건너갔지? 그게 핵심이야. 들리는 소리만 따라 하거나, 같은 말로 쉽게 풀어 주는 건 이게 아니거든.",
+  "말이든 글이든, 뜻을 그대로 다른 나라 말로 옮겨 주는 게 translate야."
+ ],
+ "scene": "쓰는 말이 서로 다른 친구 둘 사이에서 가운데 서 있는 장면",
+ "examples": [
+  {
+   "en": "My mom can translate my Korean letter into English.",
+   "ko": "우리 엄마는 내가 한국어로 쓴 편지를 영어로 옮겨 줄 수 있어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "영어 동화책을 펴고 형이 \"The cat is big\"이라고 적힌 문장을 그 문장 소리 그대로 소리내어 읽어 줬어. 이게 'translate'야?",
+   "choices": [
+    "응, translate 맞아",
+    "아니, translate 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, translate 아니야",
+   "why": "맞아, 이건 translate가 아니야! 형은 영어를 영어 그대로 소리내서 읽어 줬을 뿐이거든. 다른 나라 말로 갈아 끼운 게 하나도 없지? 진짜 translate는 \"고양이가 크다\"처럼 우리말로 뜻을 옮겨 줘야 하는 거야."
+  },
+  {
+   "type": "choice",
+   "question": "도서관에서 아이 넷이 영어 그림책 한 권을 각자 다르게 다뤘어. 이 중 'translate'을 한 아이는?",
+   "choices": [
+    "책에 있는 영어 문장을 소리 내어 그대로 읽어 준 아이",
+    "책에 있는 영어 문장의 속뜻을 한국말로 말해 준 아이",
+    "책에 있는 영어 문장을 공책에 똑같이 베껴 쓴 아이",
+    "책에 있는 영어 문장을 손가락으로 짚으며 눈으로만 본 아이"
+   ],
+   "answer_index": 1,
+   "answer": "책에 있는 영어 문장의 속뜻을 한국말로 말해 준 아이",
+   "why": "맞아! 영어 문장의 속뜻을 한국말로 바꿔서 말해 줬잖아. 소리는 완전 달라졌는데 뜻은 그대로 건너갔지? 바로 그게 translate야."
+  },
+  {
+   "type": "choice",
+   "question": "아이 넷이 각자 무언가를 '바꿔 줬어'. 이 중에서 'translate'을 한 사람은 누구게?",
+   "choices": [
+    "영어 노래를 듣고 들리는 소리만 똑같이 흉내내 따라 부른 아이",
+    "한국말로 쓴 편지를 뜻 그대로 영어 문장으로 적어 준 아이",
+    "어려운 한국말을 더 쉬운 한국말로 풀어서 말해 준 아이",
+    "미국 돈을 우리나라 돈으로 계산해서 바꿔 준 아이"
+   ],
+   "answer_index": 1,
+   "answer": "한국말로 쓴 편지를 뜻 그대로 영어 문장으로 적어 준 아이",
+   "why": "맞아! 한국말 편지를 뜻은 그대로 두고 영어 문장으로 옮겨 적었잖아. 소리는 완전 딴판이 됐는데 속뜻은 그대로 건너갔지? 말을 건너가면서 뜻이 살아남는 거, 그게 바로 translate야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "language"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-translate",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-translate"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/translate.webp",
+  "alt": "쓰는 말이 서로 다른 친구 둘 사이에서 가운데 서 있는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

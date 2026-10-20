@@ -1,0 +1,86 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/phenomenal/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/phenomenal/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "phenomenal",
+ "slug": "phenomenal",
+ "url": "https://hibbangyong.com/words/phenomenal/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "엄청난 — 입이 벌어질 만큼 크거나 대단한",
+ "gloss_ko": "입이 벌어질 만큼 엄청난",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "조회수 100이던 영상이 하루 만에 천만이 됐어. 이 정도는 '좋네'로는 부족하지.",
+  "입이 떡 벌어질 만큼 크고 대단할 때 phenomenal이라고 해.",
+  "좋은 일에만 쓰는 말은 아니야. 엄청나게 많이 든 돈, 엄청난 부담에도 똑같이 써.",
+  "그냥 신기하거나 이상한 거랑은 달라. 너무 커서 놀라는 거야."
+ ],
+ "scene": "하루 만에 조회수가 100에서 천만으로 뛴 영상",
+ "examples": [
+  {
+   "en": "The cost of the new stadium was phenomenal.",
+   "ko": "새 경기장 짓는 데 든 돈이 진짜 어마어마했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "하루에 손님이 10명쯤 오던 동네 빵집에 오늘은 손님이 3,000명이나 와서 가게 앞에 줄이 길게 섰어. 사장님이 오늘 손님 수를 'phenomenal'이라고 했어. 이 말이 맞게 쓰인 거야?",
+   "choices": [
+    "응, 맞게 쓰였어",
+    "아니, 안 맞게 쓰였어"
+   ],
+   "answer_index": 0,
+   "answer": "응, 맞게 쓰였어",
+   "why": "맞아! 하루에 10명쯤 오던 빵집에 3,000명이 온 거면 입이 떡 벌어질 만큼 큰 일이잖아. 그래서 사장님이 오늘 손님 수를 phenomenal이라고 한 건 딱 맞게 쓴 거야."
+  },
+  {
+   "type": "ox",
+   "question": "우리 반 수학 시험 평균이 지난번엔 70점이었는데 이번엔 71점이었어. 담임 선생님이 이번 평균 점수를 'phenomenal'이라고 했어. 이 말이 맞게 쓰인 거야?",
+   "choices": [
+    "응, 맞게 쓰였어",
+    "아니, 안 맞게 쓰였어"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 안 맞게 쓰였어",
+   "why": "맞아! 70점에서 71점은 겨우 1점 오른 거라 거의 그대로야. phenomenal은 입이 떡 벌어질 만큼 클 때 쓰는 말이라 이 평균에는 안 맞아."
+  },
+  {
+   "type": "ox",
+   "question": "친구가 처음으로 떡볶이를 만들어 줬어. 먹어 보니 맛이 그냥 괜찮은 정도였어. 이런 경우도 'phenomenal'이야?",
+   "choices": [
+    "응, phenomenal 맞아",
+    "아니, phenomenal 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, phenomenal 아니야",
+   "why": "맞아! 친구가 만든 떡볶이 맛이 그냥 괜찮은 정도였잖아. phenomenal은 입이 떡 벌어질 만큼 대단할 때 쓰는 말이라서, 괜찮은 맛에는 안 맞아."
+  }
+ ],
+ "synonyms": [
+  "staggering",
+  "terrific"
+ ],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-phenomenal",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-phenomenal"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/phenomenal.webp",
+  "alt": "하루 만에 조회수가 100에서 천만으로 뛴 영상",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

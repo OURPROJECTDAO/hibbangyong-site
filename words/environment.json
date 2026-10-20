@@ -1,0 +1,99 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/environment/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/environment/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "environment",
+ "slug": "environment",
+ "url": "https://hibbangyong.com/words/environment/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "환경 — 사람이나 동물이 살아가며 둘러싸여 있는 모든 것(사람·소리·물건·공기·물·땅)",
+ "gloss_ko": "둘러싼 모든 것",
+ "level": {
+  "code": "L3",
+  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "똑같은 너인데, 와글와글 시끄러운 교실에선 숙제가 안 되고 조용한 방에선 술술 되지? 왜냐고? 너를 빙 둘러싼 게 달라서야.",
+  "사람, 소리, 물건, 공기, 물, 땅까지 전부 말이야. 좋을 수도 있고 나쁠 수도 있어.",
+  "물고기한텐 물속이 그래. 우리 모두한텐 지구의 공기랑 강물도 그렇고.",
+  "네 기분처럼 속에 있는 거 말고, 바깥에서 빙 둘러싸고 네가 사는 걸 바꿔 놓는 그 전부, 그게 environment야."
+ ],
+ "scene": "시끄러운 교실과 조용한 방에서 숙제하기",
+ "examples": [
+  {
+   "en": "It is hard to study in a noisy environment.",
+   "ko": "주변이 시끄러우면 공부가 잘 안 돼."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "선인장은 뜨거운 모래와 바짝 마른 공기 속에서 자라. 선인장한테 이 모래와 공기는 'environment'일까?",
+   "choices": [
+    "응, environment 맞아",
+    "아니, environment 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, environment 맞아",
+   "why": "맞아! 선인장은 뜨거운 모래랑 바짝 마른 공기에 빙 둘러싸여서 살거든. 선인장 바깥에서 선인장을 둘러싸고 있는 모래랑 공기, 그게 바로 선인장의 environment인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "서아는 강아지가 아플까 봐 마음속으로 걱정이 가득해. 서아의 이 걱정하는 마음은 서아의 'environment'일까?",
+   "choices": [
+    "응, environment 맞아",
+    "아니, environment 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, environment 아니야",
+   "why": "맞아! 강아지가 아플까 봐 걱정하는 마음은 서아 마음속에 있는 거거든. environment는 서아 바깥에서 빙 둘러싼 것들이라서, 속에 있는 걱정은 environment가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "지우의 'environment'가 바뀐 건 어느 때일까?",
+   "choices": [
+    "지우가 방학 내내 숲과 바다 사진책을 잔뜩 읽었어.",
+    "지우가 큰 상을 받아서 한 달 내내 마음이 들떴어.",
+    "지우네 집 옆에 공장이 생겨 공기가 뿌옇고 시끄러워졌어.",
+    "지우가 머리를 짧게 자르고 새 안경을 쓰기 시작했어."
+   ],
+   "answer_index": 2,
+   "answer": "지우네 집 옆에 공장이 생겨 공기가 뿌옇고 시끄러워졌어.",
+   "why": "맞아! 공장이 생겨서 지우 집 둘레의 공기가 뿌옇고 시끄러워졌잖아. 지우를 빙 둘러싼 공기랑 소리가 바뀌었으니까 바로 그게 지우의 environment가 바뀐 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "surroundings",
+   "kind": "confusable",
+   "from": "vs surroundings"
+  },
+  {
+   "word": "setting",
+   "kind": "confusable",
+   "from": "vs setting"
+  }
+ ],
+ "related_scene": [
+  "environmental",
+  "habitat"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-environment",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-environment"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/environment.webp",
+  "alt": "시끄러운 교실과 조용한 방에서 숙제하기",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

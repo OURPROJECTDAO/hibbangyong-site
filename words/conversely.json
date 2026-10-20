@@ -1,0 +1,81 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/conversely/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/conversely/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "conversely",
+ "slug": "conversely",
+ "url": "https://hibbangyong.com/words/conversely/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "반대로 — 앞에서 한 말을 거꾸로 뒤집은 경우를 말할 때",
+ "gloss_ko": "반대로",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "여름엔 낮이 길고 밤이 짧지. 겨울엔? 거꾸로 낮이 짧고 밤이 길어.",
+  "이렇게 앞에서 한 말을 뒤집은 짝을 꺼낼 때 앞에 붙이는 말이야.",
+  "그냥 '그런데'랑은 달라. 앞의 말과 딱 맞은편에 있는 경우를 내놓을 때만 써.",
+  "좋은 얘기든 나쁜 얘기든 상관없어. 뒤집힌 짝이기만 하면 돼."
+ ],
+ "scene": "여름과 겨울의 낮·밤 길이가 뒤바뀌는 것",
+ "examples": [
+  {
+   "en": "Some students study better in the morning; conversely, others focus best at night.",
+   "ko": "아침에 공부가 더 잘되는 애들이 있고, 반대로 밤에 제일 집중 잘하는 애들도 있어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "민수가 \"우리 형은 축구를 잘해.\"라고 말했어. 그다음 'conversely'를 붙여서 \"우리 형은 농구도 잘해.\"라고 이어 말했어. 여기서 'conversely'를 맞게 쓴 거야?",
+   "choices": [
+    "응, 맞게 썼어",
+    "아니, 맞게 쓴 거 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 맞게 쓴 거 아니야",
+   "why": "그렇지, 맞게 쓴 거 아니야. 축구도 잘하고 농구도 잘한다는 건 앞 말을 뒤집은 게 아니라 같은 쪽으로 하나 더 붙인 거거든. 이럴 땐 '마찬가지로'(likewise) 자리고, conversely는 축구는 잘하는데 농구는 못한다처럼 앞 말과 딱 맞은편 얘기를 꺼낼 때만 붙여."
+  },
+  {
+   "type": "ox",
+   "question": "과학 시간에 지수가 \"물은 차가워지면 얼음이 돼.\"라고 말했어. 그다음 'conversely'를 붙여서 \"얼음은 따뜻해지면 물이 돼.\"라고 이어 말했어. 여기서 'conversely'를 맞게 쓴 거야?",
+   "choices": [
+    "응, 맞게 썼어",
+    "아니, 맞게 쓴 거 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 맞게 썼어",
+   "why": "맞아! 지수는 앞에서 물이 차가워지면 얼음이 된다고 했잖아. 그다음엔 얼음이 따뜻해지면 물이 된다고 했으니까, 앞에서 한 말을 딱 거꾸로 뒤집은 거야. 이렇게 뒤집힌 짝을 꺼낼 때 붙이는 말이 바로 conversely야."
+  },
+  {
+   "type": "choice",
+   "question": "선생님이 \"연습을 많이 하면 실수가 줄어.\"라고 말한 뒤에 'conversely'를 붙여서 말을 이어 갔어. 이어질 말로 가장 알맞은 건?",
+   "choices": [
+    "연습을 적게 하면 실수가 늘어나.",
+    "연습을 많이 해도 실수는 생겨.",
+    "연습을 많이 하면 실력도 늘어나.",
+    "연습을 안 하면 놀 시간이 생겨."
+   ],
+   "answer_index": 0,
+   "answer": "연습을 적게 하면 실수가 늘어나.",
+   "why": "맞아! 선생님은 연습을 많이 하면 실수가 줄어든다고 했잖아. 그걸 거꾸로 뒤집으면 연습을 적게 하면 실수가 늘어나는 거고, 이렇게 앞의 말을 딱 뒤집은 짝을 꺼낼 때 conversely를 붙이는 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-conversely",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-conversely"
+ },
+ "image": null
+}

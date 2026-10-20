@@ -1,0 +1,72 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/crown/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/crown/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "crown",
+ "slug": "crown",
+ "url": "https://hibbangyong.com/words/crown/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "왕관 — 왕이나 여왕이 머리에 쓰는, 보석이 박힌 금색 머리 장식",
+ "gloss_ko": "왕관",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "그림 속에서 뾰족뾰족한 봉우리마다 보석이 반짝이는 이 금색 물건이 바로 crown이야.",
+  "동화 속 왕이나 여왕이 머리에 쓰고 나오는 걸 본 적 있을 거예요."
+ ],
+ "scene": "왕관(머리에 쓰는 금색 왕관)을 정면에서 크게 — 뾰족한 봉우리마다 알록달록 보석이 박힌 전형적인 황금 왕관",
+ "examples": [
+  {
+   "en": "The king put a golden crown on his head.",
+   "ko": "임금님이 머리에 금 왕관을 썼어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "왕이 머리에 쓰는 뾰족한 금색 장식을 가리키며 물었어. 이게 crown이야?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 맞아",
+   "why": null
+  },
+  {
+   "type": "choice",
+   "question": "crown은 어느 것일까?",
+   "choices": [
+    "머리에 쓰는, 보석이 박힌 뾰족한 금색 장식",
+    "발에 신고 걸어 다니는 물건",
+    "물을 담아 마시는 물건",
+    "종이에 글씨를 쓰는 물건"
+   ],
+   "answer_index": 0,
+   "answer": "머리에 쓰는, 보석이 박힌 뾰족한 금색 장식",
+   "why": null
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-crown",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-crown"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/crown.webp",
+  "alt": "왕관(머리에 쓰는 금색 왕관)을 정면에서 크게 — 뾰족한 봉우리마다 알록달록 보석이 박힌 전형적인 황금 왕관",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

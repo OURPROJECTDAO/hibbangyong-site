@@ -1,0 +1,99 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/contain/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/contain/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "contain",
+ "slug": "contain",
+ "url": "https://hibbangyong.com/words/contain/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "안에 담고 있다 — 무언가가 그 안에 들어 있다",
+ "gloss_ko": "안에 담고 있다",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "물병을 흔들어 봐. 안에서 물이 찰랑찰랑하지?",
+  "물이 병 안에 들어 있지? 그럼 병이 물을 contain하고 있는 거야.",
+  "상자 안에 장난감이, 병 안에 물이 들어 있듯, 무언가를 그 안에 담고 있는 거야.",
+  "무언가가 그 안에 들어 있는 것 — 그게 contain이야."
+ ],
+ "scene": "물병이 물을 안에 붙잡아 새지 않게 담고 있는 장면",
+ "examples": [
+  {
+   "en": "This box contains all my old toys.",
+   "ko": "이 상자 안에는 내 옛날 장난감이 전부 들어 있어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "책가방이 무언가를 'contain'한다고 했어. 어떤 모습일까?",
+   "choices": [
+    "가방 안에 책이 가득 들어 있어",
+    "가방을 손에 딱 쥐고 있어",
+    "가방 겉에 스티커가 붙어 있어",
+    "가방이 텅 비어서 아무것도 없어"
+   ],
+   "answer_index": 0,
+   "answer": "가방 안에 책이 가득 들어 있어",
+   "why": "맞아! 가방 안쪽에 책이 쏙 들어가서 밖으로 안 떨어지고 있잖아. 그렇게 안에 지니고 있는 게 바로 contain인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "다음 중 서랍이 무언가를 'contain'하고 있는 모습은?",
+   "choices": [
+    "서랍 안에 양말이 개켜져 들어 있어",
+    "서랍 손잡이가 은색으로 반짝이고 있어",
+    "서랍이 벽 쪽으로 밀려 닫혀 있어",
+    "서랍이 나무로 튼튼하게 짜여 있어"
+   ],
+   "answer_index": 0,
+   "answer": "서랍 안에 양말이 개켜져 들어 있어",
+   "why": "맞아! 서랍이 양말을 안에 딱 품고 있어서 밖으로 안 나가잖아. 무언가를 그 안에 지니고 있는 것, 바로 그게 contain이야."
+  },
+  {
+   "type": "choice",
+   "question": "다음 중 컵이 우유를 'contain'하고 있는 모습은?",
+   "choices": [
+    "컵 안에 우유가 반쯤 차 있어",
+    "컵이 넘어져 우유가 바닥에 다 쏟아졌어",
+    "컵이 씻겨서 안이 텅 비어 있어",
+    "컵 옆에 우유갑이 나란히 놓여 있어"
+   ],
+   "answer_index": 0,
+   "answer": "컵 안에 우유가 반쯤 차 있어",
+   "why": "맞아! 컵이 우유를 안에 딱 붙잡아 두고 있잖아. 한 방울도 밖으로 못 나가게 품고 있으니까, 바로 그게 contain이야."
+  }
+ ],
+ "synonyms": [
+  "include"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "include",
+   "kind": "confusable",
+   "from": "vs include"
+  }
+ ],
+ "related_scene": [
+  "content"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-contain",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-contain"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/contain.webp",
+  "alt": "물병이 물을 안에 붙잡아 새지 않게 담고 있는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/reality/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/reality/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "reality",
+ "slug": "reality",
+ "url": "https://hibbangyong.com/words/reality/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "현실 — 머릿속 상상이 아니라, 진짜로 벌어지고 있는 일",
+ "gloss_ko": "진짜로 벌어지는 일",
+ "level": {
+  "code": "L3",
+  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "소풍 전날 밤에 머릿속으로 그려 봤지? 비 오면 어쩌지, 줄이 엄청 길면 어쩌지.",
+  "근데 막상 가 보니까 하늘은 쨍쨍, 줄도 짧았어. 물론 생각보다 더 힘든 날도 있고.",
+  "좋든 나쁘든 상관없어. 머릿속 그림 말고, 진짜로 일어난 쪽이야.",
+  "꿈이나 상상이랑은 반대편에 있는 거. 그게 reality야."
+ ],
+ "scene": "소풍 전날 밤 비·긴 줄을 상상했는데 실제로는 맑고 줄이 짧았던 날",
+ "examples": [
+  {
+   "en": "I was scared of my new school, but the reality was a lot of fun.",
+   "ko": "새 학교가 무서웠는데, 막상 진짜로 다녀 보니까 엄청 재밌었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "서아는 아침에 일어나서 엄마랑 같이 김밥을 말았어. 지금 식탁 위에 서아가 만든 김밥이 놓여 있어. 서아가 김밥을 만든 일은 'reality'야?",
+   "choices": [
+    "응, reality 맞아",
+    "아니, reality 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, reality 맞아",
+   "why": "맞아! 서아는 아침에 엄마랑 같이 진짜로 김밥을 말았고, 지금 식탁 위에 그 김밥이 놓여 있거든. 머릿속으로 그려 본 게 아니라 진짜로 일어난 일이라서 바로 그게 reality인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "서아는 밤에 잠을 자다가 꿈속에서 커다란 용을 타고 하늘을 날았어. 아침에 눈을 떠 보니 서아는 침대 위에 누워 있었어. 서아가 용을 타고 하늘을 난 일은 'reality'야?",
+   "choices": [
+    "응, reality 맞아",
+    "아니, reality 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, reality 아니야",
+   "why": "맞아! 서아가 용을 타고 하늘을 난 건 꿈속에서만 있었던 일이거든. 아침에 눈을 떠 보니 진짜로는 침대 위에 누워 있었잖아. 꿈은 진짜로 일어난 일이 아니라서 reality가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "지우는 치과 가기 전에 엄청 아플 거라고 떠올렸어. 그런데 막상 치료를 받아 보니 하나도 안 아팠어. 이 이야기에서 'reality'는 어느 쪽일까?",
+   "choices": [
+    "가기 전에 엄청 아플 거라고 떠올린 것",
+    "치과에 가기 싫어서 계속 투덜댄 것",
+    "치료받는 동안 하나도 안 아팠던 것",
+    "다음엔 더 아플 거라고 미리 걱정한 것"
+   ],
+   "answer_index": 2,
+   "answer": "치료받는 동안 하나도 안 아팠던 것",
+   "why": "맞아! 지우가 치료를 받아 보니 진짜로 하나도 안 아팠잖아. 머릿속으로 떠올린 게 아니라 정말로 일어난 일이라서, 바로 그게 reality인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "real"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-reality",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-reality"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/reality.webp",
+  "alt": "소풍 전날 밤 비·긴 줄을 상상했는데 실제로는 맑고 줄이 짧았던 날",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/astray/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/astray/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "astray",
+ "slug": "astray",
+ "url": "https://hibbangyong.com/words/astray/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "길을 잃고 엉뚱한 데로 — 원래 가야 할 길에서 빗나가(물건·사람이 엉뚱한 곳으로 가거나, 계획·행동이 잘못된 쪽으로 흘러갈 때)",
+ "gloss_ko": "길에서 빗나가",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "택배가 우리 집 말고 엉뚱한 동네로 가 버린 적 있지?",
+  "원래 가야 할 길이 있었는데 거기서 옆으로 빠져 버린 거, 그게 astray야.",
+  "길 얘기만은 아니야. 계획이 틀어지거나 친구 따라 나쁜 쪽으로 빠질 때도 써.",
+  "목적 없이 그냥 돌아다니는 거랑은 달라. 가야 할 곳이 분명 있었는데 빗나간 거야."
+ ],
+ "scene": "택배가 엉뚱한 동네로 잘못 간 상황",
+ "examples": [
+  {
+   "en": "Our class trip plan went astray after the first bus broke down.",
+   "ko": "첫 버스가 고장 나고 나서 우리 반 소풍 계획이 엉뚱하게 꼬여 버렸어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "민수는 체험학습 날 지도를 보면서 과학관으로 걸어가고 있었어. 그런데 골목을 잘못 들어서 과학관과는 반대쪽에 있는 재래시장에 가 버렸어. 이걸 민수가 'astray' 갔다고 할 수 있을까?",
+   "choices": [
+    "응, astray 맞아",
+    "아니, astray 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, astray 맞아",
+   "why": "맞아! 민수는 과학관이라는 가야 할 곳이 분명히 있었는데, 골목을 잘못 들어서 반대쪽 재래시장으로 빠져 버렸잖아. 원래 길에서 엉뚱한 데로 빗나간 거니까 딱 astray야."
+  },
+  {
+   "type": "ox",
+   "question": "지아는 토요일에 시립도서관에 가기로 했어. 지도 앱이 알려 준 길을 한 번도 벗어나지 않고 그대로 걸어서 시립도서관에 도착했어. 이걸 지아가 'astray' 갔다고 할 수 있을까?",
+   "choices": [
+    "응, astray 맞아",
+    "아니, astray 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, astray 아니야",
+   "why": "맞아! 지아는 가기로 한 시립도서관까지 지도 앱이 알려 준 길을 한 번도 벗어나지 않고 그대로 걸어갔잖아. 빗나간 데가 하나도 없으니까 astray가 아닌 게 맞아."
+  },
+  {
+   "type": "choice",
+   "question": "네 가지 일이 있었어. 이 중에서 'went astray'라고 말하기 가장 알맞은 건?",
+   "choices": [
+    "조별 과제 발표가 원래 주제랑 상관없는 딴 얘기로 흘러갔어",
+    "주말에 딱히 갈 곳 없이 동네를 이리저리 걸어 다녔어",
+    "조별 과제 발표가 처음 정한 주제대로 끝까지 잘 갔어",
+    "조별 과제 발표가 하루 늦어졌지만 주제는 그대로였어"
+   ],
+   "answer_index": 0,
+   "answer": "조별 과제 발표가 원래 주제랑 상관없는 딴 얘기로 흘러갔어",
+   "why": "맞아! 발표는 원래 정한 주제가 있었는데 거기서 빗나가 상관없는 딴 얘기로 흘러갔잖아. 가야 할 길이 분명 있었는데 옆으로 빠진 거, 그게 바로 went astray야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-astray",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-astray"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/astray.webp",
+  "alt": "택배가 엉뚱한 동네로 잘못 간 상황",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/profitability/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/profitability/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "profitability",
+ "slug": "profitability",
+ "url": "https://hibbangyong.com/words/profitability/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "수익성(돈이 남는 정도) — 어떤 일이 돈을 얼마나 남기는지의 정도",
+ "gloss_ko": "돈이 남는 정도",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "학교 축제 떡볶이 부스에 손님이 줄을 섰어. 그런데 재료비를 빼고 나니 남은 돈이 거의 없었어.",
+  "profitability는 벌려고 벌인 일이 돈을 얼마나 남기는지, 그 정도를 말해. 높을 수도 있고 낮을 수도 있어.",
+  "많이 판 양이나 판 액수(매출) 자체와는 달라. 많이 팔아도 남는 게 없으면 수익성은 낮고, 적게 팔아도 한 번 팔 때 많이 남으면 수익성이 높은 거야.",
+  "작은 가게든 큰 회사든 새로 시작하려는 사업이든 다 따져 볼 수 있어."
+ ],
+ "scene": "축제 떡볶이 부스: 손님은 많은데 재료비 빼면 남는 게 없음",
+ "examples": [
+  {
+   "en": "The shop was always busy, but its profitability was low.",
+   "ko": "그 가게는 늘 손님으로 북적였는데 수익성은 낮았어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "사촌 누나가 온라인으로 손팔찌를 팔아. 누나는 '팔찌 하나를 팔면 구슬값·줄값을 빼고 돈이 얼마나 남지?'를 따져 봤어. 누나가 따져 본 이 '남는 정도'를 'profitability'라고 할 수 있을까?",
+   "choices": [
+    "응, profitability 맞아",
+    "아니, profitability 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, profitability 맞아",
+   "why": "맞아! 누나는 팔찌 하나를 팔 때 구슬값이랑 줄값을 빼고 돈이 얼마나 남는지를 따져 봤잖아. 그렇게 들인 돈을 빼고 남는 정도가 바로 profitability야."
+  },
+  {
+   "type": "choice",
+   "question": "학교 축제에 동아리 부스 네 곳이 열렸어. 'profitability'가 가장 낮은 부스는 어디일까?",
+   "choices": [
+    "손님이 길게 줄을 섰지만 재료비를 빼면 거의 안 남는 부스",
+    "손님은 적게 왔지만 재료비가 싸서 돈이 꽤 남는 부스",
+    "물건을 많이 팔았고 재료비를 빼도 돈이 넉넉한 부스",
+    "한 개 팔 때마다 재료비보다 두 배 넘게 받는 부스"
+   ],
+   "answer_index": 0,
+   "answer": "손님이 길게 줄을 섰지만 재료비를 빼면 거의 안 남는 부스",
+   "why": "맞아! 손님이 길게 줄을 섰어도 재료비를 빼면 거의 안 남으니까, 네 부스 중에 이 부스가 수익성(profitability)이 가장 낮은 거야. 수익성은 몇 명이 왔는지가 아니라 돈이 얼마나 남는지로 따지거든."
+  },
+  {
+   "type": "ox",
+   "question": "동네 빵집이 이번 달에 번 돈보다 쓴 돈이 더 많았어. 그래서 30만 원이 모자랐대. 이 '모자란 30만 원'이라는 돈 자체를 'profitability'라고 할 수 있을까?",
+   "choices": [
+    "응, profitability 맞아",
+    "아니, profitability 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, profitability 아니야",
+   "why": "맞아! 모자란 30만 원은 이번 달에 빵집이 손해 본 돈의 액수일 뿐이야. profitability는 그 결과를 보고 빵집이 돈을 얼마나 잘 남기는지 매기는 정도라서, 이 빵집은 수익성이 낮다고 말하는 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "profit",
+   "kind": "confusable",
+   "from": "이익 금액(profit) 자체"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-profitability",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-profitability"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/profitability.webp",
+  "alt": "축제 떡볶이 부스: 손님은 많은데 재료비 빼면 남는 게 없음",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

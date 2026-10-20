@@ -1,0 +1,89 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/distract/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/distract/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "distract",
+ "slug": "distract",
+ "url": "https://hibbangyong.com/words/distract/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "하던 일에서 마음을 딴 데로 끌어가다 — 눈길이나 생각이 저절로 다른 쪽으로 쏠리게 하다",
+ "gloss_ko": "마음을 딴 데로 끌다",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "친구가 옆에서 야, 저기 봐! 하면 어때? 하던 거 하다가 고개가 휙 돌아가지.",
+  "누가 널 붙잡은 것도, 못 하게 막은 것도 아니야. 손도 안 댔는데 마음이 저 혼자 딴 데로 넘어간 거야.",
+  "동생이 울 때 노래 불러서 울음을 뚝 그치게 하는 것도, 공부하는데 옆방 게임 소리가 자꾸 끌어당기는 것도 똑같아.",
+  "이게 distract야."
+ ],
+ "scene": "친구가 저기 봐 하고 부르자 고개가 휙 돌아가는 순간",
+ "examples": [
+  {
+   "en": "The loud music distracted me, and I read the same page three times.",
+   "ko": "시끄러운 음악이 내 정신을 딴 데로 끌어가서 같은 페이지를 세 번이나 읽었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "도현이가 식탁에서 숙제를 쓰고 있었어. 그때 옆에 놓인 휴대폰이 삐리릭 울렸고, 도현이 눈이 연필에서 휴대폰 화면으로 넘어갔어. 이게 도현이를 'distract' 한 거야?",
+   "choices": [
+    "응, distract 맞아",
+    "아니, distract 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, distract 맞아",
+   "why": "맞아! 누가 도현이를 붙잡거나 말린 것도 아닌데, 삐리릭 소리에 눈이 저 혼자 연필에서 화면으로 넘어갔지. 하던 일에서 마음이 딴 데로 끌려간 거, 그게 바로 distract야."
+  },
+  {
+   "type": "ox",
+   "question": "수아가 퍼즐을 맞추고 있었어. 옆에서 무슨 소리가 나도 수아는 고개도 안 들고 퍼즐 조각만 계속 들여다봤어. 이게 수아를 'distract' 한 거야?",
+   "choices": [
+    "응, distract 맞아",
+    "아니, distract 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, distract 아니야",
+   "why": "맞아! 수아는 옆에서 소리가 나도 고개도 안 들고 퍼즐만 봤잖아. 마음이 딴 데로 안 넘어가고 하던 데 그대로 붙어 있었으니까 distract 아닌 게 맞아."
+  },
+  {
+   "type": "ox",
+   "question": "주사를 맞으러 온 다섯 살 아이가 무서워서 울먹였어. 간호사 선생님이 옆에서 곰인형을 흔들며 이름을 물어봤더니, 아이가 인형을 보며 대답하다가 주사 맞는 걸 잊었어. 이런 경우도 'distract'야?",
+   "choices": [
+    "응, distract 맞아",
+    "아니, distract 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, distract 맞아",
+   "why": "맞아! 곰인형 이름을 묻는 순간 아이 마음이 주사에서 인형 쪽으로 스르륵 넘어갔잖아. 아무도 못 하게 막은 게 아니라 마음이 저 혼자 딴 데로 끌려간 거, 그게 바로 distract야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "interrupt",
+   "kind": "confusable",
+   "from": "vs interrupt"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-distract",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-distract"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/distract.webp",
+  "alt": "친구가 저기 봐 하고 부르자 고개가 휙 돌아가는 순간",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

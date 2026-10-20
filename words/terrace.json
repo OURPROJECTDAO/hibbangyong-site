@@ -1,0 +1,86 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/terrace/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/terrace/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "terrace",
+ "slug": "terrace",
+ "url": "https://hibbangyong.com/words/terrace/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "테라스 — 비탈이나 집 밖을 계단처럼 깎거나 돋워 만든, 넓고 평평한 한 층",
+ "gloss_ko": "테라스",
+ "level": {
+  "code": "L4",
+  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "비탈은 기울어져 있어서 서 있으면 주르륵 미끄러지잖아? 그래서 사람들이 비탈을 층층이 깎아 놨어. 한 층 평평, 그 아래 또 한 층 평평. 거기에 벼도 심고 걸어다니고 앉아 쉬기도 해.",
+  "집 뒤쪽 땅을 한 단 높여 평평하게 만들어 놓은 바깥 바닥도 똑같이 불러. 밥상 펴고 밥 먹는 그 자리 말이야.",
+  "위로 올라가려고 발만 겨우 딛는 좁은 계단이랑은 달라. 기울어진 비탈 그 자체도 아니고. 밟고 서서 지낼 수 있을 만큼 넓고 평평한 한 층, 그게 terrace야."
+ ],
+ "scene": "비탈을 층층이 깎아 평평하게 만들어 놓은 산비탈 자리",
+ "examples": [
+  {
+   "en": "We ate lunch on the terrace behind our house.",
+   "ko": "우리는 집 뒤 테라스에서 점심을 먹었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "할머니 밭은 언덕에 있어. 할머니가 언덕을 깎아서 넓고 평평한 바닥 한 층을 만들어 놓고, 그 위에 서서 고추를 땄어. 이게 'terrace'야?",
+   "choices": [
+    "응, terrace 맞아",
+    "아니, terrace 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, terrace 맞아",
+   "why": "맞아! 할머니가 언덕을 깎아서 넓고 평평한 바닥 한 층을 만들었고, 그 위에 서서 고추를 땄잖아. 언덕을 깎아 만든 넓고 평평한 바닥 한 층, 바로 그게 terrace인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "눈썰매장 언덕은 아무것도 안 깎아서 위에서 아래까지 쭉 기울어져 있어. 그래서 썰매가 주르륵 내려가. 이게 'terrace'야?",
+   "choices": [
+    "응, terrace 맞아",
+    "아니, terrace 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, terrace 아니야",
+   "why": "맞아! 눈썰매장 언덕은 아무것도 안 깎아서 위에서 아래까지 쭉 기울어져 있잖아. 평평한 층이 하나도 없으니까 terrace가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "민수네 아빠가 주말에 뒷마당을 손봐서 'terrace'를 만들었대. 마당이 어떻게 바뀐 걸까?",
+   "choices": [
+    "흙을 더 부어 한쪽으로 더 기울여서, 비가 오면 물이 주르륵 흘러내리게 했어",
+    "담을 따라 발 하나 겨우 딛는 좁은 단을 여러 개 이어 붙여서, 위로 걸어 오르게 했어",
+    "기울어진 땅을 깎아 한 단을 넓고 평평하게 골라서, 그 위에 상을 펴고 앉게 했어",
+    "네 둘레에 벽을 세우고 위를 지붕으로 덮어서, 안쪽에 작은 방 하나를 들였어"
+   ],
+   "answer_index": 2,
+   "answer": "기울어진 땅을 깎아 한 단을 넓고 평평하게 골라서, 그 위에 상을 펴고 앉게 했어",
+   "why": "맞아! 기울어진 땅을 깎아서 넓고 평평한 바닥을 한 층 만들었잖아. 그 위에 상을 펴고 앉을 수 있을 만큼 넓고 평평한 바깥 바닥, 바로 그게 terrace인 거야."
+  }
+ ],
+ "synonyms": [
+  "bench"
+ ],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-terrace",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-terrace"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/terrace.webp",
+  "alt": "비탈을 층층이 깎아 평평하게 만들어 놓은 산비탈 자리",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/electrode/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/electrode/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "electrode",
+ "slug": "electrode",
+ "url": "https://hibbangyong.com/words/electrode/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "전극 — 전기를 물·몸·공기 같은 다른 물질 속으로 넣어 주거나 거기서 받아내는 부분(보통 금속)",
+ "gloss_ko": "전극",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "과학 시간에 소금물 컵에 쇠막대 두 개를 꽂고 전지에 이었던 거 기억나?",
+  "전기가 한 막대로 물속에 들어가고, 다른 막대로 다시 빠져나와. 이렇게 전기를 다른 물질 속으로 넣거나 거기서 받아내는 부분을 electrode라고 해.",
+  "병원에서 심장 검사할 때 가슴에 붙이는 동그란 패치도 electrode야. 이번엔 반대로 몸속 전기 신호가 그리로 빠져나와. 꼭 막대 모양일 필요도 없는 거지.",
+  "전선이랑 헷갈리지 마. 전선은 전기가 지나가는 길이고, electrode는 그 길이 물이나 몸, 공기 같은 다른 물질과 맞닿는 자리야."
+ ],
+ "scene": "과학 시간 소금물 컵에 쇠막대 두 개 꽂기(전기분해 실험)",
+ "examples": [
+  {
+   "en": "In science class, we put each electrode into the salt water.",
+   "ko": "과학 시간에 우리는 전극을 하나씩 소금물에 담갔어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "공장에서 숟가락에 은을 입히려고 약품 통 속에 금속판을 담그고, 그 판을 전선으로 전지에 이었어. 전기가 이 판을 거쳐 약품 속으로 들어가. 이 금속판은 'electrode'야?",
+   "choices": [
+    "응, electrode 맞아",
+    "아니, electrode 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, electrode 맞아",
+   "why": "맞아! 전선은 금속판까지만 오고, 약품에 직접 닿아 있는 건 금속판이야. 전기가 그 금속판을 거쳐 약품 속으로 들어가니까, 이 금속판이 바로 electrode인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "전봇대 꼭대기에서 전깃줄을 붙잡고 있는 하얀 도자기 뭉치가 있어. 이 도자기는 전깃줄의 전기가 전봇대 쪽으로 새어 나가지 못하게 막아 줘. 이 도자기는 'electrode'야?",
+   "choices": [
+    "응, electrode 맞아",
+    "아니, electrode 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, electrode 아니야",
+   "why": "맞아! 이 도자기는 전깃줄의 전기가 전봇대 쪽으로 새어 나가지 못하게 막아 주잖아. electrode는 전기를 다른 물질 속으로 넣거나 거기서 받아내는 부분인데, 이 도자기는 전기를 넘겨주지 않고 막으니까 하는 일이 정반대야."
+  },
+  {
+   "type": "choice",
+   "question": "가스레인지를 딸깍 켜서 불이 붙기까지 여러 부품이 일해. 이 중 'electrode'라고 부를 수 있는 건?",
+   "choices": [
+    "버너 옆에서 전기를 공기 중으로 튀겨 불꽃을 만드는 작은 쇠붙이",
+    "레인지 안쪽에서 불꽃 장치까지 전기를 실어 오는 가는 전선",
+    "전선이 열에 녹지 않도록 겉을 둘러싸고 있는 하얀 껍질",
+    "불꽃 장치로 전기를 보낼지 말지 정해 주는 딸깍 스위치"
+   ],
+   "answer_index": 0,
+   "answer": "버너 옆에서 전기를 공기 중으로 튀겨 불꽃을 만드는 작은 쇠붙이",
+   "why": "맞아! 버너 옆 작은 쇠붙이는 전선으로 실려 온 전기를 공기 중으로 튀겨서 불꽃을 만들잖아. 전기가 공기라는 다른 물질로 넘어가는 바로 그 자리라서 electrode인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "anode",
+   "kind": "confusable",
+   "from": "vs anode"
+  }
+ ],
+ "related_scene": [
+  "cord"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-electrode",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-electrode"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/electrode.webp",
+  "alt": "과학 시간 소금물 컵에 쇠막대 두 개 꽂기(전기분해 실험)",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

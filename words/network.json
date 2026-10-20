@@ -1,0 +1,95 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/network/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/network/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "network",
+ "slug": "network",
+ "url": "https://hibbangyong.com/words/network/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "여럿이 그물처럼 여러 갈래로 서로 이어진 것",
+ "gloss_ko": "그물처럼 얽힘",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "길을 봐봐. 이 길에서 저 길로도 가고, 또 다른 길로도 갈 수 있어.",
+  "한 줄로 죽 이어진 게 아니야. 여러 갈래로 이리저리 얽혀 있거든.",
+  "그래서 어디서든 어디로든 갈 수 있지. 길만 그런 게 아니라 사람도, 컴퓨터도 이렇게 얽혀.",
+  "이렇게 여럿이 그물처럼 얽힌 게 network야."
+ ],
+ "scene": "마을 길들이 한 줄이 아니라 여러 갈래로 이리저리 얽혀 그물처럼 된 도로망 한 장면.",
+ "examples": [
+  {
+   "en": "The roads in our city connect into a big network.",
+   "ko": "우리 도시의 길들이 이어져 큰 그물망을 이뤄."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "교실 친구들이 서로서로 여러 갈래로 이어져 있어. 누구한테서든 다른 누구한테로든 이리저리 닿을 수 있어. 이건 'network'야?",
+   "choices": [
+    "응, 이건 network야",
+    "아니, 이건 network가 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 이건 network야",
+   "why": "맞아! 친구들이 한 줄이 아니라 여러 갈래로 이리저리 얽혀서 누구한테든 닿을 수 있잖아. 그게 바로 그물처럼 이어진 network인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "여러 가지를 설명할게. 이 중에서 'network'라고 부를 수 있는 건 뭘까?",
+   "choices": [
+    "길들이 여러 갈래로 이리저리 얽혀서, 한 곳에서 여기저기로 갈 수 있는 것",
+    "정류장들이 한 줄로 죽 이어져, 1번에서 2번, 2번에서 3번 차례로만 가는 것",
+    "물고기 잡는 그물 한 장이 강가에 펼쳐져 놓여 있는 것",
+    "외딴 오두막 한 채가 아무 데와도 이어지지 않고 떨어져 있는 것"
+   ],
+   "answer_index": 0,
+   "answer": "길들이 여러 갈래로 이리저리 얽혀서, 한 곳에서 여기저기로 갈 수 있는 것",
+   "why": "맞아! 길들이 여러 갈래로 이리저리 얽혀서 어디서든 어디로든 갈 수 있잖아. 한 줄이 아니라 그물처럼 얽혔으니까 바로 그게 network인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "컴퓨터 한 대가 다른 어떤 것과도 줄로 이어지지 않고 혼자 따로 놓여 있어. 이건 'network'야?",
+   "choices": [
+    "응, 이건 network야",
+    "아니, 이건 network가 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 이건 network가 아니야",
+   "why": "맞아! network는 여럿이 그물처럼 서로 이어진 거잖아. 그런데 이 컴퓨터는 아무하고도 안 이어지고 혼자 뚝 떨어져 있으니까, 얽힌 게 하나도 없어서 'network가 아니야'가 딱 맞는 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "system",
+   "kind": "confusable",
+   "from": "vs system"
+  }
+ ],
+ "related_scene": [
+  "broadband",
+  "firewall",
+  "net"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-network",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-network"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/network.webp",
+  "alt": "마을 길들이 한 줄이 아니라 여러 갈래로 이리저리 얽혀 그물처럼 된 도로망 한 장면.",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/theatre/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/theatre/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "theatre",
+ "slug": "theatre",
+ "url": "https://hibbangyong.com/words/theatre/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "무대에서 펼치는 연극이나 공연을 보러 가는 곳, 극장",
+ "gloss_ko": "공연 보러 가는 극장",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "무대가 딱 있고, 배우들이 그 위에 올라와.",
+  "사람들은 자리에 쪼르르 앉아서 그걸 봐.",
+  "노래하고 춤추고 연극하는 공연을 눈앞에서 보는 거거든?",
+  "집 텔레비전이랑은 달라 — 진짜 사람이 바로 앞에서 해. 이게 theatre야."
+ ],
+ "scene": "무대 위 배우 + 객석 관객, 눈앞 생연기를 보는 건물.",
+ "examples": [
+  {
+   "en": "We watched the singers and dancers perform live on the stage at the theatre.",
+   "ko": "우리는 극장 무대에서 가수와 무용수들이 라이브로 공연하는 걸 봤어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "민수네 가족이 주말에 'theatre'에 다녀왔대. 민수가 거기서 본 건 아래 넷 중 어떤 것일까?",
+   "choices": [
+    "진짜 배우들이 무대에 올라와 눈앞에서 직접 연기하고 노래하는 걸 보는 곳",
+    "책이 칸칸이 꽂혀 있어 마음에 드는 걸 골라 조용히 읽는 곳",
+    "커다란 천막 안에서 광대랑 곡예사가 재주 부리는 걸 구경하는 곳",
+    "너른 운동장에서 선수들이 공을 차며 겨루는 걸 구경하는 곳"
+   ],
+   "answer_index": 0,
+   "answer": "진짜 배우들이 무대에 올라와 눈앞에서 직접 연기하고 노래하는 걸 보는 곳",
+   "why": "맞아! theatre는 무대가 있고, 진짜 배우들이 그 위에 올라와서 눈앞에서 직접 연기하고 노래하는 걸 보는 곳이거든. 민수네 가족도 바로 그런 공연을 보고 온 거야."
+  },
+  {
+   "type": "choice",
+   "question": "지호가 'theatre'에 다녀왔대. 다음 중 'theatre'에 해당하는(맞는) 곳은 어디일까?",
+   "choices": [
+    "책이 칸칸이 꽂혀 있어 마음에 드는 걸 골라 조용히 읽는 곳",
+    "갓 구운 빵이 진열돼 있어 마음에 드는 걸 골라 사 가는 곳",
+    "무대에 진짜 배우들이 올라와 노래하고 연극하는 걸 자리에 앉아 보는 곳",
+    "물이 가득 차 있어 옷을 갈아입고 들어가 헤엄치는 곳"
+   ],
+   "answer_index": 2,
+   "answer": "무대에 진짜 배우들이 올라와 노래하고 연극하는 걸 자리에 앉아 보는 곳",
+   "why": "맞아! 무대에 진짜 배우가 올라와서 노래하고 연극하는 걸 자리에 앉아서 보잖아 — 바로 그 진짜 공연을 눈앞에서 보는 곳이 theatre거든."
+  },
+  {
+   "type": "choice",
+   "question": "주말에 가족이 'theatre'에 가기로 했어. 다음 중 'theatre'에 해당하는 곳은 어디일까?",
+   "choices": [
+    "집 거실 소파에 앉아 텔레비전 화면을 켜서 보는 곳",
+    "무대 위 배우들이 눈앞에서 직접 춤추고 연기하는 걸 객석에서 보는 곳",
+    "여러 동물이 우리에 있어 이리저리 돌아다니며 구경하는 곳",
+    "음식을 주문해 식탁에 앉아 골라 먹는 곳"
+   ],
+   "answer_index": 1,
+   "answer": "무대 위 배우들이 눈앞에서 직접 춤추고 연기하는 걸 객석에서 보는 곳",
+   "why": "맞아! 무대 위에서 배우들이 눈앞에서 직접 춤추고 연기하고, 너는 객석에 앉아서 그걸 바로 보잖아. 텔레비전이 아니라 진짜 사람이 바로 앞에서 해 주는 그곳, 그게 theatre야!"
+  }
+ ],
+ "synonyms": [
+  "theater"
+ ],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "comedy",
+  "opera"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-theatre",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-theatre"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/theatre.webp",
+  "alt": "무대 위 배우 + 객석 관객, 눈앞 생연기를 보는 건물.",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

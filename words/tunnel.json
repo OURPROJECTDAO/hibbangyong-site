@@ -1,0 +1,91 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/tunnel/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/tunnel/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "tunnel",
+ "slug": "tunnel",
+ "url": "https://hibbangyong.com/words/tunnel/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "터널 — 산이나 땅 속을 뚫어서, 이쪽에서 저쪽으로 지나가게 만든 길.",
+ "gloss_ko": "터널",
+ "level": {
+  "code": "L4",
+  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "산이 길 앞을 떡 막고 서 있어. 넘어가자니 너무 높지?",
+  "그래서 산 속을 쭉 뚫었어. 이쪽으로 들어가면 저쪽으로 쏙 나와.",
+  "땅 밑에도 있고, 강 밑에도 있고, 두더지가 판 것도 똑같아.",
+  "동굴처럼 안이 막힌 게 아니야. 반대편이 뻥 뚫려 있어. 이게 tunnel이야."
+ ],
+ "scene": "길을 막고 선 산을 뚫어 이쪽에서 저쪽으로 나오는 길",
+ "examples": [
+  {
+   "en": "The train went into a long tunnel under the mountain.",
+   "ko": "기차가 산 밑의 긴 터널로 들어갔어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "도로 위쪽으로 계단을 올라가서, 공중에 놓인 길을 걸어 도로 건너편으로 내려왔어. 이게 'tunnel'이야?",
+   "choices": [
+    "응, tunnel 맞아",
+    "아니, tunnel 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, tunnel 아니야",
+   "why": "맞아! 계단을 올라가서 도로 위로 넘어갔지? tunnel은 땅 속으로 들어가서 반대편으로 나오는 길이라서, 도로 위로 넘어간 이 길은 tunnel이 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "공사하는 아저씨가 네 곳을 만들고 있어. 이 중에서 'tunnel'은 어느 거야?",
+   "choices": [
+    "언덕 속을 앞뒤로 뚫어서 반대편 밭까지 이어지게 만든 길",
+    "언덕 위에 세워서 멀리까지 내다보게 만든 나무 계단 망대",
+    "언덕 앞 공터에 물을 채워서 오리가 놀게 만든 네모난 연못",
+    "언덕 옆에 벽을 세워서 짐을 넣어 두게 만든 작은 창고"
+   ],
+   "answer_index": 0,
+   "answer": "언덕 속을 앞뒤로 뚫어서 반대편 밭까지 이어지게 만든 길",
+   "why": "맞아! 언덕 속을 앞뒤로 뚫어서 반대편 밭까지 쭉 이어지게 했잖아. 이쪽으로 들어가서 저쪽으로 나오는 길, 그게 바로 tunnel인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "친구 넷이 각자 다녀온 곳을 말했어. 이 중에서 'tunnel'을 지나온 친구는 누구야?",
+   "choices": [
+    "산꼭대기까지 올라갔다 산 너머 마을로 내려가는 길로 갔어",
+    "산 속으로 들어가서 산 너머 마을 쪽으로 나오는 길로 갔어",
+    "바위 속으로 들어갔다가 들어온 입구로 되돌아 나왔어",
+    "땅속 깊이 내려갔다가 들어온 구멍으로 도로 올라왔어"
+   ],
+   "answer_index": 1,
+   "answer": "산 속으로 들어가서 산 너머 마을 쪽으로 나오는 길로 갔어",
+   "why": "맞아! 산 속으로 들어가서 산 너머 마을 쪽으로 나왔잖아. 산을 뚫고 반대편으로 쭉 지나온 거라서 바로 그게 tunnel인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "cave",
+  "dig",
+  "through"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-tunnel",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-tunnel"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/tunnel.webp",
+  "alt": "길을 막고 선 산을 뚫어 이쪽에서 저쪽으로 나오는 길",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

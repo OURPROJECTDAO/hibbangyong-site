@@ -1,0 +1,92 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/era/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/era/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "era",
+ "slug": "era",
+ "url": "https://hibbangyong.com/words/era/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "시대 — 어떤 특징 하나로 크게 묶는 아주 긴 세월",
+ "gloss_ko": "시대",
+ "level": {
+  "code": "L6",
+  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "공룡이 쿵쿵 걸어 다니던 그 긴~ 세월 있잖아. 1억 년도 넘는 그 세월을 통째로 '공룡 시대'라고 불러.",
+  "왜 한 덩어리로 묶냐고? 그때 세상을 딱 대표하는 게 공룡이었거든.",
+  "지금 우리가 사는 때도 나중엔 '스마트폰 시대'라고 부를걸?",
+  "그렇게 뭔가 하나로 크게 묶는 긴 세월, 그게 era야."
+ ],
+ "scene": "공룡이 걷던 몇백만 년을 '공룡 시대' 한 덩어리로 묶는 장면",
+ "examples": [
+  {
+   "en": "We live in the smartphone era now.",
+   "ko": "우리는 지금 스마트폰 시대에 살고 있어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "다음 중 'era'에 해당하는(맞는) 것은 무엇일까? 하나만 골라봐.",
+   "choices": [
+    "신호등이 초록불로 바뀌길 기다린, 아주 짧은 한순간",
+    "책상 위에 반듯이 놓인, 뚜껑 덮인 필통 하나",
+    "기사들이 갑옷 입고 성에 살던, 그 긴 세월을 통째로 묶은 것",
+    "시험지 맨 위에 크게 적힌, 숫자 백 점 하나"
+   ],
+   "answer_index": 2,
+   "answer": "기사들이 갑옷 입고 성에 살던, 그 긴 세월을 통째로 묶은 것",
+   "why": "맞아! 기사들이 갑옷 입고 성에 살던 그 긴~ 세월을 통째로 하나로 묶었잖아. 하나의 특징으로 아주 긴 세월을 크게 묶은 거, 그게 바로 era야!"
+  },
+  {
+   "type": "ox",
+   "question": "사진 찍을 때 카메라 플래시가 번쩍 하고 터진, 눈 깜짝할 그 순간. 이게 'era'야?",
+   "choices": [
+    "응, era 맞아",
+    "아니, era 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, era 아니야",
+   "why": "맞아! 카메라 플래시가 번쩍 하고 사라지는 건 눈 깜짝할 사이에 끝나는 짧디짧은 순간이잖아. era는 공룡 시대처럼 긴~ 세월을 통째로 묶는 거라 정반대야. 그래서 '아니야'가 딱 맞는 거야."
+  },
+  {
+   "type": "choice",
+   "question": "'era'라고 부를 수 있는 건 아래 넷 중 무엇일까? 골라봐.",
+   "choices": [
+    "컴퓨터가 세상을 확 바꾼, 아주 긴 세월 전체",
+    "친구를 기다린, 딱 십 분 남짓의 짧은 시간",
+    "달력에 표시된, 정확히 하루 24시간",
+    "눈 한 번 깜빡, 순식간에 지나간 찰나"
+   ],
+   "answer_index": 0,
+   "answer": "컴퓨터가 세상을 확 바꾼, 아주 긴 세월 전체",
+   "why": "맞아! 컴퓨터가 세상을 확 바꾼 아주 긴 세월이니까, 딱 하나 큰 특징으로 통째로 묶인 긴 시간이잖아. 그래서 바로 그게 era인 거야."
+  }
+ ],
+ "synonyms": [
+  "period"
+ ],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "baroque",
+  "medieval"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-era",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-era"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/era.webp",
+  "alt": "공룡이 걷던 몇백만 년을 '공룡 시대' 한 덩어리로 묶는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

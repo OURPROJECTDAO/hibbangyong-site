@@ -1,0 +1,91 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/output/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/output/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "output",
+ "slug": "output",
+ "url": "https://hibbangyong.com/words/output/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "무언가가 일해서 밖으로 내놓은 것 — 물건이든 답이든 글이든, 또 얼마나 나왔는지 그 양",
+ "gloss_ko": "일해서 밖으로 내놓은 것",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "주스 기계에 사과를 넣었어. 조금 있다가 아래로 주스가 쪼르륵 나오지? 그 나온 주스가 output이야.",
+  "기계에서만 나오는 게 아니야. 컴퓨터 화면에 뜬 답도, 네가 하루 동안 그린 그림 다섯 장도 나온 쪽이니까 output이야.",
+  "달아도 output, 타 버려도 output이야. 잘 됐냐 아니냐는 상관없어. 나온 쪽이기만 하면 돼.",
+  "넣은 사과는 아무리 커도 output이 아니야. 들어간 게 아니라 나온 것, 그리고 나온 양, 그게 output이야."
+ ],
+ "scene": "주스 기계에 사과를 넣자 아래로 주스가 나오는 장면",
+ "examples": [
+  {
+   "en": "Grandpa's garden is very small, so its output was only two baskets of tomatoes.",
+   "ko": "할아버지 텃밭이 너무 작아서 나온 것이라곤 토마토 두 바구니뿐이었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "형이 프린터에 종이 다섯 장을 채우고 버튼을 눌렀어. 잠시 뒤 트레이에 그림이 찍힌 종이 다섯 장이 놓였어. 그림이 찍힌 종이 다섯 장 — 이게 'output'이야?",
+   "choices": [
+    "응, output 맞아",
+    "아니, output 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, output 맞아",
+   "why": "맞아! 프린터가 일하고 나서 밖으로 내보낸 게 바로 그 그림 찍힌 종이거든. 주스 기계에서 쪼르륵 나온 주스랑 똑같이 나온 쪽이니까 그게 output인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "형이 프린터를 쓰려고 아무것도 안 찍힌 종이 다섯 장을 트레이에 채웠어. 트레이에 채운 빈 종이 다섯 장 — 이게 'output'이야?",
+   "choices": [
+    "응, output 맞아",
+    "아니, output 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, output 아니야",
+   "why": "맞아! 트레이에 채운 빈 종이는 프린터가 이제부터 쓸 거라서 넣어 둔 거잖아. 아직 나온 게 아니라 들어간 쪽이니까 output이 아닌 게 맞아."
+  },
+  {
+   "type": "ox",
+   "question": "형이 계산기에 긴 숫자를 눌러 넣자 잠시 뒤 화면에 숫자 하나가 떴어. 화면에 뜬 이 숫자도 계산기의 'output'이라고 할 수 있을까?",
+   "choices": [
+    "아니, output 아니야",
+    "응, output 맞아"
+   ],
+   "answer_index": 1,
+   "answer": "응, output 맞아",
+   "why": "맞아! 계산기가 일해서 밖으로 내놓은 게 바로 그 숫자거든. 손에 쥘 수 있든 없든 상관없어, 나온 쪽이면 output인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "input"
+ ],
+ "confusable": [
+  {
+   "word": "result",
+   "kind": "confusable",
+   "from": "vs result"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-output",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-output"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/output.webp",
+  "alt": "주스 기계에 사과를 넣자 아래로 주스가 나오는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

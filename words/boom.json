@@ -1,0 +1,89 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/boom/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/boom/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "boom",
+ "slug": "boom",
+ "url": "https://hibbangyong.com/words/boom/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "쿵— 낮고 묵직하게 크게 울리는 소리. 뭔가가 갑자기 확 늘어나는 일도 이렇게 불러",
+ "gloss_ko": "쿵",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "저 멀리서 낮고 커다란 소리가 한 번 울려서, 소리가 몸속까지 웅— 지나간 적 있어? 그런 소리 말이야.",
+  "천둥도 그렇고, 불꽃놀이도, 커다란 스피커에서 나오는 묵직한 소리도 그래. 무서운 소리만 그런 건 아니거든.",
+  "얇게 딱 끊기는 소리도 아니고, 묵직해도 끊임없이 계속 이어지는 소리도 아니야. 한 번 크게 터져서 쭉 퍼지는 거.",
+  "그리고 뭔가가 갑자기 확 늘어날 때도 이 말을 써. 어느 날부터 그 장난감을 다들 사는 것처럼. 그게 boom이야."
+ ],
+ "scene": "저 멀리서 낮고 커다란 소리가 한 번 울려 몸속까지 지나가는 순간",
+ "examples": [
+  {
+   "en": "We could hear the boom of the fireworks from our roof.",
+   "ko": "우리는 옥상에서 불꽃놀이의 쿵 소리를 들을 수 있었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "식탁에서 숟가락으로 유리컵 가장자리를 한 번 건드렸어. 이때 난 소리를 boom이라고 할 수 있을까?",
+   "choices": [
+    "응, boom 맞아",
+    "아니, boom 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, boom 아니야",
+   "why": "맞아! 유리컵을 톡 건드린 소리는 가늘고 얇게 딱 끊기잖아. boom은 낮고 묵직하게 웅— 하고 퍼지는 소리라서, 이건 boom이 아닌 게 맞아."
+  },
+  {
+   "type": "ox",
+   "question": "박물관 마당에 있는 커다란 종을, 어른이 굵은 나무 기둥으로 한 번 쳤어. 이때 난 소리를 boom이라고 할 수 있을까?",
+   "choices": [
+    "응, boom 맞아",
+    "아니, boom 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, boom 맞아",
+   "why": "맞아! 커다란 종을 굵은 기둥으로 한 번 쳤으니까 낮고 묵직한 울림이 한 번 크게 터져서 쭉 퍼진 거야. 몸속까지 웅— 하고 지나가는 그 소리, 바로 그게 boom인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 아이가 각자 들은 소리를 이야기했어. 이 중에서 'boom'이라고 부를 만한 소리는 누구 거야?",
+   "choices": [
+    "가슴이 울릴 만큼 묵직한 소리가 한 번 크게 나서 저 멀리까지 갔어",
+    "묵직한 소리가 끊기지 않고 한참 동안 계속 이어졌어",
+    "가늘고 째지는 소리가 아주 크게 위로 솟구쳤어",
+    "얇고 딱딱한 소리가 짧게 한 번 나고는 바로 사라졌어"
+   ],
+   "answer_index": 0,
+   "answer": "가슴이 울릴 만큼 묵직한 소리가 한 번 크게 나서 저 멀리까지 갔어",
+   "why": "맞아! 가슴까지 울릴 만큼 묵직한 소리가 한 번 크게 터져서 저 멀리 퍼져 나갔지. 낮고 묵직한데 한 번에 확 퍼지는 거, 그게 바로 boom이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "loud",
+  "pop",
+  "resonate"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-boom",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-boom"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/boom.webp",
+  "alt": "저 멀리서 낮고 커다란 소리가 한 번 울려 몸속까지 지나가는 순간",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/specific/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/specific/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "specific",
+ "slug": "specific",
+ "url": "https://hibbangyong.com/words/specific/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "콕 집은 — 두루뭉술하지 않고 어떤 건지 딱 정해진",
+ "gloss_ko": "콕 집은",
+ "level": {
+  "code": "L3",
+  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "\"주말에 언제 놀까?\" \"몰라, 그냥 언젠가.\" 이러면 하나도 안 정해지잖아?",
+  "근데 \"토요일 3시에 놀이터에서\"라고 하면 언제 어딘지 딱 정해지지.",
+  "여러 개나 아무거나 말고, 딱 그거 하나로 콕 집어 정확하게 정하는 거.",
+  "그게 specific이야."
+ ],
+ "scene": "주말에 언제 놀지 '그냥 언젠가'와 '토요일 3시 놀이터'를 견주는 약속 장면",
+ "examples": [
+  {
+   "en": "Can you be more specific about what you want for lunch?",
+   "ko": "점심 뭐 먹고 싶은지 좀 더 콕 집어서 말해줄래?"
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "친구가 크레파스를 달라고 여러 가지로 말했어. 어떤 게 'specific'하게 말한 걸까?",
+   "choices": [
+    "\"크레파스 하나 줘.\"",
+    "\"빨강, 파랑, 노랑, 초록 크레파스 중에 아무거나 하나 줘.\"",
+    "\"파란색 크레파스 줘.\"",
+    "\"그냥 색칠할 거 아무거나 줘.\""
+   ],
+   "answer_index": 2,
+   "answer": "\"파란색 크레파스 줘.\"",
+   "why": "맞아! \"파란색 크레파스\"라고 하면 여러 색 중에 딱 그 하나로 콕 집은 거잖아. 어떤 걸 달라는지 하나도 안 헷갈리게 정해졌으니까 바로 그게 specific인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "선생님이 \"아무나 한 명 나와서 칠판 좀 지워 줄래?\"라고 했어. 이건 누구인지 'specific'하게 콕 집어 말한 걸까?",
+   "choices": [
+    "응, 콕 집어 말했어.",
+    "아니, 콕 집어 말한 건 아니야."
+   ],
+   "answer_index": 1,
+   "answer": "아니, 콕 집어 말한 건 아니야.",
+   "why": "맞아! 선생님은 '아무나 한 명'이라고 했으니까 누가 나와도 되잖아. 누구인지 딱 한 사람을 정하지 않았으니 콕 집어 말한 게 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "형이 \"이따 저녁 6시에 학교 정문 앞에서 만나.\"라고 했어. 언제, 어디인지 'specific'하게 콕 집어 말한 걸까?",
+   "choices": [
+    "응, 콕 집어 말했어.",
+    "아니, 콕 집어 말한 건 아니야."
+   ],
+   "answer_index": 0,
+   "answer": "응, 콕 집어 말했어.",
+   "why": "맞아! 형이 시간은 저녁 6시, 장소는 학교 정문 앞으로 딱 하나씩 정해서 말했잖아. 언제 어디서 만나는지 헷갈릴 게 없으니까, 바로 그게 콕 집어 말한 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "general"
+ ],
+ "confusable": [
+  {
+   "word": "exact",
+   "kind": "confusable",
+   "from": "vs exact"
+  },
+  {
+   "word": "detailed",
+   "kind": "confusable",
+   "from": "vs detailed"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-specific",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-specific"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/specific.webp",
+  "alt": "주말에 언제 놀지 '그냥 언젠가'와 '토요일 3시 놀이터'를 견주는 약속 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

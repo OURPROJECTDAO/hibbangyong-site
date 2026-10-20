@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/trek/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/trek/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "trek",
+ "slug": "trek",
+ "url": "https://hibbangyong.com/words/trek/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "고된 여정 — 멀고 힘들게, 주로 걸어서 오래 가는 길",
+ "gloss_ko": "멀고 힘든 고된 여정",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "버스가 끊겨서 먼 역까지 두 시간을 걸어간 적 있어? 그런 길이 trek이야.",
+  "꼭 산이나 모험일 필요는 없어. 가게가 너무 멀어서 한참 걸어야 하는 것도 trek이라고 해.",
+  "핵심은 멀고, 힘들다는 거야. 저녁에 동네 한 바퀴 도는 산책은 trek이 아니야.",
+  "그냥 여행(trip)이랑도 달라. 차 타고 편하게 가면 trip이지만, trek에는 고생이 따라와."
+ ],
+ "scene": "버스가 끊겨 먼 역까지 두 시간 걸어가기",
+ "examples": [
+  {
+   "en": "We started our trek before the sun came up.",
+   "ko": "우리는 해 뜨기도 전에 먼 길을 걸어서 떠났어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "쉬는 시간에 서연이는 공책을 빌리려고 바로 옆 반 교실까지 열 걸음 정도 걸어갔다 왔어. 이 이동은 'trek'일까?",
+   "choices": [
+    "응, trek 맞아",
+    "아니, trek 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, trek 아니야",
+   "why": "맞아! 옆 반 교실까지 열 걸음이면 금방 다녀오고 힘들 것도 하나 없잖아. trek은 멀고 힘들어야 하는데 서연이가 옆 반에 다녀온 건 둘 다 아니라서 trek이 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "폭설 때문에 차가 다닐 수 없어서, 민준이는 옆 마을 할머니 댁까지 무릎까지 쌓인 눈길을 세 시간 동안 걸어갔어. 이 길은 'trek'일까?",
+   "choices": [
+    "응, trek 맞아",
+    "아니, trek 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, trek 맞아",
+   "why": "맞아! 폭설로 차가 못 다녀서 민준이는 무릎까지 쌓인 눈길을 세 시간이나 걸어갔잖아. 멀고 힘들게 걸어서 오래 간 길이니까 딱 trek인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 친구가 각자 어디를 어떻게 갔는지 말했어. 이 중 'trek'이라고 부르기 가장 알맞은 건?",
+   "choices": [
+    "아파트 앞 편의점까지 1분 걸어서 다녀왔어",
+    "가족이랑 KTX를 타고 편하게 부산에 다녀왔어",
+    "버스가 끊겨서 먼 기차역까지 두 시간 넘게 걸었어",
+    "저녁 먹고 공원을 천천히 한 바퀴 돌고 왔어"
+   ],
+   "answer_index": 2,
+   "answer": "버스가 끊겨서 먼 기차역까지 두 시간 넘게 걸었어",
+   "why": "맞아! 버스가 끊겨서 먼 기차역까지 걸어간 건 멀고 힘들게 오래 걸은 길이잖아. 그래서 바로 그게 trek인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "hike",
+   "kind": "confusable",
+   "from": "vs hike"
+  }
+ ],
+ "related_scene": [
+  "arduous"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-trek",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-trek"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/trek.webp",
+  "alt": "버스가 끊겨 먼 역까지 두 시간 걸어가기",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

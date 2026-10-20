@@ -1,0 +1,94 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/paramedic/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/paramedic/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "paramedic",
+ "slug": "paramedic",
+ "url": "https://hibbangyong.com/words/paramedic/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "구급대원 — 응급 현장에 달려와 병원에 가기 전까지 다친 사람을 돌보는, 훈련받은 사람(의사·간호사는 아님). 앞에 붙으면 '구급대의'라는 뜻(paramedic team).",
+ "gloss_ko": "구급대원",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "누가 길에서 쓰러지면 119 부르잖아. 몇 분 뒤에 달려와서 숨이랑 맥박부터 살피는 사람들 있지?",
+  "그 사람들이 paramedic이야. 구급차에서도 일하고, 마라톤 대회 옆에서 대기하기도 해.",
+  "병원에 닿기 전까지 응급처치를 맡는, 그 일을 따로 훈련받은 사람이야.",
+  "근데 의사는 아니야. 불 끄는 소방관이랑도 하는 일이 달라."
+ ],
+ "scene": "길에서 쓰러진 사람에게 119 구급대가 달려와 숨과 맥박을 살핌",
+ "examples": [
+  {
+   "en": "The paramedic checked my grandpa's breathing before they took him to the hospital.",
+   "ko": "구급대원이 할아버지 숨 쉬는 걸 먼저 확인하고 나서 병원으로 모시고 갔어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "등산을 하던 누나가 바위에서 미끄러져 발목을 크게 다쳤어. 몇 분 뒤 구급차가 와서, 누나는 들것에 실려 병원으로 옮겨졌어. 이 발목을 다친 누나는 'paramedic'이야?",
+   "choices": [
+    "응, paramedic 맞아",
+    "아니, paramedic 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, paramedic 아니야",
+   "why": "맞아! 누나는 바위에서 미끄러져 발목을 다친 사람이라, 돌봄을 받는 쪽이거든. paramedic은 구급차 타고 와서 누나를 들것에 실어 병원까지 옮겨 준 사람들이야."
+  },
+  {
+   "type": "ox",
+   "question": "지하철역 계단에서 한 아저씨가 넘어져 머리를 다쳤어. 몇 분 뒤 구급차를 타고 온 사람이 아저씨 머리에 붕대를 감아 피를 멈추게 하고, 병원까지 같이 갔어. 이 붕대를 감아 준 사람은 'paramedic'이야?",
+   "choices": [
+    "응, paramedic 맞아",
+    "아니, paramedic 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, paramedic 맞아",
+   "why": "맞아! 구급차를 타고 와서 병원에 가기 전에 아저씨 머리에 붕대를 감아 피를 멈추게 했잖아. 병원에 닿기 전까지 다친 사람을 돌보는 사람, 그게 바로 paramedic이야."
+  },
+  {
+   "type": "choice",
+   "question": "마라톤 대회에서 한 선수가 갑자기 쓰러졌어. 그 주변에 있던 사람들 중 'paramedic'은 누구일까?",
+   "choices": [
+    "병원 수술실에서 그 선수를 직접 수술한 의사 선생님",
+    "대회장 근처에서 난 작은 불을 끄러 온 소방관 아저씨",
+    "현장에 달려와 숨과 맥박을 살피고 병원까지 같이 간 사람",
+    "선수가 쓰러지자 놀라서 119에 바로 전화를 건 옆 사람"
+   ],
+   "answer_index": 2,
+   "answer": "현장에 달려와 숨과 맥박을 살피고 병원까지 같이 간 사람",
+   "why": "맞아! 쓰러진 선수한테 달려와서 숨이랑 맥박부터 살피고 병원까지 같이 간 사람, 병원에 닿기 전까지 응급처치를 맡는 그 사람이 바로 paramedic이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "firefighter",
+   "kind": "confusable",
+   "from": "소방관(firefighter)"
+  }
+ ],
+ "related_scene": [
+  "ambulance",
+  "medical"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-paramedic",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-paramedic"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/paramedic.webp",
+  "alt": "길에서 쓰러진 사람에게 119 구급대가 달려와 숨과 맥박을 살핌",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

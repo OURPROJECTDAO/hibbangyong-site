@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/fiscal/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/fiscal/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "fiscal",
+ "slug": "fiscal",
+ "url": "https://hibbangyong.com/words/fiscal/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "재정의(나라 돈 살림의) — 나라나 시청 같은 정부가 세금을 걷고, 쓰고, 빚을 지는 돈 살림에 관한",
+ "gloss_ko": "재정(나라 살림)의",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "뉴스에서 내년 나라 살림 얘기 나오잖아. 세금을 얼마 걷고, 어디에 얼마 쓰고, 빚이 얼마인지.",
+  "그 공공 돈 살림 전체에 관한 게 fiscal이야. 걷는 쪽, 쓰는 쪽, 빚까지 다 들어가.",
+  "근데 네 용돈 사정은 fiscal이 아니야. 가게 매출도 아니고. 개인이나 가게가 아니라 나라나 시청 같은 정부의 살림이거든.",
+  "시청이 돈이 모자라서 도서관 공사를 미뤘다면? 그게 fiscal 문제야."
+ ],
+ "scene": "뉴스 속 내년 나라 살림(세금 걷기·쓰기·빚) 발표",
+ "examples": [
+  {
+   "en": "The city had fiscal trouble last year, so the new library was not built.",
+   "ko": "작년에 시 재정이 어려워서 새 도서관을 못 지었대."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "우리 구청이 내년에 세금을 얼마 걷고, 그 돈을 공원 관리와 버스 지원에 얼마씩 쓸지 계획을 짰어. 이건 'fiscal' 계획이야?",
+   "choices": [
+    "응, fiscal 맞아",
+    "아니, fiscal 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, fiscal 맞아",
+   "why": "맞아! 구청이 세금을 걷고 그 돈을 공원 관리랑 버스 지원에 얼마씩 쓸지 짠 거잖아. 개인 지갑이 아니라 구청의 공공 돈 살림이니까 딱 fiscal 계획인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "지우네 가족이 이번 달 월급을 얼마 모으고, 그 돈을 전기료와 장보기에 얼마씩 쓸지 계획을 짰어. 이건 'fiscal' 계획이야?",
+   "choices": [
+    "응, fiscal 맞아",
+    "아니, fiscal 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, fiscal 아니야",
+   "why": "잘 골랐어! 지우네 가족이 월급을 모으고 전기료랑 장보기에 나눠 쓰는 건 한 집의 지갑 사정이야. fiscal은 나라나 단체가 세금을 걷고 쓰는 살림에만 쓰는 말이거든."
+  },
+  {
+   "type": "choice",
+   "question": "네 가지 일이 있었어. 이 중에서 'fiscal' 문제라고 부르기 가장 알맞은 건?",
+   "choices": [
+    "시청이 올해 들어온 돈보다 나간 돈이 많아서 빚을 냈어",
+    "민수가 이번 달 용돈을 다 써 버려서 간식을 못 샀어",
+    "시청 건물이 너무 낡아서 비 오는 날마다 천장이 새",
+    "동네 빵집에 손님이 줄어서 한 달 매출이 확 떨어졌어"
+   ],
+   "answer_index": 0,
+   "answer": "시청이 올해 들어온 돈보다 나간 돈이 많아서 빚을 냈어",
+   "why": "맞아! 시청이 들어온 돈보다 나간 돈이 많아서 빚을 냈잖아. 시청 같은 공공 쪽 돈 살림에서 걷고, 쓰고, 빚지는 일이 다 나왔으니까 딱 fiscal 문제야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "tax"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-fiscal",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-fiscal"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/fiscal.webp",
+  "alt": "뉴스 속 내년 나라 살림(세금 걷기·쓰기·빚) 발표",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

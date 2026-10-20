@@ -1,0 +1,101 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/forfeit/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/forfeit/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "forfeit",
+ "slug": "forfeit",
+ "url": "https://hibbangyong.com/words/forfeit/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "(권리·자격을) 잃다 — 규칙이나 약속을 못 지켜서, 가질 수 있던 걸 규칙대로 빼앗기는 것",
+ "gloss_ko": "규칙 어겨 잃다",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "동아리 대회에 신청했는데 마감 시간을 넘겨 버렸어. 내 자리는 그냥 없어졌지.",
+  "누가 훔쳐 간 것도 아니고, 내가 버린 것도 아니야. 규칙을 못 지켜서 규칙대로 잃은 거야.",
+  "시험에서 부정행위를 해서 0점 처리되는 것도, 선수가 모자라서 경기가 진 걸로 되는 것도 다 여기에 들어가.",
+  "내가 원해서 내려놓는 포기와도 다르고, 실수로 흘린 분실과도 달라. 규칙이 가져가는 거야."
+ ],
+ "scene": "동아리 대회 신청 마감을 넘겨서 자리를 잃음",
+ "examples": [
+  {
+   "en": "If you cancel after Friday, you forfeit the money you paid.",
+   "ko": "금요일 지나서 취소하면 낸 돈은 못 돌려받는 거야."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "지우는 석 달 동안 매일 연습해서 교내 피아노 대회 결승전에 나갈 자격을 얻었어. 이게 'forfeit'이야?",
+   "choices": [
+    "응, forfeit 맞아",
+    "아니, forfeit 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, forfeit 아니야",
+   "why": "맞아! 지우는 석 달 동안 매일 연습해서 결승전 자격을 얻은 거잖아. forfeit은 규칙을 못 지켜서 가질 수 있던 걸 규칙대로 잃는 거니까, 노력해서 얻은 지우 얘기랑은 방향이 정반대야."
+  },
+  {
+   "type": "ox",
+   "question": "민수는 교내 배드민턴 대회에서 규칙상 신으면 안 되는 굽 높은 운동화를 신고 나왔어. 그래서 규칙에 따라 결승전에 나갈 자격을 잃었어. 이게 'forfeit'이야?",
+   "choices": [
+    "응, forfeit 맞아",
+    "아니, forfeit 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, forfeit 맞아",
+   "why": "맞아! 민수는 신으면 안 되는 굽 높은 운동화를 신어서 규칙을 어겼고, 그 규칙에 따라 결승전에 나갈 자격을 잃었잖아. 규칙을 못 지켜서 규칙대로 잃은 거니까, 이게 바로 forfeit야."
+  },
+  {
+   "type": "ox",
+   "question": "지우는 반장 선거 후보로 등록했는데, 옆 친구가 더 잘할 것 같아서 마감 전에 직접 등록을 취소했어. 이런 경우도 'forfeit'야?",
+   "choices": [
+    "응, forfeit 맞아",
+    "아니, forfeit 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, forfeit 아니야",
+   "why": "맞아! 지우는 마감 전에 스스로 등록을 취소한 거잖아. 규칙을 어겨서 자리를 빼앗긴 게 아니라 자기가 원해서 내려놓은 거니까, 이건 그냥 포기(이건 give up이야)고 forfeit이 아니야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "claim"
+ ],
+ "confusable": [
+  {
+   "word": "sacrifice",
+   "kind": "confusable",
+   "from": "vs sacrifice"
+  },
+  {
+   "word": "lose",
+   "kind": "confusable",
+   "from": "vs lose"
+  },
+  {
+   "word": "confiscate",
+   "kind": "confusable",
+   "from": "vs confiscate"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-forfeit",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-forfeit"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/forfeit.webp",
+  "alt": "동아리 대회 신청 마감을 넘겨서 자리를 잃음",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

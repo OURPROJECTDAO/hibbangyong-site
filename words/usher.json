@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/usher/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/usher/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "usher",
+ "slug": "usher",
+ "url": "https://hibbangyong.com/words/usher/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "안내원 — 극장·공연장·결혼식처럼 사람이 모이는 곳에서 손님을 앉을 자리까지 데려다주는 사람",
+ "gloss_ko": "좌석 안내원",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "영화 시작하고 늦게 들어가면 깜깜해서 내 자리 찾기 힘들잖아.",
+  "그때 와서 네 자리까지 데려다주는 사람이 있어. 결혼식장에서 하객들 자리 잡아 주는 사람도 같은 일을 해.",
+  "여행지를 돌면서 설명해 주는 가이드랑은 달라. 설명이 아니라 자리를 찾아 주는 게 일이야.",
+  "입구에서 이름을 확인하는 접수원도 아니야. 자리까지 같이 걸어가 주는 사람이 usher야."
+ ],
+ "scene": "늦게 들어간 깜깜한 영화관에서 자리까지 데려다주는 사람",
+ "examples": [
+  {
+   "en": "At my aunt's wedding, an usher took us to our seats.",
+   "ko": "이모 결혼식에서 안내하는 분이 우리를 자리까지 데려다줬어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "뮤지컬 2부가 시작돼서 공연장 안이 어두워졌어. 그때 들어온 손님을 한 직원이 손전등으로 바닥을 비추면서 좌석 번호를 확인하고, 그 손님 자리까지 같이 걸어가 줬어. 이 직원은 'usher'야?",
+   "choices": [
+    "응, usher 맞아",
+    "아니, usher 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, usher 맞아",
+   "why": "맞아! 어두운 공연장에서 손전등으로 바닥을 비추고, 좌석 번호를 확인하고, 손님 자리까지 같이 걸어가 줬잖아. 손님을 앉을 자리까지 데려다주는 사람, 그게 딱 usher야."
+  },
+  {
+   "type": "ox",
+   "question": "형 졸업식 날 엄마가 학교 강당에 왔어. 입구에서 직원을 따라가서, 직원이 알려 준 가족석 의자에 앉아 형이 나오기를 기다렸어. 이때 엄마는 'usher'야?",
+   "choices": [
+    "응, usher 맞아",
+    "아니, usher 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, usher 아니야",
+   "why": "맞아! 엄마는 직원을 따라가서 알려 준 가족석에 앉은 쪽이잖아. usher는 자리까지 데려다준 그 직원이고, 엄마는 안내를 받은 손님이야."
+  },
+  {
+   "type": "choice",
+   "question": "네 사람이 각자 자기가 하는 일을 말했어. 이 중 'usher'라고 부를 수 있는 사람은?",
+   "choices": [
+    "결혼식장에서 하객을 맞아 앉을 곳까지 이끌어 줘.",
+    "박물관에서 관람객과 함께 돌며 그림을 설명해 줘.",
+    "호텔 데스크에서 손님 이름을 확인하고 열쇠를 줘.",
+    "공연장에 표를 들고 들어가 내 자리를 찾아 앉아."
+   ],
+   "answer_index": 0,
+   "answer": "결혼식장에서 하객을 맞아 앉을 곳까지 이끌어 줘.",
+   "why": "맞아! 결혼식장에서 하객을 맞아서 앉을 곳까지 직접 이끌어 주잖아. 손님을 자리까지 데려다주는 게 바로 usher가 하는 일이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-usher",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-usher"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/usher.webp",
+  "alt": "늦게 들어간 깜깜한 영화관에서 자리까지 데려다주는 사람",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

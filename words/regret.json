@@ -1,0 +1,100 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/regret/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/regret/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "regret",
+ "slug": "regret",
+ "url": "https://hibbangyong.com/words/regret/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "후회하다 — 이미 한 일이나 안 한 일을 두고 '아, 그럴걸' 하며 마음이 쓰린 것",
+ "gloss_ko": "후회하다",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "워터파크에서 제일 높은 미끄럼틀 앞까지 갔다가, 무서워서 그냥 내려왔어.",
+  "집에 오는 차 안에서 자꾸 그 미끄럼틀이 떠올라. 잘못한 것도 없는데 마음이 콕콕해.",
+  "'아, 그때 탈걸.' 지나간 내 선택을 도로 무르고 싶은 마음이야. 일이 안 풀려서 씩씩대는 거랑은 달라.",
+  "한 일도, 안 한 일도 이렇게 무르고 싶어져. 그게 regret이야."
+ ],
+ "scene": "무서워서 높은 물미끄럼틀을 안 타고 내려온 아이",
+ "examples": [
+  {
+   "en": "I regret not going down the big slide.",
+   "ko": "그 큰 미끄럼틀을 안 타고 온 게 후회돼."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "소풍날 있었던 일을 네 아이가 각자 이야기했어. 지금 'regret' 하고 있는 아이는 누구일까?",
+   "choices": [
+    "우산을 안 챙기고 나온 게 자꾸 마음에 걸려, 그때 다르게 했으면 싶어.",
+    "버스가 한참을 안 와서 짜증이 나, 발로 땅을 툭툭 차고 있어.",
+    "우산을 챙겨 나온 자기가 참 야무졌다 싶어, 어깨가 으쓱해.",
+    "내일도 비가 올까 봐 마음이 자꾸 조마조마하고 무거워."
+   ],
+   "answer_index": 0,
+   "answer": "우산을 안 챙기고 나온 게 자꾸 마음에 걸려, 그때 다르게 했으면 싶어.",
+   "why": "맞아! 우산을 안 챙긴 건 지나간 내 선택이고, 그때 다르게 했으면 싶은 마음이잖아. 그렇게 내 선택을 도로 무르고 싶어지는 게 바로 regret이야."
+  },
+  {
+   "type": "ox",
+   "question": "할머니 댁에서 키우던 강아지를 지호가 아주 예뻐했어. 이번 방학엔 할머니 댁에 못 가서, 지호는 그 강아지가 자꾸 보고 싶고 마음이 허전해. 이런 마음도 'regret'야?",
+   "choices": [
+    "응, 'regret' 맞아.",
+    "아니, 'regret' 아니야."
+   ],
+   "answer_index": 1,
+   "answer": "아니, 'regret' 아니야.",
+   "why": "잘 봤어! 지호가 '아, 그때 그럴걸' 하고 무르고 싶은 자기 선택이 없거든. 그냥 강아지가 보고 싶어서 허전한 거라서, 이건 regret이 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "수아가 동생 장난감을 부러뜨렸어. 마음속으로는 아무 생각이 없었지만, 엄마가 시켜서 동생 앞에 서서 '미안해'라고 또박또박 말했어. 수아가 지금 하고 있는 게 'regret'야?",
+   "choices": [
+    "응, 'regret' 맞아.",
+    "아니, 'regret' 아니야."
+   ],
+   "answer_index": 1,
+   "answer": "아니, 'regret' 아니야.",
+   "why": "맞아! 수아는 속으로 아무 생각이 없고 입으로만 미안하다고 말한 거잖아. 무르고 싶은 마음이 하나도 없으니까 regret은 아닌 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "apologize",
+   "kind": "confusable",
+   "from": "vs apologize"
+  },
+  {
+   "word": "miss",
+   "kind": "confusable",
+   "from": "vs miss"
+  }
+ ],
+ "related_scene": [
+  "apology",
+  "guilt",
+  "remorse"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-regret",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-regret"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/regret.webp",
+  "alt": "무서워서 높은 물미끄럼틀을 안 타고 내려온 아이",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

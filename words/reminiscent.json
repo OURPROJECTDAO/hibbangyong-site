@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/reminiscent/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/reminiscent/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "reminiscent",
+ "slug": "reminiscent",
+ "url": "https://hibbangyong.com/words/reminiscent/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "떠올리게 하는 — 소리·냄새·맛·모습 같은 데 비슷한 점이 있어서 다른 뭔가가 생각나게 하는 (주로 reminiscent of ~ 꼴로 써)",
+ "gloss_ko": "떠올리게 하는",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "처음 듣는 노래인데 앞부분이 전에 들은 다른 노래랑 비슷해. 듣자마자 그 노래가 생각났어.",
+  "이렇게 A에 비슷한 데가 있어서 B가 머리에 떠오르면 A is reminiscent of B라고 해. 소리든 냄새든 맛이든 그림 느낌이든 다 돼.",
+  "좋은 기억일 필요도 없어. 병원 냄새 때문에 무서웠던 주사가 떠올라도 이 말을 써.",
+  "그냥 비슷하기만 하고 딴 게 안 떠오르면 이 말은 안 써. 참고로 of 없이 a reminiscent smile이라고 하면 옛날 생각에 잠긴 웃음이라는 뜻이야."
+ ],
+ "scene": "처음 듣는 노래 앞부분이 전에 들은 다른 노래를 떠올리게 함",
+ "examples": [
+  {
+   "en": "The start of this new song is reminiscent of a scary movie.",
+   "ko": "이 새 노래 앞부분 들으니까 무서운 영화 음악이 생각나."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "민수가 새로 나온 게임의 배경 음악을 듣고 이렇게 말했어. \"This music is 'reminiscent' of 옛날 게임 음악.\" 민수의 말은 '이 음악을 들으니 옛날 게임 음악이 머리에 떠오른다'는 뜻일까?",
+   "choices": [
+    "응, 그런 뜻 맞아",
+    "아니, 그런 뜻 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 그런 뜻 맞아",
+   "why": "맞아! 민수는 새 게임 음악을 들었는데 옛날 게임 음악이 머리에 떠오른 거잖아. 이렇게 하나를 듣고 다른 게 생각나게 할 때 쓰는 말이 reminiscent of야."
+  },
+  {
+   "type": "ox",
+   "question": "지우가 새 비누 냄새를 맡고 이렇게 말했어. \"This soap is 'reminiscent' of 레몬.\" 지우의 말은 '레몬이랑 조금 닮긴 했는데 머리에 떠오르는 건 없다'는 뜻일까?",
+   "choices": [
+    "응, 그런 뜻 맞아",
+    "아니, 그런 뜻 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 그런 뜻 아니야",
+   "why": "맞아! 지우가 비누 냄새를 맡고 reminiscent of 레몬이라고 했으면 그 냄새 때문에 레몬이 머리에 떠올랐다는 거야. 떠오르는 게 없다는 풀이는 이 말이랑 반대라서 아니라고 한 게 맞아."
+  },
+  {
+   "type": "choice",
+   "question": "다음 중 'reminiscent'를 쓰기에 가장 알맞은 상황은?",
+   "choices": [
+    "엄마가 내일 준비물 챙기라고 한 번 더 말해 줘서 생각났어.",
+    "새 빵집 냄새가 할머니 집 부엌 냄새랑 비슷해서 그 부엌이 생각났어.",
+    "수학여행 때 본 바다가 너무 예뻐서 그 바다가 지금도 자꾸 생각나.",
+    "필통 두 개가 모양이 비슷했는데 둘 다 처음 봐서 생각나는 건 없었어."
+   ],
+   "answer_index": 1,
+   "answer": "새 빵집 냄새가 할머니 집 부엌 냄새랑 비슷해서 그 부엌이 생각났어.",
+   "why": "맞아! 새 빵집 냄새에 할머니 집 부엌이랑 비슷한 데가 있어서 그 부엌이 떠오른 거잖아. 이렇게 비슷한 점 때문에 다른 게 생각나야 reminiscent야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-reminiscent",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-reminiscent"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/reminiscent.webp",
+  "alt": "처음 듣는 노래 앞부분이 전에 들은 다른 노래를 떠올리게 함",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

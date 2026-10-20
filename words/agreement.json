@@ -1,0 +1,88 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/agreement/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/agreement/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "agreement",
+ "slug": "agreement",
+ "url": "https://hibbangyong.com/words/agreement/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "합의 — 두 사람이나 여럿이 '이렇게 하자' 하고 서로 받아들여 함께 정한 약속. 서로 생각이 맞는 것도 이렇게 불러",
+ "gloss_ko": "함께 정한 약속",
+ "level": {
+  "code": "L3",
+  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "리모컨 때문에 형이랑 맨날 투닥투닥하지? 그래서 둘이 마주 앉아 정했어. '평일은 형, 주말은 나!' 둘 다 끄덕, 딱!",
+  "꼭 신나게 정할 필요는 없어. 조금씩 양보하고 '그래, 그러자' 해도 돼. 나라끼리 싸움을 멈추기로 하거나 회사끼리 도장 쾅 찍는 것도 똑같아.",
+  "그리고 '나도 같은 생각이야!' 하고 서로 생각이 딱 맞을 때도 이 말을 써.",
+  "엄마 혼자 정한 규칙이나 나 혼자 하는 다짐이랑은 달라. 양쪽이 다 '좋아' 해야 해. 그게 agreement야."
+ ],
+ "scene": "형제가 리모컨을 두고 평일은 형, 주말은 동생으로 나누기",
+ "examples": [
+  {
+   "en": "My brother and I made an agreement: he gets the TV on weekdays, and I get it on weekends.",
+   "ko": "형이랑 나는 평일엔 형이, 주말엔 내가 텔레비전을 보기로 약속했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "나랑 친구가 토요일에 어디서 만날지 얘기했어. 친구가 \"3시에 놀이터 그네 앞에서 보자.\" 하니까 나도 \"응, 그러자!\" 했어. 둘이 이렇게 정한 게 'agreement'야?",
+   "choices": [
+    "응, agreement 맞아",
+    "아니, agreement 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, agreement 맞아",
+   "why": "맞아! 친구가 3시에 놀이터 그네 앞에서 보자고 했고, 너도 응, 그러자 했잖아. 둘이 다 좋다고 해서 같이 정했으니까 바로 그게 agreement인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "나랑 동생이 새로 온 강아지 이름을 얘기했어. 나는 '초코', 동생은 '콩이'라고 했어. 둘 다 끝까지 자기 이름을 안 바꿔서 결국 못 정했어. 이게 'agreement'야?",
+   "choices": [
+    "응, agreement 맞아",
+    "아니, agreement 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, agreement 아니야",
+   "why": "맞아! 너는 초코, 동생은 콩이를 끝까지 안 바꿔서 이름을 못 정했잖아. 둘 다 좋다고 한 이름이 하나도 없으니까 agreement가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "1반과 2반 반장이 운동장 때문에 만났어. 다음 중 두 반장 사이에 'agreement'가 생긴 건 어느 것일까?",
+   "choices": [
+    "두 반장이 조금씩 양보해서 월수는 1반, 화목은 2반이 쓰기로 했어.",
+    "두 반장이 함께 운동장에 나가서 새 줄을 하얗게 쭉 그었어.",
+    "1반 반장이 '내일은 우리 반이 쓸게.' 하고 말만 하고 가 버렸어.",
+    "두 반장이 서로 자기 반이 쓰겠다고 끝까지 큰 소리로 다퉜어."
+   ],
+   "answer_index": 0,
+   "answer": "두 반장이 조금씩 양보해서 월수는 1반, 화목은 2반이 쓰기로 했어.",
+   "why": "맞아! 두 반장이 조금씩 양보해서 월수는 1반, 화목은 2반이 쓰기로 둘 다 좋다고 정했잖아. 이렇게 양쪽이 다 받아들여서 함께 정한 약속이 바로 agreement인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "contract",
+  "mediation"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-agreement",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-agreement"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/agreement.webp",
+  "alt": "형제가 리모컨을 두고 평일은 형, 주말은 동생으로 나누기",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

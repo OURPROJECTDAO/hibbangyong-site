@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/slope/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/slope/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "slope",
+ "slug": "slope",
+ "url": "https://hibbangyong.com/words/slope/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "비탈 — 한쪽은 높고 한쪽은 낮게 기울어진 바닥",
+ "gloss_ko": "비탈",
+ "level": {
+  "code": "L4",
+  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "공을 살짝 내려놨을 뿐인데 저 혼자 데굴데굴 굴러가 버려. 왜냐고? 바닥이 기울어져 있거든.",
+  "한쪽은 높고 한쪽은 낮아. 그래서 올라갈 땐 다리가 뻐근하고, 내려올 땐 발이 저절로 빨라져.",
+  "절벽처럼 뚝 끊긴 것도 아니고, 계단처럼 한 칸씩 툭툭 떨어지는 것도 아니야. 기울어진 채로 쭉 이어져 있어.",
+  "땅도 그렇고 지붕도 그렇고, 그렇게 비스듬히 기울어진 바닥. 이게 slope야."
+ ],
+ "scene": "기울어진 바닥에 놓은 공이 저절로 굴러가는 장면",
+ "examples": [
+  {
+   "en": "The ball rolled down the grassy slope.",
+   "ko": "공이 풀로 덮인 비탈을 따라 굴러 내려갔어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "체육관 안에 구슬을 하나 살며시 내려놨더니 구른 데 없이 그 자리에 딱 멈춰 있었어. 이 체육관 바닥이 'slope'야?",
+   "choices": [
+    "응, slope 맞아",
+    "아니, slope 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, slope 아니야",
+   "why": "맞아! 구슬을 살며시 내려놨는데 그 자리에 딱 멈춰 있었잖아. 바닥이 기울어져 있었으면 구슬이 저 혼자 굴러갔을 거야. 이 체육관 바닥은 높은 쪽도 낮은 쪽도 없이 평평해서 slope가 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "놀이터 미끄럼틀 옆 땅에 물을 한 컵 부었더니, 물이 한쪽으로만 주르륵 흘러내려 갔어. 이 땅이 'slope'야?",
+   "choices": [
+    "응, slope 맞아",
+    "아니, slope 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, slope 맞아",
+   "why": "맞아! 물이 한쪽으로만 주르륵 흘러내려 갔다는 건, 그 땅이 한쪽은 높고 한쪽은 낮게 기울어져 있다는 거거든. 그래서 이 땅이 바로 slope인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "민수가 자전거를 끌고 네 군데 길에 가 봤어. 이 중에서 'slope'라고 부를 수 있는 길은 어디야?",
+   "choices": [
+    "자전거를 세워 두면 저 혼자 아래로 굴러가서 꼭 붙잡고 있어야 하는 길",
+    "자전거를 세워 두면 그 자리에 가만히 있어서 손을 놓아도 되는 길",
+    "자전거를 끌고 갈 수가 없어서 번쩍 들고 한 칸씩 올라가야 하는 길",
+    "자전거로 앞까지 가면 땅이 뚝 끊겨서 더는 못 가고 멈춰야 하는 길"
+   ],
+   "answer_index": 0,
+   "answer": "자전거를 세워 두면 저 혼자 아래로 굴러가서 꼭 붙잡고 있어야 하는 길",
+   "why": "맞아! 자전거를 세워 두기만 했는데 저 혼자 아래로 굴러가는 건 길이 기울어져 있어서야. 한쪽은 높고 한쪽은 낮은 채로 쭉 이어진 길, 그게 바로 slope인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "steep"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-slope",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-slope"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/slope.webp",
+  "alt": "기울어진 바닥에 놓은 공이 저절로 굴러가는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

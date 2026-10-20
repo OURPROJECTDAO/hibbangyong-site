@@ -1,0 +1,92 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/posturing/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/posturing/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "posturing",
+ "slug": "posturing",
+ "url": "https://hibbangyong.com/words/posturing/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "보여주기식 태도 — 진심이라서가 아니라, 남들 눈에 어떻게 보일지를 노리고 하는 말이나 행동",
+ "gloss_ko": "보여주기식 태도",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "학생회 선거 날, 한 후보는 카메라가 있을 때만 쓰레기를 줍고, 다른 후보는 \"언제든 토론 붙자\"고 큰소리쳐.",
+  "둘 다 정말 하려는 게 아니야. 사람들한테 그렇게 보이고 싶은 거지.",
+  "착한 척이든 센 척이든, 보여 주려고 꾸민 말과 행동이 posturing이야.",
+  "그냥 자랑하는 거나 진짜 자신 있는 거랑은 달라. 진심이 빠져 있고 구경꾼을 노린다는 게 핵심이야."
+ ],
+ "scene": "학생회 후보가 카메라 앞에서만 쓰레기 줍기",
+ "examples": [
+  {
+   "en": "The two leaders shouted at each other on TV, but most people saw it as posturing.",
+   "ko": "두 지도자가 방송에서 서로 소리를 질렀는데, 사람들은 대부분 보여 주기라고 봤어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "동아리 회장 서연이는 SNS 라이브 방송을 켤 때만 후배 가방을 들어 줘. 방송을 끄면 바로 가방을 후배한테 돌려줘. 서연이의 이 행동은 'posturing'이야?",
+   "choices": [
+    "응, posturing 맞아",
+    "아니, posturing 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, posturing 맞아",
+   "why": "맞아! 서연이는 라이브 방송을 켤 때만 후배 가방을 들어 주고, 끄자마자 바로 돌려주잖아. 진짜 도와주려는 게 아니라 방송 보는 사람들한테 착하게 보이려는 거니까 바로 그게 posturing인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "도윤이는 편의점에서 거스름돈을 더 받은 걸 집에 와서야 알았어. 아무도 모르는 일인데 혼자 다시 가서 그 돈을 돌려줬어. 도윤이의 이 행동은 'posturing'이야?",
+   "choices": [
+    "응, posturing 맞아",
+    "아니, posturing 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, posturing 아니야",
+   "why": "맞아! 아무도 모르는 일이었는데 도윤이는 혼자 다시 가서 돈을 돌려줬잖아. 봐 줄 사람이 없는데도 했으니까 남들 눈을 노린 게 아니라 진심에서 나온 행동이고, 그래서 posturing이 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "사람들이 지켜보는 자리에서 한 행동 네 가지야. 이 중에서 'posturing'이라고 부르기에 가장 알맞은 건?",
+   "choices": [
+    "마라톤 중계 카메라 앞에서 쓰러진 선수를 부축하고, 카메라가 꺼진 뒤에도 병원까지 따라간 선수",
+    "생방송 토론에서 정말 화가 나 언성을 높이고, 방송이 끝난 뒤에도 그 일을 계속 따진 정치인",
+    "기자들 앞에서 \"꼭 기부하겠다\"고 크게 발표하고, 기자들이 돌아가자 그 약속을 없던 일로 한 가수",
+    "생방송 인터뷰에서 고마운 선생님 얘기를 하다 울컥하고, 다음 날 직접 찾아가 인사드린 배우"
+   ],
+   "answer_index": 2,
+   "answer": "기자들 앞에서 \"꼭 기부하겠다\"고 크게 발표하고, 기자들이 돌아가자 그 약속을 없던 일로 한 가수",
+   "why": "맞아! 기자들 앞에서는 꼭 기부하겠다고 크게 발표해 놓고, 기자들이 돌아가자마자 없던 일로 했잖아. 진짜 기부할 마음은 없고 사람들 눈에 착하게 보이려고만 한 거라서 바로 그게 posturing이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "pretense",
+   "kind": "confusable",
+   "from": "vs pretense"
+  },
+  {
+   "word": "grandstanding",
+   "kind": "confusable",
+   "from": "vs grandstanding"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-posturing",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-posturing"
+ },
+ "image": null
+}

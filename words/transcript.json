@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/transcript/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/transcript/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "transcript",
+ "slug": "transcript",
+ "url": "https://hibbangyong.com/words/transcript/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "말을 옮겨 적은 글(녹취록) — 누가 한 말을 글로 옮겨 적은 것",
+ "gloss_ko": "말을 옮긴 글",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "선생님이 온라인 수업 끝나고, 수업 시간에 한 말을 글로 쭉 올려 줬어.",
+  "누가 이미 한 말을 글자로 그대로 옮겨 놓은 것, 그게 transcript야.",
+  "수업, 인터뷰, 회의, 재판처럼 말이 오간 자리라면 어디서든 만들어져.",
+  "내 말로 줄인 요약이나 말하기 전에 미리 써 둔 대본은 아니야. 한 말을 받아 적은 글이야."
+ ],
+ "scene": "온라인 수업에서 한 말을 글로 올려 준 것",
+ "examples": [
+  {
+   "en": "The teacher posted a transcript of today's online class.",
+   "ko": "선생님이 오늘 온라인 수업에서 한 말을 글로 옮겨서 올려 주셨어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "라디오 방송이 끝난 뒤 방송국에서 진행자와 손님이 방송 중에 한 말을 글로 그대로 옮겨 홈페이지에 올렸어. 이 글이 'transcript'야?",
+   "choices": [
+    "응, transcript 맞아",
+    "아니, transcript 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, transcript 맞아",
+   "why": "맞아! 진행자와 손님이 방송 중에 이미 한 말을 방송이 끝난 뒤에 글로 그대로 옮긴 거라서, 바로 그게 transcript인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "졸업식 전날 밤, 교장 선생님이 다음 날 졸업식에서 할 축사를 미리 종이에 적어 두었어. 이 글이 'transcript'야?",
+   "choices": [
+    "응, transcript 맞아",
+    "아니, transcript 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, transcript 아니야",
+   "why": "맞아! 교장 선생님은 축사를 아직 하지도 않았는데 전날 밤에 미리 적어 둔 거잖아. transcript는 누가 이미 한 말을 받아 적은 글이라서, 말하기 전에 써 둔 이 글은 transcript가 아니야."
+  },
+  {
+   "type": "choice",
+   "question": "뉴스에서 '변호사가 그 재판의 transcript를 꼼꼼히 확인했다'고 했어. 여기서 'transcript'는 무엇을 가리킬까?",
+   "choices": [
+    "재판에서 증인과 판사가 한 말을 글로 옮긴 기록",
+    "재판 전에 판사가 미리 적어 둔 판결 원고",
+    "재판이 열리는 동안 법정을 찍어 둔 영상",
+    "재판이 끝나고 결과만 짧게 정리한 발표문"
+   ],
+   "answer_index": 0,
+   "answer": "재판에서 증인과 판사가 한 말을 글로 옮긴 기록",
+   "why": "맞아! 뉴스 속 변호사가 꼼꼼히 본 건 재판에서 증인과 판사가 실제로 한 말을 글로 옮긴 기록이야. 이미 오간 말을 그대로 받아 적은 글이라서 바로 그게 transcript인 거야."
+  }
+ ],
+ "synonyms": [
+  "copy"
+ ],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-transcript",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-transcript"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/transcript.webp",
+  "alt": "온라인 수업에서 한 말을 글로 올려 준 것",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

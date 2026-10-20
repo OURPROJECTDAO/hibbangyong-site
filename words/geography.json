@@ -1,0 +1,94 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/geography/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/geography/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "geography",
+ "slug": "geography",
+ "url": "https://hibbangyong.com/words/geography/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "지리 — 땅이 어떻게 생겼고, 어디에 산·강·바다가 있는지 아는 거야.",
+ "gloss_ko": "지리",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "세계 지도를 쫙 펼쳐봐.",
+  "여기는 높은 산, 저기는 넓은 바다, 저기는 기다란 강이 흐르지?",
+  "땅이 어떻게 생겼고, 어디에 뭐가 있는지 알아보는 거야.",
+  "그게 geography야."
+ ],
+ "scene": "세계 지도를 펼쳐 산·바다·강의 위치를 훑어보는 장면",
+ "examples": [
+  {
+   "en": "In geography class, we found out where the biggest mountains are.",
+   "ko": "지리 시간에 우리는 제일 큰 산들이 어디 있는지 알아냈어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "누나가 공책에 27 더하기 48을 세로로 쓰고, 받아올림을 해서 답을 구했어. 이게 'geography'야?",
+   "choices": [
+    "응, geography 맞아",
+    "아니, geography 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, geography 아니야",
+   "why": "맞아! 여기는 숫자를 더하는 계산이지, 산이 어디 있고 강이 어디로 흐르는지 알아보는 게 아니거든. 땅 얘기가 하나도 안 나오니까 geography가 아닌 게 맞아."
+  },
+  {
+   "type": "ox",
+   "question": "형이 공책에 우리 동네 땅을 그렸어. 여기는 언덕이 솟았고, 저기는 개울이 굽어 흐르고, 그 옆은 넓은 들판이라고 표시했어. 이게 'geography'야?",
+   "choices": [
+    "응, geography 맞아",
+    "아니, geography 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, geography 맞아",
+   "why": "맞아! 언덕이 어디 솟았고 개울이 어디로 굽어 흐르고 들판이 어디 있는지 그려 놨잖아. 땅이 어떻게 생겼고 어디에 뭐가 있는지 담은 거라서 바로 그게 geography인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 친구들이 각자 무엇에 대해 알아봤는지 말했어. 'geography'에 대해 알아본 사람은 누구야?",
+   "choices": [
+    "어느 나라에 큰 강이 흐르고, 어디가 산이고 어디가 사막인지 찾아봤어.",
+    "옛날에 어떤 왕이 살았고 무슨 전쟁이 있었는지 찾아봤어.",
+    "숫자를 빠르게 더하고 빼서 답 구하는 법을 익혔어.",
+    "물감을 섞어서 예쁜 그림 그리는 법을 배웠어."
+   ],
+   "answer_index": 0,
+   "answer": "어느 나라에 큰 강이 흐르고, 어디가 산이고 어디가 사막인지 찾아봤어.",
+   "why": "맞아! 어디에 강이 흐르고 어디가 산이고 어디가 사막인지 찾아본 거, 그게 바로 땅이 어떻게 생겼는지 알아본 거잖아. 지도를 쫙 펼쳐서 보는 그것, 그게 geography야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "geology",
+   "kind": "confusable",
+   "from": "vs geology"
+  }
+ ],
+ "related_scene": [
+  "geology",
+  "topography"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-geography",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-geography"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/geography.webp",
+  "alt": "세계 지도를 펼쳐 산·바다·강의 위치를 훑어보는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

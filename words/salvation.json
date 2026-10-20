@@ -1,0 +1,83 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/salvation/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/salvation/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "salvation",
+ "slug": "salvation",
+ "url": "https://hibbangyong.com/words/salvation/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "구원 — 위험이나 실패로 무너질 뻔한 걸 건져 주는 것(살길)",
+ "gloss_ko": "살길·구원",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "비가 쏟아져서 체육대회가 통째로 날아가게 생겼어. 그런데 체육관을 빌릴 수 있어서 그대로 치렀지.",
+  "그때 그 체육관이 salvation이야. 무너질 뻔한 걸 건져 준 살길.",
+  "사람일 수도, 물건이나 작은 기회일 수도 있어. 종교에서 말하는 '구원'도 이 단어야.",
+  "그냥 좀 도와준 거랑은 달라. 그게 없었으면 진짜 망했을 때만 이렇게 불러."
+ ],
+ "scene": "비 때문에 날아갈 뻔한 체육대회를 체육관이 살림",
+ "examples": [
+  {
+   "en": "When it started to rain hard, the big gym became our salvation.",
+   "ko": "비가 세게 쏟아지기 시작했을 때, 큰 체육관이 우리를 살려 줬어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "조별 발표 날 아침에 노트북이 고장 나서 발표 파일을 열 수 없었어. 발표를 통째로 못 하게 생겼는데, 친구가 전날 USB에 파일을 옮겨 둔 덕분에 발표를 끝까지 마쳤어. 이 USB는 그 발표의 'salvation'이야?",
+   "choices": [
+    "응, salvation 맞아",
+    "아니, salvation 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, salvation 맞아",
+   "why": "맞아! 노트북이 고장 나서 발표를 통째로 못 하게 생겼는데, 친구가 옮겨 둔 USB 덕분에 끝까지 마쳤잖아. 무너질 뻔한 발표를 건져 준 살길이니까 바로 그게 salvation인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "가족이 바닷가로 캠핑을 가서 텐트를 쳤어. 그런데 밤에 갑자기 강풍이 불어 텐트가 찢어졌고, 결국 캠핑을 접고 한밤중에 집으로 돌아왔어. 이 강풍은 그 캠핑의 'salvation'이야?",
+   "choices": [
+    "응, salvation 맞아",
+    "아니, salvation 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, salvation 아니야",
+   "why": "맞아! 강풍은 캠핑을 건져 준 게 아니라 텐트를 찢어서 캠핑을 접게 만든 원인이잖아. salvation은 무너질 뻔한 걸 건져 주는 살길이니까, 오히려 망치게 한 강풍은 정반대인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "산에서 길을 잃었는데 해가 지고 있었어. 휴대폰 배터리가 1% 남아 있어서 그걸로 지도를 겨우 확인하고 캠프로 돌아왔어. 이 1% 배터리도 'salvation'이야?",
+   "choices": [
+    "응, 'salvation' 맞아",
+    "아니, 'salvation' 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 'salvation' 맞아",
+   "why": "맞아! 해가 지는 산에서 길을 잃었는데, 그 1% 배터리로 지도를 확인해서 캠프로 돌아왔잖아. 그게 없었으면 진짜 큰일 났을 테니까, 사람이 아니고 배터리여도 salvation 맞아."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-salvation",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-salvation"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/salvation.webp",
+  "alt": "비 때문에 날아갈 뻔한 체육대회를 체육관이 살림",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

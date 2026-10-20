@@ -1,0 +1,107 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/intermediate/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/intermediate/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "intermediate",
+ "slug": "intermediate",
+ "url": "https://hibbangyong.com/words/intermediate/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "중간의 — 맨 처음도 맨 끝도 아니고, 딱 그 사이에 낀.",
+ "gloss_ko": "중간의",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "어디 멀리 갈 때, 출발하는 곳이랑 도착하는 곳이 있잖아? 근데 그 둘 사이에 잠깐잠깐 들르는 데가 있어.",
+  "맨 처음도 아니고 맨 끝도 아니고, 딱 그 사이에 낀 거야.",
+  "계단도 그래—맨 아래층도 꼭대기층도 아닌 중간층. 수영반도 처음 배우는 반이랑 아주 잘하는 반, 그 사이 반.",
+  "이렇게 두 끝 사이에 낀 게 intermediate야."
+ ],
+ "scene": "멀리 갈 때 출발지와 도착지 사이에 잠깐 들르는 데",
+ "examples": [
+  {
+   "en": "My brother moved up to the intermediate class this year.",
+   "ko": "우리 오빠 올해 중급반으로 올라갔어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "수영 학원에 반이 셋 있어. 물에 얼굴 담그고 뜨는 걸 이제 막 배우는 반, 자유형이랑 배영 같은 영법을 익히는 반, 대회 나갈 선수들이 기록 줄이는 반. 이 중에 'intermediate' 반은 어디게?",
+   "choices": [
+    "물에 얼굴 담그고 뜨는 걸 이제 막 배우는 반",
+    "자유형이랑 배영 같은 영법을 익히는 반",
+    "대회 나갈 선수들이 기록을 줄이는 반",
+    "수영은 안 하고 튜브 타고 물놀이만 하는 반"
+   ],
+   "answer_index": 1,
+   "answer": "자유형이랑 배영 같은 영법을 익히는 반",
+   "why": "맞아! 이제 막 배우는 반보다는 잘하지만 선수들만큼은 아니잖아—딱 그 사이에 낀 반이라서 바로 그게 intermediate야."
+  },
+  {
+   "type": "choice",
+   "question": "다음 중 'intermediate' 실력에 해당하는 사람은?",
+   "choices": [
+    "이제 막 크레파스 잡는 법부터 배우기 시작한 사람",
+    "그림은 안 그리고 물감 통만 정리하는 사람",
+    "혼자서 그림을 곧잘 그리지만 아직 더 배우는 중인 사람",
+    "전시회를 여는, 그림을 제일 잘 그리는 최고 화가"
+   ],
+   "answer_index": 2,
+   "answer": "혼자서 그림을 곧잘 그리지만 아직 더 배우는 중인 사람",
+   "why": "맞아! 혼자 곧잘 그리는데 아직 더 배우는 중이면, 막 시작한 것도 아니고 최고도 아닌 딱 그 사이잖아. 그게 바로 intermediate야."
+  },
+  {
+   "type": "choice",
+   "question": "다음 중 'intermediate'에 해당하는 건 어느 거게?",
+   "choices": [
+    "못에 걸어 둔 동그란 시계",
+    "신발장에 넣어 둔 운동화",
+    "책 두 권 사이에 꽂힌 얇은 공책",
+    "식탁에 올려 둔 유리컵"
+   ],
+   "answer_index": 2,
+   "answer": "책 두 권 사이에 꽂힌 얇은 공책",
+   "why": "맞아! 책 두 권 사이에 딱 낀 얇은 공책이잖아. 앞도 뒤도 아니고 딱 그 사이에 껴 있으니까 바로 그게 intermediate인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "terminal"
+ ],
+ "confusable": [
+  {
+   "word": "medium",
+   "kind": "confusable",
+   "from": "중간=그냥 보통·평균(medium/average)"
+  },
+  {
+   "word": "average",
+   "kind": "confusable",
+   "from": "중간=그냥 보통·평균(medium/average)"
+  },
+  {
+   "word": "center",
+   "kind": "confusable",
+   "from": "물체의 정가운데 위치(center)"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-intermediate",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-intermediate"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/intermediate.webp",
+  "alt": "멀리 갈 때 출발지와 도착지 사이에 잠깐 들르는 데",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/archetype/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/archetype/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "archetype",
+ "slug": "archetype",
+ "url": "https://hibbangyong.com/words/archetype/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "전형 — 어떤 종류의 특징을 거의 다 갖춰서, 그 종류를 대표하는 본보기",
+ "gloss_ko": "대표 본보기",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "'탐정' 하면 딱 떠오르는 모습 있지? 모자, 돋보기, 날카로운 추리.",
+  "그런 특징을 거의 다 갖춰서 그 종류를 대표하는 본보기가 archetype이야.",
+  "착한 영웅이든 못된 악당이든, 어떤 종류에나 다 쓸 수 있어.",
+  "제일 뛰어난 거랑은 달라. 그 종류다운 모습이 제일 진하게 드러나는 거야."
+ ],
+ "scene": "탐정 하면 떠오르는 모습(모자·돋보기·추리)",
+ "examples": [
+  {
+   "en": "Sherlock Holmes is the archetype of the clever detective.",
+   "ko": "셜록 홈즈는 똑똑한 탐정 하면 딱 떠오르는 대표 모습이야."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "연극 동아리에서 '마녀'의 archetype을 연기할 사람을 뽑는대. 어떤 마녀 연기가 맞을까?",
+   "choices": [
+    "오디션에서 연기 점수를 제일 높게 받은 마녀",
+    "뾰족 모자를 쓰고 빗자루를 든 채 낄낄 웃는 마녀",
+    "청바지를 입고 마법 대신 요리만 하는 마녀",
+    "극 전체에서 대사 분량이 제일 많은 마녀"
+   ],
+   "answer_index": 1,
+   "answer": "뾰족 모자를 쓰고 빗자루를 든 채 낄낄 웃는 마녀",
+   "why": "맞아! 뾰족 모자, 빗자루, 낄낄 웃음까지 마녀 하면 딱 떠오르는 특징을 거의 다 갖췄잖아. 그래서 바로 그게 마녀를 대표하는 archetype인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "핼러윈 파티에 '흡혈귀'의 archetype으로 분장하고 오래. 어떤 분장이 맞을까?",
+   "choices": [
+    "작년 파티에서 사진이 제일 많이 찍힌 흡혈귀",
+    "햇볕 아래 반바지 차림으로 수박을 먹는 흡혈귀",
+    "친구들 중 키가 제일 큰 아이가 맡은 흡혈귀",
+    "송곳니에 검은 망토, 창백한 얼굴을 한 흡혈귀"
+   ],
+   "answer_index": 3,
+   "answer": "송곳니에 검은 망토, 창백한 얼굴을 한 흡혈귀",
+   "why": "맞아! 송곳니, 검은 망토, 창백한 얼굴은 흡혈귀 하면 딱 떠오르는 특징이잖아. 그걸 거의 다 갖췄으니까 이게 바로 흡혈귀를 대표하는 본보기, archetype인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "친구 넷이 영화 속 악당 이야기를 하면서 각자 악당 하나씩을 골랐어. 악당의 'archetype'을 고른 친구는 누구일까?",
+   "choices": [
+    "관객 투표에서 가장 무섭다고 1등 한 악당",
+    "음흉한 웃음에 세계 정복 꿈까지 다 가진 악당",
+    "요즘 나오는 영화마다 제일 자주 보이는 악당",
+    "겉모습만 악당이고 실제론 친구를 돕는 악당"
+   ],
+   "answer_index": 1,
+   "answer": "음흉한 웃음에 세계 정복 꿈까지 다 가진 악당",
+   "why": "맞아! 음흉한 웃음에 세계 정복 꿈까지, 악당 하면 떠오르는 특징을 거의 다 갖췄잖아. 그래서 이 악당이 악당이라는 종류를 대표하는 본보기, 바로 archetype인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-archetype",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-archetype"
+ },
+ "image": null
+}

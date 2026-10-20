@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/recourse/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/recourse/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "recourse",
+ "slug": "recourse",
+ "url": "https://hibbangyong.com/words/recourse/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "기댈 수단 — 일이 곤란해졌을 때 내가 꺼내 쓸 수 있는 방법, 또는 그 방법에 기대는 것",
+ "gloss_ko": "기댈 수단",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "일이 꼬였어. 그러면 누구나 '지금 내가 꺼내 쓸 수 있는 방법이 뭐가 있지?' 하고 찾아.",
+  "그렇게 곤란할 때 기대는 수단이 recourse야. 좋은 방법일 수도 있고, 별로지만 그것밖에 없는 방법일 수도 있어.",
+  "그냥 아무 선택지랑은 달라. 곤란한 일이 있어야 쓰는 말이고, 문제가 풀린 결과를 가리키는 말도 아니야.",
+  "기댈 데가 하나도 없으면 no recourse, 딱 막힌 거지."
+ ],
+ "scene": "일이 꼬였을 때 꺼내 쓸 방법을 찾는 순간",
+ "examples": [
+  {
+   "en": "Without a receipt, I had no recourse.",
+   "ko": "영수증이 없으니까 따져 볼 방법이 하나도 없었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "낯선 동네에서 휴대폰 배터리가 꺼져 길을 잃었어. 그래서 근처 경찰서에 들어가 길을 묻기로 했어. 경찰서에 가서 묻는 이 방법, 'recourse'야?",
+   "choices": [
+    "응, recourse 맞아",
+    "아니, recourse 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, recourse 맞아",
+   "why": "맞아! 배터리가 꺼져서 길을 잃은 곤란한 상황에서, 경찰서에 가서 묻는 건 네가 꺼내 쓸 수 있는 방법이잖아. 그렇게 곤란할 때 기대는 수단이 바로 recourse야."
+  },
+  {
+   "type": "ox",
+   "question": "토요일 오후에 할 일이 없어서, 영화를 볼지 보드게임을 할지 고민하다가 영화를 보기로 했어. 영화를 보는 이 선택, 'recourse'야?",
+   "choices": [
+    "응, recourse 맞아",
+    "아니, recourse 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, recourse 아니야",
+   "why": "맞아! 토요일 오후에 할 일이 없었을 뿐이고 곤란한 일은 하나도 없었잖아. 영화랑 보드게임 중에 여유 있게 고른 거라서 recourse가 아니야. recourse는 일이 꼬였을 때 기대는 수단이거든."
+  },
+  {
+   "type": "choice",
+   "question": "비 오는 날 이야기 네 개야. 'recourse'라는 말이 가장 잘 어울리는 장면은?",
+   "choices": [
+    "우산이 없어서 편의점 비닐봉지를 머리에 쓰는 수밖에 없었어",
+    "한참 기다리니까 비가 그쳐서 곤란한 일이 저절로 풀렸어",
+    "학교 창고에 빌려줄 우산이 서른 개나 가득 쌓여 있었어",
+    "날씨가 좋아서 산책 코스 두 개 중에 하나를 골랐어"
+   ],
+   "answer_index": 0,
+   "answer": "우산이 없어서 편의점 비닐봉지를 머리에 쓰는 수밖에 없었어",
+   "why": "맞아! 우산이 없어서 곤란한 순간에 꺼내 쓸 수 있는 게 편의점 비닐봉지밖에 없었잖아. 좋은 방법은 아니어도 막혔을 때 기댄 수단이니까 바로 그게 recourse인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-recourse",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-recourse"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/recourse.webp",
+  "alt": "일이 꼬였을 때 꺼내 쓸 방법을 찾는 순간",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

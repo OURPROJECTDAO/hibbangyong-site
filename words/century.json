@@ -1,0 +1,99 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/century/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/century/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "century",
+ "slug": "century",
+ "url": "https://hibbangyong.com/words/century/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "세기 — 백 년을 한 칸으로 묶어서 세는 것",
+ "gloss_ko": "세기",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "시간을 백 년씩 뚝뚝 잘라서 칸을 만든다고 해봐. 한 칸이 딱 백 년이야.",
+  "지금 우리도 그 칸 하나 안에 들어와 있어. 지나간 칸도 있고, 아직 안 온 칸도 있거든?",
+  "옛날 이야기에만 쓰는 말 아니야. 백 년짜리 칸이면 언제 것이든 다 이거야.",
+  "그게 century야."
+ ],
+ "scene": "시간을 백 년씩 잘라 만든 칸, 그중 우리가 들어 있는 칸",
+ "examples": [
+  {
+   "en": "My dad says this bridge will still be here in the next century.",
+   "ko": "아빠 말로는 이 다리가 다음 세기에도 여기 그대로 있을 거래."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "박물관 벽에 붙은 표에 '1800년부터 1900년까지'라고 딱 백 년이 한 칸으로 그려져 있어. 이 한 칸이 'century'야?",
+   "choices": [
+    "응, century 맞아",
+    "아니, century 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, century 맞아",
+   "why": "맞아! 1800년부터 1900년까지면 딱 백 년이 한 칸으로 묶인 거잖아. 그렇게 백 년을 한 칸으로 세는 게 바로 century인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "라면 물이 끓기를 기다리며 냄비 앞에서 삼 분을 서 있었어. 이 삼 분이 'century'야?",
+   "choices": [
+    "응, century 맞아",
+    "아니, century 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, century 아니야",
+   "why": "맞아! 삼 분은 라면 하나 익는 동안이잖아. century는 백 년이나 되는 어마어마하게 긴 시간이라서, 냄비 앞에서 기다린 삼 분이랑은 아예 딴판인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "친구 넷이 저마다 '이만큼의 시간'을 말했어. 이 중에서 'century' 하나만큼을 말한 사람은 누구게?",
+   "choices": [
+    "달력에서 1901년부터 2000년까지, 딱 백 년 한 칸",
+    "임금님이 살던, 아주아주 먼 옛날 그 시절",
+    "학교에 들어간 해부터 졸업하던 해까지",
+    "손가락 세는 만큼, 열 해를 한 묶음으로"
+   ],
+   "answer_index": 0,
+   "answer": "달력에서 1901년부터 2000년까지, 딱 백 년 한 칸",
+   "why": "맞아! 2000에서 1901을 빼면 99지만, 1901년 그 해도 한 해로 같이 세야 하거든. 1901년부터 2000년까지 한 해씩 세어 보면 딱 백 해라서, 바로 그게 century인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "era",
+   "kind": "confusable",
+   "from": "vs era"
+  },
+  {
+   "word": "millennium",
+   "kind": "confusable",
+   "from": "vs millennium"
+  }
+ ],
+ "related_scene": [
+  "decade",
+  "period"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-century",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-century"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/century.webp",
+  "alt": "시간을 백 년씩 잘라 만든 칸, 그중 우리가 들어 있는 칸",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

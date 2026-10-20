@@ -1,0 +1,94 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/malfunction/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/malfunction/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "malfunction",
+ "slug": "malfunction",
+ "url": "https://hibbangyong.com/words/malfunction/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "오작동하다 — 기계나 장치가 제대로 작동하지 않다",
+ "gloss_ko": "오작동하다",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "학교 자판기에 돈을 넣고 콜라를 눌렀는데 사이다가 나왔다고 해 봐.",
+  "기계가 돌아가긴 하는데 엉뚱하게 움직이는 것도, 아예 멈춰 버리는 것도 다 malfunction이야.",
+  "기계만이 아니라 심장 같은 몸속 기관이 제대로 일을 못 할 때도 이 말을 써.",
+  "그런데 내가 버튼을 잘못 눌렀거나 일부러 끈 건 아니야. 탈이 난 쪽이 그 기계 자체여야 해."
+ ],
+ "scene": "자판기에 돈 넣고 콜라 눌렀는데 사이다가 나옴",
+ "examples": [
+  {
+   "en": "Our school bell malfunctioned and rang in the middle of class.",
+   "ko": "우리 학교 종이 오작동해서 수업 중간에 울려 버렸어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "집 세탁기에 빨래를 넣고 '표준 세탁' 버튼을 눌렀어. 세탁기는 빨고, 헹구고, 탈수까지 순서대로 다 했어. 화면에 표시된 시간이 끝나자 알림음이 울리고 멈췄어. 이 세탁기는 'malfunction'한 걸까?",
+   "choices": [
+    "응, malfunction 맞아",
+    "아니, malfunction 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, malfunction 아니야",
+   "why": "맞아! 세탁기가 빨고, 헹구고, 탈수까지 순서대로 다 하고 표시된 시간이 끝나서 멈춘 거잖아. 할 일을 제대로 다 끝낸 거니까 오작동이 아니라 정상 작동이야."
+  },
+  {
+   "type": "ox",
+   "question": "편의점 전자레인지에 도시락을 넣고 1분 버튼을 제대로 눌렀어. 안에 불은 켜졌는데 접시가 돌지 않았고, 1분 뒤 꺼낸 도시락은 넣을 때처럼 차가웠어. 이 전자레인지는 'malfunction'한 걸까?",
+   "choices": [
+    "응, malfunction 맞아",
+    "아니, malfunction 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, malfunction 맞아",
+   "why": "맞아! 1분 버튼을 제대로 눌렀는데도 접시가 돌지 않았고 도시락은 넣을 때처럼 차가웠잖아. 누른 건 잘못이 없는데 전자레인지가 데우는 일을 못 했으니까, 탈이 난 건 기계 자체야. 이게 바로 malfunction이야."
+  },
+  {
+   "type": "choice",
+   "question": "네 명이 오늘 학교에서 본 일을 말했어. 기계가 'malfunction'한 걸 본 사람은 누구일까?",
+   "choices": [
+    "엘리베이터 문이 누르지도 않은 층에서 자꾸 열렸다 닫혔어",
+    "계산기 버튼을 내가 잘못 눌러서 답이 틀리게 나왔어",
+    "수업이 끝나서 선생님이 교실 프로젝터를 꺼 버렸어",
+    "급식실 오븐이 맞춰 둔 시간에 딱 맞게 꺼졌어"
+   ],
+   "answer_index": 0,
+   "answer": "엘리베이터 문이 누르지도 않은 층에서 자꾸 열렸다 닫혔어",
+   "why": "맞아! 아무도 누르지 않은 층에서 엘리베이터 문이 자꾸 열렸다 닫혔으니까, 기계가 멈춘 게 아니라 제멋대로 엉뚱하게 움직인 거지. 탈이 난 쪽이 엘리베이터 자체라서 바로 그게 malfunction인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "fail",
+   "kind": "confusable",
+   "from": "vs fail"
+  }
+ ],
+ "related_scene": [
+  "device",
+  "machine"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-malfunction",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-malfunction"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/malfunction.webp",
+  "alt": "자판기에 돈 넣고 콜라 눌렀는데 사이다가 나옴",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

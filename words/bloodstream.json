@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/bloodstream/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/bloodstream/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "bloodstream",
+ "slug": "bloodstream",
+ "url": "https://hibbangyong.com/words/bloodstream/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "혈류 — 몸속을 쉬지 않고 돌고 있는 피(의 흐름)",
+ "gloss_ko": "몸속을 도는 피",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "주사를 맞으면 약이 몇 분 만에 온몸에 퍼지잖아.",
+  "약이 몸속을 계속 돌고 있는 피에 올라탔기 때문이야.",
+  "그렇게 흐르고 있는 피 전체가 bloodstream이야. 산소도, 약도, 술 성분도 여기에 섞여서 온몸을 돌아.",
+  "피가 지나가는 관(혈관)도 아니고, 상처에서 밖으로 흘러나온 피도 아니야. 지금 몸 안에서 돌고 있는 피 그 자체야."
+ ],
+ "scene": "주사 맞은 약이 몇 분 만에 온몸에 퍼지는 장면",
+ "examples": [
+  {
+   "en": "The medicine goes into your bloodstream in a few minutes.",
+   "ko": "그 약은 몇 분이면 핏속으로 들어가서 온몸을 돌아."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "영어 단어 카드를 넘기며 뜻을 맞혀 보고 있어. 다음 중 'bloodstream'에 해당하는 것은?",
+   "choices": [
+    "마을 옆 개울을 따라 쉬지 않고 흘러가는 물",
+    "창문 틈으로 쉬지 않고 들어오는 찬 바람",
+    "몸속을 쉬지 않고 돌고 있는 피",
+    "전선을 따라 쉬지 않고 흐르는 전기"
+   ],
+   "answer_index": 2,
+   "answer": "몸속을 쉬지 않고 돌고 있는 피",
+   "why": "맞아! bloodstream은 지금 몸속을 쉬지 않고 돌고 있는 피 그 자체라서, 몸속을 도는 피가 바로 그거야."
+  },
+  {
+   "type": "ox",
+   "question": "헌혈 버스에서 팔에서 뽑아 비닐 팩에 담아 냉장고에 넣어 둔 피를 가리켜 'bloodstream'이라고 할 수 있어?",
+   "choices": [
+    "응, bloodstream 맞아",
+    "아니, bloodstream 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, bloodstream 아니야",
+   "why": "맞아! 비닐 팩에 담겨 냉장고에 들어간 피는 이미 팔에서 뽑혀 몸 밖으로 나온 피라서 bloodstream이 아니야. bloodstream은 지금 몸 안에서 쉬지 않고 돌고 있는 피를 말하거든."
+  },
+  {
+   "type": "choice",
+   "question": "과학 시간에 피와 관련된 네 가지를 놓고 하나씩 짚어 봤어. 그중 'bloodstream'이라고 부를 수 있는 건 어느 거야?",
+   "choices": [
+    "팔뚝 안쪽에 파랗게 비쳐 보이는, 피가 지나가는 관",
+    "가슴 속에서 쿵쿵 뛰면서 피를 밀어 보내는 것",
+    "넘어진 무릎에서 흘러나와 밴드에 묻어 굳은 피",
+    "지금 이 순간 온몸 구석구석을 흘러 다니는 피"
+   ],
+   "answer_index": 3,
+   "answer": "지금 이 순간 온몸 구석구석을 흘러 다니는 피",
+   "why": "맞아! 지금 이 순간 온몸 구석구석을 흘러 다니는 피, 바로 그게 bloodstream이야. 몸 안에서 멈추지 않고 돌고 있는 피 그 자체를 부르는 말이거든."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-bloodstream",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-bloodstream"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/bloodstream.webp",
+  "alt": "주사 맞은 약이 몇 분 만에 온몸에 퍼지는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

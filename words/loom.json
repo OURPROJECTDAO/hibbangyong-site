@@ -1,0 +1,111 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/loom/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/loom/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "loom",
+ "slug": "loom",
+ "url": "https://hibbangyong.com/words/loom/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "크고 어렴풋하게 떡하니 나타나다 — 커다란 게 흐릿하게 앞에 버티고 있거나, 걱정되는 일이 코앞까지 다가와 있는 것",
+ "gloss_ko": "크게 어렴풋이 보이다",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "안개 낀 아침, 등굣길 앞에 커다란 뭔가가 흐릿하게 버티고 서 있어.",
+  "뭔지 또렷하게 보이지는 않는데, 크고 가까워서 괜히 마음이 눌려. 그게 loom이야.",
+  "눈앞에 있는 물건에만 쓰는 말이 아니야. 다음 주 기말고사처럼 곧 닥칠 걱정거리도 loom해.",
+  "그냥 '나타나다'랑은 달라. 크고 무겁게 앞을 막듯 다가와 있는 느낌이 핵심이야."
+ ],
+ "scene": "안개 낀 등굣길 앞에 흐릿하게 버티고 선 커다란 형체",
+ "examples": [
+  {
+   "en": "A huge dark shape loomed out of the fog, and I stopped walking.",
+   "ko": "안개 속에서 커다랗고 시커먼 게 떡하니 나타나서 나 그 자리에 멈춰 섰어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "해 질 무렵 캠핑장에 도착했어. 어둑한 하늘 아래, 거대한 바위산이 흐릿한 모습으로 텐트 바로 앞을 가로막듯 서 있어. 이 바위산이 캠핑장 앞에 'loom'하고 있다고 할 수 있을까?",
+   "choices": [
+    "응, loom 맞아",
+    "아니, loom 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, loom 맞아",
+   "why": "맞아! 거대한 바위산이 어둑한 하늘 아래 흐릿하게, 그것도 텐트 바로 앞을 가로막듯 서 있잖아. 크고, 흐릿하고, 코앞에서 버티고 있으니까 이게 딱 loom이야."
+  },
+  {
+   "type": "ox",
+   "question": "부두에 서서 떠나는 여객선을 바라봤어. 배는 점점 멀어지고 작아지더니, 결국 수평선 너머로 완전히 보이지 않게 됐어. 이 여객선이 'loom'하고 있다고 할 수 있을까?",
+   "choices": [
+    "응, loom 맞아",
+    "아니, loom 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, loom 아니야",
+   "why": "맞아! 여객선은 점점 멀어지고 작아지다가 수평선 너머로 사라졌잖아. loom은 커다란 게 앞으로 다가와 버티고 있는 거라서, 멀어져 사라지는 이 배는 그 반대인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "수행평가에 대한 네 친구의 말이야. 수행평가가 'loom'하고 있다고 말할 수 있는 친구는?",
+   "choices": [
+    "수행평가를 다 내고 나니 걱정이 싹 사라졌어.",
+    "수행평가 주제가 오늘 아침 게시판에 올라왔어.",
+    "수행평가 마감이 사흘 남아서 머릿속에 계속 걸려.",
+    "수행평가가 한 달 뒤라서 아직 아무 생각 없어."
+   ],
+   "answer_index": 2,
+   "answer": "수행평가 마감이 사흘 남아서 머릿속에 계속 걸려.",
+   "why": "맞아! 마감이 사흘밖에 안 남아서 머릿속에 계속 걸린다는 건, 수행평가가 코앞까지 와서 무겁게 버티고 있다는 거잖아. 바로 그게 loom이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "appear",
+   "kind": "confusable",
+   "from": "그냥 나타나다(appear)"
+  },
+  {
+   "word": "threaten",
+   "kind": "confusable",
+   "from": "위협하다(threaten)"
+  },
+  {
+   "word": "tower",
+   "kind": "confusable",
+   "from": "vs tower"
+  },
+  {
+   "word": "approach",
+   "kind": "confusable",
+   "from": "vs approach"
+  },
+  {
+   "word": "impend",
+   "kind": "confusable",
+   "from": "vs impend"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-loom",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-loom"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/loom.webp",
+  "alt": "안개 낀 등굣길 앞에 흐릿하게 버티고 선 커다란 형체",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

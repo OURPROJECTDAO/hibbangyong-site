@@ -1,0 +1,88 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/gasoline/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/gasoline/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "gasoline",
+ "slug": "gasoline",
+ "url": "https://hibbangyong.com/words/gasoline/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "휘발유 — 차나 기계 엔진을 돌게 하는, 불붙는 기름",
+ "gloss_ko": "휘발유",
+ "level": {
+  "code": "L4",
+  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "주유소 가봤지? 아빠가 차를 세우고 호스를 꽂아서 뭘 넣잖아. 그게 gasoline이야.",
+  "그냥 물 같아 보이는데 냄새가 훅 나고, 불이 확 붙어. 그래서 엔진 안에서 펑펑 터지면서 차를 굴러가게 하는 거야.",
+  "차만 그런 게 아니야. 잔디 깎는 기계도, 배도, 발전기도 이걸 먹고 돌아. 통에 담아서 사 오기도 하고, 값이 올랐다고 어른들이 툴툴대기도 해.",
+  "요리에 쓰는 기름이나 미끌미끌 바르는 기름 말고, 태워서 힘을 내는 그 기름. 그게 gasoline이야."
+ ],
+ "scene": "주유소에서 차에 호스를 꽂아 넣는 장면",
+ "examples": [
+  {
+   "en": "Dad stopped at the station to put gasoline in the car.",
+   "ko": "아빠는 차에 휘발유를 넣으려고 주유소에 멈췄어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "삼촌네 오토바이가 길에서 딱 멈췄어. 삼촌이 빨간 통을 들고 와서 오토바이 탱크에 부었더니 다시 부릉 하고 달렸어. 통에 든 게 'gasoline'이야?",
+   "choices": [
+    "응, gasoline 맞아",
+    "아니, gasoline 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, gasoline 맞아",
+   "why": "맞아! 오토바이가 멈췄는데 빨간 통에 든 걸 탱크에 부으니까 다시 부릉 하고 달렸잖아. 엔진을 다시 돌게 해 준 거니까 바로 그게 gasoline인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "형이 컵에 든 맑은 액체를 벌컥벌컥 마시고, 남은 걸 모닥불에 부었더니 불이 치익 하고 꺼졌어. 이게 'gasoline'이야?",
+   "choices": [
+    "응, gasoline 맞아",
+    "아니, gasoline 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, gasoline 아니야",
+   "why": "잘 골랐어! 형이 부은 맑은 액체 때문에 모닥불이 치익 하고 꺼졌잖아. gasoline은 불이 확 붙는 기름이라서 불에 부으면 불이 꺼지는 게 아니라 더 커지거든. 그러니까 형이 마신 그 액체는 gasoline이 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "엄마가 창고에서 통 네 개를 꺼냈어. 안에 든 게 다 다른 액체래. 이 중에 'gasoline'이 든 통은 어느 거야?",
+   "choices": [
+    "잔디 깎는 기계에 부으면 기계가 부릉 돌아가고, 불씨가 닿으면 확 타오르는 것",
+    "튀김을 할 때 냄비에 부어서 뜨겁게 달구는 것",
+    "문이 끼익거릴 때 경첩에 몇 방울 떨어뜨려 미끄럽게 하는 것",
+    "화분에 부어 주면 시들던 잎이 다시 살아나는 것"
+   ],
+   "answer_index": 0,
+   "answer": "잔디 깎는 기계에 부으면 기계가 부릉 돌아가고, 불씨가 닿으면 확 타오르는 것",
+   "why": "맞아! 잔디 깎는 기계에 부으면 기계가 부릉 돌아가고, 불씨가 닿으면 확 타오르잖아. 이렇게 태워서 기계를 돌게 하는 기름, 바로 그게 gasoline인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "combustion",
+  "engine"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-gasoline",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-gasoline"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/gasoline.webp",
+  "alt": "주유소에서 차에 호스를 꽂아 넣는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

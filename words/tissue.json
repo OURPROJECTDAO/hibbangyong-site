@@ -1,0 +1,61 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/tissue/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/tissue/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "tissue",
+ "slug": "tissue",
+ "url": "https://hibbangyong.com/words/tissue/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "휴지 — 코를 풀거나 무언가를 닦을 때 쓰는 얇고 부드러운 종이",
+ "gloss_ko": "휴지",
+ "level": {
+  "code": "L4",
+  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "상자에서 한 장씩 쏙 뽑아 쓰는, 얇고 부드러운 종이예요.",
+  "코가 나오거나 손에 뭔가 묻었을 때 이걸로 닦아요."
+ ],
+ "scene": "화장지 한 장이 위로 쏙 뽑혀 올라온 부드러운 티슈 상자(사물 의미의 tissue)",
+ "examples": [
+  {
+   "en": "I used a tissue to blow my nose.",
+   "ko": "휴지로 코를 풀었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "tissue는 어느 것일까?",
+   "choices": [
+    "비가 올 때 머리 위로 펼쳐 쓰는 커다란 우산",
+    "밤에 잘 때 몸에 덮고 쓰는 포근한 이불",
+    "코를 풀 때 한 장씩 뽑아 쓰는 부드러운 종이",
+    "공놀이할 때 발로 차며 쓰는 동그란 공"
+   ],
+   "answer_index": 2,
+   "answer": "코를 풀 때 한 장씩 뽑아 쓰는 부드러운 종이",
+   "why": null
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-tissue",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-tissue"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/tissue.webp",
+  "alt": "화장지 한 장이 위로 쏙 뽑혀 올라온 부드러운 티슈 상자(사물 의미의 tissue)",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

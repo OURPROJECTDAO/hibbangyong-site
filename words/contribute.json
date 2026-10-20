@@ -1,0 +1,89 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/contribute/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/contribute/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "contribute",
+ "slug": "contribute",
+ "url": "https://hibbangyong.com/words/contribute/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "보태다 — 어떤 일이 그렇게 되는 데 한 몫 하다(여럿 중 내 것도 섞여 들어감·좋은 일이든 나쁜 일이든·사람이 아닌 것도)",
+ "gloss_ko": "보태다",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "양동이에 물이 찰랑찰랑 차 있었어. 형이 한 컵 부었고, 너도 한 컵 부었고, 밤새 빗물도 좀 들어갔어. 그러다 넘쳤어. 네 한 컵 때문에 넘친 거야? 아니야. 그래도 넘치는 데 네 한 컵도 들어가 있었어. 그게 contribute야.",
+  "봐봐, 사람만 하는 게 아니거든? 빗물도 넘치는 데 한 몫 했잖아. 시끄러운 소리도, 늦잠도, 사탕도 할 수 있어. '그것 때문이야'가 아니라 '그것도 한 몫이었어'인 거야.",
+  "좋은 쪽이든 나쁜 쪽이든 안 가려. 반 선물 살 때 낸 천 원도, 모둠 발표에서 네가 툭 던진 생각 하나도, 시험 망친 데 한 몫 한 밤샘 게임도 전부 contribute야.",
+  "헷갈리지 마. 혼자서 처음부터 끝까지 다 해치운 건 contribute가 아니야. 그건 그냥 네가 한 거지. 여럿이 만든 결과 안에 네 것도 섞여 있어야 해. 그게 contribute야."
+ ],
+ "scene": "양동이에 여러 사람의 물과 빗물이 더해져 물이 넘치는 장면",
+ "examples": [
+  {
+   "en": "Eating too much candy can contribute to bad teeth.",
+   "ko": "사탕을 너무 많이 먹으면 이가 나빠지는 데 한몫해."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "다음 중 'contribute'에 해당하는 건 어느 거야?",
+   "choices": [
+    "나는 상자 안에 책이 몇 권 있는지 세어서 스물세 권이라고 했어.",
+    "나는 집에서 가져온 헌 책 두 권을 상자에 넣었고, 상자는 우리 반 책들로 가득 찼어.",
+    "나는 상자가 교실 뒷문 옆에 놓여 있다는 걸 알고 있었어.",
+    "나는 상자에 붙은 종이의 글씨가 파란색이라고 말했어."
+   ],
+   "answer_index": 1,
+   "answer": "나는 집에서 가져온 헌 책 두 권을 상자에 넣었고, 상자는 우리 반 책들로 가득 찼어.",
+   "why": "맞아! 여러 친구들 책이 모여서 상자가 가득 찬 건데, 그 안에 네 헌 책 두 권도 섞여 들어갔잖아. 상자를 혼자 채운 건 아니지만 채워지는 데 네 것도 한 몫 한 거야. 그게 바로 contribute야."
+  },
+  {
+   "type": "choice",
+   "question": "학예회에서 우리 반 합창이 무대에서 끝났어. 다음 중 'contribute'에 해당하는 건 어느 거야?",
+   "choices": [
+    "나는 무대 옆에 서서 우리 반이 노래하는 걸 끝까지 지켜봤어.",
+    "나는 연습하는 동안 교실에 앉아서 우리 반 노래를 듣기만 했어.",
+    "나는 다 같이 노래할 때 내가 맡은 부분을 처음부터 끝까지 같이 불렀어.",
+    "나는 노래가 다 끝난 뒤에 와서 잘했다고 손뼉을 쳐 줬어."
+   ],
+   "answer_index": 2,
+   "answer": "나는 다 같이 노래할 때 내가 맡은 부분을 처음부터 끝까지 같이 불렀어.",
+   "why": "맞아! 다 같이 만든 노래 소리 안에 네 목소리가 한 조각으로 딱 섞여 들어갔잖아. 네가 혼자 다 부른 것도 아니고, 그렇다고 빠진 것도 아니고, 그 합창 안에 네 몫이 들어가 있는 거야. 그게 바로 contribute야."
+  },
+  {
+   "type": "choice",
+   "question": "네 아이가 어제 있었던 일을 하나씩 말했어. 자기가 한 일을 'contribute'했다고 말할 수 있는 사람은?",
+   "choices": [
+    "미술 시간에 종이 자르기부터 색칠까지 혼자 다 해서 포스터를 완성했어",
+    "쉬는 시간에 복도에서 시끄럽게 뛰었는데, 여기저기 뛰는 소리가 겹쳐서 옆 반 시험이 엉망이 됐어",
+    "청소가 다 끝난 뒤에 교실에 도착해서, 깨끗해진 걸 보고 잘했다고 칭찬해 줬어",
+    "친구들이 놀이터 벽에 낙서하는 동안 옆에 서서 끝까지 보기만 하고 손도 안 댔어"
+   ],
+   "answer_index": 1,
+   "answer": "쉬는 시간에 복도에서 시끄럽게 뛰었는데, 여기저기 뛰는 소리가 겹쳐서 옆 반 시험이 엉망이 됐어",
+   "why": "맞아! 여기저기 뛰는 소리가 겹쳐서 옆 반 시험이 엉망이 된 거잖아. 너 혼자 뛰어서 그렇게 된 게 아니고, 여러 명 소리 중에 네 발소리도 한 몫 들어가 있었던 거야. 나쁜 일이라도 그 안에 네 것이 섞여 있으면 그게 바로 contribute야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-contribute",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-contribute"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/contribute.webp",
+  "alt": "양동이에 여러 사람의 물과 빗물이 더해져 물이 넘치는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

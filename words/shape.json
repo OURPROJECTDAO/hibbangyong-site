@@ -1,0 +1,92 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/shape/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/shape/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "shape",
+ "slug": "shape",
+ "url": "https://hibbangyong.com/words/shape/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "모양 — 어떤 것의 겉이 어떻게 생겼는지(색이나 크기 말고 생김새)",
+ "gloss_ko": "모양",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "찰흙 한 덩어리를 봐봐. 동글동글 굴리면 공처럼 되고, 꾹 누르면 납작하게 퍼지지?",
+  "색은 아까랑 똑같아. 무게도 그대로야. 달라진 건 딱 하나, 겉이 어떻게 생겼느냐야.",
+  "공이든 별이든, 하늘에 뜬 구름이든, 겉선이 어떻게 그려졌나 — 그게 shape야."
+ ],
+ "scene": "찰흙 덩어리를 굴리고 눌러 겉이 달라지는 순간",
+ "examples": [
+  {
+   "en": "The clay was the same color, but its shape was totally different.",
+   "ko": "찰흙은 색깔은 같았는데 모양은 완전히 달랐어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "빵집에서 빵을 하나 골랐어. 이 빵의 'shape'를 말한 건 어느 거야?",
+   "choices": [
+    "겉이 노릇노릇 갈색으로 익었어",
+    "고소한 냄새가 솔솔 풍겨",
+    "겉선이 초승달처럼 휘어 있어",
+    "손에 들어 보면 제법 묵직해"
+   ],
+   "answer_index": 2,
+   "answer": "겉선이 초승달처럼 휘어 있어",
+   "why": "맞아! 초승달처럼 휘어 있다는 건 이 빵이 어떻게 생겼는지를 말한 거거든. 빵이 생긴 모양, 바로 그게 shape인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "똑같이 생긴 컵 두 개가 있어. 하나는 뜨거운 물이 들어서 만지면 따뜻하고, 하나는 얼음물이 들어서 만지면 차가워. 이 차이가 'shape'야?",
+   "choices": [
+    "응, shape 맞아",
+    "아니, shape 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, shape 아니야",
+   "why": "맞아! 두 컵은 똑같이 생겼고, 다른 건 만졌을 때 따뜻한지 차가운지뿐이거든. 겉이 어떻게 생겼는지는 그대로니까 이 차이는 shape가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 아이가 각자 자기 찰흙을 가지고 놀았어. 'shape'가 바뀐 아이는 누구야?",
+   "choices": [
+    "지호는 길쭉했던 걸 손으로 뭉쳐 동그랗게 만들었어",
+    "수아는 파란 물감을 섞어 온통 파랗게 만들었어",
+    "민재는 반짝이 가루를 겉에 골고루 뿌렸어",
+    "하윤이는 냉장고에 넣어 차갑고 딱딱하게 했어"
+   ],
+   "answer_index": 0,
+   "answer": "지호는 길쭉했던 걸 손으로 뭉쳐 동그랗게 만들었어",
+   "why": "맞아! 지호는 길쭉했던 찰흙을 손으로 뭉쳐서 동그랗게 만들었잖아. 길쭉하던 생김새가 동그란 생김새로 바뀌었으니까 바로 그게 shape가 바뀐 거야."
+  }
+ ],
+ "synonyms": [
+  "frame"
+ ],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "amorphous",
+  "outline",
+  "square"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-shape",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-shape"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/shape.webp",
+  "alt": "찰흙 덩어리를 굴리고 눌러 겉이 달라지는 순간",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

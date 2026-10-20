@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/manicure/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/manicure/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "manicure",
+ "slug": "manicure",
+ "url": "https://hibbangyong.com/words/manicure/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "손톱 손질 — 손톱을 깎고 모양을 다듬고 정리하는 손 관리(색은 칠할 수도, 안 칠할 수도 있어)",
+ "gloss_ko": "손톱 손질",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "엄마가 네일숍에서 손톱을 깎고, 모양을 둥글게 다듬고, 옆에 굳은살까지 정리받았대.",
+  "이렇게 손톱을 손질받는 일 전체가 manicure야. 색은 칠해도 되고 안 칠해도 돼.",
+  "우리가 '매니큐어'라고 부르는 병 속 칠약은 영어로 nail polish야. 이건 손질이 아니라 물건이야.",
+  "발톱을 손질받으면 manicure라고 안 하고 pedicure라고 따로 불러."
+ ],
+ "scene": "엄마가 네일숍에서 손톱 깎기·모양 다듬기·굳은살 정리를 받음",
+ "examples": [
+  {
+   "en": "My dad got a manicure before the family photo day.",
+   "ko": "아빠가 가족사진 찍는 날 전에 손톱 손질을 받았어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "피아노 대회를 앞둔 형이 가게에서 손톱 끝을 줄로 갈아 짧게 맞추고, 손톱 옆 거스러미까지 정리받았어. 형이 받은 이게 'manicure'야?",
+   "choices": [
+    "응, manicure 맞아",
+    "아니, manicure 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, manicure 맞아",
+   "why": "맞아! 형은 가게에서 손톱 끝을 줄로 갈아 짧게 맞추고 거스러미까지 정리받았잖아. 이렇게 손톱을 손질받는 일 전체가 바로 manicure인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "피아노 대회 전날, 선생님이 손톱 옆 굳은살을 정리하고 손톱 끝을 둥글게 다듬어 받았어. 색은 하나도 칠하지 않았어. 이런 경우도 'manicure'야?",
+   "choices": [
+    "응, manicure 맞아",
+    "아니, manicure 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, manicure 맞아",
+   "why": "맞아! 선생님이 굳은살을 정리하고 손톱 끝을 둥글게 다듬어 받았잖아. 색을 하나도 안 칠했어도 이렇게 손톱을 손질받은 거면 그게 바로 manicure야."
+  },
+  {
+   "type": "choice",
+   "question": "네 사람이 네일숍에 다녀와서 각자 뭘 했는지 말했어. 'manicure'를 받은 사람은 누구일까?",
+   "choices": [
+    "가게에서 빨간색 손톱 칠약 한 병만 사 왔어",
+    "발톱을 짧게 깎고 모양을 다듬어 받았어",
+    "손톱을 짧게 깎고 모양을 다듬어 받았어",
+    "손등에 크림을 바르고 마사지만 받았어"
+   ],
+   "answer_index": 2,
+   "answer": "손톱을 짧게 깎고 모양을 다듬어 받았어",
+   "why": "맞아! 손톱을 짧게 깎고 모양을 다듬어 받았으니까 그게 바로 manicure야. 색을 칠하지 않았어도 손톱을 손질받은 거라서 manicure가 맞아."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "trim"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-manicure",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-manicure"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/manicure.webp",
+  "alt": "엄마가 네일숍에서 손톱 깎기·모양 다듬기·굳은살 정리를 받음",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

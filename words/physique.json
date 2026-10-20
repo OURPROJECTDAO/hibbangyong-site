@@ -1,0 +1,83 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/physique/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/physique/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "physique",
+ "slug": "physique",
+ "url": "https://hibbangyong.com/words/physique/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "체격 — 사람 몸의 크기와 생김새(크든 작든, 마르든 단단하든)",
+ "gloss_ko": "체격",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "체육 시간에 줄 서 보면 다 달라. 어깨 넓은 애, 작고 마른 애, 키 크고 호리호리한 애.",
+  "그렇게 겉으로 보이는 몸의 크기랑 생김새, 그게 physique야.",
+  "근육 많은 멋진 몸만 말하는 게 아니야. 작고 가는 몸도 다 physique야.",
+  "얼굴이 잘생겼는지, 오래 뛰어도 안 지치는지랑은 달라. 몸이 어떻게 생겼는지 그 자체야."
+ ],
+ "scene": "체육 시간 줄 서기에서 보이는 서로 다른 몸집",
+ "examples": [
+  {
+   "en": "Junho and his twin brother have the same face, but a very different physique.",
+   "ko": "준호랑 쌍둥이 형은 얼굴은 똑같은데 체격은 완전 달라."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "수영복을 사러 갔더니 점원이 내 키, 어깨 넓이, 몸통 굵기를 쭉 보고 사이즈를 골라 줬어. 점원이 본 내 몸의 크기와 생김새, 이게 'physique'야?",
+   "choices": [
+    "응, physique 맞아",
+    "아니, physique 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, physique 맞아",
+   "why": "맞아! 점원이 본 게 네 키, 어깨 넓이, 몸통 굵기잖아. 겉으로 보이는 몸의 크기랑 생김새, 그게 바로 physique야."
+  },
+  {
+   "type": "ox",
+   "question": "새 짝꿍은 말수가 적고, 걱정거리가 생기면 혼자 속으로 오래 고민하는 편이야. 짝꿍의 이런 성격, 이게 'physique'야?",
+   "choices": [
+    "응, physique 맞아",
+    "아니, physique 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, physique 아니야",
+   "why": "맞아! 말수가 적고 걱정을 혼자 속으로 오래 고민하는 건 짝꿍의 성격이지, 몸이 어떻게 생겼는지가 아니거든. physique는 어깨가 넓은지, 키가 크고 마른지 같은 겉으로 보이는 몸 그 자체라서 이건 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "초등학교 1학년 내 동생은 또래보다 키가 작고 팔다리가 가늘어. 동생의 이런 몸도 'physique'라고 할 수 있을까?",
+   "choices": [
+    "응, physique 맞아",
+    "아니, physique 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, physique 맞아",
+   "why": "맞아! 키가 작고 팔다리가 가는 것도 동생 몸이 생긴 모양 그대로잖아. 크든 작든, 굵든 가늘든 몸의 크기랑 생김새면 다 physique야."
+  }
+ ],
+ "synonyms": [
+  "flesh",
+  "frame",
+  "shape"
+ ],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-physique",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-physique"
+ },
+ "image": null
+}

@@ -1,0 +1,97 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/conclude/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/conclude/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "conclude",
+ "slug": "conclude",
+ "url": "https://hibbangyong.com/words/conclude/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "결론짓다 — 이것저것 따져 본 끝에 '이거구나' 하고 답을 내리다.",
+ "gloss_ko": "결론짓다",
+ "level": {
+  "code": "L6",
+  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "친구가 아침 내내 말도 안 하고, 간식도 안 나눠 주고, 자꾸 등을 홱 돌려. 넌 그걸 하나하나 떠올려 보고 생각하지. '아, 얘가 나한테 삐쳤구나.'",
+  "이렇게 보고 겪은 걸 죽 따져 본 다음에, 마지막에 '이거구나' 하고 답을 딱 내리는 거야.",
+  "아무거나 대충 찍는 거랑은 달라 — 살펴보고 나서 정하는 거거든.",
+  "그게 conclude야."
+ ],
+ "scene": "친구가 종일 말없고 간식도 안 주고 등 돌리는 걸 따져 보고 삐쳤구나 결론내리는 장면",
+ "examples": [
+  {
+   "en": "From the wet paw prints, I concluded that our dog had come inside.",
+   "ko": "바닥에 젖은 발자국이 나 있길래, 우리 강아지가 안에 들어왔구나 하고 답을 냈어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "다음 네 친구 중에서 무언가를 'conclude'한 사람은 누구야?",
+   "choices": [
+    "운동장에 남은 발자국이랑 흙이 밀린 자국을 죽 맞춰 보고 '공은 화단 뒤에 있겠구나'라고 했어.",
+    "색연필 통에서 제일 좋아하는 걸 하나 집어서 '난 이 초록색으로 할래'라고 했어.",
+    "방금 라디오에서 흘러나온 노래를 그대로 따라서 '랄랄라 랄랄라'라고 했어.",
+    "사물함을 하나씩 손으로 짚어 가며 '하나, 둘, 셋, 넷'이라고 했어."
+   ],
+   "answer_index": 0,
+   "answer": "운동장에 남은 발자국이랑 흙이 밀린 자국을 죽 맞춰 보고 '공은 화단 뒤에 있겠구나'라고 했어.",
+   "why": "맞아! 발자국이랑 흙 밀린 자국을 하나하나 죽 맞춰 보고 나서 '공은 화단 뒤겠구나' 하고 답을 딱 낸 거잖아. 그렇게 단서를 따져 본 끝에 답을 내리는 게 바로 conclude야."
+  },
+  {
+   "type": "choice",
+   "question": "이번엔 다른 친구들이야. 이 중에서 무언가를 'conclude'한 사람은 누구야?",
+   "choices": [
+    "식탁에 놓인 아직 따뜻한 컵이랑 반쯤 남은 우유를 살펴보고 '누나가 방금 여기 있었구나'라고 했어.",
+    "그릇 두 개 중에서 더 큰 걸 골라서 '난 이 그릇에 담을래'라고 했어.",
+    "벽에 걸린 시계 소리를 그대로 흉내 내서 '똑딱똑딱 똑딱똑딱'이라고 했어.",
+    "계단 칸을 하나씩 밟으면서 '다섯, 여섯, 일곱'이라고 했어."
+   ],
+   "answer_index": 0,
+   "answer": "식탁에 놓인 아직 따뜻한 컵이랑 반쯤 남은 우유를 살펴보고 '누나가 방금 여기 있었구나'라고 했어.",
+   "why": "맞아! 아직 따뜻한 컵이랑 반쯤 남은 우유를 하나하나 살펴보고 '누나가 방금 있었구나' 하고 답을 딱 내렸잖아. 그렇게 본 걸 죽 따져서 '이거구나' 하는 게 바로 conclude야."
+  },
+  {
+   "type": "choice",
+   "question": "네 친구가 각자 무언가를 알아내려고 이렇게 했어. 이 중에서 뭔가를 'conclude'한 사람은 누구일까?",
+   "choices": [
+    "초콜릿 손자국이랑 빈 접시를 살펴보고 '동생이 먹었구나' 하고 답을 냈어.",
+    "아무것도 안 살펴보고 '그냥 동생이 먹었겠지' 하고 넘겨짚었어.",
+    "손자국이랑 접시를 한참 봤지만 '누가 먹었는지 모르겠어' 하며 답을 못 냈어.",
+    "누가 먹었는진 됐고, 사과랑 바나나 중에 뭘 먹을지 하나 골랐어."
+   ],
+   "answer_index": 0,
+   "answer": "초콜릿 손자국이랑 빈 접시를 살펴보고 '동생이 먹었구나' 하고 답을 냈어.",
+   "why": "맞아! 초콜릿 손자국이랑 빈 접시를 하나하나 살펴본 끝에 '동생이 먹었구나' 하고 답을 딱 내렸잖아. 그렇게 살펴보고 나서 정하는 게 바로 conclude야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "infer",
+   "kind": "confusable",
+   "from": "vs infer"
+  }
+ ],
+ "related_scene": [
+  "conclusion"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-conclude",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-conclude"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/conclude.webp",
+  "alt": "친구가 종일 말없고 간식도 안 주고 등 돌리는 걸 따져 보고 삐쳤구나 결론내리는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

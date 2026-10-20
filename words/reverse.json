@@ -1,0 +1,91 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/reverse/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/reverse/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "reverse",
+ "slug": "reverse",
+ "url": "https://hibbangyong.com/words/reverse/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "가던 방향이나 순서, 정해 놓은 걸 통째로 뒤집어 원래랑 정반대로 만드는 것",
+ "gloss_ko": "거꾸로 뒤집기",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "줄을 길게 서 있는데 선생님이 줄을 통째로 돌려세웠어.",
+  "맨 뒤에 있던 애가 맨 앞, 맨 앞이던 애가 맨 뒤가 됐지. 통째로 되뒤집힌 거야.",
+  "차가 앞 대신 뒤로 가는 것도, 하기로 정했던 걸 도로 안 하기로 바꾸는 것도 다 이거야.",
+  "그냥 멈춘 거나 살짝만 바꾼 거랑은 달라. 원래랑 정반대가 돼야 해. 이게 reverse야."
+ ],
+ "scene": "줄 선 순서를 통째로 돌려세워 맨 뒤가 맨 앞이 되는 장면",
+ "examples": [
+  {
+   "en": "Our teacher told us to reverse the line, and I ended up next to my best friend!",
+   "ko": "선생님이 줄을 거꾸로 뒤집으라고 했는데, 그 덕분에 내가 제일 친한 친구 옆에 서게 됐어!"
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "동생이 계단을 한 칸씩 위로 올라가다가, 꼭대기에서 몸을 돌려 한 칸씩 아래로 내려왔어. 이게 'reverse'야?",
+   "choices": [
+    "응, reverse 맞아",
+    "아니, reverse 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, reverse 맞아",
+   "why": "맞아! 위로 올라가던 걸 이제 아래로 내려왔잖아. 가던 방향이 정반대가 된 거니까 바로 그게 reverse야."
+  },
+  {
+   "type": "ox",
+   "question": "형이 운동장 트랙을 시계 방향으로 달리고 있었어. 한 바퀴를 다 돌고 나서도 시계 방향으로 두 바퀴를 더 달렸어. 이게 'reverse'야?",
+   "choices": [
+    "응, reverse 맞아",
+    "아니, reverse 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, reverse 아니야",
+   "why": "맞아! 시계 방향으로 달리다가 그대로 계속 시계 방향으로만 돌았잖아. 방향이 하나도 안 뒤집혔으니까 reverse가 아닌 게 맞아."
+  },
+  {
+   "type": "ox",
+   "question": "형이 자전거를 타고 가다가 브레이크를 잡고 그 자리에 딱 섰어. 이것도 'reverse'야?",
+   "choices": [
+    "응, 'reverse' 맞아",
+    "아니, 'reverse' 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 'reverse' 아니야",
+   "why": "맞아! 브레이크 잡고 딱 선 건 그냥 멈춘 거지, 뒤로 가거나 정반대가 된 게 아니거든. 그래서 이건 reverse가 아닌 게 맞아."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "forward"
+ ],
+ "confusable": [
+  {
+   "word": "opposite",
+   "kind": "confusable",
+   "from": "vs opposite"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-reverse",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-reverse"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/reverse.webp",
+  "alt": "줄 선 순서를 통째로 돌려세워 맨 뒤가 맨 앞이 되는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

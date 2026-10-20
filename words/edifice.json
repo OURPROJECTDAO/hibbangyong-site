@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/edifice/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/edifice/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "edifice",
+ "slug": "edifice",
+ "url": "https://hibbangyong.com/words/edifice/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "건물 — 크고 웅장해서 올려다보게 되는 건물 (생각이나 제도를 크게 쌓아 올린 체계를 빗대어 말할 때도 써)",
+ "gloss_ko": "웅장한 건물",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "시내에 가면 고개를 한참 젖혀야 꼭대기가 보이는 건물이 있지.",
+  "옛날 성이든, 회색 법원이든, 크고 묵직해서 사람을 압도하면 다 edifice야.",
+  "동네 편의점 같은 평범한 건물엔 안 쓰고, 다리처럼 건물이 아닌 것에도 안 써.",
+  "생각이나 제도를 크게 쌓아 올린 것도 이렇게 불러. 거대한 건물처럼 한 층씩 쌓은 거니까."
+ ],
+ "scene": "고개를 젖혀야 꼭대기가 보이는 시내 건물",
+ "examples": [
+  {
+   "en": "That stone edifice by the river was a hospital a hundred years ago.",
+   "ko": "강가에 있는 저 커다란 돌 건물, 백 년 전엔 병원이었대."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "수학여행으로 서울에 갔어. 광장 앞에 하얀 돌기둥이 줄지어 선 거대한 국립박물관 본관이 있었는데, 계단 아래에서 올려다보니 지붕이 까마득했어. 이 박물관 본관, 'edifice'야?",
+   "choices": [
+    "응, edifice 맞아",
+    "아니, edifice 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, edifice 맞아",
+   "why": "맞아! 하얀 돌기둥이 줄지어 서 있고, 계단 아래에서 올려다보니 지붕이 까마득했잖아. 이렇게 크고 묵직해서 고개를 젖혀 올려다보게 되는 건물이 바로 edifice야."
+  },
+  {
+   "type": "ox",
+   "question": "주말에 가족이랑 산에 갔어. 등산로 옆에 지붕이 낮은 나무 오두막이 한 채 있었는데, 방 한 칸짜리라 어른 두세 명이 들어가면 꽉 찰 크기였어. 이 오두막, 'edifice'야?",
+   "choices": [
+    "응, edifice 맞아",
+    "아니, edifice 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, edifice 아니야",
+   "why": "맞아! 그 오두막은 지붕이 낮고 방 한 칸이라 어른 두세 명만 들어가도 꽉 차잖아. edifice는 고개를 젖혀 올려다볼 만큼 크고 웅장한 건물에만 쓰는 말이라서 이 오두막은 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "도시 여행 중에 본 것 네 가지야. 'edifice'라고 부르기 가장 알맞은 건?",
+   "choices": [
+    "도심 한가운데 우뚝 선 커다란 회색 법원",
+    "주차장 구석에 놓인 작은 컨테이너 창고",
+    "놀이공원에 있는 성 모양의 풍선 미끄럼틀",
+    "강을 가로질러 길게 놓인 커다란 철교"
+   ],
+   "answer_index": 0,
+   "answer": "도심 한가운데 우뚝 선 커다란 회색 법원",
+   "why": "맞아! 도심 한가운데 우뚝 선 커다란 회색 법원은 크고 묵직해서 고개를 들어 올려다보게 되는 건물이니까 바로 edifice야. 색이 수수한 회색이어도 크고 웅장한 건물이면 충분해."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-edifice",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-edifice"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/edifice.webp",
+  "alt": "고개를 젖혀야 꼭대기가 보이는 시내 건물",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

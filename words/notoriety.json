@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/notoriety/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/notoriety/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "notoriety",
+ "slug": "notoriety",
+ "url": "https://hibbangyong.com/words/notoriety/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "악명 — 좋지 않은 일로 널리 알려진 상태",
+ "gloss_ko": "나쁜 일로 널리 알려짐",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "시장 앞 교차로가 사고가 하도 많이 나서 동네에 모르는 사람이 없어.",
+  "이렇게 좋지 않은 일로 이름이 널리 퍼진 상태를 notoriety라고 해. 사람한테도 쓰고, 장소나 물건한테도 써.",
+  "그냥 유명한 거랑은 달라. 잘해서 칭찬받으며 유명해진 건 notoriety가 아니야.",
+  "꼭 범죄일 필요도 없어. 자꾸 고장 나는 자판기나 지각 대장도 이런 이름을 얻을 수 있어."
+ ],
+ "scene": "사고가 잦아 동네에 다 알려진 시장 앞 교차로",
+ "examples": [
+  {
+   "en": "The old bridge quickly gained notoriety after three accidents in one month.",
+   "ko": "그 낡은 다리는 한 달에 사고가 세 번 나고 나서 금방 악명이 퍼졌어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "우리 동네 23번 버스는 거의 매일 30분씩 늦게 와. 그래서 동네 사람이면 누구나 그 버스 얘기를 하며 고개를 저어. 이 버스는 'notoriety'를 얻었다고 할 수 있을까?",
+   "choices": [
+    "응, notoriety 맞아",
+    "아니, notoriety 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, notoriety 맞아",
+   "why": "맞아! 23번 버스는 거의 매일 30분씩 늦는다는 좋지 않은 일 때문에 동네 사람 누구나 아는 버스가 됐잖아. 나쁜 일로 이름이 널리 퍼졌으니 바로 그게 notoriety인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "우리 학교 3학년 지민이는 힘든 친구를 늘 먼저 도와줘서, 전교생과 선생님들이 모두 이름을 알고 칭찬해. 이런 경우도 지민이가 'notoriety'를 얻었다고 할 수 있어?",
+   "choices": [
+    "응, notoriety 맞아",
+    "아니, notoriety 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, notoriety 아니야",
+   "why": "맞아! 지민이가 전교에 이름이 퍼진 건 맞지만, 힘든 친구를 도와줘서 칭찬받으며 퍼진 거잖아. 좋은 일로 알려진 거라 notoriety가 아니고, notoriety는 좋지 않은 일로 이름이 퍼질 때만 쓰는 거야."
+  },
+  {
+   "type": "ox",
+   "question": "우리 아파트 화재경보기는 툭하면 잘못 울려서 주민들이 다 '또 그 경보기야' 하고 알아. 다친 사람도 없고 누가 큰 잘못을 한 것도 아니야. 이런 경우도 이 경보기가 'notoriety'를 얻었다고 할 수 있어?",
+   "choices": [
+    "응, notoriety 맞아",
+    "아니, notoriety 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, notoriety 맞아",
+   "why": "맞아! 경보기가 툭하면 잘못 울려서 주민들이 다 '또 그 경보기야' 하고 알잖아. 좋지 않은 일로 이름이 널리 퍼진 거니까 바로 그게 notoriety야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "infamy",
+   "kind": "confusable",
+   "from": "vs infamy"
+  }
+ ],
+ "related_scene": [
+  "reputation"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-notoriety",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-notoriety"
+ },
+ "image": null
+}

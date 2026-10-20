@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/malicious/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/malicious/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "malicious",
+ "slug": "malicious",
+ "url": "https://hibbangyong.com/words/malicious/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "악의적인 — 일부러 남을 해치거나 괴롭히려는 마음이 담긴",
+ "gloss_ko": "악의적인",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "누가 너를 곤란하게 만들려고 일부러 없는 말을 퍼뜨렸다고 해 봐.",
+  "여기서 중요한 건 결과보다 속마음이야. 처음부터 남을 해치려는 마음이 있었다는 거지.",
+  "말이든 행동이든, 컴퓨터 프로그램이든 그런 마음이 깔려 있으면 다 이 단어를 써.",
+  "모르고 상처 준 거나 같이 웃자고 한 장난이랑은 달라. 그건 malicious가 아니야."
+ ],
+ "scene": "친구를 곤란하게 하려고 일부러 없는 말을 퍼뜨림",
+ "examples": [
+  {
+   "en": "Someone spread a malicious rumor about her online.",
+   "ko": "누가 걔를 곤란하게 만들려고 인터넷에 나쁜 소문을 일부러 퍼뜨렸어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "옆집 할머니가 새로 이사 온 가족이 길을 헤매지 않도록 동네 약도를 손으로 그려서 그 집 우편함에 넣어 주셨어. 할머니의 이 행동은 'malicious'한 걸까?",
+   "choices": [
+    "응, malicious 맞아",
+    "아니, malicious 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, malicious 아니야",
+   "why": "맞아! 할머니는 새로 이사 온 가족이 길을 헤매지 않게 도우려고 약도를 그려 주신 거잖아. malicious는 일부러 남을 해치려는 마음이 있어야 쓰는 말이라, 이렇게 돕는 마음에는 절대 안 붙어."
+  },
+  {
+   "type": "ox",
+   "question": "형이 동생이 다음 날 시험에 늦게 하려고, 동생 방 알람시계를 밤에 일부러 한 시간 늦게 바꿔 놓았어. 형의 이 행동은 'malicious'한 걸까?",
+   "choices": [
+    "응, malicious 맞아",
+    "아니, malicious 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, malicious 맞아",
+   "why": "맞아! 형은 동생이 시험에 늦게 하려고 밤에 알람시계를 일부러 한 시간 늦게 바꿔 놨잖아. 처음부터 동생을 곤란하게 만들려는 속마음으로 한 거라서 바로 malicious인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 친구가 각자 한 일이야. 이 중에서 'malicious'하다고 말할 수 있는 건 누구 일일까?",
+   "choices": [
+    "지우가 반 친구를 골탕 먹이려고 그 애 체육복을 몰래 숨겼어.",
+    "민호가 급하게 뛰어가다가 모르고 친구 필통을 떨어뜨려 부쉈어.",
+    "서연이가 친구 생일에 얼굴에 크림을 살짝 묻히고 같이 웃었어.",
+    "준수가 아픈 친구 대신 당번 일을 아무 말 없이 해 줬어."
+   ],
+   "answer_index": 0,
+   "answer": "지우가 반 친구를 골탕 먹이려고 그 애 체육복을 몰래 숨겼어.",
+   "why": "맞아! 지우는 반 친구를 골탕 먹이려고 체육복을 몰래 숨겼잖아. 처음부터 그 애를 곤란하게 만들려는 마음으로 한 거라서, 바로 그게 malicious인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "malice"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-malicious",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-malicious"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/malicious.webp",
+  "alt": "친구를 곤란하게 하려고 일부러 없는 말을 퍼뜨림",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

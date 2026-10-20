@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/rhythm/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/rhythm/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "rhythm",
+ "slug": "rhythm",
+ "url": "https://hibbangyong.com/words/rhythm/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "리듬 — 소리나 움직임이 똑같은 간격으로 되풀이되는 흐름",
+ "gloss_ko": "리듬",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "발을 굴러 봐. 쿵-짝, 쿵-짝, 똑같은 간격으로 되풀이되지?",
+  "소리든 움직임이든, 일정한 간격으로 딱딱 돌아오는 거야.",
+  "노래에만 있는 게 아니야. 걸음걸이도, 심장 뛰는 것도, 파도가 밀려왔다 나가는 것도 그래.",
+  "이렇게 똑같이 되풀이되는 흐름, 그게 rhythm이야."
+ ],
+ "scene": "발을 구르며 쿵-짝 쿵-짝 되풀이하는 장면",
+ "examples": [
+  {
+   "en": "My heart beats in a steady rhythm when I run.",
+   "ko": "달릴 때 내 심장이 콩콩 일정한 리듬으로 뛰어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "음악 시간에 네 친구가 저마다 다른 걸 했어. 그중에서 'rhythm'을 만든 친구는 누구일까?",
+   "choices": [
+    "손뼉을 짝-짝-짝 똑같은 간격으로 계속 치는 친구",
+    "손뼉 치는 속도를 점점 빠르게 계속 바꾸는 친구",
+    "콧노래를 음 높낮이 오르내리며 계속 부르는 친구",
+    "큰 북을 딱 한 번 '쿵!' 세게 치고 마는 친구"
+   ],
+   "answer_index": 0,
+   "answer": "손뼉을 짝-짝-짝 똑같은 간격으로 계속 치는 친구",
+   "why": "맞아! 짝-짝-짝 똑같은 간격으로 계속 치니까, 딱딱 되풀이되는 흐름이 생기잖아. 바로 그게 rhythm이야."
+  },
+  {
+   "type": "ox",
+   "question": "탁상 종을 손바닥으로 딱 한 번 '땡!' 울리고 그쳤어. 이 하나의 소리도 'rhythm'이야?",
+   "choices": [
+    "응, rhythm 맞아",
+    "아니, rhythm 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, rhythm 아니야",
+   "why": "딩동댕! '땡!' 한 번 울리고 그친 건 되풀이가 없잖아. rhythm은 쿵-짝 쿵-짝 똑같은 간격으로 자꾸 돌아와야 하는 거라, 딱 한 번은 rhythm이 아닌 게 맞아."
+  },
+  {
+   "type": "ox",
+   "question": "고장 난 메트로놈이 딱……딱딱…딱………딱딱딱 하고 간격이 제멋대로 들쭉날쭉하게 쳐. 이 소리에도 'rhythm'이 있어?",
+   "choices": [
+    "응, rhythm 맞아",
+    "아니, rhythm 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, rhythm 아니야",
+   "why": "맞아! 이 고장 난 메트로놈은 딱 소리 사이의 간격이 길었다가 짧았다가 제멋대로거든. 똑같은 간격으로 되풀이되는 게 하나도 없으니까 rhythm이 아닌 거야."
+  }
+ ],
+ "synonyms": [
+  "cycle"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "tempo",
+   "kind": "confusable",
+   "from": "vs tempo"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-rhythm",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-rhythm"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/rhythm.webp",
+  "alt": "발을 구르며 쿵-짝 쿵-짝 되풀이하는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

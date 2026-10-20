@@ -1,0 +1,96 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/self-worth/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/self-worth/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "self-worth",
+ "slug": "self-worth",
+ "url": "https://hibbangyong.com/words/self-worth/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "자존감 — 내가 소중하고 가치 있는 사람이라고 느끼는 마음(높을 수도, 바닥일 수도 있어)",
+ "gloss_ko": "자존감",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "시험 한 번 망치고 '난 쓸모없는 애야' 싶었던 적 있어?",
+  "그때 흔들리는 게 내가 나를 얼마나 값진 사람으로 보느냐야. 그게 self-worth야.",
+  "이건 높을 수도 있고 바닥까지 떨어질 수도 있어. 잘해서 생기는 '할 수 있다'는 자신감이나, 지기 싫은 자존심이랑은 달라.",
+  "잘하든 못하든 '그래도 난 소중한 사람이야'라고 느끼는지, 그 무게가 기준이야."
+ ],
+ "scene": "시험을 망치고 자신이 쓸모없다고 느끼는 학생",
+ "examples": [
+  {
+   "en": "After her friends stopped talking to her, her self-worth dropped.",
+   "ko": "친구들이 말을 안 걸기 시작하자, 걔는 자기가 별 가치 없는 사람처럼 느껴졌어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "운동회 달리기에서 꼴찌를 한 예린이는 자기가 달리기를 못한다는 걸 솔직히 인정해. 그래도 '달리기를 못해도 난 사랑받을 만한 사람이야'라고 느껴. 예린이의 이 느낌은 'self-worth'야?",
+   "choices": [
+    "응, self-worth 맞아",
+    "아니, self-worth 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, self-worth 맞아",
+   "why": "맞아! 예린이는 달리기를 못한다는 건 인정하면서도, 그래도 난 사랑받을 만한 사람이라고 느끼잖아. 잘하든 못하든 내가 소중한 사람이라고 느끼는 그 마음이 바로 self-worth야."
+  },
+  {
+   "type": "ox",
+   "question": "태민이는 반에서 달리기가 제일 느려서 체육 시간마다 꼴찌야. 다음 달리기도 잘할 자신은 전혀 없대. 그래도 태민이는 '달리기가 느려도 나는 나라서 괜찮아'라고 여기면서 지내. 태민이의 'self-worth'는 높은 편이야?",
+   "choices": [
+    "응, 높은 편이야",
+    "아니, 높은 편 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 높은 편이야",
+   "why": "맞아! 태민이는 달리기가 반에서 제일 느리고 다음에 잘할 자신도 없지만, '달리기가 느려도 나는 나라서 괜찮아'라고 여기잖아. 잘하든 못하든 자기를 괜찮은 사람으로 보는 거니까 self-worth는 높은 거야."
+  },
+  {
+   "type": "ox",
+   "question": "수영을 배운 지 석 달 된 준호가 대회 전날 '난 이번엔 50m를 끝까지 헤엄칠 수 있어'라고 굳게 믿고 있어. 준호의 이 믿음도 'self-worth'야?",
+   "choices": [
+    "응, self-worth 맞아",
+    "아니, self-worth 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, self-worth 아니야",
+   "why": "맞아! 준호가 믿는 건 50m를 끝까지 헤엄칠 수 있다는 거잖아. 그건 해낼 수 있다는 자신감(이건 confidence야)이지, 준호가 자기를 소중한 사람으로 느끼는 마음은 아니야."
+  }
+ ],
+ "synonyms": [
+  "dignity"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "self",
+   "kind": "confusable",
+   "from": "vs self-esteem"
+  },
+  {
+   "word": "dignity",
+   "kind": "confusable",
+   "from": "vs dignity"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-self-worth",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-self-worth"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/self-worth.webp",
+  "alt": "시험을 망치고 자신이 쓸모없다고 느끼는 학생",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

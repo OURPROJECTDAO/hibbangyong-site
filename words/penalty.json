@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/penalty/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/penalty/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "penalty",
+ "slug": "penalty",
+ "url": "https://hibbangyong.com/words/penalty/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "벌칙 — 규칙을 어겼을 때, 미리 정해진 대로 잃는 것",
+ "gloss_ko": "벌칙",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "보드게임 하다가 카드를 떨어뜨렸어. 규칙에 이러면 한 장 도로 내라고 적혀 있어.",
+  "그래서 한 장 도로 냈지. 아무도 화 안 냈어. 그냥 규칙이 그랬거든?",
+  "누가 화나서 혼내는 거랑은 달라. 화 안 나도, 안 미워해도, 정해진 만큼은 잃는 거야.",
+  "책 늦게 냈다고 백 원 내는 것도 똑같아. 그게 penalty야."
+ ],
+ "scene": "보드게임 중 카드를 떨어뜨려 규칙대로 한 장을 도로 내는 장면",
+ "examples": [
+  {
+   "en": "I dropped a card, so I gave one back as a penalty.",
+   "ko": "카드를 떨어뜨려서 벌칙으로 한 장 도로 냈어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "수영장 입구에 '모자 안 쓰고 들어오면 십 분 쉬기'라고 적혀 있어. 지호가 모자 없이 들어가서, 십 분 동안 물 밖 의자에 앉아 쉬었어. 이게 'penalty'야?",
+   "choices": [
+    "응, penalty 맞아",
+    "아니, penalty 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, penalty 맞아",
+   "why": "맞아! 입구에 미리 적혀 있던 그대로, 모자 안 쓴 지호가 딱 십 분 앉아 쉰 거잖아. 누가 화내서가 아니라 정해진 만큼 잃은 거니까 그게 penalty인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "줄넘기 대회 규칙에 '백 번 넘으면 공책 한 권 준다'고 적혀 있어. 나윤이가 백 번을 넘어서 공책 한 권을 받았어. 이게 'penalty'야?",
+   "choices": [
+    "응, penalty 맞아",
+    "아니, penalty 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, penalty 아니야",
+   "why": "맞아! 백 번 잘 넘어서 상으로 받은 거잖아. 규칙에 적혀 있어도 방향이 얻는 거니까 벌칙이 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "카드게임을 하던 네 아이한테 각각 이런 일이 일어났어. 이 중에서 'penalty'를 받은 아이는 누구일까?",
+   "choices": [
+    "서준이는 형이 화가 나서 손에 든 카드를 확 뺏어가는 바람에 한 장을 잃었어.",
+    "하윤이는 규칙에 카드를 잘 섞으면 한 장 더 가져간다고 적혀 있어서, 한 장을 더 가져갔어.",
+    "지민이는 규칙에 카드를 떨어뜨리면 한 장 도로 내라고 적혀 있어서, 한 장을 도로 냈어.",
+    "민재는 카드를 떨어뜨려서 다음엔 한 장 도로 내야 한다는 말만 듣고, 이번엔 그냥 넘어갔어."
+   ],
+   "answer_index": 2,
+   "answer": "지민이는 규칙에 카드를 떨어뜨리면 한 장 도로 내라고 적혀 있어서, 한 장을 도로 냈어.",
+   "why": "맞아! 규칙에 미리 그렇게 적혀 있었고, 지민이는 진짜로 한 장을 내놨잖아. 정해진 대로 잃은 거, 그게 바로 penalty야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "reward"
+ ],
+ "confusable": [
+  {
+   "word": "punishment",
+   "kind": "confusable",
+   "from": "vs punishment"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-penalty",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-penalty"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/penalty.webp",
+  "alt": "보드게임 중 카드를 떨어뜨려 규칙대로 한 장을 도로 내는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

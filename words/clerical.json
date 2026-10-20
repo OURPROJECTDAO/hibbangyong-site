@@ -1,0 +1,88 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/clerical/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/clerical/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "clerical",
+ "slug": "clerical",
+ "url": "https://hibbangyong.com/words/clerical/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "사무의 — 서류와 기록을 다루는 사무실 일과 관련된",
+ "gloss_ko": "사무 일의",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "학생회 회의 내용을 받아 적고, 명단을 컴퓨터에 치고, 서류를 파일에 꽂는 일 있지?",
+  "이렇게 기록하고 정리하는 사무 일 쪽이면 다 clerical이야.",
+  "그래서 이름을 잘못 치거나 숫자를 옮겨 적다가 틀린 것도 clerical error라고 해.",
+  "뭘 할지 정하는 일이나 몸으로 하는 일이랑은 달라. 이미 정해진 걸 적고 정리하는 쪽이야."
+ ],
+ "scene": "학생회에서 회의를 기록하고 명단을 입력하고 서류를 정리하는 일",
+ "examples": [
+  {
+   "en": "Because of a clerical mistake, my name was spelled wrong on the list.",
+   "ko": "사무 처리하다가 실수가 나서 명단에 내 이름이 틀리게 적혀 있었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "삼촌은 학교 행정실에서 일해. 전학 온 학생의 주소와 연락처를 컴퓨터에 입력하고, 그 서류를 서류철에 꽂아 정리해. 삼촌이 하는 이 일은 'clerical' 일일까?",
+   "choices": [
+    "응, clerical 맞아",
+    "아니, clerical 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, clerical 맞아",
+   "why": "맞아! 삼촌은 전학 온 학생의 주소와 연락처를 컴퓨터에 입력하고 그 서류를 서류철에 꽂아 정리하잖아. 이미 정해진 정보를 적고 서류를 정리하는 일이니까 딱 clerical이야."
+  },
+  {
+   "type": "ox",
+   "question": "이모는 이삿짐센터에서 일해. 손님 집에 가서 냉장고와 책장을 직접 들어 옮기고, 트럭에 실어 새 집까지 날라. 이모가 하는 이 일은 'clerical' 일일까?",
+   "choices": [
+    "응, clerical 맞아",
+    "아니, clerical 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, clerical 아니야",
+   "why": "맞아! 이모는 냉장고랑 책장을 직접 들어 옮기고 트럭에 실어 나르니까, 몸으로 하는 일이야. clerical은 서류를 적고 정리하는 사무 일이라서 이모 일은 clerical이 아닌 거지."
+  },
+  {
+   "type": "choice",
+   "question": "병원에서 네 사람이 각자 하는 일을 말했어. 'clerical' 일을 하는 사람은 누구일까?",
+   "choices": [
+    "새 진료 규칙을 만들지 말지 회의에서 정하는 사람",
+    "환자를 직접 살펴보고 어디가 아픈지 치료하는 사람",
+    "환자 예약 명단을 정리해서 컴퓨터에 입력하는 사람",
+    "복도 바닥을 닦고 무거운 상자를 옮기는 사람"
+   ],
+   "answer_index": 2,
+   "answer": "환자 예약 명단을 정리해서 컴퓨터에 입력하는 사람",
+   "why": "맞아! 환자 예약 명단을 정리해서 컴퓨터에 입력하는 건 이미 정해진 정보를 적고 정리하는 일이라서, 바로 그게 clerical 일인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "document",
+  "secretary"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-clerical",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-clerical"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/clerical.webp",
+  "alt": "학생회에서 회의를 기록하고 명단을 입력하고 서류를 정리하는 일",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

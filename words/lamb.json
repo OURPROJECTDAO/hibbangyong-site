@@ -1,0 +1,75 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/lamb/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/lamb/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "lamb",
+ "slug": "lamb",
+ "url": "https://hibbangyong.com/words/lamb/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "새끼 양 — 아직 다 자라지 않은 어린 양",
+ "gloss_ko": "새끼 양",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "그림 속 봄 들판에 서 있는 폭신한 흰 동물이 바로 lamb, 아직 다 자라지 않은 새끼 양이에요.",
+  "농장이나 동물원에 가면 엄마 양 옆에 꼭 붙어 다니는 어린 양을 볼 수 있어요."
+ ],
+ "scene": "새끼 양(lamb) 한 마리가 봄 들판에 서 있는 모습 — 폭신폭신한 흰 털의 어린 양",
+ "examples": [
+  {
+   "en": "The little lamb followed its mother across the green field.",
+   "ko": "새끼 양이 초록 들판을 가로질러 엄마를 따라갔어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "농장 우리 안에서 꿀꿀거리며 진흙에서 뒹구는 분홍색 동물이 있어요. 이게 lamb이야?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 아니야",
+   "why": null
+  },
+  {
+   "type": "choice",
+   "question": "lamb은 어느 것일까?",
+   "choices": [
+    "긴 코로 물을 뿜는 커다란 회색 코끼리",
+    "빨간 볏을 달고 꼬끼오 우는 수탉",
+    "폭신한 흰 털에 메에 우는 어린 양",
+    "딱딱한 등껍질을 지고 느릿느릿 기는 거북이"
+   ],
+   "answer_index": 2,
+   "answer": "폭신한 흰 털에 메에 우는 어린 양",
+   "why": null
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "homestead",
+  "sheep"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-lamb",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-lamb"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/lamb.webp",
+  "alt": "새끼 양(lamb) 한 마리가 봄 들판에 서 있는 모습 — 폭신폭신한 흰 털의 어린 양",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

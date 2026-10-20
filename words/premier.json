@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/premier/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/premier/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "premier",
+ "slug": "premier",
+ "url": "https://hibbangyong.com/words/premier/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "최고의 — 같은 종류 여럿 가운데 가장 뛰어나고 중요한",
+ "gloss_ko": "최고의",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "축구 리그에도 층이 있어. 1부, 2부, 3부 이렇게.",
+  "그중 제일 위, 제일 잘하는 팀들만 모인 곳에 premier를 붙여.",
+  "리그만 그런 거 아냐. 나라에서 으뜸가는 항구, 으뜸가는 대학에도 다 붙어.",
+  "처음 열린다는 뜻도, 비싸고 화려하다는 뜻도 아냐. 여럿 중에 순위가 맨 앞이라는 거야."
+ ],
+ "scene": "축구 리그 1부·2부·3부 중 맨 위 리그",
+ "examples": [
+  {
+   "en": "Busan is Korea's premier port city.",
+   "ko": "부산은 우리나라에서 으뜸가는 항구 도시야."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "우리나라에 오케스트라가 수십 개 있어. 전문가들이 실력을 평가했더니, 그중 한 오케스트라가 해마다 1위로 꼽혀. 이 오케스트라를 'premier' 오케스트라라고 부르면 알맞을까?",
+   "choices": [
+    "응, premier 맞아",
+    "아니, premier 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, premier 맞아",
+   "why": "맞아! 수십 개 오케스트라 중에 전문가들이 해마다 1위로 꼽는다는 건 순위가 맨 앞이라는 거잖아. 여럿 중에 제일 앞에 서는 그 오케스트라한테 딱 붙는 말이 premier야."
+  },
+  {
+   "type": "ox",
+   "question": "전국 빵집 수백 곳의 맛을 평가해서 순위를 매겼어. 동네 골목에 있는 한 빵집은 순위가 딱 중간쯤이고, 특별히 뛰어나지도 못하지도 않은 평범한 곳이야. 이 빵집을 'premier' 빵집이라고 부르면 알맞을까?",
+   "choices": [
+    "응, premier 맞아",
+    "아니, premier 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, premier 아니야",
+   "why": "맞아! 이 빵집은 수백 곳 중에 순위가 딱 중간쯤인 평범한 곳이잖아. premier는 여럿 중에 맨 앞, 제일 뛰어난 곳에만 붙이는 말이라서 여기엔 안 맞는 거야."
+  },
+  {
+   "type": "choice",
+   "question": "학교 게시판에 대회 네 개가 붙었어. 이 중에서 'premier' 대회라고 부르기에 가장 알맞은 건?",
+   "choices": [
+    "전국에서 실력이 가장 뛰어난 팀들만 모이는 대회",
+    "올해 우리 지역에서 처음으로 열리는 대회",
+    "참가비가 여러 대회 중 가장 비싼 대회",
+    "동네 사람 누구나 자유롭게 나가는 대회"
+   ],
+   "answer_index": 0,
+   "answer": "전국에서 실력이 가장 뛰어난 팀들만 모이는 대회",
+   "why": "맞아! 전국에서 실력이 가장 뛰어난 팀들만 모이는 대회니까, 여러 대회 가운데 순위가 맨 앞이잖아. premier는 바로 이렇게 여럿 중에 으뜸인 걸 가리켜."
+  }
+ ],
+ "synonyms": [
+  "prime"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "leading",
+   "kind": "confusable",
+   "from": "vs leading"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-premier",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-premier"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/premier.webp",
+  "alt": "축구 리그 1부·2부·3부 중 맨 위 리그",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

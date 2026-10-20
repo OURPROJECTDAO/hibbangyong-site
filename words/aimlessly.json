@@ -1,0 +1,95 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/aimlessly/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/aimlessly/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "aimlessly",
+ "slug": "aimlessly",
+ "url": "https://hibbangyong.com/words/aimlessly/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "목적 없이 — 딱히 가려는 곳이나 하려는 일 없이",
+ "gloss_ko": "목적 없이",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "폰을 켰는데 뭘 보려던 것도 아니었어. 이 앱 저 앱 넘기다 보니 한 시간이 가 버렸지.",
+  "이렇게 가려는 곳도, 하려는 일도 딱히 없이 뭔가를 하는 게 aimlessly야. aim(목표)이 less(없는) 거지.",
+  "걷는 거든, 채널 돌리는 거든, 하루를 보내는 거든 다 이렇게 할 수 있어.",
+  "길 잃은 거랑은 달라. 길 잃은 애는 가고 싶은 곳이 있잖아. 빠르고 느린 것도 상관없어."
+ ],
+ "scene": "목적 없이 폰 앱을 이것저것 넘기다 한 시간 보내기",
+ "examples": [
+  {
+   "en": "After the exam, we walked aimlessly around town until dinner.",
+   "ko": "시험 끝나고 우리는 저녁 먹을 때까지 딱히 갈 데도 없이 동네를 돌아다녔어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "토요일 오후에 자전거를 타고 나갔어. 어디로 갈지 정하지도 않고, 이 골목 저 골목 그냥 달리다가 해 질 때 집에 왔어. 이렇게 달린 걸 'aimlessly' 달렸다고 할 수 있을까?",
+   "choices": [
+    "응, aimlessly 맞아",
+    "아니, aimlessly 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, aimlessly 맞아",
+   "why": "맞아! 자전거는 해 질 때까지 계속 달렸는데, 어디로 갈지는 끝까지 안 정했잖아. 이렇게 달리긴 달리는데 가려는 곳이 없는 게 바로 aimlessly야."
+  },
+  {
+   "type": "ox",
+   "question": "도서관에 가기 전에 빌릴 책 세 권의 제목과 서가 번호를 적어 갔어. 도착해서 그 번호 순서대로 서가를 찾아가 책을 빌리고 바로 나왔어. 이렇게 움직인 걸 'aimlessly' 움직였다고 할 수 있을까?",
+   "choices": [
+    "응, aimlessly 맞아",
+    "아니, aimlessly 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, aimlessly 아니야",
+   "why": "맞아! 빌릴 책 세 권이랑 서가 번호까지 적어 가서 그 순서대로 찾고 바로 나왔잖아. 가려는 곳도 할 일도 딱 정해져 있었으니 aimlessly랑은 정반대야(이건 purposefully라고 해)."
+  },
+  {
+   "type": "choice",
+   "question": "친구 네 명이 어제 한 일을 말했어. 그중에서 'aimlessly' 한 거라고 말할 수 있는 사람은?",
+   "choices": [
+    "찾는 가게가 있는데 길을 몰라서 골목을 이리저리 헤맸어",
+    "다리를 다쳐서 공원 한 바퀴를 아주 천천히 걸었어",
+    "딱히 볼 게 정해진 것도 없이 TV 채널을 계속 넘겼어",
+    "내일 시험 과목 순서대로 계획을 짜고 공부를 시작했어"
+   ],
+   "answer_index": 2,
+   "answer": "딱히 볼 게 정해진 것도 없이 TV 채널을 계속 넘겼어",
+   "why": "맞아! 딱히 볼 게 정해진 것도 없이 채널만 계속 넘겼으니까, 뭘 하려는 목표가 없었던 거잖아. 바로 그게 aimlessly야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "purposefully"
+ ],
+ "confusable": [
+  {
+   "word": "randomly",
+   "kind": "confusable",
+   "from": "vs randomly"
+  }
+ ],
+ "related_scene": [
+  "aim"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-aimlessly",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-aimlessly"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/aimlessly.webp",
+  "alt": "목적 없이 폰 앱을 이것저것 넘기다 한 시간 보내기",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/riveting/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/riveting/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "riveting",
+ "slug": "riveting",
+ "url": "https://hibbangyong.com/words/riveting/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "눈을 뗄 수 없는 — 너무 흥미진진해서 끝까지 계속 보게(듣게, 읽게) 되는",
+ "gloss_ko": "눈을 못 떼는",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "승부차기 마지막 키커가 공 앞에 섰어. 다들 숨도 안 쉬고 그 장면만 봐.",
+  "재밌는 경기든, 무서운 뉴스든, 진지한 연설이든, 두꺼운 소설이든 다 돼. 내용이 좋든 나쁘든 상관없어.",
+  "기준은 하나야. 주의가 꽉 붙잡혀서 딴 데로 눈이 안 가야 해. 많이 웃기거나 많이 무섭기만 한 거랑은 달라. 그냥 좀 궁금한 정도(interesting)보다도 훨씬 세.",
+  "rivet은 쇠못이라는 뜻이야. 눈이 거기에 못 박힌 거지."
+ ],
+ "scene": "승부차기 마지막 키커를 다들 숨죽이고 지켜보는 장면",
+ "examples": [
+  {
+   "en": "The documentary about the earthquake was hard to watch, but it was riveting.",
+   "ko": "그 지진 다큐는 보기 힘들 정도였는데, 눈을 뗄 수가 없었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "민준이는 체스 대회 결승 생중계를 봤어. 두 시간 내내 화면에서 눈을 한 번도 떼지 않았고, 옆에 둔 라면이 다 불어 버린 것도 몰랐어. 민준이에게 이 생중계는 'riveting'이었을까?",
+   "choices": [
+    "응, riveting 맞아",
+    "아니, riveting 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, riveting 맞아",
+   "why": "맞아! 두 시간 내내 화면에서 눈을 한 번도 안 떼고 옆에 둔 라면이 불어 버린 것도 몰랐잖아. 눈이 화면에 딱 못 박힌 거니까 바로 그게 riveting인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "서연이는 숙제 때문에 날씨 원리를 설명하는 강의 영상을 틀었어. 5분쯤 지나자 자꾸 창밖을 보고 휴대폰 알림을 확인하다가, 결국 영상을 끄고 말았어. 서연이에게 이 강의 영상은 'riveting'이었을까?",
+   "choices": [
+    "응, riveting 맞아",
+    "아니, riveting 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, riveting 아니야",
+   "why": "맞아! 서연이는 5분 만에 창밖을 보고 휴대폰 알림을 확인하다가 결국 영상을 껐잖아. 눈이 영상에 못 박히기는커녕 자꾸 딴 데로 갔으니까 riveting이 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 친구가 어제 본 영상에서 어떤 반응이 나왔는지 말했어. 그 영상을 'riveting'이라고 부르기 가장 알맞은 건?",
+   "choices": [
+    "코미디 영상이 너무 웃겨서 배를 잡고 데굴데굴 굴렀어.",
+    "공포 영화가 너무 무서워서 손으로 눈을 가리고 봤어.",
+    "재판 뉴스였는데 한 장면도 놓치기 싫어서 꼼짝 않고 봤어.",
+    "다큐 주제가 꽤 궁금해서 틀었는데, 그럭저럭 볼 만했어."
+   ],
+   "answer_index": 2,
+   "answer": "재판 뉴스였는데 한 장면도 놓치기 싫어서 꼼짝 않고 봤어.",
+   "why": "맞아! 재판 뉴스라 재밌는 내용은 아닌데도 한 장면도 놓치기 싫어서 꼼짝 않고 봤잖아. 눈이 화면에 딱 붙어서 안 떨어진 거니까 바로 그게 riveting인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "lackluster"
+ ],
+ "confusable": [
+  {
+   "word": "gripping",
+   "kind": "confusable",
+   "from": "vs gripping"
+  },
+  {
+   "word": "fascinating",
+   "kind": "confusable",
+   "from": "vs fascinating"
+  },
+  {
+   "word": "compelling",
+   "kind": "confusable",
+   "from": "vs compelling"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-riveting",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-riveting"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/riveting.webp",
+  "alt": "승부차기 마지막 키커를 다들 숨죽이고 지켜보는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

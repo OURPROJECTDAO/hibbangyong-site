@@ -1,0 +1,91 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/pub/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/pub/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "pub",
+ "slug": "pub",
+ "url": "https://hibbangyong.com/words/pub/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "펍 — 어른들이 맥주 같은 걸 마시고 밥도 먹으면서 이야기하는 동네 가게",
+ "gloss_ko": "펍",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "동네 골목에 문이 하나 있어. 밀고 들어가면 안이 시끌시끌해.",
+  "어른들이 큰 잔을 들고 앉아서 웃고 떠들거든? 옆 사람들끼리 축구 얘기도 하고, 감자튀김도 시켜 먹어.",
+  "낮에는 조용히 밥만 먹는 사람도 있고, 밤에는 사람이 꽉 차기도 해.",
+  "커피 파는 카페도 아니고, 조용히 밥만 먹고 나오는 식당도 아니야. 마시면서 오래 떠드는 곳, 그게 pub이야."
+ ],
+ "scene": "동네 골목에서 문 밀고 들어가는 시끌시끌한 가게",
+ "examples": [
+  {
+   "en": "Dad met his friends at the pub after work.",
+   "ko": "아빠는 퇴근하고 친구들을 펍에서 만났어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "동네에 가게 네 곳이 있어. 이 중에서 'pub'이라고 부를 만한 곳은 어디일까?",
+   "choices": [
+    "어른들이 큰 잔에 맥주를 받아 놓고 몇 시간씩 떠드는 가게",
+    "학생들이 조용히 앉아 책을 읽다가 가는 가게",
+    "아이들이 아이스크림을 골라서 받아 가는 가게",
+    "손님들이 머리를 자르고 값을 내고 나가는 가게"
+   ],
+   "answer_index": 0,
+   "answer": "어른들이 큰 잔에 맥주를 받아 놓고 몇 시간씩 떠드는 가게",
+   "why": "맞아! 큰 잔에 맥주를 받아 놓고 몇 시간씩 떠드는 곳이잖아. 마시면서 오래 이야기하는 가게, 바로 그게 pub인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "삼촌이 여행 가서 저녁마다 'pub'에 갔대. 삼촌이 간 곳은 어떤 곳일까?",
+   "choices": [
+    "어른들이 맥주를 시켜 놓고 서로 이야기하며 오래 앉아 있는 곳",
+    "어른들이 자전거를 빌려서 강가를 한 바퀴 돌고 오는 곳",
+    "어른들이 번호표를 뽑고 순서를 기다려 돈을 찾는 곳",
+    "어른들이 운동화를 신고 러닝머신 위에서 달리는 곳"
+   ],
+   "answer_index": 0,
+   "answer": "어른들이 맥주를 시켜 놓고 서로 이야기하며 오래 앉아 있는 곳",
+   "why": "맞아! 삼촌은 저녁마다 거기서 맥주를 시켜 놓고 사람들이랑 이야기하면서 오래 앉아 있었을 거야. 마시면서 오래 떠드는 곳, 바로 그게 pub인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "친구가 우리 동네 지도를 보며 물어. \"여기 중에 'pub'은 어디야?\"",
+   "choices": [
+    "어른들이 맥주잔을 앞에 두고 떠들며 저녁을 먹는 건물",
+    "선생님이 칠판 앞에서 아이들에게 글자를 가르치는 건물",
+    "사람들이 우표를 사고 소포를 부치고 나가는 건물",
+    "의사가 아픈 사람의 목을 들여다보고 약을 주는 건물"
+   ],
+   "answer_index": 0,
+   "answer": "어른들이 맥주잔을 앞에 두고 떠들며 저녁을 먹는 건물",
+   "why": "맞아! 어른들이 맥주잔을 앞에 두고 떠들면서 저녁을 먹는 곳이잖아. 마시면서 오래 이야기하는 가게, 바로 그게 pub인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "brewery"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-pub",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-pub"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/pub.webp",
+  "alt": "동네 골목에서 문 밀고 들어가는 시끌시끌한 가게",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

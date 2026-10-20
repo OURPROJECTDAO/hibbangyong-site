@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/procedural/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/procedural/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "procedural",
+ "slug": "procedural",
+ "url": "https://hibbangyong.com/words/procedural/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "절차상의 — 일의 내용이나 결과가 아니라, 정해진 순서와 방법을 제대로 따랐는지에 관한",
+ "gloss_ko": "절차상의",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "반장 선거에서 누가 이겼는지는 아무도 불만이 없었어.",
+  "근데 표를 세기 전에 꼭 거쳐야 하는 순서 하나를 빼먹었대. 그래서 선거를 다시 하기로 했어.",
+  "이렇게 '무엇을 정했냐'가 아니라 '정해진 순서대로 했냐'를 따지는 게 procedural이야.",
+  "작은 서류 실수일 수도 있고, 결과를 통째로 뒤집는 큰 문제일 수도 있어. 일을 꼼꼼하게 하는 성격이랑은 다른 말이야."
+ ],
+ "scene": "반장 선거에서 개표 전 거쳐야 할 순서를 빼먹어 재선거",
+ "examples": [
+  {
+   "en": "The vote was cancelled because of a procedural mistake.",
+   "ko": "정해진 순서를 하나 어겨서 그 투표는 취소됐어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "도 수학경시대회에서 민수가 1등을 했어. 점수 계산에는 아무 문제가 없었어. 그런데 규칙상 시험 전에 해야 하는 감독관의 신분증 확인을 건너뛰었대. 그래서 대회 측이 결과 발표를 미뤘어. 이건 'procedural' 문제야?",
+   "choices": [
+    "응, procedural 문제 맞아",
+    "아니, procedural 문제 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, procedural 문제 맞아",
+   "why": "맞아! 민수가 1등 한 거나 점수 계산은 아무 문제가 없었잖아. 시험 전에 해야 하는 감독관의 신분증 확인을 건너뛴 게 문제였으니까, 정해진 순서를 안 지킨 procedural 문제인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "학생회 선거가 끝난 뒤 네 가지 불만이 나왔어. 이 중에서 'procedural' 문제라고 부를 수 있는 건?",
+   "choices": [
+    "투표함을 열 때 선생님이 먼저 확인해야 하는데 그걸 그냥 건너뛰었어",
+    "당선된 후보의 공약이 실제로는 지키기 어려운 내용이었어",
+    "개표해 보니 두 후보의 표 차이가 겨우 세 표밖에 안 됐어",
+    "후보 한 명이 연설할 때 말을 너무 빨리 해서 알아듣기 힘들었어"
+   ],
+   "answer_index": 0,
+   "answer": "투표함을 열 때 선생님이 먼저 확인해야 하는데 그걸 그냥 건너뛰었어",
+   "why": "맞아! 투표함을 열 때 선생님이 먼저 확인해야 하는데 그 순서를 그냥 건너뛰었잖아. 누가 이겼냐가 아니라 정해진 순서를 지켰냐의 문제니까, 이게 바로 procedural 문제야. 이런 건 결과를 통째로 다시 따져야 할 만큼 클 수도 있어."
+  },
+  {
+   "type": "ox",
+   "question": "전국 수학경시대회에서 1등을 한 학생이 있었어. 그런데 참가 신청서를 정해진 방법으로 먼저 내고 접수 확인을 받아야 하는데, 그 단계를 건너뛴 게 나중에 밝혀졌어. 그래서 1등 기록이 통째로 무효가 됐어. 이런 경우도 'procedural' 문제야?",
+   "choices": [
+    "응, procedural 문제 맞아",
+    "아니, procedural 문제 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, procedural 문제 맞아",
+   "why": "맞아! 1등을 한 실력이 문제가 된 게 아니라, 신청서를 정해진 방법으로 먼저 내고 접수 확인을 받는 단계를 건너뛴 게 문제였잖아. 순서를 안 지킨 게 문제니까 procedural 문제고, 기록이 통째로 무효가 될 만큼 큰일이어도 procedural인 건 똑같아."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "substantive"
+ ],
+ "confusable": [
+  {
+   "word": "systematic",
+   "kind": "confusable",
+   "from": "vs systematic"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-procedural",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-procedural"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/procedural.webp",
+  "alt": "반장 선거에서 개표 전 거쳐야 할 순서를 빼먹어 재선거",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

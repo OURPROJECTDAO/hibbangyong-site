@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/tumor/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/tumor/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "tumor",
+ "slug": "tumor",
+ "url": "https://hibbangyong.com/words/tumor/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "종양 — 몸속에서 세포가 멈추지 않고 불어나서 생긴 덩어리 (다 암은 아니고, 순한 것도 있어)",
+ "gloss_ko": "종양(몸속 혹)",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "병원에서 사진을 찍었더니 몸속에 전에 없던 덩어리가 보였대.",
+  "세포가 멈추지 않고 계속 불어나서 뭉친 거야. 그게 tumor야.",
+  "다 암인 건 아니야. 떼어 내면 끝나는 순한 것도 있고, 위험한 것도 있어.",
+  "넘어져서 부은 거나 멍이랑은 달라. 그런 건 며칠 지나면 가라앉잖아."
+ ],
+ "scene": "병원 사진에서 몸속에 없던 덩어리가 보인 장면",
+ "examples": [
+  {
+   "en": "The doctor said the tumor was small and not dangerous.",
+   "ko": "의사 선생님이 그 종양은 작고 위험한 건 아니라고 했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "삼촌이 목이 뻐근해서 병원에 갔어. 의사 선생님이 목 안쪽에서 세포가 멈추지 않고 계속 불어나 뭉친 덩어리가 자라고 있다고 했대. 삼촌 목 안에 자라는 이 덩어리가 'tumor'야?",
+   "choices": [
+    "응, tumor 맞아",
+    "아니, tumor 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, tumor 맞아",
+   "why": "맞아! 삼촌 목 안쪽에서 세포가 멈추지 않고 계속 불어나 뭉친 덩어리가 자라고 있다잖아. 바로 그런 덩어리가 tumor야."
+  },
+  {
+   "type": "ox",
+   "question": "동물병원에서 수의사 선생님이 고양이 배를 꼼꼼히 만져 봤어. 배 속에 불어난 덩어리는 하나도 없고, 모든 곳이 매끈하고 건강하대. 고양이 배 속의 이 상태가 'tumor'야?",
+   "choices": [
+    "응, tumor 맞아",
+    "아니, tumor 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, tumor 아니야",
+   "why": "맞아! 수의사 선생님이 만져 봤는데 배 속에 불어난 덩어리가 하나도 없대. tumor는 세포가 불어나서 생긴 그 덩어리를 말하는 거라서, 덩어리가 없는 매끈하고 건강한 배는 tumor가 아니야."
+  },
+  {
+   "type": "choice",
+   "question": "네 친구가 병원에서 몸에 볼록한 덩어리가 생긴 까닭을 들었어. 네 명 다 의사 선생님이 '위험한 건 아니야'라고 했대. 이 가운데 의사 선생님이 'tumor'라고 부를 만한 친구는?",
+   "choices": [
+    "부딪힌 자리 속에 피가 잔뜩 고여서 볼록한 덩어리가 생겼대.",
+    "몸속 세포 수가 자꾸자꾸 늘어나서 볼록한 덩어리가 생겼대.",
+    "벌레한테 물린 자리가 빨갛게 부어서 볼록한 덩어리가 생겼대.",
+    "감기 때문에 목 안쪽이 퉁퉁 부어서 볼록한 덩어리가 생겼대."
+   ],
+   "answer_index": 1,
+   "answer": "몸속 세포 수가 자꾸자꾸 늘어나서 볼록한 덩어리가 생겼대.",
+   "why": "맞아! 세포 수가 자꾸자꾸 늘어나서 뭉친 덩어리라서 바로 그게 tumor인 거야. 의사 선생님이 위험한 건 아니라고 했어도 세포가 불어나서 생긴 덩어리면 tumor라고 불러. 순한 tumor도 있거든."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "cancer"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-tumor",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-tumor"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/tumor.webp",
+  "alt": "병원 사진에서 몸속에 없던 덩어리가 보인 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

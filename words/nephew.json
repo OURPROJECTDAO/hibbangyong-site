@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/nephew/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/nephew/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "nephew",
+ "slug": "nephew",
+ "url": "https://hibbangyong.com/words/nephew/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "내 형제나 자매가 낳은 아들 — 남자 조카",
+ "gloss_ko": "내 형제나 자매가 낳은 아들",
+ "level": {
+  "code": "L4",
+  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "삼촌이나 이모 있지? 그 반대편 자리를 한번 생각해 봐.",
+  "네 형이나 누나, 오빠나 언니, 아니면 동생한테 아들이 생기잖아? 그 남자아이가 너한테는 'nephew'야. 그럼 너는 그 아이의 삼촌이나 이모·고모가 되는 거고!",
+  "꼭 아기일 필요도 없어. 너보다 나이 많은 어른 nephew도 있을 수 있거든? 중요한 건 나이가 아니라 '내 형제자매의 아들'이라는 거야.",
+  "그게 nephew야."
+ ],
+ "scene": "형·누나에게 아들이 생겨 내가 삼촌·이모가 되는 자리",
+ "examples": [
+  {
+   "en": "My nephew just started high school this year.",
+   "ko": "내 조카는 올해 막 고등학교에 들어갔어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "우리 오빠가 사는 집에 놀러 갔더니, 오빠가 낳은 어린 남자아이가 나한테 쪼르르 달려와 안겼어. 이 남자아이는 너의 'nephew'일까?",
+   "choices": [
+    "응, nephew 맞아",
+    "아니, nephew 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, nephew 맞아",
+   "why": "맞아! 우리 오빠가 낳은 남자아이는 바로 '내 형제의 아들'이잖아? 그래서 그게 딱 nephew인 거야. 그럼 너는 그 아이의 고모가 되는 거고!"
+  },
+  {
+   "type": "choice",
+   "question": "여러 친척이 한자리에 모였어. 다음 중에서 너의 'nephew'인 사람은 누구일까?",
+   "choices": [
+    "내 형이 낳은 아들",
+    "내 누나가 낳은 딸",
+    "내 엄마의 남동생",
+    "내 이모가 낳은 아들"
+   ],
+   "answer_index": 0,
+   "answer": "내 형이 낳은 아들",
+   "why": "맞아! 네 형이 낳은 아들은 너랑 한 세대 아래 남자아이잖아. 형제자매의 아들, 그게 바로 nephew야. 그럼 너는 그 아이의 삼촌이 되는 거지!"
+  },
+  {
+   "type": "ox",
+   "question": "명절에 아빠의 형(큰아버지)이 나를 보고 반갑게 세뱃돈을 주셨어. 이 어른은 너의 'nephew'일까?",
+   "choices": [
+    "응, nephew 맞아",
+    "아니, nephew 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, nephew 아니야",
+   "why": "맞아! 큰아버지는 너보다 윗자리 어른이고, 오히려 네가 그분의 조카잖아? 방향이 정반대니까 nephew가 아닌 게 딱 맞아."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "uncle"
+ ],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-nephew",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-nephew"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/nephew.webp",
+  "alt": "형·누나에게 아들이 생겨 내가 삼촌·이모가 되는 자리",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/summit/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/summit/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "summit",
+ "slug": "summit",
+ "url": "https://hibbangyong.com/words/summit/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "꼭대기 — 산처럼 솟은 것의 맨 위, 더 올라갈 데가 없는 딱 한 지점",
+ "gloss_ko": "산의 맨 꼭대기",
+ "level": {
+  "code": "L4",
+  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "언덕을 오르고 또 오르다 보면 어느 순간 더 갈 데가 없어. 발 앞이 어느 쪽이든 다 내리막이거든?",
+  "높은 데 있다고 다 그 자리는 아니야. 위로 길이 아직 남아 있으면 아니거든.",
+  "산만 그런 것도 아니야. 화산이든 절벽이든, 솟은 거면 그 맨 위가 다 이 말이야. 나라 대표들이 모이는 제일 높은 회의도 그래서 이 이름이 붙었어.",
+  "그게 summit이야."
+ ],
+ "scene": "언덕을 계속 올라가다 발 앞이 전부 내리막이 되는 한 자리",
+ "examples": [
+  {
+   "en": "The summit was so windy that we could not stand up straight.",
+   "ko": "꼭대기는 바람이 너무 세서 똑바로 서 있을 수도 없었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "네 사람이 화산에 갔다가 지금 자기가 어디 있는지 말했어. 'summit'에 있는 사람은 누구야?",
+   "choices": [
+    "지호 — 구름을 뚫고 올라와 마을이 콩알만 한데, 봉우리는 아직 머리 위에 있대",
+    "예린 — 화산 아래 마을에서 지도를 펴고 어느 길로 오를지 정하는 중이래",
+    "민수 — 연기 나는 구멍 둘레에 섰는데, 아래로 산이 다 펼쳐지고 위로는 하늘뿐이래",
+    "하늘 — 가파른 돌계단을 헉헉대며 오르다 쉬려고 또 멈춰 섰대"
+   ],
+   "answer_index": 2,
+   "answer": "민수 — 연기 나는 구멍 둘레에 섰는데, 아래로 산이 다 펼쳐지고 위로는 하늘뿐이래",
+   "why": "맞아! 민수는 연기 나는 구멍 둘레에 섰는데, 위로는 하늘뿐이라 더 올라갈 데가 없거든. 아래로 산이 다 펼쳐지는 그 맨 위 자리가 바로 summit인 거야."
+  }
+ ],
+ "synonyms": [
+  "height"
+ ],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-summit",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-summit"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/summit.webp",
+  "alt": "언덕을 계속 올라가다 발 앞이 전부 내리막이 되는 한 자리",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

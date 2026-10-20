@@ -1,0 +1,89 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/experience/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/experience/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "experience",
+ "slug": "experience",
+ "url": "https://hibbangyong.com/words/experience/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "겪다 — 어떤 일이 나한테 일어나서, 내가 직접 몸이나 마음으로 느끼는 거.",
+ "gloss_ko": "겪다",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "자전거 타다가 꽈당 넘어져서 무릎이 까졌어. 엄청 아팠지?",
+  "그 아픔은 옆에서 아무도 대신 못 느껴. 나한테 일어나서 내가 느낀 거거든.",
+  "신나는 일, 무서운 일, 처음 해보는 일... 나한테 일어나서 내가 느끼면 다 이거야.",
+  "그게 experience야."
+ ],
+ "scene": "자전거 타다 넘어져 무릎 까지고 아픔을 직접 느낌",
+ "examples": [
+  {
+   "en": "When I fell off my bike, I experienced a lot of pain.",
+   "ko": "자전거에서 떨어졌을 때 나는 엄청난 아픔을 겪었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "다음 중 'experience'에 해당하는 것은?",
+   "choices": [
+    "동생이 물총을 쏴서 내 등에 찬물이 확 튀었다",
+    "냉장고 문에 자석 세 개가 붙어 있다",
+    "우산이 신발장 옆에 세워져 있다",
+    "달력에 빨간 동그라미가 그려져 있다"
+   ],
+   "answer_index": 0,
+   "answer": "동생이 물총을 쏴서 내 등에 찬물이 확 튀었다",
+   "why": "맞아! 물총 물이 등에 확 튀었으면 그건 나한테 일어난 일이고, 차가운 걸 내가 직접 느낀 거잖아. 그래서 바로 그게 겪은 거야."
+  },
+  {
+   "type": "choice",
+   "question": "다음 중 'experience'에 해당하는 것은?",
+   "choices": [
+    "미끄럼틀을 타고 내려오다 엉덩이가 찌릿했다",
+    "삼촌이 스키를 타다 넘어졌다고 나에게 말해줬다",
+    "누나가 놀이터에서 그네를 탔다고 나에게 얘기했다",
+    "아빠가 회사에서 커피를 쏟았다고 나에게 알려줬다"
+   ],
+   "answer_index": 0,
+   "answer": "미끄럼틀을 타고 내려오다 엉덩이가 찌릿했다",
+   "why": "맞아! 미끄럼틀 타고 내려온 것도 나고, 엉덩이가 찌릿한 것도 내가 느낀 거잖아. 나한테 일어나서 내가 몸으로 느꼈으니까 바로 그게 experience인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 친구 넷이 어제 있었던 일을 말했어. 'experience'한 걸 말한 친구는 누구야?",
+   "choices": [
+    "처음 김치를 먹었는데 혀가 얼얼하고 눈물이 찔끔 났다고 말한 친구",
+    "형이 번지점프를 하고 엄청 짜릿했다고 자기한테 말해줬다는 친구",
+    "이번 주말에 놀이공원 가서 회전목마를 탈 거라고 말한 친구",
+    "화산이 어떻게 터지는지 책에서 읽어서 잘 안다고 말한 친구"
+   ],
+   "answer_index": 0,
+   "answer": "처음 김치를 먹었는데 혀가 얼얼하고 눈물이 찔끔 났다고 말한 친구",
+   "why": "맞아! 김치를 먹은 것도 나, 혀가 얼얼했던 것도 나, 눈물 찔끔 난 것도 나잖아. 나한테 일어나서 내가 직접 느꼈으니까 바로 그게 experience인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-experience",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-experience"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/experience.webp",
+  "alt": "자전거 타다 넘어져 무릎 까지고 아픔을 직접 느낌",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

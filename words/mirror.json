@@ -1,0 +1,74 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/mirror/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/mirror/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "mirror",
+ "slug": "mirror",
+ "url": "https://hibbangyong.com/words/mirror/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "거울 — 앞에 선 사람이나 물건의 모습을 그대로 비춰서 보여 주는 물건",
+ "gloss_ko": "거울",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "거울은 앞에 있는 사람이나 물건의 모습을 그대로 비춰서 똑같이 보여 주는 물건이에요.",
+  "아침에 세수하고 머리를 빗을 때 거울을 보면 내 얼굴을 확인할 수 있어요."
+ ],
+ "scene": "받침대에 세워진 타원형 거울 한 개 — 반짝이는 은빛 반사면과 예쁜 테두리(사물 mirror)",
+ "examples": [
+  {
+   "en": "She looks in the mirror to check her hair before school.",
+   "ko": "그 애는 학교 가기 전에 머리를 살피려고 거울을 봐."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "이것을 벽에 걸어 두고, 지금 몇 시인지 시간을 확인할 때 봐요. 이게 mirror야?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 아니야",
+   "why": null
+  },
+  {
+   "type": "choice",
+   "question": "mirror는 어느 것일까?",
+   "choices": [
+    "돌리면 바람을 일으켜 시원하게 해 주는 물건",
+    "바늘이 돌아가며 시간을 알려 주는 물건",
+    "앞에 서면 내 얼굴이 그대로 비쳐 보이는 물건",
+    "불을 켜서 어두운 방을 환하게 밝혀 주는 물건"
+   ],
+   "answer_index": 2,
+   "answer": "앞에 서면 내 얼굴이 그대로 비쳐 보이는 물건",
+   "why": null
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "reflect"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-mirror",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-mirror"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/mirror.webp",
+  "alt": "받침대에 세워진 타원형 거울 한 개 — 반짝이는 은빛 반사면과 예쁜 테두리(사물 mirror)",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

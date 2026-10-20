@@ -1,0 +1,92 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/shambles/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/shambles/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "shambles",
+ "slug": "shambles",
+ "url": "https://hibbangyong.com/words/shambles/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "엉망진창 — 일이나 장소가 질서 하나 없이 완전히 뒤죽박죽된 상태",
+ "gloss_ko": "완전 엉망진창",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "축제 날이 됐는데 무대 순서표가 없어. 마이크는 안 켜지고, 누가 뭘 맡았는지 아무도 몰라.",
+  "실수 하나가 아니야. 처음부터 끝까지 다 뒤죽박죽이야.",
+  "친구들이 다녀간 뒤에 거실이 다 어질러져 있어도 이 말을 써.",
+  "그냥 진 거랑은 달라. 차근차근 잘 준비했는데 진 거면 shambles가 아니야. 질서가 통째로 무너져야 해."
+ ],
+ "scene": "학교 축제 날 순서표도 없고 마이크도 안 켜지고 역할도 모르는 상황",
+ "examples": [
+  {
+   "en": "Nobody knew the plan, so the school festival was a shambles.",
+   "ko": "아무도 계획을 몰라서 학교 축제가 완전 엉망진창이 됐어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "점심시간에 반마다 정해진 시간에 급식실에 와서 번호 순서대로 줄을 섰어. 다 먹은 식판은 제자리에 차곡차곡 돌려놨어. 이 급식 시간을 'shambles'라고 할 수 있을까?",
+   "choices": [
+    "응, shambles 맞아",
+    "아니, shambles 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, shambles 아니야",
+   "why": "맞아! 반마다 정해진 시간에 오고, 번호 순서대로 줄 서고, 식판까지 제자리에 차곡차곡 돌려놨잖아. 처음부터 끝까지 다 질서가 딱 잡혀 있으니까 shambles랑은 정반대인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "이삿날이야. 상자에 이름표가 하나도 없어서 뭐가 어디 들었는지 아무도 몰라. 냉장고는 현관에 끼어 있고, 침대는 부엌에 놓여 있어. 이 집 상태를 'shambles'라고 할 수 있을까?",
+   "choices": [
+    "응, shambles 맞아",
+    "아니, shambles 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, shambles 맞아",
+   "why": "맞아! 상자엔 이름표가 하나도 없고, 냉장고는 현관에 끼어 있고, 침대는 부엌에 놓여 있잖아. 실수 하나가 아니라 집 전체 정리가 통째로 무너졌으니까 바로 그게 shambles인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 가지 상황이 있어. 이 중에서 'a shambles'라고 부르기 가장 알맞은 건?",
+   "choices": [
+    "반 단체 사진을 찍는데 줄도 안 맞고 다들 딴 데를 봐서 몇 번을 다시 찍었어",
+    "발표는 잘 흘러갔는데 중간에 한 문장에서 말을 살짝 더듬었어",
+    "모둠 과제를 역할 나눈 대로 차근차근 해서 시간 안에 냈어",
+    "축구부가 연습은 꼼꼼하게 했는데 결승에서 아깝게 졌어"
+   ],
+   "answer_index": 0,
+   "answer": "반 단체 사진을 찍는데 줄도 안 맞고 다들 딴 데를 봐서 몇 번을 다시 찍었어",
+   "why": "맞아! 줄도 안 맞고 다들 딴 데를 봐서 몇 번을 다시 찍었다는 건, 실수 하나가 아니라 사진 찍는 자리 전체가 뒤죽박죽이었다는 거야. 이렇게 처음부터 끝까지 질서가 통째로 무너진 게 바로 shambles야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "chaos",
+   "kind": "confusable",
+   "from": "vs chaos"
+  },
+  {
+   "word": "mess",
+   "kind": "confusable",
+   "from": "vs mess"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-shambles",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-shambles"
+ },
+ "image": null
+}

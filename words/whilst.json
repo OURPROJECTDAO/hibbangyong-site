@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/whilst/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/whilst/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "whilst",
+ "slug": "whilst",
+ "url": "https://hibbangyong.com/words/whilst/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "~하는 동안 — 두 일이 같은 때에 함께 벌어질 때 쓰는 말. 두 일을 나란히 놓고 비교할 때는 '~인 반면'이라는 뜻도 돼(while과 같은 뜻, 영국식이고 조금 딱딱한 말).",
+ "gloss_ko": "~하는 동안·반면",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "엄마가 설거지하는 동안, 나는 숙제를 했어. 두 일이 같은 시간에 함께 흘러간 거야.",
+  "whilst는 이렇게 두 일을 한 문장 안에 나란히 이어 주는 말이야. 뜻은 while이랑 똑같고, 영국 쪽에서 좀 딱딱하게 쓰는 말이야.",
+  "두 일을 나란히 놓으면 서로 다른 점도 잘 보이잖아. 그래서 '형은 운동을 좋아하는 반면, 나는 책이 좋아'처럼 비교할 때도 써.",
+  "하나를 끝내고 다음 걸 하는 '그다음에'나, 이유를 대는 '때문에'랑은 달라. 두 일이 한 문장 안에 함께 놓여 있어야 해."
+ ],
+ "scene": "엄마는 설거지하고 나는 숙제한 같은 시간",
+ "examples": [
+  {
+   "en": "Some of my friends love summer, whilst others hate the hot weather.",
+   "ko": "내 친구들 중에 여름을 엄청 좋아하는 애들도 있는데, 반면에 더운 날씨라면 질색하는 애들도 있어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "가족 여행 가는 길이었어. 아빠는 앞에서 차를 운전하셨고, 바로 그 시간에 나는 뒷자리에서 음악을 들었어. 이 두 일을 한 문장으로 이을 때 'whilst'를 쓸 수 있을까?",
+   "choices": [
+    "응, whilst 맞아",
+    "아니, whilst 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, whilst 맞아",
+   "why": "맞아! 아빠가 앞에서 운전하신 거랑 네가 뒷자리에서 음악 들은 게 같은 시간에 함께 벌어졌잖아. 그렇게 두 일이 한꺼번에 흘러갈 때 이어 주는 말이 바로 whilst야."
+  },
+  {
+   "type": "ox",
+   "question": "토요일 아침에 나는 마당에 빨래를 널었어. 그리고 한참 지나 해가 진 저녁이 되어서야 그 빨래를 걷었어. 아침 일과 저녁 일을 이어 주는 말로 'whilst'가 맞을까?",
+   "choices": [
+    "응, whilst 맞아",
+    "아니, whilst 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, whilst 아니야",
+   "why": "그렇지, whilst는 안 맞아! 빨래를 널은 건 아침이고 걷은 건 해가 진 저녁이라, 두 일이 같은 때에 함께 벌어진 게 아니거든. whilst는 두 일이 같은 시간에 나란히 흘러갈 때 쓰는 말이야."
+  },
+  {
+   "type": "choice",
+   "question": "네 친구가 각자 두 가지 일을 한 문장으로 이으려고 해. 두 일 사이에 'whilst'를 넣었을 때 하려던 말이 그대로 살아나는 사람은 누구일까?",
+   "choices": [
+    "숙제를 다 끝내고 난 뒤에 게임을 켰다는 걸 말하려는 준호",
+    "비가 너무 많이 와서 소풍이 취소됐다는 걸 말하려는 서연",
+    "동생은 수학을 잘하고 나는 영어를 잘한다는 걸 말하려는 민지",
+    "버스가 올 때까지 정류장에 서 있었다는 걸 말하려는 태민"
+   ],
+   "answer_index": 2,
+   "answer": "동생은 수학을 잘하고 나는 영어를 잘한다는 걸 말하려는 민지",
+   "why": "맞아! 민지는 동생은 수학을 잘하고 나는 영어를 잘한다는 두 사실을 나란히 놓고 다른 점을 비교하려는 거잖아. whilst는 이렇게 비교할 때 ~인 반면이라는 뜻이 돼서, 동생은 수학을 잘하는 반면 나는 영어를 잘한다고 딱 이어져."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-whilst",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-whilst"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/whilst.webp",
+  "alt": "엄마는 설거지하고 나는 숙제한 같은 시간",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

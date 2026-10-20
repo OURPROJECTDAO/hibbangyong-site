@@ -1,0 +1,91 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/stuff/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/stuff/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "stuff",
+ "slug": "stuff",
+ "url": "https://hibbangyong.com/words/stuff/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "이것저것 — 물건이든 할 일이든, 하나하나 이름 대지 않고 통째로 부르는 말",
+ "gloss_ko": "이것저것",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "형이 오늘 바쁘대. 뭐 하는데? 물었더니 그냥 이것저것.",
+  "숙제도 있고, 축구도 있고, 엄마 심부름도 있고. 하나하나 다 대려면 입 아파. 그래서 통째로 뭉쳐서 말해.",
+  "손에 잡히는 것도 똑같아. 가방 속 지우개, 딱지, 뭔지 모를 끈적한 거. 그것도 통째로 부르면 돼.",
+  "쓰레기라서 그러는 거 아니야. 아끼는 보물도, 이름 안 대고 통째로 부르면 똑같아. 그게 stuff야."
+ ],
+ "scene": "형이 바쁘다며 하는 일을 하나하나 대지 않고 통째로 말하는 장면",
+ "examples": [
+  {
+   "en": "I have a lot of stuff to do this weekend.",
+   "ko": "이번 주말에 할 일이 잔뜩 있어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "동생이 책상 서랍을 열었는데 클립, 영수증, 말라붙은 지우개가 섞여 있어. 뭐가 들었냐고 묻자 동생이 하나하나 안 대고 'stuff'라고 통째로 말했어. 이거 맞게 쓴 거야?",
+   "choices": [
+    "응, 맞게 쓴 거야",
+    "아니, 잘못 쓴 거야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 맞게 쓴 거야",
+   "why": "맞아! 서랍 속에 클립이랑 영수증이랑 지우개가 뒤섞여 있는데 하나하나 다 대면 입 아프잖아. 그래서 통째로 뭉쳐서 부른 거고, 바로 그게 stuff가 하는 일이야."
+  },
+  {
+   "type": "ox",
+   "question": "선생님이 교실 앞에서 \"지금 가져올 건 딱 하나, 파란색 색연필이야\"라고 하나만 콕 집어 말했어. 이걸 'stuff'라고 부를 수 있어?",
+   "choices": [
+    "응, 그렇게 부를 수 있어",
+    "아니, 그렇게 못 불러"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 그렇게 못 불러",
+   "why": "맞아! 파란색 색연필 하나를 이름까지 콕 집어 불렀잖아. 그렇게 딱 하나만 정확히 가리키면 이것저것 뭉쳐 부르는 게 아니라서, 이건 stuff라고 못 부르는 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 아이가 각자 하고 싶은 말이 있어. 'stuff'를 쓰기에 가장 잘 맞는 아이는 누구야?",
+   "choices": [
+    "주말에 축구랑 숙제랑 심부름이 줄줄이 있는데 한꺼번에 말하고 넘어가고 싶어",
+    "친구가 여럿인데 그중 민수 한 명만 이름으로 딱 불러서 오라고 하고 싶어",
+    "바구니에 든 사과가 몇 개인지 하나씩 세어서 정확히 알려주고 싶어",
+    "망가진 장난감만 따로 골라서 버릴 거라고 딱 잘라 말하고 싶어"
+   ],
+   "answer_index": 0,
+   "answer": "주말에 축구랑 숙제랑 심부름이 줄줄이 있는데 한꺼번에 말하고 넘어가고 싶어",
+   "why": "맞아! 축구도 있고 숙제도 있고 심부름도 있는데 하나하나 다 대려면 입 아프잖아. 그래서 통째로 뭉쳐서 한마디로 넘기는 거, 그게 바로 stuff야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "things",
+   "kind": "confusable",
+   "from": "vs things"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-stuff",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-stuff"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/stuff.webp",
+  "alt": "형이 바쁘다며 하는 일을 하나하나 대지 않고 통째로 말하는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

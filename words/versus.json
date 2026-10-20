@@ -1,0 +1,96 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/versus/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/versus/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "versus",
+ "slug": "versus",
+ "url": "https://hibbangyong.com/words/versus/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "대 — 둘을 마주 세워 놓고 어느 쪽인지 견줄 때 그 사이에 넣는 말",
+ "gloss_ko": "둘을 견줄 때 쓰는 대",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "오늘 저녁, 김밥이냐 라면이냐. 딱 둘만 놓고 어느 쪽이 나은지 따져 보잖아? 그때 둘 사이에 끼워 넣는 말이야.",
+  "맞붙는 편끼리도 써. 우리 반 대 옆 반, 이렇게 두 편을 마주 세울 때.",
+  "그냥 둘을 이어 붙이는 '~랑'이랑은 달라. 이건 둘을 마주 세워서 어느 쪽인지 가리는 거거든.",
+  "그게 versus야."
+ ],
+ "scene": "저녁에 김밥이냐 라면이냐 둘만 놓고 따져 보는 장면",
+ "examples": [
+  {
+   "en": "It's ice cream versus cake for my birthday, and I can only pick one.",
+   "ko": "내 생일엔 아이스크림 대 케이크인데, 딱 하나만 고를 수 있어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "동생이 학교 그림 대회 상장을 놓고 말했어. \"우리 학교 1반 팀하고 3반 팀, 딱 두 팀만 남아서 어느 팀 그림이 더 나은지 겨루는 중이야.\" 이런 걸 'versus'라고 해?",
+   "choices": [
+    "응, versus 맞아",
+    "아니, versus 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, versus 맞아",
+   "why": "맞아! 두 팀만 딱 남아서 어느 쪽 그림이 더 나은지 마주 세워 겨루는 중이잖아. 그렇게 둘을 마주 놓고 어느 쪽인지 가릴 때 그 사이에 넣는 말이 바로 versus야. 1반 대 3반, 이렇게."
+  },
+  {
+   "type": "ox",
+   "question": "미술 시간에 짝꿍이 말했어. \"내 빨간 물감하고 네 노란 물감을 한 접시에 부어 섞어서 주황색 하나로 만들자.\" 이런 걸 'versus'라고 해?",
+   "choices": [
+    "응, versus 맞아",
+    "아니, versus 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, versus 아니야",
+   "why": "맞아! 빨강이랑 노랑을 한 접시에 부어서 주황색 하나로 만든 거잖아. 둘이 섞여서 하나가 된 거니까 마주 세워서 어느 쪽인지 가리는 게 아니야. 그래서 versus가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 아이가 토요일에 있었던 일을 하나씩 말했어. 이 중에 'versus'를 쓰기 딱 맞는 건 누구 이야기일까?",
+   "choices": [
+    "놀이공원도 가고 물놀이장도 가려고, 갈 곳을 차례로 죽 적어 뒀어.",
+    "놀이공원을 갈지 물놀이장을 갈지, 둘을 놓고 어느 쪽이 나은지 따졌어.",
+    "놀이공원에 가기로 벌써 정해서, 신나는 마음으로 짐을 다 챙겨 놨어.",
+    "놀이공원이랑 물놀이장을 하나로 합쳐서 큰 놀이터를 만들면 좋겠대."
+   ],
+   "answer_index": 1,
+   "answer": "놀이공원을 갈지 물놀이장을 갈지, 둘을 놓고 어느 쪽이 나은지 따졌어.",
+   "why": "맞아! 갈지 말지 아직 안 정하고 놀이공원이랑 물놀이장을 딱 마주 세워서 어느 쪽이 나은지 견주고 있잖아. 둘이 아직 겨루고 있는 그 순간, 그게 바로 versus야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "compared",
+   "kind": "confusable",
+   "from": "vs compared to"
+  },
+  {
+   "word": "against",
+   "kind": "confusable",
+   "from": "vs against"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-versus",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-versus"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/versus.webp",
+  "alt": "저녁에 김밥이냐 라면이냐 둘만 놓고 따져 보는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

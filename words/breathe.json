@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/breathe/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/breathe/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "breathe",
+ "slug": "breathe",
+ "url": "https://hibbangyong.com/words/breathe/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "숨 쉬다 — 공기를 몸 안으로 들이고 다시 밖으로 내보내다",
+ "gloss_ko": "숨 쉬다",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "지금 이 순간에도 너 하고 있거든? 공기가 몸 안으로 쓱 들어갔다가 다시 밖으로 나가. 들어갔다 나갔다, 들어갔다 나갔다.",
+  "자면서도 안 멈춰. 가만히 앉아 있을 때도, 계단 오르며 헉헉댈 때도, 물속 물고기도 물에서 그렇게 해.",
+  "숨을 꾹 참는 거랑은 딴판이야. 참는 건 잠깐 멈추는 거고, 이건 쉬지 않고 들락날락하는 거야.",
+  "그게 breathe야."
+ ],
+ "scene": "지금 이 순간 공기가 몸 안으로 들어갔다 나가는 중립 상태",
+ "examples": [
+  {
+   "en": "Fish breathe under water, and we breathe up here in the air.",
+   "ko": "물고기는 물속에서 숨 쉬고, 우리는 여기 공기 중에서 숨 쉬어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "추운 겨울 아침, 버스 정류장에 서 있는 형의 입에서 하얀 김이 났다가 사라졌다가 계속 되풀이돼. 이게 'breathe'야?",
+   "choices": [
+    "응, breathe 맞아",
+    "아니, breathe 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, breathe 맞아",
+   "why": "맞아! 하얀 김이 나왔다가 사라졌다가 계속 되풀이되는 건 형 몸에서 공기가 밖으로 나갔다 안으로 들어갔다 하고 있다는 뜻이거든. 추워서 눈에 보일 뿐이지, 그게 바로 breathe야."
+  },
+  {
+   "type": "ox",
+   "question": "교실 벽에 걸린 시계의 초침이 째깍째깍 쉬지 않고 돌고 있어. 이게 'breathe'야?",
+   "choices": [
+    "응, breathe 맞아",
+    "아니, breathe 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, breathe 아니야",
+   "why": "그렇지, 아니야! 초침은 째깍째깍 쉬지 않고 돌지만 공기를 몸 안으로 들이고 밖으로 내보내는 건 하나도 없거든. 계속 움직인다고 다 숨 쉬는 건 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 가지 장면이 있어. 지금 'breathe'를 하고 있는 건 어느 쪽일까?",
+   "choices": [
+    "낮잠 자는 아기의 배가 천천히 오르락내리락하고 있어",
+    "물속에 들어간 아이가 볼을 빵빵하게 부풀린 채 눈만 껌뻑이고 있어",
+    "바람 빠진 축구공이 창고 구석에 납작하게 놓여 있어",
+    "선풍기가 방 안 공기를 휙휙 돌리며 커튼을 흔들고 있어"
+   ],
+   "answer_index": 0,
+   "answer": "낮잠 자는 아기의 배가 천천히 오르락내리락하고 있어",
+   "why": "맞아! 자는 아기도 공기가 몸 안으로 쓱 들어갔다 나오니까 배가 오르락내리락하는 거야. 그렇게 쉬지 않고 들락날락하는 게 바로 breathe야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "gasp",
+   "kind": "confusable",
+   "from": "vs gasp"
+  }
+ ],
+ "related_scene": [
+  "breath"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-breathe",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-breathe"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/breathe.webp",
+  "alt": "지금 이 순간 공기가 몸 안으로 들어갔다 나가는 중립 상태",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

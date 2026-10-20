@@ -1,0 +1,92 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/gravitational/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/gravitational/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "gravitational",
+ "slug": "gravitational",
+ "url": "https://hibbangyong.com/words/gravitational/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "중력의 — 물체끼리 서로 끌어당기는 힘(중력)과 관련된",
+ "gloss_ko": "중력의",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "달이 멀리서 바닷물을 당겨. 그래서 밀물이랑 썰물이 생겨.",
+  "사과가 땅에 떨어지는 것도, 지구가 해 둘레를 도는 것도 다 같은 힘 때문이야.",
+  "물체끼리 서로 끌어당기는 이 힘이 중력이고, 중력에 관한 걸 말할 때 gravitational이라고 해.",
+  "무거운 거랑 헷갈리면 안 돼. 무게가 얼마냐는 얘기가 아니라 끌어당기는 힘 얘기야."
+ ],
+ "scene": "달이 바닷물을 당겨 밀물과 썰물이 생기는 장면",
+ "examples": [
+  {
+   "en": "The Moon's gravitational pull moves the ocean every day.",
+   "ko": "달이 끌어당기는 힘 때문에 바닷물이 매일 움직여."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "운동장에서 친구가 공을 하늘 높이 던졌는데, 공이 다시 땅으로 떨어졌어. 지구가 공을 끌어당겼기 때문이래. 공을 땅으로 떨어지게 한 이 힘을 gravitational 힘이라고 할 수 있어?",
+   "choices": [
+    "응, 그렇게 말할 수 있어",
+    "아니, 그렇게 말할 수 없어"
+   ],
+   "answer_index": 0,
+   "answer": "응, 그렇게 말할 수 있어",
+   "why": "맞아! 지구가 공을 끌어당겨서 땅으로 떨어뜨린 거잖아. 물체끼리 서로 끌어당기는 힘이 바로 중력이라서, 이 힘을 gravitational 힘이라고 부를 수 있어."
+  },
+  {
+   "type": "ox",
+   "question": "이삿날 냉장고가 너무 무거워서 세 명이 겨우 들어 옮겼어. 이렇게 무게가 많이 나가는 냉장고도 'gravitational'하다고 할 수 있어?",
+   "choices": [
+    "응, gravitational 맞아",
+    "아니, gravitational 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, gravitational 아니야",
+   "why": "맞아! 냉장고가 무거워서 세 명이 겨우 들었다는 건 무게 얘기야(이건 heavy야). gravitational은 끌어당기는 힘, 그러니까 중력에 관한 말이라서 무거운 냉장고한테 붙이는 말이 아니야."
+  },
+  {
+   "type": "ox",
+   "question": "빙판 위에서 두 친구가 마주 보고 서서 서로 손바닥으로 세게 밀었더니, 둘이 양쪽으로 멀어졌어. 두 친구를 멀어지게 한 이 힘을 gravitational 힘이라고 할 수 있어?",
+   "choices": [
+    "응, 그렇게 말할 수 있어",
+    "아니, 그렇게 말할 수 없어"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 그렇게 말할 수 없어",
+   "why": "맞아! 두 친구는 손바닥으로 서로 세게 밀어서 멀어진 거잖아. gravitational 힘은 서로 끌어당기는 힘이니까, 밀어서 떨어지게 한 이 힘은 그렇게 부를 수 없어."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "heavy",
+   "kind": "confusable",
+   "from": "무거운·무게의(heavy)"
+  }
+ ],
+ "related_scene": [
+  "force",
+  "pull"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-gravitational",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-gravitational"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/gravitational.webp",
+  "alt": "달이 바닷물을 당겨 밀물과 썰물이 생기는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

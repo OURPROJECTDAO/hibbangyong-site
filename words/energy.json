@@ -1,0 +1,86 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/energy/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/energy/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "energy",
+ "slug": "energy",
+ "url": "https://hibbangyong.com/words/energy/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "기운(에너지) — 몸과 마음이 뭔가를 할 수 있게 해 주는 힘. 전기나 햇빛처럼 기계를 움직이는 힘도 이렇게 불러",
+ "gloss_ko": "뭔가 할 기운",
+ "level": {
+  "code": "L3",
+  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "아침에 푹 자고 일어나면 몸이 펄펄하지? 뛰고 싶고, 떠들고 싶고, 문제도 풀고 싶고.",
+  "그 속에 차 있는 기운이 있거든. 놀 때도 쓰고, 머리 쓸 때도 써. 다 쓰면 축 처지고, 자고 먹으면 다시 차.",
+  "팔 힘이랑은 달라. 힘센 형도 밤새 못 자면 이게 바닥나. 전기나 햇빛이 기계를 돌리는 힘도 이렇게 불러.",
+  "뭔가를 하게 해 주는 그 기운, 이게 energy야."
+ ],
+ "scene": "아침에 푹 자고 일어나 펄펄한 몸",
+ "examples": [
+  {
+   "en": "After the long trip, I had no energy left to even brush my teeth.",
+   "ko": "긴 여행 끝나고 나니까 이 닦을 기운도 하나도 없었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "축구 경기 하프타임에 바나나 하나를 먹었더니, 후반전 내내 공을 쫓아 끝까지 달릴 수 있었어. 이렇게 몸 안에 차서 끝까지 달리게 해 준 그 힘, 이게 'energy'야?",
+   "choices": [
+    "응, energy 맞아",
+    "아니, energy 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, energy 맞아",
+   "why": "맞아! 바나나를 먹었더니 몸 안에 기운이 차서 후반전 내내 공을 쫓아 끝까지 달릴 수 있었잖아. 이렇게 뭔가를 하게 해 주는 그 기운이 바로 energy인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "수영장에서 두 시간 동안 물놀이를 하고 나왔더니, 다리가 무겁고 눈꺼풀이 자꾸 내려와서 아무것도 하기 싫어. 지금 몸이 이렇게 축 늘어진 상태, 이게 'energy'야?",
+   "choices": [
+    "응, energy 맞아",
+    "아니, energy 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, energy 아니야",
+   "why": "잘했어, energy 아니야가 맞아! 물놀이 두 시간 동안 energy를 다 써 버려서 다리가 무겁고 눈꺼풀이 내려오는 거거든. 지금 이 축 늘어진 몸은 energy가 바닥난 상태인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "수아가 받아쓰기 시험 전날, 의자에 가만히 앉아서 저녁 내내 단어를 외웠어. 몸은 하나도 안 움직였는데 나중엔 머리가 멍해지고 더는 아무것도 안 외워졌어. 수아가 외우느라 다 써 버린 것도 'energy'일까?",
+   "choices": [
+    "응, energy 맞아",
+    "아니, energy 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, energy 맞아",
+   "why": "맞아! 수아는 몸은 가만히 있었지만 저녁 내내 머리를 써서 단어를 외웠잖아. 그러다 머리가 멍해지고 더는 안 외워진 건, 외우느라 energy를 다 써 버려서 그런 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "kinetic",
+  "nuclear"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-energy",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-energy"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/energy.webp",
+  "alt": "아침에 푹 자고 일어나 펄펄한 몸",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/barometer/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/barometer/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "barometer",
+ "slug": "barometer",
+ "url": "https://hibbangyong.com/words/barometer/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "기압계 — 공기가 누르는 힘을 재서 날씨가 어떻게 바뀔지 알려 주는 기구. 어떤 상황이 어떻게 변하는지 보여 주는 것을 가리킬 때도 써.",
+ "gloss_ko": "기압계",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "과학실 벽에 바늘 달린 동그란 기계 본 적 있어? 그게 barometer, 기압계야.",
+  "공기가 누르는 힘이 바뀌면 바늘이 움직이고, 그걸 보면 곧 비가 올지 짐작할 수 있어.",
+  "그래서 어떤 상황이 어떻게 바뀌는지 보여 주는 것도 이렇게 불러. 물건값을 보면 경제가 좋아지는지 나빠지는지 알 수 있는 것처럼.",
+  "변화를 만드는 게 아니라 변화를 보여 주는 쪽이야. 기압계가 날씨를 바꾸지는 않잖아."
+ ],
+ "scene": "과학실 벽의 바늘 달린 기압계",
+ "examples": [
+  {
+   "en": "The barometer in the science room was falling, so we cancelled the picnic.",
+   "ko": "과학실 기압계 바늘이 계속 내려가길래 우리 소풍을 취소했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "운동장 옆 깃발을 보면 바람이 세지는지 약해지는지 알 수 있어. 이 깃발을 바람의 'barometer'라고 부를 수 있을까?",
+   "choices": [
+    "응, barometer 맞아",
+    "아니, barometer 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, barometer 맞아",
+   "why": "맞아! 깃발은 바람을 세게 하거나 약하게 만들지 않고, 바람이 세지는지 약해지는지 보여 주기만 하잖아. 기압계가 날씨를 바꾸지 않고 변화를 보여 주는 것처럼, 깃발도 바람의 barometer인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "교실이 너무 더워지자 에어컨을 켜서 온도를 낮췄어. 이 에어컨을 교실 온도의 'barometer'라고 부를 수 있을까?",
+   "choices": [
+    "응, barometer 맞아",
+    "아니, barometer 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, barometer 아니야",
+   "why": "맞아! 에어컨은 교실 온도가 어떻게 바뀌는지 보여 주는 게 아니라 온도를 직접 낮춘 거잖아. barometer는 변화를 보여 주는 쪽이지 바꾸는 쪽이 아니라서, 에어컨은 barometer가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "담임 선생님이 \"남은 급식 양은 우리 반 기분의 'barometer'야.\"라고 했어. 선생님 말에 가장 가까운 건?",
+   "choices": [
+    "급식을 많이 남기면 그 때문에 반 기분이 나빠진다",
+    "남은 양을 보면 반 기분이 어떻게 바뀌는지 알 수 있다",
+    "반 기분을 좋게 하려면 급식 양을 늘리면 된다",
+    "지난 학기 반 기분이 급식 기록표에 적혀 있다"
+   ],
+   "answer_index": 1,
+   "answer": "남은 양을 보면 반 기분이 어떻게 바뀌는지 알 수 있다",
+   "why": "맞아! 선생님은 남은 급식 양을 보면 우리 반 기분이 좋아지는지 나빠지는지 알 수 있다는 뜻으로 말한 거야. 기분을 바꾸는 게 아니라 기분이 어떤지 보여 주는 쪽이라서, 바로 그게 barometer인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "instrument"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-barometer",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-barometer"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/barometer.webp",
+  "alt": "과학실 벽의 바늘 달린 기압계",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

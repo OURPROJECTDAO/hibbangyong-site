@@ -1,0 +1,97 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/eager/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/eager/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "eager",
+ "slug": "eager",
+ "url": "https://hibbangyong.com/words/eager/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "빨리 하고 싶어 안달난, 몹시 하고 싶어 하는",
+ "gloss_ko": "하고 싶어 안달난",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "선생님이 질문했어. 근데 넌 답을 알아. 손이 저절로 번쩍! '저요 저요!' 입이 근질근질해.\n누가 시키지도 않았는데, 네가 먼저 하고 싶어서 몸이 앞서 나가는 거야.\n좋아서 신나기만 한 게 아니라, 빨리 '하고' 싶어 못 기다리는 마음.\n이게 eager야."
+ ],
+ "scene": "선생님 질문에 손 번쩍 들며 '저요 저요' 외치는 아이",
+ "examples": [
+  {
+   "en": "I was so eager to open my birthday presents that I woke up early.",
+   "ko": "선물을 빨리 열어보고 싶어서 아침 일찍 눈이 딱 떠졌어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "만들기 수업이 시작될 참이야. 재료를 아직 나눠주지도 않았는데 지호는 벌써 가위를 들고 '언제 시작해요? 얼른 하고 싶어요!' 하며 자리에서 들썩였어. 지호 마음이 'eager'해?",
+   "choices": [
+    "응, eager 맞아",
+    "아니, eager 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, eager 맞아",
+   "why": "맞아! 시키지도 않았는데 지호가 먼저 가위 들고 '얼른 하고 싶어요!' 하며 들썩였잖아. 누가 시키기 전에 몸이 앞서 나가는 그 마음, 그게 바로 eager야."
+  },
+  {
+   "type": "ox",
+   "question": "장난감을 정리할 시간이야. 동생은 하기 싫어서 상자를 손에 든 채 꾸물꾸물, '조금 이따 하면 안 돼요...' 하며 미적거렸어. 동생 마음이 'eager'해?",
+   "choices": [
+    "응, eager 맞아",
+    "아니, eager 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, eager 아니야",
+   "why": "맞았어! 동생은 '조금 이따 하면 안 돼요' 하고 꾸물꾸물 미적거렸잖아. 하기 싫어서 자꾸 미루는 마음은 빨리 하고 싶어 안달난 거랑 정반대라서, eager가 아닌 게 딱 맞아."
+  },
+  {
+   "type": "choice",
+   "question": "친구 넷이 축구에 대해 이렇게 말했어. 'eager'한 마음인 친구는 누구일까?",
+   "choices": [
+    "민수는 축구가 너무 하고 싶어서, 종이 치자마자 제일 먼저 운동장으로 뛰어나갔어.",
+    "지연이는 축구를 하기 싫었는데 친구가 부르니까 어쩔 수 없이 따라갔어.",
+    "현우는 축구공을 보고 신나긴 했지만, 하러 가진 않고 옆에서 구경만 했어.",
+    "서준이는 축구를 한참 하다가 지쳐서 이제 그만하고 싶어졌어."
+   ],
+   "answer_index": 0,
+   "answer": "민수는 축구가 너무 하고 싶어서, 종이 치자마자 제일 먼저 운동장으로 뛰어나갔어.",
+   "why": "맞아! 민수는 누가 시키지도 않았는데 종이 치자마자 제일 먼저 뛰어나갔잖아. 그렇게 하고 싶어서 몸이 먼저 앞서 나가는 마음, 그게 바로 eager야."
+  }
+ ],
+ "synonyms": [
+  "enthusiastic"
+ ],
+ "antonyms": [
+  "reluctant"
+ ],
+ "confusable": [
+  {
+   "word": "willing",
+   "kind": "confusable",
+   "from": "vs willing"
+  },
+  {
+   "word": "excited",
+   "kind": "confusable",
+   "from": "vs excited"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-eager",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-eager"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/eager.webp",
+  "alt": "선생님 질문에 손 번쩍 들며 '저요 저요' 외치는 아이",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

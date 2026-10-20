@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/data/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/data/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "data",
+ "slug": "data",
+ "url": "https://hibbangyong.com/words/data/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "자료 — 무언가를 알아내려고 모아 둔 숫자나 사실들",
+ "gloss_ko": "모아 둔 사실들",
+ "level": {
+  "code": "L3",
+  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "매일 아침 하늘을 보고 공책에 적어 봐. 월요일 맑음, 화요일 비, 수요일 또 비…",
+  "한 달쯤 지나면? 사실들이 줄줄이 쌓이지. 숫자든 말이든 사진이든 다 돼. 컴퓨터 속에만 있는 게 아니거든?",
+  "그런데 '그래서 비가 자주 온대!' 하는 결론은 아직 아니야. 그 답을 찾아내려고 모아 둔 재료지.",
+  "그게 data야."
+ ],
+ "scene": "매일 아침 하늘 보고 공책에 날씨 적기",
+ "examples": [
+  {
+   "en": "We counted the birds every morning, and our data showed more birds on sunny days.",
+   "ko": "우리가 아침마다 새를 셌는데, 모아 둔 기록을 보니까 해 나는 날에 새가 더 많았어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "하윤이가 일주일 동안 집 앞 버스 정류장에서 지나가는 버스를 세서 표에 적었어. 월요일 12대, 화요일 15대, 수요일 11대. 이 표에 적힌 숫자들은 'data'야?",
+   "choices": [
+    "응, data 맞아",
+    "아니, data 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, data 맞아",
+   "why": "맞아! 하윤이가 버스를 직접 세어서 월요일 12대, 화요일 15대, 수요일 11대라고 표에 적었잖아. 이 숫자들을 보면 어느 요일에 버스가 많이 지나가는지 알아낼 수 있거든. 그렇게 무언가를 알아내려고 모아 둔 숫자라서 바로 data인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "닭을 키우시는 할머니가 어느 계절에 달걀이 많이 나오는지 알아보려고, 부엌 벽 달력에 매일 달걀 개수를 연필로 적고 계셔. 달력에 적힌 이 숫자들도 'data'야?",
+   "choices": [
+    "응, data 맞아.",
+    "아니, data 아니야."
+   ],
+   "answer_index": 0,
+   "answer": "응, data 맞아.",
+   "why": "맞아! 할머니는 어느 계절에 달걀이 많이 나오는지 알아보려고 매일 달걀 개수를 적고 계시잖아. 알아내려고 모아 두는 숫자니까, 컴퓨터가 아니라 달력에 연필로 적어도 그 숫자들은 data인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "지우는 일주일 동안 교실 창가에 둔 온도계를 아침과 오후에 한 번씩 보고 숫자를 적었어. 다 적고 나서 지우가 이렇게 말했어. \"오후가 아침보다 더 따뜻하구나!\" 지우가 한 이 말도 'data'야?",
+   "choices": [
+    "응, data 맞아.",
+    "아니, data 아니야."
+   ],
+   "answer_index": 1,
+   "answer": "아니, data 아니야.",
+   "why": "맞아! 지우가 적은 아침과 오후의 온도 숫자들이 data야. \"오후가 아침보다 더 따뜻하구나!\"는 그 숫자들을 보고 지우가 알아낸 답이라서 data가 아닌 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "record",
+  "skew",
+  "spreadsheet"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-data",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-data"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/data.webp",
+  "alt": "매일 아침 하늘 보고 공책에 날씨 적기",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

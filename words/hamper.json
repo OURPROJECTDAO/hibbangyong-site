@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/hamper/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/hamper/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "hamper",
+ "slug": "hamper",
+ "url": "https://hibbangyong.com/words/hamper/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "방해하다 — 일이 잘 안 풀리게 발목을 잡다(아예 막는 건 아님)",
+ "gloss_ko": "발목 잡다",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "운동회 날 비가 왔어. 경기는 그대로 했는데, 운동장이 질척해서 다들 제대로 못 뛰었어.",
+  "이렇게 일을 아예 멈추게 하진 않는데, 잘 안 풀리게 붙잡는 게 hamper야.",
+  "발목 잡는 쪽은 날씨일 수도, 돈이 모자란 것일 수도, 사람일 수도 있어.",
+  "딱 멈춰 세우는 거랑은 달라. 일은 굴러가는데 더 느리고 힘들어지는 거야."
+ ],
+ "scene": "비 와서 질척한 운동장에서 한 운동회",
+ "examples": [
+  {
+   "en": "Heavy snow hampered the search for the lost boy.",
+   "ko": "눈이 엄청 와서 길 잃은 아이를 찾는 게 한참 더뎌졌어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "과학 발표를 준비하는데, 형이 자료 찾는 걸 같이 해 줬어. 그래서 예정보다 하루 일찍 준비가 끝났어. 형이 발표 준비를 'hamper'한 걸까?",
+   "choices": [
+    "응, hamper 맞아",
+    "아니, hamper 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, hamper 아니야",
+   "why": "맞아! 형이 자료 찾는 걸 같이 해 줘서 준비가 하루 일찍 끝났잖아. 발목을 잡은 게 아니라 오히려 도와서 빨리 끝나게 해 준 거니까 hamper가 아니야."
+  },
+  {
+   "type": "ox",
+   "question": "등산 가는 날, 배낭이 너무 무거웠어. 정상까지 올라가긴 했는데, 평소보다 훨씬 느리고 힘들었어. 무거운 배낭이 등산을 'hamper'한 걸까?",
+   "choices": [
+    "응, hamper 맞아",
+    "아니, hamper 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, hamper 맞아",
+   "why": "맞아! 정상까지 올라가긴 했잖아. 그런데 무거운 배낭 때문에 훨씬 느리고 힘들었지. 등산을 아예 멈추게 한 건 아니고 발목만 잡은 거니까, 이게 딱 hamper야."
+  },
+  {
+   "type": "choice",
+   "question": "공사장에서 일어난 일 네 가지야. 'hamper'가 가장 잘 맞는 상황은?",
+   "choices": [
+    "태풍 때문에 공사가 아예 취소됐어.",
+    "새 기계가 들어와서 공사가 확 빨라졌어.",
+    "비가 계속 와서 공사가 자꾸 늦어졌어.",
+    "공사 소리 때문에 옆집 사람이 짜증 났어."
+   ],
+   "answer_index": 2,
+   "answer": "비가 계속 와서 공사가 자꾸 늦어졌어.",
+   "why": "맞아! 비가 계속 와도 공사는 멈추지 않고 이어졌잖아. 대신 자꾸 늦어졌지. 이렇게 일은 굴러가는데 발목을 잡는 게 바로 hamper야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "facilitate"
+ ],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-hamper",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-hamper"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/hamper.webp",
+  "alt": "비 와서 질척한 운동장에서 한 운동회",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

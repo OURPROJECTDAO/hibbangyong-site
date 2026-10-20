@@ -1,0 +1,96 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/quirky/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/quirky/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "quirky",
+ "slug": "quirky",
+ "url": "https://hibbangyong.com/words/quirky/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "별난 — 좀 이상하긴 한데, 그게 오히려 눈에 띄고 재미있는",
+ "gloss_ko": "좀 별난",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "친구가 피자를 늘 끝의 딱딱한 부분부터 먹어. 좀 이상하지?",
+  "근데 불편하거나 무섭진 않아. 오히려 그 애다워서 웃음이 나.",
+  "사람만 그런 게 아니야. 의자가 전부 다르게 생긴 카페, 이야기가 엉뚱하게 흘러가는 영화도 이렇게 불러.",
+  "소름 끼치게 이상한 거랑은 달라. 평범하지 않은데 그게 매력인 쪽이야."
+ ],
+ "scene": "피자를 끝의 딱딱한 부분부터 먹는 친구",
+ "examples": [
+  {
+   "en": "My uncle has a quirky habit of giving a name to every plant in his house.",
+   "ko": "우리 삼촌은 집에 있는 화분마다 이름을 하나씩 붙여 주는 별난 습관이 있어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "짝꿍은 매일 왼쪽과 오른쪽 양말을 일부러 다른 색으로 신고 와. 반 친구들은 오늘은 무슨 색 조합일지 슬쩍 확인해 봐. 이 짝꿍은 'quirky'야?",
+   "choices": [
+    "응, quirky 맞아",
+    "아니, quirky 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, quirky 맞아",
+   "why": "맞아! 양말을 일부러 다른 색으로 신는 건 평범하진 않은데, 반 친구들이 싫어하지 않고 오늘은 무슨 색 조합일지 궁금해서 확인해 보잖아. 좀 이상한데 그게 재미있는 쪽이라서 딱 quirky인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "동네 문구점은 연필, 공책, 지우개를 여느 문구점처럼 진열대에 가지런히 놓고 팔아. 가게 모습도 다른 문구점이랑 거의 같아. 이 문구점은 'quirky'야?",
+   "choices": [
+    "응, quirky 맞아",
+    "아니, quirky 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, quirky 아니야",
+   "why": "맞아! 연필, 공책, 지우개를 여느 문구점처럼 가지런히 놓고, 가게 모습도 다른 데랑 거의 같잖아. 눈에 띄게 별난 구석이 하나도 없으니까 quirky가 아니라 그냥 평범한 문구점인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "학교 복도에 걸린 오래된 초상화가 있는데, 어디로 걸어가도 그림 속 눈이 나를 따라오는 것 같아. 그래서 애들이 그 앞을 지나가기 싫어해. 이런 그림도 'quirky'야?",
+   "choices": [
+    "응, quirky 맞아",
+    "아니, quirky 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, quirky 아니야",
+   "why": "잘 골랐어! 이 그림은 평범하지 않은 건 맞지만, 눈이 따라오는 것 같아서 애들이 그 앞을 지나가기 싫어하잖아. quirky는 이상한 게 오히려 재미있고 매력으로 느껴질 때 쓰는 말이라서, 이렇게 꺼림칙한 그림한테는 안 맞아."
+  }
+ ],
+ "synonyms": [
+  "weird"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "funny",
+   "kind": "confusable",
+   "from": "웃긴·재미있는(funny)"
+  },
+  {
+   "word": "odd",
+   "kind": "confusable",
+   "from": "vs odd"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-quirky",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-quirky"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/quirky.webp",
+  "alt": "피자를 끝의 딱딱한 부분부터 먹는 친구",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

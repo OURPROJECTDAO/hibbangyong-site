@@ -1,0 +1,76 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/brick/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/brick/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "brick",
+ "slug": "brick",
+ "url": "https://hibbangyong.com/words/brick/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "벽돌 — 흙을 구워 만든 네모난 덩어리로, 집이나 담을 쌓을 때 써요",
+ "gloss_ko": "벽돌",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "그림 속에 크게 보이는 네모난 붉은 덩어리가 brick이에요.",
+  "집의 벽이나 마당의 담을 만들 때 이런 것을 여러 개 차곡차곡 쌓아 올려요."
+ ],
+ "scene": "전형적인 붉은 벽돌 한 장을 화면 중앙에 크고 또렷하게 (사물 그 자체의 뜻)",
+ "examples": [
+  {
+   "en": "The workers stacked red bricks to build the wall.",
+   "ko": "일하는 아저씨들이 빨간 벽돌을 쌓아서 벽을 만들었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "친구가 던진 말랑한 공이 바닥에 닿자 통통 튀어 올라요. 이게 brick이야?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 아니야",
+   "why": null
+  },
+  {
+   "type": "choice",
+   "question": "brick은 어느 것일까?",
+   "choices": [
+    "비가 올 때 머리 위로 펼쳐서 쓰는 것",
+    "벽이나 담을 만들 때 하나씩 쌓아 올리는 것",
+    "손으로 굴리거나 발로 뻥 차며 노는 것",
+    "입에 넣으면 달콤하게 녹아 사라지는 것"
+   ],
+   "answer_index": 1,
+   "answer": "벽이나 담을 만들 때 하나씩 쌓아 올리는 것",
+   "why": null
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "clay",
+  "mortar",
+  "timber"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-brick",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-brick"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/brick.webp",
+  "alt": "전형적인 붉은 벽돌 한 장을 화면 중앙에 크고 또렷하게 (사물 그 자체의 뜻)",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

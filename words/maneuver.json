@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/maneuver/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/maneuver/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "maneuver",
+ "slug": "maneuver",
+ "url": "https://hibbangyong.com/words/maneuver/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "솜씨 있는 움직임 — 뭔가를 피하거나 좁고 까다로운 곳을 지나가려고 조심스럽고 솜씨 있게 하는 움직임",
+ "gloss_ko": "솜씨 있는 움직임",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "엄마가 좁은 골목에서 차를 앞뒤로 조금씩 돌려서 빠져나왔어.",
+  "그냥 움직인 게 아니야. 까다로운 자리에서 조심조심, 솜씨 있게 움직인 거지.",
+  "웅덩이를 비껴가든, 좁은 데를 지나가든, 큰 배를 좁은 항구에서 방향을 돌려 세우든 다 이거야. 사람 몸이든 차든 배든 상관없어.",
+  "생각 없이 쭉 가거나 발 헛디뎌 우연히 된 움직임은 아니야. 머리싸움에서 두는 영리한 한 수도 이 말로 불러."
+ ],
+ "scene": "좁은 골목에서 차를 앞뒤로 돌려 빠져나오기",
+ "examples": [
+  {
+   "en": "The pilot's maneuver got the plane safely between the two mountains.",
+   "ko": "조종사가 솜씨 있게 비행기를 움직여서 두 산 사이를 안전하게 빠져나갔어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "준호가 학교 계단을 내려가다가 발을 헛디뎌서 계단 세 칸을 쭉 미끄러져 내려갔어. 준호의 이 움직임, 'maneuver'야?",
+   "choices": [
+    "응, maneuver 맞아",
+    "아니, maneuver 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, maneuver 아니야",
+   "why": "맞아! 준호는 발을 헛디뎌서 계단 세 칸을 그냥 미끄러져 내려간 거잖아. 조심조심 솜씨 있게 한 움직임이 아니라 우연히 된 거라서 maneuver가 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "이삿짐 아저씨 두 명이 큰 소파를 들고 좁은 계단 모퉁이에 왔어. 소파를 세웠다 눕혔다, 조금씩 돌려 가며 벽에 안 닿게 모퉁이를 통과시켰어. 아저씨들이 한 이 움직임, 'maneuver'야?",
+   "choices": [
+    "응, maneuver 맞아",
+    "아니, maneuver 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, maneuver 맞아",
+   "why": "맞아! 아저씨들이 좁은 계단 모퉁이에서 소파를 세웠다 눕혔다 조금씩 돌려 가며 벽에 안 닿게 통과시켰잖아. 까다로운 자리를 조심조심, 솜씨 있게 빠져나간 움직임이라 바로 그게 maneuver인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "민지 아빠가 차를 운전한 이야기 네 개야. 아빠가 한 일을 'maneuver'라고 부르기에 가장 알맞은 건?",
+   "choices": [
+    "넓고 텅 빈 주차장에서 아빠가 차를 곧장 앞으로 몰고 나갔어.",
+    "차 두 대 사이 좁은 자리에 아빠가 핸들을 여러 번 꺾어 차를 댔어.",
+    "좁은 골목에서 아빠 차 바퀴가 미끄러져 옆 벽에 살짝 긁혔어.",
+    "아빠가 운전 학원에서 매일 한 시간씩 같은 코스를 돌며 연습했어."
+   ],
+   "answer_index": 1,
+   "answer": "차 두 대 사이 좁은 자리에 아빠가 핸들을 여러 번 꺾어 차를 댔어.",
+   "why": "맞아! 차 두 대 사이 좁은 자리는 까다롭잖아. 아빠가 핸들을 여러 번 꺾어 가며 조심조심, 솜씨 있게 차를 넣었으니까 바로 그게 maneuver인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-maneuver",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-maneuver"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/maneuver.webp",
+  "alt": "좁은 골목에서 차를 앞뒤로 돌려 빠져나오기",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

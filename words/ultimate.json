@@ -1,0 +1,98 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/ultimate/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/ultimate/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "ultimate",
+ "slug": "ultimate",
+ "url": "https://hibbangyong.com/words/ultimate/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "더 뒤도 위도 없는 맨 끝의 — 마지막이자 제일인.",
+ "gloss_ko": "더 뒤도 위도 없는 맨 끝의",
+ "level": {
+  "code": "L6",
+  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "게임에서 판을 하나씩 깨. 1판, 2판, 다음 판, 또 다음 판.",
+  "그러다 딱 마지막 판에 서면? 그 뒤론 판이 하나도 없어. 더 갈 데가 없는 거야.",
+  "게다가 그 판이 제일 높은 자리야. 그 위로 더 올라설 데도 없거든.",
+  "이렇게 뒤로도 위로도 더 없는 맨 끝, 그게 ultimate야."
+ ],
+ "scene": "게임 판을 하나씩 깨다 더 뒤가 없는 마지막 판에 서는 장면",
+ "examples": [
+  {
+   "en": "Winning the championship was our ultimate goal.",
+   "ko": "우승컵 드는 게 우리 팀 진짜 끝판 목표였어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "산길에 쉼터가 네 군데 있어. 지수가 쉼터마다 어디 있는지 적어놨어. 이 중에서 'ultimate' 쉼터는 어느 거야?",
+   "choices": [
+    "맨 아래 첫 쉼터, 아직 한 발도 안 오른 자리",
+    "한가운데 쉼터, 오르는 사람이 가장 붐비는 자리",
+    "꼭대기 바로 밑 쉼터, 딱 한 구간만 더 남은 자리",
+    "맨 위 꼭대기 쉼터, 더 오를 데가 없는 자리"
+   ],
+   "answer_index": 3,
+   "answer": "맨 위 꼭대기 쉼터, 더 오를 데가 없는 자리",
+   "why": "맞아! 그 위로 더 오를 데가 하나도 없는 꼭대기잖아. 뒤로도 위로도 더 갈 데가 없는 딱 그 맨 끝, 그게 바로 ultimate야."
+  },
+  {
+   "type": "choice",
+   "question": "게임에 판이 여러 개 있어. 민수가 판마다 설명을 붙였어. 이 중에서 'ultimate' 판은 어느 거야?",
+   "choices": [
+    "게임을 켜면 가장 먼저 나오는, 몸 푸는 첫 판",
+    "이걸 깨면 게임이 끝나고, 더 뒤에 판이 없는 제일 센 판",
+    "사람들이 제일 재미있다고 손꼽는, 한가운데 있는 판",
+    "거의 끝이지만, 뒤에 아직 한 판이 더 남은 판"
+   ],
+   "answer_index": 1,
+   "answer": "이걸 깨면 게임이 끝나고, 더 뒤에 판이 없는 제일 센 판",
+   "why": "맞아! 이걸 깨면 뒤에 판이 하나도 안 남고, 게다가 제일 센 판이잖아. 더 갈 데도 없고 더 위도 없는 맨 끝, 그게 바로 ultimate야."
+  },
+  {
+   "type": "ox",
+   "question": "달리기 시합에서 선수들이 출발선에 막 섰어. 아직 아무도 한 걸음도 안 뛴 맨 처음 순간이야. 이 출발 순간이 'ultimate' 순간이야?",
+   "choices": [
+    "응, ultimate 맞아",
+    "아니, ultimate 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, ultimate 아니야",
+   "why": "맞아! 출발선은 아직 아무도 안 뛴 맨 처음이잖아. 뒤로도 위로도 더 없는 맨 끝이 ultimate인데, 시작은 그 정반대라서 ultimate가 아닌 거야. 잘 골랐어!"
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "best",
+   "kind": "confusable",
+   "from": "vs best"
+  },
+  {
+   "word": "eventual",
+   "kind": "confusable",
+   "from": "vs eventual"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-ultimate",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-ultimate"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/ultimate.webp",
+  "alt": "게임 판을 하나씩 깨다 더 뒤가 없는 마지막 판에 서는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

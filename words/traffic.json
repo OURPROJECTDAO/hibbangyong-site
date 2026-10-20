@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/traffic/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/traffic/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "traffic",
+ "slug": "traffic",
+ "url": "https://hibbangyong.com/words/traffic/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "교통 — 길 위를 오가는 차들(과 사람들)의 흐름. 많아도 traffic, 적어도 traffic이야",
+ "gloss_ko": "교통",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "육교에 올라가서 아래 큰길을 내려다봐. 차들이 줄줄이 지나가지? 저렇게 오가는 차들, 그게 traffic이야.",
+  "꽉 막혀서 엉금엉금 갈 때도 traffic, 뻥 뚫려서 쌩쌩 달릴 때도 traffic이거든? 많으면 많은 대로, 적으면 적은 대로 traffic이야.",
+  "근데 주차장에 그냥 세워둔 차 오십 대는? 그건 아니야. 오가야 traffic이지, 서 있으면 그냥 차 무더기야.",
+  "길 위를 오가는 차들의 흐름, 그게 traffic이야."
+ ],
+ "scene": "육교 위에서 내려다본 큰길, 줄줄이 지나가는 차들",
+ "examples": [
+  {
+   "en": "This morning the traffic was light, so Dad got to work early.",
+   "ko": "오늘 아침엔 차가 별로 없어서 아빠가 회사에 일찍 갔어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "학교 앞 횡단보도에 서 있는데, 신호가 바뀌기 전까지 차들이 계속 오른쪽에서 왼쪽으로 지나가고 있어. 이게 'traffic'이야?",
+   "choices": [
+    "응, traffic 맞아",
+    "아니, traffic 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, traffic 맞아",
+   "why": "맞아! 차들이 오른쪽에서 왼쪽으로 계속 지나가고 있잖아. 길 위를 오가는 차들의 흐름, 그게 바로 traffic이야. 딱 그 장면이 traffic인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "놀이터 미끄럼틀 아래에 아이들이 줄을 서서 차례를 기다리고 있어. 이게 'traffic'이야?",
+   "choices": [
+    "응, traffic 맞아",
+    "아니, traffic 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, traffic 아니야",
+   "why": "맞아! 미끄럼틀 앞에 줄 선 아이들은 길 위를 오가는 차들이 아니잖아. 게다가 가만히 서서 차례를 기다리는 거니까, 이건 traffic이 아닌 게 맞아."
+  },
+  {
+   "type": "choice",
+   "question": "네 곳의 길 상황을 봤어. 'traffic'이 가장 많은 곳은 어디일까?",
+   "choices": [
+    "차들이 안 막히고 쌩쌩 달리는데, 그래도 한 줄로 계속 지나가는 큰길",
+    "차 오십 대가 나란히 세워져 있고 아무도 안 움직이는 주차장",
+    "망가진 차들이 산더미로 쌓여 있는 고물상 마당",
+    "한 시간에 차 두 대만 지나가는 새벽 시골길"
+   ],
+   "answer_index": 0,
+   "answer": "차들이 안 막히고 쌩쌩 달리는데, 그래도 한 줄로 계속 지나가는 큰길",
+   "why": "맞아! 안 막히고 쌩쌩 달려도 차들이 한 줄로 계속 오가고 있잖아. 그 오가는 흐름이 바로 traffic인 거야. 막혀야만 traffic인 게 아니거든."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-traffic",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-traffic"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/traffic.webp",
+  "alt": "육교 위에서 내려다본 큰길, 줄줄이 지나가는 차들",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

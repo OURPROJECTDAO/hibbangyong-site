@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/panel/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/panel/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "panel",
+ "slug": "panel",
+ "url": "https://hibbangyong.com/words/panel/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "납작하고 반듯한, 네모난 판 한 장·한 조각",
+ "gloss_ko": "네모난 널빤지",
+ "level": {
+  "code": "L4",
+  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "문을 한번 만져봐. 통짜 같지만 납작하고 네모난 판들이 짜맞춰져 있거든?",
+  "그 판 한 장이 panel이야. 근데 꼭 뭐에 붙어 있어야 하는 건 아냐 —",
+  "지붕에 따로 얹은, 햇빛 받는 네모 판. 혼자 있어도 그것도 panel이거든.",
+  "붙어 있든 혼자 있든, 납작하고 반듯한 네모 판 한 장. 그게 panel이야."
+ ],
+ "scene": "문의 네모 판·지붕의 햇빛 판 — 평평하고 네모난 판 한 장",
+ "examples": [
+  {
+   "en": "The workers carried a large glass panel into the room.",
+   "ko": "일꾼들이 커다란 유리 판을 방으로 옮겼어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "지호가 벽에 납작하고 반듯한 네모난 나무 판 한 장을 기대어 세워뒀어. 이게 'panel'이야?",
+   "choices": [
+    "응, panel이 맞아",
+    "아니, panel이 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, panel이 맞아",
+   "why": "맞아! 납작하고 반듯한 네모 나무 판 한 장이니까, 벽에 기대 세워둬도 그게 바로 panel인 거야. 어디 붙어 있든 혼자 있든 상관없거든."
+  },
+  {
+   "type": "ox",
+   "question": "지호가 손바닥에 공처럼 둥글고 두툼한 찰흙 덩어리 하나를 올려놨어. 이게 'panel'이야?",
+   "choices": [
+    "응, panel이 맞아",
+    "아니, panel이 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, panel이 아니야",
+   "why": "맞아! 공처럼 둥글고 두툼한 덩어리는 납작한 판이 전혀 아니거든. panel은 납작하고 반듯한 네모 판 한 장이라서, 동글동글한 찰흙 덩어리한테는 '아니야'가 딱 맞는 거야."
+  },
+  {
+   "type": "choice",
+   "question": "민수가 물건 네 개를 늘어놨어. 이 중에서 'panel' 하나라고 부를 수 있는 건 어떤 거야?",
+   "choices": [
+    "납작하고 반듯한 네모난 판 하나",
+    "납작하지만 동그란 쟁반처럼 생긴 판 하나",
+    "공처럼 둥글고 두툼한 덩어리 하나",
+    "가늘고 길쭉하게 생긴 막대기 하나"
+   ],
+   "answer_index": 0,
+   "answer": "납작하고 반듯한 네모난 판 하나",
+   "why": "맞아! 납작하고 반듯한 네모난 판 한 장, 바로 그 모양이 panel이거든. 붙어 있든 혼자 있든 그 납작 네모 판이면 그게 panel인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-panel",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-panel"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/panel.webp",
+  "alt": "문의 네모 판·지붕의 햇빛 판 — 평평하고 네모난 판 한 장",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

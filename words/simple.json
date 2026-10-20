@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/simple/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/simple/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "simple",
+ "slug": "simple",
+ "url": "https://hibbangyong.com/words/simple/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "단순한 — 안에 든 게 적고 서로 얽힌 데가 없는. (쉽다는 뜻이 아냐)",
+ "gloss_ko": "단순한",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "버튼 스무 개 달린 로봇 옆에, 나무 팽이 하나가 놓여 있어. 팽이는 안에 든 것도, 얽힌 것도 없어. 그냥 이게 다야.",
+  "물건만 그런 게 아냐. 규칙이 딱 하나뿐인 놀이도, 한 줄이면 끝나는 길 설명도 똑같아.",
+  "그렇다고 쉽다는 뜻은 아냐. 팽이 오래 돌리기, 너도 해 봐. 엄청 힘들거든?",
+  "든 게 적고 얽힌 데가 없다 — 그게 simple이야."
+ ],
+ "scene": "버튼 스무 개 달린 로봇 옆에 나무 팽이 하나가 놓인 장면",
+ "examples": [
+  {
+   "en": "We play with one simple rule, and nobody ever argues about it.",
+   "ko": "우리는 단순한 규칙 하나로 놀아서 아무도 다투지 않아."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "동생 세발자전거를 봤어. 바퀴 세 개랑 페달, 손잡이가 전부야. 기어도 없고, 안에 줄이 얽혀 있지도 않아. 이게 'simple'이야?",
+   "choices": [
+    "응, simple 맞아",
+    "아니, simple 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, simple 맞아",
+   "why": "맞아! 바퀴랑 페달, 손잡이. 든 게 딱 그것뿐이고 안에 얽힌 줄도 없잖아. 그래서 이게 바로 simple이야."
+  },
+  {
+   "type": "ox",
+   "question": "형이 준 종이접기 설명서는 단계가 스물세 개야. 게다가 앞 단계를 하나라도 틀리면 뒤 단계가 전부 어긋나 버려. 이게 'simple'이야?",
+   "choices": [
+    "응, simple 맞아",
+    "아니, simple 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, simple 아니야",
+   "why": "맞아! 스물세 단계나 되는 데다 앞에서 하나 틀리면 뒤가 다 어긋나잖아. 이렇게 든 것도 많고 서로 꽉 물려 있으면 simple이 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 가지 물건 이야기를 들어 봐. 이 중에서 'simple'하다고 말할 수 있는 건 뭘까?",
+   "choices": [
+    "버튼이 열 개나 달렸는데, 아무거나 막 눌러도 소리가 나서 놀기는 편한 장난감",
+    "안에서 톱니랑 줄이 잔뜩 얽혀서 서로 물고 같이 돌아가는 태엽 인형",
+    "손잡이 하나만 돌리면 되는데, 손이 아파서 오래 돌리기는 힘든 오르골",
+    "주머니에 쏙 들어갈 만큼 크기가 아주 작은 게임기"
+   ],
+   "answer_index": 2,
+   "answer": "손잡이 하나만 돌리면 되는데, 손이 아파서 오래 돌리기는 힘든 오르골",
+   "why": "맞아! 손잡이 하나만 돌리면 끝이니까 안에 든 것도 얽힌 것도 없잖아. 손이 아파서 힘든 건 상관없어. 힘든 거랑 단순한 건 다른 이야기거든. 그래서 이게 바로 simple이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "complicated"
+ ],
+ "confusable": [
+  {
+   "word": "plain",
+   "kind": "confusable",
+   "from": "vs plain"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-simple",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-simple"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/simple.webp",
+  "alt": "버튼 스무 개 달린 로봇 옆에 나무 팽이 하나가 놓인 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

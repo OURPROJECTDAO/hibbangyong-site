@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/forthcoming/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/forthcoming/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "forthcoming",
+ "slug": "forthcoming",
+ "url": "https://hibbangyong.com/words/forthcoming/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "다가오는 — 곧 열리거나 곧 나오기로 정해진 (행사·시험·책·발표 등)",
+ "gloss_ko": "곧 다가올",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "달력에 벌써 동그라미 쳐 둔 날 있지? 다음 달 기말고사, 다음 주 새 앨범 나오는 날 같은 거.",
+  "아직 안 왔는데, 곧 온다고 정해진 일. 그런 걸 forthcoming이라고 해.",
+  "반가운 일이든 싫은 일이든 상관없어. 시험도, 신곡도, 요금 오르는 날도 다 돼.",
+  "'언젠가 미래에'랑은 달라. 막연한 게 아니라 이미 잡혀 있고 곧 닥치는 거야."
+ ],
+ "scene": "달력에 동그라미 쳐 둔 다음 달 기말고사",
+ "examples": [
+  {
+   "en": "The school sent a letter about the forthcoming changes to the bus schedule.",
+   "ko": "학교에서 곧 바뀔 버스 시간표에 대해 안내문을 보냈어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "오늘은 9월 24일이야. 좋아하는 작가의 새 소설이 10월 5일에 서점에 나온다고 출판사가 발표했어. 이 새 소설은 'forthcoming' 책이야?",
+   "choices": [
+    "응, forthcoming 맞아",
+    "아니, forthcoming 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, forthcoming 맞아",
+   "why": "맞아! 10월 5일에 나온다고 출판사가 이미 발표했잖아. 아직 서점에 없어도 나올 날이 딱 정해져 있고 곧 닥치니까, 이 새 소설이 바로 forthcoming 책인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "오늘은 9월 24일이야. 우리 반 합창 대회는 9월 10일에 열렸고 이미 끝났어. 이 합창 대회는 'forthcoming' 행사야?",
+   "choices": [
+    "응, forthcoming 맞아",
+    "아니, forthcoming 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, forthcoming 아니야",
+   "why": "맞아! 합창 대회는 9월 10일에 열려서 이미 끝났잖아. forthcoming은 아직 안 왔는데 곧 오기로 정해진 일에 쓰는 말이라서, 벌써 지나간 이 대회에는 안 맞아."
+  },
+  {
+   "type": "ox",
+   "question": "다음 주 화요일 오후 4시로 치과에서 충치 치료 예약이 잡혀 있어. 생각만 해도 싫은 날이야. 이 치과 치료도 'forthcoming'이야?",
+   "choices": [
+    "응, forthcoming 맞아",
+    "아니, forthcoming 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, forthcoming 맞아",
+   "why": "맞아! 다음 주 화요일 오후 4시로 날짜랑 시간까지 벌써 잡혀 있고 곧 닥치잖아. 생각만 해도 싫은 날이어도 상관없이, 그래서 이 충치 치료도 forthcoming인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "event"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-forthcoming",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-forthcoming"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/forthcoming.webp",
+  "alt": "달력에 동그라미 쳐 둔 다음 달 기말고사",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/vote/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/vote/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "vote",
+ "slug": "vote",
+ "url": "https://hibbangyong.com/words/vote/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "표 — 여럿이 같이 정할 때, 내가 어느 쪽인지 내놓는 하나(그렇게 내놓는 일도 vote)",
+ "gloss_ko": "표",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "반에서 뭐 하고 놀지가 안 정해졌어. 선생님이 그러지. 술래잡기 좋은 사람 손. 네가 쓱 올린 그 손 하나, 그게 하나거든?",
+  "손이든 종이든 다 세. 이긴 쪽에 낸 것도, 진 쪽에 낸 것도, 하지 말자 쪽에 낸 것도 똑같이 하나야.",
+  "어디 놀러 갈지 정할 때도, 화분 이름 정할 때도, 어른들이 종이 접어 넣을 때도 같은 거야. 내가 어느 쪽인지 내놓은 하나.",
+  "마음속으로만 생각한 건 아니야. 내놔야 세거든. 이게 vote야."
+ ],
+ "scene": "반에서 놀이 정하려고 손 드는 장면",
+ "examples": [
+  {
+   "en": "My vote was for the blue team, but the red team won.",
+   "ko": "나는 파란 팀에 표를 줬는데, 빨간 팀이 이겼어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "주말에 동네 도서관에서 아이들이 읽을 책을 하나 고르기로 했어. 사서 선생님이 세 권을 책상에 올려놓고, 마음에 드는 책 이름을 쪽지에 적어 상자에 넣으라고 했어. 준이는 쪽지에 책 이름을 적어 상자에 넣었어. 준이가 넣은 그 쪽지 하나, 이게 'vote'야?",
+   "choices": [
+    "응, vote 맞아",
+    "아니, vote 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, vote 맞아",
+   "why": "맞아! 준이가 책 이름을 적어서 상자에 넣었잖아. 그렇게 내놓은 종이 하나가 세어지는 거니까, 그게 바로 vote인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "놀이터에서 아이들이 그네와 미끄럼틀 중 뭘 먼저 탈지 정하기로 했어. 형이 '미끄럼틀 하고 싶은 사람 손 들어' 했지. 나연이는 미끄럼틀을 하고 싶다고 머릿속으로 정해 두고 손은 내리고 있었어. 나연이가 머릿속으로 정해 둔 그것, 이게 'vote'야?",
+   "choices": [
+    "응, vote 맞아",
+    "아니, vote 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, vote 아니야",
+   "why": "맞아! 나연이는 하고 싶다고 마음속으로만 정해 뒀지, 손은 그대로 내리고 있었잖아. 아무도 그 마음은 셀 수 없거든. 내놔야 하나로 세는 거라서, 머릿속 마음은 아직 vote가 아니야."
+  },
+  {
+   "type": "choice",
+   "question": "우리 반이 새 화분 이름을 쪽지로 정하기로 했어. 네 친구가 이렇게 했대. 이 중에 'vote'를 한 친구는 누구게?",
+   "choices": [
+    "쪽지 통을 교실 어디에 둘지 정해 준 친구",
+    "속으로만 '별이'가 제일 좋다고 여겨 둔 친구",
+    "쪽지에 '햇살이'라고 적어 통에 넣은 친구",
+    "쪽지를 다 세어 '별이'가 많다고 알려 준 친구"
+   ],
+   "answer_index": 2,
+   "answer": "쪽지에 '햇살이'라고 적어 통에 넣은 친구",
+   "why": "맞아! 쪽지에 햇살이라고 적어서 통에 넣었잖아. 내가 어느 쪽인지 딱 내놨고 그 쪽지 하나가 세어지거든. 그러니까 그게 vote야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "poll",
+   "kind": "confusable",
+   "from": "vs poll"
+  }
+ ],
+ "related_scene": [
+  "election",
+  "margin"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-vote",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-vote"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/vote.webp",
+  "alt": "반에서 놀이 정하려고 손 드는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

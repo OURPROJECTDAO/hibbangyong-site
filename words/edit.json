@@ -1,0 +1,94 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/edit/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/edit/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "edit",
+ "slug": "edit",
+ "url": "https://hibbangyong.com/words/edit/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "편집하다 — 이미 다 만들어 놓은 글이나 영상을 다시 손봐서 빼거나 넣거나 바꾸는 것.",
+ "gloss_ko": "편집하다",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "내가 찍은 영상을 다시 틀어 봤어. 앞부분이 너무 길더라. 그래서 거기를 싹둑 잘라내고 뒷부분 순서도 바꿨어.",
+  "틀린 데를 바로잡을 때만 쓰는 말이 아니야. 아무 문제 없이 멀쩡한 부분도 빼거나 바꿀 수 있거든?",
+  "쓴 글도 똑같아. 문장 하나 지우고 다른 말로 갈아끼우는 거.",
+  "없던 걸 새로 만드는 게 아니라 다 만들어 놓은 걸 다시 손보는 거, 그게 edit야."
+ ],
+ "scene": "찍어 둔 영상의 긴 앞부분을 잘라내고 뒷부분 순서를 바꾸는 장면",
+ "examples": [
+  {
+   "en": "My sister edited the photo and made my hat blue.",
+   "ko": "언니가 사진을 편집해서 내 모자를 파란색으로 바꿨어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "형이 어제 만든 만화책 대사 칸을 다시 펴서, 세 번째 칸 대사를 지우고 대신 다른 대사를 적어 넣었어. 이게 'edit'이야?",
+   "choices": [
+    "응, edit 맞아",
+    "아니, edit 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, edit 맞아",
+   "why": "맞아! 이미 다 만들어 놓은 만화책을 다시 펴서 대사를 지우고 다른 걸 적어 넣었잖아. 새로 그린 게 아니라 있던 걸 손본 거니까 바로 그게 edit인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "동생이 아무것도 안 그려진 새 도화지를 꺼내서, 머릿속에 떠오른 로봇을 처음부터 그리기 시작했어. 이게 'edit'이야?",
+   "choices": [
+    "응, edit 맞아",
+    "아니, edit 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, edit 아니야",
+   "why": "맞아! 아무것도 없는 새 도화지에 처음부터 그리는 건 없던 걸 새로 만드는 거잖아. edit은 이미 다 만들어 놓은 걸 다시 손보는 거라서, 이건 edit이 아닌 게 맞아."
+  },
+  {
+   "type": "choice",
+   "question": "친구 네 명이 방금 자기가 한 일을 말했어. 이 중에서 'edit'을 한 사람은 누구야?",
+   "choices": [
+    "빈 종이에 아무것도 없던 이야기를 처음부터 새로 지어낸 아이",
+    "다 쓴 일기를 처음부터 끝까지 소리 내어 한 번 읽어 본 아이",
+    "다 쓴 일기에서 한 문단을 빼고 다른 문장을 대신 넣은 아이",
+    "칠판에 적힌 문장을 자기 공책에 그대로 똑같이 옮겨 적은 아이"
+   ],
+   "answer_index": 2,
+   "answer": "다 쓴 일기에서 한 문단을 빼고 다른 문장을 대신 넣은 아이",
+   "why": "맞아! 다 써 놓은 일기에서 문단을 빼고 다른 문장을 대신 넣었잖아. 이미 있던 글이 진짜로 달라진 거지. 바로 그게 edit이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "revise",
+   "kind": "confusable",
+   "from": "vs revise"
+  }
+ ],
+ "related_scene": [
+  "article",
+  "photo"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-edit",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-edit"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/edit.webp",
+  "alt": "찍어 둔 영상의 긴 앞부분을 잘라내고 뒷부분 순서를 바꾸는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

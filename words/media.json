@@ -1,0 +1,83 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/media/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/media/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "media",
+ "slug": "media",
+ "url": "https://hibbangyong.com/words/media/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "언론 — 텔레비전·신문·인터넷 뉴스처럼 많은 사람에게 한꺼번에 소식을 알려 주는 곳들, 그리고 거기서 일하는 사람들",
+ "gloss_ko": "소식 알리는 곳들",
+ "level": {
+  "code": "L3",
+  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "큰비가 와서 우리 동네 길이 물에 잠겼어. 다음 날 텔레비전에도 나오고, 신문에도 나오고, 휴대폰 뉴스에도 쫙 떴어.",
+  "좋은 소식이든 나쁜 소식이든 많은 사람한테 한꺼번에 알려 주는 곳들, 그리고 거기서 일하는 사람들까지 다 묶어서 부르는 말이 있거든?",
+  "봐봐, 이건 소식 그 자체가 아니야. 옆 사람한테 속닥 전하는 말도 아니고. 소식을 싣고 멀리멀리 나르는 큰 길들이야.",
+  "그게 media야."
+ ],
+ "scene": "큰비로 동네 길이 물에 잠긴 소식이 텔레비전·신문·휴대폰 뉴스에 퍼짐",
+ "examples": [
+  {
+   "en": "The media wanted to talk to my teacher about the flood.",
+   "ko": "홍수가 난 뒤에 방송국이랑 신문사 기자들이 우리 선생님이랑 이야기하고 싶어 했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "운동회 날짜가 바뀌었다는 소식을 텔레비전 뉴스와 신문이 전해 줬어. 그 텔레비전 뉴스와 신문, 이게 'media'야?",
+   "choices": [
+    "응, media 맞아",
+    "아니, media 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, media 맞아",
+   "why": "맞아! 텔레비전 뉴스와 신문은 운동회 날짜가 바뀌었다는 소식을 많은 사람한테 한꺼번에 알려 줬잖아. 그렇게 소식을 싣고 멀리 나르는 곳들이라서 바로 그게 media인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "운동회 날짜가 바뀌었다는 소식을 짝꿍이 쪽지에 써서 전해 줬어. 짝꿍의 그 쪽지, 이게 'media'야?",
+   "choices": [
+    "응, media 맞아",
+    "아니, media 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, media 아니야",
+   "why": "잘 골랐어! 짝꿍의 쪽지는 짝꿍 한 사람이 너 한 사람한테 건넨 거라서 media가 아닌 거야. media는 텔레비전이나 신문처럼 운동회 소식을 많은 사람한테 한꺼번에 알려 주는 곳이거든."
+  },
+  {
+   "type": "ox",
+   "question": "우리 학교 과학 대회에서 로봇 만들기 대회가 열렸어. 다음 날 신문사 기자들이 대회 이야기를 신문에 실어서 여러 동네 사람들이 읽었어. 이 신문사와 기자들도 'media'야?",
+   "choices": [
+    "응, media 맞아",
+    "아니, media 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, media 맞아",
+   "why": "맞아! 신문사 기자들이 로봇 만들기 대회 이야기를 신문에 실어서 여러 동네 사람들이 한꺼번에 읽었잖아. 텔레비전이 아니어도 신문도 많은 사람한테 소식을 알려 주니까, 신문사와 기자들도 바로 media인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-media",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-media"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/media.webp",
+  "alt": "큰비로 동네 길이 물에 잠긴 소식이 텔레비전·신문·휴대폰 뉴스에 퍼짐",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

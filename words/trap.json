@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/trap/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/trap/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "trap",
+ "slug": "trap",
+ "url": "https://hibbangyong.com/words/trap/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "덫 — 한번 들어가면 빠져나올 수 없는 것(장치든, 그렇게 돼버린 상황이든)",
+ "gloss_ko": "덫",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "벽이 매끈매끈한 깊은 통이 있다고 해봐. 들어가긴 쉬워. 툭 떨어지면 되니까.",
+  "그런데 나오려고 하면? 벽이 미끄러워서 자꾸 주르륵. 못 올라와.",
+  "누가 잡으려고 일부러 놓은 것도 이거고(쥐덫처럼), 그냥 어쩌다 그렇게 돼버린 것도 이거야. 문이 뒤에서 철컥 잠겨버린 방도, 대답하면 딱 걸리게 짜인 질문도.",
+  "그냥 막아선 벽이랑은 달라. 벽은 들어가기도 전에 막는 거고, 이건 들어간 다음에 못 나오는 거거든. 그게 trap이야."
+ ],
+ "scene": "벽이 미끄러운 깊은 통",
+ "examples": [
+  {
+   "en": "The room turned into a trap when the door locked behind us.",
+   "ko": "뒤에서 문이 잠기는 순간 그 방은 덫이 돼 버렸어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "공놀이를 하다가 공이 좁고 깊은 하수구 구멍으로 쏙 들어갔어. 손을 넣어도 안 닿고, 아무리 흔들어도 공은 그 안에서 못 나와. 이 하수구 구멍은 공한테 'trap'이야?",
+   "choices": [
+    "응, trap 맞아",
+    "아니, trap 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, trap 맞아",
+   "why": "맞아! 공은 그 구멍에 쏙 들어갔는데 다시는 못 나오잖아. 들어가긴 되는데 나오는 게 안 되는 거, 그게 바로 덫이라는 거야."
+  },
+  {
+   "type": "ox",
+   "question": "놀이터 미끄럼틀 통 안으로 들어가 앉아 있던 아이가, 아래쪽 뚫린 입구로 스르륵 미끄러져 그대로 밖으로 나왔어. 이 미끄럼틀 통은 아이한테 'trap'이야?",
+   "choices": [
+    "응, trap 맞아",
+    "아니, trap 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, trap 아니야",
+   "why": "맞아! 통 안에 들어갔지만 아래 구멍으로 스르륵 나왔잖아. 들어간 다음에 그대로 빠져나왔으면 갇힌 게 아니야. 그러니까 이건 덫이 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "새 한 마리한테 생긴 네 가지 일이야. 이 중에서 'trap'인 건?",
+   "choices": [
+    "새가 창고 안으로 날아 들어갔는데 문이 닫혀서, 안에서 뱅뱅 돌기만 하고 나오지 못하는 것",
+    "마당에 높은 울타리를 쭉 쳐놔서, 새가 마당 쪽으로 오다가 딴 데로 날아가 버리는 것",
+    "새가 열린 상자 안에 들어가 먹이를 콕콕 먹고는 다시 훌쩍 날아 나오는 것",
+    "창고 벽에 구멍이 뻥 뚫려 있어서, 안에 있던 새가 그리로 쏙 빠져나가는 것"
+   ],
+   "answer_index": 0,
+   "answer": "새가 창고 안으로 날아 들어갔는데 문이 닫혀서, 안에서 뱅뱅 돌기만 하고 나오지 못하는 것",
+   "why": "맞아! 들어가긴 쉬웠는데 문이 닫혀서 안에서 뱅뱅 돌기만 하잖아. 들어간 다음에 못 나오는 거, 바로 그게 trap이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "net"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-trap",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-trap"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/trap.webp",
+  "alt": "벽이 미끄러운 깊은 통",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

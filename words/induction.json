@@ -1,0 +1,98 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/induction/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/induction/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "induction",
+ "slug": "induction",
+ "url": "https://hibbangyong.com/words/induction/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "입회(새 식구로 받아들이기) — 새로 온 사람을 모임·직장에 정식 일원으로 받아들이는 일(그때 하는 안내 과정이나 행사까지 포함)",
+ "gloss_ko": "새 식구로 맞아들임",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "동아리에 새로 뽑힌 애가 첫날 왔어. 선배들이 규칙 알려주고, 이제 우리 사람이라고 박수 쳐 줘.",
+  "이렇게 새 사람을 정식 한 식구로 들여놓는 과정이 induction이야.",
+  "회사 신입 직원이 며칠 동안 받는 적응 교육도, 명예의 전당에 이름을 올리는 행사도 다 여기 들어가.",
+  "내가 혼자 원서 내고 들어가는 거랑은 달라. 받아 주는 쪽이 공식적으로 맞아들이는 거야."
+ ],
+ "scene": "동아리 신입 첫날 규칙 안내와 환영 박수",
+ "examples": [
+  {
+   "en": "The club held a small induction for the three new members.",
+   "ko": "동아리가 새로 들어온 세 명을 위해 작은 입회식을 열어 줬어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "소방서가 새로 배치된 소방관에게 첫 주 동안 장비 쓰는 법과 근무 규칙을 알려 주고, 정식 대원 명단에 올렸어. 소방서가 한 이 일이 'induction'이야?",
+   "choices": [
+    "응, induction 맞아",
+    "아니, induction 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, induction 맞아",
+   "why": "맞아! 소방서가 새로 온 소방관한테 첫 주 동안 장비 쓰는 법이랑 근무 규칙을 알려 주고 정식 대원 명단에 올렸잖아. 받아 주는 쪽이 새 사람을 정식 한 식구로 들여놓은 거니까 바로 그게 induction이야."
+  },
+  {
+   "type": "ox",
+   "question": "축구팀이 훈련에 계속 빠진 선수를 선수 명단에서 지우고, 이제 팀 소속이 아니라고 알렸어. 축구팀이 한 이 일이 'induction'이야?",
+   "choices": [
+    "응, induction 맞아",
+    "아니, induction 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, induction 아니야",
+   "why": "그렇지, induction이 아니야! 축구팀은 선수를 들여놓은 게 아니라, 훈련에 계속 빠진 선수를 명단에서 지우고 내보냈잖아. induction은 새 사람을 한 식구로 받아들이는 거라서 이건 딱 그 반대야."
+  },
+  {
+   "type": "choice",
+   "question": "다음 중 'induction'이라고 부르기 가장 알맞은 장면은?",
+   "choices": [
+    "민지가 학원 홈페이지에서 혼자 수강 신청 버튼을 눌러 등록을 끝냈어",
+    "합창단이 지원자를 한 명씩 불러 노래를 시켜 보고 점수를 매겼어",
+    "회사가 새로 온 직원에게 며칠간 규칙과 일을 알려주며 한 식구로 맞았어",
+    "규칙을 계속 어긴 부원을 동아리가 회의 끝에 모임에서 내보냈어"
+   ],
+   "answer_index": 2,
+   "answer": "회사가 새로 온 직원에게 며칠간 규칙과 일을 알려주며 한 식구로 맞았어",
+   "why": "맞아! 회사가 새로 온 직원한테 며칠 동안 규칙이랑 일을 알려주면서 한 식구로 맞았잖아. 받아 주는 쪽이 새 사람을 정식으로 들여놓는 과정이니까 딱 induction이야. 꼭 큰 행사가 아니어도 이렇게 맞아들이는 과정이면 돼."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "admission",
+   "kind": "confusable",
+   "from": "vs admission"
+  },
+  {
+   "word": "orientation",
+   "kind": "confusable",
+   "from": "vs orientation"
+  }
+ ],
+ "related_scene": [
+  "organization"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-induction",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-induction"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/induction.webp",
+  "alt": "동아리 신입 첫날 규칙 안내와 환영 박수",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

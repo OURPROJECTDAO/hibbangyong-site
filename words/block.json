@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/block/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/block/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "block",
+ "slug": "block",
+ "url": "https://hibbangyong.com/words/block/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "막다 — 지나가려는 걸 가로막아 못 지나가게 하다",
+ "gloss_ko": "막다",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "복도 한가운데에 큰 상자가 턱 놓여 있어. 지나가려던 애들이 딱 멈춰.",
+  "상자가 길을 가로막은 거야. 붙잡거나 부술 필요는 없어. 그냥 못 지나가게만 하면 돼.",
+  "커튼이 햇빛을 못 들어오게 해도 똑같아. 지나가려는 게 사람이든 빛이든 공이든 상관없거든.",
+  "그게 block이야."
+ ],
+ "scene": "복도 한가운데 턱 놓인 큰 상자",
+ "examples": [
+  {
+   "en": "My little brother blocked the door, so I couldn't get in.",
+   "ko": "동생이 문을 막아서 들어갈 수가 없었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "주차장 입구에 긴 막대가 아래로 내려와 있어서, 들어가려던 차가 그 앞에서 멈춰 섰어. 이 막대가 차를 'block'한 걸까?",
+   "choices": [
+    "응, block 맞아",
+    "아니, block 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, block 맞아",
+   "why": "맞아! 막대가 입구를 딱 가로막고 있어서 차가 못 들어간 거잖아. 붙잡거나 부순 것도 아니고 그냥 길을 막아서 못 지나가게 한 거니까 바로 그게 block이야."
+  },
+  {
+   "type": "ox",
+   "question": "버스 안에 서 있던 아저씨가 옆으로 비켜 줘서, 내리려던 아이가 문까지 쭉 걸어 나갔어. 아저씨가 아이를 'block'한 걸까?",
+   "choices": [
+    "응, block 맞아",
+    "아니, block 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, block 아니야",
+   "why": "맞아! 아저씨가 옆으로 비켜 줘서 아이가 문까지 쭉 걸어 나갔잖아. 길을 막은 게 아니라 오히려 트여 준 거니까 block이 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 가지 일이 있었어. 이 중에서 'block'이라고 말할 수 있는 건 뭘까?",
+   "choices": [
+    "쓰러진 나무가 길 한가운데 누워 있어서 차가 되돌아갔어.",
+    "날아온 공을 두 손으로 붙잡아서 품에 꼭 안았어.",
+    "길 위에 있던 돌을 옆으로 옮겨서 차가 쌩 지나갔어.",
+    "언덕길이라 차가 아주 천천히 달려서 시간이 걸렸어."
+   ],
+   "answer_index": 0,
+   "answer": "쓰러진 나무가 길 한가운데 누워 있어서 차가 되돌아갔어.",
+   "why": "맞아! 쓰러진 나무가 길을 딱 가로막아서 차가 못 지나가고 되돌아갔잖아. 지나가려던 게 끝내 못 지나간 거, 그게 바로 block이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-block",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-block"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/block.webp",
+  "alt": "복도 한가운데 턱 놓인 큰 상자",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

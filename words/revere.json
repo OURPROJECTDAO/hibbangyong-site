@@ -1,0 +1,89 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/revere/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/revere/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "revere",
+ "slug": "revere",
+ "url": "https://hibbangyong.com/words/revere/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "우러러보다 — 사람이나 전통, 자연 같은 대상을 아주 깊이 존경하며 받들다",
+ "gloss_ko": "우러러 받들다",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "마을 한가운데 몇백 년 된 나무가 있는데, 사람들이 그 앞에서는 목소리를 낮추고 가지 하나도 안 꺾어.",
+  "대상은 뭐든 될 수 있어. 평생 존경해 온 스승도, 위대한 과학자도, 오래 이어 온 전통도 이렇게 대할 수 있어.",
+  "좋아하는 가수 때문에 들뜨는 마음이나, 멋진 걸 보고 한 번 '와' 하고 감탄하는 거랑은 달라.",
+  "예의 바르게 대하는 보통 존중보다 훨씬 깊고, 쉽게 바뀌지 않고 오래가는 마음이야."
+ ],
+ "scene": "마을 사람들이 몇백 년 된 나무 앞에서 목소리를 낮추는 장면",
+ "examples": [
+  {
+   "en": "The villagers revere the old tree in the middle of the town.",
+   "ko": "마을 사람들은 마을 한가운데 있는 오래된 나무를 우러러 받들어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "회의 시간에 팀장은 신입 사원이 낸 의견을 끝까지 듣지도 않았어. \"그런 건 볼 필요도 없어\"라고 말하고는 그 서류를 책상 한쪽으로 밀어 버렸어. 팀장은 신입 사원의 의견을 'revere'한 걸까?",
+   "choices": [
+    "응, revere 맞아",
+    "아니, revere 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, revere 아니야",
+   "why": "맞아! 팀장은 신입 사원의 의견을 끝까지 듣지도 않고 \"그런 건 볼 필요도 없어\"라며 서류를 책상 한쪽으로 밀어 버렸잖아. 그건 그 의견을 하찮게 여기고 무시한 거라서, 깊이 존경하며 받드는 revere와는 정반대야."
+  },
+  {
+   "type": "ox",
+   "question": "우리 할머니는 수십 년째 설날과 추석 아침마다 새벽에 일어나 조상님께 차례를 지내셔. 그동안 하루도 빼먹은 적이 없으셔. 할머니는 조상과 이 전통을 'revere'한다고 할 수 있을까?",
+   "choices": [
+    "응, revere 맞아",
+    "아니, revere 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, revere 맞아",
+   "why": "맞아! 수십 년 동안 설날과 추석 아침마다 새벽에 일어나서 하루도 안 빼먹고 차례를 지내셨잖아. 그렇게 오래, 한결같이 조상과 전통을 받드는 마음이 바로 revere야."
+  },
+  {
+   "type": "choice",
+   "question": "네 사람의 모습이야. 무언가를 'revere'하는 모습에 가장 가까운 건?",
+   "choices": [
+    "민지는 좋아하는 가수 사진을 방 벽에 가득 붙여 놨어.",
+    "반장은 누가 말하든 끝까지 듣고 예의 바르게 대답해.",
+    "할아버지는 50년 전 스승 이야기만 나오면 자세를 고쳐 앉아.",
+    "형은 친구의 멋진 슛을 보고 \"와, 잘한다\" 하고 감탄했어."
+   ],
+   "answer_index": 2,
+   "answer": "할아버지는 50년 전 스승 이야기만 나오면 자세를 고쳐 앉아.",
+   "why": "맞아! 할아버지는 50년이 지났는데도 스승 이야기만 나오면 자세를 고쳐 앉잖아. 그만큼 깊은 존경이 오랫동안 그대로 남아 있는 거라서, 이게 바로 revere야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "worship",
+   "kind": "confusable",
+   "from": "vs worship"
+  }
+ ],
+ "related_scene": [
+  "reverence"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-revere",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-revere"
+ },
+ "image": null
+}

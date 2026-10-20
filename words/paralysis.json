@@ -1,0 +1,86 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/paralysis/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/paralysis/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "paralysis",
+ "slug": "paralysis",
+ "url": "https://hibbangyong.com/words/paralysis/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "마비 — 몸의 일부나 전체가 움직이려 해도 꼼짝 못 하게 된 상태(나라·단체·교통처럼 움직여야 할 것이 멈춰서 아무것도 못 하게 된 것에도 씀)",
+ "gloss_ko": "마비",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "사고가 난 뒤로 다리에 아무리 힘을 줘도 안 움직이는 사람이 있어.",
+  "아파서 쉬는 것도, 하기 싫어서 가만있는 것도 아니야. 하려고 해도 못 하는 거야.",
+  "몸에만 쓰는 말도 아니야. 나라 회의가 둘로 갈려서 해야 할 결정을 하나도 못 내리면 그것도 이 말로 불러.",
+  "일부러 멈춘 거면 이 말이 아니야. 움직여야 하는데 못 움직이는 거여야 해."
+ ],
+ "scene": "사고 뒤 힘을 줘도 안 움직이는 다리",
+ "examples": [
+  {
+   "en": "The doctors said the paralysis in his left arm might go away in a few months.",
+   "ko": "의사들이 그 사람 왼팔 마비가 몇 달 지나면 풀릴 수도 있다고 했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "할머니가 뇌졸중으로 쓰러지신 뒤, 오른쪽 팔과 다리를 움직이려고 애써도 전혀 움직이지 않아. 할머니 오른쪽 몸의 이런 상태를 'paralysis'라고 할 수 있을까?",
+   "choices": [
+    "응, paralysis 맞아",
+    "아니, paralysis 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, paralysis 맞아",
+   "why": "맞아! 할머니는 오른쪽 팔과 다리를 움직이려고 애쓰는데도 전혀 안 움직이잖아. 하려고 해도 못 하는 거니까 바로 그게 paralysis인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "출근 시간인데 버스와 지하철이 모두 제시간에 오고, 사람들이 막힘없이 회사로 오가고 있어. 이 도시 교통 상태를 'paralysis'라고 할 수 있을까?",
+   "choices": [
+    "응, paralysis 맞아",
+    "아니, paralysis 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, paralysis 아니야",
+   "why": "맞아! 출근 시간인데도 버스와 지하철이 제시간에 오고 사람들이 막힘없이 오가잖아. 교통이 멈춘 게 아니라 잘 움직이고 있으니까 paralysis가 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "연극에서 동상 역할을 맡은 민수가, 장면이 끝날 때까지 10분 동안 팔다리를 하나도 안 움직이고 가만히 서 있었어. 이런 경우도 민수 상태를 'paralysis'라고 할 수 있어?",
+   "choices": [
+    "응, 'paralysis' 맞아.",
+    "아니, 'paralysis' 아니야."
+   ],
+   "answer_index": 1,
+   "answer": "아니, 'paralysis' 아니야.",
+   "why": "맞아! 민수는 연극에서 동상 역할이라 일부러 안 움직인 거잖아. 마음만 먹으면 팔다리를 언제든 움직일 수 있으니까, 움직이려 해도 못 움직이는 paralysis는 아닌 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "crippling",
+  "polio"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-paralysis",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-paralysis"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/paralysis.webp",
+  "alt": "사고 뒤 힘을 줘도 안 움직이는 다리",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

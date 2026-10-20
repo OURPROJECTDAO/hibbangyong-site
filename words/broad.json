@@ -1,0 +1,102 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/broad/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/broad/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "broad",
+ "slug": "broad",
+ "url": "https://hibbangyong.com/words/broad/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "넓은 — 위나 높이가 아니라, 이쪽 끝에서 저쪽 끝까지 옆으로 폭이 널찍한",
+ "gloss_ko": "넓은",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "이쪽 끝에서 저쪽 끝까지, 옆으로 쫙 펼쳐져 있어.",
+  "넓은 강도 그렇고, 형 어깨가 떡 벌어진 것도, 입이 활짝 벌어진 웃음도 다 그래.",
+  "위로 높이 솟은 거랑은 상관없어. 위로 말고 옆으로 펼쳐진 거거든.",
+  "이렇게 옆으로 폭이 널찍한 게 broad야."
+ ],
+ "scene": "이쪽 끝에서 저쪽 끝까지 옆으로 쫙 펼쳐진 모습",
+ "examples": [
+  {
+   "en": "The river was so broad that we could hardly see the other side.",
+   "ko": "강이 너무 넓어서 건너편이 잘 안 보였어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "지호가 어떤 길을 보고 'broad'라고 했어. 어떤 길이었을까?",
+   "choices": [
+    "차 여러 대가 나란히 달려도 서로 안 부딪히는 길",
+    "한 사람만 겨우 지나가는 좁은 골목길",
+    "위로 가파르게 솟은 오르막길",
+    "돌멩이가 많아 울퉁불퉁한 길"
+   ],
+   "answer_index": 0,
+   "answer": "차 여러 대가 나란히 달려도 서로 안 부딪히는 길",
+   "why": "맞아! 차 여러 대가 나란히 달려도 안 부딪히려면 이쪽 끝에서 저쪽 끝까지 옆으로 폭이 널찍해야 하잖아. 바로 그게 broad인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "지호가 공원에서 어떤 걸 보고 'broad'라고 했어. 다음 중 지호가 본 것으로 맞는 건 뭘까?",
+   "choices": [
+    "끝에서 끝까지 폭이 널찍하게 뻗은 나무 벤치",
+    "방금 새로 칠해서 색이 진해진 나무 벤치",
+    "다리 하나가 부러져서 흔들리는 나무 벤치",
+    "아이들이 여덟 명 앉아 있는 나무 벤치"
+   ],
+   "answer_index": 0,
+   "answer": "끝에서 끝까지 폭이 널찍하게 뻗은 나무 벤치",
+   "why": "맞아! 끝에서 끝까지 옆으로 폭이 쫙 널찍하게 뻗어 있잖아. 위로 높은 것도 아니고 딱 옆으로 펼쳐진 거니까, 그게 바로 broad인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "지호가 옆으로 몸을 돌려서 게걸음으로 겨우 지나가야 하는 책장 사이 틈을 봤어. 이 틈이 'broad'야?",
+   "choices": [
+    "응, broad 맞아",
+    "아니, broad 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, broad 아니야",
+   "why": "맞아! 몸을 옆으로 돌려서 게걸음으로 겨우 지나가야 하잖아. 그건 옆 폭이 좁다는 뜻이거든. 옆으로 쫙 널찍하게 펼쳐진 게 broad니까, 이 틈은 반대인 거야."
+  }
+ ],
+ "synonyms": [
+  "wide"
+ ],
+ "antonyms": [
+  "narrow"
+ ],
+ "confusable": [
+  {
+   "word": "spacious",
+   "kind": "confusable",
+   "from": "vs spacious"
+  },
+  {
+   "word": "wide",
+   "kind": "confusable",
+   "from": "vs wide"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-broad",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-broad"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/broad.webp",
+  "alt": "이쪽 끝에서 저쪽 끝까지 옆으로 쫙 펼쳐진 모습",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

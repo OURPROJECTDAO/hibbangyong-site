@@ -1,0 +1,89 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/individual/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/individual/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "individual",
+ "slug": "individual",
+ "url": "https://hibbangyong.com/words/individual/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "하나하나의 — 여럿이 뭉쳐 있어도 그중 딱 하나만 따로 놓고 볼 때 쓰는 말",
+ "gloss_ko": "하나하나의",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "포도 한 송이를 딱 들면 덩어리 하나 같지?",
+  "근데 알은 알대로 따로야. 큰 알, 작은 알, 덜 익은 알.",
+  "블록도 우리 반 아이들도 그래. 뭉쳐 있어도 하나씩 떼어서 볼 수 있잖아. 그 하나하나를 가리키는 말이야.",
+  "'다 같이 한 덩어리'랑은 반대고, '남달라서 특별한'도 아니야. 그냥 따로 센 하나. 이게 individual이야."
+ ],
+ "scene": "포도 한 송이 속 알 하나하나",
+ "examples": [
+  {
+   "en": "The coach wrote down the individual scores of all the players.",
+   "ko": "코치님이 선수들 하나하나의 점수를 다 적었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "요리사가 감자와 당근과 고기를 냄비에 다 넣고 푹 끓여서 카레 한 냄비로 만들었어. 이렇게 다 합쳐 한 덩어리가 된 걸 'individual'이라고 해?",
+   "choices": [
+    "응, individual 맞아",
+    "아니, individual 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, individual 아니야",
+   "why": "맞아! 감자도 당근도 고기도 다 녹아 섞여서 이젠 하나씩 못 떼어 내잖아. 하나하나 따로 셀 수 있어야 individual인데 카레는 그게 안 되니까, 아니라고 한 네 말이 딱 맞아."
+  },
+  {
+   "type": "ox",
+   "question": "급식실에서 조리사가 큰 통에 담긴 방울토마토를 접시마다 하나씩 나눠 담으면서 몇 개인지 셌어. 이렇게 통 안의 방울토마토를 하나씩 따로 센 걸 'individual'이라고 해?",
+   "choices": [
+    "응, individual 맞아",
+    "아니, individual 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, individual 맞아",
+   "why": "맞아! 통에 다 같이 담겨 있어도 조리사가 하나, 둘, 셋 따로 떼어서 센 거잖아. 그렇게 하나하나를 따로 볼 때 쓰는 말이 바로 individual이야."
+  },
+  {
+   "type": "choice",
+   "question": "선생님이 미술 시간에 한 일 네 가지야. 'individual'이라는 말이 딱 어울리는 건?",
+   "choices": [
+    "선생님이 아이들 그림에 각자 이름을 적어 한 장씩 걸었어.",
+    "선생님이 아이들 그림을 이어 붙여 큰 벽화 하나로 만들었어.",
+    "선생님이 아이들 중 그림을 제일 남다르게 그린 아이를 뽑았어.",
+    "선생님이 그림을 못 끝낸 아이를 교실에 혼자 남겨 두었어."
+   ],
+   "answer_index": 0,
+   "answer": "선생님이 아이들 그림에 각자 이름을 적어 한 장씩 걸었어.",
+   "why": "맞아! 그림 한 장 한 장에 각자 이름이 붙었잖아. 다 같이 걸려 있어도 이건 이 아이 거, 저건 저 아이 거로 따로따로 셀 수 있지. 그 하나하나가 바로 individual이야."
+  }
+ ],
+ "synonyms": [
+  "single"
+ ],
+ "antonyms": [
+  "common"
+ ],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-individual",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-individual"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/individual.webp",
+  "alt": "포도 한 송이 속 알 하나하나",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

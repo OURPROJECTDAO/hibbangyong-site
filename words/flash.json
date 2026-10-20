@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/flash/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/flash/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "flash",
+ "slug": "flash",
+ "url": "https://hibbangyong.com/words/flash/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "번쩍 — 갑자기 아주 잠깐 확 하고 빛났다 사라지는 밝은 빛",
+ "gloss_ko": "번쩍",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "캄캄한 밤에 하늘이 갑자기 번쩍! 했어.",
+  "눈 깜빡할 새에 확 밝아졌다가, 바로 사라져 버려.",
+  "계속 켜져 있는 전등이랑은 달라. 딱 한순간만 확 하고 끝이거든?",
+  "그 짧고 밝은 빛 한 번, 그게 flash야."
+ ],
+ "scene": "캄캄한 밤하늘이 갑자기 번쩍하는 장면",
+ "examples": [
+  {
+   "en": "A sudden flash lit up the dark room, and then it was gone.",
+   "ko": "갑자기 번쩍 빛이 어두운 방을 밝히더니 곧 사라졌어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "사진관에서 사진을 찍는 순간, 카메라 앞쪽에서 아주 짧게 확 밝은 빛이 났다가 곧바로 없어졌어. 이게 'flash'야?",
+   "choices": [
+    "응, flash 맞아",
+    "아니, flash 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, flash 맞아",
+   "why": "맞아! 사진 찍는 그 순간에 확 밝아졌다가 눈 깜빡할 새에 사라졌잖아. 짧고 밝은 빛 한 번, 그게 바로 flash인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "극장에서 영화가 끝나자 천장 조명이 아주 천천히 조금씩 밝아져서 그대로 계속 켜져 있었어. 이게 'flash'야?",
+   "choices": [
+    "응, flash 맞아",
+    "아니, flash 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, flash 아니야",
+   "why": "맞아! 아주 천천히 조금씩 밝아진 데다가 계속 켜져 있었잖아. 이건 눈 깜빡할 새에 확 밝아졌다 바로 사라지는 게 아니라서 flash가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 가지 서로 다른 빛과 소리를 봤어. 이 중에서 'flash'라고 부를 수 있는 건 어떤 걸까?",
+   "choices": [
+    "캄캄한 밤, 갑자기 한순간 확 밝아졌다가 곧바로 사라진 빛",
+    "방 안에 오래도록 환하게 계속 켜져 있는 전등 빛",
+    "아침에 해가 뜨며 하늘이 천천히 서서히 밝아지는 빛",
+    "빛은 하나도 없이 쿵 하고 크게 울리기만 한 천둥 소리"
+   ],
+   "answer_index": 0,
+   "answer": "캄캄한 밤, 갑자기 한순간 확 밝아졌다가 곧바로 사라진 빛",
+   "why": "맞아! 캄캄하다가 한순간 확 밝아졌는데 곧바로 사라져 버렸잖아. 그 짧고 밝은 빛 딱 한 번, 그게 바로 flash인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-flash",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-flash"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/flash.webp",
+  "alt": "캄캄한 밤하늘이 갑자기 번쩍하는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

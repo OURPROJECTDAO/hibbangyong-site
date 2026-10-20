@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/tug/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/tug/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "tug",
+ "slug": "tug",
+ "url": "https://hibbangyong.com/words/tug/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "예인선 — 큰 배를 끌거나 밀어서 옮겨 주는 작고 힘센 배",
+ "gloss_ko": "예인선",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "커다란 배는 좁은 항구 안에서 혼자 방향을 잘 못 틀어.",
+  "그때 작지만 힘이 아주 센 배가 옆에 붙어서 큰 배를 끌어 주거나 밀어 줘.",
+  "그 작은 배가 tug야. 사람이나 짐을 싣는 게 아니라 다른 배를 옮기는 게 일이야.",
+  "줄다리기(tug of war)의 tug는 '확 잡아당김'이라는 뜻인데, 여기서 말하는 건 그 일을 하는 배야."
+ ],
+ "scene": "좁은 항구에서 혼자 방향을 못 트는 큰 배를 작은 배가 끌고 미는 장면",
+ "examples": [
+  {
+   "en": "Two tugs slowly moved the huge ship into the port.",
+   "ko": "작은 배 두 척이 그 커다란 배를 천천히 항구 안으로 옮겨 놨어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "컨테이너를 잔뜩 실은 거대한 화물선이 부두를 떠나려고 해. 작은 배 한 척이 화물선 옆구리에 붙어서 화물선을 부두에서 바다 쪽으로 밀어내고 있어. 밀려 나가는 그 거대한 화물선은 'tug'일까?",
+   "choices": [
+    "응, tug 맞아",
+    "아니, tug 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, tug 아니야",
+   "why": "맞아! 그 거대한 화물선은 컨테이너를 잔뜩 싣고 작은 배한테 밀려서 바다 쪽으로 나가는 쪽이잖아. tug는 화물선 옆구리에 붙어서 밀어 주는 그 작은 배니까, 밀려 나가는 화물선은 tug가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "항구에서 네 가지를 봤어. 이 중에 'tug'라고 부를 수 있는 건?",
+   "choices": [
+    "다른 큰 배를 밀거나 끌어서 옮겨 주는 작은 배",
+    "사람들을 태우고 섬과 육지를 오가는 작은 배",
+    "짐을 가득 싣고 먼 바다를 건너온 큰 배",
+    "줄다리기 할 때 양쪽에서 잡는 굵은 밧줄"
+   ],
+   "answer_index": 0,
+   "answer": "다른 큰 배를 밀거나 끌어서 옮겨 주는 작은 배",
+   "why": "맞아! 다른 큰 배를 밀거나 끌어서 옮겨 주는 게 일인 작은 배, 바로 그게 tug야. 사람이나 짐을 나르는 게 아니라 다른 배를 옮기는 게 일이라는 점이 핵심이야."
+  },
+  {
+   "type": "ox",
+   "question": "바다 한가운데서 엔진이 고장 난 커다란 유조선이 멈춰 섰어. 잠시 뒤 작은 배 한 척이 와서 유조선에 굵은 줄을 묶고, 육지 쪽 수리소까지 유조선을 끌고 갔어. 유조선을 끌고 간 그 작은 배는 'tug'일까?",
+   "choices": [
+    "응, tug 맞아",
+    "아니, tug 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, tug 맞아",
+   "why": "맞아! 그 작은 배는 자기는 아무것도 안 싣고, 엔진이 고장 난 유조선에 굵은 줄을 묶어서 수리소까지 끌고 갔잖아. 다른 큰 배를 끌어서 옮겨 주는 게 일인 작은 배, 바로 그게 tug야."
+  }
+ ],
+ "synonyms": [
+  "tower"
+ ],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-tug",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-tug"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/tug.webp",
+  "alt": "좁은 항구에서 혼자 방향을 못 트는 큰 배를 작은 배가 끌고 미는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

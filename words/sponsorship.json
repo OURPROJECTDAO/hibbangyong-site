@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/sponsorship/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/sponsorship/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "sponsorship",
+ "slug": "sponsorship",
+ "url": "https://hibbangyong.com/words/sponsorship/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "후원 — 어떤 행사나 팀, 사람에게 돈을 대 주는 것. 보통 대신 이름이나 로고를 알릴 기회를 받아",
+ "gloss_ko": "후원(돈 대 주기)",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "동네 축제 현수막 아래쪽에 치킨집, 학원 이름이 작게 줄지어 있는 거 본 적 있지?",
+  "그 가게들이 축제에 쓸 돈을 대 줬고, 대신 이름을 거기 올린 거야. 그게 sponsorship이야.",
+  "운동팀이든 학교 공연이든 학생 한 명이든, 누가 돈을 대서 그 일이 굴러가게 해 주면 다 돼.",
+  "박수만 쳐 주는 응원이나, 돈 받고 물건을 빌려주는 거랑은 달라. 돈이 대 주는 쪽에서 나가는 게 핵심이야."
+ ],
+ "scene": "동네 축제 현수막에 후원 가게 이름이 줄지어 실림",
+ "examples": [
+  {
+   "en": "Thanks to the bakery's sponsorship, our school play had new costumes this year.",
+   "ko": "빵집이 후원해 준 덕분에 올해 우리 학교 연극은 의상을 새로 맞출 수 있었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "동네 안경점이 학교 수학 경시대회의 상금을 대 주고, 대회 안내문에 안경점 이름이 실렸어. 안경점이 한 이 일이 'sponsorship'이야?",
+   "choices": [
+    "응, sponsorship 맞아",
+    "아니, sponsorship 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, sponsorship 맞아",
+   "why": "맞아! 안경점이 대회 상금을 대 줘서 대회가 열릴 수 있었고, 그 대신 안내문에 이름이 실렸잖아. 돈을 대 주고 이름을 알린 거니까 바로 그게 sponsorship이야."
+  },
+  {
+   "type": "ox",
+   "question": "동네 문구점이 학교 과학 동아리에 실험 도구를 팔고, 동아리에게서 그 값을 받았어. 문구점이 한 이 일이 'sponsorship'이야?",
+   "choices": [
+    "응, sponsorship 맞아",
+    "아니, sponsorship 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, sponsorship 아니야",
+   "why": "잘 골랐어! 문구점은 실험 도구를 팔고 동아리한테서 그 값을 받았잖아. 돈이 문구점 쪽으로 들어온 거라서, 돈을 대 주는 sponsorship이랑은 방향이 정반대야."
+  },
+  {
+   "type": "choice",
+   "question": "동네 빵집이 학교 연극부와 이런저런 일로 엮였어. 이 중에서 빵집이 연극부에 'sponsorship'을 한 경우는?",
+   "choices": [
+    "빵집이 연극부 공연비를 대 주고, 포스터에 가게 이름이 실렸어",
+    "빵집 사장님이 연극부 공연을 보러 와서, 끝까지 크게 박수를 쳤어",
+    "빵집이 연극부에 가게 뒷방을 빌려주고, 매달 대여료를 받았어",
+    "빵집이 연극부 공연 포스터를 받아서, 가게 벽에 크게 붙여 줬어"
+   ],
+   "answer_index": 0,
+   "answer": "빵집이 연극부 공연비를 대 주고, 포스터에 가게 이름이 실렸어",
+   "why": "맞아! 빵집이 공연비를 대 줘서 연극부 공연이 굴러가고, 그 대신 포스터에 가게 이름이 실렸잖아. 돈이 빵집 쪽에서 나가서 일이 되게 해 준 거, 바로 그게 sponsorship이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "patron"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-sponsorship",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-sponsorship"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/sponsorship.webp",
+  "alt": "동네 축제 현수막에 후원 가게 이름이 줄지어 실림",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

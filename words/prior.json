@@ -1,0 +1,89 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/prior/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/prior/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "prior",
+ "slug": "prior",
+ "url": "https://hibbangyong.com/words/prior/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "먼저 있던, 앞선 — 다른 일보다 순서가 앞인",
+ "gloss_ko": "먼저의",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "오늘 축구를 하는데, 사실 지난주에도 한 번 축구를 했거든?",
+  "그럼 지난주 축구는 오늘보다 먼저 있던 거잖아.",
+  "'제일 중요한 거'라는 뜻 아니야. 그냥 순서가 앞선, 먼저 있던 거야.",
+  "그게 prior야."
+ ],
+ "scene": "지난주 축구가 오늘 축구보다 먼저 있던 일이라는 순서 비교",
+ "examples": [
+  {
+   "en": "I have a prior plan, so I can't come today.",
+   "ko": "나 먼저 잡아 둔 약속이 있어서 오늘은 못 가."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "도윤이가 오늘 아침 8시에 등교하는 걸 기준으로 삼았어. 그런데 하교는 그보다 뒤인 오후 3시에 해. 이 오후 3시 하교가 아침 8시 등교의 'prior'야?",
+   "choices": [
+    "응, prior 맞아",
+    "아니, prior 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, prior 아니야",
+   "why": "맞아! 아침 8시 등교보다 오후 3시 하교는 뒤에 오는 나중 일이잖아. 먼저 있던 게 아니니까 prior가 아니라고 딱 맞춘 거야."
+  },
+  {
+   "type": "choice",
+   "question": "지호가 토요일 오전 10시에 수영장에 가기로 새로 정했어. 아래 네 가지 중에서, 이 10시 수영 계획의 'prior'에 해당하는 것은?",
+   "choices": [
+    "수영장까지 걸어서 10분이 걸린다는 것",
+    "오전 8시에 하기로 돼 있던 이불 개기",
+    "수영장 물 깊이가 120센티미터라는 것",
+    "수영이 끝나는 시각이 오전 11시라는 것"
+   ],
+   "answer_index": 1,
+   "answer": "오전 8시에 하기로 돼 있던 이불 개기",
+   "why": "맞아! 8시 이불 개기는 10시 수영보다 먼저 잡혀 있던 일이잖아. 이렇게 그 계획보다 앞서 있던 일이 바로 prior인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "지호가 오늘 저녁 6시에 축구 연습을 하기로 새로 정했어. 아래 네 가지 일 중에서, 이 6시 축구 연습의 'prior'에 해당하는 일은 어느 거야?",
+   "choices": [
+    "축구 연습을 정하기 전, 오후 3시에 이미 하기로 되어 있던 피아노 레슨",
+    "축구 연습이 끝난 뒤 밤 8시에 하기로 한 숙제",
+    "축구 연습과 똑같이 저녁 6시에 겹쳐 잡힌 친구 생일파티",
+    "할지 말지 아직 안 정한, 다음 주에 있을 소풍"
+   ],
+   "answer_index": 0,
+   "answer": "축구 연습을 정하기 전, 오후 3시에 이미 하기로 되어 있던 피아노 레슨",
+   "why": "맞아! 축구 연습을 정하기도 전에 오후 3시 피아노 레슨은 벌써 잡혀 있었잖아. 그러니까 6시 축구보다 앞서 있던 일, 바로 그게 prior인 거야."
+  }
+ ],
+ "synonyms": [
+  "former"
+ ],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-prior",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-prior"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/prior.webp",
+  "alt": "지난주 축구가 오늘 축구보다 먼저 있던 일이라는 순서 비교",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

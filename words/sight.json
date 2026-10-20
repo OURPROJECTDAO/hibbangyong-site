@@ -1,0 +1,101 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/sight/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/sight/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "sight",
+ "slug": "sight",
+ "url": "https://hibbangyong.com/words/sight/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "눈으로 보는 것(보는 힘), 또는 눈에 보이는 모습",
+ "gloss_ko": "눈에 들어옴",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "저 멀리 뿌옇던 게 점점 가까워져. 어? 이제 눈에 딱 보인다!",
+  "이렇게 네 눈에 들어와서 보이는 거, 그게 sight거든.",
+  "꼭 예쁜 거만 sight인 거 아니야. 무서운 거든 이상한 거든, 눈에 보이면 다 sight야.",
+  "귀로 듣는 소리는 빼고, 눈으로 보는 것! 그게 sight야."
+ ],
+ "scene": "뿌옇던 게 가까워지며 눈에 보이게 됨 + 소리·냄새 말고 '보이는' 것",
+ "examples": [
+  {
+   "en": "Suddenly a strange sight appeared at the window.",
+   "ko": "갑자기 창문에 이상한 광경이 나타났어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "캄캄한 밤, 옆집 개가 컹컹 짖는 걸 네 두 귀가 딱 잡아냈어. 이렇게 네 귀에 들어온 개 소리를 'sight'라고 할 수 있을까?",
+   "choices": [
+    "응, sight라고 할 수 있어",
+    "아니, sight라고 할 수 없어"
+   ],
+   "answer_index": 1,
+   "answer": "아니, sight라고 할 수 없어",
+   "why": "맞아! 개 소리는 귀로 듣는 거지 눈으로 보는 게 아니잖아. sight는 눈에 보이는 거니까, 소리는 sight가 아니라고 한 네가 딱 맞았어."
+  },
+  {
+   "type": "choice",
+   "question": "동생이 방금 네 가지 일을 겪었어. 이 중에서 'sight'로 받아들인 건 어느 거야?",
+   "choices": [
+    "구름 사이로 무지개가 눈앞에 쫙 펼쳐졌어.",
+    "멀리서 천둥이 우르릉 울려 퍼졌어.",
+    "갓 구운 빵 냄새가 솔솔 풍겨 왔어.",
+    "차가운 아이스크림이 혀끝에서 사르르 녹았어."
+   ],
+   "answer_index": 0,
+   "answer": "구름 사이로 무지개가 눈앞에 쫙 펼쳐졌어.",
+   "why": "맞아! 무지개가 눈앞에 쫙 보였잖아. 이렇게 눈에 들어와서 보이는 거, 그게 바로 sight인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "동생이 골목에서 쥐 한 마리가 쓰레기 더미를 헤집고 다니는 걸 봤어. 하나도 멋지지 않고 좀 징그러웠대. 동생이 그렇게 본 이것도 'sight'라고 할 수 있을까?",
+   "choices": [
+    "응, 그것도 'sight'야",
+    "아니, 그건 'sight'가 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 그것도 'sight'야",
+   "why": "맞아! 쥐가 쓰레기를 헤집는 그 징그러운 모습도 동생 눈에 딱 들어왔잖아. 눈에 보이기만 하면 예쁘든 징그럽든 다 sight인 거야. 그래서 그것도 sight인 게 맞아."
+  }
+ ],
+ "synonyms": [
+  "view"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "scene",
+   "kind": "confusable",
+   "from": "vs scene"
+  },
+  {
+   "word": "view",
+   "kind": "confusable",
+   "from": "vs view"
+  }
+ ],
+ "related_scene": [
+  "retina",
+  "sense"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-sight",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-sight"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/sight.webp",
+  "alt": "뿌옇던 게 가까워지며 눈에 보이게 됨 + 소리·냄새 말고 '보이는' 것",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

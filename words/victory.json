@@ -1,0 +1,82 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/victory/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/victory/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "victory",
+ "slug": "victory",
+ "url": "https://hibbangyong.com/words/victory/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "승리 — 겨루거나 싸운 끝에 이기는 거야.",
+ "gloss_ko": "승리",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "줄다리기에서 끝까지 버티다가 상대 팀을 이겼어! 우리가 이긴 거야.",
+  "그냥 줄만 당긴 게 아니라, 겨뤄서 마침내 이긴 그 순간 말이야.",
+  "꼭 운동이 아니어도 돼 — 무서운 병이랑 싸워서 낫는 것도, 다투다가 내 말이 맞다고 이기는 것도 다 이김이야.",
+  "겨루거나 싸운 끝에 이기는 것, 그게 victory야."
+ ],
+ "scene": "줄다리기에서 끝까지 버텨 상대 팀을 이긴 순간",
+ "examples": [
+  {
+   "en": "After the long, hard match, we jumped and cheered — the victory was finally ours!",
+   "ko": "길고 힘든 경기 끝에 우리는 펄쩍 뛰며 환호했고, 드디어 승리는 우리 거였어!"
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "경기가 끝나고 우리 팀은 'victory'를 얻었어. 여기서 'victory'가 가리키는 게 뭘까?",
+   "choices": [
+    "경기에서 두 팀이 맞붙어 겨룬 일 그 자체.",
+    "경기에서 상대를 이겨서 우리가 얻은 이김.",
+    "경기가 끝난 뒤에 받은 반짝이는 트로피.",
+    "경기에서 져서 속상했던 우리 마음."
+   ],
+   "answer_index": 1,
+   "answer": "경기에서 상대를 이겨서 우리가 얻은 이김.",
+   "why": "맞아! 겨뤄서 상대를 이겨낸 그 이김이 바로 victory거든. 경기 자체도, 받은 물건도 아니고 이겼다는 그 결과가 victory인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "지호가 문구점 뽑기 기계에 동전을 넣었는데 운 좋게 큰 인형이 나왔어. 지호는 그 인형을 들고 '이건 내 victory야!'라고 했어. 이렇게 써도 될까?",
+   "choices": [
+    "응, victory 맞아.",
+    "아니, victory 아니야."
+   ],
+   "answer_index": 1,
+   "answer": "아니, victory 아니야.",
+   "why": "맞아! 뽑기는 동전 넣고 운이 좋아서 인형이 나온 거지, 누구랑 겨뤄서 이긴 게 아니거든. 겨루거나 싸운 끝에 이겼을 때만 victory인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "defeat"
+ ],
+ "confusable": [
+  {
+   "word": "win",
+   "kind": "confusable",
+   "from": "vs win"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-victory",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-victory"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/victory.webp",
+  "alt": "줄다리기에서 끝까지 버텨 상대 팀을 이긴 순간",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

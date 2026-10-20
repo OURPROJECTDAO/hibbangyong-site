@@ -1,0 +1,89 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/bay/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/bay/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "bay",
+ "slug": "bay",
+ "url": "https://hibbangyong.com/words/bay/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "만 — 바닷물이 땅 안쪽으로 쑥 들어와 앉은 데",
+ "gloss_ko": "바닷물이 들어온 만",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "바닷가 선이 쭉 가다가, 한 군데가 안으로 쑥 들어간 데 있잖아?",
+  "땅이 양옆에서 팔처럼 물을 감싸 안은 거야. 그 팔 안에 든 물이야.",
+  "땅이 물 쪽으로 튀어나온 데 말고, 거꾸로 물이 땅 쪽으로 들어온 데.",
+  "배가 잔뜩 서 있든 텅 비어 있든, 크든 작든, 이게 bay야."
+ ],
+ "scene": "해안선이 한 군데만 안쪽으로 쑥 들어간 자리",
+ "examples": [
+  {
+   "en": "From the top of the hill, the bay looked like a big blue smile in the land.",
+   "ko": "언덕 꼭대기에서 보니까 그 만은 땅에 그려진 커다란 파란 미소 같았어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "지도 네 곳을 손가락으로 짚었어. 다음 중 'bay'는 어디일까?",
+   "choices": [
+    "땅 가장자리가 안쪽으로 둥글게 파여서, 그 파인 자리에 바닷물이 들어와 고여 있는 곳",
+    "땅 한가운데가 위로 솟아올라서, 꼭대기에 눈이 하얗게 덮여 있는 곳",
+    "땅이 갈라져 아래로 깊게 팬 자리에, 바닥까지 마른 돌만 쌓여 있는 곳",
+    "땅 위에 모래만 넓게 펼쳐져서, 물 한 방울 없이 마르기만 한 곳"
+   ],
+   "answer_index": 0,
+   "answer": "땅 가장자리가 안쪽으로 둥글게 파여서, 그 파인 자리에 바닷물이 들어와 고여 있는 곳",
+   "why": "맞아! 땅 가장자리가 안쪽으로 둥글게 파였고, 그 파인 자리에 바닷물이 들어와 있잖아. 바로 그게 bay인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "등대가 선 자리는 땅이 바다 쪽으로 뾰족하게 밀고 나가 있어서, 등대 앞은 물이고 양옆도 다 물이야. 이게 'bay'야?",
+   "choices": [
+    "응, bay 맞아",
+    "아니, bay 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, bay 아니야",
+   "why": "맞아! 등대가 선 자리는 땅이 바다 쪽으로 뾰족하게 밀고 나가 있잖아. bay는 거꾸로 물이 땅 안쪽으로 쑥 들어온 데라서, 이건 bay가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 아이가 각자 자기 집 앞 물가 모양을 말했어. 'bay' 옆에 사는 아이는 누구일까?",
+   "choices": [
+    "집 앞 물이 땅 안쪽으로 쑥 들어와서, 양옆 땅이 그 물을 감싸고 있대",
+    "집 앞 땅이 물 쪽으로 길게 뻗어 나가서, 끝에 서면 세 방향이 다 물이래",
+    "집이 있는 땅은 둘레가 온통 물이라, 어디를 가든 배를 타야 한대",
+    "집 앞 물은 좁고 길게 이어져서 아랫동네까지 계속 흘러간대"
+   ],
+   "answer_index": 0,
+   "answer": "집 앞 물이 땅 안쪽으로 쑥 들어와서, 양옆 땅이 그 물을 감싸고 있대",
+   "why": "맞아! 이 아이 집 앞은 물이 땅 안쪽으로 쑥 들어와 있고, 양옆 땅이 그 물을 감싸고 있거든. 바로 그런 데 있는 물이 bay인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "coast"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-bay",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-bay"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/bay.webp",
+  "alt": "해안선이 한 군데만 안쪽으로 쑥 들어간 자리",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

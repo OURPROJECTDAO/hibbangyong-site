@@ -1,0 +1,88 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/private/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/private/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "private",
+ "slug": "private",
+ "url": "https://hibbangyong.com/words/private/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "나(우리)만의 — 남이 함부로 보거나 들어올 수 없는",
+ "gloss_ko": "나(우리)만의",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "우리 집 뒷마당은 우리 식구만 쓰는 곳이야. 옆집 아저씨가 그냥 쓱 들어오면 안 되거든?",
+  "근데 숨긴 건 아니야. 담 너머로 다 보여. 그냥 우리 거라서 아무나 못 들어오는 거야.",
+  "장소만 그런 게 아니야. 내가 속으로만 담아 둔 마음도, 나만 아는 내 거라 남이 함부로 못 들여다봐.",
+  "이렇게 '아무나 말고, 나(우리) 것'인 게 private야."
+ ],
+ "scene": "담 너머로 다 보여도 우리 식구만 쓰는 뒷마당",
+ "examples": [
+  {
+   "en": "Our backyard is private, so other kids can't just play there without asking.",
+   "ko": "우리 집 뒷마당은 우리 거라서 다른 애들이 물어보지 않고 그냥 놀면 안 돼."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "지우네 아파트 지하에 창고 칸이 있어. 문에 지우네 집 호수가 붙어 있고, 지우네 가족만 열쇠를 가지고 있어서 다른 집 사람은 열고 들어갈 수 없어. 이건 'private'한 걸까?",
+   "choices": [
+    "응, private 맞아",
+    "아니, private 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, private 맞아",
+   "why": "맞아! 문에 지우네 집 호수가 붙어 있고 지우네 가족만 열쇠를 가졌잖아. 아무나 말고 지우네 것, 그러니까 딱 private인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "공원에 물 마시는 수도가 있어. 목마른 사람은 누구나 와서 눌러 마시면 되고, 막는 사람도 없어. 이건 'private'한 걸까?",
+   "choices": [
+    "응, private 맞아",
+    "아니, private 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, private 아니야",
+   "why": "맞아! 목마른 사람 누구나 와서 눌러 마시는 거잖아. 막는 사람도 없고. 그건 아무나 말고 우리 것이 아니라 모두의 것이라서 private가 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "지호가 형 몰래 서랍 맨 밑에 만화책을 감춰 뒀어. 사실 그 만화책은 형 거고, 형이 찾으면 바로 돌려줘야 해. 이런 경우도 'private'야?",
+   "choices": [
+    "응, private 맞아.",
+    "아니, private 아니야."
+   ],
+   "answer_index": 1,
+   "answer": "아니, private 아니야.",
+   "why": "맞아! 그 만화책은 지호 게 아니라 형 거잖아. 서랍 맨 밑에 감춰 뒀어도 형이 찾으면 돌려줘야 하는 거니까, 나(우리) 것이 아니라서 private이 아닌 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "public",
+  "public"
+ ],
+ "confusable": [],
+ "related_scene": [
+  "privacy"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-private",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-private"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/private.webp",
+  "alt": "담 너머로 다 보여도 우리 식구만 쓰는 뒷마당",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

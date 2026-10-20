@@ -1,0 +1,103 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/juvenile/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/juvenile/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "juvenile",
+ "slug": "juvenile",
+ "url": "https://hibbangyong.com/words/juvenile/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "청소년의 — 아직 어른이 안 된 사람에 관한 (법이나 뉴스에서 자주 써)",
+ "gloss_ko": "청소년의",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "버스 요금, 영화 관람 등급, 법까지 세상은 아직 어른이 아닌 사람을 따로 나눠서 다뤄.",
+  "juvenile은 그 '아직 어른이 안 된 쪽'에 붙는 말이야. 새끼 동물한테도 써.",
+  "나쁜 애라는 뜻은 아니야. 뉴스에서 범죄 얘기랑 자주 붙어 나올 뿐이고, 원래는 그냥 나이 얘기야.",
+  "근데 다 큰 어른한테 쓰면 '애같이 유치하다'는 핀잔이 돼. 젊어 보인다는 칭찬이랑은 전혀 달라."
+ ],
+ "scene": "어른이 아닌 사람을 따로 나누는 버스 요금·영화 관람 등급·법",
+ "examples": [
+  {
+   "en": "My aunt is a judge at the juvenile court in our city.",
+   "ko": "우리 이모는 우리 시 소년 법원에서 판사로 일해."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "마흔 살 소방관 아저씨가 스무 해째 불을 끄는 일을 하고 있어. 이 아저씨를 영어로 'juvenile'이라고 부를 수 있을까?",
+   "choices": [
+    "응, juvenile 맞아",
+    "아니, juvenile 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, juvenile 아니야",
+   "why": "맞아! 마흔 살에 스무 해째 불을 끄고 있는 소방관 아저씨는 이미 다 자란 어른(adult)이라서, 아직 어른이 안 된 쪽에 붙는 juvenile로는 못 불러."
+  },
+  {
+   "type": "ox",
+   "question": "열네 살 중학생 지우가 수영장 매표소에서 입장권을 사고 있어. 지우를 영어로 'juvenile'이라고 부를 수 있을까?",
+   "choices": [
+    "응, juvenile 맞아",
+    "아니, juvenile 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, juvenile 맞아",
+   "why": "맞아! 열네 살 지우는 아직 어른이 안 된 중학생이잖아. 그래서 지우는 바로 juvenile인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "뉴스에 나온 네 사람이야. 이 중에서 'juvenile'이라고 부를 수 있는 사람은 누구일까?",
+   "choices": [
+    "마트에서 물건을 훔친 마흔 살 아저씨",
+    "과학 대회에서 상을 받은 열다섯 살 학생",
+    "회사에 다닌 지 십 년 된 서른 살 삼촌",
+    "쉰 살인데 스무 살처럼 보이는 배우"
+   ],
+   "answer_index": 1,
+   "answer": "과학 대회에서 상을 받은 열다섯 살 학생",
+   "why": "맞아! 열다섯 살 학생은 아직 어른이 안 됐으니까 딱 juvenile이야. 상을 받은 좋은 일인데도 쓸 수 있는 건, 이 말이 착하고 나쁜 것과 상관없이 나이만 보는 말이라서 그래."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "childish",
+   "kind": "confusable",
+   "from": "vs childish"
+  },
+  {
+   "word": "adult",
+   "kind": "confusable",
+   "from": "어른(adult)"
+  },
+  {
+   "word": "youthful",
+   "kind": "confusable",
+   "from": "젊어 보이는(youthful)"
+  }
+ ],
+ "related_scene": [
+  "crime"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-juvenile",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-juvenile"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/juvenile.webp",
+  "alt": "어른이 아닌 사람을 따로 나누는 버스 요금·영화 관람 등급·법",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

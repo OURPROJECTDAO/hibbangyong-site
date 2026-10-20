@@ -1,0 +1,98 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/correspondence/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/correspondence/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "correspondence",
+ "slug": "correspondence",
+ "url": "https://hibbangyong.com/words/correspondence/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "주고받는 편지(서신) — 사람이나 회사끼리 보내고 받는 편지·메일, 또는 그렇게 글을 주고받는 일",
+ "gloss_ko": "주고받는 편지",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "학교 행정실엔 매일 편지랑 메일이 들어오고, 또 나가.",
+  "학부모가 보낸 거, 학교가 답한 거, 이렇게 누군가에게 보내고 받는 글을 통틀어 correspondence라고 해. 글을 주고받는 일 자체를 말할 때도 있어.",
+  "손편지든 이메일이든, 친구끼리든 회사끼리든 다 들어가. 아직 답 못 한 편지가 쌓여 있어도 그것도 correspondence야.",
+  "근데 받을 사람 없이 쓴 일기나 모두에게 붙여 두는 공지문, 얼굴 보고 나눈 말은 아니야."
+ ],
+ "scene": "학교 행정실에 매일 들어오고 나가는 편지와 메일",
+ "examples": [
+  {
+   "en": "The company's correspondence with its customers is all saved on the computer.",
+   "ko": "그 회사가 손님들이랑 주고받은 메일이며 편지는 전부 컴퓨터에 저장돼 있어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "지우는 호주에 사는 펜팔 친구와 1년 동안 편지를 보내고 받았어. 서랍에 모아 둔 그 편지 묶음, 이것도 'correspondence'야?",
+   "choices": [
+    "응, correspondence 맞아",
+    "아니, correspondence 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, correspondence 맞아",
+   "why": "맞아! 지우가 호주 펜팔 친구한테 보내고, 그 친구한테서 받은 편지들이잖아. 누군가랑 주고받은 편지를 모은 거니까 바로 그게 correspondence야."
+  },
+  {
+   "type": "ox",
+   "question": "지우는 명절에 할머니 댁에 가서 할머니와 마주 앉아 한 시간 동안 이야기를 했어. 그때 나눈 그 이야기, 이것도 'correspondence'야?",
+   "choices": [
+    "응, correspondence 맞아",
+    "아니, correspondence 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, correspondence 아니야",
+   "why": "맞아! 지우는 할머니랑 마주 앉아서 말로 이야기를 나눈 거잖아. correspondence는 편지나 메일처럼 글로 보내고 받는 거라서, 얼굴 보고 나눈 이야기는 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "두 회사의 법무팀이 1년 동안 계약 조건을 놓고 업무 이메일을 수십 통 주고받았어. 이 이메일들도 'correspondence'야?",
+   "choices": [
+    "응, correspondence 맞아",
+    "아니, correspondence 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, correspondence 맞아",
+   "why": "맞아! 두 회사 법무팀이 1년 동안 수십 통 주고받은 업무 이메일도, 받을 사람한테 보내고 답을 받은 글이니까 바로 correspondence인 거야. 딱딱한 계약 얘기여도 똑같아."
+  }
+ ],
+ "synonyms": [
+  "agreement"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "mail",
+   "kind": "confusable",
+   "from": "vs mail"
+  },
+  {
+   "word": "letter",
+   "kind": "confusable",
+   "from": "vs letter"
+  }
+ ],
+ "related_scene": [
+  "correspondent"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-correspondence",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-correspondence"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/correspondence.webp",
+  "alt": "학교 행정실에 매일 들어오고 나가는 편지와 메일",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

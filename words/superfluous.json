@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/superfluous/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/superfluous/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "superfluous",
+ "slug": "superfluous",
+ "url": "https://hibbangyong.com/words/superfluous/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "불필요한 — 이미 충분한데 그 위에 더 얹혀서 없어도 되는",
+ "gloss_ko": "없어도 되는 군더더기",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "필통에 지우개가 이미 하나 있는데, 엄마가 새 지우개를 또 넣어 줬어.",
+  "그 지우개는 멀쩡해. 고장 난 데도 없어. 그냥 지금은 없어도 되는 거야.",
+  "이미 충분한데 그 위에 더 얹혀서 필요 없는 것, 그게 superfluous야. 글에 같은 말을 한 번 더 쓴 문장도 그래.",
+  "망가져서 쓸모없는 거랑은 달라. 물건 자체는 괜찮은데 하나 더라서 남는 거야."
+ ],
+ "scene": "이미 지우개가 있는 필통에 새 지우개를 또 넣음",
+ "examples": [
+  {
+   "en": "Mom said the second coat was superfluous, but I wore it anyway.",
+   "ko": "엄마는 코트를 하나 더 입는 건 괜히 껴입는 거라고 했는데, 난 그냥 입었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "민수가 소풍 가방에 도시락을 쌌어. 가방 안에 숟가락이 이미 하나 들어 있는데, 숟가락을 하나 더 넣었어. 나중에 넣은 그 숟가락은 'superfluous'야?",
+   "choices": [
+    "응, superfluous 맞아",
+    "아니, superfluous 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, superfluous 맞아",
+   "why": "맞아! 가방에 숟가락이 이미 하나 있으니까 도시락 먹을 준비는 끝난 거야. 나중에 넣은 숟가락은 멀쩡해도 없어도 되는 하나 더라서, 바로 그게 superfluous인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "지호네 집에는 현관문 열쇠가 딱 하나밖에 없어. 지호가 아침에 학교 가면서 그 열쇠를 챙겼어. 그 열쇠는 'superfluous'야?",
+   "choices": [
+    "응, superfluous 맞아",
+    "아니, superfluous 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, superfluous 아니야",
+   "why": "맞아! 지호네 집 열쇠는 딱 하나뿐이라서, 그게 없으면 지호는 집에 못 들어가. 이미 있는데 하나 더 얹힌 게 아니라 꼭 필요한 열쇠니까 superfluous가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "민지가 비 오는 날에 쓰는 우산 네 개를 떠올렸어. 그중 'superfluous'라고 부르기에 가장 알맞은 우산은?",
+   "choices": [
+    "이미 우산을 챙긴 날 가방에 하나 더 넣은 새 우산",
+    "살이 부러져서 아예 펼 수 없게 된 낡은 우산",
+    "비가 쏟아지는 날 집에 딱 하나밖에 없는 우산",
+    "크기가 너무 작아서 어깨가 다 젖게 되는 우산"
+   ],
+   "answer_index": 0,
+   "answer": "이미 우산을 챙긴 날 가방에 하나 더 넣은 새 우산",
+   "why": "맞아! 이미 우산을 챙긴 날에 하나 더 넣은 거라서, 그 새 우산은 멀쩡해도 지금은 없어도 되잖아. 이미 충분한데 그 위에 더 얹힌 거, 바로 그게 superfluous야."
+  }
+ ],
+ "synonyms": [
+  "extra",
+  "redundant",
+  "spare"
+ ],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-superfluous",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-superfluous"
+ },
+ "image": null
+}

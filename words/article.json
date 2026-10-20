@@ -1,0 +1,99 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/article/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/article/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "article",
+ "slug": "article",
+ "url": "https://hibbangyong.com/words/article/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "글 — 신문·잡지·인터넷에 실린, 한 가지를 다룬 글 한 편",
+ "gloss_ko": "글",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "엄마가 잡지를 펼쳤어. 종이 한 장에 글이 여러 덩어리로 나뉘어 있거든?",
+  "하나는 어제 축구 경기가 어땠는지, 옆에는 판다가 뭘 먹고 사는지, 아래는 동네에 새 도서관이 생긴다는 얘기. 이렇게 따로 떨어져서 한 가지를 다루는 글 한 덩어리가 article이야.",
+  "소식일 수도, 뭘 알려주는 것일 수도, 이건 잘못됐다고 따지는 것일 수도 있어. 길든 짧든, 종이든 인터넷 화면이든 상관없어.",
+  "지어낸 이야기랑은 달라. 진짜 있는 걸 두고 쓴 게 어딘가에 실린 한 편, 그게 article이야."
+ ],
+ "scene": "잡지 지면 위에 글 덩어리들이 여러 개로 나뉘어 있는 장면",
+ "examples": [
+  {
+   "en": "Dad read an article about why the buses will stop running next week.",
+   "ko": "아빠가 다음 주에 버스가 왜 안 다니는지 쓴 글을 읽었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "삼촌이 인터넷에서 어떤 화면을 열었어. 제목이 붙어 있고, 그 아래에 우리 동네 지하철역 계단이 언제 새로 고쳐지는지를 기자가 취재해서 쓴 글이 쭉 이어져 있어. 이게 'article'이야?",
+   "choices": [
+    "응, article 맞아",
+    "아니, article 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, article 맞아",
+   "why": "맞아! 제목이 딱 붙어 있고, 지하철역 계단 고치는 일 하나만 두고 기자가 진짜로 알아보고 쓴 글 한 편이잖아. 인터넷 화면에 떠 있어도 이렇게 실린 글 한 덩어리면 그게 바로 article인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "형이 편의점에서 신문 한 부를 사 왔어. 접힌 종이가 여러 장 겹쳐 있고, 안에는 글이 열 편 넘게 들어 있어. 형이 손에 든 이 신문 한 부 통째로가 'article'이야?",
+   "choices": [
+    "응, article 맞아",
+    "아니, article 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, article 아니야",
+   "why": "맞아! 형이 손에 든 건 글 여러 편을 한꺼번에 묶어 놓은 종이 뭉치잖아. article은 그 안에 들어 있는 글 한 편, 그러니까 축구 경기 얘기 한 덩어리 같은 거야. 묶음 전체는 신문이고, 그 속의 한 편이 article인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "잡지 한 권을 펼쳤더니 안에 이런 것들이 들어 있었어. 이 중에서 'article'인 건 어느 걸까?",
+   "choices": [
+    "잡지 뒤쪽에 실린, 마법 사자가 하늘을 나는 얘기를 작가가 지어내서 쓴 것",
+    "잡지 가운데에 크게 실린 자동차 사진 한 장과, 그 밑에 붙은 이름표",
+    "잡지 맨 앞에 있는, 몇 쪽에 뭐가 나오는지 쪽 번호만 죽 적어 놓은 것",
+    "잡지 안쪽에 실린, 판다가 대나무를 어떻게 먹는지 제목 달고 설명해 놓은 것"
+   ],
+   "answer_index": 3,
+   "answer": "잡지 안쪽에 실린, 판다가 대나무를 어떻게 먹는지 제목 달고 설명해 놓은 것",
+   "why": "맞아! 판다가 대나무를 어떻게 먹는지, 진짜 있는 걸 한 가지 딱 붙잡아서 제목까지 달고 쭉 설명해 놨잖아. 그렇게 한 가지를 다뤄서 실린 글 한 덩어리, 그게 바로 article인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "essay",
+   "kind": "confusable",
+   "from": "vs essay"
+  },
+  {
+   "word": "story",
+   "kind": "confusable",
+   "from": "vs story"
+  }
+ ],
+ "related_scene": [
+  "edit",
+  "editorial"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-article",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-article"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/article.webp",
+  "alt": "잡지 지면 위에 글 덩어리들이 여러 개로 나뉘어 있는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

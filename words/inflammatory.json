@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/inflammatory/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/inflammatory/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "inflammatory",
+ "slug": "inflammatory",
+ "url": "https://hibbangyong.com/words/inflammatory/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "여럿을 화나게 하는(선동적인) — 여러 사람을 화나게 하고 들끓게 만들 만한 (말·글·행동)",
+ "gloss_ko": "여럿을 화나게 하는",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "학생회 선거 때 누가 반 단톡방에 글을 올렸어. 옆 반 후보가 우리 반을 무시한다는 내용이야.",
+  "사실인지도 모르는데, 읽은 애들이 하나둘 부글부글 끓더니 분위기가 확 험해졌어.",
+  "이렇게 여러 사람 속에 화를 확 지피는 말이나 글, 행동이 inflammatory야. 뉴스에서 정치인 발언에도 똑같이 써.",
+  "그냥 버릇없는 말이나 의견이 갈리는 얘기랑은 달라. 욕이 있든 없든, 사람들 화에 불을 붙이면 이거야. 가운데 flam이 '불꽃'이라는 뿌리야. flame(불꽃)이랑 같은 집안이지."
+ ],
+ "scene": "학생회 선거 때 옆 반 후보가 우리 반을 무시한다는 단톡방 글에 반 애들이 들끓음",
+ "examples": [
+  {
+   "en": "Someone posted an inflammatory message in our class chat.",
+   "ko": "누가 우리 반 단톡방에 애들 화를 확 돋우는 글을 올렸어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "아파트 주민 게시판에 '관리사무소가 관리비를 몰래 빼돌린다'는 글이 올라왔어. 확인된 건 없는데, 읽은 주민들이 너도나도 흥분해서 댓글로 들고일어났어. 이 글은 'inflammatory'야?",
+   "choices": [
+    "응, inflammatory 맞아",
+    "아니, inflammatory 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, inflammatory 맞아",
+   "why": "맞아! 확인된 것도 없는 얘기인데 읽은 주민들이 너도나도 흥분해서 들고일어났잖아. 이렇게 여러 사람 화에 불을 붙인 글이라서 바로 inflammatory인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "야구장에서 판정 때문에 관중들이 흥분해 소리를 지르고 있었어. 그때 장내 방송이 차분하게 판정 이유를 설명해 줬고, 관중들이 하나둘 자리에 앉으며 조용해졌어. 이 방송은 'inflammatory'야?",
+   "choices": [
+    "응, inflammatory 맞아",
+    "아니, inflammatory 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, inflammatory 아니야",
+   "why": "맞아! 소리 지르던 관중들이 방송을 듣고 하나둘 자리에 앉아 조용해졌잖아. 화에 불을 붙인 게 아니라 오히려 가라앉혔으니까 inflammatory랑은 정반대인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "반 게시판에 글 네 개가 올라왔어. 이 중 'inflammatory'라고 부르기 가장 알맞은 글은?",
+   "choices": [
+    "한 친구 질문에만 버릇없게 답해서 그 친구가 기분 상한 글",
+    "반티 색 투표를 올렸는데 찬성과 반대가 딱 반반 나온 글",
+    "옆 반 탓만 콕 집어 써서 읽은 애들이 옆 반에 부글부글한 글",
+    "전학 가는 친구 소식을 알려서 읽은 애들이 다 울컥한 글"
+   ],
+   "answer_index": 2,
+   "answer": "옆 반 탓만 콕 집어 써서 읽은 애들이 옆 반에 부글부글한 글",
+   "why": "맞아! 옆 반 탓만 콕 집어 써서 읽은 애들이 한꺼번에 옆 반에 부글부글했잖아. 여러 사람한테 화가 번지게 만든 글이니까 이게 딱 inflammatory야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-inflammatory",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-inflammatory"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/inflammatory.webp",
+  "alt": "학생회 선거 때 옆 반 후보가 우리 반을 무시한다는 단톡방 글에 반 애들이 들끓음",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

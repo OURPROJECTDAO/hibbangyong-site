@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/absent/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/absent/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "absent",
+ "slug": "absent",
+ "url": "https://hibbangyong.com/words/absent/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "없는 — 와야 할 자리에 안 와서 빠진",
+ "gloss_ko": "없는",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "아침에 교실 딱 들어갔는데, 짝꿍 자리가 텅 비었어.",
+  "가방도 없고 의자도 그대로야. 오늘 하루 종일 안 왔거든.",
+  "물건이 없어진 게 아니라, 원래 와야 할 애가 그 자리에 안 온 거야.",
+  "이렇게 와야 할 사람이 그 자리에 안 온 걸 absent라고 해."
+ ],
+ "scene": "아침 교실에서 텅 빈 짝꿍 자리를 본 장면",
+ "examples": [
+  {
+   "en": "My best friend was absent from school today because she was sick.",
+   "ko": "제일 친한 친구가 아파서 오늘 학교에 안 왔어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "오늘 우리 반 단체 사진을 찍었어. 민수는 감기에 걸려서 오늘 학교에 아예 안 왔어. 민수는 오늘 'absent'였어?",
+   "choices": [
+    "응, absent 맞아",
+    "아니, absent 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, absent 맞아",
+   "why": "맞아! 민수는 감기에 걸려서 오늘 학교에 아예 안 왔잖아. 와야 할 교실에 안 온 거라서, 바로 그게 absent인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "피아노 학원에서 선생님이 이름을 부르자 지우가 피아노 의자에 앉아 손을 들었어. 지우는 'absent'야?",
+   "choices": [
+    "응, absent 맞아",
+    "아니, absent 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, absent 아니야",
+   "why": "맞아! 이름 부르는데 그 자리에 딱 앉아서 손까지 들었잖아. 와야 할 애가 자리에 와 있는 거니까 absent가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "오늘 교실에서 'absent'인 짝꿍은 누구야?",
+   "choices": [
+    "오늘 하루 종일 교실에 안 온 짝꿍",
+    "교실 자기 자리에 앉아 그림 그리는 짝꿍",
+    "잠깐 물 마시러 나갔다 금방 돌아온 짝꿍",
+    "오늘 처음 전학 와서 자리에 앉은 짝꿍"
+   ],
+   "answer_index": 0,
+   "answer": "오늘 하루 종일 교실에 안 온 짝꿍",
+   "why": "맞아! 오늘 그 자리에 와 있어야 하는데 하루 종일 안 왔잖아. 와야 할 애가 자리에 안 온 거, 그게 바로 absent인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "away",
+   "kind": "confusable",
+   "from": "vs away"
+  }
+ ],
+ "related_scene": [
+  "absentee"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-absent",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-absent"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/absent.webp",
+  "alt": "아침 교실에서 텅 빈 짝꿍 자리를 본 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,99 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/opinion/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/opinion/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "opinion",
+ "slug": "opinion",
+ "url": "https://hibbangyong.com/words/opinion/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "의견 — 확인하면 답이 하나로 딱 정해지는 사실이 아니라, 사람마다 갈릴 수 있는 생각이나 판단",
+ "gloss_ko": "의견",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "지금 밖에 비 와. 이건 창밖만 보면 누구나 똑같이 말해. 갈릴 게 없거든.",
+  "그런데 비 오는 날이 제일 좋아, 는 어때? 옆에 앉은 애는 제일 싫대. 둘 다 틀린 게 아니야.",
+  "이렇게 사람마다 갈릴 수 있는 생각, 그게 opinion이야. 그냥 툭 떠오른 말이나 방법이랑은 달라. 뭔가를 두고 나는 이렇다고 봐, 하는 거거든.",
+  "좋아 싫어만 그런 게 아니야. 의사 선생님이 제가 보기엔 약이 낫겠어요 하는 것도, 다른 의사는 다르게 볼 수 있으니까 그것도 opinion이야."
+ ],
+ "scene": "창밖 비를 두고 갈릴 게 없는 말과 갈리는 말",
+ "examples": [
+  {
+   "en": "My mom asked another doctor for his opinion about my cough.",
+   "ko": "엄마는 내 기침에 대해 다른 의사 선생님 의견을 물어봤어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "급식으로 나온 미역국을 두고 지호가 말했어. \"나는 미역국이 우리 학교 반찬 중에 제일 맛있어.\" 옆자리 친구는 \"난 미역국이 제일 맛없는데\" 라고 했어. 지호가 한 말은 'opinion'이야?",
+   "choices": [
+    "응, opinion 맞아",
+    "아니, opinion 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, opinion 맞아",
+   "why": "맞아! 지호는 미역국이 제일 맛있다고 했는데 옆자리 친구는 제일 맛없대. 같은 미역국을 두고 둘이 딱 갈렸잖아. 이렇게 사람마다 다르게 볼 수 있는 생각이 바로 opinion이야."
+  },
+  {
+   "type": "ox",
+   "question": "운동장에서 줄자로 재보고 민서가 말했어. \"이 줄넘기 줄은 이 미터야.\" 다시 재도 똑같이 이 미터가 나왔어. 민서가 한 말은 'opinion'이야?",
+   "choices": [
+    "응, opinion 맞아",
+    "아니, opinion 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, opinion 아니야",
+   "why": "그래, 이건 opinion이 아니야. 줄자로 재면 누가 재도 똑같이 이 미터가 나오니까, 다르게 말할 수가 없거든. 이렇게 답이 하나로 딱 나오는 건 사실이야."
+  },
+  {
+   "type": "choice",
+   "question": "병원에서 네 사람이 한마디씩 했어. 이 중에서 'opinion'을 말한 사람은 누구일까?",
+   "choices": [
+    "의사: 제가 보기엔 수술보다 약이 더 나을 것 같아요.",
+    "간호사: 체온계로 재 보니 열이 삼십팔 도예요.",
+    "약사: 이 약은 하루에 세 번 먹게 정해져 있어요.",
+    "엄마: 어제부터 기침을 하기 시작했어요."
+   ],
+   "answer_index": 0,
+   "answer": "의사: 제가 보기엔 수술보다 약이 더 나을 것 같아요.",
+   "why": "맞아! 의사 선생님이 제가 보기엔 약이 더 나을 것 같다고 했잖아. 다른 의사는 수술이 낫다고 볼 수도 있거든. 이렇게 사람마다 갈릴 수 있는 생각이라서 바로 그게 opinion인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "fact"
+ ],
+ "confusable": [
+  {
+   "word": "idea",
+   "kind": "confusable",
+   "from": "머리에 툭 떠오른 생각·방법 아무거나(idea)"
+  }
+ ],
+ "related_scene": [
+  "comment",
+  "consultation",
+  "divergent",
+  "editorial",
+  "poll"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-opinion",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-opinion"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/opinion.webp",
+  "alt": "창밖 비를 두고 갈릴 게 없는 말과 갈리는 말",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

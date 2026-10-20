@@ -1,0 +1,89 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/persuade/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/persuade/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "persuade",
+ "slug": "persuade",
+ "url": "https://hibbangyong.com/words/persuade/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "말로 남의 마음을 돌려서 그렇게 하게 만들다",
+ "gloss_ko": "말로 마음을 돌리게 하다",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "형이 자꾸 말했어. 이게 더 재밌다고, 너도 해 보면 좋아할 거라고.",
+  "처음엔 싫었거든? 근데 듣다 보니 내 마음이 슬그머니 돌아섰어. 그래서 내가 하자고 했어.",
+  "붙잡고 억지로 끌고 간 게 아니야. 말로 마음을 돌린 거야. 좋은 쪽으로 돌릴 때도, 안 좋은 쪽으로 꾈 때도 똑같이 이래.",
+  "그게 persuade야."
+ ],
+ "scene": "형이 다른 놀이를 하자고 말해서 내 마음이 돌아선 상황",
+ "examples": [
+  {
+   "en": "My brother persuaded me to skip my homework, and then I got in trouble.",
+   "ko": "형이 숙제를 빼먹으라고 나를 설득해서 결국 혼났어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "네 아이가 각자 친구를 자기 쪽으로 오게 하려고 했어. 이 중에서 친구를 'persuade' 한 아이는 누구야?",
+   "choices": [
+    "말 대신 팔을 붙잡고 끌고 갔더니, 친구가 어쩔 수 없이 따라왔어",
+    "몇 번이나 말해 봤지만, 친구 마음은 끝까지 안 움직였어",
+    "왜 그게 나은지 차근차근 말했더니, 친구가 마음을 돌려 그러자고 했어",
+    "친구한테 묻지도 않고, 혼자 정해서 그냥 알려 줬어"
+   ],
+   "answer_index": 2,
+   "answer": "왜 그게 나은지 차근차근 말했더니, 친구가 마음을 돌려 그러자고 했어",
+   "why": "맞아! 왜 그게 나은지 차근차근 말했더니 친구 마음이 슬그머니 돌아섰잖아. 말로 마음을 돌린 거, 그게 바로 persuade야."
+  },
+  {
+   "type": "choice",
+   "question": "쉬는 시간에 네 아이가 각자 옆자리 친구한테 말을 걸었어. 이 중에서 친구를 'persuade' 한 아이는 누구야?",
+   "choices": [
+    "급식실이 어디냐고 묻는 친구한테, 계단으로 내려가는 길을 알려 줬어.",
+    "어제 발을 밟은 게 마음에 걸려서, 친구한테 미안하다고 사과했어.",
+    "화단에 물 주기 싫다던 친구한테 왜 해 볼 만한지 말했더니, 친구가 그러자며 같이 줬어.",
+    "우산을 잃어버려 시무룩한 친구한테, 웃긴 이야기를 해 줘서 웃겼어."
+   ],
+   "answer_index": 2,
+   "answer": "화단에 물 주기 싫다던 친구한테 왜 해 볼 만한지 말했더니, 친구가 그러자며 같이 줬어.",
+   "why": "맞아! 하기 싫다던 친구가 네 말을 듣고 스스로 마음을 바꿔서 같이 했잖아. 말로 마음을 돌린 거, 그게 바로 persuade야."
+  },
+  {
+   "type": "choice",
+   "question": "방에 블록이 잔뜩 널렸어. 네 아이가 각자 동생한테 이렇게 했어. 이 중에서 동생을 'persuade' 한 아이는 누구야?",
+   "choices": [
+    "블록을 같이 치우자고 몇 번이나 말했지만, 동생은 끝까지 싫다고 했어.",
+    "동생이 쌓은 블록이 몇 층인지 하나씩 세어서, 숫자를 말해 줬어.",
+    "동생 옆에 앉아 블록을 한 움큼씩 집어, 상자에 말없이 넣어 줬어.",
+    "처음엔 싫다던 동생한테 같이 치우면 금방 끝나고 더 놀 수 있다고 말했더니, 동생이 알겠다며 같이 치웠어."
+   ],
+   "answer_index": 3,
+   "answer": "처음엔 싫다던 동생한테 같이 치우면 금방 끝나고 더 놀 수 있다고 말했더니, 동생이 알겠다며 같이 치웠어.",
+   "why": "맞아! 동생은 처음엔 싫다고 했는데, 같이 치우면 금방 끝나고 더 놀 수 있다는 말을 듣고 마음이 바뀌어서 같이 치웠잖아. 이렇게 말로 동생 마음을 돌려서 치우게 만든 게 바로 persuade인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-persuade",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-persuade"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/persuade.webp",
+  "alt": "형이 다른 놀이를 하자고 말해서 내 마음이 돌아선 상황",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

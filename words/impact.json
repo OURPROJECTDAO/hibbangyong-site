@@ -1,0 +1,91 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/impact/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/impact/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "impact",
+ "slug": "impact",
+ "url": "https://hibbangyong.com/words/impact/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "영향 — 어떤 일이 다른 것을 크게 바꿔 놓는 힘",
+ "gloss_ko": "영향",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "돌 하나가 연못에 퐁당 떨어졌어.",
+  "근데 그 자리만 출렁이는 게 아니라 물결이 저 끝까지 쫙 퍼지지? 딱 부딪힌 힘이 멀리멀리 바꿔 놓는 거야.",
+  "꼭 쾅 부딪히는 것만은 아니야. 소식이나 일 하나가 사람들 마음을 확 흔들어 놓을 때도 써.",
+  "그렇게 뭔가가 다른 것에 크게 남기는 자국, 그게 impact야."
+ ],
+ "scene": "돌이 연못에 떨어져 물결이 끝까지 퍼지는 장면",
+ "examples": [
+  {
+   "en": "The storm had a big impact on our town.",
+   "ko": "폭풍 하나가 우리 동네를 완전 뒤집어 놨어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "우리 반에 새 친구가 온 뒤로 반 분위기가 확 밝아지고 다들 더 잘 웃게 됐어. 친구가 '새 친구가 우리 반에 큰 impact를 줬어'라고 했어. 이 말이 맞을까?",
+   "choices": [
+    "응, impact 맞아.",
+    "아니, impact 아니야."
+   ],
+   "answer_index": 0,
+   "answer": "응, impact 맞아.",
+   "why": "맞아! 새 친구가 온 뒤로 반 분위기가 확 밝아지고 다들 더 잘 웃게 됐잖아. 새 친구 한 명이 반 전체를 이렇게 크게 바꿔 놓았으니까, 바로 그게 impact인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "큰 바위가 언덕에서 데굴데굴 굴러 내려와 마을 밭을 덮쳤어. 사람들이 이 일은 'impact'가 컸다고 말했어. 그 'impact'는 이 중에 뭘 가리키는 걸까?",
+   "choices": [
+    "바위가 지나간 밭이 몽땅 뭉개져서 마을 사람들이 한참을 고생하게 된 거.",
+    "바위가 밭에 '쿵!' 하고 닿으며 어마어마한 소리를 낸 바로 그 순간.",
+    "바위가 언덕 꼭대기에서 처음 데굴 구르기 시작한 그 지점.",
+    "바위가 밭 가장자리를 살짝 스치고 지나가 아무 일도 없었던 거."
+   ],
+   "answer_index": 0,
+   "answer": "바위가 지나간 밭이 몽땅 뭉개져서 마을 사람들이 한참을 고생하게 된 거.",
+   "why": "맞아! 바위가 지나간 뒤에 밭이 몽땅 뭉개져서 사람들이 한참 고생하게 됐잖아. 그렇게 뒤에 크게 남은 자국이랑 바뀐 일, 그게 바로 impact야."
+  },
+  {
+   "type": "ox",
+   "question": "내가 연필 색을 파란색에서 초록색으로 살짝 바꿨는데, 아무도 눈치 못 챌 만큼 작은 차이만 생겼어. 친구가 '이것도 impact가 있는 거야'라고 했어. 맞는 말일까?",
+   "choices": [
+    "응, impact 맞아.",
+    "아니, impact 아니야."
+   ],
+   "answer_index": 1,
+   "answer": "아니, impact 아니야.",
+   "why": "그래, 아니라고 한 거 정말 잘 봤어! 연필 색을 살짝 바꿨는데 아무도 눈치 못 챌 만큼 조그만 차이만 났잖아. impact는 연못에 돌 떨어지면 물결이 저 끝까지 쫙 퍼지듯 크게 확 흔들어 놓는 힘이거든. 이렇게 티도 안 날 만큼 작은 건 impact라고 하기엔 너무 작아."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "effect",
+   "kind": "confusable",
+   "from": "vs effect"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-impact",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-impact"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/impact.webp",
+  "alt": "돌이 연못에 떨어져 물결이 끝까지 퍼지는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

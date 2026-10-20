@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/contrast/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/contrast/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "contrast",
+ "slug": "contrast",
+ "url": "https://hibbangyong.com/words/contrast/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "대 보면 확 드러나는 다른 점 — 둘을 맞대 보니 차이가 도드라지는 것",
+ "gloss_ko": "대 보면 확 드러나는 다른 점",
+ "level": {
+  "code": "L6",
+  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "뜨거운 물에 손 담갔다가 바로 찬물에 넣어봐. 찬물이 진짜 시리지? 그냥 찬물만 만졌을 땐 이 정도까진 아니거든.",
+  "둘을 대 보니까 다른 게 툭 튀어나온 거야. 꼭 옆에 나란히 붙어 있어야 하는 건 아니야. 지난겨울 텅 빈 골목이랑 지금 북적이는 골목처럼, 머릿속에서 대 봐도 똑같이 튀어나와.",
+  "그냥 '둘이 좀 다르네' 하고 마는 거랑은 달라. 대 봤더니 그 다름이 눈에 콱 박히는 거야.",
+  "그렇게 툭 튀어나온 다름, 이게 contrast야."
+ ],
+ "scene": "뜨거운 물에 담근 손을 곧바로 찬물로 옮기는 순간",
+ "examples": [
+  {
+   "en": "I felt the contrast right away when I moved my hand from the hot water to the cold water.",
+   "ko": "뜨거운 물에 있던 손을 찬물에 넣자마자 차이가 확 느껴졌어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "민서가 아주 매운 떡볶이를 한 입 먹고 나서 곧바로 흰 우유를 한 모금 마셨어. 우유가 평소보다 훨씬 밍밍하고 부드럽게 느껴졌어. 우유만 마셨을 땐 이 정도로 느껴진 적이 없었대. 이게 'contrast'야?",
+   "choices": [
+    "응, contrast 맞아",
+    "아니, contrast 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, contrast 맞아",
+   "why": "맞아! 매운 걸 먹고 나서 바로 대 봤더니 우유가 훨씬 밍밍하게 느껴진 거잖아. 뜨거운 물 담갔다가 찬물에 손 넣으면 더 시린 거랑 똑같아. 그렇게 툭 튀어나온 다름, 그게 바로 contrast야."
+  },
+  {
+   "type": "ox",
+   "question": "지호가 새로 산 연필과 필통에 있던 연필을 나란히 놓고 자로 재 봤어. 길이도 같고 굵기도 같고 색도 같았어. 대 봐도 다른 데가 하나도 없었어. 이게 'contrast'야?",
+   "choices": [
+    "응, contrast 맞아",
+    "아니, contrast 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, contrast 아니야",
+   "why": "맞아! 자로 재 봤는데 길이도 굵기도 색도 다 똑같았잖아. 대 봤는데 툭 튀어나오는 다름이 하나도 없으면 contrast가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "선생님이 아이 넷한테 우리 동네 골목 얘기를 해 보라고 했어. 'contrast'라는 말이 딱 어울리는 건 누구 얘기일까?",
+   "choices": [
+    "지난겨울 이 골목은 텅 비어 조용했는데 올여름엔 사람들로 시끌시끌해. 두 때를 대 보니 같은 골목 같지가 않아",
+    "지난겨울 이 골목도 사람들로 시끌시끌했고 올여름 이 골목도 시끌시끌해. 두 때를 대 봐도 그냥 그대로야",
+    "이 골목 담벼락 벽돌이 건너편 담벼락 벽돌보다 아주 조금 색이 옅어. 코를 대고 오래 봐야 겨우 알아채",
+    "이 골목 빵집은 아침마다 빵 냄새가 아주 진하게 나. 그 앞을 지날 때마다 코가 먼저 알아채"
+   ],
+   "answer_index": 0,
+   "answer": "지난겨울 이 골목은 텅 비어 조용했는데 올여름엔 사람들로 시끌시끌해. 두 때를 대 보니 같은 골목 같지가 않아",
+   "why": "맞아! 텅 빈 겨울 골목이랑 시끌시끌한 여름 골목을 나란히 대 보니까 같은 골목인데도 완전히 다른 데처럼 툭 튀어나오지? 그렇게 대 봤더니 다름이 눈에 콱 박히는 게 바로 contrast야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "difference",
+   "kind": "confusable",
+   "from": "vs difference"
+  }
+ ],
+ "related_scene": [
+  "compare"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-contrast",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-contrast"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/contrast.webp",
+  "alt": "뜨거운 물에 담근 손을 곧바로 찬물로 옮기는 순간",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

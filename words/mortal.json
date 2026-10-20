@@ -1,0 +1,98 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/mortal/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/mortal/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "mortal",
+ "slug": "mortal",
+ "url": "https://hibbangyong.com/words/mortal/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "죽음을 피할 수 없는 — 언젠가 반드시 죽게 되어 있는",
+ "gloss_ko": "죽음을 피할 수 없는",
+ "level": {
+  "code": "L6",
+  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "이야기 속 신들은 몇 천 년이 지나도 안 죽잖아. 근데 사람은 달라. 아무리 튼튼해도 언젠가는 끝이 와.",
+  "그렇게 죽음을 피할 길이 없는 걸 mortal이라고 해. 사람도, 강아지도, 큰 나무도 다 그래.",
+  "'지금 아프다'는 뜻은 아니야. 백 살까지 팔팔하게 살아도 mortal이거든? 죽음이 언젠가 온다는 것뿐이야.",
+  "숫자나 노래처럼 원래 살아 있지 않은 건 mortal이 아니야. 살아 있으면서 언젠가 끝이 오는 쪽, 그게 mortal이야."
+ ],
+ "scene": "몇 천 년 안 죽는 이야기 속 신과 끝이 오는 사람을 나란히 놓은 대비 장면",
+ "examples": [
+  {
+   "en": "The old king knew he was mortal, so he chose the next king early.",
+   "ko": "늙은 임금님은 자기도 언젠가 죽는 걸 알고 다음 임금을 일찍 골랐어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "옛날이야기 속 바다의 신은 만 년이 지나도, 십만 년이 지나도 끝을 맞는 날이 절대 오지 않아. 이 신은 mortal이야?",
+   "choices": [
+    "응, mortal 맞아",
+    "아니, mortal 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, mortal 아니야",
+   "why": "맞아! 만 년이 지나도 십만 년이 지나도 끝나는 날이 안 온다잖아. 죽음이 아예 안 찾아오니까 mortal이 아닌 거야. mortal은 언젠가 반드시 끝이 오는 쪽이거든."
+  },
+  {
+   "type": "choice",
+   "question": "교실에서 선생님이 칠판을 가리키며 말했어. \"여기 적어둔 넷 중에 mortal인 게 딱 하나 있어.\" 다음 중 mortal인 것은?",
+   "choices": [
+    "할머니 댁 마당에 사는 누렁 강아지",
+    "공책 첫 줄에 적어 놓은 숫자 8",
+    "어제 다 같이 부른 노래 한 곡",
+    "교실 창틀에 칠해 놓은 파란색"
+   ],
+   "answer_index": 0,
+   "answer": "할머니 댁 마당에 사는 누렁 강아지",
+   "why": "맞아! 강아지는 살아 있는 애잖아. 지금은 마당에서 잘 뛰어놀아도 언젠가는 끝이 오거든. 그렇게 죽음을 피할 길이 없는 게 바로 mortal인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "지호는 아홉 살이야. 아픈 데 하나 없이 매일 운동장을 열 바퀴씩 뛰고 밥도 두 그릇씩 먹어. 지호를 mortal이라고 말할 수 있을까?",
+   "choices": [
+    "응, mortal 맞아",
+    "아니, mortal 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, mortal 맞아",
+   "why": "맞아! 지호가 아무리 튼튼해도 언젠가는 끝이 오잖아. 그러니까 지금 팔팔한 거랑은 상관없이 지호는 mortal인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "immortal"
+ ],
+ "confusable": [
+  {
+   "word": "fatal",
+   "kind": "confusable",
+   "from": "vs fatal"
+  },
+  {
+   "word": "human",
+   "kind": "confusable",
+   "from": "vs human"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-mortal",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-mortal"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/mortal.webp",
+  "alt": "몇 천 년 안 죽는 이야기 속 신과 끝이 오는 사람을 나란히 놓은 대비 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

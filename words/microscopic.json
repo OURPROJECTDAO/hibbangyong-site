@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/microscopic/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/microscopic/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "microscopic",
+ "slug": "microscopic",
+ "url": "https://hibbangyong.com/words/microscopic/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "미세한 — 눈으로는 거의 못 볼 만큼 아주아주 작은",
+ "gloss_ko": "미세한",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "깨끗이 씻은 손에도 세균이 잔뜩 붙어 있어. 근데 아무리 들여다봐도 안 보이지.",
+  "멀리 있거나 숨어 있어서 안 보이는 게 아니야. 크기 자체가 눈으로 못 볼 만큼 작은 거야. 그게 microscopic이야.",
+  "그냥 작은 거랑은 달라. 손톱만 한 구슬은 작아도 다 보이잖아. 이건 그보다 훨씬 더 작은 거야.",
+  "친구가 과자를 진짜 쥐꼬리만큼 떼어 줄 때 과장해서 이 말을 쓰기도 해."
+ ],
+ "scene": "씻은 손에 붙은 안 보이는 세균",
+ "examples": [
+  {
+   "en": "My teacher said our desks are covered in microscopic bugs.",
+   "ko": "선생님이 우리 책상에 눈에도 안 보이는 작은 벌레들이 잔뜩 붙어 있대."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "수족관 다큐에서 길이가 버스 두 대를 이은 것보다 긴 대왕고래가 나왔어. 대왕고래의 몸집은 'microscopic'해?",
+   "choices": [
+    "응, microscopic 맞아",
+    "아니, microscopic 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, microscopic 아니야",
+   "why": "맞아! 대왕고래는 버스 두 대를 이은 것보다 길잖아. microscopic은 눈으로 거의 못 볼 만큼 아주 작은 거라서, 이렇게 거대한(huge) 대왕고래랑은 완전히 반대야."
+  },
+  {
+   "type": "ox",
+   "question": "보건 시간에 선생님이 피 한 방울 속에 들어 있는 적혈구 한 개 이야기를 하셨어. 적혈구 한 개는 'microscopic'해?",
+   "choices": [
+    "응, microscopic 맞아",
+    "아니, microscopic 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, microscopic 맞아",
+   "why": "맞아! 선생님이 피 한 방울 속에 있다고 하신 적혈구 한 개는 맨눈으로 아무리 봐도 안 보일 만큼 작거든. 그래서 바로 microscopic인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "과학 시간에 민지가 어떤 걸 보고 'microscopic'하다고 했어. 민지가 말한 건 뭐였을까?",
+   "choices": [
+    "너무 멀리 있어서 밤하늘에서 안 보이는 별",
+    "손톱보다 작지만 맨눈으로 또렷이 보이는 개미",
+    "물방울 속에 떠다녀도 맨눈엔 안 잡히는 생물",
+    "교실 하나를 꽉 채울 만큼 커다란 공룡 뼈"
+   ],
+   "answer_index": 2,
+   "answer": "물방울 속에 떠다녀도 맨눈엔 안 잡히는 생물",
+   "why": "맞아! 물방울 속에 떠다니는데도 맨눈엔 안 잡히는 건, 멀리 있거나 숨어 있어서가 아니라 생물 크기 자체가 너무 작아서야. 바로 그게 microscopic인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "huge"
+ ],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-microscopic",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-microscopic"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/microscopic.webp",
+  "alt": "씻은 손에 붙은 안 보이는 세균",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

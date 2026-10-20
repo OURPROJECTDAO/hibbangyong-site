@@ -1,0 +1,97 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/harm/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/harm/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "harm",
+ "slug": "harm",
+ "url": "https://hibbangyong.com/words/harm/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "누가 다치거나, 마음·물건이 나빠지는 나쁜 일",
+ "gloss_ko": "다치게 하는 일",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "봐봐, 강아지를 너무 꽉 안으면 강아지가 끙— 하고 아파하지?",
+  "이렇게 누가 다치거나 나빠지는 나쁜 일, 그게 harm이야.",
+  "꼭 몸만 아픈 게 아니야 — 마음이 아프거나, 물건이 망가지는 것도 harm이거든?",
+  "그리고 '다칠 뻔'한 거랑은 달라. 진짜로 나빠져야 harm이야."
+ ],
+ "scene": "강아지를 꽉 안자 강아지가 아파함 = 누가 나빠지는 나쁜 일.",
+ "examples": [
+  {
+   "en": "Hugging the puppy too tightly can cause it harm.",
+   "ko": "강아지를 너무 꽉 안으면 강아지가 다칠 수 있어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "동생이 내가 아끼던 그림책을 욕조 물에 풍덩 빠뜨려서, 그림이 다 번지고 종이가 흐물흐물해져 다시는 못 쓰게 됐어. 이렇게 그림책한테 일어난 일을 'harm'이라고 할 수 있을까?",
+   "choices": [
+    "응, 이건 harm이야.",
+    "아니, 이건 harm이 아니야."
+   ],
+   "answer_index": 0,
+   "answer": "응, 이건 harm이야.",
+   "why": "맞아! 그림책이 물에 빠져서 다시는 못 쓰게 됐잖아. 이렇게 진짜로 물건이 망가져 버린 거, 그게 바로 harm인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "다음 중에서 누군가가 진짜로 'harm'을 입은 상황은 어느 거야?",
+   "choices": [
+    "오빠가 일부러 못된 말을 퍼부어서 내가 펑펑 울었어.",
+    "빠른 차가 코앞까지 와서 부딪힐 뻔한 적이 있었어.",
+    "언니가 무거운 가방을 들어줘서 어깨가 한결 편해졌어.",
+    "주머니에 넣어 둔 동전이 하나도 안 없어지고 그대로 있었어."
+   ],
+   "answer_index": 0,
+   "answer": "오빠가 일부러 못된 말을 퍼부어서 내가 펑펑 울었어.",
+   "why": "맞아! 오빠가 일부러 못된 말을 해서 네 마음이 진짜로 아팠고, 그래서 펑펑 울었잖아. 몸이 아니라 마음이 다친 것도 harm인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "친구랑 뛰놀다 살짝 부딪혀서 순간 '아야!' 했지만, 멍도 안 들고 곧바로 멀쩡해졌어. 이것도 'harm'이라고 할 수 있어?",
+   "choices": [
+    "응, 맞아 (O)",
+    "아니야 (X)"
+   ],
+   "answer_index": 1,
+   "answer": "아니야 (X)",
+   "why": "맞아! 순간 아팠어도 멍도 안 들고 금방 멀쩡해졌으니까, 나빠진 게 하나도 안 남은 거잖아. 그래서 이건 harm이 아니라고 한 네가 딱 맞았어. harm은 진짜로 나빠진 게 남아야 하거든."
+  }
+ ],
+ "synonyms": [
+  "damage"
+ ],
+ "antonyms": [
+  "good"
+ ],
+ "confusable": [
+  {
+   "word": "hurt",
+   "kind": "confusable",
+   "from": "vs hurt"
+  }
+ ],
+ "related_scene": [
+  "protect"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-harm",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-harm"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/harm.webp",
+  "alt": "강아지를 꽉 안자 강아지가 아파함 = 누가 나빠지는 나쁜 일.",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

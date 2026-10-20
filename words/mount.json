@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/mount/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/mount/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "mount",
+ "slug": "mount",
+ "url": "https://hibbangyong.com/words/mount/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "올라타다 · 오르다 — 아래에 있다가 위로 올라 무언가 위에 오르다(말·자전거·계단·언덕)",
+ "gloss_ko": "올라타다 · 오르다",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "카우보이가 말 옆에 섰어. 발을 딱 걸고, 폴짝! 말 등 위로 올라타.",
+  "자전거에 훌쩍 올라타는 것도, 계단을 성큼성큼 밟고 위로 오르는 것도 똑같아.",
+  "그냥 '탄다'가 아니라, 아래에 있다가 위로 올라 그 위에 오르는 거거든?",
+  "이게 mount야."
+ ],
+ "scene": "카우보이가 말 옆에서 발을 딛고 폴짝 말 등에 올라타는 장면",
+ "examples": [
+  {
+   "en": "The cowboy grabbed the saddle and quickly mounted his horse.",
+   "ko": "카우보이가 안장을 붙잡고 얼른 말 등에 올라탔어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "아빠가 오토바이 옆에 서 있다가, 발판에 발을 걸고 안장에 앉았어. 이게 'mount'야?",
+   "choices": [
+    "응, mount 맞아",
+    "아니, mount 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, mount 맞아",
+   "why": "맞아! 발판에 발을 딱 걸고 안장 위로 올라가 앉았잖아. 아래에 있다가 위로 올라 그 위에 앉았으니까 바로 그게 mount인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "아빠가 오토바이 안장에 앉아 있다가, 발판에서 발을 떼고 땅에 내려서서 옆에 섰어. 이게 'mount'야?",
+   "choices": [
+    "응, mount 맞아",
+    "아니, mount 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, mount 아니야",
+   "why": "맞아! 안장에 앉아 있다가 땅으로 내려서서 옆에 선 거니까, 위로 오른 게 아니라 아래로 내려온 거잖아. mount는 아래에 있다가 위로 폴짝 올라 그 위에 오르는 거라서, 이건 딱 반대야. 그래서 아니가 맞는 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 친구가 방금 무엇을 했는지 말했어. 'mount'한 친구는 누구일까?",
+   "choices": [
+    "세훈이는 말 옆에 서 있다가, 발을 딛고 몸을 위로 끌어 말 등에 탔어.",
+    "지아는 배 옆 발판을 밟고 위로 디뎌, 배 안으로 들어가 빈자리에 앉았어.",
+    "민수는 말 등에 탄 채로 고삐를 쥐고, 신나게 들판을 달려 나갔어.",
+    "하늘이는 말 등 위에서 다리를 넘겨, 땅으로 미끄러져 내려왔어."
+   ],
+   "answer_index": 0,
+   "answer": "세훈이는 말 옆에 서 있다가, 발을 딛고 몸을 위로 끌어 말 등에 탔어.",
+   "why": "맞아! 말 옆에 서 있다가 발을 딛고 몸을 위로 끌어올려 말 등 위에 오른 거잖아. 아래에 있다가 위로 올라 그 위에 오른 바로 그 순간, 그게 mount인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "dismount"
+ ],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-mount",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-mount"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/mount.webp",
+  "alt": "카우보이가 말 옆에서 발을 딛고 폴짝 말 등에 올라타는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

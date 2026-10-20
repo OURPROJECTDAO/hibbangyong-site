@@ -1,0 +1,91 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/indefinitely/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/indefinitely/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "indefinitely",
+ "slug": "indefinitely",
+ "url": "https://hibbangyong.com/words/indefinitely/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "무기한으로(끝날 날을 안 정하고) — 언제 끝날지 날짜를 정하지 않은 채 계속",
+ "gloss_ko": "끝날 날 없이 계속",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "동네 수영장 문에 종이가 붙었어. '수리 때문에 쉽니다. 다시 여는 날은 아직 안 정해졌어요.'",
+  "다음 주에 열 수도 있고, 내년에 열 수도 있어. 이렇게 끝나는 날을 안 정한 채로 계속되는 게 indefinitely야.",
+  "영원히랑은 달라. 영원히는 끝이 아예 없는 거고, 이건 언젠가 끝날 수는 있는데 그날이 정해져 있지 않은 거야.",
+  "나쁜 일에만 쓰는 것도 아니야. 할머니가 '우리 집에 있고 싶은 만큼 있어도 돼' 하는 것도 indefinitely야."
+ ],
+ "scene": "수리 때문에 다시 여는 날이 안 정해진 동네 수영장",
+ "examples": [
+  {
+   "en": "The pool will be closed indefinitely because of the repairs.",
+   "ko": "수리 때문에 수영장이 언제 다시 열지 모르는 채로 계속 문을 닫는대."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "삼촌이 회사 일로 외국 지사에 가게 됐어. 한국에 돌아오는 날은 회사에서 아직 안 정했대. 삼촌은 거기서 'indefinitely' 지내게 되는 거야?",
+   "choices": [
+    "응, indefinitely 맞아",
+    "아니, indefinitely 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, indefinitely 맞아",
+   "why": "맞아! 삼촌이 한국에 돌아오는 날을 회사가 아직 안 정했잖아. 끝나는 날이 안 정해진 채로 거기서 계속 지내는 거니까 바로 그게 indefinitely야."
+  },
+  {
+   "type": "ox",
+   "question": "형이 여름 캠프에 가게 됐어. 집에 돌아오는 날은 8월 15일로 딱 정해져 있대. 형은 캠프에서 'indefinitely' 지내게 되는 거야?",
+   "choices": [
+    "응, indefinitely 맞아",
+    "아니, indefinitely 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, indefinitely 아니야",
+   "why": "맞아! 형이 돌아오는 날이 8월 15일로 딱 정해져 있잖아. indefinitely는 끝나는 날이 안 정해진 채 계속되는 거라서, 날짜가 박혀 있는 이 캠프는 indefinitely가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "학교 매점 문에 휴업 공지 네 개가 붙었어. 매점을 'indefinitely' 닫는다는 뜻에 맞는 공지는 어느 거야?",
+   "choices": [
+    "건물을 허물어요. 이 자리에서는 다시 열지 않아요.",
+    "방학 두 달 동안 쉬어요. 개학날 아침에 다시 열어요.",
+    "재료가 없어서 쉬어요. 다시 여는 날은 아직 몰라요.",
+    "청소 때문에 쉬어요. 이번 금요일 하루만 닫아요."
+   ],
+   "answer_index": 2,
+   "answer": "재료가 없어서 쉬어요. 다시 여는 날은 아직 몰라요.",
+   "why": "맞아! 재료가 없어서 쉬는데 다시 여는 날은 아직 모른다잖아. 언젠가 다시 열긴 하겠지만 그날이 안 정해졌으니까, 바로 그게 indefinitely 닫는 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "forever",
+   "kind": "confusable",
+   "from": "영원히(forever)"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-indefinitely",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-indefinitely"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/indefinitely.webp",
+  "alt": "수리 때문에 다시 여는 날이 안 정해진 동네 수영장",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

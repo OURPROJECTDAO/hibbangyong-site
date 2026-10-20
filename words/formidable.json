@@ -1,0 +1,91 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/formidable/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/formidable/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "formidable",
+ "slug": "formidable",
+ "url": "https://hibbangyong.com/words/formidable/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "만만치 않은 — 힘이나 실력, 규모가 대단해서 가볍게 볼 수 없는(때로는 조금 겁이 날 만큼)",
+ "gloss_ko": "만만치 않은",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "결승 상대 반에 육상부만 셋이야. 기말 범위는 다섯 단원이고. 옆 반 친구는 책 한 권을 거의 다 외워.",
+  "셋 다 힘이나 실력, 크기가 대단해서 가볍게 볼 수 없잖아. 그게 formidable이야.",
+  "맞서야 하는 상대나 일에도 쓰고, 감탄이 나오는 대단한 능력에도 써.",
+  "그냥 무섭기만 하거나 덩치만 큰 거랑은 달라. 진짜 힘이 있어야 해."
+ ],
+ "scene": "체육대회 결승에서 육상부가 셋이나 있는 상대 반",
+ "examples": [
+  {
+   "en": "Reading all those books before the test was a formidable task for me.",
+   "ko": "시험 전에 그 책들을 다 읽는 건 나한테 진짜 만만치 않은 일이었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "탁구 대회 첫 경기에서 만난 상대가 작년 전국 대회 우승자야. 이 상대는 'formidable'한 상대야?",
+   "choices": [
+    "응, formidable 맞아",
+    "아니, formidable 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, formidable 맞아",
+   "why": "맞아! 작년 전국 대회 우승자면 실력이 진짜로 대단한 거잖아. 가볍게 볼 수 없는 상대니까 바로 formidable인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "오늘 수학 숙제가 한 자리 수 덧셈 세 문제뿐이야. 이 숙제는 'formidable'한 숙제야?",
+   "choices": [
+    "응, formidable 맞아",
+    "아니, formidable 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, formidable 아니야",
+   "why": "맞아! 한 자리 수 덧셈 세 문제는 양도 적고 금방 끝나는 쉬운 숙제잖아. 가볍게 볼 수 있는 일이니까 formidable이 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "다음 중 'formidable'이라고 부르기 가장 알맞은 건?",
+   "choices": [
+    "전교생 이백 명의 이름과 생일을 다 외우는 담임 선생님의 기억력",
+    "한밤중에 혼자 보다가 소리 지르고 꺼 버린 공포 영화 속 귀신 인형",
+    "몸집은 반에서 제일 크지만 팔씨름은 매번 지는 전학생",
+    "응원 소리는 제일 크지만 경기는 매번 지는 옆 반 축구팀"
+   ],
+   "answer_index": 0,
+   "answer": "전교생 이백 명의 이름과 생일을 다 외우는 담임 선생님의 기억력",
+   "why": "맞아! 전교생 이백 명의 이름과 생일을 다 외우는 건 진짜 실력이 대단한 거라서, 그 기억력은 가볍게 볼 수 없잖아. 감탄이 나올 만큼 대단한 능력에도 formidable을 쓰는 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "daunting",
+   "kind": "confusable",
+   "from": "vs daunting"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-formidable",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-formidable"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/formidable.webp",
+  "alt": "체육대회 결승에서 육상부가 셋이나 있는 상대 반",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/steal/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/steal/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "steal",
+ "slug": "steal",
+ "url": "https://hibbangyong.com/words/steal/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "훔치다 — 남의 것을 주인 허락 없이 가져가 자기 것으로 삼는 거",
+ "gloss_ko": "훔치다",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "짝꿍 지우개가 책상에 놓여 있어. 네 거 아니야.",
+  "말도 없이 네 필통에 쏙. 돌려줄 마음도 없어. 몰래 했든 다 보는 앞에서 했든 똑같아.",
+  "물건만 그런 것도 아니야. 친구가 생각해 낸 걸 네가 한 척 가져가도 똑같이 이렇게 말해.",
+  "허락받고 가져갔다가 돌려주는 거랑은 아예 달라. 그게 steal이야."
+ ],
+ "scene": "짝꿍 지우개를 말도 없이 필통에 넣고 안 돌려주는 장면",
+ "examples": [
+  {
+   "en": "Don't steal my cookie — ask me first!",
+   "ko": "내 과자 훔쳐 가지 말고 먼저 물어봐!"
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "도서관 반납대에 놓인 만화책을 지훈이가 사서 선생님께 말하지 않고 가방에 넣어 집으로 가져가서 자기 책장에 꽂아 뒀어. 이게 'steal'이야?",
+   "choices": [
+    "응, steal 맞아",
+    "아니, steal 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, steal 맞아",
+   "why": "맞아! 선생님한테 말도 안 하고 도서관 책을 가져가서 자기 책장에 딱 꽂아 뒀잖아. 허락도 없고 돌려줄 마음도 없으니까 바로 그게 steal인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 아이가 저마다 말썽을 하나씩 피웠어. 이 중에서 'steal'을 한 사람은 누구일까?",
+   "choices": [
+    "짝꿍 지우개를 말도 없이 가져가 자기 필통에 계속 넣어 뒀어",
+    "형한테 물어보고 자전거를 탔는데 약속 시간을 한참 넘겨 돌려줬어",
+    "동생이 안고 있던 인형을 확 잡아채 울려 놓고 곧 다시 쥐여줬어",
+    "친구 로봇을 몰래 만지다가 팔을 부러뜨려 놓고 모른 척했어"
+   ],
+   "answer_index": 0,
+   "answer": "짝꿍 지우개를 말도 없이 가져가 자기 필통에 계속 넣어 뒀어",
+   "why": "맞아! 말도 없이 가져가서 그대로 자기 필통에 넣어 뒀잖아. 허락도 없고 돌려줄 마음도 없는 거, 그게 바로 steal이야."
+  },
+  {
+   "type": "choice",
+   "question": "미술 시간에 네 아이가 저마다 사고를 쳤어. 이 중에서 'steal'을 한 사람은 누구일까?",
+   "choices": [
+    "앞자리 아이가 그리던 도화지에 물통을 엎어서 그림을 다 젖게 만들었어",
+    "뒷자리 아이 의자를 뒤에서 밀어 넘어뜨리고 크게 웃었어",
+    "옆자리 아이 크레파스를 말없이 자기 가방에 넣고 집에 가져가 계속 자기 것처럼 썼어",
+    "청소 당번이었는데 몰래 교실을 빠져나가 놀이터로 갔어"
+   ],
+   "answer_index": 2,
+   "answer": "옆자리 아이 크레파스를 말없이 자기 가방에 넣고 집에 가져가 계속 자기 것처럼 썼어",
+   "why": "맞아! 옆자리 아이는 남의 크레파스를 말도 없이 가져가서 자기 것처럼 계속 썼잖아. 주인 허락 없이 가져가 자기 것으로 삼는 거, 그게 바로 steal인 거야."
+  }
+ ],
+ "synonyms": [
+  "slip"
+ ],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-steal",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-steal"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/steal.webp",
+  "alt": "짝꿍 지우개를 말도 없이 필통에 넣고 안 돌려주는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

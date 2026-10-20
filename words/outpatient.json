@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/outpatient/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/outpatient/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "outpatient",
+ "slug": "outpatient",
+ "url": "https://hibbangyong.com/words/outpatient/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "외래 환자 — 병원에 입원하지 않고, 집에서 오가며 치료받는 환자",
+ "gloss_ko": "외래 환자",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "병원에서 치료를 받고, 밤에는 집에 가서 자는 환자가 있어.",
+  "감기 진료든 정기 검사든, 그날 끝나는 수술이든 다 해당돼.",
+  "기준은 얼마나 아프냐가 아니라 병원에서 지내느냐 아니냐야.",
+  "병실 침대에서 며칠씩 지내는 입원 환자(inpatient)랑은 반대고, 환자를 보러 온 가족도 아니야."
+ ],
+ "scene": "치료받고 밤에는 집에 가서 자는 환자",
+ "examples": [
+  {
+   "en": "My uncle visits the hospital every week as an outpatient.",
+   "ko": "삼촌은 외래 환자라서 매주 병원에 다녀."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "누나가 맹장 수술을 받고 병원 병실에서 닷새 동안 지냈어. 그동안 누나는 'outpatient'야?",
+   "choices": [
+    "응, outpatient 맞아",
+    "아니, outpatient 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, outpatient 아니야",
+   "why": "맞아! 누나는 맹장 수술 받고 병원 병실에서 닷새 동안 지냈잖아. 그렇게 병원에서 지내는 환자는 입원 환자(inpatient)라서 outpatient가 아닌 게 맞아."
+  },
+  {
+   "type": "ox",
+   "question": "아빠가 치과에서 충치 치료를 받고 곧장 회사로 돌아갔어. 이날 아빠는 'outpatient'야?",
+   "choices": [
+    "응, outpatient 맞아",
+    "아니, outpatient 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, outpatient 맞아",
+   "why": "맞아! 아빠는 치과에서 충치 치료를 받고 병원에 머물지 않고 곧장 회사로 돌아갔잖아. 그렇게 치료만 받고 바로 나가면 그게 outpatient야."
+  },
+  {
+   "type": "choice",
+   "question": "네 사람이 병원과 관련된 일을 했어. 이 중 'outpatient'라고 부를 수 있는 사람은 누구일까?",
+   "choices": [
+    "암 치료 주사를 맞고 그날 저녁 집으로 돌아온 이모",
+    "다리를 다쳐서 일주일째 병실 침대에서 지내는 삼촌",
+    "입원한 할머니를 보러 날마다 병원에 가는 엄마",
+    "감기가 심해져서 사흘 동안 병원에서 지낸 동생"
+   ],
+   "answer_index": 0,
+   "answer": "암 치료 주사를 맞고 그날 저녁 집으로 돌아온 이모",
+   "why": "맞아! 암 치료처럼 큰 치료를 받았어도 이모는 그날 저녁 집으로 돌아왔잖아. 병원에서 지내지 않고 오가며 치료받았으니까 바로 그게 outpatient인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "inpatient",
+   "kind": "confusable",
+   "from": "입원 환자(inpatient)"
+  }
+ ],
+ "related_scene": [
+  "clinic"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-outpatient",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-outpatient"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/outpatient.webp",
+  "alt": "치료받고 밤에는 집에 가서 자는 환자",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

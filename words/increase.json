@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/increase/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/increase/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "increase",
+ "slug": "increase",
+ "url": "https://hibbangyong.com/words/increase/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "늘어남 — 전보다 더 많아지거나 더 세진 것, 또 그렇게 더해진 그만큼",
+ "gloss_ko": "늘어남",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "어제 숙제가 두 장이었거든? 근데 오늘은 다섯 장이래. 세 장이 더 붙었어.",
+  "세는 것만 그런 게 아니야. 바람이 어제보다 더 세지는 것도, 우유 값이 전보다 오르는 것도 똑같아. 재보면 전보다 위로 갔다는 뜻이거든.",
+  "'많다'는 말이랑은 달라. 원래부터 많고 비싼 건 안 쳐줘. 전보다 위로 갔어야 해. 그리고 위로 간 그만큼을 가리키기도 해.",
+  "싫은 것도 되고(숙제, 모기, 값) 좋은 것도 돼(용돈, 내 키). 줄어든 거랑은 반대고, 맛만 딴 걸로 바뀐 거랑도 달라. 그게 increase야."
+ ],
+ "scene": "숙제가 두 장에서 다섯 장으로 늘어 세 장이 더 붙은 앵커 장면",
+ "examples": [
+  {
+   "en": "The price of milk showed a small increase again this week.",
+   "ko": "이번 주에도 우유 값이 조금 또 올랐어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "도서관 게시판에 붙은 표를 봤어. 지난주 대출 책 수는 40권, 이번 주는 60권이라고 적혀 있어. 이게 'increase'야?",
+   "choices": [
+    "응, increase 맞아",
+    "아니, increase 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, increase 맞아",
+   "why": "맞아! 40권이었다가 60권이 됐으니까 재보면 전보다 위로 간 거잖아. 스무 권이 더 붙은 거니까 바로 그게 increase인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "교실 물통에 담긴 물이 아침에는 눈금 8까지 있었는데, 점심때 재보니 눈금 3이야. 이게 'increase'야?",
+   "choices": [
+    "응, increase 맞아",
+    "아니, increase 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, increase 아니야",
+   "why": "맞아! 8이었다가 3이 됐으니까 재보니 아래로 간 거잖아. 물이 줄어든 거니까 increase가 아닌 게 맞아."
+  },
+  {
+   "type": "choice",
+   "question": "가게 네 곳이 지난달이랑 이번 달 아이스크림 값을 나란히 붙여놨어. 'an increase'가 있었던 가게는 어디일까?",
+   "choices": [
+    "지난달엔 500원이었는데 이번 달엔 800원인 가게",
+    "지난달엔 800원이었는데 이번 달엔 500원인 가게",
+    "지난달에도 이번 달에도 3000원으로 비싼 가게",
+    "값은 그대론데 맛만 딸기에서 포도로 바뀐 가게"
+   ],
+   "answer_index": 0,
+   "answer": "지난달엔 500원이었는데 이번 달엔 800원인 가게",
+   "why": "맞아! 500원이던 게 800원이 됐잖아. 전보다 위로 올라간 거니까 바로 그게 increase야. 오른 그 300원도 increase라고 불러."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-increase",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-increase"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/increase.webp",
+  "alt": "숙제가 두 장에서 다섯 장으로 늘어 세 장이 더 붙은 앵커 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

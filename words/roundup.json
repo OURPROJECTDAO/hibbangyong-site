@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/roundup/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/roundup/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "roundup",
+ "slug": "roundup",
+ "url": "https://hibbangyong.com/words/roundup/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "주요 소식 정리 — 여러 소식이나 결과를 한데 모아 핵심만 짧게 쭉 훑어 주는 것",
+ "gloss_ko": "소식 모음 정리",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "월요일 아침 교실 방송 떠올려 봐. 지난주 대회 결과, 행사, 공지를 하나씩 짧게 쭉 훑어 주잖아.",
+  "그렇게 여러 개를 모아서 핵심만 한 번에 보여 주는 게 roundup이야.",
+  "뉴스든 경기 결과든 한 주 일이든, 여러 개를 모아 짧게 훑으면 다 돼.",
+  "글 한 편을 줄이는 요약이랑은 달라. 여러 개를 빙 둘러 끌어모으는 게 먼저야(round up = 둘러 모으다)."
+ ],
+ "scene": "월요일 아침 교실 방송에서 지난주 소식을 쭉 훑어 줌",
+ "examples": [
+  {
+   "en": "At the end of the year, our coach gave us a quick roundup of all our game results.",
+   "ko": "연말에 코치님이 우리 경기 결과를 전부 모아서 짧게 쭉 정리해 줬어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "금요일 저녁, 반장이 반 단톡방에 메시지 하나를 올렸어. 다음 주 수행평가 날짜, 바뀐 급식 메뉴, 체육복 가져올 날, 분실물 안내를 한 줄씩 차례로 적었어. 이 메시지를 'roundup'이라고 할 수 있을까?",
+   "choices": [
+    "응, roundup 맞아",
+    "아니, roundup 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, roundup 맞아",
+   "why": "맞아! 반장이 수행평가 날짜, 급식 메뉴, 체육복 가져올 날, 분실물 안내까지 서로 다른 소식 네 개를 한데 모아서 한 줄씩 짧게 쭉 적었잖아. 여러 소식을 모아 핵심만 한 번에 훑어 주는 거, 그게 바로 roundup이야."
+  },
+  {
+   "type": "ox",
+   "question": "어젯밤 TV에서 동물 다큐를 봤어. 한 시간 내내 북극곰 한 마리가 일 년 동안 사는 모습만 자세히 따라가는 방송이었어. 이 방송을 'roundup'이라고 할 수 있을까?",
+   "choices": [
+    "응, roundup 맞아",
+    "아니, roundup 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, roundup 아니야",
+   "why": "맞아! 이 방송은 한 시간 내내 북극곰 한 마리 이야기 하나만 자세히 따라갔잖아. roundup은 여러 소식을 모아서 핵심만 짧게 쭉 훑는 건데, 하나를 길게 파고든 이 방송은 그거랑 정반대야."
+  },
+  {
+   "type": "choice",
+   "question": "학교 신문에 실린 것들이야. 이 중에서 'roundup'이라고 부르기 가장 알맞은 건?",
+   "choices": [
+    "이번 주 동아리 대회 결과 여섯 개를 한 줄씩 실은 코너",
+    "축구부 결승전 한 경기만 한 면 가득 자세히 다룬 기사",
+    "국어 시간에 읽은 소설 한 편을 세 줄로 줄인 감상 코너",
+    "수업 중 정전이 났다는 것을 바로 알린 교내 방송 소식"
+   ],
+   "answer_index": 0,
+   "answer": "이번 주 동아리 대회 결과 여섯 개를 한 줄씩 실은 코너",
+   "why": "맞아! 동아리 대회 결과 여섯 개를 한데 모아서 한 줄씩 짧게 쭉 훑어 주잖아. 바로 그게 roundup인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "summary",
+   "kind": "confusable",
+   "from": "한 편짜리 요약(summary)"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-roundup",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-roundup"
+ },
+ "image": null
+}

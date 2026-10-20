@@ -1,0 +1,88 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/lot/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/lot/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "lot",
+ "slug": "lot",
+ "url": "https://hibbangyong.com/words/lot/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "많음 — 아주 많은 양이나 수. 하지만 '전부'는 아냐",
+ "gloss_ko": "많음",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "생일에 친구들이 선물을 잔뜩 가져왔어. 상자가 넘쳐!",
+  "물도 똑같아. 컵에 찰랑찰랑 넘치게 부으면 물이 '많은' 거잖아? 셀 수 있는 선물이든, 못 세는 물이든 다 그래.",
+  "근데 많다고 '전부'는 아니야. 하나도 안 남기고 다 가진 게 아니라, 그냥 양이 크다는 거거든.",
+  "그게 lot이야."
+ ],
+ "scene": "생일에 선물을 잔뜩 받아 상자가 넘치는 장면",
+ "examples": [
+  {
+   "en": "I have a lot of homework today.",
+   "ko": "나 오늘 숙제가 엄청 많아."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "냉장고를 열었더니 안에 달걀이 딱 한 개만 남아 있어. 이게 'lot'이야?",
+   "choices": [
+    "응, lot 맞아",
+    "아니, lot 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, lot 아니야",
+   "why": "맞아! 달걀이 딱 한 개면 그건 아주 적은 거잖아. lot은 넘칠 만큼 많을 때 쓰는 말이라서, 하나 남은 건 lot이 아닌 게 맞아."
+  },
+  {
+   "type": "ox",
+   "question": "공원 벤치 밑에 비둘기가 수십 마리 몰려서 바글바글해. 이게 'lot'이야?",
+   "choices": [
+    "응, lot 맞아",
+    "아니, lot 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, lot 맞아",
+   "why": "맞아! 비둘기가 수십 마리나 바글바글하잖아. 그렇게 수가 큰 게 바로 lot인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "바구니에 사과가 20개 있었어. 지호가 사과를 'a lot' 가져갔대. 어떤 그림이 맞을까?",
+   "choices": [
+    "20개 중 15개를 가져가고 몇 개는 바구니에 남긴 그림",
+    "20개를 하나도 안 남기고 몽땅 가져간 그림",
+    "20개 중 딱 2개만 가져간 그림",
+    "친구들 나눠 줄 딱 5개만 챙긴 그림"
+   ],
+   "answer_index": 0,
+   "answer": "20개 중 15개를 가져가고 몇 개는 바구니에 남긴 그림",
+   "why": "맞아! 15개면 바구니에 사과가 아직 몇 개 남아 있는데도 지호 손엔 사과가 잔뜩이잖아. 이렇게 양이 큰 게 바로 a lot이야."
+  }
+ ],
+ "synonyms": [
+  "band",
+  "mass"
+ ],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-lot",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-lot"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/lot.webp",
+  "alt": "생일에 선물을 잔뜩 받아 상자가 넘치는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

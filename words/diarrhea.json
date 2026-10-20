@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/diarrhea/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/diarrhea/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "diarrhea",
+ "slug": "diarrhea",
+ "url": "https://hibbangyong.com/words/diarrhea/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "설사 — 똥이 물처럼 묽게, 자꾸 나오는 것",
+ "gloss_ko": "설사",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "상한 우유 마시고 나서 화장실을 몇 번이나 들락날락했어.",
+  "나올 때마다 물처럼 묽게 쭉 나와. 이게 diarrhea야.",
+  "장염이든 긴장이든 이유는 여러 가지일 수 있어. 핵심은 묽고 자주 나온다는 거야.",
+  "그냥 배만 아픈 거나 토하는 거랑은 달라. 오히려 안 나와서 고생하는 거랑은 정반대고."
+ ],
+ "scene": "상한 우유 마시고 화장실 들락날락",
+ "examples": [
+  {
+   "en": "After eating the old sandwich, I had diarrhea all night.",
+   "ko": "오래된 샌드위치 먹고 밤새 설사했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "민준이는 엄청 매운 마라탕을 먹은 다음 날, 하루 동안 화장실에 다섯 번이나 갔어. 갈 때마다 똥이 물처럼 묽게 나왔대. 민준이가 겪은 이 상태가 'diarrhea'야?",
+   "choices": [
+    "응, diarrhea 맞아",
+    "아니, diarrhea 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, diarrhea 맞아",
+   "why": "맞아! 민준이는 하루에 화장실을 다섯 번이나 갔고, 갈 때마다 똥이 물처럼 묽게 나왔잖아. 묽게, 자꾸 나오는 거, 바로 그게 diarrhea야."
+  },
+  {
+   "type": "ox",
+   "question": "서연이는 이사하고 나서 일주일째 화장실에 오래 앉아 있어도 똥이 하나도 안 나왔어. 배가 꽉 막힌 것처럼 답답했대. 서연이가 겪은 이 상태가 'diarrhea'야?",
+   "choices": [
+    "응, diarrhea 맞아",
+    "아니, diarrhea 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, diarrhea 아니야",
+   "why": "잘 골랐어! 서연이는 일주일째 똥이 하나도 안 나와서 배가 꽉 막힌 것처럼 답답했잖아. diarrhea는 똥이 물처럼 묽게 자꾸 나오는 거라서, 서연이가 겪은 건 그거랑 정반대야."
+  },
+  {
+   "type": "choice",
+   "question": "친구 넷이 어제 몸이 어땠는지 말했어. 'diarrhea' 때문에 고생한 친구는 누구일까?",
+   "choices": [
+    "화장실에 자주 갔는데 매번 물처럼 나왔어",
+    "며칠째 화장실에 가도 하나도 안 나왔어",
+    "속이 울렁거리더니 먹은 걸 다 토했어",
+    "배가 콕콕 쑤셔서 한참 웅크리고 있었어"
+   ],
+   "answer_index": 0,
+   "answer": "화장실에 자주 갔는데 매번 물처럼 나왔어",
+   "why": "맞아! 화장실에 자주 갔는데 매번 물처럼 나왔다는 거잖아. 묽게, 그리고 자꾸 나온다는 두 가지가 다 들어 있으니까 바로 그게 diarrhea야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "fever"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-diarrhea",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-diarrhea"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/diarrhea.webp",
+  "alt": "상한 우유 마시고 화장실 들락날락",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

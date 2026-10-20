@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/mortgage/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/mortgage/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "mortgage",
+ "slug": "mortgage",
+ "url": "https://hibbangyong.com/words/mortgage/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "주택 담보 대출(집을 걸고 빌리는 큰돈) — 집(이나 땅)을 걸고 은행에서 빌리는 큰돈이야. 보통 집을 살 때 빌리고, 여러 해 동안 조금씩 갚아 나가.",
+ "gloss_ko": "집 걸고 빌린 큰돈",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "집값은 엄청 비싸서 한 번에 다 내는 집은 별로 없어.",
+  "그래서 은행에서 큰돈을 빌리면서 그 집을 약속으로 걸어. 못 갚으면 은행이 집을 가져갈 수 있다는 약속이야.",
+  "그다음 몇십 년 동안 매달 조금씩 갚아 나가. 이 빚이 mortgage야.",
+  "남의 집에 살면서 내는 월세랑은 달라. 월세는 빌려 사는 값이고, mortgage는 집을 걸고 진 빚이야."
+ ],
+ "scene": "부모님이 은행 돈을 빌려 집을 사고 몇십 년 동안 매달 갚는 장면",
+ "examples": [
+  {
+   "en": "My parents still pay the mortgage every month, so we don't eat out much.",
+   "ko": "우리 부모님은 아직도 매달 집 대출금을 갚고 있어서, 우리 외식 잘 안 해."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "삼촌이 시골에 마당 딸린 집을 샀어. 집값이 모자라서 그 집을 은행에 걸고 큰돈을 빌렸고, 앞으로 20년 동안 매달 은행에 나눠 갚기로 했어. 삼촌이 진 이 빚이 'mortgage'야?",
+   "choices": [
+    "응, mortgage 맞아",
+    "아니, mortgage 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, mortgage 맞아",
+   "why": "맞아! 삼촌은 집을 사면서 그 집을 은행에 걸고 큰돈을 빌렸고, 20년 동안 매달 나눠 갚기로 했잖아. 집을 걸고 진 이 빚이 바로 mortgage야."
+  },
+  {
+   "type": "ox",
+   "question": "이모가 운영하던 빵집을 팔았어. 그렇게 받은 돈으로 은행에서 한 푼도 빌리지 않고 작은 아파트 값을 그 자리에서 전부 치렀어. 이모가 아파트를 산 이 방식이 'mortgage'야?",
+   "choices": [
+    "응, mortgage 맞아",
+    "아니, mortgage 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, mortgage 아니야",
+   "why": "맞아! 이모는 빵집 판 돈으로 아파트 값을 그 자리에서 전부 냈잖아. 은행에서 빌린 돈이 한 푼도 없으니까 집을 걸고 진 빚도 없고, 그래서 mortgage가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 친구가 각자 자기 집 사정을 말했어. 집에 'mortgage'가 있는 친구는 누구일까?",
+   "choices": [
+    "집주인에게 매달 돈을 내면서 그 집에 빌려 살고 있어",
+    "집을 살 때 은행 돈을 보태서 매달 은행에 나눠 내고 있어",
+    "집주인에게 큰돈을 맡겨 두고 이사 갈 때 돌려받기로 했어",
+    "모아 둔 돈으로 집값을 한 번에 다 내고 끝냈어"
+   ],
+   "answer_index": 1,
+   "answer": "집을 살 때 은행 돈을 보태서 매달 은행에 나눠 내고 있어",
+   "why": "맞아! 집을 살 때 은행 돈을 보탰으니 은행에 빚을 진 거고, 그걸 매달 은행에 나눠 내고 있잖아. 집을 사려고 은행에서 빌리고 조금씩 갚아 나가는 이 빚이 바로 mortgage야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "tenant"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-mortgage",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-mortgage"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/mortgage.webp",
+  "alt": "부모님이 은행 돈을 빌려 집을 사고 몇십 년 동안 매달 갚는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

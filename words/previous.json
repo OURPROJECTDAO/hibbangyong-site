@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/previous/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/previous/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "previous",
+ "slug": "previous",
+ "url": "https://hibbangyong.com/words/previous/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "이전의 — 지금 것 바로 앞에 왔던",
+ "gloss_ko": "이전의",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "줄 서서 미끄럼틀 탄다고 해봐. 지금은 네 차례거든? 그럼 바로 네 앞에서 탄 애, 걔가 previous야.",
+  "아주 먼 옛날 거라는 뜻이 아니야. 방금 전이어도 돼. 중요한 건 '지금 것 바로 앞'이라는 자리야.",
+  "맨 처음 것도 아니야. 지금 것보다 딱 한 칸 전 거야.",
+  "책에서 한 장 넘기기 전 쪽도, 이번 주 말고 지난주도 똑같아. 그게 previous야."
+ ],
+ "scene": "미끄럼틀 줄에서 내 바로 앞 차례에 탄 아이",
+ "examples": [
+  {
+   "en": "This game is more fun than the previous one.",
+   "ko": "이 게임이 저번 게임보다 더 재밌어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "엘리베이터가 7층에서 서고, 그다음 8층에서 섰어. 지금 8층에 서 있을 때 7층은 'previous' 정거장이야?",
+   "choices": [
+    "응, previous 맞아",
+    "아니, previous 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, previous 맞아",
+   "why": "맞아! 8층에 서 있는 지금, 바로 한 칸 앞에 섰던 데가 7층이잖아. 딱 한 칸 뒤로 간 그 자리, 그게 previous인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "급식 줄에서 지금 지호가 밥을 받고 있어. 지호 뒤에 서서 아직 못 받은 서연이가 'previous' 사람이야?",
+   "choices": [
+    "응, previous 맞아",
+    "아니, previous 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, previous 아니야",
+   "why": "맞아! 서연이는 아직 밥을 못 받았잖아. 지호 다음에 받을 차례니까 앞이 아니라 나중인 거야. previous는 지호보다 먼저 밥을 받고 지나간 사람이거든."
+  },
+  {
+   "type": "choice",
+   "question": "민수가 그림을 순서대로 그리고 있어. 첫 장, 둘째 장을 다 그렸고 지금은 셋째 장을 그리는 중이야. 이때 'previous' 그림은 어떤 거야?",
+   "choices": [
+    "둘째 장에 그린 그림",
+    "맨 처음 첫 장에 그린 그림",
+    "이따 그릴 넷째 장 그림",
+    "지금 그리는 셋째 장 그림"
+   ],
+   "answer_index": 0,
+   "answer": "둘째 장에 그린 그림",
+   "why": "맞아! 지금 셋째 장을 그리고 있으니까 바로 그 앞에 그린 둘째 장, 딱 한 칸 뒤로 간 그게 previous인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "past"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-previous",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-previous"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/previous.webp",
+  "alt": "미끄럼틀 줄에서 내 바로 앞 차례에 탄 아이",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

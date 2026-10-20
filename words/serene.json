@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/serene/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/serene/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "serene",
+ "slug": "serene",
+ "url": "https://hibbangyong.com/words/serene/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "평온한 — 마음이나 분위기가 깊이 가라앉아 고요하고 평화로운",
+ "gloss_ko": "평온한",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "바람 한 점 없는 아침 호수, 물결 하나 없이 잔잔하지.",
+  "시험 날 아침인데도 얼굴이 편안한 친구도 있어.",
+  "둘 다 serene이야. 속까지 고요하고 평화로운 거.",
+  "그냥 소리만 없는 거랑은 달라. 말없이 앉아서 속으로 떨고 있으면 serene이 아니야."
+ ],
+ "scene": "바람 없는 아침의 잔잔한 호수",
+ "examples": [
+  {
+   "en": "My grandma's face was serene as she sat in the noisy market.",
+   "ko": "시끄러운 시장에 앉아 계신데도 할머니 얼굴은 평온했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "이른 새벽, 산속 절 마당이야. 가끔 풍경 소리만 울리고, 거기 앉아 있는 스님의 마음도 깊이 가라앉아 평화로워. 이 장면은 'serene'이야?",
+   "choices": [
+    "응, serene 맞아",
+    "아니, serene 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, serene 맞아",
+   "why": "맞아! 가끔 풍경 소리만 울릴 만큼 새벽 절 마당이 고요하고, 스님 마음까지 깊이 가라앉아 평화로우니까 바로 그게 serene인 거야. 겉만 조용한 게 아니라 속까지 고요한 거, 그게 핵심이야."
+  },
+  {
+   "type": "ox",
+   "question": "수학여행 전날 밤, 민수는 내일 생각에 가슴이 두근거려서 잠을 못 자고 계속 이불 속에서 뒤척여. 민수의 이 상태는 'serene'이야?",
+   "choices": [
+    "응, serene 맞아",
+    "아니, serene 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, serene 아니야",
+   "why": "맞아! 민수는 내일 생각에 가슴이 두근거려서 잠도 못 자고 이불 속에서 계속 뒤척이잖아. 마음이 들떠서 출렁이는 상태라서 속까지 고요하고 평화로운 serene과는 정반대인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "시험 날 아침, 네 친구의 모습이야. 이 중에서 'serene'이라는 말이 가장 잘 어울리는 사람은 누구일까?",
+   "choices": [
+    "입은 꾹 다물고 있지만 속으로는 계속 조마조마한 준호",
+    "떨리지만 할 수 있다고 되뇌며 억지로 버티는 서연",
+    "걱정이 다 풀려서 속이 편안하게 문제집을 넘기는 지우",
+    "끝나면 놀러 갈 생각에 들떠서 계속 신나 있는 현우"
+   ],
+   "answer_index": 2,
+   "answer": "걱정이 다 풀려서 속이 편안하게 문제집을 넘기는 지우",
+   "why": "맞아! 지우는 걱정이 다 풀려서 속까지 편안한 상태로 문제집을 넘기고 있잖아. 겉만 조용한 게 아니라 속까지 고요하고 평화로우니까 바로 그게 serene인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "peace"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-serene",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-serene"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/serene.webp",
+  "alt": "바람 없는 아침의 잔잔한 호수",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/mock/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/mock/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "mock",
+ "slug": "mock",
+ "url": "https://hibbangyong.com/words/mock/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "비웃다 — 남이나 남이 한 말·생각을 얕잡아 보고, 웃거나 말로 찌르거나 우스꽝스럽게 흉내 내서 깎아내리다",
+ "gloss_ko": "비웃다",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "친구가 \"나 우주비행사 될 거야\" 했는데, 옆에서 몇 명이 그랬어. \"네가? 됐다 그래.\"",
+  "웃긴 얘기라서 웃은 게 아니거든? 그 친구를 우습게 보고 일부러 깎아내린 거야. 꼭 소리 내서 웃어야 하는 것도 아니야. 말투로 툭 찔러도, 흉내를 내도, 셋 다 이거야.",
+  "사람한테만 쓰는 것도 아니야. 누가 한 말이든, 꿈이든, 계획이든, \"에이 그게 되겠냐\" 하고 낮춰 보면 다 이거야.",
+  "친한 사이에 웃으면서 툭 던지는 장난은 mock이 아니야. 상대를 깎아내리려는 마음이 있어야 mock이야."
+ ],
+ "scene": "친구가 우주비행사가 되겠다고 말하자 옆 아이들이 \"네가? 됐다 그래\" 하고 낮춰 보는 장면",
+ "examples": [
+  {
+   "en": "The other kids mocked his dream of flying to space.",
+   "ko": "다른 아이들이 우주에 가고 싶다는 그 애 꿈을 비웃었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "동생이 처음으로 두 발 자전거를 타고 골목 끝까지 갔어. 형이 손뼉을 치며 \"우와, 진짜 잘 탄다!\" 하고 엄지를 들어 올렸어. 이게 'mock'이야?",
+   "choices": [
+    "응, mock 맞아",
+    "아니, mock 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, mock 아니야",
+   "why": "맞아! 형은 동생을 우습게 본 게 아니라 진짜 잘했다고 치켜세워 준 거잖아. 이건 깎아내리는 거랑 정반대라서 mock이 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "민수가 그린 그림을 반 아이들에게 보여줬어. 그러자 뒷자리 아이가 코를 찡그리며 \"이걸 그림이라고?\" 하고, 민수가 붓 잡던 손 모양을 우스꽝스럽게 흉내 냈어. 이게 'mock'이야?",
+   "choices": [
+    "응, mock 맞아",
+    "아니, mock 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, mock 맞아",
+   "why": "맞아! 코를 찡그리며 이걸 그림이라고 하고 손 모양까지 우스꽝스럽게 흉내 낸 건, 민수랑 민수 그림을 우습게 보고 깎아내린 거잖아. 그게 바로 mock이야."
+  },
+  {
+   "type": "choice",
+   "question": "친구가 방학에 할 계획을 발표했어. 네 아이가 각각 이렇게 했대. 'mock'을 한 아이는 누구일까?",
+   "choices": [
+    "코웃음을 치면서 \"그게 되겠냐\" 하고 되물었다",
+    "그 목소리가 멋있어서 똑같은 목소리로 따라 읽었다",
+    "그 계획이 마음에 안 든다며 화를 내고 소리를 질렀다",
+    "그 계획에서 어디를 고치면 좋을지 진지하게 짚어 주었다"
+   ],
+   "answer_index": 0,
+   "answer": "코웃음을 치면서 \"그게 되겠냐\" 하고 되물었다",
+   "why": "맞아! 코웃음을 치면서 그게 되겠냐 하고 되물은 건, 친구 계획을 아예 우습게 본 거잖아. 흉내를 안 냈어도, 얕잡아 보고 툭 찌른 그 마음이 바로 이거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "insult"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-mock",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-mock"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/mock.webp",
+  "alt": "친구가 우주비행사가 되겠다고 말하자 옆 아이들이 \"네가? 됐다 그래\" 하고 낮춰 보는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/brief/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/brief/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "brief",
+ "slug": "brief",
+ "url": "https://hibbangyong.com/words/brief/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "짧은 — 오래 안 끌고 잠깐 만에, 또는 몇 마디로 간단히 끝나는",
+ "gloss_ko": "짧은",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "친구가 '잘 가!' 딱 한마디 하고 휙 돌아선 적 있지?",
+  "오래 붙잡지도, 길게 늘어놓지도 않아. 순식간에 끝나 버려.",
+  "만남이든 말이든 쪽지든, 오래 안 끌고 잠깐이나 몇 마디로 딱 끝나는 거야.",
+  "길게 이어지는 게 아니라 짧게 딱. 그게 brief야."
+ ],
+ "scene": "친구가 '잘 가!' 한마디 하고 휙 돌아서는 짧은 인사 (child 앵커)",
+ "examples": [
+  {
+   "en": "My brother gave me a brief hug and ran off to school.",
+   "ko": "형이 나를 잠깐 안아 주고 학교로 뛰어갔어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "형이 나한테 'brief'한 쪽지를 남겼대. 넷 중에 어떤 쪽지일까?",
+   "choices": [
+    "'금방 올게!' 딱 한 줄만 적힌 쪽지",
+    "앞뒤로 빽빽하게 열 줄도 넘게 적힌 쪽지",
+    "글씨를 아주 조그맣게 써 놓은 쪽지",
+    "펜으로 아주 빠르게 휘갈겨 쓴 쪽지"
+   ],
+   "answer_index": 0,
+   "answer": "'금방 올게!' 딱 한 줄만 적힌 쪽지",
+   "why": "맞아! '금방 올게!' 딱 한 줄, 그거면 할 말이 끝나잖아. 길게 늘어놓지 않고 몇 마디로 딱 끝나는 쪽지, 그게 바로 brief인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "오늘 아침 선생님이 교실에서 'brief'한 안내를 하셨대. 다음 중 어떤 안내였을까?",
+   "choices": [
+    "아주 큰 목소리로 하신 안내",
+    "칠판에 그림을 그리며 하신 안내",
+    "딱 두 문장만 하고 바로 끝난 안내",
+    "운동장에 다 같이 모여서 하신 안내"
+   ],
+   "answer_index": 2,
+   "answer": "딱 두 문장만 하고 바로 끝난 안내",
+   "why": "맞아! 딱 두 문장만 하고 바로 끝났으니까, 오래 안 끌고 잠깐 만에 끝난 거잖아. 그게 바로 brief야."
+  },
+  {
+   "type": "choice",
+   "question": "선생님이 오늘 학교에서 있었던 일 중에 'brief'한 것을 하나 고르래. 어떤 걸까?",
+   "choices": [
+    "교실 사물함이 파란색으로 칠해져 있던 것",
+    "교장 선생님 방송이 세 마디 만에 끝난 것",
+    "급식 국그릇이 아주 뜨겁게 나왔던 것",
+    "운동장에 축구공이 두 개나 굴러다닌 것"
+   ],
+   "answer_index": 1,
+   "answer": "교장 선생님 방송이 세 마디 만에 끝난 것",
+   "why": "맞아! 세 마디 하고 딱 끝났잖아. 길게 안 끌고 잠깐 만에 끝났으니까 바로 그게 brief인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-brief",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-brief"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/brief.webp",
+  "alt": "친구가 '잘 가!' 한마디 하고 휙 돌아서는 짧은 인사 (child 앵커)",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

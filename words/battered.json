@@ -1,0 +1,103 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/battered/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/battered/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "battered",
+ "slug": "battered",
+ "url": "https://hibbangyong.com/words/battered/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "낡아 찌그러진 — 여러 번 부딪히거나 맞아서 여기저기 상하고 헌",
+ "gloss_ko": "두들겨 맞아 낡은",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "아빠가 이십 년 들고 다닌 여행 가방, 모서리마다 찌그러지고 긁혀 있지? 수없이 던져지고 부딪히면서 조금씩 상한 거야.",
+  "그렇게 맞고 부딪힌 흔적이 쌓여서 상한 상태가 battered야.",
+  "그냥 오래된 거랑은 달라. 삼십 년 됐어도 흠 하나 없이 멀쩡하면 battered가 아니야.",
+  "물건에만 쓰는 말도 아니야. 태풍에 계속 두들겨 맞은 마을, 자꾸 맞아서 다친 사람한테도 써."
+ ],
+ "scene": "아빠가 이십 년 들고 다닌 찌그러진 여행 가방",
+ "examples": [
+  {
+   "en": "My dad still carries his battered suitcase on every trip.",
+   "ko": "우리 아빠는 아직도 여행 갈 때마다 그 찌그러지고 다 긁힌 가방을 들고 다녀."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "엄마가 오늘 매장에서 사 온 냄비를 상자에서 막 꺼냈어. 표면이 반짝반짝하고 긁힌 자국이나 찌그러진 곳이 하나도 없어. 이 냄비는 'battered'야?",
+   "choices": [
+    "응, battered 맞아",
+    "아니, battered 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, battered 아니야",
+   "why": "맞아! 오늘 막 상자에서 꺼낸 냄비라 한 번도 부딪히거나 긁힌 적이 없잖아. 반짝반짝하고 찌그러진 곳 하나 없으니까 battered랑은 정반대인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "동생은 자전거를 타다 넘어질 때마다 헬멧이 바닥에 부딪혔어. 그래서 지금 헬멧은 여기저기 긁히고 한쪽이 움푹 들어가 있어. 이 헬멧은 'battered'야?",
+   "choices": [
+    "응, battered 맞아",
+    "아니, battered 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, battered 맞아",
+   "why": "맞아! 넘어질 때마다 헬멧이 바닥에 부딪혔고, 그게 쌓여서 여기저기 긁히고 한쪽이 움푹 들어갔잖아. 이렇게 여러 번 부딪혀서 상한 게 바로 battered야."
+  },
+  {
+   "type": "choice",
+   "question": "공 네 개가 있어. 이 중에서 'battered'라고 부르기에 가장 알맞은 공은?",
+   "choices": [
+    "산 지 한 달 됐지만 매일 벽에 차서 겉이 까지고 찌그러진 공",
+    "삼십 년 됐지만 상자에 고이 넣어 둬서 흠 하나 없는 공",
+    "어제 사서 한 번도 안 꺼내 비닐까지 그대로 씌워진 공",
+    "한 번도 안 찼는데 흙탕물에 빠져서 겉이 온통 더러워진 공"
+   ],
+   "answer_index": 0,
+   "answer": "산 지 한 달 됐지만 매일 벽에 차서 겉이 까지고 찌그러진 공",
+   "why": "맞아! 산 지 한 달밖에 안 됐어도 매일 벽에 차서 계속 부딪혔잖아. 그렇게 부딪힌 흔적으로 겉이 까지고 찌그러졌으니까 바로 battered인 거야. 얼마나 오래됐는지가 아니라 얼마나 부딪혔는지가 중요해."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "worn",
+   "kind": "confusable",
+   "from": "vs worn"
+  },
+  {
+   "word": "dented",
+   "kind": "confusable",
+   "from": "vs dented"
+  },
+  {
+   "word": "shabby",
+   "kind": "confusable",
+   "from": "vs shabby"
+  }
+ ],
+ "related_scene": [
+  "damage"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-battered",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-battered"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/battered.webp",
+  "alt": "아빠가 이십 년 들고 다닌 찌그러진 여행 가방",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

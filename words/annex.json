@@ -1,0 +1,91 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/annex/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/annex/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "annex",
+ "slug": "annex",
+ "url": "https://hibbangyong.com/words/annex/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "(땅을) 합쳐 넣다(병합하다) — 옆에 있는 땅이나 지역을 자기 나라·도시의 일부로 붙여 넣다(힘으로 빼앗는 경우가 많아)",
+ "gloss_ko": "땅을 합쳐 넣다",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "뉴스에서 지도가 바뀌는 거 본 적 있어? 옆에 있던 땅이 어느 날부터 다른 나라 땅으로 칠해져.",
+  "그렇게 옆 땅을 아예 자기 땅의 한 부분으로 넣어 버리는 게 annex야.",
+  "전쟁처럼 힘으로 빼앗을 때 많이 쓰지만, 시가 옆 마을을 투표로 받아들여 시 안에 넣을 때도 annex라고 해.",
+  "군대가 들어가서 잠깐 차지하는 거랑은 달라. 핵심은 그 땅이 이제 공식적으로 우리 것이 됐다는 거야."
+ ],
+ "scene": "뉴스 지도에서 옆 땅이 다른 나라 땅으로 칠해지는 장면",
+ "examples": [
+  {
+   "en": "The city annexed the small village next to it last year.",
+   "ko": "그 도시는 작년에 바로 옆 작은 마을을 자기 도시로 편입했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "한 나라가 국경 바로 옆 강 건너 지역을 자기 나라의 한 주(州)로 공식 지정하고, 그곳 주민들에게 자기 나라 여권을 나눠 줬어. 이 나라가 그 지역에 한 일을 'annex'라고 할 수 있어?",
+   "choices": [
+    "응, annex 맞아",
+    "아니, annex 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, annex 맞아",
+   "why": "맞아! 강 건너 옆 지역을 자기 나라의 한 주로 공식 지정하고 주민들한테 여권까지 나눠 줬잖아. 옆 땅을 아예 자기 나라의 한 부분으로 넣어 버린 거니까 그게 바로 annex야."
+  },
+  {
+   "type": "ox",
+   "question": "한 나라가 오래 다스리던 먼 바다 건너 식민지를 풀어 줘서, 그 땅이 이제 더 이상 그 나라 땅이 아니게 됐어. 이 나라가 그 땅에 한 일을 'annex'라고 할 수 있어?",
+   "choices": [
+    "응, annex 맞아",
+    "아니, annex 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, annex 아니야",
+   "why": "맞아! 이 나라는 바다 건너 식민지를 풀어 줘서 그 땅을 자기 땅에서 떼어 냈잖아. annex는 땅을 자기 나라에 넣는 거라서, 이건 오히려 정반대 일이야."
+  },
+  {
+   "type": "choice",
+   "question": "뉴스 네 개가 나왔어. 이 중에서 'annex'한 일이라고 말할 수 있는 건?",
+   "choices": [
+    "한 도시가 주민 투표를 거쳐 옆 마을을 자기 도시의 한 동네로 넣었어",
+    "한 나라 군대가 옆 나라 땅에 들어가 몇 달 머물다가 그냥 돌아갔어",
+    "크기가 비슷한 두 마을이 하나로 합쳐져서 새 이름의 도시가 됐어",
+    "한 나라가 자기 땅 일부를 떼어 내서 따로 나라를 세우게 해 줬어"
+   ],
+   "answer_index": 0,
+   "answer": "한 도시가 주민 투표를 거쳐 옆 마을을 자기 도시의 한 동네로 넣었어",
+   "why": "맞아! 주민 투표로 옆 마을을 받아들여서 이제 그 마을이 도시의 한 동네가 된 거잖아. 싸움이 없었어도 옆 땅을 공식적으로 자기 것의 한 부분으로 넣었으니까 바로 그게 annex야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "occupy",
+   "kind": "confusable",
+   "from": "vs occupy"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-annex",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-annex"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/annex.webp",
+  "alt": "뉴스 지도에서 옆 땅이 다른 나라 땅으로 칠해지는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

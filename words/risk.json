@@ -1,0 +1,104 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/risk/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/risk/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "risk",
+ "slug": "risk",
+ "url": "https://hibbangyong.com/words/risk/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "나쁜 일이 생길 수도 있는 가능성 — 아직 안 일어났고, 안 일어날 수도 있어",
+ "gloss_ko": "나쁜 일이 생길 수도 있는 가능성",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "젠가 탑에서 블록 하나를 쏙 뽑으려는 참이야. 무너질까? 안 무너질까? 아직 아무도 몰라.",
+  "그런데 무너질 수도 있잖아. 그 '무너질 수도 있음'이 바로 risk야. 아무 일도 안 났는데 risk는 벌써 거기 있어.",
+  "그래서 겁나서 손을 뗄 수도 있고, 이기고 싶어서 그냥 뽑을 수도 있어. 뽑는 순간, 네가 risk를 진 거야.",
+  "탑이 이미 와르르 무너진 건? 그건 risk가 아니야. risk는 무너지기 전, 그 아슬아슬한 '어쩌면'이거든. 그게 risk야."
+ ],
+ "scene": "젠가 탑에서 블록을 뽑기 직전의 아슬아슬한 순간",
+ "examples": [
+  {
+   "en": "There's a risk the tower will fall if I pull this block.",
+   "ko": "이 블록을 빼면 탑이 무너질 위험이 있어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "의자 위에 올라서서 전구를 갈고 있어. 의자가 흔들려서 떨어질 수도 있어. 떨어질지 안 떨어질지는 아직 몰라. 이게 'risk'야?",
+   "choices": [
+    "응, risk 맞아",
+    "아니, risk 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, risk 맞아",
+   "why": "맞아! 아직 떨어진 게 아니잖아. 흔들흔들, 떨어질 수도 있고 안 떨어질 수도 있는 그 아슬아슬한 순간, 바로 그게 risk야."
+  },
+  {
+   "type": "ox",
+   "question": "방바닥에 이불을 깔고 그 위에 앉아 그림책을 넘기고 있어. 여기서는 나쁜 일이 생길 일이 하나도 없어. 이게 'risk'야?",
+   "choices": [
+    "응, risk 맞아",
+    "아니, risk 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, risk 아니야",
+   "why": "맞아! 이불 위에서 그림책 넘기는 데는 나빠질 게 하나도 없잖아. 무너질 수도, 다칠 수도 없으면 아슬아슬한 어쩌면이 아예 없는 거야. 그러니까 이건 risk가 아니지."
+  },
+  {
+   "type": "choice",
+   "question": "친구 넷이 겨울 강 얼음을 보고 각자 한 마디씩 했어. 이 중에 'risk'가 있는 상황을 말한 친구는 누구게?",
+   "choices": [
+    "얼음이 깨져서 친구가 물에 빠졌대. 지금 다 같이 꺼내 주는 중이야.",
+    "얼음 위로 걸어가면 깨질 수도 있대. 깨질지 안 깨질지는 아직 아무도 몰라.",
+    "얼음이 무서워서 가슴이 콩닥콩닥해. 근처에 갈 생각만 해도 그래.",
+    "얼음이 다 녹아 버려서 발을 디디면 무조건 물에 빠진대."
+   ],
+   "answer_index": 1,
+   "answer": "얼음 위로 걸어가면 깨질 수도 있대. 깨질지 안 깨질지는 아직 아무도 몰라.",
+   "why": "맞아! 깨질지 안 깨질지 아직 아무도 모르는 그 순간, 바로 거기에 risk가 있는 거야. 아무 일도 안 났는데 나쁜 일이 생길 수도 있는 그 갈림길, 그게 risk거든."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "danger",
+   "kind": "confusable",
+   "from": "지금 눈앞에 닥친 무서운 것 자체(danger)"
+  },
+  {
+   "word": "fear",
+   "kind": "confusable",
+   "from": "무서운 느낌·겁(fear)"
+  },
+  {
+   "word": "chance",
+   "kind": "confusable",
+   "from": "vs chance"
+  }
+ ],
+ "related_scene": [
+  "gamble",
+  "venture"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-risk",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-risk"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/risk.webp",
+  "alt": "젠가 탑에서 블록을 뽑기 직전의 아슬아슬한 순간",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

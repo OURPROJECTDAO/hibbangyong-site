@@ -1,0 +1,99 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/vivid/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/vivid/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "vivid",
+ "slug": "vivid",
+ "url": "https://hibbangyong.com/words/vivid/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "생생한 — 흐리지 않고 진해서, 색이든 머릿속 장면이든 딱 또렷하게 다가오는",
+ "gloss_ko": "생생한",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "그림 그릴 때 물을 많이 타면 색이 흐릿해지지? 물 조금만 타면 색이 진하게 딱 나오잖아.",
+  "그렇게 흐림 없이 진해서 확 다가오는 게 이거야. 근데 색만 그런 게 아니야.",
+  "머릿속 장면도 그래. 어젯밤 꿈이 깨고 나서도 하나하나 떠오르면 그것도 그렇고, 누가 이야기를 잘해 줘서 그 장면이 머릿속에 쫙 그려져도 그렇고.",
+  "예쁜 것만 그런 거 아니야. 무섭고 싫은 것도 진하게 남으면 그래. 그냥 환하기만 한 거랑은 다르거든? 흐리지 않고 진해서 딱 다가오면, 그게 vivid야."
+ ],
+ "scene": "물을 많이 탄 흐릿한 색과 물을 조금만 탄 진한 색을 견주는 색칠 장면",
+ "examples": [
+  {
+   "en": "Grandma's kitchen has vivid yellow walls.",
+   "ko": "할머니네 부엌 벽은 색이 생생한 노란색이야."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "오빠가 손톱에 바른 매니큐어를 보여줬어. 색이 하나도 안 흐리고 진하게 딱 보여. 이게 'vivid'야?",
+   "choices": [
+    "응, vivid 맞아",
+    "아니, vivid 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, vivid 맞아",
+   "why": "맞아! 색이 하나도 안 흐리고 진하게 딱 보인다고 했잖아. 물 조금만 탄 물감처럼 진해서 확 다가오는 거니까, 그게 바로 vivid인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "작년 어린이날에 어디를 갔었는지 물었더니, 형이 가물가물해서 하나도 안 떠오른대. 이게 'vivid'야?",
+   "choices": [
+    "응, vivid 맞아",
+    "아니, vivid 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, vivid 아니야",
+   "why": "맞아! 가물가물해서 하나도 안 떠오르는 거잖아. 그건 머릿속 장면이 흐릿하게 지워진 거니까 vivid랑 정반대인 거야. vivid는 어젯밤 꿈처럼 하나하나 딱 떠오를 때 쓰거든."
+  },
+  {
+   "type": "ox",
+   "question": "운동회 때 반마다 깃발을 들었는데, 3반 깃발은 색이 딱 하나야. 근데 그 초록이 물 안 탄 것처럼 진해서 멀리서도 눈에 확 들어와. 이 깃발도 'vivid'야?",
+   "choices": [
+    "응, 'vivid' 맞아",
+    "아니, 'vivid' 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 'vivid' 맞아",
+   "why": "맞아! 색이 딱 하나여도 물 안 탄 것처럼 진해서 멀리서도 눈에 확 들어오잖아. 흐리지 않고 진한 게 바로 vivid인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "bright",
+   "kind": "confusable",
+   "from": "vs bright"
+  },
+  {
+   "word": "clear",
+   "kind": "confusable",
+   "from": "vs clear"
+  },
+  {
+   "word": "colorful",
+   "kind": "confusable",
+   "from": "vs colorful"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-vivid",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-vivid"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/vivid.webp",
+  "alt": "물을 많이 탄 흐릿한 색과 물을 조금만 탄 진한 색을 견주는 색칠 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

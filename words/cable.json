@@ -1,0 +1,74 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/cable/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/cable/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "cable",
+ "slug": "cable",
+ "url": "https://hibbangyong.com/words/cable/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "케이블 — 전기나 신호를 나르는 굵고 튼튼한 전선",
+ "gloss_ko": "케이블",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "그림 속 둘둘 말아놓은 굵은 줄이 바로 cable이에요. 전기나 화면 신호를 한 곳에서 다른 곳으로 실어 나르는 튼튼한 전선이지요.",
+  "집에서 TV나 컴퓨터 뒤를 보면 이렇게 생긴 굵은 줄이 여러 개 꽂혀 있어요."
+ ],
+ "scene": "굵고 튼튼한 전선 케이블 한 가닥을 동그랗게 둘둘 말아놓은 모습(전깃줄·굵은 코드의 의미로 그림)",
+ "examples": [
+  {
+   "en": "Dad plugged the thick cable into the back of the TV.",
+   "ko": "아빠가 굵은 케이블을 텔레비전 뒤에 꽂았어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "TV 뒤에 꽂혀 있는 굵고 튼튼한 전선을 가리켰어. 이게 cable이야?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 맞아",
+   "why": null
+  },
+  {
+   "type": "choice",
+   "question": "cable은 어느 것일까?",
+   "choices": [
+    "전기를 나르는 굵고 긴 줄",
+    "물을 담는 둥글고 깊은 그릇",
+    "높이 나는 크고 빠른 새",
+    "맛이 달고 둥근 노란 과일"
+   ],
+   "answer_index": 0,
+   "answer": "전기를 나르는 굵고 긴 줄",
+   "why": null
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "rope"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-cable",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-cable"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/cable.webp",
+  "alt": "굵고 튼튼한 전선 케이블 한 가닥을 동그랗게 둘둘 말아놓은 모습(전깃줄·굵은 코드의 의미로 그림)",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

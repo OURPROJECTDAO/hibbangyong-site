@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/consolation/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/consolation/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "consolation",
+ "slug": "consolation",
+ "url": "https://hibbangyong.com/words/consolation/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "위로 — 속상하거나 실망한 일이 생긴 뒤, 마음을 조금 낫게 해 주는 것(말, 사실, 물건 무엇이든)",
+ "gloss_ko": "위로",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "시험을 망쳐서 속상했는데, 반 평균도 낮았다는 걸 알게 됐어. 점수는 그대로인데 마음이 조금 풀리지?",
+  "이렇게 이미 생긴 속상함을 덜어 주는 게 consolation이야. 친구의 말일 수도 있고, 어떤 사실이나 물건일 수도 있어.",
+  "시합 전에 힘내라고 하는 응원과는 달라. 이건 일이 안 풀린 다음에 오는 거야.",
+  "잃은 걸 되찾아 주는 것도 아니야. 결과는 그대로 두고 마음만 조금 나아지게 해."
+ ],
+ "scene": "시험을 망쳤는데 반 평균도 낮았다는 걸 알게 된 상황",
+ "examples": [
+  {
+   "en": "Losing the final was hard, but knowing we played our best was a small consolation.",
+   "ko": "결승에서 진 건 힘들었지만, 우리가 최선을 다했다는 게 그나마 작은 위로가 됐어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "백일장 예선에서 떨어져서 시무룩했는데, 짝꿍이 '그것도 못 붙냐'며 놀려서 더 속상해졌어. 짝꿍의 그 말은 나에게 'consolation'이야?",
+   "choices": [
+    "응, consolation 맞아",
+    "아니, consolation 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, consolation 아니야",
+   "why": "맞아, 이건 consolation이 아니야! 예선에서 떨어져서 시무룩한 너한테 짝꿍이 그것도 못 붙냐며 놀렸으니, 속상함이 덜어지기는커녕 더 커졌잖아. consolation은 속상한 마음을 조금 낫게 해 주는 거라서, 그 놀림은 정반대 쪽이야."
+  },
+  {
+   "type": "ox",
+   "question": "태풍 때문에 가족 캠핑이 취소돼서 동생이 울었어. 그날 밤 엄마가 거실에 작은 텐트를 쳐 주자 동생 얼굴이 조금 펴졌어. 캠핑은 여전히 못 갔지만. 이 거실 텐트는 동생에게 'consolation'이야?",
+   "choices": [
+    "응, consolation 맞아",
+    "아니, consolation 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, consolation 맞아",
+   "why": "맞아! 태풍 때문에 캠핑은 결국 못 갔지만, 엄마가 쳐 준 거실 텐트 덕분에 동생의 속상한 마음이 조금 풀렸잖아. 이렇게 결과는 그대로인데 마음만 낫게 해 주는 게 바로 consolation이야."
+  },
+  {
+   "type": "choice",
+   "question": "다음 중 'consolation'을 얻은 상황은?",
+   "choices": [
+    "결승을 하루 앞두고, 감독님이 너희는 할 수 있다고 해서 힘이 났어.",
+    "경기에서 진 뒤, 상대 팀이 우리를 보며 웃어서 더 속상해졌어.",
+    "우승은 놓쳤지만, 우리 팀이 제일 많이 늘었다는 기록에 마음이 풀렸어.",
+    "휴대폰이 망가졌는데, 가게에서 새것으로 바꿔 줘서 문제가 다 풀렸어."
+   ],
+   "answer_index": 2,
+   "answer": "우승은 놓쳤지만, 우리 팀이 제일 많이 늘었다는 기록에 마음이 풀렸어.",
+   "why": "맞아! 우승을 놓친 건 그대로인데, 우리 팀이 제일 많이 늘었다는 기록 덕분에 속상한 마음이 풀렸잖아. 이미 생긴 속상함을 덜어 준 게 꼭 말이 아니어도 돼. 이렇게 사실 하나도 consolation이 될 수 있어."
+  }
+ ],
+ "synonyms": [
+  "comfort"
+ ],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-consolation",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-consolation"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/consolation.webp",
+  "alt": "시험을 망쳤는데 반 평균도 낮았다는 걸 알게 된 상황",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/soap/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/soap/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "soap",
+ "slug": "soap",
+ "url": "https://hibbangyong.com/words/soap/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "비누 — 손이나 몸을 씻을 때 쓰는 거품 나는 덩어리",
+ "gloss_ko": "비누",
+ "level": {
+  "code": "L4",
+  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "그림 속 통통한 사각 덩어리가 바로 soap, 비누예요.",
+  "손을 씻을 때 물과 함께 문지르면 거품이 뽀글뽀글 나는 그거예요."
+ ],
+ "scene": "비누 그 자체 — 통통한 파스텔 사각 비누 한 덩이(soap=비누, 사물 의미), 표면에 보들보들한 거품 몇 방울",
+ "examples": [
+  {
+   "en": "I wash my hands with soap before dinner.",
+   "ko": "나는 저녁 먹기 전에 비누로 손을 씻어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "연필로 쓴 글씨를 슥슥 문질러 지우는 네모난 물건이에요. 이게 soap이야?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 아니야",
+   "why": null
+  },
+  {
+   "type": "choice",
+   "question": "soap은 어느 것일까?",
+   "choices": [
+    "물을 담아 마시는 투명한 유리컵",
+    "동그랗게 굴러가는 말랑한 고무공",
+    "손으로 문지르면 미끌미끌 거품이 나는 네모 덩어리",
+    "글씨를 쓸 수 있는 길쭉한 노란 연필"
+   ],
+   "answer_index": 2,
+   "answer": "손으로 문지르면 미끌미끌 거품이 나는 네모 덩어리",
+   "why": null
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-soap",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-soap"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/soap.webp",
+  "alt": "비누 그 자체 — 통통한 파스텔 사각 비누 한 덩이(soap=비누, 사물 의미), 표면에 보들보들한 거품 몇 방울",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

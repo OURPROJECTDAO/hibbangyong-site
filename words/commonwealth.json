@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/commonwealth/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/commonwealth/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "commonwealth",
+ "slug": "commonwealth",
+ "url": "https://hibbangyong.com/words/commonwealth/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "영연방 — 예전에 영국이 다스리던 나라들이 독립한 뒤에도 같은 자격으로 함께하는 나라들의 모임. 넓게는 '모두 함께 잘 살자고 뭉친 나라나 공동체'를 부르는 이름으로도 써.",
+ "gloss_ko": "영연방",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "영국, 캐나다, 인도, 호주 대표들이 한 테이블에 둘러앉아 회의를 해. 누구 자리가 더 높지도 않아.",
+  "이 나라들은 예전에 영국이 다스리던 땅이었어. 지금은 다 독립했는데도 같은 자격으로 계속 모이는 거야.",
+  "common은 함께, wealth는 잘 사는 거야. 그래서 이 말은 다 같이 잘 살자고 뭉친 공동체를 부르는 이름이기도 해. 호주의 공식 나라 이름과 미국 몇몇 주의 공식 이름에도 이 말이 들어가.",
+  "헷갈리면 안 되는 건, 한 나라가 다른 땅을 다스리는 제국이랑은 다르다는 거야. 전쟁 때 같이 싸우자는 약속이나 돈을 모아 두는 금고도 아니야."
+ ],
+ "scene": "영국·캐나다·인도·호주 대표들이 한 테이블에 둘러앉아 하는 회의",
+ "examples": [
+  {
+   "en": "Canada and India are both members of the Commonwealth.",
+   "ko": "캐나다랑 인도는 둘 다 영연방 회원국이야."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "이웃한 두 나라가 크게 다툰 뒤 서로 대사관을 닫고 국경을 막았어. 물건도 사고팔지 않고, 회의도 함께 열지 않은 채 각자 따로 지내고 있어. 이 두 나라의 관계가 'commonwealth'야?",
+   "choices": [
+    "응, commonwealth 맞아",
+    "아니, commonwealth 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, commonwealth 아니야",
+   "why": "맞아, 이건 commonwealth가 아니야! 두 나라가 대사관을 닫고 국경을 막은 채 물건도 안 사고팔고 회의도 따로 안 여니까, 함께 모여 다 같이 잘 살자는 commonwealth랑은 정반대인 거지."
+  },
+  {
+   "type": "ox",
+   "question": "4년마다 한 번 열리는 스포츠 대회에 뉴질랜드, 케냐, 자메이카 선수들이 함께 나와. 이 나라들은 예전에 영국이 다스렸다가 독립했고, 지금은 대회를 여는 모임에 모두 같은 자격의 회원국으로 속해 있어. 이 나라들의 모임이 'commonwealth'야?",
+   "choices": [
+    "응, commonwealth 맞아",
+    "아니, commonwealth 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, commonwealth 맞아",
+   "why": "맞아! 뉴질랜드, 케냐, 자메이카는 예전에 영국이 다스렸다가 독립했는데, 지금도 모두 같은 자격의 회원국으로 한 모임에 속해 있잖아. 딱 그런 나라들의 모임이 commonwealth야."
+  },
+  {
+   "type": "choice",
+   "question": "사회 시간에 나라들이 모이거나 묶이는 네 가지 모습을 배웠어. 그중 'the Commonwealth'에 해당하는 건?",
+   "choices": [
+    "예전에 한 나라 밑에 있던 여러 나라가, 이제 각자 정부를 두고 같은 자리에서 의논하는 모임",
+    "힘센 나라 하나가 멀리 있는 여러 땅을 차지하고, 그곳에 명령을 내리며 세금을 걷는 나라",
+    "전쟁이 나면 서로 군대를 보내 함께 싸우기로, 몇몇 나라가 굳게 약속해 둔 모임",
+    "여러 나라가 똑같이 돈을 내서 한 곳에 모아 두고, 필요할 때 함께 꺼내 쓰는 금고"
+   ],
+   "answer_index": 0,
+   "answer": "예전에 한 나라 밑에 있던 여러 나라가, 이제 각자 정부를 두고 같은 자리에서 의논하는 모임",
+   "why": "맞아! 예전엔 한 나라 밑에 있었어도 지금은 각자 정부를 두고, 누구 자리가 더 높은 것도 없이 같은 자리에서 의논하잖아. 바로 그게 the Commonwealth야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-commonwealth",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-commonwealth"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/commonwealth.webp",
+  "alt": "영국·캐나다·인도·호주 대표들이 한 테이블에 둘러앉아 하는 회의",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

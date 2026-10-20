@@ -1,0 +1,83 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/worldview/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/worldview/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "worldview",
+ "slug": "worldview",
+ "url": "https://hibbangyong.com/words/worldview/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "세계관 — 세상이 어떻게 돌아가고 무엇이 중요한지에 대해 깔고 있는 큰 믿음의 틀",
+ "gloss_ko": "세상 보는 큰 틀",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "같은 뉴스를 봐도 누구는 '역시 세상은 불공평해', 누구는 '그래도 세상은 점점 나아져'라고 해.",
+  "둘이 다른 건 뉴스 탓이 아니야. 밑에 깔린 세상에 대한 큰 믿음이 달라서야.",
+  "라면이 맛있냐 같은 의견 하나가 아니라, 모든 걸 비춰 보는 안경 전체라고 생각하면 돼.",
+  "한 사람만 갖는 게 아니야. 한 나라나 옛날 사람들이 다 같이 가진 worldview도 있어."
+ ],
+ "scene": "같은 뉴스를 보고 세상이 불공평하다/나아진다고 다르게 말하는 두 사람",
+ "examples": [
+  {
+   "en": "Growing up on a small island shaped her worldview.",
+   "ko": "작은 섬에서 자란 게 그 애가 세상을 보는 큰 틀을 만들었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "우리 할머니는 '모든 일에는 다 이유가 있다'고 믿으셔. 그래서 시험을 망친 일도, 이사를 간 일도, 비가 와서 소풍이 취소된 일도 전부 그 믿음으로 받아들이셔. 이렇게 모든 일을 받아들이는 밑바탕이 할머니의 'worldview'야?",
+   "choices": [
+    "응, worldview 맞아",
+    "아니, worldview 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, worldview 맞아",
+   "why": "맞아! 할머니는 시험을 망친 일도, 이사를 간 일도, 소풍이 취소된 일도 전부 '모든 일에는 다 이유가 있다'는 믿음으로 받아들이시잖아. 일 하나에 대한 생각이 아니라 모든 일을 비춰 보는 밑바탕이니까 그게 바로 할머니의 worldview인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "과학 시간에 민준이가 온도계 눈금을 읽고 공책에 '24도'라고 숫자만 그대로 적었어. 아무 생각을 덧붙이지 않고 본 대로만 적은 거야. 이 기록이 민준이의 'worldview'야?",
+   "choices": [
+    "응, worldview 맞아",
+    "아니, worldview 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, worldview 아니야",
+   "why": "맞아! 민준이는 온도계에 보인 24도를 생각 하나 안 붙이고 그대로 적었을 뿐이야. 세상이 어떻게 돌아가는지에 대한 큰 믿음이 하나도 안 들어갔으니까 worldview가 아닌 거지."
+  },
+  {
+   "type": "choice",
+   "question": "친구 네 명 이야기야. 이 중에서 그 친구의 'worldview'가 드러난 건?",
+   "choices": [
+    "라면이 떡볶이보다 맛있다고 생각해서, 분식집에 가면 늘 라면만 시켜.",
+    "여러 나라를 여행해 봐서, 외국 음식이나 말을 남들보다 훨씬 많이 알아.",
+    "세상은 결국 힘센 사람 편이라고 믿어서, 뉴스도 학교 일도 다 그렇게 읽어.",
+    "오늘 아침에 엄마랑 싸워서, 하루 종일 눈에 보이는 게 다 짜증 나."
+   ],
+   "answer_index": 2,
+   "answer": "세상은 결국 힘센 사람 편이라고 믿어서, 뉴스도 학교 일도 다 그렇게 읽어.",
+   "why": "맞아! 세상은 결국 힘센 사람 편이라는 믿음이 밑에 깔려 있어서, 뉴스도 학교 일도 전부 그 믿음으로 읽잖아. 이렇게 모든 걸 비춰 보는 큰 믿음이 바로 worldview야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "ideology"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-worldview",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-worldview"
+ },
+ "image": null
+}

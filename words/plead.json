@@ -1,0 +1,91 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/plead/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/plead/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "plead",
+ "slug": "plead",
+ "url": "https://hibbangyong.com/words/plead/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "간청하다 — 결정권을 가진 사람에게, 해 달라고(또는 하지 말아 달라고) 간절하게 사정하다",
+ "gloss_ko": "간절히 사정하다",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "동생 휴대폰을 엄마가 가져가려고 할 때, 네가 '이번 한 번만, 제발' 하고 몇 번이고 말해 본 적 있지?",
+  "정할 수 있는 건 엄마야. 너는 들어 달라고 간절하게 말하는 것밖에 못 해. 그 마음이 plead야.",
+  "나를 위해서든 남을 위해서든, 해 달라는 거든 멈춰 달라는 거든 다 돼. 사정을 설명하면서 이유를 말해도 돼.",
+  "근데 가볍게 '해 줄래?' 하는 부탁이나, 이기려고 맞서서 따지는 거랑은 달라."
+ ],
+ "scene": "엄마가 동생 휴대폰을 가져가려 할 때 한 번만 봐 달라고 거듭 말하는 장면",
+ "examples": [
+  {
+   "en": "Mina pleaded with the coach to give her friend one more chance.",
+   "ko": "미나가 코치한테 친구에게 한 번만 더 기회를 달라고 간절하게 사정했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "시험 전날, 민수가 담임 선생님께 시험을 하루만 미뤄 달라고 몇 번이고 간절하게 사정했어. 미룰지 말지는 선생님이 정해. 민수가 한 건 'plead'야?",
+   "choices": [
+    "응, plead 맞아",
+    "아니, plead 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, plead 맞아",
+   "why": "맞아! 미룰지 말지는 선생님이 정하고, 민수는 하루만 미뤄 달라고 몇 번이고 간절하게 사정했잖아. 정할 수 있는 사람에게 들어 달라고 간절히 매달리는 것, 그게 바로 plead야."
+  },
+  {
+   "type": "ox",
+   "question": "체육 시간에 감독님이 선수들에게 지금 당장 운동장 열 바퀴를 뛰라고 시켰어. 감독님이 한 건 'plead'야?",
+   "choices": [
+    "응, plead 맞아",
+    "아니, plead 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, plead 아니야",
+   "why": "맞아! 감독님은 뛰라고 정할 수 있는 사람이라 선수들한테 그냥 시킨 거야. plead는 정할 힘이 없는 쪽이 정할 수 있는 사람한테 들어 달라고 간절하게 사정하는 거니까, 이건 반대 방향이지."
+  },
+  {
+   "type": "ox",
+   "question": "미술 시간에 지우개를 두고 온 지호가 옆자리 친구에게 '지우개 좀 빌려줄래?' 하고 한 번 물어봤어. 친구는 바로 빌려줬어. 이런 경우도 'plead'야?",
+   "choices": [
+    "응, plead 맞아",
+    "아니, plead 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, plead 아니야",
+   "why": "잘 골랐어! 지호는 지우개 좀 빌려줄래 하고 가볍게 물어본 거라서, 간절하게 사정하는 plead랑은 거리가 멀어. 이렇게 편하게 해 달라고 하는 건 그냥 부탁(이건 ask야)이야."
+  }
+ ],
+ "synonyms": [
+  "appeal"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "ask",
+   "kind": "confusable",
+   "from": "그냥 부탁하다(ask)"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-plead",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-plead"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/plead.webp",
+  "alt": "엄마가 동생 휴대폰을 가져가려 할 때 한 번만 봐 달라고 거듭 말하는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

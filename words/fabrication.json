@@ -1,0 +1,96 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/fabrication/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/fabrication/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "fabrication",
+ "slug": "fabrication",
+ "url": "https://hibbangyong.com/words/fabrication/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "날조(없던 일을 지어낸 거짓) — 남을 속이려고 없던 일을 사실처럼 지어낸 것",
+ "gloss_ko": "지어낸 거짓",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "수행평가 실험은 안 해 놓고, 결과표만 그럴듯하게 채워서 냈어.",
+  "뉴스에는 그 사람이 한 적도 없는 말이 그 사람 말로 실렸어.",
+  "둘 다 없던 걸 새로 지어낸 거고, 남을 속이려고 한 거야. 이게 fabrication이야.",
+  "있던 일을 조금 부풀린 과장이나, 모르고 틀린 실수랑은 달라. 처음부터 없던 걸 만든 거야."
+ ],
+ "scene": "수행평가 실험을 안 하고 결과표만 채워 낸 상황",
+ "examples": [
+  {
+   "en": "The newspaper said sorry because the singer's interview was a complete fabrication.",
+   "ko": "그 가수 인터뷰가 전부 지어낸 거라서 신문사가 사과했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "어떤 식당 사장이 손님들이 쓴 적도 없는 칭찬 후기를 자기가 손님인 척 열 개나 써서 배달 앱에 올렸어. 이 후기들은 'fabrication'이야?",
+   "choices": [
+    "응, fabrication 맞아",
+    "아니, fabrication 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, fabrication 맞아",
+   "why": "맞아! 손님들은 그런 후기를 쓴 적이 없는데, 사장이 손님인 척 열 개나 새로 지어내서 앱을 보는 사람들을 속인 거잖아. 없던 걸 지어내서 남을 속였으니까 이게 바로 fabrication이야."
+  },
+  {
+   "type": "ox",
+   "question": "교차로에서 차 두 대가 부딪쳤어. 한 운전자가 자기 차 블랙박스에 실제로 찍힌 사고 영상을 손대지 않고 경찰에게 그대로 보여 줬어. 이 영상은 'fabrication'이야?",
+   "choices": [
+    "응, fabrication 맞아",
+    "아니, fabrication 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, fabrication 아니야",
+   "why": "맞아! 이 영상은 블랙박스에 실제로 찍힌 사고를 손대지 않고 그대로 보여 준 거라서, 없던 일을 지어낸 게 아니라 진짜 기록이야. fabrication은 없던 걸 사실처럼 만들어 내는 거니까, 이 영상은 fabrication이 아니야."
+  },
+  {
+   "type": "choice",
+   "question": "네 친구가 각자 사실과 다른 걸 했어. 이 중에서 'fabrication'이라고 부를 수 있는 건 누구 거야?",
+   "choices": [
+    "민호가 12등을 해 놓고 친구들한테 거의 10등 했다고 말했어.",
+    "수진이가 시험 날짜를 잘못 알고 친구들한테 틀리게 알려 줬어.",
+    "반장이 하지도 않은 봉사활동을 했다고 확인서에 적어 냈어.",
+    "지훈이가 옆 반에서 들은 소문을 친구들한테 그대로 전했어."
+   ],
+   "answer_index": 2,
+   "answer": "반장이 하지도 않은 봉사활동을 했다고 확인서에 적어 냈어.",
+   "why": "맞아! 반장은 봉사활동을 하지도 않았는데 했다고 확인서에 적어 냈잖아. 없던 일을 새로 지어내서 선생님을 속이려고 한 거니까, 바로 그게 fabrication이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "lie",
+   "kind": "confusable",
+   "from": "vs lie"
+  },
+  {
+   "word": "fiction",
+   "kind": "confusable",
+   "from": "vs fiction"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-fabrication",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-fabrication"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/fabrication.webp",
+  "alt": "수행평가 실험을 안 하고 결과표만 채워 낸 상황",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

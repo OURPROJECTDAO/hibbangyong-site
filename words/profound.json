@@ -1,0 +1,96 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/profound/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/profound/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "profound",
+ "slug": "profound",
+ "url": "https://hibbangyong.com/words/profound/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "아주 깊은 — 겉만 살짝이 아니라 속 바닥까지 닿아 크게 바꿔 놓는",
+ "gloss_ko": "아주 깊은",
+ "level": {
+  "code": "L6",
+  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "어떤 말이나 일은 귀에 살짝 닿았다 그냥 지나가. 근데 어떤 건 마음 제일 밑바닥까지 쑥 내려가.",
+  "할머니 한마디가 며칠이 지나도 안 잊히고 자꾸 떠올라서, 네가 뭘 정할 때마다 다르게 하게 만든 적 있지? 그만큼 깊이 파고든 거야.",
+  "말만 그런 게 아니야. 큰일을 한 번 겪고 나면 사람 속이 뿌리째 달라지기도 해. 겉만 톡 스치는 게 아니라 제일 아래 바닥까지 닿는 거.",
+  "그게 profound야."
+ ],
+ "scene": "할머니 한마디가 며칠 뒤에도 떠올라 결정에 영향 주는 장면",
+ "examples": [
+  {
+   "en": "Moving to a new country made a profound change in his life.",
+   "ko": "새로운 나라로 이사 간 게 걔 삶을 아주 깊이 바꿔 놨어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "수영장이 어른 키보다 훨씬 깊어서 서면 바닥에 발이 안 닿았어. 이 물의 깊이를 'profound'라고 해?",
+   "choices": [
+    "응, profound 맞아",
+    "아니, profound 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, profound 아니야",
+   "why": "맞아! 물이 아무리 깊어도 그건 그냥 물의 깊이거든. profound는 마음 제일 밑바닥까지 쑥 닿는 깊이라서, 수영장 물은 여기 안 들어가는 거야."
+  },
+  {
+   "type": "ox",
+   "question": "손가락을 문틈에 찧어서 그 순간 너무 아파 눈물이 핑 돌았어. 이 아픔을 'profound'라고 해?",
+   "choices": [
+    "응, profound 맞아",
+    "아니, profound 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, profound 아니야",
+   "why": "맞아! 손가락을 콱 찧은 그 아픔은 순간 확 세게 오는 거지, 며칠 지나도 네 마음 바닥까지 남는 게 아니거든. 그래서 profound가 아니라고 한 게 딱 맞아."
+  },
+  {
+   "type": "choice",
+   "question": "네 사람이 자기가 겪은 일을 말했어. 그 일이 'profound'하다고 할 수 있는 사람은 누구야?",
+   "choices": [
+    "어떤 책을 읽고 나서, 내가 옳고 그른 걸 판단하는 기준이 통째로 바뀌었어.",
+    "무서운 영화를 봐서 그날 밤엔 좀 무서웠는데, 다음 날 아침엔 다 잊어버렸어.",
+    "새 게임 규칙이 너무 얽혀 있어서 다 외우는 데 한참 걸렸어.",
+    "길에서 귀여운 강아지를 만나서 잠깐 기분이 좋아졌어."
+   ],
+   "answer_index": 0,
+   "answer": "어떤 책을 읽고 나서, 내가 옳고 그른 걸 판단하는 기준이 통째로 바뀌었어.",
+   "why": "맞아! 책 한 권을 읽고 나서 뭐가 옳고 뭐가 틀린지 생각하는 방법이 통째로 바뀌었잖아. 잠깐 느끼고 끝난 게 아니라 그 사람 생각이 아주 깊은 데서부터 바뀐 거라서, 바로 그게 profound인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "deep",
+   "kind": "confusable",
+   "from": "vs deep"
+  },
+  {
+   "word": "intense",
+   "kind": "confusable",
+   "from": "vs intense"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-profound",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-profound"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/profound.webp",
+  "alt": "할머니 한마디가 며칠 뒤에도 떠올라 결정에 영향 주는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

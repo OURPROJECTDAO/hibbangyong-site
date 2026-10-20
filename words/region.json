@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/region/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/region/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "region",
+ "slug": "region",
+ "url": "https://hibbangyong.com/words/region/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "지역 — 넓은 땅을 몇 덩어리로 나눴을 때 그 한 덩어리(한 부분)",
+ "gloss_ko": "지역",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "세계지도를 딱 펼쳐 봐. 온통 땅 하나가 아니라, 여기저기 큰 덩어리로 나뉘어 있거든?",
+  "더운 쪽·추운 쪽으로 나누기도 하고, 한 나라 안을 북쪽·남쪽 큰 덩어리로 나누기도 해.",
+  "한 점이나 한 집이 아니라, 그렇게 크게 묶인 땅 한 조각을 말하는 거야.",
+  "그 큰 땅 한 덩어리, 그게 region이야."
+ ],
+ "scene": "세계지도를 펼쳐 큰 덩어리로 나뉜 땅을 보는 장면",
+ "examples": [
+  {
+   "en": "Penguins live in a very cold region.",
+   "ko": "펭귄은 엄청 추운 지역에 살아."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "큰 섬 하나를 북쪽 덩어리·남쪽 덩어리로 쭉 나눈 다음, 그중 남쪽 큰 덩어리 하나를 가리켰어. 이게 'region'이야?",
+   "choices": [
+    "응, region 맞아",
+    "아니, region 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, region 맞아",
+   "why": "맞아! 큰 섬을 북쪽 덩어리·남쪽 덩어리로 쭉 나눈 다음, 그중 남쪽 큰 덩어리를 콕 가리켰잖아. 땅을 크게 나눠서 그 한 덩어리를 가리킨 거니까, 바로 그게 region인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "친구 넷이 각자 'region'이 뭔지 알려주려고 예를 하나씩 들었어. region을 맞게 쓴 친구는 누구일까?",
+   "choices": [
+    "지구 땅을 더운 쪽·추운 쪽처럼 큰 덩어리로 나눈 것 중, 그 더운 덩어리 하나를 가리킨 친구",
+    "커다란 지도 위에 바늘로 콕, 점 하나만 딱 찍어서 가리킨 친구",
+    "하나도 안 나눈 지구 땅덩이 전부를 통째로 다 가리킨 친구",
+    "책상 위에 굴러다니는 작은 지우개 한 개를 집어 가리킨 친구"
+   ],
+   "answer_index": 0,
+   "answer": "지구 땅을 더운 쪽·추운 쪽처럼 큰 덩어리로 나눈 것 중, 그 더운 덩어리 하나를 가리킨 친구",
+   "why": "맞아! 넓은 땅을 더운 쪽·추운 쪽처럼 큰 덩어리로 쪼갠 다음 그 덩어리 하나를 콕 집었으니까, 바로 그게 region이야. 크게 나눈 땅 한 조각, 딱 그거거든."
+  },
+  {
+   "type": "ox",
+   "question": "지구 땅을 하나도 안 나누고 온 세상 땅 전부를 통째로 다 가리켰어. 이게 'region'이야?",
+   "choices": [
+    "응, region 맞아",
+    "아니, region 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, region 아니야",
+   "why": "맞아! 온 세상 땅을 하나도 안 나누고 통째로 다 가리켰잖아. region은 땅을 나눴을 때 그중 한 덩어리를 말하는 거라서, 통째로 전부는 region이 아닌 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-region",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-region"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/region.webp",
+  "alt": "세계지도를 펼쳐 큰 덩어리로 나뉜 땅을 보는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

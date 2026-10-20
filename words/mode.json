@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/mode/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/mode/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "mode",
+ "slug": "mode",
+ "url": "https://hibbangyong.com/words/mode/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "모드 — 여러 방법이나 상태 중에서 골라 쓰는 한 가지.",
+ "gloss_ko": "모드",
+ "level": {
+  "code": "L6",
+  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "학교 가는 방법이 여러 개 있다고 해봐. 걸어가기, 버스 타기, 자전거 타기!",
+  "이렇게 '하는 방법' 하나하나가 다 mode야.",
+  "게임에서 '쉬움'이나 '어려움'을 고르는 것도, 전화기를 '비행기 상태'로 바꾸는 것도 각각 하나의 mode고.",
+  "여러 방법이나 상태 중에 골라 쓰는 한 가지, 그게 mode야."
+ ],
+ "scene": "학교 가는 여러 방법(걸어서·버스·자전거)",
+ "examples": [
+  {
+   "en": "In this game, you can play in easy mode or hard mode.",
+   "ko": "이 게임에선 쉬움 모드로 할 수도 있고 어려움 모드로 할 수도 있어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "에어컨에서 '냉방'하고 '제습' 중에 '냉방'을 딱 골라서 켜 뒀어. 이렇게 고른 하나를 'mode'라고 해?",
+   "choices": [
+    "응, mode 맞아",
+    "아니, mode 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, mode 맞아",
+   "why": "맞아! 에어컨이 할 수 있는 방법이 냉방도 있고 제습도 있는데, 그중에 냉방 하나를 딱 골라 켰지? 여러 방법 중에 고른 한 가지, 그게 바로 mode야."
+  },
+  {
+   "type": "ox",
+   "question": "상자가 툭 넘어지면서 구슬들이 쏟아져 바닥 사방으로 굴러가. 이게 'mode'야?",
+   "choices": [
+    "응, 이건 mode야",
+    "아니, 이건 mode가 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 이건 mode가 아니야",
+   "why": "맞아! 구슬이 저절로 쏟아져서 아무렇게나 굴러간 거잖아. 이건 누가 골라서 정한 방법도, 상태도 아니니까 mode가 아닌 게 맞아."
+  },
+  {
+   "type": "choice",
+   "question": "네 친구가 각자 하나씩 말했어. 이 중에서 'mode'라고 부를 수 있는 건 뭘까?",
+   "choices": [
+    "게임에서 고를 수 있는 '2인용'이나 '혼자 하기' 같은 진행 방식",
+    "게임을 하다가 갑자기 확 든 신나는 기분",
+    "게임을 살 때 상자에 들어 있던 CD 한 장",
+    "게임 세상에 딱 하나뿐이라 바꿀 수 없는 것"
+   ],
+   "answer_index": 0,
+   "answer": "게임에서 고를 수 있는 '2인용'이나 '혼자 하기' 같은 진행 방식",
+   "why": "맞아! '2인용'이랑 '혼자 하기'는 게임을 하는 여러 방법 중에 네가 하나를 골라 쓰는 거잖아. 그렇게 여러 방식 중에 골라 쓰는 하나, 그게 바로 mode인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-mode",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-mode"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/mode.webp",
+  "alt": "학교 가는 여러 방법(걸어서·버스·자전거)",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

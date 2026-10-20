@@ -1,0 +1,83 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/incur/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/incur/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "incur",
+ "slug": "incur",
+ "url": "https://hibbangyong.com/words/incur/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "(내가 한 일 때문에) 비용·빚·벌·미움 같은 부담을 떠안게 되다",
+ "gloss_ko": "부담을 떠안다",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "뭔가를 하면, 그 일 때문에 부담이 나한테 따라올 때가 있지.",
+  "동아리 부스를 열기로 했더니 재료비가 들고, 약속을 깼더니 친구가 화나고.",
+  "잘못을 해서든 그냥 내가 고른 일이라서든, 그 일 때문에 비용이나 벌, 미움을 떠안는 게 incur야.",
+  "남한테 떠넘기는 것도 아니고, 내 탓 없이 그냥 당하는 것도 아니야. 내가 한 일의 짐이 나한테 얹히는 거야."
+ ],
+ "scene": "내가 한 일 때문에 부담이 나한테 따라오는 상황",
+ "examples": [
+  {
+   "en": "He incurred his coach's anger by skipping practice again.",
+   "ko": "걔는 또 연습을 빠지는 바람에 코치한테 미움을 샀어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "지수가 도서관에서 빌린 책을 2주 늦게 반납해서, 연체료 3천 원을 내게 됐어. 지수가 연체료를 'incur'한 걸까?",
+   "choices": [
+    "응, incur한 거 맞아",
+    "아니, incur한 거 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, incur한 거 맞아",
+   "why": "맞아! 지수가 책을 2주 늦게 반납한 게 지수가 한 일이고, 그 일 때문에 연체료 3천 원을 내게 됐잖아. 내가 한 일 때문에 비용을 떠안은 거니까 바로 그게 incur인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "태민이가 휴대폰 데이터를 다 쓰기 직전에 와이파이로 바꿔서, 추가 요금을 한 푼도 안 내게 됐어. 태민이가 추가 요금을 'incur'한 걸까?",
+   "choices": [
+    "응, incur한 거 맞아",
+    "아니, incur한 거 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, incur한 거 아니야",
+   "why": "맞아! 태민이는 데이터를 다 쓰기 직전에 와이파이로 바꿔서 추가 요금을 한 푼도 안 냈잖아. 부담을 떠안은 게 아니라 피해 간 거니까 incur가 아닌 게 맞아."
+  },
+  {
+   "type": "choice",
+   "question": "민수에게 일어난 일 네 가지야. 이 중에서 민수가 무언가를 'incur'했다고 말할 수 있는 건?",
+   "choices": [
+    "친구들이랑 캠프에 가기로 해서 버스비랑 숙박비를 내게 됐어",
+    "수업 중에 장난을 쳤는데 옆에 있던 짝꿍이 대신 혼났어",
+    "옆집 공사 때문에 민수네 창문이 깨져서 수리비가 나왔어",
+    "공을 차다 창문을 깼는데 주인 아저씨가 수리비를 안 받으셨어"
+   ],
+   "answer_index": 0,
+   "answer": "친구들이랑 캠프에 가기로 해서 버스비랑 숙박비를 내게 됐어",
+   "why": "맞아! 캠프에 가기로 한 건 민수가 고른 일이고, 그 일 때문에 버스비랑 숙박비를 민수가 떠안게 됐잖아. 잘못한 게 없어도 내가 한 일의 비용이 나한테 얹히면 그게 incur야."
+  }
+ ],
+ "synonyms": [
+  "obtain"
+ ],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-incur",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-incur"
+ },
+ "image": null
+}

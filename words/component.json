@@ -1,0 +1,100 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/component/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/component/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "component",
+ "slug": "component",
+ "url": "https://hibbangyong.com/words/component/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "하나를 이루고 있는 여러 조각 중 한 조각",
+ "gloss_ko": "하나를 이루는 한 조각",
+ "level": {
+  "code": "L6",
+  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "자전거 한 대를 싹 뜯어서 바닥에 늘어놨다고 해봐. 바퀴, 체인, 안장, 나사 하나까지.",
+  "그 하나하나가 다 모여야 자전거가 되거든? 하나만 빼도 그건 자전거가 아니야.",
+  "손에 안 잡혀도 돼. 노래를 이루는 박자도, 잘 자는 것도 튼튼한 몸을 이루는 한 조각이야.",
+  "떨어져 나와 굴러다니는 부스러기 말고, 뭔가를 이루고 있는 한 조각. 그게 component야."
+ ],
+ "scene": "자전거를 통째로 뜯어 바닥에 늘어놓은 조각들(바퀴·체인·안장·나사)",
+ "examples": [
+  {
+   "en": "A beat is one component of a song, and the words are another.",
+   "ko": "박자는 노래를 이루는 한 조각이고, 가사는 또 다른 조각이야."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "미술 시간이 끝나고 은지 책상 밑에 색종이를 오리고 남은 자투리 한 조각이 떨어져 있었어. 은지가 그걸 주워 들고 '이건 내 작품의 component야'라고 했어. 은지 말이 맞을까?",
+   "choices": [
+    "응, 자투리 한 조각도 component 맞아",
+    "아니, 자투리 한 조각은 component 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 자투리 한 조각은 component 아니야",
+   "why": "맞아, 잘 골랐어! 그 자투리는 오리고 남아서 툭 떨어져 나온 거잖아. 지금 은지 작품에 붙어서 뭔가를 이루고 있는 게 아니니까 component가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "다혜네 집 벽에 걸린 시계가 잘 돌아가고 있어. 이 시계의 'component'를 하나만 고른다면 넷 중 뭘까?",
+   "choices": [
+    "시계를 벽에 걸어 주는 못 하나",
+    "시계 뒤에 붙여 둔 이름표 스티커",
+    "시계 앞에서 째깍째깍 도는 짧은 바늘",
+    "시계를 닦을 때 쓰는 마른 걸레"
+   ],
+   "answer_index": 2,
+   "answer": "시계 앞에서 째깍째깍 도는 짧은 바늘",
+   "why": "맞아! 째깍째깍 도는 짧은 바늘은 시계 안에서 시계를 이루고 있는 조각이거든. 그 바늘을 빼버리면 시계가 시계 노릇을 못 하잖아. 그래서 바로 그게 component인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "미술 시간에 서준이네 모둠이 커다란 벽화 한 장을 다 같이 그려 완성했어. 선생님이 벽화를 보며 이야기하는데 서준이가 '우리가 완성한 벽화 한 장'을 이 벽화의 'component'라고 말했어. 서준이 말이 맞을까?",
+   "choices": [
+    "아니, 벽화 한 장은 component 아니야",
+    "응, 벽화 한 장도 component 맞아"
+   ],
+   "answer_index": 0,
+   "answer": "아니, 벽화 한 장은 component 아니야",
+   "why": "응, 딱 맞게 골랐어! 벽화 한 장은 그 자체로 다 만들어진 하나거든. 그 안에 들어간 서준이가 칠한 하늘 한 조각, 친구가 그린 나무 한 그루 같은 게 component인 거야."
+  }
+ ],
+ "synonyms": [
+  "element",
+  "factor",
+  "portion"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "part",
+   "kind": "confusable",
+   "from": "vs part"
+  },
+  {
+   "word": "piece",
+   "kind": "confusable",
+   "from": "vs piece"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-component",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-component"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/component.webp",
+  "alt": "자전거를 통째로 뜯어 바닥에 늘어놓은 조각들(바퀴·체인·안장·나사)",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

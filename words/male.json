@@ -1,0 +1,89 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/male/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/male/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "male",
+ "slug": "male",
+ "url": "https://hibbangyong.com/words/male/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "수컷·남자 — 자라면 아빠 쪽이 되는 성이야. 새끼를 배거나 낳지 않고, 사람한테도 동물한테도 똑같이 써.",
+ "gloss_ko": "수컷·남자",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "강아지가 새끼를 다섯 마리 낳았어. 낳은 건 엄마 강아지야. 옆에 있는 아빠 강아지는 새끼를 못 낳지?",
+  "이 아빠 쪽, 자라서 아빠가 되는 쪽이 male이야.",
+  "사람도 똑같아. 남자면 male이야. 갓 태어난 수컷 강아지도, 다 큰 아저씨도 다 male이고.",
+  "동물이든 사람이든, 엄마·암컷의 반대쪽 — 그게 male이야."
+ ],
+ "scene": "강아지가 새끼 다섯을 낳고 옆의 아빠 강아지는 못 낳는 장면",
+ "examples": [
+  {
+   "en": "The zookeeper said the new tiger is a male.",
+   "ko": "동물원 사육사가 새로 온 호랑이는 수컷이라고 했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "할머니가 마당에서 닭을 가리키며 \"저 닭이 알을 낳고 병아리를 품는 엄마 닭이야\"라고 했어. 이 닭은 'male'일까?",
+   "choices": [
+    "응, male 맞아.",
+    "아니, male 아니야."
+   ],
+   "answer_index": 1,
+   "answer": "아니, male 아니야.",
+   "why": "맞아! 알을 낳고 병아리를 품는 건 엄마 쪽이거든. male은 그 반대쪽, 아빠가 되는 쪽이니까 이 닭은 male이 아닌 게 맞아."
+  },
+  {
+   "type": "ox",
+   "question": "농장에서 소가 송아지를 낳았어. 낳은 소 옆에 서 있는, 송아지를 배지도 낳지도 않는 쪽 소가 있어. 이 소는 'male'일까?",
+   "choices": [
+    "응, male 맞아.",
+    "아니, male 아니야."
+   ],
+   "answer_index": 0,
+   "answer": "응, male 맞아.",
+   "why": "맞아! 송아지를 배지도 낳지도 않고 옆에 서 있는 쪽, 그러니까 자라서 아빠 소가 되는 쪽이라서 바로 그게 male인 거야. 강아지 때랑 똑같지?"
+  },
+  {
+   "type": "choice",
+   "question": "동물병원에서 의사 선생님이 갓 태어난 새끼 고양이를 보더니 'male'이래. 이 고양이는 어떤 고양이일까?",
+   "choices": [
+    "자라서 아빠 고양이가 되는 쪽이야.",
+    "자라서 엄마 고양이가 되는 쪽이야.",
+    "아직 아기라서 male이 아니야, 다 커야 male이지.",
+    "male은 사람한테만 쓰고 고양이엔 안 써."
+   ],
+   "answer_index": 0,
+   "answer": "자라서 아빠 고양이가 되는 쪽이야.",
+   "why": "맞아! 이 고양이는 지금은 아기여도 자라면 아빠 고양이가 되는 쪽이거든. 그래서 선생님이 male이라고 한 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "female"
+ ],
+ "confusable": [],
+ "related_scene": [
+  "gender"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-male",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-male"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/male.webp",
+  "alt": "강아지가 새끼 다섯을 낳고 옆의 아빠 강아지는 못 낳는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

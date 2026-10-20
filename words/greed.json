@@ -1,0 +1,76 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/greed/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/greed/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "greed",
+ "slug": "greed",
+ "url": "https://hibbangyong.com/words/greed/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "있을 만큼 있는데도 더, 더 갖고 싶어서 멈추지 못하는 마음",
+ "gloss_ko": "더 갖고 싶어 못 멈추는 마음",
+ "level": {
+  "code": "L6",
+  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "사탕을 나눠 주는데, 넌 벌써 손에 한가득이야. 그런데 마음이 자꾸 그래. 더, 더, 더.",
+  "남은 것까지 다 내 쪽으로 쓸어 오고 싶어져. 배가 부른데도 멈춰지지가 않거든?",
+  "사탕만 그런 게 아니야. 돈도, 힘도, 사람들 눈길도 그렇게 돼. 가져도 가져도 안 끝나.",
+  "그냥 뭘 갖고 싶은 거랑은 달라. 그건 하나 가지면 끝나잖아. 이건 안 끝나. 그게 greed야."
+ ],
+ "scene": "사탕을 한가득 받고도 남은 것까지 제 쪽으로 쓸어 오고 싶은 마음",
+ "examples": [
+  {
+   "en": "I already had a big pile of candy, but my greed made me grab the last one too.",
+   "ko": "이미 사탕이 한가득 있었는데도 욕심 때문에 마지막 하나까지 집었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "딱지 놀이를 하던 아이 넷이 속마음을 말했어. 이 중에 마음이 'greed'인 아이는 누구일까?",
+   "choices": [
+    "딱지를 제 통에 가득 채워 놓고도, 친구들 통에 남은 것까지 제 쪽으로 옮겨 놓고 싶어 해.",
+    "딱지가 하나도 없어서, 딱 한 개만 생기면 참 좋겠다고 조용히 생각하고 있어.",
+    "친구가 저보다 반짝이는 딱지를 가진 게 자꾸 눈에 밟혀서 마음이 콕콕 아파.",
+    "딱지가 통에 가득 차 있어서, 반쯤은 동생한테 덜어 주면 좋겠다고 생각해."
+   ],
+   "answer_index": 0,
+   "answer": "딱지를 제 통에 가득 채워 놓고도, 친구들 통에 남은 것까지 제 쪽으로 옮겨 놓고 싶어 해.",
+   "why": "맞아! 통이 이미 가득한데도 친구 것까지 더 가져오고 싶은 거, 그게 바로 안 끝나는 마음이야. 넉넉한데도 멈춰지지가 않는 거, 그게 greed거든."
+  },
+  {
+   "type": "ox",
+   "question": "오늘은 반에서 생일 축하를 하는 날이야. 은수는 자기 생일이 아닌데도 노래도 자기가 부르고, 촛불도 자기가 끄고, 선물 상자도 자기가 열겠다고 계속 손을 들어. 아침부터 아이들 눈길은 줄곧 은수한테 가 있었어. 이런 마음도 'greed'야?",
+   "choices": [
+    "응, greed 맞아.",
+    "아니, greed 아니야."
+   ],
+   "answer_index": 0,
+   "answer": "응, greed 맞아.",
+   "why": "맞아! 은수는 지금 노래도, 촛불도, 선물도, 사람들 눈길까지 전부 자기 쪽으로 끌어오고 싶어서 멈추질 못하잖아. 이렇게 가져도 가져도 끝이 안 나는 마음이 바로 greed인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "envy"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-greed",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-greed"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/greed.webp",
+  "alt": "사탕을 한가득 받고도 남은 것까지 제 쪽으로 쓸어 오고 싶은 마음",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

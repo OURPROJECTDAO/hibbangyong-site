@@ -1,0 +1,97 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/retrospective/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/retrospective/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "retrospective",
+ "slug": "retrospective",
+ "url": "https://hibbangyong.com/words/retrospective/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "되돌아보는(회고하는) — 지금 자리에서 지나간 일을 되짚어 돌아보는",
+ "gloss_ko": "지난 일 돌아보는",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "1년 동안 찍은 사진을 처음부터 쭉 넘겨 본다고 쳐. 잘한 일도, 아쉬운 일도 다 다시 보이지.",
+  "이렇게 지금 자리에서 지나간 일 쪽으로 눈을 돌려 되짚는 게 retrospective야. 꼭 내 일이 아니어도 돼. 화가가 평생 그린 그림을 처음 것부터 모아 보여 주는 전시도 이렇게 불러.",
+  "후회나 그리움 같은 감정이 핵심이 아니야. 좋았던 일이든 나빴던 일이든 다시 짚어 보는 거야. 앞날을 내다보는 거랑은 방향이 반대고.",
+  "retro-가 '뒤로'라는 뜻이라서 뒤를 돌아본다고 기억하면 돼. 옛날 스타일을 말하는 '레트로'랑은 다른 말이야."
+ ],
+ "scene": "1년 치 사진을 처음부터 넘겨 보며 한 해를 되짚기",
+ "examples": [
+  {
+   "en": "Our school newspaper took a retrospective look at ten years of school festivals.",
+   "ko": "우리 학교 신문이 지난 10년 동안의 학교 축제를 쭉 되짚어 보는 기사를 실었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "졸업을 한 달 앞두고 우리 반은 3년 동안 쓴 학급 일지를 첫 장부터 다시 읽으며 그동안 있었던 일을 하나씩 짚어 봤어. 이건 'retrospective'한 활동이야?",
+   "choices": [
+    "응, retrospective 맞아",
+    "아니, retrospective 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, retrospective 맞아",
+   "why": "맞아! 졸업을 앞둔 지금 자리에서 3년 동안 쓴 학급 일지를 첫 장부터 다시 읽으며 지나간 일을 하나씩 짚어 봤잖아. 뒤를 돌아보며 되짚은 거니까 바로 retrospective한 활동이야."
+  },
+  {
+   "type": "ox",
+   "question": "방학 시작 전날 밤, 나는 다가올 방학 한 달 동안 날마다 할 공부와 운동을 적은 계획표를 새로 짰어. 이건 'retrospective'한 활동이야?",
+   "choices": [
+    "응, retrospective 맞아",
+    "아니, retrospective 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, retrospective 아니야",
+   "why": "맞아! 방학 전날 밤에 짠 계획표는 다가올 한 달을 미리 내다보는 거지, 지나간 일을 되짚는 게 아니잖아. retrospective는 뒤를 돌아보는 거라서 방향이 딱 반대인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "학급 텃밭을 1년 동안 가꾼 반 아이들이 학년 말에 봄부터 가을까지 쓴 관찰 일지를 첫 장부터 다시 넘겨 봤어. 잘 자란 방울토마토, 처음 딴 상추 같은 뿌듯한 이야기가 대부분이었고 아쉽다는 말은 거의 없었어. 이런 경우도 'retrospective'야?",
+   "choices": [
+    "응, retrospective 맞아",
+    "아니, retrospective 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, retrospective 맞아",
+   "why": "맞아! 아이들이 학년 말에 관찰 일지를 첫 장부터 다시 넘기면서 봄부터 가을까지 지나간 1년을 되짚었잖아. 뿌듯한 이야기뿐이어도 지난 일 쪽으로 눈을 돌린 거라서 바로 그게 retrospective인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "prospective",
+  "prospective"
+ ],
+ "confusable": [
+  {
+   "word": "reflective",
+   "kind": "confusable",
+   "from": "vs reflective"
+  },
+  {
+   "word": "historical",
+   "kind": "confusable",
+   "from": "vs historical"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-retrospective",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-retrospective"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/retrospective.webp",
+  "alt": "1년 치 사진을 처음부터 넘겨 보며 한 해를 되짚기",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

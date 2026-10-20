@@ -1,0 +1,72 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/stove/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/stove/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "stove",
+ "slug": "stove",
+ "url": "https://hibbangyong.com/words/stove/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "가스레인지 — 냄비를 올리고 불을 켜서 음식을 끓이거나 데우는 부엌 기구",
+ "gloss_ko": "가스레인지",
+ "level": {
+  "code": "L4",
+  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "부엌에서 냄비를 올려놓고 불을 켜서 음식을 끓이는 그 기구가 stove예요.",
+  "엄마가 국을 데우거나 계란을 부칠 때 이 위에 냄비랑 프라이팬을 올려요."
+ ],
+ "scene": "가스레인지(스토브) — 버너 하나에 파란 불꽃 링이 켜진 부엌 가스레인지를 정면에서 통째로",
+ "examples": [
+  {
+   "en": "Mom heated the soup on the stove.",
+   "ko": "엄마가 가스레인지에 국을 데웠어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "부엌에서 음식을 차갑게 보관하려고 문을 열고 우유랑 반찬을 넣어 두는 큰 기계가 있어. 이게 stove야?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 아니야",
+   "why": null
+  },
+  {
+   "type": "choice",
+   "question": "stove는 어느 것일까?",
+   "choices": [
+    "냄비를 올리고 불을 켜서 음식을 끓이거나 데우는 부엌 기구",
+    "옷을 넣고 빙글빙글 돌려서 깨끗하게 빠는 부엌 옆 기계",
+    "책을 여러 칸에 꽂아 세워 두는 나무로 만든 가구",
+    "비 올 때 손에 들고 위로 펼쳐서 머리를 가리는 물건"
+   ],
+   "answer_index": 0,
+   "answer": "냄비를 올리고 불을 켜서 음식을 끓이거나 데우는 부엌 기구",
+   "why": null
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-stove",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-stove"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/stove.webp",
+  "alt": "가스레인지(스토브) — 버너 하나에 파란 불꽃 링이 켜진 부엌 가스레인지를 정면에서 통째로",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

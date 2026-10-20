@@ -1,0 +1,104 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/permanent/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/permanent/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "permanent",
+ "slug": "permanent",
+ "url": "https://hibbangyong.com/words/permanent/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "한 번 그러면 없어지지도 바뀌지도 않고 계속 그대로인.",
+ "gloss_ko": "바뀌지 않고 계속 그대로인",
+ "level": {
+  "code": "L6",
+  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "젖니(아기 이)는 흔들리다 쏙 빠지지? 근데 그 자리에 새로 나는 어른 이는 한 번 나면 평생 안 빠지고 그대로 있거든.",
+  "이렇게 한 번 그렇게 되면, 없어지지도 바뀌지도 않고 계속 그대로 남는 거.",
+  "잠깐 있다 사라지는 거 말고, 영영 그대로인 거 있잖아.",
+  "그게 permanent야."
+ ],
+ "scene": "젖니가 빠진 자리에 나는 어른 이가 평생 그대로 남음",
+ "examples": [
+  {
+   "en": "The hot pan left a permanent mark on our table.",
+   "ko": "뜨거운 냄비가 식탁에 안 지워지는 자국을 남겼어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "무릎을 크게 다쳐서 피가 났는데, 상처가 다 나은 뒤에도 그 자리에 흉터가 계속 남았어. 이 흉터는 'permanent'해?",
+   "choices": [
+    "응, permanent 맞아",
+    "아니, permanent 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, permanent 맞아",
+   "why": "맞아! 흉터는 한 번 생기면 다 나은 뒤에도 없어지지도 바뀌지도 않고 계속 그 자리에 남잖아. 그러니까 바로 그게 permanent인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "겨울 아침 유리창에 하얀 성에가 꼈는데, 해가 뜨고 따뜻해지자 스르르 녹아 사라졌어. 이 성에는 'permanent'해?",
+   "choices": [
+    "응, permanent 맞아",
+    "아니, permanent 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, permanent 아니야",
+   "why": "맞아! 성에는 해가 뜨니까 스르르 녹아서 없어졌잖아. 잠깐 있다 사라지는 거니까 한 번 나면 계속 그대로인 permanent가 아닌 거야. 바로 그래서 아니라고 한 게 딱 맞아."
+  },
+  {
+   "type": "choice",
+   "question": "친구 네 명이 각자 자기 물건을 하나씩 말했어. 이 중에서 'permanent'한 건 뭘까?",
+   "choices": [
+    "팔 피부에 새긴 문신",
+    "볼펜으로 손등에 그린 그림",
+    "삼 년째 메고 다니는 책가방",
+    "거실에 놓인 커다란 소파"
+   ],
+   "answer_index": 0,
+   "answer": "팔 피부에 새긴 문신",
+   "why": "맞아! 문신은 한 번 몸에 새기면 지우고 싶어도 안 지워지고 계속 그대로 있거든. 없어지지도 바뀌지도 않으니까 바로 그게 permanent인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "temporary",
+  "temporary"
+ ],
+ "confusable": [
+  {
+   "word": "lasting",
+   "kind": "confusable",
+   "from": "오래가지만 언젠간 끝남(lasting)"
+  },
+  {
+   "word": "durable",
+   "kind": "confusable",
+   "from": "튼튼함·안 움직임(durable)"
+  },
+  {
+   "word": "constant",
+   "kind": "confusable",
+   "from": "vs constant"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-permanent",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-permanent"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/permanent.webp",
+  "alt": "젖니가 빠진 자리에 나는 어른 이가 평생 그대로 남음",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

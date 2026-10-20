@@ -1,0 +1,83 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/disaster/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/disaster/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "disaster",
+ "slug": "disaster",
+ "url": "https://hibbangyong.com/words/disaster/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "재난, 재해 — 갑자기 큰일이 터져서 많은 게 부서지고 많은 사람이 크게 힘들어지는 일",
+ "gloss_ko": "많은 게 부서진 큰일",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "큰불이 나서 동네 집들이 와르르 타 버렸어. 사람들은 갈 곳을 잃었지.",
+  "땅이 흔들렸든, 물이 넘쳤든, 누가 실수로 불을 냈든 상관없어. 크게 부서지고 많이 힘들어졌으면 돼.",
+  "넘어져서 무릎 까진 건? 아니야. 그건 그냥 작은 사고거든. 태풍 온다는 소식만 들린 것도 아직 아니야.",
+  "이게 disaster야."
+ ],
+ "scene": "큰불로 동네 집들이 타 버림",
+ "examples": [
+  {
+   "en": "A small candle started a fire, and it became a disaster for the whole town.",
+   "ko": "작은 촛불 하나 때문에 불이 났는데, 그게 온 동네에 큰 재난이 됐어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "밤새 비가 엄청 내려서 산의 흙이 무너져 내렸어. 산 아래 마을의 집 수십 채가 흙에 묻혔고, 사람들은 모두 학교 체육관으로 피해서 지내야 했어. 이 일은 'disaster'야?",
+   "choices": [
+    "응, disaster 맞아",
+    "아니, disaster 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, disaster 맞아",
+   "why": "맞아! 밤새 내린 비 때문에 산의 흙이 갑자기 무너져서 집 수십 채가 흙에 묻혔잖아. 마을 사람들이 모두 집을 떠나 학교 체육관에서 지내야 했으니까, 이건 바로 disaster인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "강가에서 큰 불꽃 축제가 열렸어. 온 도시 사람들이 수만 명이나 모여서 하늘에 터지는 불꽃을 보며 다 같이 손뼉 치고 환호했어. 이 일은 'disaster'야?",
+   "choices": [
+    "응, disaster 맞아",
+    "아니, disaster 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, disaster 아니야",
+   "why": "맞아! 불꽃 축제에는 사람이 수만 명이나 모였지만, 부서진 것도 없고 힘들어진 사람도 없잖아. 다 같이 손뼉 치고 환호한 기쁜 날이니까 disaster가 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "급식 시간에 우유를 쏟아서 옷이 다 젖고, 친구들이 쳐다봐서 너무 창피했어. 이런 경우도 'disaster'야?",
+   "choices": [
+    "응, 'disaster' 맞아",
+    "아니, 'disaster' 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 'disaster' 아니야",
+   "why": "맞아! 우유를 쏟아서 옷이 젖고 창피했던 건 속상한 일이지만, 부서진 것도 없고 많은 사람이 크게 힘들어진 것도 아니거든. 그래서 disaster가 아닌 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-disaster",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-disaster"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/disaster.webp",
+  "alt": "큰불로 동네 집들이 타 버림",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

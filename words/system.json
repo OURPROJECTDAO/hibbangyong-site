@@ -1,0 +1,99 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/system/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/system/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "system",
+ "slug": "system",
+ "url": "https://hibbangyong.com/words/system/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "여러 부분이 서로 이어져 한 팀처럼 같이 일하는 짜임새",
+ "gloss_ko": "서로 이어진 짜임새",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "밥을 먹으면 입이 씹고, 배가 받고, 그다음 창자가 이어받아.",
+  "한 군데가 끝나면 바로 다음 군데로 쫙 넘어가지?",
+  "따로따로 노는 게 아니라, 서로 이어져서 한 팀처럼 같이 한 가지 일을 해내는 거야.",
+  "꼭 몸속만 그런 게 아니라, 버스랑 정류장이든 차례랑 규칙이든, 서로 이어져 같이 일하면 다 system이야."
+ ],
+ "scene": "입→배→창자가 차례로 이어져 한 팀으로 음식을 소화시키는 장면",
+ "examples": [
+  {
+   "en": "Our body has a system that breaks down the food we eat.",
+   "ko": "우리 몸엔 먹은 음식을 잘게 부수는, 서로 이어져 같이 일하는 짜임새가 있어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "서랍을 열었더니 단추가 백 개나 그냥 담겨 있어. 단추들은 서랍 속에 쌓여만 있어. 이건 'system'이라고 할 수 있을까?",
+   "choices": [
+    "응, 그건 system이야",
+    "아니, 그건 system이 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 그건 system이 아니야",
+   "why": "맞아! 단추가 그냥 서랍 속에 쌓여만 있고 서로 이어져서 한 가지 일을 같이 하는 게 아니니까, 이건 system이 아닌 게 맞아."
+  },
+  {
+   "type": "choice",
+   "question": "친구가 'system'이라는 말을 새로 배웠어. 아래 자전거 이야기 넷 중에서, 'system'이라고 부르기에 딱 맞는 건 뭘까?",
+   "choices": [
+    "페달과 체인과 바퀴가 서로 맞물려 돌아가며 자전거를 앞으로 굴려 보내는 것",
+    "자전거를 이루는 부품들이 아직 조립 안 된 채 상자 속에 따로따로 담겨 있는 것",
+    "자전거에서 떼어낸 바퀴 한 짝이 마당에서 혼자 데굴데굴 굴러가는 것",
+    "다 만들어진 자전거 세 대가 주차장 거치대에 나란히 줄지어 세워져 있는 것"
+   ],
+   "answer_index": 0,
+   "answer": "페달과 체인과 바퀴가 서로 맞물려 돌아가며 자전거를 앞으로 굴려 보내는 것",
+   "why": "맞아! 페달이 돌면 체인이 받고 체인이 바퀴로 넘겨서, 서로 딱 맞물려 자전거를 굴려 보내잖아. 한 팀처럼 같이 한 가지 일을 해내니까 바로 그게 system인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "교실 벽에 '복도에선 천천히 걷기'라는 규칙 한 줄이 딱 붙어 있어. 이 규칙 한 줄을 보고 'system'이라고 불러도 될까?",
+   "choices": [
+    "응, 그 규칙 한 줄도 'system'이라고 부를 수 있어",
+    "아니, 그 규칙 한 줄은 'system'이라고 부를 수 없어"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 그 규칙 한 줄은 'system'이라고 부를 수 없어",
+   "why": "맞아! 규칙 한 줄이 딱 붙어 있어도, 그건 그냥 한 마디일 뿐이야. system은 여러 군데가 서로 이어져서 한 팀처럼 같이 일해야 하는데, 글자 한 줄은 혼자 가만히 있으니까 system이라고 부를 수 없는 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "structure",
+   "kind": "confusable",
+   "from": "vs structure"
+  },
+  {
+   "word": "network",
+   "kind": "confusable",
+   "from": "vs network"
+  }
+ ],
+ "related_scene": [
+  "element",
+  "metric"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-system",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-system"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/system.webp",
+  "alt": "입→배→창자가 차례로 이어져 한 팀으로 음식을 소화시키는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

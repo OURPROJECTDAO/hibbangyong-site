@@ -1,0 +1,91 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/bout/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/bout/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "bout",
+ "slug": "bout",
+ "url": "https://hibbangyong.com/words/bout/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "한차례(한바탕) — 병을 앓거나 어떤 일을 잔뜩 하는 짧은 기간",
+ "gloss_ko": "병·일의 짧은 한바탕",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "시험 전에 사흘 동안 공부만 잔뜩 했어. 시험 끝나니까 그제야 멈췄지.",
+  "이렇게 뭔가를 잔뜩 하거나 겪는 짧은 한차례를 bout라고 해.",
+  "병도 돼. 독감으로 며칠 앓은 것도, 친구랑 한참 웃은 것도 한 bout야.",
+  "몇 년씩 가는 긴 시기는 아니야. 딱 한 번 하고 끝난 일도 아니고, 한동안 이어지는 한 덩어리야."
+ ],
+ "scene": "시험 전 사흘 동안 몰아서 한 공부",
+ "examples": [
+  {
+   "en": "After a short bout of flu, I was back at school on Monday.",
+   "ko": "독감으로 잠깐 앓고 나서 월요일엔 다시 학교에 갔어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "겨울방학 첫 주말에 민준이는 이틀 동안 밤늦게까지 보드게임만 잔뜩 했어. 월요일부터는 다시 안 했지. 이 이틀 동안 보드게임을 한 일은 한 'bout'야?",
+   "choices": [
+    "응, bout 맞아",
+    "아니, bout 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, bout 맞아",
+   "why": "맞아! 민준이는 이틀이라는 짧은 기간 동안 보드게임만 잔뜩 하다가 월요일부터 멈췄잖아. 짧게 몰아서 잔뜩 하고 끝난 그 한 덩어리가 바로 한 bout인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "서연이는 중학교 3년 내내 매일 저녁 화분에 물을 조금씩 줬어. 이 3년 동안 물을 준 일은 한 'bout'야?",
+   "choices": [
+    "응, bout 맞아",
+    "아니, bout 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, bout 아니야",
+   "why": "맞아! 서연이는 3년 내내 매일 저녁 물을 조금씩 줬잖아. bout는 짧은 동안 뭔가를 잔뜩 하는 한차례인데, 이건 오래 꾸준히 이어진 습관이라서 bout가 아니야."
+  },
+  {
+   "type": "choice",
+   "question": "다음 중 'bout'라고 부르기에 가장 알맞은 건?",
+   "choices": [
+    "대회 전 나흘 동안 하루 종일 피아노를 연습한 일",
+    "초등학생 때 6년 동안 같은 학원에 다닌 일",
+    "한 학기 내내 매일 10분씩 줄넘기를 한 일",
+    "수업 시간에 딱 한 번 크게 재채기를 한 일"
+   ],
+   "answer_index": 0,
+   "answer": "대회 전 나흘 동안 하루 종일 피아노를 연습한 일",
+   "why": "맞아! 대회 앞두고 나흘 동안 하루 종일 피아노만 잔뜩 연습하다가 대회가 끝나면 멈추잖아. 짧은 기간에 몰아서 잔뜩 한 한차례, 그게 바로 bout야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "period",
+   "kind": "confusable",
+   "from": "vs period"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-bout",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-bout"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/bout.webp",
+  "alt": "시험 전 사흘 동안 몰아서 한 공부",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

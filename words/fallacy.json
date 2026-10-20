@@ -1,0 +1,91 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/fallacy/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/fallacy/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "fallacy",
+ "slug": "fallacy",
+ "url": "https://hibbangyong.com/words/fallacy/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "잘못된 믿음 — 그럴듯해서 많은 사람이 맞다고 믿지만, 따져 보면 틀린 생각. 틀리게 따지는 방식도 이렇게 불러.",
+ "gloss_ko": "그럴듯한 틀린 생각",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "많은 사람이 당연히 맞다고 믿는데, 따져 보면 틀린 생각이 있어. 예를 들면 '비싼 건 무조건 좋아' 같은 거.",
+  "'다들 그렇게 하니까 맞겠지'처럼 생각을 이어 가는 방식이 꼬인 것도 여기에 들어가.",
+  "일부러 속이는 거짓말하고는 달라. 계산하다 한 번 삐끗한 실수하고도 다르고.",
+  "그럴듯해서 사람들이 믿게 되는데 사실은 틀린 생각이야. fallacy는 바로 그걸 말해."
+ ],
+ "scene": "비싼 물건이 무조건 좋다는 흔한 믿음",
+ "examples": [
+  {
+   "en": "It's a fallacy that expensive shoes always last longer.",
+   "ko": "비싼 신발이 무조건 더 오래 간다는 건 많은 사람이 믿지만 사실은 틀린 생각이야."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "많은 친구들이 '껌을 삼키면 7년 동안 배 속에 그대로 남아 있다'고 믿어. 그런데 과학 책으로 따져 보니 사실이 아니었어. 이런 생각이 'fallacy'야?",
+   "choices": [
+    "응, fallacy 맞아",
+    "아니, fallacy 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, fallacy 맞아",
+   "why": "맞아! 껌을 삼키면 7년 동안 배 속에 남는다는 생각은 많은 친구들이 믿지만, 과학 책으로 따져 보니 사실이 아니었잖아. 그럴듯해서 다들 믿는데 따져 보면 틀린 생각, 그게 바로 fallacy야."
+  },
+  {
+   "type": "ox",
+   "question": "많은 친구들이 '달은 스스로 빛을 내지 않고 햇빛을 받아서 빛난다'고 믿어. 과학 책으로 따져 보니 정말 사실이었어. 이런 생각이 'fallacy'야?",
+   "choices": [
+    "응, fallacy 맞아",
+    "아니, fallacy 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, fallacy 아니야",
+   "why": "맞아! 많은 친구들이 믿는 건 맞지만, 과학 책으로 따져 보니 진짜 사실이었잖아. fallacy는 따져 보면 틀린 생각이라서, 확인해 보니 맞는 이 생각은 fallacy가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "다음 중 'fallacy'라고 부르기에 가장 알맞은 건?",
+   "choices": [
+    "많은 사람이 '머리 좋은 사람은 운동을 못한다'고 믿는데, 실제로 따져 보니 틀린 경우",
+    "민수가 숙제를 안 해 놓고, 혼날까 봐 선생님께 다 했다고 일부러 둘러댄 경우",
+    "지우가 수학 문제를 풀다가 7 더하기 8을 14라고 잘못 적어 버린 경우",
+    "많은 사람이 '물은 100도에서 끓는다'고 믿는데, 실제로 확인해 보니 맞는 경우"
+   ],
+   "answer_index": 0,
+   "answer": "많은 사람이 '머리 좋은 사람은 운동을 못한다'고 믿는데, 실제로 따져 보니 틀린 경우",
+   "why": "맞아! 많은 사람이 머리 좋은 사람은 운동을 못한다고 믿는데, 실제로 따져 보니 틀렸잖아. 그럴듯해서 다들 믿지만 사실은 틀린 생각, 바로 그게 fallacy야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "misconception",
+   "kind": "confusable",
+   "from": "vs misconception"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-fallacy",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-fallacy"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/fallacy.webp",
+  "alt": "비싼 물건이 무조건 좋다는 흔한 믿음",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

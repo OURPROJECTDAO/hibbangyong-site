@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/slack/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/slack/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "slack",
+ "slug": "slack",
+ "url": "https://hibbangyong.com/words/slack/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "느슨한 — 팽팽하게 당겨지지 않아 축 늘어진 (일이 한가하거나 규칙이 느슨한 것도)",
+ "gloss_ko": "느슨한",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "두 사람이 줄 양끝을 잡고 서로 가까이 서 봐. 줄 가운데가 바닥 쪽으로 축 늘어지지?",
+  "당기는 힘이 빠져서 팽팽하지 않은 상태, 그게 slack이야. 힘을 쭉 뺀 근육도 그렇고.",
+  "이 느낌은 일이나 규칙에도 번져. 손님이 뚝 끊겨 한가한 가게, 대충대충 지키는 느슨한 경비도 slack이라고 해.",
+  "끊어진 것도, 고무줄처럼 잘 늘어나는 것도 아냐. 꽉 당겨져 있어야 할 게 힘이 빠져 풀어진 거야."
+ ],
+ "scene": "두 사람이 줄 양끝을 잡고 가까이 서서 줄이 가운데서 늘어진 장면",
+ "examples": [
+  {
+   "en": "Pull the rope harder. It's still slack.",
+   "ko": "밧줄이 아직 축 늘어져 있으니까 더 세게 당겨."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "캠핑장에서 텐트를 쳤는데, 텐트 끈을 말뚝에 대충 걸어 둬서 끈 가운데가 땅 쪽으로 아래로 처져 있어. 이 끈 상태가 'slack'이야?",
+   "choices": [
+    "응, slack 맞아",
+    "아니, slack 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, slack 맞아",
+   "why": "맞아! 끈을 말뚝에 대충 걸어 둬서 당기는 힘이 빠졌고, 그래서 끈 가운데가 땅 쪽으로 처진 거잖아. 팽팽해야 할 끈이 이렇게 축 늘어진 상태가 바로 slack이야."
+  },
+  {
+   "type": "ox",
+   "question": "산책하다가 강아지가 앞으로 힘껏 달려 나가서, 내 손에 쥔 목줄이 일자로 쭉 곧게 펴졌어. 이 목줄 상태가 'slack'이야?",
+   "choices": [
+    "응, slack 맞아",
+    "아니, slack 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, slack 아니야",
+   "why": "그렇지, slack 아니야. 강아지가 힘껏 달려 나가서 목줄이 일자로 쭉 펴졌잖아. 꽉 당겨진 줄이니까 힘이 빠져 축 늘어진 slack이랑은 정반대야."
+  },
+  {
+   "type": "choice",
+   "question": "네 가지 모습이 있어. 이 중에서 'slack'이라고 부를 수 있는 상태는?",
+   "choices": [
+    "빨래줄을 헐겁게 매 놔서 줄 가운데가 바닥 쪽으로 축 처져 있었어",
+    "빨래줄을 두 기둥 사이에 꽉 당겨 매서 일자로 곧게 뻗어 있었어",
+    "기타 줄이 뚝 끊어져서 두 조각이 바닥에 떨어져 있었어",
+    "고무줄을 양손으로 잡고 길게 쭉 늘려서 버티고 있었어"
+   ],
+   "answer_index": 0,
+   "answer": "빨래줄을 헐겁게 매 놔서 줄 가운데가 바닥 쪽으로 축 처져 있었어",
+   "why": "맞아! 빨래줄을 헐겁게 매서 당기는 힘이 빠지니까 가운데가 바닥 쪽으로 축 처진 거잖아. 꽉 당겨져 있어야 할 줄이 힘이 빠져 늘어진 모습, 바로 그게 slack이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "rope"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-slack",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-slack"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/slack.webp",
+  "alt": "두 사람이 줄 양끝을 잡고 가까이 서서 줄이 가운데서 늘어진 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

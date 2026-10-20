@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/negligent/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/negligent/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "negligent",
+ "slug": "negligent",
+ "url": "https://hibbangyong.com/words/negligent/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "부주의한 — 맡은 일을 제대로 챙기지 않아서 탈이 나게 한",
+ "gloss_ko": "맡은 일을 소홀히 한",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "너 이번 주 교실 문단속 당번이었잖아. 근데 신경 안 쓰고 그냥 갔어.",
+  "밤새 창문이 열려 있어서 교실이 비에 다 젖었어. 이렇게 맡은 일을 안 챙겨서 탈이 나면 negligent야.",
+  "의사가 환자를 제대로 안 살폈을 때, 부모가 어린 아이를 혼자 뒀을 때, 회사가 고장 난 기계를 그냥 뒀을 때도 다 이 말을 써.",
+  "그냥 손이 미끄러진 실수나, 할 일 없는 날 뒹구는 게으름이랑은 달라. 핵심은 내가 챙겨야 할 일을 소홀히 했다는 거야."
+ ],
+ "scene": "교실 문단속 당번이 그냥 가서 밤새 비에 교실이 젖음",
+ "examples": [
+  {
+   "en": "The school was found negligent after a student got hurt on the broken stairs.",
+   "ko": "부서진 계단에서 학생이 다친 뒤, 학교가 관리를 소홀히 했다는 판정을 받았어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "식당 주인이 매일 냉장고 온도를 확인하는 게 자기 일인데, 일주일 동안 한 번도 안 봤어. 결국 고기가 상해서 손님들이 배탈이 났어. 이 주인은 'negligent'야?",
+   "choices": [
+    "응, negligent 맞아",
+    "아니, negligent 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, negligent 맞아",
+   "why": "맞아! 냉장고 온도 확인은 주인이 맡은 일인데 일주일 내내 안 봤고, 그래서 고기가 상해 손님들이 배탈이 났잖아. 맡은 일을 안 챙겨서 탈이 났으니 딱 negligent인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "버스 기사가 출발하기 전에 문이 다 닫혔는지, 승객들이 손잡이를 잡았는지 매번 거울로 하나하나 확인해. 이 기사는 'negligent'야?",
+   "choices": [
+    "응, negligent 맞아",
+    "아니, negligent 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, negligent 아니야",
+   "why": "맞아! 이 기사는 출발 전에 문이 다 닫혔는지, 승객들이 손잡이를 잡았는지 매번 거울로 하나하나 확인하잖아. 맡은 일을 이렇게 빠짐없이 챙기니까 negligent랑은 정반대야."
+  },
+  {
+   "type": "choice",
+   "question": "네 사람의 이야기를 들었어. 이 중에서 'negligent'라고 할 수 있는 사람은?",
+   "choices": [
+    "수영장 안전요원이 근무 중에 휴대폰만 보다가 물에 빠진 아이를 못 봤어.",
+    "체육 시간에 열심히 공을 받으려다 손이 미끄러져서 공을 놓쳤어.",
+    "주말에 할 일이 하나도 없어서 하루 종일 침대에서 뒹굴었어.",
+    "아파트 경비원이 밤에 모든 문이 잠겼는지 두 번씩 확인했어."
+   ],
+   "answer_index": 0,
+   "answer": "수영장 안전요원이 근무 중에 휴대폰만 보다가 물에 빠진 아이를 못 봤어.",
+   "why": "맞아! 안전요원은 물에 있는 아이들을 지켜보는 게 맡은 일인데, 근무 중에 휴대폰만 보다가 물에 빠진 아이를 못 봤잖아. 챙겨야 할 일을 소홀히 해서 탈이 났으니까 바로 그게 negligent인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "neglect"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-negligent",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-negligent"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/negligent.webp",
+  "alt": "교실 문단속 당번이 그냥 가서 밤새 비에 교실이 젖음",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

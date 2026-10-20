@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/knowingly/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/knowingly/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "knowingly",
+ "slug": "knowingly",
+ "url": "https://hibbangyong.com/words/knowingly/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "다 안다는 듯이 — 속사정을 알고 있다는 게 겉으로 드러나게. 넓게는 '알면서 (일부러)'라는 뜻으로도 써",
+ "gloss_ko": "다 안다는 듯이",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "친구한테 '나 그냥 피곤해서 그래' 했는데, 걔가 다 안다는 듯이 씩 웃어.",
+  "내가 숨긴 속사정을 알고 있다는 게 겉으로 드러난 거지. 그게 knowingly야.",
+  "알면서 그렇게 할 때도 써. 규칙인 걸 알면서 어기면 knowingly 어긴 거야.",
+  "몰래 하는 거나 아는 게 많은 거랑은 달라. 핵심은 '알고서'야."
+ ],
+ "scene": "피곤하다고 둘러대자 친구가 다 안다는 듯 웃는 장면",
+ "examples": [
+  {
+   "en": "Mina smiled knowingly when I said I was just tired.",
+   "ko": "내가 그냥 피곤한 거라고 하니까 미나가 다 안다는 듯이 웃더라."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "누나는 내가 엄마 생일 깜짝 파티를 준비하는 걸 이미 다 알고 있었어. 내가 '오늘 아무 일도 없어' 하자, 누나가 다 알고 있다는 듯 나를 보며 눈을 찡긋했어. 누나가 눈을 찡긋한 게 'knowingly' 한 거야?",
+   "choices": [
+    "응, knowingly 맞아",
+    "아니, knowingly 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, knowingly 맞아",
+   "why": "맞아! 누나는 네가 깜짝 파티를 준비하는 걸 이미 다 알고 있었고, 네가 아무 일도 없다고 하니까 그걸 아는 티를 눈 찡긋으로 낸 거야. 알고 있는 게 겉으로 드러났으니까 바로 그게 knowingly인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "새 학기 첫날, 지호는 그 자리가 이미 다른 친구 자리인 줄 전혀 모르고 그 의자에 앉았어. 지호가 그 의자에 'knowingly' 앉은 거야?",
+   "choices": [
+    "응, knowingly 맞아",
+    "아니, knowingly 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, knowingly 아니야",
+   "why": "맞아! 지호는 그 의자가 다른 친구 자리인 줄 전혀 모르고 앉았잖아. knowingly는 알고서 하는 거라서, 모르고 앉은 건 그 반대(unknowingly)야."
+  },
+  {
+   "type": "choice",
+   "question": "가게 주인이 우유를 친구에게 팔았어. 주인이 그 일을 'knowingly' 했다고 말할 수 있는 장면은?",
+   "choices": [
+    "유통기한이 지난 걸 못 보고 그 우유를 친구에게 팔았어",
+    "유통기한 읽는 법을 잘 알아서 친구에게 설명해 줬어",
+    "유통기한이 지난 걸 확인하고도 그 우유를 친구에게 팔았어",
+    "유통기한이 지난 우유를 친구 몰래 가방에 숨겼어"
+   ],
+   "answer_index": 2,
+   "answer": "유통기한이 지난 걸 확인하고도 그 우유를 친구에게 팔았어",
+   "why": "맞아! 유통기한이 지난 걸 확인했잖아. 알고서도 그 우유를 친구에게 팔았으니까 바로 그게 knowingly 한 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "deliberately",
+   "kind": "confusable",
+   "from": "vs deliberately"
+  }
+ ],
+ "related_scene": [
+  "knowledge"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-knowingly",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-knowingly"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/knowingly.webp",
+  "alt": "피곤하다고 둘러대자 친구가 다 안다는 듯 웃는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

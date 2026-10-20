@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/nerve/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/nerve/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "nerve",
+ "slug": "nerve",
+ "url": "https://hibbangyong.com/words/nerve/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "신경 — 몸이 느낀 걸 머리로, 머리가 정한 걸 몸으로 나르는 가느다란 줄",
+ "gloss_ko": "신경",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "누가 등을 살짝 간질이면 바로 알잖아? 등에서 머리까지 소식이 슝 간 거야.",
+  "몸속엔 그 소식을 나르는 가느다란 줄이 구석구석 깔려 있거든.",
+  "반대로도 가. 머리에서 '움직여!' 하면 그 줄이 다리까지 그 말을 날라 줘.",
+  "피 흐르는 줄이랑은 달라. 이건 피가 아니라 소식이 지나가는 줄이야. 이게 nerve야."
+ ],
+ "scene": "누가 등을 살짝 간질이는 순간",
+ "examples": [
+  {
+   "en": "When the doctor tapped my knee, my leg kicked because a nerve told it to.",
+   "ko": "의사 선생님이 무릎을 톡 치니까 신경이 시켜서 다리가 저절로 튀어 올랐어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "지호가 맨발로 걷다가 발끝을 책상다리에 쿵 부딪혔어. 발끝에서 머리까지 '아프다'는 소식을 날라 준 가느다란 줄이 있었대. 이게 'nerve'야?",
+   "choices": [
+    "응, nerve 맞아",
+    "아니, nerve 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, nerve 맞아",
+   "why": "맞아! 지호가 발끝을 쿵 부딪혔을 때 발끝에서 머리까지 '아프다'는 소식을 날라 준 가느다란 줄이니까, 바로 그게 nerve인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "치과에서 주사를 맞은 뒤 지호는 볼을 손으로 눌러도 아무 느낌이 안 났어. 이 '아무 느낌도 안 나는 멍한 상태'가 'nerve'야?",
+   "choices": [
+    "응, nerve 맞아",
+    "아니, nerve 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, nerve 아니야",
+   "why": "잘 골랐어! 볼을 눌러도 아무 느낌이 안 나는 건 줄이 아니야. 볼이 잠깐 그렇게 된 거야. nerve는 볼이 느낀 걸 머리까지 날라 주는 가느다란 줄이거든. 그래서 이건 nerve가 아니야."
+  },
+  {
+   "type": "choice",
+   "question": "민수 몸속에서 네 가지 일이 벌어졌어. 이 중에서 'nerve'가 한 일은 어떤 거야?",
+   "choices": [
+    "왼손을 들려고 마음먹자 그 생각이 손까지 전해졌다",
+    "심장이 콩콩 뛰자 붉은 것이 온몸을 한 바퀴 돌았다",
+    "팔을 힘껏 굽히자 안쪽이 불룩하게 딱딱해졌다",
+    "오늘 무엇을 하고 놀지 머릿속에서 곰곰 정했다"
+   ],
+   "answer_index": 0,
+   "answer": "왼손을 들려고 마음먹자 그 생각이 손까지 전해졌다",
+   "why": "맞아! 왼손을 들려고 마음먹은 생각이 머리에서 손까지 전해졌잖아. 이렇게 머리가 정한 걸 몸으로 날라 주는 게 바로 nerve가 하는 일이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "brain"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-nerve",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-nerve"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/nerve.webp",
+  "alt": "누가 등을 살짝 간질이는 순간",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

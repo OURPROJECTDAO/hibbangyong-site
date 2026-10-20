@@ -1,0 +1,91 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/technology/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/technology/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "technology",
+ "slug": "technology",
+ "url": "https://hibbangyong.com/words/technology/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "기술 — 사람들이 일을 되게 하려고 알아낸 방법이랑, 그 방법으로 만든 물건들 (한 사람 몸에 붙은 재주는 빼고).",
+ "gloss_ko": "기술",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "옛날 사람이 엄청 무거운 돌을 옮겨야 했거든? 낑낑대다가 돌 밑에 둥근 통나무를 깔았어. 데구르르, 돌이 굴러갔지. 그렇게 알아낸 방법이 technology야.",
+  "바퀴도, 연필도, 약도, 네 손에 든 전화기도 다 여기 들어가. 반짝이는 새것만 그런 게 아니라 옛날 통나무도 똑같이 technology거든?",
+  "근데 형이 수영을 잘하는 재주는 여기 안 들어가. 그건 형 몸에 붙은 거지, 사람들이 알아내서 서로 나눠 쓰는 방법이 아니잖아.",
+  "사람들이 일을 되게 하려고 알아낸 방법이랑 그걸로 만든 물건, 그게 technology야."
+ ],
+ "scene": "무거운 돌 밑에 둥근 통나무를 깔아 굴려 옮긴 옛날 장면",
+ "examples": [
+  {
+   "en": "Long ago, people used technology to move heavy rocks with round logs.",
+   "ko": "옛날 사람들은 둥근 통나무로 무거운 돌을 옮기는 기술을 썼어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "농부가 밭에 물을 주려고 도랑을 파서 냇물을 밭까지 끌어오는 길을 냈어. 이게 'technology'야?",
+   "choices": [
+    "응, technology 맞아",
+    "아니, technology 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, technology 맞아",
+   "why": "맞아! 농부가 물을 밭까지 가게 하려고 길을 내는 방법을 알아낸 거잖아. 사람들이 일을 되게 하려고 알아낸 방법이랑 그렇게 만든 것, 그게 바로 technology인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "숲속에서 아무도 건드리지 않은 채 땅 위에 그냥 자라 있는 버섯을 봤어. 이게 'technology'야?",
+   "choices": [
+    "응, technology 맞아",
+    "아니, technology 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, technology 아니야",
+   "why": "맞아! 아무도 안 만들고 그냥 저절로 자란 거잖아. technology는 사람들이 일을 되게 하려고 알아낸 방법이나 그걸로 만든 물건이거든. 버섯은 그냥 자연이 준 거지 사람이 알아낸 게 아니야."
+  },
+  {
+   "type": "choice",
+   "question": "친구 넷이 각자 하나씩 떠올려서 말했어. 이 중에서 'technology'라고 부를 수 있는 건?",
+   "choices": [
+    "형이 물속에서 팔을 척척 저어 남보다 빨리 헤엄치는 재주",
+    "비 온 다음 날 산에서 저절로 굴러 내려와 있던 둥근 돌",
+    "옛날 사람들이 곡식을 빻으려고 만들어 쓰던 돌절구",
+    "누나가 종이비행기를 손끝으로 톡 던져 멀리 날리는 솜씨"
+   ],
+   "answer_index": 2,
+   "answer": "옛날 사람들이 곡식을 빻으려고 만들어 쓰던 돌절구",
+   "why": "맞아! 돌절구는 옛날 사람들이 곡식을 빻으려고 머리를 써서 만들어 낸 물건이잖아. 반짝이는 새것만 technology인 게 아니라, 이렇게 사람들이 알아내서 만들고 서로 나눠 쓴 옛날 물건도 똑같이 technology인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "invention",
+   "kind": "confusable",
+   "from": "vs invention"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-technology",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-technology"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/technology.webp",
+  "alt": "무거운 돌 밑에 둥근 통나무를 깔아 굴려 옮긴 옛날 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

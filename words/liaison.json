@@ -1,0 +1,98 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/liaison/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/liaison/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "liaison",
+ "slug": "liaison",
+ "url": "https://hibbangyong.com/words/liaison/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "연락 — 두 무리가 서로 무슨 일을 하는지 알 수 있게 꾸준히 소식을 주고받는 것",
+ "gloss_ko": "두 무리 연락",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "축제 준비할 때 학생회랑 선생님들이 매주 지금 뭘 하고 있는지 서로 알려 준다고 해 봐.",
+  "이렇게 두 무리가 꾸준히 소식을 주고받는 연결이 liaison이야. 잘 될 때도 있고 엉망일 때도 있어.",
+  "급한 일로 전화 한 번 거는 거랑은 달라. 계속 오가는 게 핵심이야.",
+  "두 쪽 사이에서 그 연락을 맡은 사람을 부를 때도 이 말을 써."
+ ],
+ "scene": "축제 준비 중 학생회와 선생님들이 매주 서로 진행 상황을 알려 주는 장면",
+ "examples": [
+  {
+   "en": "There was poor liaison between the two teams, so they did the same work twice.",
+   "ko": "두 팀끼리 연락이 제대로 안 돼서 같은 일을 두 번이나 했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "도로 공사가 이어진 두 달 동안, 동네 소방서와 경찰서는 매일 아침 오늘 어디서 무슨 일을 하는지 서로 알려 줬어. 이렇게 두 곳이 계속 주고받은 게 'liaison'이야?",
+   "choices": [
+    "응, liaison 맞아",
+    "아니, liaison 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, liaison 맞아",
+   "why": "맞아! 소방서와 경찰서가 두 달 동안 매일 아침 오늘 어디서 무슨 일을 하는지 서로 알려 줬잖아. 두 곳이 꾸준히 소식을 주고받았으니까 바로 그게 liaison인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "같은 병원의 1층 접수팀과 3층 검사팀은 1년 내내 서로 무슨 일을 하는지 한 번도 알려 주지 않고 따로따로 일했어. 두 팀 사이에 있었던 게 'liaison'이야?",
+   "choices": [
+    "응, liaison 맞아",
+    "아니, liaison 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, liaison 아니야",
+   "why": "맞아! 1층 접수팀이랑 3층 검사팀은 1년 내내 서로 무슨 일을 하는지 한 번도 안 알려 줬잖아. 소식이 한 번도 안 오갔으니까 liaison이 없었던 거야. 이 말은 꾸준히 주고받는 연락이 있어야 쓸 수 있거든."
+  },
+  {
+   "type": "choice",
+   "question": "학교 축제를 준비하는 동안 있었던 일이야. 학생회와 선생님들 사이에 'liaison'이 있었다고 말할 수 있는 건 어느 쪽이야?",
+   "choices": [
+    "문제가 생길 때마다 두 쪽이 서로 상황을 꾸준히 알려 줬어.",
+    "축제 당일에 학생회장이 선생님께 전화를 딱 한 번 걸었어.",
+    "두 쪽이 서로 뭘 하는지 전혀 모른 채 각자 준비했어.",
+    "두 쪽이 무거운 무대 장치를 함께 들어서 옮겼어."
+   ],
+   "answer_index": 0,
+   "answer": "문제가 생길 때마다 두 쪽이 서로 상황을 꾸준히 알려 줬어.",
+   "why": "맞아! 문제가 생길 때마다 학생회랑 선생님들이 서로 상황을 꾸준히 알려 줬으니까, 두 쪽 사이에 소식이 계속 오간 거잖아. 바로 그게 liaison이야. 일이 꼬일 때 주고받는 연락이어도 똑같이 liaison이야."
+  }
+ ],
+ "synonyms": [
+  "affair"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "cooperation",
+   "kind": "confusable",
+   "from": "vs cooperation"
+  },
+  {
+   "word": "communication",
+   "kind": "confusable",
+   "from": "vs communication"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-liaison",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-liaison"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/liaison.webp",
+  "alt": "축제 준비 중 학생회와 선생님들이 매주 서로 진행 상황을 알려 주는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

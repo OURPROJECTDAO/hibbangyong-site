@@ -1,0 +1,95 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/nod/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/nod/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "nod",
+ "slug": "nod",
+ "url": "https://hibbangyong.com/words/nod/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "고개를 위아래로 까딱 움직이다 — 말 없이 머리로 신호를 보내는 것",
+ "gloss_ko": "고개를 위아래로 까딱 움직이다",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "교실에서 선생님이 물었어. \"다 했니?\" 근데 넌 입을 안 열었지.",
+  "대신 고개를 위아래로 한 번, 까딱.",
+  "이렇게 머리를 위아래로 움직여서 말 대신 신호를 보내는 거야. 보통은 \"응, 좋아\", \"알았어\"라는 뜻이야.",
+  "고개를 좌우로 젓는 건 nod가 아니야. 위아래로 까딱하는 게 nod야."
+ ],
+ "scene": "교실에서 말 없이 고개만 위아래로 까딱하는 순간",
+ "examples": [
+  {
+   "en": "If you agree, just nod your head.",
+   "ko": "좋으면 그냥 고개를 끄덕여."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "엘리베이터에서 이웃 아저씨를 만난 네 아이가 각자 이렇게 했어. 이 중 'nod'을 한 아이는?",
+   "choices": [
+    "머리를 아래로 한 번 내렸다가 곧바로 제자리로 올렸어",
+    "입술을 동그랗게 모아 휘파람 소리를 냈어",
+    "오른발을 들어 바닥을 두 번 톡톡 찍었어",
+    "손가락 세 개를 펴서 앞으로 내밀었어"
+   ],
+   "answer_index": 0,
+   "answer": "머리를 아래로 한 번 내렸다가 곧바로 제자리로 올렸어",
+   "why": "맞아! 머리를 아래로 내렸다가 다시 올린 거, 그게 바로 고개를 위아래로 까딱하는 거잖아. 입을 안 열고도 머리로 신호를 보낸 거니까 그게 nod야."
+  },
+  {
+   "type": "choice",
+   "question": "놀이터에서 네 아이가 각각 이런 모습이었어. 이 중에서 'nod'을 한 아이는 누구일까?",
+   "choices": [
+    "고개를 아래로 한 번 숙였다가 곧바로 제자리로 올렸어",
+    "고개를 왼쪽으로 돌렸다가 오른쪽으로 돌렸다가 했어",
+    "고개를 오른쪽 어깨 쪽으로 기울여서 그대로 두었어",
+    "고개를 앞으로 쭉 내밀어서 앞쪽으로 길게 뻗었어"
+   ],
+   "answer_index": 0,
+   "answer": "고개를 아래로 한 번 숙였다가 곧바로 제자리로 올렸어",
+   "why": "맞아! 고개를 아래로 까딱 숙였다가 다시 올린 거, 그게 바로 아래위로 움직인 거잖아. 말 안 하고 머리로 신호를 보낸 거니까 그게 nod야."
+  },
+  {
+   "type": "ox",
+   "question": "급식실에서 친구가 \"이거 나 줄까?\" 하고 물었어. 세연이는 아무 말도 하지 않고 어깨를 한 번 들썩였어. 이것도 'nod'이야?",
+   "choices": [
+    "응, 'nod'이 맞아",
+    "아니, 'nod'이 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 'nod'이 아니야",
+   "why": "맞아! 어깨를 들썩인 거지 머리는 그대로였잖아. nod은 고개를 위아래로 까딱하는 거라서, 어깨가 움직인 건 nod이 아닌 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "shake"
+ ],
+ "confusable": [
+  {
+   "word": "bow",
+   "kind": "confusable",
+   "from": "vs bow"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-nod",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-nod"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/nod.webp",
+  "alt": "교실에서 말 없이 고개만 위아래로 까딱하는 순간",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

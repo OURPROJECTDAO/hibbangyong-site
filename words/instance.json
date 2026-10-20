@@ -1,0 +1,83 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/instance/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/instance/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "instance",
+ "slug": "instance",
+ "url": "https://hibbangyong.com/words/instance/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "예(보기) — 어떤 종류의 일 가운데 실제로 일어난 한 번 한 번",
+ "gloss_ko": "예(보기)",
+ "level": {
+  "code": "L3",
+  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "이번 달에 비 온 날을 세어 볼까? 월요일에 쏴아, 금요일에 또 쏴아.",
+  "'비 오는 날'이라는 같은 종류 안에서 진짜로 일어난 한 번, 또 한 번이지?",
+  "그 한 번씩을 콕 집어 부르는 말이 있거든? 좋은 일이든 속상한 일이든 다 돼.",
+  "근데 눈 깜짝할 순간이랑은 달라. 보고 따라 할 본보기랑도 다르고. 그 한 번 한 번, 그게 instance야."
+ ],
+ "scene": "이번 달에 비 온 날 세기(월요일·금요일)",
+ "examples": [
+  {
+   "en": "I remember two instances this month when it suddenly rained.",
+   "ko": "이번 달에 갑자기 비가 쏟아진 적이 두 번 있었던 게 생각나."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "하준이가 이번 학기에 줄넘기 대회에 세 번 나갔어. 하준이가 말했어. \"그중에서 봄에 나간 대회가 내가 1등 한 instance야.\" 하준이가 instance를 알맞게 쓴 걸까?",
+   "choices": [
+    "응, 알맞게 썼어",
+    "아니, 알맞지 않아"
+   ],
+   "answer_index": 0,
+   "answer": "응, 알맞게 썼어",
+   "why": "맞아! 하준이는 줄넘기 대회에 세 번 나갔잖아. 그 세 번 가운데 봄에 나간 대회 한 번을 콕 집어서 말했으니까, 바로 그게 instance인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "'도서관에서는 누구나 언제나 조용히 하기.' 도서관에 오는 모든 사람이 늘 지켜야 하는 약속이야. 이게 'instance'야?",
+   "choices": [
+    "응, instance 맞아",
+    "아니, instance 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, instance 아니야",
+   "why": "맞아! 도서관에서 조용히 하기는 도서관에 오는 모든 사람이 늘 지켜야 하는 약속이지, 어느 날 진짜로 한 번 일어난 일이 아니거든. 그래서 instance가 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "엄마가 동생에게 말했어. \"우유 컵을 엎지르는 것, 그런 종류의 일 전체를 통틀어 instance라고 해.\" 이런 경우도 'instance'야?",
+   "choices": [
+    "응, instance 맞아",
+    "아니, instance 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, instance 아니야",
+   "why": "맞아! 엄마는 우유 컵을 엎지르는 일을 모두 합쳐서 말했잖아. instance는 그 모두가 아니라, 동생이 진짜로 우유 컵을 엎지른 한 번 한 번이거든. 그래서 이건 instance가 아닌 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-instance",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-instance"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/instance.webp",
+  "alt": "이번 달에 비 온 날 세기(월요일·금요일)",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

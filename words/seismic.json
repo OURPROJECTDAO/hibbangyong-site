@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/seismic/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/seismic/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "seismic",
+ "slug": "seismic",
+ "url": "https://hibbangyong.com/words/seismic/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "지진의 — 지진과 관련되거나 지진 때문에 생기는",
+ "gloss_ko": "지진의",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "뉴스에서 '아무도 못 느낀 땅속 떨림을 기계가 잡아냈다'는 말 들어 봤지?",
+  "seismic은 지진과 관련된 거면 다 붙는 말이야. 지진파, 지진 기록, 지진이 잦은 지역까지.",
+  "건물이 무너지는 큰 지진만 뜻하는 게 아니야. 사람이 못 느낄 만큼 작은 떨림도 seismic이야.",
+  "그냥 흔들리는 것과는 달라. 태풍에 배가 흔들리는 건 seismic이 아니야. 땅속에서 온 떨림이어야 해."
+ ],
+ "scene": "사람이 못 느낀 땅속 떨림을 기계가 기록했다는 뉴스",
+ "examples": [
+  {
+   "en": "The machine picked up small seismic waves that no one in the town could feel.",
+   "ko": "그 기계가 마을 사람 아무도 못 느낀 작은 지진파를 잡아냈어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "바다 밑 땅속이 갑자기 흔들리면서, 그 떨림이 전해져 바닷가 마을 집들의 창문이 덜컹거렸어. 이 떨림은 'seismic' 떨림이야?",
+   "choices": [
+    "응, seismic 맞아",
+    "아니, seismic 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, seismic 맞아",
+   "why": "맞아! 이 떨림은 바다 밑 땅속이 흔들리면서 시작된 거라서 딱 seismic이야. 떨림이 바닷가 마을까지 전해져서 창문이 덜컹거린 것도, 출발점이 땅속이니까 seismic 떨림인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "과학 시간에 배운 내용이야. 어떤 대륙의 한가운데 땅은 땅속이 늘 잠잠해서, 땅속에서 올라오는 떨림이 한 번도 생긴 적이 없대. 이렇게 땅속이 잠잠한 것을 'seismic'하다고 할 수 있을까?",
+   "choices": [
+    "응, seismic 맞아",
+    "아니, seismic 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, seismic 아니야",
+   "why": "맞아! seismic은 땅속에서 올라온 떨림, 그러니까 지진과 관련된 것에만 붙는 말이야. 이 대륙 한가운데 땅은 땅속 떨림이 한 번도 없었다니까 seismic하고는 정반대인 거지."
+  },
+  {
+   "type": "choice",
+   "question": "과학 뉴스에 나온 네 가지 일이야. 이 중에서 'seismic'이라고 부를 수 있는 건?",
+   "choices": [
+    "사람은 못 느낄 만큼 약한 땅속 떨림을 기계가 기록한 일",
+    "태풍이 불어서 바닷물이 크게 출렁이며 배가 흔들린 일",
+    "산꼭대기에서 뜨거운 용암이 천천히 흘러내려 온 일",
+    "그 지역 땅이 수십 년 동안 아무 움직임 없이 조용했던 일"
+   ],
+   "answer_index": 0,
+   "answer": "사람은 못 느낄 만큼 약한 땅속 떨림을 기계가 기록한 일",
+   "why": "맞아! 사람은 못 느낄 만큼 약해도 땅속에서 온 떨림이니까 seismic이 맞아. 크기는 상관없어. 기계가 잡아낸 그 작은 떨림도 지진과 관련된 일이거든."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-seismic",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-seismic"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/seismic.webp",
+  "alt": "사람이 못 느낀 땅속 떨림을 기계가 기록했다는 뉴스",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

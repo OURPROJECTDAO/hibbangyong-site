@@ -1,0 +1,88 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/parameter/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/parameter/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "parameter",
+ "slug": "parameter",
+ "url": "https://hibbangyong.com/words/parameter/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "정해진 범위 — 어떤 일을 할 때 그 안에서만 하도록 미리 정해 둔 조건들(틀)",
+ "gloss_ko": "정해진 범위",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "수행평가 공지가 떴어. 'A4 두 장 이내, 주제는 환경, 마감은 금요일.'",
+  "이 조건 안에서라면 뭘 쓰든, 어떻게 쓰든 네 마음이야.",
+  "이렇게 어떤 일이 움직일 수 있는 범위를 미리 정해 둔 조건들, 그 틀이 parameter야.",
+  "하나씩 따라 하는 순서나 이루려는 목표랑은 달라. 순서는 안 정해 주고 울타리만 쳐 주는 거야."
+ ],
+ "scene": "수행평가 공지의 분량·주제·마감 조건",
+ "examples": [
+  {
+   "en": "The teacher explained the parameters of the project before we started.",
+   "ko": "선생님이 과제 시작하기 전에 지켜야 할 조건들부터 쭉 설명해 주셨어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "학교 축제 동아리 부스를 꾸미게 됐어. 학생회에서 정해 준 건 '예산은 3만 원까지, 부스 크기는 책상 두 개'. 학생회가 정해 준 이 두 가지가 부스 꾸미기의 parameters야?",
+   "choices": [
+    "응, parameters 맞아",
+    "아니, parameters 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, parameters 맞아",
+   "why": "맞아! 예산은 3만 원까지, 부스 크기는 책상 두 개. 학생회는 이 두 가지로 넘으면 안 되는 선만 그어 줬잖아. 그 안에서 부스를 어떻게 꾸밀지는 너희 마음이니까, 이 두 조건이 바로 parameters야."
+  },
+  {
+   "type": "ox",
+   "question": "미술 시간에 선생님이 '종이 크기, 재료, 주제, 끝내는 시간 전부 너희가 정해'라고 하셨어. 선생님이 하신 이 말이 그림 그리기의 parameters야?",
+   "choices": [
+    "응, parameters 맞아",
+    "아니, parameters 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, parameters 아니야",
+   "why": "맞아! parameters는 이 안에서만 하라고 미리 정해 둔 범위거든. 그런데 선생님은 종이 크기, 재료, 주제, 끝내는 시간을 전부 너희가 정하라고 하셨잖아. 정해 둔 게 하나도 없으니 parameters가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "과학 실험 전에 선생님이 네 가지를 말씀하셨어. 이 중 실험의 'parameters'에 해당하는 말은?",
+   "choices": [
+    "온도는 20도에서 25도 사이로 맞추고, 30분 안에 끝내",
+    "실험이 끝나면 결과표를 두 모둠끼리 바꿔서 비교해",
+    "이번 실험으로 콩나물이 빛 쪽으로 휘는 걸 확인해",
+    "재료는 교실에 있는 것 중 아무거나 마음껏 골라"
+   ],
+   "answer_index": 0,
+   "answer": "온도는 20도에서 25도 사이로 맞추고, 30분 안에 끝내",
+   "why": "맞아! 온도는 20도에서 25도 사이, 시간은 30분 안이라고 선을 그어 준 거잖아. 뭘 어떤 순서로 할지는 안 정하고 실험이 움직일 범위만 정해 준 거라서 그게 바로 parameters야."
+  }
+ ],
+ "synonyms": [
+  "range",
+  "scope"
+ ],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-parameter",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-parameter"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/parameter.webp",
+  "alt": "수행평가 공지의 분량·주제·마감 조건",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

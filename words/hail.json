@@ -1,0 +1,89 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/hail/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/hail/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "hail",
+ "slug": "hail",
+ "url": "https://hibbangyong.com/words/hail/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "우박 — 소나기구름에서 후두둑 떨어지는 딱딱한 얼음 알갱이",
+ "gloss_ko": "우박",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "여름 오후에 갑자기 하늘이 컴컴해지고 소나기가 와.",
+  "근데 빗소리가 이상해. 창문이랑 차 지붕에 뭔가 딱딱한 게 탁탁 부딪혀.",
+  "보니까 콩알만 한 얼음 알갱이야. 이게 hail이야.",
+  "폭신한 눈송이도 아니고, 녹아서 떨어지는 빗방울도 아니야. 얼음이 그대로 떨어지는 거라 딱딱해."
+ ],
+ "scene": "여름 오후 소나기 중 창문과 차 지붕을 때리는 얼음 알갱이",
+ "examples": [
+  {
+   "en": "The hail left small dents on our car.",
+   "ko": "우박이 떨어져서 우리 차에 작은 자국이 잔뜩 생겼어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "운동장에서 축구를 하는데 먹구름이 몰려오더니 하늘에서 작은 얼음 알갱이들이 떨어져서 잔디 위로 통통 튀어 올라. 떨어지는 이 얼음 알갱이, 이게 'hail'이야?",
+   "choices": [
+    "응, hail 맞아",
+    "아니, hail 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, hail 맞아",
+   "why": "맞아! 먹구름에서 얼음 알갱이가 그대로 떨어져서 잔디 위로 통통 튀어 오르잖아. 녹지 않은 딱딱한 얼음이라 튀는 거고, 바로 그게 hail이야."
+  },
+  {
+   "type": "ox",
+   "question": "캠핑장에서 먹구름이 몰려오더니 하늘에서 물방울들이 떨어져서 텐트 천을 적시고 주르륵 흘러내려. 떨어지는 이 물방울, 이게 'hail'이야?",
+   "choices": [
+    "응, hail 맞아",
+    "아니, hail 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, hail 아니야",
+   "why": "맞아! 텐트 천을 적시고 주르륵 흘러내리는 건 물방울이잖아. 액체라서 딱딱하게 탁탁 부딪히는 얼음 알갱이가 아니니까, 이건 hail이 아니고 그냥 비(rain)야."
+  },
+  {
+   "type": "choice",
+   "question": "하늘에서 뭔가가 떨어지는 장면 네 개야. 떨어지는 게 'hail'인 장면은?",
+   "choices": [
+    "여름 소나기 속에 딱딱한 얼음 알갱이가 차 지붕을 탁탁 때려",
+    "겨울밤에 가볍고 하얀 송이들이 천천히 내려와 쌓여",
+    "장마철에 물방울이 우산 위로 주룩주룩 계속 떨어져",
+    "초겨울에 반쯤 녹은 하얀 것들이 물과 섞여 질척하게 내려"
+   ],
+   "answer_index": 0,
+   "answer": "여름 소나기 속에 딱딱한 얼음 알갱이가 차 지붕을 탁탁 때려",
+   "why": "맞아! 차 지붕을 탁탁 때리는 게 딱딱한 얼음 알갱이잖아. 여름 소나기 속에서 얼음이 녹지 않고 그대로 떨어지는 것, 그게 바로 hail이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "rain"
+ ],
+ "confusable": [],
+ "related_scene": [
+  "shower"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-hail",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-hail"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/hail.webp",
+  "alt": "여름 오후 소나기 중 창문과 차 지붕을 때리는 얼음 알갱이",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/unrest/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/unrest/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "unrest",
+ "slug": "unrest",
+ "url": "https://hibbangyong.com/words/unrest/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "(사회) 불안 — 불만을 품은 많은 사람이 항의하면서 나라나 단체가 조용해지지 않고 들썩이는 상태",
+ "gloss_ko": "사회 불안",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "물가가 너무 오르거나 사람들이 싫어하는 법이 생기면 불만이 쌓여.",
+  "그 불만이 한두 명이 아니라 많은 사람한테 번져. 곳곳에서 모이고 항의하고, 분위기가 한동안 가라앉질 않아.",
+  "조용한 항의로 이어질 때도 있고 거리에서 부딪칠 때도 있어. 둘 다 unrest야.",
+  "축제처럼 신나서 들썩이는 것도 아니고 내 마음이 불안한 것도 아니야. un(못)+rest(쉼), 불만 때문에 쉬지 못하는 사회라고 기억해."
+ ],
+ "scene": "물가 상승이나 사람들이 싫어하는 새 법 때문에 불만이 쌓여 곳곳에서 항의하는 나라",
+ "examples": [
+  {
+   "en": "Nobody was fighting in the streets, but the unrest in the country kept growing as prices went up.",
+   "ko": "길에서 싸우는 사람은 없었지만, 물가가 오르면서 나라 안의 술렁임은 점점 커졌어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "한 나라에서 선거 결과에 불만을 품은 사람들이 여러 도시에서 몇 주째 시위를 이어가고 있어. 나라 분위기가 좀처럼 가라앉지 않아. 이게 'unrest'야?",
+   "choices": [
+    "응, unrest 맞아",
+    "아니, unrest 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, unrest 맞아",
+   "why": "맞아! 선거 결과에 불만을 품은 사람들이 여러 도시에서 몇 주째 시위를 이어가고, 나라 분위기가 좀처럼 가라앉지 않잖아. 많은 사람의 불만 때문에 나라가 쉬지 못하고 들썩이는 거, 그게 딱 unrest야."
+  },
+  {
+   "type": "ox",
+   "question": "한 나라 사람들이 대체로 자기 생활에 만족하고 있어. 몇 년째 큰 시위나 항의 없이 조용히 지내고 있어. 이게 'unrest'야?",
+   "choices": [
+    "응, unrest 맞아",
+    "아니, unrest 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, unrest 아니야",
+   "why": "잘 골랐어! 사람들이 생활에 만족하고 몇 년째 큰 시위나 항의 없이 조용히 지내잖아. 불만이 쌓여서 들썩이는 게 unrest인데, 여긴 그 반대로 안정된 나라야."
+  },
+  {
+   "type": "choice",
+   "question": "뉴스에서 어떤 나라에 'unrest'가 있다고 했어. 그 나라 모습으로 가장 알맞은 건?",
+   "choices": [
+    "월드컵 우승을 축하하려고 사람들이 곳곳에 모여 소리친다",
+    "새 법에 반대하는 사람들이 곳곳에 모여 목소리를 높인다",
+    "태풍이 지나간 뒤 사람들이 곳곳에서 길을 치우느라 바쁘다",
+    "다음 주 시험 걱정에 학생들이 각자 집에서 잠을 설친다"
+   ],
+   "answer_index": 1,
+   "answer": "새 법에 반대하는 사람들이 곳곳에 모여 목소리를 높인다",
+   "why": "맞아! 새 법이 싫다는 불만이 많은 사람한테 번져서 곳곳에서 목소리를 높이고 있잖아. 불만 때문에 나라가 조용해지지 않고 들썩이는 거, 바로 그게 unrest야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "riot",
+   "kind": "confusable",
+   "from": "vs riot"
+  }
+ ],
+ "related_scene": [
+  "protest",
+  "turbulent"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-unrest",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-unrest"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/unrest.webp",
+  "alt": "물가 상승이나 사람들이 싫어하는 새 법 때문에 불만이 쌓여 곳곳에서 항의하는 나라",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

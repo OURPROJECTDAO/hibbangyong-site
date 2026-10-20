@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/subsistence/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/subsistence/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "subsistence",
+ "slug": "subsistence",
+ "url": "https://hibbangyong.com/words/subsistence/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "최저 생활 — 살아가는 데 꼭 필요한 만큼만 겨우 갖고 사는 상태",
+ "gloss_ko": "겨우 먹고살기",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "용돈이 딱 밥값이랑 버스비만큼만 나온다고 해 봐.",
+  "굶지는 않아. 근데 남는 것도 하나 없어.",
+  "살아가는 데 꼭 필요한 만큼만 겨우 있는 그 선, 그게 subsistence야.",
+  "며칠째 굶는 것처럼 그보다 모자란 것도 아니고, 그냥 '돈 벌어 사는 일' 전체를 말하는 것도 아니야."
+ ],
+ "scene": "용돈이 밥값과 버스비만큼만 나오는 상황",
+ "examples": [
+  {
+   "en": "Before the factory came, most people in the village lived on subsistence farming.",
+   "ko": "공장이 들어오기 전엔 그 마을 사람들 대부분이 자기들 먹을 만큼만 농사지으면서 살았어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "바닷가에 사는 어부 아저씨는 매일 잡은 물고기로 식구들 끼니만 겨우 채워. 굶는 날은 없지만 팔거나 모아 둘 만큼 남는 물고기도 없어. 이 아저씨네 생활은 'subsistence'야?",
+   "choices": [
+    "응, subsistence 맞아",
+    "아니, subsistence 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, subsistence 맞아",
+   "why": "맞아! 아저씨는 잡은 물고기로 식구들 끼니만 겨우 채우니까 굶지는 않아. 그런데 팔거나 모아 둘 물고기는 하나도 안 남잖아. 살아가는 데 꼭 필요한 만큼만 딱 있는 거, 그게 바로 subsistence야."
+  },
+  {
+   "type": "ox",
+   "question": "삼촌은 가게를 해서 번 돈으로 생활비를 다 내고도 돈이 많이 남아. 그 돈으로 새 차를 사고 주말마다 캠핑도 다녀. 삼촌네 생활은 'subsistence'야?",
+   "choices": [
+    "응, subsistence 맞아",
+    "아니, subsistence 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, subsistence 아니야",
+   "why": "맞아! 삼촌은 생활비를 다 내고도 돈이 많이 남아서 새 차도 사고 주말마다 캠핑도 다니잖아. subsistence는 꼭 필요한 만큼만 겨우 있고 남는 게 없는 생활이라, 삼촌네처럼 넉넉한 생활은 그 반대야."
+  },
+  {
+   "type": "ox",
+   "question": "가뭄으로 농사를 완전히 망친 마을이 있어. 구호 트럭이 올 때까지 사람들이 며칠씩 아무것도 못 먹고 버티고 있대. 이런 경우도 'subsistence'야?",
+   "choices": [
+    "응, subsistence 맞아",
+    "아니, subsistence 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, subsistence 아니야",
+   "why": "그렇지, 아닌 게 맞아! 며칠씩 아무것도 못 먹고 버티는 건 꼭 필요한 만큼도 없는 거라서, 겨우 먹고사는 선보다 한참 아래야. subsistence는 굶지는 않는 그 선에 딱 걸친 상태거든."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "luxury"
+ ],
+ "confusable": [
+  {
+   "word": "livelihood",
+   "kind": "confusable",
+   "from": "vs livelihood"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-subsistence",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-subsistence"
+ },
+ "image": null
+}

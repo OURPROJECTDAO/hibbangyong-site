@@ -1,0 +1,89 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/flick/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/flick/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "flick",
+ "slug": "flick",
+ "url": "https://hibbangyong.com/words/flick/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "튕기다 — 손끝으로 톡 쳐서 날리거나, 몸의 한 부분을 짧고 가볍게 휙 한 번 움직이는 것",
+ "gloss_ko": "톡 튕기다",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "손끝으로 책상 위 부스러기를 톡 쳐서 날리거나, 스위치를 톡 올려서 불을 켜 본 적 있지?",
+  "둘 다 짧고 가볍게, 딱 한 번 휙 움직였잖아. 그게 flick이야.",
+  "꼭 손가락이 아니어도 돼. 앞머리를 고개로 휙 젖혀 넘기는 것도 flick이야.",
+  "꽉 잡고 홱 당기거나, 천천히 쓸어내거나, 제자리에서 꾹 누르는 건 달라."
+ ],
+ "scene": "책상 위 부스러기를 손끝으로 톡 쳐서 날리기",
+ "examples": [
+  {
+   "en": "He flicked a crumb off his desk.",
+   "ko": "걔가 책상 위 빵부스러기를 손끝으로 톡 튕겨서 날려 버렸어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "친구랑 알까기를 하다가, 손가락 끝으로 바둑알을 한 번 딱 쳐서 상대 알을 판 밖으로 날렸어. 이 동작이 'flick'이야?",
+   "choices": [
+    "응, flick 맞아",
+    "아니, flick 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, flick 맞아",
+   "why": "맞아! 손가락 끝으로 바둑알을 딱 한 번 짧게 쳐서 날렸잖아. 그렇게 손끝으로 톡 쳐서 날리는 게 바로 flick이야."
+  },
+  {
+   "type": "ox",
+   "question": "밥을 다 먹고, 행주를 손에 쥐고 식탁 끝에서 끝까지 천천히 쭉 밀면서 닦았어. 이 동작이 'flick'이야?",
+   "choices": [
+    "응, flick 맞아",
+    "아니, flick 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, flick 아니야",
+   "why": "맞아! 행주로 식탁 끝에서 끝까지 천천히 쭉 밀었잖아. flick은 짧고 가볍게 딱 한 번 휙 하는 거라서, 이렇게 길게 이어지는 동작은 flick이 아니야."
+  },
+  {
+   "type": "ox",
+   "question": "책상 위에 놓인 동전을 손끝으로 톡 쳐서, 책상 반대편 끝까지 미끄러져 가게 했어. 이런 경우도 'flick'이야?",
+   "choices": [
+    "응, flick 맞아",
+    "아니, flick 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, flick 맞아",
+   "why": "맞아! 손끝으로 동전을 톡 쳐서 책상 반대편 끝까지 미끄러져 가게 했잖아. 짧게 딱 한 번 쳐서 동전을 날려 보낸 거니까, 바로 그게 flick이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "tap",
+   "kind": "confusable",
+   "from": "vs tap"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-flick",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-flick"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/flick.webp",
+  "alt": "책상 위 부스러기를 손끝으로 톡 쳐서 날리기",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

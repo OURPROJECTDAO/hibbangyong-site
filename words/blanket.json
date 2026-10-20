@@ -1,0 +1,75 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/blanket/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/blanket/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "blanket",
+ "slug": "blanket",
+ "url": "https://hibbangyong.com/words/blanket/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "담요 — 잠잘 때 몸을 덮어 따뜻하게 해 주는 천",
+ "gloss_ko": "담요",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "그림 속에 곱게 접혀 있는 이 포근한 천이 blanket이에요.",
+  "추운 밤에 잘 때 몸에 덮으면 따뜻하게 잠들 수 있어요."
+ ],
+ "scene": "곱게 접힌 포근한 격자무늬 담요 한 장이 바닥에 놓여 있다",
+ "examples": [
+  {
+   "en": "I pull the blanket up when the night is cold.",
+   "ko": "밤에 추우면 나는 담요를 끌어 올려 덮어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "언니가 종이에 그림을 그릴 때 쓰는 색연필이 있어요. 이게 blanket이야?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 아니야",
+   "why": null
+  },
+  {
+   "type": "choice",
+   "question": "blanket은 어느 것일까?",
+   "choices": [
+    "글씨를 쓸 때 쓰는 뾰족한 연필",
+    "물을 담아 마시는 둥근 유리컵",
+    "잠잘 때 몸을 덮는 포근한 천",
+    "발에 신고 걷는 튼튼한 신발"
+   ],
+   "answer_index": 2,
+   "answer": "잠잘 때 몸을 덮는 포근한 천",
+   "why": null
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "comfort",
+  "wrap"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-blanket",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-blanket"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/blanket.webp",
+  "alt": "곱게 접힌 포근한 격자무늬 담요 한 장이 바닥에 놓여 있다",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

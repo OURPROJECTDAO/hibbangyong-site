@@ -1,0 +1,88 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/averse/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/averse/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "averse",
+ "slug": "averse",
+ "url": "https://hibbangyong.com/words/averse/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "꺼리는 — 무언가가 싫어서 웬만하면 하려 들지 않는 (averse to ~ 꼴로 써)",
+ "gloss_ko": "꺼리는",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "반 회의에서 체육대회 날 다 같이 반티를 맞추자는 말이 나왔어. 몇 명이 고개를 저었지.",
+  "돈이 아까워서든, 그냥 싫어서든 이유는 달라. 그래도 마음이 그쪽으로 안 가는 건 똑같아.",
+  "이렇게 뭔가가 싫어서 웬만하면 안 하려는 마음이 averse야. averse to 뒤에 그 대상을 붙여.",
+  "하고 싶은데 사정상 못 하는 거랑은 달라. 그리고 not averse to는 오히려 '마다하지 않는다'는 뜻이야."
+ ],
+ "scene": "반 회의에서 반티 맞추자는 말에 고개를 젓는 친구들",
+ "examples": [
+  {
+   "en": "My dad is averse to taking risks with money.",
+   "ko": "우리 아빠는 돈 가지고 모험하는 걸 꺼려."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "민재는 물에 들어가는 게 싫어서, 친구들이 계곡에 놀러 가자고 하면 웬만하면 핑계를 대고 빠져. 이런 민재를 물놀이에 'averse'하다고 할 수 있을까?",
+   "choices": [
+    "응, averse 맞아",
+    "아니, averse 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, averse 맞아",
+   "why": "맞아! 민재는 물에 들어가는 게 싫어서, 계곡에 놀러 가자고 하면 웬만하면 핑계를 대고 빠지잖아. 싫어서 안 하려 드는 바로 그 마음이 averse라서, 민재는 물놀이에 averse한 거야."
+  },
+  {
+   "type": "ox",
+   "question": "하린이는 산에 오르는 게 좋아서, 주말마다 먼저 친구들한테 등산 가자고 연락을 돌려. 이런 하린이를 등산에 'averse'하다고 할 수 있을까?",
+   "choices": [
+    "응, averse 맞아",
+    "아니, averse 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, averse 아니야",
+   "why": "맞아! 하린이는 등산이 좋아서 주말마다 먼저 친구들한테 가자고 연락을 돌리잖아. averse는 싫어서 웬만하면 안 하려는 마음이니까, 하린이랑은 완전 반대야."
+  },
+  {
+   "type": "choice",
+   "question": "네 친구가 매운 음식 얘기를 했어. 매운 음식에 'averse'라고 할 수 있는 사람은?",
+   "choices": [
+    "지수: 매운 건 영 싫어서, 누가 권해도 웬만하면 사양해.",
+    "민호: 매운 건 엄청 좋아해서, 누가 권하면 늘 바로 받아.",
+    "서연: 매운 건 좋아하는데, 치과 치료 중이라 당분간 못 먹어.",
+    "준기: 매운 건 딱히 안 좋아하는데, 누가 권하면 사양 안 해."
+   ],
+   "answer_index": 0,
+   "answer": "지수: 매운 건 영 싫어서, 누가 권해도 웬만하면 사양해.",
+   "why": "맞아! 지수는 매운 게 영 싫어서 누가 권해도 웬만하면 사양하잖아. 싫어서 실제로 안 하려 드는 거, 바로 그게 averse야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "eager",
+  "keen"
+ ],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-averse",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-averse"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/averse.webp",
+  "alt": "반 회의에서 반티 맞추자는 말에 고개를 젓는 친구들",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

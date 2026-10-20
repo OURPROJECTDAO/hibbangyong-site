@@ -1,0 +1,94 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/withdraw/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/withdraw/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "withdraw",
+ "slug": "withdraw",
+ "url": "https://hibbangyong.com/words/withdraw/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "내밀거나 넣어둔 걸 도로 빼는 것, 또는 있던 자리에서 도로 빠져나오는 것.",
+ "gloss_ko": "넣어둔 걸 도로 빼다",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "저금통에 모아 둔 돈, 도로 꺼내 본 적 있지?",
+  "앞으로 내놨던 걸 도로 내 쪽으로 거두는 거야.",
+  "손을 쑥 내밀었다 도로 당기는 것도, 하기로 한 걸 도로 무르는 것도 다 그래.",
+  "한 발 나갔다가 도로 뒤로 물러나 거두는 거 — 그게 withdraw야."
+ ],
+ "scene": "넣어두거나 앞으로 내놨던 걸 도로 내 쪽으로 거두어 물러나는 장면.",
+ "examples": [
+  {
+   "en": "I went to the bank to withdraw some money for my new bike.",
+   "ko": "새 자전거 살 돈을 찾으러 은행에 갔어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "물에 발을 담갔다가 차가워서 발을 도로 쏙 빼낸 지호. 지호가 한 행동이 'withdraw'야?",
+   "choices": [
+    "응, withdraw야.",
+    "아니, withdraw 아니야."
+   ],
+   "answer_index": 0,
+   "answer": "응, withdraw야.",
+   "why": "맞아! 물에 발을 쑥 담갔다가 차가워서 도로 빼냈잖아. 나갔던 발을 도로 거둬 빼는 거, 그게 바로 withdraw야."
+  },
+  {
+   "type": "ox",
+   "question": "씨앗을 흙 속으로 더 깊이 꾹 밀어 넣은 수아. 수아가 한 행동이 'withdraw'야?",
+   "choices": [
+    "응, withdraw야.",
+    "아니, withdraw 아니야."
+   ],
+   "answer_index": 1,
+   "answer": "아니, withdraw 아니야.",
+   "why": "맞아! 씨앗을 더 깊이 꾹 밀어 넣은 건 도로 빼는 게 아니라 거꾸로 더 안으로 밀어 넣은 거잖아. 그러니까 withdraw가 아닌 게 딱 맞아."
+  },
+  {
+   "type": "ox",
+   "question": "책상 위 빵 부스러기를 쓰레기통에 쓸어 담아 버려서 치워 버렸어. 이것도 'withdraw'야?",
+   "choices": [
+    "응, withdraw가 맞아",
+    "아니, withdraw가 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, withdraw가 아니야",
+   "why": "맞아! 빵 부스러기를 버려서 아주 없애 버린 건, 내 쪽으로 도로 거둬들인 게 아니라 그냥 치워서 없앤 거잖아. 그러니까 withdraw가 아닌 게 딱 맞아."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "insert",
+  "advance"
+ ],
+ "confusable": [
+  {
+   "word": "remove",
+   "kind": "confusable",
+   "from": "vs remove"
+  }
+ ],
+ "related_scene": [
+  "withdrawn"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-withdraw",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-withdraw"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/withdraw.webp",
+  "alt": "넣어두거나 앞으로 내놨던 걸 도로 내 쪽으로 거두어 물러나는 장면.",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

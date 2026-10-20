@@ -1,0 +1,72 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/diary/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/diary/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "diary",
+ "slug": "diary",
+ "url": "https://hibbangyong.com/words/diary/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "일기장 — 하루에 있었던 일이나 마음을 적어 두는, 나만 보는 공책",
+ "gloss_ko": "일기장",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "그림 속 자물쇠가 달린 두툼한 공책이 바로 diary(일기장)야. 안에다 오늘 있었던 일을 적어 두는 거지.",
+  "학교에서 재밌었던 일이나 속상했던 마음을 diary에 적어 두면, 나중에 다시 펼쳐 볼 수 있어."
+ ],
+ "scene": "작은 걸쇠 자물쇠가 달린 두툼한 표지의 일기장(다이어리)과 그 옆에 놓인 펜 — 아이가 떠올리는 '비밀 일기장'을 그림",
+ "examples": [
+  {
+   "en": "Every night, I write about my day in my diary before I go to sleep.",
+   "ko": "나는 밤마다 자기 전에 일기장에 그날 있었던 일을 적어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "형은 점심에 먹을 밥과 반찬을 칸칸이 담아서 학교에 들고 가. 이게 diary야?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 아니야",
+   "why": null
+  },
+  {
+   "type": "choice",
+   "question": "diary는 어느 것일까?",
+   "choices": [
+    "머리 위로 펴서 비를 막을 때 쓰는 물건",
+    "물을 끓여 국을 만들 때 쓰는 그릇",
+    "그날 있었던 일을 적어 둘 때 쓰는 공책",
+    "바퀴를 굴려 먼 곳에 갈 때 쓰는 탈것"
+   ],
+   "answer_index": 2,
+   "answer": "그날 있었던 일을 적어 둘 때 쓰는 공책",
+   "why": null
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-diary",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-diary"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/diary.webp",
+  "alt": "작은 걸쇠 자물쇠가 달린 두툼한 표지의 일기장(다이어리)과 그 옆에 놓인 펜 — 아이가 떠올리는 '비밀 일기장'을 그림",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

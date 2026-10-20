@@ -1,0 +1,63 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/shake/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/shake/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "shake",
+ "slug": "shake",
+ "url": "https://hibbangyong.com/words/shake/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "흔들다·흔들리다 — 제자리에서 빠르게 여러 번 왔다 갔다 움직이는 것",
+ "gloss_ko": "흔들다·흔들리다",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "큰 트럭이 쌩 지나가면 창문이 덜덜덜 떨리잖아? 창문은 그 자리에 그대로 붙어 있는데, 몸만 빠르게 왔다 갔다 해.",
+  "주스병을 손에 쥐고 마구 흔들 때도 똑같아. 누가 흔들어서든, 저절로든 상관없거든?",
+  "한 번 툭 미는 거랑은 달라. 왔다, 갔다, 왔다, 갔다 — 빠르게 여러 번이어야 해.",
+  "그게 shake야."
+ ],
+ "scene": "트럭이 지나갈 때 제자리에서 덜덜 떨리는 창문",
+ "examples": [
+  {
+   "en": "My little brother likes to shake the box to guess what is inside.",
+   "ko": "동생은 안에 뭐가 들었는지 맞히려고 상자를 흔드는 걸 좋아해."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "아이 넷이 지금 자기 방에서 보이는 걸 하나씩 말하고 있어. 이 중에서 'shake' 하고 있는 게 있는 건 누구 말일까?",
+   "choices": [
+    "책상에 둔 구슬이 가장자리 쪽으로 또르르 굴러가고 있어",
+    "형이 방문 손잡이를 잡고 스르륵 한 번 밀어서 열고 있어",
+    "세탁기 옆에 둔 컵이 그 자리에서 달달달 움직이고 있어",
+    "고양이가 창틀에 앉아 꼼짝 않고 밖을 물끄러미 보고 있어"
+   ],
+   "answer_index": 2,
+   "answer": "세탁기 옆에 둔 컵이 그 자리에서 달달달 움직이고 있어",
+   "why": "맞아! 컵이 그 자리에 그대로 있으면서 달달달, 왔다 갔다 빠르게 여러 번 떨리고 있잖아. 누가 흔든 게 아니라 세탁기 때문에 저절로 떨려도 shake인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-shake",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-shake"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/shake.webp",
+  "alt": "트럭이 지나갈 때 제자리에서 덜덜 떨리는 창문",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

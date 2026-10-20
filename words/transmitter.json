@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/transmitter/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/transmitter/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "transmitter",
+ "slug": "transmitter",
+ "url": "https://hibbangyong.com/words/transmitter/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "송신기 — 신호를 전파로 바꿔서 내보내는 장치",
+ "gloss_ko": "송신기",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "무전기에 대고 말하면 네 목소리가 전파 신호로 바뀌어서 나가지.",
+  "이렇게 신호를 내보내는 쪽 장치가 transmitter야. 목소리가 아니어도 되고 크기도 상관없어.",
+  "방송국의 큰 탑도, 문을 여는 자동차 스마트키도, 새 다리에 다는 위치 추적기도 다 신호를 내보내.",
+  "신호를 받는 쪽(receiver)은 방향이 반대야. 소리만 크게 울리는 확성기나 선으로 실어 나르는 전선도 transmitter가 아니야."
+ ],
+ "scene": "무전기에 대고 말하는 장면",
+ "examples": [
+  {
+   "en": "The scientists put a tiny transmitter on the bird's leg.",
+   "ko": "과학자들이 새 다리에 아주 작은 송신기를 달았어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "운동장에서 민준이가 드론 조종기의 막대를 앞으로 밀었어. 그러자 조종기가 '앞으로 날아가' 명령을 전파 신호로 바꿔서 하늘에 있는 드론 쪽으로 보내고 있어. 이 드론 조종기는 'transmitter'야?",
+   "choices": [
+    "응, transmitter 맞아",
+    "아니, transmitter 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, transmitter 맞아",
+   "why": "맞아! 민준이가 막대를 밀면 조종기가 '앞으로 날아가' 명령을 전파 신호로 바꿔서 드론 쪽으로 내보내잖아. 이렇게 신호를 내보내는 쪽이니까 드론 조종기는 transmitter가 맞아."
+  },
+  {
+   "type": "ox",
+   "question": "밤에 할머니 방에 있는 작은 라디오가 멀리서 날아온 방송 전파 신호를 받아서 노래로 틀어 주고 있어. 이 라디오는 'transmitter'야?",
+   "choices": [
+    "응, transmitter 맞아",
+    "아니, transmitter 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, transmitter 아니야",
+   "why": "잘 골랐어! 할머니 라디오는 멀리서 날아온 방송 전파를 받아서 노래로 틀어 주는 쪽이야. 신호를 받는 쪽은 receiver라서 transmitter가 아닌 게 맞아."
+  },
+  {
+   "type": "choice",
+   "question": "산에서 길 잃은 등산객을 구조대가 찾고 있어. 이 장면에서 'transmitter'라고 부를 수 있는 건?",
+   "choices": [
+    "등산객 배낭 속 기계가 자기 위치 신호를 구조대 쪽으로 계속 보내고 있어.",
+    "구조대 차 안 기계가 등산객 쪽에서 온 위치 신호를 계속 받아 보여 주고 있어.",
+    "구조대 차 위 확성기가 대장님 목소리를 산 여기저기로 크게 울리고 있어.",
+    "구조대 차와 본부를 잇는 긴 전화선이 대원들 목소리를 계속 실어 나르고 있어."
+   ],
+   "answer_index": 0,
+   "answer": "등산객 배낭 속 기계가 자기 위치 신호를 구조대 쪽으로 계속 보내고 있어.",
+   "why": "맞아! 배낭 속 기계가 등산객 위치를 신호로 바꿔서 구조대 쪽으로 계속 내보내고 있잖아. 이렇게 신호를 내보내는 쪽 장치가 바로 transmitter야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "receiver"
+ ],
+ "confusable": [
+  {
+   "word": "broadcaster",
+   "kind": "confusable",
+   "from": "vs broadcaster"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-transmitter",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-transmitter"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/transmitter.webp",
+  "alt": "무전기에 대고 말하는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

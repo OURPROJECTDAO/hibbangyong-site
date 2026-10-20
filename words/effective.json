@@ -1,0 +1,98 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/effective/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/effective/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "effective",
+ "slug": "effective",
+ "url": "https://hibbangyong.com/words/effective/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "효과적인 — 하려고 했던 일이 진짜로 되게 해 주는",
+ "gloss_ko": "하려던 게 진짜 되는",
+ "level": {
+  "code": "L3",
+  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "교실이 와글와글 시끄러워. 선생님이 조용! 하고 외쳐도 그대로야.",
+  "그런데 박수를 짝짝짝 세 번 치니까? 딱! 다들 조용해졌어.",
+  "더 세게 하거나 더 오래 한 게 아니야. 하려던 일이 진짜로 된 거지.",
+  "이게 effective야."
+ ],
+ "scene": "시끄러운 교실에서 박수 세 번 쳐서 조용해짐",
+ "examples": [
+  {
+   "en": "Putting the plant by the sunny window was an effective way to help it grow.",
+   "ko": "화분을 해 드는 창가에 둔 건 잘 자라게 하는 효과적인 방법이었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "비둘기가 자꾸 베란다 창틀에 와서 앉았어. 형은 비둘기가 못 오게 하려고 창틀에 반짝이 테이프를 줄줄이 붙였어. 다음 날 아침에도 비둘기들은 창틀에 그대로 앉아 있었어. 그래도 식구들은 테이프가 반짝반짝 예쁘다며 형을 칭찬해 줬어. 형이 테이프를 붙인 방법은 'effective'였을까?",
+   "choices": [
+    "응, effective 맞아",
+    "아니, effective 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, effective 아니야",
+   "why": "맞아! 형은 비둘기가 못 오게 하려고 테이프를 붙였는데, 다음 날 아침에도 비둘기들이 창틀에 그대로 앉아 있었거든. 하려던 일이 안 됐으니까 effective가 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "고양이가 욕실 구석에 숨어서 안 나오자, 누나는 고양이를 욕실 밖으로 나오게 하려고 간식 봉지를 바스락바스락 흔들었어. 고양이는 곧장 뛰어나왔어. 대신 고양이가 간식을 한꺼번에 다 먹어 버려서, 새로 산 간식 봉지가 텅 비었어. 누나가 봉지를 흔든 방법은 'effective'였을까?",
+   "choices": [
+    "응, effective 맞아",
+    "아니, effective 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, effective 맞아",
+   "why": "맞아! 누나가 하려던 일은 고양이를 욕실 밖으로 나오게 하는 거였잖아. 봉지를 바스락바스락 흔드니까 고양이가 곧장 뛰어나왔지? 하려던 일이 진짜로 됐으니까 effective인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "아빠가 막힌 세면대를 뚫으려고 했어. 도구가 없어서 손으로 하나하나 꺼내느라 두 시간이나 걸렸어. 그래도 결국 물이 쑥쑥 잘 내려가게 됐어. 이런 경우도 아빠의 방법이 'effective'했던 거야?",
+   "choices": [
+    "응, effective 맞아",
+    "아니, effective 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, effective 맞아",
+   "why": "맞아! 두 시간이나 걸렸어도 결국 물이 쑥쑥 잘 내려가게 됐잖아. 아빠가 하려던 일이 진짜로 됐으니까 아빠의 방법은 effective였던 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "ineffective"
+ ],
+ "confusable": [
+  {
+   "word": "efficient",
+   "kind": "confusable",
+   "from": "vs efficient"
+  },
+  {
+   "word": "successful",
+   "kind": "confusable",
+   "from": "vs successful"
+  }
+ ],
+ "related_scene": [
+  "effect"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-effective",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-effective"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/effective.webp",
+  "alt": "시끄러운 교실에서 박수 세 번 쳐서 조용해짐",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

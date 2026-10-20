@@ -1,0 +1,88 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/combustion/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/combustion/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "combustion",
+ "slug": "combustion",
+ "url": "https://hibbangyong.com/words/combustion/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "연소 — 물질이 산소와 만나 타면서 열과 빛을 내는 과정",
+ "gloss_ko": "연소(타는 과정)",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "가스레인지 불, 촛불, 모닥불. 다 뭔가가 산소랑 만나서 타고, 열이랑 빛이 나지?",
+  "그렇게 타는 과정 전체가 combustion이야. 과학 시간에 배운 연소 맞아.",
+  "불꽃이 눈에 안 보여도 돼. 자동차 엔진 속에서 휘발유가 타서 차를 움직이는 것도 combustion이야.",
+  "뜨거워서 녹는 것, 쇠가 천천히 녹스는 것이랑은 달라. 진짜로 타야 해."
+ ],
+ "scene": "가스레인지·촛불·모닥불이 타는 모습",
+ "examples": [
+  {
+   "en": "The combustion of gas inside the engine makes the car move.",
+   "ko": "엔진 안에서 휘발유가 타니까 그 힘으로 차가 굴러가는 거야."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "성냥을 성냥갑에 그었더니 성냥개비 끝에 불이 붙어 열과 빛을 내며 타 들어가고 있어. 이렇게 타는 과정이 'combustion'이야?",
+   "choices": [
+    "응, combustion 맞아",
+    "아니, combustion 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, combustion 맞아",
+   "why": "맞아! 성냥개비 끝이 불붙어서 열이랑 빛을 내며 타 들어가잖아. 산소랑 만나서 진짜로 타는 거니까 바로 그게 combustion이야."
+  },
+  {
+   "type": "ox",
+   "question": "쓰레기통에서 작은 불이 났는데, 소화기 가루로 덮었더니 불이 완전히 꺼져서 이제 아무것도 타지 않아. 이렇게 불이 꺼져 버린 상태가 'combustion'이야?",
+   "choices": [
+    "응, combustion 맞아",
+    "아니, combustion 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, combustion 아니야",
+   "why": "그렇지, 아니야! 소화기 가루가 불을 덮어서 산소가 못 들어가니까 이제 아무것도 안 타잖아. combustion은 진짜로 타고 있어야 하는 거라, 불이 꺼진 쓰레기통은 combustion이 아니야."
+  },
+  {
+   "type": "choice",
+   "question": "오토바이 엔진 이야기를 하다가 'combustion'이라는 말이 나왔어. 이 맥락에서 이 말이 가리키는 장면으로 맞는 건 어느 거야?",
+   "choices": [
+    "엔진 안에서 연료가 밖으로는 안 보이게 타며 바퀴를 돌리는 것",
+    "브레이크를 세게 잡아 바퀴와 바닥이 마찰하며 뜨거워지고 끼익 소리가 나는 것",
+    "엔진이 너무 뜨거워져서 안쪽 고무 부품이 녹아내리는 것",
+    "엔진의 쇠 부품이 빗물에 오래 젖어 천천히 녹스는 것"
+   ],
+   "answer_index": 0,
+   "answer": "엔진 안에서 연료가 밖으로는 안 보이게 타며 바퀴를 돌리는 것",
+   "why": "맞아! 밖에서는 불꽃이 안 보여도 엔진 안에서는 연료가 산소랑 만나 진짜로 타고 있어. 그 힘으로 바퀴가 도는 거니까 이게 바로 combustion이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "engine",
+  "gasoline"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-combustion",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-combustion"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/combustion.webp",
+  "alt": "가스레인지·촛불·모닥불이 타는 모습",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

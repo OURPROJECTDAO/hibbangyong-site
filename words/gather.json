@@ -1,0 +1,98 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/gather/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/gather/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "gather",
+ "slug": "gather",
+ "url": "https://hibbangyong.com/words/gather/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "모이다 / 모으다 — 여기저기 흩어져 있던 것들이 한 군데로 오는 것",
+ "gloss_ko": "모이다 / 모으다",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "운동장을 봐봐. 애들이 저쪽 끝, 이쪽 구석, 다 흩어져서 놀고 있어.",
+  "그때 선생님이 부르면? 다들 한가운데로 우르르 와.",
+  "떨어져 있던 게 한 군데로 오는 거야. 사람도, 바닥에 굴러다니던 블록도, 하늘에 구름도, 여기저기서 들은 이야기도 그렇게 모을 수 있어.",
+  "처음부터 그냥 같이 있는 건 아니야. 흩어져 있던 게 한 군데로 오는 것, 그게 gather야."
+ ],
+ "scene": "운동장에 흩어져 놀던 아이들이 선생님이 부르자 한가운데로 모여드는 장면",
+ "examples": [
+  {
+   "en": "My family gathered in the kitchen to hear the news.",
+   "ko": "우리 가족은 소식을 들으려고 부엌에 모였어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "친구 네 명이 방과 후에 한 일이야. 이 중에서 'gather'인 것은 어느 거야?",
+   "choices": [
+    "창문에 붙은 스티커를 손톱으로 천천히 떼어냈어",
+    "마당 여기저기 떨어진 도토리를 한 바구니에 담았어",
+    "식탁에 놓인 우유를 컵째로 천천히 다 마셨어",
+    "풀린 운동화 끈을 손가락으로 다시 묶었어"
+   ],
+   "answer_index": 1,
+   "answer": "마당 여기저기 떨어진 도토리를 한 바구니에 담았어",
+   "why": "맞아! 여기저기 흩어져 떨어져 있던 도토리를 한 바구니로 모은 거잖아. 흩어진 게 한 군데로 오는 것, 그게 바로 gather야."
+  },
+  {
+   "type": "ox",
+   "question": "통 안에 담겨 있던 구슬이 쏟아져서 방 사방으로 굴러갔어. 이걸 'gather'라고 할 수 있어?",
+   "choices": [
+    "응, gather 맞아",
+    "아니, gather 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, gather 아니야",
+   "why": "맞아! 통 안에 한 군데 딱 모여 있던 구슬이 사방으로 흩어져 버린 거잖아. 이건 모이는 게 아니라 정반대로 퍼진 거라서 gather가 아니야. 흩어진 구슬을 다시 주워 담으면 그때가 gather인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 가지 일이 일어났어. 이 중에서 'gather'라고 말할 수 있는 건 어느 거야?",
+   "choices": [
+    "한 줄로 서 있던 아이들이 종이 울리자 사방으로 뛰어갔어",
+    "책상 위 연필 열 자루 중에서 제일 짧은 하나를 골라 집었어",
+    "여기저기 떨어져 있던 새들이 전깃줄 한 곳으로 날아와 앉았어",
+    "아침부터 같은 자리에 나란히 놓여 있던 인형들이 그대로 있었어"
+   ],
+   "answer_index": 2,
+   "answer": "여기저기 떨어져 있던 새들이 전깃줄 한 곳으로 날아와 앉았어",
+   "why": "맞아! 여기저기 흩어져 있던 새들이 전깃줄 한 곳으로 날아와 앉았잖아. 떨어져 있던 게 한 군데로 딱 오는 것, 그게 바로 gather야. 손으로 줍지 않아도, 저절로 모여도 gather인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "collect",
+   "kind": "confusable",
+   "from": "vs collect"
+  },
+  {
+   "word": "assemble",
+   "kind": "confusable",
+   "from": "vs assemble"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-gather",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-gather"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/gather.webp",
+  "alt": "운동장에 흩어져 놀던 아이들이 선생님이 부르자 한가운데로 모여드는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

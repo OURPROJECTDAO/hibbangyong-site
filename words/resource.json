@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/resource/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/resource/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "resource",
+ "slug": "resource",
+ "url": "https://hibbangyong.com/words/resource/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "자원 — 뭘 해내려고 끌어다 쓸 수 있는 것들(돈·시간·사람·물처럼).",
+ "gloss_ko": "자원",
+ "level": {
+  "code": "L3",
+  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "뭔가 큰일을 해내려고 할 때, 끌어다 쓸 수 있는 게 있잖아.",
+  "돈도 되고, 시간도 되고, 도와줄 사람도 되고, 물이나 나무도 돼.",
+  "'이걸로 해낼 수 있겠다' 싶게, 쓸 수 있는 것들 말이야.",
+  "그게 resource야."
+ ],
+ "scene": "큰일을 해내려고 끌어다 쓸 것들(돈·시간·사람·물)을 챙기는 상황",
+ "examples": [
+  {
+   "en": "Mom says time is our best resource, so let's not waste it.",
+   "ko": "엄마가 시간이 제일 좋은 자원이니까 낭비하지 말자고 하셔."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "동네 도서관에서 연극을 올리기로 했어. 지호 손에는 무대에 세울 의자 열 개가 있어. 이 의자 열 개가 지호의 'resource'야?",
+   "choices": [
+    "응, resource 맞아",
+    "아니, resource 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, resource 맞아",
+   "why": "맞아! 연극을 올리려면 무대에 뭐라도 세워야 하는데, 지호한테는 딱 쓸 수 있는 의자 열 개가 있잖아. 그렇게 일을 해내려고 끌어다 쓸 수 있는 게 바로 resource인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "지호가 나무와 못을 써서 새집을 다 지었어. 마당 나무에 걸어둔 그 새집이 지호의 'resource'야?",
+   "choices": [
+    "응, resource 맞아",
+    "아니, resource 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, resource 아니야",
+   "why": "맞아, 새집은 resource가 아니야! 나무랑 못이 지호가 끌어다 쓴 거고, 새집은 그걸로 다 만들고 나온 거잖아. 다 만들어진 건 이제 뭘 만들려고 쓰는 게 아니라서 resource가 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "우리 반이 학예회 무대를 꾸미려고 해. 옆 반 형이 '무대 꾸미는 거 내가 도와줄게' 하면서 매일 방과후에 와 주기로 했어. 도와주러 오는 그 형도 우리 반의 'resource'야?",
+   "choices": [
+    "응, 그 형도 resource 맞아",
+    "아니, 그 형은 resource 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 그 형도 resource 맞아",
+   "why": "맞아! 무대 꾸미는 걸 도와주려고 우리가 끌어다 쓸 수 있는 힘이니까, 그 형도 우리 반의 resource인 거야. 돈이나 물건만 resource인 게 아니라, 도와줄 사람도 resource거든."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "coal"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-resource",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-resource"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/resource.webp",
+  "alt": "큰일을 해내려고 끌어다 쓸 것들(돈·시간·사람·물)을 챙기는 상황",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

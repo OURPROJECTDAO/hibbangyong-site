@@ -1,0 +1,108 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/wise/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/wise/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "wise",
+ "slug": "wise",
+ "url": "https://hibbangyong.com/words/wise/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "슬기로운 — 뭐가 옳고 좋은지 잘 알아서 좋은 쪽으로 고를 줄 아는",
+ "gloss_ko": "슬기로운",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "누가 '이거 하자!' 하고 막 부추겨도, 잠깐 생각해서 '음, 그건 별로일 것 같아' 하고 더 나은 쪽을 고를 줄 아는 애 있잖아.",
+  "그냥 머리 좋은 거랑은 달라. 답을 빨리 푸는 게 아니라, 뭐가 옳고 좋은지를 아는 거거든.",
+  "여러 번 겪어보고 나면 생기는 거야. '이럴 땐 이게 낫더라' 하고 말이지.",
+  "그게 wise야."
+ ],
+ "scene": "누가 부추겨도 잠깐 생각해 더 나은 쪽을 고르는 상황",
+ "examples": [
+  {
+   "en": "It was wise to save some money instead of spending it all.",
+   "ko": "돈을 다 쓰지 않고 좀 모아 둔 건 참 슬기로웠어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "친구 넷이 다 착하고 멋진 애들이야. 그런데 그중에서 누구를 'wise'하다고 부를까?",
+   "choices": [
+    "전에 급하게 골랐다가 후회한 적이 있어서, 이번엔 서두르지 않고 곰곰이 생각해서 골랐어.",
+    "머리가 팽팽 잘 돌아가서, 어려운 문제도 남들보다 훨씬 빨리 척척 풀어내.",
+    "책을 아주 많이 읽어서, 웬만한 건 뭐든 훤히 다 알고 있어.",
+    "마음이 따뜻해서, 아끼던 간식도 친구한테 선뜻 나눠 줘."
+   ],
+   "answer_index": 0,
+   "answer": "전에 급하게 골랐다가 후회한 적이 있어서, 이번엔 서두르지 않고 곰곰이 생각해서 골랐어.",
+   "why": "맞아! 전에 급하게 골랐다가 후회해 본 걸 기억해 뒀다가, 이번엔 잠깐 멈춰서 더 나은 쪽을 고른 거잖아. 겪어보고 배운 걸로 좋은 쪽을 고를 줄 아는 것, 그게 바로 wise인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "아이 넷이 저마다 하나씩 잘하는 게 있어. 이 중에서 'wise'한 애는 누구야?",
+   "choices": [
+    "줄넘기를 오래 해 봐서, 반에서 제일 많이 넘는 기록을 세웠어.",
+    "리코더를 오래 불어 봐서, 어려운 곡도 끝까지 틀리지 않고 불어.",
+    "얼음길에서 넘어져 봐서, 이번엔 미끄러운 길 대신 눈길로 돌아가기로 했어.",
+    "키가 반에서 제일 커서, 높은 선반 위 물건도 혼자 꺼내."
+   ],
+   "answer_index": 2,
+   "answer": "얼음길에서 넘어져 봐서, 이번엔 미끄러운 길 대신 눈길로 돌아가기로 했어.",
+   "why": "맞아! 넘어져 봤으니까 미끄러운 길이 어떤지 알잖아. 그래서 이번엔 돌아가기로 고른 거, 그게 바로 겪어보고 더 나은 쪽을 골라내는 거야. 그게 wise인 거지."
+  },
+  {
+   "type": "ox",
+   "question": "소민이네 할머니 댁 마당에 개가 한 마리 있어. 개가 밥을 먹고 있을 때는 소민이가 가만히 기다렸다가, 그릇을 다 비운 다음에 다가가서 쓰다듬어. 소민이는 'wise'해?",
+   "choices": [
+    "응, wise 맞아",
+    "아니, wise 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, wise 맞아",
+   "why": "맞아! 개가 밥 먹을 땐 다가가면 안 된다는 걸 소민이가 알고 있었던 거야. 그래서 꾹 참고 기다렸다가 다 먹은 다음에 쓰다듬었잖아. 이렇게 뭐가 더 나은지 알고 그쪽을 고르는 게 바로 wise인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "foolish"
+ ],
+ "confusable": [
+  {
+   "word": "kind",
+   "kind": "confusable",
+   "from": "착함/따뜻함(kind)"
+  },
+  {
+   "word": "knowledgeable",
+   "kind": "confusable",
+   "from": "vs knowledgeable"
+  },
+  {
+   "word": "clever",
+   "kind": "confusable",
+   "from": "vs clever"
+  }
+ ],
+ "related_scene": [
+  "advice",
+  "sage"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-wise",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-wise"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/wise.webp",
+  "alt": "누가 부추겨도 잠깐 생각해 더 나은 쪽을 고르는 상황",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

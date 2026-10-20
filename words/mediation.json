@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/mediation/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/mediation/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "mediation",
+ "slug": "mediation",
+ "url": "https://hibbangyong.com/words/mediation/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "중재(다툼을 풀도록 사이에서 돕기) — 다투는 두 쪽 사이에 다른 사람이 들어가서, 두 쪽이 스스로 해결책을 찾도록 돕는 일",
+ "gloss_ko": "다툼 풀게 돕기",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "동아리 두 팀이 예산 문제로 크게 다퉜어. 선생님이 두 팀 사이에 앉아서 서로의 말을 끝까지 듣게 했어.",
+  "선생님은 누가 옳은지 정해 주지 않아. 어느 편도 들지 않고, 결론은 두 팀이 직접 내도록 도와줄 뿐이야.",
+  "나라끼리 싸울 때도, 회사와 직원들이 부딪칠 때도 이 말을 똑같이 써. 잘 풀릴 때도 있고 실패할 때도 있어.",
+  "심판처럼 판정을 내려 주는 일이랑은 달라. 가운데서 두 쪽이 대화할 수 있게 이어 주는 일이야."
+ ],
+ "scene": "동아리 두 팀이 예산 문제로 다투고 선생님이 사이에 앉아 말을 듣게 함",
+ "examples": [
+  {
+   "en": "After weeks of mediation, the two countries still could not agree.",
+   "ko": "몇 주 동안 중재를 거쳤는데도 두 나라는 끝내 합의하지 못했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "아파트 위층과 아래층 사는 두 집이 층간소음 때문에 다퉜어. 관리소장이 두 집 사람을 관리사무소에 불러 앉혔어. 관리소장은 어느 집 편도 들지 않고 서로의 말을 끝까지 듣게 했어. 해결 방법은 두 집이 직접 정하도록 도왔어. 관리소장이 한 이 일이 'mediation'이야?",
+   "choices": [
+    "응, mediation 맞아",
+    "아니, mediation 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, mediation 맞아",
+   "why": "맞아! 관리소장은 어느 집 편도 안 들고 두 집이 서로 말을 끝까지 듣게 했잖아. 해결 방법도 두 집이 직접 정하게 도왔으니까, 그게 바로 mediation이야."
+  },
+  {
+   "type": "ox",
+   "question": "형제 둘이 게임기를 누가 먼저 쓸지 두고 다퉜어. 사촌이 두 사람 가운데에서 형한테는 \"동생이 형 무시한대\"라고 전했어. 동생한테는 \"형이 너 우습게 본대\"라고 전했어. 그래서 형제의 싸움이 더 커졌어. 사촌이 한 이 일이 'mediation'이야?",
+   "choices": [
+    "응, mediation 맞아",
+    "아니, mediation 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, mediation 아니야",
+   "why": "맞아! 사촌은 두 사람 가운데에 서긴 했는데, 형제가 서로 말을 나누게 이어 준 게 아니라 말을 옮겨 전해서 싸움을 더 키웠잖아. 가운데서 두 쪽이 스스로 풀도록 돕는 게 mediation이니까, 이건 정반대인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "학교 축제 부스 자리 때문에 3반과 4반이 다퉜어. 다음 중 'mediation'에 해당하는 건?",
+   "choices": [
+    "학생회장이 두 반 대표를 불러 앉히고, 서로 말을 듣게 하면서 두 반이 방법을 정하게 도왔다",
+    "학생회장이 두 반 이야기를 다 듣고 나서 부스는 3반이 쓴다고 직접 정해서 발표했다",
+    "학생회장이 친한 3반 편에 서서 4반 대표를 찾아가 자리를 양보하라고 설득했다",
+    "두 반 대표가 다른 사람 없이 둘이서만 만나서 부스 자리를 반씩 나누기로 했다"
+   ],
+   "answer_index": 0,
+   "answer": "학생회장이 두 반 대표를 불러 앉히고, 서로 말을 듣게 하면서 두 반이 방법을 정하게 도왔다",
+   "why": "맞아! 학생회장이 어느 반 편도 안 들고 가운데 앉아서 서로 말을 듣게만 했잖아. 방법은 두 반이 직접 정했으니까, 바로 그게 mediation이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "intervention",
+   "kind": "confusable",
+   "from": "vs intervention"
+  }
+ ],
+ "related_scene": [
+  "agreement"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-mediation",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-mediation"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/mediation.webp",
+  "alt": "동아리 두 팀이 예산 문제로 다투고 선생님이 사이에 앉아 말을 듣게 함",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

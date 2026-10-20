@@ -1,0 +1,101 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/rhetorical/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/rhetorical/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "rhetorical",
+ "slug": "rhetorical",
+ "url": "https://hibbangyong.com/words/rhetorical/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "수사적인(효과를 노려 말 모양을 고른) — (질문이) 답을 들으려는 게 아니라 하고 싶은 말을 세게 전하려고 던지는, 넓게는 듣는 사람에게 효과를 주려고 말 모양을 골라 짜는",
+ "gloss_ko": "효과 노린 말투의",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "늦게 들어왔는데 엄마가 \"지금 몇 시인 줄 알아?\" 해. 여기서 시간 알려 주면 더 혼나지.",
+  "엄마는 시간이 궁금한 게 아니야. \"너무 늦었어\"를 질문 모양에 담아서 세게 말한 거야. 이런 질문을 rhetorical question이라고 해.",
+  "질문만 그런 게 아니야. 연설에서 \"우리가 여기서 멈출까요?\" 하고 묻거나 같은 말을 세 번 되풀이하는 것도 rhetorical이야. 듣는 사람한테 줄 효과를 노리고 말 모양을 고른 거라서, 멋진 연설에도 번지르르한 빈말에도 이 말을 써.",
+  "거짓말이랑은 달라. 내용이 사실이어도 말 모양을 일부러 골랐으면 rhetorical이야."
+ ],
+ "scene": "늦게 들어온 날 엄마의 '지금 몇 시인 줄 알아?'",
+ "examples": [
+  {
+   "en": "Mom's \"Do you know what time it is?\" was a rhetorical question, so I just said sorry.",
+   "ko": "엄마가 ‘지금 몇 시인 줄 알아’ 하신 건 답을 바라는 질문이 아니라서 그냥 죄송하다고 했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "수업 종이 울렸는데도 반 아이들이 계속 떠들었어. 그러자 선생님이 교탁을 탁 치면서 \"여기가 시장이니?\" 하고 물으셨어. 선생님의 이 질문은 rhetorical일까?",
+   "choices": [
+    "응, rhetorical 맞아",
+    "아니, rhetorical 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, rhetorical 맞아",
+   "why": "맞아! 교실이 시장이 아닌 건 선생님도 다 알잖아. 대답을 들으려는 게 아니라 조용히 하라는 말을 질문 모양에 담아서 세게 던진 거라서, 바로 그게 rhetorical인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "가족이랑 식당에 들어갔더니 직원이 \"몇 분이세요?\" 하고 물었어. 아빠가 \"네 명이요\" 하니까 직원이 4인석으로 안내해 줬어. 직원의 이 질문은 'rhetorical'이야?",
+   "choices": [
+    "응, rhetorical 맞아",
+    "아니, rhetorical 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, rhetorical 아니야",
+   "why": "맞아! 직원은 몇 명인지 진짜 알아야 자리를 정할 수 있잖아. 아빠가 \"네 명이요\" 하니까 바로 4인석으로 안내해 줬으니, 답이 꼭 필요해서 물은 진짜 질문이야. 그래서 rhetorical이 아니지."
+  },
+  {
+   "type": "choice",
+   "question": "네 장면에서 모두 누군가 질문을 했어. 이 중에서 'rhetorical question'이라고 할 만한 건?",
+   "choices": [
+    "길을 잃은 여행객이 나한테 역이 어느 쪽이냐고 물었어",
+    "비 오는 날 우산 없이 나가는 나한테 친구가 감기 걸리고 싶냐고 했어",
+    "친구가 답을 알면서 모르는 척 선생님께 이게 뭐냐고 물었어",
+    "선생님이 이 문제 푼 사람 있냐고 묻고 손 든 애를 시켰어"
+   ],
+   "answer_index": 1,
+   "answer": "비 오는 날 우산 없이 나가는 나한테 친구가 감기 걸리고 싶냐고 했어",
+   "why": "맞아! 친구는 네가 감기 걸리고 싶은지 대답을 듣고 싶은 게 아니야. 우산 챙기라는 말을 질문 모양에 담아서 세게 한 거라, 바로 그게 rhetorical question인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "persuasive",
+   "kind": "confusable",
+   "from": "vs persuasive"
+  },
+  {
+   "word": "eloquent",
+   "kind": "confusable",
+   "from": "vs eloquent"
+  },
+  {
+   "word": "figurative",
+   "kind": "confusable",
+   "from": "vs figurative"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-rhetorical",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-rhetorical"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/rhetorical.webp",
+  "alt": "늦게 들어온 날 엄마의 '지금 몇 시인 줄 알아?'",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

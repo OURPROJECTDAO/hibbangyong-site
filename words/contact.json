@@ -1,0 +1,89 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/contact/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/contact/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "contact",
+ "slug": "contact",
+ "url": "https://hibbangyong.com/words/contact/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "연락 — 전화·문자·편지·만남 같은 걸로 누군가와 서로 말을 주고받는 것",
+ "gloss_ko": "연락",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "민호가 멀리 이사 갔어. 그래도 문자가 띵! 영상통화가 따르릉! 편지도 슝 오가.",
+  "전화든 편지든 직접 만나서든 상관없어. 서로 말이 오가기만 하면 돼.",
+  "근데 민호 사진만 바라보는 건 달라. 보고 싶어도 말이 안 오가면 끊긴 거거든?",
+  "이렇게 서로 말을 주고받으며 이어져 있는 것, 그게 contact야."
+ ],
+ "scene": "멀리 이사 간 친구와 문자·영상통화·편지 주고받기",
+ "examples": [
+  {
+   "en": "Do you still have contact with Minho after he moved away?",
+   "ko": "민호가 이사 간 뒤에도 아직 걔랑 연락하고 지내?"
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "할머니는 시골에 살고 나는 서울에 살아. 올해는 한 번도 못 만났지만, 일요일마다 할머니랑 전화로 이야기해. 나랑 할머니 사이에 'contact'가 있을까?",
+   "choices": [
+    "응, contact 있어",
+    "아니, contact 없어"
+   ],
+   "answer_index": 0,
+   "answer": "응, contact 있어",
+   "why": "맞아! 올해 할머니를 한 번도 못 만났어도, 일요일마다 전화로 이야기하잖아. 이렇게 서로 말이 오가니까 바로 그게 contact인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "예전 짝꿍 서연이랑 나는 지금도 같은 동네에 살아. 그런데 반년째 서로 아무 소식도 주고받지 않아. 나랑 서연이 사이에 'contact'가 있을까?",
+   "choices": [
+    "응, contact 있어",
+    "아니, contact 없어"
+   ],
+   "answer_index": 1,
+   "answer": "아니, contact 없어",
+   "why": "맞아! 같은 동네에 살아도 반년째 서로 아무 소식도 주고받지 않았잖아. 말이 오가지 않으니까 contact가 없는 거야."
+  },
+  {
+   "type": "ox",
+   "question": "준호는 캠프에서 사귄 형의 전화번호를 몰라. 그래도 둘은 매주 토요일 동네 도서관에서 만나 한 주 동안 있었던 일을 서로 이야기해. 이런 경우도 준호가 형과 'contact'하는 거야?",
+   "choices": [
+    "응, 'contact' 맞아",
+    "아니, 'contact' 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 'contact' 맞아",
+   "why": "맞아! 준호는 전화번호를 몰라도 매주 토요일 도서관에서 형을 만나서 한 주 동안 있었던 일을 서로 이야기하잖아. 서로 말이 오가니까 바로 그게 contact인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "connection",
+   "kind": "confusable",
+   "from": "vs connection"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-contact",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-contact"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/contact.webp",
+  "alt": "멀리 이사 간 친구와 문자·영상통화·편지 주고받기",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

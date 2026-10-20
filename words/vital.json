@@ -1,0 +1,88 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/vital/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/vital/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "vital",
+ "slug": "vital",
+ "url": "https://hibbangyong.com/words/vital/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "그게 빠지면 전체가 아예 안 굴러가는 — 물건이든, 해야 할 일이든",
+ "gloss_ko": "빠지면 안 굴러가는",
+ "level": {
+  "code": "L6",
+  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "자전거에 종이 없어도 잘 가지? 근데 페달이 빠지면? 아예 못 가. 그냥 서 있는 쇳덩이야.",
+  "종도 있으면 좋지. 근데 페달은 급이 달라. 하나 빠졌을 뿐인데 전체가 딱 멈추거든.",
+  "물건만 그런 게 아니야. 게임에서 순서 지키기, 그거 하나 빼먹으면 게임이 아예 안 굴러가. 해야 하는 일도, 하면 안 되는 일도 그럴 수 있어.",
+  "아끼는 거, 좋은 거랑은 달라. 아무리 아껴도 없이 굴러가면 아니야. 빠지는 순간 전체가 멈추는 거 — 이게 vital이야."
+ ],
+ "scene": "종 없이도 굴러가지만 페달이 빠지면 아예 못 가는 자전거",
+ "examples": [
+  {
+   "en": "It is vital to lock the gate, or the dog will run away.",
+   "ko": "대문 잠그는 게 정말 중요해, 안 그러면 강아지가 도망가 버려."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "지호가 공책에 글씨를 쓰려고 연필을 잡았어. 연필 안에는 까만 연필심이 들어 있어. 글씨를 쓸 때 연필심은 'vital'해?",
+   "choices": [
+    "응, vital 맞아",
+    "아니, vital 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, vital 맞아",
+   "why": "맞아! 연필심이 쏙 빠져 있으면 아무리 열심히 눌러 써도 글씨가 하나도 안 나오지. 자전거 페달처럼 그거 하나 빠지는 순간 아예 안 굴러가는 거, 그게 바로 vital인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "지호 필통 겉면에 반짝이 스티커가 하나 붙어 있어. 필통에 연필을 넣고 학교에 들고 다닐 때, 그 스티커는 'vital'해?",
+   "choices": [
+    "응, vital 맞아",
+    "아니, vital 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, vital 아니야",
+   "why": "맞아! 스티커는 떼어내도 필통에 연필 넣고 학교 잘 다니잖아. 없어도 그대로 굴러가니까 vital이 아닌 거야. 자전거 종이랑 똑같은 자리에 있는 거지."
+  },
+  {
+   "type": "choice",
+   "question": "지호네 반이 다 같이 김밥을 만들기로 했어. 네 명이 일을 하나씩 나눠 맡았어. 이 중에 'vital'한 일은 뭘까?",
+   "choices": [
+    "밥이랑 재료를 김에 올려서 돌돌 마는 일",
+    "다 만든 김밥 위에 참깨를 솔솔 뿌리는 일",
+    "김밥을 지호가 아끼는 캐릭터 도시락통에 담는 일",
+    "김밥 옆에 놓을 색종이 꽃을 접는 일"
+   ],
+   "answer_index": 0,
+   "answer": "밥이랑 재료를 김에 올려서 돌돌 마는 일",
+   "why": "맞아! 돌돌 마는 걸 안 하면 김밥이라는 게 아예 안 나오잖아. 밥이랑 재료가 따로 놀 뿐이지. 그래서 그게 vital인 거야."
+  }
+ ],
+ "synonyms": [
+  "crucial",
+  "necessary"
+ ],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-vital",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-vital"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/vital.webp",
+  "alt": "종 없이도 굴러가지만 페달이 빠지면 아예 못 가는 자전거",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/hierarchy/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/hierarchy/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "hierarchy",
+ "slug": "hierarchy",
+ "url": "https://hibbangyong.com/words/hierarchy/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "위아래 층이 정해진 짜임 — 무엇이 위고 그 아래에 무엇이 딸리는지 층층이 나뉜 것",
+ "gloss_ko": "위아래 층이 정해진 짜임",
+ "level": {
+  "code": "L6",
+  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "마트에서 팻말 봐봐. 맨 위에 '과일', 그 아래에 '사과', 또 그 아래에 '빨간 사과'.",
+  "칸이 층층이 나뉘어 있지? 위 칸이 아래 것들을 다 품어.",
+  "사람도 그래. 감독 밑에 주장, 주장 밑에 선수. 누가 위고 누가 아래인지 층이 정해진 거야.",
+  "그냥 1등 2등 3등 줄 세운 거랑은 달라. 위 층이 아래를 밑에 두는 짜임, 그게 hierarchy야."
+ ],
+ "scene": "마트 팻말이 과일-사과-빨간 사과로 층층이 나뉜 장면",
+ "examples": [
+  {
+   "en": "At the store, the signs are in a hierarchy: fruit on top, then apples, then red apples.",
+   "ko": "가게 팻말은 맨 위에 과일, 그 아래 사과, 또 그 아래 빨간 사과로 층층이 나뉘어 있어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "게시판에 종이 네 장이 붙어 있어. 이 중 'hierarchy'가 적힌 종이는 어느 거야?",
+   "choices": [
+    "위에서부터 '오리기', '풀칠하기', '붙이기'라고 만드는 차례가 적혀 있어.",
+    "맨 위에 '악기', 그 아래에 '북', 또 그 아래에 '작은북'이라고 적혀 있어.",
+    "왼쪽부터 '월요일', '화요일', '수요일'이라고 요일이 나란히 적혀 있어.",
+    "가운데에 '2 더하기 3은 5'라고 셈 하나가 큼직하게 적혀 있어."
+   ],
+   "answer_index": 1,
+   "answer": "맨 위에 '악기', 그 아래에 '북', 또 그 아래에 '작은북'이라고 적혀 있어.",
+   "why": "맞아! 악기 아래에 북이 들어가고, 북 아래에 또 작은북이 들어가잖아. 위 칸이 아래 것들을 품는 층이 생긴 거야. 그게 바로 hierarchy야."
+  },
+  {
+   "type": "ox",
+   "question": "문구점 진열대에 연필 열 자루가 나란히 꽂혀 있어. 열 자루 다 길이도 같고 값도 같아서 아무거나 한 자루 뽑아 쓰면 돼. 이 연필 열 자루가 'hierarchy'야?",
+   "choices": [
+    "응, 'hierarchy' 맞아",
+    "아니, 'hierarchy' 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 'hierarchy' 아니야",
+   "why": "맞아! 열 자루가 다 나란히 한 줄로 똑같이 꽂혀 있잖아. 위 칸이 아래 것들을 품는 층이 하나도 없으니까, 이건 그냥 평평한 무리지 hierarchy가 아니야."
+  },
+  {
+   "type": "choice",
+   "question": "네 곳을 들여다봤어. 'hierarchy'가 있는 곳은 어디일까?",
+   "choices": [
+    "달리기 대회야. 빠른 차례대로 1등부터 20등까지 이름을 쭉 적어 뒀어.",
+    "놀이터야. 아이들이 그냥 모여서 아무나 먼저 미끄럼틀을 타고 놀아.",
+    "동아리 방이야. 선생님이 부장한테 시키고, 부장이 부원한테 시켜.",
+    "교실 사물함이야. 스무 칸이 나란히 붙어 있고 아이들이 하나씩 나눠 써."
+   ],
+   "answer_index": 2,
+   "answer": "동아리 방이야. 선생님이 부장한테 시키고, 부장이 부원한테 시켜.",
+   "why": "맞아! 선생님이 부장한테, 부장이 다시 부원한테 시키잖아. 위에 있는 사람이 아래 사람을 밑에 두고 층이 딱 정해진 거, 그게 hierarchy야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "class",
+   "kind": "confusable",
+   "from": "vs class"
+  }
+ ],
+ "related_scene": [
+  "organization"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-hierarchy",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-hierarchy"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/hierarchy.webp",
+  "alt": "마트 팻말이 과일-사과-빨간 사과로 층층이 나뉜 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

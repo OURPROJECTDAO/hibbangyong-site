@@ -1,0 +1,82 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/corporate/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/corporate/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "corporate",
+ "slug": "corporate",
+ "url": "https://hibbangyong.com/words/corporate/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "회사의 — 사람 여럿이 모여 만든 큰 회사에 딸리거나 관한",
+ "gloss_ko": "회사의",
+ "level": {
+  "code": "L6",
+  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "엄마 아빠가 다니는 큰 회사, 사람이 몇백 명씩 한 건물에 모여서 같이 일하는 데 있잖아?\n그 큰 회사 하나에 딸린 거를 corporate라고 해.\n회사가 정한 규칙, 회사 로고가 박힌 건물, 회사가 다 같이 내린 결정, 그런 게 다 corporate야.\n한 사람 게 아니라 회사 전체 거, 그게 corporate야."
+ ],
+ "scene": "엄마 아빠가 다니는, 몇백 명이 한 건물에 모여 일하는 큰 회사",
+ "examples": [
+  {
+   "en": "My mom works in a big corporate office downtown.",
+   "ko": "우리 엄마는 시내에 있는 큰 회사 사무실에서 일해."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "수천 명이 일하는 큰 기업이 전 직원한테 똑같이 나눠 준, 기업 마크가 찍힌 사원증이 있어. 이게 'corporate'야?",
+   "choices": [
+    "응, corporate 맞아",
+    "아니, corporate 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, corporate 맞아",
+   "why": "맞아! 회사 전체가 직원 모두한테 똑같이 나눠 주고 회사 마크까지 찍혀 있으니까, 이건 한 사람 게 아니라 회사 것이거든. 그래서 바로 corporate인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "언니가 자기 방에서 혼자 쓰고 아무한테도 안 보여주는 비밀 일기장이 있어. 이게 'corporate'야?",
+   "choices": [
+    "응, corporate 맞아",
+    "아니, corporate 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, corporate 아니야",
+   "why": "맞아! 언니가 혼자 쓰고 아무한테도 안 보여주는 일기장은 언니 한 사람 거잖아. corporate는 사람 여럿이 모인 큰 회사 전체 거를 말하는 거라서, 이건 corporate가 아닌 게 딱 맞아!"
+  },
+  {
+   "type": "choice",
+   "question": "네 군데가 나왔어. 이 중에서 'corporate'라고 부를 수 있는 곳은 어디일까?",
+   "choices": [
+    "수천 명이 다니는 큰 회사의 본사 건물",
+    "혼자 장사하는 동네 떡볶이 가게",
+    "나랏일을 하는 시청 건물",
+    "식구끼리 지내는 우리 집 거실"
+   ],
+   "answer_index": 0,
+   "answer": "수천 명이 다니는 큰 회사의 본사 건물",
+   "why": "맞아! 수천 명이 다니는 큰 회사의 본사 건물은 사람 여럿이 모여 만든 회사에 딸린 곳이거든. 그래서 바로 그게 corporate인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-corporate",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-corporate"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/corporate.webp",
+  "alt": "엄마 아빠가 다니는, 몇백 명이 한 건물에 모여 일하는 큰 회사",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

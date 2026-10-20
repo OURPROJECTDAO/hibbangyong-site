@@ -1,0 +1,96 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/palace/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/palace/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "palace",
+ "slug": "palace",
+ "url": "https://hibbangyong.com/words/palace/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "궁전 — 임금님·왕비님이 사는 아주 크고 화려한 집.",
+ "gloss_ko": "궁전",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "방이 수백 개나 되는, 어마어마하게 큰 집을 떠올려 봐.",
+  "벽엔 번쩍번쩍 금장식, 바닥엔 반들반들 매끈한 돌.",
+  "임금님이랑 왕비님이 바로 여기서 살아. 성처럼 적을 막으려고 지은 게 아니라, 크고 멋지게 지은 집이거든.",
+  "이게 palace야."
+ ],
+ "scene": "방 수백 개에 금장식과 매끈한 돌바닥이 있는 임금님의 큰 집",
+ "examples": [
+  {
+   "en": "The king and queen live in a beautiful palace with hundreds of shiny rooms.",
+   "ko": "임금님과 왕비님은 반짝이는 방이 수백 개나 되는 예쁜 궁전에 살아."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "오늘 배운 단어로 그림책 장면을 골라 봐. 다음 중 'palace'에 해당하는 것은?",
+   "choices": [
+    "왕과 왕비가 지내는, 금빛 기둥이 늘어선 아주 큰 건물",
+    "아이들이 공을 차며 뛰어노는, 잔디가 깔린 넓은 운동장",
+    "농부가 소를 키우며 여물을 쌓아 두는, 나무로 된 헛간",
+    "의사와 간호사가 환자를 돌보는, 침대가 늘어선 하얀 병원"
+   ],
+   "answer_index": 0,
+   "answer": "왕과 왕비가 지내는, 금빛 기둥이 늘어선 아주 큰 건물",
+   "why": "맞아! 왕이랑 왕비가 살고, 금빛 기둥이 번쩍번쩍 늘어선 아주 큰 집이잖아. 임금님이 사는 크고 화려한 집, 바로 그게 palace인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "박물관 모형들을 둘러봤어. 다음 중 'palace'에 해당하는 것은?",
+   "choices": [
+    "나무꾼이 산속에서 지내는, 통나무를 쌓아 만든 작은 오두막",
+    "곡식을 빻는 커다란 돌바퀴가 물로 돌아가는 물레방앗간",
+    "왕과 왕비가 지내는, 계단과 방이 수없이 많은 화려한 건물",
+    "배들이 밧줄에 묶여 나란히 떠 있는 바닷가의 작은 부두"
+   ],
+   "answer_index": 2,
+   "answer": "왕과 왕비가 지내는, 계단과 방이 수없이 많은 화려한 건물",
+   "why": "맞아! 왕이랑 왕비가 사는, 계단도 방도 수없이 많은 크고 화려한 집이잖아. 바로 그런 집을 palace라고 부르는 거야."
+  },
+  {
+   "type": "choice",
+   "question": "친구들이 각자 아는 집을 말했어. 이 중에서 'palace'라고 부를 수 있는 집은?",
+   "choices": [
+    "임금님과 왕비님이 지내는, 방이 수백 개인 크고 화려한 집",
+    "병사들이 적을 막으려 높고 두꺼운 돌벽을 두른 요새",
+    "할머니가 혼자 지내는, 방이 하나뿐인 작고 낡은 집",
+    "여러 가족이 위아래로 나누어 사는 커다란 아파트"
+   ],
+   "answer_index": 0,
+   "answer": "임금님과 왕비님이 지내는, 방이 수백 개인 크고 화려한 집",
+   "why": "맞아! 임금님이랑 왕비님이 살고, 방이 수백 개나 되고, 크고 화려하게 지은 집이잖아. 딱 그래서 그게 palace인 거야."
+  }
+ ],
+ "synonyms": [
+  "castle"
+ ],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "empire",
+  "fancy",
+  "ornate",
+  "stately"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-palace",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-palace"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/palace.webp",
+  "alt": "방 수백 개에 금장식과 매끈한 돌바닥이 있는 임금님의 큰 집",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

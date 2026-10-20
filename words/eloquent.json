@@ -1,0 +1,81 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/eloquent/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/eloquent/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "eloquent",
+ "slug": "eloquent",
+ "url": "https://hibbangyong.com/words/eloquent/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "말솜씨 좋은 — 말이나 글로 생각을 듣는 사람 마음에 닿게 잘 표현하는",
+ "gloss_ko": "마음 닿는 말솜씨",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "반 회의에서 누가 말하고 나면 다들 '아, 그렇구나' 하고 마음이 움직일 때 있지.",
+  "말이든 글이든, 생각을 딱 맞는 말로 힘 있게 전하는 게 eloquent야.",
+  "막힘없이 술술 말하는 거랑은 달라. 빨라도 마음에 안 닿으면 아니야.",
+  "길 필요도 없어. 짧은 편지 한 장도 eloquent할 수 있어."
+ ],
+ "scene": "반 회의에서 친구 말에 다들 마음이 움직이는 장면",
+ "examples": [
+  {
+   "en": "Her letter to the principal was so eloquent that he changed the rule.",
+   "ko": "걔가 교장 선생님께 쓴 편지가 얼마나 마음에 와닿았는지, 선생님이 규칙을 바꾸셨어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "수학 시간에 민준이가 문제 푼 방법을 설명하려고 일어났는데, '그러니까… 그게…'만 되풀이하다가 끝까지 하고 싶은 말을 못 했어. 친구들은 무슨 뜻인지 하나도 몰랐어. 민준이의 설명을 'eloquent'하다고 할 수 있을까?",
+   "choices": [
+    "응, eloquent 맞아",
+    "아니, eloquent 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, eloquent 아니야",
+   "why": "맞아! 민준이는 '그러니까… 그게…'만 되풀이하다가 하고 싶은 말을 끝까지 못 했고, 친구들은 무슨 뜻인지 하나도 몰랐잖아. 생각이 친구들한테 하나도 전해지지 않았으니까 eloquent랑은 정반대인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "과학 탐구 대회 발표에서 서연이는 실험 결과를 딱 맞는 말로 골라 짧게 설명했어. 듣던 심사위원들이 고개를 끄덕이며 '아, 그래서 중요하구나' 하고 생각이 바뀌었어. 서연이의 발표를 'eloquent'하다고 할 수 있을까?",
+   "choices": [
+    "응, eloquent 맞아",
+    "아니, eloquent 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, eloquent 맞아",
+   "why": "맞아! 서연이는 실험 결과를 딱 맞는 말로 골라 설명했고, 심사위원들이 고개를 끄덕이며 생각이 바뀌었잖아. 듣는 사람 마음에 닿게 전한 거라서 바로 그게 eloquent인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "학급 회의에서 네 친구가 같은 주제로 의견을 말했어. 다들 나름 잘했는데, 그중 누구 말을 'eloquent'하다고 할 수 있을까?",
+   "choices": [
+    "몇 마디뿐이었는데 고른 말이 딱 맞아서 반대하던 애들까지 생각을 바꿨어",
+    "한 번도 안 막히고 빠르게 말해서 회의가 예정보다 훨씬 일찍 끝났어",
+    "삼십 분 동안 자료를 하나하나 다 말해서 빠진 내용이 하나도 없었어",
+    "또박또박 알아듣기 쉽게 말해서 다들 내용을 틀린 데 없이 받아 적었어"
+   ],
+   "answer_index": 0,
+   "answer": "몇 마디뿐이었는데 고른 말이 딱 맞아서 반대하던 애들까지 생각을 바꿨어",
+   "why": "맞아! 몇 마디뿐이었는데도 고른 말이 딱 맞아서 반대하던 애들 생각까지 바꿨잖아. 짧아도 듣는 사람 마음을 움직였으니까 바로 그게 eloquent인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-eloquent",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-eloquent"
+ },
+ "image": null
+}

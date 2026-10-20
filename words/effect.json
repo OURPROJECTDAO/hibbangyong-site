@@ -1,0 +1,90 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/effect/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/effect/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "effect",
+ "slug": "effect",
+ "url": "https://hibbangyong.com/words/effect/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "결과 — 어떤 일 때문에 뒤따라 생긴 변화(좋은 쪽도 나쁜 쪽도, 크든 아주 작든, 마음속 변화도)",
+ "gloss_ko": "뒤따라 생긴 변화",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "돌멩이 하나를 연못에 던졌어. 퐁당! 그다음 물이 동그랗게 퍼져 나가지? 그 퍼지는 물결, 그게 돌 때문에 생긴 거야.",
+  "이렇게 뭔가가 일으킨 딴 일을 말해. 좋은 쪽이든 나쁜 쪽이든, 확 바뀌든 아주 조금만 바뀌든 다 똑같이 이거야. 약을 먹고 열이 내려간 것도, 늦게 자서 다음 날 졸린 것도.",
+  "눈에 보이는 것만도 아니야. 조용한 노래를 틀었더니 시끄럽던 마음이 가라앉은 것도 이거거든. 대신 던진 돌 자체는 아니야. 돌은 시작이고, 이건 뒤에 따라온 물결 쪽이야.",
+  "그게 effect야."
+ ],
+ "scene": "연못에 던진 돌멩이 뒤로 퍼지는 물결",
+ "examples": [
+  {
+   "en": "Staying up late had a bad effect on my day at school.",
+   "ko": "늦게 잔 탓에 학교에서 보낸 하루가 엉망이 됐어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "유리창에 물방울이 잔뜩 붙어 있어. 조금 전에 강아지가 젖은 몸을 부르르 털었거든. 유리창에 물방울이 잔뜩 붙은 것, 이게 'effect'야?",
+   "choices": [
+    "응, effect 맞아",
+    "아니, effect 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, effect 맞아",
+   "why": "맞아! 강아지가 부르르 털어서 물이 튀었고, 그 뒤에 유리창에 물방울이 생긴 거잖아. 돌 던지면 물결이 퍼지듯, 강아지가 털어서 뒤따라 생긴 게 바로 이 물방울이야."
+  },
+  {
+   "type": "choice",
+   "question": "쉬는 시간에 이런 일들이 있었어. 민지가 창문을 활짝 열었어. 바람이 들어와서 책상 위 종이들이 바닥에 흩날렸지. 창문 옆에는 화분이 놓여 있었고, 민지 손에는 지우개가 들려 있었어. 이 중에서 'effect'는 어느 것일까?",
+   "choices": [
+    "민지가 창문을 활짝 연 것",
+    "종이들이 바닥에 흩날린 것",
+    "창문 옆에 화분이 놓여 있던 것",
+    "민지 손에 지우개가 들려 있던 것"
+   ],
+   "answer_index": 1,
+   "answer": "종이들이 바닥에 흩날린 것",
+   "why": "맞아! 창문을 열었더니 바람이 들어와서 종이가 날아간 거잖아. 그러니까 종이가 흩날린 건 창문 연 것 때문에 뒤따라 생긴 일이야. 딱 그게 effect인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "언니가 동생에게 사탕 한 개를 나눠 줬어. 동생이 활짝 웃었어. 언니가 사탕을 나눠 준 것, 이게 'effect'야?",
+   "choices": [
+    "응, effect 맞아",
+    "아니, effect 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, effect 아니야",
+   "why": "맞아, 사탕을 나눠 준 건 시작이야. 연못에 던진 돌 같은 거지. 동생이 활짝 웃은 것, 그 뒤에 퍼진 물결이 effect인 거야."
+  }
+ ],
+ "synonyms": [
+  "result"
+ ],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "adverse",
+  "effective"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-effect",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-effect"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/effect.webp",
+  "alt": "연못에 던진 돌멩이 뒤로 퍼지는 물결",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

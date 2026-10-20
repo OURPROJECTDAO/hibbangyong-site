@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/dairy/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/dairy/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "dairy",
+ "slug": "dairy",
+ "url": "https://hibbangyong.com/words/dairy/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "유제품 — 우유, 그리고 우유 같은 젖으로 만든 치즈·버터 같은 먹을거리",
+ "gloss_ko": "유제품",
+ "level": {
+  "code": "L4",
+  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "냉장고 문 딸깍 열어봐. 우유, 치즈, 버터, 요구르트가 보이지?",
+  "얘네는 다 한 식구야. 소나 염소 젖에서 나왔거든.",
+  "근데 달걀은 바로 옆 칸에 있어도 아니야. 두유도 이름만 우유 같지 콩에서 나왔어.",
+  "젖으로 만든 먹을거리, 그게 dairy야."
+ ],
+ "scene": "냉장고 문을 열고 우유·치즈·버터·요구르트 보기",
+ "examples": [
+  {
+   "en": "My little brother can't eat dairy, so Mom checks every snack box.",
+   "ko": "내 남동생은 유제품을 못 먹어서 엄마가 과자 상자를 하나하나 다 살펴봐."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "할머니 댁 시골 목장에 갔더니 할머니가 염소한테서 갓 짠 염소 우유를 한 컵 주셨어. 이 염소 우유는 'dairy'야?",
+   "choices": [
+    "응, dairy 맞아",
+    "아니, dairy 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, dairy 맞아",
+   "why": "맞아! 할머니가 주신 건 염소 젖을 갓 짠 염소 우유잖아. 염소 젖에서 나온 먹을거리니까 바로 그게 dairy인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "주말 캠핑장에서 아빠가 불판에 삼겹살을 지글지글 구웠어. 이 삼겹살은 'dairy'야?",
+   "choices": [
+    "응, dairy 맞아",
+    "아니, dairy 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, dairy 아니야",
+   "why": "맞아! 삼겹살은 돼지고기라서 젖으로 만든 먹을거리가 아니거든. 그래서 dairy가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "민지가 마트에서 'dairy'인 것만 골라 바구니에 담았어. 바구니에 들어간 건 어느 거야?",
+   "choices": [
+    "요구르트 한 통",
+    "달걀 한 판",
+    "두유 한 팩",
+    "닭고기 한 팩"
+   ],
+   "answer_index": 0,
+   "answer": "요구르트 한 통",
+   "why": "맞아! 요구르트는 우유로 만든 거거든. 젖으로 만든 먹을거리니까 바로 그게 dairy인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-dairy",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-dairy"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/dairy.webp",
+  "alt": "냉장고 문을 열고 우유·치즈·버터·요구르트 보기",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

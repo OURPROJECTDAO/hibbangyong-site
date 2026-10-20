@@ -1,0 +1,98 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/dissection/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/dissection/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "dissection",
+ "slug": "dissection",
+ "url": "https://hibbangyong.com/words/dissection/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "해부 — 죽은 동물이나 몸을 갈라서 속이 어떻게 생겼는지 살펴보는 일 (어떤 일을 조각조각 뜯어보며 따지는 것도 이렇게 불러)",
+ "gloss_ko": "해부",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "과학 시간에 오징어를 갈라서 속을 하나하나 들여다본 적 있지?",
+  "먹으려고 자른 게 아니야. 안에 뭐가 어떻게 생겼는지 알려고 나눠 본 거야.",
+  "이게 dissection이야. 살아 있는 사람을 고치려고 하는 수술이랑은 달라.",
+  "그래서 어떤 사건이나 글을 조각조각 뜯어보며 따지는 것도 이렇게 불러."
+ ],
+ "scene": "과학 시간 오징어 해부",
+ "examples": [
+  {
+   "en": "During the fish dissection in science class, we found a small crab in its stomach.",
+   "ko": "과학 시간에 물고기를 해부하다가 배 속에서 작은 게를 찾았어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "생물 실험실에서 연구원이 죽은 쥐의 몸을 갈라 심장, 폐, 위가 어떻게 생겼는지 하나씩 살펴봤어. 이 일을 'dissection'이라고 부를 수 있을까?",
+   "choices": [
+    "응, dissection 맞아",
+    "아니, dissection 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, dissection 맞아",
+   "why": "맞아! 연구원이 죽은 쥐의 몸을 갈라서 심장, 폐, 위가 어떻게 생겼는지 하나씩 살펴봤잖아. 죽은 몸을 갈라 속이 어떻게 생겼는지 들여다본 거니까 바로 그게 dissection이야."
+  },
+  {
+   "type": "ox",
+   "question": "동생이 상자에 흩어져 있던 1000조각 직소 퍼즐을 하나씩 맞춰 바다 그림을 완성했어. 이 일을 'dissection'이라고 부를 수 있을까?",
+   "choices": [
+    "응, dissection 맞아",
+    "아니, dissection 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, dissection 아니야",
+   "why": "맞아! 동생은 상자에 흩어져 있던 조각을 하나씩 맞춰서 바다 그림 하나로 합친 거잖아. dissection은 반대로 하나를 갈라서 나눠 놓고 속을 들여다보는 일이라서, 이건 dissection이 아니야."
+  },
+  {
+   "type": "choice",
+   "question": "네 장면이 있어. 이 중에서 'dissection'이라고 부를 수 있는 건 어느 거야?",
+   "choices": [
+    "횟집 아저씨가 손님상에 낼 물고기를 잘게 썰어 접시에 담았어.",
+    "동물병원 의사가 다친 강아지의 배를 갈라 상처를 꿰매 줬어.",
+    "과학실에서 물고기 몸을 갈라 속에 든 기관을 하나씩 살펴봤어.",
+    "과학실에서 흩어진 뼈 조각을 맞춰서 물고기 모양을 만들었어."
+   ],
+   "answer_index": 2,
+   "answer": "과학실에서 물고기 몸을 갈라 속에 든 기관을 하나씩 살펴봤어.",
+   "why": "맞아! 과학실에서 물고기 몸을 가른 건 속에 든 기관이 어떻게 생겼는지 하나씩 살펴보려고 한 거잖아. 그렇게 살펴보려고 가르는 일이 바로 dissection이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "anatomy",
+   "kind": "confusable",
+   "from": "vs anatomy"
+  },
+  {
+   "word": "analysis",
+   "kind": "confusable",
+   "from": "vs analysis"
+  }
+ ],
+ "related_scene": [
+  "surgery"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-dissection",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-dissection"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/dissection.webp",
+  "alt": "과학 시간 오징어 해부",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

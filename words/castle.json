@@ -1,0 +1,77 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/castle/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/castle/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "castle",
+ "slug": "castle",
+ "url": "https://hibbangyong.com/words/castle/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "성 — 옛날에 왕이 살던, 돌로 크고 튼튼하게 지은 큰 건물",
+ "gloss_ko": "성",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "언덕 위에 돌로 높이 쌓아 올린, 탑과 성문이 달린 저 큰 건물이 castle이에요.",
+  "동화책 속 공주 이야기나 놀이공원에서 뾰족한 탑이 있는 성을 본 적 있을 거예요."
+ ],
+ "scene": "언덕 위에 우뚝 선 동화 속 회색 돌성 — 뾰족한 원뿔 지붕의 탑들과 성문이 전신으로 보이는 전형적인 castle을 그림",
+ "examples": [
+  {
+   "en": "The king lived in a big castle on the hill.",
+   "ko": "왕은 언덕 위 커다란 성에 살았어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "친구가 캠핑을 가서 천으로 만든 작고 낮은 집에서 하룻밤 잤대요. 이게 castle이에요?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 아니야",
+   "why": null
+  },
+  {
+   "type": "choice",
+   "question": "castle은 어느 것일까요?",
+   "choices": [
+    "물 위에 떠서 사람을 실어 나르는 큰 것",
+    "돌 벽과 높은 탑으로 지은 큰 것",
+    "하늘을 날며 먼 곳까지 가는 큰 것",
+    "땅에 서서 잎과 가지가 달린 큰 것"
+   ],
+   "answer_index": 1,
+   "answer": "돌 벽과 높은 탑으로 지은 큰 것",
+   "why": null
+  }
+ ],
+ "synonyms": [
+  "palace"
+ ],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "knight",
+  "medieval"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-castle",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-castle"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/castle.webp",
+  "alt": "언덕 위에 우뚝 선 동화 속 회색 돌성 — 뾰족한 원뿔 지붕의 탑들과 성문이 전신으로 보이는 전형적인 castle을 그림",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

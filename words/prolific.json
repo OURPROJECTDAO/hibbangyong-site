@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/prolific/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/prolific/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "prolific",
+ "slug": "prolific",
+ "url": "https://hibbangyong.com/words/prolific/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "다작하는(아주 많이 만들어 내는) — 작품이나 결과를 오랫동안 꾸준히, 아주 많이 만들어 내는",
+ "gloss_ko": "작품을 많이 내는",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "우리 반에 웹툰을 매주 세 편씩 올리는 애가 있어. 잘 그린 것도 있고 대충 그린 것도 있어.",
+  "prolific은 이렇게 뭔가를 꾸준히, 엄청 많이 만들어 내는 거야.",
+  "잘 만든다는 뜻은 아니야. 좋든 나쁘든 양이 많다는 말이지. 바쁘기만 하고 나온 게 없으면 그것도 아니고.",
+  "그래서 골을 계속 넣는 선수한테도 쓰고, 도둑질을 수없이 한 도둑한테도 써."
+ ],
+ "scene": "매주 웹툰을 세 편씩 올리는 반 친구",
+ "examples": [
+  {
+   "en": "She is a prolific writer who has written more than fifty books for kids.",
+   "ko": "그 작가는 어린이 책을 쉰 권 넘게 쓴, 정말 책을 많이 내는 사람이야."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "한 화가가 30년 동안 그림을 딱 네 점 완성했어. 한 점을 끝내는 데 몇 년씩 걸렸대. 이 화가는 'prolific'한 사람일까?",
+   "choices": [
+    "응, prolific 맞아",
+    "아니, prolific 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, prolific 아니야",
+   "why": "맞아! 30년 동안 그림이 딱 네 점이고 한 점에 몇 년씩 걸렸으니까, 아주 많이 만들어 낸 거랑은 정반대야. 그래서 이 화가는 prolific이 아닌 거지."
+  },
+  {
+   "type": "ox",
+   "question": "한 작곡가가 40년 동안 노래를 600곡 넘게 만들었어. 크게 뜬 곡도 있고, 아무도 모르고 지나간 곡도 있어. 이 작곡가는 'prolific'한 사람일까?",
+   "choices": [
+    "응, prolific 맞아",
+    "아니, prolific 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, prolific 맞아",
+   "why": "맞아! 40년 동안 600곡 넘게 꾸준히 만들어 냈으니까 딱 prolific이야. 크게 뜬 곡이든 아무도 모르고 지나간 곡이든, 많이 만들어 낸 것 자체가 핵심이거든."
+  },
+  {
+   "type": "choice",
+   "question": "소설가 네 명이 있어. 이 중에서 'prolific'이라고 부르기 가장 알맞은 사람은?",
+   "choices": [
+    "10년 동안 소설을 50권 넘게 냈는데, 평은 늘 엇갈리는 작가",
+    "소설을 딱 한 권 냈는데, 그 책으로 상을 휩쓴 작가",
+    "매일 바쁘게 뛰어다니는데, 낸 책은 아직 한 권도 없는 작가",
+    "20년 동안 소설을 두 권 냈는데, 둘 다 명작인 작가"
+   ],
+   "answer_index": 0,
+   "answer": "10년 동안 소설을 50권 넘게 냈는데, 평은 늘 엇갈리는 작가",
+   "why": "맞아! 10년 동안 소설을 50권 넘게 냈으니까 양이 엄청 많잖아. 평이 엇갈려도 상관없어. prolific은 잘 썼냐가 아니라 꾸준히 많이 냈냐를 보는 말이거든."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "productive",
+   "kind": "confusable",
+   "from": "vs productive"
+  }
+ ],
+ "related_scene": [
+  "author"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-prolific",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-prolific"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/prolific.webp",
+  "alt": "매주 웹툰을 세 편씩 올리는 반 친구",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

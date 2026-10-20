@@ -1,0 +1,97 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/several/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/several/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "several",
+ "slug": "several",
+ "url": "https://hibbangyong.com/words/several/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "몇몇의 — 하나둘은 넘고 그렇다고 아주 많지도 않은, 손으로 셀 만한 여러 개.",
+ "gloss_ko": "몇몇의",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "사탕이 딱 하나 있는 것도, 산더미처럼 쌓인 것도 아니야.",
+  "손으로 세면 세어지긴 하는데, 하나 둘로는 안 끝나.",
+  "몇 개냐고? 그냥 여러 개! 셋넷다섯쯤, 적당히 많아.",
+  "'많다'랑은 좀 달라. 셀 엄두도 안 나게 잔뜩은 아니거든? 딱 그 사이가 several이야."
+ ],
+ "scene": "사탕이 하나도 산더미도 아닌 그 사이 여러 개인 상황",
+ "examples": [
+  {
+   "en": "I have one dog, but my friend has several dogs.",
+   "ko": "나는 강아지가 한 마리인데, 친구는 여러 마리 키워."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "신발장을 열었더니 우산이 딱 한 개 걸려 있어. 이거 'several'이야?",
+   "choices": [
+    "응, several 맞아",
+    "아니, several 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, several 아니야",
+   "why": "맞아! 우산이 딱 하나만 걸려 있으면 그건 그냥 한 개거든. several은 하나 둘로 안 끝나고 셋넷다섯쯤 여러 개일 때 쓰는 말이야."
+  },
+  {
+   "type": "choice",
+   "question": "교실 창가 선반에 있는 것들을 봤어. 다음 중 'several'에 해당하는 것은?",
+   "choices": [
+    "선반 위에 나란히 놓인 화분 네 개",
+    "선반 옆 벽에 걸린 동그란 시계",
+    "선반 아래에서 걸레질을 하는 아저씨",
+    "선반 위 달력에 적힌 숫자 7"
+   ],
+   "answer_index": 0,
+   "answer": "선반 위에 나란히 놓인 화분 네 개",
+   "why": "맞아! 화분이 하나도 아니고 셀 수 없이 잔뜩도 아니고, 하나 둘 셋 넷 하고 딱 세어지는 여러 개잖아. 그렇게 적당히 여러 개인 게 바로 several이야."
+  },
+  {
+   "type": "choice",
+   "question": "네 아이가 각자 사탕을 몇 개 들고 있는지 봤어. 'several'개를 든 아이는 누구일까?",
+   "choices": [
+    "딱 한 개만 손에 든 아이",
+    "다섯 개쯤 손에 쥔 아이",
+    "산더미처럼 잔뜩 쌓아 둔 아이",
+    "하나도 없이 빈손인 아이"
+   ],
+   "answer_index": 1,
+   "answer": "다섯 개쯤 손에 쥔 아이",
+   "why": "맞아! 다섯 개쯤이면 하나 둘로 끝나지도 않고, 그렇다고 세다가 포기할 만큼 잔뜩도 아니잖아. 딱 손으로 셀 만한 여러 개, 그게 바로 several이야."
+  }
+ ],
+ "synonyms": [
+  "various"
+ ],
+ "antonyms": [
+  "one"
+ ],
+ "confusable": [
+  {
+   "word": "few",
+   "kind": "confusable",
+   "from": "vs few"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-several",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-several"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/several.webp",
+  "alt": "사탕이 하나도 산더미도 아닌 그 사이 여러 개인 상황",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

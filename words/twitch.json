@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/twitch/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/twitch/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "twitch",
+ "slug": "twitch",
+ "url": "https://hibbangyong.com/words/twitch/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "움찔함 — 근육이 (대개 저절로) 순간 작게 움찔하는 것",
+ "gloss_ko": "(근육의) 움찔함",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "피곤한 날 눈 밑이 혼자 파르르 떨린 적 있지?",
+  "내가 움직인 것도 아닌데 근육이 순간 움찔하는 거, 그게 twitch야.",
+  "눈에만 생기는 거 아니야. 자는 강아지 다리가 저절로 툭 움직이는 것도 twitch야.",
+  "추워서 온몸이 덜덜 떨리는 거나 쥐 나서 오래 아픈 거랑은 달라. 작고, 짧고, 한 군데만 움찔해."
+ ],
+ "scene": "피곤한 날 눈 밑이 저절로 떨림",
+ "examples": [
+  {
+   "en": "I had a twitch in my left eye all day.",
+   "ko": "하루 종일 왼쪽 눈가가 파르르 떨렸어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "숙제를 오래 하고 쉬고 있는데, 가만히 둔 엄지손가락 근육이 내가 움직이지도 않았는데 한 번 움찔했어. 이게 'twitch'야?",
+   "choices": [
+    "응, twitch 맞아",
+    "아니, twitch 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, twitch 맞아",
+   "why": "맞아! 엄지 근육 한 군데가 네가 움직이지도 않았는데 혼자 짧게 한 번 움찔했잖아. 바로 그게 twitch야."
+  },
+  {
+   "type": "ox",
+   "question": "달리기를 하다가 종아리에 쥐가 나서, 근육이 몇 분 동안 딱딱하게 굳은 채 계속 아팠어. 이게 'twitch'야?",
+   "choices": [
+    "응, twitch 맞아",
+    "아니, twitch 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, twitch 아니야",
+   "why": "맞아! 종아리가 몇 분 동안 딱딱하게 굳은 채 계속 아팠잖아. twitch는 근육이 순간 움찔하고 바로 끝나는 거라서, 이건 twitch가 아니야."
+  },
+  {
+   "type": "choice",
+   "question": "네 친구가 각자 몸에 생긴 일을 말했어. 'twitch'라고 부를 만한 건 누구 얘기일까?",
+   "choices": [
+    "시험 보는데 입가 근육이 나도 모르게 한 번씩 움찔했어",
+    "추운 날 버스를 기다리는데 몸 전체가 한참 덜덜 떨렸어",
+    "발표를 앞두고 긴장해서 손바닥에 땀이 계속 났어",
+    "운동장 돌다가 종아리가 딱딱하게 굳어서 한참 아팠어"
+   ],
+   "answer_index": 0,
+   "answer": "시험 보는데 입가 근육이 나도 모르게 한 번씩 움찔했어",
+   "why": "맞아! 시험 보는데 입가 근육이 나도 모르게 한 번씩 움찔한 거잖아. 내가 움직인 것도 아닌데 한 군데만 작고 짧게 움찔했으니까 바로 그게 twitch인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "muscle"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-twitch",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-twitch"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/twitch.webp",
+  "alt": "피곤한 날 눈 밑이 저절로 떨림",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

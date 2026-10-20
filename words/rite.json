@@ -1,0 +1,94 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/rite/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/rite/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "rite",
+ "slug": "rite",
+ "url": "https://hibbangyong.com/words/rite/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "의식 — 옛날부터 정해진 순서대로 치르는 행사(종교·전통 행사에서 많이 써)",
+ "gloss_ko": "전통 의식",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "장례식에서 절하는 순서, 성년식에서 어른께 잔 받는 순서. 누가 치러도 똑같이 가.",
+  "이렇게 옛날부터 정해진 대로 치르는 행사가 rite야.",
+  "종교 행사에 많이 쓰지만, 전통 행사나 어른이 되는 날처럼 인생의 큰 문턱에도 써.",
+  "그냥 신나게 노는 파티나, 나 혼자 매일 하는 습관이랑은 달라."
+ ],
+ "scene": "장례식에서 정해진 순서대로 절하기",
+ "examples": [
+  {
+   "en": "The village still keeps an old rite for the first rice of the year.",
+   "ko": "그 마을은 그해 첫 쌀을 거두면 치르는 옛 의식을 아직도 지키고 있어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "전통 혼례에서 신랑과 신부가 옛날부터 정해진 순서대로 맞절을 하고, 표주박 잔에 담긴 술을 나눠 마셔. 이 혼례 절차는 'rite'야?",
+   "choices": [
+    "응, rite 맞아",
+    "아니, rite 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, rite 맞아",
+   "why": "맞아! 신랑이랑 신부가 옛날부터 정해진 순서대로 맞절하고 표주박 잔 술을 나눠 마시잖아. 누가 치러도 그 순서대로 가는 전통 혼례니까 바로 rite인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "토요일에 우리 가족이 아무 계획 없이 차를 타고 가다가, 가는 길에 보인 바닷가에서 그냥 내려서 걸었어. 이 나들이는 'rite'야?",
+   "choices": [
+    "응, rite 맞아",
+    "아니, rite 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, rite 아니야",
+   "why": "맞아! 계획도 없이 가다가 바닷가가 보여서 그냥 내려 걸은 거잖아. 정해진 순서도 없고 옛날부터 해 온 것도 아니니까, 이 나들이는 rite가 아니야."
+  },
+  {
+   "type": "choice",
+   "question": "네 친구가 각자 겪은 일을 말했어. 이 중에서 'rite'라고 부르기 가장 알맞은 건?",
+   "choices": [
+    "스무 살이 된 날, 한복 입고 어른께 절하고 술잔을 받았어",
+    "친구 생일이라 다 같이 모여서 피자 먹고 노래방 갔어",
+    "매일 아침 학교 가기 전에 꼭 물 한 잔부터 마셔",
+    "비가 와서 친구랑 아무 영화관에나 그냥 들어갔어"
+   ],
+   "answer_index": 0,
+   "answer": "스무 살이 된 날, 한복 입고 어른께 절하고 술잔을 받았어",
+   "why": "맞아! 스무 살 된 날 한복 입고 어른께 절하고 술잔 받는 건 옛날부터 순서가 정해져 있어서, 누가 치러도 똑같이 가잖아. 어른이 되는 큰 문턱을 정해진 대로 치르는 거라 바로 그게 rite인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "ceremony",
+   "kind": "confusable",
+   "from": "vs ceremony"
+  }
+ ],
+ "related_scene": [
+  "funeral",
+  "priest"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-rite",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-rite"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/rite.webp",
+  "alt": "장례식에서 정해진 순서대로 절하기",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

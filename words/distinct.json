@@ -1,0 +1,96 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/distinct/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/distinct/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "distinct",
+ "slug": "distinct",
+ "url": "https://hibbangyong.com/words/distinct/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "섞여 뭉개지지 않고 따로 갈라져서 알아볼 수 있는",
+ "gloss_ko": "따로 갈라져 뚜렷한",
+ "level": {
+  "code": "L6",
+  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "물에 파란 물감 한 방울, 빨간 물감 한 방울을 떨어뜨려 봐.",
+  "휘저으면 보라색으로 뭉개져서 어디가 파랑인지 알 수가 없어. 안 휘저으면? 여기까지 파랑, 저기부터 빨강. 서로 안 섞이고 따로 있지.",
+  "눈에 보이는 것만 그런 게 아니야. 한 낱말에 뜻이 두 개 있는데 서로 안 섞이고 따로따로면 그 뜻 둘도 distinct해. 시끄러운 교실에서 친구 목소리 하나만 따로 들리는 것도 그렇고.",
+  "진해서 눈에 확 띈다는 말도, 하나뿐이라 남다르다는 말도 아니야. 뭉개져 묻히지 않고 따로 알아볼 수 있다는 거. 그게 distinct야."
+ ],
+ "scene": "물에 떨어뜨린 파란 물감과 빨간 물감이 안 섞이고 따로 있는 상태",
+ "examples": [
+  {
+   "en": "Even in the noisy classroom, my friend's voice was distinct.",
+   "ko": "시끄러운 교실 안에서도 내 친구 목소리는 또렷이 구분됐어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "비 오는 날 체육 시간이 끝나고 신발장 앞 바닥에 흙자국이 남았어. 운동화 바닥 무늬 자국과 장화 바닥 무늬 자국이 서로 겹치지 않고 하나씩 찍혀 있어. 이 자국들이 distinct해?",
+   "choices": [
+    "응, distinct해",
+    "아니, distinct하지 않아"
+   ],
+   "answer_index": 0,
+   "answer": "응, distinct해",
+   "why": "맞아! 흙자국이 지저분해 보여도 운동화 무늬랑 장화 무늬가 서로 겹치지 않고 하나씩 따로 찍혀 있잖아. 어디까지가 운동화고 어디부터가 장화인지 딱 알아볼 수 있으니까 그게 바로 distinct한 거야."
+  },
+  {
+   "type": "ox",
+   "question": "아빠가 딸기, 바나나, 사과를 믹서에 넣고 갈아서 주스를 만들어 줬어. 한 모금 마시니까 세 과일이 합쳐져서 새로운 맛 하나로 느껴져. 이 주스의 맛이 distinct해?",
+   "choices": [
+    "응, distinct해",
+    "아니, distinct하지 않아"
+   ],
+   "answer_index": 1,
+   "answer": "아니, distinct하지 않아",
+   "why": "맞아! 세 과일이 갈려서 하나의 맛으로 합쳐져 버렸잖아. 어디가 딸기고 어디가 바나나인지 따로 알아볼 수가 없으니까, 이건 distinct하지 않은 거야."
+  },
+  {
+   "type": "choice",
+   "question": "엄마가 부엌에서 코를 킁킁거렸어. 어떤 때 '냄새가 distinct하다'고 말할 수 있을까?",
+   "choices": [
+    "여러 냄새가 같이 나는데 탄 냄새가 어느 것인지 콕 짚어낼 수 있을 때",
+    "여러 냄새가 뒤엉켜 하나로 뭉쳐서 무슨 냄새인지 모를 때",
+    "냄새가 너무 독해서 코가 찡하고 눈물까지 날 만큼 셀 때",
+    "한 번도 맡아 본 적 없는 낯선 냄새라 이름을 모를 때"
+   ],
+   "answer_index": 0,
+   "answer": "여러 냄새가 같이 나는데 탄 냄새가 어느 것인지 콕 짚어낼 수 있을 때",
+   "why": "맞아! 여러 냄새가 같이 나는데도 탄 냄새가 어느 것인지 콕 짚어낼 수 있잖아. 다른 냄새랑 뭉개지지 않고 그것만 따로 알아볼 수 있는 것, 그게 바로 distinct야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "separate",
+   "kind": "confusable",
+   "from": "vs separate"
+  },
+  {
+   "word": "clear",
+   "kind": "confusable",
+   "from": "vs clear"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-distinct",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-distinct"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/distinct.webp",
+  "alt": "물에 떨어뜨린 파란 물감과 빨간 물감이 안 섞이고 따로 있는 상태",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

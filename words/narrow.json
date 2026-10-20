@@ -1,0 +1,90 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/narrow/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/narrow/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "narrow",
+ "slug": "narrow",
+ "url": "https://hibbangyong.com/words/narrow/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "좁은 — 이쪽 끝에서 저쪽 끝까지가 짧은",
+ "gloss_ko": "좁은",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "복도를 걸어간다고 해봐. 어떤 복도는 친구랑 나란히 걸어도 널널해. 그런데 어떤 복도는 한 명씩 줄서서 지나가야 돼. 몸을 옆으로 틀어야 겨우 지나가는 곳도 있고.",
+  "그렇게 이쪽 벽에서 저쪽 벽까지가 짧은 거, 그게 narrow야.",
+  "길만 그런 게 아니야. 강도 narrow할 수 있고, 문틈도, 책장 사이 빈칸도 narrow할 수 있어. 폭이 짧으면 다 되는 거야.",
+  "짧다고 다 narrow는 아니야. 길이가 짧은 거 말고, 폭이 짧은 거. 긴 복도인데도 narrow할 수 있거든? 끝없이 길지만 옆으로는 좁은 복도. 그게 narrow야."
+ ],
+ "scene": "친구와 나란히 못 걷고 한 명씩 줄서서 지나가는 복도",
+ "examples": [
+  {
+   "en": "The path to the river was so narrow that we walked one by one.",
+   "ko": "강으로 가는 길이 너무 좁아서 우리는 한 줄로 걸었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "학교 운동장 옆 인도가 있어. 이 인도는 유모차 세 대가 나란히 지나가도 남을 만큼 옆으로 길어. 이 인도는 'narrow'해?",
+   "choices": [
+    "응, narrow 맞아",
+    "아니, narrow 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, narrow 아니야",
+   "why": "맞아! 유모차 세 대가 나란히 지나가도 남는다는 건 옆으로 넉넉하다는 뜻이잖아. narrow는 옆으로 짧아서 한 명씩 겨우 지나가는 거니까, 이 인도는 narrow가 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "놀이터 미끄럼틀 옆에 계단이 있어. 이 계단은 한 사람씩만 발을 딛고 올라갈 수 있을 만큼 옆으로 짧아. 이 계단은 'narrow'해?",
+   "choices": [
+    "응, narrow 맞아",
+    "아니, narrow 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, narrow 맞아",
+   "why": "맞아! 한 사람씩만 겨우 발 딛을 만큼 옆으로 짧잖아. 이 벽에서 저 벽까지가 짧은 거, 그게 바로 narrow인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "다리 네 개가 있어. 이 중에서 'narrow'한 다리는 어떤 거야?",
+   "choices": [
+    "아주 길지만 차가 한 대씩만 겨우 지나가는 다리",
+    "아주 짧지만 차 세 대가 나란히 지나가는 다리",
+    "길이도 폭도 다 큼직해서 트럭도 여유롭게 다니는 다리",
+    "짧지만 사람 여럿이 나란히 걸어도 넉넉한 다리"
+   ],
+   "answer_index": 0,
+   "answer": "아주 길지만 차가 한 대씩만 겨우 지나가는 다리",
+   "why": "맞아! 이 다리는 아주 길지만 옆으로 좁아서 차가 한 대씩만 겨우 지나가거든. 다리가 길어도 옆으로 좁으면 바로 그게 narrow인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "wide",
+  "wide"
+ ],
+ "confusable": [],
+ "related_scene": [
+  "corridor"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-narrow",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-narrow"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/narrow.webp",
+  "alt": "친구와 나란히 못 걷고 한 명씩 줄서서 지나가는 복도",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

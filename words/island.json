@@ -1,0 +1,63 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/island/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/island/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "island",
+ "slug": "island",
+ "url": "https://hibbangyong.com/words/island/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "섬 — 둘레가 온통 물로 둘러싸인 땅",
+ "gloss_ko": "섬",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "바다 한가운데 땅이 똑 떨어져 있어.",
+  "걸어서는 못 가. 빙 둘러서 다 물이거든?",
+  "배를 타거나 헤엄쳐야 닿아.",
+  "이렇게 둘레가 사방으로 다 물인 땅, 이게 island야."
+ ],
+ "scene": "배 타고 닿는, 둘레가 온통 물인 땅덩이",
+ "examples": [
+  {
+   "en": "We rowed all the way around the island in our little boat.",
+   "ko": "우리는 작은 배로 섬을 빙 둘러 노를 저었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "지수가 'island'가 무엇인지 친구한테 그림으로 설명하려고 해. 어떤 땅을 그려야 맞을까?",
+   "choices": [
+    "어느 쪽으로 가도 가장자리가 모두 물에 막힌 땅",
+    "한쪽 가장자리는 옆 땅에 붙고 반대쪽만 물에 닿은 땅",
+    "가장자리에 물 한 방울 없이 다른 땅에 둘러싸인 땅",
+    "한가운데로 물줄기 하나가 가로질러 흐르는 넓은 땅"
+   ],
+   "answer_index": 0,
+   "answer": "어느 쪽으로 가도 가장자리가 모두 물에 막힌 땅",
+   "why": "맞아! 어느 쪽 가장자리로 가도 빙 둘러서 다 물에 막혀 있으니까, 걸어서는 못 가고 배를 타야 닿는 그 땅, 바로 그게 island야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-island",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-island"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/island.webp",
+  "alt": "배 타고 닿는, 둘레가 온통 물인 땅덩이",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

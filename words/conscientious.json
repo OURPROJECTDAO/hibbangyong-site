@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/conscientious/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/conscientious/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "conscientious",
+ "slug": "conscientious",
+ "url": "https://hibbangyong.com/words/conscientious/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "성실한 — 맡은 일을 대충 넘기지 않고 끝까지 제대로 하려는",
+ "gloss_ko": "성실한",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "청소 당번인데 선생님이 먼저 가셨어. 아무도 안 봐.",
+  "그런데도 구석까지 다 쓸고, 창문까지 닫고 가는 애가 있어.",
+  "누가 보든 말든, 맡은 일이니까 제대로 하려는 거. 그게 conscientious야.",
+  "머리가 좋다는 뜻도, 좋아하는 일에 푹 빠진다는 뜻도 아니야. 핵심은 맡은 일에 대한 책임감이야."
+ ],
+ "scene": "선생님이 없는데도 청소 당번 일을 끝까지 다 하는 학생",
+ "examples": [
+  {
+   "en": "Our club needs a conscientious person to keep the money.",
+   "ko": "우리 동아리는 돈 관리를 맡길, 맡은 일 하나는 확실하게 챙기는 성실한 사람이 필요해."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "민지는 이번 주 가정통신문 나눠주기 담당이야. 결석한 친구 자리에 통신문을 따로 챙겨 두고, 다음 날 그 친구한테 직접 건네줬어. 민지는 'conscientious'한 거야?",
+   "choices": [
+    "응, conscientious 맞아",
+    "아니, conscientious 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, conscientious 맞아",
+   "why": "맞아! 가정통신문 나눠주기가 민지가 맡은 일이잖아. 결석한 친구 몫까지 따로 챙겨 뒀다가 다음 날 직접 건네줬으니까, 맡은 일을 빠진 사람 하나 없이 끝까지 해낸 거야. 그게 바로 conscientious야."
+  },
+  {
+   "type": "ox",
+   "question": "준호는 교실 화분 물 주기 당번이야. 생각날 때만 물을 주다가 며칠씩 빼먹었고, 결국 화분 잎이 누렇게 말랐어. 준호는 'conscientious'한 거야?",
+   "choices": [
+    "응, conscientious 맞아",
+    "아니, conscientious 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, conscientious 아니야",
+   "why": "맞아! 준호는 화분 물 주기를 생각날 때만 하다가 며칠씩 빼먹었고, 결국 잎이 누렇게 말랐잖아. 맡은 당번을 끝까지 챙기지 않았으니까 conscientious랑은 정반대인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "민서는 학원에 안 다니는데도 영어 시험에서 늘 만점을 받아. 이런 경우도 'conscientious'라고 할 수 있을까?",
+   "choices": [
+    "응, conscientious 맞아",
+    "아니, conscientious 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, conscientious 아니야",
+   "why": "맞아! 민서 이야기엔 만점이라는 결과만 있지, 맡은 일을 끝까지 책임지고 해내는 모습은 안 나와. 시험을 잘 보는 건 똑똑한 거지, 그게 바로 conscientious인 건 아니야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "conscience"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-conscientious",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-conscientious"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/conscientious.webp",
+  "alt": "선생님이 없는데도 청소 당번 일을 끝까지 다 하는 학생",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

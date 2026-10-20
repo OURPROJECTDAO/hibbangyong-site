@@ -1,0 +1,91 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/happen/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/happen/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "happen",
+ "slug": "happen",
+ "url": "https://hibbangyong.com/words/happen/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "일어나다 — 무슨 일이 (좋든 나쁘든) 실제로 생기다·벌어지다",
+ "gloss_ko": "일어나다",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "가만히 아무 일 없다가, 갑자기 뭔가 딱 생길 때 있지?",
+  "친구를 우연히 만나는 것도, 넘어져서 무릎 까지는 것도,",
+  "생일파티가 열리는 것도 다 '무슨 일이 벌어진' 거거든.",
+  "좋은 일이든 나쁜 일이든, 일이 일어나는 게 happen이야."
+ ],
+ "scene": "가만히 아무 일 없다가 갑자기 무슨 일이 생기는 순간",
+ "examples": [
+  {
+   "en": "Something exciting happened at school today!",
+   "ko": "오늘 학교에서 신나는 일이 생겼어!"
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "주차장에 세워둔 차 두 대가 서로 쿵 부딪쳤어. 이게 'happen'이야?",
+   "choices": [
+    "응, happen 맞아",
+    "아니, happen 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, happen 맞아",
+   "why": "맞아! 차 두 대가 쿵 부딪친 건 조용하던 주차장에 갑자기 진짜로 벌어진 일이잖아. 그렇게 무슨 일이 실제로 생기는 게 바로 happen인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "교실 벽에 걸린 시계가 어제도 오늘도 그냥 똑같이 걸려 있어. 이게 'happen'이야?",
+   "choices": [
+    "응, happen 맞아",
+    "아니, happen 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, happen 아니야",
+   "why": "맞아! 시계가 어제도 오늘도 그냥 걸려만 있으면 아무 일도 안 생긴 거잖아. 그러니까 happen이 아닌 게 맞아."
+  },
+  {
+   "type": "choice",
+   "question": "다음 중 'happen'이라는 말이 딱 어울리는 상황은 어느 거야?",
+   "choices": [
+    "조용하던 하늘에서 갑자기 천둥이 쳤어.",
+    "아무 일도 없이 하루가 조용히 지나갔어.",
+    "난 내일 할머니 댁에 가기로 했어.",
+    "우리 학교는 언덕 위에 있어."
+   ],
+   "answer_index": 0,
+   "answer": "조용하던 하늘에서 갑자기 천둥이 쳤어.",
+   "why": "맞아! 조용하다가 갑자기 천둥이 쳤잖아. 아무 일 없다가 딱 뭔가 벌어진 거, 그게 바로 happen이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "do",
+   "kind": "confusable",
+   "from": "누가 일부러 한 행동(do)"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-happen",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-happen"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/happen.webp",
+  "alt": "가만히 아무 일 없다가 갑자기 무슨 일이 생기는 순간",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

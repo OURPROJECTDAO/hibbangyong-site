@@ -1,0 +1,94 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/compete/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/compete/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "compete",
+ "slug": "compete",
+ "url": "https://hibbangyong.com/words/compete/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "겨루다 — 하나뿐인 것을 두고 남과 서로 차지하려 애쓰다",
+ "gloss_ko": "겨루다",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "빵 부스러기가 툭 하고 하나 떨어졌어. 그런데 참새는 두 마리야.",
+  "둘 다 그 하나를 갖고 싶어서, 서로 먼저 가지려고 애써.",
+  "꼭 이겨야 하는 건 아니야. 져도, 꼴찌여도, 그 하나를 놓고 애쓰는 동안은 맞아.",
+  "혼자 열심히 하는 거랑은 달라. 같은 걸 노리는 상대가 있어야 해. 그게 compete야."
+ ],
+ "scene": "빵 부스러기 하나를 두고 참새 두 마리가 먼저 가지려 함",
+ "examples": [
+  {
+   "en": "My little brother and I always compete for the last cookie.",
+   "ko": "동생이랑 나는 늘 마지막 과자 하나를 놓고 겨뤄."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "도서관 서가에 인기 그림책이 딱 한 권 남아 있어. 지호와 서연이가 그 책을 보고 동시에 손을 뻗었어. 이게 'compete'야?",
+   "choices": [
+    "응, compete 맞아",
+    "아니, compete 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, compete 맞아",
+   "why": "맞아! 책은 딱 한 권인데 그걸 갖고 싶은 사람이 둘이잖아. 같은 하나를 두고 서로 먼저 가지려고 손을 뻗은 거니까, 그게 바로 compete야."
+  },
+  {
+   "type": "ox",
+   "question": "모래밭에 성을 하나 만들기로 했어. 서준이는 모래를 퍼 오고 하은이는 그걸 쌓아서 같이 성을 완성했어. 지금 둘은 'compete'하고 있는 걸까?",
+   "choices": [
+    "응, compete 맞아",
+    "아니, compete 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, compete 아니야",
+   "why": "맞아, compete 아니야! 둘은 같은 걸 서로 가지려고 애쓴 게 아니라, 하나뿐인 성을 힘을 합쳐 같이 만들었잖아. 겨루려면 그걸 놓고 다투는 상대가 있어야 하거든."
+  },
+  {
+   "type": "choice",
+   "question": "아이 넷이 지금 무얼 하는지 말했어. 지금 'compete'하고 있는 건 누구일까?",
+   "choices": [
+    "민수와 지호가 하나뿐인 그네를 서로 먼저 타려고 달려가고 있어",
+    "수아가 어제 기록보다 잘하려고 혼자 줄넘기를 넘고 있어",
+    "준이와 하나가 무거운 상자를 같이 들어서 옮기고 있어",
+    "태오가 형이 뛰는 축구 경기를 관중석에 앉아 보고 있어"
+   ],
+   "answer_index": 0,
+   "answer": "민수와 지호가 하나뿐인 그네를 서로 먼저 타려고 달려가고 있어",
+   "why": "맞아! 그네는 하나뿐인데 둘 다 타고 싶어서 서로 먼저 가려고 달려가잖아. 같은 하나를 놓고 상대랑 애쓰는 거, 그게 바로 compete인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "race",
+   "kind": "confusable",
+   "from": "vs race"
+  }
+ ],
+ "related_scene": [
+  "athlete",
+  "contest"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-compete",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-compete"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/compete.webp",
+  "alt": "빵 부스러기 하나를 두고 참새 두 마리가 먼저 가지려 함",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

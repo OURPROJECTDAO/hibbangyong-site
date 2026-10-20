@@ -1,0 +1,72 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/rod/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/rod/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "rod",
+ "slug": "rod",
+ "url": "https://hibbangyong.com/words/rod/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "낚싯대 — 물고기를 잡을 때 쓰는 긴 막대",
+ "gloss_ko": "낚싯대",
+ "level": {
+  "code": "L4",
+  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "그림 속 길고 가느다란 이 막대가 rod예요. 끝에 낚싯줄과 작은 바늘이 달려 있어요.",
+  "강이나 바다에서 어른이 물고기를 낚을 때 손에 쥐고 있는 바로 그 막대랍니다."
+ ],
+ "scene": "낚싯대(fishing rod) 한 대 — 손잡이·릴·낚싯줄·끝의 작은 낚싯바늘까지 전체가 다 보이게, 화면 중앙에 크게",
+ "examples": [
+  {
+   "en": "Grandpa holds his rod and waits for a fish to bite.",
+   "ko": "할아버지가 낚싯대를 잡고 물고기가 물기를 기다려."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "친구가 동그란 공을 두 손으로 통통 튕기면서 놀고 있어요. 이게 rod야?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 아니야",
+   "why": null
+  },
+  {
+   "type": "choice",
+   "question": "rod는 어느 것일까?",
+   "choices": [
+    "길에서 빠르게 달릴 때 두 바퀴로 굴러가요",
+    "물에서 물고기를 잡을 때 손에 쥐고 써요",
+    "배가 고플 때 노란 껍질을 까서 먹어요",
+    "밤에 졸릴 때 누워서 덮고 자요"
+   ],
+   "answer_index": 1,
+   "answer": "물에서 물고기를 잡을 때 손에 쥐고 써요",
+   "why": null
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-rod",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-rod"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/rod.webp",
+  "alt": "낚싯대(fishing rod) 한 대 — 손잡이·릴·낚싯줄·끝의 작은 낚싯바늘까지 전체가 다 보이게, 화면 중앙에 크게",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

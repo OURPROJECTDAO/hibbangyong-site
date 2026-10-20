@@ -1,0 +1,105 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/vice/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/vice/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "vice",
+ "slug": "vice",
+ "url": "https://hibbangyong.com/words/vice/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "나쁜 버릇 — 안 좋은 줄 알면서도 자꾸 하게 되는 못된 습관",
+ "gloss_ko": "나쁜 버릇",
+ "level": {
+  "code": "L6",
+  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "누구나 '이건 안 좋은 건데...' 하면서도 자꾸 하는 게 하나쯤 있어.",
+  "슬쩍 거짓말하는 것부터, 게으름 피우거나 너무 욕심부리는 것까지.",
+  "한 번 실수한 게 아니라, 몸에 배서 자꾸자꾸 반복되는 못된 버릇 말이야.",
+  "안 좋은 줄 알면서도 잘 안 고쳐지는 그 나쁜 버릇, 그게 vice야."
+ ],
+ "scene": "안 좋은 줄 알면서 슬쩍 거짓말하는 버릇",
+ "examples": [
+  {
+   "en": "Telling lies is a vice he really wants to stop.",
+   "ko": "거짓말하는 건 걔가 진짜로 그만두고 싶어 하는 나쁜 버릇이야."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "여러 가지가 있어. 이 중에서 'vice'라고 부를 수 있는 건 뭐야?",
+   "choices": [
+    "나쁜 줄 알면서도 자꾸 손톱을 물어뜯는 버릇",
+    "창가에 세워져 있는 빨간 자전거 한 대",
+    "접시에 담겨 김이 오르는 따끈한 만두",
+    "벽에 걸려 시간을 알려 주는 둥근 시계"
+   ],
+   "answer_index": 0,
+   "answer": "나쁜 줄 알면서도 자꾸 손톱을 물어뜯는 버릇",
+   "why": "맞아! 나쁜 줄 알면서도 자꾸 손톱을 물어뜯는 그거, 안 좋은 걸 알면서도 잘 안 고쳐지는 못된 버릇이잖아. 그래서 바로 그게 vice인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "친구들이 각자 한 가지씩 골랐어. 이 중 'vice'인 건 뭐야?",
+   "choices": [
+    "나쁜 줄 알면서도 자꾸 침을 아무 데나 뱉는 버릇",
+    "한 약속을 늘 잘 지키는 반듯한 행동",
+    "도서관 책장에 꽂혀 있는 두꺼운 사전",
+    "식탁에 놓인 잘 익은 노란 바나나"
+   ],
+   "answer_index": 0,
+   "answer": "나쁜 줄 알면서도 자꾸 침을 아무 데나 뱉는 버릇",
+   "why": "맞아! 안 좋은 줄 알면서도 아무 데나 침을 자꾸자꾸 뱉는 거, 딱 그렇게 몸에 밴 못된 버릇이 바로 vice야."
+  },
+  {
+   "type": "ox",
+   "question": "삼촌은 매일 밤 자기 전에 꼭 일기를 쓰는 버릇이 있어. 이 반복되는 버릇도 '삼촌의 vice'라고 할 수 있을까?",
+   "choices": [
+    "응, 'vice' 맞아",
+    "아니, 'vice' 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 'vice' 아니야",
+   "why": "딩동댕! 일기 쓰는 건 반복되는 버릇이긴 해도 하나도 안 나쁜 좋은 습관이잖아. vice는 안 좋은 줄 알면서 자꾸 하는 못된 버릇이라, 착한 버릇은 vice가 아닌 거야. 잘 골랐어!"
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "virtue"
+ ],
+ "confusable": [
+  {
+   "word": "habit",
+   "kind": "confusable",
+   "from": "그냥 버릇/습관(habit)"
+  },
+  {
+   "word": "fault",
+   "kind": "confusable",
+   "from": "vs fault"
+  },
+  {
+   "word": "sin",
+   "kind": "confusable",
+   "from": "vs sin"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-vice",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-vice"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/vice.webp",
+  "alt": "안 좋은 줄 알면서 슬쩍 거짓말하는 버릇",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

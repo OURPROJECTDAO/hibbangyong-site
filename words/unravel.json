@@ -1,0 +1,97 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/unravel/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/unravel/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "unravel",
+ "slug": "unravel",
+ "url": "https://hibbangyong.com/words/unravel/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "풀리다·풀다 — 꼬이거나 짜여 있던 실이 한 올씩 풀리다(여기서 넓혀서, 얽힌 비밀을 하나씩 풀어 알아내거나 잘 짜인 계획이 풀려서 무너질 때도 써)",
+ "gloss_ko": "짜인 게 풀리다",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "스웨터 소매 끝에 삐져나온 실을 당기면 짜인 게 줄줄 풀려 나가지? 그게 unravel이야.",
+  "얽혀 있던 사건도 한 가닥씩 풀어 가면 진실이 보여. 이것도 unravel이야.",
+  "잘 짜여 있던 계획이 한 군데씩 어긋나서 결국 무너질 때도 unravel이라고 해.",
+  "가위로 뚝 자르거나 한순간에 확 사라지는 거랑은 달라. 짜여 있던 게 이어서 풀려 나가는 거야."
+ ],
+ "scene": "스웨터 소매 끝 실을 당기자 짠 부분이 줄줄 풀리는 장면",
+ "examples": [
+  {
+   "en": "Our plan for the school festival began to unravel when the band canceled.",
+   "ko": "밴드가 못 온다고 하니까 우리 축제 계획이 줄줄이 틀어지기 시작했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "지우의 털장갑 손가락 끝 실 한 올이 가방 지퍼에 걸렸어. 걸을 때마다 실이 당겨져서 짜여 있던 코가 한 줄씩 차례로 풀려 나갔어. 이 장갑이 'unravel' 하고 있는 거야?",
+   "choices": [
+    "응, unravel 맞아",
+    "아니, unravel 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, unravel 맞아",
+   "why": "맞아! 지퍼에 걸린 실 한 올을 따라 짜여 있던 장갑이 한 줄씩 차례로 풀려 나갔잖아. 짜인 게 이어서 풀려 나가는 거니까 바로 unravel이야."
+  },
+  {
+   "type": "ox",
+   "question": "지우 할머니가 털실 한 뭉치를 들고 대바늘로 한 코씩 떠 나갔어. 저녁이 되자 손가락 다섯 개가 다 달린 털장갑 한 짝이 완성됐어. 할머니가 털실을 'unravel' 한 거야?",
+   "choices": [
+    "응, unravel 맞아",
+    "아니, unravel 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, unravel 아니야",
+   "why": "잘 골랐어! 할머니는 대바늘로 털실을 한 코씩 떠서 털장갑을 만든 거잖아. 풀어 버린 게 아니라 오히려 짜 나간 거라서 unravel이 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "재민이 새로 산 니트 조끼 밑단의 실이 문고리에 걸렸어. 모르고 계속 걸어가는 동안 짠 코가 한 줄씩 빠져서 조끼가 점점 짧아지고 망가졌어. 이런 경우도 'unravel'이야?",
+   "choices": [
+    "응, unravel 맞아",
+    "아니, unravel 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, unravel 맞아",
+   "why": "맞아! 문고리에 걸린 실 때문에 짠 코가 한 줄씩 빠지면서 조끼가 점점 짧아졌잖아. 짜여 있던 게 이어서 풀려 나간 거라서 바로 그게 unravel인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "untangle",
+   "kind": "confusable",
+   "from": "vs untangle"
+  },
+  {
+   "word": "solve",
+   "kind": "confusable",
+   "from": "vs solve"
+  }
+ ],
+ "related_scene": [
+  "string",
+  "sweater"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-unravel",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-unravel"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/unravel.webp",
+  "alt": "스웨터 소매 끝 실을 당기자 짠 부분이 줄줄 풀리는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/unwavering/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/unwavering/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "unwavering",
+ "slug": "unwavering",
+ "url": "https://hibbangyong.com/words/unwavering/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "흔들림 없는 — 시간이 가도, 누가 밀어도 마음이나 태도가 약해지거나 바뀌지 않는",
+ "gloss_ko": "흔들림 없는",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "1년 내내 아무리 졸라도 엄마의 '평일엔 게임 안 돼'는 한 번도 안 바뀌었어.",
+  "시간이 지나도, 누가 흔들어도 마음이나 태도가 그대로 버티는 거야. 응원에도 쓰고 반대나 미움에도 써.",
+  "그 순간에만 세게 믿다가 다음 날 식는 건 아니야. 끝까지 약해지지 않아야 해.",
+  "waver가 '흔들리다'니까 un-이 붙으면 '안 흔들리는'이 돼."
+ ],
+ "scene": "1년 내내 졸라도 바뀌지 않는 엄마의 평일 게임 금지",
+ "examples": [
+  {
+   "en": "Mom was unwavering: no games on school nights, even after a month of begging.",
+   "ko": "엄마는 꿈쩍도 안 했어, 한 달을 졸라도 학교 가는 날 밤엔 게임 금지였지."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "할아버지는 10년 동안 가족들이 아무리 권해도 폴더폰을 스마트폰으로 바꾸는 걸 반대했어. 올해도 똑같이 \"안 바꾼다\"고 하셨지. 할아버지의 반대는 'unwavering'하다고 할 수 있을까?",
+   "choices": [
+    "응, unwavering 맞아",
+    "아니, unwavering 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, unwavering 맞아",
+   "why": "맞아! 10년 동안 가족들이 아무리 권해도 할아버지의 반대는 한 번도 약해지지 않았고, 올해도 똑같이 안 바꾼다고 하셨잖아. 이렇게 시간이 가도, 누가 밀어도 그대로 버티는 게 바로 unwavering이야. 반대 같은 태도에도 이 말을 써."
+  },
+  {
+   "type": "ox",
+   "question": "서윤이는 반장 선거에서 누가 한마디 할 때마다 뽑을 후보를 바꿨어. 월요일엔 민준이, 화요일엔 하린이, 수요일엔 다시 민준이였어. 서윤이의 마음은 'unwavering'했을까?",
+   "choices": [
+    "응, unwavering 맞아",
+    "아니, unwavering 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, unwavering 아니야",
+   "why": "맞아! 서윤이는 누가 한마디 할 때마다 민준이에서 하린이로, 다시 민준이로 바꿨잖아. 이렇게 남의 말에 자꾸 흔들리는 마음은 흔들림 없는 마음이 아니야. 오히려 반대쪽인 오락가락하는 마음(이건 wavering이야)이야."
+  },
+  {
+   "type": "choice",
+   "question": "네 친구의 이야기야. 마음이 'unwavering'했다고 말할 수 있는 사람은?",
+   "choices": [
+    "지수는 경기 전날 밤 우리 팀이 이긴다고 엄청 강하게 믿었는데, 아침엔 자신이 없어졌어.",
+    "민아는 좋아하는 팀이 질 때마다 그날 이긴 팀으로 응원팀을 바꿨어.",
+    "준호는 친구들이 아무리 말려도 3년 동안 그 가수를 한결같이 싫어했어.",
+    "태오는 버스가 덜컹거려도 손잡이를 꽉 잡아서 몸이 하나도 안 흔들렸어."
+   ],
+   "answer_index": 2,
+   "answer": "준호는 친구들이 아무리 말려도 3년 동안 그 가수를 한결같이 싫어했어.",
+   "why": "맞아! 준호는 친구들이 아무리 말려도 3년 동안 마음이 한 번도 안 바뀌었잖아. 싫어하는 마음이라도 시간이 가고 누가 말려도 그대로 버티면, 그게 바로 unwavering인 거야."
+  }
+ ],
+ "synonyms": [
+  "steady"
+ ],
+ "antonyms": [
+  "wavering"
+ ],
+ "confusable": [
+  {
+   "word": "constant",
+   "kind": "confusable",
+   "from": "vs constant"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-unwavering",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-unwavering"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/unwavering.webp",
+  "alt": "1년 내내 졸라도 바뀌지 않는 엄마의 평일 게임 금지",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

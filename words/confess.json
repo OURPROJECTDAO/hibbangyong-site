@@ -1,0 +1,110 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/confess/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/confess/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "confess",
+ "slug": "confess",
+ "url": "https://hibbangyong.com/words/confess/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "숨기던 걸 털어놓다 — 내 잘못이든 속마음이든, 말하기 껄끄러운 걸 내 입으로 밝히는 것",
+ "gloss_ko": "숨기던 걸 털어놓다",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "말하기 싫은 게 있어. 근데 결국 입 밖으로 내놨어. 그게 confess야.",
+  "동생 과자를 몰래 먹었어. 아무도 몰라. 그런데 밤에 엄마한테 갔지. \"사실은 내가 먹었어.\" 숨기던 잘못을 내 입으로 말한 거야. 누가 물어봐서 말해도 confess 야.",
+  "나쁜 짓만 그런 게 아니야. \"사실 나 너 좋아해\" 같은 것도, \"나 사실 저 노래 못 불러\"도 confess 야. 감춰뒀던 걸 꺼내는 거니까.",
+  "그냥 말하는 거랑 달라. 오늘 급식 뭐였는지 말하는 건 안 껄끄럽잖아? confess 는 꺼내기 무거운 걸 꺼내는 거야."
+ ],
+ "scene": "밤에 엄마한테 가서 동생 과자 몰래 먹은 걸 스스로 말하는 장면",
+ "examples": [
+  {
+   "en": "I have to confess that I broke your cup.",
+   "ko": "네 컵 깨뜨린 거, 내가 털어놔야겠어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "네 아이가 각각 이런 말을 했어. 이 중에 'confess' 한 사람은 누구일까?",
+   "choices": [
+    "아무도 모르던 유리컵 깬 사람이 자기라고 스스로 말한 아이",
+    "옆자리 친구가 유리컵을 깼다고 선생님한테 일러준 아이",
+    "누가 깼냐고 물어보자 자기는 안 그랬다고 우긴 아이",
+    "유리컵이 깨져서 위험하니 조심하라고 알려준 아이"
+   ],
+   "answer_index": 0,
+   "answer": "아무도 모르던 유리컵 깬 사람이 자기라고 스스로 말한 아이",
+   "why": "맞아! 아무도 몰랐는데 자기 입으로 내가 깼다고 말했잖아. 말 안 하면 그냥 넘어갈 수 있었는데 무거운 걸 꺼낸 거야. 그게 바로 confess야."
+  },
+  {
+   "type": "choice",
+   "question": "도서관에서 있었던 일이야. 다음 중 'confess' 한 아이는 누구일까?",
+   "choices": [
+    "빌린 책 세 권을 정해진 자리에 도로 꽂아 둔 아이",
+    "친구가 찾던 그림책이 어느 칸에 있는지 알려 준 아이",
+    "책에 생긴 얼룩이 자기가 쏟은 물 때문이라고 말한 아이",
+    "도서관에서 우산을 어디에 두면 되는지 물어본 아이"
+   ],
+   "answer_index": 2,
+   "answer": "책에 생긴 얼룩이 자기가 쏟은 물 때문이라고 말한 아이",
+   "why": "맞아! 아무도 안 물어봤는데 그 얼룩이 내가 쏟은 물 때문이라고 자기 입으로 밝혔잖아. 말하기 껄끄러운 내 잘못을 스스로 꺼낸 거, 그게 바로 confess야."
+  },
+  {
+   "type": "choice",
+   "question": "수영 수업 시간이야. 다음 중 'confess' 한 아이는 누구일까?",
+   "choices": [
+    "수영장 물이 얼마나 깊은지 선생님께 물어본 아이",
+    "사실은 깊은 물이 무섭다고 자기 입으로 말한 아이",
+    "친구에게 물속에서 숨 참는 법을 알려 준 아이",
+    "무섭지 않냐고 묻자 하나도 안 무섭다고 한 아이"
+   ],
+   "answer_index": 1,
+   "answer": "사실은 깊은 물이 무섭다고 자기 입으로 말한 아이",
+   "why": "맞아! 아무도 시키지 않았는데 무섭다는 마음을 자기 입으로 꺼냈잖아. 말하기 창피하고 무거운 걸 스스로 밝힌 거라서 바로 그게 confess야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "admit",
+   "kind": "confusable",
+   "from": "vs admit"
+  },
+  {
+   "word": "tell",
+   "kind": "confusable",
+   "from": "그냥 사실을 알려주다(tell/say)"
+  },
+  {
+   "word": "say",
+   "kind": "confusable",
+   "from": "그냥 사실을 알려주다(tell/say)"
+  },
+  {
+   "word": "apologize",
+   "kind": "confusable",
+   "from": "vs apologize"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-confess",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-confess"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/confess.webp",
+  "alt": "밤에 엄마한테 가서 동생 과자 몰래 먹은 걸 스스로 말하는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/maternal/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/maternal/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "maternal",
+ "slug": "maternal",
+ "url": "https://hibbangyong.com/words/maternal/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "모성의 — 엄마가 아이를 아끼고 챙기는 것 같은 (엄마 쪽 가족을 말할 때도 써)",
+ "gloss_ko": "모성의·엄마 쪽",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "아기가 열이 나면 엄마는 밤새 이마를 짚어 보잖아. 그렇게 아끼고 챙기는 마음 쪽이 maternal이야.",
+  "진짜 엄마가 아니어도 돼. 열다섯 살 언니가 동생을 엄마처럼 돌봐도 maternal하다고 해.",
+  "그냥 여자다운 거랑은 달라. 치마 입고 얌전한 건 상관없고, 누굴 품고 챙기느냐가 핵심이야.",
+  "외할머니처럼 엄마 쪽 가족을 말할 때도 써. maternal grandmother 이렇게."
+ ],
+ "scene": "아기가 열 나서 엄마가 밤새 이마를 짚어 봄",
+ "examples": [
+  {
+   "en": "My sister is only fifteen, but she is very maternal with our new puppy.",
+   "ko": "우리 언니는 겨우 열다섯 살인데 새로 온 강아지를 완전 엄마처럼 챙겨."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "놀이터에서 여섯 살 조카가 넘어져 무릎이 까졌어. 고모가 얼른 조카를 안아 벤치에 앉히고, 상처에 연고를 발라 반창고를 붙여 준 뒤 울음이 그칠 때까지 등을 토닥여 줬어. 고모의 이런 태도가 'maternal'이야?",
+   "choices": [
+    "응, maternal 맞아",
+    "아니, maternal 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, maternal 맞아",
+   "why": "맞아! 고모는 진짜 엄마가 아니지만, 넘어진 조카를 안아 앉히고 반창고를 붙여 준 다음 울음이 그칠 때까지 등을 토닥여 줬잖아. 이렇게 아이를 품고 챙기는 태도가 바로 maternal이야."
+  },
+  {
+   "type": "ox",
+   "question": "학원 실장님이 매일 저녁 학생들 휴대폰을 걷어서 메시지 내용을 하나하나 검사하고, 규칙을 어긴 학생은 벌점표에 이름을 적어 게시판에 붙여. 실장님의 이런 태도가 'maternal'이야?",
+   "choices": [
+    "응, maternal 맞아",
+    "아니, maternal 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, maternal 아니야",
+   "why": "맞아! 실장님은 휴대폰을 걷어서 메시지를 하나하나 검사하고, 규칙 어긴 학생 이름을 벌점표에 적어 게시판에 붙이잖아. 이건 학생들을 아끼고 챙기는 게 아니라 감시하고 잘못을 잡아내는 태도라서 maternal이 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 사람 이야기야. 이 중에서 'maternal'이라는 말이 가장 잘 어울리는 사람은?",
+   "choices": [
+    "사촌 누나가 예쁜 원피스를 입고 머리를 곱게 땋았어",
+    "민지가 엄마 생신 선물을 고르러 문구점에 갔어",
+    "수아가 전학 온 친구가 밥은 먹었는지 하나하나 챙겨",
+    "반장이 떠든 친구들 이름을 적어서 선생님께 냈어"
+   ],
+   "answer_index": 2,
+   "answer": "수아가 전학 온 친구가 밥은 먹었는지 하나하나 챙겨",
+   "why": "맞아! maternal은 엄마가 아이를 챙기듯 누굴 아끼고 돌보는 걸 말해. 수아는 엄마가 아니지만, 전학 온 친구가 밥은 먹었는지 하나하나 챙기잖아. 그게 바로 엄마 같은 마음이라서 maternal이 딱 맞아."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "paternal"
+ ],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-maternal",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-maternal"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/maternal.webp",
+  "alt": "아기가 열 나서 엄마가 밤새 이마를 짚어 봄",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

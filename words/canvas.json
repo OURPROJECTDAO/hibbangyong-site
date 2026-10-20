@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/canvas/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/canvas/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "canvas",
+ "slug": "canvas",
+ "url": "https://hibbangyong.com/words/canvas/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "캔버스 — 그림도 그리고 가방·텐트도 만드는 두껍고 질긴 천",
+ "gloss_ko": "캔버스",
+ "level": {
+  "code": "L4",
+  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "캠핑 텐트 만져 본 적 있어? 두껍고 뻣뻣한 그 천 말이야.",
+  "쭉쭉 잡아당겨도 안 찢어지거든. 튼튼하니까 가방도 만들고 신발도 만들어.",
+  "화가들도 이 천을 틀에 쫙 펴서 그 위에 그림을 그려. 종이가 아니라 천에다가.",
+  "그리는 종이도 아니고, 하늘하늘 얇은 옷감도 아니야. 이게 canvas야."
+ ],
+ "scene": "캠핑 텐트의 두껍고 뻣뻣한 천",
+ "examples": [
+  {
+   "en": "My backpack is made of canvas, so it never rips.",
+   "ko": "내 가방은 캔버스 천으로 만들어서 절대 안 찢어져."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "교실 창문에 여름 커튼이 걸려 있어. 얇고 하늘하늘한 천이라 손톱에 살짝 걸리기만 해도 쭉 뜯어져. 이거 canvas야?",
+   "choices": [
+    "응, canvas 맞아",
+    "아니, canvas 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, canvas 아니야",
+   "why": "맞아! 손톱에 살짝 걸리기만 해도 쭉 뜯어지는 천이잖아. canvas는 쭉쭉 잡아당겨도 안 찢어질 만큼 튼튼한 천이라서, 이 커튼은 canvas가 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "우체국 뒤편에 우편물 담는 자루가 놓여 있어. 두껍고 뻣뻣한 천이라 무거운 소포를 잔뜩 넣고 바닥에 끌어도 안 찢어져. 이거 canvas야?",
+   "choices": [
+    "응, canvas 맞아",
+    "아니, canvas 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, canvas 맞아",
+   "why": "맞아! 두껍고 뻣뻣한 천인데 무거운 소포를 잔뜩 넣고 바닥에 쭉 끌어도 안 찢어졌잖아. 튼튼해서 그렇게 막 써도 버티는 그 천이 바로 canvas인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 아이가 각자 뭘 하나씩 들고 왔어. 이 중에서 'canvas'를 들고 온 아이는 누구일까?",
+   "choices": [
+    "매끈한 흰 종이를 여러 장 들고 왔어. 그림 그릴 때 쓰는 거래.",
+    "바람에 살랑거리는 얇은 손수건을 들고 왔어. 조금만 당겨도 쭉 늘어난대.",
+    "두껍고 뻣뻣한 천을 둘둘 말아 들고 왔어. 발로 밟고 서도 멀쩡하대.",
+    "딱딱한 나무 판자를 들고 왔어. 두드리면 똑똑 소리가 난대."
+   ],
+   "answer_index": 2,
+   "answer": "두껍고 뻣뻣한 천을 둘둘 말아 들고 왔어. 발로 밟고 서도 멀쩡하대.",
+   "why": "맞아! 두껍고 뻣뻣한 천이라서 발로 밟고 서도 멀쩡한 거야. 이렇게 두껍고 튼튼한 천이 바로 canvas거든."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "fabric"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-canvas",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-canvas"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/canvas.webp",
+  "alt": "캠핑 텐트의 두껍고 뻣뻣한 천",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

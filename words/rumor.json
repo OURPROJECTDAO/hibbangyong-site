@@ -1,0 +1,97 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/rumor/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/rumor/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "rumor",
+ "slug": "rumor",
+ "url": "https://hibbangyong.com/words/rumor/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "소문 — 사람들 입에서 입으로 퍼져 다니는데, 진짜인지 아직 아무도 모르는 이야기",
+ "gloss_ko": "소문",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "쉬는 시간에 누가 그러는 거야. 내일 학교 안 온대!",
+  "그 말이 옆 반까지 쫙 퍼졌어. 그런데 누가 처음 꺼냈는지도 모르고, 진짜인지도 몰라.",
+  "거짓말이랑은 달라. 거짓말은 아닌 걸 알면서 하는 거고, 이건 말하는 사람도 진짜인지 모르거든? 그래서 나중에 진짜로 밝혀지기도 하고, 헛말로 끝나기도 해.",
+  "이렇게 맞는지 아무도 알아보지 않은 채 입에서 입으로 굴러다니는 말, 그게 rumor야."
+ ],
+ "scene": "쉬는 시간 교실에서 '내일 학교 안 온대'라는 말이 도는 장면",
+ "examples": [
+  {
+   "en": "A rumor went around our class that school would be closed tomorrow.",
+   "ko": "내일 학교가 쉰다는 소문이 우리 반에 쫙 퍼졌어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "방과 후 축구 교실에서 네 가지 일이 있었어. 이 중에서 'rumor'인 건 어느 거야?",
+   "choices": [
+    "은우가 가져온 물병을 서준이한테 건네고, 서준이는 또 다른 아이한테 건네서 그 물병이 팀 안을 돌아다녀.",
+    "은우가 골대 앞에서 슛을 열 번 차고, 서준이는 옆에서 들어간 개수를 세어 공책에 적어.",
+    "은우가 들은 말을 서준이한테 옮기고, 서준이는 또 다른 아이한테 옮겨서 그 말이 팀 안을 돌아다녀.",
+    "은우가 코치님이 알려 준 구호를 큰 소리로 외치고, 팀 아이들이 다 같이 맞춰 따라 외쳐."
+   ],
+   "answer_index": 2,
+   "answer": "은우가 들은 말을 서준이한테 옮기고, 서준이는 또 다른 아이한테 옮겨서 그 말이 팀 안을 돌아다녀.",
+   "why": "맞아! 들은 말이 은우한테서 서준이한테로, 또 다른 아이한테로 옮겨 다니잖아. 누가 처음 꺼냈는지도 모르고 진짜인지도 모르는 채 입에서 입으로 굴러다니는 말, 그게 바로 rumor야."
+  },
+  {
+   "type": "choice",
+   "question": "아파트 놀이터에서 아이 넷이 각각 이렇게 했어. 이 중에서 'rumor'에 해당하는 건 어느 거야?",
+   "choices": [
+    "하람이는 3동 앞 감나무 아래에 떨어진 감을 주워서 바구니에 차곡차곡 담았어.",
+    "다율이는 '저 감나무를 곧 벤대' 하는 말을 친구한테 전했고, 그 친구도 다른 애한테 전했어.",
+    "재이는 3동 앞 감나무 잎을 열 장 세어서 공책에 잎 개수를 적어 두었어.",
+    "시온이는 3동 앞 감나무가 참 크다고 마음속으로만 생각하고 아무한테도 말하지 않았어."
+   ],
+   "answer_index": 1,
+   "answer": "다율이는 '저 감나무를 곧 벤대' 하는 말을 친구한테 전했고, 그 친구도 다른 애한테 전했어.",
+   "why": "맞아! 다율이 말은 다율이 입에서 친구 입으로, 또 다른 애 입으로 굴러다녔지? 누가 처음 꺼냈는지도 모르고 진짜인지도 모르는 채로 퍼진 말, 그게 바로 rumor야."
+  },
+  {
+   "type": "choice",
+   "question": "아이 넷이 각자 자기가 아는 이야기를 하나씩 말했어. 이 중에서 'rumor'인 건 어느 거야?",
+   "choices": [
+    "교장 선생님이 아침 방송으로 알려 줘서 학교 아이들이 다 맞다고 아는 이야기",
+    "지호가 아닌 걸 뻔히 알면서 친구를 놀리려고 그 자리에서 지어낸 이야기",
+    "옆 반에서 전해 들은 말이 다른 반까지 갔는데, 진짜인지 따져 본 사람은 없는 이야기",
+    "수아가 혼자 머릿속으로만 떠올려 보고 아무한테도 꺼내지 않은 이야기"
+   ],
+   "answer_index": 2,
+   "answer": "옆 반에서 전해 들은 말이 다른 반까지 갔는데, 진짜인지 따져 본 사람은 없는 이야기",
+   "why": "맞아! 옆 반에서 저쪽 반으로 말이 옮겨 다녔는데 진짜인지 알아본 사람이 아무도 없잖아. 입에서 입으로 굴러다니는데 확인은 안 된 말, 그게 딱 rumor야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "truth"
+ ],
+ "confusable": [
+  {
+   "word": "gossip",
+   "kind": "confusable",
+   "from": "vs gossip"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-rumor",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-rumor"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/rumor.webp",
+  "alt": "쉬는 시간 교실에서 '내일 학교 안 온대'라는 말이 도는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

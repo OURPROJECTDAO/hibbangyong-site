@@ -1,0 +1,105 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/multiple/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/multiple/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "multiple",
+ "slug": "multiple",
+ "url": "https://hibbangyong.com/words/multiple/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "여러 개의 — 하나가 아니라 둘, 셋… 여럿인 (여러 번·여러 명·여러 개)",
+ "gloss_ko": "여러 개의",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "숙제하다 답을 틀려서 지웠는데, 한 번으로 안 끝나고 두 번, 세 번 자꾸 고쳤어.",
+  "한 번이 아니라 여러 번이지?",
+  "이렇게 여러 번, 여러 개, 여러 명… '하나 말고 여럿'일 때 붙이는 말이야.",
+  "그게 multiple이야."
+ ],
+ "scene": "숙제 답을 한 번이 아니라 여러 번 고쳐 쓴 장면",
+ "examples": [
+  {
+   "en": "I tried multiple times before I got the answer right.",
+   "ko": "답 맞히기 전에 여러 번 해봤어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "동생이 서랍에서 머리핀을 다섯 개 꺼내서 손에 쥐고 있어. 이게 multiple이야?",
+   "choices": [
+    "응, multiple 맞아",
+    "아니, multiple 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, multiple 맞아",
+   "why": "맞아! 머리핀이 하나가 아니라 다섯 개나 되잖아. 둘, 셋 넘어서 여럿이면 바로 그게 multiple인 거야. 잘 골랐어!"
+  },
+  {
+   "type": "choice",
+   "question": "엄마가 '민수가 그 책을 multiple 번 읽었대'라고 했어. 민수는 그 책을 어떻게 읽은 걸까?",
+   "choices": [
+    "한 번이 아니라 여러 번 되풀이해서 읽었어",
+    "딱 한 번만 읽고 바로 덮었어",
+    "수백 번도 넘게 셀 수 없이 읽었어",
+    "반쯤 읽다가 그만두고 덮었어"
+   ],
+   "answer_index": 0,
+   "answer": "한 번이 아니라 여러 번 되풀이해서 읽었어",
+   "why": "맞아! multiple은 하나 말고 여럿이라는 뜻이거든. 그러니까 한 번이 아니라 여러 번 되풀이해서 읽었다는 게 딱 맞는 말이야."
+  },
+  {
+   "type": "choice",
+   "question": "다음 중 'multiple'로 표현할 수 있는 상황은?",
+   "choices": [
+    "가방에 열쇠가 여러 개 들어 있어",
+    "가방에 열쇠가 딱 하나만 들어 있어",
+    "가방에 열쇠가 하나도 들어 있지 않아",
+    "가방에 열쇠 하나가 반쯤 부러져 있어"
+   ],
+   "answer_index": 0,
+   "answer": "가방에 열쇠가 여러 개 들어 있어",
+   "why": "맞아! 열쇠가 하나가 아니라 둘, 셋 여러 개 들어 있잖아. 하나 말고 여럿일 때 붙이는 말이 바로 multiple이거든."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "single"
+ ],
+ "confusable": [
+  {
+   "word": "single",
+   "kind": "confusable",
+   "from": "딱 하나(single)"
+  },
+  {
+   "word": "many",
+   "kind": "confusable",
+   "from": "아주 많음(many/huge)"
+  },
+  {
+   "word": "huge",
+   "kind": "confusable",
+   "from": "아주 많음(many/huge)"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-multiple",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-multiple"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/multiple.webp",
+  "alt": "숙제 답을 한 번이 아니라 여러 번 고쳐 쓴 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

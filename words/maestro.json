@@ -1,0 +1,94 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/maestro/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/maestro/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "maestro",
+ "slug": "maestro",
+ "url": "https://hibbangyong.com/words/maestro/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "거장 — 어떤 일을 아주 잘해서 다들 알아주는 사람, 특히 음악가",
+ "gloss_ko": "거장",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "오케스트라 앞에서 지휘하는 유명한 지휘자, 다들 maestro라고 불러.",
+  "근데 음악만 그런 건 아니야. 요리든 축구든 그 일을 정말 잘해서 모두가 알아주면 maestro야.",
+  "그냥 잘하는 정도가 아니야. 오래 갈고닦아서 실력이 남다른 사람이야.",
+  "그리고 '선생님'이랑은 달라. 가르치는 게 아니라 실력이 대단한 거야."
+ ],
+ "scene": "오케스트라 앞에서 지휘하는 유명한 지휘자",
+ "examples": [
+  {
+   "en": "Everyone in the kitchen stopped to watch the old maestro make noodles by hand.",
+   "ko": "주방에 있던 사람들이 다 멈춰서 그 노련한 거장이 손으로 국수 뽑는 걸 구경했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "도자기 공방에서 이번 주에 처음으로 물레를 돌려 본 사람이 있어. 이 사람은 'maestro'야?",
+   "choices": [
+    "응, maestro 맞아",
+    "아니, maestro 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, maestro 아니야",
+   "why": "맞아! 이번 주에 처음 물레를 돌려 본 사람은 이제 막 시작한 초보잖아. maestro는 오래 갈고닦아서 실력이 남달라 다들 알아주는 사람이라, 처음 해 본 사람은 아직 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "40년 넘게 바이올린을 연주해 왔고, 세계 여러 나라 무대에서 실력을 인정받는 연주자가 있어. 이 연주자는 'maestro'야?",
+   "choices": [
+    "응, maestro 맞아",
+    "아니, maestro 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, maestro 맞아",
+   "why": "맞아! 40년 넘게 바이올린을 갈고닦았고 세계 여러 나라 무대에서 실력을 인정받았잖아. 오래 다듬은 남다른 실력을 모두가 알아주는 음악가, 그게 바로 maestro야."
+  },
+  {
+   "type": "choice",
+   "question": "음악 잡지 기사에 연주자 네 명이 소개됐어. 이 중 'maestro'라고 부르기에 가장 알맞은 사람은?",
+   "choices": [
+    "바이올린을 잡은 지 석 달 만에 학교 대회에서 상을 받아 화제가 된 신입생",
+    "40년 동안 같은 악기를 연주해 와서, 첫 소리만 들어도 사람들이 누군지 알아보는 연주자",
+    "첫 공연에서 실수 없이 끝까지 연주해 관객에게 큰 박수를 받은 신인 연주자",
+    "재능이 뛰어나다는 평을 받으며 유명 음악학교에 막 입학 허가를 받은 열다섯 살 학생"
+   ],
+   "answer_index": 1,
+   "answer": "40년 동안 같은 악기를 연주해 와서, 첫 소리만 들어도 사람들이 누군지 알아보는 연주자",
+   "why": "맞아! 40년 동안 한 악기만 연주해서 첫 소리만 들어도 사람들이 누군지 알아본다는 건, 오래 갈고닦은 실력을 모두가 알아준다는 뜻이야. 바로 그런 사람이 maestro야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "master",
+   "kind": "confusable",
+   "from": "vs master"
+  },
+  {
+   "word": "expert",
+   "kind": "confusable",
+   "from": "vs expert"
+  }
+ ],
+ "related_scene": [
+  "orchestra"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-maestro",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-maestro"
+ },
+ "image": null
+}

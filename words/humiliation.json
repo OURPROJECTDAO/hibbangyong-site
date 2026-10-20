@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/humiliation/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/humiliation/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "humiliation",
+ "slug": "humiliation",
+ "url": "https://hibbangyong.com/words/humiliation/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "굴욕 — 남들 앞에서 깎여 내려가 자존심이 무너지는 느낌(또는 그렇게 만드는 일)",
+ "gloss_ko": "굴욕",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "축구 결승에서 10대 0으로 졌어. 그것도 전교생이 다 보는 앞에서.",
+  "얼굴만 빨개지는 게 아니라, 내가 작고 하찮아진 느낌이 들어. 자존심이 바닥에 깔린 거지.",
+  "누가 일부러 놀렸든 상황 때문에 그렇게 됐든 상관없어. 남들 앞에서 깎여 내려간 그 느낌이 humiliation이야.",
+  "발표하다 한 번 더듬어서 잠깐 민망한 거랑은 달라. 그건 웃고 금방 넘기잖아."
+ ],
+ "scene": "전교생 앞 축구 결승 10대 0 패배",
+ "examples": [
+  {
+   "en": "Losing 10-0 in front of the whole school was a real humiliation for our team.",
+   "ko": "전교생 앞에서 10대 0으로 진 건 우리 팀한테 진짜 굴욕이었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "학원에서 선생님이 모의고사 점수를 반 전체 앞에서 낮은 순서대로 불렀는데, 내 이름이 맨 처음 나왔어. 다들 나를 돌아봤고, 나는 내가 작고 하찮아진 느낌이 들었어. 이때 내 기분이 'humiliation'일까?",
+   "choices": [
+    "응, humiliation 맞아",
+    "아니, humiliation 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, humiliation 맞아",
+   "why": "맞아! 반 전체 앞에서 내 이름이 맨 처음 불리고 다들 나를 돌아봤잖아. 남들 앞에서 깎여 내려가서 내가 작고 하찮아진 느낌, 그게 딱 humiliation이야."
+  },
+  {
+   "type": "ox",
+   "question": "학교 축제 무대에서 내가 직접 만든 노래를 불렀는데, 끝나자 관객 전체가 일어나서 박수를 쳤어. 다들 나를 쳐다봤고, 나는 어깨가 쭉 펴지면서 내가 커진 느낌이 들었어. 이때 내 기분이 'humiliation'일까?",
+   "choices": [
+    "응, humiliation 맞아",
+    "아니, humiliation 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, humiliation 아니야",
+   "why": "맞아! 관객 전체가 일어나서 박수를 쳐 줬고 어깨가 쭉 펴지면서 내가 커진 느낌이 들었잖아. 남들 앞에서 내가 올라간 뿌듯함이니까, 깎여 내려가는 humiliation이랑은 방향이 정반대야."
+  },
+  {
+   "type": "choice",
+   "question": "네 친구가 각자 겪은 일과 그때 기분을 말했어. 'humiliation'을 느꼈을 사람은 누구일까?",
+   "choices": [
+    "반 친구들 앞에서 발표하다 말이 한 번 꼬였는데, 다 같이 웃고 나도 웃으면서 넘겼어.",
+    "전교생 앞에서 회장 선거 개표를 했는데 내 표만 두 장이라, 다들 나를 쳐다봐서 고개를 못 들겠더라.",
+    "시험 때 친구 답을 몰래 봤는데, 아무도 모르는데도 혼자 밤새 마음이 무거웠어.",
+    "기다리던 콘서트 표를 결국 못 구해서, 하루 종일 속상해서 방에서 안 나왔어."
+   ],
+   "answer_index": 1,
+   "answer": "전교생 앞에서 회장 선거 개표를 했는데 내 표만 두 장이라, 다들 나를 쳐다봐서 고개를 못 들겠더라.",
+   "why": "맞아! 개표는 누가 일부러 놀린 게 아니라 결과가 그렇게 나온 건데도, 전교생 앞에서 내 표만 두 장인 게 드러나서 고개를 못 들 만큼 작아졌잖아. 남들 앞에서 깎여 내려가 자존심이 무너진 그 느낌이 바로 humiliation이야."
+  }
+ ],
+ "synonyms": [
+  "disgrace"
+ ],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-humiliation",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-humiliation"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/humiliation.webp",
+  "alt": "전교생 앞 축구 결승 10대 0 패배",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/bar/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/bar/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "bar",
+ "slug": "bar",
+ "url": "https://hibbangyong.com/words/bar/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "막대 — 길쭉하고 단단하게 굳은 한 토막(금괴·초콜릿 바처럼 네모난 덩어리도 bar야)",
+ "gloss_ko": "막대",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "초콜릿 하나를 길쭉하게 딱 굳혀 놓은 거 봤지? 그걸 chocolate bar라고 해.",
+  "손에 쥐면 딱딱하고 안 휘어. 한 덩어리로 뭉쳐서 굳은 거거든.",
+  "금을 네모나게 굳히면 gold bar, 쇠를 길게 뽑으면 iron bar. 모양은 조금씩 달라도 말이야.",
+  "길쭉하든 네모나든, 단단히 굳은 한 토막이면 그게 bar야."
+ ],
+ "scene": "초콜릿을 길쭉하게 굳힌 chocolate bar",
+ "examples": [
+  {
+   "en": "He lifted a heavy iron bar off the ground.",
+   "ko": "그 애가 무거운 쇠막대를 바닥에서 들어 올렸어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "책상 위 네 가지 물건 중에서 하나를 'bar'라고 부른대. 어느 걸 말하는 걸까?",
+   "choices": [
+    "잡으면 축 늘어지는, 둘둘 말린 기다란 밧줄 하나",
+    "손에 쥐어도 안 휘는, 길쭉하고 단단한 쇠 토막 하나",
+    "살짝 구부려도 휘청하는, 가느다란 나뭇가지 하나",
+    "바닥에 눕히면 넓게 퍼지는, 평평한 나무 판자 하나"
+   ],
+   "answer_index": 1,
+   "answer": "손에 쥐어도 안 휘는, 길쭉하고 단단한 쇠 토막 하나",
+   "why": "맞아! 손에 쥐어도 안 휘고 단단하게 굳은 한 토막, 바로 그게 bar야. 길쭉하든 네모나든 이렇게 딱 굳어 있으면 다 bar라고 부르는 거야."
+  },
+  {
+   "type": "choice",
+   "question": "낚시 가방을 정리하는데 네 가지가 나왔어. 이 중에서 'bar'인 건 어느 걸까?",
+   "choices": [
+    "둥글게 감겨서 축 늘어지는 낚싯줄 한 뭉치",
+    "길쭉한 네모로 단단히 굳은 납 토막 하나",
+    "동그랗게 단단히 굳은 쇠 구슬 하나",
+    "얇고 부드럽게 접히는 천 조각 하나"
+   ],
+   "answer_index": 1,
+   "answer": "길쭉한 네모로 단단히 굳은 납 토막 하나",
+   "why": "맞아! 길쭉한 네모로 딱 굳어서 한 토막이 됐잖아. 손에 쥐면 안 휘고 딱딱하지. 바로 그게 bar야."
+  },
+  {
+   "type": "choice",
+   "question": "서랍을 열었더니 네 가지 물건이 들어 있어. 이 중에서 'bar'라고 부를 수 있는 건 어느 걸까?",
+   "choices": [
+    "동그랗게 단단히 굳은 유리구슬 하나",
+    "오목하게 단단히 굳은 사기 그릇 하나",
+    "길쭉한 네모로 단단히 굳은 비누 한 토막",
+    "납작하고 얇게 단단히 굳은 플라스틱 단추 하나"
+   ],
+   "answer_index": 2,
+   "answer": "길쭉한 네모로 단단히 굳은 비누 한 토막",
+   "why": "맞아! 길쭉한 네모로 딱 굳은 한 토막, 그게 바로 bar야. 초콜릿 바랑 금괴가 그렇게 생겼잖아. 비누도 그 모양이면 soap bar인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "cage"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-bar",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-bar"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/bar.webp",
+  "alt": "초콜릿을 길쭉하게 굳힌 chocolate bar",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

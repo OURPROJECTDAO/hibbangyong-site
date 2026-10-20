@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/overboard/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/overboard/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "overboard",
+ "slug": "overboard",
+ "url": "https://hibbangyong.com/words/overboard/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "배 밖으로 — 배 가장자리를 넘어 물속으로 (빠지다·던지다)",
+ "gloss_ko": "배 밖 물속으로",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "배를 타고 가다 바람에 모자가 날아갔어. 난간을 넘어서 바닷물로 풍덩.",
+  "이렇게 배 가장자리를 넘어 물로 가는 게 overboard야. 실수로 빠져도, 일부러 던져도 둘 다 돼.",
+  "배 안 바닥에 떨어진 건 아니야. 부두로 내리는 것도 아니고. 꼭 배 밖 물속이어야 해.",
+  "go overboard라고 하면 선을 넘어서 너무 지나치게 한다는 뜻으로도 써."
+ ],
+ "scene": "배에서 바람에 모자가 날아가 난간 넘어 바다로 떨어짐",
+ "examples": [
+  {
+   "en": "The wind was strong, and my cap flew off and went overboard.",
+   "ko": "바람이 세서 모자가 날아가더니 배 밖 바다로 떨어져 버렸어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "유람선에서 사진을 찍다가 휴대폰이 손에서 미끄러졌어. 휴대폰은 배 옆 가장자리를 넘어 강물 속으로 퐁당 떨어졌어. 휴대폰이 'overboard'로 간 거야?",
+   "choices": [
+    "응, overboard 맞아",
+    "아니, overboard 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, overboard 맞아",
+   "why": "맞아! 휴대폰이 배 옆 가장자리를 넘어서 강물 속으로 떨어졌잖아. 배 밖 물속으로 간 거니까 바로 그게 overboard야. 일부러 던진 게 아니라 손에서 미끄러진 거여도 똑같이 overboard라고 해."
+  },
+  {
+   "type": "ox",
+   "question": "유람선이 떠나기 전에 한 관광객이 부두에서 발판을 밟고 배 위로 올라왔어. 관광객이 'overboard'로 간 거야?",
+   "choices": [
+    "응, overboard 맞아",
+    "아니, overboard 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, overboard 아니야",
+   "why": "맞아! 관광객은 부두에서 발판을 밟고 배 위로 올라온 거잖아. overboard는 배 가장자리를 넘어 배 밖 물속으로 가는 거니까, 배 안으로 들어온 이 장면은 정반대야."
+  },
+  {
+   "type": "choice",
+   "question": "선원이 상한 생선을 가지고 한 일 네 가지야. 'overboard'라고 말할 수 있는 건?",
+   "choices": [
+    "선원이 상한 생선을 갑판 구석 통에 던졌어",
+    "선원이 상한 생선을 들고 부두로 내려갔어",
+    "선원이 상한 생선을 난간 너머 바닷물로 던졌어",
+    "선원이 상한 생선을 실으러 배에 올라탔어"
+   ],
+   "answer_index": 2,
+   "answer": "선원이 상한 생선을 난간 너머 바닷물로 던졌어",
+   "why": "맞아! 상한 생선이 난간 너머로 넘어가서 바닷물에 떨어졌잖아. 배 가장자리를 넘어 물속으로 간 거니까 바로 그게 overboard야. 실수가 아니라 일부러 던져도 이렇게 쓸 수 있어."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "aboard",
+   "kind": "confusable",
+   "from": "배에 올라탐(aboard)"
+  }
+ ],
+ "related_scene": [
+  "throw"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-overboard",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-overboard"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/overboard.webp",
+  "alt": "배에서 바람에 모자가 날아가 난간 넘어 바다로 떨어짐",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

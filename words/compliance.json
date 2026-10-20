@@ -1,0 +1,99 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/compliance/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/compliance/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "compliance",
+ "slug": "compliance",
+ "url": "https://hibbangyong.com/words/compliance/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "준수(규칙을 지키기) — 규칙·법·요구를 실제 행동으로 따르는 것",
+ "gloss_ko": "규칙 따르기",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "학교에 '수업 중 폰 금지' 규칙이 새로 생겼어. 속으론 귀찮은 애들도 수업 시간엔 폰을 꺼 둬.",
+  "마음이 좋든 싫든 정해진 규칙이나 법, 요구대로 실제로 하는 것. 그걸 compliance라고 해.",
+  "회사가 안전 법을 지키는 것도, 식당이 위생 기준을 맞추는 것도 다 여기 들어가.",
+  "속으로 찬성하는 거랑은 달라. 규칙이 좋다고 말만 하고 안 지키면 compliance가 아니야. 행동이 규칙에 맞느냐가 핵심이야."
+ ],
+ "scene": "학교 수업 중 폰 금지 새 규칙을 귀찮아도 지키는 학생들",
+ "examples": [
+  {
+   "en": "She didn't like the new phone rule, but her compliance was perfect.",
+   "ko": "걔는 새 폰 규칙이 싫었는데도, 지키는 건 완벽하게 지켰어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "구민 체육센터 수영장에는 '수영모 착용 필수' 규칙이 있어. 지훈이는 수영모를 쓰지 않고 그대로 물에 들어가 수영을 했어. 지훈이의 이 행동은 그 규칙에 대한 'compliance'일까?",
+   "choices": [
+    "응, compliance 맞아",
+    "아니, compliance 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, compliance 아니야",
+   "why": "맞아! 수영장 규칙은 수영모를 꼭 쓰라는 건데, 지훈이는 안 쓰고 그대로 물에 들어갔잖아. 규칙대로 안 했으니 compliance가 아니라 오히려 규칙을 어긴 거야."
+  },
+  {
+   "type": "ox",
+   "question": "시립 도서관 열람실 입구에 '음료 반입 금지' 안내문이 붙어 있어. 민수는 들고 온 주스를 입구 사물함에 넣어 두고 열람실에 들어갔어. 민수의 이 행동은 그 규칙에 대한 'compliance'일까?",
+   "choices": [
+    "응, compliance 맞아",
+    "아니, compliance 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, compliance 맞아",
+   "why": "맞아! 안내문에 '음료 반입 금지'라고 적혀 있고, 민수는 주스를 입구 사물함에 넣어 두고 들어갔지. 규칙대로 실제로 행동했으니까 이게 바로 compliance야."
+  },
+  {
+   "type": "choice",
+   "question": "학교에 '수업 중 폰 금지' 규칙이 새로 생겼어. 이 규칙에 대한 'compliance'를 가장 잘 보여 주는 학생은?",
+   "choices": [
+    "규칙이 싫다고 투덜대지만 수업 중엔 폰을 꺼 두는 학생",
+    "규칙이 좋다고 말하지만 수업 중에 몰래 폰을 쓰는 학생",
+    "규칙이 싫다며 수업 중에도 계속 폰을 쓰는 학생",
+    "규칙이 생기기 전부터 친구들 따라 폰을 꺼 둔 학생"
+   ],
+   "answer_index": 0,
+   "answer": "규칙이 싫다고 투덜대지만 수업 중엔 폰을 꺼 두는 학생",
+   "why": "맞아! 이 학생은 규칙이 싫다고 대놓고 투덜대지만, 수업 중엔 폰을 꺼 둬. 마음이 어떻든 행동이 규칙에 맞으니까 바로 이게 compliance야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "obedience",
+   "kind": "confusable",
+   "from": "vs obedience"
+  },
+  {
+   "word": "conformity",
+   "kind": "confusable",
+   "from": "vs conformity"
+  }
+ ],
+ "related_scene": [
+  "law",
+  "rule"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-compliance",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-compliance"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/compliance.webp",
+  "alt": "학교 수업 중 폰 금지 새 규칙을 귀찮아도 지키는 학생들",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

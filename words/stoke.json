@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/stoke/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/stoke/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "stoke",
+ "slug": "stoke",
+ "url": "https://hibbangyong.com/words/stoke/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "불을 더 지피다 — 이미 타는 불에 땔감을 더 넣고 뒤적여 더 세게 타게 하다",
+ "gloss_ko": "불을 더 지피다",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "캠핑 간 밤, 모닥불이 점점 약해지고 있어.",
+  "장작을 더 넣고 뒤적여 줬더니 불이 다시 확 살아나.",
+  "이렇게 이미 타고 있는 불을 더 세게 타게 하는 게 stoke야. 처음 불을 붙이는 거랑은 달라.",
+  "그래서 화나 걱정 같은 마음을 옆에서 더 키울 때도 stoke라고 해."
+ ],
+ "scene": "캠핑 밤 약해지는 모닥불에 장작을 넣고 뒤적임",
+ "examples": [
+  {
+   "en": "Grandpa stoked the fire, and soon the whole room was warm again.",
+   "ko": "할아버지가 불을 더 지피니까 금방 방 전체가 다시 따뜻해졌어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "마당에서 고기를 굽는데 그릴 속 숯불이 점점 약해졌어. 삼촌이 이미 타고 있는 숯 위에 새 숯을 더 얹고 집게로 뒤적였더니 불이 다시 세졌어. 삼촌이 한 게 'stoke'야?",
+   "choices": [
+    "응, stoke 맞아",
+    "아니, stoke 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, stoke 맞아",
+   "why": "맞아! 삼촌은 이미 타고 있는 숯에 새 숯을 더 얹고 집게로 뒤적여서 약해진 불을 다시 세게 만들었잖아. 이미 붙어 있는 불을 더 세게 타게 하는 거, 바로 그게 stoke야."
+  },
+  {
+   "type": "ox",
+   "question": "잠자기 전, 아빠가 벽난로에서 타던 불 위에 재를 두껍게 덮어서 불을 꺼뜨렸어. 아빠가 한 게 'stoke'야?",
+   "choices": [
+    "응, stoke 맞아",
+    "아니, stoke 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, stoke 아니야",
+   "why": "맞아! 아빠는 타던 불 위에 재를 두껍게 덮어서 불을 꺼뜨렸잖아. stoke는 타는 불을 더 세게 타게 하는 거라서, 불을 끈 건 정반대야."
+  },
+  {
+   "type": "choice",
+   "question": "겨울 오두막에서 네 사람이 난로 앞에서 각자 뭔가를 했어. 'stoke'를 한 사람은 누구야?",
+   "choices": [
+    "거의 꺼져 가는 난로에 석탄을 더 넣고 뒤적였어",
+    "텅 빈 난로에 성냥을 그어 처음 불을 붙였어",
+    "불이 너무 세서 난로 공기 구멍을 막아 줄였어",
+    "타고 있는 난로 위에 주전자를 올려 물을 끓였어"
+   ],
+   "answer_index": 0,
+   "answer": "거의 꺼져 가는 난로에 석탄을 더 넣고 뒤적였어",
+   "why": "맞아! 거의 꺼져 가는 난로에 석탄을 더 넣고 뒤적였잖아. 이미 타고 있던 불을 다시 세게 살린 거라서 바로 그게 stoke야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "coal"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-stoke",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-stoke"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/stoke.webp",
+  "alt": "캠핑 밤 약해지는 모닥불에 장작을 넣고 뒤적임",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

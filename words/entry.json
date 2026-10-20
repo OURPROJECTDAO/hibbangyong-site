@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/entry/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/entry/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "entry",
+ "slug": "entry",
+ "url": "https://hibbangyong.com/words/entry/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "들어감 — 밖에서 어떤 곳 안으로 들어가는 것(들어가는 그 순간)",
+ "gloss_ko": "들어감",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "문을 열고 방 안으로 쏙 들어간 적 있지?",
+  "밖에 있다가 안으로 옮겨 가는 딱 그 순간 말이야.",
+  "이미 안에 있는 거나, 반대로 밖으로 나가는 거랑은 달라.",
+  "안으로 들어가는 것, 그게 entry야."
+ ],
+ "scene": "문을 열고 방 안으로 들어가는 순간",
+ "examples": [
+  {
+   "en": "We watched his entry into the room.",
+   "ko": "우리는 걔가 방으로 들어오는 걸 지켜봤어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "수영장에서 아이가 물 밖에 서 있다가 풀장 물속으로 첨벙 들어갔어. 이게 'entry'야?",
+   "choices": [
+    "응, entry 맞아",
+    "아니, entry 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, entry 맞아",
+   "why": "맞아! 물 밖에 서 있다가 물속으로 첨벙 들어갔잖아. 밖에 있다가 안으로 쏙 옮겨 간 딱 그 순간이라서 바로 그게 entry인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "교실에 있던 아이가 복도 쪽으로 걸어서 교실 밖으로 나갔어. 이게 'entry'야?",
+   "choices": [
+    "응, entry 맞아",
+    "아니, entry 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, entry 아니야",
+   "why": "맞아, 잘 골랐어! 교실 안에 있다가 복도로 나간 거니까 안에서 밖으로 간 거잖아. entry는 반대로 밖에서 안으로 쏙 들어가는 그 순간이거든. 그래서 이건 entry가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "동물원에서 네 마리 동물이 각각 이렇게 했어. 어떤 게 'entry'야?",
+   "choices": [
+    "곰이 굴 밖으로 어슬렁어슬렁 걸어 나갔어",
+    "여우가 굴 속으로 쏙 들어갔어",
+    "토끼가 굴 앞에 딱 멈춰서 안 움직였어",
+    "다람쥐가 굴 안에서 쿨쿨 잠만 잤어"
+   ],
+   "answer_index": 1,
+   "answer": "여우가 굴 속으로 쏙 들어갔어",
+   "why": "맞아! 여우가 밖에 있다가 굴 속으로 쏙 들어갔지? 밖에서 안으로 옮겨 가는 딱 그 순간, 그게 바로 entry야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "exit"
+ ],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-entry",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-entry"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/entry.webp",
+  "alt": "문을 열고 방 안으로 들어가는 순간",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

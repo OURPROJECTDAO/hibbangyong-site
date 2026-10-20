@@ -1,0 +1,83 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/bribery/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/bribery/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "bribery",
+ "slug": "bribery",
+ "url": "https://hibbangyong.com/words/bribery/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "뇌물 주고받기 — 맡은 일을 규칙대로 해야 할 사람에게 돈이나 선물을 건네서, 그 일을 내 쪽으로 비뚤게 하게 만드는 것",
+ "gloss_ko": "뇌물 주고받기",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "시합 전에 누가 심판한테 새 운동화를 건네. '우리 편 좀 봐 줘'라는 뜻으로.",
+  "돈이든 선물이든 상관없어. 규칙대로 해야 할 사람한테 건네서 그 사람이 규칙을 어기게 만들면 그게 bribery야.",
+  "심판, 문 지키는 사람, 공무원 누구든 대상이 될 수 있어. 건넨 쪽도 받은 쪽도 다 bribery에 걸려.",
+  "고마워서 주는 선물이나 정해진 돈을 내는 거랑은 달라. 받은 사람이 해야 할 일을 비뚤게 하게 만드느냐, 그게 갈림길이야."
+ ],
+ "scene": "시합 전 심판에게 운동화를 건네며 편들어 달라고 함",
+ "examples": [
+  {
+   "en": "The coach said it was just a thank-you gift, but everyone called it bribery.",
+   "ko": "코치는 그냥 고마워서 준 선물이라고 했지만, 다들 그걸 뇌물이라고 불렀어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "운전면허 시험장에서 한 사람이 감독관에게 돈 봉투를 몰래 건네면서 '실수해도 합격으로 처리해 주세요'라고 했어. 이 사람이 한 일이 'bribery'야?",
+   "choices": [
+    "응, bribery 맞아",
+    "아니, bribery 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, bribery 맞아",
+   "why": "맞아! 감독관은 규칙대로 채점해야 하는 사람인데, 거기에 돈 봉투를 몰래 건네면서 실수해도 합격시켜 달라고 했잖아. 돈으로 감독관이 채점을 비뚤게 하게 만들려고 한 거니까 바로 그게 bribery야."
+  },
+  {
+   "type": "ox",
+   "question": "자격증 시험 점수가 이상하게 낮게 나와서, 한 사람이 시험 기관에 정해진 수수료를 내고 정식으로 재채점을 신청했어. 다시 채점해 보니 점수가 올라갔어. 이 사람이 한 일이 'bribery'야?",
+   "choices": [
+    "응, bribery 맞아",
+    "아니, bribery 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, bribery 아니야",
+   "why": "맞아! 이 사람은 채점하는 사람한테 몰래 돈을 찔러 준 게 아니야. 누구나 내는 정해진 수수료를 시험 기관에 내고 정식으로 재채점을 신청했어. 채점하는 사람도 점수를 올려 달라는 부탁을 받은 게 아니라 규칙대로 다시 채점했을 뿐이야. bribery는 규칙대로 해야 할 사람한테 뭔가를 건네서 규칙을 어기게 만드는 건데, 여기선 아무도 규칙을 어기지 않았으니까 bribery가 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "아빠가 수술을 받고 무사히 퇴원하는 날, 엄마가 담당 의사 선생님께 그동안 고마웠다며 과일 바구니를 건넸어. 이런 경우도 'bribery'야?",
+   "choices": [
+    "응, bribery 맞아",
+    "아니, bribery 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, bribery 아니야",
+   "why": "맞아! 수술은 이미 다 끝났고 퇴원하는 날 고마워서 과일 바구니를 건넨 거잖아. 그걸로 의사 선생님이 맡은 일을 비뚤게 하게 되는 건 없으니까 bribery가 아니야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-bribery",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-bribery"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/bribery.webp",
+  "alt": "시합 전 심판에게 운동화를 건네며 편들어 달라고 함",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

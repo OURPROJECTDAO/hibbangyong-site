@@ -1,0 +1,77 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/branch/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/branch/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "branch",
+ "slug": "branch",
+ "url": "https://hibbangyong.com/words/branch/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "나뭇가지 — 나무 줄기에서 뻗어 나와 잎이 달리는 가지",
+ "gloss_ko": "나뭇가지",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "나무 줄기에서 옆으로 쭉 뻗어 나온 굵은 가지가 branch예요. 그림 속 초록 잎이 달린 그 가지가 바로 branch랍니다.",
+  "공원 나무를 올려다보면 사방으로 뻗은 branch들을 볼 수 있어요. 새가 앉아 쉬는 곳도 바로 이 branch예요."
+ ],
+ "scene": "초록 잎이 달린 나무의 굵은 나뭇가지 하나(branch=나뭇가지)를 화면 중앙에 통째로 크게",
+ "examples": [
+  {
+   "en": "A little bird is sitting on a branch of the tree.",
+   "ko": "작은 새가 나뭇가지에 앉아 있어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "다람쥐가 나무 줄기에서 옆으로 길게 뻗어 나온, 잎이 달린 부분 위를 달려가고 있어. 이걸 'branch'라고 해?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 맞아",
+   "why": null
+  },
+  {
+   "type": "choice",
+   "question": "branch는 어느 것일까?",
+   "choices": [
+    "물이 담긴 둥근 유리컵",
+    "하늘에 뜬 하얀 구름",
+    "잎이 달린 갈색 나뭇가지",
+    "바퀴가 달린 노란 버스"
+   ],
+   "answer_index": 2,
+   "answer": "잎이 달린 갈색 나뭇가지",
+   "why": null
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "botany",
+  "nest",
+  "perch",
+  "snap"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-branch",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-branch"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/branch.webp",
+  "alt": "초록 잎이 달린 나무의 굵은 나뭇가지 하나(branch=나뭇가지)를 화면 중앙에 통째로 크게",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

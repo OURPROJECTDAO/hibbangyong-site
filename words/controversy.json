@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/controversy/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/controversy/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "controversy",
+ "slug": "controversy",
+ "url": "https://hibbangyong.com/words/controversy/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "논란 — 한 가지 일을 두고 많은 사람들이 생각이 갈려서 오랫동안 서로 맞다, 틀리다 하는 것",
+ "gloss_ko": "생각이 갈려 다투는 논란",
+ "level": {
+  "code": "L6",
+  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "학교에 '쉬는 시간엔 휴대폰 안 돼!' 규칙이 새로 생겼어.",
+  "좋다는 엄마, 싫다는 아이, 선생님들도 반반. 몇 주째 시끌시끌해.",
+  "둘이 한 번 투닥한 거랑은 달라. 여럿이, 오래, 한 가지 일로 편이 갈리는 거거든?",
+  "그게 controversy야."
+ ],
+ "scene": "쉬는 시간 휴대폰 금지 규칙을 두고 학교 사람들이 몇 주째 찬반으로 갈림",
+ "examples": [
+  {
+   "en": "The new phone rule caused a big controversy at our school.",
+   "ko": "새 휴대폰 규칙 때문에 우리 학교에서 큰 논란이 벌어졌어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "마을 도서관을 밤늦게까지 열지를 두고, 주민들이 두 편으로 나뉘어 몇 달째 서로 맞다, 틀리다 했어. 이게 'controversy'야?",
+   "choices": [
+    "응, controversy 맞아",
+    "아니, controversy 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, controversy 맞아",
+   "why": "맞아! 도서관을 밤늦게까지 열지 한 가지 일로, 주민들이 두 편으로 나뉘어서 몇 달째 맞다, 틀리다 했잖아. 여러 사람이 오래 편이 갈린 거라서 바로 그게 controversy인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "학교 급식에 과일을 하나 더 주자는 말에, 학생도 선생님도 부모님도 모두 같은 생각이라 그날 바로 정해졌어. 이게 'controversy'야?",
+   "choices": [
+    "응, controversy 맞아",
+    "아니, controversy 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, controversy 아니야",
+   "why": "맞아! 급식에 과일을 하나 더 주자는 말에 학생도 선생님도 부모님도 모두 같은 생각이었고, 그날 바로 정해졌잖아. 생각이 갈리지도 않았고 오래 다투지도 않았으니까, 이건 controversy가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "동네에서 여러 일이 있었어. 이 중에서 'controversy'라고 부를 수 있는 건 어느 거야?",
+   "choices": [
+    "민수랑 동생이 리모컨 때문에 저녁 내내 소리치며 다퉜어.",
+    "새 놀이터 이야기로 동네 사람들이 몇 달째 신나게 떠들었어.",
+    "새 놀이터를 지을지를 두고 동네 사람들이 몇 달째 찬반으로 갈렸어.",
+    "새 놀이터를 짓자는 말에 동네 사람들이 몇 달 내내 모두 찬성했어."
+   ],
+   "answer_index": 2,
+   "answer": "새 놀이터를 지을지를 두고 동네 사람들이 몇 달째 찬반으로 갈렸어.",
+   "why": "맞아! 새 놀이터를 지을지를 두고 동네 사람들이 여럿이, 몇 달이나, 찬성과 반대로 생각이 갈렸잖아. 바로 그게 controversy인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "contested"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-controversy",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-controversy"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/controversy.webp",
+  "alt": "쉬는 시간 휴대폰 금지 규칙을 두고 학교 사람들이 몇 주째 찬반으로 갈림",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

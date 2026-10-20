@@ -1,0 +1,97 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/blink/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/blink/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "blink",
+ "slug": "blink",
+ "url": "https://hibbangyong.com/words/blink/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "깜빡이다 — 눈을 감았다가 곧바로 다시 뜨거나, 불빛이 잠깐 꺼졌다 다시 켜지는 것",
+ "gloss_ko": "깜빡이다",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "눈을 딱 감았다가 곧바로 다시 떴어. 얼마나 빠르냐면 감은 줄도 모를 만큼.",
+  "그 짧은 껌뻑, 그게 다야. 눈 꼭 감고 한참 있는 건 이거 아니야.",
+  "불빛도 똑같아. 잠깐 툭 꺼졌다가 바로 다시 켜져. 깜빡, 깜빡.",
+  "잠깐 사라졌다가 바로 돌아오는 거. 이게 blink야."
+ ],
+ "scene": "눈을 감았다가 곧바로 다시 뜨는 짧은 순간",
+ "examples": [
+  {
+   "en": "I blinked when the wind blew dust into my eyes.",
+   "ko": "바람이 눈에 먼지를 날려서 눈을 깜빡였어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "교실에서 있었던 일이야. 다음 중 내가 'blink' 한 건 어느 거야?",
+   "choices": [
+    "눈을 꼭 감고 열까지 천천히 셌어",
+    "눈을 딱 감았다가 곧바로 떴어",
+    "눈을 크게 뜨고 칠판을 쳐다봤어",
+    "고개를 창문 쪽으로 돌렸어"
+   ],
+   "answer_index": 1,
+   "answer": "눈을 딱 감았다가 곧바로 떴어",
+   "why": "맞아! 눈을 딱 감았다가 곧바로 떴잖아. 그렇게 아주 잠깐 감았다가 바로 뜨는 게 바로 blink인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "놀이터에서 친구 얼굴을 봤어. 다음 중 친구가 'blink' 한 건 어느 거야?",
+   "choices": [
+    "친구가 입을 크게 벌리고 하품했어",
+    "친구가 눈을 감고 벤치에서 한참 낮잠을 잤어",
+    "친구가 두 눈을 깜빡 감았다가 곧바로 떴어",
+    "친구가 입을 꾹 다물고 볼을 부풀렸어"
+   ],
+   "answer_index": 2,
+   "answer": "친구가 두 눈을 깜빡 감았다가 곧바로 떴어",
+   "why": "맞아! 친구가 두 눈을 깜빡 감았다가 곧바로 떴잖아. 눈을 잠깐 감았다가 바로 다시 뜨는 거, 그게 바로 blink인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "밤에 길을 걷다가 가게 간판 불빛을 봤어. 이 중에서 간판 불이 'blink' 한 건 어느 거야?",
+   "choices": [
+    "간판 불이 꺼졌다가 한참 뒤에야 다시 켜졌어",
+    "간판 불이 조금씩 어두워졌다가 서서히 밝아졌어",
+    "간판 불이 툭 꺼졌다 싶은 순간 벌써 도로 켜졌어",
+    "간판 불이 한번 꺼진 뒤로 아침까지 그대로였어"
+   ],
+   "answer_index": 2,
+   "answer": "간판 불이 툭 꺼졌다 싶은 순간 벌써 도로 켜졌어",
+   "why": "맞아! 툭 꺼졌다 싶었는데 벌써 다시 켜졌잖아. 그 짧은 껌뻑, 잠깐 사라졌다가 바로 돌아오는 그게 바로 blink야."
+  }
+ ],
+ "synonyms": [
+  "flash"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "flash",
+   "kind": "confusable",
+   "from": "vs flash"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-blink",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-blink"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/blink.webp",
+  "alt": "눈을 감았다가 곧바로 다시 뜨는 짧은 순간",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

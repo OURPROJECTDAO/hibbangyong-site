@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/demolition/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/demolition/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "demolition",
+ "slug": "demolition",
+ "url": "https://hibbangyong.com/words/demolition/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "철거 — 건물이나 다리 같은 것을 사람이 일부러 완전히 부숴 없애는 일",
+ "gloss_ko": "철거",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "동네 낡은 아파트에 가림막이 쳐지고, 기계가 와서 벽을 통째로 허무는 거 본 적 있지?",
+  "사람이 계획을 세우고 일부러 건물이나 다리 같은 걸 싹 부숴 없애는 일, 그게 demolition이야.",
+  "지진 때문에 저절로 무너진 건 이게 아니고, 낡은 곳만 고치는 수리도 아니야.",
+  "그리고 '싹 부숴 버린다'는 느낌을 빗대서, 경기에서 상대 팀을 크게 이겼을 때도 이 말을 써."
+ ],
+ "scene": "가림막 친 낡은 아파트를 기계로 통째로 허무는 장면",
+ "examples": [
+  {
+   "en": "The demolition of the old bridge will start next month, so we have to take another road.",
+   "ko": "옛날 다리 철거가 다음 달에 시작돼서 우리는 다른 길로 가야 해."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "바닷가 바위 위에 등대가 하나도 없었어. 그래서 사람들이 몇 달 동안 벽돌과 철근을 날라 와 새 등대를 한 층씩 세워 올렸어. 이 일이 'demolition'이야?",
+   "choices": [
+    "응, demolition 맞아",
+    "아니, demolition 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, demolition 아니야",
+   "why": "맞아! 바위 위에 없던 등대를 벽돌과 철근으로 한 층씩 새로 세워 올린 거잖아. 있던 걸 일부러 부숴 없애는 게 demolition이니까, 새로 짓는 이 일은 정반대라서 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "우리 동네에 문 닫은 옛 공장 굴뚝이 있었어. 시에서 날짜를 미리 정하고, 그날 사람들이 폭약을 설치해 굴뚝 전체를 한 번에 무너뜨려 없앴어. 이 일이 'demolition'이야?",
+   "choices": [
+    "응, demolition 맞아",
+    "아니, demolition 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, demolition 맞아",
+   "why": "맞아! 시에서 날짜를 미리 정하고 사람들이 폭약을 설치해서 굴뚝 전체를 일부러 없앴잖아. 계획을 세워서 통째로 부숴 없앤 거니까 딱 demolition이야."
+  },
+  {
+   "type": "choice",
+   "question": "동네 체육관에 일어난 일 네 가지야. 이 중 'demolition'이라고 부를 수 있는 건?",
+   "choices": [
+    "새로 짓기로 하고 사람들이 기계로 체육관을 통째로 허물었어",
+    "큰 지진이 나서 오래된 체육관이 한순간에 무너져 내렸어",
+    "낡은 체육관 바닥과 벽을 뜯어서 새것처럼 고쳐 놓았어",
+    "아무것도 없던 빈 땅에 체육관을 처음부터 쌓아 올렸어"
+   ],
+   "answer_index": 0,
+   "answer": "새로 짓기로 하고 사람들이 기계로 체육관을 통째로 허물었어",
+   "why": "맞아! 새로 짓겠다고 사람들이 계획하고 기계로 체육관을 통째로 허물었잖아. 일부러, 싹 다 부숴 없앤 거라서 바로 그게 demolition인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "destroy"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-demolition",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-demolition"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/demolition.webp",
+  "alt": "가림막 친 낡은 아파트를 기계로 통째로 허무는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

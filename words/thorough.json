@@ -1,0 +1,103 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/thorough/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/thorough/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "thorough",
+ "slug": "thorough",
+ "url": "https://hibbangyong.com/words/thorough/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "빠짐없이 하나하나 다 살피는, 아주 꼼꼼한",
+ "gloss_ko": "빠짐없이 꼼꼼한",
+ "level": {
+  "code": "L6",
+  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "장난감을 잃어버렸어. 눈에 보이는 데만 슥 보고 마는 게 아니야.",
+  "침대 밑도, 서랍 하나하나도, 주머니 속까지 다 뒤졌어.",
+  "한 군데도 안 빼놓고 싹 다 살폈지.",
+  "이렇게 하나도 안 빼놓고 전부 다 하는 게 thorough야."
+ ],
+ "scene": "잃어버린 장난감을 침대 밑·서랍·주머니까지 다 뒤지는 장면",
+ "examples": [
+  {
+   "en": "I did a thorough search of my whole room and finally found my lost toy.",
+   "ko": "방을 한 군데도 안 빼놓고 싹 다 뒤져서, 드디어 잃어버린 장난감을 찾았어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "누나가 방을 'thorough'하게 치웠대. 아래 중 누나가 한 거랑 가장 가까운 건?",
+   "choices": [
+    "침대 밑도, 서랍 속도, 구석까지 하나도 안 빼놓고 다 치웠다",
+    "눈에 잘 보이는 큰 장난감 몇 개만 얼른 주워 담고 나갔다",
+    "유리컵이 깨질까 봐 살살 조심하며 몇 개만 옮겼다",
+    "노래 한 곡 나오는 동안 후다닥 대충 밀어 치웠다"
+   ],
+   "answer_index": 0,
+   "answer": "침대 밑도, 서랍 속도, 구석까지 하나도 안 빼놓고 다 치웠다",
+   "why": "맞아! 침대 밑도 서랍 속도 구석까지 한 군데도 안 빼놓고 다 살폈으니까, 바로 그렇게 하나도 안 빼놓고 전부 다 하는 게 thorough인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "동생이 장난감 상자를 우당탕 거칠게 뒤집으며, 조심성이라곤 하나도 없이 모든 칸을 다 뒤져서 잃어버린 구슬을 찾았대. 이렇게 거칠게 한 것도 'thorough'하게 뒤진 거라고 할 수 있어?",
+   "choices": [
+    "응, thorough 맞아",
+    "아니, thorough 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, thorough 맞아",
+   "why": "맞아! 거칠게 했든 곱게 했든, 한 칸도 안 빼놓고 모든 칸을 다 뒤졌잖아. 하나도 안 빼놓고 싹 다 살핀 거니까 바로 그게 thorough인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "지우가 열쇠를 찾으려고 서랍을 첫 칸부터 마지막 칸까지 하나도 건너뛰지 않고 살펴봤는데, 열쇠는 원래 거기 없어서 결국 못 찾았대. 지우가 찾은 방식을 'thorough'하다고 할 수 있어?",
+   "choices": [
+    "응, thorough 맞아",
+    "아니, thorough 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, thorough 맞아",
+   "why": "맞아! 지우가 첫 칸부터 마지막 칸까지 한 칸도 안 건너뛰고 싹 다 뒤져봤잖아. 열쇠가 나왔든 안 나왔든, 이렇게 하나도 안 빼놓고 다 살핀 게 바로 thorough인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "careful",
+   "kind": "confusable",
+   "from": "vs careful"
+  },
+  {
+   "word": "complete",
+   "kind": "confusable",
+   "from": "vs complete"
+  },
+  {
+   "word": "detailed",
+   "kind": "confusable",
+   "from": "vs detailed"
+  }
+ ],
+ "related_scene": [
+  "examine"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-thorough",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-thorough"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/thorough.webp",
+  "alt": "잃어버린 장난감을 침대 밑·서랍·주머니까지 다 뒤지는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

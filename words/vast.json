@@ -1,0 +1,96 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/vast/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/vast/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "vast",
+ "slug": "vast",
+ "url": "https://hibbangyong.com/words/vast/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "어마어마하게 크거나 많은 — 끝이 어딘지 가늠도 안 될 만큼",
+ "gloss_ko": "어마어마하게 크거나 많은",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "바닷가에 서서 저 멀리 봐봐. 물이 어디서 끝나는지가 안 보이지?",
+  "그냥 큰 게 아니야. 세보다가 포기하게 되는, 가늠이 안 되는 크기거든.",
+  "넓이만 그런 게 아니야. 밤하늘 별 개수도, 할머니가 아는 옛날 이야기 수도 이렇게 말해.",
+  "그냥 '크다'랑은 달라. 큰 건 끝이 보이잖아. 끝이 안 보이는 것, 그게 vast야."
+ ],
+ "scene": "바닷가에 서서 끝이 안 보이는 물을 바라보는 장면",
+ "examples": [
+  {
+   "en": "My grandma has a vast collection of old coins.",
+   "ko": "우리 할머니는 옛날 동전을 어마어마하게 많이 모아 뒀어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "책상 위 접시에 포도알이 세 알 놓여 있어. 눈으로 딱 보자마자 몇 개인지 바로 세어져. 이 포도알은 'vast'야?",
+   "choices": [
+    "응, vast 맞아",
+    "아니, vast 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, vast 아니야",
+   "why": "맞아! 딱 보자마자 세 알이라고 세어지잖아. 세다가 포기하게 되는 게 아니니까 vast가 아닌 거야. vast는 끝이 어딘지 가늠도 안 될 때 쓰거든."
+  },
+  {
+   "type": "choice",
+   "question": "동네 아이 넷이 각자 오늘 본 걸 하나씩 말했어. 이 중 'vast'라고 부를 만한 건 누구 이야기일까?",
+   "choices": [
+    "비행기 창밖으로 구름 아래를 봤는데, 아무리 봐도 숲이 어디까지 이어지는지 안 보여",
+    "우체통을 열었더니 편지 세 통이 나란히 들어 있었어",
+    "자전거 바퀴에 바람을 넣었더니 팽팽해졌어",
+    "시계 초침이 한 바퀴를 다 돌아서 제자리로 왔어"
+   ],
+   "answer_index": 0,
+   "answer": "비행기 창밖으로 구름 아래를 봤는데, 아무리 봐도 숲이 어디까지 이어지는지 안 보여",
+   "why": "맞아! 아무리 봐도 숲이 어디서 끝나는지 안 보였잖아. 끝이 어딘지 가늠도 안 되는 것, 바로 그게 vast인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "친구 넷이 각자 본 걸 하나씩 말했어. 이 중에서 'vast'라고 부르기에 가장 알맞은 건 누구 이야기일까?",
+   "choices": [
+    "사막에 들어서서 몇 시간을 달렸는데 아직도 사방이 모래뿐이야",
+    "코끼리 한 마리가 우리 집 대문보다도 덩치가 더 커",
+    "학교 운동장은 끝에서 끝까지 백 걸음쯤 걸으면 다 가",
+    "주머니를 뒤졌더니 사탕 두 개가 들어 있었어"
+   ],
+   "answer_index": 0,
+   "answer": "사막에 들어서서 몇 시간을 달렸는데 아직도 사방이 모래뿐이야",
+   "why": "맞아! 몇 시간을 달렸는데도 아직 모래가 안 끝난 거잖아. 어디가 끝인지 가늠도 안 되는 그 느낌, 그게 바로 vast인 거야."
+  }
+ ],
+ "synonyms": [
+  "huge",
+  "immense"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "wide",
+   "kind": "confusable",
+   "from": "vs wide"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-vast",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-vast"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/vast.webp",
+  "alt": "바닷가에 서서 끝이 안 보이는 물을 바라보는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

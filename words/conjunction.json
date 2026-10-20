@@ -1,0 +1,83 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/conjunction/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/conjunction/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "conjunction",
+ "slug": "conjunction",
+ "url": "https://hibbangyong.com/words/conjunction/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "함께 짝지어 움직임(연계) — 둘 이상이 짝을 지어 함께 움직이거나 함께 쓰이는 것 (in conjunction with: ~와 함께 / 문법에선 and·but 같은 '접속사')",
+ "gloss_ko": "함께 맞물림",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "학교 축제를 올해는 구청이랑 같이 열었어. 따로 하던 두 행사를 나란히 붙여서 한 번에 돌린 거지.",
+  "conjunction은 이렇게 둘 이상이 각자 모습은 그대로인 채 같이 맞물려 돌아가는 거야.",
+  "꼭 좋은 일일 필요는 없어. 비랑 강풍이 겹쳐서 피해가 커진 것도 이 말로 써.",
+  "하나로 섞여서 새것이 되는 거랑은 달라. 문법의 접속사(and, but)도 이 말인데, 두 말을 이어서 나란히 가게 하니까 그래."
+ ],
+ "scene": "학교 축제를 구청과 함께 연 것",
+ "examples": [
+  {
+   "en": "Our school festival was held in conjunction with the city library this year.",
+   "ko": "올해 우리 학교 축제는 시립 도서관이랑 같이 열렸어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "과학 발표 시간에 민재는 PPT 화면을 띄워 설명하면서, 직접 만든 화산 모형도 같이 보여줬어. 화면과 모형은 그대로 따로 있고, 발표 내내 둘을 나란히 함께 썼지. 화면과 모형이 이렇게 쓰인 걸 'conjunction'이라고 할 수 있을까?",
+   "choices": [
+    "응, conjunction 맞아",
+    "아니, conjunction 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, conjunction 맞아",
+   "why": "맞아! 민재는 PPT 화면이랑 화산 모형을 하나로 합치지 않고 각자 그대로 둔 채, 발표 내내 나란히 같이 썼잖아. 따로인 둘이 함께 맞물려 돌아간 거니까 바로 conjunction이야."
+  },
+  {
+   "type": "ox",
+   "question": "우리 동네를 지나던 마을버스 노선이 올해 없어졌어. 그 대신 같은 길로 새 지하철이 다니기 시작했지. 이제 버스는 안 다니고 지하철만 다녀. 버스와 지하철의 이런 관계를 'conjunction'이라고 할 수 있을까?",
+   "choices": [
+    "응, conjunction 맞아",
+    "아니, conjunction 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, conjunction 아니야",
+   "why": "맞아! 버스가 없어지고 그 자리에 지하철이 들어온 거라서, 둘이 같이 다니는 게 아니거든. 버스 대신 지하철이 다니게 된 거니까 conjunction이라고 할 수 없어."
+  },
+  {
+   "type": "ox",
+   "question": "미술 시간에 파란 물감과 노란 물감을 한 통에 부어 저은 뒤, 초록색 물감 한 통으로 만들었어. 이 두 물감을 두고 'conjunction'이라고 할 수 있어?",
+   "choices": [
+    "응, conjunction 맞아",
+    "아니, conjunction 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, conjunction 아니야",
+   "why": "맞아! 파란 물감이랑 노란 물감은 한 통에서 저어지는 순간 제 색을 잃고 초록색 물감 하나가 돼 버렸잖아. conjunction은 둘이 각자 모습을 그대로 가진 채 나란히 같이 가는 거라서, 이렇게 섞여 하나가 된 건 아니야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-conjunction",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-conjunction"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/conjunction.webp",
+  "alt": "학교 축제를 구청과 함께 연 것",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

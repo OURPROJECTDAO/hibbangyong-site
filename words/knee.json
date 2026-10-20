@@ -1,0 +1,90 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/knee/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/knee/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "knee",
+ "slug": "knee",
+ "url": "https://hibbangyong.com/words/knee/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "무릎 — 다리 한가운데서 접혔다 펴졌다 하는 자리",
+ "gloss_ko": "무릎",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "다리를 쭉 펴봐. 곧은 막대 같지?",
+  "이제 앉아봐. 다리 한가운데가 딱 접히지? 거기야.",
+  "여기가 있어서 앉고, 뛰고, 계단도 오르는 거거든? 없으면 다리가 통나무처럼 뻣뻣해서 앉지도 못해.",
+  "넘어져서 딱지 앉는 데도 여기, 축구공 튕겨 올릴 때 쓰는 데도 여기야. 그게 knee야."
+ ],
+ "scene": "다리를 폈다가 앉을 때 한가운데가 접히는 순간",
+ "examples": [
+  {
+   "en": "I bumped my knee on the table and it hurt a lot.",
+   "ko": "탁자에 무릎을 부딪혔는데 엄청 아팠어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "자전거를 타다가 페달을 밟을 때, 다리 한가운데가 계속 접혔다 펴졌다 해. 그 접히는 자리가 'knee'야?",
+   "choices": [
+    "응, knee 맞아",
+    "아니, knee 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, knee 맞아",
+   "why": "맞아! 페달 밟을 때 다리 한가운데가 접혔다 펴졌다 하잖아? 앉을 때 접히는 그 자리랑 똑같은 데야. 딱 거기가 knee거든."
+  },
+  {
+   "type": "ox",
+   "question": "엄마가 \"발끝부터 허벅지까지 다리 전체에 로션 발라줄게\" 했어. 그 다리 전체가 'knee'야?",
+   "choices": [
+    "응, knee 맞아",
+    "아니, knee 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, knee 아니야",
+   "why": "맞아! 발끝부터 허벅지까지면 다리를 통째로 말한 거잖아. knee는 다리 한가운데 접히는 그 자리 하나거든? 그러니까 다리 전체는 knee가 아닌 게 맞아."
+  },
+  {
+   "type": "choice",
+   "question": "친구 넷이 각자 어디를 다쳤는지 말했어. 'knee'를 다친 사람은 누구일까?",
+   "choices": [
+    "계단에서 넘어져서, 다리 한가운데 접히는 자리가 까졌어",
+    "신발이 작아서, 발 바로 위 접히는 자리가 쓸렸어",
+    "무거운 가방을 메서, 팔이 접히는 자리가 눌렸어",
+    "오래 서 있어서, 무릎 위 두꺼운 살 부분이 뻐근했어"
+   ],
+   "answer_index": 0,
+   "answer": "계단에서 넘어져서, 다리 한가운데 접히는 자리가 까졌어",
+   "why": "맞아! 다리 한가운데가 딱 접히는 자리, 앉을 때 접히고 설 때 펴지는 바로 거기가 knee거든. 계단에서 넘어지면 제일 먼저 부딪히는 데도 여기지."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "joint",
+  "lap",
+  "shoulder",
+  "toe"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-knee",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-knee"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/knee.webp",
+  "alt": "다리를 폈다가 앉을 때 한가운데가 접히는 순간",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/orchestra/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/orchestra/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "orchestra",
+ "slug": "orchestra",
+ "url": "https://hibbangyong.com/words/orchestra/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "오케스트라 — 여러 가지 악기를 다루는 사람들이 잔뜩 모여 함께 연주하는 큰 음악 모임",
+ "gloss_ko": "오케스트라",
+ "level": {
+  "code": "L4",
+  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "무대 위를 봐봐. 바이올린, 첼로, 트럼펫, 큰 북... 악기가 와글와글 엄청 많아!",
+  "한 명이 부는 게 아니야. 수십 명이 한꺼번에 연주해.",
+  "앞에 선 사람이 손을 딱 들면, 다 같이 소리를 내거든?",
+  "여러 악기가 모여 하나의 큰 음악을 만드는 모임, 이게 orchestra야."
+ ],
+ "scene": "무대 위 수십 명이 온갖 악기를 한꺼번에 연주하는 큰 음악 모임",
+ "examples": [
+  {
+   "en": "The big orchestra played music with violins, drums, and flutes.",
+   "ko": "큰 오케스트라가 바이올린, 드럼, 플루트로 음악을 연주했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "네 곳에서 음악 소리가 났어. 이 중에서 'orchestra'라고 부를 수 있는 곳은 어디일까?",
+   "choices": [
+    "수십 명이 바이올린, 트럼펫, 북을 들고 무대에서 다 함께 연주해.",
+    "한 사람이 기타 하나를 들고 무대에서 혼자 연주해.",
+    "세 명이 기타와 드럼으로 작은 밴드를 만들어 연주해.",
+    "여러 명이 악기 없이 목소리로만 다 함께 노래해."
+   ],
+   "answer_index": 0,
+   "answer": "수십 명이 바이올린, 트럼펫, 북을 들고 무대에서 다 함께 연주해.",
+   "why": "맞아! 수십 명이 바이올린이랑 트럼펫, 북 같은 여러 악기를 들고 다 함께 연주하잖아. 사람도 많고 악기 종류도 잔뜩이라서, 바로 그게 orchestra인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "concerto",
+  "fiddle",
+  "maestro"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-orchestra",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-orchestra"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/orchestra.webp",
+  "alt": "무대 위 수십 명이 온갖 악기를 한꺼번에 연주하는 큰 음악 모임",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

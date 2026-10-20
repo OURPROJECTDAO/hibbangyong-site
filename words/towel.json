@@ -1,0 +1,74 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/towel/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/towel/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "towel",
+ "slug": "towel",
+ "url": "https://hibbangyong.com/words/towel/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "수건 — 젖은 몸이나 물기를 닦아 말리는 천",
+ "gloss_ko": "수건",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "그림 속 폭신하게 접혀 있는 이 천이 towel이에요.",
+  "목욕이나 세수를 한 뒤에 이 천으로 몸과 손의 물기를 닦아요."
+ ],
+ "scene": "폭신하게 잘 접혀 반듯이 쌓인 부드러운 목욕 수건 한 장(수건 자체 의미) — 화면 중앙에 크게",
+ "examples": [
+  {
+   "en": "After my bath, I dried myself with a soft towel.",
+   "ko": "목욕하고 나서 보드라운 수건으로 몸을 닦았어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "언니가 비 오는 날 머리 위로 활짝 펴서 떨어지는 빗방울을 막았어요. 이게 towel이야?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 아니야",
+   "why": null
+  },
+  {
+   "type": "choice",
+   "question": "towel은 어느 것일까?",
+   "choices": [
+    "나뭇가지에 앉아 아침마다 지저귀는 작은 동물",
+    "몸을 씻은 뒤 물기를 닦는 데 쓰는 부드러운 천",
+    "껍질을 벗겨서 달콤하게 먹는 길쭉한 과일",
+    "많은 사람을 태우고 큰길을 달리는 커다란 탈것"
+   ],
+   "answer_index": 1,
+   "answer": "몸을 씻은 뒤 물기를 닦는 데 쓰는 부드러운 천",
+   "why": null
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "absorb"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-towel",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-towel"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/towel.webp",
+  "alt": "폭신하게 잘 접혀 반듯이 쌓인 부드러운 목욕 수건 한 장(수건 자체 의미) — 화면 중앙에 크게",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

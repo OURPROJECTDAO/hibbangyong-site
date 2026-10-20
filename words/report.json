@@ -1,0 +1,91 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/report/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/report/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "report",
+ "slug": "report",
+ "url": "https://hibbangyong.com/words/report/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "알아본 걸 정리해서 남한테 알려주는 것 — 말이든 글이든(날씨 알림, 성적표 같은 거)",
+ "gloss_ko": "알아내어 알림",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "친구한테 '밖에 날씨 어때?' 하고 물어봤어.",
+  "걔가 밖에 나가서 하늘이며 바람이며 쭉 살펴보고 왔지.",
+  "그러고 돌아와서 '구름 잔뜩! 곧 비 올 것 같아' 하고 알아본 걸 딱 정리해서 알려줬어.",
+  "그냥 지어낸 이야기도 아니고, 물어보는 것도 아니야. 알아본 걸 모아서 알려주는 것, 그게 report야."
+ ],
+ "scene": "친구가 밖 날씨를 살펴보고 와서 알려주는 장면",
+ "examples": [
+  {
+   "en": "My friend gave us a report about the weather outside.",
+   "ko": "친구가 밖에 날씨가 어떤지 우리한테 알려 줬어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "형이 냉장고를 열어 본 다음, 아빠한테 \"우유는 반 통 남았고, 달걀은 두 개 있어\"라고 말했어. 이게 'report'야?",
+   "choices": [
+    "응, report 맞아",
+    "아니, report 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, report 맞아",
+   "why": "맞아! 형이 냉장고를 직접 열어서 뭐가 얼마나 있나 살펴봤잖아. 그러고 나서 알아본 걸 아빠한테 그대로 알려줬으니까, 바로 그게 report인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "삼촌이 캠핑장 모닥불 앞에서 \"숲속에 눈이 열 개 달린 곰이 살았대…\" 하며 말을 이어갔어. 이게 'report'야?",
+   "choices": [
+    "응, report 맞아",
+    "아니, report 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, report 아니야",
+   "why": "맞아! 눈이 열 개 달린 곰은 어디에도 없잖아. 삼촌이 밖에 나가서 그런 곰을 보고 온 게 아니라 머리로 지어낸 이야기를 들려주는 거거든. 그러니까 report가 아니야."
+  },
+  {
+   "type": "choice",
+   "question": "네 친구가 각자 한 일을 말했어. 이 중에서 한 일을 'report'라고 부를 수 있는 사람은 누구일까?",
+   "choices": [
+    "지호는 도서관에 책이 몇 권 있는지 세어 보고, 그 수를 정리해서 선생님께 알려줬어.",
+    "민수는 머릿속으로 재밌는 이야기를 지어내서 친구들에게 신나게 들려줬어.",
+    "수아는 친구한테 숙제를 다 했는지 궁금해서 물어봤어.",
+    "준이는 자기가 제일 좋아하는 색이 무엇인지 골라서 말했어."
+   ],
+   "answer_index": 0,
+   "answer": "지호는 도서관에 책이 몇 권 있는지 세어 보고, 그 수를 정리해서 선생님께 알려줬어.",
+   "why": "맞아! 지호는 책이 몇 권인지 직접 세어 보고, 그걸 정리해서 선생님께 알려줬잖아. 알아본 걸 모아서 남한테 전해주는 것, 그게 바로 report인 거야."
+  }
+ ],
+ "synonyms": [
+  "account"
+ ],
+ "antonyms": [
+  "story"
+ ],
+ "confusable": [],
+ "related_scene": [
+  "draft"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-report",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-report"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/report.webp",
+  "alt": "친구가 밖 날씨를 살펴보고 와서 알려주는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

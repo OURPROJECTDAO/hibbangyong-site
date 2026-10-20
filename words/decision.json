@@ -1,0 +1,91 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/decision/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/decision/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "decision",
+ "slug": "decision",
+ "url": "https://hibbangyong.com/words/decision/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "결정 — 여러 가지 중에서 하나로 딱 정한 것",
+ "gloss_ko": "딱 정한 것",
+ "level": {
+  "code": "L3",
+  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "짜장면? 짬뽕? 한참 고민하다가 \"짬뽕!\" 하고 딱 정했어.",
+  "고민하고 있을 때는 아직 아니야. 딱 정하는 그 순간에 생기는 거거든?",
+  "나 혼자 정해도, 심판이 \"아웃!\" 하고 정해도, 정하고 나서 후회해도, 다 똑같이 불러.",
+  "이게 decision이야."
+ ],
+ "scene": "짜장면이냐 짬뽕이냐 고민하다 짬뽕으로 정하기",
+ "examples": [
+  {
+   "en": "It was a bad decision to eat all the candy before dinner.",
+   "ko": "저녁 먹기 전에 사탕을 다 먹어 버린 건 잘못된 결정이었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "운동화 가게에서 파란색이랑 빨간색 중에 한참 고민하다가, 결국 \"파란색으로 할래!\" 하고 골랐어. 이렇게 파란색으로 고른 것, 이게 'decision'이야?",
+   "choices": [
+    "응, decision 맞아",
+    "아니, decision 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, decision 맞아",
+   "why": "맞아! 운동화 가게에서 파란색이랑 빨간색 중에 한참 고민하다가 결국 파란색으로 딱 골랐잖아. 이렇게 여러 개 중에서 하나로 딱 정한 게 바로 decision인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "수민이는 생일 선물로 자전거를 받을지 게임기를 받을지 사흘째 고민하고 있어. 오늘도 둘 다 좋아 보여서 아직 못 골랐어. 이런 경우도 'decision'이야?",
+   "choices": [
+    "응, decision 맞아",
+    "아니, decision 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, decision 아니야",
+   "why": "잘 골랐어! 수민이는 자전거랑 게임기 중에서 아직 하나도 못 골랐거든. 사흘째 고민만 하고 있는 거라서, 수민이가 하나를 딱 고르는 순간이 와야 decision이 되는 거야."
+  },
+  {
+   "type": "ox",
+   "question": "도서관에서 동화책 두 권 중에 뭘 빌릴지 한참 고민했어. 그런데 문 닫을 시간이 돼서 아무것도 고르지 못하고 그냥 나왔어. 이렇게 끝난 것, 이게 'decision'이야?",
+   "choices": [
+    "응, decision 맞아",
+    "아니, decision 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, decision 아니야",
+   "why": "맞아! 동화책 두 권 중에 끝까지 하나도 못 고르고 그냥 나왔잖아. 딱 정한 게 없으니까 decision이 아닌 거야."
+  }
+ ],
+ "synonyms": [
+  "conclusion"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "choice",
+   "kind": "confusable",
+   "from": "vs choice"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-decision",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-decision"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/decision.webp",
+  "alt": "짜장면이냐 짬뽕이냐 고민하다 짬뽕으로 정하기",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

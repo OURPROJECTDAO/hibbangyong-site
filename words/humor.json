@@ -1,0 +1,91 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/humor/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/humor/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "humor",
+ "slug": "humor",
+ "url": "https://hibbangyong.com/words/humor/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "웃김 — 말이나 일 속에 있는 웃긴 데, 또 그걸 알아보고 남까지 웃게 만드는 힘",
+ "gloss_ko": "웃김",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "우유를 쏟아서 바닥이 엉망이야. 다들 아이고, 하는데 누나가 그러네. 바닥이 목욕했나 봐!",
+  "빵 터졌지? 하나도 안 웃긴 일인데 그 안에서 웃긴 데를 딱 찾아낸 거야.",
+  "그냥 깔깔 웃는 거랑은 달라. 짓궂게 놀래 주는 장난이랑도 달라. 웃긴 데를 알아보고 끌어내는 힘이거든.",
+  "그게 humor야."
+ ],
+ "scene": "우유를 쏟아 엉망이 된 바닥에서 누나가 웃긴 말을 던져 다 같이 웃는 장면",
+ "examples": [
+  {
+   "en": "Milk was all over the floor, but my sister still found the humor in it.",
+   "ko": "우유가 바닥에 다 쏟아졌는데도 언니는 그 안에서 웃긴 데를 찾아냈어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "가족 사진을 찍는데 아빠가 눈을 감아 버렸어. 형이 그걸 보고 \"아빠는 사진 속에서 낮잠 자네\" 하니까 다들 웃음이 터졌어. 이게 'humor'야?",
+   "choices": [
+    "응, humor 맞아.",
+    "아니, humor 아니야."
+   ],
+   "answer_index": 0,
+   "answer": "응, humor 맞아.",
+   "why": "맞아! 눈 감아서 아쉬운 사진인데, 형이 그 안에서 낮잠 자는 것 같은 웃긴 데를 딱 찾아내서 다들 웃게 만들었잖아. 그게 바로 humor야."
+  },
+  {
+   "type": "ox",
+   "question": "급식 줄에서 형이 \"오늘 반찬은 김치, 계란, 국이야\" 하고 딱딱한 목소리로 말하고는 그대로 서 있었어. 이게 'humor'야?",
+   "choices": [
+    "응, humor 맞아.",
+    "아니, humor 아니야."
+   ],
+   "answer_index": 1,
+   "answer": "아니, humor 아니야.",
+   "why": "맞아! 형은 그냥 오늘 반찬이 뭔지 사실만 말한 거잖아. 웃긴 데가 하나도 없으니까 humor가 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "할머니가 국에 소금 대신 설탕을 넣으셨대. 국을 뜨시더니 오늘은 국이 후식이네, 하셔서 식구들이 다 웃었어. 여기에 'humor'가 있었다고 할 수 있을까?",
+   "choices": [
+    "응, humor 있었어",
+    "아니, humor 없었어"
+   ],
+   "answer_index": 0,
+   "answer": "응, humor 있었어",
+   "why": "맞아! 웃기려고 짠 것도 아니고 그냥 실수였는데, 할머니가 그 안에서 웃긴 데를 딱 찾아내신 거잖아. 그래서 다 웃은 거고, 바로 그게 humor인 거야."
+  }
+ ],
+ "synonyms": [
+  "mood"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "comedy",
+   "kind": "confusable",
+   "from": "vs comedy"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-humor",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-humor"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/humor.webp",
+  "alt": "우유를 쏟아 엉망이 된 바닥에서 누나가 웃긴 말을 던져 다 같이 웃는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

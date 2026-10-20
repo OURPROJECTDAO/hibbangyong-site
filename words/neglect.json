@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/neglect/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/neglect/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "neglect",
+ "slug": "neglect",
+ "url": "https://hibbangyong.com/words/neglect/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "돌봐야 할 걸 계속 안 돌보고 내버려 두는 것",
+ "gloss_ko": "돌봐야 할 걸 내버려 둠",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "마당에 자전거 한 대가 몇 달째 그대로 서 있어. 비 맞고 흙 묻고 바퀴는 푹 꺼졌어.",
+  "누가 부순 게 아니야. 챙겨야 할 사람이 계속 안 챙긴 거지.",
+  "한 번 깜빡한 거랑은 달라. 미워서 그런 것도 아니야. 그냥 손을 놓아버린 거야. 강아지도, 이빨도, 내 몸도 이렇게 될 수 있거든?",
+  "돌봐야 할 걸 안 돌보고 놔두는 거, 그게 neglect야."
+ ],
+ "scene": "마당에 몇 달째 세워둔 채 녹슬고 바퀴 꺼진 자전거",
+ "examples": [
+  {
+   "en": "Our class plant died from neglect, not from cold weather.",
+   "ko": "우리 반 화분은 추위 때문이 아니라 아무도 안 돌봐서 죽었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "할머니는 어항을 하루도 안 빼먹고 챙기셔. 아침마다 먹이를 주고, 주마다 물을 갈고, 유리도 닦아서 금붕어가 쌩쌩해. 이게 'neglect'야?",
+   "choices": [
+    "응, neglect 맞아",
+    "아니, neglect 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, neglect 아니야",
+   "why": "맞아! 할머니는 하루도 안 빼먹고 챙기시잖아. 먹이도 주고 물도 갈고 유리까지 닦아서 금붕어가 쌩쌩하니까, 이건 손을 놓아버린 게 아니라 꼬박꼬박 돌본 거야. 그래서 neglect가 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "형이 겨울에 신던 축구화를 신발장 맨 아래에 넣어두고 봄, 여름 내내 한 번도 꺼내지 않았어. 흙이 굳어 붙고 안쪽엔 곰팡이가 피고 끈은 삭아서 끊어졌어. 이게 'neglect'야?",
+   "choices": [
+    "응, neglect 맞아",
+    "아니, neglect 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, neglect 맞아",
+   "why": "맞아! 형이 마음만 먹으면 꺼내서 털고 말릴 수 있었는데 봄도 여름도 그냥 지나갔잖아. 챙길 수 있는 사람이 계속 손을 놓아서 곰팡이까지 핀 거니까 이게 딱 neglect야."
+  },
+  {
+   "type": "choice",
+   "question": "친구 넷이 각자 자기 화분 이야기를 했어. 'neglect' 라고 할 수 있는 건 누구네 화분일까?",
+   "choices": [
+    "민수: 몇 주째 물 주는 걸 안 하고 그냥 뒀더니 잎이 바싹 말랐대.",
+    "지호: 물은 매일 줬는데 동생이 잎을 죄다 뜯어놔서 볼품없어졌대.",
+    "예린: 하루 깜빡했지만 다음 날 바로 챙겨줘서 지금은 쌩쌩하대.",
+    "다온: 아침저녁 물 주고 볕도 잘 쬐여줬더니 잎이 쑥쑥 자랐대."
+   ],
+   "answer_index": 0,
+   "answer": "민수: 몇 주째 물 주는 걸 안 하고 그냥 뒀더니 잎이 바싹 말랐대.",
+   "why": "맞아! 몇 주째 물을 안 줘서 잎이 말라버린 거잖아. 한 번 깜빡한 게 아니라 계속 손을 놓아버린 거, 그게 바로 neglect야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "negligent"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-neglect",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-neglect"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/neglect.webp",
+  "alt": "마당에 몇 달째 세워둔 채 녹슬고 바퀴 꺼진 자전거",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/pace/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/pace/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "pace",
+ "slug": "pace",
+ "url": "https://hibbangyong.com/words/pace/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "속도 — 뭔가가 얼마나 빠르게 또는 느리게 나아가는지",
+ "gloss_ko": "속도",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "줄 서서 산길을 올라가고 있어. 앞에 가는 애가 얼마나 빨리 걷느냐, 그게 pace야.",
+  "쿵쿵 성큼성큼 갈 수도 있고, 터벅터벅 천천히 갈 수도 있어. 둘 다 pace야. 빠른 것만 pace인 게 아니거든?",
+  "걷는 것만도 아니야. 책을 하루에 몇 장씩 읽어 나가는지, 공사가 얼마나 척척 되어 가는지도 다 pace야.",
+  "그러니까 '얼마나 빨리 가고 있나' 그 자체, 그게 pace야."
+ ],
+ "scene": "줄 서서 산길을 오르며 앞 사람이 걷는 빠르기",
+ "examples": [
+  {
+   "en": "My little brother walks at a very slow pace, so I have to wait for him.",
+   "ko": "내 동생은 진짜 느린 속도로 걸어서 나는 걔를 기다려야 해."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "형이 마당에서 잔디 깎는 기계를 밀고 있어. 다음 중 'pace'를 말하고 있는 건 뭘까?",
+   "choices": [
+    "그늘에 딱 멈춰 세워 두었어",
+    "손잡이가 파란색으로 칠해져 있어",
+    "쓱쓱 빠르게 밀고 나가고 있어",
+    "창고 문 앞에 놓여 있던 거야"
+   ],
+   "answer_index": 2,
+   "answer": "쓱쓱 빠르게 밀고 나가고 있어",
+   "why": "맞아! 쓱쓱 빠르게 밀고 나간다는 건 형이 얼마나 빨리 나아가고 있는지를 말해 주잖아. 바로 그 빠르기가 pace야."
+  },
+  {
+   "type": "ox",
+   "question": "우리 할머니는 내가 5분이면 가는 길을 20분 걸려서 가셔. 이것도 'pace'라고 할 수 있을까?",
+   "choices": [
+    "응, pace 맞아",
+    "아니, pace 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, pace 맞아",
+   "why": "맞아! 할머니가 천천히 가시는 것도 얼마나 빨리 가고 있나 하는 얘기잖아. 느린 것도 어엿한 pace거든. 빠른 것만 pace인 게 아니야."
+  },
+  {
+   "type": "choice",
+   "question": "네 아이가 운동장을 걸었어. 이 중에서 'pace'를 말하고 있는 건 누구일까?",
+   "choices": [
+    "나는 아주 느릿느릿 걸었어",
+    "나는 세 바퀴나 돌았어",
+    "나는 도중에 앉아서 쉬었어",
+    "나는 운동장 바깥쪽으로 걸었어"
+   ],
+   "answer_index": 0,
+   "answer": "나는 아주 느릿느릿 걸었어",
+   "why": "맞아! 아주 느리게 걸었다는 건 얼마나 빨리 걸었는지를 말하는 거라서, 바로 그게 pace인 거야. 빠른 것만 pace가 아니고, 느리게 걷는 것도 pace거든."
+  }
+ ],
+ "synonyms": [
+  "step",
+  "rate"
+ ],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-pace",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-pace"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/pace.webp",
+  "alt": "줄 서서 산길을 오르며 앞 사람이 걷는 빠르기",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

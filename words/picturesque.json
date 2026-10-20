@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/picturesque/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/picturesque/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "picturesque",
+ "slug": "picturesque",
+ "url": "https://hibbangyong.com/words/picturesque/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "그림 같은 — 마을이나 경치가 그림으로 그려 놓은 것처럼 예쁘고 정겨운",
+ "gloss_ko": "그림 같은",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "작은 돌다리, 낡은 기와집, 그 옆에 감나무 한 그루.",
+  "사진만 찍어도 그대로 그림엽서가 되는 곳, 그게 picturesque야.",
+  "산이나 바다만 되는 게 아니야. 골목, 항구, 시골 마을도 다 돼.",
+  "근데 번쩍이는 새 빌딩은 멋있어도 이 말을 잘 안 써. 화려한 거랑은 달라."
+ ],
+ "scene": "돌다리·기와집·감나무가 있는 시골 풍경",
+ "examples": [
+  {
+   "en": "We stayed in a picturesque village with small stone houses by the river.",
+   "ko": "우리 강가에 작은 돌집들이 모여 있는, 그림 같은 마을에서 묵었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "겨울 여행에서 찍은 사진이야. 눈 덮인 산자락 아래 작은 통나무집 몇 채가 모여 있고, 굴뚝마다 연기가 한 줄씩 올라가고 있어. 이 마을 풍경을 'picturesque'라고 할 수 있을까?",
+   "choices": [
+    "응, picturesque 맞아",
+    "아니, picturesque 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, picturesque 맞아",
+   "why": "맞아! 눈 덮인 산자락 아래 작은 통나무집 몇 채가 모여 있고 굴뚝마다 연기가 올라가는 마을이니까, 그대로 그림으로 그려 놓은 것 같잖아. 바로 그런 풍경이 picturesque야."
+  },
+  {
+   "type": "ox",
+   "question": "학원 건물 뒤편을 찍은 사진이야. 회색 벽에 에어컨 실외기 여러 대가 붙어 있고, 전선이 엉켜 늘어져 있고, 바닥엔 담배꽁초랑 찌그러진 캔이 굴러다녀. 이 장소를 'picturesque'라고 할 수 있을까?",
+   "choices": [
+    "응, picturesque 맞아",
+    "아니, picturesque 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, picturesque 아니야",
+   "why": "맞아! 회색 벽에 실외기가 붙어 있고 전선이 엉켜 늘어져 있고, 바닥엔 담배꽁초랑 찌그러진 캔이 굴러다니잖아. 사진으로 찍어도 그림엽서가 될 수 없는 곳이니까 picturesque가 아닌 게 맞아."
+  },
+  {
+   "type": "choice",
+   "question": "친구 넷이 각자 여행 사진을 보여 줬어. 'picturesque'라고 부르기 가장 알맞은 사진은?",
+   "choices": [
+    "유리벽이 번쩍이는 새 쇼핑몰 입구",
+    "쓰레기봉투가 쌓인 공사장 옆 주차장",
+    "낡은 고깃배가 떠 있는 작은 항구 마을",
+    "곱게 화장한 친구 얼굴 확대 사진"
+   ],
+   "answer_index": 2,
+   "answer": "낡은 고깃배가 떠 있는 작은 항구 마을",
+   "why": "맞아! 낡은 고깃배가 떠 있는 작은 항구 마을은 사진만 찍어도 그대로 그림 같아서 바로 picturesque인 거야. 산이나 바다 같은 자연만 되는 게 아니라 이런 항구 마을도 딱 이 말이 어울려."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "landscape"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-picturesque",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-picturesque"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/picturesque.webp",
+  "alt": "돌다리·기와집·감나무가 있는 시골 풍경",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

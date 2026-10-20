@@ -1,0 +1,83 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/genome/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/genome/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "genome",
+ "slug": "genome",
+ "url": "https://hibbangyong.com/words/genome/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "유전체 — 한 생물이 가진 유전자 전체를 모두 합친 것",
+ "gloss_ko": "유전자 전체",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "사람이든 벼든 바이러스든, 살아 있는 건 다 제 몸을 만드는 설명서를 갖고 있어.",
+  "그 설명서의 한 부분 한 부분이 유전자, gene이야.",
+  "genome은 그 한 부분이 아니라, 그 생물이 가진 설명서 전체 묶음이야.",
+  "그래서 키를 정하는 유전자 하나는 gene이고, 벼가 가진 유전자를 전부 합치면 genome이야."
+ ],
+ "scene": "사람·벼·바이러스가 각자 가진 몸 설명서 전체",
+ "examples": [
+  {
+   "en": "Scientists studied the genome of the new virus.",
+   "ko": "과학자들이 그 새 바이러스의 유전체를 연구했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "한 연구소가 밀이 가진 유전자를 처음부터 끝까지 하나도 빼지 않고 모아서 목록 하나로 정리했어. 이 목록에 담긴 유전 정보 전체를 밀의 'genome'이라고 부를 수 있을까?",
+   "choices": [
+    "응, genome 맞아",
+    "아니, genome 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, genome 맞아",
+   "why": "맞아! 연구소가 밀의 유전자를 하나도 빼지 않고 전부 모아 목록으로 정리했잖아. 유전자 전체를 다 합친 거니까 그게 바로 밀의 genome이야."
+  },
+  {
+   "type": "ox",
+   "question": "과학자들이 빵의 재료가 되는 밀이 가진 유전자를 하나도 빠짐없이 모두 읽어 냈어. 이런 경우도 밀의 'genome'을 읽은 거야?",
+   "choices": [
+    "응, 밀의 genome을 읽은 거 맞아",
+    "아니, 밀의 genome을 읽은 건 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 밀의 genome을 읽은 거 맞아",
+   "why": "맞아! 밀이 가진 유전자를 하나도 빠짐없이 전부 읽었으니까, 그게 바로 밀의 genome을 읽은 거야. genome은 사람만 있는 게 아니라 밀 같은 식물도 다 갖고 있거든."
+  },
+  {
+   "type": "ox",
+   "question": "마당에 심은 해바라기가 키 2미터까지 자랐고 노란 꽃잎이 활짝 폈어. 이렇게 눈으로 보이는 해바라기의 키와 꽃 모양이 해바라기의 'genome'일까?",
+   "choices": [
+    "응, genome 맞아",
+    "아니, genome 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, genome 아니야",
+   "why": "맞아! 키 2미터나 활짝 핀 노란 꽃잎은 눈으로 보이는 해바라기의 생김새일 뿐이야. genome은 그 모습을 만들어 낸, 해바라기 속에 있는 유전자 전체를 말해. 그래서 둘은 서로 다른 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-genome",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-genome"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/genome.webp",
+  "alt": "사람·벼·바이러스가 각자 가진 몸 설명서 전체",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

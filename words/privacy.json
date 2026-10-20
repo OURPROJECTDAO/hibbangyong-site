@@ -1,0 +1,100 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/privacy/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/privacy/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "privacy",
+ "slug": "privacy",
+ "url": "https://hibbangyong.com/words/privacy/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "남이 안 보고 안 끼어드는 나만의 자리 — 내 일을 나만 알고 있을 수 있는 것",
+ "gloss_ko": "남이 안 끼어드는 나만의 자리",
+ "level": {
+  "code": "L3",
+  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "방에서 문 닫고 있는데 누가 그냥 벌컥 열면 기분이 어때? 좀 싫지?",
+  "나쁜 짓을 하고 있어서가 아니야. 그냥 나 혼자 있고 싶었던 거잖아. 일기장을 서랍에 넣어두는 것도 똑같아. 비밀이 나빠서가 아니라, 내 거니까 내가 정하는 거야.",
+  "숨기는 거랑은 달라. 숨기는 건 들키면 큰일 나는 거고, 이건 남이 몰라도 되는 걸 나만 갖고 있는 거야.",
+  "그게 privacy야."
+ ],
+ "scene": "문 닫은 방을 누가 벌컥 여는 순간",
+ "examples": [
+  {
+   "en": "I closed the door because I wanted some privacy while I was drawing.",
+   "ko": "그림 그리는 동안 혼자 있고 싶어서 문을 닫았어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "세아가 방에 들어가서 문을 닫고 서랍에서 뭘 꺼냈어. 아빠가 노크하고 물었어. \"뭐 하니?\" 세아가 말했어. \"그냥 내 거 정리해.\" 아빠는 \"알았어\" 하고 갔어. 이게 'privacy'야?",
+   "choices": [
+    "응, privacy 맞아",
+    "아니, privacy 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, privacy 맞아",
+   "why": "맞아! 세아가 자기 일을 자기만 알고 있기로 정한 거고, 아빠도 노크하고 안 들어갔잖아. 그러니까 딱 privacy인 거야. 세아가 나쁜 짓을 한 게 아니라 그냥 내 일은 내가 정한 거야."
+  },
+  {
+   "type": "ox",
+   "question": "준호가 버스 정류장에서 종이 한 장을 들고 있었어. 옆에 서 있던 아저씨도, 뒤에 앉은 할머니도, 지나가던 학생도 그 종이에 뭐가 적혔는지 다 읽었어. 이게 'privacy'야?",
+   "choices": [
+    "응, privacy 맞아",
+    "아니, privacy 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, privacy 아니야",
+   "why": "바로 그거야! 아저씨도 할머니도 지나가던 학생도 그 종이를 다 읽었잖아. 남들이 다 볼 수 있으면 나만 아는 게 아니니까, 이건 privacy가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 친구들이 어제 자기 집에서 있었던 일을 하나씩 말했어. 이 중에서 'privacy'를 안 지켜준 사람은 누구일까?",
+   "choices": [
+    "형이 동생 자전거를 말도 없이 타고 나갔다가, 바퀴를 망가뜨렸다",
+    "친구가 유리컵을 깨뜨리고는, 아무한테도 말하지 않고 혼자 치웠다",
+    "동생이 누나 서랍을 열어 일기장을 읽고는, 별 내용 없더라고 말했다",
+    "옆집 아이가 하루 종일 방에 혼자 있었는데, 아무도 말을 걸지 않았다"
+   ],
+   "answer_index": 2,
+   "answer": "동생이 누나 서랍을 열어 일기장을 읽고는, 별 내용 없더라고 말했다",
+   "why": "맞아! 서랍 열고 일기장 읽은 거, 바로 그게 남의 자리에 쑥 들어간 거야. 게다가 별 내용 없더라고 말했잖아? 감출 게 있든 없든 상관없어. 보여줄지 말지는 누나가 정하는 거였거든. 그걸 대신 정해버려서 privacy를 안 지켜준 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "public"
+ ],
+ "confusable": [
+  {
+   "word": "secrecy",
+   "kind": "confusable",
+   "from": "vs secrecy"
+  },
+  {
+   "word": "solitude",
+   "kind": "confusable",
+   "from": "vs solitude"
+  }
+ ],
+ "related_scene": [
+  "private"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-privacy",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-privacy"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/privacy.webp",
+  "alt": "문 닫은 방을 누가 벌컥 여는 순간",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

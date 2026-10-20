@@ -1,0 +1,94 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/machine/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/machine/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "machine",
+ "slug": "machine",
+ "url": "https://hibbangyong.com/words/machine/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "기계 — 전기 같은 힘으로 여러 부품이 맞물려 움직이면서 사람 대신 일을 해내는 것.",
+ "gloss_ko": "기계",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "안에 부품이 잔뜩 들어있는 세탁기를 떠올려봐.",
+  "버튼을 누르면 윙~ 돌아가면서 빨래를 대신 해주잖아?",
+  "꼭 힘센 일만 하는 건 아니야. 째깍째깍 도는 태엽 시계처럼 작은 일도 해.",
+  "전기로 도는 믹서기든 태엽 시계든, 힘을 받아 부품이 맞물려 움직이며 일을 해내면 다 machine이야."
+ ],
+ "scene": "세탁기에 빨래를 넣고 버튼을 눌러 돌리는 장면",
+ "examples": [
+  {
+   "en": "The machine washed all our clothes while we played outside.",
+   "ko": "우리가 밖에서 노는 동안 기계가 우리 옷을 다 빨아 줬어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "네 가지 물건이 여기 있어. 이 중에서 'machine'이라고 부를 수 있는 건 어느 거야?",
+   "choices": [
+    "여름에 시원한 바람을 만들어 주는 선풍기",
+    "못을 콕콕 박을 때 손에 쥐고 쓰는 쇠망치",
+    "간식을 주면 신나서 폴짝 뛰는 강아지",
+    "냇가에 데굴데굴 굴러다니는 조약돌"
+   ],
+   "answer_index": 0,
+   "answer": "여름에 시원한 바람을 만들어 주는 선풍기",
+   "why": "맞아! 선풍기는 안에 있는 부품들이 맞물려 돌아가면서 시원한 바람을 대신 만들어 주잖아. 사람이 부채질 안 해도 알아서 일해 주니까 바로 그게 machine인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "여기 네 가지가 있어. 이 중에서 'machine'이라고 부를 수 있는 건 어느 거야?",
+   "choices": [
+    "물을 주면 잎을 쭉 뻗으며 자라는 화분 속 화초",
+    "껍질을 벗기면 달콤한 냄새가 퍼지는 접시 위 바나나",
+    "연필을 꽂으면 전기로 윙~ 돌아가며 연필을 깎아 주는 전동 연필깎이",
+    "달마다 한 장씩 넘겨서 보는 벽에 걸린 달력"
+   ],
+   "answer_index": 2,
+   "answer": "연필을 꽂으면 전기로 윙~ 돌아가며 연필을 깎아 주는 전동 연필깎이",
+   "why": "맞아! 전동 연필깎이는 연필을 꽂으면 안에 든 부품들이 전기로 윙~ 돌아가면서 연필 깎는 일을 대신 해 주거든. 그래서 바로 machine인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "할머니 댁 마당의 소가 뚜벅뚜벅 걸어가며 무거운 수레를 끌고 있어. 이 소는 'machine'이야?",
+   "choices": [
+    "응, machine 맞아",
+    "아니, machine 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, machine 아니야",
+   "why": "맞아! 소는 뚜벅뚜벅 걷고 수레도 끌지만, 안에 부품이 맞물려 돌아가는 게 아니라 밥 먹고 숨 쉬는 살아있는 동물이잖아. 그래서 machine이 아닌 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "automatic",
+  "buzz",
+  "engine",
+  "malfunction",
+  "mechanism",
+  "motor"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-machine",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-machine"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/machine.webp",
+  "alt": "세탁기에 빨래를 넣고 버튼을 눌러 돌리는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

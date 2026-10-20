@@ -1,0 +1,95 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/stage/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/stage/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "stage",
+ "slug": "stage",
+ "url": "https://hibbangyong.com/words/stage/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "단계 — 무엇이 자라거나 변해 가다가 지금 닿아 있는 때",
+ "gloss_ko": "단계",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "감기 걸릴 때 봐봐. 처음엔 목이 살짝 따끔하고, 그다음엔 콧물이 줄줄, 그다음엔 열이 나거든?",
+  "한 번에 확 오는 게 아니라 토막토막 지나가. 그 토막 하나가 stage야.",
+  "좋아지는 일도 똑같아. 애벌레가 번데기를 지나 나비가 되잖아. 번데기인 때도 한 토막이야.",
+  "'얼마나 심한지', '얼마나 어려운지' 같은 정도를 말하는 건 아니야. 변해 가는 길에서 지금 어디쯤 와 있는지를 말하는 거야. 그게 stage야."
+ ],
+ "scene": "감기가 목 따끔 → 콧물 → 열로 토막토막 지나가는 과정",
+ "examples": [
+  {
+   "en": "My cold is at the runny-nose stage now, but tomorrow it will be worse.",
+   "ko": "내 감기는 지금 콧물 나는 단계인데, 내일은 더 심해질 거야."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "화분에 강낭콩을 심었어. 씨가 흙에 있다가, 싹이 올라오고, 나중엔 잎이 넓어져. 지금은 싹이 막 올라온 때야. 이 때가 'stage'야?",
+   "choices": [
+    "응, 그거 stage 맞아",
+    "아니, 그거 stage 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 그거 stage 맞아",
+   "why": "맞아! 씨였다가 싹이 나고 나중에 잎이 넓어지잖아. 그렇게 순서대로 지나가는 길에서 지금 딱 싹인 때, 그게 stage야."
+  },
+  {
+   "type": "choice",
+   "question": "올챙이를 키우는데 뒷다리가 쏙 나온 때래. 형이 지금을 'stage'라고 불렀어. 형이 말한 'stage'는 어느 쪽 뜻일까?",
+   "choices": [
+    "몸이 저절로 바뀌어 가는 중의 한 토막",
+    "점점 나빠지고 심해져 가는 중의 한 토막"
+   ],
+   "answer_index": 0,
+   "answer": "몸이 저절로 바뀌어 가는 중의 한 토막",
+   "why": "맞아! 올챙이는 자기가 애쓴 것도 아니고 나빠진 것도 아닌데, 몸이 알아서 쑥쑥 바뀌면서 뒷다리가 나온 거잖아. 그렇게 저절로 바뀌어 가는 길에서 지금 지나는 토막, 그게 바로 stage인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "라면을 끓이는 중이야. 엄마가 방금 냄비에 스프 봉지를 탁 털어 넣었어. 그 털어 넣는 행동 하나. 이런 경우도 'stage'야?",
+   "choices": [
+    "응, 'stage' 맞아.",
+    "아니, 'stage' 아니야."
+   ],
+   "answer_index": 1,
+   "answer": "아니, 'stage' 아니야.",
+   "why": "맞아! 스프를 탁 털어 넣는 건 손 한 번 움직인 짧은 행동이거든. 이건 순서 하나(step)일 뿐이야. stage는 그 안에 여러 행동이 들어가는 토막이라서, 이건 아닌 게 맞아."
+  }
+ ],
+ "synonyms": [
+  "degree",
+  "level",
+  "step"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "step",
+   "kind": "confusable",
+   "from": "vs step"
+  }
+ ],
+ "related_scene": [
+  "process"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-stage",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-stage"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/stage.webp",
+  "alt": "감기가 목 따끔 → 콧물 → 열로 토막토막 지나가는 과정",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

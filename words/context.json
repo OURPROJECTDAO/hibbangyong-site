@@ -1,0 +1,95 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/context/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/context/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "context",
+ "slug": "context",
+ "url": "https://hibbangyong.com/words/context/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "맥락 — 어떤 일이나 말을 제대로 알게 해 주는 앞뒤 사정",
+ "gloss_ko": "앞뒤 사정",
+ "level": {
+  "code": "L3",
+  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "사진 한 장 봐봐. 친구가 엉엉 울고 있어. 슬퍼서 우는 걸까?",
+  "근데 바로 전에 골을 딱! 넣었대. 아하, 기뻐서 운 거구나.",
+  "똑같은 눈물인데 앞뒤 사정을 알면 뜻이 확 바뀌거든? 말 한마디도 앞뒤 말에 따라 뜻이 바뀌고.",
+  "뒤에 칠한 배경 그림이 아니라, 그걸 제대로 알게 해 주는 앞뒤 사정. 그게 context야."
+ ],
+ "scene": "엉엉 우는 친구 사진과 바로 전에 넣은 골",
+ "examples": [
+  {
+   "en": "You need to know the context to understand why he said that.",
+   "ko": "걔가 왜 그런 말을 했는지 알려면 앞뒤 사정을 알아야 해."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "민수가 동화책을 읽다가 처음 보는 낱말을 만났어. 민수는 그 낱말이 무슨 뜻인지 알아내려고 바로 앞 문장과 뒤 문장을 읽어 봤어. 민수가 읽어 본 이 앞 문장과 뒤 문장, 이게 'context'야?",
+   "choices": [
+    "응, context 맞아",
+    "아니, context 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, context 맞아",
+   "why": "맞아! 민수는 처음 보는 낱말 뜻을 알아내려고 바로 앞 문장과 뒤 문장을 읽었잖아. 그 앞뒤 말이 낱말 뜻을 제대로 알게 해 주니까, 바로 그게 context인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "지우가 강아지 동영상에서 강아지가 멍멍 짖는 3초만 딱 잘라 냈어. 그 전에 무슨 일이 있었는지, 그 뒤에 어떻게 됐는지는 다 지웠어. 앞뒤를 다 떼고 남은 이 3초짜리 짖는 장면 하나, 이게 'context'야?",
+   "choices": [
+    "응, context 맞아",
+    "아니, context 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, context 아니야",
+   "why": "아니야, 이건 context가 아니야! 잘 골랐어. 지우가 그 전에 있었던 일도, 그 뒤에 된 일도 다 지우고 짖는 장면 하나만 남겼잖아. context는 강아지가 왜 짖었는지 알게 해 주는 앞뒤 사정이라서, 그걸 다 지운 3초짜리 장면은 context가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "친구들이 'context'의 예를 하나씩 들었어. 'context'를 제대로 든 예는 뭘까?",
+   "choices": [
+    "그림 뒤쪽에 하늘색으로 넓게 칠한 바탕 부분",
+    "'대단해!'라는 말 속 글자를 하나씩 센 것",
+    "'대단해!'가 칭찬인지 알려고 그 전 일을 살핀 것",
+    "앞뒤 말을 다 지우고 '대단해!'만 남겨 둔 것"
+   ],
+   "answer_index": 2,
+   "answer": "'대단해!'가 칭찬인지 알려고 그 전 일을 살핀 것",
+   "why": "맞아! '대단해!'는 진짜 칭찬일 수도 있고 아닐 수도 있거든. 그래서 그 전에 무슨 일이 있었는지 살핀 거, 바로 그 앞뒤 사정이 context인 거야."
+  }
+ ],
+ "synonyms": [
+  "circumstance"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "circumstances",
+   "kind": "confusable",
+   "from": "vs circumstances"
+  }
+ ],
+ "related_scene": [
+  "contextual"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-context",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-context"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/context.webp",
+  "alt": "엉엉 우는 친구 사진과 바로 전에 넣은 골",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

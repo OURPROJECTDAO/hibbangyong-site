@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/symptomatic/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/symptomatic/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "symptomatic",
+ "slug": "symptomatic",
+ "url": "https://hibbangyong.com/words/symptomatic/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "징후인 — 눈에 보이는 일이 그 밑에 있는 더 큰 문제를 드러내는",
+ "gloss_ko": "문제의 신호인",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "반에서 숙제를 베끼는 애가 갑자기 늘었다고 쳐 봐.",
+  "베끼는 게 진짜 문제일까? 숙제가 너무 많다는 게 겉으로 튀어나온 걸 수도 있어.",
+  "이렇게 눈에 보이는 일이 그 밑의 더 큰 문제를 알려 줄 때 symptomatic이라고 해. 기침이 감기를 알려 주는 것처럼.",
+  "문제를 일으키는 원인이랑은 달라. 원인이 아니라, 원인이 있다는 표시야."
+ ],
+ "scene": "반에서 숙제 베끼는 학생이 늘어남(숙제가 너무 많다는 신호)",
+ "examples": [
+  {
+   "en": "The long lines at the nurse's office were symptomatic of a bigger problem with the school lunch.",
+   "ko": "보건실 앞에 늘어선 긴 줄은 학교 급식에 더 큰 문제가 있다는 신호였어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "학교 운동장에 비만 오면 여기저기 물웅덩이가 생겨. 알아보니 운동장 땅 밑 배수관이 오래돼서 막혀 있었어. 이 물웅덩이들은 'symptomatic'한 걸까?",
+   "choices": [
+    "응, symptomatic 맞아",
+    "아니, symptomatic 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, symptomatic 맞아",
+   "why": "맞아! 물웅덩이는 눈에 보이는 일이고, 진짜 문제는 땅 밑에서 막혀 있는 배수관이잖아. 물웅덩이가 그 숨은 고장을 겉으로 드러내 주니까 바로 symptomatic인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "체육 시간에 친구가 공을 받다가 손가락을 한 번 삐었어. 알아보니 그날 공이 우연히 이상하게 튄 것뿐이었고, 다른 문제는 없었어. 친구가 손가락을 삔 일은 'symptomatic'한 걸까?",
+   "choices": [
+    "응, symptomatic 맞아",
+    "아니, symptomatic 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, symptomatic 아니야",
+   "why": "맞아! 손가락 삔 일은 그날 공이 우연히 이상하게 튀어서 딱 한 번 생긴 거고, 알아보니 다른 문제는 없었잖아. symptomatic은 그 일이 밑에 있는 더 큰 문제를 드러낼 때 쓰는 말인데, 여기엔 드러낼 문제가 없으니까 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "동아리 회원들이 몇 달째 하나둘 계속 그만두고 있어. 부장이 이 상황을 보고 'symptomatic'이라고 했어. 부장은 무슨 뜻으로 한 말일까?",
+   "choices": [
+    "회원들이 그만두는 바람에 앞으로 동아리에 새 문제가 생길 거라는 말",
+    "동아리라면 원래 이 정도는 다 그만두니까 흔한 일이라는 말",
+    "그만두는 일 뒤에 동아리 운영에 더 큰 문제가 숨어 있다는 말",
+    "각자 사정이 우연히 겹쳤을 뿐이라 따로 볼 일이라는 말"
+   ],
+   "answer_index": 2,
+   "answer": "그만두는 일 뒤에 동아리 운영에 더 큰 문제가 숨어 있다는 말",
+   "why": "맞아! 회원들이 계속 그만두는 건 겉으로 보이는 일이고, 그 뒤에 동아리 운영에 더 큰 문제가 있다는 걸 알려 주는 거라서 바로 그게 symptomatic인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "indicative",
+   "kind": "confusable",
+   "from": "vs indicative"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-symptomatic",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-symptomatic"
+ },
+ "image": null
+}

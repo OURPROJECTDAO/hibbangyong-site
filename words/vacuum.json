@@ -1,0 +1,88 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/vacuum/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/vacuum/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "vacuum",
+ "slug": "vacuum",
+ "url": "https://hibbangyong.com/words/vacuum/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "진공 — 공기 같은 기체까지 하나도 없이 완전히 텅 빈 곳",
+ "gloss_ko": "공기도 없는 빈 곳",
+ "level": {
+  "code": "L4",
+  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "빈 병 봐봐. 텅 빈 것 같지? 근데 그 안엔 공기가 꽉 차 있거든.",
+  "그 공기까지 쭉쭉 다 빼내 봐. 그럼 진짜로 아무것도 안 남아.",
+  "우주도 그래. 공기가 없어서 쾅! 해도 소리가 안 들려.",
+  "물건만 치운 빈 방이랑은 달라. 공기마저 싹 빠진 완전한 빈자리, 그게 vacuum이야."
+ ],
+ "scene": "공기까지 다 빼낸 빈 병",
+ "examples": [
+  {
+   "en": "You can't hear any sound in a vacuum.",
+   "ko": "진공 속에서는 아무 소리도 안 들려."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "축구공은 겉 가죽 안에 속 주머니가 있어. 그 속 주머니에 공기를 빵빵하게 꽉 채워 넣었어. 이 공 속은 'vacuum'이야?",
+   "choices": [
+    "응, vacuum 맞아",
+    "아니, vacuum 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, vacuum 아니야",
+   "why": "맞아! 축구공 속 주머니에는 공기가 빵빵하게 꽉 차 있거든. vacuum은 공기까지 하나도 없이 텅 빈 곳이니까, 이 공 속은 vacuum이 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "보온병은 안쪽 벽과 바깥 벽이 두 겹이야. 그 두 벽 사이 틈은 공기까지 하나도 안 남기고 싹 빼 놔서, 정말 아무것도 없어. 이 틈은 'vacuum'이야?",
+   "choices": [
+    "응, vacuum 맞아",
+    "아니, vacuum 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, vacuum 맞아",
+   "why": "맞아! 보온병 두 벽 사이 틈은 공기까지 하나도 안 남기고 싹 빼 놔서 정말 아무것도 없거든. 공기마저 없이 텅 빈 곳, 바로 그게 vacuum인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 가지 빈 곳이 있어. 속이 'vacuum'인 건 어느 거야?",
+   "choices": [
+    "물을 다 따라 버리고 뚜껑을 꼭 닫아 둔 유리병",
+    "펌프로 안에 있던 공기를 다 뽑아내 둔 유리병",
+    "펌프로 안에 공기를 잔뜩 채워 넣어 둔 유리병",
+    "안에 있던 물건을 하나도 없이 다 치워 둔 방"
+   ],
+   "answer_index": 1,
+   "answer": "펌프로 안에 있던 공기를 다 뽑아내 둔 유리병",
+   "why": "맞아! 펌프로 공기까지 다 뽑아냈으니까 병 속에 정말 아무것도 안 남았거든. 공기마저 없이 완전히 텅 빈 거, 바로 그게 vacuum인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "suck",
+  "universe"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-vacuum",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-vacuum"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/vacuum.webp",
+  "alt": "공기까지 다 빼낸 빈 병",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

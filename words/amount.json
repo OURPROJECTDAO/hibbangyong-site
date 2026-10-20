@@ -1,0 +1,94 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/amount/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/amount/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "amount",
+ "slug": "amount",
+ "url": "https://hibbangyong.com/words/amount/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "양 — 얼마나 있는지, 그 많고 적음",
+ "gloss_ko": "얼마나 있는지",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "컵에 물이 담겨 있어. 조금? 아니면 넘칠 만큼 가득? 그 '얼마나'가 amount야.",
+  "많아도 amount, 적어도 amount. 심지어 한 방울만 있어도 amount는 amount거든? 좋은 것만 세는 말이 아니야. 쓰레기가 얼마나 나왔는지, 숙제가 얼마나 남았는지도 다 amount야.",
+  "그리고 amount는 하나 둘 셋 세는 게 아니야. 물이나 시간이나 돈처럼 '덩어리로 얼마만큼'을 볼 때 쓰는 말이거든? 사탕 다섯 개는 세면 되지만, 설탕은 세지 못하고 '얼마만큼'만 알 수 있잖아.",
+  "그게 amount야."
+ ],
+ "scene": "컵에 담긴 물이 조금인지 가득인지 보는 장면",
+ "examples": [
+  {
+   "en": "A huge amount of trash was left on the beach after the party.",
+   "ko": "파티가 끝나고 바닷가에 쓰레기가 어마어마하게 많이 남았어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "욕조에 물을 받는데, 지금 바닥에 살짝 깔릴 만큼인지 어깨까지 찰 만큼인지 보고 있어. 이렇게 보는 게 'amount'야?",
+   "choices": [
+    "응, amount 맞아",
+    "아니, amount 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, amount 맞아",
+   "why": "맞아! 물이 바닥에 조금 깔렸는지 어깨까지 찼는지 보는 건, 물이 얼마만큼 있나 보는 거잖아. 그 얼마만큼이 바로 amount인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "오늘 받아쓰기에서 틀린 글자가 세 글자였어. 틀린 글자를 하나 둘 셋 세는 이건 'amount'야?",
+   "choices": [
+    "응, amount 맞아",
+    "아니, amount 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, amount 아니야",
+   "why": "맞아! 하나 둘 셋 세어서 세 글자, 이렇게 딱딱 세어지는 건 개수거든. amount는 물이나 시간처럼 세지 못하고 덩어리로 얼마만큼인지 볼 때 쓰는 말이야. 세어지면 amount가 아닌 거지."
+  },
+  {
+   "type": "ox",
+   "question": "운동장에서 아이들이 줄넘기를 하고 있어. 지호가 '저기 줄넘기하는 애들이 몇 명인지'를 말하고 싶대. 이런 경우도 'amount'야?",
+   "choices": [
+    "응, amount 맞아",
+    "아니, amount 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, amount 아니야",
+   "why": "딩동댕! 줄넘기하는 애들은 한 명, 두 명, 세 명 이렇게 하나씩 셀 수 있잖아. 그렇게 셀 수 있는 건 amount가 아니거든. amount는 물이나 시간처럼 세지는 못하고 덩어리로 얼마만큼인지만 알 수 있는 거야."
+  }
+ ],
+ "synonyms": [
+  "sum"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "number",
+   "kind": "confusable",
+   "from": "개수(number)로 뭉갬"
+  }
+ ],
+ "related_scene": [
+  "estimate",
+  "minimum"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-amount",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-amount"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/amount.webp",
+  "alt": "컵에 담긴 물이 조금인지 가득인지 보는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

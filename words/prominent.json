@@ -1,0 +1,100 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/prominent/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/prominent/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "prominent",
+ "slug": "prominent",
+ "url": "https://hibbangyong.com/words/prominent/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "한눈에 확 띄는 — 여럿 속에서 혼자 도드라져 제일 먼저 보이는",
+ "gloss_ko": "한눈에 확 띄는",
+ "level": {
+  "code": "L6",
+  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "운동장에 나무가 여러 그루인데 딱 한 그루만 키가 쑥 커. 멀리서 봐도 그 나무부터 눈에 들어오지?",
+  "이렇게 여럿 속에서 혼자 도드라져서 먼저 눈에 걸리는 거야. 물건도 그렇고, 여러 사람 중에 이름이 제일 먼저 나오는 사람도 그래.",
+  "훌륭해야만 그런 건 아니야. 하얀 옷에 묻은 김칫국물도, 교실 벽에 쫙 간 금도 제일 먼저 보이잖아.",
+  "그냥 크다거나 훌륭하다는 말이 아니라, 눈에 확 걸린다는 말이야. 그게 prominent야."
+ ],
+ "scene": "운동장에서 혼자 키가 쑥 큰 나무 한 그루",
+ "examples": [
+  {
+   "en": "A big crack is prominent on our white classroom wall.",
+   "ko": "우리 교실 하얀 벽에 큰 금이 한눈에 확 띄어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "학교에서 찍은 반 사진 넉 장을 살펴봤어. 이 중에 'prominent'한 것이 들어 있는 사진은 어느 거야?",
+   "choices": [
+    "파란 모자를 쓴 제일 키 큰 아이가 커튼에 반쯤 가려 있어.",
+    "파란 모자 하나가 의자 밑에 떨어졌는데 아무도 못 봤어.",
+    "다들 파란 모자인데 한 명만 노란 모자를 쓰고 서 있어.",
+    "스물다섯 명이 모두 파란 모자를 쓰고 줄 맞춰 섰어."
+   ],
+   "answer_index": 2,
+   "answer": "다들 파란 모자인데 한 명만 노란 모자를 쓰고 서 있어.",
+   "why": "맞아! 다들 파란 모자인데 혼자만 노란 모자니까, 사진을 보자마자 그 아이한테 눈이 딱 걸리지? 여럿 속에서 혼자 도드라져서 제일 먼저 보이는 거, 그게 바로 prominent야."
+  },
+  {
+   "type": "ox",
+   "question": "자전거 보관대에 노란 자전거 열 대가 나란히 세워져 있어. 그중 한 대만 옆구리에 페인트가 길게 벗겨진 자국이 나 있고, 나머지 아홉 대는 멀쩡해. 이 벗겨진 자국도 'prominent'야?",
+   "choices": [
+    "응, prominent 맞아",
+    "아니, prominent 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, prominent 맞아",
+   "why": "맞아! 아홉 대는 멀쩡한데 딱 그 한 대만 길게 벗겨져 있으니까, 보관대를 쓱 봤을 때 그 자국부터 눈에 걸리잖아. 그렇게 혼자 도드라져서 먼저 보이는 게 바로 prominent야."
+  },
+  {
+   "type": "choice",
+   "question": "도서관 책꽂이에 까만 책들이 빽빽하게 꽂혀 있어. 다음 중 'prominent'한 책은 어느 거야?",
+   "choices": [
+    "책들 맨 뒤에 완전히 가려져 꽂힌 샛노란 책",
+    "책등 아래쪽 모서리가 살짝 접혀 있는 책",
+    "까만 책들 사이에 혼자 샛노랗게 꽂힌 책",
+    "책등에 붙은 번호가 조금 지워져 있는 책"
+   ],
+   "answer_index": 2,
+   "answer": "까만 책들 사이에 혼자 샛노랗게 꽂힌 책",
+   "why": "맞아! 까만 책들만 쭉 있는데 혼자 샛노라니까 눈이 딱 거기부터 가지? 여럿 속에서 혼자 도드라져 먼저 걸리는 거, 그게 prominent야."
+  }
+ ],
+ "synonyms": [
+  "outstanding"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "famous",
+   "kind": "confusable",
+   "from": "vs famous"
+  },
+  {
+   "word": "obvious",
+   "kind": "confusable",
+   "from": "vs obvious"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-prominent",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-prominent"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/prominent.webp",
+  "alt": "운동장에서 혼자 키가 쑥 큰 나무 한 그루",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

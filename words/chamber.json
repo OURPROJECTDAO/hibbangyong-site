@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/chamber/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/chamber/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "chamber",
+ "slug": "chamber",
+ "url": "https://hibbangyong.com/words/chamber/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "어떤 일을 하라고 둘레를 막아 따로 떼어 둔 방이나 칸",
+ "gloss_ko": "둘레를 막아 둔 칸이나 방",
+ "level": {
+  "code": "L4",
+  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "어떤 일을 하라고 둘레를 빙 둘러막아 둔 방, 떠올려 봐.",
+  "그냥 자고 노는 평범한 방이 아니라, '이건 여기서!' 하고 따로 떼어 막아 둔 자리거든?",
+  "심장 속 피가 드나드는 작디작은 칸도, 어른들이 모여 회의하는 커다란 방도 다 그래.",
+  "크든 작든, 뭔가를 위해 둘러싸인 자리—이게 chamber야."
+ ],
+ "scene": "심장 속 둘러막힌 작은 칸도, 어른들 모이는 큰 방도—다 어떤 일을 위해 둘러싸인 닫힌 자리.",
+ "examples": [
+  {
+   "en": "We found a secret chamber hidden deep inside the old castle.",
+   "ko": "우리는 오래된 성 깊은 곳에 숨겨진 비밀의 방을 찾았어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "총 안쪽에, 총알 하나만 딱 들어가게 둘레를 막아 따로 만들어 둔 작은 칸이 있어. 이 칸을 'chamber'라고 부를까?",
+   "choices": [
+    "응, chamber야.",
+    "아니, chamber 아니야."
+   ],
+   "answer_index": 0,
+   "answer": "응, chamber야.",
+   "why": "맞아! 총알 하나만 쏘려고 둘레를 딱 막아 따로 만든 칸이잖아—뭔가를 위해 둘러싸인 자리, 그게 바로 chamber거든. 잘 골랐어!"
+  },
+  {
+   "type": "ox",
+   "question": "울타리도 벽도 없이 멀리까지 그냥 펼쳐진 마당에서 뛰어놀았어. 이 마당을 'chamber'라고 부를까?",
+   "choices": [
+    "응, chamber야.",
+    "아니, chamber 아니야."
+   ],
+   "answer_index": 1,
+   "answer": "아니, chamber 아니야.",
+   "why": "맞아! 울타리도 벽도 없이 사방으로 뻥 뚫린 마당은 둘러막은 자리가 아니거든. chamber는 '이건 여기서!' 하고 둘레를 빙 둘러막아 둔 칸이라서, 그렇게 트인 마당은 chamber가 아닌 게 맞아."
+  },
+  {
+   "type": "choice",
+   "question": "여러 곳을 둘러봤어. 영어로 'chamber'라고 부르기 가장 알맞은 곳은?",
+   "choices": [
+    "오직 한 가지 실험만 하려고, 둘레를 꽉 막아 따로 떼어 둔 자리",
+    "담도 지붕도 없이 탁 트여 멀리까지 펼쳐진 너른 들판",
+    "사람들이 이 끝에서 저 끝으로 그냥 가로질러 가는 트인 통로",
+    "식구들이 다 같이 모여 뒹굴며 노는 특별할 것 없는 거실"
+   ],
+   "answer_index": 0,
+   "answer": "오직 한 가지 실험만 하려고, 둘레를 꽉 막아 따로 떼어 둔 자리",
+   "why": "맞아! 오직 그 실험 하나만 하라고 둘레를 꽉 막아 따로 떼어 둔 자리잖아, 그래서 바로 그게 chamber인 거야. 크든 작든 뭔가를 위해 둘러싸인 자리, 그게 핵심이거든."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-chamber",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-chamber"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/chamber.webp",
+  "alt": "심장 속 둘러막힌 작은 칸도, 어른들 모이는 큰 방도—다 어떤 일을 위해 둘러싸인 닫힌 자리.",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/menu/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/menu/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "menu",
+ "slug": "menu",
+ "url": "https://hibbangyong.com/words/menu/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "메뉴 — 식당에서 먹을 것처럼, 고를 수 있는 것들을 쭉 늘어놓은 목록",
+ "gloss_ko": "메뉴",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "식당 가면 종이 한 장 주지? 오늘 시킬 수 있는 게 쭉 적혀 있잖아. 그거 보고 하나 고르는 거야.",
+  "게임 켜면 맨 처음 뜨는 화면도 똑같아. '새로 하기, 이어서 하기'가 나란히 떠 있고, 너는 그중 하나를 누르잖아.",
+  "종이든 벽에 붙은 판이든 화면이든 상관없어. 여기서 골라, 하고 늘어놨으면 다 그거야.",
+  "만드는 법 적힌 종이도 아니고, 낼 돈 적힌 종이도 아니야. 고를 것들을 늘어놓은 것, 그게 menu야."
+ ],
+ "scene": "식당에서 받아 든 종이 한 장에 오늘 시킬 수 있는 게 쭉 적힌 장면",
+ "examples": [
+  {
+   "en": "Dad handed me the menu and said I could pick anything.",
+   "ko": "아빠가 메뉴를 건네주면서 아무거나 골라도 된다고 했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "엄마가 종이 한 장을 보여줬어. 카레 만드는 법이 첫째 양파 썰기, 둘째 고기 볶기, 셋째 물 붓기 순서대로 적혀 있어. 이게 'menu'야?",
+   "choices": [
+    "응, menu 맞아",
+    "아니, menu 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, menu 아니야",
+   "why": "맞아! 엄마가 보여준 종이에는 양파 썰기, 고기 볶기, 물 붓기가 순서대로 적혀 있지? 이건 하나를 고르는 게 아니라 차례대로 다 따라 하는 거라서 menu가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "형이 게임을 켰어. 화면 네 가지를 봤는데, 이 중에서 'menu'라고 부를 수 있는 건?",
+   "choices": [
+    "'새로 하기' '이어서 하기' '소리 끄기'가 나란히 떠서, 형이 그중 하나를 눌렀어",
+    "게임을 어떻게 조종하는지 첫째 둘째 셋째 순서대로 글이 떠 있었어",
+    "형이 오늘 딴 점수, 남은 목숨, 걸린 시간이 나란히 적혀 있었어",
+    "'로딩 중'이라고 뜬 채로 동그라미만 빙빙 돌고 있었어"
+   ],
+   "answer_index": 0,
+   "answer": "'새로 하기' '이어서 하기' '소리 끄기'가 나란히 떠서, 형이 그중 하나를 눌렀어",
+   "why": "맞아! '새로 하기' '이어서 하기' '소리 끄기'가 나란히 떠 있고, 형이 그중 하나를 골라 눌렀잖아. 이렇게 고를 것들을 쭉 늘어놓은 화면, 바로 그게 menu인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "분식집 벽에 판이 하나 붙어 있어. 떡볶이, 김밥, 라면, 어묵이 쭉 적혀 있고, 손님들이 그걸 보고 먹을 걸 하나씩 골라. 이게 'menu'야?",
+   "choices": [
+    "응, menu 맞아",
+    "아니, menu 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, menu 맞아",
+   "why": "맞아! 분식집 벽에 붙은 판에 떡볶이, 김밥, 라면, 어묵이 쭉 적혀 있고, 손님들이 그걸 보고 먹을 걸 하나씩 고르잖아. 고를 수 있는 것들을 늘어놓은 판이니까 바로 그게 menu인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-menu",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-menu"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/menu.webp",
+  "alt": "식당에서 받아 든 종이 한 장에 오늘 시킬 수 있는 게 쭉 적힌 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

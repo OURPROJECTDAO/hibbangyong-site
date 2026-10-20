@@ -1,0 +1,99 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/salary/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/salary/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "salary",
+ "slug": "salary",
+ "url": "https://hibbangyong.com/words/salary/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "월급 — 회사나 학교 같은 데서 일하고 달마다 정해진 만큼 받는 돈",
+ "gloss_ko": "월급",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "어른들이 회사나 학교 같은 데서 일하잖아? 그럼 달마다 정해진 날에 정해진 돈이 들어와.",
+  "오늘 좀 많이 했다고 그날 더 주는 게 아니야. 한 달에 얼마, 이렇게 미리 정해 둔 거거든.",
+  "많을 수도 있고 적을 수도 있어. 줄어들 때도 있고.",
+  "그렇게 일하고 달마다 꼬박꼬박 받는 정해진 돈, 그게 salary야."
+ ],
+ "scene": "회사나 학교에서 일하고 달마다 정해진 날에 정해진 돈이 들어오는 어른",
+ "examples": [
+  {
+   "en": "Dad's salary got smaller this year, so we didn't go on a trip.",
+   "ko": "올해 아빠 월급이 줄어서 우리는 여행을 못 갔어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "네 사람이 돈을 어떻게 받는지 말했어. 이 중에 'salary'를 받는 사람은?",
+   "choices": [
+    "병원에서 일하는데, 환자가 많든 적든 매달 25일에 같은 돈이 들어와",
+    "붕어빵을 팔아서, 그날 많이 팔면 많이 벌고 적게 팔면 적게 벌어",
+    "옆집 마당 풀을 두 시간 뽑아 주고, 끝나자마자 두 시간치를 받아",
+    "생일이라고 할머니가 일도 안 시키고 그냥 용돈을 쥐여 줬어"
+   ],
+   "answer_index": 0,
+   "answer": "병원에서 일하는데, 환자가 많든 적든 매달 25일에 같은 돈이 들어와",
+   "why": "맞아! 환자가 많은 날이든 적은 날이든 매달 25일에 딱 같은 돈이 들어오잖아. 그렇게 미리 정해 둔 날에 정해진 만큼 받는 게 바로 salary인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 사람이 자기가 받는 돈을 설명했어. 이 중에 'salary'인 것은?",
+   "choices": [
+    "나는 도서관에서 일해. 책을 몇 권 정리하든, 매달 10일에 늘 같은 돈이 들어와.",
+    "나는 사진관에서 일해. 그날 손님 사진을 찍은 만큼, 한 장에 얼마씩 쳐서 받아.",
+    "나는 이삿짐을 날라 줘. 짐을 다 옮기고 나면, 그 자리에서 하루치를 받아.",
+    "나는 시장에서 감자를 팔아. 그날 감자가 팔린 만큼, 팔린 개수대로 벌어."
+   ],
+   "answer_index": 0,
+   "answer": "나는 도서관에서 일해. 책을 몇 권 정리하든, 매달 10일에 늘 같은 돈이 들어와.",
+   "why": "맞아! 책을 많이 정리한 날이든 적게 한 날이든 상관없이, 매달 10일에 늘 같은 돈이 들어오잖아. 달마다 정해진 날에 정해진 만큼 받는 그 돈, 바로 그게 salary인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "설날에 누나가 큰아빠 앞에서 절을 했어. 큰아빠가 봉투를 하나 줬어. 이게 'salary'야?",
+   "choices": [
+    "응, salary 맞아",
+    "아니, salary 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, salary 아니야",
+   "why": "맞아! 절하고 받은 세뱃돈은 일하고 받는 게 아니잖아. 매달 정해진 날에 정해진 만큼 들어오는 것도 아니고, 설날에 한 번 받는 거니까 salary가 아닌 거야."
+  }
+ ],
+ "synonyms": [
+  "wage"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "pay",
+   "kind": "confusable",
+   "from": "vs pay"
+  }
+ ],
+ "related_scene": [
+  "earn",
+  "income",
+  "pension"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-salary",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-salary"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/salary.webp",
+  "alt": "회사나 학교에서 일하고 달마다 정해진 날에 정해진 돈이 들어오는 어른",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

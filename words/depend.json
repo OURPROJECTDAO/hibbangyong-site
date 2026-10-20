@@ -1,0 +1,98 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/depend/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/depend/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "depend",
+ "slug": "depend",
+ "url": "https://hibbangyong.com/words/depend/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "~에 달려 있다 — 이 일이 나 혼자로는 안 되고 저쪽에 매여 있다(저쪽이 어떻게 되느냐에, 또 저쪽이 있어 주느냐에 갈린다)",
+ "gloss_ko": "~에 달려 있다",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "내일 소풍 갈까 말까? 나도 몰라. 나 혼자선 못 정해.",
+  "비 오면 못 가고, 맑으면 가고. 소풍이 날씨에 매인 거야.",
+  "그냥 둘이 상관있다는 말이 아니야. 저쪽이 어떻게 되느냐에 이쪽이 갈리는 거거든.",
+  "아기가 엄마 없인 아무것도 못 하는 것도 똑같아. 이쪽 일이 저쪽에 걸려 있으면, 그게 depend야."
+ ],
+ "scene": "내일 소풍을 갈지 말지가 날씨에 매인 장면",
+ "examples": [
+  {
+   "en": "The color of the sky depends on the time of day.",
+   "ko": "하늘 색깔은 몇 시냐에 달려 있어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "우리 집 현관 등은 저녁 7시가 되면 저절로 켜져. 앞으로 누가 지나가도 안 지나가도 똑같이 7시에 켜져. 이게 'depend'야?",
+   "choices": [
+    "응, depend 맞아",
+    "아니, depend 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, depend 아니야",
+   "why": "맞아! 현관 등은 사람이 지나가든 안 지나가든 그냥 7시면 켜지잖아. 켜질지 말지가 사람한테 매여 있지 않고 이미 정해져 있으니까, 이건 depend가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "부엌에서 네 아이가 한마디씩 했어. 다음 중 'depend'에 해당하는 말을 한 아이는 누구야?",
+   "choices": [
+    "아침에 우유를 한 컵 마시고 컵은 씻어서 엎어 뒀어.",
+    "식탁 의자를 창문 옆으로 옮기고 방석을 하나 올려 뒀어.",
+    "케이크를 구울지 못 구울지는 오븐이 고쳐지느냐에 갈려.",
+    "냉장고 문에 자석이 다섯 개 붙어 있고 두 개는 파란색이야."
+   ],
+   "answer_index": 2,
+   "answer": "케이크를 구울지 못 구울지는 오븐이 고쳐지느냐에 갈려.",
+   "why": "맞아! 케이크를 굽느냐 마느냐가 내 마음이 아니라 오븐이 고쳐지느냐에 갈리잖아. 저쪽이 어떻게 되느냐에 이쪽 일이 매여 있는 거, 그게 바로 depend야."
+  },
+  {
+   "type": "ox",
+   "question": "우리 가족 캠핑을 가느냐 마느냐는 다음 주에 태풍이 오느냐 안 오느냐로 갈려. 태풍한테 뭘 믿고 맡긴 것도 아니고 마음을 준 것도 아니야. 이런 경우도 'depend'야?",
+   "choices": [
+    "응, 이것도 depend 맞아",
+    "아니, 이건 depend 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 이것도 depend 맞아",
+   "why": "맞아! 캠핑을 가느냐 마느냐가 태풍한테 걸려 있잖아. 태풍이 오면 못 가고 안 오면 가고, 이렇게 저쪽이 어떻게 되느냐에 이쪽이 갈리면 그게 바로 depend야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "rely",
+   "kind": "confusable",
+   "from": "vs rely"
+  },
+  {
+   "word": "trust",
+   "kind": "confusable",
+   "from": "vs trust"
+  }
+ ],
+ "related_scene": [
+  "upon"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-depend",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-depend"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/depend.webp",
+  "alt": "내일 소풍을 갈지 말지가 날씨에 매인 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

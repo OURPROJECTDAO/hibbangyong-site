@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/cloak/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/cloak/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "cloak",
+ "slug": "cloak",
+ "url": "https://hibbangyong.com/words/cloak/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "망토 — 소매 없이 어깨에 걸쳐 늘어뜨려서 몸을 감싸는 겉옷",
+ "gloss_ko": "몸 감싸는 망토",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "판타지 영화에서 여행자가 긴 겉옷을 어깨에 휙 두르고 걷는 거 본 적 있지?",
+  "그 옷엔 소매가 없어. 팔을 끼우는 게 아니라 어깨에서 아래로 늘어뜨려 몸 전체를 감싸.",
+  "그래서 몸을 덮어 주고, 그 사람이 누군지도 잘 안 보이게 가려 줘.",
+  "소매에 팔을 넣는 코트랑은 달라. 그게 cloak, 망토야."
+ ],
+ "scene": "판타지 영화 속 여행자가 긴 망토를 두르고 걷는 장면",
+ "examples": [
+  {
+   "en": "The old man took off his wet cloak and hung it by the fire.",
+   "ko": "할아버지가 젖은 망토를 벗어서 불 옆에 걸어 뒀어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "학교 연극에서 왕 역할을 맡은 친구가 소매 없는 긴 천 옷을 어깨에 걸치고 발목까지 늘어뜨려 몸 전체를 덮었어. 이 옷이 'cloak'일까?",
+   "choices": [
+    "응, cloak 맞아",
+    "아니, cloak 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, cloak 맞아",
+   "why": "맞아! 왕 역할 친구가 입은 옷은 소매가 없고, 어깨에 걸쳐서 발목까지 늘어뜨려 몸 전체를 덮었잖아. 바로 그게 cloak, 망토야."
+  },
+  {
+   "type": "ox",
+   "question": "바다에서 잠수부가 팔과 다리까지 몸에 딱 달라붙는 고무 잠수복을 입고 물에 들어갔어. 이 옷이 'cloak'일까?",
+   "choices": [
+    "응, cloak 맞아",
+    "아니, cloak 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, cloak 아니야",
+   "why": "맞아! 잠수복은 팔과 다리까지 끼워 입고 몸에 딱 달라붙잖아. cloak는 소매 없이 어깨에서 헐렁하게 늘어뜨려 몸을 덮는 옷이라서, 딱 붙는 잠수복은 cloak가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 친구가 오늘 입은 옷을 말했어. 'cloak'을 입은 친구는 누구일까?",
+   "choices": [
+    "지우는 소매 없는 긴 천을 목에서 여미고 무릎까지 늘어뜨렸어.",
+    "민호는 소매 달린 긴 겉옷의 단추를 목까지 다 잠갔어.",
+    "서연이는 몸에 딱 달라붙는 운동복을 입고 운동장을 달렸어.",
+    "준이는 셔츠 위에 소매 없는 짧은 조끼를 하나 걸쳐 입었어."
+   ],
+   "answer_index": 0,
+   "answer": "지우는 소매 없는 긴 천을 목에서 여미고 무릎까지 늘어뜨렸어.",
+   "why": "맞아! 지우 옷은 소매가 없고, 목에서 여며서 무릎까지 늘어뜨려 몸을 감싸잖아. 팔을 끼우지 않고 어깨에서 아래로 덮는 거, 그게 바로 cloak이야."
+  }
+ ],
+ "synonyms": [
+  "cape"
+ ],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-cloak",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-cloak"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/cloak.webp",
+  "alt": "판타지 영화 속 여행자가 긴 망토를 두르고 걷는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

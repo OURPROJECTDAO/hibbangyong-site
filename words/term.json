@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/term/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/term/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "term",
+ "slug": "term",
+ "url": "https://hibbangyong.com/words/term/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "용어 — 운동이나 과학 같은 한 세계에서 무언가를 부르려고 딱 정해 둔 말",
+ "gloss_ko": "용어",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "축구 볼 때 어른들이 갑자기 '오프사이드!' 하고 외치잖아.",
+  "그게 무슨 뜻인지 몰라도, 축구에서는 딱 그렇게 부르기로 정한 말이야.",
+  "이렇게 어떤 세계 안에서 뭔가를 부르려고 정해 놓은 말, 과학이든 게임이든 다 있거든?",
+  "그게 term이야."
+ ],
+ "scene": "축구 경기 중 어른들이 '오프사이드'라고 외치는 장면",
+ "examples": [
+  {
+   "en": "'Goal' is a special term we use in soccer.",
+   "ko": "'골'은 축구에서 쓰는 특별한 말이야."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "다음 중 'term'에 해당하는 것은?",
+   "choices": [
+    "볼링에서 열 개를 한 번에 다 쓰러뜨리면 '스트라이크'라고 불러.",
+    "우리 집 거실 창문은 아침마다 햇빛이 잘 들어와.",
+    "할머니가 부엌에서 미역국을 냄비에 끓이고 계셔.",
+    "친구가 운동장 구석에서 축구공을 발로 굴리고 있어."
+   ],
+   "answer_index": 0,
+   "answer": "볼링에서 열 개를 한 번에 다 쓰러뜨리면 '스트라이크'라고 불러.",
+   "why": "맞아! 볼링에서 열 개 다 쓰러뜨린 걸 부르려고 딱 정해 둔 이름이 스트라이크잖아. 볼링이라는 세계 안에서 그렇게 부르기로 정한 말, 그게 바로 term인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "짝꿍이 국어 시간에 하품하다가 '으아아암' 하고 소리를 냈어. 이게 'term'이야?",
+   "choices": [
+    "응, term 맞아",
+    "아니, term 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, term 아니야",
+   "why": "맞아! 하품하다 나온 '으아아암'은 그냥 입에서 저절로 나온 소리라서, 어디서 뭘 부르려고 미리 정해 둔 말이 아니거든. 그래서 term이 아닌 게 맞아."
+  },
+  {
+   "type": "choice",
+   "question": "네 가지 상황이야. 이 중에서 'term'이라고 부를 수 있는 건 뭘까?",
+   "choices": [
+    "야구에서 공을 세 번 헛치면 '삼진'이라고 딱 정해서 불러.",
+    "동생이 신나서 '우가우가!' 하고 아무렇게나 외쳤어.",
+    "아빠가 창밖을 보며 '오늘 날씨 참 좋다' 하고 말했어.",
+    "오빠가 화나서 방문을 쾅 하고 닫았어."
+   ],
+   "answer_index": 0,
+   "answer": "야구에서 공을 세 번 헛치면 '삼진'이라고 딱 정해서 불러.",
+   "why": "맞아! 야구에서는 공을 세 번 헛치면 누가 그러든 '삼진'이라고 부르기로 정해 놨거든. 야구 안에서 그걸 부르려고 딱 정해 둔 말이라서, 바로 그게 term인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "word",
+   "kind": "confusable",
+   "from": "그냥 아무 말/단어(word)"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-term",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-term"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/term.webp",
+  "alt": "축구 경기 중 어른들이 '오프사이드'라고 외치는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

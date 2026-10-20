@@ -1,0 +1,65 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/ambassador/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/ambassador/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "ambassador",
+ "slug": "ambassador",
+ "url": "https://hibbangyong.com/words/ambassador/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "대사 — 자기 나라(자기 편)를 대신해 다른 쪽에 가 있는 사람",
+ "gloss_ko": "나라를 대신하는 대사",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "우리 반 얘기를 전하러 네가 옆 반에 갔다고 해봐. 그 순간 옆 반 애들 눈엔 네가 우리 반 전체야.",
+  "나라끼리도 이래. 한 나라가 다른 나라로 사람을 보내서, 우리 쪽 말을 대신 하게 하고 거기 머물게 하지.",
+  "그냥 놀러 간 사람도, 혼자 공부하러 간 사람도 아니야. 뒤에 보낸 쪽이 있는 사람이거든?",
+  "그게 ambassador야."
+ ],
+ "scene": "우리 반을 대신해 옆 반에 가서 반 얘기를 전하는 아이",
+ "examples": [
+  {
+   "en": "Mia went to the other school as our ambassador.",
+   "ko": "미아는 우리를 대표하는 대사로 다른 학교에 갔어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "네 사람이 지금 다른 나라에 가 있어. 이 중에 'ambassador'인 사람은 누구일까?",
+   "choices": [
+    "그 나라 이곳저곳 구경하며 사진을 찍는 사람",
+    "그 나라 학교에서 혼자 공부를 하고 있는 사람",
+    "우리나라를 대신해 그쪽에 우리 뜻을 전하는 사람",
+    "그 나라 가게에서 물건을 사고파는 사람"
+   ],
+   "answer_index": 2,
+   "answer": "우리나라를 대신해 그쪽에 우리 뜻을 전하는 사람",
+   "why": "맞아! 우리나라가 보내서, 우리 뜻을 그쪽에 대신 전하고 있잖아. 뒤에 보낸 쪽이 있고 그 쪽을 대신하는 사람, 그게 바로 ambassador야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "embassy"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-ambassador",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-ambassador"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/ambassador.webp",
+  "alt": "우리 반을 대신해 옆 반에 가서 반 얘기를 전하는 아이",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

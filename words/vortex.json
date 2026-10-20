@@ -1,0 +1,99 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/vortex/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/vortex/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "vortex",
+ "slug": "vortex",
+ "url": "https://hibbangyong.com/words/vortex/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "소용돌이 — 물이나 공기가 빠르게 빙빙 돌면서 가운데로 빨아들이는 것",
+ "gloss_ko": "소용돌이",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "욕조 마개를 뽑으면 물이 구멍 위에서 빙빙 돌면서 쑥 빨려 내려가지?",
+  "물이든 공기든, 그렇게 빠르게 돌면서 가운데로 끌어당기는 게 vortex야. 토네이도도 공기로 된 vortex고.",
+  "제자리에서 빙글 도는 팽이나 한쪽으로 밀려오는 파도랑은 달라. 돌면서 안으로 빨아들여야 해.",
+  "그래서 걱정이나 사건에 정신없이 휘말려 빠져나오기 힘들 때도 이 말을 써."
+ ],
+ "scene": "욕조 마개를 뽑자 물이 구멍 위에서 돌며 빨려 내려가는 장면",
+ "examples": [
+  {
+   "en": "When I pulled the plug, the water turned into a little vortex.",
+   "ko": "마개를 뽑았더니 물이 작은 소용돌이가 돼서 빙빙 돌며 내려갔어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "바람 한 점 없는 이른 아침, 호수의 물이 거울처럼 가만히 있어. 물 위에 떠 있는 오리 모형 배도 한 자리에 그대로 있었어. 이 호수 물이 'vortex'일까?",
+   "choices": [
+    "응, vortex 맞아",
+    "아니, vortex 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, vortex 아니야",
+   "why": "맞아! 호수 물이 거울처럼 가만히 있고 오리 모형 배도 한 자리에 그대로 있잖아. 물이 빙빙 돌지도 않고 배를 가운데로 빨아들이지도 않으니까 vortex가 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "계곡에서 바위 옆의 물이 한 자리에서 빠르게 빙빙 돌아. 떠내려온 나뭇가지가 그 가운데로 끌려 들어가 물속으로 쑥 가라앉았어. 이 물의 움직임이 'vortex'일까?",
+   "choices": [
+    "응, vortex 맞아",
+    "아니, vortex 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, vortex 맞아",
+   "why": "맞아! 바위 옆의 물이 한 자리에서 빠르게 빙빙 돌면서 나뭇가지를 가운데로 끌고 들어가 가라앉혔잖아. 돌기만 하는 게 아니라 안으로 빨아들이기까지 하니까 바로 그게 vortex인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "가을날 학교 운동장에서 친구들이 바람을 봤어. 다음 중 'vortex'를 본 친구는 누구일까?",
+   "choices": [
+    "바람이 한 자리에서 빙빙 돌면서 낙엽을 가운데로 끌어모았어",
+    "바람이 한쪽으로 세게 불어서 낙엽을 담장 너머로 날렸어",
+    "동생이 돌린 팽이가 운동장 바닥에서 한참 돌다가 멈췄어",
+    "바람이 하나도 안 불어서 낙엽이 바닥에 가만히 있었어"
+   ],
+   "answer_index": 0,
+   "answer": "바람이 한 자리에서 빙빙 돌면서 낙엽을 가운데로 끌어모았어",
+   "why": "맞아! 바람이 한 자리에서 빙빙 돌면서 낙엽을 가운데로 끌어모았잖아. 돌기만 하는 게 아니라 안으로 끌어당기기까지 하니까 그게 바로 vortex야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "eddy",
+   "kind": "confusable",
+   "from": "vs eddy"
+  },
+  {
+   "word": "whirlwind",
+   "kind": "confusable",
+   "from": "vs whirlwind"
+  }
+ ],
+ "related_scene": [
+  "drain",
+  "spin"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-vortex",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-vortex"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/vortex.webp",
+  "alt": "욕조 마개를 뽑자 물이 구멍 위에서 돌며 빨려 내려가는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

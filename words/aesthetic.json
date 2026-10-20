@@ -1,0 +1,103 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/aesthetic/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/aesthetic/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "aesthetic",
+ "slug": "aesthetic",
+ "url": "https://hibbangyong.com/words/aesthetic/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "겉보기·멋에 관한 — 쓸모가 아니라 얼마나 보기 좋고 멋져 보이는지에 관한 거야.",
+ "gloss_ko": "겉보기·멋에 관한",
+ "level": {
+  "code": "L6",
+  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "운동화 두 켤레가 있다고 해봐. 하나는 발이 엄청 편하고, 하나는 그냥 딱 봤을 때 멋져.",
+  "근데 '멋지다'는 건 얼마나 튼튼한지, 얼마나 편한지랑은 상관이 없어. 그냥 눈으로 봐서 어떤지, 모양이랑 색이 어떤지 그 얘기거든.",
+  "쓸모 말고 '보기에·멋에' 관한 거야. 예쁘다고 할 수도 있고, 별로라고 할 수도 있어. 둘 다 보기 얘기니까.",
+  "이렇게 겉보기·멋에 관한 걸 aesthetic이라고 해."
+ ],
+ "scene": "운동화 두 켤레 중 멋진 것 고르기",
+ "examples": [
+  {
+   "en": "I picked this backpack for aesthetic reasons, not for how much it holds.",
+   "ko": "난 이 가방을 얼마나 많이 들어가느냐가 아니라, 그냥 보기에 멋져서 골랐어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "네 친구가 각자 의자를 고른 이유를 말했어. 'aesthetic'한 이유로 고른 사람은 누구일까?",
+   "choices": [
+    "색이랑 생김새가 마음에 들어서 골랐어.",
+    "더 튼튼해서 오래 쓸 수 있어서 골랐어.",
+    "값이 더 싸서 골랐어.",
+    "친구가 준 거라 소중해서 골랐어."
+   ],
+   "answer_index": 0,
+   "answer": "색이랑 생김새가 마음에 들어서 골랐어.",
+   "why": "맞아! 색이랑 생김새가 마음에 든다는 건 눈으로 봐서 어떤지, 딱 보기에 관한 거잖아. 그게 바로 aesthetic이야. 튼튼함이나 값이 아니라 멋·모양 얘기라서 그게 정답인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "형이 손으로 그림을 정말 잘 그리는 '재주'가 있어. 이 그림 그리는 솜씨·재능을 두고 'aesthetic'이라고 부르면 맞을까?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 아니야",
+   "why": "맞아! 그림 그리는 재주는 손으로 잘 만들어내는 솜씨거든. aesthetic은 다 만든 그림이 눈으로 보기에 멋진지 어떤지를 말하는 거라서, 솜씨 자체를 aesthetic이라고 하면 안 되는 거야. 딱 갈라낸 거야!"
+  },
+  {
+   "type": "ox",
+   "question": "친구가 가방에 키링 장식 하나를 '덧붙여 꾸민 것'만 딱 가리키며, 그 장식이 바로 'aesthetic'의 뜻이라고 했어. 'aesthetic'이 이렇게 '덧붙인 장식'만 가리키는 말일까?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 아니야",
+   "why": "맞아! aesthetic은 가방이든 신발이든 그 물건 전체가 눈으로 봐서 어떤지, 얼마나 멋져 보이는지를 말하는 거거든. 덧붙인 장식 하나만 딱 가리키는 말이 아니라서, 아니라고 한 네가 바로 맞았어."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "beautiful",
+   "kind": "confusable",
+   "from": "vs beautiful"
+  },
+  {
+   "word": "decorative",
+   "kind": "confusable",
+   "from": "vs decorative"
+  },
+  {
+   "word": "artistic",
+   "kind": "confusable",
+   "from": "vs artistic"
+  }
+ ],
+ "related_scene": [
+  "functionality"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-aesthetic",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-aesthetic"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/aesthetic.webp",
+  "alt": "운동화 두 켤레 중 멋진 것 고르기",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

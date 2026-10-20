@@ -1,0 +1,100 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/organization/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/organization/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "organization",
+ "slug": "organization",
+ "url": "https://hibbangyong.com/words/organization/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "단체 — 이름이 있고, 하려는 일이 있어서 꾸준히 모이는 사람들(동아리, 회사, 봉사 모임 같은 것)",
+ "gloss_ko": "단체",
+ "level": {
+  "code": "L3",
+  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "불이 났어. 지나가던 사람들이 우르르 달려와서 물을 날라. 근데 불 꺼지면? 다들 흩어져. 그걸로 끝이야.",
+  "어떤 모임은 달라. 이름이 있고, 하려는 일이 있고, 오늘 끝나도 내일 또 이어지거든?",
+  "작은 동아리도, 큰 회사도 다 그래. 좋은 일을 하든 나쁜 일을 하든 상관없어.",
+  "잠깐 모였다 흩어지는 무리랑은 달라. 이게 organization이야."
+ ],
+ "scene": "불이 나서 지나가던 사람들이 잠깐 힘을 합쳤다 흩어짐",
+ "examples": [
+  {
+   "en": "My mom works for an organization that helps sick animals.",
+   "ko": "우리 엄마는 아픈 동물을 도와주는 단체에서 일해."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "공원에 사람들이 모여 있어. '새벽달리기회'라는 이름을 달고 토요일마다 같이 공원을 달리는 사람들이야. 이 사람들은 'organization'이야?",
+   "choices": [
+    "응, organization 맞아",
+    "아니, organization 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, organization 맞아",
+   "why": "맞아! 이 사람들은 '새벽달리기회'라는 이름이 있고, 같이 공원을 달리는 일을 토요일마다 계속 이어 가거든. 그래서 바로 organization인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "도서관 열람실에 사람들이 앉아 있어. 토요일 아침이라 한 명은 수학 문제를 풀고, 한 명은 소설을 읽고 있어. 이 사람들은 'organization'이야?",
+   "choices": [
+    "응, organization 맞아",
+    "아니, organization 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, organization 아니야",
+   "why": "맞아! 한 명은 수학 문제를 풀고, 한 명은 소설을 읽고 있잖아. 모임 이름도 없고 같이 하려는 일도 없이 각자 자기 일을 하고 있는 거야. 그래서 organization이 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "직원 스무 명이 과자를 만들어 가게에 팔고 돈을 버는 과자 회사가 있어. 이런 경우도 'organization'이야?",
+   "choices": [
+    "응, 'organization' 맞아",
+    "아니, 'organization' 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 'organization' 맞아",
+   "why": "맞아! 이 과자 회사에는 스무 명이 모여 있고, 과자를 만들어 파는 일을 오늘도 내일도 이어 가거든. 돈을 버는 회사라도 이렇게 이어지는 모임이니까 바로 organization인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "group",
+   "kind": "confusable",
+   "from": "vs group"
+  },
+  {
+   "word": "company",
+   "kind": "confusable",
+   "from": "vs company"
+  }
+ ],
+ "related_scene": [
+  "charter",
+  "headquarters",
+  "hierarchy",
+  "induction",
+  "organize"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-organization",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-organization"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/organization.webp",
+  "alt": "불이 나서 지나가던 사람들이 잠깐 힘을 합쳤다 흩어짐",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/favour/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/favour/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "favour",
+ "slug": "favour",
+ "url": "https://hibbangyong.com/words/favour/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "안 해도 되는 일인데 남을 위해 해주는 고마운 일.",
+ "gloss_ko": "남을 돕는 고마운 일",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "비 오는 날, 짝꿍이 자기 우산을 내 쪽으로 기울여 줬어.",
+  "그런 규칙이 있는 것도 아니고, 누가 시킨 것도 아니야. 그냥 내가 안 젖었으면 해서 해준 거야.",
+  "내가 아파서 학교에 못 갔을 때, 친구가 알림장을 대신 적어서 갖다준 것도 favour야. 그 친구가 꼭 해야 하는 일은 아니었거든.",
+  "맡은 일이라서 어쩔 수 없이 도와주는 거랑은 달라. 그게 favour야."
+ ],
+ "scene": "비 오는 날 짝꿍이 우산을 내 쪽으로 기울여 준 장면",
+ "examples": [
+  {
+   "en": "My sister fed my hamster for me, and that was a big favour.",
+   "ko": "언니가 내 햄스터 밥을 대신 챙겨줬는데, 그게 진짜 고마운 일이었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "현우는 짝꿍 서연이가 색칠을 다 끝내자, 몰래 검은 크레파스로 그 위에 마구 선을 그어 놨어. 이건 favour야?",
+   "choices": [
+    "응, favour 맞아",
+    "아니, favour 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, favour 아니야",
+   "why": "맞아! favour는 상대가 잘됐으면 해서 해주는 고마운 일인데, 이건 서연이 그림을 일부러 망친 거잖아. 도와준 게 아니라 골탕 먹인 거라서 favour가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "지호네 반에서 오늘 이런 일 네 가지가 있었어. 이 중에서 'favour'인 것은 뭘까?",
+   "choices": [
+    "옆자리 친구가 자기 필통에 하나뿐인 연필을 지호한테 하루 빌려준 일",
+    "급식 시간에 지호가 국그릇을 들고 자기 자리로 걸어간 일",
+    "교실 뒤 화분에 어제 심은 방울토마토 싹이 두 개 올라온 일",
+    "시계 바늘이 12를 지나 점심시간을 알린 일"
+   ],
+   "answer_index": 0,
+   "answer": "옆자리 친구가 자기 필통에 하나뿐인 연필을 지호한테 하루 빌려준 일",
+   "why": "맞아! 하나뿐인 연필인데 지호 쓰라고 하루 빌려준 거잖아. 안 빌려줘도 되는 건데 지호 생각해서 해준 거니까 바로 그게 favour인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "민수한테 오늘 있었던 일 네 가지야. 이 중에서 민수가 'favour'를 받은 때는 언제일까?",
+   "choices": [
+    "급식 아주머니가 민수 그릇에 반찬을 골고루 담아 주셨을 때",
+    "앞자리 누나가 아끼던 새 색연필을 민수한테 하루 빌려줬을 때",
+    "도서관 선생님이 민수가 찾던 책이 있는 칸을 알려 주셨을 때",
+    "민수가 값을 내고 문방구 아저씨한테 지우개를 받았을 때"
+   ],
+   "answer_index": 1,
+   "answer": "앞자리 누나가 아끼던 새 색연필을 민수한테 하루 빌려줬을 때",
+   "why": "맞아! 색연필을 안 빌려줘도 되는데 누나가 골라서 빌려준 거잖아. 그것도 아끼는 새 거를! 시킨 사람도 없고 누나가 해야 하는 일도 아닌데 민수를 위해서 해준 거라, 바로 그게 favour야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "kindness",
+   "kind": "confusable",
+   "from": "vs kindness"
+  }
+ ],
+ "related_scene": [
+  "grateful"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-favour",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-favour"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/favour.webp",
+  "alt": "비 오는 날 짝꿍이 우산을 내 쪽으로 기울여 준 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

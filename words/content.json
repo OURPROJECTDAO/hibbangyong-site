@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/content/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/content/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "content",
+ "slug": "content",
+ "url": "https://hibbangyong.com/words/content/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "내용물 — 겉이 아니라 그 안에 들어 있는 것(알맹이)",
+ "gloss_ko": "내용물",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "택배 상자가 왔어. 겉엔 그림이 잔뜩인데, 궁금한 건 딱 하나지. 안에 뭐 들었냐.",
+  "상자면 안에 든 장난감, 책이면 거기 적힌 이야기, 영상이면 거기 나오는 장면들. 다 그거야.",
+  "좋은 거든 무서운 거든 상관없어. 안에 들었으면 전부 여기 들어가.",
+  "담는 껍데기 말고 그 속을 말하는 거야. 그게 content야."
+ ],
+ "scene": "겉에 그림 잔뜩인 택배 상자와 그 속",
+ "examples": [
+  {
+   "en": "The video was short, but the content was really scary.",
+   "ko": "영상은 짧았는데 내용은 진짜 무서웠어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "동생 필통을 열어 보니 연필 세 자루랑 지우개 하나가 들어 있었어. 이 연필과 지우개가 필통의 'content'야?",
+   "choices": [
+    "응, content 맞아",
+    "아니, content 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, content 맞아",
+   "why": "맞아! 필통은 담는 껍데기고, 그 안에 들어 있는 연필이랑 지우개가 바로 알맹이거든. 그래서 그게 필통의 content인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "할머니가 보낸 봉투가 도착했어. 봉투 바깥에 주소가 적혀 있고 우표도 붙어 있었지. 이 주소와 우표가 봉투의 'content'야?",
+   "choices": [
+    "응, content 맞아",
+    "아니, content 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, content 아니야",
+   "why": "맞아, 아니야! 주소랑 우표는 봉투 겉에 붙어 있는 거지, 봉투를 열었을 때 안에서 나오는 게 아니잖아. content는 안에 들어 있는 편지 같은 거야."
+  },
+  {
+   "type": "choice",
+   "question": "주스 병 하나를 앞에 놓고 네 아이가 한마디씩 했어. 이 중에서 병의 'content'를 말한 아이는 누구일까?",
+   "choices": [
+    "병 겉에 붙은 딸기 그림이 참 예쁘다",
+    "한 병 다 마시고 나니 배부르고 좋다",
+    "설탕이 몇 숟가락쯤 섞여 있는지 알아보자",
+    "이 병, 유리로 만들었을까 플라스틱일까"
+   ],
+   "answer_index": 2,
+   "answer": "설탕이 몇 숟가락쯤 섞여 있는지 알아보자",
+   "why": "맞아! 병 안에 설탕이 얼마나 녹아 있는지 궁금해한 거잖아. 겉이 아니라 그 속에 진짜 들어 있는 걸 말했으니까, 그게 바로 이 병의 알맹이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "contain"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-content",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-content"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/content.webp",
+  "alt": "겉에 그림 잔뜩인 택배 상자와 그 속",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

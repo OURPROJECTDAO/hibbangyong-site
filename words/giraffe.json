@@ -1,0 +1,75 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/giraffe/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/giraffe/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "giraffe",
+ "slug": "giraffe",
+ "url": "https://hibbangyong.com/words/giraffe/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "기린 — 목이 아주 긴 초식 동물",
+ "gloss_ko": "기린",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "그림 속 목이 길고 갈색 반점이 있는 이 동물이 바로 기린(giraffe)이야.",
+  "동물원에 가면 높은 나뭇잎을 긴 목으로 따 먹는 기린을 볼 수 있어."
+ ],
+ "scene": "긴 목과 갈색 반점 무늬가 또렷한 기린 한 마리가 사바나 풀밭에 서 있는 전신(뿔부터 발굽까지) 모습",
+ "examples": [
+  {
+   "en": "The giraffe used its long neck to eat leaves from the tall tree.",
+   "ko": "기린이 긴 목을 써서 높은 나무의 잎을 따 먹었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "코를 길게 늘어뜨려 물을 뿜고 커다란 귀를 팔랑이는 동물이 있어. 이게 giraffe야?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 아니야",
+   "why": null
+  },
+  {
+   "type": "choice",
+   "question": "giraffe은 어느 것일까?",
+   "choices": [
+    "코가 아주 길어서 코로 물을 뿜는 동물",
+    "등껍질이 아주 단단해서 몸을 쏙 숨기는 동물",
+    "목이 아주 길어서 높은 곳까지 닿는 동물",
+    "몸이 아주 커서 깊은 바닷속에 사는 동물"
+   ],
+   "answer_index": 2,
+   "answer": "목이 아주 길어서 높은 곳까지 닿는 동물",
+   "why": null
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "leaf",
+  "zebra"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-giraffe",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-giraffe"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/giraffe.webp",
+  "alt": "긴 목과 갈색 반점 무늬가 또렷한 기린 한 마리가 사바나 풀밭에 서 있는 전신(뿔부터 발굽까지) 모습",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

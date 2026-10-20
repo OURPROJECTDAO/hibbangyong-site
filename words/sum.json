@@ -1,0 +1,97 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/sum/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/sum/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "sum",
+ "slug": "sum",
+ "url": "https://hibbangyong.com/words/sum/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "합 — 여러 개를 다 더해서 나온 하나의 수(금액을 말할 때도 씀)",
+ "gloss_ko": "다 더해서 나온 수",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "따로따로 흩어져 있던 수들을 한 덩어리로 모으면 뭐가 나올까?",
+  "네 점수 3점, 내 점수 0점, 옆 친구 1점. 다 더하면 4점. 이 4가 우리 셋을 한꺼번에 말해 주는 하나의 수야.",
+  "크게 나올 수도 있고, 생각보다 작게 나올 수도 있어. 돈을 다 더한 값도 똑같이 이렇게 불러.",
+  "제일 큰 하나를 고른 것도 아니고, 몇 개인지 센 것도 아니야. 다 더해서 나온 그 하나의 수, 이게 sum이야."
+ ],
+ "scene": "세 사람 점수를 다 더해 나온 팀 점수",
+ "examples": [
+  {
+   "en": "The sum of our three scores was only four.",
+   "ko": "우리 셋의 점수를 다 더한 합은 겨우 4였어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "우리 팀 세 명이 점수를 냈어. 3점, 0점, 1점. 이 중에서 'sum'에 해당하는 건 어떤 수일까?",
+   "choices": [
+    "셋을 다 모으면 나오는 4점",
+    "셋 중에서 제일 높은 3점",
+    "높은 점수에서 낮은 점수를 뺀 3점",
+    "점수를 낸 사람 수인 3명"
+   ],
+   "answer_index": 0,
+   "answer": "셋을 다 모으면 나오는 4점",
+   "why": "맞아! 셋의 점수를 하나도 빼놓지 않고 다 더하니까 4가 나온 거잖아. 그렇게 모아서 나온 하나의 수가 바로 sum이야."
+  },
+  {
+   "type": "choice",
+   "question": "텃밭에서 방울토마토를 땄어. 화요일에 5개, 목요일에 2개, 토요일에 6개 땄어. 이 중에서 'sum'에 해당하는 수는 어떤 걸까?",
+   "choices": [
+    "맨 처음 날 딴 5개",
+    "가장 적게 딴 날의 2개",
+    "세 날 다 더한 13개",
+    "맨 마지막 날 딴 6개"
+   ],
+   "answer_index": 2,
+   "answer": "세 날 다 더한 13개",
+   "why": "맞아! 세 날에 딴 걸 하나도 빼놓지 않고 다 더해서 나온 수가 13이잖아. 그렇게 여럿을 한 덩어리로 모아 나온 하나의 수, 그게 바로 sum인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "내 연필은 9자루, 동생 연필은 2자루야. 내가 동생보다 7자루 더 많아. 이 7이 'sum'이야?",
+   "choices": [
+    "응, sum 맞아",
+    "아니, sum 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, sum 아니야",
+   "why": "그렇지, 이건 sum이 아니야. 9에서 2를 빼서 얼마나 더 많은지 본 거잖아. 두 사람 연필을 다 모으면 11자루, 그 11이 sum인 거야."
+  }
+ ],
+ "synonyms": [
+  "amount"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "amount",
+   "kind": "confusable",
+   "from": "vs amount"
+  }
+ ],
+ "related_scene": [
+  "plus"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-sum",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-sum"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/sum.webp",
+  "alt": "세 사람 점수를 다 더해 나온 팀 점수",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

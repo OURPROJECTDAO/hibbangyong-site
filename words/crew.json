@@ -1,0 +1,79 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/crew/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/crew/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "crew",
+ "slug": "crew",
+ "url": "https://hibbangyong.com/words/crew/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "손님이 아니라, 배나 비행기에서 함께 일하는 사람들 모두",
+ "gloss_ko": "배·비행기에서 일하는 사람들",
+ "level": {
+  "code": "L4",
+  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "배가 한 척 바다로 나가는데, 그 위엔 표 사서 탄 손님도 있고, 일하러 탄 사람도 있어.",
+  "일하러 탄 쪽은 그냥 안 앉아 있어. 한 명은 키를 잡고, 한 명은 줄을 당기고, 한 명은 짐을 옮겨.",
+  "각자 맡은 일을 해서 그 배가 앞으로 나아가게 하는 거야. 타고만 가는 손님 말고, 배를 움직이는 사람들.",
+  "배든 비행기든 영화 찍는 데든, 이렇게 같이 한 가지 일을 돌리는 무리, 그게 crew야."
+ ],
+ "scene": "배 위에서 손님 말고 각자 맡은 일을 하며 배를 굴러가게 하는 사람들",
+ "examples": [
+  {
+   "en": "The whole crew cheered when the ship finally reached land.",
+   "ko": "배가 드디어 육지에 닿자 선원들 모두가 환호했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "작은 나룻배에 한 사람만 올라타서, 혼자 노를 저어 강을 건너가. 이 한 사람을 'crew'라고 할 수 있어?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 아니야",
+   "why": "맞아! crew는 한 명이 키 잡고 한 명이 줄 당기고, 여럿이 일을 나눠서 배를 굴리는 무리거든. 그래서 혼자 노 젓는 한 사람은 crew라고 할 수 없는 거야."
+  },
+  {
+   "type": "choice",
+   "question": "큰 배 한 척이 항구를 떠나. 배 안엔 여러 무리의 사람이 있는데, 이 중 'crew'는 어느 무리일까?",
+   "choices": [
+    "돈을 내고 배에 올라, 도착할 때까지 자리에서 편히 쉬며 가는 사람들",
+    "월급을 받고 배에 올라, 키와 돛을 맡아 배가 가도록 일하는 사람들",
+    "배엔 타지 않고, 항구에 남아 떠나는 배를 손 흔들며 바라보는 사람들",
+    "배와는 상관없이, 멀리 언덕에서 배 풍경을 그리는 한 사람"
+   ],
+   "answer_index": 1,
+   "answer": "월급을 받고 배에 올라, 키와 돛을 맡아 배가 가도록 일하는 사람들",
+   "why": "맞아! 월급 받고 올라타서 키랑 돛을 맡아 배가 가도록 일하잖아. 타고만 가는 게 아니라 배를 굴리는 사람들, 그게 바로 crew인 거야."
+  }
+ ],
+ "synonyms": [
+  "gang"
+ ],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "embark",
+  "unmanned"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-crew",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-crew"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/crew.webp",
+  "alt": "배 위에서 손님 말고 각자 맡은 일을 하며 배를 굴러가게 하는 사람들",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,92 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/allege/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/allege/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "allege",
+ "slug": "allege",
+ "url": "https://hibbangyong.com/words/allege/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "주장하다 — 증거는 아직 없는데, 어떤 일이(흔히 누가 잘못했다는 게) 사실이라고 말하다",
+ "gloss_ko": "증거 없이 주장하다",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "\"민수가 내 펜 가져갔어.\" 짝이 선생님한테 이렇게 말했어.",
+  "근데 본 사람도 없고, 증거도 아직 없어. 그 말이 맞을 수도 있고 틀릴 수도 있지.",
+  "이렇게 아직 증명 안 된 걸 사실이라고 말하는 게 allege야. 뉴스에서 누가 잘못했다고 할 때 많이 들려.",
+  "거짓말한다는 뜻은 아니야. 나중에 진짜로 밝혀질 수도 있어. 아직 확인이 안 됐을 뿐이야."
+ ],
+ "scene": "짝이 선생님께 민수가 펜을 가져갔다고 말하는 장면(증거 없음)",
+ "examples": [
+  {
+   "en": "She alleged that her neighbor had taken her bike.",
+   "ko": "걔는 옆집 사람이 자기 자전거를 가져갔다고 주장했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "축구 경기 중에 한 선수가 심판에게 \"상대 선수가 일부러 제 발을 밟았어요.\"라고 말했어. 심판은 아직 영상을 확인하지 않았고, 정말 그랬는지는 아무도 몰라. 이 선수가 한 말이 'allege'야?",
+   "choices": [
+    "응, allege 맞아",
+    "아니, allege 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, allege 맞아",
+   "why": "맞아! 선수는 심판이 아직 영상도 안 봤고 정말 그랬는지 아무도 모르는데, 상대 선수가 일부러 발을 밟았다고 사실처럼 말했잖아. 아직 증명 안 된 잘못을 사실이라고 말하는 거, 그게 바로 allege야."
+  },
+  {
+   "type": "ox",
+   "question": "경찰이 금고에 남은 지문을 검사해서, 누가 금고를 열었는지 확실하게 밝혀냈어. 이제 의심할 여지가 없어. 경찰이 한 이 일이 'allege'야?",
+   "choices": [
+    "응, allege 맞아",
+    "아니, allege 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, allege 아니야",
+   "why": "맞아! 경찰은 금고에 남은 지문을 검사해서 누가 열었는지 확실하게 밝혀냈잖아. 증거로 이미 확인이 끝난 일이니까, 아직 증명 안 된 걸 사실이라고 말하는 allege랑은 정반대인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "반장이 \"준호가 창문을 깼어요.\"라고 선생님께 'allege' 했어. 이 상황에서 알 수 있는 건 뭘까?",
+   "choices": [
+    "반장이 없던 일을 일부러 지어내서 말했어",
+    "준호가 창문을 깬 게 이미 확실하게 밝혀졌어",
+    "반장은 그렇게 말했지만 맞는지는 아직 아무도 몰라",
+    "준호가 자기가 깼다고 스스로 털어놓았어"
+   ],
+   "answer_index": 2,
+   "answer": "반장은 그렇게 말했지만 맞는지는 아직 아무도 몰라",
+   "why": "맞아! 반장은 준호가 창문을 깼다고 말했지만 증거는 아직 없잖아. 맞을 수도 틀릴 수도 있는데 일단 사실이라고 말한 거, 그게 바로 allege야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "accuse",
+   "kind": "confusable",
+   "from": "vs accuse"
+  },
+  {
+   "word": "claim",
+   "kind": "confusable",
+   "from": "vs claim"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-allege",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-allege"
+ },
+ "image": null
+}

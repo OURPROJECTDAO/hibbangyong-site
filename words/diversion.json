@@ -1,0 +1,83 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/diversion/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/diversion/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "diversion",
+ "slug": "diversion",
+ "url": "https://hibbangyong.com/words/diversion/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "전환 — 원래 가던 방향이나 쓰이던 곳에서 다른 쪽으로 돌리는 것",
+ "gloss_ko": "방향 돌리기",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "공사로 길이 막히면 경찰이 차들을 옆길로 보내잖아.",
+  "강물 일부를 마른 논으로 빼 주는 것도, 반 회비를 원래 계획과 다른 데 쓰는 것도 같은 거야.",
+  "흐름은 그대로 이어지는데 가는 곳만 딴 데로 바뀌어. 이게 diversion이야.",
+  "그냥 막아서 멈추게 하는 거랑은 달라. 멈추는 게 아니라 방향이 바뀌는 거야."
+ ],
+ "scene": "공사로 막힌 길에서 차들을 옆길로 보내기",
+ "examples": [
+  {
+   "en": "The diversion of river water helped the farmers in the dry season.",
+   "ko": "강물을 논 쪽으로 돌려 준 덕분에 가뭄 때 농부들이 큰 도움을 받았어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "목적지 공항에 짙은 안개가 껴서 비행기가 거기 못 내리고, 근처 다른 공항으로 날아가 내렸어. 이 비행기에 일어난 일이 'diversion'이야?",
+   "choices": [
+    "응, diversion 맞아",
+    "아니, diversion 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, diversion 맞아",
+   "why": "맞아! 비행기는 안개 때문에 멈춘 게 아니라 계속 날았고, 내린 곳만 원래 목적지 공항에서 근처 다른 공항으로 바뀌었잖아. 가던 길은 이어지는데 도착하는 곳이 딴 데로 바뀐 거니까 바로 그게 diversion인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "아침에 눈이 조금 내렸지만, 버스는 평소 노선 그대로 달려서 원래 가던 종점까지 갔어. 이 버스에 일어난 일이 'diversion'이야?",
+   "choices": [
+    "응, diversion 맞아",
+    "아니, diversion 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, diversion 아니야",
+   "why": "맞아! 눈이 조금 왔어도 버스는 평소 노선 그대로 달려서 원래 가던 종점까지 갔잖아. 가는 곳이 다른 데로 바뀐 게 하나도 없으니까 diversion이 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "장마철에 빗물이 아파트 지하 주차장으로 흘러들었어. 관리인이 배수로를 새로 파서 빗물이 주차장 대신 화단 쪽으로 흘러가게 했어. 이런 경우도 'diversion'이야?",
+   "choices": [
+    "응, diversion 맞아",
+    "아니, diversion 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, diversion 맞아",
+   "why": "맞아! 빗물은 그대로 계속 흘러가는데, 관리인이 배수로를 새로 파서 가는 곳만 주차장에서 화단 쪽으로 바꿨잖아. 흐름은 이어지고 방향만 딴 데로 돌린 거니까 바로 그게 diversion이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-diversion",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-diversion"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/diversion.webp",
+  "alt": "공사로 막힌 길에서 차들을 옆길로 보내기",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

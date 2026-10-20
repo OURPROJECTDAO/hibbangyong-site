@@ -1,0 +1,98 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/condemn/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/condemn/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "condemn",
+ "slug": "condemn",
+ "url": "https://hibbangyong.com/words/condemn/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "대놓고 \"이건 잘못됐다·이건 못 쓴다\"고 여지 없이 못 박아 말하다",
+ "gloss_ko": "잘못됐다고 못 박아 말하다",
+ "level": {
+  "code": "L6",
+  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "누가 놀이터 큰 나무를 밤에 몰래 베어 버렸대. 누가 그랬는지는 아무도 몰라. 그런데도 동네 사람들이 대놓고 말했어. \"이건 잘못된 일이야. 절대 안 돼.\"",
+  "여지를 안 남기는 말이야. 화나서 소리 지르는 거랑은 달라. 기분을 쏟아내는 게 아니라, 그 일에 잘못이라고 도장을 꽝 찍는 거거든.",
+  "혼내는 거랑도 달라. 혼내는 건 눈앞의 애를 고치려는 말이잖아. 이건 그 사람이 없어도, 딴 데서 일어난 일이어도 해. 낡은 다리를 살펴보고 \"위험해서 이제 못 씁니다\" 하고 못 박을 때도 이 말을 써.",
+  "이게 condemn이야."
+ ],
+ "scene": "놀이터 큰 나무를 누가 몰래 베어 버렸는데 범인이 누군지도 모르는 채 동네 사람들이 대놓고 잘못이라 못 박는 장면",
+ "examples": [
+  {
+   "en": "Everyone in our town condemned what someone did to the big tree in the playground.",
+   "ko": "우리 동네 사람들 모두가 누가 놀이터 큰 나무에 한 짓을 잘못됐다고 못 박아 말했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "수영장을 살펴보러 온 사람이 물을 확인하고 나서 알렸어. \"물이 아주 깨끗합니다. 오늘부터 들어가셔도 됩니다.\" 이게 'condemn'이야?",
+   "choices": [
+    "응, condemn 맞아",
+    "아니, condemn 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, condemn 아니야",
+   "why": "맞아! 수영장을 살펴본 사람은 물이 아주 깨끗해서 오늘부터 들어가도 된다고 알려 줬잖아. condemn은 잘못됐다, 이제 못 쓴다고 분명하게 말하는 거거든. 그런데 이건 괜찮다고 말해 준 거라서 condemn이 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "도서관 계단 난간이 흔들려서 살펴보러 온 사람이 계단 앞에 서서 알렸어. \"이 계단은 위험합니다. 오늘부터 아무도 못 씁니다.\" 이게 'condemn'이야?",
+   "choices": [
+    "응, condemn 맞아",
+    "아니, condemn 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, condemn 맞아",
+   "why": "맞아! 살펴보러 온 사람이 흔들리는 계단 앞에서 \"이 계단은 위험합니다. 오늘부터 아무도 못 씁니다.\"라고 분명하게 알렸잖아. 이렇게 이 계단은 이제 못 쓴다고 대놓고 말하는 게 바로 condemn인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "놀이공원 기구를 살펴보러 온 아저씨가 아주 낡은 회전목마를 'condemn'했대. 아저씨가 한 일은 어느 쪽일까?",
+   "choices": [
+    "탈 자리마다 줄을 쳐 놓고 알렸어. \"이 기구는 위험합니다. 이제 못 탑니다.\"",
+    "여기저기 손을 봐 놓고 알렸어. \"이제 안전합니다. 마음껏 타셔도 됩니다.\"",
+    "낡아 버린 걸 보고 \"아이고, 옛날엔 참 좋았는데\" 하며 한참 서 있었어.",
+    "누가 이렇게 망가뜨렸는지 찾아내서 \"저 사람 탓입니다\" 하고 이름을 알렸어."
+   ],
+   "answer_index": 0,
+   "answer": "탈 자리마다 줄을 쳐 놓고 알렸어. \"이 기구는 위험합니다. 이제 못 탑니다.\"",
+   "why": "맞아! 아저씨가 낡은 회전목마를 살펴보고 \"이 기구는 위험합니다. 이제 못 탑니다.\" 하고 대놓고 분명하게 말했잖아. 이렇게 이건 안 된다고 누구나 알게 딱 정해서 말하는 게 바로 condemn인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "criticize",
+   "kind": "confusable",
+   "from": "vs criticize"
+  },
+  {
+   "word": "disapprove",
+   "kind": "confusable",
+   "from": "vs disapprove"
+  }
+ ],
+ "related_scene": [
+  "judge"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-condemn",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-condemn"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/condemn.webp",
+  "alt": "놀이터 큰 나무를 누가 몰래 베어 버렸는데 범인이 누군지도 모르는 채 동네 사람들이 대놓고 잘못이라 못 박는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/analysis/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/analysis/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "analysis",
+ "slug": "analysis",
+ "url": "https://hibbangyong.com/words/analysis/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "분석(하나씩 따져 보기) — 뭉쳐 있는 걸 조각조각 갈라서, 왜 그런지 하나씩 알아내는 일",
+ "gloss_ko": "하나씩 따져 보기",
+ "level": {
+  "code": "L3",
+  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "친구 종이비행기는 저 끝까지 날아가는데 내 건 코부터 툭 떨어져. 그럼 둘을 나란히 펴 놓고 봐봐. 접은 자리 하나, 날개 넓이 하나, 코 무게 하나. 아하, 여기가 다르구나!",
+  "이렇게 한 덩어리로 뭉쳐 보이던 걸 조각으로 갈라서 하나씩 따져 보는 거야.",
+  "종이비행기만 그런 게 아니야. 왜 졌는지 게임 한 판을 장면마다 되돌려 볼 때도, 친구가 왜 서운했는지 그날 일을 되짚을 때도, 피 한 방울에 뭐가 들었나 볼 때도 똑같아. 눈에 보이는 거든 안 보이는 마음이든 다 돼.",
+  "그냥 '내 건 잘 안 날아' 한마디 하고 마는 거랑은 달라. 갈라서 이유를 찾아내는 것, 그게 analysis야."
+ ],
+ "scene": "두 종이비행기를 나란히 펴 놓고 접은 자리·날개 넓이·코 무게를 하나씩 견줘 보는 장면",
+ "examples": [
+  {
+   "en": "Dad and I did an analysis of why our cookies burned.",
+   "ko": "아빠랑 나는 쿠키가 왜 탔는지 하나씩 따져 봤어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "동생 자전거만 자꾸 한쪽으로 기울어져. 형이 자전거를 세워 놓고 바퀴 바람, 안장 높이, 손잡이 각도를 하나씩 따로 확인하면서 어느 것 때문에 기우는지 찾아봤어. 이게 'analysis'야?",
+   "choices": [
+    "응, analysis 맞아",
+    "아니, analysis 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, analysis 맞아",
+   "why": "맞아! 그냥 기울어진다고 보고 마는 게 아니라 바퀴 바람, 안장 높이, 손잡이 각도로 하나씩 갈라서 어디가 문제인지 찾아본 거잖아. 뭉쳐 보이던 걸 조각으로 나눠서 이유를 찾아내는 것, 그게 바로 analysis인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "책상에 흩어진 퍼즐 조각들을 아이가 하나하나 맞춰서 커다란 그림 한 장으로 완성했어. 이게 'analysis'야?",
+   "choices": [
+    "응, analysis 맞아",
+    "아니, analysis 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, analysis 아니야",
+   "why": "맞아! 흩어진 조각을 하나로 모아 붙인 거잖아. analysis는 그 반대로, 뭉쳐 있는 걸 조각조각 갈라서 왜 그런지 알아내는 거거든. 그래서 아니야가 딱 맞아."
+  },
+  {
+   "type": "ox",
+   "question": "민호가 새로 나온 로봇 장난감을 한참 만지작거리더니 \"음… 그냥 별로네\" 하고 상자에 도로 넣었어. 이런 경우도 'analysis'야?",
+   "choices": [
+    "응, 'analysis' 맞아",
+    "아니, 'analysis' 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 'analysis' 아니야",
+   "why": "맞아! 민호는 그냥 만져만 보다가 별로네 한마디 하고 끝냈잖아. 왜 별로인지, 팔이 뻑뻑한 건지 색이 마음에 안 드는 건지 하나도 안 갈라 봤거든. 그러니까 이건 analysis가 아닌 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "examination",
+   "kind": "confusable",
+   "from": "vs examination"
+  },
+  {
+   "word": "diagnosis",
+   "kind": "confusable",
+   "from": "vs diagnosis"
+  }
+ ],
+ "related_scene": [
+  "analyze"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-analysis",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-analysis"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/analysis.webp",
+  "alt": "두 종이비행기를 나란히 펴 놓고 접은 자리·날개 넓이·코 무게를 하나씩 견줘 보는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

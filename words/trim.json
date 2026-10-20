@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/trim/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/trim/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "trim",
+ "slug": "trim",
+ "url": "https://hibbangyong.com/words/trim/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "다듬다 — 삐져나온 데만 조금 잘라서 가지런하게 하다",
+ "gloss_ko": "다듬다",
+ "level": {
+  "code": "L4",
+  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "화분에 심은 나무에서 가지 하나가 삐죽 튀어나왔어. 그 가지 끝만 조금 싹둑.",
+  "나무를 통째로 베는 게 아니야. 튀어나온 만큼만 살짝 덜어 내서 모양을 가지런하게 하는 거거든?",
+  "손톱도, 머리끝도, 마당 잔디도 이렇게 해. 길게 삐져나온 데만 조금.",
+  "그게 trim이야."
+ ],
+ "scene": "화분 나무에서 삐죽 튀어나온 가지 끝만 조금 잘라 모양을 맞추는 장면",
+ "examples": [
+  {
+   "en": "Grandma will trim my nails, just a little bit.",
+   "ko": "할머니가 내 손톱을 아주 조금만 다듬어 주실 거야."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "짧은 연날리기 실이 모자라서 새 실을 매듭으로 이어 더 길게 만들었어. 이게 'trim'이야?",
+   "choices": [
+    "응, trim 맞아",
+    "아니, trim 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, trim 아니야",
+   "why": "맞아! 새 실을 매듭으로 이어서 실이 더 길어졌잖아. trim은 삐져나온 데만 조금 잘라서 짧게 하는 거라서, 길게 만든 이건 trim이 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "미용실에서 언니가 내 앞머리 끝을 눈썹 위로 조금만 잘라 가지런하게 했어. 이게 'trim'이야?",
+   "choices": [
+    "응, trim 맞아",
+    "아니, trim 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, trim 맞아",
+   "why": "맞아! 언니가 앞머리를 다 자른 게 아니라 끝만 조금 잘라서 가지런하게 했잖아. 바로 그게 trim인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 아이가 마당 나무를 각자 어떻게 했는지 말했어. 나무를 'trim' 한 아이는 누구일까?",
+   "choices": [
+    "삐져나온 가지 끝을 조금씩만 잘라 낸 아이",
+    "밑동을 톱으로 잘라 나무를 쓰러뜨린 아이",
+    "잎에 앉은 먼지를 물수건으로 닦아 준 아이",
+    "가지에 줄을 이어 묶어 더 길게 만든 아이"
+   ],
+   "answer_index": 0,
+   "answer": "삐져나온 가지 끝을 조금씩만 잘라 낸 아이",
+   "why": "맞아! 삐져나온 가지 끝만 조금씩 잘라서 나무 모양이 가지런해졌잖아. 튀어나온 데만 살짝 덜어 내는 거, 그게 바로 trim인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "manicure"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-trim",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-trim"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/trim.webp",
+  "alt": "화분 나무에서 삐죽 튀어나온 가지 끝만 조금 잘라 모양을 맞추는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

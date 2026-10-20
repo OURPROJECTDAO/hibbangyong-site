@@ -1,0 +1,102 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/norm/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/norm/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "norm",
+ "slug": "norm",
+ "url": "https://hibbangyong.com/words/norm/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "보통인 것 — 다들 그렇게 하거나 다들 그 정도라서 당연~하게 여기는 것(정해서 시킨 규칙은 아님).",
+ "gloss_ko": "보통인 것",
+ "level": {
+  "code": "L6",
+  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "봐봐, 아홉 살이면 보통 키가 이만큼이잖아. 그 나이엔 그게 보통인 거야.",
+  "우리 반 애들도 점심때 대부분 우유를 마셔. 그것도 우리 반에선 보통인 일이고.",
+  "누가 시키거나 법으로 정한 것도 아닌데, 그냥 다들 그렇거나 그만큼인 게 당연~한 거.",
+  "그게 norm이야."
+ ],
+ "scene": "아홉 살이면 보통 키가 이 정도라는 그 나이의 보통 수준",
+ "examples": [
+  {
+   "en": "In our class, drinking milk at lunch is the norm.",
+   "ko": "우리 반에선 점심에 우유 마시는 게 그냥 다들 하는 보통 일이야."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "다음 중 우리 학교의 'norm'이라고 할 수 있는 것은?",
+   "choices": [
+    "우리 학교 건물은 층이 모두 네 개야.",
+    "우리 학교 아이들은 겨울이면 거의 다 두꺼운 외투를 입고 와.",
+    "우리 학교 운동장 구석엔 커다란 은행나무가 한 그루 서 있어.",
+    "우리 학교 정문은 파란색으로 칠해져 있어."
+   ],
+   "answer_index": 1,
+   "answer": "우리 학교 아이들은 겨울이면 거의 다 두꺼운 외투를 입고 와.",
+   "why": "맞아! 겨울에 우리 학교 애들 거의 다 두꺼운 외투를 입고 오잖아. 누가 시킨 것도 아닌데 다들 그러니까, 그게 바로 우리 학교에선 보통인 일, norm인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "다음 중 이 도서관의 'norm'이라고 할 수 있는 것은?",
+   "choices": [
+    "이 도서관에 오는 사람들은 대부분 조용히 책을 읽어.",
+    "이 도서관엔 딱 한 사람만 늘 큰 소리로 혼잣말을 하며 책을 봐.",
+    "이 도서관엔 몇 권 안 남은 아주 희귀한 옛날 책이 한 권 있어.",
+    "이 도서관 옆에 어제 처음으로 작은 카페가 하나 문을 열었어."
+   ],
+   "answer_index": 0,
+   "answer": "이 도서관에 오는 사람들은 대부분 조용히 책을 읽어.",
+   "why": "맞아! 다들 조용히 책 읽는 게 이 도서관에선 보통이거든. 다들 그러니까 바로 그게 이 도서관의 norm인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 사람이 각자 자기 동네가 어떤지 얘기했어. 어느 게 그 동네의 'norm'이라고 할 수 있을까?",
+   "choices": [
+    "저녁이면 동네 사람들 거의 다 밖에 나와 산책을 해.",
+    "밤 10시가 넘으면 시끄럽게 하지 말라고 동네에서 법으로 정해 놨어.",
+    "그 동네엔 딱 한 집만 지붕이 새빨개. 나머지 집엔 없는 드문 일이야.",
+    "민수네 집만 아침마다 마당에서 체조를 해. 다른 집은 아무도 안 해."
+   ],
+   "answer_index": 0,
+   "answer": "저녁이면 동네 사람들 거의 다 밖에 나와 산책을 해.",
+   "why": "맞아! 누가 시킨 것도 아닌데 저녁마다 동네 사람들이 거의 다 나와서 산책을 하잖아. 다들 그렇게 하니까 이 동네에선 그게 보통인 거야. 그게 바로 norm이지!"
+  }
+ ],
+ "synonyms": [
+  "standard"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "standard",
+   "kind": "confusable",
+   "from": "vs standard"
+  },
+  {
+   "word": "average",
+   "kind": "confusable",
+   "from": "vs average"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-norm",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-norm"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/norm.webp",
+  "alt": "아홉 살이면 보통 키가 이 정도라는 그 나이의 보통 수준",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

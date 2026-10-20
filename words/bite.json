@@ -1,0 +1,100 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/bite/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/bite/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "bite",
+ "slug": "bite",
+ "url": "https://hibbangyong.com/words/bite/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "한 입 — 이가 딱 한 번 닫히는 그 한 번, 그래서 떼어진 한 조각이나 남은 자국",
+ "gloss_ko": "한 입",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "사과를 들고 이를 콱 대봐. 딱 한 번, 그 한 번에 사과 한 조각이 떨어져 나오지?",
+  "그 한 번이야. 오래 오물오물 씹는 것도 아니고, 혀로 핥는 것도 아니야. 이가 딱 닫히는 그 한 번.",
+  "입에 들어온 그 조각도 그거고, 사과에 남은 자국도 그거거든? 모기가 물고 간 자리도 마찬가지야.",
+  "그게 bite야."
+ ],
+ "scene": "사과에 이를 콱 대어 한 조각이 떨어져 나오는 한 번",
+ "examples": [
+  {
+   "en": "I found a small bite on the apple I left on the table.",
+   "ko": "책상에 놔둔 사과에 작게 한 입 베어 문 자국이 있었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "지호가 김밥을 들고 이로 한 번 끊어서 반쪽을 접시에 내려놨어. 이게 'bite'야?",
+   "choices": [
+    "응, 'bite' 맞아",
+    "아니, 'bite' 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 'bite' 맞아",
+   "why": "맞아! 이가 딱 한 번 닫혀서 김밥이 두 조각으로 끊어졌잖아. 그 한 번이 바로 bite인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "민서가 빨대를 물고 요구르트를 쭉 빨아 올렸어. 이게 'bite'야?",
+   "choices": [
+    "응, 'bite' 맞아",
+    "아니, 'bite' 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 'bite' 아니야",
+   "why": "맞아, 이건 bite가 아니야! 빨대로 쭉 빨아 올릴 땐 이가 딱 닫히면서 뭔가 떼어지는 게 없거든. 조각도 안 떨어지고 자국도 안 남지? 그러니까 bite가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 아이가 각자 방금 한 일을 말했어. 이 중에 'bite'가 일어난 건 누구일까?",
+   "choices": [
+    "수아가 사탕을 입에 넣고 혀로 천천히 굴렸어.",
+    "예린이가 껌을 한참 동안 오물오물 씹기만 했어.",
+    "지호가 옥수수에 이를 콱 대고 한 조각 떼어냈어.",
+    "민재가 뜨거운 국을 후루룩 한 모금 넘겼어."
+   ],
+   "answer_index": 2,
+   "answer": "지호가 옥수수에 이를 콱 대고 한 조각 떼어냈어.",
+   "why": "맞아! 이를 콱 대고 한 조각이 뚝 떨어져 나왔지? 이가 딱 한 번 닫히면서 떼어낸 그 한 번, 그게 바로 bite야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "lick"
+ ],
+ "confusable": [
+  {
+   "word": "sting",
+   "kind": "confusable",
+   "from": "vs sting"
+  },
+  {
+   "word": "mouthful",
+   "kind": "confusable",
+   "from": "vs mouthful"
+  }
+ ],
+ "related_scene": [
+  "munch"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-bite",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-bite"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/bite.webp",
+  "alt": "사과에 이를 콱 대어 한 조각이 떨어져 나오는 한 번",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/accomplish/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/accomplish/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "accomplish",
+ "slug": "accomplish",
+ "url": "https://hibbangyong.com/words/accomplish/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "해내다 — 하려고 마음먹은 일을 끝까지 다 해서 이뤄내다.",
+ "gloss_ko": "해내다",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "며칠 동안 자전거를 타다가 자꾸 넘어졌어. 그런데 오늘, 드디어 혼자서 끝까지 탔지 뭐야!",
+  "하려던 걸 진짜로 다 해서 이뤄낸 거야.",
+  "그냥 '시작했다'가 아니라 '끝까지 해냈다'는 거거든? 하다가 만 거랑은 달라.",
+  "작은 일이든 큰일이든, 마음먹은 걸 이렇게 이뤄내면 그게 accomplish야."
+ ],
+ "scene": "며칠 넘어지다 오늘 혼자 자전거를 끝까지 탄 앵커 장면",
+ "examples": [
+  {
+   "en": "After weeks of trying, I finally accomplished it — I rode my bike all by myself!",
+   "ko": "몇 주를 계속 해본 끝에, 드디어 해냈어 — 자전거를 나 혼자 힘으로 다 탔지!"
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "형이 설명서를 보고 레고 배 모형을 마지막 단계까지 다 조립했어. 이렇게 한 걸 'accomplish' 했다고 할 수 있을까?",
+   "choices": [
+    "응, accomplish 맞아",
+    "아니, accomplish 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, accomplish 맞아",
+   "why": "맞아! 마지막 단계까지 끝까지 다 조립했잖아. 시작만 한 게 아니라 끝까지 이뤄냈으니까 바로 그게 accomplish인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "누나가 방 정리를 하기로 했는데, 하기 싫어서 손도 안 대고 그냥 잤어. 이걸 'accomplish' 했다고 할 수 있을까?",
+   "choices": [
+    "응, accomplish 맞아",
+    "아니, accomplish 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, accomplish 아니야",
+   "why": "맞아! 손도 안 대고 그냥 자버렸으면 하려던 일을 끝까지 한 게 아니잖아. 시작도 안 했으니까 이건 accomplish가 아닌 거야. 끝까지 다 해서 이뤄내야 accomplish거든."
+  },
+  {
+   "type": "choice",
+   "question": "민지가 어떤 일을 'accomplish' 했다고 말했어. 아래 중에 정말 accomplish한 게 어떤 걸까?",
+   "choices": [
+    "줄넘기 100개를 목표로 잡고, 며칠 연습한 끝에 오늘 100개를 다 넘었어.",
+    "줄넘기 100개를 하려고 했는데, 50개쯤에서 힘들어서 그만 멈췄어.",
+    "줄넘기를 오늘 처음 손에 쥐고, 딱 한 번 폴짝 넘어 봤어.",
+    "줄넘기가 하기 싫어서 오늘은 아예 안 하고 그냥 놀았어."
+   ],
+   "answer_index": 0,
+   "answer": "줄넘기 100개를 목표로 잡고, 며칠 연습한 끝에 오늘 100개를 다 넘었어.",
+   "why": "맞아! 100개를 목표로 잡고 며칠 연습해서 오늘 진짜 100개를 다 넘었잖아. 마음먹은 걸 끝까지 해서 이뤄낸 거니까 바로 그게 accomplish야."
+  }
+ ],
+ "synonyms": [
+  "manage"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "manage",
+   "kind": "confusable",
+   "from": "vs manage"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-accomplish",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-accomplish"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/accomplish.webp",
+  "alt": "며칠 넘어지다 오늘 혼자 자전거를 끝까지 탄 앵커 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

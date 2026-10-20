@@ -1,0 +1,90 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/smooth/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/smooth/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "smooth",
+ "slug": "smooth",
+ "url": "https://hibbangyong.com/words/smooth/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "매끈한 — 만지면 울퉁불퉁하지 않고 걸리는 데 없이 반질반질한",
+ "gloss_ko": "매끈한",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "강가에 있는 돌 한번 만져봐. 우툴두툴 안 하고 반질반질하지?",
+  "손이 쓱 지나가. 걸리는 데가 한 군데도 없어.",
+  "길도 똑같아. 울퉁불퉁 없으면 차가 덜컹 안 하고 쓱 가거든.",
+  "이렇게 걸리는 것 없이 반질반질한 게 smooth야."
+ ],
+ "scene": "강가 돌을 만지니 반질반질한 앵커 장면",
+ "examples": [
+  {
+   "en": "The stone by the river felt smooth in my hand.",
+   "ko": "강가에 있는 돌은 손에 쥐니까 매끈했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "운동장 구석에 놓인 시멘트 블록 표면을 손바닥으로 쓸어봤어. 이 블록 표면은 'smooth'야?",
+   "choices": [
+    "응, smooth 맞아",
+    "아니, smooth 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, smooth 아니야",
+   "why": "맞아! 시멘트 블록은 까끌까끌 우툴두툴해서 손바닥이 쓱 안 지나가거든. 걸리는 데 없이 반질반질해야 smooth인데 이건 반대인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "목욕탕 거울에 김이 서려서 손바닥으로 한 번 닦았어. 그 거울 면을 손끝으로 훑었어. 이 거울 면은 'smooth'야?",
+   "choices": [
+    "응, smooth 맞아",
+    "아니, smooth 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, smooth 맞아",
+   "why": "맞아! 손끝으로 훑어보면 거울은 걸리는 데가 하나도 없이 쓱 지나가지. 우툴두툴한 데가 없이 반질반질하니까 바로 그게 smooth인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 사람이 물건을 만져보고 느낌을 말했어. 그 물건이 'smooth'하다고 할 수 있는 사람은?",
+   "choices": [
+    "유리컵 겉을 만졌더니 손이 쓱, 걸리는 데가 하나도 없었어",
+    "솜인형을 눌렀더니 말랑 폭신 들어갔어",
+    "나무껍질을 만졌더니 우툴두툴 결이 잡혔어",
+    "사포를 문질렀더니 까끌까끌 손이 걸렸어"
+   ],
+   "answer_index": 0,
+   "answer": "유리컵 겉을 만졌더니 손이 쓱, 걸리는 데가 하나도 없었어",
+   "why": "맞아! 손이 쓱 지나가고 걸리는 데가 하나도 없었잖아. 표면에 걸릴 게 없이 반질반질한 거, 그게 바로 smooth야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "rough",
+  "rough"
+ ],
+ "confusable": [],
+ "related_scene": [
+  "surface"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-smooth",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-smooth"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/smooth.webp",
+  "alt": "강가 돌을 만지니 반질반질한 앵커 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/clinch/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/clinch/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "clinch",
+ "slug": "clinch",
+ "url": "https://hibbangyong.com/words/clinch/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "확정 짓다 — 이길지 말지, 될지 말지 하던 승리·합의를 마지막에 확실히 내 것으로 굳히다",
+ "gloss_ko": "막판에 확정 짓다",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "용돈 올려 달라고 엄마랑 한참 밀고 당겼어.",
+  "내가 '매일 설거지할게' 하니까 엄마가 '그래, 좋아' 했어. 그 순간 이야기가 끝난 거야.",
+  "거의 될 것 같은 거랑은 달라. 마지막 한 수로 확실히 굳혀야 clinch야.",
+  "경기에서 우승을 확정 지을 때도, 회사가 계약을 따낼 때도 이 말을 똑같이 써."
+ ],
+ "scene": "엄마와 용돈 인상 협상을 설거지 약속으로 마무리",
+ "examples": [
+  {
+   "en": "My sister clinched the deal by promising to wash the dishes every night.",
+   "ko": "언니가 매일 밤 설거지하겠다고 약속해서 결국 그 거래를 확정 지었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "퀴즈 대회 결승에서 우리 팀이 한 문제 앞서 있었어. 그런데 마지막 문제를 틀려서 1등이 옆 반으로 넘어갔어. 이 순간 우리 팀이 한 일이 'clinch'야?",
+   "choices": [
+    "응, clinch 맞아",
+    "아니, clinch 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, clinch 아니야",
+   "why": "잘 골랐어! 한 문제 앞서서 1등이 손에 들어올 뻔했는데, 마지막 문제를 틀려서 옆 반한테 넘어갔잖아. clinch는 마지막에 확실히 굳히는 거라서, 이건 오히려 1등을 놓친 거야."
+  },
+  {
+   "type": "ox",
+   "question": "중고 앱에서 자전거 값을 두고 판매자와 한참 주고받았어. 마지막에 내가 '제가 직접 가지러 갈게요' 하니까 판매자가 '그럼 그 값에 드릴게요' 했어. 이 순간 내가 한 일이 'clinch'야?",
+   "choices": [
+    "응, clinch 맞아",
+    "아니, clinch 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, clinch 맞아",
+   "why": "맞아! 값을 두고 한참 주고받다가, 네가 직접 가지러 가겠다고 한 한마디에 판매자가 그 값에 주겠다고 했잖아. 흔들리던 흥정이 마지막 한마디로 확실히 굳었으니까 바로 그게 clinch야."
+  },
+  {
+   "type": "choice",
+   "question": "민지네 동아리가 새 부원을 모으려고 학교 방송에 나가고 싶어 해. 다음 중 민지가 방송 기회를 'clinch'한 순간은?",
+   "choices": [
+    "망설이던 선생님이 민지의 마지막 한마디를 듣고 방송을 허락했을 때",
+    "민지가 방송실 선생님께 처음으로 부탁하러 찾아갔을 때",
+    "선생님이 생각해 보겠다고 해서 거의 될 것 같았을 때",
+    "준비가 늦어져서 방송 기회를 다른 동아리에 넘겼을 때"
+   ],
+   "answer_index": 0,
+   "answer": "망설이던 선생님이 민지의 마지막 한마디를 듣고 방송을 허락했을 때",
+   "why": "맞아! 선생님이 망설이고 있었는데 민지의 마지막 한마디로 허락이 딱 떨어졌잖아. 될지 말지 하던 걸 마지막에 확실히 내 것으로 굳힌 그 순간이 바로 clinch야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "win",
+   "kind": "confusable",
+   "from": "vs win"
+  },
+  {
+   "word": "secure",
+   "kind": "confusable",
+   "from": "vs secure"
+  },
+  {
+   "word": "seal",
+   "kind": "confusable",
+   "from": "vs seal"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-clinch",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-clinch"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/clinch.webp",
+  "alt": "엄마와 용돈 인상 협상을 설거지 약속으로 마무리",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

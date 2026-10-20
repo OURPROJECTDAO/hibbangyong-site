@@ -1,0 +1,91 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/spacious/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/spacious/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "spacious",
+ "slug": "spacious",
+ "url": "https://hibbangyong.com/words/spacious/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "널찍한 — 안에 움직일 자리가 넉넉하게 있는",
+ "gloss_ko": "널찍한",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "새 교실에 들어갔는데 책상 사이로 셋이 나란히 걸어도 안 부딪혀.",
+  "안쪽에 움직일 자리가 넉넉하면 spacious라고 해. 방이든 차 안이든 정원이든 다 돼.",
+  "겉으로 크다는 말이랑은 달라. 탑이 높아도 안이 비좁으면 spacious가 아니야.",
+  "텅 비었다는 뜻도 아니야. 가구가 있어도 돌아다닐 자리가 남으면 spacious야."
+ ],
+ "scene": "새 교실 책상 사이를 셋이 나란히 걷는 장면",
+ "examples": [
+  {
+   "en": "The car looked small, but it was spacious inside, so all five of us sat comfortably.",
+   "ko": "그 차 겉보기엔 작았는데 안이 널찍해서 우리 다섯 명이 다 편하게 앉았어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "기차 안 화장실 칸에 들어가서 문을 닫으면, 한 사람이 몸을 한 바퀴 돌리기도 어려워. 이 화장실 칸을 'spacious'하다고 할 수 있어?",
+   "choices": [
+    "응, spacious 맞아",
+    "아니, spacious 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, spacious 아니야",
+   "why": "맞아! 문을 닫으면 한 사람이 몸을 한 바퀴 돌리기도 어려운 칸이잖아. 안에 움직일 자리가 거의 없는 비좁은 곳이니까 spacious가 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "캠핑장에서 친 텐트 안에 넷이 침낭을 펴고 누웠어. 그래도 사람 사이사이에 가방을 놓고 앉아서 옷도 갈아입을 자리가 남아. 이 텐트 안을 'spacious'하다고 할 수 있어?",
+   "choices": [
+    "응, spacious 맞아",
+    "아니, spacious 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, spacious 맞아",
+   "why": "맞아! 넷이 침낭 펴고 누웠는데도 사이사이에 가방 놓고 앉아서 옷까지 갈아입을 자리가 남잖아. 안에 움직일 자리가 넉넉하니까 이 텐트는 딱 spacious한 거야."
+  },
+  {
+   "type": "ox",
+   "question": "바닷가에 있는 등대는 멀리서 봐도 보일 만큼 크고 높아. 그런데 안에 들어가면 계단이 빙빙 돌아서 한 사람씩만 올라갈 수 있어. 이런 등대도 'spacious'야?",
+   "choices": [
+    "응, spacious 맞아",
+    "아니, spacious 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, spacious 아니야",
+   "why": "맞아! 등대가 멀리서 보일 만큼 크고 높아도, 안에 들어가면 계단이 빙빙 돌아서 한 사람씩만 올라갈 수 있잖아. spacious는 겉 크기가 아니라 안에 움직일 자리가 넉넉한지를 보는 말이라서, 이 등대는 spacious가 아닌 거야."
+  }
+ ],
+ "synonyms": [
+  "broad"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "vast",
+   "kind": "confusable",
+   "from": "vs vast"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-spacious",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-spacious"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/spacious.webp",
+  "alt": "새 교실 책상 사이를 셋이 나란히 걷는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

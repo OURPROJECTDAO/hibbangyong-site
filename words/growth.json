@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/growth/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/growth/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "growth",
+ "slug": "growth",
+ "url": "https://hibbangyong.com/words/growth/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "성장 — 크기나 수, 양이 점점 불어나는 것",
+ "gloss_ko": "커지고 불어남",
+ "level": {
+  "code": "L3",
+  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "마당에 잡초가 여기 쑥, 저기 쑥! 며칠 만에 수도 늘고 키도 커졌어.",
+  "저금통 동전이 불어나는 것도, 동네에 집이 많아지는 것도 똑같은 거야. 좋은 일만 그런 게 아니야.",
+  "근데 그냥 모양이 달라진 건 아니야. 크기나 수가 불어나야 하거든? 줄어드는 건 정반대고.",
+  "그게 growth야."
+ ],
+ "scene": "마당 잡초가 며칠 새 번지고 커짐",
+ "examples": [
+  {
+   "en": "The fast growth of weeds made our yard messy.",
+   "ko": "잡초가 금방 쑥쑥 불어나서 우리 마당이 엉망이 됐어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "우리 학교 학생 수가 작년엔 300명이었는데 올해는 400명이 됐어. 학생 수가 이렇게 된 걸 'growth'라고 할 수 있을까?",
+   "choices": [
+    "응, growth 맞아",
+    "아니, growth 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, growth 맞아",
+   "why": "맞아! 우리 학교 학생이 300명에서 400명으로 100명이나 더 많아졌잖아. 이렇게 수가 불어난 거니까 바로 그게 growth인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "필통에 연필이 열 자루 있었는데 한 달 동안 하나둘 잃어버려서 세 자루가 됐어. 연필 수가 이렇게 된 걸 'growth'라고 할 수 있을까?",
+   "choices": [
+    "응, growth 맞아",
+    "아니, growth 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, growth 아니야",
+   "why": "맞아! 연필이 열 자루에서 세 자루로 줄어들었잖아. growth는 수가 불어나는 거라서, 이렇게 줄어든 건 growth가 아니야."
+  },
+  {
+   "type": "ox",
+   "question": "학교 도서관에 있는 책이 일 년 새 천 권에서 삼천 권이 됐어. 이런 경우도 'growth'야?",
+   "choices": [
+    "응, growth 맞아",
+    "아니, growth 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, growth 맞아",
+   "why": "맞아! 도서관 책이 천 권에서 삼천 권으로 수가 불어났잖아. 책은 살아 있는 게 아니어도 수가 점점 늘어났으니까 이것도 growth인 거야."
+  }
+ ],
+ "synonyms": [
+  "increase"
+ ],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "burgeoning"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-growth",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-growth"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/growth.webp",
+  "alt": "마당 잡초가 며칠 새 번지고 커짐",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

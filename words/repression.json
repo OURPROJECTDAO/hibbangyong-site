@@ -1,0 +1,91 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/repression/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/repression/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "repression",
+ "slug": "repression",
+ "url": "https://hibbangyong.com/words/repression/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "억압 — 힘을 가진 쪽이 사람들이 자유롭게 말하거나 행동하지 못하게 눌러 막는 것",
+ "gloss_ko": "억압",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "뉴스에 이런 나라가 나와. 정부를 비판하면 신문이 문을 닫고, 모여서 말하면 잡혀가.",
+  "힘을 가진 쪽이 사람들 목소리랑 행동을 눌러서 밖으로 못 나오게 하는 것. 그게 repression이야.",
+  "잘못한 사람한테 벌을 주는 거랑은 달라. 아무 잘못이 없어도 자유 자체를 막는 거야.",
+  "마음속 감정을 꾹 눌러서 안 꺼내는 것도 이 말로 불러. 그땐 누르는 쪽이 나 자신이야."
+ ],
+ "scene": "정부 비판 신문이 문을 닫고 모인 사람들이 잡혀가는 뉴스 속 나라",
+ "examples": [
+  {
+   "en": "Many writers left the country to escape repression.",
+   "ko": "작가들 여럿이 억압을 피해서 나라를 떠났어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "어떤 나라 정부가 노래 가사를 하나하나 검사해. 지도자를 놀리는 노래를 부른 가수는 그 뒤로 방송에도 공연에도 나올 수 없게 됐어. 이런 걸 'repression'이라고 할 수 있을까?",
+   "choices": [
+    "응, repression 맞아",
+    "아니, repression 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, repression 맞아",
+   "why": "맞아! 정부가 노래 가사를 하나하나 검사하고, 지도자를 놀렸다는 이유로 가수를 방송에도 공연에도 못 나오게 막았잖아. 힘 있는 쪽이 가수의 목소리를 눌러서 밖으로 못 나오게 한 거니까 바로 repression이야."
+  },
+  {
+   "type": "ox",
+   "question": "어떤 나라에서 수십 년 동안 금지됐던 노래들이 있었는데, 법이 바뀌어서 이제는 누구나 라디오와 거리에서 그 노래를 마음대로 부를 수 있게 됐어. 이런 걸 'repression'이라고 할 수 있을까?",
+   "choices": [
+    "응, repression 맞아",
+    "아니, repression 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, repression 아니야",
+   "why": "맞아, repression이 아니야. 수십 년 동안 막혀 있던 노래를 이제 누구나 라디오와 거리에서 마음대로 부를 수 있게 됐잖아. 눌러 막던 게 풀린 거라서 repression이랑 정반대 장면이야."
+  },
+  {
+   "type": "choice",
+   "question": "아래 네 가지 일 중에서 'repression'이라고 부르기 가장 알맞은 건?",
+   "choices": [
+    "정부가 자기를 비판하는 신문을 모두 문 닫게 했어.",
+    "학교가 시험 동안 휴대폰을 걷었다가 끝나고 돌려줬어.",
+    "가게 물건을 훔친 사람이 재판을 받고 벌금을 냈어.",
+    "오래 갇혀 있던 사람들이 풀려나 마음껏 말하게 됐어."
+   ],
+   "answer_index": 0,
+   "answer": "정부가 자기를 비판하는 신문을 모두 문 닫게 했어.",
+   "why": "맞아! 신문이 정부를 비판했다는 이유만으로 문을 닫게 한 거잖아. 잘못한 것도 없는데 힘으로 사람들 목소리를 못 나오게 막은 거니까, 바로 그게 repression이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "oppression",
+   "kind": "confusable",
+   "from": "vs oppression"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-repression",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-repression"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/repression.webp",
+  "alt": "정부 비판 신문이 문을 닫고 모인 사람들이 잡혀가는 뉴스 속 나라",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

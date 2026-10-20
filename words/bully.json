@@ -1,0 +1,89 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/bully/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/bully/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "bully",
+ "slug": "bully",
+ "url": "https://hibbangyong.com/words/bully/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "괴롭히는 사람 — 자기보다 약하거나 맞서기 힘든 상대를 골라서 자꾸 겁주고 못살게 구는 사람",
+ "gloss_ko": "괴롭히는 사람",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "교실에 자기보다 작은 애만 콕 골라서 자꾸 툭툭 치고 놀리는 애가 있어. 왜 하필 그 애냐고? 되받아치지 못할 걸 아니까 그러는 거거든.",
+  "꼭 때리는 것만 그런 게 아니야. 말로 계속 비웃어도, 여럿이 짜고 한 명만 쏙 빼놔도 똑같아.",
+  "어른 중에도 있어. 아무한테도 못 그러면서, 자기 밑에서 일하는 사람한테만 소리 지르고 겁주는 사장 있잖아. 그것도 마찬가지야.",
+  "그냥 힘센 사람이 아니라, 약한 쪽만 골라 계속 겁주는 사람 — 그게 bully야."
+ ],
+ "scene": "교실에서 자기보다 작은 아이만 골라 툭툭 치고 놀리는 아이",
+ "examples": [
+  {
+   "en": "He acts nice to the big kids, but he is a bully to anyone smaller than him.",
+   "ko": "걔는 큰 애들한테는 착한 척하면서, 자기보다 작은 애는 다 괴롭혀."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "학원 셔틀버스에서 6학년 애가 매일 같은 1학년 애 옆에 앉아서, 그 애 간식을 뺏고 안 주면 때린다고 겁줘. 1학년 애는 무서워서 아무 말도 못 해. 이 6학년 애가 'bully'야?",
+   "choices": [
+    "응, bully 맞아",
+    "아니, bully 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, bully 맞아",
+   "why": "맞아! 매일 같은 1학년 애만 콕 골라서 뺏고 겁주잖아. 되받아치지 못할 애만 노리고 계속 그러는 거, 그게 바로 bully인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "놀이터에서 지우는 매일 큰 애들한테 붙잡혀서 모래를 뒤집어써. 지우는 도망도 못 가고 울기만 해. 지우가 'bully'야?",
+   "choices": [
+    "응, bully 맞아",
+    "아니, bully 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, bully 아니야",
+   "why": "맞아! 지우는 겁주는 쪽이 아니라 당하고 있는 쪽이잖아. 매일 붙잡혀서 모래를 뒤집어쓰고 울기만 하는 애를 bully라고 하진 않거든. bully는 지우를 붙잡은 그 큰 애들 쪽이야."
+  },
+  {
+   "type": "choice",
+   "question": "네 명이 체육시간에 이랬대. 이 중에 'bully'라고 부를 수 있는 애는 누구일까?",
+   "choices": [
+    "반에서 제일 힘이 세지만, 아무도 건드리지 않고 혼자 공만 차는 애",
+    "매일 쉬는 시간마다 제일 작은 애 하나만 붙잡고 겁주며 물건을 뺏는 애",
+    "달리기에서 지고 분해서 그 자리에 주저앉아 엉엉 우는 애",
+    "자기보다 훨씬 큰 형이 밀치자 그만하라고 소리치며 맞선 애"
+   ],
+   "answer_index": 1,
+   "answer": "매일 쉬는 시간마다 제일 작은 애 하나만 붙잡고 겁주며 물건을 뺏는 애",
+   "why": "맞아! 매일 제일 작은 애 하나만 콕 골라서 겁주고 뺏잖아. 되받아치지 못할 애를 일부러 고른 거야. 그게 바로 bully인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "victim"
+ ],
+ "confusable": [],
+ "related_scene": [
+  "hurt"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-bully",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-bully"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/bully.webp",
+  "alt": "교실에서 자기보다 작은 아이만 골라 툭툭 치고 놀리는 아이",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

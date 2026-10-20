@@ -1,0 +1,101 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/sympathy/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/sympathy/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "sympathy",
+ "slug": "sympathy",
+ "url": "https://hibbangyong.com/words/sympathy/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "남이 힘들 때 같이 마음 아파해 주는 것",
+ "gloss_ko": "같이 슬퍼하기",
+ "level": {
+  "code": "L6",
+  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "친구가 아끼던 풍선이 펑! 터졌어.",
+  "친구 눈에 눈물이 그렁그렁. 그럼 네 가슴도 덩달아 쿵 내려앉지?",
+  "'아이고, 진짜 속상하겠다…' 하고 같이 마음이 아린 거.",
+  "그 마음이 sympathy야."
+ ],
+ "scene": "친구 풍선이 펑 터지자 너도 가슴이 쿵, '속상하겠다' 하고 같이 아파함.",
+ "examples": [
+  {
+   "en": "I felt sympathy for my friend when she lost her favorite toy.",
+   "ko": "친구가 제일 아끼는 장난감을 잃어버렸을 때, 나도 같이 마음이 아팠어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "친구가 시험을 못 봐서 풀이 죽어 있어. 네가 친구에게 'sympathy'를 보여 준 건 어느 쪽일까?",
+   "choices": [
+    "친구만큼 속상해서, 옆에 앉아 같이 시무룩해졌다.",
+    "'에이, 그게 뭐 대수야? 금방 잊어!' 하고 툭툭 넘겼다.",
+    "친구가 좋아하는 만화 얘기를 꺼내 같이 깔깔 웃었다.",
+    "별 신경 안 쓰고 그냥 내 숙제를 계속했다."
+   ],
+   "answer_index": 0,
+   "answer": "친구만큼 속상해서, 옆에 앉아 같이 시무룩해졌다.",
+   "why": "맞아! 친구가 속상한 만큼 너도 같이 가슴이 쿵 내려앉아서 옆에 시무룩하게 앉았잖아. 남이 아플 때 내 마음도 같이 아린 거, 바로 그게 sympathy야."
+  },
+  {
+   "type": "ox",
+   "question": "친구가 달리기에서 꼴찌를 해 시무룩해. 너는 곧장 \"괜찮아! 그까짓 거 훌훌 털어 버려, 다음엔 1등이야!\" 하고 활기차게 등을 탁탁 두드렸어. 이것도 'sympathy'야?",
+   "choices": [
+    "응, sympathy야",
+    "아니, sympathy가 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, sympathy가 아니야",
+   "why": "맞아! 친구가 슬플 때 같이 슬퍼해 주는 게 sympathy인데, 너는 슬픔을 같이 느끼는 대신 빨리 털어 버리라고 기운차게 등을 두드렸잖아. 그건 응원이지 같이 슬퍼해 준 건 아니라서, sympathy가 아닌 게 딱 맞아."
+  },
+  {
+   "type": "ox",
+   "question": "동생이 장난감을 잃어버려 엉엉 울어. 너는 장난감을 잃은 적은 없고, 동생만큼 똑같이 울고불고 무너지지도 않았어. 그래도 동생이 안쓰러워 \"에구, 많이 속상하겠다\" 하며 등을 가만가만 쓸어 줬지. 이것도 'sympathy'야?",
+   "choices": [
+    "응, sympathy야",
+    "아니, sympathy가 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, sympathy야",
+   "why": "맞아! 너는 장난감을 잃은 적도 없고 동생처럼 펑펑 울지도 않았지만, 동생이 안쓰러워서 등을 가만가만 쓸어 줬잖아. 옆에서 마음 아파해 주고 달래 준 그게 바로 sympathy인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "pity",
+   "kind": "confusable",
+   "from": "vs pity"
+  },
+  {
+   "word": "empathy",
+   "kind": "confusable",
+   "from": "vs empathy"
+  },
+  {
+   "word": "compassion",
+   "kind": "confusable",
+   "from": "vs compassion"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-sympathy",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-sympathy"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/sympathy.webp",
+  "alt": "친구 풍선이 펑 터지자 너도 가슴이 쿵, '속상하겠다' 하고 같이 아파함.",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

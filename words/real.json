@@ -1,0 +1,100 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/real/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/real/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "real",
+ "slug": "real",
+ "url": "https://hibbangyong.com/words/real/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "진짜의 — 가짜나 상상이 아니라 정말로 있는",
+ "gloss_ko": "진짜의",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "장난감 강아지는 아무리 흔들어도 짖지도 밥 먹지도 않지? 그냥 흉내만 낸 거잖아.",
+  "근데 옆집 강아지는 살아서 뛰고 멍멍 짖어. 정말로 있는 거야.",
+  "꾸며낸 이야기나 가짜가 아니라, 진짜로 있는 거.",
+  "그게 real이야."
+ ],
+ "scene": "짖지도 밥 먹지도 않는 장난감 강아지 vs 살아서 짖는 옆집 강아지",
+ "examples": [
+  {
+   "en": "My grandma's ring is made of real gold.",
+   "ko": "우리 할머니 반지는 진짜 금으로 만든 거야."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "친구들이 저마다 말을 한 마리씩 봤대. 이 중에서 'real'인 말은 어느 것일까?",
+   "choices": [
+    "목장에서 풀을 우물우물 씹으며 뛰어다니는 말",
+    "놀이공원 회전목마에 붙어 있는 나무로 만든 말",
+    "옛날 신화에 나오는 커다란 날개가 달린 말",
+    "컴퓨터 게임 화면 속을 달리는 말"
+   ],
+   "answer_index": 0,
+   "answer": "목장에서 풀을 우물우물 씹으며 뛰어다니는 말",
+   "why": "맞아! 목장에서 진짜로 풀을 우물우물 씹고 뛰어다니잖아. 살아서 정말로 있는 거라서 바로 그게 real이야."
+  },
+  {
+   "type": "ox",
+   "question": "이마에 뾰족한 뿔이 하나 달리고 무지개 갈기를 흩날리며 구름 위를 달리는 유니콘 이야기가 나왔어. 이게 'real' 동물이야?",
+   "choices": [
+    "응, real 맞아",
+    "아니, real 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, real 아니야",
+   "why": "맞아! 뿔 달린 유니콘이 구름 위를 달리는 건 이야기 속에서 꾸며낸 거지, 진짜로 세상에 있는 게 아니거든. 그래서 real이 아니라고 한 네가 딱 맞았어."
+  },
+  {
+   "type": "choice",
+   "question": "친구들이 저마다 강아지 하나씩을 말했어. 이 중에서 'real' 강아지는 누구 걸까?",
+   "choices": [
+    "살아서 멍멍 짖고 밥도 먹는, 옆집에서 키우는 강아지",
+    "털까지 똑같이 만들어 진짜같이 보이는 로봇 강아지",
+    "동화책 속에서 말도 하고 하늘도 나는 강아지",
+    "진짜같이 잘 그려 놓은 강아지 그림"
+   ],
+   "answer_index": 0,
+   "answer": "살아서 멍멍 짖고 밥도 먹는, 옆집에서 키우는 강아지",
+   "why": "맞아! 살아서 뛰고 밥도 먹고 진짜로 있는 강아지니까, 바로 그게 real이야. 흉내가 아니라 정말로 살아 있는 거거든."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "true",
+   "kind": "confusable",
+   "from": "vs true"
+  },
+  {
+   "word": "genuine",
+   "kind": "confusable",
+   "from": "vs genuine"
+  }
+ ],
+ "related_scene": [
+  "reality"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-real",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-real"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/real.webp",
+  "alt": "짖지도 밥 먹지도 않는 장난감 강아지 vs 살아서 짖는 옆집 강아지",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

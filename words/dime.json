@@ -1,0 +1,94 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/dime/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/dime/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "dime",
+ "slug": "dime",
+ "url": "https://hibbangyong.com/words/dime/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "10센트 동전 — 미국·캐나다 돈에서 1달러의 10분의 1만큼 값이 나가는 동전",
+ "gloss_ko": "10센트 동전",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "미국 마트에서 거스름돈으로 작고 얇은 은색 동전을 받았다고 해 보자.",
+  "그게 10센트짜리야. 10개를 모으면 딱 1달러가 돼.",
+  "헷갈리는 게 하나 있어. 5센트 동전(nickel)이 오히려 더 크거든. 크기는 작아도 값은 이게 두 배야.",
+  "1센트도, 25센트도 아니고 딱 10센트. 그 동전을 dime이라고 불러."
+ ],
+ "scene": "미국 마트에서 거스름돈으로 작은 은색 동전 받기",
+ "examples": [
+  {
+   "en": "I found a dime under the sofa.",
+   "ko": "소파 밑에서 10센트짜리 동전 하나 주웠어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "미국 서점에서 책갈피 값으로 1달러짜리 종이 지폐 한 장을 냈어. 이 지폐 한 장이 'dime'이야?",
+   "choices": [
+    "응, dime 맞아",
+    "아니, dime 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, dime 아니야",
+   "why": "잘 골랐어! dime은 10센트짜리 동전인데, 네가 낸 건 1달러짜리 종이 지폐잖아. 동전도 아니고 값도 10배나 크니까 dime이 아닌 거지."
+  },
+  {
+   "type": "ox",
+   "question": "캐나다 여행 중에 친구가 버스비가 조금 모자란다고 해서 10센트짜리 동전 한 개를 빌려줬어. 이 동전 한 개가 'dime'이야?",
+   "choices": [
+    "응, dime 맞아",
+    "아니, dime 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, dime 맞아",
+   "why": "맞아! 친구한테 빌려준 게 10센트짜리 동전 한 개잖아. 1달러의 10분의 1인 바로 그 동전이라서 dime이 맞아."
+  },
+  {
+   "type": "ox",
+   "question": "미국 편의점에서 껌을 사고 거스름돈으로 제일 값이 싼 1센트짜리 동전 한 닢을 받았어. 이 1센트 동전도 'dime'이야?",
+   "choices": [
+    "응, dime 맞아",
+    "아니, dime 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, dime 아니야",
+   "why": "맞아! dime은 딱 10센트짜리 동전이라서, 거스름돈으로 받은 1센트짜리는 dime이 아니야. 1센트 동전은 따로 penny라고 불러."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "nickel",
+   "kind": "confusable",
+   "from": "5센트 동전(nickel)"
+  },
+  {
+   "word": "penny",
+   "kind": "confusable",
+   "from": "1센트 동전(penny)"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-dime",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-dime"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/dime.webp",
+  "alt": "미국 마트에서 거스름돈으로 작은 은색 동전 받기",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

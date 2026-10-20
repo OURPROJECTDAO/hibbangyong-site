@@ -1,0 +1,86 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/apprehensive/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/apprehensive/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "apprehensive",
+ "slug": "apprehensive",
+ "url": "https://hibbangyong.com/words/apprehensive/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "불안해하는 — 앞으로 닥칠 일이 잘못될까 봐 걱정하는",
+ "gloss_ko": "불안해하는",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "엄마가 저녁에 \"이따 얘기 좀 하자\" 하고 방에 들어갔어. 아직 아무 일도 안 일어났는데, 안 좋은 얘기일까 봐 마음이 계속 쓰여.",
+  "apprehensive는 앞으로 올 일이 잘못될까 봐 조마조마한 마음이야. 시험이든 이사든 처음 만날 사람이든 다 돼.",
+  "지금 눈앞에서 짖는 개가 무서운 거랑은 달라. 아직 오지 않은 일을 걱정하는 거야.",
+  "이미 지나간 일을 후회하는 마음과도 달라."
+ ],
+ "scene": "엄마가 이따 얘기하자고 해서 무슨 얘기일지 걱정되는 저녁",
+ "examples": [
+  {
+   "en": "I felt apprehensive about moving to a new school.",
+   "ko": "새 학교로 전학 가는 게 좀 불안했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "민지는 내일 치과에서 이를 하나 뽑기로 했어. 아직 병원에 가지도 않았는데, 내일 많이 아플까 봐 밤새 걱정돼서 잠이 안 와. 이런 민지의 마음이 'apprehensive'일까?",
+   "choices": [
+    "응, apprehensive 맞아",
+    "아니, apprehensive 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, apprehensive 맞아",
+   "why": "맞아! 민지는 아직 병원에 가지도 않았는데 내일 이 뽑을 때 많이 아플까 봐 밤새 걱정하잖아. 아직 오지 않은 일이 잘못될까 봐 걱정하는 마음, 그게 바로 apprehensive야."
+  },
+  {
+   "type": "ox",
+   "question": "준호는 다음 달 수영 대회에 나가. 몇 달 동안 연습을 꾸준히 해서 이번엔 잘될 거라며 대회 날을 느긋하게 기다리고 있어. 이런 준호의 마음이 'apprehensive'일까?",
+   "choices": [
+    "응, apprehensive 맞아",
+    "아니, apprehensive 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, apprehensive 아니야",
+   "why": "맞아! 준호는 다음 달 대회를 앞두고 있지만, 연습을 꾸준히 해서 잘될 거라며 느긋하게 기다리고 있잖아. apprehensive는 앞으로 올 일이 잘못될까 봐 걱정하는 마음이니까, 걱정 없이 자신 있는 준호는 오히려 반대야."
+  },
+  {
+   "type": "choice",
+   "question": "누나가 대학 합격자 발표를 기다리고 있어. 발표는 내일 아침이야. 누나가 지금 'apprehensive'하다면 누나는 어떤 마음일까?",
+   "choices": [
+    "떨어졌을까 봐 걱정하면서 발표를 기다리는 마음",
+    "붙었을 거라 믿고 들떠서 발표를 기다리는 마음",
+    "이미 확인한 발표 결과에 실망하고 있는 마음"
+   ],
+   "answer_index": 0,
+   "answer": "떨어졌을까 봐 걱정하면서 발표를 기다리는 마음",
+   "why": "맞아! 발표는 아직 내일 아침인데, 누나는 떨어졌을까 봐 미리 걱정하면서 기다리고 있잖아. 아직 오지 않은 결과가 잘못될까 봐 조마조마한 마음, 바로 그게 apprehensive야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "nervous",
+   "kind": "confusable",
+   "from": "vs nervous"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-apprehensive",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-apprehensive"
+ },
+ "image": null
+}

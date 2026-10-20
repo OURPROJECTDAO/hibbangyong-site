@@ -1,0 +1,94 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/reputation/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/reputation/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "reputation",
+ "slug": "reputation",
+ "url": "https://hibbangyong.com/words/reputation/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "평판(사람들 사이에 쌓인 소문) — 여러 사람이 오래 지켜보고 쌓은 '걔는 이런 사람' 하는 생각",
+ "gloss_ko": "쌓인 좋고 나쁜 소문",
+ "level": {
+  "code": "L6",
+  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "새로 온 친구한테 아직 말도 안 걸어봤는데, 애들이 벌써 '걔 되게 친절하대' 그러는 거 들어봤지?",
+  "한 사람 느낌이 아니야. 여러 애들이 오래 겪어보고 쌓인 '그 애는 이런 애' 하는 생각이거든.",
+  "좋게 쌓일 수도 있고, '걔 약속 잘 어겨' 하고 나쁘게 쌓일 수도 있어.",
+  "그게 reputation이야."
+ ],
+ "scene": "새 친구를 두고 반 애들이 '걔 친절하대' 하고 미리 말하는 장면",
+ "examples": [
+  {
+   "en": "That shop has a bad reputation for being rude to kids.",
+   "ko": "그 가게는 애들한테 불친절하기로 소문이 안 좋아."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "다음 중 지우의 'reputation'에 해당하는(맞는) 것은?",
+   "choices": [
+    "태권도장 사람들이 다들 지우 띠가 무슨 색인지 알아.",
+    "태권도장 사람들이 다들 지우가 몇 번 버스 타고 오는지 알아.",
+    "태권도장 사람들이 다들 지우를 '끝까지 포기 안 하는 애'라고 여겨.",
+    "태권도장 사람들이 다들 지우 집이 어느 동네인지 알아."
+   ],
+   "answer_index": 2,
+   "answer": "태권도장 사람들이 다들 지우를 '끝까지 포기 안 하는 애'라고 여겨.",
+   "why": "맞아! '끝까지 포기 안 하는 애'라는 건 사람들이 지우를 오래 겪어보고 마음속에 쌓은 '걔는 이런 애' 하는 생각이잖아. 그래서 바로 그게 reputation인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "다음 중 하윤이의 'reputation'에 해당하는(맞는) 것은?",
+   "choices": [
+    "축구팀 사람들이 다들 하윤이를 '약속 꼭 지키는 애'라고 여겨.",
+    "축구팀 사람들이 다들 하윤이 등번호가 몇 번인지 알아.",
+    "축구팀 사람들이 다들 하윤이 축구화가 무슨 색인지 알아.",
+    "축구팀 사람들이 다들 하윤이가 어느 학교 다니는지 알아."
+   ],
+   "answer_index": 0,
+   "answer": "축구팀 사람들이 다들 하윤이를 '약속 꼭 지키는 애'라고 여겨.",
+   "why": "맞아! 여러 축구팀 친구들이 오래 겪어보고 다 같이 '하윤이는 약속 꼭 지키는 애'라고 여기잖아. 그게 바로 하윤이가 어떤 애인지 쌓인 생각, reputation인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 가지 상황 중에서 민수의 'reputation'이 드러나는 건 어느 걸까?",
+   "choices": [
+    "민수랑 한 번도 안 놀아본 애들도 '민수는 약속을 잘 지킨대' 하고 알고 있어.",
+    "민수를 오늘 처음 본 짝꿍이 '왠지 착해 보인다' 하고 혼자 느꼈어.",
+    "요즘 쉬는 시간마다 민수랑 놀고 싶어하는 애들이 줄을 서 있어.",
+    "옆 반 뒷반 애들도 민수 이름은 다 아는데, 뭘 잘하는지는 잘 몰라."
+   ],
+   "answer_index": 0,
+   "answer": "민수랑 한 번도 안 놀아본 애들도 '민수는 약속을 잘 지킨대' 하고 알고 있어.",
+   "why": "맞아! 같이 놀아본 적도 없는 애들까지 '민수는 약속 잘 지킨대' 하고 아는 건, 여러 애들이 오래 겪은 게 소문처럼 쌓였다는 거거든. 바로 그게 reputation이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "discredit",
+  "disgrace",
+  "fame",
+  "notoriety"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-reputation",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-reputation"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/reputation.webp",
+  "alt": "새 친구를 두고 반 애들이 '걔 친절하대' 하고 미리 말하는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

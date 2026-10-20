@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/pronoun/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/pronoun/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "pronoun",
+ "slug": "pronoun",
+ "url": "https://hibbangyong.com/words/pronoun/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "대명사 — 이름 대신 그 자리에 쓰는 말(나, 너, 그것, 걔 같은 말)",
+ "gloss_ko": "이름 대신 쓰는 말",
+ "level": {
+  "code": "L3",
+  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "'민수가 왔어. 민수가 웃었어. 민수가 앉았어.' 이러면 좀 이상하지?",
+  "그래서 두 번째부턴 '걔가'로 쓱 바꿔 말하잖아. 공이면 '그거', 나면 '나', 너면 '너'.",
+  "영어에선 he, it, they, I 같은 말이 이 일을 해. 사람이든 물건이든 다 대신할 수 있거든.",
+  "'공'이나 '민수'처럼 그 자체가 이름인 말하고는 달라. 그 이름 자리에 대신 들어가는 말, 그게 pronoun이야."
+ ],
+ "scene": "민수 이름을 계속 되풀이하는 말",
+ "examples": [
+  {
+   "en": "In \"Mia lost her hat,\" the word \"her\" is a pronoun.",
+   "ko": "‘미아가 자기 모자를 잃어버렸어’라는 말에서 ‘자기’가 바로 대명사야."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "선생님이 책상 위 연필을 손으로 가리키며 물으셨어. \"이거 누구 거니?\" 여기서 '이거'라는 말은 'pronoun'일까?",
+   "choices": [
+    "응, pronoun 맞아",
+    "아니, pronoun 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, pronoun 맞아",
+   "why": "맞아! 선생님은 '연필'이라고 다시 말하지 않고 그 자리에 '이거'라고 하셨잖아. 연필이라는 이름 대신 들어간 말이니까 '이거'는 pronoun인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "서준이가 운동장을 한 바퀴 달렸어. 이 문장에서 '달렸어'는 'pronoun'일까?",
+   "choices": [
+    "응, pronoun 맞아",
+    "아니, pronoun 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, pronoun 아니야",
+   "why": "맞아! '달렸어'는 서준이가 무엇을 했는지 말해 주는 움직임 말이거든. 서준이라는 이름 자리에 대신 들어가는 말이 아니라서 pronoun이 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "누가 이렇게 말했어. \"공이 데굴데굴 굴러갔어. 그게 문에 쾅 부딪혔어.\" 이 말에서 'pronoun' 노릇을 하는 건 뭘까?",
+   "choices": [
+    "공",
+    "문",
+    "그게",
+    "부딪혔어"
+   ],
+   "answer_index": 2,
+   "answer": "그게",
+   "why": "맞아! 공 이야기를 하다가 '공'이라고 또 말하지 않고, 공 자리에 '그게'라고 바꿔 말했지? 이렇게 이름 자리에 대신 들어간 말이라서 '그게'가 바로 pronoun인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-pronoun",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-pronoun"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/pronoun.webp",
+  "alt": "민수 이름을 계속 되풀이하는 말",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/district/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/district/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "district",
+ "slug": "district",
+ "url": "https://hibbangyong.com/words/district/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "구역 — 큰 도시나 나라를 미리 정해 놓은 금으로 갈라 놓은 조각 하나. 조각마다 이름이나 번호가 붙고, 정해진 것도 조각마다 달라.",
+ "gloss_ko": "구역",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "큰 도시나 나라는 통째로 하나가 아니거든? 안이 조각조각 갈라져 있어. 어디부터 어디까지인지 미리 정해 놓고 말이야.",
+  "조각마다 이름이나 번호가 붙어. 그리고 조각이 다르면 정해진 게 달라. 쓰레기 버리는 날도, 다니는 학교도, 뽑는 사람도.",
+  "사람이 사는 조각도 있고, 공장만 모인 조각도 있고, 사람 거의 없는 산속 조각도 다 조각이야. 도시 전체를 통째로 부르는 것도 아니고, 대충 '이 근처' 하고 손 휘젓는 것도 아니고.",
+  "그게 district야."
+ ],
+ "scene": "큰 도시나 나라 안이 미리 정해 놓은 금으로 조각조각 갈라져 있는 모습",
+ "examples": [
+  {
+   "en": "Grandma lives in a quiet district on the other side of the city.",
+   "ko": "할머니는 도시 반대편 조용한 구역에 사셔."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "삼촌이 산속 마을로 이사 갔대. 집이 열 채밖에 없고 가게도 하나 없어. 근데 우체국 아저씨가 말하길, 저 고개 너머부터는 딴 데라서 이쪽이랑 번호가 다르고, 눈 치우는 차도 이쪽 것만 온대. 삼촌이 사는 이런 데도 'district'야?",
+   "choices": [
+    "응, district 맞아.",
+    "아니, district 아니야."
+   ],
+   "answer_index": 0,
+   "answer": "응, district 맞아.",
+   "why": "맞아! 고개 너머부터는 번호가 다르고 눈 치우는 차도 이쪽 것만 온다잖아. 어디부터 어디까지인지 금이 그어져 있고 정해진 게 따로 있으면, 그게 바로 조각 하나인 거야. 그러니까 삼촌네 마을도 district 맞아."
+  },
+  {
+   "type": "choice",
+   "question": "친구 넷이 큰 지도를 펴 놓고 각자 한 군데씩 가리켰어. 그중 'district'를 가리킨 사람은 누구일까?",
+   "choices": [
+    "민수: 우편함에 '7번'이라고 찍혀 있는데, 옆 골목부터는 '8번'이래. 8번은 쓰레기 버리는 날도 우리랑 달라.",
+    "지호: 담장이 빙 둘러쳐 있고 표를 사야 들어가는 놀이공원. 안에 롤러코스터랑 회전목마가 있어.",
+    "수아: 사람 백만 명이 사는 이 도시 하나 통째로. 여기 사는 사람은 다 같은 시장님을 뽑아.",
+    "예린: 도시 밖 넓은 들판. 여기부터 저기까지 그냥 쭉 이어져 있고, 밟고 지나가도 아무도 뭐라 안 해."
+   ],
+   "answer_index": 0,
+   "answer": "민수: 우편함에 '7번'이라고 찍혀 있는데, 옆 골목부터는 '8번'이래. 8번은 쓰레기 버리는 날도 우리랑 달라.",
+   "why": "맞아! 우편함에 7번이 찍혀 있고 옆 골목부터는 8번이라는 건, 어디부터 어디까지인지 미리 금이 그어져 있다는 뜻이거든. 게다가 8번은 쓰레기 버리는 날도 다르잖아. 이름도 따로 붙고 정해진 것도 따로인 조각, 바로 그게 district인 거야."
+  }
+ ],
+ "synonyms": [
+  "county",
+  "region"
+ ],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "ghetto"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-district",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-district"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/district.webp",
+  "alt": "큰 도시나 나라 안이 미리 정해 놓은 금으로 조각조각 갈라져 있는 모습",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

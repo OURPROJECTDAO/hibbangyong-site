@@ -1,0 +1,94 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/rendering/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/rendering/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "rendering",
+ "slug": "rendering",
+ "url": "https://hibbangyong.com/words/rendering/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "표현 — 노래·그림·글 같은 걸로 누군가 무언가를 어떤 식으로 나타냈는지, 그렇게 나온 모습",
+ "gloss_ko": "나타낸 모습",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "장기자랑에서 두 반이 똑같은 노래를 불렀어. 한 반은 느리고 조용하게, 다른 반은 신나는 록으로.",
+  "노래는 하나인데 무대에 나온 모습은 반마다 달랐지. 그 반이 그 노래를 나타낸 방식, 그게 rendering이야.",
+  "노래만 그런 게 아니야. 아직 안 지은 새 도서관을 미리 그린 그림도, 시를 다른 나라 말로 옮긴 글도 다 rendering이야. 잘했든 못했든 상관없어.",
+  "그걸 보고 매긴 점수나 감상은 rendering이 아니야. 누군가 소리나 그림, 글로 직접 나타내 놓은 것만 rendering이야."
+ ],
+ "scene": "장기자랑에서 두 반이 같은 노래를 다르게 부른 무대",
+ "examples": [
+  {
+   "en": "His rendering of our school on the poster looked nothing like the real building.",
+   "ko": "걔가 포스터에 그려 놓은 우리 학교는 진짜 건물이랑 하나도 안 닮았어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "미술 시간에 민지가 동네 공원의 연못과 벤치를 수채화 물감으로 그렸어. 민지가 그린 이 공원 그림은 'rendering'일까?",
+   "choices": [
+    "응, rendering 맞아",
+    "아니, rendering 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, rendering 맞아",
+   "why": "맞아! 민지가 연못이랑 벤치를 수채화 물감으로 직접 그려서 나타냈잖아. 그렇게 공원을 그림으로 나타내서 나온 모습, 그게 바로 rendering이야."
+  },
+  {
+   "type": "ox",
+   "question": "연극부가 '흥부전'을 무대에 올렸어. 공연이 끝난 뒤 한 관객이 앱에 이 연극을 보고 별점 3개를 남겼어. 이 별점 3개는 'rendering'일까?",
+   "choices": [
+    "응, rendering 맞아",
+    "아니, rendering 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, rendering 아니야",
+   "why": "맞아! 별점 3개는 연극부가 무대에 올린 흥부전이 아니라, 그 연극을 본 관객이 앱에 매긴 점수야. rendering은 연극부가 무대에서 흥부전을 나타낸 그 모습이고, 그걸 보고 남긴 평가는 따로 떨어진 거지."
+  },
+  {
+   "type": "ox",
+   "question": "한 번역가가 외국 동화책 한 권을 한국어로 옮겨 써서 새 책으로 냈어. 무대에서 공연한 건 아닌데, 이렇게 옮겨 쓴 글도 'rendering'일까?",
+   "choices": [
+    "응, rendering 맞아",
+    "아니, rendering 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, rendering 맞아",
+   "why": "맞아! 번역가가 외국 동화를 한국어 글로 옮겨 써서 새 책으로 냈잖아. 그 번역가가 그 동화를 자기 식으로 한국어 글로 나타낸 거니까 이것도 rendering이야. 무대가 없어도 상관없어."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "interpretation",
+   "kind": "confusable",
+   "from": "vs interpretation"
+  },
+  {
+   "word": "performance",
+   "kind": "confusable",
+   "from": "vs performance"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-rendering",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-rendering"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/rendering.webp",
+  "alt": "장기자랑에서 두 반이 같은 노래를 다르게 부른 무대",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

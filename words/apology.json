@@ -1,0 +1,89 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/apology/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/apology/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "apology",
+ "slug": "apology",
+ "url": "https://hibbangyong.com/words/apology/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "사과 — 내가 잘못한 걸 인정하고 미안하다고 하는 말",
+ "gloss_ko": "사과(미안하다고 하는 말)",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "친구가 쌓은 블록 탑이 와르르 무너졌어. 어라, 내가 건드려서 그런 거네.",
+  "그럼 딴 데 안 보고 친구 눈을 보면서 '내가 그랬어, 미안해' 하고 말하잖아.",
+  "'탑이 원래 약했어' 같은 핑계 말고, 내 잘못이라고 콕 짚어서 미안하다고 하는 그 말이야.",
+  "그게 apology야."
+ ],
+ "scene": "블록 탑을 무너뜨리고 친구 눈을 보며 미안하다 말하는 장면",
+ "examples": [
+  {
+   "en": "I made an apology to my little brother for breaking his toy.",
+   "ko": "동생 장난감을 망가뜨려서 동생한테 미안하다고 사과했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "미술 시간에 아이들이 각각 이런 말을 했어. 다음 중 'apology'에 해당하는(맞는) 것은?",
+   "choices": [
+    "내가 네 그림을 찢었어, 미안해.",
+    "내가 그린 그림이 제일 멋지지?",
+    "네 크레파스 좀 빌려줄래?",
+    "오늘 우리 반 소풍 가는 날이야."
+   ],
+   "answer_index": 0,
+   "answer": "내가 네 그림을 찢었어, 미안해.",
+   "why": "맞아! 내가 그랬다고 콕 집어 인정하고 미안하다고 했잖아. 핑계 없이 내 잘못을 말하는 그 말이 바로 apology야."
+  },
+  {
+   "type": "ox",
+   "question": "친구가 내 크레용을 부러뜨리고 '미안해' 하고 말했어. 그때 내가 '괜찮아, 용서해줄게' 하고 받아줬어. 내가 한 이 말이 'apology'야?",
+   "choices": [
+    "응, apology 맞아",
+    "아니, apology 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, apology 아니야",
+   "why": "딩동댕! 크레용 부러뜨린 친구가 '미안해' 한 게 사과고, 넌 그걸 받아서 '괜찮아, 용서해줄게' 한 거잖아. 미안하다고 하는 말이 사과지, 받아주는 말은 사과가 아니거든. 그래서 아니야가 딱 맞아."
+  },
+  {
+   "type": "choice",
+   "question": "네 아이가 각각 이런 말을 했어. 이 중에서 'apology'를 하고 있는 아이는 누구야?",
+   "choices": [
+    "지우가 친구 우유를 쏟고 '내가 쏟았어, 정말 미안해' 하고 말했어.",
+    "민호가 넘어져 우는 친구한테 '많이 아프겠다, 안됐다' 하고 말했어.",
+    "수아가 깨진 컵을 두고 '그거 원래 금이 가 있었어' 하고 말했어.",
+    "태오가 친구의 '미안해' 소리에 '괜찮아, 용서할게' 하고 말했어."
+   ],
+   "answer_index": 0,
+   "answer": "지우가 친구 우유를 쏟고 '내가 쏟았어, 정말 미안해' 하고 말했어.",
+   "why": "맞아! 지우는 딴 핑계 안 대고 '내가 쏟았어'라고 자기 잘못을 콕 짚고 '미안해'라고 했잖아. 내 잘못을 인정하면서 미안하다고 하는 그 말, 그게 바로 apology거든."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "regret"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-apology",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-apology"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/apology.webp",
+  "alt": "블록 탑을 무너뜨리고 친구 눈을 보며 미안하다 말하는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

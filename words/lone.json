@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/lone/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/lone/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "lone",
+ "slug": "lone",
+ "url": "https://hibbangyong.com/words/lone/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "혼자인 — 그 자리에 딱 하나만 있는",
+ "gloss_ko": "혼자인",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "넓은 운동장에 아이가 딱 한 명 서 있어. 다른 애들은 아무도 없어.",
+  "그 한 명이 신나든 무섭든 상관없어. 그냥 하나뿐인 거야.",
+  "사람만 그런 게 아니야. 하늘에 구름 하나만 떠 있어도, 나무 한 그루만 서 있어도 똑같아.",
+  "'쓸쓸하다'랑은 달라. 마음이 어떤지가 아니라, 옆에 아무도 없다는 그거. 그게 lone이야."
+ ],
+ "scene": "넓은 운동장에 아이 한 명만 서 있는 장면",
+ "examples": [
+  {
+   "en": "A lone bird sat on the wire.",
+   "ko": "새 한 마리가 혼자 전깃줄에 앉아 있었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "주차장에 자동차가 딱 한 대만 세워져 있어. 다른 자리는 다 비어 있어. 이 자동차는 'lone' 자동차야?",
+   "choices": [
+    "응, lone 맞아",
+    "아니, lone 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, lone 맞아",
+   "why": "맞아! 자동차가 여러 대 있을 자리인데 딱 한 대만 서 있잖아. 옆에 다른 차가 하나도 없이 그 차 혼자니까, 바로 그게 lone인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "식탁 위에 사과가 여섯 개 나란히 놓여 있어. 이 사과들은 'lone' 사과야?",
+   "choices": [
+    "응, lone 맞아",
+    "아니, lone 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, lone 아니야",
+   "why": "맞아! 사과가 여섯 개나 나란히 있으면 하나뿐인 게 아니잖아. 옆에 친구들이 잔뜩 있으니까 lone이 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 아이가 각자 본 걸 말했어. 이 중에서 'lone'이라고 부를 수 있는 건?",
+   "choices": [
+    "넓은 들판에 나무가 딱 한 그루 서 있는 걸 봤어",
+    "친구들 사이에 있는데 마음이 허전하다고 했어",
+    "쉬는 시간에 아이들이 우르르 몰려나오는 걸 봤어",
+    "책상 위에 연필이랑 공책 사이에 아주 작은 지우개가 놓인 걸 봤어"
+   ],
+   "answer_index": 0,
+   "answer": "넓은 들판에 나무가 딱 한 그루 서 있는 걸 봤어",
+   "why": "맞아! 넓은 들판에 다른 나무는 하나도 없고 딱 한 그루만 서 있잖아. 옆에 같은 나무가 아무것도 없이 그 나무 하나뿐이라서, 바로 그게 lone인 거야."
+  }
+ ],
+ "synonyms": [
+  "single"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "single",
+   "kind": "confusable",
+   "from": "vs single"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-lone",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-lone"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/lone.webp",
+  "alt": "넓은 운동장에 아이 한 명만 서 있는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

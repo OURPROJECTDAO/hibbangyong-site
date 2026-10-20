@@ -1,0 +1,94 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/sloppy/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/sloppy/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "sloppy",
+ "slug": "sloppy",
+ "url": "https://hibbangyong.com/words/sloppy/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "엉성한 — 신경을 덜 쓰고 대충 해서 허술하게 된",
+ "gloss_ko": "대충 해서 엉성한",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "빨리 놀고 싶어서 숙제를 다시 안 보고 냈어. 계산 중간이 빠졌고 글씨도 날려 썼어.",
+  "신경을 덜 써서 일이 허술하게 된 거, 그게 sloppy야.",
+  "숙제만 그런 게 아냐. 축구 수비든, 발표 설명이든, 옷차림이든 신경 안 써서 허술하면 다 sloppy라고 해.",
+  "그냥 더럽거나 틀렸다고 다 sloppy는 아냐. 비에 젖은 숙제나, 열심히 했는데 몰라서 틀린 숙제는 아니야."
+ ],
+ "scene": "빨리 놀고 싶어 다시 안 보고 낸 숙제(계산 빠짐·날려 쓴 글씨)",
+ "examples": [
+  {
+   "en": "Mom checked my homework and found some sloppy mistakes in the math.",
+   "ko": "엄마가 내 숙제를 봤는데 수학에서 대충 하다 틀린 게 몇 개 나왔어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "민호가 빨리 게임하려고 설거지를 대충 했어. 접시를 한 번만 헹구고 다시 안 봐서 거품이 남았고, 컵 안쪽도 안 닦았어. 이 설거지를 'sloppy'하다고 할 수 있을까?",
+   "choices": [
+    "응, sloppy 맞아",
+    "아니, sloppy 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, sloppy 맞아",
+   "why": "맞아! 민호는 빨리 게임하려고 접시를 한 번만 헹구고 다시 안 봐서 거품이 남았고 컵 안쪽도 안 닦았잖아. 신경을 덜 써서 설거지가 허술하게 된 거니까 바로 sloppy인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "수아가 할머니께 보낼 택배를 쌌어. 물건을 하나씩 뽁뽁이로 감싸고 테이프도 빈틈없이 붙였고, 주소는 두 번이나 다시 확인했어. 이 포장을 'sloppy'하다고 할 수 있을까?",
+   "choices": [
+    "응, sloppy 맞아",
+    "아니, sloppy 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, sloppy 아니야",
+   "why": "맞아! 수아는 물건을 하나씩 뽁뽁이로 감싸고, 테이프도 빈틈없이 붙이고, 주소까지 두 번이나 확인했잖아. 이렇게 하나하나 신경 써서 한 포장은 허술한 데가 없으니까 sloppy가 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "민호가 늦잠을 자서 급히 나오느라 셔츠 단추는 한 칸씩 어긋나 있고, 한쪽 자락은 바지 밖으로 삐져나와 있어. 이런 민호의 옷차림도 'sloppy'야?",
+   "choices": [
+    "응, sloppy 맞아",
+    "아니, sloppy 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, sloppy 맞아",
+   "why": "맞아! 민호는 늦잠 자서 급하게 나오느라 옷에 신경을 덜 썼어. 그래서 단추가 한 칸씩 어긋나고 셔츠 자락이 바지 밖으로 삐져나온, 허술한 모습이 된 거야. 바로 그게 sloppy야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "messy",
+   "kind": "confusable",
+   "from": "vs messy"
+  },
+  {
+   "word": "careless",
+   "kind": "confusable",
+   "from": "vs careless"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-sloppy",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-sloppy"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/sloppy.webp",
+  "alt": "빨리 놀고 싶어 다시 안 보고 낸 숙제(계산 빠짐·날려 쓴 글씨)",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,99 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/step/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/step/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "step",
+ "slug": "step",
+ "url": "https://hibbangyong.com/words/step/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "걸음·단계 — 발을 한 번 옮기거나 딛는 그 한 번, 그리고 어떤 일을 나눠서 할 때의 한 토막",
+ "gloss_ko": "걸음·단계",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "운동장 끝까지 걸어가 봐. 발 한 번 딛고, 또 한 번 딛고. 그 한 번이 step이야.",
+  "계단 올라갈 때 한 칸 한 칸 딛잖아? 그 한 칸도 step이고, 라면 끓일 때 물 붓기·면 넣기 같은 한 토막도 step이야. 한꺼번에 안 하고 하나씩 가는 거지.",
+  "앞으로 가든 뒤로 물러나든, 잘되든 망하든 상관없어. 세는 건 똑같이 한 번씩이야.",
+  "걸어온 길 전체도 아니고, 도착도 아니야. 가는 동안 밟는 하나하나, 그게 step이야."
+ ],
+ "scene": "운동장을 가로질러 걸어가며 발을 한 번씩 딛는 장면",
+ "examples": [
+  {
+   "en": "Dad said there were only three steps to painting the fence, but the last one took all day.",
+   "ko": "아빠는 울타리 칠하는 게 세 단계뿐이랬는데, 마지막 게 하루 종일 걸렸어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "눈이 소복이 쌓인 마당을 지호가 가로질러 걸어가고 있어. 다음 중 'step'에 해당하는 것은?",
+   "choices": [
+    "지호가 발을 한 번 앞으로 내디딘 것",
+    "지호가 쓰고 있는 파란 털모자",
+    "마당에 쌓인 눈이 하얀 것",
+    "마당에 서 있는 나무가 두 그루인 것"
+   ],
+   "answer_index": 0,
+   "answer": "지호가 발을 한 번 앞으로 내디딘 것",
+   "why": "맞아! 발을 한 번 앞으로 쏙 내디딘 그 한 번, 그게 바로 step이야. 앞으로 가든 뒤로 가든 딛는 한 번씩을 세는 거거든."
+  },
+  {
+   "type": "choice",
+   "question": "아빠가 캠핑장에서 텐트를 쳤어. 다음 중 'step'에 해당하는 것은?",
+   "choices": [
+    "텐트 옆에 세워 둔 아빠의 자동차",
+    "캠핑장에 온 사람이 여섯 명인 것",
+    "아빠가 텐트 기둥을 하나 세운 것",
+    "텐트 천이 초록색인 것"
+   ],
+   "answer_index": 2,
+   "answer": "아빠가 텐트 기둥을 하나 세운 것",
+   "why": "맞아! 텐트 치는 일을 하나씩 나누면 기둥 세우기가 그 중 한 토막이잖아. 한꺼번에 텐트가 짠 하고 서는 게 아니라 이렇게 하나씩 해 나가는 거, 그 하나가 바로 step인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "민수가 케이크를 만들었어. 반죽을 섞고, 오븐에 굽고, 크림을 발랐어. 드디어 케이크가 다 됐지. 이 이야기에서 'step'이라고 부를 수 있는 게 뭘까?",
+   "choices": [
+    "반죽을 섞어서 그릇에 담은 것",
+    "크림까지 다 발라 케이크가 완성된 그 순간",
+    "섞고 굽고 바른 걸 다 합친 케이크 만들기 전체",
+    "차례를 나누지 않고 단번에 뚝딱 해치우는 것"
+   ],
+   "answer_index": 0,
+   "answer": "반죽을 섞어서 그릇에 담은 것",
+   "why": "맞아! 반죽 섞기는 케이크 만들기를 여러 토막으로 나눴을 때 그 중 한 토막이잖아. 굽기도 있고 크림 바르기도 있는데 그 중 하나, 딱 그게 step이야."
+  }
+ ],
+ "synonyms": [
+  "stage"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "pace",
+   "kind": "confusable",
+   "from": "vs pace"
+  }
+ ],
+ "related_scene": [
+  "side-step"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-step",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-step"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/step.webp",
+  "alt": "운동장을 가로질러 걸어가며 발을 한 번씩 딛는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

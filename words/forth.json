@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/forth/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/forth/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "forth",
+ "slug": "forth",
+ "url": "https://hibbangyong.com/words/forth/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "앞으로·밖으로 — 있던 자리에서 벗어나 앞쪽·바깥쪽으로 나가는 쪽",
+ "gloss_ko": "앞으로·밖으로",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "숨바꼭질하는데 술래가 다 셌어. 나무 뒤에 딱 붙어 숨어 있던 애가 쓱 걸어 나와. 있던 자리에서 벗어나 앞쪽으로 나가는 그 쪽, 그게 forth가 가리키는 쪽이야.",
+  "몸만 그런 게 아니거든? 마음속에만 담아 뒀던 생각을 말로 꺼내 놓을 때도, 그 생각이 forth 나오는 거야.",
+  "그네도 봐봐. 뒤로 돌아오는 쪽이 back, 앞으로 나가는 쪽이 forth. 왔다 갔다 하지.",
+  "밖에 그냥 서 있는 것도 아니고, 뒤로 돌아가는 것도 아니야. 있던 데서 벗어나 앞으로 나가는 쪽 — 그게 forth야."
+ ],
+ "scene": "나무 뒤에 숨어 있던 아이가 술래 앞으로 걸어 나오는 숨바꼭질 장면",
+ "examples": [
+  {
+   "en": "Grandma opened the old box and brought forth a photo of my dad.",
+   "ko": "할머니가 낡은 상자를 열고 아빠 사진을 꺼내 놓으셨어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "네 아이가 각자 방금 한 일을 말했어. 이 중에서 움직임을 'forth'라고 부를 수 있는 아이는 누구야?",
+   "choices": [
+    "무대 뒤에 서 있던 지호가 커튼을 젖히고 앞으로 걸어 나왔어.",
+    "운동장에 나와 있던 소민이가 그 자리에 가만히 서 있었어.",
+    "교실 앞에 있던 태오가 뒤로 돌아 자기 자리로 들어갔어.",
+    "의자에 앉아 있던 하윤이가 손을 위로 번쩍 들어 올렸어."
+   ],
+   "answer_index": 0,
+   "answer": "무대 뒤에 서 있던 지호가 커튼을 젖히고 앞으로 걸어 나왔어.",
+   "why": "맞아! 무대 뒤에 딱 붙어 있다가 커튼 젖히고 앞으로 걸어 나온 거잖아. 있던 자리에서 벗어나 앞쪽으로 쓱 나가는 그 움직임, 바로 그게 forth야."
+  },
+  {
+   "type": "choice",
+   "question": "급식 줄에서 네 아이가 움직였어. 이 중에서 움직임을 'forth'라고 부를 수 있는 아이는 누구야?",
+   "choices": [
+    "예린이가 줄 앞에서 줄 맨 뒤쪽으로 걸어 돌아갔어.",
+    "준서가 줄 맨 뒤에서 줄 앞쪽으로 걸어 나갔어.",
+    "도윤이가 줄에 서서 신발끈을 다시 묶었어.",
+    "채원이가 줄에 서서 물통 뚜껑을 열었어."
+   ],
+   "answer_index": 1,
+   "answer": "준서가 줄 맨 뒤에서 줄 앞쪽으로 걸어 나갔어.",
+   "why": "맞아! 준서는 서 있던 맨 뒤에서 벗어나서 앞쪽으로 쭉 나갔잖아. 있던 자리에서 벗어나 앞으로 나가는 그 쪽, 바로 그게 forth인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 아이가 방금 한 일을 말했어. 이 중에서 'forth'에 해당하는 아이는 누구야?",
+   "choices": [
+    "지호가 사탕 다섯 개를 손으로 세었어.",
+    "민서가 우유를 컵에 담아 마셨어.",
+    "다현이가 이불 속에서 이불 밖으로 기어 나왔어.",
+    "수아가 크레파스 중 노란색을 골랐어."
+   ],
+   "answer_index": 2,
+   "answer": "다현이가 이불 속에서 이불 밖으로 기어 나왔어.",
+   "why": "맞아! 이불 속에 있다가 이불 밖으로 쓱 나왔잖아. 있던 자리에서 벗어나 바깥으로 나가는 그 쪽, 그게 딱 forth야."
+  }
+ ],
+ "synonyms": [
+  "forward"
+ ],
+ "antonyms": [
+  "back"
+ ],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-forth",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-forth"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/forth.webp",
+  "alt": "나무 뒤에 숨어 있던 아이가 술래 앞으로 걸어 나오는 숨바꼭질 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

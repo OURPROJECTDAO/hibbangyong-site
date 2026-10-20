@@ -1,0 +1,89 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/invoice/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/invoice/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "invoice",
+ "slug": "invoice",
+ "url": "https://hibbangyong.com/words/invoice/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "청구서 — 물건을 보내 주거나 일을 해 준 쪽이 무엇을 얼마큼 줬고 그래서 얼마를 내야 하는지 적어 보내는 것(종이든 이메일이든)",
+ "gloss_ko": "청구서",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "엄마 가게에 빵 재료가 들어왔어. 며칠 뒤 재료 회사에서 이메일이 왔는데, 밀가루 몇 포대, 버터 몇 개, 합쳐서 얼마, 언제까지 보내 달라고 적혀 있었지.",
+  "종이로 오든 이메일로 오든 상관없어. 물건이 아니라 일이어도 돼. 수리 기사님이 보일러를 고친 다음 '이만큼 일했으니 이만큼 주세요' 하고 보내는 것도 같은 거야.",
+  "핵심은 이미 받은 물건이나 일에 대해, 아직 안 낸 돈을 내라고 보내는 거라는 점이야.",
+  "돈을 다 낸 다음 받는 영수증(receipt)이랑은 달라. 일 시작 전에 대충 얼마 들지 알려 주는 견적이랑도 다르고."
+ ],
+ "scene": "엄마 가게에 빵 재료 회사가 이메일로 보낸 청구서",
+ "examples": [
+  {
+   "en": "My aunt makes her invoices on her laptop every Friday.",
+   "ko": "우리 이모는 금요일마다 노트북으로 청구서를 만들어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "이삿짐센터가 우리 집 짐을 다 옮겨 준 다음 날, 이삿짐센터에서 우리 집으로 문자가 왔어. '트럭 1대, 직원 3명, 합계 85만 원, 이번 주 금요일까지 입금해 주세요'라고 적혀 있었지. 이 문자를 'invoice'라고 할 수 있을까?",
+   "choices": [
+    "응, invoice 맞아",
+    "아니, invoice 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, invoice 맞아",
+   "why": "맞아! 이삿짐센터가 짐 옮기는 일을 이미 다 해 준 다음에, 트럭 1대, 직원 3명, 합계 85만 원을 적어서 금요일까지 입금해 달라고 보낸 거잖아. 해 준 일에 대해 아직 안 낸 돈을 내라고 보낸 문자니까 바로 그게 invoice인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "꽃집에서 엄마가 꽃다발 값을 카드로 다 낸 다음, 직원이 꽃 이름과 가격이 적힌 종이를 건네줬어. 이런 경우도 'invoice'야?",
+   "choices": [
+    "응, 'invoice' 맞아",
+    "아니, 'invoice' 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 'invoice' 아니야",
+   "why": "맞아! 엄마가 꽃다발 값을 카드로 다 낸 다음에 받은 종이니까, 이건 낼 돈을 알려 주는 게 아니라 냈다는 걸 보여 주는 영수증(receipt)이야. invoice는 아직 안 낸 돈을 내라고 보내는 거라서 여기엔 안 맞아."
+  },
+  {
+   "type": "choice",
+   "question": "프리랜서 디자이너인 사촌 언니가 회사의 포스터 작업을 다 끝내고, 그 회사에 'invoice'를 이메일로 보냈대. 여기서 언니가 보낸 건 뭘까?",
+   "choices": [
+    "해 준 작업에 대해 돈을 달라고 보낸 것",
+    "다 만든 포스터를 파일로 보낸 것",
+    "작업 전에 대략 값을 알려 준 것",
+    "돈을 잘 받았다고 확인해 준 것"
+   ],
+   "answer_index": 0,
+   "answer": "해 준 작업에 대해 돈을 달라고 보낸 것",
+   "why": "맞아! 언니는 포스터 작업을 다 해 줬는데 아직 돈은 못 받았잖아. 그래서 이만큼 일했으니 이만큼 달라고 회사에 이메일로 보낸 거고, 그게 바로 invoice야. 물건이 아니라 일이어도, 종이가 아니라 이메일이어도 똑같이 invoice라고 해."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "receipt",
+   "kind": "confusable",
+   "from": "영수증(receipt)과 뭉갬"
+  }
+ ],
+ "related_scene": [
+  "receipt"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-invoice",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-invoice"
+ },
+ "image": null
+}

@@ -1,0 +1,110 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/deny/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/deny/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "deny",
+ "slug": "deny",
+ "url": "https://hibbangyong.com/words/deny/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "아니라고 잘라 말하다 — 그런 적 없다고 하거나, 달라는 걸 안 준다고 하다",
+ "gloss_ko": "아니라고 잘라 말하다",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "동생이 문 밖에서 그래. \"형, 나 좀 들여보내 줘.\" 넌 \"안 돼.\" 딱 잘랐어. 그게 deny야.",
+  "이번엔 동생이 그래. \"형이 내 과자 먹었지?\" 넌 \"아니, 안 먹었어.\" 이것도 deny야. 부탁이든 말이든, 나한테 내민 걸 \"아니\"로 밀어내면 다 deny거든?",
+  "재밌는 건, 진짜 안 먹었어도 deny, 먹고서 우겨도 deny야. 진짜냐 아니냐는 안 따져. 그냥 \"아니\" 하는 쪽이 deny야.",
+  "그러니까 거짓말이랑 헷갈리지 마. 남을 콕 찍어 \"쟤가 그랬어\" 하는 거랑도 달라. 나한테 온 걸 밀어내는 것, 그게 deny야."
+ ],
+ "scene": "동생이 들여보내 달라고 하자 안 된다고 딱 자르는 장면",
+ "examples": [
+  {
+   "en": "He will deny it, but I saw him take the last cookie.",
+   "ko": "걔는 아니라고 하겠지만 마지막 과자 집어 가는 걸 내가 봤어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "엄마가 화분을 보며 \"이거 누가 쓰러뜨렸어?\" 하고 물었어. 넌 \"제가 쓰러뜨렸어요.\" 하고 말했어. 이게 'deny'야?",
+   "choices": [
+    "응, deny 맞아",
+    "아니, deny 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, deny 아니야",
+   "why": "맞아! 네가 \"제가 쓰러뜨렸어요\" 하고 스스로 밝혔잖아. 이건 밀어낸 게 아니라 손 들고 인정한 거라서 deny가 아니야. deny는 \"아니에요, 저 안 그랬어요\" 하고 잘라 말하는 쪽이거든."
+  },
+  {
+   "type": "choice",
+   "question": "교실에서 짝꿍끼리 이런 말이 오갔어. 이 중 지호가 'deny'를 한 건 어느 것?",
+   "choices": [
+    "짝꿍이 \"내일 소풍 맞지?\" 하자 지호는 \"응, 맞아.\" 했어.",
+    "짝꿍이 \"물감 좀 빌려줘.\" 하자 지호는 \"여기, 써.\" 하고 건넸어.",
+    "짝꿍이 \"네가 내 지우개 가져갔지?\" 하자 지호는 \"아니, 안 가져갔어.\" 했어.",
+    "짝꿍이 \"이 문제 알아?\" 하자 지호는 \"그거 어디 나온 거야?\" 하고 되물었어."
+   ],
+   "answer_index": 2,
+   "answer": "짝꿍이 \"네가 내 지우개 가져갔지?\" 하자 지호는 \"아니, 안 가져갔어.\" 했어.",
+   "why": "맞아! 지우개 가져갔지 하고 물어본 걸 아니, 안 가져갔어 하고 딱 잘랐잖아. 나한테 내민 말을 아니로 밀어낸 거, 바로 그게 deny인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "형제 사이에 이런 일들이 있었어. 형이 'deny'를 한 장면은 어느 것?",
+   "choices": [
+    "동생이 게임기 좀 빌려 달라니까 형이 \"안 돼\" 하고 딱 잘랐어.",
+    "동생이 과자 누가 먹었냐니까 형이 \"내가 먹었어, 미안\" 했어.",
+    "동생이 창문 누가 깼냐니까 형이 \"옆집 애가 그랬어\" 하고 손가락질했어.",
+    "동생 앞에서 형이 \"나 오늘 달리기 일등 했어\" 하고 뻥을 쳤어."
+   ],
+   "answer_index": 0,
+   "answer": "동생이 게임기 좀 빌려 달라니까 형이 \"안 돼\" 하고 딱 잘랐어.",
+   "why": "맞아! 동생이 게임기 빌려 달라고 내민 걸 형이 \"안 돼\" 하고 딱 밀어냈잖아. 나한테 온 부탁을 \"아니\"로 밀어내는 것, 그게 바로 deny인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "allow"
+ ],
+ "confusable": [
+  {
+   "word": "lie",
+   "kind": "confusable",
+   "from": "거짓말하다(lie)"
+  },
+  {
+   "word": "contradict",
+   "kind": "confusable",
+   "from": "vs contradict"
+  },
+  {
+   "word": "admit",
+   "kind": "confusable",
+   "from": "인정하다·자백하다(admit)"
+  },
+  {
+   "word": "reject",
+   "kind": "confusable",
+   "from": "vs reject"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-deny",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-deny"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/deny.webp",
+  "alt": "동생이 들여보내 달라고 하자 안 된다고 딱 자르는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

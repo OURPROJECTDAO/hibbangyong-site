@@ -1,0 +1,76 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/dictionary/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/dictionary/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "dictionary",
+ "slug": "dictionary",
+ "url": "https://hibbangyong.com/words/dictionary/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "사전 — 낱말의 뜻을 찾아볼 수 있게 모아 놓은 두꺼운 책",
+ "gloss_ko": "사전",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "이건 낱말들을 한데 모아 뜻을 적어 둔 두꺼운 책이에요.",
+  "모르는 낱말이 나오면 여기서 찾아 뜻을 확인할 수 있어요."
+ ],
+ "scene": "아주 두껍고 페이지가 빽빽한 하드커버 사전책 한 권을 가운데 펼쳐 놓은 모습(두께로 '사전'임을 표현, 글자는 넣지 않음)",
+ "examples": [
+  {
+   "en": "I don't know this word, so I will look it up in the dictionary.",
+   "ko": "이 낱말을 모르니까 사전에서 찾아볼래."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "동생이 모르는 낱말을 찾으려고 두꺼운 책을 펼쳤는데, 안에는 글자가 하나도 없고 알록달록한 그림만 가득했어. 이게 dictionary야?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 아니야",
+   "why": null
+  },
+  {
+   "type": "choice",
+   "question": "dictionary는 어느 것일까?",
+   "choices": [
+    "글자 없이 그림만 큼직하게 담긴 얇은 그림책",
+    "낱말과 그 뜻이 빽빽하게 담긴 아주 두꺼운 책",
+    "이를 닦을 때 손에 쥐고 쓰는 작은 칫솔",
+    "공을 넣으며 노는 높다란 농구 골대"
+   ],
+   "answer_index": 1,
+   "answer": "낱말과 그 뜻이 빽빽하게 담긴 아주 두꺼운 책",
+   "why": null
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "language",
+  "refer",
+  "vocabulary"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-dictionary",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-dictionary"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/dictionary.webp",
+  "alt": "아주 두껍고 페이지가 빽빽한 하드커버 사전책 한 권을 가운데 펼쳐 놓은 모습(두께로 '사전'임을 표현, 글자는 넣지 않음)",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/blitz/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/blitz/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "blitz",
+ "slug": "blitz",
+ "url": "https://hibbangyong.com/words/blitz/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "짧게 확 몰아붙이기(집중 공세) — 짧은 시간 동안 힘을 한데 모아 한꺼번에 몰아붙이는 것",
+ "gloss_ko": "짧게 확 몰아치기",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "축제까지 딱 일주일 남았을 때, 학생회가 복도랑 계단, 급식실까지 포스터를 싹 도배해 버렸어.",
+  "짧은 시간에 힘을 다 모아서 확 몰아붙이는 것, 그런 걸 blitz라고 해. 여럿이 해도, 나 혼자 주말에 방 청소를 확 끝내도 다 blitz야.",
+  "원래는 전쟁에서 짧고 세게 퍼붓는 공격을 부르던 말이야. 독일어로 번개라는 뜻이래.",
+  "한 달 내내 차근차근 하는 건 blitz가 아니야. 시간이 짧아도 설렁설렁 조금만 하면 그것도 아니고. 짧게, 그리고 세게 쏟아붓는 게 핵심이야."
+ ],
+ "scene": "축제 일주일 전 학생회의 복도·계단·급식실 포스터 도배",
+ "examples": [
+  {
+   "en": "The student council started a poster blitz a week before the school festival.",
+   "ko": "학교 축제 일주일 전에 학생회가 포스터를 한꺼번에 쫙 붙이면서 몰아쳤어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "우리 반 친구들이 한 학기 동안 일주일에 한 번씩 돌아가며 교실 화분에 물을 조금씩 줬어. 이렇게 화분을 돌본 걸 'blitz'라고 할 수 있을까?",
+   "choices": [
+    "응, blitz 맞아",
+    "아니, blitz 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, blitz 아니야",
+   "why": "맞아! 한 학기 내내 일주일에 한 번씩 물을 조금씩 준 거라서, 짧게 세게 몰아붙이는 blitz랑은 정반대야. 오래, 조금씩, 꾸준히 한 거니까 blitz가 아닌 거지."
+  },
+  {
+   "type": "ox",
+   "question": "연극 동아리 부원 열 명이 공연 전날 오후 세 시간 동안 다 같이 달라붙어서 무대 소품 스무 개를 한꺼번에 다 만들어 냈어. 이렇게 소품을 만든 걸 'blitz'라고 할 수 있을까?",
+   "choices": [
+    "응, blitz 맞아",
+    "아니, blitz 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, blitz 맞아",
+   "why": "맞아! 공연 전날 딱 세 시간 동안 열 명이 다 같이 달라붙어서 소품 스무 개를 한꺼번에 끝냈잖아. 짧은 시간에 힘을 다 모아서 확 몰아붙였으니까 이게 바로 blitz야."
+  },
+  {
+   "type": "choice",
+   "question": "네 친구가 각자 자기 방을 치운 얘기를 했어. 그중 방 청소를 'blitz'라고 부를 수 있는 친구는?",
+   "choices": [
+    "한 학기 동안 매일 자기 전에 오 분씩 책상 서랍을 하나씩 정리했어",
+    "한 달 동안 요일마다 치울 곳을 정해 두고 계획표대로 정리했어",
+    "시험 끝난 날 저녁 두 시간 동안 쉬지 않고 방 구석구석을 다 정리했어",
+    "주말 오후 두 시간 동안 음악 들으며 쉬엄쉬엄 책상 위만 정리했어"
+   ],
+   "answer_index": 2,
+   "answer": "시험 끝난 날 저녁 두 시간 동안 쉬지 않고 방 구석구석을 다 정리했어",
+   "why": "맞아! 시험 끝난 날 저녁 딱 두 시간 동안 쉬지 않고 방 구석구석을 다 치웠잖아. 짧은 시간에 힘을 몰아서 확 끝냈으니까 바로 그게 blitz야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "campaign",
+   "kind": "confusable",
+   "from": "vs campaign"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-blitz",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-blitz"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/blitz.webp",
+  "alt": "축제 일주일 전 학생회의 복도·계단·급식실 포스터 도배",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

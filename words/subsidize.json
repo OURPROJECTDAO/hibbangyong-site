@@ -1,0 +1,89 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/subsidize/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/subsidize/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "subsidize",
+ "slug": "subsidize",
+ "url": "https://hibbangyong.com/words/subsidize/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "보조금을 주다 — 어떤 일의 비용 일부를 대신 내 줘서, 더 싸게 하거나 계속 돌아가게 하다",
+ "gloss_ko": "비용 일부를 대 주다",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "수련회비가 20만 원인데 학교가 반을 내 줘서, 우리는 10만 원만 냈어.",
+  "이렇게 누가 비용의 일부를 대신 내서, 그 일이 싸지거나 끊기지 않고 굴러가게 하는 게 subsidize야.",
+  "전부 공짜로 해 주는 것도 아니고, 나중에 갚으라고 빌려주는 것도 아니야.",
+  "좋은 일에만 쓰는 말도 아니야. 장사가 안 되는 회사를 나라 돈으로 버티게 할 때도 똑같이 써."
+ ],
+ "scene": "학교가 수련회비 절반을 내 줘서 학생은 반값만 냄",
+ "examples": [
+  {
+   "en": "Our school subsidizes the camping trip, so it costs us less than last year.",
+   "ko": "학교가 캠프 비용을 일부 대 줘서, 작년보다 돈이 덜 들었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "전기차 한 대 값이 4천만 원인데, 나라가 그중 1천만 원을 대신 내 줘서 사는 사람은 3천만 원만 냈어. 갚을 필요도 없대. 나라가 전기차 구입을 'subsidize'한 걸까?",
+   "choices": [
+    "응, subsidize 맞아",
+    "아니, subsidize 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, subsidize 맞아",
+   "why": "맞아! 4천만 원 중에 1천만 원을 나라가 대신 내 줬고 갚을 필요도 없으니까, 비용 일부를 대신 내 줘서 더 싸게 사게 해 준 거야. 바로 그게 subsidize야."
+  },
+  {
+   "type": "ox",
+   "question": "시가 동네 체육센터 수영 강습료를 한 달 3만 원에서 4만 원으로 올려서, 주민들이 돈을 더 내게 됐어. 시가 수영 강습을 'subsidize'한 걸까?",
+   "choices": [
+    "응, subsidize 맞아",
+    "아니, subsidize 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, subsidize 아니야",
+   "why": "맞아! 시가 강습 비용을 대신 내 준 게 아니라, 강습료를 4만 원으로 올려서 주민한테 돈을 더 받게 된 거잖아. 비용을 대 준 게 아니라 주민이 더 내게 만든 거니까 subsidize가 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "정부가 한 농부에게 새 트랙터 살 돈을 주고, 3년 뒤에 그 돈을 이자와 함께 돌려받기로 했어. 이런 경우도 'subsidize'야?",
+   "choices": [
+    "응, 'subsidize' 맞아",
+    "아니, 'subsidize' 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 'subsidize' 아니야",
+   "why": "맞아! 정부가 3년 뒤에 그 돈을 이자까지 붙여서 돌려받잖아. 이건 빌려준 거지(이건 lend야), 농부 대신 트랙터 값 일부를 내 준 게 아니라서 subsidize가 아닌 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "fund",
+   "kind": "confusable",
+   "from": "vs fund"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-subsidize",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-subsidize"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/subsidize.webp",
+  "alt": "학교가 수련회비 절반을 내 줘서 학생은 반값만 냄",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

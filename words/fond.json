@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/fond/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/fond/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "fond",
+ "slug": "fond",
+ "url": "https://hibbangyong.com/words/fond/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "아끼며 좋아하는 — 확 끌린 게 아니라 마음이 은근히 붙어 있는",
+ "gloss_ko": "아끼며 좋아하는",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "좋아하는 데도 결이 있거든? 확 끌리는 거 말고, 마음이 은근히 붙어 있는 거.",
+  "아빠는 아침마다 라디오를 켜. 켤 때마다 어깨가 슬슬 흔들려. 십 년째 그래.",
+  "사람도, 낡은 모자도, 옛날 사진도, 뭘 자꾸 하는 버릇도 그렇게 좋아할 수 있어.",
+  "어제 보고 갖고 싶어진 거랑은 달라. 마음이 붙어 있는 거야. 이게 fond야."
+ ],
+ "scene": "아침마다 라디오를 켜며 어깨가 흔들리는 십 년째의 아빠",
+ "examples": [
+  {
+   "en": "Grandma is fond of that old bench in the garden.",
+   "ko": "할머니는 마당에 있는 그 낡은 벤치를 참 아끼셔."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "이모가 자기 얘기를 네 가지 했어. 그중에 'fond'가 맞는 건 어느 거야?",
+   "choices": [
+    "할머니가 짜준 목도리를 십 년째 겨울마다 꺼내 두른다",
+    "버스를 타고 시내까지 가는 데 사십 분이 걸린다",
+    "우산을 지하철 선반에 두고 내린 적이 세 번 있다",
+    "냉장고 문에 자석 여덟 개가 붙어 있다"
+   ],
+   "answer_index": 0,
+   "answer": "할머니가 짜준 목도리를 십 년째 겨울마다 꺼내 두른다",
+   "why": "맞아! 목도리를 십 년째 겨울마다 꺼내 두른다는 건, 확 끌려서가 아니라 마음이 은근히 붙어서 자꾸 손이 가는 거잖아. 그렇게 오래 이어지는 좋아함이 바로 fond야."
+  },
+  {
+   "type": "choice",
+   "question": "네 사람이 각자 자기 물건 얘기를 했어. 그중에 'fond'라는 말이 딱 맞는 사람은 누구야?",
+   "choices": [
+    "새로 산 우산을 두 번 쓰고 나서, 이제 그 우산은 쳐다보기도 싫다는 사람",
+    "자전거 체인이 자꾸 빠져서, 자전거를 볼 때마다 화가 난다는 사람",
+    "털모자 실밥이 튀어나왔는데도, 오 년째 겨울마다 그 모자만 쓴다는 사람",
+    "옷장 속 인형이 밤에는 무섭게 보여서, 옷장 문을 꼭 닫아 둔다는 사람"
+   ],
+   "answer_index": 2,
+   "answer": "털모자 실밥이 튀어나왔는데도, 오 년째 겨울마다 그 모자만 쓴다는 사람",
+   "why": "맞아! 실밥이 튀어나온 낡은 모자를 오 년째 겨울마다 꺼내 쓴다는 건, 새것도 아니고 예쁜 것도 아닌데 마음이 그 모자에 붙어 있다는 거잖아. 그렇게 은근히 오래 붙어 있는 마음이 바로 fond야."
+  },
+  {
+   "type": "ox",
+   "question": "소미가 문구점에서 반짝이는 펜을 처음 봤어. 보자마자 마음이 확 쏠려서 그날 바로 사 왔대. 이런 경우도 'fond'야?",
+   "choices": [
+    "응, 'fond' 맞아",
+    "아니, 'fond' 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 'fond' 아니야",
+   "why": "그렇지! 오늘 처음 보고 확 쏠린 거잖아. 마음이 붙을 시간이 아직 없었던 거야. fond는 오래 곁에 두면서 은근히 정이 붙는 거거든."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-fond",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-fond"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/fond.webp",
+  "alt": "아침마다 라디오를 켜며 어깨가 흔들리는 십 년째의 아빠",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

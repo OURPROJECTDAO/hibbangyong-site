@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/purple/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/purple/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "purple",
+ "slug": "purple",
+ "url": "https://hibbangyong.com/words/purple/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "보라색 — 빨강과 파랑을 섞은 그 색",
+ "gloss_ko": "보라색",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "포도알 껍질 봐봐. 빨강도 아니고 파랑도 아닌 그 색 있잖아.",
+  "빨강이랑 파랑을 섞으면 딱 그 색이 나와.",
+  "연하면 연한 대로, 진하면 진한 대로 전부 그 색이야. 분홍이랑은 달라. 분홍은 빨강에 하양을 섞은 거거든.",
+  "이게 purple이야."
+ ],
+ "scene": "포도알 껍질 색",
+ "examples": [
+  {
+   "en": "My new sneakers are purple with white stripes.",
+   "ko": "새로 산 운동화는 보라색인데 흰 줄무늬가 있어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "네 가지 물건 색을 말해줄게. 이 중에서 'purple'인 건 뭘까?",
+   "choices": [
+    "맑은 날 활짝 갠 하늘 색",
+    "잘 익은 바나나 껍질 색",
+    "잘 익은 포도알 껍질 색",
+    "잘 익은 딸기 한 알의 색"
+   ],
+   "answer_index": 2,
+   "answer": "잘 익은 포도알 껍질 색",
+   "why": "맞아! 포도알 껍질은 빨강도 파랑도 아닌, 딱 그 둘을 섞은 색이잖아. 바로 그게 purple인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "채소 가게에 채소 네 가지가 놓여 있어. 다음 중 'purple'에 해당하는 것은?",
+   "choices": [
+    "오이 껍질 색",
+    "당근 껍질 색",
+    "가지 껍질 색",
+    "옥수수 알갱이 색"
+   ],
+   "answer_index": 2,
+   "answer": "가지 껍질 색",
+   "why": "맞아! 가지 껍질 색 봐봐. 포도알 껍질처럼 빨강도 아니고 파랑도 아닌 진한 그 색이잖아. 그래서 그게 바로 purple이야."
+  },
+  {
+   "type": "ox",
+   "question": "농장에서 갓 태어난 병아리를 손바닥에 올려놨어. 그 솜털 색을 보고 아빠가 물었어. 이게 'purple'이야?",
+   "choices": [
+    "응, purple 맞아",
+    "아니, purple 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, purple 아니야",
+   "why": "맞아! 병아리 솜털은 노랑이잖아. 보라는 빨강이랑 파랑을 섞어야 나오는 색인데, 병아리한테는 그 빨강도 파랑도 없거든. 그래서 purple이 아닌 게 맞아."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-purple",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-purple"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/purple.webp",
+  "alt": "포도알 껍질 색",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

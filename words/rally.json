@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/rally/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/rally/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "rally",
+ "slug": "rally",
+ "url": "https://hibbangyong.com/words/rally/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "집회 — 같은 마음인 사람들이 한곳에 많이 모여서, 무엇을 바라거나 반대하는지 다 함께 크게 보여 주는 모임",
+ "gloss_ko": "다 함께 외치는 모임",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "광장에 사람들이 엄청 많이 모였어. 다 같이 목소리를 모아서 와아! 외치는 거야.",
+  "왜 모였냐고? 다 같은 마음을 크게 보여 주려고. 뭘 해 달라고 할 때도 모이고, 뭘 하지 말라고 할 때도 모이고, 누구를 응원할 때도 모여.",
+  "그냥 공연 보러 우르르 모인 거랑은 달라. 바라는 게 하나로 똑같아서 뭉친 거거든.",
+  "그게 rally야."
+ ],
+ "scene": "광장에 많은 사람이 모여 다 같이 외치는 장면",
+ "examples": [
+  {
+   "en": "Many people came to the rally to save the old park.",
+   "ko": "오래된 공원을 지키자고 사람들이 집회에 많이 모였어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "학교 앞 길에 신호등을 달아 달라고, 동네 사람 수백 명이 시청 앞에 모였어. 모두 팻말을 들고 다 함께 \"신호등을 달아 주세요!\" 하고 외쳤어. 이게 'rally'야?",
+   "choices": [
+    "응, rally 맞아",
+    "아니, rally 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, rally 맞아",
+   "why": "맞아! 동네 사람 수백 명이 시청 앞에 모였고, 모두 신호등을 달아 달라는 같은 마음으로 팻말을 들고 다 함께 외쳤거든. 바라는 게 하나로 똑같은 사람들이 한곳에 모여서 크게 보여 준 거니까, 바로 그게 rally인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "놀이터에 그네를 하나 더 놓아 달라고, 지우가 혼자 시청에 전화를 걸어 직원에게 부탁했어. 이게 'rally'야?",
+   "choices": [
+    "응, rally 맞아",
+    "아니, rally 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, rally 아니야",
+   "why": "잘 골랐어! 지우는 혼자서 전화로 직원에게 부탁했잖아. rally는 같은 걸 바라는 사람들이 한곳에 많이 모여서 다 같이 크게 외치는 거라서, 지우가 한 건 rally가 아니야."
+  },
+  {
+   "type": "choice",
+   "question": "네 곳에서 일이 벌어졌어. 'rally'라고 부를 수 있는 건 어느 거야?",
+   "choices": [
+    "새 도서관을 지어 달라고 사람들이 광장에 많이 모여 다 함께 외쳤어.",
+    "좋아하는 가수 공연을 보려고 사람들이 광장에 많이 모여 신나게 따라 불렀어.",
+    "새 도서관을 지어 달라고 민수가 혼자 구청에 긴 편지를 써서 보냈어.",
+    "새 도서관 일로 동네 어른 네 명이 작은 방에 앉아 조용히 의논했어."
+   ],
+   "answer_index": 0,
+   "answer": "새 도서관을 지어 달라고 사람들이 광장에 많이 모여 다 함께 외쳤어.",
+   "why": "맞아! 사람들이 새 도서관을 지어 달라는 같은 바람을 가지고 광장에 많이 모였잖아. 그리고 다 함께 외쳐서 그 바람을 크게 보여 줬으니까 바로 그게 rally인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "protest"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-rally",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-rally"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/rally.webp",
+  "alt": "광장에 많은 사람이 모여 다 같이 외치는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

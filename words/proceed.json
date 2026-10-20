@@ -1,0 +1,91 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/proceed/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/proceed/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "proceed",
+ "slug": "proceed",
+ "url": "https://hibbangyong.com/words/proceed/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "계속하다 — 하기로 한 일이나 하던 일을 그만두지 않고 이어서 해 나가다",
+ "gloss_ko": "하던 걸 이어 가다",
+ "level": {
+  "code": "L3",
+  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "받아쓰기 보는데 따르릉! 소방 훈련이야. 우르르 나갔다 들어왔어.",
+  "혹시 시험 없어졌나? 했는데 선생님이 그러시는 거야. \"자, 5번부터 이어서 할게요.\"",
+  "처음부터 새로 하는 것도 아니고, 그만두는 것도 아니야. 하기로 한 일을 다음으로 쭉 해 나가는 거지. 반가운 일이든 싫은 일이든 말이야.",
+  "그게 proceed야."
+ ],
+ "scene": "받아쓰기 시험 중 소방 훈련으로 나갔다 와서 5번부터 이어 본 시험",
+ "examples": [
+  {
+   "en": "After the fire drill, our teacher proceeded with the spelling test.",
+   "ko": "소방 훈련이 끝나자 선생님이 하던 받아쓰기 시험을 이어서 하셨어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "하준이가 피아노 학원에서 곡을 치고 있었어. 그런데 엄마한테 전화가 와서 잠깐 멈췄지. 통화가 끝나자 하준이는 치던 마디의 다음 마디부터 이어서 끝까지 쳤어. 하준이가 한 건 'proceed'일까?",
+   "choices": [
+    "응, proceed 맞아",
+    "아니, proceed 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, proceed 맞아",
+   "why": "맞아! 하준이는 엄마 전화 때문에 잠깐 멈췄지만 처음부터 다시 치지 않았어. 그만두지도 않았지. 치던 마디의 다음 마디부터 끝까지 이어서 쳤으니까 바로 그게 proceed인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "민지는 퍼즐을 맞추고 있었어. 절반쯤 맞췄을 때 민지는 그만하기로 하고 조각을 전부 상자에 도로 넣었어. 민지가 한 건 'proceed'일까?",
+   "choices": [
+    "응, proceed 맞아",
+    "아니, proceed 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, proceed 아니야",
+   "why": "맞아! 민지는 퍼즐을 절반쯤 맞추다가 그만하고 조각을 전부 상자에 도로 넣었잖아. 하던 퍼즐을 이어서 맞춘 게 아니라 그만둔 거라서, proceed가 아닌 게 맞아."
+  },
+  {
+   "type": "ox",
+   "question": "운동회에서 줄다리기가 끝나자 비가 와서 모두 천막 아래에서 30분 쉬었어. 비가 그치자 선생님들은 순서표에 적힌 다음 경기인 이어달리기를 했어. 이런 경우도 'proceed'야?",
+   "choices": [
+    "응, proceed 맞아",
+    "아니, proceed 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, proceed 맞아",
+   "why": "맞아! 비 때문에 30분 쉬긴 했지만, 선생님들은 운동회를 그만두지도 않았고 처음부터 다시 하지도 않았어. 순서표에 적힌 다음 경기인 이어달리기를 했으니까, 바로 그게 proceed인 거야."
+  }
+ ],
+ "synonyms": [
+  "continue"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "continue",
+   "kind": "confusable",
+   "from": "vs continue"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-proceed",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-proceed"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/proceed.webp",
+  "alt": "받아쓰기 시험 중 소방 훈련으로 나갔다 와서 5번부터 이어 본 시험",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

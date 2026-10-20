@@ -1,0 +1,89 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/lush/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/lush/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "lush",
+ "slug": "lush",
+ "url": "https://hibbangyong.com/words/lush/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "무성한 — 풀이나 나무가 빽빽하게 들어차서 싱싱하게 잘 자라는",
+ "gloss_ko": "빽빽하게 우거진",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "장마 끝나고 학교 뒷마당 풀숲 본 적 있지? 빈틈 없이 들어차 있고, 잎마다 살아서 쑥쑥 자라고 있잖아.",
+  "넓은 골짜기든 창가 작은 화분이든 상관없어. 꽉 차 있고 싱싱하게 자라고 있으면 lush야.",
+  "땅이 넓어도 풀 사이로 흙이 군데군데 보이면 lush가 아니야.",
+  "잎이 많아도 누렇게 말랐거나, 살아서 자라는 식물이 아니면 그것도 아니고. 빽빽한 것과 잘 자라는 것, 둘 다 있어야 해."
+ ],
+ "scene": "장마 끝난 학교 뒷마당 풀숲",
+ "examples": [
+  {
+   "en": "After weeks of rain, the hill behind our school was lush.",
+   "ko": "몇 주 동안 비가 오고 나니까 학교 뒷산에 풀이랑 나무가 엄청 우거졌어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "동네 산책로 옆 벽돌 담장을 담쟁이덩굴이 덮고 있어. 잎이 겹겹이 들어차서 벽돌이 하나도 안 보이고, 줄기 끝마다 연두색 새순이 계속 뻗어 나와. 이 담장은 'lush'야?",
+   "choices": [
+    "응, lush 맞아",
+    "아니, lush 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, lush 맞아",
+   "why": "맞아! 잎이 겹겹이 들어차서 벽돌이 하나도 안 보이니까 빽빽하고, 줄기 끝마다 연두색 새순이 계속 뻗어 나오니까 잘 자라고 있는 거잖아. 빽빽한 것과 잘 자라는 것 둘 다 있으니까 이 담장이 바로 lush인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 군데에서 초록 식물을 봤어. 'lush'라고 부르기에 가장 알맞은 건 어디야?",
+   "choices": [
+    "끝이 안 보이게 넓은 초록 들판인데, 풀 사이사이로 흙바닥이 군데군데 보이는 곳",
+    "거실 구석 가짜 식물 화분인데, 플라스틱 잎이 빽빽하고 일 년 내내 초록색인 곳",
+    "막 심은 모종 화단인데, 모종마다 초록 잎이 두세 장씩 반듯하게 줄 맞춰 선 곳",
+    "운동장 구석 작은 화단인데, 잎이 겹겹이 들어차서 흙이 안 보이고 새잎이 계속 돋는 곳"
+   ],
+   "answer_index": 3,
+   "answer": "운동장 구석 작은 화단인데, 잎이 겹겹이 들어차서 흙이 안 보이고 새잎이 계속 돋는 곳",
+   "why": "맞아! 작은 화단이어도 잎이 겹겹이 들어차서 흙이 안 보이고, 새잎이 계속 돋으니까 빽빽하면서 살아서 자라고 있잖아. 크기가 아니라 바로 그 두 가지가 다 있어서 lush인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "여행 책자 사진 밑에 'lush 골짜기'라고 적혀 있어. 여기서 'lush'는 골짜기가 어떻다는 말일까?",
+   "choices": [
+    "골짜기가 끝이 안 보일 만큼 넓고 크다는 말",
+    "골짜기 한가운데 큰 나무 한 그루가 싱싱하게 서 있다는 말",
+    "골짜기 땅 전체가 식물로 빈틈없이 덮여 잘 자란다는 말",
+    "골짜기에 물이 많이 흘러서 땅이 늘 축축하다는 말"
+   ],
+   "answer_index": 2,
+   "answer": "골짜기 땅 전체가 식물로 빈틈없이 덮여 잘 자란다는 말",
+   "why": "맞아! 사진 속 골짜기 땅이 빈틈없이 식물로 덮여 있고 그게 싱싱하게 잘 자라고 있으니까, 빽빽한 것과 잘 자라는 것 둘 다 갖춘 바로 그게 lush인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "barren"
+ ],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-lush",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-lush"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/lush.webp",
+  "alt": "장마 끝난 학교 뒷마당 풀숲",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

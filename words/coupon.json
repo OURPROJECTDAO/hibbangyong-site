@@ -1,0 +1,72 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/coupon/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/coupon/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "coupon",
+ "slug": "coupon",
+ "url": "https://hibbangyong.com/words/coupon/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "쿠폰 — 오려서 내면 물건을 더 싸게 살 수 있게 해 주는 할인권",
+ "gloss_ko": "쿠폰",
+ "level": {
+  "code": "L4",
+  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "이건 가게에서 물건을 살 때 정해진 값보다 싸게 사게 해 주는 종이예요. 가장자리 점선을 가위로 오려서 쓸 수 있어요.",
+  "엄마가 마트에서 이걸 내면 우유나 과자를 조금 더 싼값에 살 수 있어요."
+ ],
+ "scene": "가운데 큼직하게 놓인 쿠폰 한 장 — 가장자리에 티켓처럼 반원 홈이 파이고, 한쪽에 점선(자르는 선)과 작은 가위가 있어 '오려 쓰는 할인권'임이 분명한 장면. 글자·숫자 없이 별 심볼로 표현.",
+ "examples": [
+  {
+   "en": "Mom used a coupon to pay less for the milk.",
+   "ko": "엄마가 할인권을 내고 우유를 더 싸게 샀어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "놀이터에서 주운 납작한 나뭇잎 한 장을 주머니에 넣었어요. 이게 coupon이야?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 아니야",
+   "why": null
+  },
+  {
+   "type": "choice",
+   "question": "coupon은 어느 것일까?",
+   "choices": [
+    "비 오는 날 손에 들고 펴는 물건",
+    "가게에 내면 값을 깎아 주는 종이",
+    "밤하늘에 작게 떠서 빛나는 것",
+    "국을 담아서 먹을 때 쓰는 그릇"
+   ],
+   "answer_index": 1,
+   "answer": "가게에 내면 값을 깎아 주는 종이",
+   "why": null
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-coupon",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-coupon"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/coupon.webp",
+  "alt": "가운데 큼직하게 놓인 쿠폰 한 장 — 가장자리에 티켓처럼 반원 홈이 파이고, 한쪽에 점선(자르는 선)과 작은 가위가 있어 '오려 쓰는 할인권'임이 분명한 장면. 글자·숫자 없이 별 심볼로 표현.",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

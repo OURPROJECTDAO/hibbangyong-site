@@ -1,0 +1,95 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/pneumonia/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/pneumonia/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "pneumonia",
+ "slug": "pneumonia",
+ "url": "https://hibbangyong.com/words/pneumonia/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "폐렴 — 폐 속에 병균이 들어가 염증이 생겨서 기침과 열이 나고 숨쉬기 힘들어지는 병",
+ "gloss_ko": "폐렴",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "감기인 줄 알았는데 기침이 점점 깊어지고 열이 안 내려서 병원에 갔더니, 엑스레이에 폐가 뿌옇게 찍혔대.",
+  "숨 쉬는 기관인 폐 안에 세균이나 바이러스가 들어가서 염증이 생긴 거야. 이게 pneumonia, 우리말로 폐렴이야.",
+  "할머니, 할아버지만 걸리는 병이 아니야. 아기도, 우리 또래도 걸릴 수 있어.",
+  "코랑 목에서 끝나는 감기랑은 달라. 병이 폐 안까지 내려간 거야."
+ ],
+ "scene": "감기인 줄 알았는데 기침과 열이 안 떨어져 병원에서 폐 엑스레이를 찍은 장면",
+ "examples": [
+  {
+   "en": "My little brother got pneumonia and had to stay in the hospital for a week.",
+   "ko": "내 남동생이 폐렴에 걸려서 일주일 동안 입원해야 했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "아빠가 기침과 열이 일주일 넘게 이어져서 병원에 갔어. 의사 선생님이 청진기로 가슴 소리를 듣더니 '세균이 폐 안까지 들어가서 폐에 염증이 생겼어요'라고 했어. 아빠가 걸린 이 병이 'pneumonia'야?",
+   "choices": [
+    "응, pneumonia 맞아",
+    "아니, pneumonia 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, pneumonia 맞아",
+   "why": "맞아! 의사 선생님이 세균이 폐 안까지 들어가서 폐에 염증이 생겼다고 했잖아. 폐 안에 생긴 그 염증이 바로 pneumonia, 우리말로 폐렴이야."
+  },
+  {
+   "type": "ox",
+   "question": "지각할까 봐 학교 5층 교실까지 계단을 한 번에 뛰어 올라갔더니 숨이 가빠서 헐떡였어. 그런데 자리에 앉아 몇 분 쉬니까 숨이 금방 원래대로 돌아왔어. 이렇게 숨이 찼던 상태가 'pneumonia'야?",
+   "choices": [
+    "응, pneumonia 맞아",
+    "아니, pneumonia 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, pneumonia 아니야",
+   "why": "잘 골랐어! 5층까지 뛰어 올라가서 숨이 찼다가 몇 분 쉬니까 금방 원래대로 돌아왔잖아. 폐가 아픈 게 아니라 건강한 폐가 열심히 일한 거라서 pneumonia가 아니야."
+  },
+  {
+   "type": "choice",
+   "question": "우리 반 친구 넷이 각자 숨이 차거나 기침했던 일을 말했어. 의사가 'pneumonia'라고 진단했을 친구는 누구일까?",
+   "choices": [
+    "목이 좀 칼칼하고 콧물이 나서 이틀 쉬었더니 금방 나았어",
+    "열이 안 내려서 찍은 엑스레이에 폐 한쪽이 하얗게 차서 입원했어",
+    "먼지 많은 날마다 숨이 쌕쌕 막혀서 흡입기를 늘 들고 다녀",
+    "운동장을 열 바퀴 뛰고 나서 숨이 차서 한참 동안 헐떡였어"
+   ],
+   "answer_index": 1,
+   "answer": "열이 안 내려서 찍은 엑스레이에 폐 한쪽이 하얗게 차서 입원했어",
+   "why": "맞아! 열이 안 내려서 찍은 엑스레이에 폐 한쪽이 하얗게 찼다는 건 병균이 폐 안까지 들어가서 염증이 생겼다는 거야. 그래서 입원까지 한 거고, 바로 그게 pneumonia야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "chest",
+   "kind": "confusable",
+   "from": "vs chest infection"
+  }
+ ],
+ "related_scene": [
+  "inflammation",
+  "respiratory",
+  "tuberculosis"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-pneumonia",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-pneumonia"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/pneumonia.webp",
+  "alt": "감기인 줄 알았는데 기침과 열이 안 떨어져 병원에서 폐 엑스레이를 찍은 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

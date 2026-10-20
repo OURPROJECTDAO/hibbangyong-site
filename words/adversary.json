@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/adversary/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/adversary/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "adversary",
+ "slug": "adversary",
+ "url": "https://hibbangyong.com/words/adversary/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "적수 — 싸움이나 경쟁에서 나와 맞서는 상대(사람·팀·나라 모두)",
+ "gloss_ko": "맞서는 상대",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "체스 결승이든 법정 다툼이든 두 나라 전쟁이든, 나를 꺾으려고 맞은편에 서 있는 쪽이 있어.",
+  "그쪽은 한 사람일 수도 있고, 팀이나 회사, 나라일 수도 있어.",
+  "서로 미워하는 적일 수도 있지만, 경기 끝나고 악수하는 친구일 수도 있어.",
+  "기준은 감정이 아니라 서 있는 자리야. 같은 편이나 구경꾼은 아무리 가까이 있어도 아니야."
+ ],
+ "scene": "체스 결승에서 맞은편에 선 상대",
+ "examples": [
+  {
+   "en": "In the final, my adversary was my best friend from my class.",
+   "ko": "결승에서 내가 맞붙은 상대가 같은 반 제일 친한 친구였어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "학급 회장 선거에서 민지와 나, 둘만 후보로 나왔어. 민지는 나를 이기려고 같은 반 친구들의 표를 놓고 나와 겨루고 있어. 이때 민지는 나에게 'adversary'야?",
+   "choices": [
+    "응, adversary 맞아",
+    "아니, adversary 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, adversary 맞아",
+   "why": "맞아! 민지는 같은 반 친구들의 표를 놓고 나를 이기려고 맞은편에 서 있잖아. 그 자리에 선 사람이 바로 adversary야."
+  },
+  {
+   "type": "ox",
+   "question": "운동회 줄다리기에서 나는 청팀이야. 같은 청팀인 준호가 내 바로 뒤에서 나와 같은 쪽 밧줄을 함께 당기고 있어. 이때 준호는 나에게 'adversary'야?",
+   "choices": [
+    "응, adversary 맞아",
+    "아니, adversary 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, adversary 아니야",
+   "why": "맞아! 준호는 내 바로 뒤에서 같은 쪽 밧줄을 같이 당기는 같은 청팀이잖아. adversary는 맞은편에서 나를 꺾으려고 당기는 쪽이라서, 같은 편인 준호는 adversary가 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "두 나라가 국경 문제로 수십 년 동안 군대를 세워 두고 서로 맞서 왔어. 이런 경우도 두 나라가 서로에게 'adversary'야?",
+   "choices": [
+    "응, adversary 맞아",
+    "아니, adversary 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, adversary 맞아",
+   "why": "맞아! 두 나라가 국경 문제로 수십 년 동안 군대를 세워 두고 서로 맞서 왔잖아. 경기가 아니어도 이렇게 맞은편에 서 있으면 두 나라는 서로에게 adversary인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "opponent",
+   "kind": "confusable",
+   "from": "vs opponent"
+  },
+  {
+   "word": "enemy",
+   "kind": "confusable",
+   "from": "vs enemy"
+  }
+ ],
+ "related_scene": [
+  "adverse",
+  "battle"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-adversary",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-adversary"
+ },
+ "image": null
+}

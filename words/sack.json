@@ -1,0 +1,74 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/sack/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/sack/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "sack",
+ "slug": "sack",
+ "url": "https://hibbangyong.com/words/sack/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "자루 — 곡식이나 감자를 담는 커다란 천 주머니",
+ "gloss_ko": "자루",
+ "level": {
+  "code": "L4",
+  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "그림 속 불룩한 갈색 주머니가 sack이에요. 곡식이나 감자를 가득 담는 커다란 천 주머니예요.",
+  "마트에서 쌀을 커다란 주머니에 담아 파는 걸 본 적 있을 거예요."
+ ],
+ "scene": "입구를 끈으로 묶은 불룩한 갈색 삼베 자루 한 개(뜻: 곡물·감자를 담는 커다란 천 자루)를 단독으로 그림",
+ "examples": [
+  {
+   "en": "The farmer filled the sack with potatoes.",
+   "ko": "농부가 자루에 감자를 가득 채웠어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "커다란 갈색 천 주머니에 감자가 가득 들어 있고, 위쪽을 끈으로 묶어 놓았어. 이게 sack이야?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 맞아",
+   "why": null
+  },
+  {
+   "type": "choice",
+   "question": "sack은 어느 것일까?",
+   "choices": [
+    "가지에 앉아 노래하는 작은 새",
+    "물속에서 헤엄치는 은빛 물고기",
+    "곡식을 담는 커다란 천 주머니",
+    "도로를 빠르게 달리는 자동차"
+   ],
+   "answer_index": 2,
+   "answer": "곡식을 담는 커다란 천 주머니",
+   "why": null
+  }
+ ],
+ "synonyms": [
+  "pocket"
+ ],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-sack",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-sack"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/sack.webp",
+  "alt": "입구를 끈으로 묶은 불룩한 갈색 삼베 자루 한 개(뜻: 곡물·감자를 담는 커다란 천 자루)를 단독으로 그림",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

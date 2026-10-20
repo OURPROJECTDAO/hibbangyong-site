@@ -1,0 +1,91 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/bureaucracy/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/bureaucracy/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "bureaucracy",
+ "slug": "bureaucracy",
+ "url": "https://hibbangyong.com/words/bureaucracy/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "관료주의(서류·단계가 너무 많은 방식) — 규칙과 서류, 거쳐야 할 단계가 너무 많아서 일이 느리고 답답하게 돌아가는 조직의 방식(그 일을 하는 사무 조직 전체를 가리키기도 함)",
+ "gloss_ko": "서류·단계 많은 방식",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "동아리 행사 하나 하려는데 신청서 쓰고, 담임 도장 받고, 부장 선생님 도장 받고, 교감 선생님 허락까지 받느라 2주가 걸렸어.",
+  "누가 나쁜 사람이라서 그런 게 아니야. 규칙과 단계가 층층이 쌓인 조직은 원래 그렇게 느리게 돌아가.",
+  "학교든 회사든 나라든, 이렇게 돌아가는 방식이나 그 일을 맡은 사무 조직 전체를 bureaucracy라고 해.",
+  "한 사람이 불친절한 거나 뒷돈 받는 비리랑은 달라. 문제는 사람이 아니라 절차가 너무 무거운 거야."
+ ],
+ "scene": "동아리 행사 허락을 받으려고 도장 여러 개를 받느라 2주가 걸린 일",
+ "examples": [
+  {
+   "en": "I just wanted a new student card, but the school bureaucracy took three weeks.",
+   "ko": "새 학생증 하나 받고 싶었을 뿐인데, 학교 서류 절차 때문에 3주나 걸렸어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "아파트 놀이터 그네 줄이 끊어졌어. 관리사무소 직원은 친절했지만, 고치려면 관리사무소 신청서를 내고, 입주자 회의 승인을 받고, 구청 확인 서류까지 차례로 거쳐야 해서 석 달이 걸렸어. 이렇게 일이 처리되는 방식이 'bureaucracy'야?",
+   "choices": [
+    "응, bureaucracy 맞아",
+    "아니, bureaucracy 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, bureaucracy 맞아",
+   "why": "맞아! 관리사무소 직원은 친절했는데도 신청서, 입주자 회의 승인, 구청 확인 서류를 차례로 거치느라 석 달이 걸렸잖아. 사람 탓이 아니라 거쳐야 할 단계가 너무 많아서 느려진 거니까, 바로 그게 bureaucracy인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "학교 도서관에서 빌린 책의 표지가 찢어져 있는 걸 발견했어. 사서 선생님께 말씀드리니, 신청서나 다른 선생님 허락 없이 그 자리에서 확인하고 바로 다른 책으로 바꿔 주셨어. 이렇게 일이 처리되는 방식이 'bureaucracy'야?",
+   "choices": [
+    "응, bureaucracy 맞아",
+    "아니, bureaucracy 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, bureaucracy 아니야",
+   "why": "잘 골랐어! 신청서도 없고 다른 선생님 허락도 안 거치고, 사서 선생님이 그 자리에서 확인하고 바로 바꿔 주셨잖아. 단계가 층층이 쌓여서 느려지는 방식이랑 정반대니까 이건 bureaucracy가 아니야."
+  },
+  {
+   "type": "ox",
+   "question": "동네 도서관에 책을 빌리러 갔는데, 사서 한 명이 점심 먹으러 가야 한다며 짜증을 내고 대출 처리를 한 시간이나 미뤘어. 도서관 규칙이나 절차는 간단했는데 그 사람 때문에 늦어진 거야. 이런 경우도 'bureaucracy'야?",
+   "choices": [
+    "응, bureaucracy 맞아",
+    "아니, bureaucracy 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, bureaucracy 아니야",
+   "why": "잘 봤어! 도서관 규칙이나 절차는 간단했고, 한 시간 늦어진 건 사서 한 명이 짜증 내면서 미뤘기 때문이잖아. bureaucracy는 규칙과 단계가 너무 많아서 느려지는 거라, 이 경우는 아닌 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "red",
+   "kind": "confusable",
+   "from": "vs red tape"
+  }
+ ],
+ "related_scene": [
+  "document"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-bureaucracy",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-bureaucracy"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/bureaucracy.webp",
+  "alt": "동아리 행사 허락을 받으려고 도장 여러 개를 받느라 2주가 걸린 일",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

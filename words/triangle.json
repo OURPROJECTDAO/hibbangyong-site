@@ -1,0 +1,74 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/triangle/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/triangle/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "triangle",
+ "slug": "triangle",
+ "url": "https://hibbangyong.com/words/triangle/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "삼각형 — 변이 세 개, 꼭짓점이 세 개인 도형",
+ "gloss_ko": "삼각형",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "뾰족한 모서리가 세 개 있고, 곧은 선 세 개로 둘러싸인 도형이에요.",
+  "샌드위치를 반으로 자르거나 옷걸이를 볼 때 이 모양을 찾을 수 있어요."
+ ],
+ "scene": "노란색 정삼각형 도형 하나(세 변·세 꼭짓점이 또렷한 가장 전형적인 삼각형)",
+ "examples": [
+  {
+   "en": "The yellow road sign was shaped like a triangle.",
+   "ko": "그 노란 도로 표지판은 삼각형 모양이었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "어떤 도형이 곧은 선 세 개로 둘러싸여 있고 모서리도 세 개야. 이 도형을 'triangle'이라고 해?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 맞아",
+   "why": null
+  },
+  {
+   "type": "choice",
+   "question": "다음 중 'triangle'은 어느 거야?",
+   "choices": [
+    "세 개의 곧은 선으로 둘러싸인 도형",
+    "네 변의 길이가 모두 같은 도형",
+    "동그랗게 굴러가는 도형",
+    "길고 곧은 막대 모양의 물건"
+   ],
+   "answer_index": 0,
+   "answer": "세 개의 곧은 선으로 둘러싸인 도형",
+   "why": null
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "square"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-triangle",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-triangle"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/triangle.webp",
+  "alt": "노란색 정삼각형 도형 하나(세 변·세 꼭짓점이 또렷한 가장 전형적인 삼각형)",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

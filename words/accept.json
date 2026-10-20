@@ -1,0 +1,82 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/accept/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/accept/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "accept",
+ "slug": "accept",
+ "url": "https://hibbangyong.com/words/accept/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "받아들이다 — 밀어내지 않고 \"그래, 그러자\" 하고 마음을 여는 것",
+ "gloss_ko": "받아들이다",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "네 뜻대로 안 된 일이 하나 생겼어. 반에서 앉을 자리가 네가 싫어하던 쪽으로 정해진 거야.",
+  "싫어 싫어 하면서 계속 밀어낼 수도 있어. 근데 어떤 애는 그래, 여기서 하자, 하고 마음을 돌려.",
+  "선물이든 같이 놀자는 말이든, 잘 안 풀린 일이든 똑같아. 밀어내지 않고 그러자고 하는 거야.",
+  "꾹 참는 거랑은 달라. 참는 애는 속으로 아직 밀어내고 있거든? 속에서까지 그만 밀어내는 것, 그게 accept야."
+ ],
+ "scene": "원하지 않던 자리로 정해진 반 자리 배정",
+ "examples": [
+  {
+   "en": "I didn't like the new rule, but I accepted it.",
+   "ko": "새 규칙이 맘에 안 들었지만 그래도 받아들였어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "네 아이한테 각각 이런 일이 있었어. 이 중에서 'accept' 했다고 말할 수 있는 아이는 누구일까?",
+   "choices": [
+    "민수는 창문 깬 게 자기라고 선생님 앞에서 숨김없이 말했어.",
+    "서연이는 생일에 친구들이 준 카드를 두 손 가득 들고 왔어.",
+    "지호는 팀이 마음에 안 들었는데 그래 이 팀에서 하자고 마음을 돌렸어.",
+    "하준이는 새 규칙이 싫어서 툴툴대면서도 시키는 대로 다 했어."
+   ],
+   "answer_index": 2,
+   "answer": "지호는 팀이 마음에 안 들었는데 그래 이 팀에서 하자고 마음을 돌렸어.",
+   "why": "맞아! 팀이 싫었는데도 그래 여기서 하자 하고 마음을 돌렸잖아. 싫은 걸 속에서까지 그만 밀어낸 거, 그게 바로 accept야."
+  },
+  {
+   "type": "ox",
+   "question": "현우는 우편함을 열어보니 이름 모를 곳에서 온 광고 우편물이 들어와 있었어. 손에 쥐고 집으로 들고 들어왔지. 이런 경우도 'accept'야?",
+   "choices": [
+    "응, 'accept' 맞아.",
+    "아니, 'accept' 아니야."
+   ],
+   "answer_index": 1,
+   "answer": "아니, 'accept' 아니야.",
+   "why": "그래, 아니야가 맞아! 광고 우편물은 그냥 우편함에 들어와 있던 거고, 현우는 받을지 말지 마음을 정한 적이 한 번도 없거든. 손에 들어왔다고 다 accept는 아니야. 마음이 그러자고 해야 accept인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "refuse"
+ ],
+ "confusable": [
+  {
+   "word": "receive",
+   "kind": "confusable",
+   "from": "vs receive"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-accept",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-accept"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/accept.webp",
+  "alt": "원하지 않던 자리로 정해진 반 자리 배정",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

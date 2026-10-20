@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/perhaps/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/perhaps/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "perhaps",
+ "slug": "perhaps",
+ "url": "https://hibbangyong.com/words/perhaps/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "어쩌면 — 그럴 수도 있고 아닐 수도 있어서, 한쪽으로 딱 잘라 말하지 않는 말",
+ "gloss_ko": "그럴지도 몰라",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "내일 우리 반 소풍 갈까? 하늘에 구름이 잔뜩 꼈어.",
+  "올 수도 있고, 안 올 수도 있어. 아무도 몰라. 그럴 때 말 앞에 툭 붙이는 말이 있거든? \"어쩌면.\" 딱 잘라 말하지 않고 문을 살짝 열어두는 거야.",
+  "좋은 일에도 붙고 나쁜 일에도 붙어. 남한테 조심스럽게 말 꺼낼 때도 붙어. \"어쩌면 엄마한테 먼저 물어보는 게 좋겠어\" 이렇게.",
+  "\"꼭 그래!\"도 아니고 \"절대 아니야!\"도 아니야. 그 사이를 비워두는 말, 그게 perhaps야."
+ ],
+ "scene": "구름 낀 하늘을 보며 내일 소풍을 갈지 몰라 하는 순간",
+ "examples": [
+  {
+   "en": "Perhaps it will rain tomorrow, or perhaps it won't.",
+   "ko": "어쩌면 내일 비가 올 수도 있고, 어쩌면 안 올 수도 있어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "놀이터에서 민수가 그네를 가리키며 \"저 그네는 절대 안 비어. 쟤가 끝까지 탈 거야\" 하고 딱 잘라 말해. 민수 말 앞에 'perhaps'를 붙이면 맞을까?",
+   "choices": [
+    "응, 'perhaps' 맞아",
+    "아니, 'perhaps' 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 'perhaps' 아니야",
+   "why": "맞아! 민수가 절대라고 딱 잘라 말해버렸잖아. 그렇게 한쪽으로 못 박은 말에는 어쩌면이 못 붙어. 어쩌면은 이럴 수도 저럴 수도, 하고 문을 살짝 열어둘 때 쓰는 말이거든."
+  },
+  {
+   "type": "ox",
+   "question": "준우는 오늘 아침에 자기 손으로 어항에 먹이를 넣었고, 지금도 그 먹이통을 든 채 어항 앞에 서 있어. 준우가 옆에 온 누나에게 \"'perhaps' 오늘 먹이를 줬어\" 하고 말하면, 'perhaps'를 제대로 쓴 걸까?",
+   "choices": [
+    "응, 'perhaps'를 제대로 쓴 거야.",
+    "아니, 'perhaps'를 잘못 쓴 거야."
+   ],
+   "answer_index": 1,
+   "answer": "아니, 'perhaps'를 잘못 쓴 거야.",
+   "why": "맞아! 준우는 아침에 자기 손으로 먹이를 넣었고 지금도 그 먹이통을 들고 어항 앞에 서 있잖아. 자기가 한 일을 자기가 다 아는데 어쩌면을 붙이면 이상하지. 어쩌면은 나도 모를 때 쓰는 말이거든."
+  },
+  {
+   "type": "choice",
+   "question": "놀이터에서 아이 넷이 각자 한마디씩 했어. 이 중에서 'perhaps'를 말 앞에 붙이기에 딱 맞는 아이는 누구일까?",
+   "choices": [
+    "도윤이는 미끄럼틀 계단에 서서 \"저 강아지가 우리한테 뛰어올 수도 있고, 그냥 지나갈 수도 있어\" 하고 말했어.",
+    "하람이는 미끄럼틀 계단에 서서 \"저 강아지 목줄은 빨간색이고 길이가 아주 길어\" 하고 말했어.",
+    "은우는 미끄럼틀 계단에 서서 \"나는 지금 신발끈을 두 번 묶고 모자를 고쳐 쓸 거야\" 하고 말했어.",
+    "시아는 미끄럼틀 계단에 서서 \"우리 반 아이는 스물세 명이고 남자가 열한 명이야\" 하고 말했어."
+   ],
+   "answer_index": 0,
+   "answer": "도윤이는 미끄럼틀 계단에 서서 \"저 강아지가 우리한테 뛰어올 수도 있고, 그냥 지나갈 수도 있어\" 하고 말했어.",
+   "why": "맞아! 뛰어올 수도 있고 그냥 지나갈 수도 있다고 두 갈래를 다 열어뒀잖아. 이렇게 딱 잘라 말하지 않고 문을 살짝 열어두는 말 앞에 붙는 게 바로 perhaps야."
+  }
+ ],
+ "synonyms": [
+  "maybe"
+ ],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-perhaps",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-perhaps"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/perhaps.webp",
+  "alt": "구름 낀 하늘을 보며 내일 소풍을 갈지 몰라 하는 순간",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

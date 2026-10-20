@@ -1,0 +1,100 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/cause/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/cause/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "cause",
+ "slug": "cause",
+ "url": "https://hibbangyong.com/words/cause/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "어떤 일이 일어나게 만든 것, 까닭",
+ "gloss_ko": "일이 생긴 까닭",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "어떤 일이 생기면 '왜 이렇게 됐지?' 하고 거꾸로 따라가 봐.",
+  "비가 쏟아졌어. 그랬더니 길이 물바다가 됐지. 그 물바다를 만든 건 쏟아진 비야.",
+  "좋은 일을 만들었든 나쁜 일을 만들었든, 또 눈에 안 보여서 찾아내야 하든, 일을 일어나게 만든 그것을 말해.",
+  "이렇게 어떤 일을 만든 바로 그것, 이게 cause야."
+ ],
+ "scene": "비 쏟아짐→길 물바다. 그 일을 만든 그것=비. 좋든 나쁘든·보이든 숨든, 일을 일으킨 그것.",
+ "examples": [
+  {
+   "en": "We still don't know the cause of the fire.",
+   "ko": "우린 아직도 그 불이 난 원인을 몰라."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "부엌에서 일이 줄줄이 벌어졌어. 고양이가 식탁 위 우유컵을 툭 쳤고, 컵이 바닥으로 떨어졌고, 우유가 쫙 쏟아졌고, 바닥이 미끌미끌해졌지. 이 중에서 '컵이 바닥으로 떨어진 일'의 'cause'는 어느 거야?",
+   "choices": [
+    "고양이가 우유컵을 툭 친 것",
+    "우유가 바닥에 쫙 쏟아진 것",
+    "바닥이 미끌미끌해진 것",
+    "도현이가 그 바닥에서 미끄러진 것"
+   ],
+   "answer_index": 0,
+   "answer": "고양이가 우유컵을 툭 친 것",
+   "why": "맞아! 고양이가 툭 치니까 그제서야 컵이 떨어졌잖아. 그러니까 컵을 떨어지게 만든 그것, 바로 그게 컵 떨어진 일의 cause인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "민지한테 여러 일이 있었어. 매일 아침 연습을 했고, 대회에서 1등을 했고, 새 운동화를 신었고, 친구들이 응원해 줬지. 이 중에서 1등의 'cause'는 어느 거야?",
+   "choices": [
+    "매일 아침 연습을 한 것",
+    "대회에서 1등을 한 것",
+    "새 운동화를 신은 것",
+    "친구들이 응원을 해 준 것"
+   ],
+   "answer_index": 0,
+   "answer": "매일 아침 연습을 한 것",
+   "why": "맞아! 민지가 매일 아침 연습을 했으니까 그게 차곡차곡 쌓여서 1등을 만들어 낸 거야. 1등이 일어나게 만든 바로 그것, 그게 cause거든."
+  },
+  {
+   "type": "ox",
+   "question": "할머니가 길을 걷는데 마침 까마귀가 까악 울었어. 바로 그때 할머니가 휘청 넘어졌지. 까마귀가 운 것을, 할머니가 넘어진 일의 'cause'라고 할 수 있을까?",
+   "choices": [
+    "응, cause라고 할 수 있어",
+    "아니, cause라고 할 수 없어"
+   ],
+   "answer_index": 1,
+   "answer": "아니, cause라고 할 수 없어",
+   "why": "맞아! 까마귀가 운 거랑 할머니가 넘어진 건 그냥 같은 때에 일어났을 뿐이야. 까마귀 울음이 할머니 다리를 휘청하게 만든 게 아니잖아. 진짜 넘어지게 만든 게 따로 있을 테니까, 까마귀 울음은 cause가 아닌 게 맞아."
+  }
+ ],
+ "synonyms": [
+  "reason"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "reason",
+   "kind": "confusable",
+   "from": "vs reason"
+  },
+  {
+   "word": "source",
+   "kind": "confusable",
+   "from": "vs source"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-cause",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-cause"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/cause.webp",
+  "alt": "비 쏟아짐→길 물바다. 그 일을 만든 그것=비. 좋든 나쁘든·보이든 숨든, 일을 일으킨 그것.",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

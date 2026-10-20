@@ -1,0 +1,92 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/relevant/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/relevant/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "relevant",
+ "slug": "relevant",
+ "url": "https://hibbangyong.com/words/relevant/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "관련 있는 — 지금 하는 얘기나 문제랑 딱 맞아떨어지는",
+ "gloss_ko": "관련 있는",
+ "level": {
+  "code": "L6",
+  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "친구들이랑 강아지 얘기를 신나게 하고 있어.",
+  "근데 누가 갑자기 '나 어제 피자 먹었어!' 하면? 어라, 지금 얘기랑 아무 상관없잖아.",
+  "반대로 '강아지는 뼈다귀 좋아해' 하면? 오, 딱 지금 얘기에 맞지!",
+  "이렇게 지금 하는 얘기나 문제에 딱 들어맞는 거, 그게 relevant야.",
+  "꼭 중요하고 대단한 것만은 아니야. 작아도 지금 얘기에 맞으면 relevant거든."
+ ],
+ "scene": "친구들과 강아지 얘기를 하는데 누가 피자 얘기를 꺼냄",
+ "examples": [
+  {
+   "en": "That fact isn't relevant to our topic, so let's talk about something else.",
+   "ko": "그 얘긴 지금 우리 주제랑 상관없으니까, 다른 얘기 하자."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "친구가 지수한테 뭔가 물어봤는데, 지수가 한 대답이 'relevant'했대. 지수 대답은 어떤 대답이었을까?",
+   "choices": [
+    "아주 큰 목소리로 한 대답이었어",
+    "물어본 것에 딱 들어맞는 대답이었어",
+    "아주 오래 걸린 대답이었어",
+    "아주 웃긴 대답이었어"
+   ],
+   "answer_index": 1,
+   "answer": "물어본 것에 딱 들어맞는 대답이었어",
+   "why": "맞아! 지금 물어본 것에 딱 들어맞는 대답이라서, 바로 그게 relevant인 거야. 강아지 얘기 중엔 강아지 대답이 딱 맞는 것처럼!"
+  },
+  {
+   "type": "choice",
+   "question": "친구들이랑 이야기하는 자리에서 태오가 한 말이 'relevant'했대. 태오가 한 말은 어떤 말이었을까?",
+   "choices": [
+    "아주 빠르게 쏟아낸 말이었어",
+    "아주 작게 속삭인 말이었어",
+    "지금 하던 얘기랑 딱 이어지는 말이었어",
+    "아주 여러 번 되풀이한 말이었어"
+   ],
+   "answer_index": 2,
+   "answer": "지금 하던 얘기랑 딱 이어지는 말이었어",
+   "why": "맞아! 지금 하던 얘기에 딱 이어지는 말이었으니까 바로 그게 relevant인 거야. 얘기에 착 들어맞으면 relevant거든."
+  },
+  {
+   "type": "choice",
+   "question": "친구들이 '무슨 색이 제일 예뻐?' 하고 얘기하는 중이야. 지수가 끼어들어 한 말이 'relevant'했대. 지수는 뭐라고 했을까?",
+   "choices": [
+    "난 노란색이 제일 예쁜 것 같아.",
+    "그런 얘기보다 숙제부터 하는 게 더 중요해.",
+    "우리 이제 그만하고 밖에 나가서 놀자.",
+    "미술 시간엔 물감을 아껴 써야 한대."
+   ],
+   "answer_index": 0,
+   "answer": "난 노란색이 제일 예쁜 것 같아.",
+   "why": "맞아! 지금 친구들이 '무슨 색이 예뻐?' 하고 있는데 '난 노란색이 예뻐' 하면 딱 그 얘기에 맞잖아. 그렇게 지금 하는 얘기에 쏙 들어맞는 게 바로 relevant인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "irrelevant"
+ ],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-relevant",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-relevant"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/relevant.webp",
+  "alt": "친구들과 강아지 얘기를 하는데 누가 피자 얘기를 꺼냄",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

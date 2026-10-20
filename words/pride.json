@@ -1,0 +1,95 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/pride/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/pride/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "pride",
+ "slug": "pride",
+ "url": "https://hibbangyong.com/words/pride/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "내가 한 일이나 내 것을 자랑스러워하는 마음 (가끔은 너무 세져서 탈)",
+ "gloss_ko": "자랑스러워하는 마음",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "네가 며칠을 끙끙대다가 그림을 짠— 끝냈어. 가슴이 막 부풀지? '내가 해냈다!' 하면서.",
+  "그게 pride야. 그냥 기분 좋은 거랑은 달라 — 꼭 '내가' 해낸 거, '내' 것 때문에 차오르는 마음이거든.",
+  "근데 이게 너무 커지면 '난 최고야, 남 말 안 들어' 이렇게 삐뚤어지기도 해.",
+  "좋게도 지나치게도 갈 수 있는, 나를 대단하게 여기는 그 마음. 이게 pride야."
+ ],
+ "scene": "며칠 끙끙대 해낸 순간 가슴이 차오르는 마음(너무 세지면 자만으로)",
+ "examples": [
+  {
+   "en": "I felt great pride when I finished my first big drawing all by myself.",
+   "ko": "처음으로 큰 그림을 혼자 다 그려 내고 정말 뿌듯했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "동생이 신발끈을 못 묶어서 몇 주를 연습했어. 오늘 드디어 혼자 나비 모양으로 딱 묶고는 가슴을 쭉 펴고 엄마한테 발을 내밀었어. 이 마음이 'pride'야?",
+   "choices": [
+    "응, pride 맞아",
+    "아니, pride 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, pride 맞아",
+   "why": "맞아! 동생이 몇 주나 스스로 연습해서 자기 손으로 딱 해냈잖아. 그래서 가슴이 쭉 펴진 거야. 내가 해냈다 하고 차오르는 그 마음, 그게 바로 pride거든."
+  },
+  {
+   "type": "choice",
+   "question": "네 친구 넷이 다 웃거나 시무룩해. 한 명은 길에서 우연히 100원을 주워 신났고, 한 명은 재밌는 만화를 봐서 깔깔 웃고, 한 명은 며칠을 연습해 드디어 혼자 자전거를 타냈고, 한 명은 시험을 망쳐 시무룩해. 누구 마음이 'pride'에 가장 가까울까?",
+   "choices": [
+    "며칠을 연습해 드디어 혼자 자전거를 타낸 친구",
+    "길에서 우연히 100원을 주워 신난 친구",
+    "재밌는 만화를 봐서 깔깔 웃는 친구",
+    "시험을 망쳐서 시무룩한 친구"
+   ],
+   "answer_index": 0,
+   "answer": "며칠을 연습해 드디어 혼자 자전거를 타낸 친구",
+   "why": "맞아! 며칠을 끙끙 연습해서 드디어 혼자 해낸 거잖아. 내가 해냈다 하고 가슴이 부풀어 오르는 그 마음, 그게 바로 pride인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "형이 자기 그림을 반 아이들 앞에 걸었는데, 물감이 번져 엉망인 게 보이자 얼굴이 빨개져서 그림을 얼른 떼어 가방에 숨겼어. 이 마음이 'pride'야?",
+   "choices": [
+    "응, pride 맞아",
+    "아니, pride 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, pride 아니야",
+   "why": "맞아! 형은 지금 자기 그림을 숨기고 싶잖아. 자랑스러운 마음이면 오히려 다 보라고 걸어 뒀을 텐데, 얼굴이 빨개져서 감췄으니까 그건 부끄러운 마음이지 pride가 아닌 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "shame"
+ ],
+ "confusable": [
+  {
+   "word": "confidence",
+   "kind": "confusable",
+   "from": "vs confidence"
+  }
+ ],
+ "related_scene": [
+  "patriotism"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-pride",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-pride"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/pride.webp",
+  "alt": "며칠 끙끙대 해낸 순간 가슴이 차오르는 마음(너무 세지면 자만으로)",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

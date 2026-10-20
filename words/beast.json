@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/beast/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/beast/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "beast",
+ "slug": "beast",
+ "url": "https://hibbangyong.com/words/beast/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "짐승 — 사람이 아닌, 몸집 크고 힘센 동물",
+ "gloss_ko": "짐승",
+ "level": {
+  "code": "L4",
+  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "소가 무거운 수레를 끌고 저벅저벅 가. 숲에서는 곰이 어슬렁어슬렁 지나가고.",
+  "둘 다 사람은 아니지? 몸집 크고, 힘도 세고.",
+  "으르렁대든 순하게 일만 하든 상관없고, 진짜로 숲에 살든 이야기책 속 털북숭이 괴물이든 상관없어. 사람이 아닌 크고 힘센 놈이면 다 그래. 참새처럼 조그맣고 폴폴 나는 건 그렇게 안 부르고.",
+  "이게 beast야."
+ ],
+ "scene": "무거운 수레를 저벅저벅 끌고 가는 소",
+ "examples": [
+  {
+   "en": "A big beast walked out of the trees and looked at us.",
+   "ko": "커다란 짐승이 나무 사이에서 걸어 나와 우리를 쳐다봤어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "동물원 우리 안에서 코끼리 한 마리가 굵은 다리로 쿵쿵 걸어가. 이게 'beast'야?",
+   "choices": [
+    "응, beast 맞아",
+    "아니, beast 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, beast 맞아",
+   "why": "맞아! 코끼리는 사람이 아니고, 다리도 굵고 몸집이 아주 크잖아. 쿵쿵 걸을 만큼 힘도 세니까 바로 beast인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "이삿짐센터 아저씨가 냉장고를 혼자 번쩍 들어 올렸어. 이 아저씨가 'beast'야?",
+   "choices": [
+    "응, beast 맞아",
+    "아니, beast 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, beast 아니야",
+   "why": "맞아! 냉장고를 혼자 번쩍 들 만큼 힘이 세도, 이삿짐센터 아저씨는 사람이거든. beast는 사람이 아닌 크고 힘센 동물한테 쓰는 말이라서, 아저씨는 beast가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "민수가 오늘 본 것 네 가지를 말했어. 이 중에서 'beast'라고 부를 수 있는 건 뭘까?",
+   "choices": [
+    "무거운 짐을 지고 언덕을 오르는 큰 말",
+    "체육대회에서 밧줄을 제일 세게 당기는 형",
+    "방바닥을 줄지어 기어가는 조그만 개미들",
+    "털이 복슬복슬한, 안고 자는 큰 곰 인형"
+   ],
+   "answer_index": 0,
+   "answer": "무거운 짐을 지고 언덕을 오르는 큰 말",
+   "why": "맞아! 큰 말은 사람이 아니고, 무거운 짐을 지고 언덕을 오를 만큼 몸집이 크고 힘이 세잖아. 으르렁대지 않고 순하게 일만 해도, 바로 그런 동물이 beast인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "roar"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-beast",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-beast"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/beast.webp",
+  "alt": "무거운 수레를 저벅저벅 끌고 가는 소",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

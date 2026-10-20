@@ -1,0 +1,91 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/predicament/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/predicament/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "predicament",
+ "slug": "predicament",
+ "url": "https://hibbangyong.com/words/predicament/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "곤경 — 어떻게 해야 할지 모르겠는, 빠져나가기 힘든 난처한 처지",
+ "gloss_ko": "꼼짝 못 할 처지",
+ "level": {
+  "code": "L7",
+  "name": "토플 72~94점 수준"
+ },
+ "explain_to_child": [
+  "체육복을 친구가 빌려 가고는 안 돌려줬어. 다음 시간이 체육이야.",
+  "빌릴 데도 없고, 선생님한테 뭐라고 할지도 모르겠어. 이런 꼼짝 못 하는 처지가 predicament야.",
+  "내 잘못이든, 남 때문이든, 그냥 운이 나빴든 상관없어. 빠져나갈 길이 안 보이면 돼.",
+  "그냥 어려운 문제랑은 달라. 문제는 풀면 끝이지만, predicament는 어떻게 해야 할지부터 막막한 상황이야."
+ ],
+ "scene": "친구가 빌려 간 체육복을 안 돌려줘서 체육 시간 직전에 막막한 상황",
+ "examples": [
+  {
+   "en": "I was in a real predicament when my phone died and I didn't know the way home.",
+   "ko": "폰은 꺼지고 집 가는 길도 몰라서, 진짜 어쩔 줄 모르는 상황이었어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "학원 가는 길에 자전거 체인이 빠졌어. 다시 끼우는 법은 몰라. 학원까지는 아직 멀고, 근처에 자전거 가게도 없어. 수업은 20분 뒤에 시작해. 지금 내 처지는 'predicament'야?",
+   "choices": [
+    "응, predicament 맞아",
+    "아니, predicament 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, predicament 맞아",
+   "why": "맞아! 체인은 빠졌는데 다시 끼우는 법도 모르고, 근처에 자전거 가게도 없고, 학원은 아직 먼데 수업은 20분 뒤야. 고칠 방법도 도와줄 데도 안 보이니까 꼼짝 못 하는 처지, 바로 predicament인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "생일이라 엄마가 운동화랑 가방 중 하나를 사 주겠대. 지금 매장에서 둘을 번갈아 들어 보면서 하나를 고르는 중이야. 지금 내 처지는 'predicament'야?",
+   "choices": [
+    "응, predicament 맞아",
+    "아니, predicament 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, predicament 아니야",
+   "why": "맞아! 엄마가 둘 중 하나를 사 주겠다고 했으니 운동화를 골라도 되고 가방을 골라도 돼. 어느 쪽이든 막힌 데가 없으니까 꼼짝 못 하는 처지인 predicament는 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 친구가 지금 겪고 있는 일을 말했어. 'predicament'에 빠졌다고 할 수 있는 사람은?",
+   "choices": [
+    "기말고사 범위가 엄청 넓어. 공부할 게 많아서 힘들지만, 계획표대로 하나씩 하면 돼.",
+    "어제 키우던 금붕어가 죽었어. 너무 슬퍼서 오늘 하루 종일 아무것도 하기 싫어.",
+    "친구가 내 이름으로 몰래 동아리 신청을 했어. 취소 기간은 지났고, 누구한테 말할지도 모르겠어.",
+    "내일 소풍인데 비가 올지 안 올지 모르겠어. 우산을 챙길지 말지 계속 고민돼."
+   ],
+   "answer_index": 2,
+   "answer": "친구가 내 이름으로 몰래 동아리 신청을 했어. 취소 기간은 지났고, 누구한테 말할지도 모르겠어.",
+   "why": "맞아! 이 친구는 다른 친구가 몰래 자기 이름으로 동아리 신청을 해 버렸어. 취소 기간도 지났고 누구한테 말할지도 모르니까, 자기가 한 일이 아닌데도 빠져나갈 길이 안 보여. 바로 이런 처지가 predicament야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "dilemma",
+   "kind": "confusable",
+   "from": "vs dilemma"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-predicament",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-predicament"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/predicament.webp",
+  "alt": "친구가 빌려 간 체육복을 안 돌려줘서 체육 시간 직전에 막막한 상황",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

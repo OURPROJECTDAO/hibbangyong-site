@@ -1,0 +1,77 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/mask/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/mask/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "mask",
+ "slug": "mask",
+ "url": "https://hibbangyong.com/words/mask/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "가면, 마스크 — 얼굴을 가리거나 지키려고 얼굴에 쓰는 것",
+ "gloss_ko": "가면",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "그림 속 물건은 얼굴에 쓰는 가면(mask)이에요. 눈 부분에 구멍이 뚫려 있어서 쓰면 밖이 보여요.",
+  "핼러윈 파티에서 얼굴을 가리는 가면도, 감기에 안 걸리려고 입을 가리는 마스크도 다 mask예요."
+ ],
+ "scene": "얼굴에 쓰는 가면 하나를 중앙에 크게 — 눈구멍이 뚫린 알록달록한 파티/축제용 가면(사물 의미)",
+ "examples": [
+  {
+   "en": "I wore a mask at the costume party.",
+   "ko": "나는 분장 파티에서 가면을 썼어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "축제에서 얼굴에 쓰고 눈구멍으로 밖을 내다보는 알록달록한 물건이 있어요. 이게 mask야?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 맞아",
+   "why": null
+  },
+  {
+   "type": "choice",
+   "question": "mask는 어느 것일까?",
+   "choices": [
+    "등에 메어서 책과 공책을 넣는 물건",
+    "목에 둘러서 추위를 막아 주는 물건",
+    "얼굴에 써서 눈·코·입을 가리는 물건",
+    "팔에 끼워서 물에 뜨게 해 주는 물건"
+   ],
+   "answer_index": 2,
+   "answer": "얼굴에 써서 눈·코·입을 가리는 물건",
+   "why": null
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "cape",
+  "costume",
+  "hide",
+  "identity"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-mask",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-mask"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/mask.webp",
+  "alt": "얼굴에 쓰는 가면 하나를 중앙에 크게 — 눈구멍이 뚫린 알록달록한 파티/축제용 가면(사물 의미)",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

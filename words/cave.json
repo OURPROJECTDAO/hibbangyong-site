@@ -1,0 +1,88 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/cave/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/cave/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "cave",
+ "slug": "cave",
+ "url": "https://hibbangyong.com/words/cave/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "동굴 — 산이나 땅속, 바닷가 절벽에 자연이 만든 커다란 구멍",
+ "gloss_ko": "동굴",
+ "level": {
+  "code": "L4",
+  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "산 옆구리에 커다란 구멍이 뻥 뚫려 있어. 안은 깜깜하고 서늘해.",
+  "\"야호!\" 하면 소리가 웅웅 울려. 땅속 깊이, 바닷가 절벽 밑에도 이런 구멍이 있어.",
+  "사람이 기계로 뚫은 터널이랑은 달라. 오랜 세월 동안 자연이 만든 거거든?",
+  "그게 cave야."
+ ],
+ "scene": "산 옆에 뻥 뚫린 깜깜하고 서늘한 구멍",
+ "examples": [
+  {
+   "en": "We walked into the cave with a flashlight.",
+   "ko": "우리는 손전등을 들고 동굴 안으로 걸어 들어갔어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "산속 바위 틈으로 들어가니 안이 방처럼 넓게 비어 있어. 천장에는 박쥐들이 거꾸로 매달려 자고 있어. 박쥐들이 자는 이곳이 'cave'일까?",
+   "choices": [
+    "응, cave 맞아",
+    "아니, cave 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, cave 맞아",
+   "why": "맞아! 산속 바위 틈으로 들어갔더니 안이 방처럼 넓게 비어 있었잖아. 산 속에 저절로 생긴 넓은 빈 곳이니까 박쥐들이 자는 이곳이 바로 cave인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "계곡에 넓적한 바위가 있어. 그 바위 바깥 겉면 위에 도마뱀이 납작 엎드려 햇볕을 쬐고 있어. 도마뱀이 있는 이곳이 'cave'일까?",
+   "choices": [
+    "응, cave 맞아",
+    "아니, cave 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, cave 아니야",
+   "why": "맞아! 도마뱀은 바위 바깥 겉면 위에서 햇볕을 쬐고 있잖아. cave는 안으로 쑥 들어가는 깜깜한 구멍인데, 여기는 햇볕이 드는 바위 바깥이라서 cave가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 친구가 주말에 가 본 곳을 말했어. 'cave'에 가 본 친구는 누굴까?",
+   "choices": [
+    "사람들이 산을 뚫어 만든 찻길 터널로 차 타고 지나갔어",
+    "마당 흙바닥에 난 작은 개미 구멍을 들여다봤어",
+    "바위 틈으로 이어진 깜깜하고 넓은 굴속을 걸었어",
+    "커다란 바위 꼭대기에 올라가 한참 앉아 있었어"
+   ],
+   "answer_index": 2,
+   "answer": "바위 틈으로 이어진 깜깜하고 넓은 굴속을 걸었어",
+   "why": "맞아! 바위 틈으로 이어진 깜깜하고 넓은 굴은 사람이 뚫은 게 아니고 자연이 만든 거야. 게다가 안으로 걸어 들어갈 만큼 크니까 바로 그게 cave인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "explore",
+  "tunnel"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-cave",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-cave"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/cave.webp",
+  "alt": "산 옆에 뻥 뚫린 깜깜하고 서늘한 구멍",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

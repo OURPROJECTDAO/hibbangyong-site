@@ -1,0 +1,99 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/input/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/input/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "input",
+ "slug": "input",
+ "url": "https://hibbangyong.com/words/input/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "넣는 것 — 뭔가가 만들어지도록 안으로 들어가는 것(재료도, 글자도, 의견도)",
+ "gloss_ko": "만들려고 안에 넣는 것",
+ "level": {
+  "code": "L5",
+  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "주스 기계에 사과를 넣으면 주스가 나오지? 넣은 사과, 그게 input이야.",
+  "먹는 거만 그런 게 아니야. 컴퓨터에 치는 글자도, 네가 낸 의견도, 안으로 들어가면 다 input이거든.",
+  "나온 주스는 input이 아니야. 그건 들어간 게 아니라 나온 거니까.",
+  "안으로 들어가서 뭔가를 만들게 해 주는 것, 그게 input이야."
+ ],
+ "scene": "주스 기계에 사과를 넣어 주스가 나오는 장면",
+ "examples": [
+  {
+   "en": "We need more input from everyone before we pick a game.",
+   "ko": "게임을 고르기 전에 다들한테서 의견을 더 들어야 해."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "빵집에서 제빵사가 반죽기에 밀가루를 부었어. 반죽기가 돌아가서 빵 반죽이 만들어졌지. 부어 넣은 밀가루, 이게 'input'이야?",
+   "choices": [
+    "응, input 맞아",
+    "아니, input 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, input 맞아",
+   "why": "맞아! 밀가루를 부어 넣었더니 반죽이 만들어졌잖아. 안으로 들어가서 뭔가를 만들게 해 준 거니까 그게 바로 input인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "세탁기에 흙 묻은 양말을 넣고 돌렸더니, 잠시 뒤 깨끗해진 양말이 나왔어. 다 되어 밖으로 나온 깨끗한 양말, 이게 'input'이야?",
+   "choices": [
+    "응, input 맞아",
+    "아니, input 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, input 아니야",
+   "why": "맞아! 세탁기 안으로 들어간 건 흙 묻은 양말이고, 깨끗해진 양말은 다 되어서 밖으로 나온 거잖아. 나온 건 input이 아니야. 넣은 게 input인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "준서가 문구점에서 사진 인화 기계를 썼어. 기계 앞에서 네 가지 일이 있었어. 이 중에서 'input'에 해당하는 건 어느 걸까?",
+   "choices": [
+    "준서가 찍은 사진 파일을 기계에 넣었다.",
+    "다 인화된 사진 넉 장이 아래로 나왔다.",
+    "기계 화면에 남은 시간이 숫자로 떴다.",
+    "나온 사진을 준서가 봉투에 담아 갔다."
+   ],
+   "answer_index": 0,
+   "answer": "준서가 찍은 사진 파일을 기계에 넣었다.",
+   "why": "맞아! 사진 파일을 기계 안으로 쏙 넣었잖아. 뭔가 만들어지라고 안으로 들어간 거니까 그게 바로 input인 거야."
+  }
+ ],
+ "synonyms": [
+  "comment",
+  "remark"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "output",
+   "kind": "confusable",
+   "from": "나온 결과(output)"
+  },
+  {
+   "word": "feedback",
+   "kind": "confusable",
+   "from": "vs feedback"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-input",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-input"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/input.webp",
+  "alt": "주스 기계에 사과를 넣어 주스가 나오는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

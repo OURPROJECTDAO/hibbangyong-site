@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/ornate/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/ornate/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "ornate",
+ "slug": "ornate",
+ "url": "https://hibbangyong.com/words/ornate/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "화려하게 장식된 — 무늬나 꾸밈이 잔뜩 붙은",
+ "gloss_ko": "장식이 많은",
+ "level": {
+  "code": "L9",
+  "name": "토플 114~120점 수준"
+ },
+ "explain_to_child": [
+  "할머니 댁 거울 테두리 봤어? 꽃이랑 덩굴 무늬가 빙 둘러 빽빽하게 새겨져 있잖아.",
+  "그렇게 꾸밈이 잔뜩 붙은 게 ornate야. 건물이나 가구에도 쓰고, 꾸미는 말이 많은 글에도 써.",
+  "색이 알록달록한 거랑은 달라. 기준은 장식이 얼마나 많으냐야.",
+  "비싸 보이든 아니든, 예쁘든 답답하든 상관없어. 꾸밈이 많으면 다 ornate야."
+ ],
+ "scene": "할머니 댁 거울 테두리의 빽빽한 꽃·덩굴 무늬",
+ "examples": [
+  {
+   "en": "My grandma keeps her old letters in an ornate wooden box.",
+   "ko": "할머니는 옛날 편지를 무늬가 잔뜩 새겨진 나무 상자에 넣어 두셔."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "오래된 성당에 들어가 천장을 올려다봤어. 천사, 꽃, 포도 덩굴 조각이 천장 전체에 빈틈없이 새겨져 있어. 이 천장은 'ornate'한 천장일까?",
+   "choices": [
+    "응, ornate 맞아",
+    "아니, ornate 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, ornate 맞아",
+   "why": "맞아! 천사, 꽃, 포도 덩굴 조각이 천장 전체에 빈틈없이 새겨져 있잖아. 꾸밈이 이렇게 꽉 들어찬 게 바로 ornate인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "엄마가 부엌 찬장에서 흰 머그컵을 꺼냈어. 컵 겉면에는 그림도 글씨도 무늬도 하나 없이 매끈해. 이 머그컵은 'ornate'한 컵일까?",
+   "choices": [
+    "응, ornate 맞아",
+    "아니, ornate 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, ornate 아니야",
+   "why": "맞아! 이 흰 머그컵은 겉면에 그림도 글씨도 무늬도 하나 없이 매끈하잖아. ornate는 꾸밈이 잔뜩 붙은 거니까, 꾸밈이 하나도 없는 이 컵은 딱 반대(이건 plain이야)라서 ornate가 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "시골 장터에서 할아버지가 직접 깎아 파시는 나무 숟가락을 샀어. 값은 몇천 원인데, 손잡이 전체에 작은 꽃과 줄기 무늬가 빈틈없이 새겨져 있어. 이런 숟가락도 'ornate'야?",
+   "choices": [
+    "응, 'ornate' 맞아",
+    "아니, 'ornate' 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 'ornate' 맞아",
+   "why": "맞아! 손잡이 전체에 꽃과 줄기 무늬가 빈틈없이 새겨져 있으니까 꾸밈이 잔뜩 붙은 거잖아. 몇천 원짜리 나무 숟가락이라도 무늬가 이렇게 빽빽하면 바로 그게 ornate인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "plain"
+ ],
+ "confusable": [
+  {
+   "word": "fancy",
+   "kind": "confusable",
+   "from": "vs fancy"
+  }
+ ],
+ "related_scene": [
+  "palace"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-ornate",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-ornate"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/ornate.webp",
+  "alt": "할머니 댁 거울 테두리의 빽빽한 꽃·덩굴 무늬",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

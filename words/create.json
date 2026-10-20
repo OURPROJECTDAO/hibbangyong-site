@@ -1,0 +1,85 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/create/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/create/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "create",
+ "slug": "create",
+ "url": "https://hibbangyong.com/words/create/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "없던 걸 새로 생겨나게 하다 — 좋은 것도, 말썽도",
+ "gloss_ko": "없던 걸 새로 생겨나게 하다",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "컵을 툭 쳐서 물을 쏟았어. 아까까진 바닥에 아무것도 없었는데, 물웅덩이가 딱 생겼지? 네가 그걸 생겨나게 한 거야.",
+  "예쁘고 멋진 걸 만들 때만 쓰는 말이 아니거든? 없던 노래를 흥얼흥얼 지어내도, 없던 말썽을 일으켜도 똑같아.",
+  "있던 걸 옮겨 놓거나 닦아 놓은 건 안 쳐줘. 아예 없던 게 새로 생겨나야 해.",
+  "그게 create야."
+ ],
+ "scene": "컵을 쳐서 바닥에 물웅덩이가 생긴 순간",
+ "examples": [
+  {
+   "en": "I only wanted to help, but I created a big problem for my mom.",
+   "ko": "그냥 도우려던 건데 엄마한테 큰 문젯거리만 만들어 버렸어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "찰흙 한 덩어리를 조물조물 주물러서, 아까까진 없던 작은 거북이 모양을 만들어 놨어. 이게 'create'야?",
+   "choices": [
+    "응, create 맞아",
+    "아니, create 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, create 맞아",
+   "why": "맞아! 아까까진 세상에 없던 거북이 모양이 네 손에서 딱 생겨났잖아. 찰흙을 그냥 옮긴 게 아니라 없던 모양을 나오게 한 거니까, 그게 바로 create인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "식탁에 놓여 있던 빵 한 조각을 집어서 다 먹어 버렸어. 접시에 아무것도 안 남았어. 이게 'create'야?",
+   "choices": [
+    "응, create 맞아",
+    "아니, create 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, create 아니야",
+   "why": "맞아! 있던 빵이 없어진 거잖아. 새로 생겨난 게 하나도 없으니까 create가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "친구 넷이 각자 방금 한 일을 말했어. 이 중에 'create'라고 말할 수 있는 건 누구일까?",
+   "choices": [
+    "수아가 벽에 크레파스를 쭉 문질러서, 벽에 커다란 얼룩이 남았어.",
+    "지호가 책상 위에 쌓인 지우개 가루를 손으로 쓸어 담아 버렸어.",
+    "민서가 언니가 어제 그려 둔 그림에 색만 조금 더 칠해 놨어.",
+    "태호가 장난감 상자를 방 구석에서 창가 쪽으로 옮겨 놨어."
+   ],
+   "answer_index": 0,
+   "answer": "수아가 벽에 크레파스를 쭉 문질러서, 벽에 커다란 얼룩이 남았어.",
+   "why": "맞아! 아까까진 벽에 아무것도 없었는데 수아가 문지르니까 커다란 얼룩이 딱 생겨났잖아. 없던 게 새로 생겨났으니까 바로 그게 create야. 얼룩은 말썽이지만 그래도 create가 맞아. 좋은 거 예쁜 거만 create인 게 아니거든."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-create",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-create"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/create.webp",
+  "alt": "컵을 쳐서 바닥에 물웅덩이가 생긴 순간",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

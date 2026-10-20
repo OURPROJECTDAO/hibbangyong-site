@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/acoustic/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/acoustic/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "acoustic",
+ "slug": "acoustic",
+ "url": "https://hibbangyong.com/words/acoustic/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "음향의 — 소리가 어떻게 퍼지고 어떻게 들리는지에 관한",
+ "gloss_ko": "음향의",
+ "level": {
+  "code": "L8",
+  "name": "토플 95~113점 수준"
+ },
+ "explain_to_child": [
+  "강당에서 말하면 소리가 웅웅 울리는데, 작은 방에선 또렷하게 들리지?",
+  "이렇게 소리가 어떻게 퍼지고 어떻게 들리는지에 관한 걸 acoustic이라고 해.",
+  "전기 없이 나무통이 직접 울려서 소리 나는 기타를 acoustic 기타라고 부르는 것도 같은 이유야.",
+  "그냥 '시끄러운'이나 '음악의'랑은 달라. 말소리든 발소리든, 소리가 전해지는 방식 얘기야."
+ ],
+ "scene": "강당에서는 말소리가 울리고 작은 방에서는 또렷하게 들리는 차이",
+ "examples": [
+  {
+   "en": "The music room has special walls for acoustic reasons.",
+   "ko": "음악실 벽을 특별하게 만든 건 소리가 잘 울리고 들리게 하려고 그런 거야."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "안과에서 벽에 붙은 시력 검사표를 보고, 제일 작은 글자가 몇 번째 줄까지 눈에 잘 보이는지 확인했어. 이건 'acoustic' 검사야?",
+   "choices": [
+    "응, acoustic 맞아",
+    "아니, acoustic 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, acoustic 아니야",
+   "why": "잘 골랐어! 시력 검사표에서 제일 작은 글자가 몇 번째 줄까지 보이는지는 눈으로 보는 걸 확인하는 거야. 소리는 전혀 나오지 않으니까 acoustic 검사가 아닌 게 맞아."
+  },
+  {
+   "type": "ox",
+   "question": "긴 터널 안에서 '야호!' 하고 외쳤더니 소리가 벽에 부딪혀 여러 번 되돌아왔어. 터널 속에서 소리가 이렇게 울리고 되돌아오는 건 'acoustic' 현상이야?",
+   "choices": [
+    "응, acoustic 맞아",
+    "아니, acoustic 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, acoustic 맞아",
+   "why": "맞아! 터널 벽에 부딪혀 '야호!'가 여러 번 되돌아오는 건 소리가 어떻게 퍼지고 어떻게 들리는지에 관한 일이라서 바로 acoustic 현상인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "학교 강당을 새로 고치는데, 한 선생님이 'acoustic' 문제부터 살펴보자고 했어. 이 선생님이 확인하려는 건 뭘까?",
+   "choices": [
+    "무대 조명이 뒷자리까지 밝게 닿는지",
+    "행사 때 틀 노래가 충분히 신나는지",
+    "뒷자리까지 말소리가 또렷하게 가는지",
+    "마이크 줄이 무대 끝까지 닿는지"
+   ],
+   "answer_index": 2,
+   "answer": "뒷자리까지 말소리가 또렷하게 가는지",
+   "why": "맞아! 선생님이 보려는 건 강당에서 말소리가 어떻게 퍼져서 뒷자리까지 또렷하게 들리느냐야. 소리가 공간에서 어떻게 전해지고 들리는지, 그게 바로 acoustic이야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "hear"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-acoustic",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-acoustic"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/acoustic.webp",
+  "alt": "강당에서는 말소리가 울리고 작은 방에서는 또렷하게 들리는 차이",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

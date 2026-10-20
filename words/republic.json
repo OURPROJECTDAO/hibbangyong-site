@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/republic/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/republic/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "republic",
+ "slug": "republic",
+ "url": "https://hibbangyong.com/words/republic/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "공화국 — 왕이 아니라, 사람들이 뽑은 대장이 다스리는 나라.",
+ "gloss_ko": "공화국",
+ "level": {
+  "code": "L6",
+  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "반에서 회장 뽑을 때 다 같이 손 들어서 정하잖아?",
+  "나라도 그렇게 대장을 사람들이 골라서 뽑는 나라가 있어.",
+  "왕처럼 아빠가 대장이면 아들이 자동으로 대장 되는 게 아니라, 왕이 아예 없고 다 같이 뽑아서 정하는 거야.",
+  "이게 republic이야."
+ ],
+ "scene": "반 회장을 다 같이 투표로 뽑는 것처럼 나라 대장을 뽑는 나라",
+ "examples": [
+  {
+   "en": "My country is a republic, so we choose our leader by voting.",
+   "ko": "우리나라는 republic이라서, 우리가 투표로 대장을 뽑아."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "어느 나라는 왕이 아예 없어. 몇 년에 한 번씩 그 나라 사람들이 다 같이 손을 들어 새 대장을 뽑아. 이게 republic이야?",
+   "choices": [
+    "응, republic 맞아",
+    "아니, republic 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, republic 맞아",
+   "why": "맞아! 왕이 아예 없고 사람들이 다 같이 손 들어서 새 대장을 뽑는 나라, 바로 그게 republic이거든. 네가 딱 알아본 거야."
+  },
+  {
+   "type": "choice",
+   "question": "민수가 어떤 나라를 'republic'이라고 불렀어. 어떤 나라를 그렇게 부를 수 있을까?",
+   "choices": [
+    "사람들이 투표해서 대장을 뽑는 나라",
+    "왕의 아들이 다음 왕이 되는 나라",
+    "땅이 아주 넓고 사람이 많은 나라",
+    "힘센 장군이 힘으로 빼앗아 다스리는 나라"
+   ],
+   "answer_index": 0,
+   "answer": "사람들이 투표해서 대장을 뽑는 나라",
+   "why": "맞아! 다 같이 손 들어서 대장을 골라 뽑는 그 나라, 그게 바로 republic이야. 왕이 정해주는 게 아니라 사람들이 뽑으니까 딱 맞는 거야."
+  },
+  {
+   "type": "ox",
+   "question": "어느 나라에서는 공주로 태어나면 크면 자동으로 그 나라 대장이 돼. 사람들이 뽑는 게 아니라 태어날 때부터 정해져 있어. 이게 republic이야?",
+   "choices": [
+    "응, republic 맞아",
+    "아니, republic 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, republic 아니야",
+   "why": "맞아! 태어날 때부터 대장이 딱 정해져 있으면 사람들이 손 들어서 뽑은 게 아니잖아. republic은 다 같이 골라서 뽑는 나라니까, 이건 republic이 아닌 게 맞아."
+  }
+ ],
+ "synonyms": [
+  "democracy"
+ ],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "democracy",
+   "kind": "confusable",
+   "from": "vs democracy"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-republic",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-republic"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/republic.webp",
+  "alt": "반 회장을 다 같이 투표로 뽑는 것처럼 나라 대장을 뽑는 나라",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

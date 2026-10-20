@@ -1,0 +1,76 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/scarf/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/scarf/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "scarf",
+ "slug": "scarf",
+ "url": "https://hibbangyong.com/words/scarf/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "목도리 — 추울 때 목에 둘러 따뜻하게 하는 긴 천",
+ "gloss_ko": "목도리",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "목에 빙 둘러 감는 길고 부드러운 천을 scarf라고 해요.",
+  "추운 겨울날 밖에 나가기 전에 목에 두르면 바람이 안 들어와서 따뜻해요."
+ ],
+ "scene": "포근한 겨울 목도리(뜨개 스카프) 한 장 — 동사 'scarf'가 아니라 아이에게 친숙한 시각 의미인 '목도리' 사물로 그림. 긴 형태와 술 장식이 다 보이게 중앙에 부드럽게 말린 구도.",
+ "examples": [
+  {
+   "en": "She wrapped a warm scarf around her neck before going outside.",
+   "ko": "걔는 밖에 나가기 전에 따뜻한 목도리를 목에 둘렀어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "추운 날, 목에 길게 둘러서 따뜻하게 해 주는 부드러운 천이 있어요. 이게 scarf야?",
+   "choices": [
+    "응, 맞아",
+    "아니, 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 맞아",
+   "why": null
+  },
+  {
+   "type": "choice",
+   "question": "scarf는 어느 것일까?",
+   "choices": [
+    "물을 끓여 밥을 짓는 둥근 냄비",
+    "하늘을 나는 커다란 은빛 비행기",
+    "목에 둘러 감는 길고 부드러운 천",
+    "글씨를 쓰는 뾰족한 나무 연필"
+   ],
+   "answer_index": 2,
+   "answer": "목에 둘러 감는 길고 부드러운 천",
+   "why": null
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "glove",
+  "sweater",
+  "wrap"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-scarf",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-scarf"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/scarf.webp",
+  "alt": "포근한 겨울 목도리(뜨개 스카프) 한 장 — 동사 'scarf'가 아니라 아이에게 친숙한 시각 의미인 '목도리' 사물로 그림. 긴 형태와 술 장식이 다 보이게 중앙에 부드럽게 말린 구도.",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

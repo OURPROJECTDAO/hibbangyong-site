@@ -1,0 +1,80 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/incentive/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/incentive/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "incentive",
+ "slug": "incentive",
+ "url": "https://hibbangyong.com/words/incentive/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "하고 싶게 걸어둔 상 — 뭔가를 하고 싶게 만들려고 앞에 딱 걸어두는 상이나 이유(미끼 같은 거)",
+ "gloss_ko": "하고 싶게 걸어둔 상",
+ "level": {
+  "code": "L6",
+  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+ },
+ "explain_to_child": [
+  "원래 하기 싫던 일도, 앞에 뭔가 딱 걸어주면 갑자기 하고 싶어질 때 있지?",
+  "\"방 다 치우면 용돈 줄게!\" 이 말 듣는 순간, 손이 근질근질하잖아.",
+  "이렇게 사람이 하고 싶어지게 하려고 앞에 딱 걸어두는 상이나 좋은 것 — 용돈이든, 간식이든, 놀 시간이든 다 돼.",
+  "그게 incentive야."
+ ],
+ "scene": "방 치우면 용돈 준다는 약속에 갑자기 하고 싶어지는 순간",
+ "examples": [
+  {
+   "en": "Mom promised me a new toy as an incentive to finish all my homework.",
+   "ko": "엄마가 숙제 다 끝내면 새 장난감 사준댔어. 그게 나 숙제하게 만든 미끼였지."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "형이 동생한테 방 청소를 시키려고 여러 가지를 해봤어. 이 중에서 진짜 'incentive'라고 할 수 있는 건 어느 거야?",
+   "choices": [
+    "\"지금 당장 방 치워\" 하고 그냥 시키기만 했어",
+    "방이 더러우면 왜 안 좋은지 한참 설명만 해줬어",
+    "청소를 시작하기도 전에 \"다 하면 아이스크림 사줄게\" 하고 약속했어",
+    "청소를 다 끝낸 동생한테 \"수고했어\" 하며 아이스크림을 줬어"
+   ],
+   "answer_index": 2,
+   "answer": "청소를 시작하기도 전에 \"다 하면 아이스크림 사줄게\" 하고 약속했어",
+   "why": "맞아! 청소를 시작하기도 전에 걸어둔 약속이라서, 동생이 그걸 받고 싶어서 손이 근질근질해지는 거야. 이렇게 앞에 딱 걸어서 하고 싶게 끌어당기는 게 바로 incentive거든."
+  },
+  {
+   "type": "ox",
+   "question": "한 아이가 그림 그리는 게 그냥 좋아서, 아무도 상을 걸거나 시키지 않았는데도 스스로 매일 그림을 그려. 이 아이를 그리게 만드는 '그냥 좋아서 하는 마음'도 'incentive'야?",
+   "choices": [
+    "응, incentive 맞아",
+    "아니, incentive 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, incentive 아니야",
+   "why": "맞아! 아무도 상을 걸거나 시키지 않았는데 그냥 좋아서 스스로 그리는 마음이잖아. 이건 밖에서 딱 걸어둔 미끼가 아니라 마음속에서 저절로 나온 거라서, incentive가 아닌 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "motive",
+   "kind": "confusable",
+   "from": "vs motive"
+  }
+ ],
+ "related_scene": [],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-incentive",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-incentive"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/incentive.webp",
+  "alt": "방 치우면 용돈 준다는 약속에 갑자기 하고 싶어지는 순간",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

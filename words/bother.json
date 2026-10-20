@@ -1,0 +1,93 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/bother/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/bother/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "bother",
+ "slug": "bother",
+ "url": "https://hibbangyong.com/words/bother/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "자꾸 신경을 건드려서 마음을 편하지 못하게 하다",
+ "gloss_ko": "자꾸 신경을 건드리다",
+ "level": {
+  "code": "L2",
+  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+ },
+ "explain_to_child": [
+  "신발 안에 작은 돌멩이 하나가 들어갔어. 아프진 않아. 그런데 걷는 내내 자꾸 거기만 생각나지?",
+  "크지도 않고 아프지도 않은데, 마음을 자꾸 톡톡 건드려서 편하게 못 있게 하는 거. 그런 걸 말해.",
+  "동생이 옆에서 계속 콕콕 찔러도 그렇고, 낮에 한 말실수가 밤에 자꾸 떠올라도 그래. 때려서 아프게 하는 것도 아니고, 붙잡아서 못 하게 막는 것도 아니야. 그냥 신경을 놓아주지 않는 거야.",
+  "그게 bother야."
+ ],
+ "scene": "신발 안에 들어간 작은 돌멩이",
+ "examples": [
+  {
+   "en": "It still bothers me that I forgot to say sorry to Mina.",
+   "ko": "미나한테 미안하다고 말 못 한 게 아직도 마음에 걸려."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "수업 시간에 뒷자리 애가 계속 내 의자 등받이를 발끝으로 톡톡 건드려. 아프지도 않고 자리도 안 흔들리는데, 나는 칠판을 보다가도 자꾸 뒤쪽으로 마음이 간다. 이게 'bother'야?",
+   "choices": [
+    "응, bother 맞아",
+    "아니, bother 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, bother 맞아",
+   "why": "맞아! 아프지도 않고 자리가 흔들리지도 않는데 자꾸 뒤쪽으로 마음이 가잖아. 크지 않은 건드림이 네 신경을 놓아주지 않는 거, 그게 딱 bother야."
+  },
+  {
+   "type": "ox",
+   "question": "급식실에서 내 앞자리 애가 밥을 다 먹고 식판을 들고 조용히 일어나 나갔어. 나는 남은 반찬을 계속 집어 먹으면서 밥그릇만 보고 있었다. 앞자리 애가 나를 'bother'했어?",
+   "choices": [
+    "응, bother 했어",
+    "아니, bother 안 했어"
+   ],
+   "answer_index": 1,
+   "answer": "아니, bother 안 했어",
+   "why": "맞아! 그 애는 그냥 조용히 일어나서 나갔을 뿐이잖아. 너는 밥그릇만 보면서 반찬 집어 먹고 있었고, 그 애 생각이 하나도 안 났지? 그러니까 bother 안 한 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 친구 넷이 오늘 겪은 일을 하나씩 말했어. 이 중에서 'bother'라고 말할 수 있는 애는 누구일까?",
+   "choices": [
+    "축구하는데 옆에서 자꾸 이름을 불러대서 공에 집중을 못 하겠어.",
+    "넘어져서 무릎이 까졌어. 피가 나고 너무 아파서 눈물이 찔끔 났어.",
+    "친구가 두 팔을 꽉 잡아서 한 발짝도 못 움직이고 그대로 멈췄어.",
+    "조용한 방에서 책을 끝까지 다 읽고 기분이 아주 좋아졌어."
+   ],
+   "answer_index": 0,
+   "answer": "축구하는데 옆에서 자꾸 이름을 불러대서 공에 집중을 못 하겠어.",
+   "why": "맞아! 이름 부르는 소리가 아프게 하는 것도 아니고 공을 뺏는 것도 아닌데, 자꾸 신경이 그쪽으로 끌려서 편하게 공을 못 차잖아. 바로 그게 bother야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "annoy",
+   "kind": "confusable",
+   "from": "vs annoy"
+  }
+ ],
+ "related_scene": [
+  "complain"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-bother",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-bother"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/bother.webp",
+  "alt": "신발 안에 들어간 작은 돌멩이",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

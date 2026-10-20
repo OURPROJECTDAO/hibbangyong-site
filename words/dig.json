@@ -1,0 +1,88 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/dig/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/dig/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "dig",
+ "slug": "dig",
+ "url": "https://hibbangyong.com/words/dig/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "파다 — 흙이나 무언가를 걷어내서 구멍이나 길을 내는 것",
+ "gloss_ko": "파다",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "삽으로 흙을 푹 떠서 옆으로 던져. 또 푹, 또 옆으로. 그러면 땅에 구멍이 생기지?",
+  "그런데 삽만 그러는 게 아니야. 강아지는 앞발로 흙을 마구 긁어내고, 두더지는 코로 밀고 들어가.",
+  "도구가 뭐든, 흙이든 눈이든 모래든 상관없어. 안에 있던 걸 걷어내서 구멍이나 길이 생기면 다 이거야.",
+  "그냥 위에서 꾹 누르거나 덮는 거랑은 반대지? 걷어내는 쪽이야. 그게 dig야."
+ ],
+ "scene": "삽으로 흙을 떠서 옆으로 던져 구멍이 생기는 장면",
+ "examples": [
+  {
+   "en": "My dog started to dig a hole under the fence.",
+   "ko": "우리 강아지가 울타리 밑에 구멍을 파기 시작했어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "공원 길에 파인 웅덩이가 위험해서 아저씨가 흙을 부어 그 자리를 평평하게 채웠어. 이게 'dig'이야?",
+   "choices": [
+    "응, dig 맞아",
+    "아니, dig 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, dig 아니야",
+   "why": "맞아! 아저씨는 흙을 파낸 게 아니라 웅덩이에 흙을 도로 넣었거든. 흙을 파내야 dig인데, 이건 흙을 부어서 채운 거니까 dig가 아닌 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 아이가 모래놀이터에서 각자 다른 걸 했어. 이 중에서 'dig'을 한 아이는 누구일까?",
+   "choices": [
+    "모래를 손으로 계속 퍼내서 그 자리가 움푹 들어갔어",
+    "젖은 모래를 손바닥으로 탕탕 두드려서 단단하게 만들었어",
+    "막대기로 모래 위에 자기 이름을 길게 그었어",
+    "양동이의 모래를 쏟아 언덕처럼 높이 쌓아 올렸어"
+   ],
+   "answer_index": 0,
+   "answer": "모래를 손으로 계속 퍼내서 그 자리가 움푹 들어갔어",
+   "why": "맞아! 모래를 손으로 계속 퍼내니까 그 자리가 움푹 들어갔잖아. 안에 있던 모래를 걷어내서 구멍이 생긴 거라서, 바로 그게 dig인 거야."
+  },
+  {
+   "type": "ox",
+   "question": "누나가 베란다에서 화분에 담긴 흙을 숟가락으로 조금씩 퍼내 옆 접시로 옮기고 있어. 이게 'dig'야?",
+   "choices": [
+    "응, dig 맞아",
+    "아니, dig 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, dig 맞아",
+   "why": "맞아! 누나가 숟가락으로 화분 흙을 퍼낼 때마다 그 자리가 움푹 파이지? 도구가 숟가락이어도 흙을 퍼내서 자리가 움푹 파이면 그게 바로 흙을 파는 거라서 dig인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "mineral",
+  "tunnel"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-dig",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-dig"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/dig.webp",
+  "alt": "삽으로 흙을 떠서 옆으로 던져 구멍이 생기는 장면",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}

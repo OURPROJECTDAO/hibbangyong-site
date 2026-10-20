@@ -1,0 +1,87 @@
+{
+ "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+ "license_name": "CC BY-NC 4.0",
+ "copyright_holder": "에스에스일레븐",
+ "attribution": "출처: 하이빵용(hibbangyong.com/words/tap/)",
+ "commercial_use": false,
+ "excludes": [
+  "images"
+ ],
+ "note": "이 페이지의 뜻풀이·설명·예문·문제는 출처(하이빵용 · hibbangyong.com/words/tap/)를 밝히면 자유롭게 인용할 수 있어요. 상업적 이용은 안 돼요. 그림(빵용이·낱말 그림)은 이 허용에서 빠져요.",
+ "word": "tap",
+ "slug": "tap",
+ "url": "https://hibbangyong.com/words/tap/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "톡 치다 — 가볍고 짧게 한 번(또는 톡톡 여러 번) 닿았다 바로 떼는 것",
+ "gloss_ko": "톡 치다",
+ "level": {
+  "code": "L1",
+  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+ },
+ "explain_to_child": [
+  "밤에 창문에서 톡, 톡, 톡 소리 나 본 적 있어? 빗방울이 유리를 아주 가볍게, 짧게 건드리는 소리야.",
+  "꾹 눌러서 붙여 두는 것도 아니고, 쿵쿵 세게 두드리는 것도 아니야. 닿았다가 바로 떨어져.",
+  "손가락으로 화면에, 발끝으로 바닥에, 그렇게도 할 수 있어.",
+  "그게 tap이야."
+ ],
+ "scene": "밤에 빗방울이 창유리를 톡톡 건드리는 소리",
+ "examples": [
+  {
+   "en": "I tapped my friend's shoulder and pointed at the bird.",
+   "ko": "친구 어깨를 톡 치고 새를 가리켰어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "준호가 야구방망이로 공을 온 힘을 다해 세게 쳐서 공이 멀리 날아갔어. 이걸 공을 'tap'했다고 할 수 있을까?",
+   "choices": [
+    "응, tap 맞아",
+    "아니, tap 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, tap 아니야",
+   "why": "맞아! 준호는 온 힘을 다해 세게 쳐서 공이 멀리 날아갔잖아. tap은 아주 가볍게 톡 건드리고 바로 떼는 거라서, 이렇게 세게 친 건 tap이 아닌 거야."
+  },
+  {
+   "type": "ox",
+   "question": "수아가 책상에 앉아서 연필 끝으로 공책 위를 톡, 톡, 짧게 건드렸다가 바로 뗐어. 이걸 공책을 'tap'했다고 할 수 있을까?",
+   "choices": [
+    "응, tap 맞아",
+    "아니, tap 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, tap 맞아",
+   "why": "맞아! 수아가 연필 끝으로 공책 위를 톡, 톡, 짧게 건드렸다가 바로 뗐잖아. 가볍게 닿았다가 바로 떨어졌으니까, 그게 바로 tap인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "민수가 유리창 앞에 서서 손을 댔어. 어떤 걸 유리를 'tap'했다고 말할 수 있을까?",
+   "choices": [
+    "손끝으로 유리를 두 번 짧게 건드렸다가 곧바로 뗐어",
+    "손바닥을 유리에 붙이고 한참 동안 그대로 있었어",
+    "주먹으로 유리를 쿵쿵 세게 두드려 큰 소리를 냈어",
+    "손바닥으로 유리를 위아래로 쓱쓱 문질러 닦았어"
+   ],
+   "answer_index": 0,
+   "answer": "손끝으로 유리를 두 번 짧게 건드렸다가 곧바로 뗐어",
+   "why": "맞아! 손끝으로 유리를 짧게 건드리고 곧바로 뗐잖아. 가볍게 닿았다가 바로 떨어졌으니까, 그게 바로 tap인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "shoulder"
+ ],
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-tap",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-tap"
+ },
+ "image": {
+  "url": "https://hibbangyong.com/words/img/tap.webp",
+  "alt": "밤에 빗방울이 창유리를 톡톡 건드리는 소리",
+  "license": "all rights reserved — CC BY-NC 허용에서 빠짐(그림은 인용 불가)"
+ }
+}
