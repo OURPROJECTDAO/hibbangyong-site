@@ -1,0 +1,91 @@
+{
+ "word": "curious",
+ "url": "https://hibbangyong.com/words/curious/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "자꾸 알고 싶어지는, 호기심 많은",
+ "gloss_ko": "자꾸 알고 싶어지는",
+ "level": {
+  "code": "L2",
+  "name": "중등부·중"
+ },
+ "explain_to_child": [
+  "닫힌 상자에서 달그락 소리가 나. 안에 뭐가 있지?",
+  "너무 알고 싶어서 자꾸 들여다보고 흔들어 보게 돼. 근질근질!",
+  "무섭든 신기하든, '뭔지 꼭 알아내고 싶다!' 하는 그 마음이야.",
+  "그냥 멍하니 보는 거 말고, 알고 싶어 안달난 거. 이게 curious야."
+ ],
+ "scene": "닫힌 상자 속 달그락 소리 → 뭔지 알고 싶어 자꾸 들여다봄.",
+ "examples": [
+  {
+   "en": "She was so curious about the noise that she opened the box.",
+   "ko": "그 애는 소리가 너무 궁금해서 상자를 열어 봤어."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "민수가 닫힌 상자 하나를 보고 있어. 네 친구 중에서 'curious'한 민수는 누구일까?",
+   "choices": [
+    "상자 안에 뭐가 들었는지 이미 다 알아서 더 볼 필요가 없는 민수",
+    "안에 뭐가 들었는지 너무 알고 싶어서 자꾸 흔들고 들여다보는 민수",
+    "상자에 아무 관심이 없어서 그냥 지나쳐 가는 민수",
+    "상자가 좀 이상하게 생겼다고 흉만 보고 마는 민수"
+   ],
+   "answer_index": 1,
+   "answer": "안에 뭐가 들었는지 너무 알고 싶어서 자꾸 흔들고 들여다보는 민수",
+   "why": "맞아! 뭐가 들었나 너무 알고 싶어서 손이 근질근질, 자꾸 흔들고 들여다보는 그 마음, 그게 바로 curious인 거야. 알고 싶어서 다가가는 게 핵심이거든."
+  },
+  {
+   "type": "ox",
+   "question": "연우는 공룡을 정말 좋아해. 이미 다 외운 공룡 그림책을 오늘도 꺼내서, 아는 공룡들을 다시 보며 흐뭇하게 웃고 있어. 새로 알고 싶은 건 없고 그냥 보는 게 좋대. 이런 연우도 'curious'야?",
+   "choices": [
+    "응, 연우는 curious야",
+    "아니, 연우는 curious가 아니야"
+   ],
+   "answer_index": 1,
+   "answer": "아니, 연우는 curious가 아니야",
+   "why": "맞아, 연우는 curious가 아니야! 연우는 이미 다 아는 공룡들을 다시 보면서 흐뭇한 거잖아. 좋아하는 마음은 가득한데, 새로 알아내고 싶은 건 없거든. curious는 아직 모르는 게 있어서 그게 뭔지 꼭 알고 싶어 근질근질한 마음이야."
+  },
+  {
+   "type": "ox",
+   "question": "윤이는 옆자리 친구의 일기장에 뭐라고 적혀 있는지 너무 알고 싶어서, 친구가 화장실 간 사이에 몰래 펼쳐 읽었어. 이런 윤이도 'curious'야?",
+   "choices": [
+    "응, 윤이는 curious야",
+    "아니, 윤이는 curious가 아니야"
+   ],
+   "answer_index": 0,
+   "answer": "응, 윤이는 curious야",
+   "why": "맞아! 윤이 마음속이 온통 '뭐라고 적혀 있지? 꼭 알고 싶어!'로 가득 차서 참지를 못했잖아. 알고 싶어 안달난 그 마음, 그게 바로 curious인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [
+  {
+   "word": "interested",
+   "kind": "confusable",
+   "from": "vs interested"
+  },
+  {
+   "word": "nosy",
+   "kind": "confusable",
+   "from": "vs nosy"
+  }
+ ],
+ "related_scene": [],
+ "image": {
+  "url": "https://hibbangyong.com/words/img/curious.webp",
+  "alt": "닫힌 상자 속 달그락 소리 → 뭔지 알고 싶어 자꾸 들여다봄."
+ },
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-curious",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-curious"
+ },
+ "cite_note_draft": "이 페이지의 뜻풀이·설명·문제는 출처(하이빵용, 이 페이지 주소)를 밝히면 인용할 수 있어요.",
+ "missing": [
+  "examples_2_3",
+  "synonyms",
+  "antonyms"
+ ]
+}

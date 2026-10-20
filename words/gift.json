@@ -1,0 +1,86 @@
+{
+ "word": "gift",
+ "url": "https://hibbangyong.com/words/gift/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "선물 — 값을 치르지도, 갚지도 않고 그냥 받는 것 (애써 얻은 게 아니라 그냥 주어진 재주도 gift라고 해)",
+ "gloss_ko": "선물",
+ "level": {
+  "code": "L1",
+  "name": "중등부·구체"
+ },
+ "explain_to_child": [
+  "옆집 아저씨가 감자 한 봉지를 불쑥 건네. 돈은 안 받아. 그냥 주는 거야.",
+  "받은 사람은 갚을 것도, 돌려줄 것도 없거든?",
+  "꼭 상자에 담긴 물건만 그런 게 아니야. 이름도 안 밝히고 병원에 보낸 돈도, 태어날 때부터 그냥 잘 부르는 노래 솜씨도 그렇게 불러.",
+  "산 것, 빌린 것, 일해서 번 것은 gift가 아니야. 값을 치렀거나 돌려줘야 하잖아. 아무것도 안 치르고 그냥 받은 것, 그게 gift야."
+ ],
+ "scene": "옆집 아저씨가 감자 한 봉지를 불쑥 건네는 장면",
+ "examples": [
+  {
+   "en": "The old bike in our yard was a gift from my aunt.",
+   "ko": "마당에 있는 낡은 자전거는 이모가 준 선물이야."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "choice",
+   "question": "빵집에서 네 가지 일이 있었어. 이 중에서 'gift'인 것은 무엇일까?",
+   "choices": [
+    "주인 아주머니가 값을 안 받고 건네준 단팥빵",
+    "손님이 삼천 원을 내고 사 간 단팥빵",
+    "배달 일을 돕고 그 값으로 받은 단팥빵",
+    "내일 갚기로 하고 빌려 간 단팥빵"
+   ],
+   "answer_index": 0,
+   "answer": "주인 아주머니가 값을 안 받고 건네준 단팥빵",
+   "why": "맞아! 주인 아주머니가 돈을 하나도 안 받고 그냥 건네준 단팥빵이잖아. 받은 사람은 갚을 것도 없거든. 그래서 바로 그게 gift인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 아이가 겨울에 있었던 일을 하나씩 말했어. 이 중에서 'gift'를 받은 아이는 누구일까?",
+   "choices": [
+    "할머니가 짠 목도리를 그냥 목에 둘러준 아이",
+    "시장에서 오천 원을 내고 목도리를 산 아이",
+    "짝꿍 목도리를 하루만 두르고 돌려준 아이",
+    "눈 치우기를 도운 값으로 목도리를 받은 아이"
+   ],
+   "answer_index": 0,
+   "answer": "할머니가 짠 목도리를 그냥 목에 둘러준 아이",
+   "why": "맞아! 할머니는 돈도 안 받고, 돌려 달라고도 안 하고, 목도리를 그냥 둘러주셨잖아. 받은 아이는 갚을 것도 없으니까 바로 그게 gift인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "네 아이가 자전거 얘기를 하나씩 했어. 이 중에서 'gift'를 받은 아이는 누구일까?",
+   "choices": [
+    "옆집 형이 헌 자전거를 그냥 타라며 넘겨준 아이",
+    "용돈을 차곡차곡 모아 자전거를 사 온 아이",
+    "사촌 언니 자전거를 주말에만 빌려 타기로 한 아이",
+    "심부름을 열 번 하고 그 값으로 자전거를 받은 아이"
+   ],
+   "answer_index": 0,
+   "answer": "옆집 형이 헌 자전거를 그냥 타라며 넘겨준 아이",
+   "why": "맞아! 옆집 형은 돈도 안 받았고, 돌려 달라고도 안 했잖아. 그냥 타라며 넘겨준 거라서 바로 그게 gift인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [],
+ "confusable": [],
+ "related_scene": [
+  "charity"
+ ],
+ "image": {
+  "url": "https://hibbangyong.com/words/img/gift.webp",
+  "alt": "옆집 아저씨가 감자 한 봉지를 불쑥 건네는 장면"
+ },
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-gift",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-gift"
+ },
+ "cite_note_draft": "이 페이지의 뜻풀이·설명·문제는 출처(하이빵용, 이 페이지 주소)를 밝히면 인용할 수 있어요.",
+ "missing": [
+  "examples_2_3",
+  "synonyms",
+  "antonyms"
+ ]
+}

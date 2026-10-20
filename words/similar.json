@@ -1,0 +1,94 @@
+{
+ "word": "similar",
+ "url": "https://hibbangyong.com/words/similar/",
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "meaning_ko": "비슷한 — 똑같진 않지만 많이 닮은",
+ "gloss_ko": "비슷한",
+ "level": {
+  "code": "L2",
+  "name": "중등부·중"
+ },
+ "explain_to_child": [
+  "장난감 두 개가 나란히 있어. 색도 닮고 모양도 닮았어.",
+  "근데 하나는 조금 더 크거든? 똑같진 않은데 많이 닮은 거지.",
+  "생김새만 그런 게 아니야. 너랑 친구 대답이 많이 닮았을 때도 이 말을 써.",
+  "그게 similar야."
+ ],
+ "scene": "색·모양이 닮았지만 하나가 더 큰 장난감 두 개",
+ "examples": [
+  {
+   "en": "These two toys look similar, but one is a little bigger.",
+   "ko": "이 장난감 두 개는 비슷해 보이는데, 하나가 조금 더 커."
+  }
+ ],
+ "quiz": [
+  {
+   "type": "ox",
+   "question": "책상 위에 수박 한 통과 옷핀 하나가 놓여 있어. 이 둘은 'similar'해?",
+   "choices": [
+    "응, similar해.",
+    "아니, similar하지 않아."
+   ],
+   "answer_index": 1,
+   "answer": "아니, similar하지 않아.",
+   "why": "맞아! 수박은 크고 둥근 초록 덩어리인데 옷핀은 작고 뾰족한 쇠붙이잖아. 크기도 모양도 색도 하나도 안 닮았으니까 이건 similar가 아닌 게 맞아."
+  },
+  {
+   "type": "ox",
+   "question": "수영이 필통에서 연필 두 자루를 꺼냈어. 둘 다 노란색에 육각 모양인데, 한 자루는 조금 더 짧아. 이 연필 두 자루는 'similar'해?",
+   "choices": [
+    "응, similar해.",
+    "아니, similar하지 않아."
+   ],
+   "answer_index": 0,
+   "answer": "응, similar해.",
+   "why": "맞아! 색도 노란색으로 닮았고 모양도 육각으로 닮았잖아. 길이만 조금 다른 거지 똑같진 않아도 많이 닮았으니까 바로 그게 similar인 거야."
+  },
+  {
+   "type": "choice",
+   "question": "민수랑 지호가 각자 그림을 그렸어. 두 그림이 'similar'한 거였대. 두 그림은 어땠을까?",
+   "choices": [
+    "닮은 데가 아주 많고, 다른 건 크기 하나뿐이야.",
+    "붕어빵처럼 하나도 안 틀리고 똑 닮아 완전히 똑같아.",
+    "다른 데가 훨씬 많고, 닮은 건 색 하나뿐이야.",
+    "닮은 구석이 하나도 없이 딴판이야."
+   ],
+   "answer_index": 0,
+   "answer": "닮은 데가 아주 많고, 다른 건 크기 하나뿐이야.",
+   "why": "맞아! 닮은 데는 잔뜩인데 딱 크기 하나만 다르잖아. 똑같진 않지만 많이 닮은 거, 그게 바로 similar인 거야."
+  }
+ ],
+ "synonyms": [],
+ "antonyms": [
+  "different"
+ ],
+ "confusable": [
+  {
+   "word": "same",
+   "kind": "confusable",
+   "from": "똑같은(same/identical)"
+  },
+  {
+   "word": "identical",
+   "kind": "confusable",
+   "from": "똑같은(same/identical)"
+  }
+ ],
+ "related_scene": [
+  "compare"
+ ],
+ "image": {
+  "url": "https://hibbangyong.com/words/img/similar.webp",
+  "alt": "색·모양이 닮았지만 하나가 더 큰 장난감 두 개"
+ },
+ "app": {
+  "play": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dword-similar",
+  "web_trial": "https://hibbangyong.com/play/?utm_source=site&utm_medium=web&utm_campaign=word-similar"
+ },
+ "cite_note_draft": "이 페이지의 뜻풀이·설명·문제는 출처(하이빵용, 이 페이지 주소)를 밝히면 인용할 수 있어요.",
+ "missing": [
+  "examples_2_3",
+  "synonyms"
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "updated": "2026-10-20",
+ "source": "하이빵용 (https://hibbangyong.com/)",
+ "cite_note_draft": "이 페이지의 뜻풀이·설명·문제는 출처(하이빵용, 이 페이지 주소)를 밝히면 인용할 수 있어요.",
+ "words": [
+  {
+   "word": "curious",
+   "meaning_ko": "자꾸 알고 싶어지는, 호기심 많은",
+   "url": "https://hibbangyong.com/words/curious/",
+   "json": "https://hibbangyong.com/words/curious.json"
+  },
+  {
+   "word": "gift",
+   "meaning_ko": "선물 — 값을 치르지도, 갚지도 않고 그냥 받는 것 (애써 얻은 게 아니라 그냥 주어진 재주도 gift라고 해)",
+   "url": "https://hibbangyong.com/words/gift/",
+   "json": "https://hibbangyong.com/words/gift.json"
+  },
+  {
+   "word": "similar",
+   "meaning_ko": "비슷한 — 똑같진 않지만 많이 닮은",
+   "url": "https://hibbangyong.com/words/similar/",
+   "json": "https://hibbangyong.com/words/similar.json"
+  }
+ ]
+}
