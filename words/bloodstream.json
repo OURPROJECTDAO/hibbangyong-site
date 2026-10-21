@@ -11,20 +11,21 @@
  "word": "bloodstream",
  "slug": "bloodstream",
  "url": "https://hibbangyong.com/words/bloodstream/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "혈류 — 몸속을 쉬지 않고 돌고 있는 피(의 흐름)",
  "gloss_ko": "몸속을 도는 피",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "주사를 맞으면 약이 몇 분 만에 온몸에 퍼지잖아.",
   "약이 몸속을 계속 돌고 있는 피에 올라탔기 때문이야.",
   "그렇게 흐르고 있는 피 전체가 bloodstream이야. 산소도, 약도, 술 성분도 여기에 섞여서 온몸을 돌아.",
   "피가 지나가는 관(혈관)도 아니고, 상처에서 밖으로 흘러나온 피도 아니야. 지금 몸 안에서 돌고 있는 피 그 자체야."
  ],
+ "explanation_for_kids": null,
  "scene": "주사 맞은 약이 몇 분 만에 온몸에 퍼지는 장면",
  "examples": [
   {

@@ -11,25 +11,26 @@
  "word": "survive",
  "slug": "survive",
  "url": "https://hibbangyong.com/words/survive/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "살아남다 — 무섭거나 힘든 일을 겪고도 죽지 않고, 또는 사라지지 않고 그대로 남아 있다",
  "gloss_ko": "살아남다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "밤새 비바람이 세게 몰아쳤어. 작은 나무가 마구 흔들렸지.",
   "쓰러질 것 같았는데, 아침에 나가 보니까 그대로 서 있는 거야!",
   "힘든 걸 다 겪고도 죽지 않고 남았어.",
   "이렇게 무서운 일을 겪고도 여전히 살아 있는 게 survive야."
  ],
+ "explanation_for_kids": null,
  "scene": "밤샌 비바람 뒤에도 쓰러지지 않고 그대로 서 있는 작은 나무",
  "examples": [
   {
-   "en": "The little tree survived the big storm.",
-   "ko": "작은 나무가 큰 폭풍을 견디고 살아남았어."
+   "en": "My plants didn't survive the hot summer.",
+   "ko": "내 화분들은 더운 여름을 못 버티고 죽었어."
   }
  ],
  "quiz": [

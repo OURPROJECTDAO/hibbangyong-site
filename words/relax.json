@@ -11,25 +11,26 @@
  "word": "relax",
  "slug": "relax",
  "url": "https://hibbangyong.com/words/relax/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "쉬다·긴장을 풀다 — 꽉 조였던 몸과 마음을 스르르 풀고 편하게 있다",
  "gloss_ko": "몸·마음을 풀다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "하루 종일 뭔가에 꽉 조여 있다가 스르르 풀리는 순간, 있지?",
   "소파에 푹 기대도 풀리고, 발표 전에 후— 하고 숨을 내쉬어도 풀리거든.",
   "근데 잠드는 거랑은 달라. 신나게 뛰어노는 것도 아니야. 눈 뜨고도, 서서도 할 수 있어.",
   "꽉 조였던 몸이랑 마음을 풀어 주는 거, 그게 relax야."
  ],
+ "explanation_for_kids": null,
  "scene": "하루 종일 조여 있다가 스르르 풀리는 순간",
  "examples": [
   {
-   "en": "Mom told me to relax before my piano show.",
-   "ko": "피아노 발표회 전에 엄마가 나한테 긴장 좀 풀라고 했어."
+   "en": "I just want to relax at home after work.",
+   "ko": "퇴근하고 집에서 그냥 좀 쉬고 싶어."
   }
  ],
  "quiz": [

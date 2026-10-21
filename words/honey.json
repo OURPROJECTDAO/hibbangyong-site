@@ -11,20 +11,21 @@
  "word": "honey",
  "slug": "honey",
  "url": "https://hibbangyong.com/words/honey/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "꿀 — 벌이 꽃에서 모아 만든, 끈적하고 단 것",
  "gloss_ko": "꿀",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "빵에 발라 먹는 그 끈적끈적 단 거 있잖아. 그게 벌이 만든 거거든?",
   "벌이 꽃마다 다니면서 단물을 조금씩 모아 와. 그걸 벌집에 차곡차곡 채워 두는 거야.",
   "그래서 색도 여러 가지야. 밝은 노랑도 있고, 진한 갈색도 있어. 어떤 꽃에서 왔냐에 따라 달라지거든.",
   "설탕이랑은 달라. 설탕은 사람이 공장에서 만들지만, 이건 벌이 만들어. 그게 honey야."
  ],
+ "explanation_for_kids": null,
  "scene": "빵에 발라 먹는 끈적한 단 것",
  "examples": [
   {

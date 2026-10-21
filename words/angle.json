@@ -11,25 +11,26 @@
  "word": "angle",
  "slug": "angle",
  "url": "https://hibbangyong.com/words/angle/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "각도 — 두 선이 한 점에서 만나 얼마나 벌어졌는지, 그 벌어진 정도",
  "gloss_ko": "두 선이 벌어진 정도",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "문을 살짝 열어 봐. 틈이 좁지? 이제 활짝! 확 벌어졌지?",
   "문이랑 벽, 두 선 사이가 얼마나 벌어졌는지 봐봐. 그걸 각도라고 해.",
   "선이 길든 짧든 상관없어. 뾰족한 모서리 그 자리도 아니야. 벌어진 만큼만 보는 거거든.",
   "사진 찍을 때 폰을 슬쩍 기울이는 것도 각도를 바꾸는 거야. 그 벌어진 정도, 그게 angle이야."
  ],
+ "explanation_for_kids": null,
  "scene": "문을 살짝 열었다가 활짝 여는 장면",
  "examples": [
   {
-   "en": "The door was open at a small angle, so the cat could just squeeze through.",
-   "ko": "문이 아주 작은 각도로만 열려 있어서 고양이가 겨우 비집고 들어갔어."
+   "en": "The laptop screen was tilted back at a weird angle.",
+   "ko": "노트북 화면이 이상한 각도로 뒤로 젖혀져 있었어."
   }
  ],
  "quiz": [

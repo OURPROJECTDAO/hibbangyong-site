@@ -11,23 +11,24 @@
  "word": "stamp",
  "slug": "stamp",
  "url": "https://hibbangyong.com/words/stamp/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "우표 — 편지 봉투에 붙여 우편으로 부칠 수 있게 하는 작은 종이",
  "gloss_ko": "우표",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "편지 봉투 오른쪽 위에 붙이는 작은 그림 종이를 stamp라고 해요. 가장자리가 톱니처럼 오돌토돌해요.",
   "이걸 붙여야 편지가 우체국을 거쳐 멀리 있는 사람에게 배달돼요."
  ],
- "scene": "우표 한 장을 그림(postage stamp) — 톱니 모양 가장자리의 정사각 우표, 안에 간단한 새 그림",
+ "explanation_for_kids": null,
+ "scene": "우표 한 장을 그림(postage stamp)",
  "examples": [
   {
-   "en": "I put a stamp on the letter before I sent it.",
-   "ko": "편지를 부치기 전에 우표를 붙였어."
+   "en": "I bought a stamp at the post office for my postcard.",
+   "ko": "엽서에 붙이려고 우체국에서 우표를 하나 샀어."
   }
  ],
  "quiz": [
@@ -56,7 +57,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/stamp.webp",
-  "alt": "우표 한 장을 그림(postage stamp) — 톱니 모양 가장자리의 정사각 우표, 안에 간단한 새 그림",
+  "alt": "우표 한 장을 그림(postage stamp)",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

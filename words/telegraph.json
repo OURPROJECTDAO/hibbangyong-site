@@ -11,20 +11,21 @@
  "word": "telegraph",
  "slug": "telegraph",
  "url": "https://hibbangyong.com/words/telegraph/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "전신(전깃줄로 말을 보내던 옛날 방식) — 전깃줄로 신호를 보내 멀리까지 말을 전하던 옛날 방식(그 기계, 그렇게 보내는 것)",
  "gloss_ko": "전깃줄로 보내던 소식",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "전화도 없던 아주 옛날이야. 여기서 딱, 딱, 딱 두드리면 그 신호가 전깃줄을 타고 저 멀리까지 달려가.",
   "저쪽 사람은 그 신호를 글자로 풀어서 읽어. 큰일 났다는 말이든, 그냥 생일 축하든, 물건 하나 보내달라는 말이든 다 그렇게 갔어.",
   "목소리가 가는 게 아니야. 신호만 가는 거거든? 그 기계도, 그렇게 보내는 방식도, 그렇게 보내는 일도 다 이 말로 불러.",
   "이게 telegraph야."
  ],
+ "explanation_for_kids": null,
  "scene": "전깃줄을 타고 딱딱 신호가 저 멀리까지 달려가는 장면",
  "examples": [
   {

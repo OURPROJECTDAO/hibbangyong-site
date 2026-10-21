@@ -11,15 +11,21 @@
  "word": "neutralize",
  "slug": "neutralize",
  "url": "https://hibbangyong.com/words/neutralize/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "무력화하다 — 반대되는 힘을 맞대서 어떤 것의 힘이나 효과가 아예 먹히지 않게 만들다",
  "gloss_ko": "효과를 0으로",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "농구 시합에서 우리 팀 에이스는 3점 슛이 엄청 좋았어.",
+  "근데 상대 팀이 걔한테만 두 명을 붙였더니 슛이 하나도 안 통했어.",
+  "에이스는 그대로 코트에 있는데, 그 힘이 0이 된 거야. 이게 neutralize야.",
+  "조금 약해진 것도, 아예 사라진 것도 아니야. 남아 있는데 효과만 지워지는 거야. 산성에 염기를 부어 산성을 없애는 것도 같은 말이야."
+ ],
+ "explanation_for_kids": [
   "농구 시합에서 우리 반 에이스는 3점 슛이 엄청 좋았어.",
   "근데 상대 팀이 그 애한테만 두 명을 붙였더니 슛이 하나도 안 통했어.",
   "에이스는 그대로 코트에 있는데, 그 힘이 0이 된 거야. 이게 neutralize야.",
@@ -28,21 +34,21 @@
  "scene": "농구 시합에서 상대가 에이스에게 두 명을 붙여 슛을 막음",
  "examples": [
   {
-   "en": "Their defense neutralized our best player in the second half.",
-   "ko": "후반전에 걔네 수비가 우리 팀 에이스를 완전히 꽁꽁 묶어 버렸어."
+   "en": "Baking soda can neutralize the smell in your fridge.",
+   "ko": "베이킹소다는 냉장고 냄새를 없애 줘."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "강당에서 교장 선생님 목소리가 작아서 뒷자리까지 잘 안 들렸어. 그런데 마이크를 켜고 스피커에 연결했더니, 선생님 목소리가 훨씬 크게 울려서 맨 뒷자리까지 또렷하게 들렸어. 마이크가 선생님 목소리를 'neutralize'한 걸까?",
+   "question": "강의실에서 교수님 목소리가 작아서 뒷자리까지 잘 안 들렸어. 그런데 마이크를 켜고 스피커에 연결했더니, 교수님 목소리가 훨씬 크게 울려서 맨 뒷자리까지 또렷하게 들렸어. 마이크가 교수님 목소리를 'neutralize'한 걸까?",
    "choices": [
     "응, 맞아",
     "아니, 아니야"
    ],
    "answer_index": 1,
    "answer": "아니, 아니야",
-   "why": "맞아! 마이크는 선생님 목소리를 지운 게 아니라 훨씬 크게 키워서 맨 뒷자리까지 또렷하게 들리게 했잖아. neutralize는 힘을 0으로 만드는 거니까 정반대야."
+   "why": "맞아! 마이크는 교수님 목소리를 지운 게 아니라 훨씬 크게 키워서 맨 뒷자리까지 또렷하게 들리게 했잖아. neutralize는 힘을 0으로 만드는 거니까 정반대야."
   }
  ],
  "synonyms": [],

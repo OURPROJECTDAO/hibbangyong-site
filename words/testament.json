@@ -11,20 +11,21 @@
  "word": "testament",
  "slug": "testament",
  "url": "https://hibbangyong.com/words/testament/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "증거 — 눈앞의 결과가 그 뒤에 있던 노력·실력·잘못 같은 것이 진짜였다는 걸 또렷이 보여 주는 것",
  "gloss_ko": "드러내 보이는 증거",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "동아리방 화분이 3년째 싱싱해. 누가 꾸준히 물을 줬다는 게 말 안 해도 보이지.",
   "반대로 복도 깨진 창문이 한 달째 그대로면, 아무도 신경 안 썼다는 게 드러나.",
   "좋은 쪽이든 나쁜 쪽이든, 결과 자체가 그 뒤에 있던 일을 증명해 주면 그 결과가 testament야.",
   "누가 하는 약속이나 맹세, 경찰이 모으는 증거물 봉투랑은 달라. 결과가 스스로 말해 주는 거야."
  ],
+ "explanation_for_kids": null,
  "scene": "동아리방 화분이 3년째 싱싱함(꾸준히 물 준 사람)",
  "examples": [
   {
@@ -35,14 +36,14 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "수학여행 가는 날, 버스 창밖으로 커다란 무지개가 떴어. 이 무지개를 'testament'라고 부를 수 있어?",
+   "question": "여행 가는 날, 버스 창밖으로 커다란 무지개가 떴어. 이 무지개를 'testament'라고 부를 수 있어?",
    "choices": [
     "응, testament 맞아",
     "아니, testament 아니야"
    ],
    "answer_index": 1,
    "answer": "아니, testament 아니야",
-   "why": "맞아! 수학여행 날 뜬 무지개는 날씨가 그냥 만든 거라서, 그 뒤에 누가 한 노력이나 실력, 잘못 같은 게 없어. testament는 좋은 쪽이든 나쁜 쪽이든 결과가 누가 한 일을 보여 줄 때 쓰는 말이니까, 보여 줄 게 없는 무지개는 아닌 거야."
+   "why": "맞아! 여행 날 뜬 무지개는 날씨가 그냥 만든 거라서, 그 뒤에 누가 한 노력이나 실력, 잘못 같은 게 없어. testament는 좋은 쪽이든 나쁜 쪽이든 결과가 누가 한 일을 보여 줄 때 쓰는 말이니까, 보여 줄 게 없는 무지개는 아닌 거야."
   }
  ],
  "synonyms": [],

@@ -11,23 +11,27 @@
  "word": "seat",
  "slug": "seat",
  "url": "https://hibbangyong.com/words/seat/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "자리 — 엉덩이를 대고 앉는 곳(의자처럼 앉는 자리)",
  "gloss_ko": "앉는 자리",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "그림 속 이것은 앉을 수 있는 자리예요. 등을 기대는 곳과 엉덩이를 대는 판, 다리 네 개가 있는 의자 모양이에요.",
+  "버스나 카페에서 여러분이 엉덩이를 대고 앉는 바로 그곳이 seat예요."
+ ],
+ "explanation_for_kids": [
   "그림 속 이것은 앉을 수 있는 자리예요. 등을 기대는 곳과 엉덩이를 대는 판, 다리 네 개가 있는 의자 모양이에요.",
   "버스나 교실에서 여러분이 엉덩이를 대고 앉는 바로 그곳이 seat예요."
  ],
- "scene": "가장 전형적인 '앉는 자리' 의미로, 아이용 나무 의자 한 개(등받이·좌판·네 다리 전체)를 화면 중앙에 크게 그림",
+ "scene": "가장 전형적인 '앉는 자리' 의미로, 나무 의자 한 개(등받이·좌판·네 다리 전체)를 화면 중앙에 크게 그림",
  "examples": [
   {
-   "en": "Please take your seat before the movie starts.",
-   "ko": "영화 시작하기 전에 자리에 앉아."
+   "en": "I found my seat just before the movie started.",
+   "ko": "영화 시작하기 직전에 내 자리를 찾았어."
   }
  ],
  "quiz": [
@@ -53,7 +57,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/seat.webp",
-  "alt": "가장 전형적인 '앉는 자리' 의미로, 아이용 나무 의자 한 개(등받이·좌판·네 다리 전체)를 화면 중앙에 크게 그림",
+  "alt": "가장 전형적인 '앉는 자리' 의미로, 나무 의자 한 개(등받이·좌판·네 다리 전체)를 화면 중앙에 크게 그림",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

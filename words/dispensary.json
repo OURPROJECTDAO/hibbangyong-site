@@ -11,25 +11,26 @@
  "word": "dispensary",
  "slug": "dispensary",
  "url": "https://hibbangyong.com/words/dispensary/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "조제실 — 약을 준비해 두었다가 필요한 사람에게 내어 주는 곳(병원·학교·마을 등 어디에 있든)",
  "gloss_ko": "조제실",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "아플 때 약을 받는 곳은 생각보다 여러 군데야. 병원 1층 약 창구에서 받을 때도 있고, 마을 회관 한쪽 방에서 받을 때도 있지.",
   "어디에 있든, 약을 준비해 두었다가 필요한 사람에게 내어 주는 곳이면 dispensary야. 공짜로 줄 때도, 돈을 받을 때도 있어.",
   "의사가 몸을 살펴보는 진료실하고는 달라. 거기는 아픈 데를 찾는 곳이고, 여기는 약이 사람 손에 건너가는 곳이야.",
   "dispense가 '나눠 주다'라는 뜻이니까, 약을 나눠 주는 곳이라고 기억하면 돼."
  ],
+ "explanation_for_kids": null,
  "scene": "병원 1층 약 창구에서 약 받기",
  "examples": [
   {
-   "en": "My mom works at the dispensary inside the hospital, on the first floor.",
-   "ko": "우리 엄마는 병원 1층에 있는 조제실에서 일해."
+   "en": "I picked up my medicine at the hospital dispensary.",
+   "ko": "병원 조제실에서 약을 받아 왔어."
   }
  ],
  "quiz": [

@@ -11,31 +11,37 @@
  "word": "provocative",
  "slug": "provocative",
  "url": "https://hibbangyong.com/words/provocative/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "도발적인(일부러 건드리는) — 사람들을 화나게 하거나 곰곰이 생각하게 만들려고 일부러 건드리는",
  "gloss_ko": "일부러 건드리는",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "수업 시작하자마자 교수님이 칠판에 한 줄 썼어. '시험은 없어져야 한다.'",
+  "다들 바로 들고 일어났지. 찬성, 반대, 완전 난리.",
+  "이렇게 사람들이 가만있지 못하게 일부러 건드리는 말이나 행동, 작품이 provocative야. 화나게 만들 수도 있고, 곰곰이 생각하게 만들 수도 있어.",
+  "그냥 무례한 거랑은 달라. 무례함은 반응을 노리지 않지만, 이건 반응을 끌어내는 게 목적이야."
+ ],
+ "explanation_for_kids": [
   "수업 시작하자마자 선생님이 칠판에 한 줄 썼어. '시험은 없어져야 한다.'",
   "반 전체가 바로 들고 일어났지. 찬성, 반대, 완전 난리.",
   "이렇게 사람들이 가만있지 못하게 일부러 건드리는 말이나 행동, 작품이 provocative야. 화나게 만들 수도 있고, 곰곰이 생각하게 만들 수도 있어.",
   "그냥 무례한 거랑은 달라. 무례함은 반응을 노리지 않지만, 이건 반응을 끌어내는 게 목적이야."
  ],
- "scene": "선생님이 칠판에 '시험은 없어져야 한다'고 써서 반이 찬반으로 들끓음",
+ "scene": "교수님이 칠판에 '시험은 없어져야 한다'고 써서 강의실이 찬반으로 들끓음",
  "examples": [
   {
-   "en": "Her provocative question kept us talking until the bell rang.",
-   "ko": "걔가 일부러 찔러 본 질문 하나 때문에 우리 종 칠 때까지 계속 얘기했어."
+   "en": "Her provocative question kept us talking until the lecture ended.",
+   "ko": "걔가 일부러 찔러 본 질문 하나 때문에 우리 강의 끝날 때까지 계속 얘기했어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "학교 게시판에 붙은 안내문 제목이 '복도에서는 뛰지 맙시다'였어. 이 제목은 'provocative'한 거야?",
+   "question": "아파트 게시판에 붙은 안내문 제목이 '복도에서는 뛰지 맙시다'였어. 이 제목은 'provocative'한 거야?",
    "choices": [
     "응, provocative 맞아",
     "아니, provocative 아니야"
@@ -66,7 +72,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/provocative.webp",
-  "alt": "선생님이 칠판에 '시험은 없어져야 한다'고 써서 반이 찬반으로 들끓음",
+  "alt": "교수님이 칠판에 '시험은 없어져야 한다'고 써서 강의실이 찬반으로 들끓음",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

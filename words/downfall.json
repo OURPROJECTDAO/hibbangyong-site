@@ -11,15 +11,21 @@
  "word": "downfall",
  "slug": "downfall",
  "url": "https://hibbangyong.com/words/downfall/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "몰락 — 잘나가던 사람이나 집단이 힘·돈·자리를 잃고 무너지는 것, 또는 그렇게 무너지게 만든 원인",
  "gloss_ko": "몰락",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "리그에서 제일 인기 많던 팀, 대회 3연속 우승팀, 동네에서 제일 잘되던 가게.",
+  "이렇게 위에 있던 게 힘이랑 자리를 잃고 무너지면 그게 downfall이야.",
+  "그냥 한 번 지는 거랑은 달라. 다음 판에 다시 이기면 downfall이 아니야. 높던 자리에서 내려와 다시 못 올라가는 거야.",
+  "그리고 그렇게 무너지게 만든 원인도 downfall이라고 불러. '욕심이 걔의 downfall이었어'처럼."
+ ],
+ "explanation_for_kids": [
   "반에서 제일 인기 많던 팀, 대회 3연속 우승팀, 동네에서 제일 잘되던 가게.",
   "이렇게 위에 있던 게 힘이랑 자리를 잃고 무너지면 그게 downfall이야.",
   "그냥 한 번 지는 거랑은 달라. 다음 판에 다시 이기면 downfall이 아니야. 높던 자리에서 내려와 다시 못 올라가는 거야.",
@@ -28,8 +34,8 @@
  "scene": "인기 팀·연속 우승팀·잘되던 가게가 무너짐",
  "examples": [
   {
-   "en": "His love of money was his downfall.",
-   "ko": "걔는 돈 욕심 때문에 결국 무너졌어."
+   "en": "His temper was his downfall at work.",
+   "ko": "걔는 결국 욱하는 성질 때문에 회사에서 무너졌어."
   }
  ],
  "quiz": [

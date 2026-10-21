@@ -11,38 +11,39 @@
  "word": "resist",
  "slug": "resist",
  "url": "https://hibbangyong.com/words/resist/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "밀고 들어오는 걸 그대로 안 받아들이고 버티다 (힘이든 마음이든)",
  "gloss_ko": "안 밀리고 버티다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "물살이 센 데 서 봐. 물이 너를 자꾸 옆으로 밀지? 근데 너는 그 자리에서 안 밀려나고 버텨.",
   "밀고 들어오는 게 물만은 아니야. 먹고 싶은 마음도, 새로 생긴 규칙도 너를 밀거든. 그걸 그대로 안 받아들이고 버티는 거야.",
   "싸워서 이기는 거랑은 달라. 그냥 꾹 참고 다 맞는 거랑도 달라. 밀려도 안 넘어가는 그 버팀이야.",
   "그게 resist야."
  ],
- "scene": "센 물살 속에 서서 안 밀려나는 아이",
+ "explanation_for_kids": null,
+ "scene": "센 물살 속에 서서 안 밀려나는 사람",
  "examples": [
   {
-   "en": "The kids resisted the new bedtime rule for a whole week.",
-   "ko": "아이들은 새로 생긴 잠자는 시간 규칙에 일주일 내내 버텼어."
+   "en": "At my babysitting job, the kids still resist the new bedtime rule.",
+   "ko": "베이비시터 알바하는 집 애들이 새로 정한 잠자는 시간 규칙에 아직도 버텨."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "형이 민수 팔을 잡고 자기 방 쪽으로 계속 당겼어. 민수는 발을 바닥에 붙이고 끌려가지 않았어. 이게 'resist'야?",
+   "question": "친구가 민수 팔을 잡고 놀이기구 줄 쪽으로 계속 당겼어. 민수는 발을 바닥에 붙이고 끌려가지 않았어. 이게 'resist'야?",
    "choices": [
     "응, resist 맞아",
     "아니, resist 아니야"
    ],
    "answer_index": 0,
    "answer": "응, resist 맞아",
-   "why": "맞아! 형이 계속 당기는데 민수는 발을 딱 붙이고 안 끌려갔잖아. 밀고 당기는 힘에 안 넘어가고 그 자리를 지킨 거, 그게 바로 resist야."
+   "why": "맞아! 친구가 계속 당기는데 민수는 발을 딱 붙이고 안 끌려갔잖아. 밀고 당기는 힘에 안 넘어가고 그 자리를 지킨 거, 그게 바로 resist야."
   }
  ],
  "synonyms": [
@@ -68,7 +69,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/resist.webp",
-  "alt": "센 물살 속에 서서 안 밀려나는 아이",
+  "alt": "센 물살 속에 서서 안 밀려나는 사람",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

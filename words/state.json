@@ -11,25 +11,26 @@
  "word": "state",
  "slug": "state",
  "url": "https://hibbangyong.com/words/state/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "상태 — 어떤 것이 지금 어떤 모습이거나 어떤 형편인지",
  "gloss_ko": "상태",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "물 있잖아? 꽁꽁 얼면 얼음, 그냥 두면 물, 팔팔 끓이면 김이 돼. 똑같은 물인데 지금 모습이 자꾸 바뀌지?",
   "이렇게 지금 어떤 모습인지, 지금 어떤 형편인지를 말하는 게 state야.",
   "방이 지저분한 것도 방의 state고, 네가 신나서 붕 뜬 것도 지금 네 마음의 state야. 물건이든 마음이든 다 돼.",
   "'이게 뭐냐'가 아니라 '지금 어떤가', 그게 state야."
  ],
+ "explanation_for_kids": null,
  "scene": "똑같은 물이 얼음·물·김으로 지금 모습이 바뀌는 장면",
  "examples": [
   {
-   "en": "My puppy was in a sleepy state all afternoon and wouldn't play.",
-   "ko": "우리 강아지가 오후 내내 졸린 상태여서 나랑 안 놀아줬어."
+   "en": "My phone was in a bad state after I dropped it.",
+   "ko": "떨어뜨린 뒤로 내 폰 상태가 엉망이었어."
   }
  ],
  "quiz": [

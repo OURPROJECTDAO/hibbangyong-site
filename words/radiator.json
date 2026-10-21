@@ -11,21 +11,27 @@
  "word": "radiator",
  "slug": "radiator",
  "url": "https://hibbangyong.com/words/radiator/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "라디에이터(방열기) — 벽에 붙은 얇은 금속 판으로, 속을 지나는 뜨거운 물의 열을 방으로 내보내는 난방 기구",
  "gloss_ko": "라디에이터",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "겨울 카페 창문 밑, 벽에 붙은 줄무늬 금속 판 본 적 있지? 만지면 뜨끈한 거.",
+  "그 얇은 판 속으로 뜨거운 물이 지나가. 판이 그 열을 받아서 둘레 공기로 내보내는 거야.",
+  "물을 데워서 집 곳곳으로 보내는 보일러나, 바닥 밑 관으로 데우는 바닥 난방이랑은 달라. 받은 열을 밖으로 풀어 주는 판 쪽이 radiator야.",
+  "자동차 엔진 앞에도 radiator가 있어. 거기선 엔진 열을 바깥 공기로 빼서 엔진을 식혀 줘. 열을 내보낸다는 건 똑같아."
+ ],
+ "explanation_for_kids": [
   "겨울 교실 창문 밑, 벽에 붙은 줄무늬 금속 판 본 적 있지? 만지면 뜨끈한 거.",
   "그 얇은 판 속으로 뜨거운 물이 지나가. 판이 그 열을 받아서 둘레 공기로 내보내는 거야.",
   "물을 데워서 집 곳곳으로 보내는 보일러나, 바닥 밑 관으로 데우는 바닥 난방이랑은 달라. 받은 열을 밖으로 풀어 주는 판 쪽이 radiator야.",
   "자동차 엔진 앞에도 radiator가 있어. 거기선 엔진 열을 바깥 공기로 빼서 엔진을 식혀 줘. 열을 내보낸다는 건 똑같아."
  ],
- "scene": "겨울 교실 창문 밑 벽에 붙은 따뜻한 금속 판",
+ "scene": "겨울 카페 창문 밑 벽에 붙은 따뜻한 금속 판",
  "examples": [
   {
    "en": "My cat always sleeps next to the radiator in winter.",
@@ -57,7 +63,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/radiator.webp",
-  "alt": "겨울 교실 창문 밑 벽에 붙은 따뜻한 금속 판",
+  "alt": "겨울 카페 창문 밑 벽에 붙은 따뜻한 금속 판",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

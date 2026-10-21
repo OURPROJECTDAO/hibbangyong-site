@@ -11,20 +11,21 @@
  "word": "interior",
  "slug": "interior",
  "url": "https://hibbangyong.com/words/interior/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "안쪽의 — 겉이 아니라 속에 있는 쪽의",
  "gloss_ko": "안쪽의",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "봐봐, 상자를 하나 떠올려봐.",
   "겉면 말고, 뚜껑을 열면 딱 보이는 그 속 있잖아?",
   "방이든 자동차든 나라든, 겉이 아니라 속에 자리한 쪽이야. 가운데 한 점만이 아니라 속 전체를 말해.",
   "그 속을 가리키는 말, 그게 interior야."
  ],
+ "explanation_for_kids": null,
  "scene": "뚜껑을 열면 보이는 상자의 속",
  "examples": [
   {

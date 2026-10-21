@@ -11,25 +11,26 @@
  "word": "manage",
  "slug": "manage",
  "url": "https://hibbangyong.com/words/manage/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "벅찬 일을 어떻게든 잘 해내다, 또는 큰일을 맡아서 잘 굴러가게 이끌어가다",
  "gloss_ko": "어떻게든 해냄",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "양손에 짐이 가득! 문은 잠겼는데 열쇠는 주머니 깊숙이 들어 있어. 이거 못 하겠다 싶지?",
   "근데 낑낑대다가 짐 하나 안 떨어뜨리고, 문도 열고 집까지 다 왔어. 힘들었지만 어떻게든 해낸 거야.",
   "꼭 힘들어야만 쓰는 말은 아냐. 큰 가게를 맡아서 안 망하게 잘 돌보고 굴러가게 이끄는 것도 똑같이 이 말이야.",
   "벅찬 일을 이겨내 해내든, 큰일을 맡아 잘 굴려가든 — 잘 다뤄서 되게 만드는 거. 이게 manage야."
  ],
+ "explanation_for_kids": null,
  "scene": "양손 가득 짐을 들고 잠긴 문을 어떻게든 열어 집까지 옴",
  "examples": [
   {
-   "en": "It was heavy, but I managed to carry all the bags home by myself.",
-   "ko": "무거웠지만 나는 혼자서 가방을 다 집까지 어떻게든 들고 왔어."
+   "en": "I'm not sure how I'll manage two jobs and school this term.",
+   "ko": "이번 학기에 일 두 개랑 학교를 어떻게 다 해낼지 모르겠어."
   }
  ],
  "quiz": [

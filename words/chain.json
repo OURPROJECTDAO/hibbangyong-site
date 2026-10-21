@@ -11,23 +11,24 @@
  "word": "chain",
  "slug": "chain",
  "url": "https://hibbangyong.com/words/chain/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "사슬 — 금속 고리들이 줄줄이 맞물려 이어진 줄",
  "gloss_ko": "사슬",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 이것은 chain, 쇠고리들이 서로 걸려서 하나로 길게 이어진 쇠줄이에요.",
   "자전거를 자물쇠로 기둥에 묶어 둘 때 쓰는 굵은 줄이 바로 chain이에요."
  ],
+ "explanation_for_kids": null,
  "scene": "굵은 금속 고리들이 서로 맞물려 대각선으로 늘어진 튼튼한 쇠사슬 한 줄 (chain=사슬)",
  "examples": [
   {
-   "en": "The dog was tied to the fence with a strong metal chain.",
-   "ko": "강아지가 튼튼한 쇠사슬로 울타리에 묶여 있었어."
+   "en": "I locked my bike to the pole with a chain.",
+   "ko": "자전거를 쇠사슬로 기둥에 묶어 뒀어."
   }
  ],
  "quiz": [

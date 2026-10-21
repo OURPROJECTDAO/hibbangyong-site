@@ -11,15 +11,21 @@
  "word": "person",
  "slug": "person",
  "url": "https://hibbangyong.com/words/person/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "사람 한 명",
  "gloss_ko": "사람 한 명",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "네 옆에 앉은 친구 한 명, 떠올려 봐.",
+  "착하든 못됐든, 친구든 처음 보는 사람이든 — 사람이면 누구나 한 명 한 명이 'person'이야.",
+  "강아지도 인형도 아니야. 사람이기만 하면, 어떤 사람이든 한 명이 person이지.",
+  "그 한 명 한 명이 person이야."
+ ],
+ "explanation_for_kids": [
   "네 옆에 앉은 친구 한 명, 떠올려 봐.",
   "착하든 말썽꾸러기든, 처음 보는 낯선 아저씨든 — 사람이면 누구나 한 명 한 명이 'person'이야.",
   "강아지도 인형도 아니야. 사람이기만 하면, 어떤 사람이든 한 명이 person이지.",
@@ -28,8 +34,8 @@
  "scene": "방 안 사람 하나하나 — 착하든 낯설든, 사람이면 다.",
  "examples": [
   {
-   "en": "Every person in the room raised their hand.",
-   "ko": "방 안의 모든 사람이 손을 들었어."
+   "en": "Dinner was twenty dollars per person.",
+   "ko": "저녁은 한 사람당 20달러였어."
   }
  ],
  "quiz": [

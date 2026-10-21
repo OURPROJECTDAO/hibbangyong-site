@@ -11,20 +11,21 @@
  "word": "moment",
  "slug": "moment",
  "url": "https://hibbangyong.com/words/moment/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "순간 — 눈 깜빡할 만큼 짧은 시간, 또는 무슨 일이 딱 일어나는 바로 그때.",
  "gloss_ko": "순간",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "딱! 하고 손뼉 한 번 치는 그 짧은 사이 있잖아.",
   "눈 한 번 깜빡하면 벌써 지나가는 아주 짧은 시간이야.",
   "\"잠깐만 기다려\" 할 때 그 잠깐도 이거고, 무슨 일이 딱 벌어지는 바로 그때도 이거야.",
   "이게 moment야."
  ],
+ "explanation_for_kids": null,
  "scene": "손뼉 한 번 치는 짧은 사이",
  "examples": [
   {

@@ -11,31 +11,37 @@
  "word": "baroque",
  "slug": "baroque",
  "url": "https://hibbangyong.com/words/baroque/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "바로크 (양식)의 — 1600년대부터 1700년대 초까지 유럽에서 유행한, 꾸밈이 많고 웅장한 미술·음악·건축 스타일의",
  "gloss_ko": "바로크 양식의",
  "level": {
   "code": "L9",
-  "name": "토플 114~120점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "바흐 곡 들어 본 적 있지? 여러 선율이 겹겹이 얽히고 꾸밈음이 계속 붙어.",
+  "유럽 옛 궁전이나 성당 사진도 떠올려 봐. 천장까지 그림이랑 금색 조각으로 꽉 차 있어.",
+  "이 둘은 뿌리가 같아. 1600년대부터 1700년대 초까지 유럽에서 유행한 한 양식, 그게 baroque야.",
+  "그러니까 그냥 반짝이는 요즘 물건은 원래 뜻이 아니야. 누가 요즘 걸 두고 baroque라고 하면, 그 시대처럼 지나치게 꾸미고 복잡하다는 비유야."
+ ],
+ "explanation_for_kids": [
   "음악 시간에 바흐 곡 들어 봤지? 여러 선율이 겹겹이 얽히고 꾸밈음이 계속 붙어.",
   "유럽 옛 궁전이나 성당 사진도 떠올려 봐. 천장까지 그림이랑 금색 조각으로 꽉 차 있어.",
   "이 둘은 뿌리가 같아. 1600년대부터 1700년대 초까지 유럽에서 유행한 한 양식, 그게 baroque야.",
   "그러니까 그냥 반짝이는 요즘 물건은 원래 뜻이 아니야. 누가 요즘 걸 두고 baroque라고 하면, 그 시대처럼 지나치게 꾸미고 복잡하다는 비유야."
  ],
- "scene": "음악 시간에 듣는 바흐 곡의 겹겹이 얽힌 선율과 꾸밈음",
+ "scene": "카페에서 듣는 바흐 곡의 겹겹이 얽힌 선율과 꾸밈음",
  "examples": [
   {
-   "en": "Our school orchestra played a baroque piece by Bach at the concert.",
-   "ko": "우리 학교 오케스트라가 음악회에서 바흐가 쓴 바로크 곡을 연주했어."
+   "en": "Our university orchestra played a baroque piece by Bach at the concert.",
+   "ko": "우리 대학 오케스트라가 연주회에서 바흐의 바로크 곡을 연주했어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "미술책에 1650년쯤 이탈리아 로마에서 만들어진 대리석 조각상 사진이 실렸어. 옷자락이 바람에 날리듯 크게 굽이치고, 받침대까지 꽃과 천사 장식이 빽빽하게 새겨져 있어. 이 조각상은 'baroque' 양식이야?",
+   "question": "미술 잡지에 1650년쯤 이탈리아 로마에서 만들어진 대리석 조각상 사진이 실렸어. 옷자락이 바람에 날리듯 크게 굽이치고, 받침대까지 꽃과 천사 장식이 빽빽하게 새겨져 있어. 이 조각상은 'baroque' 양식이야?",
    "choices": [
     "응, baroque 맞아",
     "아니, baroque 아니야"
@@ -68,7 +74,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/baroque.webp",
-  "alt": "음악 시간에 듣는 바흐 곡의 겹겹이 얽힌 선율과 꾸밈음",
+  "alt": "카페에서 듣는 바흐 곡의 겹겹이 얽힌 선율과 꾸밈음",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

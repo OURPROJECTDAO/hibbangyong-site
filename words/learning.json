@@ -11,15 +11,21 @@
  "word": "learning",
  "slug": "learning",
  "url": "https://hibbangyong.com/words/learning/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "학습, 배움 — 몰랐던 걸 알게 되고, 못 하던 걸 할 수 있게 되어 가는 것",
  "gloss_ko": "배워 가는 것",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "처음 자전거 탈 땐 넘어지고 또 넘어지지?",
+  "그러다 어느 날 쓱~ 혼자 굴러가. 못 하던 게 내 것이 된 거야.",
+  "이건 책상 앞에 앉아 있는 것만 말하는 게 아니야. 실수하면서도, 넘어지면서도 일어나거든.",
+  "그렇게 조금씩 알게 되고 할 수 있게 되어 가는 거, 그게 learning이야."
+ ],
+ "explanation_for_kids": [
   "처음 자전거 탈 땐 꽈당! 또 꽈당! 넘어지지?",
   "그러다 어느 날 쓱~ 혼자 굴러가. 못 하던 게 내 것이 된 거야.",
   "이건 책상 앞에 앉아 있는 것만 말하는 게 아니야. 실수하면서도, 넘어지면서도 일어나거든.",
@@ -28,21 +34,21 @@
  "scene": "자전거 타다 넘어지다가 혼자 타게 됨",
  "examples": [
   {
-   "en": "Falling down again and again was part of my learning.",
-   "ko": "계속 넘어졌던 것도 다 내가 배워 가는 과정이었어."
+   "en": "Making mistakes at my new job is part of learning.",
+   "ko": "새 직장에서 실수하는 것도 다 배우는 과정이야."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "동생이 신발 끈을 묶을 때 처음엔 매듭이 자꾸 풀렸어. 그런데 여러 번 해 보더니 이제는 혼자서 리본 모양으로 꽉 묶어. 이게 'learning'일까?",
+   "question": "친구가 넥타이를 맬 때 처음엔 매듭이 자꾸 풀렸어. 그런데 여러 번 해 보더니 이제는 혼자서 깔끔하게 꽉 매. 이게 'learning'일까?",
    "choices": [
     "응, learning 맞아",
     "아니, learning 아니야"
    ],
    "answer_index": 0,
    "answer": "응, learning 맞아",
-   "why": "맞아! 동생이 처음엔 매듭이 자꾸 풀렸는데, 여러 번 해 보더니 이제는 혼자서 리본 모양으로 꽉 묶잖아. 못 하던 걸 할 수 있게 됐으니까 바로 그게 learning인 거야."
+   "why": "맞아! 친구가 처음엔 매듭이 자꾸 풀렸는데, 여러 번 해 보더니 이제는 혼자서 깔끔하게 꽉 매잖아. 못 하던 걸 할 수 있게 됐으니까 바로 그게 learning인 거야."
   }
  ],
  "synonyms": [],

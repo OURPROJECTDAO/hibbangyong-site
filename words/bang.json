@@ -11,31 +11,32 @@
  "word": "bang",
  "slug": "bang",
  "url": "https://hibbangyong.com/words/bang/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "쾅! 하고 세게 부딪히거나 두드려서 큰 소리를 내다",
  "gloss_ko": "쾅 하고 세게 두드리다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "서랍을 확 밀어 닫았는데 쾅! 소리가 온 방에 울렸어.",
   "세게 부딪혀서 큰 소리가 난 거야. 일부러 그랬든, 무릎을 책상에 쿵 찧은 것처럼 실수든 상관없어.",
   "똑똑 노크처럼 조용히 알리는 거랑은 달라. 시끄러운 소리부터 나거든?",
   "세게 부딪히거나 두드려서 큰 소리를 내는 것, 그게 bang이야."
  ],
+ "explanation_for_kids": null,
  "scene": "서랍을 세게 밀어 닫아 쾅 소리가 방에 울린 장면",
  "examples": [
   {
-   "en": "Don't bang the door when you come in, okay?",
-   "ko": "들어올 때 문 쾅 닫지 마, 알았지?"
+   "en": "My neighbor started to bang on the wall at midnight.",
+   "ko": "이웃이 자정에 벽을 쾅쾅 두드리기 시작했어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "동생이 피아노 뚜껑을 두 손으로 확 내리쳐서 온 거실이 울렸어. 이게 'bang'이야?",
+   "question": "룸메이트가 피아노 뚜껑을 두 손으로 확 내리쳐서 온 거실이 울렸어. 이게 'bang'이야?",
    "choices": [
     "응, bang 맞아",
     "아니, bang 아니야"

@@ -11,25 +11,26 @@
  "word": "museum",
  "slug": "museum",
  "url": "https://hibbangyong.com/words/museum/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "박물관 — 귀하거나 신기한 것들을 한데 모아 놓고 사람들한테 보여 주는 곳 (미술관·과학관도 여기 들어가)",
  "gloss_ko": "박물관",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "큰 문을 밀고 들어가면 천장에 진짜 우주선이 매달려 있어. 옆 방엔 아주 오래된 그릇, 그 옆엔 커다란 그림.",
   "옛날 것만 있는 것도 아니고 새것만 있는 것도 아니야. 볼 만한 거면 뭐든 모아 두거든?",
   "가게처럼 사 가는 데도 아니고, 창고처럼 숨겨 두는 데도 아니야. 누구든 와서 보라고 늘어놓은 곳이야.",
   "그게 museum이야."
  ],
+ "explanation_for_kids": null,
  "scene": "천장에 진짜 우주선이 통째로 매달린 첫 방",
  "examples": [
   {
-   "en": "On Friday our whole class is going to the new museum in town.",
-   "ko": "금요일에 우리 반 전부 새로 생긴 박물관에 가."
+   "en": "On Saturday my friends and I are going to the new museum in town.",
+   "ko": "토요일에 친구들이랑 새로 생긴 박물관에 가."
   }
  ],
  "quiz": [

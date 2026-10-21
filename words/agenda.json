@@ -11,25 +11,31 @@
  "word": "agenda",
  "slug": "agenda",
  "url": "https://hibbangyong.com/words/agenda/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "모임에서 다루기로 미리 정해둔 일들의 목록",
  "gloss_ko": "다룰 일 목록",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "다 같이 모여서 얘기할 때, 오늘 뭐뭐 다룰지 미리 정해두잖아? 생활비, 여행, 집 청소. 딱 세 개.",
+  "그렇게 다루기로 정해놓은 차례가 agenda야. 종이에 적혀 있든 말든 상관없어. 머릿속에만 있어도 돼.",
+  "회의 때 팀장님이 화이트보드에 '1. 예산 정리 2. 청소 당번 3. 워크숍' 이렇게 적어 두시지? 그 목록이 오늘 회의 agenda야.",
+  "그냥 하고 싶은 일 아무거나 떠올린 거랑은 달라. 다루기로 정해놓은 차례, 그게 agenda야."
+ ],
+ "explanation_for_kids": [
   "다 같이 모여서 얘기할 때, 오늘 뭐뭐 다룰지 미리 정해두잖아? 용돈, 여행, 방 청소. 딱 세 개.",
   "그렇게 다루기로 정해놓은 차례가 agenda야. 종이에 적혀 있든 말든 상관없어. 머릿속에만 있어도 돼.",
   "학급 회의 때 선생님이 칠판에 '1. 급식 순서 2. 청소 당번 3. 체육대회' 이렇게 적어 두시지? 그 목록이 오늘 회의 agenda야.",
   "그냥 하고 싶은 일 아무거나 떠올린 거랑은 달라. 다루기로 정해놓은 차례, 그게 agenda야."
  ],
- "scene": "가족이 모여 오늘 다룰 세 가지(용돈·여행·방 청소)를 정해둔 차례",
+ "scene": "가족이 모여 오늘 다룰 세 가지(생활비·여행·집 청소)를 정해둔 차례",
  "examples": [
   {
-   "en": "The first thing on the agenda today is our class trip.",
-   "ko": "오늘 다룰 일 목록에서 첫 번째는 우리 반 소풍이야."
+   "en": "The first thing on the agenda today is our team trip.",
+   "ko": "오늘 다룰 일 중에서 첫 번째는 우리 팀 여행이야."
   }
  ],
  "quiz": [
@@ -61,7 +67,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/agenda.webp",
-  "alt": "가족이 모여 오늘 다룰 세 가지(용돈·여행·방 청소)를 정해둔 차례",
+  "alt": "가족이 모여 오늘 다룰 세 가지(생활비·여행·집 청소)를 정해둔 차례",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,20 +11,21 @@
  "word": "annual",
  "slug": "annual",
  "url": "https://hibbangyong.com/words/annual/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "해마다 한 번씩 돌아오는 — 좋은 일이든 싫은 일이든, 일 년에 딱 한 번",
  "gloss_ko": "해마다 한 번씩 돌아오는",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "병원에서 몸 검사 받는 날 있잖아. 재미도 없는데 해마다 한 번씩 꼬박꼬박 돌아오거든?",
   "작년에도 했고, 올해도 하고, 내년에도 해. 일 년에 딱 한 번씩.",
   "신나는 축제도, 지겨운 검사도 똑같이 그래. 좋은 일이냐 싫은 일이냐는 상관없어.",
   "일 년 내내 쭉 이어지는 거랑은 달라. 쉬었다가 해마다 한 번, 그게 annual이야."
  ],
+ "explanation_for_kids": null,
  "scene": "병원에서 해마다 한 번 받는 몸 검사",
  "examples": [
   {

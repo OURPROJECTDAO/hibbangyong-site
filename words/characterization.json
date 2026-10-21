@@ -11,21 +11,27 @@
  "word": "characterization",
  "slug": "characterization",
  "url": "https://hibbangyong.com/words/characterization/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "특징짓기 — 어떤 사람이나 대상이 어떤 성격인지 말이나 글로 그려 내는 것",
  "gloss_ko": "특징짓기",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "같은 팀장을 두고 누구는 꼼꼼하다 하고, 누구는 깐깐하다고 해.",
+  "사람은 한 명인데, 그려 내는 모습은 둘이야.",
+  "누가 무엇을 두고 '이런 성격이야' 하고 그려 내는 것, 그게 characterization이야. 맞게 그릴 수도 있고 억울하게 그릴 수도 있어.",
+  "키나 옷처럼 겉모습만 적는 거랑은 달라. 소설 속 인물을 진짜 사람처럼 만들어 내는 것도 같은 말로 불러."
+ ],
+ "explanation_for_kids": [
   "같은 반장을 두고 누구는 꼼꼼한 애라 하고, 누구는 깐깐한 애라고 해.",
   "사람은 한 명인데, 그려 내는 모습은 둘이야.",
   "누가 무엇을 두고 '이런 성격이야' 하고 그려 내는 것, 그게 characterization이야. 맞게 그릴 수도 있고 억울하게 그릴 수도 있어.",
   "키나 옷처럼 겉모습만 적는 거랑은 달라. 소설 속 인물을 진짜 사람처럼 만들어 내는 것도 같은 말로 불러."
  ],
- "scene": "같은 반장을 두고 꼼꼼하다·깐깐하다로 갈린 친구들 평가",
+ "scene": "같은 팀장을 두고 꼼꼼하다·깐깐하다로 갈린 동료들 평가",
  "examples": [
   {
    "en": "I don't agree with your characterization of him as lazy.",
@@ -35,14 +41,14 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "담임 선생님이 추천서에 지원이를 '끈기 있고 친구를 잘 챙기는 학생'이라고 적었어. 이 문장은 지원이에 대한 'characterization'이야?",
+   "question": "교수님이 추천서에 지원이를 '끈기 있고 동기를 잘 챙기는 학생'이라고 적었어. 이 문장은 지원이에 대한 'characterization'이야?",
    "choices": [
     "응, characterization 맞아",
     "아니, characterization 아니야"
    ],
    "answer_index": 0,
    "answer": "응, characterization 맞아",
-   "why": "맞아! 담임 선생님이 추천서에 지원이가 끈기 있고 친구를 잘 챙기는 학생이라고 적었잖아. 지원이가 어떤 성격인지 글로 그려 낸 거니까, 바로 그게 characterization이야."
+   "why": "맞아! 교수님이 추천서에 지원이가 끈기 있고 동기를 잘 챙기는 학생이라고 적었잖아. 지원이가 어떤 성격인지 글로 그려 낸 거니까, 바로 그게 characterization이야."
   }
  ],
  "synonyms": [
@@ -68,7 +74,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/characterization.webp",
-  "alt": "같은 반장을 두고 꼼꼼하다·깐깐하다로 갈린 친구들 평가",
+  "alt": "같은 팀장을 두고 꼼꼼하다·깐깐하다로 갈린 동료들 평가",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

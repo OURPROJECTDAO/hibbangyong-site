@@ -11,25 +11,31 @@
  "word": "motley",
  "slug": "motley",
  "url": "https://hibbangyong.com/words/motley/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "잡다한 — 서로 전혀 안 어울리는 사람이나 물건들이 한데 모인",
  "gloss_ko": "안 어울리게 섞인",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "카페 분실물 상자 본 적 있어? 장갑 한 짝, 이어폰, 고장 난 우산, 공책.",
+  "서로 아무 상관 없는 것들이 그냥 한데 모여 있잖아.",
+  "사람도 그래. 축제 때 급하게 모은 밴드처럼 취향도 실력도 다 따로 노는 무리.",
+  "여러 가지라서 보기 좋다는 말이 아니야. 안 어울리는 것끼리 섞였다는 느낌이 먼저야."
+ ],
+ "explanation_for_kids": [
   "교실 뒤 분실물 상자 열어 봤어? 장갑 한 짝, 리코더, 고장 난 우산, 수학책.",
   "서로 아무 상관 없는 것들이 그냥 한데 모여 있잖아.",
   "사람도 그래. 축제 때 급하게 모은 밴드처럼 취향도 실력도 다 따로 노는 무리.",
   "여러 가지라서 보기 좋다는 말이 아니야. 안 어울리는 것끼리 섞였다는 느낌이 먼저야."
  ],
- "scene": "교실 뒤 분실물 상자 속 서로 상관없는 물건들",
+ "scene": "카페 분실물 상자 속 서로 상관없는 물건들",
  "examples": [
   {
-   "en": "Grandpa keeps a motley collection of old things in the garage.",
-   "ko": "할아버지는 차고에 서로 안 어울리는 옛날 물건들을 잡다하게 모아 두셔."
+   "en": "Our apartment has a motley collection of old mugs and plates.",
+   "ko": "우리 집엔 서로 안 어울리는 낡은 머그잔이랑 접시가 잡다하게 있어."
   }
  ],
  "quiz": [
@@ -55,7 +61,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/motley.webp",
-  "alt": "교실 뒤 분실물 상자 속 서로 상관없는 물건들",
+  "alt": "카페 분실물 상자 속 서로 상관없는 물건들",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

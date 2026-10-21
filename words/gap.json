@@ -11,15 +11,21 @@
  "word": "gap",
  "slug": "gap",
  "url": "https://hibbangyong.com/words/gap/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "틈 — 둘 사이가 벌어져서 비어 있는 자리(시간이 비거나 차이가 벌어진 것도 이렇게 불러)",
  "gloss_ko": "틈",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "줄을 섰는데 앞사람이랑 내 사이가 휑하게 벌어졌어. 그 벌어진 빈 자리, 그거 말이야.",
+  "근데 이건 물건 사이에서만 쓰는 말이 아니거든?",
+  "수업 끝나고 알바 갈 때까지 한 시간이 텅 비어도, 나랑 친구 키가 한 뼘이나 차이 나도 똑같이 그렇게 불러.",
+  "뚫려서 생긴 구멍하고는 달라. 둘 사이가 떨어져서 비는 거야. 그게 gap이야."
+ ],
+ "explanation_for_kids": [
   "줄을 섰는데 앞에 선 애랑 내 사이가 휑하게 벌어졌어. 그 벌어진 빈 자리, 그거 말이야.",
   "근데 이건 물건 사이에서만 쓰는 말이 아니거든?",
   "학교 끝나고 학원 갈 때까지 한 시간이 텅 비어도, 나랑 형 키가 한 뼘이나 떨어져 있어도 똑같이 그렇게 불러.",
@@ -28,8 +34,8 @@
  "scene": "줄 서다 앞사람과 나 사이가 휑하게 벌어진 자리",
  "examples": [
   {
-   "en": "There was a big gap between me and the kid in front of me in line.",
-   "ko": "줄에서 나랑 앞에 선 애 사이가 휑하게 벌어져 있었어."
+   "en": "There's a small gap between the train and the platform.",
+   "ko": "열차랑 승강장 사이에 작은 틈이 있어."
   }
  ],
  "quiz": [

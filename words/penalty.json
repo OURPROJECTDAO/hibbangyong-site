@@ -11,20 +11,21 @@
  "word": "penalty",
  "slug": "penalty",
  "url": "https://hibbangyong.com/words/penalty/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "벌칙 — 규칙을 어겼을 때, 미리 정해진 대로 잃는 것",
  "gloss_ko": "벌칙",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "보드게임 하다가 카드를 떨어뜨렸어. 규칙에 이러면 한 장 도로 내라고 적혀 있어.",
   "그래서 한 장 도로 냈지. 아무도 화 안 냈어. 그냥 규칙이 그랬거든?",
   "누가 화나서 혼내는 거랑은 달라. 화 안 나도, 안 미워해도, 정해진 만큼은 잃는 거야.",
   "책 늦게 냈다고 백 원 내는 것도 똑같아. 그게 penalty야."
  ],
+ "explanation_for_kids": null,
  "scene": "보드게임 중 카드를 떨어뜨려 규칙대로 한 장을 도로 내는 장면",
  "examples": [
   {

@@ -11,20 +11,21 @@
  "word": "salvation",
  "slug": "salvation",
  "url": "https://hibbangyong.com/words/salvation/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "구원 — 위험이나 실패로 무너질 뻔한 걸 건져 주는 것(살길)",
  "gloss_ko": "살길·구원",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "비가 쏟아져서 체육대회가 통째로 날아가게 생겼어. 그런데 체육관을 빌릴 수 있어서 그대로 치렀지.",
   "그때 그 체육관이 salvation이야. 무너질 뻔한 걸 건져 준 살길.",
   "사람일 수도, 물건이나 작은 기회일 수도 있어. 종교에서 말하는 '구원'도 이 단어야.",
   "그냥 좀 도와준 거랑은 달라. 그게 없었으면 진짜 망했을 때만 이렇게 불러."
  ],
+ "explanation_for_kids": null,
  "scene": "비 때문에 날아갈 뻔한 체육대회를 체육관이 살림",
  "examples": [
   {

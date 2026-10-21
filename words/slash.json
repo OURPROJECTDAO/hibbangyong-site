@@ -11,25 +11,26 @@
  "word": "slash",
  "slug": "slash",
  "url": "https://hibbangyong.com/words/slash/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "베기 — 칼 같은 날을 빠르게 한 번 길게 긋는 동작(그렇게 해서 생긴 긴 칼자국도 가리킴)",
  "gloss_ko": "휙 베기",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "게임에서 캐릭터가 검을 옆으로 휙 그어서 적을 베는 거 봤지?",
   "싸울 때만 쓰는 말은 아니야. 커터칼로 박스 테이프를 한 번에 쭉 가르는 것도 똑같아.",
   "날을 빠르게 한 번 길게 긋는 동작을 말하고, 그렇게 그어서 남은 길쭉한 칼자국도 이 말로 불러.",
   "칼끝으로 콕 찌르는 거, 위에서 쾅 내리찍는 거, 천천히 밀어서 자르는 거랑은 달라."
  ],
+ "explanation_for_kids": null,
  "scene": "게임 캐릭터가 검을 옆으로 그어 적을 베는 장면",
  "examples": [
   {
-   "en": "With one slash of the knife, he opened the heavy box.",
-   "ko": "걔가 칼로 한 번 휙 그어서 무거운 상자를 열었어."
+   "en": "I opened the delivery box with one quick slash of a box cutter.",
+   "ko": "커터칼로 한 번 휙 그어서 택배 상자를 열었어."
   }
  ],
  "quiz": [

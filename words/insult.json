@@ -11,25 +11,26 @@
  "word": "insult",
  "slug": "insult",
  "url": "https://hibbangyong.com/words/insult/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "모욕 — 누가 일부러 나를 깔보고 깎아내리려고 하는 못된 말이나 짓.",
  "gloss_ko": "모욕",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "친구가 너한테 '넌 진짜 멍청이야, 그것도 못 하냐?' 이랬다고 해봐.",
   "그 말 들으면 마음이 콕 찔리고, 나를 아래로 보는 것 같아 화나지?",
   "이렇게 누가 일부러 나를 깎아내리려고 던지는 못된 말이나 짓.",
   "그게 insult야."
  ],
+ "explanation_for_kids": null,
  "scene": "친구가 '멍청이·그것도 못하냐'며 나를 깔보는 말을 던진 장면",
  "examples": [
   {
-   "en": "When he called my drawing ugly, it was a real insult.",
-   "ko": "걔가 내 그림 못생겼다고 했을 때, 그건 진짜 모욕이었어."
+   "en": "When he laughed at my cooking, it felt like a real insult.",
+   "ko": "걔가 내 요리를 비웃었을 때 진짜 모욕처럼 느껴졌어."
   }
  ],
  "quiz": [
@@ -39,7 +40,7 @@
    "choices": [
     "\"너 그거 입으니까 진짜 못생기고 바보 같아.\"",
     "\"너 오늘 발표 정말 멋지더라!\"",
-    "\"우리 이따 같이 놀이터 갈래?\"",
+    "\"우리 이따 같이 공원 갈래?\"",
     "\"아, 진짜 짜증나!\" 하고 혼자 발을 쿵 굴렀어."
    ],
    "answer_index": 0,

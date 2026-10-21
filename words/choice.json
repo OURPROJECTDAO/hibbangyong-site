@@ -11,25 +11,26 @@
  "word": "choice",
  "slug": "choice",
  "url": "https://hibbangyong.com/words/choice/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "선택 — 고를 게 여럿 있는 것, 또는 그중에 골라 집은 것.",
  "gloss_ko": "선택",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "아이스크림 통이 두 개 있어. 딸기랑 초코. 근데 딱 하나만 먹을 수 있어.",
   "고를 게 둘이나 있지? 그럼 너한테 choice가 있는 거야. 딸기 하나뿐이면 choice가 없는 거고.",
   "골랐는데 맛이 별로였어? 그래도 그건 네 choice야. 좋은 걸 골라야만 choice인 게 아니거든.",
   "고를 게 있고, 그중에 하나를 집는 것. 그게 choice야."
  ],
+ "explanation_for_kids": null,
  "scene": "아이스크림 통 두 개(딸기·초코) 앞에서 하나만 먹어야 하는 장면",
  "examples": [
   {
-   "en": "Both games looked boring, but I still had to make a choice.",
-   "ko": "두 게임 다 지루해 보였지만 그래도 하나는 골라야 했어."
+   "en": "Both jobs paid the same, so it was a hard choice.",
+   "ko": "두 일자리 다 급여가 같아서 고르기가 어려웠어."
   }
  ],
  "quiz": [

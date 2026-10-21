@@ -11,21 +11,27 @@
  "word": "emphasize",
  "slug": "emphasize",
  "url": "https://hibbangyong.com/words/emphasize/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "강조하다 — 여럿 중에 이게 특히 중요하다고 힘을 주어 눈에 띄게 하다",
  "gloss_ko": "강조하다",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "내 장보기 쪽지에 다섯 가지가 적혀 있어. 그런데 우유 밑에만 굵게 밑줄이 두 번 쳐져 있어.",
+  "말로 할 때도 똑같아. 다른 말은 그냥 하다가 '차 조심!'에만 목소리에 힘을 꾹 주는 거지.",
+  "여러 번 말하는 거랑은 달라. 딱 한 번이어도 '이게 제일 중요해' 하고 눈에 띄게 하면 되거든.",
+  "그게 emphasize야."
+ ],
+ "explanation_for_kids": [
   "엄마 장보기 쪽지에 다섯 개가 적혀 있어. 그런데 우유에만 굵은 줄이 쫙쫙 두 번 그어져 있어.",
   "말로 할 때도 똑같아. 다른 말은 그냥 하다가 '차 조심!'에만 목소리에 힘을 꾹 주는 거지.",
   "여러 번 말하는 거랑은 달라. 딱 한 번이어도 '이게 제일 중요해' 하고 눈에 띄게 하면 되거든.",
   "그게 emphasize야."
  ],
- "scene": "엄마 장보기 쪽지에서 우유에만 굵은 줄 두 번",
+ "scene": "내 장보기 쪽지에서 우유에만 굵은 밑줄 두 번",
  "examples": [
   {
    "en": "On the shopping list, Mom emphasized milk with two thick lines.",
@@ -35,14 +41,14 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "도서관 선생님이 벽에 붙일 안내문에 규칙 네 개를 적었어. 그중 '책에 낙서하지 않기'에만 노란 형광펜을 칠하고 옆에 별표를 크게 그렸어. 선생님이 이 규칙을 'emphasize'한 거야?",
+   "question": "도서관 사서가 벽에 붙일 안내문에 규칙 네 개를 적었어. 그중 '책에 낙서하지 않기'에만 노란 형광펜을 칠하고 옆에 별표를 크게 그렸어. 사서가 이 규칙을 'emphasize'한 거야?",
    "choices": [
     "응, emphasize 맞아",
     "아니, emphasize 아니야"
    ],
    "answer_index": 0,
    "answer": "응, emphasize 맞아",
-   "why": "맞아! 선생님이 규칙 네 개 가운데 '책에 낙서하지 않기'에만 노란 형광펜을 칠하고 별표를 크게 그렸잖아. 이 규칙이 특히 중요하다고 눈에 띄게 한 거라서, 바로 그게 emphasize인 거야."
+   "why": "맞아! 사서가 규칙 네 개 가운데 '책에 낙서하지 않기'에만 노란 형광펜을 칠하고 별표를 크게 그렸잖아. 이 규칙이 특히 중요하다고 눈에 띄게 한 거라서, 바로 그게 emphasize인 거야."
   }
  ],
  "synonyms": [],
@@ -61,7 +67,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/emphasize.webp",
-  "alt": "엄마 장보기 쪽지에서 우유에만 굵은 줄 두 번",
+  "alt": "내 장보기 쪽지에서 우유에만 굵은 밑줄 두 번",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

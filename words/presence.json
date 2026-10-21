@@ -11,20 +11,21 @@
  "word": "presence",
  "slug": "presence",
  "url": "https://hibbangyong.com/words/presence/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "존재, 그 자리에 있음 — 사람이든 물건이든 바로 거기 와 있는 것",
  "gloss_ko": "거기 있음",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "빈 방에 들어갔는데, 쉿! 아무 소리도 없는데 누가 있는 것 같아. 그 '누가 여기 있다'는 느낌이야.",
   "사람만 그런 게 아니야. 우유 속 설탕, 부엌 바닥 개미도 거기 있으면 다 해당돼. 반가울 때도 있고 싫을 때도 있어.",
   "출석 부를 때 '네!' 하는 거랑은 달라. 이름 체크가 아니라 거기 와 있다는 것 자체거든.",
   "텅 빈 것의 반대, 바로 거기 있음. 이게 presence야."
  ],
+ "explanation_for_kids": null,
  "scene": "빈 방에 누가 숨어 있는 느낌",
  "examples": [
   {

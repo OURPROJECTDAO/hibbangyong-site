@@ -11,20 +11,21 @@
  "word": "pastor",
  "slug": "pastor",
  "url": "https://hibbangyong.com/words/pastor/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "목사 — 개신교 교회에서 교인들을 이끌고 돌보는 사람",
  "gloss_ko": "목사",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "교회 다니는 친구가 '우리 목사님'이라고 하는 거 들어 봤지? 그 목사님이 pastor야.",
   "일요일에 앞에 서서 설교도 하지만, 그게 다가 아니야. 아픈 교인 병원에 찾아가고, 고민 있는 사람 이야기도 들어 줘.",
   "성당의 신부님, 절의 스님이랑은 달라. 교회에 나와 설교를 듣는 교인도 아니고, 그 교인들을 이끄는 쪽이야.",
   "pastor는 원래 '양치기'라는 뜻의 옛말에서 왔어. 교인들을 양처럼 돌본다는 느낌이지."
  ],
+ "explanation_for_kids": null,
  "scene": "교회 다니는 친구가 말하는 '우리 목사님'",
  "examples": [
   {

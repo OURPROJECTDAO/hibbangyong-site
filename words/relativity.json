@@ -11,25 +11,26 @@
  "word": "relativity",
  "slug": "relativity",
  "url": "https://hibbangyong.com/words/relativity/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "상대성 이론 — 시간·공간·움직임이 어디서 보느냐(기준)에 따라 달라진다는 아인슈타인의 물리 이론. 넓게는 '기준에 따라 달라지는 성질(상대성)'",
  "gloss_ko": "상대성 이론",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "기차 안에서 공을 위로 던지면, 너한텐 공이 똑바로 올라갔다 내려와.",
   "근데 밖에 선 친구 눈엔 공이 기차랑 같이 앞으로 휘면서 날아가. 둘 다 맞게 본 거야.",
   "어디서 보느냐에 따라 움직임이 달라지고, 아인슈타인 말로는 시간까지 달라져. 이걸 다룬 이론이 relativity, 상대성 이론이야.",
   "물리 밖에서도 기준 따라 달라지는 성질을 이렇게 불러. 다만 그냥 취향이 다른 거랑은 달라. 기준이 바뀌면 재는 값 자체가 바뀌는 거야."
  ],
+ "explanation_for_kids": null,
  "scene": "달리는 기차 안에서 위로 던진 공을 안과 밖에서 다르게 보는 장면",
  "examples": [
   {
-   "en": "My brother read a book about relativity, and now he keeps talking about trains and clocks.",
-   "ko": "형이 상대성 이론 책을 읽더니, 요즘 계속 기차랑 시계 얘기만 해."
+   "en": "My roommate read a book on relativity and won't stop talking about time.",
+   "ko": "룸메이트가 상대성 이론 책을 읽더니 계속 시간 얘기만 해."
   }
  ],
  "quiz": [

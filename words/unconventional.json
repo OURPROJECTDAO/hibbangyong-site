@@ -11,15 +11,21 @@
  "word": "unconventional",
  "slug": "unconventional",
  "url": "https://hibbangyong.com/words/unconventional/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "틀에서 벗어난 — 사람들이 보통 하는 방식과 많이 다른 (좋은지 나쁜지와는 상관없어)",
  "gloss_ko": "틀을 벗어난",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "다들 자격증 책 1단원부터 공부하는데, 민지는 기출문제부터 거꾸로 풀어. 잘될지 망할지는 아직 아무도 몰라.",
+  "핵심은 '남들이 보통 하는 방식'에서 많이 벗어났다는 거야. 공부법이든 옷이든 생각이든 다 돼.",
+  "그냥 '새로운' 거랑은 달라. 새로 나온 앱을 쓴다고 이 말이 되진 않거든.",
+  "'이상한' 거랑도 달라. 실수로 이상해진 게 아니라, 하는 방식 자체가 틀 밖에 있는 거야."
+ ],
+ "explanation_for_kids": [
   "다들 교과서 1단원부터 공부하는데, 민지는 기출문제부터 거꾸로 풀어. 잘될지 망할지는 아직 아무도 몰라.",
   "핵심은 '남들이 보통 하는 방식'에서 많이 벗어났다는 거야. 공부법이든 옷이든 생각이든 다 돼.",
   "그냥 '새로운' 거랑은 달라. 새로 나온 앱을 쓴다고 이 말이 되진 않거든.",
@@ -28,8 +34,8 @@
  "scene": "기출문제부터 거꾸로 푸는 공부법",
  "examples": [
   {
-   "en": "The coach's unconventional plan confused the players at first.",
-   "ko": "코치가 남들은 안 쓰는 방식으로 작전을 짜서, 처음엔 선수들이 어리둥절했어."
+   "en": "My boss has an unconventional way of running meetings.",
+   "ko": "우리 팀장님은 회의를 남들이랑 많이 다르게 진행해."
   }
  ],
  "quiz": [

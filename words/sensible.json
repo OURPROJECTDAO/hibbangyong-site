@@ -11,25 +11,31 @@
  "word": "sensible",
  "slug": "sensible",
  "url": "https://hibbangyong.com/words/sensible/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "슬기로운 — 괜히 무리하거나 바보 같은 짓 안 하고, 상황에 딱 맞게 똑똑하게 정하고 행동하는",
  "gloss_ko": "바보짓 안 하는",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "여행 가는 날, 어떤 사람은 제일 멋진 새 신발 신고 왔다가 발 아파서 쩔쩔매.",
+  "넌 '많이 걸을 거니까 편한 신발 신자' 하고 딱 알맞은 걸 골라. 겉멋 부리거나 괜히 무리하는 게 아니라, 상황 보고 똑똑하게 정하는 거야.",
+  "책 많이 읽어서 아는 게 많은 거랑은 좀 달라. 진짜 상황에서 바보 같은 짓 안 하고 알맞게 굴 줄 아는 거거든.",
+  "그게 sensible이야."
+ ],
+ "explanation_for_kids": [
   "소풍 가는 날, 어떤 애는 제일 멋진 새 신발 신고 왔다가 발 아파서 쩔쩔매.",
   "넌 '많이 걸을 거니까 편한 신발 신자' 하고 딱 알맞은 걸 골라. 겉멋 부리거나 괜히 무리하는 게 아니라, 상황 보고 똑똑하게 정하는 거야.",
   "책 많이 읽어서 아는 게 많은 거랑은 좀 달라. 진짜 상황에서 바보 같은 짓 안 하고 알맞게 굴 줄 아는 거거든.",
   "그게 sensible이야."
  ],
- "scene": "소풍날 멀리 걸을 걸 알고 편한 신발을 고르는 아이",
+ "scene": "여행날 멀리 걸을 걸 알고 편한 신발을 고르는 사람",
  "examples": [
   {
-   "en": "It's sensible to finish your homework before you start playing.",
-   "ko": "놀기 전에 숙제부터 끝내 놓는 건 상황에 딱 맞게 잘 정한 거지."
+   "en": "It's sensible to finish your work before you start playing games.",
+   "ko": "게임 시작하기 전에 할 일부터 끝내는 게 현명해."
   }
  ],
  "quiz": [
@@ -63,7 +69,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/sensible.webp",
-  "alt": "소풍날 멀리 걸을 걸 알고 편한 신발을 고르는 아이",
+  "alt": "여행날 멀리 걸을 걸 알고 편한 신발을 고르는 사람",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

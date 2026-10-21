@@ -11,38 +11,39 @@
  "word": "sauce",
  "slug": "sauce",
  "url": "https://hibbangyong.com/words/sauce/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "소스 — 음식이랑 같이 먹으려고 만든 걸쭉하거나 묽은 물. 위에 붓거나, 찍거나, 비벼서 맛을 더해 (케첩·간장·초콜릿 소스처럼)",
  "gloss_ko": "소스",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "스파게티에 쓱쓱 비빈 빨간 토마토, 만두를 콕 찍는 간장, 아이스크림 위에 주르륵 흐르는 초콜릿 봐봐.",
   "셋 다 음식이랑 같이 먹으려고 만든 물이야. 걸쭉하든 묽든 괜찮아.",
   "위에 붓든, 찍든, 비비든 다 돼. 짜든 달든 상관없어.",
   "근데 국처럼 그것만 숟가락으로 떠먹는 거나, 소금처럼 가루인 건 아니야. 음식 맛을 살려 주는 그 물, 그게 sauce야."
  ],
+ "explanation_for_kids": null,
  "scene": "스파게티에 비빈 토마토·만두 찍는 간장·아이스크림 위 초콜릿",
  "examples": [
   {
-   "en": "Dad stirred the tomato sauce into my spaghetti.",
-   "ko": "아빠가 내 스파게티에 토마토 소스를 넣고 쓱쓱 섞어 줬어."
+   "en": "I ordered extra garlic sauce with my fries.",
+   "ko": "감자튀김에 곁들일 갈릭 소스를 추가로 시켰어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "엄마가 돈가스를 접시에 담고, 그 위에 갈색의 걸쭉한 물을 주르륵 부어 줬어. 돈가스랑 같이 먹으라고 만든 거야. 이 갈색 물이 'sauce'야?",
+   "question": "친구가 돈가스를 접시에 담고, 그 위에 갈색의 걸쭉한 물을 주르륵 부어 줬어. 돈가스랑 같이 먹으라고 만든 거야. 이 갈색 물이 'sauce'야?",
    "choices": [
     "응, sauce 맞아",
     "아니, sauce 아니야"
    ],
    "answer_index": 0,
    "answer": "응, sauce 맞아",
-   "why": "맞아! 엄마가 돈가스 위에 부어 준 갈색 물은 돈가스랑 같이 먹으라고 만든 거잖아. 걸쭉해도 괜찮고, 위에 부어도 되니까 바로 그게 sauce인 거야."
+   "why": "맞아! 친구가 돈가스 위에 부어 준 갈색 물은 돈가스랑 같이 먹으라고 만든 거잖아. 걸쭉해도 괜찮고, 위에 부어도 되니까 바로 그게 sauce인 거야."
   }
  ],
  "synonyms": [],

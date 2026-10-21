@@ -11,25 +11,31 @@
  "word": "prolific",
  "slug": "prolific",
  "url": "https://hibbangyong.com/words/prolific/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "다작하는(아주 많이 만들어 내는) — 작품이나 결과를 오랫동안 꾸준히, 아주 많이 만들어 내는",
  "gloss_ko": "작품을 많이 내는",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "동기 중에 웹툰을 매주 세 편씩 올리는 애가 있어. 잘 그린 것도 있고 대충 그린 것도 있어.",
+  "prolific은 이렇게 뭔가를 꾸준히, 엄청 많이 만들어 내는 거야.",
+  "잘 만든다는 뜻은 아니야. 좋든 나쁘든 양이 많다는 말이지. 바쁘기만 하고 나온 게 없으면 그것도 아니고.",
+  "그래서 골을 계속 넣는 선수한테도 쓰고, 도둑질을 수없이 한 도둑한테도 써."
+ ],
+ "explanation_for_kids": [
   "우리 반에 웹툰을 매주 세 편씩 올리는 애가 있어. 잘 그린 것도 있고 대충 그린 것도 있어.",
   "prolific은 이렇게 뭔가를 꾸준히, 엄청 많이 만들어 내는 거야.",
   "잘 만든다는 뜻은 아니야. 좋든 나쁘든 양이 많다는 말이지. 바쁘기만 하고 나온 게 없으면 그것도 아니고.",
   "그래서 골을 계속 넣는 선수한테도 쓰고, 도둑질을 수없이 한 도둑한테도 써."
  ],
- "scene": "매주 웹툰을 세 편씩 올리는 반 친구",
+ "scene": "매주 웹툰을 세 편씩 올리는 동기",
  "examples": [
   {
-   "en": "She is a prolific writer who has written more than fifty books for kids.",
-   "ko": "그 작가는 어린이 책을 쉰 권 넘게 쓴, 정말 책을 많이 내는 사람이야."
+   "en": "My favorite author is really prolific and writes three books a year.",
+   "ko": "내가 제일 좋아하는 작가는 정말 다작해서 1년에 책을 세 권씩 써."
   }
  ],
  "quiz": [
@@ -63,7 +69,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/prolific.webp",
-  "alt": "매주 웹툰을 세 편씩 올리는 반 친구",
+  "alt": "매주 웹툰을 세 편씩 올리는 동기",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

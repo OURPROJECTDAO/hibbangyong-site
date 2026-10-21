@@ -11,23 +11,24 @@
  "word": "balloon",
  "slug": "balloon",
  "url": "https://hibbangyong.com/words/balloon/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "풍선 — 공기나 가스를 넣어 둥글게 부풀린 고무 주머니",
  "gloss_ko": "풍선",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "공기를 불어 넣으면 둥글게 커지는 고무 주머니예요. 가벼운 가스를 넣으면 위로 둥실 떠올라요.",
   "생일이나 파티에서 벽이나 천장을 꾸밀 때 자주 보게 돼요."
  ],
+ "explanation_for_kids": null,
  "scene": "실 하나가 달린 반짝이는 빨간색 고무 풍선 한 개가 공중에 둥실 떠 있는 모습",
  "examples": [
   {
-   "en": "She held the red balloon by its string at the party.",
-   "ko": "파티에서 그 애는 빨간 풍선 끈을 잡고 있었어."
+   "en": "We tied a balloon to her chair for her birthday.",
+   "ko": "걔 생일이라 의자에 풍선을 묶어 뒀어."
   }
  ],
  "quiz": [

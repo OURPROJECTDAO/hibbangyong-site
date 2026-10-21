@@ -11,23 +11,27 @@
  "word": "toilet",
  "slug": "toilet",
  "url": "https://hibbangyong.com/words/toilet/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "변기 — 볼일을 본 뒤 물을 내려 씻어 보내는 화장실 도구",
  "gloss_ko": "변기",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "하얀 도자기로 만든 이것은 화장실에서 볼일을 보는 변기예요.",
+  "집이나 회사 화장실에 가면 이 변기에 앉아서 볼일을 봐요."
+ ],
+ "explanation_for_kids": [
   "하얀 도자기로 만든 이것은 화장실에서 볼일을 보는 변기예요.",
   "집이나 학교 화장실에 가면 이 변기에 앉아서 볼일을 봐요."
  ],
- "scene": "뚜껑이 열린 하얀 도기 양변기 한 개(수세식 변기)를 정면에서 크게 — 화장실 변기 뜻을 그림",
+ "scene": "뚜껑이 열린 하얀 도기 양변기 한 개(수세식 변기)를 정면에서 크게",
  "examples": [
   {
-   "en": "I need to use the toilet before we go out.",
-   "ko": "나가기 전에 나 화장실 좀 가야 해."
+   "en": "The toilet at work is broken again.",
+   "ko": "회사 변기가 또 고장 났어."
   }
  ],
  "quiz": [
@@ -58,7 +62,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/toilet.webp",
-  "alt": "뚜껑이 열린 하얀 도기 양변기 한 개(수세식 변기)를 정면에서 크게 — 화장실 변기 뜻을 그림",
+  "alt": "뚜껑이 열린 하얀 도기 양변기 한 개(수세식 변기)를 정면에서 크게",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

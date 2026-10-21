@@ -11,25 +11,26 @@
  "word": "presume",
  "slug": "presume",
  "url": "https://hibbangyong.com/words/presume/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "확인은 안 했지만 그럴 거라고 여기고, 그게 맞는 것처럼 말하거나 행동하는 것",
  "gloss_ko": "그럴 거라고 여기다",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "확인은 안 했는데, 그럴 것 같으면 그냥 그렇다고 치고 넘어갈 때 있지?",
   "형이 왔나 안 왔나 방문 열어보지도 않고, 왔겠거니 하고 형! 하고 불러버리는 거야.",
   "좋은 쪽만도 아니야. 소식이 뚝 끊긴 배를 두고 다들 그 사람들 못 돌아왔겠거니 여기기도 하거든.",
   "찍어보는 거랑은 달라. 찍기는 틀려도 그만이지만, 이건 맞다 치고 그다음을 해버리는 거야. 이게 presume이야."
  ],
+ "explanation_for_kids": null,
  "scene": "방문을 열어보지도 않고 형이 왔겠거니 하고 부르는 현관 장면",
  "examples": [
   {
-   "en": "His shoes were by the door, so I presumed he was home — but the room was empty.",
-   "ko": "그의 신발이 문 앞에 있어서 집에 있겠거니 여겼는데 방은 비어 있었어."
+   "en": "His shoes are by the door, so I presume he's home, but his room's empty.",
+   "ko": "신발이 문 앞에 있으니 집에 있겠지 싶은데, 방은 비어 있어."
   }
  ],
  "quiz": [

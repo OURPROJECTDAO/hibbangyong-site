@@ -11,15 +11,21 @@
  "word": "potent",
  "slug": "potent",
  "url": "https://hibbangyong.com/words/potent/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "강력한 — 몸이나 마음에 미치는 효과가 센",
  "gloss_ko": "효과가 센",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "매운 소스를 딱 한 방울 넣었는데 국 전체가 불나는 맛이 됐어.",
+  "양은 조금인데 몸에 오는 효과가 엄청 센 거지. 그게 potent야.",
+  "마음에 오는 것도 돼. 짧은 말 한마디가 모임 분위기를 확 바꾸면 그 말도 potent해.",
+  "근데 팔 힘이 센 사람이나 양이 많은 거랑은 달라. 조금만 써도 세게 먹히는 쪽이야."
+ ],
+ "explanation_for_kids": [
   "매운 소스를 딱 한 방울 넣었는데 국 전체가 불나는 맛이 됐어.",
   "양은 조금인데 몸에 오는 효과가 엄청 센 거지. 그게 potent야.",
   "마음에 오는 것도 돼. 짧은 말 한마디가 반 분위기를 확 바꾸면 그 말도 potent해.",
@@ -29,7 +35,7 @@
  "examples": [
   {
    "en": "Just one short speech was potent enough to change the whole class's mind.",
-   "ko": "짧은 연설 하나가 반 애들 생각을 싹 바꿀 만큼 강력했어."
+   "ko": "짧은 연설 하나가 반 전체 생각을 바꿀 만큼 강력했어."
   }
  ],
  "quiz": [

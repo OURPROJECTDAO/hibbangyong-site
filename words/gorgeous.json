@@ -11,20 +11,21 @@
  "word": "gorgeous",
  "slug": "gorgeous",
  "url": "https://hibbangyong.com/words/gorgeous/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "'와' 소리가 절로 튀어나올 만큼 끝내주게 좋은 — 그냥 좋은 정도가 아닌",
  "gloss_ko": "끝내주게 좋은",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "빵집 앞을 지나가는데, 발이 저절로 딱 멈췄어.",
   "냄새가 그냥 좋은 게 아니라, 나도 모르게 '와' 소리가 튀어나오는 거 있지?",
   "이 '와'는 아무 데나 다 붙어. 냄새도, 노을도, 옷도, 목소리도, 접시에 담긴 밥 한 그릇도. 대신 무섭거나 깜짝 놀라서 나오는 '와'는 아니야. 너무 좋아서 나오는 '와'야.",
   "그게 gorgeous야."
  ],
+ "explanation_for_kids": null,
  "scene": "빵집 앞에서 발이 저절로 멈춘 냄새 장면",
  "examples": [
   {

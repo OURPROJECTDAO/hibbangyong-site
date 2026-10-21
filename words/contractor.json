@@ -11,25 +11,26 @@
  "word": "contractor",
  "slug": "contractor",
  "url": "https://hibbangyong.com/words/contractor/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "계약업자(돈 받고 일을 맡아 해 주는 사람) — 돈을 받고 남(회사·학교 등)의 일을 맡아서 해 주기로 약속한 사람이나 회사",
  "gloss_ko": "돈 받고 일 맡는 곳",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "학교에 새 앱이 필요해. 그런데 선생님들이 직접 만들 수는 없어서 바깥 회사에 맡겨.",
   "얼마를 주고 언제까지 끝낼지 서로 약속해. 그렇게 약속하고 일을 맡은 쪽이 contractor야.",
   "집 공사하는 업체만 그런 게 아니야. 급식 업체든 청소 업체든 앱 만드는 사람이든, 약속하고 일을 맡았으면 다 contractor야.",
   "학교 직원이랑은 달라. 직원은 학교에 소속된 사람이고, contractor는 바깥에 있다가 그 일만 맡아 온 쪽이야."
  ],
+ "explanation_for_kids": null,
  "scene": "학교가 새 앱 제작을 바깥 회사에 맡김",
  "examples": [
   {
-   "en": "The school hired a contractor to build its new app.",
-   "ko": "학교가 새 앱 만드는 일을 바깥 업체한테 따로 맡겼어."
+   "en": "Our college hired a contractor to build its new app.",
+   "ko": "우리 대학이 새 앱 만드는 일을 외부 업체에 맡겼어."
   }
  ],
  "quiz": [

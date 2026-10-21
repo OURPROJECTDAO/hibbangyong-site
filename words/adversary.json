@@ -11,38 +11,39 @@
  "word": "adversary",
  "slug": "adversary",
  "url": "https://hibbangyong.com/words/adversary/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "적수 — 싸움이나 경쟁에서 나와 맞서는 상대(사람·팀·나라 모두)",
  "gloss_ko": "맞서는 상대",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "체스 결승이든 법정 다툼이든 두 나라 전쟁이든, 나를 꺾으려고 맞은편에 서 있는 쪽이 있어.",
   "그쪽은 한 사람일 수도 있고, 팀이나 회사, 나라일 수도 있어.",
   "서로 미워하는 적일 수도 있지만, 경기 끝나고 악수하는 친구일 수도 있어.",
   "기준은 감정이 아니라 서 있는 자리야. 같은 편이나 구경꾼은 아무리 가까이 있어도 아니야."
  ],
+ "explanation_for_kids": null,
  "scene": "체스 결승에서 맞은편에 선 상대",
  "examples": [
   {
-   "en": "In the final, my adversary was my best friend from my class.",
-   "ko": "결승에서 내가 맞붙은 상대가 같은 반 제일 친한 친구였어."
+   "en": "My adversary in the final round was my own roommate.",
+   "ko": "결승에서 맞붙은 상대가 바로 내 룸메이트였어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "학급 회장 선거에서 민지와 나, 둘만 후보로 나왔어. 민지는 나를 이기려고 같은 반 친구들의 표를 놓고 나와 겨루고 있어. 이때 민지는 나에게 'adversary'야?",
+   "question": "동호회 회장 선거에서 민지와 나, 둘만 후보로 나왔어. 민지는 나를 이기려고 동호회 사람들의 표를 놓고 나와 겨루고 있어. 이때 민지는 나에게 'adversary'야?",
    "choices": [
     "응, adversary 맞아",
     "아니, adversary 아니야"
    ],
    "answer_index": 0,
    "answer": "응, adversary 맞아",
-   "why": "맞아! 민지는 같은 반 친구들의 표를 놓고 나를 이기려고 맞은편에 서 있잖아. 그 자리에 선 사람이 바로 adversary야."
+   "why": "맞아! 민지는 동호회 사람들의 표를 놓고 나를 이기려고 맞은편에 서 있잖아. 그 자리에 선 사람이 바로 adversary야."
   }
  ],
  "synonyms": [],

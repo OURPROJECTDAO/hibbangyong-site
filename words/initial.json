@@ -11,25 +11,31 @@
  "word": "initial",
  "slug": "initial",
  "url": "https://hibbangyong.com/words/initial/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "처음의 — 어떤 일이 막 시작될 때의 (나중엔 바뀔 수도 있는)",
  "gloss_ko": "맨 처음의",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "새 회사 첫날, 사무실 문 딱 열었을 때 맨 먼저 든 생각 있지? '와, 사람 엄청 많다!'",
+  "근데 그 생각, 한 달 지나면 싹 바뀌어. 이제 하나도 안 많아 보이거든?",
+  "처음 든 생각이 끝까지 가는 것도, 제일 좋은 것도 아니야. 그냥 일이 막 시작될 때 든 거야.",
+  "무슨 일이 막 시작될 때의 생각이나 모습. 그게 initial이야."
+ ],
+ "explanation_for_kids": [
   "새 학교 첫날, 교실 문 딱 열었을 때 맨 먼저 든 생각 있지? '우와, 애들 엄청 많다!'",
   "근데 그 생각, 한 달 지나면 싹 바뀌어. 이제 하나도 안 많아 보이거든?",
   "처음 든 생각이 끝까지 가는 것도, 제일 좋은 것도 아니야. 그냥 일이 막 시작될 때 든 거야.",
   "무슨 일이 막 시작될 때의 생각이나 모습. 그게 initial이야."
  ],
- "scene": "새 학교 첫날 교실 문 열고 든 맨 처음 생각",
+ "scene": "새 회사 첫날 사무실 문 열고 든 맨 처음 생각",
  "examples": [
   {
-   "en": "My initial idea was to paint the wall blue, but then I changed my mind and picked red.",
-   "ko": "처음엔 벽을 파랑으로 칠하려 했는데, 마음이 바뀌어서 빨강을 골랐어."
+   "en": "My initial plan was to paint the wall blue, but I went with red.",
+   "ko": "처음엔 벽을 파랑으로 칠하려 했는데, 결국 빨강으로 했어."
   }
  ],
  "quiz": [
@@ -57,7 +63,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/initial.webp",
-  "alt": "새 학교 첫날 교실 문 열고 든 맨 처음 생각",
+  "alt": "새 회사 첫날 사무실 문 열고 든 맨 처음 생각",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

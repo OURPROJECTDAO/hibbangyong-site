@@ -11,20 +11,21 @@
  "word": "growth",
  "slug": "growth",
  "url": "https://hibbangyong.com/words/growth/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "성장 — 크기나 수, 양이 점점 불어나는 것",
  "gloss_ko": "커지고 불어남",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "마당에 잡초가 여기 쑥, 저기 쑥! 며칠 만에 수도 늘고 키도 커졌어.",
   "저금통 동전이 불어나는 것도, 동네에 집이 많아지는 것도 똑같은 거야. 좋은 일만 그런 게 아니야.",
   "근데 그냥 모양이 달라진 건 아니야. 크기나 수가 불어나야 하거든? 줄어드는 건 정반대고.",
   "그게 growth야."
  ],
+ "explanation_for_kids": null,
  "scene": "마당 잡초가 며칠 새 번지고 커짐",
  "examples": [
   {
@@ -35,14 +36,14 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "우리 학교 학생 수가 작년엔 300명이었는데 올해는 400명이 됐어. 학생 수가 이렇게 된 걸 'growth'라고 할 수 있을까?",
+   "question": "우리 회사 직원 수가 작년엔 300명이었는데 올해는 400명이 됐어. 직원 수가 이렇게 된 걸 'growth'라고 할 수 있을까?",
    "choices": [
     "응, growth 맞아",
     "아니, growth 아니야"
    ],
    "answer_index": 0,
    "answer": "응, growth 맞아",
-   "why": "맞아! 우리 학교 학생이 300명에서 400명으로 100명이나 더 많아졌잖아. 이렇게 수가 불어난 거니까 바로 그게 growth인 거야."
+   "why": "맞아! 우리 회사 직원이 300명에서 400명으로 100명이나 더 많아졌잖아. 이렇게 수가 불어난 거니까 바로 그게 growth인 거야."
   }
  ],
  "synonyms": [

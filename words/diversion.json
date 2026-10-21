@@ -11,15 +11,21 @@
  "word": "diversion",
  "slug": "diversion",
  "url": "https://hibbangyong.com/words/diversion/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "전환 — 원래 가던 방향이나 쓰이던 곳에서 다른 쪽으로 돌리는 것",
  "gloss_ko": "방향 돌리기",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "공사로 길이 막히면 경찰이 차들을 옆길로 보내잖아.",
+  "강물 일부를 마른 논으로 빼 주는 것도, 모임 회비를 원래 계획과 다른 데 쓰는 것도 같은 거야.",
+  "흐름은 그대로 이어지는데 가는 곳만 딴 데로 바뀌어. 이게 diversion이야.",
+  "그냥 막아서 멈추게 하는 거랑은 달라. 멈추는 게 아니라 방향이 바뀌는 거야."
+ ],
+ "explanation_for_kids": [
   "공사로 길이 막히면 경찰이 차들을 옆길로 보내잖아.",
   "강물 일부를 마른 논으로 빼 주는 것도, 반 회비를 원래 계획과 다른 데 쓰는 것도 같은 거야.",
   "흐름은 그대로 이어지는데 가는 곳만 딴 데로 바뀌어. 이게 diversion이야.",
@@ -29,7 +35,7 @@
  "examples": [
   {
    "en": "The diversion of river water helped the farmers in the dry season.",
-   "ko": "강물을 논 쪽으로 돌려 준 덕분에 가뭄 때 농부들이 큰 도움을 받았어."
+   "ko": "강물을 다른 쪽으로 돌린 덕분에 농부들이 가뭄 때 도움을 받았어."
   }
  ],
  "quiz": [

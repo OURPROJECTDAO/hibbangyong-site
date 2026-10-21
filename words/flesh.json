@@ -11,20 +11,21 @@
  "word": "flesh",
  "slug": "flesh",
  "url": "https://hibbangyong.com/words/flesh/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "살 — 사람이나 동물 몸에서 피부 밑, 뼈 바깥을 채우고 있는 부분",
  "gloss_ko": "살",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "네 팔을 손가락으로 꾹 눌러 봐. 뭔가 두툼하게 들어가지?",
   "겉에 있는 얇은 피부 말고, 그 밑이야. 딱딱한 뼈까지 가기 전에 차 있는 부분이거든.",
   "사람한테도, 강아지한테도, 물고기한테도 다 있어. 사과 껍질 밑에 먹는 부분도 이렇게 불러.",
   "피부랑도 다르고 뼈랑도 달라. 그게 flesh야."
  ],
+ "explanation_for_kids": null,
  "scene": "팔을 손가락으로 꾹 눌러 보기",
  "examples": [
   {

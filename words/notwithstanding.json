@@ -11,25 +11,31 @@
  "word": "notwithstanding",
  "slug": "notwithstanding",
  "url": "https://hibbangyong.com/words/notwithstanding/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "~에도 불구하고 — 앞에 그런 일이 있었는데도 뒤의 일이 바뀌지 않고 그대로 일어났다는 걸 이어 주는 말",
  "gloss_ko": "~에도 불구하고",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "비가 쏟아졌는데도 야외 공연은 예정대로 했어.",
+  "notwithstanding은 이 '그런데도'를 잇는 말이야. 앞에 어떤 일이 있었는데, 뒤의 일은 그것 때문에 바뀌지 않은 거지.",
+  "앞에 오는 게 좋은 일이어도 똑같아. 실적이 1등인데도 대표로 뽑히지 못했다, 이런 식으로.",
+  "'때문에'랑은 정반대야. 앞의 일이 뒤의 일을 만든 게 아니라, 앞의 일이 있었는데도 뒤의 일은 그대로 일어난 거야."
+ ],
+ "explanation_for_kids": [
   "비가 쏟아졌어. 그래도 체육대회는 예정대로 했어.",
   "notwithstanding은 이 '그런데도'를 잇는 말이야. 앞에 어떤 일이 있었는데, 뒤의 일은 그것 때문에 바뀌지 않은 거지.",
   "앞에 오는 게 좋은 일이어도 똑같아. 성적이 1등인데도 대표로 뽑히지 못했다, 이런 식으로.",
   "'때문에'랑은 정반대야. 앞의 일이 뒤의 일을 만든 게 아니라, 앞의 일이 있었는데도 뒤의 일은 그대로 일어난 거야."
  ],
- "scene": "비가 쏟아졌는데도 예정대로 한 체육대회",
+ "scene": "비가 쏟아졌는데도 예정대로 한 야외 공연",
  "examples": [
   {
-   "en": "Notwithstanding his father's advice, Minho chose the art club.",
-   "ko": "아빠가 다른 걸 권했는데도 민호는 미술 동아리를 골랐어."
+   "en": "Notwithstanding his father's advice, Minho chose to major in art.",
+   "ko": "아빠가 다른 걸 권했는데도 민호는 미술 전공을 골랐어."
   }
  ],
  "quiz": [
@@ -63,7 +69,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/notwithstanding.webp",
-  "alt": "비가 쏟아졌는데도 예정대로 한 체육대회",
+  "alt": "비가 쏟아졌는데도 예정대로 한 야외 공연",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

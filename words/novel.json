@@ -11,23 +11,27 @@
  "word": "novel",
  "slug": "novel",
  "url": "https://hibbangyong.com/words/novel/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "소설 — 긴 이야기를 글로 담은 두꺼운 책",
  "gloss_ko": "소설",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "이건 긴 이야기가 글로 가득 채워진 두꺼운 책이에요.",
+  "만화책보다 글이 훨씬 많아서 여러 날에 걸쳐 조금씩 나눠 읽어요."
+ ],
+ "explanation_for_kids": [
   "이건 긴 이야기가 글로 가득 채워진 두꺼운 책이에요.",
   "그림책보다 글이 훨씬 많아서 여러 날에 걸쳐 조금씩 나눠 읽어요."
  ],
  "scene": "책상 위에 놓인 두툼한 이야기책(소설책) 한 권 — 리본 책갈피가 끼워진 두꺼운 양장본",
  "examples": [
   {
-   "en": "My sister is reading a long novel about a girl and her dragon.",
-   "ko": "누나는 여자아이랑 용 이야기가 담긴 긴 소설을 읽고 있어."
+   "en": "I read a novel on the subway to work.",
+   "ko": "출근하는 지하철에서 소설을 읽어."
   }
  ],
  "quiz": [

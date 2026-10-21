@@ -11,38 +11,44 @@
  "word": "constitute",
  "slug": "constitute",
  "url": "https://hibbangyong.com/words/constitute/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "이루다 — 이게 곧 그거야. 새로 만들어 낸 게 아니라, 그게 있으면 바로 그것에 해당해. 전부를 이룰 수도, 그중 얼마쯤을 이룰 수도 있어.",
  "gloss_ko": "이루다",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "도서관에서 크게 떠들었어. 그 떠든 게 곧 규칙 어긴 거야. 규칙 어긴 게 어디 따로 있는 게 아니거든?",
+  "여럿이 모여도 그래. 우리 팀 스무 명, 그 스무 명이 곧 우리 팀이야. 누가 팀을 새로 만들어 낸 게 아니야.",
+  "꼭 전부여야 하는 것도 아니야. 그중 다섯은 우리 팀의 사분의 일이야. 딱 그만큼을 이루는 거지.",
+  "새로 생겨나게 한 게 아니라, 이게 곧 그거다 하고 딱 맞아떨어지는 거. 그게 constitute야."
+ ],
+ "explanation_for_kids": [
   "복도에서 막 뛰었어. 그 뛴 게 곧 규칙 어긴 거야. 규칙 어긴 게 어디 따로 있는 게 아니거든?",
   "여럿이 모여도 그래. 우리 반 스무 명, 그 스무 명이 곧 우리 반이야. 누가 반을 새로 만들어 낸 게 아니야.",
   "꼭 전부여야 하는 것도 아니야. 그중 다섯은 우리 반의 사분의 일이야. 딱 그만큼을 이루는 거지.",
   "새로 생겨나게 한 게 아니라, 이게 곧 그거다 하고 딱 맞아떨어지는 거. 그게 constitute야."
  ],
- "scene": "복도에서 뛴 그 행동이 곧 규칙 위반인 장면",
+ "scene": "도서관에서 떠든 그 행동이 곧 규칙 위반인 장면",
  "examples": [
   {
-   "en": "Boys constitute half of our soccer club.",
-   "ko": "우리 축구부는 절반이 남자애들이야."
+   "en": "Men constitute half of our weekend soccer club.",
+   "ko": "우리 주말 축구 모임은 절반이 남자야."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "급식실에서 우리 학교 학생 삼백 명이 밥을 먹어. 그 삼백 명이 우리 학교 전교생이야. 이게 'constitute'야?",
+   "question": "식당에서 우리 회사 직원 삼백 명이 밥을 먹어. 그 삼백 명이 우리 회사 전 직원이야. 이게 'constitute'야?",
    "choices": [
     "응, constitute 맞아",
     "아니, constitute 아니야"
    ],
    "answer_index": 0,
    "answer": "응, constitute 맞아",
-   "why": "맞아! 삼백 명 말고 전교생이 따로 있는 게 아니거든. 그 삼백 명이 곧 전교생인 거야. 스무 명이 곧 우리 반인 거랑 똑같지."
+   "why": "맞아! 삼백 명 말고 전 직원이 따로 있는 게 아니거든. 그 삼백 명이 곧 전 직원인 거야. 스무 명이 곧 우리 팀인 거랑 똑같지."
   }
  ],
  "synonyms": [
@@ -57,7 +63,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/constitute.webp",
-  "alt": "복도에서 뛴 그 행동이 곧 규칙 위반인 장면",
+  "alt": "도서관에서 떠든 그 행동이 곧 규칙 위반인 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

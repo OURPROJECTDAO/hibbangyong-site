@@ -11,25 +11,31 @@
  "word": "transcript",
  "slug": "transcript",
  "url": "https://hibbangyong.com/words/transcript/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "말을 옮겨 적은 글(녹취록) — 누가 한 말을 글로 옮겨 적은 것",
  "gloss_ko": "말을 옮긴 글",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "교수님이 온라인 강의 끝나고, 강의 시간에 한 말을 글로 쭉 올려 줬어.",
+  "누가 이미 한 말을 글자로 그대로 옮겨 놓은 것, 그게 transcript야.",
+  "강의, 인터뷰, 회의, 재판처럼 말이 오간 자리라면 어디서든 만들어져.",
+  "내 말로 줄인 요약이나 말하기 전에 미리 써 둔 대본은 아니야. 한 말을 받아 적은 글이야."
+ ],
+ "explanation_for_kids": [
   "선생님이 온라인 수업 끝나고, 수업 시간에 한 말을 글로 쭉 올려 줬어.",
   "누가 이미 한 말을 글자로 그대로 옮겨 놓은 것, 그게 transcript야.",
   "수업, 인터뷰, 회의, 재판처럼 말이 오간 자리라면 어디서든 만들어져.",
   "내 말로 줄인 요약이나 말하기 전에 미리 써 둔 대본은 아니야. 한 말을 받아 적은 글이야."
  ],
- "scene": "온라인 수업에서 한 말을 글로 올려 준 것",
+ "scene": "온라인 강의에서 한 말을 글로 올려 준 것",
  "examples": [
   {
-   "en": "The teacher posted a transcript of today's online class.",
-   "ko": "선생님이 오늘 온라인 수업에서 한 말을 글로 옮겨서 올려 주셨어."
+   "en": "The professor posted a transcript of today's online class.",
+   "ko": "교수님이 오늘 온라인 강의 녹취록을 올려 주셨어."
   }
  ],
  "quiz": [
@@ -57,7 +63,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/transcript.webp",
-  "alt": "온라인 수업에서 한 말을 글로 올려 준 것",
+  "alt": "온라인 강의에서 한 말을 글로 올려 준 것",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

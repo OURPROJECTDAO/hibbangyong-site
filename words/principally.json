@@ -11,25 +11,31 @@
  "word": "principally",
  "slug": "principally",
  "url": "https://hibbangyong.com/words/principally/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "주로 — 여러 가지가 섞여 있지만 그중 가장 큰 몫이나 가장 큰 이유가 되는 쪽",
  "gloss_ko": "주로",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "아침 7시 반 그 버스, 타는 사람 거의 다 우리 대학 학생들이야. 가끔 회사원 아저씨도 타고.",
+  "그래도 누가 \"그 버스 누가 타?\" 물으면 답은 \"우리 대학 학생들\"이지. 여럿이 섞여 있을 때 그중 제일 큰 쪽을 짚는 말이 principally야.",
+  "사람 수만 말하는 게 아니야. 이유가 여러 개일 때 제일 큰 이유를 댈 때도 써. 헬스장을 principally 집이 가까워서 옮겼다면, 다른 이유도 있지만 그게 제일 컸다는 거야.",
+  "다른 게 섞여 있어도 된다는 게 포인트야. \"오직 그것만\"이랑은 달라. 생긴 게 비슷한 principle(원칙)의 \"원칙적으로\"랑도 다른 말이야."
+ ],
+ "explanation_for_kids": [
   "아침 7시 반 그 버스, 타는 사람 거의 다 우리 학교 애들이야. 가끔 회사원 아저씨도 타고.",
   "그래도 누가 \"그 버스 누가 타?\" 물으면 답은 \"우리 학교 애들\"이지. 여럿이 섞여 있을 때 그중 제일 큰 쪽을 짚는 말이 principally야.",
   "사람 수만 말하는 게 아니야. 이유가 여러 개일 때 제일 큰 이유를 댈 때도 써. 학원을 principally 집이 가까워서 옮겼다면, 다른 이유도 있지만 그게 제일 컸다는 거야.",
   "다른 게 섞여 있어도 된다는 게 포인트야. \"오직 그것만\"이랑은 달라. 생긴 게 비슷한 principle(원칙)의 \"원칙적으로\"랑도 다른 말이야."
  ],
- "scene": "아침 등굣길 버스 승객 대부분이 같은 학교 학생, 가끔 회사원",
+ "scene": "아침 등굣길 버스 승객 대부분이 같은 대학 학생, 가끔 회사원",
  "examples": [
   {
-   "en": "This bus is used principally by students from our school.",
-   "ko": "이 버스는 주로 우리 학교 애들이 타."
+   "en": "This bus is used principally by students from my university.",
+   "ko": "이 버스는 주로 우리 대학교 학생들이 타."
   }
  ],
  "quiz": [
@@ -61,7 +67,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/principally.webp",
-  "alt": "아침 등굣길 버스 승객 대부분이 같은 학교 학생, 가끔 회사원",
+  "alt": "아침 등굣길 버스 승객 대부분이 같은 대학 학생, 가끔 회사원",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

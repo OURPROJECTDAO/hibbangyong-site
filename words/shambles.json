@@ -11,38 +11,39 @@
  "word": "shambles",
  "slug": "shambles",
  "url": "https://hibbangyong.com/words/shambles/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "엉망진창 — 일이나 장소가 질서 하나 없이 완전히 뒤죽박죽된 상태",
  "gloss_ko": "완전 엉망진창",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "축제 날이 됐는데 무대 순서표가 없어. 마이크는 안 켜지고, 누가 뭘 맡았는지 아무도 몰라.",
   "실수 하나가 아니야. 처음부터 끝까지 다 뒤죽박죽이야.",
   "친구들이 다녀간 뒤에 거실이 다 어질러져 있어도 이 말을 써.",
   "그냥 진 거랑은 달라. 차근차근 잘 준비했는데 진 거면 shambles가 아니야. 질서가 통째로 무너져야 해."
  ],
- "scene": "학교 축제 날 순서표도 없고 마이크도 안 켜지고 역할도 모르는 상황",
+ "explanation_for_kids": null,
+ "scene": "대학 축제 날 순서표도 없고 마이크도 안 켜지고 역할도 모르는 상황",
  "examples": [
   {
-   "en": "Nobody knew the plan, so the school festival was a shambles.",
-   "ko": "아무도 계획을 몰라서 학교 축제가 완전 엉망진창이 됐어."
+   "en": "Nobody planned anything, so our club event was a shambles.",
+   "ko": "아무도 계획을 안 세워서 우리 동아리 행사가 완전 엉망진창이 됐어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "점심시간에 반마다 정해진 시간에 급식실에 와서 번호 순서대로 줄을 섰어. 다 먹은 식판은 제자리에 차곡차곡 돌려놨어. 이 급식 시간을 'shambles'라고 할 수 있을까?",
+   "question": "점심시간에 팀마다 정해진 시간에 구내식당에 와서 온 순서대로 줄을 섰어. 다 먹은 식판은 제자리에 차곡차곡 돌려놨어. 이 점심시간을 'shambles'라고 할 수 있을까?",
    "choices": [
     "응, shambles 맞아",
     "아니, shambles 아니야"
    ],
    "answer_index": 1,
    "answer": "아니, shambles 아니야",
-   "why": "맞아! 반마다 정해진 시간에 오고, 번호 순서대로 줄 서고, 식판까지 제자리에 차곡차곡 돌려놨잖아. 처음부터 끝까지 다 질서가 딱 잡혀 있으니까 shambles랑은 정반대인 거야."
+   "why": "맞아! 팀마다 정해진 시간에 오고, 온 순서대로 줄 서고, 식판까지 제자리에 차곡차곡 돌려놨잖아. 처음부터 끝까지 다 질서가 딱 잡혀 있으니까 shambles랑은 정반대인 거야."
   }
  ],
  "synonyms": [],

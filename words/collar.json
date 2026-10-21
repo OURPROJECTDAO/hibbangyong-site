@@ -11,23 +11,24 @@
  "word": "collar",
  "slug": "collar",
  "url": "https://hibbangyong.com/words/collar/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "목줄 — 강아지·고양이 목에 채우는 이름표나 방울 달린 밴드",
  "gloss_ko": "목줄",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 방울이 달린 알록달록한 밴드가 강아지 목에 채우는 collar예요.",
   "산책 나갈 때 강아지 목에 이걸 채우고 줄을 걸어 준 걸 본 적 있을 거예요."
  ],
- "scene": "강아지 목걸이(반려동물 collar) — 버클과 작은 방울이 달린 알록달록한 목줄 밴드 한 개를 그림",
+ "explanation_for_kids": null,
+ "scene": "강아지 목걸이(반려동물 collar)",
  "examples": [
   {
-   "en": "My dog wears a collar with a little bell on it.",
-   "ko": "우리 강아지는 작은 방울이 달린 목줄을 하고 있어."
+   "en": "I bought my dog a new collar with a little bell.",
+   "ko": "우리 강아지한테 작은 방울 달린 새 목줄을 사 줬어."
   }
  ],
  "quiz": [
@@ -53,7 +54,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/collar.webp",
-  "alt": "강아지 목걸이(반려동물 collar) — 버클과 작은 방울이 달린 알록달록한 목줄 밴드 한 개를 그림",
+  "alt": "강아지 목걸이(반려동물 collar)",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

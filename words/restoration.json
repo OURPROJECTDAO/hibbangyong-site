@@ -11,25 +11,26 @@
  "word": "restoration",
  "slug": "restoration",
  "url": "https://hibbangyong.com/words/restoration/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "복원 — 망가지거나 없어진 것을 원래 모습이나 상태로 되돌려 놓는 일",
  "gloss_ko": "원래대로 되돌리기",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "칠이 벗겨지고 금이 간 옛날 궁궐 문, 본 적 있지?",
   "그걸 요즘 스타일로 새로 바꾸는 게 아니라, 처음 지었을 때 모습으로 되돌려 놓는 일이 restoration이야.",
   "건물만 그런 게 아니야. 정전 뒤에 전기가 다시 들어오는 것, 싸움이 끝나고 평화가 돌아오는 것도 이 말로 불러.",
   "더 좋게 새로 만드는 거랑은 달라. 원래대로 다시 해 놓는 거야."
  ],
+ "explanation_for_kids": null,
  "scene": "칠이 벗겨지고 금 간 옛날 궁궐 문을 처음 모습으로 되돌림",
  "examples": [
   {
-   "en": "The restoration of the old temple took ten years.",
-   "ko": "그 옛날 절을 원래 모습으로 되돌려 놓는 데 10년이나 걸렸어."
+   "en": "The museum is closed for restoration until May.",
+   "ko": "그 박물관은 복원 공사 때문에 5월까지 문을 닫아."
   }
  ],
  "quiz": [

@@ -11,23 +11,24 @@
  "word": "tube",
  "slug": "tube",
  "url": "https://hibbangyong.com/words/tube/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "튜브 — 물놀이할 때 몸에 끼고 물 위에 둥둥 뜨는 도넛 모양 공기 튜브",
  "gloss_ko": "튜브",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 도넛처럼 생긴 것은 물에 뜨게 해 주는 튜브예요.",
   "수영장이나 바다에서 몸에 끼면 물 위에 떠서 놀 수 있어요."
  ],
- "scene": "도넛 모양 공기주입식 물놀이 튜브(수영 튜브) 한 개를 정면 위에서 전체가 보이게 — 한국 9세 아이가 '튜브' 하면 떠올리는 가장 전형적 의미",
+ "explanation_for_kids": null,
+ "scene": "도넛 모양 공기주입식 물놀이 튜브(수영 튜브) 한 개를 정면 위에서 전체가 보이게",
  "examples": [
   {
-   "en": "I floated on my tube in the swimming pool.",
-   "ko": "수영장에서 튜브를 타고 둥둥 떴어."
+   "en": "At the hotel pool, I floated on a tube all day.",
+   "ko": "호텔 수영장에서 하루 종일 튜브 타고 둥둥 떠 있었어."
   }
  ],
  "quiz": [
@@ -55,7 +56,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/tube.webp",
-  "alt": "도넛 모양 공기주입식 물놀이 튜브(수영 튜브) 한 개를 정면 위에서 전체가 보이게 — 한국 9세 아이가 '튜브' 하면 떠올리는 가장 전형적 의미",
+  "alt": "도넛 모양 공기주입식 물놀이 튜브(수영 튜브) 한 개를 정면 위에서 전체가 보이게",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

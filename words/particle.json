@@ -11,25 +11,26 @@
  "word": "particle",
  "slug": "particle",
  "url": "https://hibbangyong.com/words/particle/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "알갱이 — 눈에 겨우 보이거나 아예 안 보일 만큼 작은 하나",
  "gloss_ko": "알갱이",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "모래를 한 줌 쥐었다가 손을 탈탈 털어 봐. 손바닥에 딱 한 알 남지? 그 한 알 말이야.",
   "공기 속에도 그런 게 잔뜩 떠다녀. 너무 작아서 눈에 안 보이는 것도 많아. 안 보여도 있는 건 있는 거야.",
   "설탕을 물에 넣으면 없어진 것 같지? 아니야. 아주 작은 하나하나로 흩어져서 물속에 그대로 있어.",
   "손으로 집어서 뚝 뗀 조각 말고, 그런 덩어리를 이루는 훨씬 작은 낱개 하나. 이게 particle이야."
  ],
+ "explanation_for_kids": null,
  "scene": "손을 털고 손바닥에 남은 모래 한 알",
  "examples": [
   {
-   "en": "I could see particles floating in the sunlight by the window.",
-   "ko": "창가 햇빛 속에 알갱이들이 떠다니는 게 보였어."
+   "en": "I could see every dust particle in the sunlight by the window.",
+   "ko": "창가 햇빛 속에서 먼지 알갱이 하나하나가 다 보였어."
   }
  ],
  "quiz": [

@@ -11,25 +11,26 @@
  "word": "breeze",
  "slug": "breeze",
  "url": "https://hibbangyong.com/words/breeze/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "산들바람 — 세지 않게 살랑 부는 바람",
  "gloss_ko": "산들바람",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "창문을 열었더니 커튼이 조금 흔들려. 앞머리도 살짝 날리고.",
   "근데 책상 위 종이는 그대로야. 모자도 안 벗겨져. 딱 그 정도로 약한 바람이거든?",
   "차가울 수도 있고 시원할 수도 있어. 세기가 약한 게 중요한 거지, 기분 좋은 바람이라는 뜻은 아니야.",
   "우산을 뒤집는 센 바람은 이게 아니야. 살랑 정도로 부는 바람, 그게 breeze야."
  ],
+ "explanation_for_kids": null,
  "scene": "창문 열자 커튼이 조금 흔들리고 앞머리가 날리는 장면",
  "examples": [
   {
-   "en": "A cold breeze from the sea made me zip up my jacket.",
-   "ko": "바다에서 불어온 차가운 산들바람 때문에 재킷 지퍼를 올렸어."
+   "en": "A cool breeze came in through the café window.",
+   "ko": "카페 창문으로 시원한 산들바람이 들어왔어."
   }
  ],
  "quiz": [

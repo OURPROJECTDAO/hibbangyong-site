@@ -11,31 +11,32 @@
  "word": "rubble",
  "slug": "rubble",
  "url": "https://hibbangyong.com/words/rubble/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "잔해 — 건물이나 벽이 무너진 뒤 남은 깨진 돌과 벽돌 부스러기",
  "gloss_ko": "무너진 건물 잔해",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "옛날 체육관을 허문 날, 그 자리에는 깨진 벽돌이랑 콘크리트 덩어리만 수북했어.",
   "지진이나 폭격으로 무너진 집 앞에도 똑같은 게 쌓여.",
   "일부러 허물었든 갑자기 무너졌든, 건물이나 벽이 부서지고 남은 돌 더미가 rubble이야.",
   "아무 쓰레기나 강가 자갈 같은 원래 돌은 rubble이라고 안 해."
  ],
+ "explanation_for_kids": null,
  "scene": "옛날 체육관을 허문 자리에 쌓인 깨진 벽돌과 콘크리트",
  "examples": [
   {
-   "en": "After the old gym came down, the rubble stayed in the schoolyard for a week.",
-   "ko": "옛날 체육관을 허물고 나서 그 잔해가 일주일 동안이나 운동장에 그대로 쌓여 있었어."
+   "en": "Workers cleared the rubble from the old building near my office.",
+   "ko": "인부들이 우리 회사 근처 옛 건물 잔해를 치웠어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "어젯밤 태풍에 학교 뒤 오래된 담장이 쓰러졌어. 아침에 가 보니 담장이 서 있던 자리에 깨진 블록 조각과 시멘트 덩어리가 수북하게 쌓여 있었어. 이 더미가 'rubble'이야?",
+   "question": "어젯밤 태풍에 아파트 뒤 오래된 담장이 쓰러졌어. 아침에 가 보니 담장이 서 있던 자리에 깨진 블록 조각과 시멘트 덩어리가 수북하게 쌓여 있었어. 이 더미가 'rubble'이야?",
    "choices": [
     "응, rubble 맞아",
     "아니, rubble 아니야"

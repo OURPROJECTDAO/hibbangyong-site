@@ -11,25 +11,31 @@
  "word": "sweat",
  "slug": "sweat",
  "url": "https://hibbangyong.com/words/sweat/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "땀 — 덥거나, 몸을 많이 움직이거나, 무섭고 떨릴 때 살갗에서 스며 나오는 짭짤한 물",
  "gloss_ko": "땀",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "실컷 운동하고 나면 이마에 물방울이 맺히지?",
+  "더운 날엔 가만히 있어도 주르륵, 무섭고 떨릴 땐 손바닥이 축축해져.",
+  "살갗에서 스며 나오는 짭짤한 물이야. 눈에서 나오는 눈물이나 비에 젖은 물이랑은 달라.",
+  "그게 sweat야."
+ ],
+ "explanation_for_kids": [
   "실컷 뛰어놀고 나면 이마에 물방울이 송글송글 맺히지?",
   "더운 날엔 가만히 있어도 주르륵, 무섭고 떨릴 땐 손바닥이 축축해져.",
   "살갗에서 스며 나오는 짭짤한 물이야. 눈에서 나오는 눈물이나 비에 젖은 물이랑은 달라.",
   "그게 sweat야."
  ],
- "scene": "뛰어놀고 난 뒤 이마에 맺힌 물방울",
+ "scene": "운동하고 난 뒤 이마에 맺힌 물방울",
  "examples": [
   {
-   "en": "My hands were wet with sweat before the big test.",
-   "ko": "큰 시험 보기 전에 떨려서 손이 땀으로 축축했어."
+   "en": "My hands were wet with sweat before the job interview.",
+   "ko": "면접 보기 전에 손이 땀으로 축축했어."
   }
  ],
  "quiz": [
@@ -58,7 +64,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/sweat.webp",
-  "alt": "뛰어놀고 난 뒤 이마에 맺힌 물방울",
+  "alt": "운동하고 난 뒤 이마에 맺힌 물방울",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

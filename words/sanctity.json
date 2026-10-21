@@ -11,38 +11,39 @@
  "word": "sanctity",
  "slug": "sanctity",
  "url": "https://hibbangyong.com/words/sanctity/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "신성함 — 아주 소중해서 함부로 건드리거나 깨면 안 되고, 꼭 지키고 존중해야 하는 성질",
  "gloss_ko": "건드리면 안 될 소중함",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "친구 일기장이 책상 위에 펼쳐져 있어. 아무도 안 보는데도 넌 안 읽지.",
   "값이 비싸서 그런 게 아니야. 그건 넘으면 안 되는 선이라서 그래.",
   "생명, 결혼, 약속, 투표처럼 함부로 건드리면 안 되고 꼭 지켜야 하는 성질, 그게 sanctity야.",
   "성당 같은 종교적인 곳에도 쓰지만 종교에만 쓰는 말은 아니야. 비싼 거나 숨기는 비밀이랑도 달라."
  ],
+ "explanation_for_kids": null,
  "scene": "책상 위에 펼쳐진 친구 일기장을 안 읽는 장면",
  "examples": [
   {
-   "en": "Our teacher talked about the sanctity of a promise, so I kept my word to Minji.",
-   "ko": "선생님이 약속은 함부로 깨면 안 되는 거라고 하셔서, 나도 민지랑 한 약속을 지켰어."
+   "en": "My boss respects the sanctity of our weekends and never texts us.",
+   "ko": "우리 팀장님은 주말은 건드리면 안 된다고 여겨서 절대 문자를 안 보내."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "수업 시간에 칠판 구석에 그린 낙서는 쉬는 시간에 아무나 지우개로 지워. 칠판 낙서가 가진 이 성질이 'sanctity'야?",
+   "question": "화이트보드 구석에 그린 낙서는 회의 뒤에 아무나 지우개로 지워. 화이트보드 낙서가 가진 이 성질이 'sanctity'야?",
    "choices": [
     "응, sanctity 맞아",
     "아니, sanctity 아니야"
    ],
    "answer_index": 1,
    "answer": "아니, sanctity 아니야",
-   "why": "잘 골랐어. 칠판 구석 낙서는 쉬는 시간에 아무나 지우개로 지워도 되잖아. 아무나 함부로 지워도 되는 거니까, 꼭 지키고 존중해야 하는 sanctity랑은 정반대인 거야."
+   "why": "잘 골랐어. 화이트보드 구석 낙서는 회의 뒤에 아무나 지우개로 지워도 되잖아. 아무나 함부로 지워도 되는 거니까, 꼭 지키고 존중해야 하는 sanctity랑은 정반대인 거야."
   }
  ],
  "synonyms": [],

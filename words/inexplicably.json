@@ -11,25 +11,31 @@
  "word": "inexplicably",
  "slug": "inexplicably",
  "url": "https://hibbangyong.com/words/inexplicably/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "설명할 수 없게 — 왜 그런지 아무도 이유를 댈 수 없는 채로",
  "gloss_ko": "이유 모르게",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "강의실 시계가 매일 오후 3시만 되면 멈춰. 건전지도 새 거고, 고장 난 데도 없대.",
+  "아무리 따져 봐도 왜 그런지 설명을 못 해. 그렇게 일어나는 걸 inexplicably라고 해.",
+  "좋은 일에도 나쁜 일에도 써. 망한 줄 알았던 면접에 붙어도, 멀쩡하던 폰이 자꾸 꺼져도 돼.",
+  "'갑자기'랑은 달라. 천천히, 매일 일어나는 일이어도 이유를 모르면 이 말을 써."
+ ],
+ "explanation_for_kids": [
   "교실 시계가 매일 오후 3시만 되면 멈춰. 건전지도 새 거고, 고장 난 데도 없대.",
   "아무리 따져 봐도 왜 그런지 설명을 못 해. 그렇게 일어나는 걸 inexplicably라고 해.",
   "좋은 일에도 나쁜 일에도 써. 망한 줄 알았던 시험이 잘 나와도, 멀쩡하던 폰이 자꾸 꺼져도 돼.",
   "'갑자기'랑은 달라. 천천히, 매일 일어나는 일이어도 이유를 모르면 이 말을 써."
  ],
- "scene": "매일 오후 3시에 멈추는 교실 시계",
+ "scene": "매일 오후 3시에 멈추는 강의실 시계",
  "examples": [
   {
-   "en": "Every day, the classroom clock inexplicably stopped at three o'clock.",
-   "ko": "매일 교실 시계가 왜 그런지 모르게 딱 3시에 멈췄어."
+   "en": "Every day, the lecture hall clock inexplicably stopped at three o'clock.",
+   "ko": "매일 강의실 시계가 왜 그런지 모르게 딱 3시에 멈췄어."
   }
  ],
  "quiz": [
@@ -61,7 +67,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/inexplicably.webp",
-  "alt": "매일 오후 3시에 멈추는 교실 시계",
+  "alt": "매일 오후 3시에 멈추는 강의실 시계",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

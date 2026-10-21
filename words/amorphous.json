@@ -11,24 +11,25 @@
  "word": "amorphous",
  "slug": "amorphous",
  "url": "https://hibbangyong.com/words/amorphous/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "형체 없는 — 딱 정해진 모양이나 틀이 없는(물건에도, 계획·모임 같은 것에도)",
  "gloss_ko": "정해진 모양 없는",
  "level": {
   "code": "L9",
-  "name": "토플 114~120점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "슬라임은 가만 둬도 흘러내리면서 모양이 계속 바뀌지.",
   "이렇게 딱 정해진 모양이 없는 게 amorphous야. 구름도, 아직 틀이 안 잡힌 계획이나 모임도 그래.",
   "지저분하다거나 안 보인다는 뜻은 아니야. 거기 있긴 한데, 이거다 할 윤곽이 없는 거야."
  ],
+ "explanation_for_kids": null,
  "scene": "가만 둬도 흘러내리며 모양이 바뀌는 슬라임",
  "examples": [
   {
-   "en": "Our team's idea for the school festival is still amorphous.",
-   "ko": "학교 축제 때 할 우리 팀 아이디어는 아직 딱 잡힌 모양이 없어."
+   "en": "Our team's plan for the new project is still amorphous.",
+   "ko": "우리 팀의 새 프로젝트 계획은 아직 틀이 안 잡혀 있어."
   }
  ],
  "quiz": [

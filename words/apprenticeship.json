@@ -11,15 +11,21 @@
  "word": "apprenticeship",
  "slug": "apprenticeship",
  "url": "https://hibbangyong.com/words/apprenticeship/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "견습 기간(일하며 기술 배우는 기간) — 기술 가진 사람 밑에서 직접 일하면서 그 기술을 배우는 기간",
  "gloss_ko": "일하며 배우는 기간",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "사촌 형이 고등학교 졸업하고 자동차 정비소에 들어갔어. 선배 정비사 옆에서 진짜 차를 고치면서 몇 년 동안 기술을 배우는 중이야.",
+  "강의실에서 수업 듣는 게 아니야. 일터에서 일하면서 배우는 거지. 월급도 조금 받고.",
+  "빵집이든 회사든 공장이든, 이렇게 일하며 기술을 익히는 그 기간이 apprenticeship이야.",
+  "그냥 돈 벌려고 하는 아르바이트랑은 달라. 목표가 그 일을 스스로 해낼 수 있게 되는 거거든."
+ ],
+ "explanation_for_kids": [
   "사촌 형이 고등학교 졸업하고 자동차 정비소에 들어갔어. 선배 정비사 옆에서 진짜 차를 고치면서 몇 년 동안 기술을 배우는 중이야.",
   "교실에서 수업 듣는 게 아니야. 일터에서 일하면서 배우는 거지. 월급도 조금 받고.",
   "빵집이든 회사든 공장이든, 이렇게 일하며 기술을 익히는 그 기간이 apprenticeship이야.",
@@ -28,8 +34,8 @@
  "scene": "고졸 후 자동차 정비소에서 선배 정비사에게 기술을 배우는 사촌 형",
  "examples": [
   {
-   "en": "After high school, my cousin started an apprenticeship at a car repair shop.",
-   "ko": "사촌 형은 고등학교 졸업하고 자동차 정비소에 들어가서 일하면서 기술을 배우기 시작했어."
+   "en": "After graduation, I started an apprenticeship at a bakery downtown.",
+   "ko": "졸업하고 시내 빵집에서 일하면서 기술을 배우기 시작했어."
   }
  ],
  "quiz": [

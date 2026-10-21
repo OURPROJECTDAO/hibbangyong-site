@@ -11,20 +11,21 @@
  "word": "federal",
  "slug": "federal",
  "url": "https://hibbangyong.com/words/federal/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "연방의(여러 주를 묶은 나라 전체의) — 여러 주가 뭉쳐 만든 나라에서, 한 주가 아니라 나라 전체를 묶어 다스리는 (가운데 정부의).",
  "gloss_ko": "나라 전체 정부의",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "미국은 '주'라는 땅덩어리 50개가 딱 붙어서 된 하나의 나라야.",
   "주마다 자기들만의 규칙이 따로 있거든?",
   "근데 그 주들을 몽땅 묶어서 다스리는 더 큰 정부가 위에 하나 더 있어.",
   "한 주만이 아니라 주 전부, 그러니까 나라 전체를 맡는 그 큰 쪽, 그게 federal이야."
  ],
+ "explanation_for_kids": null,
  "scene": "미국이 '주' 50개로 이뤄진 나라이고 그 위에 주들을 다 묶는 큰 정부가 하나 더 있음",
  "examples": [
   {

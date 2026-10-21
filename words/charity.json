@@ -11,21 +11,27 @@
  "word": "charity",
  "slug": "charity",
  "url": "https://hibbangyong.com/words/charity/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "어려운 처지의 사람한테 돌려받을 생각 없이 내 것을 덜어주는 마음(그리고 그렇게 준 도움). 그런 도움을 모아 보내는 단체도 charity라고 해.",
  "gloss_ko": "돌려받을 생각 없는 도움",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "알바하는 데 형편이 어려워서 끼니를 거르는 동료가 있거든? 내가 밥을 쓱 사 줬어. 갚으란 말? 안 했어.",
+  "힘든 쪽에 있는 사람한테, 돌려받을 생각 없이 내 걸 덜어주는 마음이야. 돈이어도 되고 시간이어도 되고 연필이어도 돼.",
+  "그런 도움을 모아서 보내주는 곳도 charity라고 불러.",
+  "그냥 친절한 거랑은 달라. 친절은 아무한테나 웃어주는 거고, 이건 딱한 쪽으로 내 걸 떼어 주는 거야. 이게 charity야."
+ ],
+ "explanation_for_kids": [
   "옆반에 몽당연필 하나로 버티는 애가 있거든? 내가 연필 세 자루를 쓱 줬어. 돌려달란 말? 안 했어.",
   "힘든 쪽에 있는 사람한테, 돌려받을 생각 없이 내 걸 덜어주는 마음이야. 돈이어도 되고 시간이어도 되고 연필이어도 돼.",
   "그런 도움을 모아서 보내주는 곳도 charity라고 불러.",
   "그냥 친절한 거랑은 달라. 친절은 아무한테나 웃어주는 거고, 이건 딱한 쪽으로 내 걸 떼어 주는 거야. 이게 charity야."
  ],
- "scene": "몽당연필 하나로 버티는 옆반 아이에게 연필 세 자루를 주고 돌려받지 않음",
+ "scene": "형편이 어려워 끼니를 거르는 알바 동료에게 밥을 사 주고 돌려받지 않음",
  "examples": [
   {
    "en": "I gave my extra pencils to the new kid, and Mom said that was real charity.",
@@ -67,7 +73,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/charity.webp",
-  "alt": "몽당연필 하나로 버티는 옆반 아이에게 연필 세 자루를 주고 돌려받지 않음",
+  "alt": "형편이 어려워 끼니를 거르는 알바 동료에게 밥을 사 주고 돌려받지 않음",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

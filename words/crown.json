@@ -11,23 +11,24 @@
  "word": "crown",
  "slug": "crown",
  "url": "https://hibbangyong.com/words/crown/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "왕관 — 왕이나 여왕이 머리에 쓰는, 보석이 박힌 금색 머리 장식",
  "gloss_ko": "왕관",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속에서 뾰족뾰족한 봉우리마다 보석이 반짝이는 이 금색 물건이 바로 crown이야.",
   "동화 속 왕이나 여왕이 머리에 쓰고 나오는 걸 본 적 있을 거예요."
  ],
+ "explanation_for_kids": null,
  "scene": "왕관(머리에 쓰는 금색 왕관)을 정면에서 크게 — 뾰족한 봉우리마다 알록달록 보석이 박힌 전형적인 황금 왕관",
  "examples": [
   {
-   "en": "The king put a golden crown on his head.",
-   "ko": "임금님이 머리에 금 왕관을 썼어."
+   "en": "I bought a paper crown for my friend's birthday party.",
+   "ko": "친구 생일 파티에 쓸 종이 왕관을 샀어."
   }
  ],
  "quiz": [

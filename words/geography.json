@@ -11,25 +11,26 @@
  "word": "geography",
  "slug": "geography",
  "url": "https://hibbangyong.com/words/geography/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "지리 — 땅이 어떻게 생겼고, 어디에 산·강·바다가 있는지 아는 거야.",
  "gloss_ko": "지리",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "세계 지도를 쫙 펼쳐봐.",
   "여기는 높은 산, 저기는 넓은 바다, 저기는 기다란 강이 흐르지?",
   "땅이 어떻게 생겼고, 어디에 뭐가 있는지 알아보는 거야.",
   "그게 geography야."
  ],
+ "explanation_for_kids": null,
  "scene": "세계 지도를 펼쳐 산·바다·강의 위치를 훑어보는 장면",
  "examples": [
   {
-   "en": "In geography class, we found out where the biggest mountains are.",
-   "ko": "지리 시간에 우리는 제일 큰 산들이 어디 있는지 알아냈어."
+   "en": "In my geography lecture, we learned where the biggest mountains are.",
+   "ko": "지리 강의에서 제일 큰 산들이 어디 있는지 배웠어."
   }
  ],
  "quiz": [

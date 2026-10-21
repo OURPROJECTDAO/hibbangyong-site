@@ -11,25 +11,26 @@
  "word": "picturesque",
  "slug": "picturesque",
  "url": "https://hibbangyong.com/words/picturesque/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "그림 같은 — 마을이나 경치가 그림으로 그려 놓은 것처럼 예쁘고 정겨운",
  "gloss_ko": "그림 같은",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "작은 돌다리, 낡은 기와집, 그 옆에 감나무 한 그루.",
   "사진만 찍어도 그대로 그림엽서가 되는 곳, 그게 picturesque야.",
   "산이나 바다만 되는 게 아니야. 골목, 항구, 시골 마을도 다 돼.",
   "근데 번쩍이는 새 빌딩은 멋있어도 이 말을 잘 안 써. 화려한 거랑은 달라."
  ],
+ "explanation_for_kids": null,
  "scene": "돌다리·기와집·감나무가 있는 시골 풍경",
  "examples": [
   {
    "en": "We stayed in a picturesque village with small stone houses by the river.",
-   "ko": "우리 강가에 작은 돌집들이 모여 있는, 그림 같은 마을에서 묵었어."
+   "ko": "우리는 강가에 작은 돌집들이 모여 있는 그림 같은 마을에서 묵었어."
   }
  ],
  "quiz": [

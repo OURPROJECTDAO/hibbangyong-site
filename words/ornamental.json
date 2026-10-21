@@ -11,20 +11,21 @@
  "word": "ornamental",
  "slug": "ornamental",
  "url": "https://hibbangyong.com/words/ornamental/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "장식용의 — 실제로 쓰려고가 아니라 꾸미려고 있는",
  "gloss_ko": "장식용",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "할머니 집 부엌 벽에 접시가 몇 개 걸려 있어. 그 접시에 밥 담는 사람은 아무도 없어.",
   "무언가가 쓰이려고가 아니라 꾸미려고 거기 있으면 ornamental이야.",
   "예쁜지 아닌지는 상관없어. 예쁜데 매일 쓰는 우산은 ornamental이 아니야.",
   "사람의 자리에도 써. 이름만 있고 실제로 하는 일은 없는 자리도 ornamental이라고 해."
  ],
+ "explanation_for_kids": null,
  "scene": "할머니 집 부엌 벽에 걸린 접시",
  "examples": [
   {

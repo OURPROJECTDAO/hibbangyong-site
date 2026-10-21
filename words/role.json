@@ -11,31 +11,32 @@
  "word": "role",
  "slug": "role",
  "url": "https://hibbangyong.com/words/role/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "어떤 일에서 네가 맡아서 하는 몫",
  "gloss_ko": "내가 맡은 것",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "축구팀을 봐봐. 누구는 골을 막고, 누구는 공을 넣거든?",
   "각자 맡아서 하는 일이 따로 있어.",
   "사람만 그런 게 아니야 — 비도 식물을 키우는 데 자기 몫이 있어.",
   "전체 안에서 그렇게 '맡아서 하는 몫', 그게 role이야."
  ],
+ "explanation_for_kids": null,
  "scene": "축구팀에서 각자 다른 몫을 맡아 뛰는 한 장면",
  "examples": [
   {
-   "en": "Each player on the team has an important role to play.",
-   "ko": "팀의 각 선수는 저마다 중요한 역할이 있어."
+   "en": "Each person on our project team has a clear role.",
+   "ko": "우리 프로젝트 팀은 사람마다 맡은 역할이 분명해."
   }
  ],
  "quiz": [
   {
    "type": "choice",
-   "question": "선생님이 \"꿀벌은 꽃밭에서 어떤 'role'을 할까?\"라고 물었어. 'role'의 뜻에 딱 맞게 대답한 친구는 누구일까?",
+   "question": "교수님이 \"꿀벌은 꽃밭에서 어떤 'role'을 할까?\"라고 물었어. 'role'의 뜻에 딱 맞는 대답은 어느 것일까?",
    "choices": [
     "이 꽃 저 꽃에 꽃가루를 옮겨서, 꽃밭에 열매가 맺히게 도와줘요.",
     "윙윙 소리를 내면서 꽃밭 위를 빙빙 날아다녀요.",

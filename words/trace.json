@@ -11,15 +11,21 @@
  "word": "trace",
  "slug": "trace",
  "url": "https://hibbangyong.com/words/trace/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "남아 있는 선이나 자국을 처음부터 끝까지 짚어 가다 — 그래서 어디서 왔는지 알아내거나, 그 선을 그대로 따라 그리다",
  "gloss_ko": "자국을 끝까지 짚어 가다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "바닥에 개미가 한 줄로 죽 가는 거 본 적 있지?",
+  "그 줄을 눈으로 죽 짚어 가며 끝까지 따라가 봐. 개미집이 나와.",
+  "개미집을 두리번거리며 찾아 헤매는 거랑은 달라. 짚고 갈 줄이나 자국이 이미 있어야 하거든.",
+  "이렇게 남은 선이나 자국을 처음부터 끝까지 짚어 가는 게 trace야."
+ ],
+ "explanation_for_kids": [
   "바닥에 개미가 한 줄로 죽 가는 거 본 적 있지?",
   "그 줄을 눈으로 콕 짚고 한 칸 한 칸 끝까지 가 봐. 개미집이 톡 나와.",
   "그냥 두리번두리번 찾아 헤매는 거랑은 달라. 짚고 갈 줄이나 자국이 이미 있어야 하거든.",
@@ -28,8 +34,8 @@
  "scene": "바닥의 개미 줄을 눈으로 짚어 개미집까지 가 보기",
  "examples": [
   {
-   "en": "I traced the line of ants all the way to their hole.",
-   "ko": "나는 개미들이 간 줄을 끝까지 짚어가서 개미집까지 찾아갔어."
+   "en": "I tried to trace the leak back to the sink.",
+   "ko": "물 샌 자국을 따라가서 싱크대에서 새는 건지 알아보려 했어."
   }
  ],
  "quiz": [

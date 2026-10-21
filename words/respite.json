@@ -11,21 +11,27 @@
  "word": "respite",
  "slug": "respite",
  "url": "https://hibbangyong.com/words/respite/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "한숨 돌릴 틈 — 힘든 일을 잠깐 내려놓거나, 괴롭던 일이 잠깐 멎은 짧은 동안",
  "gloss_ko": "잠깐 한숨 돌림",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "자격증 공부 2주 내내 밤늦게까지 하다가, 하루 저녁만 책을 덮었어.",
+  "힘든 걸 잠깐 내려놓거나, 괴롭던 게 잠깐 멎어서 숨 돌리는 틈. 그게 respite야.",
+  "장마 중에 반나절 해가 난 것도, 약 먹고 아픔이 몇 시간 멎은 것도 다 respite야.",
+  "그냥 노는 시간이랑은 달라. 앞에 힘든 게 있어야 하고, 그게 아주 끝난 것도 아니야."
+ ],
+ "explanation_for_kids": [
   "시험 2주 내내 밤늦게까지 공부하다가, 하루 저녁만 책을 덮었어.",
   "힘든 걸 잠깐 내려놓거나, 괴롭던 게 잠깐 멎어서 숨 돌리는 틈. 그게 respite야.",
   "장마 중에 반나절 해가 난 것도, 약 먹고 아픔이 몇 시간 멎은 것도 다 respite야.",
   "그냥 노는 시간이랑은 달라. 앞에 힘든 게 있어야 하고, 그게 아주 끝난 것도 아니야."
  ],
- "scene": "시험 2주 공부 중 하루 저녁 책을 덮음",
+ "scene": "자격증 공부 2주 중 하루 저녁 책을 덮음",
  "examples": [
   {
    "en": "After two weeks of hot weather, the cool rain was a welcome respite.",

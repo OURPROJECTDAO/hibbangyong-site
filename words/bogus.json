@@ -11,15 +11,21 @@
  "word": "bogus",
  "slug": "bogus",
  "url": "https://hibbangyong.com/words/bogus/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "가짜의 — 진짜인 척 꾸몄지만 사실은 진짜가 아닌",
  "gloss_ko": "가짜의",
  "level": {
   "code": "L9",
-  "name": "토플 114~120점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "친구가 연락해 보니, 문자 속 '택배 조회' 링크도 가짜, '급하게 돈 빌려 줘' 사정도 지어낸 거였어.",
+  "물건이든 말이든 이유든 진짜처럼 보이게 꾸몄는데 사실은 아니면, 그게 bogus야.",
+  "실수로 틀린 거랑은 달라. 진짜인 척 속이려는 게 들어 있어.",
+  "처음부터 소품이라고 밝힌 모형 돈은 bogus가 아니야. 진짜인 척을 안 하니까."
+ ],
+ "explanation_for_kids": [
   "친구가 연락해 보니, 문자 속 '택배 조회' 링크도 가짜, '급하게 돈 빌려 줘' 사정도 지어낸 거였어.",
   "물건이든 말이든 이유든 진짜처럼 보이게 꾸몄는데 사실은 아니면, 그게 bogus야.",
   "실수로 틀린 거랑은 달라. 진짜인 척 속이려는 게 들어 있어.",
@@ -28,8 +34,8 @@
  "scene": "택배 조회 링크와 돈 빌려 달라는 사연이 담긴 사기 문자",
  "examples": [
   {
-   "en": "He gave the teacher a bogus excuse about a sick grandmother, but she was at the mall with him.",
-   "ko": "걔는 할머니가 편찮으시다고 선생님한테 가짜 핑계를 댔는데, 할머니는 걔랑 같이 쇼핑몰에 계셨어."
+   "en": "He gave his professor a bogus excuse about his sick grandma, then went shopping with her.",
+   "ko": "걔는 교수님한테 할머니가 아프시다고 가짜 핑계를 대고는 할머니랑 쇼핑하러 갔어."
   }
  ],
  "quiz": [

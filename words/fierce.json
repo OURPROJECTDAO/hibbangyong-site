@@ -11,25 +11,26 @@
  "word": "fierce",
  "slug": "fierce",
  "url": "https://hibbangyong.com/words/fierce/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "기세가 무섭게 세서 조금도 봐주거나 물러서지 않는. 사나운 동물도, 몰아치는 바람도, 불꽃 튀는 시합도 다 그래.",
  "gloss_ko": "무섭게 세찬",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "줄다리기 시합이야. 양쪽 다 이를 꽉 물고 당겨. 한 발도 안 물러서.",
   "이렇게 기세가 무섭게 세고 하나도 안 봐주는 거야. 으르렁대는 사자도, 지붕을 밤새 때리는 바람도 똑같아.",
   "살짝 삐진 거랑은 달라. 입만 삐죽 내미는 게 아니라, 힘이 무섭게 몰아치는 거거든.",
   "그게 fierce야."
  ],
+ "explanation_for_kids": null,
  "scene": "양쪽이 한 발도 물러서지 않는 줄다리기 시합",
  "examples": [
   {
-   "en": "Our tug-of-war was fierce, and nobody moved back even one step.",
-   "ko": "우리 줄다리기는 기세가 무서워서 아무도 한 발짝도 안 물러섰어."
+   "en": "The wind was fierce, so we stayed inside all day.",
+   "ko": "바람이 무섭게 세서 우리는 하루 종일 안에만 있었어."
   }
  ],
  "quiz": [

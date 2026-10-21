@@ -11,24 +11,25 @@
  "word": "aboriginal",
  "slug": "aboriginal",
  "url": "https://hibbangyong.com/words/aboriginal/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "호주 원주민의 — 유럽 사람들이 오기 훨씬 전부터 호주에 살아온 사람들과 관련된. 넓게는 어떤 땅에 맨 처음부터 살아온 (사람·동식물의)",
  "gloss_ko": "원주민의",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "유럽 사람들이 배를 타고 호주에 오기 훨씬 전부터, 거기엔 이미 사람들이 살고 있었어.",
   "그 사람들, 그리고 그들의 말과 그림과 문화에 붙는 말이 이거야. 넓게는 어떤 땅에 맨 처음부터 살아온 사람이나 동물, 식물한테도 써.",
   "핵심은 나중에 들어온 쪽이 아니라 원래부터 거기 있던 쪽이라는 거.",
   "뒤떨어졌다거나 원시적이라는 뜻은 전혀 없어. 도시에서 회사 다니는 사람도 똑같이 이렇게 불러."
  ],
+ "explanation_for_kids": null,
  "scene": "유럽인이 배로 오기 전부터 호주에 살던 사람들",
  "examples": [
   {
-   "en": "Her aunt is an aboriginal artist, and she sells her paintings online.",
+   "en": "Her aunt is an Aboriginal artist, and she sells her paintings online.",
    "ko": "걔 이모는 호주 원주민 화가인데, 자기 그림을 인터넷으로 팔아."
   }
  ],

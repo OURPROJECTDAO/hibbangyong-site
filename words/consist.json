@@ -11,25 +11,26 @@
  "word": "consist",
  "slug": "consist",
  "url": "https://hibbangyong.com/words/consist/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "이루어지다 — 여러 부분이 다 모여 하나가 되다. (consist of ~)",
  "gloss_ko": "이루어지다",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "축구팀 하나를 딱 떠올려 봐. 골키퍼 하나, 공격수 몇 명, 수비수 몇 명… 선수들이 쭉 있지?",
   "이 선수들을 몽땅 다 합치면? 그게 바로 '팀' 전체가 되는 거야.",
   "하나라도 빠지면 그 팀이 아니야. 딱 이 선수들이 다 모여야 팀이 되거든.",
   "이렇게 여러 부분이 모여 전체를 이루는 게 consist야. (consist of ~)"
  ],
+ "explanation_for_kids": null,
  "scene": "골키퍼·공격수·수비수가 모여 축구팀 전체를 이루는 장면",
  "examples": [
   {
-   "en": "A soccer team consists of eleven players.",
-   "ko": "축구팀은 선수 열한 명으로 이루어져 있어."
+   "en": "The lunch sets consist of rice, soup, and kimchi.",
+   "ko": "점심 세트는 밥이랑 국, 김치로 이루어져 있어."
   }
  ],
  "quiz": [

@@ -11,23 +11,24 @@
  "word": "rat",
  "slug": "rat",
  "url": "https://hibbangyong.com/words/rat/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "쥐 — 꼬리가 길고 어둡고 좁은 곳에 숨어 사는 작은 동물",
  "gloss_ko": "쥐",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 통통한 회색 동물이 바로 rat이에요. 뾰족한 코와 길고 가는 꼬리가 있어요.",
   "창고나 하수구처럼 어둡고 좁은 곳에서 살고, 밤에 나와 돌아다녀요."
  ],
- "scene": "통통한 회색 생쥐(쥐) 한 마리가 화면 중앙에 전신으로 앉아 있는 모습 — 아이에게 친숙한 '쥐'라는 동물 그 자체를 그림",
+ "explanation_for_kids": null,
+ "scene": "통통한 회색 생쥐(쥐) 한 마리가 화면 중앙에 전신으로 앉아 있는 모습",
  "examples": [
   {
-   "en": "A small rat ran across the kitchen floor at night.",
-   "ko": "밤에 작은 쥐가 부엌 바닥을 가로질러 뛰어갔어."
+   "en": "I saw a rat on the subway tracks this morning.",
+   "ko": "오늘 아침에 지하철 선로에서 쥐 한 마리를 봤어."
   }
  ],
  "quiz": [
@@ -55,7 +56,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/rat.webp",
-  "alt": "통통한 회색 생쥐(쥐) 한 마리가 화면 중앙에 전신으로 앉아 있는 모습 — 아이에게 친숙한 '쥐'라는 동물 그 자체를 그림",
+  "alt": "통통한 회색 생쥐(쥐) 한 마리가 화면 중앙에 전신으로 앉아 있는 모습",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

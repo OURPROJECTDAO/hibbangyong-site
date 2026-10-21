@@ -11,25 +11,26 @@
  "word": "gorge",
  "slug": "gorge",
  "url": "https://hibbangyong.com/words/gorge/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "협곡 — 양쪽이 가파른 바위벽이고, 좁고 깊게 파인 골짜기",
  "gloss_ko": "협곡",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "양쪽으로 바위벽이 거의 똑바로 서 있어.",
   "그 사이 땅은 좁고, 아래로 아주 깊게 파여 있지. 바닥에는 보통 강물이 흘러.",
   "이런 골짜기를 gorge라고 해.",
   "넓고 완만하게 펼쳐진 골짜기는 gorge라고 안 해. 폭이 좁고 깊고, 벽이 가팔라야 gorge야."
  ],
+ "explanation_for_kids": null,
  "scene": "양쪽 바위벽 사이로 좁고 깊게 파인 땅, 바닥에 흐르는 강물",
  "examples": [
   {
-   "en": "We walked across a bridge high above the gorge.",
-   "ko": "우리는 협곡 위에 높이 걸린 다리를 건넜어."
+   "en": "On our trip, we hiked through a deep, narrow gorge.",
+   "ko": "여행 가서 깊고 좁은 협곡을 걸어서 지나갔어."
   }
  ],
  "quiz": [

@@ -11,25 +11,31 @@
  "word": "buffer",
  "slug": "buffer",
  "url": "https://hibbangyong.com/words/buffer/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "완충물(충격을 막아 주는 것) — 둘 사이에 끼어서, 한쪽에서 오는 충격이나 피해가 다른 쪽에 덜 닿게 해 주는 것",
  "gloss_ko": "충격 막아 주는 것",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "평가 한 번 망쳐도 괜찮게, 평소 실적을 넉넉히 쌓아 두는 거 있잖아. 그 여유분이 삐끗했을 때 충격을 대신 받아 줘.",
+  "이렇게 나쁜 일과 나 사이에 끼어서 충격을 덜 닿게 해 주는 게 buffer야.",
+  "뽁뽁이 같은 물건일 수도 있고, 돈이나 시간일 수도 있고, 싸우는 두 사람 사이에 앉은 사람일 수도 있어.",
+  "근데 문제를 없애 주는 건 아니야. 벽처럼 딱 막는 것도 아니고. 사이에서 받아 내서 덜 아프게 할 뿐이야."
+ ],
+ "explanation_for_kids": [
   "시험 한 번 망쳐도 괜찮게, 평소 점수를 넉넉히 따 두는 거 있잖아. 그 여유분이 삐끗했을 때 충격을 대신 받아 줘.",
   "이렇게 나쁜 일과 나 사이에 끼어서 충격을 덜 닿게 해 주는 게 buffer야.",
   "뽁뽁이 같은 물건일 수도 있고, 돈이나 시간일 수도 있고, 싸우는 두 사람 사이에 앉은 사람일 수도 있어.",
   "근데 문제를 없애 주는 건 아니야. 벽처럼 딱 막는 것도 아니고. 사이에서 받아 내서 덜 아프게 할 뿐이야."
  ],
- "scene": "시험 대비로 평소 점수를 넉넉히 따 둔 여유분",
+ "scene": "평가 대비로 평소 실적을 넉넉히 쌓아 둔 여유분",
  "examples": [
   {
-   "en": "I save some of my allowance every month as a buffer against sudden costs.",
-   "ko": "갑자기 돈 쓸 일 생길 때 버티려고, 매달 용돈을 조금씩 떼어 모아 둬."
+   "en": "I save some of my pay every month as a buffer against unexpected costs.",
+   "ko": "갑자기 돈 나갈 일에 대비하려고, 매달 월급을 조금씩 떼어 모아 둬."
   }
  ],
  "quiz": [
@@ -61,7 +67,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/buffer.webp",
-  "alt": "시험 대비로 평소 점수를 넉넉히 따 둔 여유분",
+  "alt": "평가 대비로 평소 실적을 넉넉히 쌓아 둔 여유분",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

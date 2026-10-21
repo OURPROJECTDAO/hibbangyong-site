@@ -11,23 +11,24 @@
  "word": "string",
  "slug": "string",
  "url": "https://hibbangyong.com/words/string/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "끈 — 물건을 묶거나 매는 가늘고 긴 줄",
  "gloss_ko": "끈",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림에서 둥글게 뭉친 것에서 풀려 나온 가늘고 긴 줄이 string이에요.",
   "선물 상자를 묶거나 연을 날릴 때 이런 것을 사용해요."
  ],
+ "explanation_for_kids": null,
  "scene": "화면 중앙에 놓인 도톰한 실 뭉치(끈 뭉치)에서 한 가닥이 부드럽게 풀려 곡선을 그리며 뻗어 있는 모습 — '실/끈'의 전형",
  "examples": [
   {
-   "en": "I tied the box with a piece of string.",
-   "ko": "나는 끈으로 상자를 묶었어."
+   "en": "I tied the moving box with a piece of string.",
+   "ko": "이삿짐 상자를 끈으로 묶었어."
   }
  ],
  "quiz": [

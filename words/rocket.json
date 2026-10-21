@@ -11,23 +11,24 @@
  "word": "rocket",
  "slug": "rocket",
  "url": "https://hibbangyong.com/words/rocket/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "로켓 — 불을 뿜으며 하늘 높이 솟아 우주로 날아가는 탈것",
  "gloss_ko": "로켓",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 하얗고 빨간 이것은 불을 뿜으며 하늘로 쭉 날아오르는 로켓이에요.",
   "우주 비행사가 로켓을 타고 지구 밖 우주로 여행을 가요."
  ],
+ "explanation_for_kids": null,
  "scene": "발사되어 날아오르는 흰색·빨강 우주 로켓 한 대(가장 전형적 의미=우주 로켓)",
  "examples": [
   {
-   "en": "The rocket flew up into the sky.",
-   "ko": "로켓이 하늘로 쭉 날아올랐어."
+   "en": "We watched the rocket launch on my phone.",
+   "ko": "우리는 내 폰으로 로켓 발사를 봤어."
   }
  ],
  "quiz": [

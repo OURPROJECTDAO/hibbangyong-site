@@ -11,25 +11,31 @@
  "word": "naked",
  "slug": "naked",
  "url": "https://hibbangyong.com/words/naked/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "벌거벗은 — 덮은 게 아무것도 없어서 속이 그대로 드러난",
  "gloss_ko": "벌거벗은",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "목욕할 때처럼 몸에 걸친 게 하나도 없는 거, 그게 naked야.",
+  "근데 옷 얘기만은 아니거든? 겨울나무 봐봐. 잎이 다 떨어지고 가지만 덩그러니. 나무도 naked라고 해.",
+  "덮어주던 게 사라져서 속이 그냥 드러난 거야. 물건이든 몸이든 다 써.",
+  "얇게라도 걸쳤으면? 그건 아니야. 조금 덮여 있어도 안 되거든. 아예 하나도 없어야 naked야."
+ ],
+ "explanation_for_kids": [
   "목욕하려고 옷을 훌러덩 다 벗었지? 몸에 걸친 게 하나도 없어. 그게 naked야.",
   "근데 옷 얘기만은 아니거든? 겨울나무 봐봐. 잎이 다 떨어지고 가지만 덩그러니. 나무도 naked라고 해.",
   "덮어주던 게 사라져서 속이 그냥 드러난 거야. 물건이든 몸이든 다 써.",
   "얇게라도 걸쳤으면? 그건 아니야. 조금 덮여 있어도 안 되거든. 아예 하나도 없어야 naked야."
  ],
- "scene": "목욕하려고 옷을 다 벗은 아이",
+ "scene": "욕실 앞에 벗어 둔 옷 더미와 수건",
  "examples": [
   {
-   "en": "The winter tree stood naked, with no leaves left on it.",
-   "ko": "겨울나무는 잎이 하나도 안 남아서 벌거벗은 채로 서 있었어."
+   "en": "The walls in my new apartment look naked without any pictures.",
+   "ko": "새 집 벽에 그림이 하나도 없으니까 벌거벗은 것처럼 휑해 보여."
   }
  ],
  "quiz": [
@@ -55,7 +61,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/naked.webp",
-  "alt": "목욕하려고 옷을 다 벗은 아이",
+  "alt": "욕실 앞에 벗어 둔 옷 더미와 수건",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

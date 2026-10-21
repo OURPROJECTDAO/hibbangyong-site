@@ -11,25 +11,26 @@
  "word": "notice",
  "slug": "notice",
  "url": "https://hibbangyong.com/words/notice/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "알아채다, 알아차리다 — 보거나 듣거나 냄새를 맡다가 '어?' 하고 뭔가를 알게 되다",
  "gloss_ko": "알아채다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "방에 들어갔는데, 어? 뭔가 달라. 냄새가 이상하거나, 삐- 소리가 나거나, 엄마 머리가 짧아졌거나.",
   "눈이든 코든 귀든 상관없어. 몰랐던 게 머릿속에 딱! 걸리는 그 순간이 있거든.",
   "그냥 멀뚱멀뚱 쳐다보는 거랑은 달라. 오래 쳐다봐도 아무것도 못 잡아낼 때가 있잖아.",
   "'어, 이거!' 하고 잡아내는 거, 그게 notice야."
  ],
+ "explanation_for_kids": null,
  "scene": "방에 들어갔는데 뭔가 달라진 걸 알아챔(냄새·소리·엄마 머리)",
  "examples": [
   {
-   "en": "I noticed a funny smell in the kitchen, so I called Mom.",
-   "ko": "부엌에서 이상한 냄새가 나는 걸 알아채고 엄마를 불렀어."
+   "en": "I didn't notice my phone was on silent all day.",
+   "ko": "휴대폰이 하루 종일 무음이었는데 전혀 알아채지 못했어."
   }
  ],
  "quiz": [

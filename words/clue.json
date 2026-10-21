@@ -11,25 +11,26 @@
  "word": "clue",
  "slug": "clue",
  "url": "https://hibbangyong.com/words/clue/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "단서 — 아직 모르는 답 쪽으로 데려다주는 작은 조각",
  "gloss_ko": "단서",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "보물찾기에서 \"물 있는 데를 봐\" 딱 한마디만 들었어.",
   "답은 안 알려줬는데도 어디부터 뒤질지 알겠지? 발이 어항 쪽으로 먼저 가잖아.",
   "누가 일부러 안 줘도 돼. 현관에 우산이 젖어 있으면 그거 하나로 밖에 비 왔구나 알게 되는 것도 똑같아.",
   "답을 통째로 알려주는 말이랑은 달라. 답 쪽으로 한 걸음 데려다주기만 하는 조각, 그게 clue야."
  ],
+ "explanation_for_kids": null,
  "scene": "보물찾기에서 \"물 있는 데를 봐\" 한마디를 듣고 어항 쪽으로 가는 장면",
  "examples": [
   {
-   "en": "The muddy paw print was a clue that our dog went in my room.",
-   "ko": "진흙 발자국이 우리 개가 내 방에 들어갔다는 단서였어."
+   "en": "The empty coffee pot was a clue that my roommate stayed up late.",
+   "ko": "빈 커피포트가 룸메이트가 늦게까지 안 잤다는 단서였어."
   }
  ],
  "quiz": [
@@ -39,11 +40,11 @@
    "choices": [
     "그 냄비는 손잡이가 까만색이야.",
     "우리 집 냄비는 모두 네 개야.",
-    "냄비 뚜껑이 아직 따끈따끈해.",
+    "냄비 뚜껑이 아직 따끈해.",
     "냄비는 찬장 두 번째 칸에 넣어 둬."
    ],
    "answer_index": 2,
-   "answer": "냄비 뚜껑이 아직 따끈따끈해.",
+   "answer": "냄비 뚜껑이 아직 따끈해.",
    "why": "맞아! 뚜껑이 따끈한 걸 만져 보면 아무도 말 안 해 줬는데도 방금 누가 여기서 요리했구나 알게 되잖아. 그렇게 모르던 답 쪽으로 한 걸음 데려다주는 조각, 그게 바로 clue인 거야."
   }
  ],

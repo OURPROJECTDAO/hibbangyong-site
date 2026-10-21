@@ -11,38 +11,44 @@
  "word": "category",
  "slug": "category",
  "url": "https://hibbangyong.com/words/category/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "종류 — 같은 점이 있는 것끼리 묶어 나눈 한 칸",
  "gloss_ko": "같은 점끼리 묶음",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "도서관 책은 소설, 과학, 역사로 나뉘어 있지? 대회도 노래 부, 춤 부로 딱딱 나뉘고.",
+  "나누는 기준은 뭐든 돼. 뭔지, 몇 살인지, 어떤 모양인지. 같은 점이 있으면 한 칸에 착!",
+  "한데 모여 있을 필요도 없어. 세상 고래는 뿔뿔이 흩어져 살아도 전부 바다 동물이라는 한 칸이거든.",
+  "칸에 든 물건 하나도 아니고, 우르르 모인 무리도 아니야. 같은 점으로 묶은 그 칸, 그게 category야."
+ ],
+ "explanation_for_kids": [
   "도서관 책은 동화, 과학, 역사로 나뉘어 있지? 대회도 노래 부, 춤 부로 딱딱 나뉘고.",
   "나누는 기준은 뭐든 돼. 뭔지, 몇 살인지, 어떤 모양인지. 같은 점이 있으면 한 칸에 착!",
   "한데 모여 있을 필요도 없어. 세상 고래는 뿔뿔이 흩어져 살아도 전부 바다 동물이라는 한 칸이거든.",
   "칸에 든 물건 하나도 아니고, 우르르 모인 무리도 아니야. 같은 점으로 묶은 그 칸, 그게 category야."
  ],
- "scene": "도서관 책을 동화·과학·역사로 나눈 칸",
+ "scene": "도서관 책을 소설·과학·역사로 나눈 칸",
  "examples": [
   {
-   "en": "At the contest, my sister sang in the under-10 category.",
-   "ko": "대회에서 우리 언니는 10살 아래 부에 나가서 노래했어."
+   "en": "At the contest, my sister sang in the solo category.",
+   "ko": "대회에서 우리 언니는 솔로 부문에 나가서 노래했어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "이사 날 거실 바닥에 블록, 냄비, 양말 한 짝, 크레파스, 리모컨이 한 더미로 쌓여 있어. 이 더미는 하나의 category야?",
+   "question": "이사 날 거실 바닥에 충전기, 냄비, 양말 한 짝, 볼펜, 리모컨이 한 더미로 쌓여 있어. 이 더미는 하나의 category야?",
    "choices": [
     "응, category 맞아",
     "아니, category 아니야"
    ],
    "answer_index": 1,
    "answer": "아니, category 아니야",
-   "why": "맞아! 블록, 냄비, 양말 한 짝, 크레파스, 리모컨은 이삿날 거실 바닥에 한 더미로 모여 있을 뿐이야. 다섯 개가 서로 같은 점이 있어서 한 칸에 묶인 게 아니거든. 그래서 이 더미는 category가 아닌 거야."
+   "why": "맞아! 충전기, 냄비, 양말 한 짝, 볼펜, 리모컨은 이삿날 거실 바닥에 한 더미로 모여 있을 뿐이야. 다섯 개가 서로 같은 점이 있어서 한 칸에 묶인 게 아니거든. 그래서 이 더미는 category가 아닌 거야."
   }
  ],
  "synonyms": [
@@ -63,7 +69,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/category.webp",
-  "alt": "도서관 책을 동화·과학·역사로 나눈 칸",
+  "alt": "도서관 책을 소설·과학·역사로 나눈 칸",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,31 +11,32 @@
  "word": "dignity",
  "slug": "dignity",
  "url": "https://hibbangyong.com/words/dignity/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "존엄·품위(누구나 지닌 소중함·떳떳함) — 누구든 함부로 대하면 안 되는, 사람마다 원래 지닌 소중함. (그리고 힘든 순간에도 스스로를 낮추지 않는 떳떳한 마음.)",
  "gloss_ko": "소중함·떳떳함",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "할머니가 무거운 짐을 들고 가. 지나가던 사람이 '어이구 불쌍해' 하며 할머니를 슬쩍 밀치고 앞질러 가. 할머니는 속상해. 왜냐고? 나이 들고 힘없어도 나는 아무렇게나 대해도 되는 사람이 아니거든.",
   "사람은 누구든, 아무리 약하고 가난해도, 함부로 짓밟으면 안 되는 소중함을 가지고 있어.",
   "그리고 창피하고 힘든 순간에도 '나 아직 떳떳해' 하고 고개 드는 그 마음.",
   "그게 dignity야."
  ],
+ "explanation_for_kids": null,
  "scene": "할머니가 짐을 드는데 누가 '불쌍하다'며 밀치고 앞질러 감",
  "examples": [
   {
-   "en": "Even when the other kids laughed at him, Sam stood up with dignity and didn't cry.",
-   "ko": "다른 애들이 막 비웃는데도, 샘은 울지 않고 떳떳하게 딱 일어섰어."
+   "en": "Even when people laughed at him, Sam stood up with dignity and didn't cry.",
+   "ko": "사람들이 비웃는데도 샘은 울지 않고 떳떳하게 일어섰어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "지호가 수학 시험에서 100점을 받고, 쉬는 시간 내내 친구들 앞에서 시험지를 흔들며 '나 잘하지? 너흰 몇 점이야?' 하고 어깨를 으쓱거려. 이런 경우도 'dignity'라고 할 수 있을까?",
+   "question": "지호가 자격증 시험에서 만점을 받고, 점심시간 내내 동료들 앞에서 성적표를 흔들며 '나 잘하지? 너흰 몇 점이야?' 하고 어깨를 으쓱거려. 이런 경우도 'dignity'라고 할 수 있을까?",
    "choices": [
     "응, 이것도 dignity야",
     "아니, 이건 dignity가 아니야"

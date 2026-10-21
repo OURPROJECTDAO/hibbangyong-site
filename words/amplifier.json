@@ -11,31 +11,32 @@
  "word": "amplifier",
  "slug": "amplifier",
  "url": "https://hibbangyong.com/words/amplifier/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "앰프 — 들어온 약한 소리를 전기의 힘으로 크게 키워 주는 기계",
  "gloss_ko": "앰프",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "축제 무대에서 기타를 치거나 마이크에 말하면, 기계로 처음 들어가는 소리는 사실 아주 약해.",
   "그 약한 소리를 전기의 힘으로 몇 배나 세게 키워 주는 기계가 amplifier, 줄여서 앰프야.",
   "기타 앰프처럼 스피커랑 한 상자에 같이 들어 있을 때도 있고, 강당 방송 장비처럼 따로 떨어져 있을 때도 있어.",
   "어느 쪽이든 앰프가 하는 일은 소리를 키우는 거고, 밖으로 울려 내보내는 건 스피커가 해. 그래서 전기 없이 입에 대고 소리만 모으는 종이 메가폰은 앰프가 아니야."
  ],
+ "explanation_for_kids": null,
  "scene": "축제 무대에서 기타 소리와 마이크 소리 키우기",
  "examples": [
   {
-   "en": "The music was too quiet for the big hall, so Dad turned up the amplifier.",
-   "ko": "큰 강당에서는 음악 소리가 너무 작아서 아빠가 앰프 볼륨을 올렸어."
+   "en": "The music in the café was too quiet, so I turned up the amplifier.",
+   "ko": "카페 음악 소리가 너무 작아서 내가 앰프 볼륨을 올렸어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "삼촌 차 트렁크에는 상자 하나가 따로 달려 있어. 이 상자는 카오디오에서 들어온 약한 소리 신호를 전기의 힘으로 세게 키워서 차 안 스피커로 보내 줘. 이 상자가 'amplifier'야?",
+   "question": "친구 차 트렁크에는 상자 하나가 따로 달려 있어. 이 상자는 카오디오에서 들어온 약한 소리 신호를 전기의 힘으로 세게 키워서 차 안 스피커로 보내 줘. 이 상자가 'amplifier'야?",
    "choices": [
     "응, amplifier 맞아",
     "아니, amplifier 아니야"

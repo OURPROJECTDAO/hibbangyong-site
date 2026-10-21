@@ -11,21 +11,27 @@
  "word": "reputation",
  "slug": "reputation",
  "url": "https://hibbangyong.com/words/reputation/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "평판(사람들 사이에 쌓인 소문) — 여러 사람이 오래 지켜보고 쌓은 '걔는 이런 사람' 하는 생각",
  "gloss_ko": "쌓인 좋고 나쁜 소문",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "옆 팀 사람이랑 아직 말도 안 해봤는데, 다들 벌써 '걔 되게 친절하대' 그러는 거 들어봤지?",
+  "한 사람 느낌이 아니야. 여러 사람이 오래 겪어보고 쌓인 '걔는 이런 사람' 하는 생각이거든.",
+  "좋게 쌓일 수도 있고, '걔 약속 잘 어겨' 하고 나쁘게 쌓일 수도 있어.",
+  "그게 reputation이야."
+ ],
+ "explanation_for_kids": [
   "새로 온 친구한테 아직 말도 안 걸어봤는데, 애들이 벌써 '걔 되게 친절하대' 그러는 거 들어봤지?",
   "한 사람 느낌이 아니야. 여러 애들이 오래 겪어보고 쌓인 '그 애는 이런 애' 하는 생각이거든.",
   "좋게 쌓일 수도 있고, '걔 약속 잘 어겨' 하고 나쁘게 쌓일 수도 있어.",
   "그게 reputation이야."
  ],
- "scene": "새 친구를 두고 반 애들이 '걔 친절하대' 하고 미리 말하는 장면",
+ "scene": "옆 팀 사람을 두고 회사 사람들이 '걔 친절하대' 하고 미리 말하는 장면",
  "examples": [
   {
    "en": "That shop has a bad reputation for being rude to kids.",
@@ -62,7 +68,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/reputation.webp",
-  "alt": "새 친구를 두고 반 애들이 '걔 친절하대' 하고 미리 말하는 장면",
+  "alt": "옆 팀 사람을 두고 회사 사람들이 '걔 친절하대' 하고 미리 말하는 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

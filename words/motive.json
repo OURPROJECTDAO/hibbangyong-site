@@ -11,20 +11,21 @@
  "word": "motive",
  "slug": "motive",
  "url": "https://hibbangyong.com/words/motive/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "어떤 일을 하게 만든 마음속 진짜 이유 (왜 그랬는지, 그 속 까닭)",
  "gloss_ko": "마음속 진짜 이유",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "친구가 갑자기 네 가방을 번쩍 들어줬어.",
   "착해서 그런 걸까, 아니면 뭔가 부탁하려고?",
   "그 '왜 그랬는지' 마음속 진짜 까닭 말이야.",
   "그게 motive야."
  ],
+ "explanation_for_kids": null,
  "scene": "친구가 갑자기 가방을 들어준 일(왜 그랬는지)",
  "examples": [
   {

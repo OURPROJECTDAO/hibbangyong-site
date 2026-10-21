@@ -11,21 +11,27 @@
  "word": "qualitative",
  "slug": "qualitative",
  "url": "https://hibbangyong.com/words/qualitative/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "질적인 — 얼마나 많은지(숫자)가 아니라 어떤지(성질·특징)를 따지는",
  "gloss_ko": "질적인",
  "level": {
   "code": "L9",
-  "name": "토플 114~120점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "식당 조사를 한다고 쳐. 남긴 양을 숫자로 세는 방법이 있고, 맛이 어떤지 말로 들어 보는 방법도 있어.",
+  "뒤쪽처럼 얼마나 많은지 말고 어떤지를 보는 게 qualitative야.",
+  "변화도 마찬가지야. 양이 는 게 아니라 물이 얼음 되듯 성질이 바뀌면 qualitative change라고 해.",
+  "'질 좋은'이란 뜻은 아니야. 맛없다, 차갑다 같은 나쁜 평가도 qualitative야."
+ ],
+ "explanation_for_kids": [
   "급식 조사를 한다고 쳐. 남긴 양을 숫자로 세는 방법이 있고, 맛이 어떤지 말로 들어 보는 방법도 있어.",
   "뒤쪽처럼 얼마나 많은지 말고 어떤지를 보는 게 qualitative야.",
   "변화도 마찬가지야. 양이 는 게 아니라 물이 얼음 되듯 성질이 바뀌면 qualitative change라고 해.",
   "'질 좋은'이란 뜻은 아니야. 맛없다, 차갑다 같은 나쁜 평가도 qualitative야."
  ],
- "scene": "급식 조사에서 남긴 양을 숫자로 세기 vs 맛을 말로 듣기",
+ "scene": "식당 조사에서 남긴 양을 숫자로 세기 vs 맛을 말로 듣기",
  "examples": [
   {
    "en": "We did a qualitative study of our school lunch, and the results surprised the teachers.",
@@ -59,7 +65,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/qualitative.webp",
-  "alt": "급식 조사에서 남긴 양을 숫자로 세기 vs 맛을 말로 듣기",
+  "alt": "식당 조사에서 남긴 양을 숫자로 세기 vs 맛을 말로 듣기",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

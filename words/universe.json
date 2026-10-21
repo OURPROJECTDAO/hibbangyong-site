@@ -11,25 +11,26 @@
  "word": "universe",
  "slug": "universe",
  "url": "https://hibbangyong.com/words/universe/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "우주 — 있는 것 전부를 다 합친 온 세상 (별·행성·텅 빈 공간까지 모두)",
  "gloss_ko": "우주",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "밤하늘 올려다봤지? 별이 많아.",
   "근데 universe는 그 별만 말하는 게 아니야.",
   "별도, 행성도, 그 사이 깜깜하게 빈 곳까지, 있는 거 전~부!",
   "그걸 다 하나로 합친 게 universe야."
  ],
+ "explanation_for_kids": null,
  "scene": "밤하늘—별만이 아니라 행성·빈 공간까지, 있는 거 전부를 하나로 합친 것.",
  "examples": [
   {
-   "en": "When I look up at night, I wonder how big the universe really is.",
-   "ko": "밤에 하늘을 올려다보면, 우주가 정말 얼마나 큰지 궁금해져."
+   "en": "On my walk home, I looked up and thought about the universe.",
+   "ko": "집에 걸어오다가 하늘을 올려다보고 우주에 대해 생각했어."
   }
  ],
  "quiz": [

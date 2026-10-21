@@ -11,40 +11,41 @@
  "word": "credible",
  "slug": "credible",
  "url": "https://hibbangyong.com/words/credible/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "믿어볼 만한 — 진짜인지는 아직 몰라도, 앞뒤가 맞아서 믿어도 되겠다 싶은",
  "gloss_ko": "믿어볼 만한",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "친구가 늦게 왔어. 버스가 한참 안 왔대. 그럴 수 있겠다 싶지?",
   "옆 친구는 용이 길을 막아서 늦었대. 이건 못 믿겠지?",
   "버스 이야기가 진짜인지는 아직 아무도 몰라. 그래도 앞뒤가 맞으니까 믿어볼 만해.",
   "좋은 말만 그런 게 아니야. 무서운 소식도 믿어볼 만할 수 있어. 그게 credible이야."
  ],
+ "explanation_for_kids": null,
  "scene": "버스가 한참 안 와서 늦었다는 친구의 늦은 이유",
  "examples": [
   {
-   "en": "Mom said the news about the big storm was credible, so we stayed home.",
-   "ko": "엄마는 큰 태풍 소식이 믿을 만하다고 해서 우리는 집에 있었어."
+   "en": "My mom thought the news about the big storm was credible, so we stayed home.",
+   "ko": "엄마는 큰 태풍 소식이 믿을 만하다고 생각해서 우리는 집에 있었어."
   }
  ],
  "quiz": [
   {
    "type": "choice",
-   "question": "형이 \"어제 놀이터 그네 줄이 끊어졌대\"라고 했어. 다음 중 그 말이 'credible'하다고 할 만한 상황은?",
+   "question": "친구가 \"어제 헬스장 기구 줄이 끊어졌대\"라고 했어. 다음 중 그 말이 'credible'하다고 할 만한 상황은?",
    "choices": [
-    "놀이터에 다녀온 다른 아이도 끊어진 줄을 봤다고 말할 때",
-    "놀이터 미끄럼틀이 파란색으로 칠해져 있을 때",
-    "놀이터까지 걸어서 십 분쯤 걸릴 때",
-    "놀이터 그네가 모두 네 개 있을 때"
+    "헬스장에 다녀온 다른 사람도 끊어진 줄을 봤다고 말할 때",
+    "헬스장 벽이 파란색으로 칠해져 있을 때",
+    "헬스장까지 걸어서 십 분쯤 걸릴 때",
+    "헬스장에 러닝머신이 열 대쯤 있을 때"
    ],
    "answer_index": 0,
-   "answer": "놀이터에 다녀온 다른 아이도 끊어진 줄을 봤다고 말할 때",
-   "why": "맞아! 놀이터에 다녀온 다른 아이도 끊어진 줄을 봤다고 하니까, 형 말과 앞뒤가 딱 맞잖아. 진짜인지는 아직 몰라도 믿어볼 만해졌지? 그래서 이게 credible인 거야."
+   "answer": "헬스장에 다녀온 다른 사람도 끊어진 줄을 봤다고 말할 때",
+   "why": "맞아! 헬스장에 다녀온 다른 사람도 끊어진 줄을 봤다고 하니까, 친구 말과 앞뒤가 딱 맞잖아. 진짜인지는 아직 몰라도 믿어볼 만해졌지? 그래서 이게 credible인 거야."
   }
  ],
  "synonyms": [],

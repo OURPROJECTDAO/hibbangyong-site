@@ -11,20 +11,21 @@
  "word": "dig",
  "slug": "dig",
  "url": "https://hibbangyong.com/words/dig/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "파다 — 흙이나 무언가를 걷어내서 구멍이나 길을 내는 것",
  "gloss_ko": "파다",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "삽으로 흙을 푹 떠서 옆으로 던져. 또 푹, 또 옆으로. 그러면 땅에 구멍이 생기지?",
   "그런데 삽만 그러는 게 아니야. 강아지는 앞발로 흙을 마구 긁어내고, 두더지는 코로 밀고 들어가.",
   "도구가 뭐든, 흙이든 눈이든 모래든 상관없어. 안에 있던 걸 걷어내서 구멍이나 길이 생기면 다 이거야.",
   "그냥 위에서 꾹 누르거나 덮는 거랑은 반대지? 걷어내는 쪽이야. 그게 dig야."
  ],
+ "explanation_for_kids": null,
  "scene": "삽으로 흙을 떠서 옆으로 던져 구멍이 생기는 장면",
  "examples": [
   {

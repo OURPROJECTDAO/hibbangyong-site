@@ -11,22 +11,23 @@
  "word": "phase",
  "slug": "phase",
  "url": "https://hibbangyong.com/words/phase/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "단계 — 뭔가가 조금씩 변해 갈 때, 그 변화의 한 구간 한 구간.",
  "gloss_ko": "변해 가는 구간",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "올챙이가 개구리로 변해 가는 거 봐봐.\n처음엔 그냥 올챙이, 그다음 뒷다리 쏙, 앞다리 쏙, 마지막에 개구리.\n이렇게 변해 가는 도중에 한 칸 한 칸이 있거든?\n그 한 칸 한 칸이 phase야."
  ],
- "scene": "올챙이가 개구리로 변해 가는 변화의 단계 (child 앵커)",
+ "explanation_for_kids": null,
+ "scene": "올챙이가 개구리로 변해 가는 변화의 단계",
  "examples": [
   {
-   "en": "The tadpole is in the phase where its back legs are just starting to grow.",
-   "ko": "그 올챙이는 지금 막 뒷다리가 돋아나는 단계에 있어."
+   "en": "The project is in its final phase, so everyone is busy.",
+   "ko": "그 프로젝트가 마지막 단계라서 다들 바빠."
   }
  ],
  "quiz": [
@@ -62,7 +63,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/phase.webp",
-  "alt": "올챙이가 개구리로 변해 가는 변화의 단계 (child 앵커)",
+  "alt": "올챙이가 개구리로 변해 가는 변화의 단계",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

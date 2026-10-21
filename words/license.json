@@ -11,31 +11,32 @@
  "word": "license",
  "slug": "license",
  "url": "https://hibbangyong.com/words/license/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "면허·허가증 — 어떤 일을 해도 된다고 공식으로 허락받은 자격(또는 그 종이).",
  "gloss_ko": "면허·허가증",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "낚시터에 갔는데 아저씨가 '너 종이 있어?' 하고 물어봐.",
   "낚시할 줄 알아도, '이 사람은 물고기 잡아도 돼' 하고 공식으로 허락받은 게 없으면 못 잡아.",
   "운전도, 가게 문 여는 것도, 다 이런 '해도 된다'는 허락을 받아야 하거든.",
   "그렇게 어떤 일을 해도 된다고 공식으로 허락받은 자격, 그게 license야."
  ],
+ "explanation_for_kids": null,
  "scene": "낚시터에서 종이 있냐고 묻는 아저씨",
  "examples": [
   {
-   "en": "Dad had to show his license before they let him sell fish at the market.",
-   "ko": "아빠는 시장에서 생선을 팔려고 먼저 허가증을 보여 줘야 했어."
+   "en": "My dad had to show his license before he could sell fish at the market.",
+   "ko": "우리 아빠는 시장에서 생선을 팔기 전에 허가증부터 보여 줘야 했어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "이모는 미용실에서 머리 자르는 일을 해. 미용실 벽에 '이 사람은 머리를 잘라도 됩니다' 하고 나라에서 내준 종이가 액자에 걸려 있어. 이게 'license'야?",
+   "question": "내 친구는 미용실에서 머리 자르는 일을 해. 미용실 벽에 '이 사람은 머리를 잘라도 됩니다' 하고 나라에서 내준 종이가 액자에 걸려 있어. 이게 'license'야?",
    "choices": [
     "응, license 맞아",
     "아니, license 아니야"

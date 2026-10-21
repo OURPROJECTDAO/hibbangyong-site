@@ -11,15 +11,21 @@
  "word": "coach",
  "slug": "coach",
  "url": "https://hibbangyong.com/words/coach/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "코치 — 운동이나 어떤 걸 더 잘하게 옆에서 가르치고 이끌어 주는 사람",
  "gloss_ko": "코치",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "축구할 때 옆에서 \"다리 더 벌려! 좋아, 한 번 더!\" 외쳐 주는 사람 본 적 있지?",
+  "네가 잘하게 자세도 봐주고, 틀리면 딱 고쳐 주고, 잘하면 신나게 응원해 줘.",
+  "강의실 교수님이랑은 좀 달라. 책으로 알려 주는 게 아니라, 네가 직접 해보는 걸 옆에서 봐주거든.",
+  "운동만? 아니야. 노래든 공부든, 네가 더 잘하게 옆에서 끌어 주면 다 이거야. 이게 coach야."
+ ],
+ "explanation_for_kids": [
   "축구할 때 옆에서 \"다리 더 벌려! 좋아, 한 번 더!\" 외쳐 주는 사람 본 적 있지?",
   "네가 잘하게 자세도 봐주고, 틀리면 딱 고쳐 주고, 잘하면 신나게 응원해 줘.",
   "교실 선생님이랑은 좀 달라. 책으로 알려 주는 게 아니라, 네가 직접 해보는 걸 옆에서 봐주거든.",
@@ -28,8 +34,8 @@
  "scene": "축구장 옆에서 자세 봐주고 고쳐 주고 응원해 잘하게 만드는 사람",
  "examples": [
   {
-   "en": "My soccer coach showed me how to kick the ball harder.",
-   "ko": "축구 코치님이 공을 더 세게 차는 법을 알려 줬어."
+   "en": "My coach at the gym showed me how to lift weights safely.",
+   "ko": "헬스장 코치가 웨이트를 안전하게 드는 법을 알려 줬어."
   }
  ],
  "quiz": [

@@ -11,38 +11,39 @@
  "word": "divination",
  "slug": "divination",
  "url": "https://hibbangyong.com/words/divination/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "점, 점치기 — 별·카드·뼈 같은 신비한 신호를 읽어서 앞으로 일어날 일을 알아내려는 것",
  "gloss_ko": "점치기",
  "level": {
   "code": "L9",
-  "name": "토플 114~120점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "별 위치, 카드 그림, 불에 구운 뼈에 생긴 금 — 이런 걸 신호로 보고 앞일을 읽어 내려는 거야.",
   "옛날 나라에서 크게 치르던 의식이든, 요즘 친구가 재미로 보는 타로든 다 여기 들어가.",
   "구름 사진이랑 기온 자료로 내일 비를 맞히는 일기예보랑은 달라. 근거 대신 신비한 신호를 읽거든.",
   "합격 부적처럼 앞일을 바꿔 달라고 비는 것도 아니야. 바꾸는 게 아니라 미리 알아내려는 거야."
  ],
+ "explanation_for_kids": null,
  "scene": "별 위치·카드 그림·구운 뼈의 금을 신호로 읽기",
  "examples": [
   {
-   "en": "In ancient China, kings used divination to choose the day for a battle.",
-   "ko": "옛날 중국에서는 왕들이 점을 쳐서 전투할 날을 골랐어."
+   "en": "At the museum, we saw old bones used for divination.",
+   "ko": "박물관에서 옛날에 점칠 때 쓰던 뼈를 봤어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "이모가 시장 골목의 할머니에게 손바닥을 보여 줬어. 할머니는 손바닥의 금 모양을 읽더니 \"내년에 이사를 가겠네\" 하고 앞일을 알려 줬어. 할머니가 한 일은 'divination'이야?",
+   "question": "친구가 시장 골목의 할머니에게 손바닥을 보여 줬어. 할머니는 손바닥의 금 모양을 읽더니 \"내년에 이사를 가겠네\" 하고 앞일을 알려 줬어. 할머니가 한 일은 'divination'이야?",
    "choices": [
     "응, divination 맞아",
     "아니, divination 아니야"
    ],
    "answer_index": 0,
    "answer": "응, divination 맞아",
-   "why": "맞아! 할머니는 이모 손바닥의 금 모양을 신호로 보고, 내년에 이사를 간다는 앞일을 읽어 냈잖아. 이렇게 신비한 신호를 읽어서 앞으로 일어날 일을 알아내려는 게 바로 divination이야."
+   "why": "맞아! 할머니는 친구 손바닥의 금 모양을 신호로 보고, 내년에 이사를 간다는 앞일을 읽어 냈잖아. 이렇게 신비한 신호를 읽어서 앞으로 일어날 일을 알아내려는 게 바로 divination이야."
   }
  ],
  "synonyms": [],

@@ -11,25 +11,26 @@
  "word": "twist",
  "slug": "twist",
  "url": "https://hibbangyong.com/words/twist/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "비틀기 — 곧던 것을 돌려서 꼬이게 하는 것, 또 가던 방향이 홱 돌아가는 것(그렇게 돌아간 자리도)",
  "gloss_ko": "비틀기",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "젖은 수건 양쪽 끝을 잡고 서로 반대쪽으로 돌려 봐. 수건이 배배 꼬이면서 물이 주르륵 떨어지지?",
   "접은 것도 아니고, 묶은 것도 아니야. 도는 거거든.",
   "가던 길이 홱 돌아 딴 쪽으로 갈 때도, 이야기가 갑자기 딴 데로 홱 돌 때도, 발이 잘못 돌아가 삐끗할 때도 다 이 얘기야.",
   "그게 twist야."
  ],
+ "explanation_for_kids": null,
  "scene": "젖은 수건 양끝을 반대로 돌려 배배 꼬는 장면",
  "examples": [
   {
-   "en": "The road had one last twist before the beach.",
-   "ko": "그 길은 바닷가에 닿기 전에 마지막으로 한 번 홱 꺾였어."
+   "en": "The jar finally opened after one hard twist.",
+   "ko": "병뚜껑을 세게 한 번 비트니까 드디어 열렸어."
   }
  ],
  "quiz": [

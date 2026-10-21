@@ -11,20 +11,21 @@
  "word": "steady",
  "slug": "steady",
  "url": "https://hibbangyong.com/words/steady/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "흔들림 없이 쭉 그대로인 — 세거나 약해지지 않고 같은 상태로 계속되는",
  "gloss_ko": "흔들림 없이 쭉 그대로인",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "수도꼭지를 살짝 틀어놨어. 물이 쫄쫄쫄, 계속 똑같이 나와. 세졌다 약해졌다 안 하고.",
   "그게 steady야. 빠르다는 뜻이 아니야. 느려도 steady일 수 있거든? 흔들리지 않고 같은 상태로 쭉 가는 거야.",
   "좋은 일에만 쓰는 것도 아니야. 비가 하루 종일 똑같이 주룩주룩 와도 steady, 손이 안 떨리고 가만히 있어도 steady, 값이 안 오르고 안 내리고 그대로여도 steady야.",
   "울퉁불퉁 튀거나 갑자기 확 바뀌면 그건 steady가 아니야."
  ],
+ "explanation_for_kids": null,
  "scene": "살짝 튼 수도꼭지에서 쫄쫄쫄 일정하게 나오는 물",
  "examples": [
   {

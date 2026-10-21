@@ -11,31 +11,37 @@
  "word": "former",
  "slug": "former",
  "url": "https://hibbangyong.com/words/former/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "전에 ~였던, 예전의 (지금은 아닌)",
  "gloss_ko": "예전의",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "우리 팀이었다가 다른 팀으로 간 동료 있잖아.",
+  "지금은 우리 팀 아니지? 근데 '전에는' 우리 팀이었어.",
+  "오래됐다, 낡았다는 말 아니야! 그냥 '예전엔 그랬는데 지금은 아냐'거든?",
+  "그 '전에 ~였던'이 바로 former야."
+ ],
+ "explanation_for_kids": [
   "우리 반이었다가 다른 반으로 간 친구 있잖아.",
   "지금은 우리 반 아니지? 근데 '전에는' 우리 반이었어.",
   "오래됐다, 낡았다는 말 아니야! 그냥 '예전엔 그랬는데 지금은 아냐'거든?",
   "그 '전에 ~였던'이 바로 former야."
  ],
- "scene": "전엔 우리 반이던 친구가 지금은 다른 반 — 예전엔 맞고 지금은 아님",
+ "scene": "전엔 우리 팀이던 동료가 지금은 다른 팀 — 예전엔 맞고 지금은 아님",
  "examples": [
   {
    "en": "She is a former member of our soccer team.",
-   "ko": "그 애는 우리 축구팀의 예전 멤버야."
+   "ko": "그 사람은 우리 축구팀 예전 멤버야."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "지금 우리 축구팀 골키퍼를 맡고 있는 형이 있어. 이 형을 우리 팀의 former 골키퍼라고 할 수 있을까?",
+   "question": "지금 우리 축구팀 골키퍼를 맡고 있는 선배가 있어. 이 선배를 우리 팀의 former 골키퍼라고 할 수 있을까?",
    "choices": [
     "응, former 골키퍼가 맞아",
     "아니, former 골키퍼가 아니야"
@@ -66,7 +72,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/former.webp",
-  "alt": "전엔 우리 반이던 친구가 지금은 다른 반 — 예전엔 맞고 지금은 아님",
+  "alt": "전엔 우리 팀이던 동료가 지금은 다른 팀 — 예전엔 맞고 지금은 아님",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,15 +11,21 @@
  "word": "release",
  "slug": "release",
  "url": "https://hibbangyong.com/words/release/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "풀어줌 — 잡아두거나 막아두던 것을 놓아서 밖으로 나가게 하는 일",
  "gloss_ko": "풀어줌",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "댐 수문 뒤에 물이 꽉 막혀 있다고 해 봐.",
+  "그 문을 스르륵 열면? 갇혀 있던 물이 콰아 하고 밖으로 나가.",
+  "이렇게 붙잡아 두던 걸 놓아서 나가게 하는 일이야. 새처럼 좋은 것도, 더러운 물 같은 나쁜 것도 똑같아.",
+  "혼자 몰래 새어 나간 게 아니라, 잡고 있던 쪽이 놓아준 거거든? 그게 release야."
+ ],
+ "explanation_for_kids": [
   "댐 알지? 물을 꽉 막아 세워 두는 커다란 벽 말이야.",
   "그 문을 스르륵 열면? 갇혀 있던 물이 콰아 하고 밖으로 나가.",
   "이렇게 붙잡아 두던 걸 놓아서 나가게 하는 일이야. 새처럼 좋은 것도, 더러운 물 같은 나쁜 것도 똑같아.",
@@ -28,8 +34,8 @@
  "scene": "댐 문을 열어 갇혀 있던 물이 쏟아져 나가는 순간",
  "examples": [
   {
-   "en": "The release of the birds from the big cage made the children cheer.",
-   "ko": "큰 새장에서 새들을 풀어 주자 아이들이 와 하고 소리쳤어."
+   "en": "We watched the release of the turtles at the beach on our trip.",
+   "ko": "여행 가서 해변에서 거북이들을 바다로 풀어 주는 걸 봤어."
   }
  ],
  "quiz": [

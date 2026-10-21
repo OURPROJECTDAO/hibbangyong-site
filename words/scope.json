@@ -11,25 +11,31 @@
  "word": "scope",
  "slug": "scope",
  "url": "https://hibbangyong.com/words/scope/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "범위 — 어떤 일이나 책, 조사가 어디까지 다루는지 (좁을 수도, 넓을 수도 있어)",
  "gloss_ko": "다루는 범위",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "시험 전에 교수님이 그러시잖아? \"여기부터 여기까지 나와.\"",
+  "그렇게 선을 그은 안쪽이 딱 정해지는 거야. 좁을 수도 있고, 넓을 수도 있어.",
+  "책도, 조사도, 할 일도 다 '어디까지 다루는지'가 있거든.",
+  "뭘 하는지가 아니라 어디까지 하는지. 그게 scope야."
+ ],
+ "explanation_for_kids": [
   "받아쓰기 시험 전에 선생님이 말하지? \"여기부터 여기까지 나와.\"",
   "그렇게 선을 그은 안쪽이 딱 정해지는 거야. 좁을 수도 있고, 넓을 수도 있어.",
   "책도, 조사도, 할 일도 다 '어디까지 다루는지'가 있거든.",
   "뭘 하는지가 아니라 어디까지 하는지. 그게 scope야."
  ],
- "scene": "받아쓰기 시험 전 선생님이 '여기부터 여기까지' 알려 주기",
+ "scene": "시험 전 교수님이 '여기부터 여기까지' 알려 주기",
  "examples": [
   {
-   "en": "The scope of our class project got smaller, so we only studied frogs.",
-   "ko": "우리 반 과제에서 다루는 범위가 좁아져서, 개구리만 조사했어."
+   "en": "The scope of our biology project got smaller, so we only studied frogs.",
+   "ko": "생물학 과제에서 다루는 범위가 좁아져서 개구리만 조사했어."
   }
  ],
  "quiz": [
@@ -59,7 +65,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/scope.webp",
-  "alt": "받아쓰기 시험 전 선생님이 '여기부터 여기까지' 알려 주기",
+  "alt": "시험 전 교수님이 '여기부터 여기까지' 알려 주기",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,23 +11,24 @@
  "word": "leaf",
  "slug": "leaf",
  "url": "https://hibbangyong.com/words/leaf/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "나뭇잎 — 나무나 풀에 붙어 있는 초록색 잎사귀",
  "gloss_ko": "나뭇잎",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "화면 가운데 있는 이 초록색 잎사귀 한 장이 leaf예요. 잎맥이 그물처럼 뻗어 있죠.",
   "공원 나무나 화분에서 leaf를 아주 많이 볼 수 있어요."
  ],
+ "explanation_for_kids": null,
  "scene": "초록빛 나뭇잎 한 장(잎맥이 또렷한 잎사귀)을 화면 중앙에 크고 온전하게 — leaf=나뭇잎",
  "examples": [
   {
-   "en": "A green leaf fell from the tree.",
-   "ko": "초록 나뭇잎 한 장이 나무에서 떨어졌어."
+   "en": "A leaf fell into my coffee at the café.",
+   "ko": "카페에서 나뭇잎 하나가 내 커피에 떨어졌어."
   }
  ],
  "quiz": [

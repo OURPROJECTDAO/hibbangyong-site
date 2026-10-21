@@ -11,20 +11,21 @@
  "word": "broad",
  "slug": "broad",
  "url": "https://hibbangyong.com/words/broad/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "넓은 — 위나 높이가 아니라, 이쪽 끝에서 저쪽 끝까지 옆으로 폭이 널찍한",
  "gloss_ko": "넓은",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "이쪽 끝에서 저쪽 끝까지, 옆으로 쫙 펼쳐져 있어.",
   "넓은 강도 그렇고, 형 어깨가 떡 벌어진 것도, 입이 활짝 벌어진 웃음도 다 그래.",
   "위로 높이 솟은 거랑은 상관없어. 위로 말고 옆으로 펼쳐진 거거든.",
   "이렇게 옆으로 폭이 널찍한 게 broad야."
  ],
+ "explanation_for_kids": null,
  "scene": "이쪽 끝에서 저쪽 끝까지 옆으로 쫙 펼쳐진 모습",
  "examples": [
   {

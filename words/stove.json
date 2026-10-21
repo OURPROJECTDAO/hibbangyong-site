@@ -11,23 +11,24 @@
  "word": "stove",
  "slug": "stove",
  "url": "https://hibbangyong.com/words/stove/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "가스레인지 — 냄비를 올리고 불을 켜서 음식을 끓이거나 데우는 부엌 기구",
  "gloss_ko": "가스레인지",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "부엌에서 냄비를 올려놓고 불을 켜서 음식을 끓이는 그 기구가 stove예요.",
   "엄마가 국을 데우거나 계란을 부칠 때 이 위에 냄비랑 프라이팬을 올려요."
  ],
+ "explanation_for_kids": null,
  "scene": "가스레인지(스토브) — 버너 하나에 파란 불꽃 링이 켜진 부엌 가스레인지를 정면에서 통째로",
  "examples": [
   {
-   "en": "Mom heated the soup on the stove.",
-   "ko": "엄마가 가스레인지에 국을 데웠어."
+   "en": "I heated the soup on the stove.",
+   "ko": "가스레인지에 국을 데웠어."
   }
  ],
  "quiz": [

@@ -11,20 +11,21 @@
  "word": "situate",
  "slug": "situate",
  "url": "https://hibbangyong.com/words/situate/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "위치시키다 — 주변을 살펴서, 무언가를 한 자리에 자리 잡게 하다",
  "gloss_ko": "자리 잡게 하다",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "새 놀이터를 어디에 둘까? 학교 옆? 강가? 언덕 위?",
   "아무 데나 툭 놓는 거랑은 달라. 주변을 보고 딱 그 자리에 앉히는 거거든.",
   "이야기도 그래. 작가가 이야기를 옛날 옛적 바닷가 마을에 앉히기도 해.",
   "건물이든 이야기든, 어떤 자리에 자리 잡게 하는 것. 그게 situate야."
  ],
+ "explanation_for_kids": null,
  "scene": "새 놀이터를 어디에 둘지 정하기(학교 옆·강가·언덕 위)",
  "examples": [
   {

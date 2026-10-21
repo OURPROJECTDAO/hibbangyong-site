@@ -11,20 +11,21 @@
  "word": "acoustic",
  "slug": "acoustic",
  "url": "https://hibbangyong.com/words/acoustic/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "음향의 — 소리가 어떻게 퍼지고 어떻게 들리는지에 관한",
  "gloss_ko": "음향의",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "강당에서 말하면 소리가 웅웅 울리는데, 작은 방에선 또렷하게 들리지?",
   "이렇게 소리가 어떻게 퍼지고 어떻게 들리는지에 관한 걸 acoustic이라고 해.",
   "전기 없이 나무통이 직접 울려서 소리 나는 기타를 acoustic 기타라고 부르는 것도 같은 이유야.",
   "그냥 '시끄러운'이나 '음악의'랑은 달라. 말소리든 발소리든, 소리가 전해지는 방식 얘기야."
  ],
+ "explanation_for_kids": null,
  "scene": "강당에서는 말소리가 울리고 작은 방에서는 또렷하게 들리는 차이",
  "examples": [
   {

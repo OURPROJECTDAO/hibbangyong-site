@@ -11,38 +11,44 @@
  "word": "leave",
  "slug": "leave",
  "url": "https://hibbangyong.com/words/leave/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "어딜 떠나서 딴 데로 가다; 또는 뭘 그 자리에 그대로 두고 오다",
  "gloss_ko": "두고 떠나기",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "바닷가에서 하루 잘 놀고 이제 집에 가려고 해.",
+  "너는 바닷가를 떠나서 집으로 가.",
+  "만들던 모래성도 안 가져가지? 그 자리에 두고 그냥 와.",
+  "이렇게 어딜 떠나거나, 뭘 그 자리에 두고 오는 게 leave야."
+ ],
+ "explanation_for_kids": [
   "놀이터에서 신나게 놀았는데 이제 집에 갈 시간이야.",
   "너는 놀이터에서 나와서 집으로 가. 놀이터는 그 자리에 그대로 있고.",
   "만들던 모래성도 안 가져가지? 그 자리에 두고 그냥 와.",
   "이렇게 어딜 떠나거나, 뭘 그 자리에 두고 오는 게 leave야."
  ],
- "scene": "놀이터에서 집에 갈 때 놀이터를 떠나며 모래성을 그 자리에 두고 옴",
+ "scene": "바닷가에서 집에 갈 때 바닷가를 떠나며 모래성을 그 자리에 두고 옴",
  "examples": [
   {
-   "en": "We leave the house at eight every morning.",
-   "ko": "우리는 아침마다 여덟 시에 집에서 나가."
+   "en": "I leave for work at eight every morning.",
+   "ko": "나는 아침마다 여덟 시에 출근하러 나가."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "누나가 도서관 책상에서 책을 읽다가, 가방을 메고 도서관 문 밖으로 나와 버스 정류장까지 걸어갔어. 누나가 도서관을 'leave'한 거야?",
+   "question": "친구가 도서관 책상에서 책을 읽다가, 가방을 메고 도서관 문 밖으로 나와 버스 정류장까지 걸어갔어. 친구가 도서관을 'leave'한 거야?",
    "choices": [
     "응, 'leave' 맞아",
     "아니, 'leave' 아니야"
    ],
    "answer_index": 0,
    "answer": "응, 'leave' 맞아",
-   "why": "맞아! 누나가 도서관 안에 있다가 밖으로 나와서 딴 데로 걸어갔지? 도서관은 그 자리에 그대로 있고 누나만 거기서 벗어난 거니까, 바로 그게 leave야."
+   "why": "맞아! 친구가 도서관 안에 있다가 밖으로 나와서 딴 데로 걸어갔지? 도서관은 그 자리에 그대로 있고 친구만 거기서 벗어난 거니까, 바로 그게 leave야."
   }
  ],
  "synonyms": [],
@@ -60,7 +66,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/leave.webp",
-  "alt": "놀이터에서 집에 갈 때 놀이터를 떠나며 모래성을 그 자리에 두고 옴",
+  "alt": "바닷가에서 집에 갈 때 바닷가를 떠나며 모래성을 그 자리에 두고 옴",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

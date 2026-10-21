@@ -11,25 +11,26 @@
  "word": "monument",
  "slug": "monument",
  "url": "https://hibbangyong.com/words/monument/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "기념물 — 누군가나 무슨 일을 오래오래 기억하라고 세워 둔 것",
  "gloss_ko": "기념물",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "동네를 걷다 보면, 앉을 수도 없고 들어갈 수도 없는 게 하나 딱 서 있을 때가 있어. 쓸 데가 하나도 없어 보이지?",
   "근데 그거, 쓸 데 없으라고 세운 게 아니야. 여기서 있었던 일이나 여기 살던 사람을, 지나가는 사람들이 두고두고 알라고 세워 둔 거거든?",
   "슬픈 일 때문에 세우기도 하고, 자랑스러운 사람 때문에 세우기도 해. 어마어마하게 클 수도 있고, 손바닥만 한 판 하나일 수도 있어.",
   "그냥 예쁘라고 세운 조각이랑은 달라. 세운 이유가 잊지 말라는 거면, 그게 monument야."
  ],
+ "explanation_for_kids": null,
  "scene": "앉을 수도 들어갈 수도 없는, 쓸 데 없어 보이는 채로 길가에 서 있는 것",
  "examples": [
   {
-   "en": "The town built a monument for the firefighters who saved everyone from the big fire.",
-   "ko": "마을은 큰불에서 모두를 구한 소방관들을 기억하려고 기념물을 세웠어."
+   "en": "On our trip, we took a photo by the monument to a famous writer.",
+   "ko": "여행 가서 우리는 유명한 작가를 기리는 기념물 옆에서 사진을 찍었어."
   }
  ],
  "quiz": [

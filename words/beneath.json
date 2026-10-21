@@ -11,15 +11,21 @@
  "word": "beneath",
  "slug": "beneath",
  "url": "https://hibbangyong.com/words/beneath/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "밑에 — 어떤 것의 아래쪽에(붙어 있든, 저 멀리 아래든, 겉에 가려져 있든)",
  "gloss_ko": "밑에",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "얼음판 위에 올라섰어. 발 아래쪽에서 물이 흘러가고 있어.",
+  "네가 있는 곳보다 아래쪽이면 다 돼. 딱 붙어 있어도 되고, 저 멀리 한참 아래여도 되고.",
+  "겉을 걷어내야 나오는 아래쪽도 그래. 오래된 그림 밑에 숨어 있던 다른 그림처럼.",
+  "위쪽도 아니고 옆쪽도 아니야. 그게 beneath야."
+ ],
+ "explanation_for_kids": [
   "얼음판 위에 올라섰어. 발 아래쪽에서 물이 쿨렁쿨렁 흘러가고 있어.",
   "네가 있는 곳보다 아래쪽이면 다 돼. 딱 붙어 있어도 되고, 저 멀리 한참 아래여도 되고.",
   "겉을 걷어내야 나오는 아래쪽도 그래. 오래된 그림 밑에 숨어 있던 다른 그림처럼.",
@@ -28,14 +34,14 @@
  "scene": "얼음판 위에 서 있고 그 아래로 물이 흘러가는 장면",
  "examples": [
   {
-   "en": "The old painting had another picture hidden beneath.",
+   "en": "The old painting had another picture hidden beneath it.",
    "ko": "그 오래된 그림 밑에는 다른 그림이 숨겨져 있었어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "놀이터에서 하윤이가 미끄럼틀 계단을 올라가는데, 하윤이보다 훨씬 위쪽 전봇대 꼭대기에 참새 한 마리가 앉아 있어. 하윤이한테 그 참새는 'beneath'야?",
+   "question": "하윤이가 육교 계단을 올라가는데, 하윤이보다 훨씬 위쪽 전봇대 꼭대기에 참새 한 마리가 앉아 있어. 하윤이한테 그 참새는 'beneath'야?",
    "choices": [
     "응, beneath 맞아",
     "아니, beneath 아니야"

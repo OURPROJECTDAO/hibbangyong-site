@@ -11,15 +11,21 @@
  "word": "among",
  "slug": "among",
  "url": "https://hibbangyong.com/words/among/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "(둘이 아니라) 여럿 사이에·여럿 속에·여럿 중에",
  "gloss_ko": "여럿 사이에",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "나무가 딱 두 그루면, 그 '사이'는 between이야.",
+  "근데 셋, 넷, 수십 그루처럼 여럿이면? 그 여럿 속에 섞여 있는 걸 among이라고 해.",
+  "꼭 한가운데 폭 파묻힐 필요도 없어. 여럿 중에 그냥 껴 있으면 다 among이야.",
+  "친구가 여럿인데 그중 한 명이 너여도 among이고, 간식을 여럿이 나눠 가져도 among이야. 이게 among이야."
+ ],
+ "explanation_for_kids": [
   "나무가 딱 두 그루면, 그 '사이'는 between이야.",
   "근데 셋, 넷, 수십 그루처럼 여럿이면? 그 여럿 속에 섞여 있는 걸 among이라고 해.",
   "꼭 한가운데 폭 파묻힐 필요도 없어. 여럿 중에 그냥 껴 있으면 다 among이야.",
@@ -28,14 +34,14 @@
  "scene": "나무 여럿 속에 섞여 껴 있는 것",
  "examples": [
   {
-   "en": "I hid among the tall trees, so no one could find me.",
-   "ko": "키 큰 나무들 사이에 숨어서 아무도 날 못 찾았어."
+   "en": "I found my friend among all the people at the station.",
+   "ko": "역에 있던 많은 사람들 사이에서 친구를 찾았어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "운동장에 학생 스무 명이 동그랗게 모여 있어. 나는 그 스무 명 속에 섞여 서 있어. 이게 'among'이야?",
+   "question": "광장에 사람 스무 명이 동그랗게 모여 있어. 나는 그 스무 명 속에 섞여 서 있어. 이게 'among'이야?",
    "choices": [
     "응, among 맞아",
     "아니, among 아니야"

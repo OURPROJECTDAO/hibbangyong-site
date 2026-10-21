@@ -11,25 +11,26 @@
  "word": "flight",
  "slug": "flight",
  "url": "https://hibbangyong.com/words/flight/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "비행 — 하늘을 날아서 가는 것. 그리고 '내가 탈 비행기 한 편'도 flight라고 해.",
  "gloss_ko": "비행",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "새가 나뭇가지에서 뛰어내렸어. 그런데 땅으로 안 떨어지고, 붕 떠서 저 지붕까지 갔지. 그렇게 하늘을 지나서 가는 게 flight야.",
   "새만 그런 게 아니야. 나비도, 종이비행기도, 진짜 비행기도 다 flight를 해. 짧게 붕 떠도 flight, 바다를 건너 한나절을 가도 flight야.",
   "그리고 이런 말도 해. 우리 flight는 여섯 시야. 이건 우리가 탈 비행기 그 한 편, 그 하늘길 한 번을 말하는 거거든?",
   "날개를 flight라고 하는 건 아니야. 날개는 그냥 날개고, 날개로 하늘을 지나가는 그게 flight야."
  ],
+ "explanation_for_kids": null,
  "scene": "새가 나뭇가지에서 뛰어내려 땅에 안 떨어지고 지붕까지 붕 떠서 가는 장면",
  "examples": [
   {
-   "en": "My baby bird made his first flight from the branch to the fence.",
-   "ko": "우리 아기 새가 나뭇가지에서 울타리까지 처음으로 날았어."
+   "en": "My flight to Jeju leaves at seven tomorrow morning.",
+   "ko": "제주 가는 내 비행기는 내일 아침 7시에 떠."
   }
  ],
  "quiz": [

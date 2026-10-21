@@ -11,31 +11,32 @@
  "word": "plant",
  "slug": "plant",
  "url": "https://hibbangyong.com/words/plant/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "심다 — 씨앗이나 뿌리, 어린 나무를 흙 속에 넣고 덮어서, 그 자리에서 자라게 하는 것.",
  "gloss_ko": "심다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "마당에 구멍을 파고, 어린 나무를 쏙 넣고, 흙을 도로 덮어.",
   "왜 덮냐고? 거기서 뿌리 내리고 자라라고.",
   "씨앗 한 알도, 마늘 한 쪽도, 화분 흙에 이렇게 넣어.",
   "보물 상자 파묻는 거랑은 달라. 그건 숨기려고 넣는 거고, 이건 자라라고 넣는 거야. 이게 plant야."
  ],
+ "explanation_for_kids": null,
  "scene": "마당에 구멍 파고 어린 나무 넣고 흙 덮기",
  "examples": [
   {
-   "en": "Every spring we plant a small apple tree next to the fence.",
-   "ko": "우리는 봄마다 울타리 옆에 작은 사과나무를 심어."
+   "en": "I want to plant some herbs on my balcony this spring.",
+   "ko": "이번 봄엔 베란다에 허브를 좀 심고 싶어."
   }
  ],
  "quiz": [
   {
    "type": "choice",
-   "question": "민서네 반이 오늘 각자 해 볼 일을 하나씩 고르고 있어. 다음 중 'plant'에 해당하는 것은?",
+   "question": "민서랑 친구들이 오늘 각자 해 볼 일을 하나씩 고르고 있어. 다음 중 'plant'에 해당하는 것은?",
    "choices": [
     "빨래를 줄에 널어서 말리기",
     "컵에 우유를 따라서 마시기",

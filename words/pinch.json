@@ -11,31 +11,32 @@
  "word": "pinch",
  "slug": "pinch",
  "url": "https://hibbangyong.com/words/pinch/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "꼬집기 — 두 쪽 사이에 끼우고 꼭 집는 것, 또 그렇게 집힌 아주 조금",
  "gloss_ko": "꼬집기",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "국 끓일 때 소금 넣는 거 봐봐. 손가락 두 개를 모아 콕, 꼭 집지?",
   "그렇게 두 쪽 사이에 끼우고 꾹 누르는 거야. 그때 집힌 그 조금도 같은 말로 불러.",
   "손 전체로 움켜쥐는 것도 아니고, 손가락 하나로 콕 찌르는 것도 아니야. 팔을 그렇게 집으면? 아야!",
   "이게 pinch야."
  ],
+ "explanation_for_kids": null,
  "scene": "국에 소금을 손가락 두 개로 집어 넣는 장면",
  "examples": [
   {
-   "en": "She gave my arm a little pinch to wake me up.",
-   "ko": "그 애는 나를 깨우려고 내 팔을 살짝 꼬집었어."
+   "en": "My coworker gave my arm a pinch to keep me awake.",
+   "ko": "동료가 졸지 말라고 내 팔을 꼬집었어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "동생이 손안에 쥐고 있던 구슬을 다섯 손가락을 쫙 펴서 바닥에 떨어뜨렸어. 동생이 한 이 동작이 pinch야?",
+   "question": "친구가 손안에 쥐고 있던 동전을 다섯 손가락을 쫙 펴서 바닥에 떨어뜨렸어. 친구가 한 이 동작이 pinch야?",
    "choices": [
     "응, pinch 맞아",
     "아니, pinch 아니야"

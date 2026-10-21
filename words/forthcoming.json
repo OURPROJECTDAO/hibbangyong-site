@@ -11,25 +11,31 @@
  "word": "forthcoming",
  "slug": "forthcoming",
  "url": "https://hibbangyong.com/words/forthcoming/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "다가오는 — 곧 열리거나 곧 나오기로 정해진 (행사·시험·책·발표 등)",
  "gloss_ko": "곧 다가올",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "달력에 벌써 동그라미 쳐 둔 날 있지? 다음 달 면접, 다음 주 새 앨범 나오는 날 같은 거.",
+  "아직 안 왔는데, 곧 온다고 정해진 일. 그런 걸 forthcoming이라고 해.",
+  "반가운 일이든 싫은 일이든 상관없어. 시험도, 신곡도, 요금 오르는 날도 다 돼.",
+  "'언젠가 미래에'랑은 달라. 막연한 게 아니라 이미 잡혀 있고 곧 닥치는 거야."
+ ],
+ "explanation_for_kids": [
   "달력에 벌써 동그라미 쳐 둔 날 있지? 다음 달 기말고사, 다음 주 새 앨범 나오는 날 같은 거.",
   "아직 안 왔는데, 곧 온다고 정해진 일. 그런 걸 forthcoming이라고 해.",
   "반가운 일이든 싫은 일이든 상관없어. 시험도, 신곡도, 요금 오르는 날도 다 돼.",
   "'언젠가 미래에'랑은 달라. 막연한 게 아니라 이미 잡혀 있고 곧 닥치는 거야."
  ],
- "scene": "달력에 동그라미 쳐 둔 다음 달 기말고사",
+ "scene": "달력에 동그라미 쳐 둔 다음 달 면접",
  "examples": [
   {
-   "en": "The school sent a letter about the forthcoming changes to the bus schedule.",
-   "ko": "학교에서 곧 바뀔 버스 시간표에 대해 안내문을 보냈어."
+   "en": "My college sent a letter about the forthcoming changes to the bus schedule.",
+   "ko": "우리 대학에서 곧 바뀔 버스 시간표에 대해 안내문을 보냈어."
   }
  ],
  "quiz": [
@@ -57,7 +63,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/forthcoming.webp",
-  "alt": "달력에 동그라미 쳐 둔 다음 달 기말고사",
+  "alt": "달력에 동그라미 쳐 둔 다음 달 면접",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

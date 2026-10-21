@@ -11,15 +11,21 @@
  "word": "commodity",
  "slug": "commodity",
  "url": "https://hibbangyong.com/words/commodity/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "누가 내놓은 거든 서로 바꿔 놔도 티가 안 나서, 누구 것인지 말고 값만 보고 사고파는 것",
  "gloss_ko": "값만 보고 사고파는 것",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "가게 두 곳에 소금이 있어. 이름표를 떼면? 아무도 어느 게 어느 건지 못 맞혀. 똑같거든.",
+  "그래서 사람들은 값표만 봐. 더 싼 거 집어. 어느 회사 건지는 관심도 없어.",
+  "손에 잡히는 물건만 그런 게 아니야. 전기도, 짐 날라 주는 일손도, 누가 해도 똑같으면 값만 따져서 고르거든.",
+  "친구가 떠 준 목도리랑은 달라. 그건 하나뿐이라 바꿔칠 수가 없잖아. 바꿔 놔도 아무도 모른 채 값으로만 오가는 것. 이게 commodity야."
+ ],
+ "explanation_for_kids": [
   "가게 두 곳에 소금이 있어. 이름표를 떼면? 아무도 어느 게 어느 건지 못 맞혀. 똑같거든.",
   "그래서 사람들은 값표만 봐. 더 싼 거 집어. 어느 회사 건지는 관심도 없어.",
   "손에 잡히는 물건만 그런 게 아니야. 전기도, 짐 날라 주는 일손도, 누가 해도 똑같으면 값만 따져서 고르거든.",
@@ -28,8 +34,8 @@
  "scene": "이름표 뗀 두 가게의 소금 봉지가 구분 안 됨",
  "examples": [
   {
-   "en": "Sugar is a commodity, so Mom just grabs whichever bag costs less.",
-   "ko": "설탕은 어느 거나 똑같아서 엄마는 그냥 더 싼 봉지를 집어 와."
+   "en": "Sugar is a commodity, so I just grab whichever bag costs less.",
+   "ko": "설탕은 어디 거나 다 똑같아서 난 그냥 더 싼 봉지를 집어."
   }
  ],
  "quiz": [

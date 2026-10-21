@@ -11,25 +11,26 @@
  "word": "statesman",
  "slug": "statesman",
  "url": "https://hibbangyong.com/words/statesman/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "정치가 — 나라를 넓고 길게 보고 이끌어서 존경받는 정치 지도자",
  "gloss_ko": "존경받는 정치가",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "뉴스엔 정치하는 사람이 매일 나와. 근데 다 존경받는 건 아니잖아.",
   "선거 때만 말 바꾸는 사람 말고, 나라 전체를 길게 보고 판단해서 믿음을 얻은 지도자가 있어.",
   "대통령이든 장관이든, 이미 물러난 원로든 자리는 상관없어. 그렇게 인정받으면 statesman이야.",
   "그냥 정치를 직업으로 하는 사람은 politician이고. 둘은 달라."
  ],
+ "explanation_for_kids": null,
  "scene": "뉴스에 나오는 정치인들 중 존경받는 지도자",
  "examples": [
   {
-   "en": "After she retired, the old statesman still gave advice to young leaders.",
-   "ko": "은퇴한 뒤에도 그 원로 정치가는 젊은 지도자들한테 계속 조언해 줬어."
+   "en": "In my history lecture, we read a speech by a famous statesman.",
+   "ko": "역사 강의에서 유명한 정치가의 연설문을 읽었어."
   }
  ],
  "quiz": [

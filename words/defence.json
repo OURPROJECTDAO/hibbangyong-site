@@ -11,31 +11,32 @@
  "word": "defence",
  "slug": "defence",
  "url": "https://hibbangyong.com/words/defence/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "쳐들어오는 걸 막아 지키는 것 — 지키기·수비",
  "gloss_ko": "쳐들어오는 걸 막아 지키는 것",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "축구할 때 상대가 우리 골대로 막 쳐들어오지?",
   "그럼 우리 편이 앞을 딱 막고 못 들어오게 지켜.",
   "이렇게 누가 쳐들어오는 걸 막아서 지키는 것, 나라를 지키는 군인도, 성을 감싼 담도 다 그거야.",
   "공격이 '들어가는 쪽'이면, 이게 막아 지키는 defence야."
  ],
+ "explanation_for_kids": null,
  "scene": "축구에서 상대 공격을 막아 골대를 지키는 수비",
  "examples": [
   {
-   "en": "When the other team attacked our goal, our defence stopped them.",
-   "ko": "상대 팀이 우리 골대로 쳐들어왔는데 우리 수비가 막아 냈어."
+   "en": "In our weekend football match, our defence stopped every attack.",
+   "ko": "주말 축구 경기에서 우리 수비가 공격을 다 막아 냈어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "놀이터에서 눈싸움을 하는데, 친구들이 우리 쪽으로 눈덩이를 계속 던졌어. 나는 커다란 나무판을 앞에 세워 눈덩이를 막고 우리 자리를 지켰어. 이게 'defence'야?",
+   "question": "공원에서 눈싸움을 하는데, 친구들이 우리 쪽으로 눈덩이를 계속 던졌어. 나는 커다란 나무판을 앞에 세워 눈덩이를 막고 우리 자리를 지켰어. 이게 'defence'야?",
    "choices": [
     "응, defence 맞아",
     "아니, defence 아니야"

@@ -11,19 +11,20 @@
  "word": "melon",
  "slug": "melon",
  "url": "https://hibbangyong.com/words/melon/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "멜론 — 겉은 초록빛이고 속에 씨가 든, 달콤한 둥근 과일",
  "gloss_ko": "멜론",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 동그랗고 초록빛 껍질을 가진 이 과일이 melon이에요.",
   "반으로 자르면 가운데에 씨가 모여 있고, 여름에 시원하게 잘라 먹으면 달콤해요."
  ],
- "scene": "동그란 멜론 한 통과 옆에 잘린 반달 조각(속살과 씨가 보이는) — '멜론' 과일을 그림",
+ "explanation_for_kids": null,
+ "scene": "동그란 멜론 한 통과 옆에 잘린 반달 조각(속살과 씨가 보이는)",
  "examples": [
   {
    "en": "I ate a cold slice of melon after lunch.",
@@ -53,7 +54,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/melon.webp",
-  "alt": "동그란 멜론 한 통과 옆에 잘린 반달 조각(속살과 씨가 보이는) — '멜론' 과일을 그림",
+  "alt": "동그란 멜론 한 통과 옆에 잘린 반달 조각(속살과 씨가 보이는)",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

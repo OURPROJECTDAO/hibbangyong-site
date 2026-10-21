@@ -11,20 +11,21 @@
  "word": "decade",
  "slug": "decade",
  "url": "https://hibbangyong.com/words/decade/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "십 년 — 열 해를 한 묶음으로 센 것",
  "gloss_ko": "십 년",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "한 해, 두 해... 이렇게 세다가 열 해가 모이면, 그 열 해를 통째로 한 묶음이라고 부르는 말이 있거든?",
   "지나간 열 해여도 되고, 아직 안 온 열 해여도 돼. 좋았든 힘들었든 상관없어. 길이가 열 해면 그냥 하나야.",
   "\"저 나무 심고 열 해 됐네\" 할 때도, \"이 다리 다 놓으려면 열 해 걸려\" 할 때도 똑같이 써.",
   "백 해 묶음도 아니고, 열 밤도 열 달도 아니야. 딱 열 해 한 묶음, 그게 decade야."
  ],
+ "explanation_for_kids": null,
  "scene": "해를 하나씩 세다가 열에서 한 덩어리로 묶는 장면",
  "examples": [
   {
@@ -35,7 +36,7 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "삼촌은 2014년에 그 도시로 이사 와서, 2024년에 다른 도시로 떠났어. 삼촌이 그 도시에 산 기간을 'a decade'라고 할 수 있을까?",
+   "question": "선배는 2014년에 그 도시로 이사 와서, 2024년에 다른 도시로 떠났어. 선배가 그 도시에 산 기간을 'a decade'라고 할 수 있을까?",
    "choices": [
     "응, a decade 맞아",
     "아니, a decade 아니야"

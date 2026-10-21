@@ -11,25 +11,26 @@
  "word": "reach",
  "slug": "reach",
  "url": "https://hibbangyong.com/words/reach/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "닿다 — 사이가 떨어져 있는 데까지 가서 거기에 이르는 것",
  "gloss_ko": "닿다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "사다리를 지붕에 대봤어. 그런데 끝이 지붕까지 안 가. 조금 모자라.",
   "이렇게 여기서 저기까지 가서 거기에 이르는 것, 그게 이 말이야.",
   "손끝이 선반 과자통까지 가도, 기차가 마지막 역까지 가도, 물이 무릎까지 차올라도, 소리쳐 부른 게 멀리 있는 사람한테까지 가도 다 이 말을 써.",
   "붙잡는 거랑도 다르고, 처음부터 딱 붙어 있는 거랑도 달라. 잡았는지는 그다음 얘기고, 떨어진 사이를 건너 거기까지 갔느냐만 보는 거거든? 그게 reach야."
  ],
+ "explanation_for_kids": null,
  "scene": "사다리 끝이 지붕까지 모자라 못 닿은 장면",
  "examples": [
   {
-   "en": "My ladder didn't reach the roof.",
-   "ko": "내 사다리는 지붕까지 안 닿았어."
+   "en": "I can't reach the top shelf.",
+   "ko": "맨 위 선반에 손이 안 닿아."
   }
  ],
  "quiz": [

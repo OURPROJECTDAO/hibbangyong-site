@@ -11,25 +11,31 @@
  "word": "relinquish",
  "slug": "relinquish",
  "url": "https://hibbangyong.com/words/relinquish/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "(자리·권리·힘을) 내주다 — 쥐고 있던 자리나 권리를 내 쪽에서 놓아 남에게 가게 하는 것, 아쉬워하면서 그럴 때가 많음",
  "gloss_ko": "쥔 것 내주기",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "아직 더 하고 싶은데 회사 동호회 회장 자리를 동료한테 넘겨야 할 때가 왔어.",
+  "쥐고 있던 자리, 권리, 다스리던 힘을 내 쪽에서 놓아서 남한테 가게 하는 거야. 나라가 다스리던 땅을 다른 나라에 내줄 때도 똑같이 써.",
+  "남한테 뺏기거나 그냥 잃어버리는 거랑은 달라. 놓는 건 결국 나야.",
+  "하던 공부나 연습을 중간에 그만두는 것과도 달라. 하던 걸 멈추는 게 아니라 가진 걸 내주는 거야."
+ ],
+ "explanation_for_kids": [
   "3학년 2학기, 아직 더 하고 싶은데 동아리 회장 자리를 후배한테 넘겨야 할 때가 왔어.",
   "쥐고 있던 자리, 권리, 다스리던 힘을 내 쪽에서 놓아서 남한테 가게 하는 거야. 나라가 다스리던 땅을 다른 나라에 내줄 때도 똑같이 써.",
   "남한테 뺏기거나 그냥 잃어버리는 거랑은 달라. 놓는 건 결국 나야.",
   "하던 공부나 연습을 중간에 그만두는 것과도 달라. 하던 걸 멈추는 게 아니라 가진 걸 내주는 거야."
  ],
- "scene": "3학년 2학기 동아리 회장 자리를 후배에게 넘기는 장면",
+ "scene": "회사 동호회 회장 자리를 동료에게 넘기는 장면",
  "examples": [
   {
-   "en": "Minho did not want to relinquish the club leader's job to anyone.",
-   "ko": "민호는 동아리 회장 자리를 누구한테도 내주고 싶지 않았어."
+   "en": "My roommate didn't want to relinquish the bigger room.",
+   "ko": "룸메이트는 큰 방을 내주고 싶어 하지 않았어."
   }
  ],
  "quiz": [
@@ -63,7 +69,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/relinquish.webp",
-  "alt": "3학년 2학기 동아리 회장 자리를 후배에게 넘기는 장면",
+  "alt": "회사 동호회 회장 자리를 동료에게 넘기는 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

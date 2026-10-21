@@ -11,25 +11,31 @@
  "word": "amongst",
  "slug": "amongst",
  "url": "https://hibbangyong.com/words/amongst/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "~ 사이에(서) — 셋 이상이 모인 무리 속에 섞여 있는 것 (among과 같은 뜻, 조금 더 격식 있는 말)",
  "gloss_ko": "~ 사이에(서)",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "광장에 사람 스무 명이 모여 있고, 너도 그 무리 속에 섞여 서 있어. 이렇게 여럿 속에 끼어 있는 관계가 amongst야.",
+  "among이랑 뜻은 같아. 영국 사람들이 더 자주 쓰고, 좀 더 격식 있게 들리는 말이야.",
+  "우리말로는 둘 다 '사이'라서 헷갈리는데, 딱 둘 사이면 between이고 amongst는 셋 이상 무리 속이야.",
+  "그래서 여럿 중 하나를 말할 때나, 여러 명한테 나눠 줄 때도 써."
+ ],
+ "explanation_for_kids": [
   "운동장에 애들 스무 명이 모여 있고, 너도 그 무리 속에 섞여 서 있어. 이렇게 여럿 속에 끼어 있는 관계가 amongst야.",
   "among이랑 뜻은 같아. 영국 사람들이 더 자주 쓰고, 좀 더 격식 있게 들리는 말이야.",
   "우리말로는 둘 다 '사이'라서 헷갈리는데, 딱 둘 사이면 between이고 amongst는 셋 이상 무리 속이야.",
   "그래서 여럿 중 하나를 말할 때나, 여러 명한테 나눠 줄 때도 써."
  ],
- "scene": "운동장에 모인 스무 명 무리 속에 섞여 선 나",
+ "scene": "광장에 모인 스무 명 무리 속에 섞여 선 나",
  "examples": [
   {
-   "en": "The old letter was hidden amongst the newspapers.",
-   "ko": "그 옛날 편지가 신문지 더미 사이에 숨어 있었어."
+   "en": "I found my keys amongst the papers on my desk.",
+   "ko": "책상 위 서류 사이에서 열쇠를 찾았어."
   }
  ],
  "quiz": [
@@ -68,7 +74,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/amongst.webp",
-  "alt": "운동장에 모인 스무 명 무리 속에 섞여 선 나",
+  "alt": "광장에 모인 스무 명 무리 속에 섞여 선 나",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

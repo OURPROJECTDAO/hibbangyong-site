@@ -11,25 +11,26 @@
  "word": "abject",
  "slug": "abject",
  "url": "https://hibbangyong.com/words/abject/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "비참한 — 가난·실패·두려움 같은 나쁜 상태가 더 내려갈 데 없이 바닥까지 간",
  "gloss_ko": "바닥까지 비참한",
  "level": {
   "code": "L9",
-  "name": "토플 114~120점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "가난도, 실패도, 두려움도 다 정도가 있어.",
   "그게 더 내려갈 데 없이 바닥까지 가서 처지가 말이 아닐 때 abject를 써. 먹을 것도 잘 곳도 없는 가난, 몸이 얼어붙는 두려움 같은 거.",
   "사과에 붙이면 자존심을 다 내려놓고 납작 엎드린 사과가 돼. 그것도 바닥까지 간 거야.",
   "그냥 좀 안 좋은 일, 슬픈 기분 하나, 당장 급한 위기랑은 달라. 이미 밑바닥에 처해 있는 상태야."
  ],
+ "explanation_for_kids": null,
  "scene": "먹을 것도 잘 곳도 없는 바닥까지 간 가난",
  "examples": [
   {
-   "en": "After the war, the family lived in abject poverty for years.",
-   "ko": "전쟁이 끝난 뒤에 그 가족은 몇 년 동안 정말 비참하게 가난하게 살았어."
+   "en": "My first try at cooking dinner was an abject failure.",
+   "ko": "처음 저녁을 직접 해 본 건 완전히 처참한 실패였어."
   }
  ],
  "quiz": [

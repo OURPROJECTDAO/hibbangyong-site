@@ -11,15 +11,21 @@
  "word": "unforeseen",
  "slug": "unforeseen",
  "url": "https://hibbangyong.com/words/unforeseen/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "예상하지 못한 — 미리 내다보거나 따져 보지 못했던 (좋은 일이든 나쁜 일이든)",
  "gloss_ko": "미리 몰랐던",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "회사 체육대회 계획을 꼼꼼히 짰어. 그런데 그날, 아무도 미리 생각하지 못한 일이 생겨.",
+  "비가 와서 경기가 미뤄질 수도 있고, 다른 부서 사람들이 깜짝 응원하러 올 수도 있어.",
+  "좋은 일이든 나쁜 일이든, 미리 내다보지 못했던 일이면 unforeseen이야.",
+  "빨리 일어났다는 뜻은 아니야. 천천히 와도 아무도 예상 못 했으면 이 말을 써."
+ ],
+ "explanation_for_kids": [
   "체육대회 계획을 꼼꼼히 다 짰어. 그런데 그날, 아무도 미리 생각하지 못한 일이 생겨.",
   "비가 와서 경기가 미뤄질 수도 있고, 졸업한 선배들이 깜짝 응원을 올 수도 있어.",
   "좋은 일이든 나쁜 일이든, 미리 내다보지 못했던 일이면 unforeseen이야.",
@@ -28,8 +34,8 @@
  "scene": "체육대회 당일 아무도 미리 생각 못 한 일",
  "examples": [
   {
-   "en": "The trip gave us an unforeseen chance to meet a famous singer.",
-   "ko": "그 여행 덕분에 생각지도 못하게 유명한 가수를 만날 기회가 생겼어."
+   "en": "We had an unforeseen delay on the subway, so I was late for work.",
+   "ko": "지하철이 예상치 못하게 늦어져서 회사에 지각했어."
   }
  ],
  "quiz": [

@@ -11,15 +11,21 @@
  "word": "replica",
  "slug": "replica",
  "url": "https://hibbangyong.com/words/replica/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "복제품 — 진짜 하나를 보고 생김새를 똑같이 따라 만든 것(크기는 같게도, 줄여서도 만들어)",
  "gloss_ko": "복제품",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "박물관에서 금관을 봤는데, 알고 보니 진짜는 금고에 있고 전시된 건 똑같이 만든 거래.",
+  "진짜 하나를 앞에 두고 생김새를 그대로 옮겨 만든 것. 그게 replica야.",
+  "크기는 진짜랑 같아도 되고 줄여도 돼. 칼이든 배든 탑 같은 건물이든 다 될 수 있어.",
+  "대충 닮게 만든 모형이나, 원래 것에서 아이디어만 따서 새로 만든 건 replica가 아니야."
+ ],
+ "explanation_for_kids": [
   "박물관에서 금관을 봤는데, 알고 보니 진짜는 금고에 있고 전시된 건 똑같이 만든 거래.",
   "진짜 하나를 앞에 두고 생김새를 그대로 옮겨 만든 것. 그게 replica야.",
   "크기는 진짜랑 같아도 되고 줄여도 돼. 칼이든 배든 탑 같은 건물이든 다 될 수 있어.",
@@ -28,8 +34,8 @@
  "scene": "박물관 금관 전시(진품은 금고 보관)",
  "examples": [
   {
-   "en": "Our club made a full-size replica of an old ship for the school festival.",
-   "ko": "우리 동아리가 학교 축제 때 옛날 배를 실제 크기 그대로 본떠서 만들었어."
+   "en": "The museum has a full-size replica of an old ship.",
+   "ko": "그 박물관에는 옛날 배를 실제 크기 그대로 본떠 만든 복제품이 있어."
   }
  ],
  "quiz": [

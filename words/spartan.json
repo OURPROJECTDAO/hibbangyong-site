@@ -11,25 +11,31 @@
  "word": "spartan",
  "slug": "spartan",
  "url": "https://hibbangyong.com/words/spartan/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "간소한 — (지내는 곳·생활·식사가) 꼭 필요한 것만 있고 편하게 해 주는 건 하나도 없는",
  "gloss_ko": "편함 없이 간소한",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "워크숍 숙소 문을 열었더니 얇은 이불 하나, 책상 하나가 전부야. TV도 없고 난방도 약해.",
+  "이렇게 꼭 필요한 것만 있고 편하게 해 주는 건 다 빠진 게 spartan이야. 방뿐 아니라 밥이나 생활에도 써. 밥에 반찬 하나뿐인 식사도 spartan이야.",
+  "가난해서 그렇든 일부러 골랐든 상관없어. 부자 선수가 훈련 때 일부러 이렇게 지내도 spartan이야.",
+  "우리말 '스파르타식'은 엄하게 다그친다는 뜻이지? spartan은 엄한 게 아니라 편한 게 없는 거야. 돈을 아끼는 검소함이나 예쁘게 비운 아늑한 방이랑도 달라."
+ ],
+ "explanation_for_kids": [
   "수련회 숙소 문을 열었더니 얇은 이불 하나, 책상 하나가 전부야. TV도 없고 난방도 약해.",
   "이렇게 꼭 필요한 것만 있고 편하게 해 주는 건 다 빠진 게 spartan이야. 방뿐 아니라 밥이나 생활에도 써. 밥에 반찬 하나뿐인 식사도 spartan이야.",
   "가난해서 그렇든 일부러 골랐든 상관없어. 부자 선수가 훈련 때 일부러 이렇게 지내도 spartan이야.",
   "우리말 '스파르타식'은 엄하게 다그친다는 뜻이지? spartan은 엄한 게 아니라 편한 게 없는 거야. 돈을 아끼는 검소함이나 예쁘게 비운 아늑한 방이랑도 달라."
  ],
- "scene": "수련회 숙소: 얇은 이불·책상 하나뿐, TV 없음, 난방 약함",
+ "scene": "워크숍 숙소: 얇은 이불·책상 하나뿐, TV 없음, 난방 약함",
  "examples": [
   {
-   "en": "We stayed in a spartan room at the training camp, so I really missed my soft bed at home.",
-   "ko": "훈련 캠프 숙소가 딱 필요한 것만 있는 방이라, 집의 푹신한 침대가 진짜 그리웠어."
+   "en": "The hostel room was spartan, but it was cheap and clean.",
+   "ko": "그 호스텔 방은 꼭 필요한 것만 있었지만, 싸고 깨끗했어."
   }
  ],
  "quiz": [
@@ -55,7 +61,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/spartan.webp",
-  "alt": "수련회 숙소: 얇은 이불·책상 하나뿐, TV 없음, 난방 약함",
+  "alt": "워크숍 숙소: 얇은 이불·책상 하나뿐, TV 없음, 난방 약함",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

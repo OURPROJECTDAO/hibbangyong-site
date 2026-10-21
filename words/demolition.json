@@ -11,25 +11,26 @@
  "word": "demolition",
  "slug": "demolition",
  "url": "https://hibbangyong.com/words/demolition/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "철거 — 건물이나 다리 같은 것을 사람이 일부러 완전히 부숴 없애는 일",
  "gloss_ko": "철거",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "동네 낡은 아파트에 가림막이 쳐지고, 기계가 와서 벽을 통째로 허무는 거 본 적 있지?",
   "사람이 계획을 세우고 일부러 건물이나 다리 같은 걸 싹 부숴 없애는 일, 그게 demolition이야.",
   "지진 때문에 저절로 무너진 건 이게 아니고, 낡은 곳만 고치는 수리도 아니야.",
   "그리고 '싹 부숴 버린다'는 느낌을 빗대서, 경기에서 상대 팀을 크게 이겼을 때도 이 말을 써."
  ],
+ "explanation_for_kids": null,
  "scene": "가림막 친 낡은 아파트를 기계로 통째로 허무는 장면",
  "examples": [
   {
-   "en": "The demolition of the old bridge will start next month, so we have to take another road.",
-   "ko": "옛날 다리 철거가 다음 달에 시작돼서 우리는 다른 길로 가야 해."
+   "en": "The demolition of the old mall starts Monday, so my bus takes a different route.",
+   "ko": "옛 쇼핑몰 철거가 월요일에 시작돼서 내가 타는 버스가 다른 길로 다녀."
   }
  ],
  "quiz": [

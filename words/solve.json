@@ -11,25 +11,26 @@
  "word": "solve",
  "slug": "solve",
  "url": "https://hibbangyong.com/words/solve/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "풀다 — 막힌 일의 답을 찾아내서, 그 막힘이 없어지게 하다",
  "gloss_ko": "풀다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "우산은 하나인데 둘이 나가야 해. 딱 막혔지? 그때 머리를 굴려서 통하는 수를 찾아내는 거야. 한 명이 들고 딱 붙어서 걷기. 그럼 막혔던 게 없어져.",
   "이런 생활 속 일만 그런 게 아냐. 안 풀리던 계산도, 누가 그랬는지 모르던 일도, 답을 찾아내서 막힌 게 사라지면 똑같아.",
   "한참 애만 쓰다 마는 거랑은 달라. 왜 막혔는지 조목조목 말해 주는 거랑도 달라. 마침 운 좋게 막힘이 사라진 거랑도 달라. 내가 답을 찾아내서 막힌 게 없어져야 해.",
   "이게 solve야."
  ],
+ "explanation_for_kids": null,
  "scene": "우산 한 개로 둘이 나가야 해서 막힌 상황",
  "examples": [
   {
-   "en": "We only had one umbrella, so my sister and I solved it by walking really close together.",
-   "ko": "우산이 하나뿐이라 나랑 동생은 딱 붙어 걸어서 해결했어."
+   "en": "My manager helped me solve the problem with my laptop.",
+   "ko": "팀장님이 내 노트북 문제를 해결하는 걸 도와줬어."
   }
  ],
  "quiz": [

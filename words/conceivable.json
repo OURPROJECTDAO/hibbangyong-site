@@ -11,31 +11,37 @@
  "word": "conceivable",
  "slug": "conceivable",
  "url": "https://hibbangyong.com/words/conceivable/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "생각할 수 있는 — 실제로 일어날지는 몰라도 머릿속으로 '그럴 수도 있겠다' 하고 그려 볼 수 있는",
  "gloss_ko": "상상할 수 있는",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "내일 면접 날 아침에 알람이 안 울릴 수도 있어. 그럴 것 같진 않아도 머릿속으로 그려 볼 수는 있잖아.",
+  "이렇게 '생각은 해 볼 수 있는' 일이 conceivable이야. 좋은 일이든 나쁜 일이든 상관없어.",
+  "헷갈리면 안 되는 게, '그럴 것 같다'는 뜻이 아니야. 가능성이 아주 낮아도 떠올릴 수만 있으면 돼.",
+  "반대로 아무리 애써도 머리로 그려지지 않는 일은 inconceivable이라고 해."
+ ],
+ "explanation_for_kids": [
   "내일 시험 날 아침에 알람이 안 울릴 수도 있어. 그럴 것 같진 않아도 머릿속으로 그려 볼 수는 있잖아.",
   "이렇게 '생각은 해 볼 수 있는' 일이 conceivable이야. 좋은 일이든 나쁜 일이든 상관없어.",
   "헷갈리면 안 되는 게, '그럴 것 같다'는 뜻이 아니야. 가능성이 아주 낮아도 떠올릴 수만 있으면 돼.",
   "반대로 아무리 애써도 머리로 그려지지 않는 일은 inconceivable이라고 해."
  ],
- "scene": "시험 날 아침 알람이 안 울릴 수도 있는 상황",
+ "scene": "면접 날 아침 알람이 안 울릴 수도 있는 상황",
  "examples": [
   {
-   "en": "We tried every conceivable way to open the old box, but it stayed shut.",
-   "ko": "그 낡은 상자 열어 보려고 생각나는 방법은 다 써 봤는데, 끝까지 안 열렸어."
+   "en": "We tried every conceivable way to fix the office printer, but it still jammed.",
+   "ko": "사무실 프린터 고치려고 생각나는 방법은 다 써 봤는데, 그래도 계속 종이가 걸렸어."
   }
  ],
  "quiz": [
   {
    "type": "choice",
-   "question": "반장 선거를 두고 네 가지 상황이 있어. 'conceivable'이라는 말을 쓰기에 가장 알맞은 건?",
+   "question": "과대표 선거를 두고 네 가지 상황이 있어. 'conceivable'이라는 말을 쓰기에 가장 알맞은 건?",
    "choices": [
     "질 확률이 높지만, 이기는 모습도 상상은 되는 선거",
     "모두가 틀림없이 이긴다고 믿고 있는 선거",

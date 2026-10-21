@@ -11,25 +11,26 @@
  "word": "piracy",
  "slug": "piracy",
  "url": "https://hibbangyong.com/words/piracy/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "불법 복제 — 영화·음악·게임·책처럼 남이 만든 걸 허락 없이 베껴서 팔거나 퍼뜨리는 것 (바다에서 배를 터는 해적질도 같은 말로 불러)",
  "gloss_ko": "불법 복제",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "돈 내고 봐야 하는 웹툰을 누가 통째로 캡처해서 공짜 사이트에 올렸어.",
   "원본은 그대로 있는데, 만든 사람 허락 없이 복사본만 쫙 퍼진 거야. 이게 piracy야.",
   "돈 받고 팔든 공짜로 뿌리든, 영화든 게임이든 똑같아.",
   "남의 글을 내 이름으로 내는 표절이나, 물건 자체를 들고 가는 도둑질이랑은 달라. 참고로 옛날에 바다에서 배를 털던 해적질도 이 단어로 불렀어."
  ],
+ "explanation_for_kids": null,
  "scene": "유료 웹툰을 캡처해 공짜 사이트에 올림",
  "examples": [
   {
-   "en": "The company lost a lot of money because of piracy of its new game.",
-   "ko": "새 게임이 불법 복제되는 바람에 그 회사는 돈을 엄청 날렸어."
+   "en": "Our game company loses a lot of money to piracy every year.",
+   "ko": "우리 게임 회사는 불법 복제 때문에 해마다 돈을 많이 잃어."
   }
  ],
  "quiz": [

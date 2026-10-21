@@ -11,25 +11,26 @@
  "word": "recognize",
  "slug": "recognize",
  "url": "https://hibbangyong.com/words/recognize/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "알아보다 (전에 보거나 들어서 아는 걸 다시 만나 '아, 그거다!' 하고 아는 것)",
  "gloss_ko": "아, 그거다! 알아봐",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "사물함에 똑같이 생긴 까만 가방이 잔뜩 쌓여 있어.",
   "근데 너는 그 속에서 네 가방을 딱 집어내잖아? 작은 흠집 하나 보고 '아, 이거 내 거!' 하고.",
   "처음 보는 게 아니라, 전에 보거나 듣거나 맡아 봐서 아는 걸 다시 만났을 때 '어, 그거네!' 하고 알아채는 거야.",
   "그냥 멍하니 보는 거(see)랑은 달라. 보고서 '그게 뭔지'까지 딱 잇는 게 recognize야."
  ],
+ "explanation_for_kids": null,
  "scene": "똑같은 가방 더미에서 흠집 보고 내 가방 딱 집어냄 — 전에 본 걸 다시 알아봄.",
  "examples": [
   {
-   "en": "I recognized my teacher even in her big funny hat.",
-   "ko": "선생님이 크고 우스꽝스러운 모자를 썼는데도 난 바로 알아봤어."
+   "en": "I almost didn't recognize my coworker with her new haircut.",
+   "ko": "동료가 머리를 새로 잘라서 하마터면 못 알아볼 뻔했어."
   }
  ],
  "quiz": [

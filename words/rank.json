@@ -11,33 +11,34 @@
  "word": "rank",
  "slug": "rank",
  "url": "https://hibbangyong.com/words/rank/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "계급·등수 — 위아래로 줄 세워 놓은 자리 중에서 내가 앉은 자리",
  "gloss_ko": "계급·등수",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "태권도 도장엔 띠가 순서대로 있어. 흰띠 위에 노란띠, 노란띠 위에 검은띠. 이렇게 위아래로 줄이 딱 서 있거든?",
   "그 줄에서 내가 어디쯤인지, 그 자리가 rank야. 흰띠도 자기 자리, 검은띠도 자기 자리.",
   "군인도 똑같아. 이등병, 병장, 대장 — 다들 그 줄에 자기 자리가 있어. 소방관도, 경찰도 그래.",
   "높은 자리만 rank인 거 아니야. 맨 아래여도 그 줄 안에 들어 있으면, 그게 rank야."
  ],
+ "explanation_for_kids": null,
  "scene": "태권도 도장에서 띠가 흰띠·노란띠·검은띠로 위아래 순서를 이룬 줄",
  "examples": [
   {
-   "en": "Every kid in my taekwondo class has a rank, even the new white belts.",
-   "ko": "우리 태권도 반은 갓 들어온 흰띠까지 다들 자기 급수가 있어."
+   "en": "She has a higher rank than me at work.",
+   "ko": "회사에서 그 사람 직급이 나보다 높아."
   }
  ],
  "quiz": [
   {
    "type": "choice",
-   "question": "아이 넷이 각자 자기 이야기를 했어. 이 중에 'rank'를 말한 사람은 누구야?",
+   "question": "친구 넷이 각자 자기 이야기를 했어. 이 중에 'rank'를 말한 사람은 누구야?",
    "choices": [
-    "연우 — 우리 도서관 책장에는 그림책이 백 권쯤 꽂혀 있어.",
+    "연우 — 우리 집 책장에는 책이 백 권쯤 꽂혀 있어.",
     "서진 — 우리 피아노 학원은 급수가 1급부터 5급까지 있는데, 나는 3급이야.",
     "다온 — 나는 아침마다 우유를 한 컵씩 마셔.",
     "지우 — 우리 집 거실에는 초록색 소파가 놓여 있어."

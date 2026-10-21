@@ -11,25 +11,26 @@
  "word": "spit",
  "slug": "spit",
  "url": "https://hibbangyong.com/words/spit/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "침 — 입 안에 늘 고여 있는 그 물",
  "gloss_ko": "침",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "가만히 있어도 입 안엔 물이 조금 고여 있거든?",
   "그거 덕분에 빵도 술술 넘어가고 말도 술술 나와.",
   "세게 말하면 톡 튀기도 하고, 땅에 퉤 뱉기도 하는 그 물이야. 땀이나 눈물도 물이지만 그건 입에서 나온 게 아니잖아.",
   "입에서 나오는 그 물, 그게 spit야."
  ],
+ "explanation_for_kids": null,
  "scene": "가만히 있어도 입 안에 물이 고여 있는 순간",
  "examples": [
   {
-   "en": "My puppy's spit made my hand all wet.",
-   "ko": "강아지 침 때문에 내 손이 다 젖었어."
+   "en": "My dog's spit got all over my new jeans.",
+   "ko": "우리 개 침이 새 청바지에 잔뜩 묻었어."
   }
  ],
  "quiz": [
@@ -37,14 +38,14 @@
    "type": "choice",
    "question": "친구 넷이 각자 자기 몸에서 나온 걸 하나씩 말했어. 이 중에 'spit'인 건 누구 걸까?",
    "choices": [
-    "사탕을 오래 물고 있었더니 입 안에 잔뜩 고인 물",
+    "껌을 오래 씹었더니 입 안에 잔뜩 고인 물",
     "계단을 뛰어올라 갔더니 크게 몰아쉬어진 숨",
     "가방을 오래 멨더니 어깨에 남은 빨간 자국",
     "자다 일어났더니 목에서 나온 쉰 목소리"
    ],
    "answer_index": 0,
-   "answer": "사탕을 오래 물고 있었더니 입 안에 잔뜩 고인 물",
-   "why": "맞아! 사탕을 오래 물고 있으면 입 안에 물이 잔뜩 고이지? 입 안에 고인 그 물이 바로 spit인 거야."
+   "answer": "껌을 오래 씹었더니 입 안에 잔뜩 고인 물",
+   "why": "맞아! 껌을 오래 씹으면 입 안에 물이 잔뜩 고이지? 입 안에 고인 그 물이 바로 spit인 거야."
   }
  ],
  "synonyms": [],

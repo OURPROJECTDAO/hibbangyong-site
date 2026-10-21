@@ -11,15 +11,21 @@
  "word": "occupational",
  "slug": "occupational",
  "url": "https://hibbangyong.com/words/occupational/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "직업의, 직업상의 — 어떤 일을 하는 것과 관련되거나, 그 일을 하다 보니 생긴",
  "gloss_ko": "직업의",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "요리사 손엔 칼자국이, 가수 목엔 쉰 소리가 자주 생겨. 그 일을 하다 보니 생기는 거지.",
+  "취업 준비로 받는 직업 교육이나 일을 고를 때 하는 고민도 다 일과 이어져 있어.",
+  "좋은 거든 나쁜 거든, 어떤 직업과 이어져 있는 거면 이 말을 붙여.",
+  "실력이 프로만큼 좋다는 뜻은 아니야. 그건 professional 쪽이고, 이건 그냥 일과 관련됐다는 거야."
+ ],
+ "explanation_for_kids": [
   "요리사 손엔 칼자국이, 가수 목엔 쉰 소리가 자주 생겨. 그 일을 하다 보니 생기는 거지.",
   "진로 시간에 받는 직업 교육이나 일을 고를 때 하는 고민도 다 일과 이어져 있어.",
   "좋은 거든 나쁜 거든, 어떤 직업과 이어져 있는 거면 이 말을 붙여.",
@@ -28,21 +34,21 @@
  "scene": "요리사 손의 칼자국과 가수의 쉰 목",
  "examples": [
   {
-   "en": "The school gives occupational training to students who want to become cooks.",
-   "ko": "그 학교는 요리사가 되고 싶은 애들한테 직업 훈련을 시켜 줘."
+   "en": "The school gives occupational training to people who want to become cooks.",
+   "ko": "그 학교는 요리사가 되고 싶은 사람들한테 직업 훈련을 해 줘."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "택배 기사 삼촌은 매일 무거운 상자를 나르다가 허리 통증이 생겼어. 이 허리 통증은 occupational한 거야?",
+   "question": "택배 기사 아저씨는 매일 무거운 상자를 나르다가 허리 통증이 생겼어. 이 허리 통증은 occupational한 거야?",
    "choices": [
     "응, occupational한 거 맞아",
     "아니, occupational한 거 아니야"
    ],
    "answer_index": 0,
    "answer": "응, occupational한 거 맞아",
-   "why": "맞아! 삼촌이 택배 일을 하면서 매일 무거운 상자를 나르다 보니 허리 통증이 생긴 거잖아. 이렇게 일을 하다 보니 생긴 거라서 occupational한 거야."
+   "why": "맞아! 아저씨가 택배 일을 하면서 매일 무거운 상자를 나르다 보니 허리 통증이 생긴 거잖아. 이렇게 일을 하다 보니 생긴 거라서 occupational한 거야."
   }
  ],
  "synonyms": [],

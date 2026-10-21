@@ -11,25 +11,31 @@
  "word": "anxiety",
  "slug": "anxiety",
  "url": "https://hibbangyong.com/words/anxiety/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "불안 — 아직 일어나지도 않은 일이 자꾸 마음에 걸려서 조마조마한 것",
  "gloss_ko": "불안",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "내일은 여행 가는 날. 누웠는데 잠이 안 와. 비 오면 어쩌지, 일행이랑 안 맞으면 어쩌지.",
+  "이상하지? 지금 여기선 아무 일도 안 일어났거든. 그런데도 마음이 계속 조마조마해.",
+  "눈앞에서 개가 짖어서 무서운 거랑은 달라. 무서운 게 코앞에 없는데도, 아직 오지도 않은 일 때문에 속이 조이는 거야. 왜 그런지 나도 잘 모를 때도 있고.",
+  "그게 anxiety야."
+ ],
+ "explanation_for_kids": [
   "내일 소풍 가는 날. 누웠는데 잠이 안 와. 비 오면 어쩌지, 짝이 없으면 어쩌지.",
   "이상하지? 지금 여기선 아무 일도 안 일어났거든. 그런데도 마음이 계속 조마조마해.",
   "눈앞에서 개가 짖어서 무서운 거랑은 달라. 무서운 게 코앞에 없는데도, 아직 오지도 않은 일 때문에 속이 조이는 거야. 왜 그런지 나도 잘 모를 때도 있고.",
   "그게 anxiety야."
  ],
- "scene": "소풍 전날 밤, 아무 일도 안 일어났는데 잠이 안 오는 잠자리",
+ "scene": "여행 전날 밤, 아무 일도 안 일어났는데 잠이 안 오는 잠자리",
  "examples": [
   {
-   "en": "I felt a little anxiety about my new class all week.",
-   "ko": "새 반 때문에 한 주 내내 마음이 조금 조마조마했어."
+   "en": "I felt a little anxiety about my new classes all week.",
+   "ko": "새 학기 수업 때문에 한 주 내내 좀 불안했어."
   }
  ],
  "quiz": [
@@ -76,7 +82,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/anxiety.webp",
-  "alt": "소풍 전날 밤, 아무 일도 안 일어났는데 잠이 안 오는 잠자리",
+  "alt": "여행 전날 밤, 아무 일도 안 일어났는데 잠이 안 오는 잠자리",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

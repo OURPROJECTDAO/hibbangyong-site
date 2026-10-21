@@ -11,15 +11,21 @@
  "word": "bite",
  "slug": "bite",
  "url": "https://hibbangyong.com/words/bite/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "한 입 — 이가 딱 한 번 닫히는 그 한 번, 그래서 떼어진 한 조각이나 남은 자국",
  "gloss_ko": "한 입",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "사과를 들고 이를 콱 대봐. 딱 한 번, 그 한 번에 사과 한 조각이 떨어져 나오지?",
+  "그 한 번이야. 오래 씹는 것도 아니고, 혀로 핥는 것도 아니야. 이가 딱 닫히는 그 한 번.",
+  "입에 들어온 그 조각도 그거고, 사과에 남은 자국도 그거거든? 모기가 물고 간 자리도 마찬가지야.",
+  "그게 bite야."
+ ],
+ "explanation_for_kids": [
   "사과를 들고 이를 콱 대봐. 딱 한 번, 그 한 번에 사과 한 조각이 떨어져 나오지?",
   "그 한 번이야. 오래 오물오물 씹는 것도 아니고, 혀로 핥는 것도 아니야. 이가 딱 닫히는 그 한 번.",
   "입에 들어온 그 조각도 그거고, 사과에 남은 자국도 그거거든? 모기가 물고 간 자리도 마찬가지야.",
@@ -28,8 +34,8 @@
  "scene": "사과에 이를 콱 대어 한 조각이 떨어져 나오는 한 번",
  "examples": [
   {
-   "en": "I found a small bite on the apple I left on the table.",
-   "ko": "책상에 놔둔 사과에 작게 한 입 베어 문 자국이 있었어."
+   "en": "My friend took a bite of my sandwich at lunch.",
+   "ko": "점심 때 친구가 내 샌드위치를 한 입 먹었어."
   }
  ],
  "quiz": [

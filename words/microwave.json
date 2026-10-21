@@ -11,23 +11,24 @@
  "word": "microwave",
  "slug": "microwave",
  "url": "https://hibbangyong.com/words/microwave/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "전자레인지 — 음식을 빠르게 데워 주는 네모난 부엌 기계",
  "gloss_ko": "전자레인지",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "부엌 조리대 위에 놓인, 문을 열고 그릇을 넣어 음식을 따뜻하게 데우는 기계예요.",
   "차갑게 식은 밥이나 우유를 여기에 넣고 잠깐 돌리면 금방 따뜻해져요."
  ],
+ "explanation_for_kids": null,
  "scene": "주방 조리대 위에 놓인 하얀 전자레인지 한 대(음식을 데우는 그 사물), 문이 살짝 열려 안이 보이는 정면 구도",
  "examples": [
   {
-   "en": "Mom put the cold soup in the microwave to warm it up.",
-   "ko": "엄마가 식은 국을 데우려고 전자레인지에 넣었어."
+   "en": "At lunch, I warmed up my soup in the office microwave.",
+   "ko": "점심에 회사 전자레인지로 국을 데웠어."
   }
  ],
  "quiz": [

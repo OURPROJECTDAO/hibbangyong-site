@@ -11,38 +11,39 @@
  "word": "harm",
  "slug": "harm",
  "url": "https://hibbangyong.com/words/harm/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "누가 다치거나, 마음·물건이 나빠지는 나쁜 일",
  "gloss_ko": "다치게 하는 일",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "봐봐, 강아지를 너무 꽉 안으면 강아지가 끙— 하고 아파하지?",
   "이렇게 누가 다치거나 나빠지는 나쁜 일, 그게 harm이야.",
   "꼭 몸만 아픈 게 아니야 — 마음이 아프거나, 물건이 망가지는 것도 harm이거든?",
   "그리고 '다칠 뻔'한 거랑은 달라. 진짜로 나빠져야 harm이야."
  ],
+ "explanation_for_kids": null,
  "scene": "강아지를 꽉 안자 강아지가 아파함 = 누가 나빠지는 나쁜 일.",
  "examples": [
   {
-   "en": "Hugging the puppy too tightly can cause it harm.",
-   "ko": "강아지를 너무 꽉 안으면 강아지가 다칠 수 있어."
+   "en": "A little coffee won't do you any harm.",
+   "ko": "커피 조금 마신다고 몸에 해롭진 않아."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "동생이 내가 아끼던 그림책을 욕조 물에 풍덩 빠뜨려서, 그림이 다 번지고 종이가 흐물흐물해져 다시는 못 쓰게 됐어. 이렇게 그림책한테 일어난 일을 'harm'이라고 할 수 있을까?",
+   "question": "룸메이트가 내가 아끼던 책을 욕조에 빠뜨려서, 글씨가 번지고 종이가 다 불어서 다시는 못 쓰게 됐어. 이렇게 책한테 일어난 일을 'harm'이라고 할 수 있을까?",
    "choices": [
     "응, 이건 harm이야.",
     "아니, 이건 harm이 아니야."
    ],
    "answer_index": 0,
    "answer": "응, 이건 harm이야.",
-   "why": "맞아! 그림책이 물에 빠져서 다시는 못 쓰게 됐잖아. 이렇게 진짜로 물건이 망가져 버린 거, 그게 바로 harm인 거야."
+   "why": "맞아! 책이 물에 빠져서 다시는 못 쓰게 됐잖아. 이렇게 진짜로 물건이 망가져 버린 거, 그게 바로 harm인 거야."
   }
  ],
  "synonyms": [

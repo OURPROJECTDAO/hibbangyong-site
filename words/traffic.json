@@ -11,31 +11,32 @@
  "word": "traffic",
  "slug": "traffic",
  "url": "https://hibbangyong.com/words/traffic/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "교통 — 길 위를 오가는 차들(과 사람들)의 흐름. 많아도 traffic, 적어도 traffic이야",
  "gloss_ko": "교통",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "육교에 올라가서 아래 큰길을 내려다봐. 차들이 줄줄이 지나가지? 저렇게 오가는 차들, 그게 traffic이야.",
   "꽉 막혀서 엉금엉금 갈 때도 traffic, 뻥 뚫려서 쌩쌩 달릴 때도 traffic이거든? 많으면 많은 대로, 적으면 적은 대로 traffic이야.",
   "근데 주차장에 그냥 세워둔 차 오십 대는? 그건 아니야. 오가야 traffic이지, 서 있으면 그냥 차 무더기야.",
   "길 위를 오가는 차들의 흐름, 그게 traffic이야."
  ],
+ "explanation_for_kids": null,
  "scene": "육교 위에서 내려다본 큰길, 줄줄이 지나가는 차들",
  "examples": [
   {
-   "en": "This morning the traffic was light, so Dad got to work early.",
-   "ko": "오늘 아침엔 차가 별로 없어서 아빠가 회사에 일찍 갔어."
+   "en": "The traffic was light this morning, so I got to work early.",
+   "ko": "오늘 아침엔 차가 별로 없어서 회사에 일찍 도착했어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "학교 앞 횡단보도에 서 있는데, 신호가 바뀌기 전까지 차들이 계속 오른쪽에서 왼쪽으로 지나가고 있어. 이게 'traffic'이야?",
+   "question": "회사 앞 횡단보도에 서 있는데, 신호가 바뀌기 전까지 차들이 계속 오른쪽에서 왼쪽으로 지나가고 있어. 이게 'traffic'이야?",
    "choices": [
     "응, traffic 맞아",
     "아니, traffic 아니야"

@@ -11,20 +11,21 @@
  "word": "orbit",
  "slug": "orbit",
  "url": "https://hibbangyong.com/words/orbit/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "궤도(빙 도는 정해진 길) — 무언가가 다른 것 둘레를 빙 도는, 늘 같은 정해진 길",
  "gloss_ko": "빙 도는 길",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "밤하늘에 달 봐봐. 지구 둘레를 빙글빙글 돌잖아.",
   "그냥 아무렇게나 도는 게 아니야. 늘 똑같은 길을 따라 돌아.",
   "제자리에서 팽이처럼 도는 거랑은 달라. 뭔가의 '둘레'를 도는 거거든?",
   "그 빙 도는 정해진 길, 그게 orbit이야."
  ],
+ "explanation_for_kids": null,
  "scene": "달이 지구 둘레를 늘 같은 길로 도는 것",
  "examples": [
   {
@@ -35,14 +36,14 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "놀이터에서 형이 줄 끝에 공을 매달고 손을 중심으로 계속 빙빙 돌리고 있어. 공이 손 둘레를 늘 같은 동그란 길로 돌아. 이게 공의 'orbit'이야?",
+   "question": "공원에서 친구가 줄 끝에 공을 매달고 손을 중심으로 계속 빙빙 돌리고 있어. 공이 손 둘레를 늘 같은 동그란 길로 돌아. 이게 공의 'orbit'이야?",
    "choices": [
     "응, orbit 맞아",
     "아니, orbit 아니야"
    ],
    "answer_index": 0,
    "answer": "응, orbit 맞아",
-   "why": "맞아! 공이 형 손 둘레를 늘 똑같은 동그란 길로 돌고 있잖아. 뭔가의 둘레를 정해진 길로 도는 것, 그게 바로 orbit인 거야."
+   "why": "맞아! 공이 친구 손 둘레를 늘 똑같은 동그란 길로 돌고 있잖아. 뭔가의 둘레를 정해진 길로 도는 것, 그게 바로 orbit인 거야."
   }
  ],
  "synonyms": [],

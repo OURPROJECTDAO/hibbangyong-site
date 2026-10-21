@@ -11,25 +11,31 @@
  "word": "step",
  "slug": "step",
  "url": "https://hibbangyong.com/words/step/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "걸음·단계 — 발을 한 번 옮기거나 딛는 그 한 번, 그리고 어떤 일을 나눠서 할 때의 한 토막",
  "gloss_ko": "걸음·단계",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "공원 끝까지 걸어가 봐. 발 한 번 딛고, 또 한 번 딛고. 그 한 번이 step이야.",
+  "계단 올라갈 때 한 칸 한 칸 딛잖아? 그 한 칸도 step이고, 라면 끓일 때 물 붓기·면 넣기 같은 한 토막도 step이야. 한꺼번에 안 하고 하나씩 가는 거지.",
+  "앞으로 가든 뒤로 물러나든, 잘되든 망하든 상관없어. 세는 건 똑같이 한 번씩이야.",
+  "걸어온 길 전체도 아니고, 도착도 아니야. 가는 동안 밟는 하나하나, 그게 step이야."
+ ],
+ "explanation_for_kids": [
   "운동장 끝까지 걸어가 봐. 발 한 번 딛고, 또 한 번 딛고. 그 한 번이 step이야.",
   "계단 올라갈 때 한 칸 한 칸 딛잖아? 그 한 칸도 step이고, 라면 끓일 때 물 붓기·면 넣기 같은 한 토막도 step이야. 한꺼번에 안 하고 하나씩 가는 거지.",
   "앞으로 가든 뒤로 물러나든, 잘되든 망하든 상관없어. 세는 건 똑같이 한 번씩이야.",
   "걸어온 길 전체도 아니고, 도착도 아니야. 가는 동안 밟는 하나하나, 그게 step이야."
  ],
- "scene": "운동장을 가로질러 걸어가며 발을 한 번씩 딛는 장면",
+ "scene": "공원을 가로질러 걸어가며 발을 한 번씩 딛는 장면",
  "examples": [
   {
-   "en": "Dad said there were only three steps to painting the fence, but the last one took all day.",
-   "ko": "아빠는 울타리 칠하는 게 세 단계뿐이랬는데, 마지막 게 하루 종일 걸렸어."
+   "en": "The last step of this recipe took me an hour.",
+   "ko": "이 레시피 마지막 단계가 한 시간이나 걸렸어."
   }
  ],
  "quiz": [
@@ -67,7 +73,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/step.webp",
-  "alt": "운동장을 가로질러 걸어가며 발을 한 번씩 딛는 장면",
+  "alt": "공원을 가로질러 걸어가며 발을 한 번씩 딛는 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

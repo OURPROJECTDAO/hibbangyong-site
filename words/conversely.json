@@ -11,31 +11,32 @@
  "word": "conversely",
  "slug": "conversely",
  "url": "https://hibbangyong.com/words/conversely/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "반대로 — 앞에서 한 말을 거꾸로 뒤집은 경우를 말할 때",
  "gloss_ko": "반대로",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "여름엔 낮이 길고 밤이 짧지. 겨울엔? 거꾸로 낮이 짧고 밤이 길어.",
   "이렇게 앞에서 한 말을 뒤집은 짝을 꺼낼 때 앞에 붙이는 말이야.",
   "그냥 '그런데'랑은 달라. 앞의 말과 딱 맞은편에 있는 경우를 내놓을 때만 써.",
   "좋은 얘기든 나쁜 얘기든 상관없어. 뒤집힌 짝이기만 하면 돼."
  ],
+ "explanation_for_kids": null,
  "scene": "여름과 겨울의 낮·밤 길이가 뒤바뀌는 것",
  "examples": [
   {
-   "en": "Some students study better in the morning; conversely, others focus best at night.",
-   "ko": "아침에 공부가 더 잘되는 애들이 있고, 반대로 밤에 제일 집중 잘하는 애들도 있어."
+   "en": "Some people work best in the morning; conversely, others focus better at night.",
+   "ko": "아침에 일이 제일 잘되는 사람이 있고, 반대로 밤에 더 집중이 잘되는 사람도 있어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "민수가 \"우리 형은 축구를 잘해.\"라고 말했어. 그다음 'conversely'를 붙여서 \"우리 형은 농구도 잘해.\"라고 이어 말했어. 여기서 'conversely'를 맞게 쓴 거야?",
+   "question": "민수가 \"내 친구는 축구를 잘해.\"라고 말했어. 그다음 'conversely'를 붙여서 \"내 친구는 농구도 잘해.\"라고 이어 말했어. 여기서 'conversely'를 맞게 쓴 거야?",
    "choices": [
     "응, 맞게 썼어",
     "아니, 맞게 쓴 거 아니야"

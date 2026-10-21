@@ -11,31 +11,32 @@
  "word": "component",
  "slug": "component",
  "url": "https://hibbangyong.com/words/component/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "하나를 이루고 있는 여러 조각 중 한 조각",
  "gloss_ko": "하나를 이루는 한 조각",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "자전거 한 대를 싹 뜯어서 바닥에 늘어놨다고 해봐. 바퀴, 체인, 안장, 나사 하나까지.",
   "그 하나하나가 다 모여야 자전거가 되거든? 하나만 빼도 그건 자전거가 아니야.",
   "손에 안 잡혀도 돼. 노래를 이루는 박자도, 잘 자는 것도 튼튼한 몸을 이루는 한 조각이야.",
   "떨어져 나와 굴러다니는 부스러기 말고, 뭔가를 이루고 있는 한 조각. 그게 component야."
  ],
+ "explanation_for_kids": null,
  "scene": "자전거를 통째로 뜯어 바닥에 늘어놓은 조각들(바퀴·체인·안장·나사)",
  "examples": [
   {
-   "en": "A beat is one component of a song, and the words are another.",
-   "ko": "박자는 노래를 이루는 한 조각이고, 가사는 또 다른 조각이야."
+   "en": "The beat is one component of a song, and the lyrics are another.",
+   "ko": "비트는 노래를 이루는 한 요소고, 가사는 또 다른 요소야."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "미술 시간이 끝나고 은지 책상 밑에 색종이를 오리고 남은 자투리 한 조각이 떨어져 있었어. 은지가 그걸 주워 들고 '이건 내 작품의 component야'라고 했어. 은지 말이 맞을까?",
+   "question": "공방 수업이 끝나고 은지 작업대 밑에 천을 오리고 남은 자투리 한 조각이 떨어져 있었어. 은지가 그걸 주워 들고 '이건 내 작품의 component야'라고 했어. 은지 말이 맞을까?",
    "choices": [
     "응, 자투리 한 조각도 component 맞아",
     "아니, 자투리 한 조각은 component 아니야"

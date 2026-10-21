@@ -11,15 +11,21 @@
  "word": "enormous",
  "slug": "enormous",
  "url": "https://hibbangyong.com/words/enormous/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "엄청나게 큰 — 보통 큰 게 아니라 놀랄 만큼 큰",
  "gloss_ko": "거대한",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "엄마가 마트에서 수박을 사 왔는데, 두 팔로 겨우 안았어.",
+  "그냥 '큰' 수박이 아니야. 보고 입이 딱 벌어지는 크기지.",
+  "쌓인 일도, 밖에서 나는 소리도, 잘못 저지른 실수도 이렇게 말할 수 있어. 좋은 거든 나쁜 거든 상관없어.",
+  "크기든 양이든 소리든, 놀랄 만큼 어마어마하면 그게 enormous야."
+ ],
+ "explanation_for_kids": [
   "엄마가 마트에서 수박을 사 왔는데, 두 팔로 겨우 안았어.",
   "그냥 '큰' 수박이 아니야. 보고 입이 딱 벌어지는 크기지.",
   "쌓인 숙제도, 밖에서 나는 소리도, 잘못 저지른 실수도 이렇게 말할 수 있어. 좋은 거든 나쁜 거든 상관없어.",
@@ -28,8 +34,8 @@
  "scene": "두 팔로 겨우 안는 수박",
  "examples": [
   {
-   "en": "We made an enormous mess in the kitchen.",
-   "ko": "우리는 부엌을 엄청나게 어질러 놨어."
+   "en": "My new desk at work is enormous.",
+   "ko": "회사에서 새로 받은 내 책상은 엄청나게 커."
   }
  ],
  "quiz": [

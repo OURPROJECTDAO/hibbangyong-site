@@ -11,25 +11,31 @@
  "word": "affair",
  "slug": "affair",
  "url": "https://hibbangyong.com/words/affair/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "일 — 사람들이 얽혀서 벌어지는 일 하나. 왁자지껄한 잔치도, 나라 사이 문제도, 나 혼자만의 일도 다 여기 들어가.",
  "gloss_ko": "사람들이 얽혀 벌어진 일",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "워크숍을 어디로 갈지 아직 안 정했대. 나 혼자 얘기가 아니라 우리 팀이 통째로 얽힌 일이거든?",
+  "이렇게 사람이 얽혀서 굴러가는 일 한 덩어리, 그게 affair야.",
+  "큰 것도 작은 것도, 신나는 것도 골치 아픈 것도 다 돼. 왁자지껄 잔치 하나도 affair, 나라끼리 아직 못 정한 것도 affair, 내 알바비 어디 쓸지도 내 affair야.",
+  "근데 아빠가 아침마다 공장 가서 기계 돌리는 그 '일'은 affair라고 안 해. 그건 돈 벌러 나가서 하는 일이고, 이건 사람이 얽혀 벌어지는 일이야. 그게 affair야."
+ ],
+ "explanation_for_kids": [
   "소풍을 어디로 갈지 아직 안 정했대. 나 혼자 얘기가 아니라 우리 반이 통째로 얽힌 일이거든?",
   "이렇게 사람이 얽혀서 굴러가는 일 한 덩어리, 그게 affair야.",
   "큰 것도 작은 것도, 신나는 것도 골치 아픈 것도 다 돼. 왁자지껄 잔치 하나도 affair, 나라끼리 아직 못 정한 것도 affair, 내 용돈 어디 쓸지도 내 affair야.",
   "근데 아빠가 아침마다 공장 가서 기계 돌리는 그 '일'은 affair라고 안 해. 그건 돈 벌러 나가서 하는 일이고, 이건 사람이 얽혀 벌어지는 일이야. 그게 affair야."
  ],
- "scene": "소풍 장소를 반 전체가 아직 못 정한 장면",
+ "scene": "워크숍 장소를 팀 전체가 아직 못 정한 장면",
  "examples": [
   {
-   "en": "How we spend our pocket money is our own affair, Dad said.",
-   "ko": "용돈을 어떻게 쓰든 그건 우리 일이라고 아빠가 말했어."
+   "en": "Dad said how we spend our money is our own affair.",
+   "ko": "돈을 어떻게 쓰든 우리가 알아서 할 일이라고 아빠가 말했어."
   }
  ],
  "quiz": [
@@ -68,7 +74,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/affair.webp",
-  "alt": "소풍 장소를 반 전체가 아직 못 정한 장면",
+  "alt": "워크숍 장소를 팀 전체가 아직 못 정한 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

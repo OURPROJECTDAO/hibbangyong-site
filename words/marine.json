@@ -11,25 +11,26 @@
  "word": "marine",
  "slug": "marine",
  "url": "https://hibbangyong.com/words/marine/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "바다의 — 바닷물 속이나 바다에 딸린",
  "gloss_ko": "바다의",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "배 한 척이 항구에 묶여 있어. 그 밧줄, 소금물에 계속 담겨 있거든?",
   "그래서 아무 밧줄이나 못 써. 바닷물을 견디는 밧줄이어야 해.",
   "이렇게 바다랑 붙어 있는 거, 바다에 속한 거를 marine이라고 불러. 헤엄치는 물고기도, 바다에 뜬 배도, 바다를 연구하는 일도 다 marine이야.",
   "강이나 호수 물이면? 물이어도 marine은 아니야. 짠 바다여야 그게 marine이야."
  ],
+ "explanation_for_kids": null,
  "scene": "항구에 묶인 배의 밧줄이 소금물에 잠겨 있는 장면",
  "examples": [
   {
-   "en": "Oil from the ship hurt the marine animals near the shore.",
-   "ko": "배에서 나온 기름이 바닷가 가까이 사는 바다 동물들을 아프게 했어."
+   "en": "I took a marine biology class at college.",
+   "ko": "대학에서 해양 생물학 수업을 들었어."
   }
  ],
  "quiz": [

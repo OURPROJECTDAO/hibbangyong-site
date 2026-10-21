@@ -11,23 +11,24 @@
  "word": "cable",
  "slug": "cable",
  "url": "https://hibbangyong.com/words/cable/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "케이블 — 전기나 신호를 나르는 굵고 튼튼한 전선",
  "gloss_ko": "케이블",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 둘둘 말아놓은 굵은 줄이 바로 cable이에요. 전기나 화면 신호를 한 곳에서 다른 곳으로 실어 나르는 튼튼한 전선이지요.",
   "집에서 TV나 컴퓨터 뒤를 보면 이렇게 생긴 굵은 줄이 여러 개 꽂혀 있어요."
  ],
- "scene": "굵고 튼튼한 전선 케이블 한 가닥을 동그랗게 둘둘 말아놓은 모습(전깃줄·굵은 코드의 의미로 그림)",
+ "explanation_for_kids": null,
+ "scene": "굵고 튼튼한 전선 케이블 한 가닥을 동그랗게 둘둘 말아놓은 모습",
  "examples": [
   {
-   "en": "Dad plugged the thick cable into the back of the TV.",
-   "ko": "아빠가 굵은 케이블을 텔레비전 뒤에 꽂았어."
+   "en": "I plugged the thick cable into the back of the TV.",
+   "ko": "굵은 케이블을 텔레비전 뒤에 꽂았어."
   }
  ],
  "quiz": [
@@ -55,7 +56,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/cable.webp",
-  "alt": "굵고 튼튼한 전선 케이블 한 가닥을 동그랗게 둘둘 말아놓은 모습(전깃줄·굵은 코드의 의미로 그림)",
+  "alt": "굵고 튼튼한 전선 케이블 한 가닥을 동그랗게 둘둘 말아놓은 모습",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

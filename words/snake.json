@@ -11,29 +11,33 @@
  "word": "snake",
  "slug": "snake",
  "url": "https://hibbangyong.com/words/snake/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "뱀 — 다리 없이 몸을 구불구불 움직이며 기어다니는 긴 동물",
  "gloss_ko": "뱀",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "긴 몸을 땅에 대고 스르륵 미끄러지듯 기어다니는 동물이 snake야.",
+  "동물원이나 사진에서 초록색이나 갈색 몸을 동그랗게 말고 있는 모습으로 자주 볼 수 있어요."
+ ],
+ "explanation_for_kids": [
   "긴 몸을 땅에 대고 스르륵 미끄러지듯 기어다니는 동물이 snake야.",
   "동물원이나 그림책에서 초록색이나 갈색 몸을 동그랗게 말고 있는 모습으로 자주 볼 수 있어요."
  ],
- "scene": "동그랗게 똬리를 튼 초록 뱀 한 마리가 갈라진 혀를 살짝 내밀고 친근하게 웃는 모습(동물 '뱀'을 그림)",
+ "scene": "동그랗게 똬리를 튼 초록 뱀 한 마리가 갈라진 혀를 살짝 내밀고 친근하게 웃는 모습",
  "examples": [
   {
-   "en": "The snake moved slowly across the grass.",
-   "ko": "뱀이 풀밭을 천천히 가로질러 갔어."
+   "en": "We saw a snake on the hiking trail.",
+   "ko": "등산로에서 뱀을 봤어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "꼬리를 살랑살랑 흔들며 '멍멍' 짖고 사람을 잘 따르는 동물이 있어. 이게 snake야?",
+   "question": "꼬리를 흔들며 짖고 사람을 잘 따르는 동물이 있어. 이게 snake야?",
    "choices": [
     "응, 맞아",
     "아니, 아니야"
@@ -55,7 +59,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/snake.webp",
-  "alt": "동그랗게 똬리를 튼 초록 뱀 한 마리가 갈라진 혀를 살짝 내밀고 친근하게 웃는 모습(동물 '뱀'을 그림)",
+  "alt": "동그랗게 똬리를 튼 초록 뱀 한 마리가 갈라진 혀를 살짝 내밀고 친근하게 웃는 모습",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

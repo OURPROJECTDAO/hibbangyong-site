@@ -11,25 +11,31 @@
  "word": "repair",
  "slug": "repair",
  "url": "https://hibbangyong.com/words/repair/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "고치다 — 망가져서 못 쓰게 된 걸 손봐서 도로 쓸 수 있게 만들다",
  "gloss_ko": "고치다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "아끼는 책이 찢어져서 더는 넘길 수가 없었어.",
+  "그래서 붙였어. 다시 넘겨볼 수 있게 됐지.",
+  "새 책을 산 것도, 예쁘게 꾸민 것도 아니야. 망가진 그 책을 도로 살린 거야.",
+  "찢어진 옷도, 고장 난 자전거도, 싸운 뒤 서먹해진 사이도 다 그래. 그게 repair야."
+ ],
+ "explanation_for_kids": [
   "아끼는 그림책이 쫙 찢어져서 더는 넘길 수가 없었어.",
   "그래서 붙였어. 다시 넘겨볼 수 있게 됐지.",
   "새 책을 산 것도, 예쁘게 꾸민 것도 아니야. 망가진 그 책을 도로 살린 거야.",
   "찢어진 옷도, 고장 난 자전거도, 싸운 뒤 서먹해진 사이도 다 그래. 그게 repair야."
  ],
- "scene": "찢어져 넘길 수 없던 그림책을 붙여 다시 넘겨보게 된 장면",
+ "scene": "찢어져 넘길 수 없던 책을 붙여 다시 넘겨보게 된 장면",
  "examples": [
   {
-   "en": "We repaired the old fence so the puppy could not run out again.",
-   "ko": "강아지가 또 뛰쳐나가지 못하게 낡은 울타리를 고쳤어."
+   "en": "I need to repair my bike before work tomorrow.",
+   "ko": "내일 출근 전에 자전거를 고쳐야 해."
   }
  ],
  "quiz": [
@@ -59,7 +65,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/repair.webp",
-  "alt": "찢어져 넘길 수 없던 그림책을 붙여 다시 넘겨보게 된 장면",
+  "alt": "찢어져 넘길 수 없던 책을 붙여 다시 넘겨보게 된 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,25 +11,26 @@
  "word": "sag",
  "slug": "sag",
  "url": "https://hibbangyong.com/words/sag/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "처짐 — 무게를 버티던 것이 힘이 빠져 원래 높이보다 아래로 축 내려앉은 부분 (판매량·기운이 잠깐 내려간 것에도 써)",
  "gloss_ko": "축 처짐",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "빨랫줄에 젖은 이불을 널면 줄이 아래로 축 늘어지지? 오래 쓴 매트리스도 눕는 자리가 푹 내려앉고.",
   "원래 높이를 버티던 게 무게에 지쳐서 아래로 처진 부분, 그게 sag야.",
   "툭 떨어져 나간 거나 그냥 한쪽으로 기운 거랑은 달라. 제자리에 붙은 채로 처진 거야.",
   "판매량이나 기운이 슬슬 내려간 것도 a sag라고 해."
  ],
+ "explanation_for_kids": null,
  "scene": "빨랫줄에 넌 젖은 이불 때문에 줄이 늘어짐",
  "examples": [
   {
-   "en": "The old tent had a sag in the middle after the rain.",
-   "ko": "비 오고 나니까 낡은 텐트 가운데가 아래로 축 처져 있었어."
+   "en": "My old couch has a sag in the middle.",
+   "ko": "내 낡은 소파는 가운데가 축 꺼져 있어."
   }
  ],
  "quiz": [

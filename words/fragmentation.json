@@ -11,21 +11,27 @@
  "word": "fragmentation",
  "slug": "fragmentation",
  "url": "https://hibbangyong.com/words/fragmentation/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "분열 — 하나로 뭉쳐 있던 게 작은 조각들로 쪼개져 따로따로 흩어지는 것",
  "gloss_ko": "조각조각 쪼개짐",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "처음엔 팀 전체가 단톡방 하나에서 같이 떠들었어.",
+  "근데 어느새 작은 방 열 개로 갈라졌고, 이제 서로 무슨 얘기를 하는지도 몰라.",
+  "깨진 유리컵이 조각조각 흩어지는 것도, 숲이 도로에 잘려 작은 덩어리 여러 개가 되는 것도 같은 일이야. 하나였던 게 여러 조각으로 쪼개져 따로 노는 과정, 그게 fragmentation이야.",
+  "금만 간 건 아직 한 덩어리니까 달라. 누가 일부러 똑같이 나눠 주는 것과도 달라. 이건 쪼개져서 흩어지는 쪽이야."
+ ],
+ "explanation_for_kids": [
   "처음엔 반 전체가 단톡방 하나에서 같이 떠들었어.",
   "근데 어느새 작은 방 열 개로 갈라졌고, 이제 서로 무슨 얘기를 하는지도 몰라.",
   "깨진 유리컵이 조각조각 흩어지는 것도, 숲이 도로에 잘려 작은 덩어리 여러 개가 되는 것도 같은 일이야. 하나였던 게 여러 조각으로 쪼개져 따로 노는 과정, 그게 fragmentation이야.",
   "금만 간 건 아직 한 덩어리니까 달라. 누가 일부러 똑같이 나눠 주는 것과도 달라. 이건 쪼개져서 흩어지는 쪽이야."
  ],
- "scene": "반 단톡방 하나가 작은 방 여러 개로 갈라짐",
+ "scene": "팀 단톡방 하나가 작은 방 여러 개로 갈라짐",
  "examples": [
   {
    "en": "After the fragmentation of our club, nobody planned anything together.",
@@ -66,7 +72,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/fragmentation.webp",
-  "alt": "반 단톡방 하나가 작은 방 여러 개로 갈라짐",
+  "alt": "팀 단톡방 하나가 작은 방 여러 개로 갈라짐",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

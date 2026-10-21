@@ -11,25 +11,26 @@
  "word": "input",
  "slug": "input",
  "url": "https://hibbangyong.com/words/input/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "넣는 것 — 뭔가가 만들어지도록 안으로 들어가는 것(재료도, 글자도, 의견도)",
  "gloss_ko": "만들려고 안에 넣는 것",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "주스 기계에 사과를 넣으면 주스가 나오지? 넣은 사과, 그게 input이야.",
   "먹는 거만 그런 게 아니야. 컴퓨터에 치는 글자도, 네가 낸 의견도, 안으로 들어가면 다 input이거든.",
   "나온 주스는 input이 아니야. 그건 들어간 게 아니라 나온 거니까.",
   "안으로 들어가서 뭔가를 만들게 해 주는 것, 그게 input이야."
  ],
+ "explanation_for_kids": null,
  "scene": "주스 기계에 사과를 넣어 주스가 나오는 장면",
  "examples": [
   {
-   "en": "We need more input from everyone before we pick a game.",
-   "ko": "게임을 고르기 전에 다들한테서 의견을 더 들어야 해."
+   "en": "Our manager wants input from everyone on the new menu.",
+   "ko": "매니저가 새 메뉴에 대해 모두의 의견을 듣고 싶어 해."
   }
  ],
  "quiz": [

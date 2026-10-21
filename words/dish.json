@@ -11,23 +11,24 @@
  "word": "dish",
  "slug": "dish",
  "url": "https://hibbangyong.com/words/dish/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "접시 — 음식을 담는 납작하고 둥근 그릇",
  "gloss_ko": "접시",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "둥글고 납작해서 위에 음식을 올려놓는 그릇이에요.",
   "밥을 먹을 때 반찬이나 과일을 하나씩 담아 두는 데 써요."
  ],
- "scene": "빈 흰색 도자기 접시 한 장을 위에서 살짝 비스듬히 본 모습(식기 '접시'의 의미로 그림)",
+ "explanation_for_kids": null,
+ "scene": "빈 흰색 도자기 접시 한 장을 위에서 살짝 비스듬히 본 모습",
  "examples": [
   {
-   "en": "Mom put the warm cookies on a small dish.",
-   "ko": "엄마가 따뜻한 과자를 작은 접시에 올려놨어."
+   "en": "The café served my cake on a small white dish.",
+   "ko": "카페에서 내 케이크를 작은 하얀 접시에 담아 줬어."
   }
  ],
  "quiz": [
@@ -58,7 +59,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/dish.webp",
-  "alt": "빈 흰색 도자기 접시 한 장을 위에서 살짝 비스듬히 본 모습(식기 '접시'의 의미로 그림)",
+  "alt": "빈 흰색 도자기 접시 한 장을 위에서 살짝 비스듬히 본 모습",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

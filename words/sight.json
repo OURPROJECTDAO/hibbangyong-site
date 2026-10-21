@@ -11,25 +11,26 @@
  "word": "sight",
  "slug": "sight",
  "url": "https://hibbangyong.com/words/sight/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "눈으로 보는 것(보는 힘), 또는 눈에 보이는 모습",
  "gloss_ko": "눈에 들어옴",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "저 멀리 뿌옇던 게 점점 가까워져. 어? 이제 눈에 딱 보인다!",
   "이렇게 네 눈에 들어와서 보이는 거, 그게 sight거든.",
   "꼭 예쁜 거만 sight인 거 아니야. 무서운 거든 이상한 거든, 눈에 보이면 다 sight야.",
   "귀로 듣는 소리는 빼고, 눈으로 보는 것! 그게 sight야."
  ],
+ "explanation_for_kids": null,
  "scene": "뿌옇던 게 가까워지며 눈에 보이게 됨 + 소리·냄새 말고 '보이는' 것",
  "examples": [
   {
-   "en": "Suddenly a strange sight appeared at the window.",
-   "ko": "갑자기 창문에 이상한 광경이 나타났어."
+   "en": "The city lights from the plane were an amazing sight.",
+   "ko": "비행기에서 본 도시 불빛은 정말 멋진 광경이었어."
   }
  ],
  "quiz": [

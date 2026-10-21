@@ -11,25 +11,26 @@
  "word": "agriculture",
  "slug": "agriculture",
  "url": "https://hibbangyong.com/words/agriculture/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "농사 — 사람이 먹고 쓸 걸 땅에서 길러내는 일 전체",
  "gloss_ko": "농사",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "논밭 가는 아저씨만 떠올렸지? 그거보다 훨씬 넓어.",
   "씨 뿌리고, 물 주고, 소랑 닭 키우고, 거둬서 실어 보내고 — 이 모든 게 한 덩어리로 묶인 일이야.",
   "잘될 때도 있고 가뭄에 다 말라죽을 때도 있어. 좋은 얘기만 하는 말이 아니거든?",
   "집 텃밭에서 잠깐 풀 뽑는 것 말고, 먹을 걸 길러 내려고 땅이랑 가축을 돌보는 그 일 통째. 그게 agriculture야."
  ],
+ "explanation_for_kids": null,
  "scene": "씨 뿌리고 물 주고 가축 키우고 거둬 보내는 일이 한 덩어리로 묶인 그림",
  "examples": [
   {
    "en": "In our country, agriculture is having a hard year because of the rain.",
-   "ko": "우리나라는 비 때문에 올해 농사가 힘든 해를 보내고 있어."
+   "ko": "올해 우리나라 농사는 비 때문에 힘들어."
   }
  ],
  "quiz": [

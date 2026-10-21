@@ -11,31 +11,32 @@
  "word": "discovery",
  "slug": "discovery",
  "url": "https://hibbangyong.com/words/discovery/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "발견 — 숨어 있거나 몰랐던 것을 찾아내거나 알아내는 것, 또는 그렇게 알아낸 것",
  "gloss_ko": "찾아낸 것",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "어항 물이 자꾸 줄었거든? 아무도 이유를 몰랐어. 그런데 봐봐, 바닥에 가느다란 금이 숨어 있었던 거야. 딱!",
   "온 세상이 몰랐던 새 별이든, 우리 집에서만 몰랐던 금이든 다 돼. 좋은 일이든 속상한 일이든 상관없어.",
   "원래 있었는데 몰랐던 걸 찾아내거나 알아내면 돼.",
   "없던 걸 새로 만든 거랑은 달라. 있던 걸 알아낸 거, 그게 discovery야."
  ],
+ "explanation_for_kids": null,
  "scene": "어항 바닥에서 물이 새는 가는 금을 찾아냄",
  "examples": [
   {
-   "en": "The discovery of the crack showed us why the water kept going down.",
-   "ko": "금이 간 걸 찾아내니까 물이 왜 자꾸 줄었는지 알 수 있었어."
+   "en": "The plumber's discovery of a tiny crack explained our high water bill.",
+   "ko": "배관공이 작은 금을 찾아내서 수도 요금이 왜 많이 나왔는지 알게 됐어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "할머니 댁 다락방 상자를 열어 봤는데, 가족 누구도 있는 줄 몰랐던 옛날 사진첩이 그 안에 들어 있었어. 이걸 찾아낸 일은 'discovery'야?",
+   "question": "우리 집 다락방 상자를 열어 봤는데, 가족 누구도 있는 줄 몰랐던 옛날 사진첩이 그 안에 들어 있었어. 이걸 찾아낸 일은 'discovery'야?",
    "choices": [
     "응, discovery 맞아",
     "아니, discovery 아니야"

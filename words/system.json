@@ -11,25 +11,26 @@
  "word": "system",
  "slug": "system",
  "url": "https://hibbangyong.com/words/system/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "여러 부분이 서로 이어져 한 팀처럼 같이 일하는 짜임새",
  "gloss_ko": "서로 이어진 짜임새",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "밥을 먹으면 입이 씹고, 배가 받고, 그다음 창자가 이어받아.",
   "한 군데가 끝나면 바로 다음 군데로 쫙 넘어가지?",
   "따로따로 노는 게 아니라, 서로 이어져서 한 팀처럼 같이 한 가지 일을 해내는 거야.",
   "꼭 몸속만 그런 게 아니라, 버스랑 정류장이든 차례랑 규칙이든, 서로 이어져 같이 일하면 다 system이야."
  ],
+ "explanation_for_kids": null,
  "scene": "입→배→창자가 차례로 이어져 한 팀으로 음식을 소화시키는 장면",
  "examples": [
   {
-   "en": "Our body has a system that breaks down the food we eat.",
-   "ko": "우리 몸엔 먹은 음식을 잘게 부수는, 서로 이어져 같이 일하는 짜임새가 있어."
+   "en": "The subway system in this city is easy to use.",
+   "ko": "이 도시는 지하철망이 이용하기 쉬워."
   }
  ],
  "quiz": [

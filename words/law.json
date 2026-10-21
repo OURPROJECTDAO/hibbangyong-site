@@ -11,20 +11,21 @@
  "word": "law",
  "slug": "law",
  "url": "https://hibbangyong.com/words/law/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "법 — 나라가 정해서 모두가 꼭 지켜야 하는 규칙",
  "gloss_ko": "법",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "빨간불이면 차가 멈춰야 하지? 남의 물건을 몰래 가져가도 안 되고.",
   "이런 건 그냥 예의나 우리끼리 한 약속이 아니야.",
   "나라가 딱 정해 놓고, 그 나라 사람 모두가 꼭 지켜야 하는 규칙이거든. 안 지키면 벌을 받아.",
   "이게 law야."
  ],
+ "explanation_for_kids": null,
  "scene": "빨간불에 차가 멈추는 장면",
  "examples": [
   {

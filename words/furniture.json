@@ -11,15 +11,21 @@
  "word": "furniture",
  "slug": "furniture",
  "url": "https://hibbangyong.com/words/furniture/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "가구 — 침대·식탁·옷장처럼 사람이 앉고 눕고 물건 얹으려고 놓아두고 쓰는 큰 물건들",
  "gloss_ko": "가구",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "커다란 창고처럼 넓은 가게에 들어갔다고 해 봐. 침대가 줄줄이, 식탁도 줄줄이, 옷장도 줄줄이 서 있어.",
+  "아직 아무 집에도 안 갔는데 벌써 한 무리로 묶여 있거든. 사람이 앉고, 눕고, 위에 물건 얹으려고 놓아두는 큰 것들이라서 그래.",
+  "방이든 사무실이든 마당이든, 놓아두고 두고두고 쓰면 다 여기 껴. 좋은 새것이든 낡아서 삐걱대는 것이든 상관없어.",
+  "손에 들고 다니는 컵이나, 벽에 딱 박아 붙인 건 안 껴. 그게 furniture야."
+ ],
+ "explanation_for_kids": [
   "커다란 창고처럼 넓은 가게에 들어갔다고 해 봐. 침대가 줄줄이, 식탁도 줄줄이, 옷장도 줄줄이 서 있어.",
   "아직 아무 집에도 안 갔는데 벌써 한 무리로 묶여 있거든. 사람이 앉고, 눕고, 위에 물건 얹으려고 놓아두는 큰 것들이라서 그래.",
   "방이든 교실이든 마당이든, 놓아두고 두고두고 쓰면 다 여기 껴. 좋은 새것이든 낡아서 삐걱대는 것이든 상관없어.",
@@ -28,21 +34,21 @@
  "scene": "넓은 가게에 침대·식탁·옷장이 줄줄이 놓여 있는 장면",
  "examples": [
   {
-   "en": "The garden furniture gets wet when it rains.",
-   "ko": "비가 오면 마당 가구가 다 젖어."
+   "en": "I bought cheap furniture for my first apartment.",
+   "ko": "첫 자취방에 놓을 싼 가구를 샀어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "이모네 새 사무실에 갔더니 바닥에 커다란 책상이 놓여 있고, 사람들이 그 앞에 앉아서 일하고 있어. 이 책상은 'furniture'야?",
+   "question": "선배네 새 사무실에 갔더니 바닥에 커다란 책상이 놓여 있고, 사람들이 그 앞에 앉아서 일하고 있어. 이 책상은 'furniture'야?",
    "choices": [
     "응, furniture 맞아",
     "아니, furniture 아니야"
    ],
    "answer_index": 0,
    "answer": "응, furniture 맞아",
-   "why": "맞아! 이모네 사무실 책상은 바닥에 놓아두고, 사람들이 그 앞에 앉아서 일하는 큰 물건이거든. 그래서 바로 그게 furniture인 거야."
+   "why": "맞아! 선배네 사무실 책상은 바닥에 놓아두고, 사람들이 그 앞에 앉아서 일하는 큰 물건이거든. 그래서 바로 그게 furniture인 거야."
   }
  ],
  "synonyms": [],

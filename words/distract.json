@@ -11,15 +11,21 @@
  "word": "distract",
  "slug": "distract",
  "url": "https://hibbangyong.com/words/distract/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "하던 일에서 마음을 딴 데로 끌어가다 — 눈길이나 생각이 저절로 다른 쪽으로 쏠리게 하다",
  "gloss_ko": "마음을 딴 데로 끌다",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "친구가 옆에서 야, 저기 봐! 하면 어때? 하던 거 하다가 고개가 휙 돌아가지.",
+  "누가 널 붙잡은 것도, 못 하게 막은 것도 아니야. 손도 안 댔는데 마음이 저 혼자 딴 데로 넘어간 거야.",
+  "조카가 울 때 노래 불러서 울음을 뚝 그치게 하는 것도, 공부하는데 옆방 게임 소리가 자꾸 끌어당기는 것도 똑같아.",
+  "이게 distract야."
+ ],
+ "explanation_for_kids": [
   "친구가 옆에서 야, 저기 봐! 하면 어때? 하던 거 하다가 고개가 휙 돌아가지.",
   "누가 널 붙잡은 것도, 못 하게 막은 것도 아니야. 손도 안 댔는데 마음이 저 혼자 딴 데로 넘어간 거야.",
   "동생이 울 때 노래 불러서 울음을 뚝 그치게 하는 것도, 공부하는데 옆방 게임 소리가 자꾸 끌어당기는 것도 똑같아.",
@@ -28,14 +34,14 @@
  "scene": "친구가 저기 봐 하고 부르자 고개가 휙 돌아가는 순간",
  "examples": [
   {
-   "en": "The loud music distracted me, and I read the same page three times.",
-   "ko": "시끄러운 음악이 내 정신을 딴 데로 끌어가서 같은 페이지를 세 번이나 읽었어."
+   "en": "My phone alerts always distract me at work.",
+   "ko": "일할 때 휴대폰 알림 때문에 늘 정신이 딴 데로 가."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "도현이가 식탁에서 숙제를 쓰고 있었어. 그때 옆에 놓인 휴대폰이 삐리릭 울렸고, 도현이 눈이 연필에서 휴대폰 화면으로 넘어갔어. 이게 도현이를 'distract' 한 거야?",
+   "question": "도현이가 식탁에서 과제를 하고 있었어. 그때 옆에 놓인 휴대폰이 삐리릭 울렸고, 도현이 눈이 연필에서 휴대폰 화면으로 넘어갔어. 이게 도현이를 'distract' 한 거야?",
    "choices": [
     "응, distract 맞아",
     "아니, distract 아니야"

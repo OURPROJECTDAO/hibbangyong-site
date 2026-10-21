@@ -11,25 +11,31 @@
  "word": "indebted",
  "slug": "indebted",
  "url": "https://hibbangyong.com/words/indebted/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "신세 진 — 남의 큰 도움이나 영향 덕을 봐서, 그 사람에게 깊이 고맙고 빚진 마음이 남아 있는",
  "gloss_ko": "신세 진",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "자격증 시험 전날 친구가 정리 노트를 빌려줬고, 덕분에 붙었어.",
+  "그 합격엔 친구 몫이 들어 있지. 그래서 고마움이 그냥 지나가지 않고 빚처럼 마음에 남아.",
+  "indebted는 이렇게 남 덕을 크게 봐서 그 사람한테 빚을 진 상태야. 진짜 돈을 빌린 빚에도 쓰고, 옛 노래에 영향을 받아 만든 음악에도 써.",
+  "문 잡아 줘서 고맙다 하고 끝나는 거랑은 달라. 내가 도와준 쪽도 아니고, 잘못해서 미안한 쪽도 아니야. 크게 받은 쪽이야."
+ ],
+ "explanation_for_kids": [
   "시험 전날 친구가 정리 노트를 빌려줬고, 덕분에 점수가 올랐어.",
   "그 점수엔 친구 몫이 들어 있지. 그래서 고마움이 그냥 지나가지 않고 빚처럼 마음에 남아.",
   "indebted는 이렇게 남 덕을 크게 봐서 그 사람한테 빚을 진 상태야. 진짜 돈을 빌린 빚에도 쓰고, 옛 노래에 영향을 받아 만든 음악에도 써.",
   "문 잡아 줘서 고맙다 하고 끝나는 거랑은 달라. 내가 도와준 쪽도 아니고, 잘못해서 미안한 쪽도 아니야. 크게 받은 쪽이야."
  ],
- "scene": "시험 전날 친구가 정리 노트를 빌려줘서 점수가 오른 일",
+ "scene": "자격증 시험 전날 친구가 정리 노트를 빌려줘서 붙은 일",
  "examples": [
   {
-   "en": "Our band is still indebted to the old songs my dad played at home every night.",
-   "ko": "우리 밴드는 아빠가 매일 밤 집에서 틀어 주던 옛날 노래들한테 아직도 신세 지고 있어."
+   "en": "I'm deeply indebted to my roommate for helping me move.",
+   "ko": "이사하는 거 도와준 룸메이트한테 정말 큰 신세를 졌어."
   }
  ],
  "quiz": [

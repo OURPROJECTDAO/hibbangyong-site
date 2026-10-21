@@ -11,25 +11,26 @@
  "word": "search",
  "slug": "search",
  "url": "https://hibbangyong.com/words/search/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "찾기 — 무언가를 찾아내려고 여기저기 살피고 다니는 일 (아직 못 찾았어도, 그 일 자체)",
  "gloss_ko": "찾기",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "뭔가 없어져서 서랍 열어 보고, 소파 밑 들여다보고, 온 동네 돌아다닌 적 있지?",
   "그 돌아다닌 일이 통째로 search야. 끝에 찾았든 못 찾았든 그건 상관없어.",
   "물건만도 아니야. 사라진 사람을 찾아 나서는 것도, 답이 궁금해서 책을 뒤적이는 것도 다 search거든.",
   "딱 찾아낸 그 순간 말고, 찾으려고 애쓴 그 시간 전부 — 그게 search야."
  ],
+ "explanation_for_kids": null,
  "scene": "서랍·소파 밑·온 동네를 살피며 없어진 것을 찾아다니는 일",
  "examples": [
   {
-   "en": "The search for the missing dog went on all night, but they never found him.",
-   "ko": "사라진 강아지를 찾는 일이 밤새 이어졌지만 끝내 못 찾았어."
+   "en": "The search for my lost phone took the whole morning.",
+   "ko": "잃어버린 휴대폰을 찾느라 오전이 통째로 날아갔어."
   }
  ],
  "quiz": [

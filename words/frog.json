@@ -11,23 +11,24 @@
  "word": "frog",
  "slug": "frog",
  "url": "https://hibbangyong.com/words/frog/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "개구리 — 물가에 살며 폴짝폴짝 뛰는 초록빛 동물",
  "gloss_ko": "개구리",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "초록색 몸에 큰 눈을 가지고 연잎이나 물가에 앉아 있는 작은 동물이 frog예요.",
   "비 오는 날 웅덩이 근처에서 폴짝 뛰거나 '개굴개굴' 우는 소리를 들어 본 적 있을 거예요."
  ],
+ "explanation_for_kids": null,
  "scene": "초록색 개구리 한 마리가 연잎 위에 앉아 정면을 보는 모습(frog=개구리, 사물 단독)",
  "examples": [
   {
-   "en": "The green frog jumped from the leaf into the pond.",
-   "ko": "초록 개구리가 잎에서 연못으로 폴짝 뛰어들었어."
+   "en": "A frog jumped onto the path during my evening run.",
+   "ko": "저녁에 달리는데 개구리 한 마리가 길로 폴짝 뛰어나왔어."
   }
  ],
  "quiz": [

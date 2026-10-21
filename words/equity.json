@@ -11,25 +11,26 @@
  "word": "equity",
  "slug": "equity",
  "url": "https://hibbangyong.com/words/equity/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "공평 — 누구도 괜히 앞서거나 밀리지 않게 모두를 대하는 것",
  "gloss_ko": "공평함",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "시험 전날, 한 반만 문제를 미리 알았다고 해 봐. 딱 봐도 불공평하지.",
   "아무도 괜히 앞서거나 밀리지 않게 모두를 대하는 것, 그 공평함이 equity야.",
   "근데 무조건 똑같이 나누는 거랑은 달라. 칠판이 안 보이는 친구를 앞자리에 앉히는 것도 공평이거든.",
   "교실만의 얘기도 아니야. 사는 동네나 집 형편 때문에 병원 치료를 덜 받는 사람이 없게 하는 것도 equity야."
  ],
+ "explanation_for_kids": null,
  "scene": "시험 전날 한 반만 문제를 미리 앎",
  "examples": [
   {
-   "en": "Our student council is working on equity between big clubs and small clubs.",
-   "ko": "우리 학생회가 큰 동아리랑 작은 동아리가 공평하게 대우받게 하려고 애쓰고 있어."
+   "en": "Our college student council is working on equity between big and small clubs.",
+   "ko": "우리 대학 학생회가 큰 동아리랑 작은 동아리를 공평하게 대하려고 애쓰고 있어."
   }
  ],
  "quiz": [

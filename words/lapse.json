@@ -11,21 +11,27 @@
  "word": "lapse",
  "slug": "lapse",
  "url": "https://hibbangyong.com/words/lapse/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "순간적인 실수 — 평소엔 잘하다가 잠깐 정신이 딴 데 가서 생긴 빈틈",
  "gloss_ko": "순간의 실수",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "팀에서 계산 제일 잘하는 동료가 정산 때 3+5를 9라고 썼어.",
+  "몰라서 그런 게 아니야. 그 순간에만 정신이 딴 데 가 있었던 거지.",
+  "평소엔 잘하는데 잠깐 빈틈이 생긴 것. 늘 알던 친구 이름이 갑자기 안 떠오르는 것도 이거야.",
+  "처음부터 몰라서 틀린 거나 일부러 한 잘못, 매번 되풀이하는 버릇이랑은 달라."
+ ],
+ "explanation_for_kids": [
   "반에서 수학 제일 잘하는 애가 시험에서 3+5를 9라고 썼어.",
   "몰라서 그런 게 아니야. 그 순간에만 정신이 딴 데 가 있었던 거지.",
   "평소엔 잘하는데 잠깐 빈틈이 생긴 것. 늘 알던 친구 이름이 갑자기 안 떠오르는 것도 이거야.",
   "처음부터 몰라서 틀린 거나 일부러 한 잘못, 매번 되풀이하는 버릇이랑은 달라."
  ],
- "scene": "수학 잘하는 친구가 시험에서 쉬운 덧셈을 틀림",
+ "scene": "계산 잘하는 동료가 정산 때 쉬운 덧셈을 틀림",
  "examples": [
   {
    "en": "Our best player had a lapse in the last minute, and we lost the game.",
@@ -57,7 +63,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/lapse.webp",
-  "alt": "수학 잘하는 친구가 시험에서 쉬운 덧셈을 틀림",
+  "alt": "계산 잘하는 동료가 정산 때 쉬운 덧셈을 틀림",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

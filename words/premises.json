@@ -11,21 +11,27 @@
  "word": "premises",
  "slug": "premises",
  "url": "https://hibbangyong.com/words/premises/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "구내(건물과 딸린 땅 전체) — 가게·회사·학교 같은 곳이 쓰는 건물과 거기 딸린 땅 전체",
  "gloss_ko": "건물과 딸린 땅",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "대학 정문을 딱 넘어서면 거기서부터는 다 학교 땅이지.",
+  "강의동만 그런 게 아니야. 잔디광장, 주차장, 뒤뜰 화단까지 전부 들어가.",
+  "가게나 회사, 식당도 똑같아. 그곳이 쓰는 건물이랑 딸린 땅을 한꺼번에 부르는 말이야.",
+  "대신 담장 밖 동네까지는 안 넓어져. 그리고 늘 끝에 s가 붙은 채로 써."
+ ],
+ "explanation_for_kids": [
   "학교 교문을 딱 넘어서면 거기서부터는 다 학교 땅이지.",
   "교실 건물만 그런 게 아니야. 운동장, 주차장, 뒤뜰 화단까지 전부 들어가.",
   "가게나 회사, 식당도 똑같아. 그곳이 쓰는 건물이랑 딸린 땅을 한꺼번에 부르는 말이야.",
   "대신 담장 밖 동네까지는 안 넓어져. 그리고 늘 끝에 s가 붙은 채로 써."
  ],
- "scene": "교문 안쪽 학교 땅 전체(운동장·주차장·화단)",
+ "scene": "정문 안쪽 대학 땅 전체(잔디광장·주차장·화단)",
  "examples": [
   {
    "en": "Dogs are not allowed anywhere on the school premises, even in the parking lot.",
@@ -66,7 +72,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/premises.webp",
-  "alt": "교문 안쪽 학교 땅 전체(운동장·주차장·화단)",
+  "alt": "정문 안쪽 대학 땅 전체(잔디광장·주차장·화단)",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

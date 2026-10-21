@@ -11,25 +11,26 @@
  "word": "dust",
  "slug": "dust",
  "url": "https://hibbangyong.com/words/dust/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "먼지 — 물건 위에 오래 두면 뽀얗게 쌓이고, 바람이 불면 훅 날리는 아주 작은 가루",
  "gloss_ko": "쌓이는 먼지",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "오래 안 쓴 책장 위를 봐봐. 회색 가루가 뽀얗게 앉아 있지?",
   "흙길에서 차가 휙 지나가면 뿌옇게 일어나는 것도 같은 거야.",
   "모래랑은 달라. 모래는 알갱이가 까끌까끌 보이는데, 이건 너무 작고 가벼워서 바람만 불어도 훅 날려.",
   "그게 dust야."
  ],
+ "explanation_for_kids": null,
  "scene": "오래 안 쓴 책장 위에 뽀얗게 앉은 회색 가루",
  "examples": [
   {
-   "en": "There is a lot of dust under my bed.",
-   "ko": "내 침대 밑에 먼지가 잔뜩 쌓여 있어."
+   "en": "There's so much dust on my keyboard at work.",
+   "ko": "회사에서 쓰는 내 키보드에 먼지가 엄청 쌓였어."
   }
  ],
  "quiz": [

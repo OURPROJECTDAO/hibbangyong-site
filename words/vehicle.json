@@ -11,25 +11,26 @@
  "word": "vehicle",
  "slug": "vehicle",
  "url": "https://hibbangyong.com/words/vehicle/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "탈것 — 엔진으로 움직이며 사람이나 짐을 다른 데로 옮기는 것(차·버스·트럭)",
  "gloss_ko": "탈것",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "주차장에 트럭 한 대, 버스 한 대, 오토바이 한 대가 나란히 서 있어. 생김새는 다 다르지?",
   "근데 셋을 한 묶음으로 부르는 말이 있어. 뭘 싣고 다른 데로 옮기려고 만든 거라서 그래.",
   "사람을 태우든 짐만 싣든 상관없어. 셋 다 엔진이 있어서 스스로 굴러가.",
   "바로 옆 창고는 짐이 아무리 많아도 아니야. 그 자리에서 안 움직이니까. 그게 vehicle이야."
  ],
+ "explanation_for_kids": null,
  "scene": "주차장에 나란히 선 트럭·버스·오토바이",
  "examples": [
   {
-   "en": "Dad's vehicle can carry all our bags and even a big tent.",
-   "ko": "아빠 탈것은 우리 가방을 다 싣고 큰 텐트까지 실을 수 있어."
+   "en": "Our vehicle can fit all our bags and even a big tent.",
+   "ko": "우리 차에는 가방이 다 들어가고 큰 텐트까지 실려."
   }
  ],
  "quiz": [

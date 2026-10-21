@@ -11,15 +11,21 @@
  "word": "maneuver",
  "slug": "maneuver",
  "url": "https://hibbangyong.com/words/maneuver/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "솜씨 있는 움직임 — 뭔가를 피하거나 좁고 까다로운 곳을 지나가려고 조심스럽고 솜씨 있게 하는 움직임",
  "gloss_ko": "솜씨 있는 움직임",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "친구가 좁은 골목에서 차를 앞뒤로 조금씩 돌려서 빠져나왔어.",
+  "그냥 움직인 게 아니야. 까다로운 자리에서 조심조심, 솜씨 있게 움직인 거지.",
+  "웅덩이를 비껴가든, 좁은 데를 지나가든, 큰 배를 좁은 항구에서 방향을 돌려 세우든 다 이거야. 사람 몸이든 차든 배든 상관없어.",
+  "생각 없이 쭉 가거나 발 헛디뎌 우연히 된 움직임은 아니야. 머리싸움에서 두는 영리한 한 수도 이 말로 불러."
+ ],
+ "explanation_for_kids": [
   "엄마가 좁은 골목에서 차를 앞뒤로 조금씩 돌려서 빠져나왔어.",
   "그냥 움직인 게 아니야. 까다로운 자리에서 조심조심, 솜씨 있게 움직인 거지.",
   "웅덩이를 비껴가든, 좁은 데를 지나가든, 큰 배를 좁은 항구에서 방향을 돌려 세우든 다 이거야. 사람 몸이든 차든 배든 상관없어.",
@@ -28,14 +34,14 @@
  "scene": "좁은 골목에서 차를 앞뒤로 돌려 빠져나오기",
  "examples": [
   {
-   "en": "The pilot's maneuver got the plane safely between the two mountains.",
-   "ko": "조종사가 솜씨 있게 비행기를 움직여서 두 산 사이를 안전하게 빠져나갔어."
+   "en": "It took a tricky maneuver to park in that tiny spot.",
+   "ko": "그 좁은 자리에 주차하느라 차를 요리조리 솜씨 있게 움직여야 했어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "준호가 학교 계단을 내려가다가 발을 헛디뎌서 계단 세 칸을 쭉 미끄러져 내려갔어. 준호의 이 움직임, 'maneuver'야?",
+   "question": "준호가 지하철역 계단을 내려가다가 발을 헛디뎌서 계단 세 칸을 쭉 미끄러져 내려갔어. 준호의 이 움직임, 'maneuver'야?",
    "choices": [
     "응, maneuver 맞아",
     "아니, maneuver 아니야"

@@ -11,20 +11,21 @@
  "word": "transistor",
  "slug": "transistor",
  "url": "https://hibbangyong.com/words/transistor/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "트랜지스터 — 전자 기기 안에서 전기가 흐를지 말지, 얼마나 세게 흐를지를 조절하는 아주 작은 부품",
  "gloss_ko": "트랜지스터",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "폰 칩 안에는 눈에 안 보일 만큼 작은 부품이 수십억 개 들어 있어.",
   "걔들은 전기를 흘려보낼지 막을지 정해. 약한 전기 신호를 세게 키워 주기도 해.",
   "전기를 모아 두는 배터리나 전기가 지나가는 길인 전선이랑은 달라. 얘는 전기의 흐름을 조절해.",
   "이게 transistor야. 폰, 라디오, 컴퓨터가 다 이 부품 덕분에 돌아가."
  ],
+ "explanation_for_kids": null,
  "scene": "폰 칩 안에 든 수십억 개의 작은 부품",
  "examples": [
   {

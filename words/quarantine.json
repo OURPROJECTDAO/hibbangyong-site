@@ -11,38 +11,39 @@
  "word": "quarantine",
  "slug": "quarantine",
  "url": "https://hibbangyong.com/words/quarantine/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "격리 — 병을 옮길지도 몰라서, 사람이나 동물을 얼마 동안 다른 쪽과 떼어 놓는 것",
  "gloss_ko": "병 막으려 떼어 둠",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "외국에서 강아지를 데려오면 바로 집에 못 가. 며칠 동안 따로 떨어져서 지내야 해.",
   "강아지가 아파서 그런 게 아니야. 혹시 병이 있을 수도 있으니까, 괜찮다는 게 확인될 때까지 떼어 놓는 거야.",
   "사람도, 동물도, 식물도 이렇게 해. 이렇게 떼어 두는 게 quarantine이야.",
   "아파서 치료받으려고 병원에 들어가는 거랑은 달라. 잘못해서 받는 벌도 아니고."
  ],
+ "explanation_for_kids": null,
  "scene": "외국에서 데려온 강아지가 며칠 동안 따로 떨어져 지냄",
  "examples": [
   {
-   "en": "After the trip, my uncle had to stay in quarantine for a week, but he never got sick.",
-   "ko": "삼촌은 여행 다녀와서 일주일 동안 격리돼 있어야 했는데, 결국 한 번도 안 아팠어."
+   "en": "After my trip abroad, I had to stay in quarantine for five days.",
+   "ko": "해외여행 다녀와서 닷새 동안 격리돼 있어야 했어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "수학여행을 간 학생들이 사흘 동안 반 구분 없이 한 숙소에서 다 같이 밥 먹고 잠자고 놀았어. 이게 'quarantine'이야?",
+   "question": "워크숍을 간 직원들이 사흘 동안 팀 구분 없이 한 숙소에서 다 같이 밥 먹고 잠자고 놀았어. 이게 'quarantine'이야?",
    "choices": [
     "응, quarantine 맞아",
     "아니, quarantine 아니야"
    ],
    "answer_index": 1,
    "answer": "아니, quarantine 아니야",
-   "why": "맞아! 학생들이 사흘 동안 반 구분 없이 한 숙소에서 다 같이 밥 먹고 잠자고 놀았잖아. 아무도 따로 떼어 놓지 않았으니까 quarantine이 아닌 거야."
+   "why": "맞아! 직원들이 사흘 동안 팀 구분 없이 한 숙소에서 다 같이 밥 먹고 잠자고 놀았잖아. 아무도 따로 떼어 놓지 않았으니까 quarantine이 아닌 거야."
   }
  ],
  "synonyms": [],

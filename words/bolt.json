@@ -11,19 +11,20 @@
  "word": "bolt",
  "slug": "bolt",
  "url": "https://hibbangyong.com/words/bolt/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "빗장 — 문이나 창문이 안 열리게 문틀 쪽으로 밀어 끼워 두는 쇠막대",
  "gloss_ko": "빗장",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "대문이나 창문 안쪽에 가로로 달린 쇠막대 본 적 있지? 그게 문틀 구멍에 쏙 들어가 있으면 문이 안 열려.",
   "보통은 손으로 밀어서 걸고 빼서 풀어. 근데 열쇠를 돌리면 안에서 막대가 튀어나와 문틀에 끼워지는 문도 있어. 그 막대도 똑같이 bolt야.",
   "헷갈리면 안 되는 건, 열쇠 구멍 달린 자물쇠 통째나 문에 거는 쇠사슬은 bolt가 아니라는 거. bolt는 문과 문틀을 이어 붙잡는 그 막대 하나야."
  ],
+ "explanation_for_kids": null,
  "scene": "대문·창문 안쪽 가로 쇠막대가 문틀 구멍에 끼워진 장면",
  "examples": [
   {

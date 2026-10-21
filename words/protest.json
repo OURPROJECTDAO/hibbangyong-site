@@ -11,31 +11,37 @@
  "word": "protest",
  "slug": "protest",
  "url": "https://hibbangyong.com/words/protest/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "항의 — \"이건 아니에요!\" 하고 대놓고 반대하는 것 (혼자 하는 항의든, 여럿이 모인 시위든)",
  "gloss_ko": "항의",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "회사에서 갑자기 규칙이 확 바뀌었대. 너무 불공평하잖아!",
+  "그럴 때 꾹 참지 않고 \"이건 아니에요! 반대예요!\" 하고 대놓고 목소리를 내는 거 있잖아.",
+  "혼자서 따질 수도 있고, 여러 명이 팻말 들고 모여서 할 수도 있어.",
+  "그렇게 대놓고 내는 \"반대한다!\"는 목소리, 그게 protest야."
+ ],
+ "explanation_for_kids": [
   "학교에서 갑자기 규칙이 확 바뀌었대. 너무 불공평하잖아!",
   "그럴 때 꾹 참지 않고 \"이건 아니에요! 반대예요!\" 하고 대놓고 목소리를 내는 거 있잖아.",
   "혼자서 따질 수도 있고, 여러 명이 팻말 들고 모여서 할 수도 있어.",
   "그렇게 대놓고 내는 \"반대한다!\"는 목소리, 그게 protest야."
  ],
- "scene": "학교 규칙이 갑자기 불공평하게 바뀐 상황",
+ "scene": "회사 규칙이 갑자기 불공평하게 바뀐 상황",
  "examples": [
   {
-   "en": "When they took away our recess, the whole class made a protest to the teacher.",
-   "ko": "쉬는 시간을 없애 버리자 반 아이들 모두 선생님께 항의했어."
+   "en": "Students held a protest against the tuition increase.",
+   "ko": "학생들이 등록금 인상에 반대하는 시위를 했어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "놀이터 미끄럼틀을 3학년만 쓰게 바꿨어. 유나는 팻말을 만들어 들고 서 있었어. 이게 'protest'야?",
+   "question": "아파트 헬스장을 한 동 주민만 쓰게 바꿨어. 유나는 팻말을 만들어 들고 서 있었어. 이게 'protest'야?",
    "choices": [
     "응, protest 맞아",
     "아니, protest 아니야"
@@ -64,7 +70,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/protest.webp",
-  "alt": "학교 규칙이 갑자기 불공평하게 바뀐 상황",
+  "alt": "회사 규칙이 갑자기 불공평하게 바뀐 상황",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,23 +11,24 @@
  "word": "glove",
  "slug": "glove",
  "url": "https://hibbangyong.com/words/glove/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "장갑 — 추울 때 손에 끼는, 손가락이 따로 들어가는 옷",
  "gloss_ko": "장갑",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 이건 손에 끼는 장갑이야. 다섯 손가락이 들어가는 자리가 따로 있지.",
   "겨울에 밖에 나갈 때 손이 시리지 않게 이걸 끼면 손이 따뜻해져."
  ],
+ "explanation_for_kids": null,
  "scene": "다섯 손가락이 다 보이게 펼쳐진 아이용 니트 겨울 장갑 한 짝(가장 친숙한 '장갑' 의미)",
  "examples": [
   {
-   "en": "I put on my warm glove before playing in the snow.",
-   "ko": "나는 눈밭에서 놀기 전에 따뜻한 장갑을 꼈어."
+   "en": "I lost one glove on the subway this morning.",
+   "ko": "오늘 아침에 지하철에서 장갑 한 짝을 잃어버렸어."
   }
  ],
  "quiz": [

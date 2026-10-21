@@ -11,38 +11,39 @@
  "word": "cotton",
  "slug": "cotton",
  "url": "https://hibbangyong.com/words/cotton/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "솜(면) — 하얀 솜뭉치, 또 그 솜으로 뽑은 실과 짠 천",
  "gloss_ko": "솜(면)",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "밭에 하얀 솜뭉치가 뭉게뭉게 달린 풀이 있어. 톡 따면 손안에 구름 한 줌.",
   "그 솜을 배배 꼬면 실이 되고, 실을 짜면 천이 돼. 네 티셔츠가 바로 그거야.",
   "양 털도 폭신하지? 근데 그건 아니야. 이건 동물 몸이 아니라 밭에서 자란 거거든.",
   "솜 그대로여도, 실이 돼도, 천이 돼도 다 cotton이야."
  ],
+ "explanation_for_kids": null,
  "scene": "밭에서 하얀 솜뭉치가 달린 풀을 손으로 톡 따는 장면",
  "examples": [
   {
-   "en": "My favorite T-shirt is soft because it is made of cotton.",
-   "ko": "내가 제일 좋아하는 티셔츠는 면이라서 보들보들해."
+   "en": "I wear cotton shirts to work because they feel soft.",
+   "ko": "감촉이 부드러워서 회사 갈 때는 면 셔츠를 입어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "놀이터 미끄럼틀은 단단한 쇠로 만들어서 두드리면 땡땡 소리가 나. 이 쇠, 'cotton'이야?",
+   "question": "헬스장 덤벨은 단단한 쇠로 만들어서 두드리면 땡땡 소리가 나. 이 쇠, 'cotton'이야?",
    "choices": [
     "응, cotton 맞아",
     "아니, cotton 아니야"
    ],
    "answer_index": 1,
    "answer": "아니, cotton 아니야",
-   "why": "맞아! 미끄럼틀 쇠는 밭에서 자란 것도 아니고 폭신하지도 않잖아. 딱딱하고 두드리면 땡땡 소리 나는 건 cotton이 아닌 거야."
+   "why": "맞아! 덤벨 쇠는 밭에서 자란 것도 아니고 폭신하지도 않잖아. 딱딱하고 두드리면 땡땡 소리 나는 건 cotton이 아닌 거야."
   }
  ],
  "synonyms": [],

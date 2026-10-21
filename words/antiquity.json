@@ -11,20 +11,21 @@
  "word": "antiquity",
  "slug": "antiquity",
  "url": "https://hibbangyong.com/words/antiquity/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "고대 — 수천 년 전, 이집트·그리스·로마 같은 옛 문명이 있던 아주 먼 옛 시대",
  "gloss_ko": "아주 먼 옛 시대",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "역사 연표에서 사람이 글로 기록을 남기기 시작한 맨 앞쪽, 수천 년 전 시대가 있지.",
   "이집트·그리스·로마 같은 옛 문명이 있던 그 시대를 antiquity라고 해.",
   "공룡 시대는 사람 기록이 없으니까 너무 멀고, 성에 살던 기사나 조선 시대는 한참 뒤라 너무 가까워.",
   "antiquities처럼 여러 개로 쓰면 그 시대에 남긴 유물을 말하고, 어떤 풍습이 아주 오래됐다는 걸 말할 때도 써."
  ],
+ "explanation_for_kids": null,
  "scene": "역사 연표 맨 앞쪽(기록이 시작된 수천 년 전)",
  "examples": [
   {

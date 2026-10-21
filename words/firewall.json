@@ -11,25 +11,26 @@
  "word": "firewall",
  "slug": "firewall",
  "url": "https://hibbangyong.com/words/firewall/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "방화벽 — 인터넷과 컴퓨터 사이에서 허락 안 된 연결이 넘나들지 못하게 막아 주는 장치",
  "gloss_ko": "방화벽",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "게임을 켰는데 서버에 접속이 안 돼서 봤더니, 컴퓨터가 그 연결을 막아 놨더라.",
   "인터넷과 내 컴퓨터 사이에 서서, 들어오고 나가는 연결을 하나하나 검사하는 게 있어.",
   "허락 안 된 건 길목에서 막아. 그래서 가끔 멀쩡한 연결도 같이 걸려.",
   "이미 들어온 바이러스를 찾아 지우는 백신이랑은 달라. 이건 들어오기 전에 길목에서 막는 쪽이야. 원래 불이 옆으로 번지지 않게 막는 벽(fire+wall)에서 온 말이야."
  ],
+ "explanation_for_kids": null,
  "scene": "게임 서버 접속이 컴퓨터 쪽에서 막힘",
  "examples": [
   {
-   "en": "The firewall stopped my game from connecting to the server.",
-   "ko": "방화벽이 내 게임이 서버에 접속하는 걸 막아 버렸어."
+   "en": "The office firewall won't let me open this website.",
+   "ko": "회사 방화벽 때문에 이 사이트가 안 열려."
   }
  ],
  "quiz": [

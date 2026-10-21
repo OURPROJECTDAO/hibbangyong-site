@@ -11,20 +11,21 @@
  "word": "village",
  "slug": "village",
  "url": "https://hibbangyong.com/words/village/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "마을 — 도시보다 훨씬 작은, 집 몇 채가 옹기종기 모여 있는 곳",
  "gloss_ko": "마을",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "산 아래에 집이 스무 채쯤 모여 있어. 그게 다야.",
   "가게도 하나, 학교도 하나. 누가 길을 지나가면 다들 이름을 알아.",
   "바닷가에도 있고 산속에도 있어. 높은 건물이 줄줄이 선 큰 도시하고는 달라. 집 딱 한 채만 외따로 있는 것도 아니고.",
   "이게 village야."
  ],
+ "explanation_for_kids": null,
  "scene": "산 아래 집 스무 채쯤 모여 있는 곳",
  "examples": [
   {

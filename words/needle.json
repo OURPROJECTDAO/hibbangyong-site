@@ -11,23 +11,27 @@
  "word": "needle",
  "slug": "needle",
  "url": "https://hibbangyong.com/words/needle/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "바늘 — 실을 꿰어 천을 꿰매는, 끝이 뾰족한 도구",
  "gloss_ko": "바늘",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "needle은 끝이 뾰족하고 위쪽에 작은 구멍이 있어서, 그 구멍에 실을 꿰어 천을 꿰매는 도구예요.",
+  "옷의 단추가 떨어지면 이것에 실을 꿰어 다시 달아요."
+ ],
+ "explanation_for_kids": [
   "needle은 끝이 뾰족하고 위쪽에 작은 구멍이 있어서, 그 구멍에 실을 꿰어 천을 꿰매는 도구예요.",
   "옷의 단추가 떨어지면 어른들이 이것에 실을 꿰어 다시 달아 줘요."
  ],
  "scene": "실을 꿴 바느질용 바늘 한 개(끝이 뾰족하고 위쪽 구멍에 실이 통과)",
  "examples": [
   {
-   "en": "My grandma uses a needle to sew the button back on my shirt.",
-   "ko": "할머니는 바늘로 내 셔츠 단추를 다시 꿰매 주셔."
+   "en": "I used a needle to sew the button back on my shirt.",
+   "ko": "바늘로 셔츠 단추를 다시 달았어."
   }
  ],
  "quiz": [

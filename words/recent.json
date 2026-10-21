@@ -11,20 +11,21 @@
  "word": "recent",
  "slug": "recent",
  "url": "https://hibbangyong.com/words/recent/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "최근의 — 얼마 전에 일어난, 지금과 시간이 가까운",
  "gloss_ko": "최근의",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "지금 서 있는 자리에서 뒤를 딱 돌아봐. 지나간 일들이 쭉 줄 서 있거든?",
   "그중에 아직 손 닿을 만큼 가까이에 있는 일이야. 어제 넘어진 것도, 몇 년 사이에 마을이 커진 것도 다 여기 들어와.",
   "좋은 일인지 나쁜 일인지는 안 따져. 얼마나 가까운 때냐만 봐. 무슨 얘기냐에 따라 가까움도 늘었다 줄었다 하고.",
   "가게에 갓 들어온 새 물건 말고, 얼마 전에 일어난 일. 그게 recent야."
  ],
+ "explanation_for_kids": null,
  "scene": "지금 자리에서 뒤를 돌아보면 지나간 일들이 줄 서 있는 시간의 줄",
  "examples": [
   {
@@ -35,7 +36,7 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "지난 토요일에 우리 반에 전학생이 왔어. 이건 'recent'한 일이야?",
+   "question": "지난 토요일에 옆집에 새 이웃이 왔어. 이건 'recent'한 일이야?",
    "choices": [
     "응, recent 맞아",
     "아니, recent 아니야"

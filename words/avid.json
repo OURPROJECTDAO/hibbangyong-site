@@ -11,25 +11,31 @@
  "word": "avid",
  "slug": "avid",
  "url": "https://hibbangyong.com/words/avid/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "열렬한 — 뭔가에 푹 빠져서 스스로 자주 하는",
  "gloss_ko": "푹 빠진",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "회사 동료 지호는 점심시간만 되면 책을 펴. 누가 시킨 것도 아닌데 주말에도 도서관에 가.",
+  "이렇게 좋아서 스스로 자꾸, 많이 하는 사람한테 붙는 말이야. 책이든 축구 보기든 게임이든 뭐든 돼.",
+  "근데 잘하는 거랑은 달라. 골은 못 넣어도 동네 축구를 한 번도 안 빠지면 그 사람도 avid야.",
+  "일이라서 억지로 열심히 하는 것도 아니고, 하루 신났다가 끝나는 것도 아니야."
+ ],
+ "explanation_for_kids": [
   "우리 반 지호는 쉬는 시간만 되면 책을 펴. 누가 시킨 것도 아닌데 주말에도 도서관에 가.",
   "이렇게 좋아서 스스로 자꾸, 많이 하는 사람한테 붙는 말이야. 책이든 축구 보기든 게임이든 뭐든 돼.",
   "근데 잘하는 거랑은 달라. 골은 못 넣어도 동네 축구를 한 번도 안 빠지면 그 사람도 avid야.",
   "숙제라서 억지로 열심히 하는 것도 아니고, 하루 신났다가 끝나는 것도 아니야."
  ],
- "scene": "쉬는 시간마다 책 펴고 주말에도 도서관 가는 반 친구",
+ "scene": "점심시간마다 책 펴고 주말에도 도서관 가는 회사 동료",
  "examples": [
   {
-   "en": "My uncle is an avid fisherman, but he almost never catches anything.",
-   "ko": "우리 삼촌은 낚시에 완전 빠져 사는데, 정작 물고기는 거의 못 잡아."
+   "en": "My coworker is an avid runner and enters a race every month.",
+   "ko": "회사 동료는 달리기에 푹 빠져서 매달 대회에 나가."
   }
  ],
  "quiz": [
@@ -68,7 +74,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/avid.webp",
-  "alt": "쉬는 시간마다 책 펴고 주말에도 도서관 가는 반 친구",
+  "alt": "점심시간마다 책 펴고 주말에도 도서관 가는 회사 동료",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,25 +11,26 @@
  "word": "mythological",
  "slug": "mythological",
  "url": "https://hibbangyong.com/words/mythological/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "신화의 — 옛날 신과 영웅 이야기(신화)에 속하거나 거기 나오는",
  "gloss_ko": "신화 속의",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그리스 로마 신화 읽어 봤지? 제우스, 메두사, 날개 달린 말 페가수스.",
   "옛날 신과 영웅 이야기에 나오거나 그 이야기를 다룬 거면 다 mythological이야. 거기 나오는 괴물도, 그 이야기를 그린 그림도.",
   "근데 지어낸 이야기라고 다 신화는 아니야. 해리포터는 소설이지 신화가 아니거든.",
   "엄청 유명하다는 뜻도 아니야. 신화 세계에 속하느냐, 그게 기준이야."
  ],
+ "explanation_for_kids": null,
  "scene": "그리스 로마 신화 속 제우스·메두사·페가수스",
  "examples": [
   {
-   "en": "Our art teacher showed us a mythological painting of Zeus and his family.",
-   "ko": "미술 선생님이 제우스랑 그 가족을 그린 신화 그림을 보여 줬어."
+   "en": "At the museum, I saw a mythological painting of Zeus.",
+   "ko": "박물관에서 제우스를 그린 신화 그림을 봤어."
   }
  ],
  "quiz": [

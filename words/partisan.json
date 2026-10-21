@@ -11,31 +11,37 @@
  "word": "partisan",
  "slug": "partisan",
  "url": "https://hibbangyong.com/words/partisan/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "열성 지지자 — 어떤 정당이나 사람, 한쪽 편에 강하게 붙어서 그쪽만 드는 사람",
  "gloss_ko": "한쪽만 드는 사람",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "동호회 회장 선거 때 한 후보한테 딱 붙어서, 그 후보가 뭘 해도 감싸 주는 사람이 있어.",
+  "상대 후보가 좋은 말을 해도 일단 깎아내려. 그냥 우리 쪽이니까.",
+  "뉴스에선 한 정당을 이렇게 드는 사람을 말할 때 많이 쓰고, 한 팀만 드는 관중한테도 써.",
+  "한 표 준 사람이면 다 그런 건 아니야. 한쪽으로 기울어서 그쪽만 드는 사람이 partisan이야."
+ ],
+ "explanation_for_kids": [
   "반장 선거 때 한 후보 쪽에 딱 붙어서, 그 후보가 뭘 해도 감싸 주는 친구 있지?",
   "상대 후보가 좋은 말을 해도 일단 깎아내려. 그냥 우리 쪽이니까.",
   "뉴스에선 한 정당을 이렇게 드는 사람을 말할 때 많이 쓰고, 한 팀만 드는 관중한테도 써.",
   "한 표 준 사람이면 다 그런 건 아니야. 한쪽으로 기울어서 그쪽만 드는 사람이 partisan이야."
  ],
- "scene": "반장 선거에서 한 후보만 감싸고 상대 후보를 깎아내리는 친구",
+ "scene": "동호회 회장 선거에서 한 후보만 감싸고 상대를 깎아내리는 사람",
  "examples": [
   {
-   "en": "The show only invited partisans, so the debate got loud very fast.",
-   "ko": "그 방송이 한쪽만 드는 사람들만 불러서 토론이 금방 시끄러워졌어."
+   "en": "Every guest on the show was a partisan, so the debate got loud fast.",
+   "ko": "그 방송에 나온 사람이 다 한쪽 편만 드는 사람이라 토론이 금방 시끄러워졌어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "학급 회의에서 체육대회 반티 색을 파란색으로 할지 노란색으로 할지 정하고 있어. 민호는 파란색 쪽에서 나온 의견이면 뭐든 좋다고 하고, 노란색 쪽 의견은 끝까지 듣지도 않고 별로라고 해. 민호는 'partisan'이야?",
+   "question": "동호회 회의에서 단체티 색을 파란색으로 할지 노란색으로 할지 정하고 있어. 민호는 파란색 쪽에서 나온 의견이면 뭐든 좋다고 하고, 노란색 쪽 의견은 끝까지 듣지도 않고 별로라고 해. 민호는 'partisan'이야?",
    "choices": [
     "응, partisan 맞아",
     "아니, partisan 아니야"
@@ -57,7 +63,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/partisan.webp",
-  "alt": "반장 선거에서 한 후보만 감싸고 상대 후보를 깎아내리는 친구",
+  "alt": "동호회 회장 선거에서 한 후보만 감싸고 상대를 깎아내리는 사람",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

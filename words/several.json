@@ -11,20 +11,21 @@
  "word": "several",
  "slug": "several",
  "url": "https://hibbangyong.com/words/several/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "몇몇의 — 하나둘은 넘고 그렇다고 아주 많지도 않은, 손으로 셀 만한 여러 개.",
  "gloss_ko": "몇몇의",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "사탕이 딱 하나 있는 것도, 산더미처럼 쌓인 것도 아니야.",
   "손으로 세면 세어지긴 하는데, 하나 둘로는 안 끝나.",
   "몇 개냐고? 그냥 여러 개! 셋넷다섯쯤, 적당히 많아.",
   "'많다'랑은 좀 달라. 셀 엄두도 안 나게 잔뜩은 아니거든? 딱 그 사이가 several이야."
  ],
+ "explanation_for_kids": null,
  "scene": "사탕이 하나도 산더미도 아닌 그 사이 여러 개인 상황",
  "examples": [
   {

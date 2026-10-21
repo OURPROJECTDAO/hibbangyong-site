@@ -11,38 +11,39 @@
  "word": "fiddle",
  "slug": "fiddle",
  "url": "https://hibbangyong.com/words/fiddle/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "바이올린 — 특히 신나는 민속 음악이나 컨트리 음악에서 편하게 부르는 이름",
  "gloss_ko": "바이올린",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "할아버지가 작은 현악기를 턱 밑에 끼우고 활로 켜기 시작했어.",
   "그 악기가 fiddle이야. 사실 바이올린이랑 똑같은 악기야.",
   "다른 건 부르는 느낌이야. 친구끼리 편하게 부르는 이름 같은 거고, 신나는 민속 음악이나 컨트리 음악에서 많이 써.",
   "바닥에 세워서 켜는 큰 첼로나 손가락으로 튕기는 기타랑은 달라. 어깨에 올려놓고 켜는 그 작은 거야."
  ],
+ "explanation_for_kids": null,
  "scene": "할아버지가 작은 현악기를 턱 밑에 끼우고 활로 켜는 장면",
  "examples": [
   {
-   "en": "My grandpa played the fiddle while everyone danced at the party.",
-   "ko": "파티에서 다들 춤추는 동안 우리 할아버지가 바이올린을 켜셨어."
+   "en": "My friend played the fiddle on our camping trip, and everyone danced.",
+   "ko": "캠핑 가서 친구가 바이올린을 켰더니 다들 춤을 췄어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "학교 강당 무대에서 누나가 작은 현악기를 어깨에 얹고 활로 켰어. 이 악기가 'fiddle'이야?",
+   "question": "구민회관 무대에서 친구가 작은 현악기를 어깨에 얹고 활로 켰어. 이 악기가 'fiddle'이야?",
    "choices": [
     "응, fiddle 맞아",
     "아니, fiddle 아니야"
    ],
    "answer_index": 0,
    "answer": "응, fiddle 맞아",
-   "why": "맞아! 누나가 작은 현악기를 어깨에 얹고 활로 켰잖아. 그게 바로 바이올린이고, 바이올린을 편하게 부르는 이름이 fiddle이니까 맞는 거야."
+   "why": "맞아! 친구가 작은 현악기를 어깨에 얹고 활로 켰잖아. 그게 바로 바이올린이고, 바이올린을 편하게 부르는 이름이 fiddle이니까 맞는 거야."
   }
  ],
  "synonyms": [],

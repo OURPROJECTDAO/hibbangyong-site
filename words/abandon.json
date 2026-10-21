@@ -11,31 +11,37 @@
  "word": "abandon",
  "slug": "abandon",
  "url": "https://hibbangyong.com/words/abandon/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "버리다 — 두고(또는 하던 걸 그만두고) 영영 다시 안 돌아오는 것",
  "gloss_ko": "버리다",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "길가에 자전거를 세워 뒀어. 이따 다시 가지러 오면? 그건 버린 게 아니야.",
+  "근데 고장 났다고 길에 딱 두고, 다시는 안 가. 영영.",
+  "물건만 그런 게 아니야. 하던 일도, 세우던 계획도 확 그만두고 다시 안 돌아보면 똑같아.",
+  "잠깐 멈춘 거랑은 달라 — 돌아올 마음이 아예 없는 거거든? 그게 abandon이야."
+ ],
+ "explanation_for_kids": [
   "놀이터에 자전거를 세워 뒀어. 이따 다시 가지러 오면? 그건 버린 게 아니야.",
   "근데 고장 났다고 길에 딱 두고, 다시는 안 가. 영영.",
   "물건만 그런 게 아니야. 하던 놀이도, 세우던 계획도 확 그만두고 다시 안 돌아보면 똑같아.",
   "잠깐 멈춘 거랑은 달라 — 돌아올 마음이 아예 없는 거거든? 그게 abandon이야."
  ],
- "scene": "놀이터에 세워둔 자전거를 고장 났다고 길에 두고 다시 안 옴",
+ "scene": "길가에 세워둔 자전거를 고장 났다고 그냥 두고 다시 안 옴",
  "examples": [
   {
-   "en": "We had to abandon our plan to camp outside when the storm came.",
-   "ko": "폭풍이 몰려와서 우리는 밖에서 캠핑하려던 걸 포기해야 했어."
+   "en": "We had to abandon our trip when the storm came.",
+   "ko": "폭풍이 와서 우리는 여행을 포기해야 했어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "누나가 도서관에서 빌린 책을 책상에 펴 두고 화장실에 다녀왔어. 그리고 다시 그 자리에 앉아 끝까지 읽었어. 이게 'abandon'이야?",
+   "question": "친구가 도서관에서 빌린 책을 책상에 펴 두고 화장실에 다녀왔어. 그리고 다시 그 자리에 앉아 끝까지 읽었어. 이게 'abandon'이야?",
    "choices": [
     "응, abandon 맞아",
     "아니, abandon 아니야"
@@ -55,7 +61,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/abandon.webp",
-  "alt": "놀이터에 세워둔 자전거를 고장 났다고 길에 두고 다시 안 옴",
+  "alt": "길가에 세워둔 자전거를 고장 났다고 그냥 두고 다시 안 옴",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

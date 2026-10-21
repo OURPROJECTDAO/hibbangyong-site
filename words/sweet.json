@@ -11,25 +11,31 @@
  "word": "sweet",
  "slug": "sweet",
  "url": "https://hibbangyong.com/words/sweet/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "달콤한 — 설탕이나 꿀처럼 단맛이 나는",
  "gloss_ko": "달콤한",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "초콜릿 한 조각 입에 쏙 넣어 봐.",
+  "혀에 스르르 단맛이 퍼지지?",
+  "설탕이나 꿀을 먹으면 나는 바로 그 맛이야.",
+  "쓰지도 시지도 않고, 그냥 기분 좋게 달아. 이게 sweet이야."
+ ],
+ "explanation_for_kids": [
   "사탕 하나 입에 쏙 넣어 봐.",
   "혀에 스르르 단맛이 퍼지지?",
   "설탕이나 꿀을 먹으면 나는 바로 그 맛이야.",
   "쓰지도 시지도 않고, 그냥 기분 좋게 달아. 이게 sweet이야."
  ],
- "scene": "사탕을 입에 넣어 혀에 단맛이 퍼지는 장면",
+ "scene": "초콜릿을 입에 넣어 혀에 단맛이 퍼지는 장면",
  "examples": [
   {
-   "en": "This apple is so sweet!",
-   "ko": "이 사과 진짜 달아!"
+   "en": "This coffee is too sweet for me.",
+   "ko": "이 커피는 나한테 너무 달아."
   }
  ],
  "quiz": [
@@ -63,7 +69,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/sweet.webp",
-  "alt": "사탕을 입에 넣어 혀에 단맛이 퍼지는 장면",
+  "alt": "초콜릿을 입에 넣어 혀에 단맛이 퍼지는 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

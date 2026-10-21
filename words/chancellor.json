@@ -11,20 +11,21 @@
  "word": "chancellor",
  "slug": "chancellor",
  "url": "https://hibbangyong.com/words/chancellor/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "총리 — 독일 같은 몇몇 나라에서 정부 일을 이끄는 맨 윗자리(나라에 따라 대학의 맨 위 사람을 이렇게 부르기도 함)",
  "gloss_ko": "총리",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "뉴스에 독일 소식이 나오면 '독일 총리'라는 말이 자주 들려.",
   "독일엔 대통령이 따로 있는데, 나라 일을 실제로 끌고 가는 사람은 총리야.",
   "chancellor는 이렇게 몇몇 나라에서 정부를 이끄는 맨 윗자리 이름이야. 대통령도 아니고, 태어나서 물려받는 왕 자리도 아니야.",
   "나라마다 쓰임이 조금씩 달라서, 영국에선 나라 돈을 맡은 장관을, 어떤 대학에선 맨 위 사람을 이렇게 부르기도 해."
  ],
+ "explanation_for_kids": null,
  "scene": "뉴스에 나오는 독일 총리 소식",
  "examples": [
   {

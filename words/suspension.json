@@ -11,20 +11,21 @@
  "word": "suspension",
  "slug": "suspension",
  "url": "https://hibbangyong.com/words/suspension/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "일시 중지 — 누가 정해서 어떤 일을 한동안 멈춰 두는 것(끝낸 게 아니라 멈춰 둔 거야)",
  "gloss_ko": "일시 중지",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "비가 쏟아지니까 심판이 야구 경기를 중간에 멈췄어. 오늘은 여기까지, 다음에 이어서 한대.",
   "이렇게 누가 정해서 하던 일을 한동안 멈춰 두는 게 suspension이야.",
   "아예 없애는 취소랑은 달라. 멈춰 둔 거라서 다시 시작할 수 있어.",
   "기차 운행 중지, 공사 중지, 경기 중단도 다 이 말로 불러. 누가 정해서 하던 일을 한동안 멈춰 두는 거니까."
  ],
+ "explanation_for_kids": null,
  "scene": "비 때문에 중간에 멈춘 야구 경기",
  "examples": [
   {
@@ -35,14 +36,14 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "동네 도서관이 이번 여름 방학에 하루도 쉬지 않고 매일 문을 계속 열었어. 도서관이 한 이 일, 'suspension'이야?",
+   "question": "동네 도서관이 이번 여름에 하루도 쉬지 않고 매일 문을 계속 열었어. 도서관이 한 이 일, 'suspension'이야?",
    "choices": [
     "응, suspension 맞아",
     "아니, suspension 아니야"
    ],
    "answer_index": 1,
    "answer": "아니, suspension 아니야",
-   "why": "맞아! 도서관은 여름 방학 내내 하루도 쉬지 않고 매일 문을 열었잖아. 멈춘 날이 하나도 없으니까 한동안 멈춰 두는 suspension이 아니지."
+   "why": "맞아! 도서관은 여름 내내 하루도 쉬지 않고 매일 문을 열었잖아. 멈춘 날이 하나도 없으니까 한동안 멈춰 두는 suspension이 아니지."
   }
  ],
  "synonyms": [

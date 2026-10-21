@@ -11,15 +11,21 @@
  "word": "various",
  "slug": "various",
  "url": "https://hibbangyong.com/words/various/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "여러 가지의 — 개수도 여럿이고 종류도 서로 다른",
  "gloss_ko": "여러 가지의",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "필통을 열었어. 안에 딱 세 개 들었어. 연필, 지우개, 자.",
+  "세 개뿐인데도 various야. 왜냐고? 하나도 안 겹치거든.",
+  "다른 필통엔 똑같은 연필만 스무 자루. 많긴 많지? 근데 그건 various 아니야. 다 그게 그거잖아.",
+  "많은 게 아니라 서로 다른 게 여럿일 때 쓰는 말. 늦은 이유가 가지가지인 것도, 그게 various야."
+ ],
+ "explanation_for_kids": [
   "필통을 열었어. 안에 딱 세 개 들었어. 연필, 지우개, 자.",
   "세 개뿐인데도 various야. 왜냐고? 하나도 안 겹치거든.",
   "옆자리 애 필통엔 똑같은 연필만 스무 자루. 많긴 많지? 근데 그건 various 아니야. 다 그게 그거잖아.",
@@ -28,8 +34,8 @@
  "scene": "필통 안에 연필·지우개·자 세 개가 하나도 안 겹치게 들어 있는 장면",
  "examples": [
   {
-   "en": "I gave various excuses for being late, but Mom just laughed.",
-   "ko": "늦은 이유를 여러 가지로 둘러댔는데 엄마는 그냥 웃었어."
+   "en": "I gave my manager various excuses for being late, but he just laughed.",
+   "ko": "늦은 이유를 매니저한테 여러 가지로 둘러댔는데 그냥 웃었어."
   }
  ],
  "quiz": [

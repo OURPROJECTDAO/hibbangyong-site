@@ -11,25 +11,26 @@
  "word": "slack",
  "slug": "slack",
  "url": "https://hibbangyong.com/words/slack/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "느슨한 — 팽팽하게 당겨지지 않아 축 늘어진 (일이 한가하거나 규칙이 느슨한 것도)",
  "gloss_ko": "느슨한",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "두 사람이 줄 양끝을 잡고 서로 가까이 서 봐. 줄 가운데가 바닥 쪽으로 축 늘어지지?",
   "당기는 힘이 빠져서 팽팽하지 않은 상태, 그게 slack이야. 힘을 쭉 뺀 근육도 그렇고.",
   "이 느낌은 일이나 규칙에도 번져. 손님이 뚝 끊겨 한가한 가게, 대충대충 지키는 느슨한 경비도 slack이라고 해.",
   "끊어진 것도, 고무줄처럼 잘 늘어나는 것도 아냐. 꽉 당겨져 있어야 할 게 힘이 빠져 풀어진 거야."
  ],
+ "explanation_for_kids": null,
  "scene": "두 사람이 줄 양끝을 잡고 가까이 서서 줄이 가운데서 늘어진 장면",
  "examples": [
   {
-   "en": "Pull the rope harder. It's still slack.",
-   "ko": "밧줄이 아직 축 늘어져 있으니까 더 세게 당겨."
+   "en": "The tent rope is slack. Pull it tighter.",
+   "ko": "텐트 줄이 축 늘어져 있어. 더 팽팽하게 당겨."
   }
  ],
  "quiz": [

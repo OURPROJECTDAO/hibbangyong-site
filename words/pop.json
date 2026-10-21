@@ -11,31 +11,32 @@
  "word": "pop",
  "slug": "pop",
  "url": "https://hibbangyong.com/words/pop/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "갑자기 톡 하고 튀어나오거나 터지다 — 느릿느릿 말고 한순간에.",
  "gloss_ko": "톡 하고 튀어나오다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "토스터에 넣어 둔 빵, 가만있다가 갑자기 톡 하고 위로 튀어 오르잖아?",
   "풍선이 팡 터지는 것도, 문틈으로 얼굴이 쑥 나오는 것도 다 그거야. 나오든 터지든 상관없어.",
   "천천히 스르르 나오는 건 아니야. 큰 게 쿵 하고 무너지는 것도 아니고. 작고 짧게, 딱 한 번.",
   "그게 pop이야."
  ],
+ "explanation_for_kids": null,
  "scene": "토스터 안 빵이 갑자기 위로 톡 튀어 오르는 순간",
  "examples": [
   {
-   "en": "A little frog popped out of the grass.",
-   "ko": "작은 개구리가 풀숲에서 톡 튀어나왔어."
+   "en": "I'm waiting for my toast to pop up.",
+   "ko": "토스트가 톡 튀어나오길 기다리고 있어."
   }
  ],
  "quiz": [
   {
    "type": "choice",
-   "question": "선생님이 교실에서 네 가지 장면을 보여 줬어. 이 중에서 'pop'인 것은 어느 거야?",
+   "question": "오늘 본 장면 네 개야. 이 중에서 'pop'인 것은 어느 거야?",
    "choices": [
     "튜브에서 바람이 하루 내내 조금씩 빠졌어.",
     "뽁뽁이 한 알을 누르자 딱 하고 터졌어.",

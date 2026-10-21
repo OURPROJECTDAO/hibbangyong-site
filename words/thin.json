@@ -11,20 +11,21 @@
  "word": "thin",
  "slug": "thin",
  "url": "https://hibbangyong.com/words/thin/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "두께가 얇거나 폭이 가늘어 — 두툼하지 않고 얄팍한 거야.",
  "gloss_ko": "얇거나 가는",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "종이 한 장 봐봐. 손끝으로 집으면 있는 듯 없는 듯 얄팍하지?",
   "빵을 아주 살살 썰면 비쳐 보일 만큼 얇게 나오고, 거미줄 실은 후 불면 날아갈 만큼 가늘어.",
   "두툼하고 두꺼운 거 말고, 그 반대로 얇고 가느다란 거.",
   "이게 thin이야."
  ],
+ "explanation_for_kids": null,
  "scene": "손끝으로 집는 종이 한 장",
  "examples": [
   {

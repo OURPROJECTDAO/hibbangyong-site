@@ -11,25 +11,26 @@
  "word": "sap",
  "slug": "sap",
  "url": "https://hibbangyong.com/words/sap/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "수액 — 식물의 뿌리와 줄기 속을 늘 흐르면서 물과 양분을 실어 나르는 액체",
  "gloss_ko": "수액",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "식물 줄기 속엔 늘 물이 돌고 있어. 뿌리에서 올라온 물에 양분이 녹아서 식물 곳곳에 밥을 날라. 그게 sap이야.",
   "줄기를 꺾었을 때 나오는 건 그게 새어 나온 거야. 꺾어야 생기는 게 아니라 살아 있는 동안 계속 안에서 흘러.",
   "큰 나무든 풀이든 채소든 다 있어. 묽은 것도 있고, 민들레 줄기처럼 하얗거나 조금 끈적한 것도 있어.",
   "꽃 속에 벌을 부르려고 모아 둔 꿀물이나 과일을 짜낸 주스랑은 달라. 병원에서 맞는 수액 얘기도 아니야."
  ],
+ "explanation_for_kids": null,
  "scene": "살아 있는 식물 줄기 속을 늘 도는 양분 섞인 물",
  "examples": [
   {
-   "en": "When I broke the stem, some sap came out on my fingers.",
-   "ko": "줄기를 꺾었더니 수액이 조금 나와서 손가락에 묻었어."
+   "en": "When I cut the stem of my plant, sap got on my fingers.",
+   "ko": "화분 줄기를 잘랐더니 손가락에 수액이 묻었어."
   }
  ],
  "quiz": [

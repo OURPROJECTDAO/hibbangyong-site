@@ -11,25 +11,26 @@
  "word": "slip",
  "slug": "slip",
  "url": "https://hibbangyong.com/words/slip/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "미끄러지다 — 발이나 손에 쥔 것이 내 뜻과 상관없이 쭉 밀려 나가다",
  "gloss_ko": "미끄러지다",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "빙판에 발을 딛는 순간, 발이 쭉— 엉뚱한 데로 밀려 나가 버렸어.",
   "꽉 쥔 비누가 손에서 쏙 빠져나가도 똑같은 거야.",
   "넘어지는 거랑은 달라. 안 넘어져도 내 마음과 달리 쭉 밀려 나가면 그거거든.",
   "이게 slip이야."
  ],
+ "explanation_for_kids": null,
  "scene": "빙판에 디딘 발이 쭉 밀려 나감",
  "examples": [
   {
-   "en": "My foot slipped on the icy step.",
-   "ko": "얼음 낀 계단에서 발이 쭉 미끄러졌어."
+   "en": "Hold the rail so you don't slip.",
+   "ko": "미끄러지지 않게 난간 꼭 잡아."
   }
  ],
  "quiz": [

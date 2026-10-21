@@ -11,25 +11,31 @@
  "word": "refuse",
  "slug": "refuse",
  "url": "https://hibbangyong.com/words/refuse/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "싫다고 하고 안 하다 — 하라고 해도, 주겠다고 해도 딱 잘라 안 받고 안 하는 것",
  "gloss_ko": "싫다고 하고 안 하다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "동료가 우산 챙기라고 내밀어. 근데 너는 고개를 젓고 그냥 나가버려. 안 받은 거야.",
+  "이건 '못 해서' 안 하는 게 아니야. 할 수 있는데 안 하겠다고 마음을 딱 정한 거거든?",
+  "좋은 걸 안 받을 때도 있고, 나쁜 걸 안 하겠다고 버틸 때도 있어. 친구가 몰래 컨닝하자는데 딱 잘라 안 한 것도 똑같아.",
+  "그게 refuse야. 그냥 미루는 거랑은 달라. 미루는 애는 나중엔 하거든. 얘는 아예 안 해."
+ ],
+ "explanation_for_kids": [
   "엄마가 우산 챙기라고 내밀어. 근데 너는 고개를 젓고 그냥 나가버려. 안 받은 거야.",
   "이건 '못 해서' 안 하는 게 아니야. 할 수 있는데 안 하겠다고 마음을 딱 정한 거거든?",
   "좋은 걸 안 받을 때도 있고, 나쁜 걸 안 하겠다고 버틸 때도 있어. 친구가 몰래 컨닝하자는데 딱 잘라 안 한 것도 똑같아.",
   "그게 refuse야. 그냥 미루는 거랑은 달라. 미루는 애는 나중엔 하거든. 얘는 아예 안 해."
  ],
- "scene": "엄마가 내민 우산을 고개 저으며 안 받고 나가는 아이",
+ "scene": "동료가 내민 우산을 고개 저으며 안 받고 나가는 사람",
  "examples": [
   {
-   "en": "My little brother refused to eat the soup, even when Mom asked him twice.",
-   "ko": "엄마가 두 번이나 말했는데도 남동생은 국을 안 먹겠다고 버텼어."
+   "en": "I refuse to work late again this week.",
+   "ko": "이번 주에 또 야근하는 건 난 안 해."
   }
  ],
  "quiz": [
@@ -60,7 +66,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/refuse.webp",
-  "alt": "엄마가 내민 우산을 고개 저으며 안 받고 나가는 아이",
+  "alt": "동료가 내민 우산을 고개 저으며 안 받고 나가는 사람",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

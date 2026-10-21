@@ -11,25 +11,26 @@
  "word": "other",
  "slug": "other",
  "url": "https://hibbangyong.com/words/other/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "다른 — 지금 말한 이거 말고 그 밖의 딴 것(딴 사람·딴 곳·딴 날).",
  "gloss_ko": "다른",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "친구들이랑 놀다가 \"너 말고 다른 애들은 어디 갔어?\" 하잖아.",
   "지금 말한 이거 말고, 그 밖의 딴 걸 가리키는 말이야.",
   "딴 사람도, 딴 곳도, 딴 날도, 딴 물건도 — 이거 아닌 걸 콕 집을 때 다 써.",
   "이미 아는 이거 빼고 딴 거, 그게 other야."
  ],
+ "explanation_for_kids": null,
  "scene": "너 말고 다른 애들이 어디 갔냐고 묻는 상황",
  "examples": [
   {
-   "en": "Some other kids came to the playground later.",
-   "ko": "다른 아이들 몇 명이 나중에 놀이터에 왔어."
+   "en": "The other café was full, so we came here.",
+   "ko": "다른 카페는 자리가 꽉 차서 여기로 왔어."
   }
  ],
  "quiz": [

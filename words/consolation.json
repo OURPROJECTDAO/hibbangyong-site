@@ -11,38 +11,44 @@
  "word": "consolation",
  "slug": "consolation",
  "url": "https://hibbangyong.com/words/consolation/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "위로 — 속상하거나 실망한 일이 생긴 뒤, 마음을 조금 낫게 해 주는 것(말, 사실, 물건 무엇이든)",
  "gloss_ko": "위로",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "면접에서 떨어져서 속상했는데, 경쟁률이 엄청 높았다는 걸 알게 됐어. 결과는 그대로인데 마음이 조금 풀리지?",
+  "이렇게 이미 생긴 속상함을 덜어 주는 게 consolation이야. 친구의 말일 수도 있고, 어떤 사실이나 물건일 수도 있어.",
+  "시합 전에 힘내라고 하는 응원과는 달라. 이건 일이 안 풀린 다음에 오는 거야.",
+  "잃은 걸 되찾아 주는 것도 아니야. 결과는 그대로 두고 마음만 조금 나아지게 해."
+ ],
+ "explanation_for_kids": [
   "시험을 망쳐서 속상했는데, 반 평균도 낮았다는 걸 알게 됐어. 점수는 그대로인데 마음이 조금 풀리지?",
   "이렇게 이미 생긴 속상함을 덜어 주는 게 consolation이야. 친구의 말일 수도 있고, 어떤 사실이나 물건일 수도 있어.",
   "시합 전에 힘내라고 하는 응원과는 달라. 이건 일이 안 풀린 다음에 오는 거야.",
   "잃은 걸 되찾아 주는 것도 아니야. 결과는 그대로 두고 마음만 조금 나아지게 해."
  ],
- "scene": "시험을 망쳤는데 반 평균도 낮았다는 걸 알게 된 상황",
+ "scene": "면접에서 떨어졌는데 경쟁률이 엄청 높았다는 걸 알게 된 상황",
  "examples": [
   {
-   "en": "Losing the final was hard, but knowing we played our best was a small consolation.",
-   "ko": "결승에서 진 건 힘들었지만, 우리가 최선을 다했다는 게 그나마 작은 위로가 됐어."
+   "en": "I missed my train, but the warm coffee was a small consolation.",
+   "ko": "기차를 놓쳤지만, 따뜻한 커피가 그나마 작은 위로가 됐어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "백일장 예선에서 떨어져서 시무룩했는데, 짝꿍이 '그것도 못 붙냐'며 놀려서 더 속상해졌어. 짝꿍의 그 말은 나에게 'consolation'이야?",
+   "question": "공모전 예선에서 떨어져서 시무룩했는데, 동기가 '그것도 못 붙냐'며 놀려서 더 속상해졌어. 동기의 그 말은 나에게 'consolation'이야?",
    "choices": [
     "응, consolation 맞아",
     "아니, consolation 아니야"
    ],
    "answer_index": 1,
    "answer": "아니, consolation 아니야",
-   "why": "맞아, 이건 consolation이 아니야! 예선에서 떨어져서 시무룩한 너한테 짝꿍이 그것도 못 붙냐며 놀렸으니, 속상함이 덜어지기는커녕 더 커졌잖아. consolation은 속상한 마음을 조금 낫게 해 주는 거라서, 그 놀림은 정반대 쪽이야."
+   "why": "맞아, 이건 consolation이 아니야! 예선에서 떨어져서 시무룩한 너한테 동기가 그것도 못 붙냐며 놀렸으니, 속상함이 덜어지기는커녕 더 커졌잖아. consolation은 속상한 마음을 조금 낫게 해 주는 거라서, 그 놀림은 정반대 쪽이야."
   }
  ],
  "synonyms": [
@@ -57,7 +63,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/consolation.webp",
-  "alt": "시험을 망쳤는데 반 평균도 낮았다는 걸 알게 된 상황",
+  "alt": "면접에서 떨어졌는데 경쟁률이 엄청 높았다는 걸 알게 된 상황",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

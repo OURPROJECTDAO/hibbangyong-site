@@ -11,38 +11,44 @@
  "word": "trade",
  "slug": "trade",
  "url": "https://hibbangyong.com/words/trade/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "거래 — 뭔가를 주고, 그 대신 뭔가를 받는 일 (나라끼리 크게 하면 '무역')",
  "gloss_ko": "거래",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "네가 책을 주니까 친구가 텀블러를 건넸어. 딱! 둘 다 손에 뭔가 들어왔지?",
+  "가게에 돈을 내고 빵을 받는 것도, 나라끼리 배에 물건을 잔뜩 싣고 서로 보내는 것도 똑같아. 오갔잖아.",
+  "그냥 나눠 주기만 하는 건 빼고. 한쪽으로만 가면 그건 선물이지, 이게 아니거든.",
+  "주고, 받고. 이게 trade야."
+ ],
+ "explanation_for_kids": [
   "네가 딱지를 주니까 친구가 구슬을 건넸어. 딱! 둘 다 손에 뭔가 들어왔지?",
   "가게에 돈을 내고 빵을 받는 것도, 나라끼리 배에 물건을 잔뜩 싣고 서로 보내는 것도 똑같아. 오갔잖아.",
   "그냥 나눠 주기만 하는 건 빼고. 한쪽으로만 가면 그건 선물이지, 이게 아니거든.",
   "주고, 받고. 이게 trade야."
  ],
- "scene": "딱지를 주고 구슬을 건네받는 친구 사이 맞바꿈",
+ "scene": "책을 주고 텀블러를 건네받는 친구 사이 맞바꿈",
  "examples": [
   {
-   "en": "I really wanted her blue marble, so we made a trade.",
-   "ko": "친구가 가진 파란 구슬이 너무 갖고 싶어서 우리 서로 바꿨어."
+   "en": "My coworker wanted my Friday shift, so we made a trade.",
+   "ko": "동료가 내 금요일 근무를 원해서 우리 서로 바꿨어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "누나가 자기 색연필 한 자루를 건네자, 지호가 지우개 하나를 꺼내 누나 손에 놓아줬어. 이게 'trade'야?",
+   "question": "선배가 자기 색연필 한 자루를 건네자, 지호가 지우개 하나를 꺼내 선배 손에 놓아줬어. 이게 'trade'야?",
    "choices": [
     "응, trade 맞아",
     "아니, trade 아니야"
    ],
    "answer_index": 0,
    "answer": "응, trade 맞아",
-   "why": "맞아! 색연필이 누나 손에서 나가고, 지우개가 누나 손으로 들어왔잖아. 물건이 양쪽으로 오갔으니까 바로 그게 trade인 거야."
+   "why": "맞아! 색연필이 선배 손에서 나가고, 지우개가 선배 손으로 들어왔잖아. 물건이 양쪽으로 오갔으니까 바로 그게 trade인 거야."
   }
  ],
  "synonyms": [],
@@ -64,7 +70,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/trade.webp",
-  "alt": "딱지를 주고 구슬을 건네받는 친구 사이 맞바꿈",
+  "alt": "책을 주고 텀블러를 건네받는 친구 사이 맞바꿈",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

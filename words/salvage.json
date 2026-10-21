@@ -11,25 +11,26 @@
  "word": "salvage",
  "slug": "salvage",
  "url": "https://hibbangyong.com/words/salvage/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "건져 내다 — 이미 크게 망가지거나 잃을 뻔한 상황에서 쓸 만한 것을 구해 내다",
  "gloss_ko": "망가진 데서 건져 내다",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "홍수로 1층이 다 잠겼어. 물이 빠지고 나서 아직 쓸 만한 걸 몇 개 골라 꺼냈어.",
   "이미 크게 망가진 데서, 아직 살릴 수 있는 걸 건지는 게 salvage야.",
   "물건만 그런 게 아니야. 반쯤 망한 경기나 틀어진 우정도 건질 수 있어.",
   "새것처럼 고치는 거랑은 달라. 다 잃을 뻔한 데서 일부라도 지켜 내는 거야."
  ],
+ "explanation_for_kids": null,
  "scene": "홍수로 잠긴 1층에서 쓸 만한 물건 꺼내기",
  "examples": [
   {
-   "en": "The game was going badly, but we salvaged a draw in the last minute.",
-   "ko": "경기가 계속 밀렸는데, 마지막 1분에 무승부라도 건졌어."
+   "en": "The game was going badly, but we managed to salvage a draw at the end.",
+   "ko": "경기가 계속 안 풀렸는데, 막판에 겨우 무승부를 건졌어."
   }
  ],
  "quiz": [

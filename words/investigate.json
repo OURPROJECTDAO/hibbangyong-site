@@ -11,40 +11,41 @@
  "word": "investigate",
  "slug": "investigate",
  "url": "https://hibbangyong.com/words/investigate/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "왜 그런지, 무슨 일이 있었는지 알아내려고 이것저것 살펴보고 캐묻다 (조사하다)",
  "gloss_ko": "조사하다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "부엌에서 쿵! 소리가 났어. 넌 그냥 지나가지 않았지.",
   "문도 열어보고, 바닥도 훑어보고, 고양이한테도 물어봤어. 무슨 일이 있었는지 알아내려고.",
   "나쁜 일에만 쓰는 말은 아니야. 개미가 왜 줄 지어 가는지 궁금해서 따라가 보는 것도 똑같아.",
   "그냥 쳐다보는 거랑은 달라. 답을 캐내려고 파고드는 것, 그게 investigate야."
  ],
+ "explanation_for_kids": null,
  "scene": "부엌에서 난 쿵 소리의 원인을 이곳저곳 열어보며 찾기",
  "examples": [
   {
-   "en": "We investigated why our little plant grew so fast this week.",
-   "ko": "우리는 이번 주에 작은 화분이 왜 이렇게 빨리 자랐는지 조사했어."
+   "en": "My landlord came to investigate the leak in my kitchen.",
+   "ko": "집주인이 우리 집 부엌에 물이 새는 원인을 조사하러 왔어."
   }
  ],
  "quiz": [
   {
    "type": "choice",
-   "question": "어제 저녁 집에 온 네 아이가 각자 현관에서 이렇게 했대. 이 중 'investigate'한 아이는 누구일까?",
+   "question": "어제 저녁 집에 온 네 사람이 각자 현관에서 이렇게 했대. 이 중 'investigate'한 사람은 누구일까?",
    "choices": [
     "현관에 흩어진 신발을 짝을 맞춰 신발장 칸마다 나란히 넣어 두었어.",
-    "현관 불이 깜빡여서 전구를 돌려 보고 스위치도 눌러 보고 형한테 물어봤어.",
+    "현관 불이 깜빡여서 전구를 돌려보고 스위치도 눌러 보고 관리실에 물어봤어.",
     "현관에서 깜빡이는 불빛을 힐끗 보고는 방으로 들어가 잠옷을 갈아입었어.",
     "현관 앞에서 우산을 폈다 접었다 하며 물기를 열 번쯤 털어 냈어."
    ],
    "answer_index": 1,
-   "answer": "현관 불이 깜빡여서 전구를 돌려 보고 스위치도 눌러 보고 형한테 물어봤어.",
-   "why": "맞아! 전구도 돌려 보고 스위치도 눌러 보고 형한테까지 물어봤잖아. 왜 깜빡이는지 답을 알아내려고 하나씩 파고든 거, 그게 바로 investigate야."
+   "answer": "현관 불이 깜빡여서 전구를 돌려보고 스위치도 눌러 보고 관리실에 물어봤어.",
+   "why": "맞아! 전구도 돌려보고 스위치도 눌러 보고 관리실에까지 물어봤잖아. 왜 깜빡이는지 답을 알아내려고 하나씩 파고든 거, 그게 바로 investigate야."
   }
  ],
  "synonyms": [

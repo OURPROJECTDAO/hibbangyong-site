@@ -11,25 +11,26 @@
  "word": "waterfront",
  "slug": "waterfront",
  "url": "https://hibbangyong.com/words/waterfront/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "물가 지역 — 바다·강·호수에 바로 붙어 있는 도시나 동네 쪽의 땅",
  "gloss_ko": "물가 동네",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "바다나 강, 호수를 끼고 있는 도시를 하나 떠올려 봐.",
   "물 바로 옆 땅에는 산책길이나 카페가 있기도 하고, 창고랑 배 대는 곳이 늘어서 있기도 해.",
   "그 물가 쪽 땅이 waterfront야. 놀러 가는 곳이든 일하는 곳이든 상관없어.",
   "물 위도 아니고, 물이 멀리 보이기만 하는 곳도 아니야. 물이랑 딱 붙어 있는 땅 쪽이야."
  ],
+ "explanation_for_kids": null,
  "scene": "바다·강·호수를 낀 도시의 물 바로 옆 땅",
  "examples": [
   {
-   "en": "Many old factories stood along the waterfront.",
-   "ko": "예전엔 물가 쪽 땅을 따라 오래된 공장이 잔뜩 서 있었어."
+   "en": "We took a walk along the waterfront after dinner.",
+   "ko": "저녁 먹고 물가를 따라 산책했어."
   }
  ],
  "quiz": [

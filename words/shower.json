@@ -11,25 +11,26 @@
  "word": "shower",
  "slug": "shower",
  "url": "https://hibbangyong.com/words/shower/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "위에서 우수수 한꺼번에 쏟아져 내리는 것 (샤워·소나기처럼)",
  "gloss_ko": "샤워",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "위에서 물이 비처럼 쫙! 머리랑 어깨로 우수수 쏟아져.",
   "한 방울 똑, 이 아니라 자잘한 물이 한꺼번에 우르르 내려오는 거야.",
   "위에서 우수수 쏟아져 내리는 거, 그게 shower야.",
   "그래서 꽃잎이 머리 위로 우수수 쏟아지면 a shower of flowers라고도 해!"
  ],
+ "explanation_for_kids": null,
  "scene": "위에서 물이 비처럼 머리 위로 자잘하게 한꺼번에 우수수 쏟아져 내리는 한 장면.",
  "examples": [
   {
-   "en": "I take a quick shower after I play in the mud.",
-   "ko": "난 진흙에서 놀고 나면 후딱 샤워를 해."
+   "en": "I take a quick shower after the gym.",
+   "ko": "난 헬스장 다녀오면 후딱 샤워해."
   }
  ],
  "quiz": [

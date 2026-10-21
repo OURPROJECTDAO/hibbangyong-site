@@ -11,25 +11,26 @@
  "word": "jury",
  "slug": "jury",
  "url": "https://hibbangyong.com/words/jury/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "배심원단(죄가 있나 없나 함께 정하는 보통 사람들) — 재판에서 뽑혀 온 보통 사람 여럿이 모여, 죄가 있나 없나 함께 정하는 무리.",
  "gloss_ko": "죄를 가리는 보통 사람들",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "재판할 때 앞에는 재판관 한 명이 앉아 있지? 근데 옆에 나란히 앉은 평범한 사람 여럿이 또 있어.",
   "이 사람들은 법을 잘 아는 사람도, 그 사건이랑 상관있는 사람도 아니야. 그냥 동네에서 뽑혀 온 보통 어른들이야.",
   "재판을 쭉 듣고 나서 자기들끼리 의논해. 그리고 다 같이 정해. 이 사람 죄가 있어, 없어? 하고.",
   "그렇게 모여서 함께 정하는 그 사람들 무리, 그게 jury야."
  ],
+ "explanation_for_kids": null,
  "scene": "재판정에서 재판관 옆에 나란히 앉은 보통 사람 여럿이 유무죄를 함께 정하는 장면",
  "examples": [
   {
-   "en": "The jury listened to everyone, and then they decided the man was not guilty.",
-   "ko": "그 사람들이 다들 하는 말을 쭉 듣더니, 그 아저씨는 죄가 없다고 다 같이 정했어."
+   "en": "The jury listened to both sides and found him not guilty.",
+   "ko": "배심원단은 양쪽 말을 다 듣고 그 남자가 무죄라고 결정했어."
   }
  ],
  "quiz": [

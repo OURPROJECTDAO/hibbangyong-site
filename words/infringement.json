@@ -11,20 +11,21 @@
  "word": "infringement",
  "slug": "infringement",
  "url": "https://hibbangyong.com/words/infringement/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "위반 — 규칙이나 법, 남의 권리처럼 정해진 선을 어기고 넘어가는 것",
  "gloss_ko": "선 넘은 위반",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "축구에서 공을 손으로 잡으면 바로 호루라기가 울리지. 정해진 선을 넘었으니까.",
   "규칙이든 법이든 남의 권리든, 지켜야 할 선을 넘어가면 그게 infringement야.",
   "남이 찍은 사진을 허락 없이 가져다 쓰거나, 남의 개인 정보를 몰래 들여다보는 것도 마찬가지고.",
   "큰 범죄만 말하는 게 아니야. 조금만 넘어도 넘은 거고, 넘으면 보통 벌이나 대가가 따라와."
  ],
+ "explanation_for_kids": null,
  "scene": "축구에서 공을 손으로 잡아 호루라기가 울리는 장면",
  "examples": [
   {

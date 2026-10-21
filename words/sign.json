@@ -11,25 +11,26 @@
  "word": "sign",
  "slug": "sign",
  "url": "https://hibbangyong.com/words/sign/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "표시 — 그걸 보면 딴 걸 알게 되는 것 (길가 판때기도, 손짓도, 시커먼 하늘도)",
  "gloss_ko": "딴 걸 알게 하는 표시",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "하늘이 시커멓게 변했어. 비는 아직 한 방울도 안 왔는데, 너는 벌써 알아. 곧 오겠구나!",
   "하늘이 알려 준 거야. 누가 일부러 알려 준 게 아니라, 그냥 드러나서 알게 된 거지.",
   "일부러 알려 주는 것도 똑같이 여기 들어가거든? 길가에 '멈춤'이라고 적힌 판때기, 조용히 하라고 입에 손가락 대는 손짓. 이것도 다 그래.",
   "그냥 거기 있기만 한 게 아니라, 딴 걸 알게 해 주는 것. 이게 sign이야."
  ],
+ "explanation_for_kids": null,
  "scene": "하늘이 시커메진 걸 보고 곧 비 올 줄 아는 장면",
  "examples": [
   {
-   "en": "Dad put a sign on his door that said \"Do not enter.\"",
-   "ko": "아빠가 문에 '들어오지 마세요'라고 쓴 팻말을 붙였어."
+   "en": "My roommate put a \"Do not enter\" sign on his door.",
+   "ko": "룸메이트가 자기 방문에 '들어오지 마세요' 팻말을 붙였어."
   }
  ],
  "quiz": [

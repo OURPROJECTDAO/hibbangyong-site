@@ -11,31 +11,32 @@
  "word": "rescue",
  "slug": "rescue",
  "url": "https://hibbangyong.com/words/rescue/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "구해 내다 — 이미 위험에 빠진 걸 꺼내서 안전한 데로 옮기다",
  "gloss_ko": "구해 내다",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "비 온 다음 날, 물웅덩이에 개미 한 마리가 빠져서 허우적대고 있어. 네가 쏙 꺼내서 마른 땅에 놔줬어.",
   "그냥 도와준 거랑은 달라. 이미 나쁜 일에 빠져 있는 걸 거기서 빼내야 하거든?",
   "미리 못 빠지게 막아 준 것도 아니야. 빠진 다음에 꺼내는 거야.",
   "사람도, 강아지도, 버려질 뻔한 낡은 자전거도 다 돼. 위험한 데서 꺼내 안전한 데로 옮기면 그게 rescue야."
  ],
+ "explanation_for_kids": null,
  "scene": "물웅덩이에 빠져 허우적대는 개미를 꺼내 마른 땅에 놔주기",
  "examples": [
   {
-   "en": "We rescued a bird that was stuck in the fence.",
-   "ko": "우리는 울타리에 끼인 새를 구해 줬어."
+   "en": "We had to rescue a kitten from under my car.",
+   "ko": "내 차 밑에 들어간 새끼 고양이를 구해 내야 했어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "놀이터 미끄럼틀 밑 좁은 틈에 고양이가 들어갔다가 몸이 껴서 못 나오고 울고 있었어. 아저씨가 틈을 벌려서 고양이를 꺼내 벤치 위에 올려놨어. 이게 'rescue'야?",
+   "question": "공원 계단 밑 좁은 틈에 고양이가 들어갔다가 몸이 껴서 못 나오고 울고 있었어. 아저씨가 틈을 벌려서 고양이를 꺼내 벤치 위에 올려놨어. 이게 'rescue'야?",
    "choices": [
     "응, rescue 맞아",
     "아니, rescue 아니야"

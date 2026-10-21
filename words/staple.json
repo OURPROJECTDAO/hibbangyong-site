@@ -11,20 +11,21 @@
  "word": "staple",
  "slug": "staple",
  "url": "https://hibbangyong.com/words/staple/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "주식 — 한 나라나 사람들이 거의 매일 기본으로 먹는 먹거리",
  "gloss_ko": "주식(늘 먹는 기본 음식)",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "한국 사람 밥상엔 거의 매일 밥이 올라와. 멕시코는 옥수수, 유럽 많은 나라는 빵이 그래.",
   "특별히 맛있거나 유명해서 먹는 게 아니야. 없으면 식탁이 허전한, 늘 깔려 있는 기본이야.",
   "그래서 제일 인기 있는 요리나 명절 별미, 몸에 좋다는 음식이랑은 달라.",
   "음식 말고도 늘 기본으로 깔려 있는 것에 써. 옷장에 늘 있는 청바지, 집에 떨어지면 바로 사 오는 쌀이나 휴지 같은 거."
  ],
+ "explanation_for_kids": null,
  "scene": "나라마다 매일 밥상에 오르는 기본 음식(밥·옥수수·빵)",
  "examples": [
   {

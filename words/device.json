@@ -11,25 +11,26 @@
  "word": "device",
  "slug": "device",
  "url": "https://hibbangyong.com/words/device/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "장치 — 어떤 한 가지 일을 하라고 사람이 일부러 만든 물건이야. 도구나 기계 같은 거.",
  "gloss_ko": "장치",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "병뚜껑 딱 따라고 만든 병따개 있잖아, 그 조그만 쇳조각!",
   "이건 딱 한 가지 일 하라고 사람이 일부러 만든 물건이거든?",
   "꼭 화면 달린 것만 그런 게 아냐 — 쥐 잡는 쥐덫도, 온도 재는 온도계도 다 그래.",
   "누가 '무슨 일 하나 하려고 만든 물건'이면, 그게 device야."
  ],
+ "explanation_for_kids": null,
  "scene": "병뚜껑을 따는 조그만 병따개",
  "examples": [
   {
-   "en": "This little device opens bottle caps with one push.",
-   "ko": "이 조그만 장치는 한 번 누르면 병뚜껑을 딱 열어 줘."
+   "en": "This little device charges my phone on the subway.",
+   "ko": "이 작은 기기가 지하철에서 내 폰을 충전해 줘."
   }
  ],
  "quiz": [

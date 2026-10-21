@@ -11,23 +11,24 @@
  "word": "cord",
  "slug": "cord",
  "url": "https://hibbangyong.com/words/cord/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "전선 — 전기 제품을 콘센트에 이어 주는 줄",
  "gloss_ko": "전선",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 돌돌 말린 이 줄이 cord예요. 한쪽 끝에 콘센트에 꽂는 플러그가 달려 있어요.",
   "선풍기나 충전기를 벽에 꽂을 때 이 cord를 따라 전기가 흘러 들어와요."
  ],
- "scene": "돌돌 말린 전기 코드(전선) 한 가닥 — 한쪽 끝에 두 갈래 플러그가 달림. cord=전선/코드의 뜻으로 그림",
+ "explanation_for_kids": null,
+ "scene": "돌돌 말린 전기 코드(전선) 한 가닥",
  "examples": [
   {
-   "en": "Dad plugged the cord into the wall to turn on the lamp.",
-   "ko": "아빠가 전등을 켜려고 전선을 벽에 꽂았어."
+   "en": "I plugged the cord into the wall to turn on the lamp.",
+   "ko": "전등을 켜려고 전선을 벽 콘센트에 꽂았어."
   }
  ],
  "quiz": [
@@ -55,7 +56,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/cord.webp",
-  "alt": "돌돌 말린 전기 코드(전선) 한 가닥 — 한쪽 끝에 두 갈래 플러그가 달림. cord=전선/코드의 뜻으로 그림",
+  "alt": "돌돌 말린 전기 코드(전선) 한 가닥",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

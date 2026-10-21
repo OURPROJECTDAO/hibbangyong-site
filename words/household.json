@@ -11,25 +11,26 @@
  "word": "household",
  "slug": "household",
  "url": "https://hibbangyong.com/words/household/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "한 집에서 같이 사는 사람들 전부",
  "gloss_ko": "한집 식구들",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "저녁때 한 집 문 열고 들어가 봐.",
   "엄마, 아빠, 누나, 나… 같은 집에서 같이 먹고 같이 자는 사람들이 쫙 있지?",
   "그 한 덩어리를 통째로 부르는 말이야. 옆집은 옆집대로 또 한 덩어리고.",
   "꼭 가족이 아니어도, 한 집에 같이 사는 사람들이면 다 묶여. 이게 household야."
  ],
+ "explanation_for_kids": null,
  "scene": "저녁에 한 집 안 사람들이 다 모여 있는 한 장면.",
  "examples": [
   {
-   "en": "Everyone in our household helps clean on Saturday.",
-   "ko": "우리 집 식구들은 토요일마다 다 같이 청소를 도와."
+   "en": "Everyone in my household takes turns doing the dishes.",
+   "ko": "우리 집에 사는 사람들은 다 돌아가면서 설거지를 해."
   }
  ],
  "quiz": [

@@ -11,23 +11,24 @@
  "word": "lamp",
  "slug": "lamp",
  "url": "https://hibbangyong.com/words/lamp/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "램프 — 밤에 방을 밝혀 주는 전등",
  "gloss_ko": "램프",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "방이 어두울 때 켜면 갓 아래로 노란 불빛이 나와 주변을 환하게 밝혀 주는 물건이야.",
   "잠자기 전 침대맡에서 책을 읽거나, 밤에 화장실 갈 때 이걸 켜면 안 넘어지고 잘 볼 수 있어."
  ],
+ "explanation_for_kids": null,
  "scene": "탁자 위에 놓인 전형적인 침대맡 스탠드 램프 — 갓 아래로 따뜻한 노란 불빛이 켜져 빛나는 모습(전등/램프 의미)",
  "examples": [
   {
-   "en": "I turned on the lamp so I could read my book in bed.",
-   "ko": "침대에서 책 읽으려고 램프를 켰어."
+   "en": "I left the lamp on while I studied for my exam.",
+   "ko": "시험공부 하는 동안 램프를 켜 뒀어."
   }
  ],
  "quiz": [

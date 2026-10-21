@@ -11,31 +11,32 @@
  "word": "vary",
  "slug": "vary",
  "url": "https://hibbangyong.com/words/vary/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "그때그때 달라져 — 하나로 딱 정해져 있지 않고 경우마다, 때마다 제각각이야.",
  "gloss_ko": "때마다 제각각 달라지다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "똑같이 생긴 과자 봉지인데, 열어 보면 안에 든 개수가 봉지마다 조금씩 달라.",
   "열두 개일 때도 있고 열네 개일 때도 있어. 딱 몇 개라고 정해져 있지 않은 거지.",
   "한 번 확 바뀌어서 그대로 굳는 게 아니라, 그때그때 왔다갔다 하는 거야. 날씨도, 네 기분도 그래.",
   "이게 vary야."
  ],
+ "explanation_for_kids": null,
  "scene": "똑같은 과자 봉지마다 든 개수가 조금씩 다른 장면",
  "examples": [
   {
-   "en": "The number of cookies in each bag varies a little.",
-   "ko": "봉지마다 든 과자 개수가 조금씩 달라."
+   "en": "The number of cookies can vary a little from bag to bag.",
+   "ko": "과자 개수는 봉지마다 조금씩 다를 수 있어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "학교 앞 문구점에서 파는 연필 한 다스를 세어 보면 어떤 상자는 열한 자루, 어떤 상자는 열두 자루, 어떤 상자는 열세 자루야. 이걸 'vary'라고 할 수 있어?",
+   "question": "회사 앞 문구점에서 파는 연필 한 다스를 세어 보면 어떤 상자는 열한 자루, 어떤 상자는 열두 자루, 어떤 상자는 열세 자루야. 이걸 'vary'라고 할 수 있어?",
    "choices": [
     "응, vary 맞아",
     "아니, vary 아니야"

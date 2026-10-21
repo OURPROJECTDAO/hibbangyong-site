@@ -11,25 +11,26 @@
  "word": "slope",
  "slug": "slope",
  "url": "https://hibbangyong.com/words/slope/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "비탈 — 한쪽은 높고 한쪽은 낮게 기울어진 바닥",
  "gloss_ko": "비탈",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "공을 살짝 내려놨을 뿐인데 저 혼자 데굴데굴 굴러가 버려. 왜냐고? 바닥이 기울어져 있거든.",
   "한쪽은 높고 한쪽은 낮아. 그래서 올라갈 땐 다리가 뻐근하고, 내려올 땐 발이 저절로 빨라져.",
   "절벽처럼 뚝 끊긴 것도 아니고, 계단처럼 한 칸씩 툭툭 떨어지는 것도 아니야. 기울어진 채로 쭉 이어져 있어.",
   "땅도 그렇고 지붕도 그렇고, 그렇게 비스듬히 기울어진 바닥. 이게 slope야."
  ],
+ "explanation_for_kids": null,
  "scene": "기울어진 바닥에 놓은 공이 저절로 굴러가는 장면",
  "examples": [
   {
-   "en": "The ball rolled down the grassy slope.",
-   "ko": "공이 풀로 덮인 비탈을 따라 굴러 내려갔어."
+   "en": "We walked up a steep slope to our hotel.",
+   "ko": "우리는 가파른 비탈을 올라 호텔까지 걸어갔어."
   }
  ],
  "quiz": [

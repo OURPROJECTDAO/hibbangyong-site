@@ -11,25 +11,26 @@
  "word": "link",
  "slug": "link",
  "url": "https://hibbangyong.com/words/link/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "연결 고리 — 떨어져 있는 둘을 이어 주는 하나(눈에 보이는 고리도, 안 보이는 관계도)",
  "gloss_ko": "연결 고리",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "운동장에 아이들이 두 줄로 서 있는데 줄이 뚝 끊겨 있어. 한 아이가 그 사이에 쏙 들어가서 양쪽을 붙잡아. 그 순간 두 줄이 한 줄이 돼.",
   "양쪽 둘 말고, 그 사이에 끼어서 이어 준 그 하나. 그걸 말하는 거야.",
   "눈에 안 보이는 것도 그래. 늘 같이 따라다니는 두 가지가 있으면 — 좋은 일이든 나쁜 일이든 — 그 사이에 이어 주는 게 있다고 말하거든?",
   "죽 이어진 줄 전체 말고, 둘 사이를 잇는 그 하나. 이게 link야."
  ],
+ "explanation_for_kids": null,
  "scene": "두 줄로 끊겨 선 아이들 사이에 한 아이가 들어가 양쪽을 붙잡는 장면",
  "examples": [
   {
-   "en": "My mom says there is a link between my late bedtime and my sleepy mornings.",
-   "ko": "엄마는 내가 늦게 자는 거랑 아침에 졸린 거 사이에 연결 고리가 있대."
+   "en": "There's a clear link between staying up late and feeling tired at work.",
+   "ko": "늦게 자는 거랑 회사에서 피곤한 거 사이엔 분명 연결 고리가 있어."
   }
  ],
  "quiz": [

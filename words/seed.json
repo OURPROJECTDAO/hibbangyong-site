@@ -11,23 +11,24 @@
  "word": "seed",
  "slug": "seed",
  "url": "https://hibbangyong.com/words/seed/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "씨앗 — 심으면 싹이 나서 자라는 식물의 알맹이",
  "gloss_ko": "씨앗",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "흙 위에 놓인 이 작고 통통한 알맹이가 바로 seed예요.",
   "이걸 흙에 심고 물을 주면 나중에 싹이 트고 꽃이나 나무로 자라나요."
  ],
- "scene": "흙바닥 위에 놓인 통통한 씨앗 한 알을 크게 클로즈업 (동사 seed의 아이 친숙 시각 의미=씨앗)",
+ "explanation_for_kids": null,
+ "scene": "흙바닥 위에 놓인 통통한 씨앗 한 알을 크게 클로즈업",
  "examples": [
   {
-   "en": "I put a small seed in the soil and waited for it to grow.",
-   "ko": "나는 작은 씨앗을 흙에 심고 자라기를 기다렸어."
+   "en": "I planted a basil seed in a pot on my balcony.",
+   "ko": "베란다 화분에 바질 씨앗을 하나 심었어."
   }
  ],
  "quiz": [
@@ -59,7 +60,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/seed.webp",
-  "alt": "흙바닥 위에 놓인 통통한 씨앗 한 알을 크게 클로즈업 (동사 seed의 아이 친숙 시각 의미=씨앗)",
+  "alt": "흙바닥 위에 놓인 통통한 씨앗 한 알을 크게 클로즈업",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

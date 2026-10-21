@@ -11,20 +11,21 @@
  "word": "physical",
  "slug": "physical",
  "url": "https://hibbangyong.com/words/physical/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "신체의(몸의) — 마음이 아니라 몸에 일어나거나 몸으로 하는",
  "gloss_ko": "몸에 관한",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "넘어져서 무릎이 욱신! 이건 몸이 아픈 거야. 친구가 놀려서 가슴이 찡한 건 마음이 아픈 거고.",
   "달리기, 잠, 감기, 꼭 껴안기, 밀치고 싸우기까지, 몸에 일어나는 쪽이면 좋든 나쁘든 다 들어가.",
   "몸처럼 손에 딱 잡히는 거라서, 화면 속 말고 진짜 만질 수 있는 물건 쪽을 말할 때도 써.",
   "운동만 뜻하는 게 아니야. 마음 말고 몸 쪽, 만져지는 쪽, 그게 physical이야."
  ],
+ "explanation_for_kids": null,
  "scene": "넘어져서 무릎이 욱신거림 vs 놀림받아 마음이 찡함",
  "examples": [
   {

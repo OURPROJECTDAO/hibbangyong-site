@@ -11,20 +11,21 @@
  "word": "crater",
  "slug": "crater",
  "url": "https://hibbangyong.com/words/crater/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "구덩이 — 무언가 세게 떨어지거나 터져서 땅이 둥글게 움푹 파인 큰 자리",
  "gloss_ko": "큰 구덩이",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "하늘에서 큰 돌이 쾅 떨어진 들판을 떠올려 봐. 땅이 둥글게 움푹 파인 큰 자리가 남아.",
   "달 사진에 보이는 동그란 자국들도, 폭탄이 터진 도로 자리도, 화산 꼭대기의 둥근 입구도 다 이거야.",
   "사람이 삽으로 판 구멍이나 땅이 길게 갈라진 틈이랑은 달라.",
   "부딪히거나 터지는 큰 힘 때문에 둥글게 파인 자리, 그게 crater야."
  ],
+ "explanation_for_kids": null,
  "scene": "하늘에서 큰 돌이 떨어져 들판이 둥글게 파인 자리",
  "examples": [
   {

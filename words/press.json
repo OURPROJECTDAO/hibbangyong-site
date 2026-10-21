@@ -11,15 +11,21 @@
  "word": "press",
  "slug": "press",
  "url": "https://hibbangyong.com/words/press/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "꾹 힘주어 누르다",
  "gloss_ko": "꾹 누르기",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "엘리베이터 탈 때 버튼을 손가락으로 꾹! 누르잖아.",
+  "근데 버튼처럼 한쪽만 누르는 것만 press가 아니야.",
+  "레몬을 손에 쥐고 꾹 짜는 것도, 책 사이에 꽃을 끼워 눌러두는 것도, 도장을 종이에 대고 꾹 찍는 것도 다 press야.",
+  "뭔가에 힘을 줘서 꾹 누르는 거, 그게 press야."
+ ],
+ "explanation_for_kids": [
   "엘리베이터 버튼 봤지? 손가락으로 꾹! 누르잖아.",
   "근데 버튼처럼 한쪽만 누르는 것만 press가 아니야.",
   "레몬을 손에 쥐고 꾹 짜는 것도, 책 사이에 꽃을 끼워 눌러두는 것도, 도장을 종이에 대고 꾹 찍는 것도 다 press야.",
@@ -28,14 +34,14 @@
  "scene": "버튼·레몬·꽃·도장을 손으로 꾹 눌러 힘을 주는 한 장면.",
  "examples": [
   {
-   "en": "Press the button and the door will open.",
-   "ko": "버튼을 누르면 문이 열려."
+   "en": "Press this button and the elevator door will open.",
+   "ko": "이 버튼을 누르면 엘리베이터 문이 열려."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "동생이 말랑한 밀가루 반죽을 식탁에 놓고 손바닥으로 위에서 힘껏 눌러 납작하게 만들었어. 이게 'press'야?",
+   "question": "친구가 말랑한 밀가루 반죽을 식탁에 놓고 손바닥으로 위에서 힘껏 눌러 납작하게 만들었어. 이게 'press'야?",
    "choices": [
     "응, press 맞아",
     "아니, press 아니야"

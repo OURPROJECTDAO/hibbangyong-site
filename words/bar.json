@@ -11,25 +11,26 @@
  "word": "bar",
  "slug": "bar",
  "url": "https://hibbangyong.com/words/bar/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "막대 — 길쭉하고 단단하게 굳은 한 토막(금괴·초콜릿 바처럼 네모난 덩어리도 bar야)",
  "gloss_ko": "막대",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "초콜릿 하나를 길쭉하게 딱 굳혀 놓은 거 봤지? 그걸 chocolate bar라고 해.",
   "손에 쥐면 딱딱하고 안 휘어. 한 덩어리로 뭉쳐서 굳은 거거든.",
   "금을 네모나게 굳히면 gold bar, 쇠를 길게 뽑으면 iron bar. 모양은 조금씩 달라도 말이야.",
   "길쭉하든 네모나든, 단단히 굳은 한 토막이면 그게 bar야."
  ],
+ "explanation_for_kids": null,
  "scene": "초콜릿을 길쭉하게 굳힌 chocolate bar",
  "examples": [
   {
-   "en": "He lifted a heavy iron bar off the ground.",
-   "ko": "그 애가 무거운 쇠막대를 바닥에서 들어 올렸어."
+   "en": "He lifted the heavy bar at the gym.",
+   "ko": "그 사람이 헬스장에서 무거운 쇠봉을 들어 올렸어."
   }
  ],
  "quiz": [

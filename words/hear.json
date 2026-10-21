@@ -11,25 +11,26 @@
  "word": "hear",
  "slug": "hear",
  "url": "https://hibbangyong.com/words/hear/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "듣다 — 소리나 소식이 귀에 들어와 저절로 알게 되는 것 (일부러 집중하지 않아도 됨)",
  "gloss_ko": "듣다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "책을 읽는데 밖에서 멍! 하고 개가 짖었어.",
   "넌 들으려던 것도 아닌데 그 소리가 귀에 쏙 들어왔지?",
   "이렇게 소리가 저절로 들어오는 것도, 친구가 '걔 이사 갔대' 하고 알려줘서 그 소식을 알게 되는 것도 다 이거야.",
   "귀를 쫑긋 세워 집중해서 듣는 거(그건 listen이야)랑은 달라. 이게 hear야."
  ],
+ "explanation_for_kids": null,
  "scene": "책 읽다가 밖에서 개 짖는 소리가 저절로 귀에 들어온 상황",
  "examples": [
   {
-   "en": "I hear a dog barking outside.",
-   "ko": "밖에서 개가 짖는 소리가 들려."
+   "en": "I hear the neighbor's dog barking again.",
+   "ko": "옆집 개가 또 짖는 소리가 들려."
   }
  ],
  "quiz": [

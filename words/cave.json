@@ -11,20 +11,21 @@
  "word": "cave",
  "slug": "cave",
  "url": "https://hibbangyong.com/words/cave/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "동굴 — 산이나 땅속, 바닷가 절벽에 자연이 만든 커다란 구멍",
  "gloss_ko": "동굴",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "산 옆구리에 커다란 구멍이 뻥 뚫려 있어. 안은 깜깜하고 서늘해.",
   "\"야호!\" 하면 소리가 웅웅 울려. 땅속 깊이, 바닷가 절벽 밑에도 이런 구멍이 있어.",
   "사람이 기계로 뚫은 터널이랑은 달라. 오랜 세월 동안 자연이 만든 거거든?",
   "그게 cave야."
  ],
+ "explanation_for_kids": null,
  "scene": "산 옆에 뻥 뚫린 깜깜하고 서늘한 구멍",
  "examples": [
   {

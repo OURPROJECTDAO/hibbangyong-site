@@ -11,25 +11,31 @@
  "word": "adopt",
  "slug": "adopt",
  "url": "https://hibbangyong.com/words/adopt/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "밖에 있던 걸 골라서 받아들여 내 것으로 삼다 — 방법을 가져와 쓰기 시작하거나, 아이·강아지를 가족으로 맞는 것",
  "gloss_ko": "받아들여 내 것으로 삼다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "옆 팀이 쓰던 업무 정리표, 우리 팀이 그대로 가져왔어.",
+  "하루만 재미로 따라 해 본 게 아니야. 그날부터 쭉 우리 팀 정리표가 됐거든?",
+  "새로 만들어 낸 것도 아니고, 잠깐 빌린 것도 아니야. 원래 남의 거였는데 이제 내 거인 거지.",
+  "강아지를 데려와 우리 가족으로 삼는 것도 똑같아. 그게 adopt야."
+ ],
+ "explanation_for_kids": [
   "옆 반이 쓰던 청소 순서표, 우리 반이 그대로 가져왔어.",
   "하루만 재미로 따라 해 본 게 아니야. 그날부터 쭉 우리 반 순서표가 됐거든?",
   "새로 만들어 낸 것도 아니고, 잠깐 빌린 것도 아니야. 원래 남의 거였는데 이제 내 거인 거지.",
   "강아지를 데려와 우리 가족으로 삼는 것도 똑같아. 그게 adopt야."
  ],
- "scene": "옆 반 청소 순서표를 우리 반이 가져와 우리 규칙으로 삼음",
+ "scene": "옆 팀 업무 정리표를 우리 팀이 가져와 우리 규칙으로 삼음",
  "examples": [
   {
-   "en": "Our class adopted the new rule, and nobody liked it at first.",
-   "ko": "우리 반은 새 규칙을 받아들였는데 처음엔 아무도 안 좋아했어."
+   "en": "Our team decided to adopt the new schedule.",
+   "ko": "우리 팀은 새 일정표를 받아들여 쓰기로 했어."
   }
  ],
  "quiz": [
@@ -63,7 +69,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/adopt.webp",
-  "alt": "옆 반 청소 순서표를 우리 반이 가져와 우리 규칙으로 삼음",
+  "alt": "옆 팀 업무 정리표를 우리 팀이 가져와 우리 규칙으로 삼음",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,20 +11,21 @@
  "word": "latent",
  "slug": "latent",
  "url": "https://hibbangyong.com/words/latent/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "잠재된 — 이미 속에 있는데 아직 겉으로 안 드러난, 나중에 나타날 수도 있는",
  "gloss_ko": "속에 잠재된",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "몸에 감기 바이러스가 들어왔는데, 아직 열도 기침도 없어.",
   "없는 게 아니야. 이미 안에 있는데 안 보일 뿐이고, 언젠가 겉으로 나올 수도 있어.",
   "재능도, 화도, 병도 이렇게 속에서 잠자고 있을 수 있어.",
   "누가 일부러 숨긴 거랑은 달라. 아직 밖으로 안 나온 것뿐이야."
  ],
+ "explanation_for_kids": null,
  "scene": "몸에 바이러스가 들어왔지만 아직 증상이 없는 상태",
  "examples": [
   {

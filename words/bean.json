@@ -11,23 +11,24 @@
  "word": "bean",
  "slug": "bean",
  "url": "https://hibbangyong.com/words/bean/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "콩 — 깍지 안에서 나오는 동글동글한 알갱이로, 밥에 넣거나 반찬으로 먹는 곡식",
  "gloss_ko": "콩",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "초록 깍지를 벌리면 안에 줄지어 든 동글동글한 알갱이, 그게 bean이에요.",
   "밥에 섞여 나오거나 두유로도 만들어 먹는, 우리가 자주 보는 먹거리예요."
  ],
+ "explanation_for_kids": null,
  "scene": "'bean=콩' — 통통한 초록 콩깍지 하나가 살짝 벌어져 안에 동글동글한 콩알 몇 개가 보이고, 곁에 콩알 몇 알이 놓인 모습(중앙·크게)",
  "examples": [
   {
-   "en": "I opened the pod and found a bean inside.",
-   "ko": "깍지를 벌렸더니 안에 콩이 하나 들어 있었어."
+   "en": "I picked every bean out of my rice at lunch.",
+   "ko": "점심 때 밥에서 콩을 하나도 안 남기고 다 골라냈어."
   }
  ],
  "quiz": [

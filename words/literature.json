@@ -11,15 +11,21 @@
  "word": "literature",
  "slug": "literature",
  "url": "https://hibbangyong.com/words/literature/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "문학 — 소설·시·옛날이야기처럼 글로 지어낸 작품, 또는 그런 작품들을 통틀어 부르는 말",
  "gloss_ko": "문학",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "소설이랑 시, 옛날이야기 같은 거 있잖아. 이런 건 다 '글로 지어낸 작품'이야.",
+  "그림처럼 눈으로 보는 것도, 노래처럼 귀로 듣는 것도 아니야.",
+  "오직 글로 써서 만든 이야기랑 시 같은 거, 한 편이든 책꽂이 한가득이든 다 이렇게 불러.",
+  "그게 literature야."
+ ],
+ "explanation_for_kids": [
   "소설이랑 시, 옛날이야기 같은 거 알지? 이런 건 다 '글로 지어낸 작품'이야.",
   "그림처럼 눈으로 보는 것도, 노래처럼 귀로 듣는 것도 아니야.",
   "오직 글로 써서 만든 이야기랑 시 같은 거, 한 편이든 책꽂이 한가득이든 다 이렇게 불러.",
@@ -28,7 +34,7 @@
  "scene": "소설·시·옛날이야기처럼 글로 지어낸 작품을 떠올리는 모습",
  "examples": [
   {
-   "en": "My big sister loves literature, and she reads a new novel almost every week.",
+   "en": "My older sister loves literature and reads a new novel almost every week.",
    "ko": "우리 언니는 문학을 좋아해서 거의 매주 새 소설을 읽어."
   }
  ],

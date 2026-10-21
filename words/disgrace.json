@@ -11,21 +11,27 @@
  "word": "disgrace",
  "slug": "disgrace",
  "url": "https://hibbangyong.com/words/disgrace/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "불명예 — 사람들이 크게 못마땅해할 일을 해서, 받던 존중을 잃는 것",
  "gloss_ko": "불명예",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "총무가 회비를 몰래 쓴 게 들통났어. 그날부터 아무도 걔 말을 안 믿고, 걔를 좋게 보지도 않아.",
+  "사람들이 크게 못마땅해할 짓을 해서 받던 존중을 잃은 처지, 그게 disgrace야. 한 사람 일 때문에 가족이나 회사 이름까지 같이 깎일 수도 있어.",
+  "사람이 아닌 것에도 써. 쓰레기가 잔뜩 쌓인 공원처럼, 너무 엉망이라 다들 부끄러워할 정도면 '이건 disgrace야'라고 해.",
+  "넘어져서 창피한 거랑은 달라. 잘못한 게 없으면 사람들이 너를 낮춰 보지는 않잖아."
+ ],
+ "explanation_for_kids": [
   "반장이 학급비를 몰래 쓴 게 들통났어. 그날부터 아무도 걔 말을 안 믿고, 걔를 좋게 보지도 않아.",
   "사람들이 크게 못마땅해할 짓을 해서 받던 존중을 잃은 처지, 그게 disgrace야. 한 사람 일 때문에 가족이나 학교 이름까지 같이 깎일 수도 있어.",
   "사람이 아닌 것에도 써. 쓰레기가 잔뜩 쌓인 공원처럼, 너무 엉망이라 다들 부끄러워할 정도면 '이건 disgrace야'라고 해.",
   "넘어져서 창피한 거랑은 달라. 잘못한 게 없으면 사람들이 너를 낮춰 보지는 않잖아."
  ],
- "scene": "반장이 학급비를 몰래 쓴 게 들통나 믿음을 잃음",
+ "scene": "총무가 회비를 몰래 쓴 게 들통나 믿음을 잃음",
  "examples": [
   {
    "en": "His lie brought disgrace on the whole family.",
@@ -67,7 +73,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/disgrace.webp",
-  "alt": "반장이 학급비를 몰래 쓴 게 들통나 믿음을 잃음",
+  "alt": "총무가 회비를 몰래 쓴 게 들통나 믿음을 잃음",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

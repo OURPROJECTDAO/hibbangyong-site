@@ -11,20 +11,21 @@
  "word": "editorial",
  "slug": "editorial",
  "url": "https://hibbangyong.com/words/editorial/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "사설(신문사가 자기 생각을 쓴 글) — 신문사나 방송사가 어떤 일에 대해 자기 생각을 내놓는 글",
  "gloss_ko": "신문사의 생각 글",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "신문을 펴 보면 대부분은 무슨 일이 있었는지 알려 주는 기사야.",
   "근데 그중 하나는 달라. 신문사가 '우리는 이렇게 생각해' 하고 자기 의견을 내놓는 글이야. 이게 editorial, 우리말로 사설이야.",
   "편드는 내용일 때도 있고 비판하는 내용일 때도 있어. 신문 말고 방송사가 내는 것도 있고.",
   "사실만 전하는 기사나, 작가 한 명이 자기 이름을 걸고 쓰는 칼럼이랑은 달라. 사설은 신문사 전체의 목소리야."
  ],
+ "explanation_for_kids": null,
  "scene": "신문을 펴서 기사들 사이에서 신문사 의견 글을 찾는 장면",
  "examples": [
   {

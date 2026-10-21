@@ -11,20 +11,21 @@
  "word": "past",
  "slug": "past",
  "url": "https://hibbangyong.com/words/past/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "과거 — 지금보다 앞서 이미 지나가 버린 모든 때(방금 전부터 아주 먼 옛날까지).",
  "gloss_ko": "과거",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "어제 먹은 아침도, 작년 생일도, 아주 먼 옛날 공룡들 살던 때도 다 지나갔지?",
   "시곗바늘이 이미 지나쳐 버린 때들 말이야.",
   "방금 1분 전도, 백 년 전도 전부 여기 들어가. 아주 옛날만 그런 게 아니라 조금 전 일도 들어가거든?",
   "그게 past야."
  ],
+ "explanation_for_kids": null,
  "scene": "어제 아침·작년 생일·먼 옛날 공룡 시대가 다 지나가 버린 때라는 장면",
  "examples": [
   {

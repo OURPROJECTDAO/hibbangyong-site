@@ -11,23 +11,24 @@
  "word": "oven",
  "slug": "oven",
  "url": "https://hibbangyong.com/words/oven/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "오븐 — 빵이나 음식을 넣고 뜨겁게 구워 익히는 주방 기계",
  "gloss_ko": "오븐",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 유리문 안에서 빵을 뜨겁게 구워내는 이 기계가 바로 oven이야.",
   "집에서 쿠키나 피자를 구울 때 문을 열고 반죽을 넣는 그것이 oven이야."
  ],
+ "explanation_for_kids": null,
  "scene": "빵을 굽는 주방 오븐(뜻: 오븐) — 통유리문 안이 따뜻하게 빛나고 갓 구운 빵이 부풀어 있는 전형적인 오븐 한 대",
  "examples": [
   {
-   "en": "Mom put the bread into the oven to bake it.",
-   "ko": "엄마가 빵을 구우려고 오븐에 넣었어."
+   "en": "I put the frozen pizza in the oven.",
+   "ko": "냉동 피자를 오븐에 넣었어."
   }
  ],
  "quiz": [

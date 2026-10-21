@@ -11,15 +11,21 @@
  "word": "connotation",
  "slug": "connotation",
  "url": "https://hibbangyong.com/words/connotation/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "함축(된 의미) — 단어가 사전 뜻 말고 같이 데려오는 생각이나 느낌",
  "gloss_ko": "단어에 딸린 연상",
  "level": {
   "code": "L9",
-  "name": "토플 114~120점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "'날씬하다'랑 '삐쩍 말랐다', 둘 다 살이 없다는 뜻이야. 근데 듣는 기분은 확 달라.",
+  "'월요일'도 사전엔 그냥 한 주의 첫날이야. 근데 들으면 졸린 아침, 다시 시작되는 출근 같은 게 줄줄이 딸려 와.",
+  "이렇게 사전 뜻 위에 단어가 같이 데려오는 생각이나 느낌이 connotation이야. 좋은 쪽일 수도, 나쁜 쪽일 수도, 그냥 떠오르는 장면일 수도 있어.",
+  "말투랑은 달라. 말투는 말하는 사람이 그때 얹는 거고, 이건 단어 자체에 붙어 다녀. 같은 뜻의 다른 말로 바꿔 말하는 것도 아니야."
+ ],
+ "explanation_for_kids": [
   "'날씬하다'랑 '삐쩍 말랐다', 둘 다 살이 없다는 뜻이야. 근데 듣는 기분은 확 달라.",
   "'월요일'도 사전엔 그냥 한 주의 첫날이야. 근데 들으면 졸린 아침, 다시 시작되는 학교 같은 게 줄줄이 딸려 와.",
   "이렇게 사전 뜻 위에 단어가 같이 데려오는 생각이나 느낌이 connotation이야. 좋은 쪽일 수도, 나쁜 쪽일 수도, 그냥 떠오르는 장면일 수도 있어.",
@@ -28,8 +34,8 @@
  "scene": "'날씬하다'와 '삐쩍 말랐다'의 듣는 기분 차이",
  "examples": [
   {
-   "en": "My teacher said that the word 'slim' has a nicer connotation than 'skinny'.",
-   "ko": "선생님이 '날씬하다'는 '말랐다'보다 느낌이 더 좋은 말이라고 하셨어."
+   "en": "To me, 'slim' has a nicer connotation than 'skinny'.",
+   "ko": "내가 보기엔 '날씬하다'가 '말랐다'보다 느낌이 더 좋은 말이야."
   }
  ],
  "quiz": [

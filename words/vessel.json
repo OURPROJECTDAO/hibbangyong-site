@@ -11,20 +11,21 @@
  "word": "vessel",
  "slug": "vessel",
  "url": "https://hibbangyong.com/words/vessel/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "속이 비어서 무언가를 담아 나르는 것 — 물 담는 항아리도, 사람 태우는 배도, 몸속에 피가 지나는 가는 관도 다 vessel이야",
  "gloss_ko": "담아 나르는 것",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "물을 가득 담은 항아리 있잖아. 속이 텅 비어 있으니까 담기고, 담았으니까 들고 갈 수 있어.",
   "사람을 태우고 물 위를 가는 큰 배도 똑같아. 속이 비어서 사람을 담고 옮겨 주거든?",
   "네 몸속에도 있어. 피가 지나다니는 가느다란 관, 그것도 담아서 흘려보내니까 같은 말로 불러.",
   "다리는 사람을 건네줘도 이건 아니야. 담지를 못하잖아. 속이 비어서 담고 나르는 것, 그게 vessel이야."
  ],
+ "explanation_for_kids": null,
  "scene": "물을 가득 담은 항아리를 들고 나르는 장면",
  "examples": [
   {

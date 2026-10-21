@@ -11,31 +11,37 @@
  "word": "announce",
  "slug": "announce",
  "url": "https://hibbangyong.com/words/announce/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "알리다 — 한 사람한테만 살짝이 아니라, 알아야 할 사람들이 다 알게 소식을 내놓는 것",
  "gloss_ko": "알리다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "회사 정문에 종이 한 장이 딱 붙었어. 내일 야유회는 안 간대.",
+  "한 사람 붙잡고 속닥이는 게 아니야. 알아야 할 사람들이 다 알게 내놓는 거지.",
+  "말로 해도 되고, 써 붙여도 되고, 방송으로 흘러나와도 돼. 새로 정한 일이든 취소든, 기쁜 거든 안 기쁜 거든 다 돼.",
+  "몇몇만 아는 채로 두는 거랑은 딴판이지? 그게 announce야."
+ ],
+ "explanation_for_kids": [
   "학교 정문에 종이 한 장이 딱 붙었어. 내일 소풍은 안 간대.",
   "한 사람 붙잡고 속닥이는 게 아니야. 알아야 할 사람들이 다 알게 내놓는 거지.",
   "말로 해도 되고, 써 붙여도 되고, 방송으로 흘러나와도 돼. 새로 정한 일이든 취소든, 기쁜 거든 안 기쁜 거든 다 돼.",
   "몇몇만 아는 채로 두는 거랑은 딴판이지? 그게 announce야."
  ],
- "scene": "학교 정문에 붙은 종이로 소풍 취소 소식이 알려지는 장면",
+ "scene": "회사 정문에 붙은 종이로 야유회 취소 소식이 알려지는 장면",
  "examples": [
   {
-   "en": "The teacher announced that the field trip was canceled because of the rain.",
-   "ko": "선생님은 비 때문에 소풍이 취소됐다고 알렸어."
+   "en": "My boss will announce the new schedule at the meeting today.",
+   "ko": "오늘 회의에서 팀장님이 새 일정을 알릴 거야."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "수영장 천장 스피커에서 안내 방송이 흘러나왔어. \"오늘 3시부터 물놀이 대회를 시작합니다.\" 수영장 안에 있던 사람들이 다 그 소리를 들었어. 이게 'announce'야?",
+   "question": "수영장 천장 스피커에서 안내 방송이 흘러나왔어. \"오늘 3시부터 수영 대회를 시작합니다.\" 수영장 안에 있던 사람들이 다 그 소리를 들었어. 이게 'announce'야?",
    "choices": [
     "응, announce 맞아",
     "아니, announce 아니야"
@@ -66,7 +72,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/announce.webp",
-  "alt": "학교 정문에 붙은 종이로 소풍 취소 소식이 알려지는 장면",
+  "alt": "회사 정문에 붙은 종이로 야유회 취소 소식이 알려지는 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

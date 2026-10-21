@@ -11,21 +11,27 @@
  "word": "query",
  "slug": "query",
  "url": "https://hibbangyong.com/words/query/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "문의 — 무언가를 알아내거나 맞는지 확인하려고 던지는 질문",
  "gloss_ko": "문의",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "여행 날짜가 바뀌었는지 궁금해서 여행사에 전화해 본 적 있지?",
+  "이렇게 뭔가 알아내거나 맞는지 확인하려고 던지는 물음이 query야.",
+  "검색창에 치는 말도 query라고 불러. 답을 찾으려고 던지는 거니까.",
+  "근데 시험지 문제는 아니야. 그건 네 실력을 보려는 거지, 뭘 알아내려는 게 아니거든."
+ ],
+ "explanation_for_kids": [
   "수학여행 날짜가 바뀌었는지 궁금해서 학교에 전화해 본 적 있지?",
   "이렇게 뭔가 알아내거나 맞는지 확인하려고 던지는 물음이 query야.",
   "검색창에 치는 말도 query라고 불러. 답을 찾으려고 던지는 거니까.",
   "근데 시험지 문제는 아니야. 그건 네 실력을 보려는 거지, 뭘 알아내려는 게 아니거든."
  ],
- "scene": "수학여행 날짜가 바뀌었는지 학교에 전화로 물어보기",
+ "scene": "여행 날짜가 바뀌었는지 여행사에 전화로 물어보기",
  "examples": [
   {
    "en": "I sent a query to the store about my missing order.",
@@ -55,7 +61,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/query.webp",
-  "alt": "수학여행 날짜가 바뀌었는지 학교에 전화로 물어보기",
+  "alt": "여행 날짜가 바뀌었는지 여행사에 전화로 물어보기",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

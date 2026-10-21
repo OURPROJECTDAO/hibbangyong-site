@@ -11,25 +11,31 @@
  "word": "adverse",
  "slug": "adverse",
  "url": "https://hibbangyong.com/words/adverse/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "네 편이 아니라 너한테 맞서서, 하려는 일을 더 나쁘고 힘들게 만드는 (불리한·해로운).",
  "gloss_ko": "불리한, 해로운",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "여행 가려는데 갑자기 비바람이 몰아쳐. 우산은 홀랑 뒤집히고 길은 미끄럽고, 한 걸음 떼기도 힘들어.",
+  "이렇게 네 편이 아니라 너한테 맞서서, 하려던 일을 자꾸 더 나쁘고 힘들게 만드는 거 있잖아.",
+  "꼭 세상이 너한테 반대로 대드는 느낌이야.",
+  "그게 adverse야."
+ ],
+ "explanation_for_kids": [
   "소풍 가려는데 갑자기 비바람이 몰아쳐. 우산은 홀랑 뒤집히고 길은 미끌미끌, 한 걸음 떼기도 힘들어.",
   "이렇게 네 편이 아니라 너한테 맞서서, 하려던 일을 자꾸 더 나쁘고 힘들게 만드는 거 있잖아.",
   "꼭 세상이 너한테 반대로 대드는 느낌이야.",
   "그게 adverse야."
  ],
- "scene": "소풍 날 비바람이 몰아쳐 걷기조차 힘든 장면 (child 앵커)",
+ "scene": "여행 날 비바람이 몰아쳐 걷기조차 힘든 장면",
  "examples": [
   {
    "en": "The new rule had an adverse effect on small shops.",
-   "ko": "새로 생긴 규칙이 작은 가게들한테는 안 좋게, 손해가 되는 쪽으로 영향을 줬어."
+   "ko": "새 규칙은 작은 가게들에 안 좋은 영향을 줬어."
   }
  ],
  "quiz": [
@@ -69,7 +75,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/adverse.webp",
-  "alt": "소풍 날 비바람이 몰아쳐 걷기조차 힘든 장면 (child 앵커)",
+  "alt": "여행 날 비바람이 몰아쳐 걷기조차 힘든 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,25 +11,26 @@
  "word": "spend",
  "slug": "spend",
  "url": "https://hibbangyong.com/words/spend/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "쓰다 — 가지고 있던 돈이나 시간을 어떤 일에 내주어 그만큼 줄어들게 하다",
  "gloss_ko": "(돈을) 쓰다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "토요일 아침에 만화책 보다가 두 시간이 훅 갔어. 그 두 시간은 이제 없어. 만화책한테 다 내준 거거든?",
   "돈도 똑같아. 삼천 원을 아이스크림에 내주면 주머니엔 그만큼 안 남아.",
   "연필을 쓰는 거랑은 달라. 연필은 써도 그대로 있잖아. 이건 내주면 줄어드는 거야.",
   "좋은 데 내줄 수도 있고 아깝게 날려버릴 수도 있어. 어느 쪽이든 그게 spend야."
  ],
+ "explanation_for_kids": null,
  "scene": "토요일 아침 만화책에 두 시간이 흘러간 일",
  "examples": [
   {
-   "en": "I spent two hours on comics, so I had no time left for my homework.",
-   "ko": "만화책 보는 데 두 시간을 써서 숙제할 시간이 없었어."
+   "en": "I spend too much money on coffee every month.",
+   "ko": "나는 매달 커피에 돈을 너무 많이 써."
   }
  ],
  "quiz": [

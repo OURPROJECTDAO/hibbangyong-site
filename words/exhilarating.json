@@ -11,15 +11,21 @@
  "word": "exhilarating",
  "slug": "exhilarating",
  "url": "https://hibbangyong.com/words/exhilarating/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "아주 신나는 — 마음이 크게 들뜨고 기운이 솟게 만드는",
  "gloss_ko": "들뜨고 힘 솟는",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "오디션 합격 문자를 받았어. 가슴이 벅차서 가만히 앉아 있을 수가 없어.",
+  "추운 아침 공원을 힘껏 달리고 났을 때도 비슷해. 기분이 붕 뜨고 힘이 넘쳐.",
+  "이렇게 마음을 들뜨게 하고 기운까지 솟게 하는 일이 exhilarating이야. 몸을 쓰는 일뿐 아니라 소식 하나, 생각 하나도 그럴 수 있어.",
+  "그냥 재미있는 정도랑은 세기가 달라. 손에 땀 나는 조마조마한 긴장이랑도 달라. 끝나고 나면 오히려 힘이 나거든."
+ ],
+ "explanation_for_kids": [
   "오디션 합격 문자를 받았어. 가슴이 벅차서 가만히 앉아 있을 수가 없어.",
   "추운 아침 운동장을 힘껏 달리고 났을 때도 비슷해. 기분이 붕 뜨고 힘이 넘쳐.",
   "이렇게 마음을 들뜨게 하고 기운까지 솟게 하는 일이 exhilarating이야. 몸을 쓰는 일뿐 아니라 소식 하나, 생각 하나도 그럴 수 있어.",
@@ -28,8 +34,8 @@
  "scene": "오디션 합격 문자를 받았을 때",
  "examples": [
   {
-   "en": "Swimming in the cold sea early in the morning was exhilarating.",
-   "ko": "아침 일찍 차가운 바다에서 수영했더니 기분이 붕 뜨고 힘이 막 났어."
+   "en": "Our hike to the top of the mountain was exhilarating.",
+   "ko": "산꼭대기까지 오른 건 정말 짜릿하고 힘이 났어."
   }
  ],
  "quiz": [

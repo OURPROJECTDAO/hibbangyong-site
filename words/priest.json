@@ -11,25 +11,26 @@
  "word": "priest",
  "slug": "priest",
  "url": "https://hibbangyong.com/words/priest/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "사제(신부) — 종교에서 기도와 의식을 맡아 앞에서 이끄는 사람",
  "gloss_ko": "사제(신부)",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "사람들이 다 모여서 기도할 때, 맨 앞에 서서 그 기도를 이끄는 사람이 있거든?",
   "결혼식이든 장례식이든, 그런 큰 자리를 맡아서 진행하는 것도 이 사람 일이야.",
   "그 자리에 온 사람이나 건물을 지키는 사람 말고, 그 일을 맡아서 하는 사람. 옛날 신전에도 있었고 지금 성당에도 있어.",
   "그게 priest야."
  ],
+ "explanation_for_kids": null,
  "scene": "사람들이 모여 기도할 때 맨 앞에서 이끄는 자리",
  "examples": [
   {
-   "en": "Long ago, a priest lit a fire at the old temple.",
-   "ko": "옛날에 한 사제가 오래된 신전에서 불을 붙였어."
+   "en": "The priest at the church down the street knows everyone by name.",
+   "ko": "길 끝에 있는 성당 신부님은 사람들 이름을 다 알아."
   }
  ],
  "quiz": [

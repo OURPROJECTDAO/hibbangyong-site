@@ -11,15 +11,21 @@
  "word": "psychology",
  "slug": "psychology",
  "url": "https://hibbangyong.com/words/psychology/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "사람 마음이 어떤 때 어떻게 움직이는지 캐내는 공부, 또 그렇게 굴러가는 마음의 길 자체(심리·심리학)",
  "gloss_ko": "심리학",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "친구들이 다 웃으니까, 뭐가 웃긴지도 모르면서 너도 따라 웃은 적 있지?",
+  "그럴 때 마음이 왜 그렇게 움직였는지, 어떤 때 겁이 나고 어떤 때 자꾸 미루는지, 그 길을 캐내는 공부가 있거든.",
+  "누굴 도우려고 캐내기도 하고, 가게가 물건 더 팔려고 써먹기도 해. 그렇게 굴러가는 마음의 길 자체를 가리킬 때도 있고.",
+  "psychology는 마음 아픈 사람을 약으로 고쳐 주는 일이나, 속마음을 알아맞히는 재주랑은 달라."
+ ],
+ "explanation_for_kids": [
   "친구들이 다 웃으니까, 뭐가 웃긴지도 모르면서 너도 따라 웃은 적 있지?",
   "그럴 때 마음이 왜 그렇게 움직였는지, 어떤 때 겁이 나고 어떤 때 자꾸 미루는지, 그 길을 캐내는 공부가 있거든.",
   "누굴 도우려고 캐내기도 하고, 가게가 물건 더 팔려고 써먹기도 해. 그렇게 굴러가는 마음의 길 자체를 가리킬 때도 있고.",
@@ -28,8 +34,8 @@
  "scene": "뭐가 웃긴지도 모르면서 친구들 따라 웃는 순간",
  "examples": [
   {
-   "en": "Our coach uses psychology to help scared players feel brave again.",
-   "ko": "우리 코치님은 겁먹은 선수들이 다시 용감해지도록 심리학을 활용해."
+   "en": "Our coach uses psychology to help nervous players get their confidence back.",
+   "ko": "우리 코치님은 긴장한 선수들이 다시 자신감을 찾도록 심리학을 활용해."
   }
  ],
  "quiz": [

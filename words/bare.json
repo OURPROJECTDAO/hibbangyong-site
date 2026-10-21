@@ -11,31 +11,32 @@
  "word": "bare",
  "slug": "bare",
  "url": "https://hibbangyong.com/words/bare/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "맨- — 덮거나 걸친 게 하나도 없이 겉이 그대로 나와 있는",
  "gloss_ko": "덮거나 걸친 게 없는",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "양말도 신발도 안 신고 발이 그대로 다 나와 있다고 생각해 봐. 그게 맨발이야. 장갑 없는 손은 맨손이고. 벽에 그림도 달력도 하나 없이 그냥 벽만 딱 있어도 그래.",
   "겨울 나무도 그래. 잎이 다 떨어져서 가지만 남았지.",
   "속이 텅 비었다는 말이 아니야. 겉을 덮고 있던 게 없어서 그냥 다 나와 있는 거야.",
   "그게 bare야."
  ],
+ "explanation_for_kids": null,
  "scene": "그림도 달력도 붙지 않은 집 안 벽",
  "examples": [
   {
-   "en": "My big brother runs across the cold floor with bare feet.",
-   "ko": "우리 형은 맨발로 차가운 바닥을 뛰어다녀."
+   "en": "The floor in my new apartment is cold on bare feet.",
+   "ko": "새 집 바닥은 맨발로 디디면 차가워."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "누나가 침대에서 이불이랑 시트를 다 걷어서 빨래 바구니에 넣었어. 지금 침대에는 매트리스만 놓여 있어. 이 매트리스, 지금 bare 야?",
+   "question": "룸메이트가 침대에서 이불이랑 시트를 다 걷어서 빨래 바구니에 넣었어. 지금 침대에는 매트리스만 놓여 있어. 이 매트리스, 지금 bare 야?",
    "choices": [
     "응, bare야",
     "아니, bare 아니야"

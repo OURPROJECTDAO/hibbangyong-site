@@ -11,15 +11,21 @@
  "word": "fever",
  "slug": "fever",
  "url": "https://hibbangyong.com/words/fever/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "열 — 아파서 몸이 평소보다 뜨거워진 것",
  "gloss_ko": "몸에 나는 열",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "감기에 걸려 이불 속에 누워 있는데, 몸이 안에서부터 후끈해져.",
+  "운동해서 더운 거랑은 달라. 가만히 있는데도 뜨겁거든?",
+  "확 펄펄 끓을 때도 있고, 아주 살짝만 뜨끈할 때도 있어.",
+  "아파서 몸이 평소보다 뜨거워진 거, 그게 fever야."
+ ],
+ "explanation_for_kids": [
   "감기에 걸려 이불 속에 누워 있는데, 몸이 안에서부터 후끈후끈해져.",
   "뛰어놀아서 더운 거랑은 달라. 가만히 있는데도 뜨겁거든?",
   "확 펄펄 끓을 때도 있고, 아주 살짝만 뜨끈할 때도 있어.",
@@ -28,8 +34,8 @@
  "scene": "감기로 이불 속에 누워 있는데 몸이 안에서부터 후끈해진 장면",
  "examples": [
   {
-   "en": "Last night I had a fever, but this morning it was gone.",
-   "ko": "어젯밤엔 열이 났는데 오늘 아침엔 다 내렸어."
+   "en": "I had a fever, so I called in sick to work today.",
+   "ko": "열이 나서 오늘 회사에 병가 냈어."
   }
  ],
  "quiz": [
@@ -40,7 +46,7 @@
     "병이 나서 이마가 평소보다 뜨거워진 친구",
     "가방이 무거워서 어깨가 아파진 친구",
     "연필을 놓쳐서 바닥에 떨어뜨린 친구",
-    "색종이를 세 장씩 나눠 가진 친구"
+    "쿠폰을 세 장 받은 친구"
    ],
    "answer_index": 0,
    "answer": "병이 나서 이마가 평소보다 뜨거워진 친구",

@@ -11,25 +11,31 @@
  "word": "sloppy",
  "slug": "sloppy",
  "url": "https://hibbangyong.com/words/sloppy/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "엉성한 — 신경을 덜 쓰고 대충 해서 허술하게 된",
  "gloss_ko": "대충 해서 엉성한",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "빨리 놀고 싶어서 과제를 다시 안 보고 냈어. 계산 중간이 빠졌고 글씨도 날려 썼어.",
+  "신경을 덜 써서 일이 허술하게 된 거, 그게 sloppy야.",
+  "과제만 그런 게 아냐. 축구 수비든, 발표 설명이든, 옷차림이든 신경 안 써서 허술하면 다 sloppy라고 해.",
+  "그냥 더럽거나 틀렸다고 다 sloppy는 아냐. 비에 젖은 과제나, 열심히 했는데 몰라서 틀린 과제는 아니야."
+ ],
+ "explanation_for_kids": [
   "빨리 놀고 싶어서 숙제를 다시 안 보고 냈어. 계산 중간이 빠졌고 글씨도 날려 썼어.",
   "신경을 덜 써서 일이 허술하게 된 거, 그게 sloppy야.",
   "숙제만 그런 게 아냐. 축구 수비든, 발표 설명이든, 옷차림이든 신경 안 써서 허술하면 다 sloppy라고 해.",
   "그냥 더럽거나 틀렸다고 다 sloppy는 아냐. 비에 젖은 숙제나, 열심히 했는데 몰라서 틀린 숙제는 아니야."
  ],
- "scene": "빨리 놀고 싶어 다시 안 보고 낸 숙제(계산 빠짐·날려 쓴 글씨)",
+ "scene": "빨리 놀고 싶어 다시 안 보고 낸 과제(계산 빠짐·날려 쓴 글씨)",
  "examples": [
   {
-   "en": "Mom checked my homework and found some sloppy mistakes in the math.",
-   "ko": "엄마가 내 숙제를 봤는데 수학에서 대충 하다 틀린 게 몇 개 나왔어."
+   "en": "My manager checked my report and found some sloppy mistakes in the numbers.",
+   "ko": "팀장님이 내 보고서를 봤는데 숫자에서 대충 하다 틀린 게 몇 개 나왔어."
   }
  ],
  "quiz": [
@@ -66,7 +72,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/sloppy.webp",
-  "alt": "빨리 놀고 싶어 다시 안 보고 낸 숙제(계산 빠짐·날려 쓴 글씨)",
+  "alt": "빨리 놀고 싶어 다시 안 보고 낸 과제(계산 빠짐·날려 쓴 글씨)",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

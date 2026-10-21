@@ -11,21 +11,27 @@
  "word": "belligerent",
  "slug": "belligerent",
  "url": "https://hibbangyong.com/words/belligerent/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "싸우려 드는 — 말로든 행동으로든 먼저 시비를 걸고 덤비려는",
  "gloss_ko": "싸우려 드는",
  "level": {
   "code": "L9",
-  "name": "토플 114~120점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "식당 줄에서 살짝 부딪혔을 뿐인데, 바로 \"뭐? 한번 해 볼래?\" 하면서 다가오는 사람 있지.",
+  "주먹이든 말이든, 일부러 싸움 쪽으로 끌고 가려는 태도가 belligerent야.",
+  "그냥 화난 거랑은 달라. 화가 나도 참고 있으면 belligerent가 아니야.",
+  "사람한테만 쓰는 말도 아니야. 툭하면 전쟁을 하려 드는 나라한테도 써."
+ ],
+ "explanation_for_kids": [
   "급식 줄에서 살짝 부딪혔을 뿐인데, 바로 \"뭐? 한번 해 볼래?\" 하면서 다가오는 애 있지.",
   "주먹이든 말이든, 일부러 싸움 쪽으로 끌고 가려는 태도가 belligerent야.",
   "그냥 화난 거랑은 달라. 화가 나도 참고 있으면 belligerent가 아니야.",
   "사람한테만 쓰는 말도 아니야. 툭하면 전쟁을 하려 드는 나라한테도 써."
  ],
- "scene": "급식 줄에서 살짝 부딪히자 시비 걸며 다가오는 친구",
+ "scene": "식당 줄에서 살짝 부딪히자 시비 걸며 다가오는 친구",
  "examples": [
   {
    "en": "His belligerent messages in the group chat made everyone leave.",
@@ -35,7 +41,7 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "체육 시간 피구에서 공에 살짝 맞은 민수가, 던진 친구에게 성큼 다가가 어깨를 툭 밀며 \"너 일부러 그랬지? 한판 붙을래?\" 했어. 이런 민수의 태도를 'belligerent'하다고 할 수 있어?",
+   "question": "동네 풋살에서 공에 살짝 맞은 민수가, 공을 찬 친구에게 성큼 다가가 어깨를 툭 밀며 \"너 일부러 그랬지? 한판 붙을래?\" 했어. 이런 민수의 태도를 'belligerent'하다고 할 수 있어?",
    "choices": [
     "응, belligerent 맞아",
     "아니, belligerent 아니야"
@@ -57,7 +63,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/belligerent.webp",
-  "alt": "급식 줄에서 살짝 부딪히자 시비 걸며 다가오는 친구",
+  "alt": "식당 줄에서 살짝 부딪히자 시비 걸며 다가오는 친구",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

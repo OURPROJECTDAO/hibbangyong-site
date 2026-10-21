@@ -11,25 +11,26 @@
  "word": "cessation",
  "slug": "cessation",
  "url": "https://hibbangyong.com/words/cessation/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "중단 — 계속되던 일이나 움직임이 멈춤",
  "gloss_ko": "멈춤",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "쉬지 않고 쏟아지던 비가 딱 그쳤어. 하루 종일 돌던 공장 기계 소리도 멈췄고, 싸우던 두 나라는 총을 내려놨어.",
   "셋 다 계속되던 게 멈춘 거야. 그 멈춤이 cessation이야. 좋은 게 멈춰도, 나쁜 게 멈춰도 다 돼.",
   "다 해내서 끝난 거랑은 달라. 다 못 했어도 계속되던 게 멈췄으면 cessation이야.",
   "시작도 안 한 걸 취소하는 것도 아니야. 이미 하고 있던 게 멈춰야 해."
  ],
+ "explanation_for_kids": null,
  "scene": "계속 쏟아지던 비가 그침",
  "examples": [
   {
-   "en": "The sudden cessation of the music made everyone look up.",
-   "ko": "음악이 갑자기 뚝 멈추니까 다들 고개를 들었어."
+   "en": "The sudden cessation of the drilling next door was such a relief.",
+   "ko": "옆집 드릴 소리가 갑자기 뚝 멈춰서 정말 살 것 같았어."
   }
  ],
  "quiz": [

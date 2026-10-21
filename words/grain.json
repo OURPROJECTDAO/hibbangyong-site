@@ -11,20 +11,21 @@
  "word": "grain",
  "slug": "grain",
  "url": "https://hibbangyong.com/words/grain/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "곡식 — 쌀·밀·보리처럼 사람이 먹으려고 거두는 작은 알들",
  "gloss_ko": "곡식",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "가을 들판에 가 봐봐. 벼하고 밀이 누렇게 고개를 푹 숙이고 있거든?",
   "그 끝에 작은 알들이 다닥다닥! 쌀, 밀, 보리 같은 거야.",
   "사과나 당근은 아니야. 곱게 빻은 가루도 아니고, 알 그대로야.",
   "사람이 먹으려고 거둬들이는 그 작은 알들, 이게 grain이야."
  ],
+ "explanation_for_kids": null,
  "scene": "가을 들판에 누렇게 익은 벼와 밀 이삭",
  "examples": [
   {

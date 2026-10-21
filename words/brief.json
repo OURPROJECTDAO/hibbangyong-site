@@ -11,31 +11,32 @@
  "word": "brief",
  "slug": "brief",
  "url": "https://hibbangyong.com/words/brief/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "짧은 — 오래 안 끌고 잠깐 만에, 또는 몇 마디로 간단히 끝나는",
  "gloss_ko": "짧은",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "친구가 '잘 가!' 딱 한마디 하고 휙 돌아선 적 있지?",
   "오래 붙잡지도, 길게 늘어놓지도 않아. 순식간에 끝나 버려.",
   "만남이든 말이든 쪽지든, 오래 안 끌고 잠깐이나 몇 마디로 딱 끝나는 거야.",
   "길게 이어지는 게 아니라 짧게 딱. 그게 brief야."
  ],
- "scene": "친구가 '잘 가!' 한마디 하고 휙 돌아서는 짧은 인사 (child 앵커)",
+ "explanation_for_kids": null,
+ "scene": "친구가 '잘 가!' 한마디 하고 휙 돌아서는 짧은 인사",
  "examples": [
   {
-   "en": "My brother gave me a brief hug and ran off to school.",
-   "ko": "형이 나를 잠깐 안아 주고 학교로 뛰어갔어."
+   "en": "My brother gave me a brief hug and ran off to class.",
+   "ko": "형이 나를 잠깐 안아 주고 수업 들으러 뛰어갔어."
   }
  ],
  "quiz": [
   {
    "type": "choice",
-   "question": "형이 나한테 'brief'한 쪽지를 남겼대. 넷 중에 어떤 쪽지일까?",
+   "question": "룸메이트가 나한테 'brief'한 쪽지를 남겼대. 넷 중에 어떤 쪽지일까?",
    "choices": [
     "'금방 올게!' 딱 한 줄만 적힌 쪽지",
     "앞뒤로 빽빽하게 열 줄도 넘게 적힌 쪽지",
@@ -57,7 +58,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/brief.webp",
-  "alt": "친구가 '잘 가!' 한마디 하고 휙 돌아서는 짧은 인사 (child 앵커)",
+  "alt": "친구가 '잘 가!' 한마디 하고 휙 돌아서는 짧은 인사",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

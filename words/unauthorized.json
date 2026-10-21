@@ -11,21 +11,27 @@
  "word": "unauthorized",
  "slug": "unauthorized",
  "url": "https://hibbangyong.com/words/unauthorized/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "허가받지 않은 — 허락해 줄 자격이 있는 쪽의 허락 없이 한",
  "gloss_ko": "허락 안 받은",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "동아리 사람들이 과사무실에 안 묻고 빈 강의실에 들어가서 연습했어.",
+  "나쁜 짓을 하려던 건 아니야. 그냥 해도 된다는 허락을 안 받은 거지.",
+  "허락해 줄 사람이 따로 있는데 그 사람이 오케이를 안 한 상태, 그게 unauthorized야.",
+  "범죄라서, 몰래 해서 붙는 말이 아니야. 빠진 게 허락이라는 게 핵심이야."
+ ],
+ "explanation_for_kids": [
   "동아리 애들이 선생님한테 안 묻고 음악실에 들어가서 연습했어.",
   "나쁜 짓을 하려던 건 아니야. 그냥 해도 된다는 허락을 안 받은 거지.",
   "허락해 줄 사람이 따로 있는데 그 사람이 오케이를 안 한 상태, 그게 unauthorized야.",
   "범죄라서, 몰래 해서 붙는 말이 아니야. 빠진 게 허락이라는 게 핵심이야."
  ],
- "scene": "선생님께 묻지 않고 동아리가 음악실에 들어가 연습함",
+ "scene": "과사무실에 묻지 않고 동아리가 빈 강의실에 들어가 연습함",
  "examples": [
   {
    "en": "My brother wrote an unauthorized story about his favorite singer and posted it on his blog.",
@@ -35,14 +41,14 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "지우는 방과 후에 체육 선생님께 먼저 여쭤보고 허락을 받은 다음 체육관 창고의 농구공을 꺼내 썼어. 이렇게 공을 쓴 걸 'unauthorized'라고 할 수 있을까?",
+   "question": "지우는 퇴근 후에 체육관 관리자님께 먼저 여쭤보고 허락을 받은 다음 체육관 창고의 농구공을 꺼내 썼어. 이렇게 공을 쓴 걸 'unauthorized'라고 할 수 있을까?",
    "choices": [
     "응, unauthorized 맞아",
     "아니, unauthorized 아니야"
    ],
    "answer_index": 1,
    "answer": "아니, unauthorized 아니야",
-   "why": "맞아! 지우는 체육 선생님께 먼저 여쭤보고 허락을 받은 다음 농구공을 꺼내 썼잖아. 허락해 줄 사람이 오케이를 했으니 unauthorized가 아니고, 오히려 허가받은(authorized) 쪽이야."
+   "why": "맞아! 지우는 체육관 관리자님께 먼저 여쭤보고 허락을 받은 다음 농구공을 꺼내 썼잖아. 허락해 줄 사람이 오케이를 했으니 unauthorized가 아니고, 오히려 허가받은(authorized) 쪽이야."
   }
  ],
  "synonyms": [],
@@ -65,7 +71,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/unauthorized.webp",
-  "alt": "선생님께 묻지 않고 동아리가 음악실에 들어가 연습함",
+  "alt": "과사무실에 묻지 않고 동아리가 빈 강의실에 들어가 연습함",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,38 +11,39 @@
  "word": "success",
  "slug": "success",
  "url": "https://hibbangyong.com/words/success/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "성공 — 하려던 걸 해낸 것",
  "gloss_ko": "성공",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "너 자전거 처음 탈 때 기억나? 몇 번이나 넘어졌잖아. 그러다 어느 날 안 넘어지고 쭉 갔어. 바로 그 순간이야.",
   "근데 잘 봐. 대단한 일만 그런 게 아니야. 라면을 안 태우고 딱 끓였어? 그것도 그거야. 하려던 걸 해낸 거니까.",
   "나쁜 일도 마찬가지야. 도둑이 몰래 담 넘기를 해냈으면, 그것도 그거라고 불러. 착한 일이라서가 아니라, 하려던 걸 해냈으니까.",
   "그냥 운 좋게 얻어걸린 거랑은 달라. 하려고 마음먹고 한 걸 해낸 것, 그게 success야."
  ],
+ "explanation_for_kids": null,
  "scene": "자전거를 처음으로 안 넘어지고 쭉 탄 순간",
  "examples": [
   {
-   "en": "After ten tries, opening the jar was a big success.",
-   "ko": "열 번이나 해 본 끝에 병뚜껑을 여는 데 크게 성공했어."
+   "en": "Our first event at the café was a big success.",
+   "ko": "카페에서 처음 연 행사가 대성공이었어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "형이 종이비행기를 창문 밖까지 날려 보내겠다고 여러 번 접었다 던졌어. 그러다 한 번은 정말 창문 밖으로 쭉 날아갔어. 이게 'success'야?",
+   "question": "친구가 종이비행기를 창문 밖까지 날려 보내겠다고 여러 번 접었다 던졌어. 그러다 한 번은 정말 창문 밖으로 쭉 날아갔어. 이게 'success'야?",
    "choices": [
     "응, success 맞아",
     "아니, success 아니야"
    ],
    "answer_index": 0,
    "answer": "응, success 맞아",
-   "why": "맞아! 형이 창문 밖까지 날려 보내겠다고 마음먹은 그 일을 진짜로 해냈잖아. 하려던 걸 해낸 거니까 바로 그게 success인 거야."
+   "why": "맞아! 친구가 창문 밖까지 날려 보내겠다고 마음먹은 그 일을 진짜로 해냈잖아. 하려던 걸 해낸 거니까 바로 그게 success인 거야."
   }
  ],
  "synonyms": [],

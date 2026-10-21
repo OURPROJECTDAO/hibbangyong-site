@@ -11,21 +11,27 @@
  "word": "correspondence",
  "slug": "correspondence",
  "url": "https://hibbangyong.com/words/correspondence/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "주고받는 편지(서신) — 사람이나 회사끼리 보내고 받는 편지·메일, 또는 그렇게 글을 주고받는 일",
  "gloss_ko": "주고받는 편지",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "회사 사무실엔 매일 편지랑 메일이 들어오고, 또 나가.",
+  "손님이 보낸 거, 회사가 답한 거, 이렇게 누군가에게 보내고 받는 글을 통틀어 correspondence라고 해. 글을 주고받는 일 자체를 말할 때도 있어.",
+  "손편지든 이메일이든, 친구끼리든 회사끼리든 다 들어가. 아직 답 못 한 편지가 쌓여 있어도 그것도 correspondence야.",
+  "근데 받을 사람 없이 쓴 일기나 모두에게 붙여 두는 공지문, 얼굴 보고 나눈 말은 아니야."
+ ],
+ "explanation_for_kids": [
   "학교 행정실엔 매일 편지랑 메일이 들어오고, 또 나가.",
   "학부모가 보낸 거, 학교가 답한 거, 이렇게 누군가에게 보내고 받는 글을 통틀어 correspondence라고 해. 글을 주고받는 일 자체를 말할 때도 있어.",
   "손편지든 이메일이든, 친구끼리든 회사끼리든 다 들어가. 아직 답 못 한 편지가 쌓여 있어도 그것도 correspondence야.",
   "근데 받을 사람 없이 쓴 일기나 모두에게 붙여 두는 공지문, 얼굴 보고 나눈 말은 아니야."
  ],
- "scene": "학교 행정실에 매일 들어오고 나가는 편지와 메일",
+ "scene": "회사 사무실에 매일 들어오고 나가는 편지와 메일",
  "examples": [
   {
    "en": "The company's correspondence with its customers is all saved on the computer.",
@@ -70,7 +76,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/correspondence.webp",
-  "alt": "학교 행정실에 매일 들어오고 나가는 편지와 메일",
+  "alt": "회사 사무실에 매일 들어오고 나가는 편지와 메일",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

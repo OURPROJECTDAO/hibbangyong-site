@@ -11,31 +11,32 @@
  "word": "bless",
  "slug": "bless",
  "url": "https://hibbangyong.com/words/bless/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "축복하다 — 남에게 좋은 일이 오기를 대신 빌어주다, 또는 큰 쪽이 좋은 것을 내려주다",
  "gloss_ko": "축복하다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "멀리 이사 가는 친구 손을 잡고 이렇게 말해. 가는 데서 아픈 일 없고 좋은 일만 있어라.",
   "잘했다고 칭찬하는 것도, 축하해주는 것도 아니야. 그건 이미 온 일이잖아. 이건 아직 안 온 좋은 일을 미리 빌어주는 거거든.",
   "하늘처럼 큰 쪽이 좋은 걸 내려줄 때도 이 말을 써. 저 애는 예쁜 목소리를 받았다, 이렇게.",
   "그게 bless야."
  ],
+ "explanation_for_kids": null,
  "scene": "멀리 이사 가는 친구 손 잡고 배웅하는 장면",
  "examples": [
   {
-   "en": "Grandma held my hand and blessed me before my long trip.",
-   "ko": "할머니는 내 긴 여행 전에 내 손을 잡고 축복해 주셨어."
+   "en": "My neighbor asked the priest to bless her new house.",
+   "ko": "우리 이웃이 신부님께 새집을 축복해 달라고 부탁했어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "짝꿍이 내 지우개를 말없이 가져갔어. 나는 조용히, 짝꿍이 내일 소풍에서 비를 맞고 하나도 재미없기를 빌었어. 이게 'bless'야?",
+   "question": "동료가 내 펜을 말없이 가져갔어. 나는 조용히, 동료가 내일 여행에서 비를 맞고 하나도 재미없기를 빌었어. 이게 'bless'야?",
    "choices": [
     "응, bless 맞아",
     "아니, bless 아니야"

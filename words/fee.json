@@ -11,20 +11,21 @@
  "word": "fee",
  "slug": "fee",
  "url": "https://hibbangyong.com/words/fee/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "요금(하게 해 준 대신 내는 돈) — 무엇을 하거나 쓰게 해 준 대신 내는 돈",
  "gloss_ko": "요금·내는 돈",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "놀이공원 들어가려면 문 앞에서 돈을 내잖아? 그게 fee야.",
   "들어가도 된다고, 써도 된다고, 해줘서 고맙다고 내는 돈이거든.",
   "물건을 사서 내 것으로 갖는 값이 아니라, 뭘 하게 해주거나 해줘서 내는 돈이야.",
   "잘못해서 벌로 내는 벌금은 fee가 아니야."
  ],
+ "explanation_for_kids": null,
  "scene": "놀이공원 문 앞에서 입장료를 내고 들어가는 장면",
  "examples": [
   {

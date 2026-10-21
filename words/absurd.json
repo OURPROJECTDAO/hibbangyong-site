@@ -11,21 +11,22 @@
  "word": "absurd",
  "slug": "absurd",
  "url": "https://hibbangyong.com/words/absurd/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "말도 안 되는 — 앞뒤가 하나도 안 맞아서 진지하게 받아들일 수 없을 만큼 엉터리인.",
  "gloss_ko": "말도 안 되는",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "누가 \"물을 불로 꺼 봐!\" 하면 어때?",
   "말이 안 되지? 앞뒤가 아예 안 맞잖아.",
   "꼭 웃긴 것만 그런 게 아니야. 억지스러운 규칙이나 너무 비싼 값도 그래.",
   "그렇게 앞뒤가 안 맞아서 진지하게 못 믿을 게 absurd야."
  ],
- "scene": "물을 불로 끄라는 앞뒤 안 맞는 말(child 앵커)",
+ "explanation_for_kids": null,
+ "scene": "물을 불로 끄라는 앞뒤 안 맞는 말",
  "examples": [
   {
    "en": "A fish wearing a suit to work? That's absurd!",
@@ -35,7 +36,7 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "체육 시간에 선생님이 공에 걸려 엉덩방아를 찧는 바람에 반 애들이 다 빵 터져서 웃었대. 이것도 'absurd'야?",
+   "question": "헬스장에서 트레이너가 공에 걸려 엉덩방아를 찧는 바람에 다들 빵 터져서 웃었대. 이것도 'absurd'야?",
    "choices": [
     "응, absurd 맞아",
     "아니, absurd 아니야"
@@ -66,7 +67,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/absurd.webp",
-  "alt": "물을 불로 끄라는 앞뒤 안 맞는 말(child 앵커)",
+  "alt": "물을 불로 끄라는 앞뒤 안 맞는 말",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,21 +11,22 @@
  "word": "relevant",
  "slug": "relevant",
  "url": "https://hibbangyong.com/words/relevant/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "관련 있는 — 지금 하는 얘기나 문제랑 딱 맞아떨어지는",
  "gloss_ko": "관련 있는",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "친구들이랑 강아지 얘기를 신나게 하고 있어.",
   "근데 누가 갑자기 '나 어제 피자 먹었어!' 하면? 어라, 지금 얘기랑 아무 상관없잖아.",
   "반대로 '강아지는 뼈다귀 좋아해' 하면? 오, 딱 지금 얘기에 맞지!",
   "이렇게 지금 하는 얘기나 문제에 딱 들어맞는 거, 그게 relevant야.",
   "꼭 중요하고 대단한 것만은 아니야. 작아도 지금 얘기에 맞으면 relevant거든."
  ],
+ "explanation_for_kids": null,
  "scene": "친구들과 강아지 얘기를 하는데 누가 피자 얘기를 꺼냄",
  "examples": [
   {

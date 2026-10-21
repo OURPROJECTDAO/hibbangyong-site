@@ -11,25 +11,26 @@
  "word": "battered",
  "slug": "battered",
  "url": "https://hibbangyong.com/words/battered/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "낡아 찌그러진 — 여러 번 부딪히거나 맞아서 여기저기 상하고 헌",
  "gloss_ko": "두들겨 맞아 낡은",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "아빠가 이십 년 들고 다닌 여행 가방, 모서리마다 찌그러지고 긁혀 있지? 수없이 던져지고 부딪히면서 조금씩 상한 거야.",
   "그렇게 맞고 부딪힌 흔적이 쌓여서 상한 상태가 battered야.",
   "그냥 오래된 거랑은 달라. 삼십 년 됐어도 흠 하나 없이 멀쩡하면 battered가 아니야.",
   "물건에만 쓰는 말도 아니야. 태풍에 계속 두들겨 맞은 마을, 자꾸 맞아서 다친 사람한테도 써."
  ],
+ "explanation_for_kids": null,
  "scene": "아빠가 이십 년 들고 다닌 찌그러진 여행 가방",
  "examples": [
   {
-   "en": "My dad still carries his battered suitcase on every trip.",
-   "ko": "우리 아빠는 아직도 여행 갈 때마다 그 찌그러지고 다 긁힌 가방을 들고 다녀."
+   "en": "My roommate still drives his battered old car to work.",
+   "ko": "내 룸메이트는 아직도 그 낡고 찌그러진 차를 몰고 출근해."
   }
  ],
  "quiz": [

@@ -11,31 +11,32 @@
  "word": "maternal",
  "slug": "maternal",
  "url": "https://hibbangyong.com/words/maternal/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "모성의 — 엄마가 아이를 아끼고 챙기는 것 같은 (엄마 쪽 가족을 말할 때도 써)",
  "gloss_ko": "모성의·엄마 쪽",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "아기가 열이 나면 엄마는 밤새 이마를 짚어 보잖아. 그렇게 아끼고 챙기는 마음 쪽이 maternal이야.",
   "진짜 엄마가 아니어도 돼. 열다섯 살 언니가 동생을 엄마처럼 돌봐도 maternal하다고 해.",
   "그냥 여자다운 거랑은 달라. 치마 입고 얌전한 건 상관없고, 누굴 품고 챙기느냐가 핵심이야.",
   "외할머니처럼 엄마 쪽 가족을 말할 때도 써. maternal grandmother 이렇게."
  ],
+ "explanation_for_kids": null,
  "scene": "아기가 열 나서 엄마가 밤새 이마를 짚어 봄",
  "examples": [
   {
-   "en": "My sister is only fifteen, but she is very maternal with our new puppy.",
-   "ko": "우리 언니는 겨우 열다섯 살인데 새로 온 강아지를 완전 엄마처럼 챙겨."
+   "en": "My roommate is very maternal with her new puppy.",
+   "ko": "내 룸메이트는 새로 온 강아지한테 모성애가 넘쳐."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "놀이터에서 여섯 살 조카가 넘어져 무릎이 까졌어. 고모가 얼른 조카를 안아 벤치에 앉히고, 상처에 연고를 발라 반창고를 붙여 준 뒤 울음이 그칠 때까지 등을 토닥여 줬어. 고모의 이런 태도가 'maternal'이야?",
+   "question": "공원에서 여섯 살 조카가 넘어져 무릎이 까졌어. 고모가 얼른 조카를 안아 벤치에 앉히고, 상처에 연고를 발라 반창고를 붙여 준 뒤 울음이 그칠 때까지 등을 토닥여 줬어. 고모의 이런 태도가 'maternal'이야?",
    "choices": [
     "응, maternal 맞아",
     "아니, maternal 아니야"

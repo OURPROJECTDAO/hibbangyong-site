@@ -11,25 +11,26 @@
  "word": "whole",
  "slug": "whole",
  "url": "https://hibbangyong.com/words/whole/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "전체의 — 일부가 아니라 처음부터 끝까지 빠짐없이 몽땅 다.",
  "gloss_ko": "전체의",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "피자가 딱 나왔어. 아직 한 조각도 안 뗐지?",
   "반쪽도 아니고 한 조각도 아니야. 처음부터 끝까지 전부 다야.",
   "일부만 있는 게 아니라, 몽땅 하나로 다 있는 거.",
   "이렇게 빠짐없이 전부인 게 whole이야."
  ],
+ "explanation_for_kids": null,
  "scene": "한 조각도 떼지 않은 통째 피자",
  "examples": [
   {
-   "en": "I ate the whole pizza by myself!",
-   "ko": "내가 혼자서 피자를 통째로 다 먹었어!"
+   "en": "My roommate ate the whole pizza by himself.",
+   "ko": "룸메이트가 피자 한 판을 혼자 다 먹었어."
   }
  ],
  "quiz": [

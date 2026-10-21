@@ -11,25 +11,26 @@
  "word": "tower",
  "slug": "tower",
  "url": "https://hibbangyong.com/words/tower/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "탑 — 좁고 높게 위로 쭉 솟은 건물이나 높이 세운 것.",
  "gloss_ko": "탑",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "저기 하늘 쪽으로 좁고 높게 쭉 솟은 거 보여?",
   "옆으로 퍼진 넓적한 건물이 아니라, 위로 길쭉하게 올라간 거야.",
   "성 꼭대기에도 있고, 시계가 큼직하게 달린 것도 있고, 물을 담아 두는 것도 그래.",
   "그게 tower야."
  ],
+ "explanation_for_kids": null,
  "scene": "하늘로 좁고 높게 솟은 것을 올려다보기",
  "examples": [
   {
-   "en": "We climbed all the way up the tower to look down at the tiny cars.",
-   "ko": "우리는 탑 꼭대기까지 쭉 올라가서 작게 보이는 자동차들을 내려다봤어."
+   "en": "We took the elevator to the top of the tower on our trip.",
+   "ko": "여행 가서 우리는 엘리베이터를 타고 탑 꼭대기까지 올라갔어."
   }
  ],
  "quiz": [

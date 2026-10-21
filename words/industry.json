@@ -11,21 +11,22 @@
  "word": "industry",
  "slug": "industry",
  "url": "https://hibbangyong.com/words/industry/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "산업 — 같은 걸 만들거나 파는 회사들을 다 묶은 큰 무리",
  "gloss_ko": "산업",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "장난감 만드는 회사가 세상에 딱 하나일 것 같지? 아니야, 수백 개거든.",
   "그 수백 개 회사를 전부 한 덩어리로 뭉쳐서 부를 때가 있어.",
   "자동차 만드는 회사들 다 뭉치면 자동차 쪽, 여행 보내 주는 회사들 다 뭉치면 여행 쪽.",
   "이렇게 같은 일 하는 회사들을 통째로 묶은 게 industry야."
  ],
- "scene": "장난감 만드는 회사가 세상에 수백 개인 상황 (child 앵커)",
+ "explanation_for_kids": null,
+ "scene": "장난감 만드는 회사가 세상에 수백 개인 상황",
  "examples": [
   {
    "en": "The toy industry makes thousands of new toys every year.",
@@ -65,7 +66,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/industry.webp",
-  "alt": "장난감 만드는 회사가 세상에 수백 개인 상황 (child 앵커)",
+  "alt": "장난감 만드는 회사가 세상에 수백 개인 상황",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

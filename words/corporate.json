@@ -11,18 +11,21 @@
  "word": "corporate",
  "slug": "corporate",
  "url": "https://hibbangyong.com/words/corporate/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "회사의 — 사람 여럿이 모여 만든 큰 회사에 딸리거나 관한",
  "gloss_ko": "회사의",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "큰 회사 하나에 딸리거나 관한 거를 corporate라고 해.\n회사가 정한 규칙, 회사 로고가 박힌 건물, 회사가 다 같이 내린 결정, 그런 게 다 corporate야.\n한 사람 게 아니라 회사 전체 거, 그게 corporate야."
+ ],
+ "explanation_for_kids": [
   "엄마 아빠가 다니는 큰 회사, 사람이 몇백 명씩 한 건물에 모여서 같이 일하는 데 있잖아?\n그 큰 회사 하나에 딸린 거를 corporate라고 해.\n회사가 정한 규칙, 회사 로고가 박힌 건물, 회사가 다 같이 내린 결정, 그런 게 다 corporate야.\n한 사람 게 아니라 회사 전체 거, 그게 corporate야."
  ],
- "scene": "엄마 아빠가 다니는, 몇백 명이 한 건물에 모여 일하는 큰 회사",
+ "scene": "몇백 명이 한 건물에 모여 일하는 큰 회사",
  "examples": [
   {
    "en": "My mom works in a big corporate office downtown.",
@@ -52,7 +55,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/corporate.webp",
-  "alt": "엄마 아빠가 다니는, 몇백 명이 한 건물에 모여 일하는 큰 회사",
+  "alt": "몇백 명이 한 건물에 모여 일하는 큰 회사",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

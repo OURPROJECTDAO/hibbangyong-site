@@ -11,23 +11,27 @@
  "word": "motor",
  "slug": "motor",
  "url": "https://hibbangyong.com/words/motor/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "모터/전동기 — 전기를 받아 축을 빙글빙글 돌려 기계를 움직이게 하는 장치",
  "gloss_ko": "모터/전동기",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "그림 속 은색 원통은 모터예요. 전선으로 전기가 들어오면 앞에 튀어나온 축이 빙글빙글 돌아요.",
+  "전동 킥보드나 선풍기 안에도 이런 모터가 들어 있어서 바퀴와 날개가 돌아가요."
+ ],
+ "explanation_for_kids": [
   "그림 속 은색 원통은 모터예요. 전선으로 전기가 들어오면 앞에 튀어나온 축이 빙글빙글 돌아요.",
   "장난감 자동차나 선풍기 안에도 이런 모터가 들어 있어서 바퀴와 날개가 돌아가요."
  ],
  "scene": "전형적인 소형 전기 모터 한 개 — 은색 원통형 몸체에 앞으로 튀어나온 회전축과 구리 코일, 빨강·검정 전선 두 가닥이 달린 모습(motor=모터/전동기)",
  "examples": [
   {
-   "en": "The toy car stopped moving because its motor ran out of battery.",
-   "ko": "장난감 자동차는 모터 배터리가 다 돼서 멈춰 버렸어."
+   "en": "The fan stopped working because the motor broke.",
+   "ko": "모터가 고장 나서 선풍기가 멈췄어."
   }
  ],
  "quiz": [

@@ -11,38 +11,44 @@
  "word": "conjunction",
  "slug": "conjunction",
  "url": "https://hibbangyong.com/words/conjunction/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "함께 짝지어 움직임(연계) — 둘 이상이 짝을 지어 함께 움직이거나 함께 쓰이는 것 (in conjunction with: ~와 함께 / 문법에선 and·but 같은 '접속사')",
  "gloss_ko": "함께 맞물림",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "대학 축제를 올해는 구청이랑 같이 열었어. 따로 하던 두 행사를 나란히 붙여서 한 번에 돌린 거지.",
+  "conjunction은 이렇게 둘 이상이 각자 모습은 그대로인 채 같이 맞물려 돌아가는 거야.",
+  "꼭 좋은 일일 필요는 없어. 비랑 강풍이 겹쳐서 피해가 커진 것도 이 말로 써.",
+  "하나로 섞여서 새것이 되는 거랑은 달라. 문법의 접속사(and, but)도 이 말인데, 두 말을 이어서 나란히 가게 하니까 그래."
+ ],
+ "explanation_for_kids": [
   "학교 축제를 올해는 구청이랑 같이 열었어. 따로 하던 두 행사를 나란히 붙여서 한 번에 돌린 거지.",
   "conjunction은 이렇게 둘 이상이 각자 모습은 그대로인 채 같이 맞물려 돌아가는 거야.",
   "꼭 좋은 일일 필요는 없어. 비랑 강풍이 겹쳐서 피해가 커진 것도 이 말로 써.",
   "하나로 섞여서 새것이 되는 거랑은 달라. 문법의 접속사(and, but)도 이 말인데, 두 말을 이어서 나란히 가게 하니까 그래."
  ],
- "scene": "학교 축제를 구청과 함께 연 것",
+ "scene": "대학 축제를 구청과 함께 연 것",
  "examples": [
   {
-   "en": "Our school festival was held in conjunction with the city library this year.",
-   "ko": "올해 우리 학교 축제는 시립 도서관이랑 같이 열렸어."
+   "en": "Our college festival was held in conjunction with the city library this year.",
+   "ko": "올해 우리 대학 축제는 시립 도서관이랑 같이 열렸어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "과학 발표 시간에 민재는 PPT 화면을 띄워 설명하면서, 직접 만든 화산 모형도 같이 보여줬어. 화면과 모형은 그대로 따로 있고, 발표 내내 둘을 나란히 함께 썼지. 화면과 모형이 이렇게 쓰인 걸 'conjunction'이라고 할 수 있을까?",
+   "question": "회사 발표에서 민재는 PPT 화면을 띄워 설명하면서, 직접 만든 제품 모형도 같이 보여줬어. 화면과 모형은 그대로 따로 있고, 발표 내내 둘을 나란히 함께 썼지. 화면과 모형이 이렇게 쓰인 걸 'conjunction'이라고 할 수 있을까?",
    "choices": [
     "응, conjunction 맞아",
     "아니, conjunction 아니야"
    ],
    "answer_index": 0,
    "answer": "응, conjunction 맞아",
-   "why": "맞아! 민재는 PPT 화면이랑 화산 모형을 하나로 합치지 않고 각자 그대로 둔 채, 발표 내내 나란히 같이 썼잖아. 따로인 둘이 함께 맞물려 돌아간 거니까 바로 conjunction이야."
+   "why": "맞아! 민재는 PPT 화면이랑 제품 모형을 하나로 합치지 않고 각자 그대로 둔 채, 발표 내내 나란히 같이 썼잖아. 따로인 둘이 함께 맞물려 돌아간 거니까 바로 conjunction이야."
   }
  ],
  "synonyms": [],
@@ -55,7 +61,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/conjunction.webp",
-  "alt": "학교 축제를 구청과 함께 연 것",
+  "alt": "대학 축제를 구청과 함께 연 것",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

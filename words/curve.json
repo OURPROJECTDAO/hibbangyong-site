@@ -11,15 +11,21 @@
  "word": "curve",
  "slug": "curve",
  "url": "https://hibbangyong.com/words/curve/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "곡선 — 곧게 가지 않고 둥글게 휘어진 선이나 모양",
  "gloss_ko": "휘어진 선",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "바나나를 옆에서 봐봐. 곧지 않고 스르륵 휘어 있지?",
+  "무지개도, 아치형 문도, 길이 돌아가는 데도 다 그래.",
+  "자로 그은 쭉 곧은 선이랑은 달라. 딱 꺾인 모서리랑도 다르고.",
+  "부드럽게 둥글게 휘어진 선, 그게 curve야."
+ ],
+ "explanation_for_kids": [
   "바나나를 옆에서 봐봐. 곧지 않고 스르륵 휘어 있지?",
   "무지개도, 미끄럼틀 끝도, 길이 돌아가는 데도 다 그래.",
   "자로 그은 쭉 곧은 선이랑은 달라. 딱 꺾인 모서리랑도 다르고.",
@@ -28,21 +34,21 @@
  "scene": "옆에서 본 바나나의 휜 모양",
  "examples": [
   {
-   "en": "The road has a big curve near the lake.",
-   "ko": "호숫가 쪽에서 길이 크게 휘어져."
+   "en": "Slow down, there's a sharp curve ahead.",
+   "ko": "속도 줄여, 앞에 길이 확 꺾여."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "선생님이 칠판에 자를 대고 선을 쭉 그었어. 그 선, 이게 'curve'야?",
+   "question": "교수님이 칠판에 자를 대고 선을 쭉 그었어. 그 선, 이게 'curve'야?",
    "choices": [
     "응, curve 맞아",
     "아니, curve 아니야"
    ],
    "answer_index": 1,
    "answer": "아니, curve 아니야",
-   "why": "잘 골랐어! 선생님이 자를 대고 쭉 그은 선은 휘지 않고 곧게 뻗어 있거든. 그래서 이 선은 curve가 아닌 거야."
+   "why": "잘 골랐어! 교수님이 자를 대고 쭉 그은 선은 휘지 않고 곧게 뻗어 있거든. 그래서 이 선은 curve가 아닌 거야."
   }
  ],
  "synonyms": [],

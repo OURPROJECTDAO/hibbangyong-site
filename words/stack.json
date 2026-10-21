@@ -11,25 +11,26 @@
  "word": "stack",
  "slug": "stack",
  "url": "https://hibbangyong.com/words/stack/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "위로 하나씩 포개 올린 한 덩어리",
  "gloss_ko": "포개 올린 더미",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "설거지한 접시, 하나 위에 또 하나 차곡차곡 포개 올리잖아?",
   "그렇게 위로 포개 올린 한 덩어리를 말해.",
   "옆으로 늘어놓거나 펼친 게 아니라, 위로 하나씩 올린 거거든.",
   "두 개든 열 개든, 위로 포개지면 그게 stack이야."
  ],
+ "explanation_for_kids": null,
  "scene": "접시를 하나씩 포개 위로 올린 한 더미.",
  "examples": [
   {
-   "en": "There is a tall stack of books on my desk.",
-   "ko": "내 책상 위엔 책이 높이 쌓여 있어."
+   "en": "There's a tall stack of plates by the sink at the café.",
+   "ko": "카페 싱크대 옆에 접시가 높이 쌓여 있어."
   }
  ],
  "quiz": [

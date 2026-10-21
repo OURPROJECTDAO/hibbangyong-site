@@ -11,25 +11,26 @@
  "word": "rapid",
  "slug": "rapid",
  "url": "https://hibbangyong.com/words/rapid/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "빠른 — 특히 짧은 사이에 일이 진행되거나 확 달라지는",
  "gloss_ko": "빠른",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "쨍쨍한 날에 아이스크림 들고 있어 봐. 방금까지 멀쩡했는데, 어느새 손등까지 주르륵이야.",
   "이렇게 짧은 사이에 일이 확 달라지는 걸 rapid라고 해.",
   "좋게 바뀌든 나쁘게 바뀌든 상관없어. 쑥쑥 크는 키도, 훅 나빠지는 날씨도 rapid거든?",
   "근데 쌩 달리는 자전거한테는 잘 안 써. 그건 fast야. 일이 짧은 사이에 몰아치는 것, 그게 rapid야."
  ],
+ "explanation_for_kids": null,
  "scene": "쨍쨍한 날 손에 든 아이스크림이 순식간에 녹아 흐르는 장면",
  "examples": [
   {
-   "en": "My ice cream melted at a rapid speed in the hot sun.",
-   "ko": "뜨거운 햇볕에 아이스크림이 눈 깜짝할 새 빠르게 녹아 버렸어."
+   "en": "My ice cream melted at a rapid pace in the hot sun.",
+   "ko": "뜨거운 햇볕에 아이스크림이 순식간에 녹아 버렸어."
   }
  ],
  "quiz": [
@@ -42,7 +43,7 @@
    ],
    "answer_index": 0,
    "answer": "응, rapid 맞아",
-   "why": "맞아! 어제 저녁엔 흙만 있었는데 오늘 아침에 새싹이 뿅 올라왔잖아. 하룻밤이라는 짧은 사이에 화단이 확 달라진 거니까 딱 rapid야."
+   "why": "맞아! 어제 저녁엔 흙만 있었는데 오늘 아침에 새싹이 쏙 올라왔잖아. 하룻밤이라는 짧은 사이에 화단이 확 달라진 거니까 딱 rapid야."
   }
  ],
  "synonyms": [],

@@ -11,15 +11,21 @@
  "word": "sneak",
  "slug": "sneak",
  "url": "https://hibbangyong.com/words/sneak/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "들키지 않게 몰래 하다 — 살금살금 움직이거나 슬쩍 가져가거나 훔쳐보는 것",
  "gloss_ko": "들키지 않게 몰래 하다",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "자야 하는데 배고파. 부엌에 과자가 있거든.",
+  "발소리 안 나게, 아무도 못 보게 살금~ 가서 과자를 가져왔어.",
+  "걷는 것만 sneak가 아니야. 몰래 훔쳐보는 것도, 슬쩍 가져오는 것도 다 그래.",
+  "들키면 안 되니까 안 들키게 하는 것, 그게 sneak야."
+ ],
+ "explanation_for_kids": [
   "자라고 했는데 배고파. 부엌에 과자가 있거든.",
   "발소리 안 나게, 아무도 못 보게 살금~ 가서 과자를 가져왔어.",
   "걷는 것만 sneak가 아니야. 몰래 훔쳐보는 것도, 슬쩍 가져오는 것도 다 그래.",
@@ -28,21 +34,21 @@
  "scene": "밤에 부엌으로 살금 가서 과자를 가져오는 장면",
  "examples": [
   {
-   "en": "I tried to sneak out of my room without making a sound.",
-   "ko": "나는 소리 안 나게 방에서 몰래 빠져나가려고 했어."
+   "en": "I tried to sneak out of the meeting without a sound.",
+   "ko": "소리 안 내고 회의에서 몰래 빠져나가려고 했어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "수업 시간에 지호가 뒷자리 친구에게 쪽지를 건넸어. 선생님이 못 보게 책상 밑으로 손을 내려서 건넸어. 이거 'sneak'한 거야?",
+   "question": "강의 시간에 지호가 교수님이 못 보게 책상 밑으로 손을 내려서 뒷자리 친구에게 쪽지를 건넸어. 이거 'sneak'한 거야?",
    "choices": [
     "응, sneak 맞아",
     "아니, sneak 아니야"
    ],
    "answer_index": 0,
    "answer": "응, sneak 맞아",
-   "why": "맞아! 선생님이 못 보게 책상 밑으로 손을 내린 거잖아. 안 들키게 하려고 그렇게 한 거니까 바로 그게 sneak인 거야."
+   "why": "맞아! 교수님이 못 보게 책상 밑으로 손을 내린 거잖아. 안 들키게 하려고 그렇게 한 거니까 바로 그게 sneak인 거야."
   }
  ],
  "synonyms": [

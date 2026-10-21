@@ -11,20 +11,21 @@
  "word": "silent",
  "slug": "silent",
  "url": "https://hibbangyong.com/words/silent/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "소리를 하나도 안 내는 — 작게 내는 게 아니라 아예 안 내는",
  "gloss_ko": "소리를 하나도 안 내는",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "고양이가 뒤에서 스윽 걸어왔는데, 발소리가 하나도 안 났어.",
   "움직이는데도 소리는 0이야. 작게 난 게 아니라, 처음부터 안 난 거.",
   "가만히 있는 거랑은 달라. 냉장고는 꼼짝 안 해도 웅웅거리잖아? 그건 아니야.",
   "사람이든 물건이든 글자든, 자기한테서 나오는 소리가 0이면, 그게 silent야."
  ],
+ "explanation_for_kids": null,
  "scene": "뒤에서 걸어온 고양이, 발소리가 하나도 안 난 순간",
  "examples": [
   {
@@ -35,7 +36,7 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "놀이터에서 예나가 응원 나팔을 힘껏 불었어. 그 나팔은 silent였을까?",
+   "question": "야구장에서 예나가 응원 나팔을 힘껏 불었어. 그 나팔은 silent였을까?",
    "choices": [
     "응, silent 맞아",
     "아니, silent 아니야"

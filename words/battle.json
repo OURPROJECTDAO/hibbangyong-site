@@ -11,25 +11,26 @@
  "word": "battle",
  "slug": "battle",
  "url": "https://hibbangyong.com/words/battle/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "싸움 — 그냥 티격태격이 아니라, 이길 때까지 온 힘으로 오래 맞붙는 큰 싸움",
  "gloss_ko": "싸움",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "줄다리기 해봤지? 양쪽이 이 악물고 줄을 끝까지 잡아당기잖아. 한쪽이 넘어갈 때까지 안 끝나.",
   "battle은 그렇게 판가름 날 때까지 온 힘으로 맞붙는 큰 싸움이야.",
   "칼 들고 맞붙는 옛날 싸움만 battle인 건 아니야. 몇 달 동안 아픈 병이랑 버티며 싸우는 것도 battle이라고 해.",
   "툭 한마디 쏘고 마는 말다툼이랑은 완전히 다르지? 그게 battle이야."
  ],
+ "explanation_for_kids": null,
  "scene": "줄다리기에서 양편이 넘어갈 때까지 끝까지 잡아당기는 장면",
  "examples": [
   {
-   "en": "Our class had a big snowball battle in the playground.",
-   "ko": "우리 반은 운동장에서 커다란 눈싸움 대결을 벌였어."
+   "en": "Getting my landlord to fix the heater was a long battle.",
+   "ko": "집주인한테 히터를 고치게 하는 건 정말 긴 싸움이었어."
   }
  ],
  "quiz": [

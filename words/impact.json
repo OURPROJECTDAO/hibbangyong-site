@@ -11,38 +11,39 @@
  "word": "impact",
  "slug": "impact",
  "url": "https://hibbangyong.com/words/impact/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "영향 — 어떤 일이 다른 것을 크게 바꿔 놓는 힘",
  "gloss_ko": "영향",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "돌 하나가 연못에 퐁당 떨어졌어.",
   "근데 그 자리만 출렁이는 게 아니라 물결이 저 끝까지 쫙 퍼지지? 딱 부딪힌 힘이 멀리멀리 바꿔 놓는 거야.",
   "꼭 쾅 부딪히는 것만은 아니야. 소식이나 일 하나가 사람들 마음을 확 흔들어 놓을 때도 써.",
   "그렇게 뭔가가 다른 것에 크게 남기는 자국, 그게 impact야."
  ],
+ "explanation_for_kids": null,
  "scene": "돌이 연못에 떨어져 물결이 끝까지 퍼지는 장면",
  "examples": [
   {
-   "en": "The storm had a big impact on our town.",
-   "ko": "폭풍 하나가 우리 동네를 완전 뒤집어 놨어."
+   "en": "My new job had a big impact on my sleep.",
+   "ko": "새 직장 때문에 잠자는 게 확 달라졌어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "우리 반에 새 친구가 온 뒤로 반 분위기가 확 밝아지고 다들 더 잘 웃게 됐어. 친구가 '새 친구가 우리 반에 큰 impact를 줬어'라고 했어. 이 말이 맞을까?",
+   "question": "우리 팀에 새 동료가 온 뒤로 팀 분위기가 확 밝아지고 다들 더 잘 웃게 됐어. 친구가 '새 동료가 우리 팀에 큰 impact를 줬어'라고 했어. 이 말이 맞을까?",
    "choices": [
     "응, impact 맞아.",
     "아니, impact 아니야."
    ],
    "answer_index": 0,
    "answer": "응, impact 맞아.",
-   "why": "맞아! 새 친구가 온 뒤로 반 분위기가 확 밝아지고 다들 더 잘 웃게 됐잖아. 새 친구 한 명이 반 전체를 이렇게 크게 바꿔 놓았으니까, 바로 그게 impact인 거야."
+   "why": "맞아! 새 동료가 온 뒤로 팀 분위기가 확 밝아지고 다들 더 잘 웃게 됐잖아. 새 동료 한 명이 팀 전체를 이렇게 크게 바꿔 놓았으니까, 바로 그게 impact인 거야."
   }
  ],
  "synonyms": [],

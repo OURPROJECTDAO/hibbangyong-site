@@ -11,23 +11,24 @@
  "word": "lemon",
  "slug": "lemon",
  "url": "https://hibbangyong.com/words/lemon/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "레몬 — 노랗고 아주 신맛이 나는 둥근 과일",
  "gloss_ko": "레몬",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "이건 lemon이야. 껍질은 매끈한 노란색이고, 한 입 베어 물면 얼굴이 찡그려질 만큼 셔.",
   "주스나 물에 넣어 상큼한 맛을 더할 때 자주 쓰는 과일이야."
  ],
+ "explanation_for_kids": null,
  "scene": "밝은 노란색 레몬 한 개(과일 그 자체)를 화면 중앙에 크게, 전체가 다 보이게",
  "examples": [
   {
-   "en": "Mom squeezed a lemon into my cold water.",
-   "ko": "엄마가 내 찬물에 레몬을 꼭 짜 넣었어."
+   "en": "I squeezed a lemon into my cold water before work.",
+   "ko": "출근 전에 찬물에 레몬을 꼭 짜 넣었어."
   }
  ],
  "quiz": [

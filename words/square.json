@@ -11,25 +11,26 @@
  "word": "square",
  "slug": "square",
  "url": "https://hibbangyong.com/words/square/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "정사각형 — 네 변이 다 똑같고 모서리가 반듯한 네모. 또 그런 네모난 것·네모난 자리",
  "gloss_ko": "정사각형",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "창문 유리 한 장을 봐봐. 위아래 길이랑 옆 길이가 딱 같아. 모서리는 네 군데 다 반듯하게 꺾여 있고.",
   "이런 네모는 어디에나 있어. 초콜릿 한 조각, 화장실 바닥 타일 한 칸, 종이접기 색종이 한 장. 크기는 다 다르지만 '길이가 다 같은 네모'라는 건 똑같아.",
   "도시 한가운데에 건물들이 빙 둘러싸고 가운데가 네모나게 뻥 뚫린 자리가 있으면, 사람들은 그 자리도 이렇게 불러. 땅도 네모나면 그렇게 부르거든?",
   "옆으로 길쭉한 네모랑은 달라. 길쭉하면 square가 아니야. 네 변 길이가 다 같아야 square야."
  ],
+ "explanation_for_kids": null,
  "scene": "위아래·옆 길이가 똑같고 모서리가 반듯한 창문 유리 한 장",
  "examples": [
   {
-   "en": "My sandwich was cut into four small squares.",
-   "ko": "내 샌드위치는 작은 정사각형 네 조각으로 잘려 있었어."
+   "en": "I got a small square of chocolate with my coffee.",
+   "ko": "커피랑 같이 작은 네모난 초콜릿 한 조각을 받았어."
   }
  ],
  "quiz": [

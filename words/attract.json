@@ -11,15 +11,21 @@
  "word": "attract",
  "slug": "attract",
  "url": "https://hibbangyong.com/words/attract/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "끌어당기다 — 나는 제자리 그대로인데, 저쪽에 있던 것이나 눈길·마음이 이쪽으로 오게 만들다(반가운 것도, 아닌 것도)",
  "gloss_ko": "끌어당기다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "바닥에 과자 부스러기가 떨어졌어. 그냥 놔뒀는데 개미들이 줄줄이 기어와. 부스러기는 제자리 그대로인데 말이야.",
+  "부스러기가 개미를 데리러 간 게 아니거든? 저쪽에 있던 게 이쪽으로 온 거야.",
+  "몸이 오는 것만도 아니야. 자석이 못을 당기는 것도, 반짝이는 새 노트북에 사람들 눈길이 쏠리는 것도 똑같아.",
+  "반가운 것만 오지도 않아. 웅덩이엔 모기가 꼬이고, 시끄럽게 굴면 잔소리가 따라오잖아. 그게 attract야."
+ ],
+ "explanation_for_kids": [
   "바닥에 과자 부스러기가 떨어졌어. 그냥 놔뒀는데 개미들이 줄줄이 기어와. 부스러기는 제자리 그대로인데 말이야.",
   "부스러기가 개미를 데리러 간 게 아니거든? 저쪽에 있던 게 이쪽으로 온 거야.",
   "몸이 오는 것만도 아니야. 자석이 못을 당기는 것도, 반짝이는 새 필통에 애들 눈길이 쏠리는 것도 똑같아.",
@@ -28,8 +34,8 @@
  "scene": "바닥에 떨어진 과자 부스러기에 개미가 줄지어 기어오는 장면",
  "examples": [
   {
-   "en": "Our noisy game attracted a teacher who told us to be quiet.",
-   "ko": "시끄럽게 놀았더니 선생님이 그 소리에 끌려와서 조용히 하라고 했어."
+   "en": "Free samples always attract a crowd at the supermarket.",
+   "ko": "마트 시식 코너는 늘 사람들을 끌어모아."
   }
  ],
  "quiz": [

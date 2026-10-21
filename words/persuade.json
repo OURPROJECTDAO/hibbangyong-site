@@ -11,31 +11,37 @@
  "word": "persuade",
  "slug": "persuade",
  "url": "https://hibbangyong.com/words/persuade/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "말로 남의 마음을 돌려서 그렇게 하게 만들다",
  "gloss_ko": "말로 마음을 돌리게 하다",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "친구가 자꾸 말했어. 이게 더 재밌다고, 너도 해 보면 좋아할 거라고.",
+  "처음엔 싫었거든? 근데 듣다 보니 내 마음이 슬그머니 돌아섰어. 그래서 내가 하자고 했어.",
+  "붙잡고 억지로 끌고 간 게 아니야. 말로 마음을 돌린 거야. 좋은 쪽으로 돌릴 때도, 안 좋은 쪽으로 꾈 때도 똑같이 이래.",
+  "그게 persuade야."
+ ],
+ "explanation_for_kids": [
   "형이 자꾸 말했어. 이게 더 재밌다고, 너도 해 보면 좋아할 거라고.",
   "처음엔 싫었거든? 근데 듣다 보니 내 마음이 슬그머니 돌아섰어. 그래서 내가 하자고 했어.",
   "붙잡고 억지로 끌고 간 게 아니야. 말로 마음을 돌린 거야. 좋은 쪽으로 돌릴 때도, 안 좋은 쪽으로 꾈 때도 똑같이 이래.",
   "그게 persuade야."
  ],
- "scene": "형이 다른 놀이를 하자고 말해서 내 마음이 돌아선 상황",
+ "scene": "친구가 다른 걸 하자고 말해서 내 마음이 돌아선 상황",
  "examples": [
   {
-   "en": "My brother persuaded me to skip my homework, and then I got in trouble.",
-   "ko": "형이 숙제를 빼먹으라고 나를 설득해서 결국 혼났어."
+   "en": "My friend tried to persuade me to join her gym.",
+   "ko": "친구가 자기 헬스장에 같이 다니자고 나를 설득하려고 했어."
   }
  ],
  "quiz": [
   {
    "type": "choice",
-   "question": "네 아이가 각자 친구를 자기 쪽으로 오게 하려고 했어. 이 중에서 친구를 'persuade' 한 아이는 누구야?",
+   "question": "네 사람이 각자 친구를 자기 쪽으로 오게 하려고 했어. 이 중에서 친구를 'persuade' 한 사람은 누구야?",
    "choices": [
     "말 대신 팔을 붙잡고 끌고 갔더니, 친구가 어쩔 수 없이 따라왔어",
     "몇 번이나 말해 봤지만, 친구 마음은 끝까지 안 움직였어",
@@ -57,7 +63,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/persuade.webp",
-  "alt": "형이 다른 놀이를 하자고 말해서 내 마음이 돌아선 상황",
+  "alt": "친구가 다른 걸 하자고 말해서 내 마음이 돌아선 상황",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

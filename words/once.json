@@ -11,20 +11,21 @@
  "word": "once",
  "slug": "once",
  "url": "https://hibbangyong.com/words/once/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "한 번 — 두 번도 세 번도 아니고 딱 한 번.",
  "gloss_ko": "한 번",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "놀이공원에서 회전목마를 딱 한 번 탔어.",
   "두 번도 세 번도 아니고, 한 번.",
   "'나 그거 한 번 해봤어' 할 때 그 '한 번' 있잖아.",
   "그게 once야."
  ],
+ "explanation_for_kids": null,
  "scene": "놀이공원에서 회전목마를 딱 한 번 탄 장면",
  "examples": [
   {

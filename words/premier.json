@@ -11,20 +11,21 @@
  "word": "premier",
  "slug": "premier",
  "url": "https://hibbangyong.com/words/premier/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "최고의 — 같은 종류 여럿 가운데 가장 뛰어나고 중요한",
  "gloss_ko": "최고의",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "축구 리그에도 층이 있어. 1부, 2부, 3부 이렇게.",
   "그중 제일 위, 제일 잘하는 팀들만 모인 곳에 premier를 붙여.",
   "리그만 그런 거 아냐. 나라에서 으뜸가는 항구, 으뜸가는 대학에도 다 붙어.",
   "처음 열린다는 뜻도, 비싸고 화려하다는 뜻도 아냐. 여럿 중에 순위가 맨 앞이라는 거야."
  ],
+ "explanation_for_kids": null,
  "scene": "축구 리그 1부·2부·3부 중 맨 위 리그",
  "examples": [
   {

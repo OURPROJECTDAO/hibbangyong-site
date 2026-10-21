@@ -11,23 +11,24 @@
  "word": "jaw",
  "slug": "jaw",
  "url": "https://hibbangyong.com/words/jaw/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "턱 — 입 아래에서 벌어졌다 닫히는 뼈, 음식을 씹을 때 움직여",
  "gloss_ko": "턱",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "하마가 크게 벌린 아래쪽 입, 그 뼈 부분이 jaw예요.",
   "밥을 씹거나 하품할 때 위아래로 움직이는 곳이 바로 jaw예요."
  ],
- "scene": "귀여운 하마가 커다란 아래턱을 활짝 벌린 모습 — '턱(jaw)'을 아래턱의 여닫히는 구조로 그림",
+ "explanation_for_kids": null,
+ "scene": "귀여운 하마가 커다란 아래턱을 활짝 벌린 모습",
  "examples": [
   {
-   "en": "The hungry hippo opened its jaw wide.",
-   "ko": "배고픈 하마가 턱을 크게 쩍 벌렸어."
+   "en": "My jaw hurts from chewing gum all day.",
+   "ko": "하루 종일 껌을 씹었더니 턱이 아파."
   }
  ],
  "quiz": [
@@ -56,7 +57,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/jaw.webp",
-  "alt": "귀여운 하마가 커다란 아래턱을 활짝 벌린 모습 — '턱(jaw)'을 아래턱의 여닫히는 구조로 그림",
+  "alt": "귀여운 하마가 커다란 아래턱을 활짝 벌린 모습",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

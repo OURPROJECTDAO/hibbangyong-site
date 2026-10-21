@@ -11,25 +11,26 @@
  "word": "muscle",
  "slug": "muscle",
  "url": "https://hibbangyong.com/words/muscle/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "근육 — 몸을 움직이게 잡아당겨 주는, 살 속의 힘 덩어리.",
  "gloss_ko": "근육",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "팔을 딱 구부려 봐. 안쪽에서 뭔가 불룩 올라오지?",
   "그게 우리 몸을 움직이게 쭉 잡아당겨 주는 힘살이야.",
   "팔에만 있는 게 아니야. 다리에도, 웃을 때 얼굴에도 다 있어.",
   "네가 걷고 뛰고 웃는 건 다 이게 당겨 줘서 그래. 이게 muscle이야."
  ],
+ "explanation_for_kids": null,
  "scene": "팔을 구부리면 안쪽에서 불룩 올라오는 힘살",
  "examples": [
   {
-   "en": "When I run fast, my leg muscles start to hurt.",
-   "ko": "빨리 달리면 다리 근육이 아파 오기 시작해."
+   "en": "I pulled a muscle in my back moving boxes.",
+   "ko": "상자 옮기다가 등 근육이 결렸어."
   }
  ],
  "quiz": [

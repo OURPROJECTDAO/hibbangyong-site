@@ -11,20 +11,21 @@
  "word": "major",
  "slug": "major",
  "url": "https://hibbangyong.com/words/major/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "크고 중요한 — 여럿 중에서 제일 크고 중요한 쪽(작고 사소한 쪽의 반대)",
  "gloss_ko": "크고 중요한",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "길이 여러 개 있어. 좁은 골목길도 있고, 넓고 큼직한 큰길도 있지?",
   "그 큰길처럼 여럿 중에 제일 크고 중요한 거—그게 major야.",
   "작은 문제 말고 '큰 문제', 작은 일 말고 '큰일'. 좋은 쪽이든 나쁜 쪽이든 클 수 있어.",
   "헷갈리지 마. 숫자가 많다는 뜻이 아니야. 딱 하나여도 크고 중요하면 그게 major야."
  ],
+ "explanation_for_kids": null,
  "scene": "여럿 중 넓고 큰길(골목길과 대비)",
  "examples": [
   {

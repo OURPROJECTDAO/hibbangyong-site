@@ -11,25 +11,26 @@
  "word": "text",
  "slug": "text",
  "url": "https://hibbangyong.com/words/text/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "적혀 있는 글, 글자들",
  "gloss_ko": "적힌 글자들",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "책을 딱 펼쳤어. 강아지 그림 옆에, 까만 게 줄줄줄 적혀 있지?",
   "그게 '글'이야. 그림 보라는 게 아니라, 읽으라고 적어 둔 글자들 말이야.",
   "책에 찍혀 있든, 폰 화면에 떠 있든 똑같아 — 적혀 있으면 다 글이거든?",
   "그림도 아니고, 입으로 하는 말도 아니야. 그게 text야."
  ],
+ "explanation_for_kids": null,
  "scene": "책 한 장 — 강아지 그림 옆 까만 글자 줄, 그게 text. 책이든 폰 화면이든 적힌 글이면 다 text.",
  "examples": [
   {
-   "en": "I can read the text on the screen, even when it is very small.",
-   "ko": "화면의 글자가 아주 작아도 난 읽을 수 있어."
+   "en": "I can't read the text on my phone. It's too small.",
+   "ko": "폰 글자가 너무 작아서 못 읽겠어."
   }
  ],
  "quiz": [

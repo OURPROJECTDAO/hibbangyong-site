@@ -11,25 +11,26 @@
  "word": "prime",
  "slug": "prime",
  "url": "https://hibbangyong.com/words/prime/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "으뜸가는 — 여럿 중에 첫째로 꼽히는(좋은 쪽이든 나쁜 쪽이든)",
  "gloss_ko": "으뜸가는",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "저녁 여덟 시쯤엔 TV 앞에 사람이 제일 많이 모이잖아? 방송국이 하루 중 첫째로 치는 시간이라, 그 시간을 prime time이라고 불러.",
   "좋은 것만 첫째가 되는 건 아니야. 컵이 깨진 이유가 여럿인데 그중 제일 큰 하나, 그것도 prime 이유거든?",
   "덩치가 크대서도 아니고, 먼저 왔대서도 아니야. 어느 게 제일 중요한지 순서를 매겼을 때 맨 앞이라는 말이야.",
   "여럿 중에 딱 하나 첫째 자리, 그게 prime이야."
  ],
+ "explanation_for_kids": null,
  "scene": "저녁 여덟 시, TV 앞에 사람이 가장 많이 모이는 방송 시간",
  "examples": [
   {
-   "en": "Safety is the prime reason we walk in the hallway.",
-   "ko": "복도에서 뛰지 않고 걷는 으뜸가는 까닭은 안전이야."
+   "en": "Safety is the prime reason we don't run in the office hallway.",
+   "ko": "사무실 복도에서 뛰지 않는 가장 큰 이유는 안전이야."
   }
  ],
  "quiz": [

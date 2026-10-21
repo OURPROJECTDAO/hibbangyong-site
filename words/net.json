@@ -11,18 +11,19 @@
  "word": "net",
  "slug": "net",
  "url": "https://hibbangyong.com/words/net/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "그물 — 실을 엮어 만든, 물고기나 벌레를 잡는 것 (손잡이 달린 그물채도 net)",
  "gloss_ko": "그물",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "net은 실을 엮어 구멍이 송송 나게 만든 그물이에요. 물고기나 벌레를 잡을 때 써요.",
   "공원에서 나비를 잡는 그물채도, 배에서 물고기를 잡는 큰 그물도 모두 net이에요."
  ],
+ "explanation_for_kids": null,
  "scene": "잠자리채(손잡이 달린 그물채) 한 개를 그림 — 나무 손잡이 끝에 둥근 테와 촘촘한 그물망이 달린 전형적인 채",
  "examples": [
   {

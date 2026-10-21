@@ -11,25 +11,26 @@
  "word": "statewide",
  "slug": "statewide",
  "url": "https://hibbangyong.com/words/statewide/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "주(州) 전체에서 — 미국처럼 주로 나뉜 나라에서, 한 주 안의 모든 곳에 걸쳐",
  "gloss_ko": "주 전체에서",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "미국은 50개의 주로 나뉘어 있어. 캘리포니아, 텍사스 같은 거.",
   "statewide는 그 주 하나 안이라면 어디서나 다 그렇다는 뜻이야. 한 도시만 그런 게 아니고.",
   "근데 나라 전체는 아니야. 옆 주는 상관없어. 나라 전체면 nationwide라고 해.",
   "폭설이든 새 법이든 선거든, 주 하나를 통째로 덮으면 다 statewide야."
  ],
+ "explanation_for_kids": null,
  "scene": "미국 50개 주 지도(캘리포니아·텍사스)",
  "examples": [
   {
-   "en": "Schools will close statewide because of the snowstorm.",
-   "ko": "눈폭풍 때문에 주 전체 학교가 다 문 닫는대."
+   "en": "Gas prices went up statewide this week.",
+   "ko": "이번 주에 주 전체에서 기름값이 올랐어."
   }
  ],
  "quiz": [

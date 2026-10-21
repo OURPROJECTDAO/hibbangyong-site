@@ -11,25 +11,31 @@
  "word": "engine",
  "slug": "engine",
  "url": "https://hibbangyong.com/words/engine/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "엔진 — 힘을 만들어 뭔가를 움직이게 하는 부품",
  "gloss_ko": "엔진",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "마트 카트를 손으로 밀면 굴러가지? 그때 힘을 내는 건 네 손이야.",
+  "그런데 자동차는 아무도 안 미는데 혼자 달려. 안에서 힘을 만들어 내는 덩어리가 들어 있거든.",
+  "그 덩어리는 자동차에만 있는 게 아니야. 배 안에도 있고, 비행기에도 있고, 잔디 깎는 기계에도 있어. 심지어 고장 나서 힘을 하나도 못 내고 멈춰 있어도 그건 그대로 그 덩어리야.",
+  "그게 engine이야. 힘을 담아 두는 배터리 같은 게 아니라, 힘을 만들어 내는 그거."
+ ],
+ "explanation_for_kids": [
   "장난감 자동차 뒤를 손으로 밀면 굴러가지? 그때 힘을 내는 건 네 손이야.",
   "그런데 진짜 자동차는 아무도 안 미는데 혼자 달려. 안에서 힘을 만들어 내는 덩어리가 들어 있거든.",
   "그 덩어리는 자동차에만 있는 게 아니야. 배 안에도 있고, 비행기에도 있고, 잔디 깎는 기계에도 있어. 심지어 고장 나서 힘을 하나도 못 내고 멈춰 있어도 그건 그대로 그 덩어리야.",
   "그게 engine이야. 힘을 담아 두는 배터리 같은 게 아니라, 힘을 만들어 내는 그거."
  ],
- "scene": "장난감 자동차를 손으로 밀어 굴리는 장면",
+ "scene": "마트 카트를 손으로 밀어 굴리는 장면",
  "examples": [
   {
-   "en": "Dad opened the car and showed me the engine inside.",
-   "ko": "아빠가 자동차를 열어서 안에 있는 엔진을 보여 줬어."
+   "en": "My car's engine made a strange noise this morning.",
+   "ko": "오늘 아침에 내 차 엔진에서 이상한 소리가 났어."
   }
  ],
  "quiz": [
@@ -63,7 +69,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/engine.webp",
-  "alt": "장난감 자동차를 손으로 밀어 굴리는 장면",
+  "alt": "마트 카트를 손으로 밀어 굴리는 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

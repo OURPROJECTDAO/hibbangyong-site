@@ -11,23 +11,24 @@
  "word": "portrait",
  "slug": "portrait",
  "url": "https://hibbangyong.com/words/portrait/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "초상화 — 한 사람의 얼굴과 상반신을 그린 그림",
  "gloss_ko": "초상화",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "금색 액자 속에 있는 이 그림은 한 사람의 얼굴과 어깨까지를 그린 초상화예요.",
   "우리 집 거실이나 미술관 벽에서 사람 얼굴을 크게 그려 걸어 둔 그림을 본 적이 있을 거예요."
  ],
+ "explanation_for_kids": null,
  "scene": "이젤 위 액자에 담긴 소녀의 초상화 — 파란 원피스를 단정히 입고 미소 짓는 얼굴·어깨 구도, 옷 명확",
  "examples": [
   {
-   "en": "A famous painter made a portrait of the queen.",
-   "ko": "유명한 화가가 여왕의 초상화를 그렸어."
+   "en": "A street artist drew my portrait in ten minutes.",
+   "ko": "길거리 화가가 10분 만에 내 초상화를 그려 줬어."
   }
  ],
  "quiz": [

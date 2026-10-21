@@ -11,19 +11,20 @@
  "word": "period",
  "slug": "period",
  "url": "https://hibbangyong.com/words/period/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "기간 — 시작과 끝이 딱 정해진, 한 토막의 시간",
  "gloss_ko": "기간",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "달력에서 여름방학 첫날이랑 마지막날에 동그라미를 쳐 봐. 그 사이 쭉— 이어진 시간 덩어리, 그게 딱 한 토막이야.",
   "짧으면 쉬는 시간 10분도 한 토막, 길면 공룡이 살던 어마어마하게 긴 옛날도 한 토막이야.",
   "중요한 건 시작이 있고 끝이 있다는 거야. 그 사이를 뚝 잘라낸 시간 토막, 이게 period야."
  ],
+ "explanation_for_kids": null,
  "scene": "달력에 여름방학 첫날·마지막날 동그라미 친 그 사이 한 토막",
  "examples": [
   {

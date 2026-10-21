@@ -11,15 +11,21 @@
  "word": "coal",
  "slug": "coal",
  "url": "https://hibbangyong.com/words/coal/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "석탄 — 땅속에서 캐낸 검고 단단한 돌인데, 불에 넣으면 오래 뜨겁게 타서 열을 내",
  "gloss_ko": "석탄",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "땅속 깊은 곳에서 캐내는 새까맣고 단단한 돌이 있어.",
+  "이 돌은 불에 넣으면 아주 오래 뜨겁게 타거든.",
+  "그래서 옛날 사람들은 이걸로 추운 방도 데우고 기차도 움직였어.",
+  "그게 coal이야."
+ ],
+ "explanation_for_kids": [
   "땅속 깊은 곳에서 캐내는 새까맣고 단단한 돌이 있어.",
   "이 돌은 불에 넣으면 아주 오래오래 뜨겁게 타거든.",
   "그래서 옛날 사람들은 이걸로 추운 방도 데우고 기차도 움직였어.",
@@ -28,14 +34,14 @@
  "scene": "땅속에서 캐낸 검은 돌이 불 속에서 오래 타는 장면",
  "examples": [
   {
-   "en": "Grandpa put more coal on the fire to keep the room warm.",
-   "ko": "할아버지가 방을 따뜻하게 하려고 불에 석탄을 더 넣었어."
+   "en": "This old train still runs on coal.",
+   "ko": "이 오래된 기차는 아직도 석탄으로 달려."
   }
  ],
  "quiz": [
   {
    "type": "choice",
-   "question": "선생님이 상자에서 물건을 하나씩 꺼내며 이름을 알려 줬어. 다음 중 'coal'은 어떤 거야?",
+   "question": "친구가 상자에서 물건을 하나씩 꺼내며 이름을 알려 줬어. 다음 중 'coal'은 어떤 거야?",
    "choices": [
     "유리컵에 담긴, 차갑고 하얀 우유",
     "발에 신는, 파랗고 긴 고무 장화",

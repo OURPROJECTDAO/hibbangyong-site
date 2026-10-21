@@ -11,31 +11,32 @@
  "word": "fear",
  "slug": "fear",
  "url": "https://hibbangyong.com/words/fear/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "무서워하다 — 나쁜 일이 생길 것 같아 겁내다",
  "gloss_ko": "무서워하다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "밤에 불 끄고 누우면, 방엔 아무것도 없는데 마음이 먼저 오그라들 때 있지?",
   "나쁜 일이 생길 것 같다는 생각이 들면 그 마음이 딱 올라와.",
   "깜짝 놀라 몸이 튀는 거랑은 달라. 그건 그냥 갑작스러워서 튄 거고, 이건 '안 좋은 일이 올까 봐' 하는 마음이거든.",
   "잠깐이든 한참이든, 큰 개든 캄캄한 방이든 내일 있을 일이든 다 될 수 있어. 그게 fear야."
  ],
+ "explanation_for_kids": null,
  "scene": "밤에 불 끄고 누웠을 때 아무것도 없는데 마음이 먼저 오그라드는 순간",
  "examples": [
   {
-   "en": "I fear that the storm will break our little tent.",
-   "ko": "폭풍이 우리 작은 텐트를 부술까 봐 무서워."
+   "en": "I fear the rain will ruin our trip tomorrow.",
+   "ko": "내일 비 때문에 여행을 망칠까 봐 무서워."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "수영장에서 형이 깊은 쪽으로 뛰어들자고 했어. 동생은 물이 자기 키보다 깊다는 걸 알고, 빠질 것 같은 생각이 들어서 발을 물에 못 담그고 계단 앞에 서 있어. 동생은 지금 깊은 물을 'fear'하고 있는 걸까?",
+   "question": "수영장에서 친구가 깊은 쪽으로 뛰어들자고 했어. 민지는 물이 자기 키보다 깊다는 걸 알고, 빠질 것 같은 생각이 들어서 발을 물에 못 담그고 계단 앞에 서 있어. 민지는 지금 깊은 물을 'fear'하고 있는 걸까?",
    "choices": [
     "응, fear 맞아",
     "아니, fear 아니야"

@@ -11,25 +11,26 @@
  "word": "neglect",
  "slug": "neglect",
  "url": "https://hibbangyong.com/words/neglect/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "돌봐야 할 걸 계속 안 돌보고 내버려 두는 것",
  "gloss_ko": "돌봐야 할 걸 내버려 둠",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "마당에 자전거 한 대가 몇 달째 그대로 서 있어. 비 맞고 흙 묻고 바퀴는 푹 꺼졌어.",
   "누가 부순 게 아니야. 챙겨야 할 사람이 계속 안 챙긴 거지.",
   "한 번 깜빡한 거랑은 달라. 미워서 그런 것도 아니야. 그냥 손을 놓아버린 거야. 강아지도, 이빨도, 내 몸도 이렇게 될 수 있거든?",
   "돌봐야 할 걸 안 돌보고 놔두는 거, 그게 neglect야."
  ],
+ "explanation_for_kids": null,
  "scene": "마당에 몇 달째 세워둔 채 녹슬고 바퀴 꺼진 자전거",
  "examples": [
   {
-   "en": "Our class plant died from neglect, not from cold weather.",
-   "ko": "우리 반 화분은 추위 때문이 아니라 아무도 안 돌봐서 죽었어."
+   "en": "The plants in our office died from neglect, not the cold.",
+   "ko": "사무실 화분들은 추위 때문이 아니라 아무도 안 돌봐서 죽었어."
   }
  ],
  "quiz": [

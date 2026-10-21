@@ -11,31 +11,32 @@
  "word": "abroad",
  "slug": "abroad",
  "url": "https://hibbangyong.com/words/abroad/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "외국에서·외국으로 — 자기 나라를 벗어나 다른 나라에 (있다·간다)",
  "gloss_ko": "우리나라 밖",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "지도 보면 우리나라 둘레에 선이 빙 둘러 그려져 있지? 그 선 밖, 다른 나라 땅에 있으면 abroad야.",
   "놀러 간 거든, 살러 간 거든, 일하러 간 거든 상관없어. 나라만 바뀌면 다 abroad야.",
   "근데 우리나라 안에서는 기차를 열 시간 타고 끝까지 가도 abroad가 아니야. 멀리 간 거지 선을 안 넘었거든.",
   "선 하나 넘었나 안 넘었나, 그것만 봐. 그게 abroad야."
  ],
+ "explanation_for_kids": null,
  "scene": "지도 위 우리나라를 빙 두른 선과 그 바깥 땅",
  "examples": [
   {
-   "en": "My aunt lives abroad, so I only see her once a year.",
-   "ko": "이모는 외국에서 살아서 일 년에 한 번밖에 못 봐."
+   "en": "I want to work abroad for a year after college.",
+   "ko": "대학 졸업하고 일 년 동안 외국에서 일해 보고 싶어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "우리 반 지호가 방학에 비행기를 타고 일본에 가서 일주일 동안 지내다 왔대. 지호는 그때 'abroad'에 있었던 걸까?",
+   "question": "친구 지호가 방학에 비행기를 타고 일본에 가서 일주일 동안 지내다 왔대. 지호는 그때 'abroad'에 있었던 걸까?",
    "choices": [
     "응, abroad 맞아",
     "아니, abroad 아니야"

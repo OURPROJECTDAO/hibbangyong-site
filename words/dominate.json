@@ -11,21 +11,27 @@
  "word": "dominate",
  "slug": "dominate",
  "url": "https://hibbangyong.com/words/dominate/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "제일 세서 그 자리를 통째로 차지하다 — 나머지는 눌려서 잘 안 보일 만큼",
  "gloss_ko": "제일 세서 통째로 차지하다",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "쉬는 시간에 한 명 목소리만 쩌렁쩌렁해. 다른 사람들도 말하고 있는데 안 들려. 그 목소리가 강의실을 통째로 차지한 거야.",
+  "싸워서 이긴 거냐고? 아니. 겨루지도 않았어. 그냥 제일 세서 나머지가 밀린 거야.",
+  "그림도 그래. 빨강을 너무 많이 칠하면 파랑이 있어도 안 보여. 온통 빨개 보이지.",
+  "하나가 제일 세게 판을 차지해서 나머지가 눌리는 거, 이게 dominate야."
+ ],
+ "explanation_for_kids": [
   "쉬는 시간에 한 명 목소리만 쩌렁쩌렁해. 다른 애들도 말하고 있는데 안 들려. 그 목소리가 교실을 통째로 차지한 거야.",
   "싸워서 이긴 거냐고? 아니. 겨루지도 않았어. 그냥 제일 세서 나머지가 밀린 거야.",
   "그림도 그래. 빨강을 너무 많이 칠하면 파랑이 있어도 안 보여. 온통 빨개 보이지.",
   "하나가 제일 세게 판을 차지해서 나머지가 눌리는 거, 이게 dominate야."
  ],
- "scene": "쉬는 시간 교실을 한 아이 목소리가 다 차지하는 장면",
+ "scene": "쉬는 시간 강의실을 한 사람 목소리가 다 차지하는 장면",
  "examples": [
   {
    "en": "One voice dominated the classroom.",
@@ -55,7 +61,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/dominate.webp",
-  "alt": "쉬는 시간 교실을 한 아이 목소리가 다 차지하는 장면",
+  "alt": "쉬는 시간 강의실을 한 사람 목소리가 다 차지하는 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

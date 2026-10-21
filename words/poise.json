@@ -11,25 +11,31 @@
  "word": "poise",
  "slug": "poise",
  "url": "https://hibbangyong.com/words/poise/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "침착함 — 말투와 몸가짐이 차분하고 당당한 태도. 당황할 만한 순간에도 이 태도가 흔들리지 않아",
  "gloss_ko": "차분하고 당당한 태도",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "입사 첫날, 동료들 눈이 전부 신입한테 쏠렸어. 걔는 고개를 들고 천천히 자기소개를 했어.",
+  "말투도, 서 있는 자세도 차분하고 당당했어. 이런 태도가 poise야.",
+  "그냥 말수가 적은 거랑은 달라. 조용해도 사람들 앞에서 움츠러들면 poise라고 안 해.",
+  "평소 몸가짐에도 쓰고, 일이 꼬여서 당황할 만한 순간에는 더 잘 드러나."
+ ],
+ "explanation_for_kids": [
   "전학 온 첫날, 반 애들 눈이 전부 걔한테 쏠렸어. 걔는 고개를 들고 천천히 자기소개를 했어.",
   "말투도, 서 있는 자세도 차분하고 당당했어. 이런 태도가 poise야.",
   "그냥 말수가 적은 거랑은 달라. 조용해도 사람들 앞에서 움츠러들면 poise라고 안 해.",
   "평소 몸가짐에도 쓰고, 일이 꼬여서 당황할 만한 순간에는 더 잘 드러나."
  ],
- "scene": "전학 첫날 반 애들 앞에서 하는 자기소개",
+ "scene": "입사 첫날 동료들 앞에서 하는 자기소개",
  "examples": [
   {
-   "en": "When the angry customer yelled at her, the young clerk answered with poise.",
-   "ko": "화난 손님이 소리를 질러 댔는데도, 그 젊은 점원은 침착하게 대답했어."
+   "en": "Even on her first day at the café, she handled the rush with poise.",
+   "ko": "카페 첫 출근 날인데도 걔는 몰려드는 손님들을 침착하게 다 받아 냈어."
   }
  ],
  "quiz": [

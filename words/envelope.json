@@ -11,29 +11,30 @@
  "word": "envelope",
  "slug": "envelope",
  "url": "https://hibbangyong.com/words/envelope/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "편지 봉투 — 편지지를 넣어 겉에 주소를 적고 부치는 종이 주머니",
  "gloss_ko": "편지 봉투",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 삼각 덮개가 달린 하얀 종이 주머니가 envelope예요. 편지지를 이 안에 쏙 넣고 입구를 붙여서 보내요.",
   "생일 카드나 편지를 우체통에 넣기 전에, 겉에 받는 사람 주소를 적는 그 봉투가 바로 이거예요."
  ],
+ "explanation_for_kids": null,
  "scene": "닫힌 삼각 덮개가 또렷한 하얀 종이 편지봉투 한 장을 정면에서 크게(뜻: 편지 봉투)",
  "examples": [
   {
-   "en": "She put the birthday card inside the envelope and wrote the address on it.",
-   "ko": "그 애는 생일 카드를 봉투에 넣고 겉에 주소를 적었어."
+   "en": "I put the cash for my friend's wedding in an envelope.",
+   "ko": "친구 결혼식에 낼 돈을 봉투에 넣었어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "책과 공책을 잔뜩 넣어 등에 메고 학교에 가는 큰 가방이 있어. 이게 envelope야?",
+   "question": "책과 노트북을 잔뜩 넣어 등에 메고 다니는 큰 가방이 있어. 이게 envelope야?",
    "choices": [
     "응, 맞아",
     "아니, 아니야"

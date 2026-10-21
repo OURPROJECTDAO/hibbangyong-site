@@ -11,20 +11,21 @@
  "word": "twitch",
  "slug": "twitch",
  "url": "https://hibbangyong.com/words/twitch/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "움찔함 — 근육이 (대개 저절로) 순간 작게 움찔하는 것",
  "gloss_ko": "(근육의) 움찔함",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "피곤한 날 눈 밑이 혼자 파르르 떨린 적 있지?",
   "내가 움직인 것도 아닌데 근육이 순간 움찔하는 거, 그게 twitch야.",
   "눈에만 생기는 거 아니야. 자는 강아지 다리가 저절로 툭 움직이는 것도 twitch야.",
   "추워서 온몸이 덜덜 떨리는 거나 쥐 나서 오래 아픈 거랑은 달라. 작고, 짧고, 한 군데만 움찔해."
  ],
+ "explanation_for_kids": null,
  "scene": "피곤한 날 눈 밑이 저절로 떨림",
  "examples": [
   {
@@ -35,7 +36,7 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "숙제를 오래 하고 쉬고 있는데, 가만히 둔 엄지손가락 근육이 내가 움직이지도 않았는데 한 번 움찔했어. 이게 'twitch'야?",
+   "question": "일을 오래 하고 쉬고 있는데, 가만히 둔 엄지손가락 근육이 내가 움직이지도 않았는데 한 번 움찔했어. 이게 'twitch'야?",
    "choices": [
     "응, twitch 맞아",
     "아니, twitch 아니야"

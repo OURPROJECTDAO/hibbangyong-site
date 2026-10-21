@@ -11,29 +11,30 @@
  "word": "pot",
  "slug": "pot",
  "url": "https://hibbangyong.com/words/pot/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "냄비 — 물을 붓고 불에 올려 국이나 찌개를 끓이는 부엌 그릇",
  "gloss_ko": "냄비",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 은색 그릇이 바로 pot이에요. 양쪽에 손잡이가 있고 뚜껑을 덮어 불 위에 올려요.",
   "집에서 엄마가 국을 끓일 때 쓰는 그것이 pot이에요."
  ],
+ "explanation_for_kids": null,
  "scene": "부엌에서 흔히 쓰는 은색 양수(兩手) 냄비 하나 — 둥근 몸통에 양쪽 손잡이와 뚜껑까지 전체가 보이게(pot=요리 냄비 의미)",
  "examples": [
   {
-   "en": "Mom is cooking soup in a big pot on the stove.",
-   "ko": "엄마가 불 위에 올린 큰 냄비에 국을 끓이고 있어."
+   "en": "I made a big pot of soup for the whole week.",
+   "ko": "일주일 내내 먹으려고 큰 냄비에 국을 끓였어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "친구가 색연필을 손에 쥐고 종이에 그림을 그리고 있어요. 이게 pot이야?",
+   "question": "친구가 펜을 손에 쥐고 종이에 뭔가 적고 있어. 이게 pot이야?",
    "choices": [
     "응, 맞아",
     "아니, 아니야"

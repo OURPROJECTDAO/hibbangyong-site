@@ -11,20 +11,21 @@
  "word": "sex",
  "slug": "sex",
  "url": "https://hibbangyong.com/words/sex/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "성별 — 남자냐 여자냐(동물은 암컷이냐 수컷이냐) 하는 구분.",
  "gloss_ko": "남자냐 여자냐 하는 구분",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "강아지가 갓 태어났어. 사람들이 제일 먼저 뭘 묻는지 알아? \"암컷이야, 수컷이야?\" 그게 그 강아지의 sex야.",
   "사람도 똑같아. 남자냐 여자냐, 그 구분이 바로 sex거든.",
   "머리가 길어서 여자, 짧아서 남자, 그런 겉모습 얘기가 아니야. 태어날 때부터 남·여(동물은 암·수)로 나뉘는 그거야.",
   "이게 sex야."
  ],
+ "explanation_for_kids": null,
  "scene": "갓 태어난 강아지가 암컷인지 수컷인지 묻는 장면",
  "examples": [
   {

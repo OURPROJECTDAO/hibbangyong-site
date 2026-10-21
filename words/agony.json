@@ -11,25 +11,26 @@
  "word": "agony",
  "slug": "agony",
  "url": "https://hibbangyong.com/words/agony/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "고통 — 참기 힘들 만큼 아주 심한 아픔(몸이든 마음이든)",
  "gloss_ko": "극심한 고통",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "발목이 꺾여서 소리도 못 내고 바닥에 주저앉은 순간.",
   "수술실 앞에서 가족 소식만 기다리며 속이 타들어 가는 몇 시간.",
   "몸이든 마음이든, 버티기 힘들 만큼 센 아픔이면 agony야.",
   "살짝 따끔하거나 조금 속상한 건 아니야. 그건 그냥 아픈 거고, agony는 끝까지 간 아픔이야."
  ],
+ "explanation_for_kids": null,
  "scene": "발목이 꺾여 바닥에 주저앉는 순간",
  "examples": [
   {
-   "en": "She waited in agony for the test results all night.",
-   "ko": "걔는 밤새 시험 결과 기다리면서 속이 타들어 가는 것 같았어."
+   "en": "I waited in agony all night for my job interview results.",
+   "ko": "면접 결과 기다리느라 밤새 피가 말랐어."
   }
  ],
  "quiz": [

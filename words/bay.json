@@ -11,25 +11,26 @@
  "word": "bay",
  "slug": "bay",
  "url": "https://hibbangyong.com/words/bay/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "만 — 바닷물이 땅 안쪽으로 쑥 들어와 앉은 데",
  "gloss_ko": "바닷물이 들어온 만",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "바닷가 선이 쭉 가다가, 한 군데가 안으로 쑥 들어간 데 있잖아?",
   "땅이 양옆에서 팔처럼 물을 감싸 안은 거야. 그 팔 안에 든 물이야.",
   "땅이 물 쪽으로 튀어나온 데 말고, 거꾸로 물이 땅 쪽으로 들어온 데.",
   "배가 잔뜩 서 있든 텅 비어 있든, 크든 작든, 이게 bay야."
  ],
+ "explanation_for_kids": null,
  "scene": "해안선이 한 군데만 안쪽으로 쑥 들어간 자리",
  "examples": [
   {
-   "en": "From the top of the hill, the bay looked like a big blue smile in the land.",
-   "ko": "언덕 꼭대기에서 보니까 그 만은 땅에 그려진 커다란 파란 미소 같았어."
+   "en": "We got coffee and watched the boats in the bay.",
+   "ko": "우리는 커피를 사서 만에 떠 있는 배들을 구경했어."
   }
  ],
  "quiz": [

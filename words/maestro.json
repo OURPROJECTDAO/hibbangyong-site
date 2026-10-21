@@ -11,25 +11,26 @@
  "word": "maestro",
  "slug": "maestro",
  "url": "https://hibbangyong.com/words/maestro/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "거장 — 어떤 일을 아주 잘해서 다들 알아주는 사람, 특히 음악가",
  "gloss_ko": "거장",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "오케스트라 앞에서 지휘하는 유명한 지휘자, 다들 maestro라고 불러.",
   "근데 음악만 그런 건 아니야. 요리든 축구든 그 일을 정말 잘해서 모두가 알아주면 maestro야.",
   "그냥 잘하는 정도가 아니야. 오래 갈고닦아서 실력이 남다른 사람이야.",
   "그리고 '선생님'이랑은 달라. 가르치는 게 아니라 실력이 대단한 거야."
  ],
+ "explanation_for_kids": null,
  "scene": "오케스트라 앞에서 지휘하는 유명한 지휘자",
  "examples": [
   {
-   "en": "Everyone in the kitchen stopped to watch the old maestro make noodles by hand.",
-   "ko": "주방에 있던 사람들이 다 멈춰서 그 노련한 거장이 손으로 국수 뽑는 걸 구경했어."
+   "en": "The maestro raised his hands, and the whole orchestra went quiet.",
+   "ko": "거장이 손을 들자 오케스트라 전체가 조용해졌어."
   }
  ],
  "quiz": [

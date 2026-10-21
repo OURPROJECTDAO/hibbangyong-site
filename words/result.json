@@ -11,21 +11,27 @@
  "word": "result",
  "slug": "result",
  "url": "https://hibbangyong.com/words/result/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "결과 — 어떤 일을 했더니 그 다음에 생겨난 것(좋은 것도 나쁜 것도)",
  "gloss_ko": "결과",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "카페에서 일하다가 쌓아 둔 컵을 팔로 툭 쳤어. 그랬더니 다 무너졌어.",
+  "그 '무너진 것'이 바로 네가 친 것 다음에 생긴 일이야.",
+  "뭘 했더니 그 뒤에 딱 나타나는 것, 좋은 것도 나쁜 것도 다 돼.",
+  "그게 result야."
+ ],
+ "explanation_for_kids": [
   "블록으로 탑을 높이 쌓다가 팔로 툭 쳤어. 그랬더니 와르르 다 무너졌지?",
   "그 '무너진 것'이 바로 네가 친 것 다음에 생긴 일이야.",
   "뭘 했더니 그 뒤에 딱 나타나는 것, 좋은 것도 나쁜 것도 다 돼.",
   "그게 result야."
  ],
- "scene": "블록탑을 팔로 쳐서 와르르 무너진 것",
+ "scene": "쌓아 둔 컵을 팔로 쳐서 와르르 무너진 것",
  "examples": [
   {
    "en": "I practiced hard, and winning the game was the result.",
@@ -65,7 +71,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/result.webp",
-  "alt": "블록탑을 팔로 쳐서 와르르 무너진 것",
+  "alt": "쌓아 둔 컵을 팔로 쳐서 와르르 무너진 것",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

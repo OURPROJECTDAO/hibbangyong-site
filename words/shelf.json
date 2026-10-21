@@ -11,23 +11,27 @@
  "word": "shelf",
  "slug": "shelf",
  "url": "https://hibbangyong.com/words/shelf/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "선반 — 벽에 붙여 물건을 얹어 두는 널빤지",
  "gloss_ko": "선반",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "벽에 붙어서 그 위에 물건을 올려 두는 널빤지예요.",
+  "책이나 소품을 여기에 나란히 얹어 두면 방이 훨씬 깔끔해져요."
+ ],
+ "explanation_for_kids": [
   "벽에 붙어서 그 위에 물건을 올려 두는 널빤지예요.",
   "책이나 장난감을 여기에 나란히 얹어 두면 방이 훨씬 깔끔해져요."
  ],
- "scene": "벽에 붙은 나무 선반 한 칸에 색색 물건이 가지런히 올려진 모습 — '선반' 그 자체를 그림",
+ "scene": "벽에 붙은 나무 선반 한 칸에 색색 물건이 가지런히 올려진 모습",
  "examples": [
   {
-   "en": "I put my favorite books on the shelf.",
-   "ko": "제일 좋아하는 책들을 선반에 올려놨어."
+   "en": "I hung a small shelf above my desk.",
+   "ko": "책상 위 벽에 작은 선반을 하나 달았어."
   }
  ],
  "quiz": [
@@ -55,7 +59,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/shelf.webp",
-  "alt": "벽에 붙은 나무 선반 한 칸에 색색 물건이 가지런히 올려진 모습 — '선반' 그 자체를 그림",
+  "alt": "벽에 붙은 나무 선반 한 칸에 색색 물건이 가지런히 올려진 모습",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

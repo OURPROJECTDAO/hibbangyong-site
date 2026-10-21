@@ -11,31 +11,32 @@
  "word": "sphere",
  "slug": "sphere",
  "url": "https://hibbangyong.com/words/sphere/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "구(공 모양) — 공처럼 어느 쪽에서 봐도 똑같이 동그란 덩어리.",
  "gloss_ko": "공 모양",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "비눗방울 하나가 둥실 떠 있어. 위에서 봐도 동그라미, 옆에서 봐도 동그라미, 밑에서 봐도 동그라미야.",
   "종이에 그린 동그라미는 옆으로 돌리면 납작한 선이 되잖아? 이건 안 그래. 어느 쪽으로 돌려도 똑같이 부풀어 있거든.",
   "달도 구슬도 볼링공도 이렇게 생겼어. 속이 꽉 찼든 비었든, 모든 쪽이 똑같이 둥글면 돼.",
   "그게 sphere야."
  ],
+ "explanation_for_kids": null,
  "scene": "공중에 둥실 떠 있는 비눗방울 하나",
  "examples": [
   {
-   "en": "This bubble is a tiny sphere floating in the air.",
-   "ko": "이 비눗방울은 공중에 떠 있는 조그만 공 모양이야."
+   "en": "The lamp in our café is a big glass sphere.",
+   "ko": "우리 카페 조명은 커다란 공 모양 유리야."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "동생이 볼링공을 두 손으로 들고 이리저리 돌려 봐. 이게 'sphere'야?",
+   "question": "친구가 볼링공을 두 손으로 들고 이리저리 돌려 봐. 이게 'sphere'야?",
    "choices": [
     "응, sphere 맞아",
     "아니, sphere 아니야"

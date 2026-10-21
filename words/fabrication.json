@@ -11,21 +11,27 @@
  "word": "fabrication",
  "slug": "fabrication",
  "url": "https://hibbangyong.com/words/fabrication/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "날조(없던 일을 지어낸 거짓) — 남을 속이려고 없던 일을 사실처럼 지어낸 것",
  "gloss_ko": "지어낸 거짓",
  "level": {
   "code": "L9",
-  "name": "토플 114~120점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "실험 과제는 안 해 놓고, 결과표만 그럴듯하게 채워서 냈어.",
+  "뉴스에는 그 사람이 한 적도 없는 말이 그 사람 말로 실렸어.",
+  "둘 다 없던 걸 새로 지어낸 거고, 남을 속이려고 한 거야. 이게 fabrication이야.",
+  "있던 일을 조금 부풀린 과장이나, 모르고 틀린 실수랑은 달라. 처음부터 없던 걸 만든 거야."
+ ],
+ "explanation_for_kids": [
   "수행평가 실험은 안 해 놓고, 결과표만 그럴듯하게 채워서 냈어.",
   "뉴스에는 그 사람이 한 적도 없는 말이 그 사람 말로 실렸어.",
   "둘 다 없던 걸 새로 지어낸 거고, 남을 속이려고 한 거야. 이게 fabrication이야.",
   "있던 일을 조금 부풀린 과장이나, 모르고 틀린 실수랑은 달라. 처음부터 없던 걸 만든 거야."
  ],
- "scene": "수행평가 실험을 안 하고 결과표만 채워 낸 상황",
+ "scene": "실험 과제를 안 하고 결과표만 채워 낸 상황",
  "examples": [
   {
    "en": "The newspaper said sorry because the singer's interview was a complete fabrication.",
@@ -66,7 +72,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/fabrication.webp",
-  "alt": "수행평가 실험을 안 하고 결과표만 채워 낸 상황",
+  "alt": "실험 과제를 안 하고 결과표만 채워 낸 상황",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

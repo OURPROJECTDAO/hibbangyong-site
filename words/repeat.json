@@ -11,38 +11,39 @@
  "word": "repeat",
  "slug": "repeat",
  "url": "https://hibbangyong.com/words/repeat/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "또 하다, 다시 한 번 더 하다",
  "gloss_ko": "또 하고 또 해",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "노래 듣다 보면 똑같은 부분이 또 나오고 또 나오지? 그 후렴 말이야.",
   "한 번 부르고 끝이 아니라, 똑같은 걸 한 번 더 하는 거야.",
   "쭉 멈추지 않고 이어가는 거(그건 다른 거거든!)랑은 달라 — 처음부터 똑같이 또!",
   "이게 repeat야."
  ],
+ "explanation_for_kids": null,
  "scene": "노래 후렴이 또 나오고, 한 번 부른 걸 똑같이 한 번 더 부름.",
  "examples": [
   {
-   "en": "I will repeat the dance until I get every step right.",
-   "ko": "모든 동작을 다 맞출 때까지 그 춤을 계속 반복할 거야."
+   "en": "I repeat this workout three times a week.",
+   "ko": "나는 이 운동을 일주일에 세 번씩 반복해."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "형이 종이비행기를 한 번 접어서 날린 다음, 똑같은 비행기를 또 접어서 날렸어. 이게 'repeat'야?",
+   "question": "친구가 노래 한 곡을 끝까지 들은 다음, 똑같은 노래를 처음부터 또 틀었어. 이게 'repeat'야?",
    "choices": [
     "응, repeat 맞아",
     "아니, repeat 아니야"
    ],
    "answer_index": 0,
    "answer": "응, repeat 맞아",
-   "why": "맞아! 똑같은 비행기를 한 번 접어 날리고, 그걸 또 똑같이 접어 날렸잖아. 처음이랑 똑같은 걸 한 번 더 했으니까 바로 그게 repeat인 거야."
+   "why": "맞아! 노래 한 곡을 끝까지 듣고, 그걸 처음부터 또 똑같이 틀었잖아. 처음이랑 똑같은 걸 한 번 더 했으니까 바로 그게 repeat인 거야."
   }
  ],
  "synonyms": [],

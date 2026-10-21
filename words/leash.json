@@ -11,25 +11,26 @@
  "word": "leash",
  "slug": "leash",
  "url": "https://hibbangyong.com/words/leash/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "목줄 — 강아지 같은 동물의 목걸이에 걸어서 사람이 쥐고 다니는 줄",
  "gloss_ko": "쥐고 다니는 목줄",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "강아지랑 산책하는 사람을 떠올려 봐.",
   "강아지 목걸이에 긴 줄이 걸려 있고, 그 줄 끝을 사람이 쥐고 걷지.",
   "그 줄이 leash야. 목에 두르는 목걸이는 collar라고 따로 불러.",
   "강아지 말고 고양이나 다른 동물이라도, 데리고 다니려고 매는 줄이면 다 leash야."
  ],
+ "explanation_for_kids": null,
  "scene": "강아지 목걸이에 줄을 걸고 산책하는 사람",
  "examples": [
   {
-   "en": "Mina picked up the leash, and her puppy ran to the door.",
-   "ko": "미나가 목줄을 집어 들자마자 강아지가 현관으로 달려갔어."
+   "en": "I grabbed the leash and took my dog out before work.",
+   "ko": "출근하기 전에 목줄을 챙겨서 강아지를 데리고 나갔어."
   }
  ],
  "quiz": [

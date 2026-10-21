@@ -11,25 +11,26 @@
  "word": "weapon",
  "slug": "weapon",
  "url": "https://hibbangyong.com/words/weapon/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "무기 — 싸우거나 누구를 해치거나 막으려고 쓰는 것",
  "gloss_ko": "무기",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "누굴 때리거나, 막거나, 해치려고 쓰는 거야.",
   "칼이나 막대기처럼 쥐는 것도 되고, 멀리 쏘는 활이나 큰 대포도 다 돼.",
   "재밌는 건, 평범한 막대기도 '싸우려고' 든 순간 그게 돼.",
   "그냥 짐 나르는 연장이나 비 막는 우산이랑은 달라. 이게 weapon이야."
  ],
+ "explanation_for_kids": null,
  "scene": "평범한 물건을 싸우려고 쥐는 순간 무기가 되는 한 장면.",
  "examples": [
   {
-   "en": "In the game, the knight's only weapon was a wooden sword.",
-   "ko": "게임 속 기사의 무기는 나무칼 하나뿐이었어."
+   "en": "Airport security found nothing that looked like a weapon in my bag.",
+   "ko": "공항 보안 검색에서 내 가방에 무기 같은 건 하나도 안 나왔어."
   }
  ],
  "quiz": [

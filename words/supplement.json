@@ -11,20 +11,21 @@
  "word": "supplement",
  "slug": "supplement",
  "url": "https://hibbangyong.com/words/supplement/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "더 보태는 것 — 원래 있던 걸 대신 바꾸는 게 아니라, 모자란 데를 채우려고 위에 더 얹는 것.",
  "gloss_ko": "더 보태는 것",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "뭔가 조금 모자랄 때, 있던 걸 치우고 바꾸는 게 아니라 위에 더 보태서 채워 주는 게 있어.",
   "반찬이 부족하면 밥을 새로 하는 게 아니라 계란이나 김을 하나 더 놓아 주잖아? 딱 그거야.",
   "원래 것은 그대로 두고, 모자란 만큼만 더 얹는 거지.",
   "헷갈리지 마 — 대신 바꾸는 게 아니라 위에 더하는 거야. 그게 supplement이야."
  ],
+ "explanation_for_kids": null,
  "scene": "간식·반찬이 모자랄 때 계란·김을 원래 밥에 더 얹어 채우는 장면",
  "examples": [
   {
@@ -35,14 +36,14 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "블록으로 쌓은 탑이 조금 낮았어. 이미 쌓아 둔 탑은 그대로 두고, 위에 블록 두 개를 더 올려서 모자란 높이를 채웠어. 이게 'supplement'이야?",
+   "question": "모니터 밑에 쌓은 책이 조금 낮았어. 이미 쌓아 둔 책은 그대로 두고, 위에 책 두 권을 더 올려서 모자란 높이를 채웠어. 이게 'supplement'이야?",
    "choices": [
     "응, supplement 맞아",
     "아니, supplement 아니야"
    ],
    "answer_index": 0,
    "answer": "응, supplement 맞아",
-   "why": "맞아! 원래 쌓아 둔 탑은 그대로 두고 모자란 높이만큼만 위에 블록을 더 올렸잖아. 있던 걸 치우고 바꾼 게 아니라 위에 더 얹어서 채운 거니까, 바로 그게 supplement인 거야."
+   "why": "맞아! 원래 쌓아 둔 책은 그대로 두고 모자란 높이만큼만 위에 책을 더 올렸잖아. 있던 걸 치우고 바꾼 게 아니라 위에 더 얹어서 채운 거니까, 바로 그게 supplement인 거야."
   }
  ],
  "synonyms": [],

@@ -11,29 +11,33 @@
  "word": "pole",
  "slug": "pole",
  "url": "https://hibbangyong.com/words/pole/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "장대 — 땅에 똑바로 세운 길고 매끈한 막대기",
  "gloss_ko": "장대",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "그림 속 땅에 곧게 서 있는 저 길고 매끈한 막대기를 pole이라고 해요.",
+  "광장에 국기 다는 기둥이나 텐트를 받치는 막대기도 모두 pole이에요."
+ ],
+ "explanation_for_kids": [
   "그림 속 땅에 곧게 서 있는 저 길고 매끈한 막대기를 pole이라고 해요.",
   "운동장 국기 다는 기둥이나 텐트를 받치는 막대기도 모두 pole이에요."
  ],
  "scene": "땅에 똑바로 세워진 길고 매끈한 막대기(장대·기둥) 하나 — 위아래 전체가 다 보이게",
  "examples": [
   {
-   "en": "The flag hangs from a tall pole in the schoolyard.",
-   "ko": "운동장에 선 높은 장대에 깃발이 걸려 있어."
+   "en": "The flag hangs from a tall pole in front of our office.",
+   "ko": "우리 회사 앞 높은 장대에 깃발이 걸려 있어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "운동장에 국기를 매달려고 땅에 똑바로 세운 길고 곧은 막대기가 있어. 이게 pole이야?",
+   "question": "광장에 국기를 매달려고 땅에 똑바로 세운 길고 곧은 막대기가 있어. 이게 pole이야?",
    "choices": [
     "응, 맞아",
     "아니, 아니야"

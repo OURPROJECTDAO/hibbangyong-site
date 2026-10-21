@@ -11,15 +11,21 @@
  "word": "minute",
  "slug": "minute",
  "url": "https://hibbangyong.com/words/minute/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "분 — 시계로 시간을 세는 한 칸. 이 칸 60개가 모이면 한 시간이야.",
  "gloss_ko": "시계로 세는 분",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "시계 봐봐. 긴바늘이 딱 한 칸 움직였지? 그 한 칸이 1 minute이야.",
+  "이 칸을 60개나 쌓아야 겨우 한 시간이 돼. 그러니까 칸이 많아지면 시간도 쭉 늘어나. 영화 한 편이 80 minutes, 친구랑 밥 먹는 데 40 minutes, 이렇게.",
+  "칸 하나는 워낙 짧아서, 급할 때 '1분만!' 하고 붙잡기도 해. 그럴 땐 '아주 잠깐만'이라는 뜻으로 쓰는 거지.",
+  "그래도 '한순간'처럼 셀 수 없는 말이랑은 달라. 이건 하나, 둘, 셀 수 있는 칸이거든. 그게 minute야."
+ ],
+ "explanation_for_kids": [
   "시계 봐봐. 긴바늘이 딱 한 칸 움직였지? 그 한 칸이 1 minute이야.",
   "이 칸을 60개나 쌓아야 겨우 한 시간이 돼. 그러니까 칸이 많아지면 시간도 쭉 늘어나. 만화 영화 한 편이 80 minutes, 동생 밥 먹는 데 40 minutes, 이렇게.",
   "칸 하나는 워낙 짧아서, 급할 때 '1분만!' 하고 붙잡기도 해. 그럴 땐 '아주 잠깐만'이라는 뜻으로 쓰는 거지.",
@@ -28,14 +34,14 @@
  "scene": "시계 긴바늘이 딱 한 칸 움직이는 순간",
  "examples": [
   {
-   "en": "Can you wait five minutes? I still can't find my other sock.",
-   "ko": "아직 다른 쪽 양말을 못 찾았는데 5분만 기다려 줄래?"
+   "en": "Can you wait one more minute? I still can't find my other sock.",
+   "ko": "1분만 더 기다려 줄래? 아직 양말 한 짝을 못 찾았어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "엄마가 달걀을 삶으면서 타이머를 '10 minutes'에 맞췄어. 이게 minute를 쓴 게 맞아?",
+   "question": "룸메이트가 달걀을 삶으면서 타이머를 '10 minutes'에 맞췄어. 이게 minute를 쓴 게 맞아?",
    "choices": [
     "응, minute 맞아",
     "아니, minute 아니야"

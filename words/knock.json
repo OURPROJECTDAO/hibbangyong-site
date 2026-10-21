@@ -11,31 +11,32 @@
  "word": "knock",
  "slug": "knock",
  "url": "https://hibbangyong.com/words/knock/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "치다 — 딱 부딪히게 때리는 것(문을 똑똑 두드리는 것도, 쳐서 넘어뜨리는 것도)",
  "gloss_ko": "치다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "지나가다 팔꿈치가 컵에 딱! 부딪혔어. 컵이 데구루루 떨어지지.",
   "문을 똑똑 두드리는 것도 똑같은 딱이야. 세기만 다를 뿐이거든?",
   "살살 쓰다듬는 건 아니야. 손 대고 쭉 미는 것도 아니고. 딱 하고 부딪히는 그 순간이야.",
   "그게 knock이야."
  ],
+ "explanation_for_kids": null,
  "scene": "팔꿈치가 컵에 딱 부딪혀 컵이 굴러떨어지는 장면",
  "examples": [
   {
-   "en": "I knocked the cup off the table with my elbow.",
-   "ko": "팔꿈치로 쳐서 컵을 탁자에서 떨어뜨렸어."
+   "en": "Just knock on my door when you get back.",
+   "ko": "돌아오면 그냥 내 방문 두드려."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "누나가 잠든 아기 이마를 손끝으로 아주 살살 오래 쓸어 주었어. 이게 'knock'이야?",
+   "question": "이웃이 잠든 아기 이마를 손끝으로 아주 살살 오래 쓸어 주었어. 이게 'knock'이야?",
    "choices": [
     "응, knock 맞아",
     "아니, knock 아니야"

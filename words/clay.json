@@ -11,31 +11,32 @@
  "word": "clay",
  "slug": "clay",
  "url": "https://hibbangyong.com/words/clay/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "찰흙 — 끈적한 흙. 물기가 있으면 말랑해서 손으로 모양을 만들 수 있고, 마르거나 구우면 딱딱하게 굳어.",
  "gloss_ko": "찰흙",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "비 온 다음 날 땅을 파면 끈적하게 뭉쳐 있는 흙덩이가 나올 때가 있거든?",
   "손으로 조물조물하면 그릇도 되고 동그란 공도 되고, 그대로 두면 그 모양 그대로 굳어 버려.",
   "옆에 있는 모래는 아무리 눌러도 좌르르 흩어지고, 물이 너무 많은 흙은 손가락 사이로 뚝뚝 떨어져. 그거랑은 달라.",
   "모양이 잡히고 굳는 이런 흙, 그게 clay야."
  ],
+ "explanation_for_kids": null,
  "scene": "비 온 다음 날 땅을 파서 나온 끈적한 흙덩이",
  "examples": [
   {
-   "en": "I squeezed the wet clay into a little bird, and the next day it was hard.",
-   "ko": "젖은 찰흙을 조몰락거려서 작은 새 모양을 만들었는데 다음 날엔 딱딱해졌어."
+   "en": "I made a small cup out of clay at my pottery class.",
+   "ko": "도자기 수업에서 찰흙으로 작은 컵을 만들었어."
   }
  ],
  "quiz": [
   {
    "type": "choice",
-   "question": "아이 넷이 각자 뭔가를 만들었어. 'clay'로 만든 건 어느 것일까?",
+   "question": "친구 넷이 각자 뭔가를 만들었어. 'clay'로 만든 건 어느 것일까?",
    "choices": [
     "밀가루에 물을 붓고 조물조물 반죽해서 동그란 빵을 구워 냈어.",
     "강가에서 퍼온 흙을 조물조물 빚어 작은 항아리를 만들고 햇볕에 말렸어.",

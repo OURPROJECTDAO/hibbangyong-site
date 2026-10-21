@@ -11,23 +11,24 @@
  "word": "wing",
  "slug": "wing",
  "url": "https://hibbangyong.com/words/wing/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "날개 — 새나 나비가 하늘을 날 때 몸 양옆으로 펼치는 부분",
  "gloss_ko": "날개",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 새가 한쪽으로 활짝 펼친 이 부분이 wing이에요.",
   "나비나 잠자리에게도, 하늘을 나는 비행기에도 이 wing이 달려 있어요."
  ],
+ "explanation_for_kids": null,
  "scene": "귀여운 작은 새가 깃털 하나하나 보이게 한쪽 날개를 활짝 펼친 모습 — '날개(wing)'를 크게 강조",
  "examples": [
   {
-   "en": "The little bird opened its wings and flew up into the sky.",
-   "ko": "작은 새가 날개를 활짝 펴고 하늘로 날아올랐어."
+   "en": "I saw a pigeon with a broken wing outside the café.",
+   "ko": "카페 밖에서 날개가 부러진 비둘기를 봤어."
   }
  ],
  "quiz": [

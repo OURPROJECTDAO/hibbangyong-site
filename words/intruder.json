@@ -11,25 +11,26 @@
  "word": "intruder",
  "slug": "intruder",
  "url": "https://hibbangyong.com/words/intruder/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "침입자 — 들어오면 안 되는 곳에 허락 없이 들어온 사람",
  "gloss_ko": "침입자",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "밤에 문이 다 잠긴 학교에 누가 담을 넘어 들어왔어.",
   "들어오면 안 되는 곳에 허락 없이 들어온 사람, 그게 intruder야. 뭘 훔치러 오는 경우가 많지만, 아무것도 안 가져가도 똑같이 intruder야.",
   "건물에만 쓰는 말도 아니야. 가족끼리만 있는 자리에 불쑥 들어와서 아무도 반기지 않는 사람한테도 써.",
   "허락받고 온 손님은 처음 보는 사람이어도 intruder가 아니야."
  ],
+ "explanation_for_kids": null,
  "scene": "밤에 잠긴 학교 담을 넘어 들어온 사람",
  "examples": [
   {
-   "en": "Someone saw an intruder climbing over the school fence at night.",
-   "ko": "밤에 누가 학교 담을 넘어 들어오는 침입자를 봤대."
+   "en": "Our building's security guard caught an intruder in the parking lot last night.",
+   "ko": "어젯밤에 우리 건물 경비원이 주차장에서 침입자를 잡았어."
   }
  ],
  "quiz": [

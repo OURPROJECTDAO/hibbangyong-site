@@ -11,25 +11,26 @@
  "word": "sentient",
  "slug": "sentient",
  "url": "https://hibbangyong.com/words/sentient/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "지각 있는 — 아픔이나 기쁨, 무서움 같은 걸 스스로 느낄 줄 아는",
  "gloss_ko": "느낄 줄 아는",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "강아지 꼬리를 밟으면 깨갱 하고 피하지. 화분 잎을 밟으면? 아무 일도 안 일어나.",
   "둘 다 살아 있어. 그런데 아픔을 속으로 느끼는 건 강아지뿐이야.",
   "이렇게 아프고 기쁘고 무서운 걸 안에서 느낄 줄 알면 sentient야. 똑똑한 거랑은 달라. 수학을 못 해도 느낄 줄 알면 sentient야.",
   "그래서 영화에서 로봇이 갑자기 슬픔을 느끼기 시작하면, 로봇이 sentient해졌다고 해."
  ],
+ "explanation_for_kids": null,
  "scene": "강아지 꼬리 밟기 vs 화분 잎 밟기",
  "examples": [
   {
-   "en": "My sister stopped eating meat because she believes cows are sentient.",
-   "ko": "우리 누나는 소도 아프고 무서운 걸 느낀다고 믿어서 고기를 끊었어."
+   "en": "My coworker stopped eating meat because she believes cows are sentient.",
+   "ko": "회사 동료는 소도 아픔을 느낄 줄 안다고 믿어서 고기를 끊었어."
   }
  ],
  "quiz": [

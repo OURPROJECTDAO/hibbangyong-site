@@ -11,18 +11,21 @@
  "word": "eager",
  "slug": "eager",
  "url": "https://hibbangyong.com/words/eager/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "빨리 하고 싶어 안달난, 몹시 하고 싶어 하는",
  "gloss_ko": "하고 싶어 안달난",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "교수님이 질문했어. 근데 넌 답을 알아. 손이 저절로 번쩍! 당장 말하고 싶어 입이 근질근질해.\n누가 시키지도 않았는데, 네가 먼저 하고 싶어서 몸이 앞서 나가는 거야.\n좋아서 신나기만 한 게 아니라, 빨리 '하고' 싶어 못 기다리는 마음.\n이게 eager야."
+ ],
+ "explanation_for_kids": [
   "선생님이 질문했어. 근데 넌 답을 알아. 손이 저절로 번쩍! '저요 저요!' 입이 근질근질해.\n누가 시키지도 않았는데, 네가 먼저 하고 싶어서 몸이 앞서 나가는 거야.\n좋아서 신나기만 한 게 아니라, 빨리 '하고' 싶어 못 기다리는 마음.\n이게 eager야."
  ],
- "scene": "선생님 질문에 손 번쩍 들며 '저요 저요' 외치는 아이",
+ "scene": "교수님 질문에 답하고 싶어 손을 번쩍 드는 대학생",
  "examples": [
   {
    "en": "I was so eager to open my birthday presents that I woke up early.",
@@ -32,7 +35,7 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "만들기 수업이 시작될 참이야. 재료를 아직 나눠주지도 않았는데 지호는 벌써 가위를 들고 '언제 시작해요? 얼른 하고 싶어요!' 하며 자리에서 들썩였어. 지호 마음이 'eager'해?",
+   "question": "공방 수업이 시작될 참이야. 재료를 아직 나눠주지도 않았는데 지호는 벌써 가위를 들고 '언제 시작해요? 얼른 하고 싶어요!' 하며 자리에서 들썩였어. 지호 마음이 'eager'해?",
    "choices": [
     "응, eager 맞아",
     "아니, eager 아니야"
@@ -67,7 +70,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/eager.webp",
-  "alt": "선생님 질문에 손 번쩍 들며 '저요 저요' 외치는 아이",
+  "alt": "교수님 질문에 답하고 싶어 손을 번쩍 드는 대학생",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

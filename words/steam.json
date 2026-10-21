@@ -11,25 +11,26 @@
  "word": "steam",
  "slug": "steam",
  "url": "https://hibbangyong.com/words/steam/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "(뜨거워서) 김이 나다 / 김으로 찌다",
  "gloss_ko": "김이 모락모락",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "갓 끓인 국 봐봐. 위에서 하얀 김이 모락모락 올라오지?",
   "물이 엄청 뜨거워지면 이렇게 김을 뿜어내거든.",
   "밥솥도 다 되면 칙— 하고 뜨거운 김을 내보내잖아.",
   "그렇게 뜨거워서 하얀 김이 피어오르는 게 steam이야."
  ],
+ "explanation_for_kids": null,
  "scene": "갓 끓인 국에서 하얀 김이 모락모락 올라온다",
  "examples": [
   {
-   "en": "The hot soup steamed on the table.",
-   "ko": "뜨거운 수프가 식탁 위에서 김을 모락모락 냈어."
+   "en": "I steam some vegetables for dinner after work.",
+   "ko": "퇴근하고 저녁으로 채소를 좀 쪄 먹어."
   }
  ],
  "quiz": [

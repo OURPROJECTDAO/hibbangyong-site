@@ -11,25 +11,31 @@
  "word": "account",
  "slug": "account",
  "url": "https://hibbangyong.com/words/account/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "계좌 — 은행에 내 이름으로 만들어 둔 돈 칸. 돈을 넣으면 늘고, 빼 쓰면 줄어",
  "gloss_ko": "은행 속 내 돈 칸",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "은행에 돈을 맡기면, 은행은 그 돈을 내 이름이 붙은 칸에 적어 둬.",
+  "돈을 넣으면 숫자가 쑥 올라가고, 빼 쓰면 쭉 내려가. 텅 빌 때도 있어.",
+  "근데 집에 있는 저금통이랑은 달라. 흔들면 짤랑대는 통이 아니라, 은행 안에 있는 내 이름 칸이거든.",
+  "그게 account야."
+ ],
+ "explanation_for_kids": [
   "엄마가 은행에 돈을 맡기면, 은행은 그 돈을 엄마 이름이 붙은 칸에 딱! 적어 둬.",
   "돈을 넣으면 숫자가 쑥 올라가고, 빼 쓰면 쭉 내려가. 텅 빌 때도 있어.",
   "근데 집에 있는 저금통이랑은 달라. 흔들면 짤랑대는 통이 아니라, 은행 안에 있는 내 이름 칸이거든.",
   "그게 account야."
  ],
- "scene": "엄마가 은행에 돈을 맡겨 엄마 이름 칸에 적히는 장면",
+ "scene": "은행에 돈을 맡겨 내 이름 칸에 적히는 장면",
  "examples": [
   {
-   "en": "I took some money out of my account, so it has less now.",
-   "ko": "내 계좌에서 돈을 좀 뺐더니, 이제 거기 돈이 줄었어."
+   "en": "I took some money out of my account, so there's less in it now.",
+   "ko": "내 계좌에서 돈을 좀 뺐더니, 이제 거기 남은 돈이 줄었어."
   }
  ],
  "quiz": [
@@ -59,7 +65,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/account.webp",
-  "alt": "엄마가 은행에 돈을 맡겨 엄마 이름 칸에 적히는 장면",
+  "alt": "은행에 돈을 맡겨 내 이름 칸에 적히는 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

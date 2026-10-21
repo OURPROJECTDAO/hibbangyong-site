@@ -11,20 +11,21 @@
  "word": "possibility",
  "slug": "possibility",
  "url": "https://hibbangyong.com/words/possibility/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "가능성 — 그렇게 될 수도 있고 안 될 수도 있는 것, 또는 맞을 수도 있고 틀릴 수도 있는 것",
  "gloss_ko": "그럴 수도 있음",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "하늘에 구름이 잔뜩 꼈어. 비가 올 수도 있고, 안 올 수도 있지?",
   "잃어버린 열쇠도 봐봐. 가방에 있을 수도 있고, 없을 수도 있어.",
   "좋은 일이든 나쁜 일이든 상관없어. 꼭 그렇다는 것도, 그러길 바라는 것도 아니거든.",
   "딱 정해지진 않았는데 그럴 수도 있는 것. 그게 possibility야."
  ],
+ "explanation_for_kids": null,
  "scene": "구름 낀 하늘에 비가 올지 모름",
  "examples": [
   {

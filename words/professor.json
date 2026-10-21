@@ -11,15 +11,21 @@
  "word": "professor",
  "slug": "professor",
  "url": "https://hibbangyong.com/words/professor/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "교수 — 대학에서 가르치는 선생님",
  "gloss_ko": "교수",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "대학에서 강의하는 분들 있잖아.",
+  "어려운 전공 내용을 깊이 가르치는 분들이거든.",
+  "오래 공부해서 한 가지를 진짜 잘 아는 사람이야.",
+  "그게 professor야. 초중고 선생님이랑은 좀 달라!"
+ ],
+ "explanation_for_kids": [
   "대학교 알지? 고등학교 졸업하고 더 크면 가는 학교 말이야.",
   "거기서 어려운 걸 척척 가르치는 선생님이 있거든?",
   "오래오래 공부해서 한 가지를 진짜 잘 아는 사람이야.",
@@ -28,8 +34,8 @@
  "scene": "대학 강의실에서 한 분야를 깊이 가르치는 어른",
  "examples": [
   {
-   "en": "My sister's professor gave her a hard test about history.",
-   "ko": "언니의 교수님이 역사에 관한 어려운 시험을 냈어."
+   "en": "My professor gave us a hard history test today.",
+   "ko": "교수님이 오늘 어려운 역사 시험을 냈어."
   }
  ],
  "quiz": [

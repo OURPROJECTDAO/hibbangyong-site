@@ -11,25 +11,26 @@
  "word": "band",
  "slug": "band",
  "url": "https://hibbangyong.com/words/band/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "띠 — 좁고 길게 쭉 이어진 한 줄",
  "gloss_ko": "띠",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "하얀 티셔츠 앞에 파란 줄이 가로로 쭉 그어져 있어. 봤지?",
   "그렇게 좁고 길게 이어진 한 줄, 그게 band야.",
   "머리에 두르는 것도, 상자를 빙 감은 것도 band. 뭘 묶든 안 묶든 상관없어.",
   "다쳤을 때 붙이는 반창고는 band가 아니야. 그건 띠가 아니라 그냥 한 장 붙이는 거거든. 이게 band야."
  ],
+ "explanation_for_kids": null,
  "scene": "하얀 티셔츠 앞면에 가로로 쭉 그어진 파란 줄",
  "examples": [
   {
-   "en": "A blue band goes all the way around my lunchbox.",
-   "ko": "파란 띠가 내 도시락통을 빙 둘러싸고 있어."
+   "en": "The mug has a thin gold band around the top.",
+   "ko": "그 머그잔은 윗부분에 얇은 금색 띠가 둘러져 있어."
   }
  ],
  "quiz": [

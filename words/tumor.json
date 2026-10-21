@@ -11,25 +11,26 @@
  "word": "tumor",
  "slug": "tumor",
  "url": "https://hibbangyong.com/words/tumor/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "종양 — 몸속에서 세포가 멈추지 않고 불어나서 생긴 덩어리 (다 암은 아니고, 순한 것도 있어)",
  "gloss_ko": "종양(몸속 혹)",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "병원에서 사진을 찍었더니 몸속에 전에 없던 덩어리가 보였대.",
   "세포가 멈추지 않고 계속 불어나서 뭉친 거야. 그게 tumor야.",
   "다 암인 건 아니야. 떼어 내면 끝나는 순한 것도 있고, 위험한 것도 있어.",
   "넘어져서 부은 거나 멍이랑은 달라. 그런 건 며칠 지나면 가라앉잖아."
  ],
+ "explanation_for_kids": null,
  "scene": "병원 사진에서 몸속에 없던 덩어리가 보인 장면",
  "examples": [
   {
-   "en": "The doctor said the tumor was small and not dangerous.",
-   "ko": "의사 선생님이 그 종양은 작고 위험한 건 아니라고 했어."
+   "en": "My doctor said the tumor was small and nothing to worry about.",
+   "ko": "의사 선생님이 그 종양은 작아서 걱정할 거 없다고 했어."
   }
  ],
  "quiz": [

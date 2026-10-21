@@ -11,25 +11,26 @@
  "word": "graft",
  "slug": "graft",
  "url": "https://hibbangyong.com/words/graft/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "이식 조직 — 몸의 다른 곳에서 떼어 와 다친 자리에 옮겨 붙이는 성한 살갗이나 뼈 조각",
  "gloss_ko": "이식 조직",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "불에 크게 덴 살갗이나 부러져서 빈 뼈는 혼자 힘으로 다시 못 채워질 때가 있어.",
   "그럴 땐 몸의 다른 곳에서 성한 살갗이나 뼈 조각을 떼어 와 거기에 옮겨 붙여.",
   "살갗이든 뼈든, 그렇게 옮겨 붙인 살아 있는 조각이 graft야.",
   "위에 덮는 거즈나 안에 넣는 금속이랑은 달라. graft는 붙은 자리에서 살아서 그 몸의 일부가 되거든."
  ],
+ "explanation_for_kids": null,
  "scene": "화상 입은 살갗·부러져 빈 뼈에 다른 곳의 성한 조각 옮겨 붙이기",
  "examples": [
   {
-   "en": "The doctor used a skin graft to help his hurt hand heal.",
-   "ko": "의사 선생님이 피부를 조금 옮겨 붙여서 다친 손이 낫게 해 줬어."
+   "en": "My coworker got a skin graft after a bad burn at work.",
+   "ko": "직장 동료가 일하다 크게 데어서 피부 이식을 받았어."
   }
  ],
  "quiz": [

@@ -11,24 +11,25 @@
  "word": "reason",
  "slug": "reason",
  "url": "https://hibbangyong.com/words/reason/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "이유 — 무슨 일이 왜 일어났는지, 또 왜 그렇게 하는지 그 까닭",
  "gloss_ko": "이유",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "누가 너한테 '너 왜 그래?' 하고 물어본 적 있지?",
   "'왜 손 씻어?' 하면 '밥 먹을 거니까!', '왜 울어?' 하면 '넘어져서 아파서!'",
   "그 '~니까', '~서' 하고 대는 대답 있잖아, 그게 바로 그거야.",
   "무슨 일이 왜 생겼는지, 또 왜 그렇게 하는지, 그 까닭. 그게 reason이야."
  ],
+ "explanation_for_kids": null,
  "scene": "'왜 손 씻어?'에 '밥 먹을 거니까!'라고 까닭을 대는 장면",
  "examples": [
   {
-   "en": "I have a reason for being scared of the dark.",
+   "en": "There's a reason I'm scared of the dark.",
    "ko": "내가 어둠을 무서워하는 데는 이유가 있어."
   }
  ],

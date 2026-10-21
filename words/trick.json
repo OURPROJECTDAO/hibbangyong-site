@@ -11,31 +11,32 @@
  "word": "trick",
  "slug": "trick",
  "url": "https://hibbangyong.com/words/trick/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "영리한 수 — 남을 감쪽같이 속이는 꾀이기도 하고, 어려운 걸 척 해내는 요령이기도 해.",
  "gloss_ko": "영리한 수",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "마술사가 텅 빈 모자에서 토끼를 쏙 꺼냈어. 어떻게 한 걸까?",
   "사실은 안 보이게 숨겨두는 영리한 방법이 있었던 거야. 그렇게 남을 감쪽같이 속이는 꾀, 그게 하나야.",
   "근데 또, 신발끈을 순식간에 착 묶는 나만의 재주도 trick이라고 해. 어려운 걸 쉽게 해내는 영리한 방법 말이야.",
   "그러니까 속이든 해내든, 똑똑한 수 하나를 가리켜. 그게 trick이야."
  ],
+ "explanation_for_kids": null,
  "scene": "마술사가 빈 모자에서 토끼를 꺼내는 장면",
  "examples": [
   {
-   "en": "My sister has a trick to make her paper airplane fly really far.",
-   "ko": "우리 누나한테는 종이비행기를 아주 멀리 날리는 요령이 있어."
+   "en": "My coworker showed me a trick to fold shirts really fast.",
+   "ko": "회사 동료가 셔츠를 엄청 빨리 개는 요령을 알려 줬어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "언니가 선반 맨 위에 있는 인형에 손이 안 닿자, 긴 빗자루 손잡이로 인형을 톡 밀어 떨어뜨린 뒤 두 손으로 받아냈어. 이게 'trick'이야?",
+   "question": "룸메이트가 선반 맨 위에 있는 상자에 손이 안 닿자, 긴 빗자루 손잡이로 상자를 톡 밀어 떨어뜨린 뒤 두 손으로 받아냈어. 이게 'trick'이야?",
    "choices": [
     "응, trick 맞아",
     "아니, trick 아니야"

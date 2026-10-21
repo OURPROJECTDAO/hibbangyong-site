@@ -11,20 +11,21 @@
  "word": "multiple",
  "slug": "multiple",
  "url": "https://hibbangyong.com/words/multiple/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "여러 개의 — 하나가 아니라 둘, 셋… 여럿인 (여러 번·여러 명·여러 개)",
  "gloss_ko": "여러 개의",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "숙제하다 답을 틀려서 지웠는데, 한 번으로 안 끝나고 두 번, 세 번 자꾸 고쳤어.",
   "한 번이 아니라 여러 번이지?",
   "이렇게 여러 번, 여러 개, 여러 명… '하나 말고 여럿'일 때 붙이는 말이야.",
   "그게 multiple이야."
  ],
+ "explanation_for_kids": null,
  "scene": "숙제 답을 한 번이 아니라 여러 번 고쳐 쓴 장면",
  "examples": [
   {
@@ -35,7 +36,7 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "동생이 서랍에서 머리핀을 다섯 개 꺼내서 손에 쥐고 있어. 이게 multiple이야?",
+   "question": "친구가 서랍에서 머리핀을 다섯 개 꺼내서 손에 쥐고 있어. 이게 multiple이야?",
    "choices": [
     "응, multiple 맞아",
     "아니, multiple 아니야"

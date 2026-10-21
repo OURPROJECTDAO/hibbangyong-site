@@ -11,15 +11,21 @@
  "word": "nominee",
  "slug": "nominee",
  "url": "https://hibbangyong.com/words/nominee/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "후보(자) — 상이나 자리를 두고 누군가가 공식적으로 이름을 올려 준 사람",
  "gloss_ko": "이름 올려진 후보",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "영화제에서 상을 주기 전에 후보 다섯 명부터 발표하잖아. 그 다섯 명이 다 nominee야.",
+  "과대표 선거에서 친구가 네 이름을 후보로 올려 주면, 너도 nominee가 되는 거야.",
+  "아직 뽑힌 건 아니야. 상을 받을 수도 있고 떨어질 수도 있어.",
+  "상 받은 사람이나 이름을 올려 준 사람이 아니고, 이름이 올라간 그 사람이 nominee야."
+ ],
+ "explanation_for_kids": [
   "영화제에서 상을 주기 전에 후보 다섯 명부터 발표하잖아. 그 다섯 명이 다 nominee야.",
   "반장 선거에서 친구가 네 이름을 후보로 올려 주면, 너도 nominee가 되는 거야.",
   "아직 뽑힌 건 아니야. 상을 받을 수도 있고 떨어질 수도 있어.",
@@ -28,8 +34,8 @@
  "scene": "영화제 시상식 전 후보 다섯 명 발표",
  "examples": [
   {
-   "en": "My brother is a nominee for class president this year.",
-   "ko": "우리 형이 올해 반장 후보로 이름이 올라갔어."
+   "en": "My brother is a nominee for student council president at his college.",
+   "ko": "우리 형이 대학교 학생회장 후보로 이름이 올라갔어."
   }
  ],
  "quiz": [

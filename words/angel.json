@@ -11,25 +11,26 @@
  "word": "angel",
  "slug": "angel",
  "url": "https://hibbangyong.com/words/angel/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "천사 — 이야기 속에서 하늘에서 내려와 사람을 지켜 주는, 날개 달린 착한 존재. 진짜 마음씨 착한 사람을 부를 때도 그렇게 불러.",
  "gloss_ko": "천사",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "길에서 꽈당 넘어져 울고 있는데, 누가 슬며시 다가와 일으켜 주고 가방까지 들어 줘.",
   "아무것도 안 바라고, 그냥 착한 마음으로 도와줘.",
   "이야기 속에선 하얀 날개를 달고 하늘에서 내려오기도 하고, 그냥 내 옆에 있는 진짜 착한 사람일 때도 있어.",
   "하늘에서 온 착한 존재, 또는 그만큼 착한 사람을 angel이라고 해."
  ],
+ "explanation_for_kids": null,
  "scene": "넘어져 우는 아이를 일으켜 세우고 가방을 들어 주는 장면",
  "examples": [
   {
-   "en": "My big sister is like an angel—she stays with me whenever I feel scared at night.",
-   "ko": "언니는 천사 같아서 밤에 무서울 때마다 옆에 있어 줘."
+   "en": "My neighbor is an angel—she fed my cat while I was away.",
+   "ko": "옆집 이웃은 진짜 천사야. 내가 집 비운 동안 고양이 밥을 챙겨 줬어."
   }
  ],
  "quiz": [

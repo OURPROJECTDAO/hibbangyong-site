@@ -11,38 +11,39 @@
  "word": "funky",
  "slug": "funky",
  "url": "https://hibbangyong.com/words/funky/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "개성 있는 — 흔하지 않고 색다른데 오히려 멋진",
  "gloss_ko": "색다르게 멋진",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "친구 방에 갔는데 벽에 낡은 레코드판이랑 알록달록한 전구가 걸려 있어.",
   "흔한 방이랑은 확 다른데 이상하다기보다 '오, 멋있다' 싶지.",
   "옷이든 가게든 머리 모양이든, 남다르면서 멋지면 funky라고 해.",
   "비싸고 깔끔하게 멋진 거랑은 달라. 어딘가 좀 튀어야 해."
  ],
+ "explanation_for_kids": null,
  "scene": "레코드판과 알록달록한 전구로 꾸민 친구 방",
  "examples": [
   {
-   "en": "My sister painted her old bike pink and green, and now it looks really funky.",
-   "ko": "언니가 헌 자전거를 분홍이랑 초록으로 칠했더니 완전 개성 있어 보이더라."
+   "en": "This new cafe has funky chairs in all different colors.",
+   "ko": "새로 생긴 이 카페에는 색깔이 제각각인 개성 있는 의자들이 있어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "아빠가 오늘도 회색 정장에 검은 구두를 신고 출근했어. 같은 버스에 탄 회사원 아저씨들도 거의 다 똑같이 입고 있었어. 아빠 차림은 'funky'야?",
+   "question": "룸메이트가 오늘도 회색 정장에 검은 구두를 신고 출근했어. 같은 버스에 탄 회사원들도 거의 다 똑같이 입고 있었어. 룸메이트 차림은 'funky'야?",
    "choices": [
     "응, funky 맞아",
     "아니, funky 아니야"
    ],
    "answer_index": 1,
    "answer": "아니, funky 아니야",
-   "why": "맞아! 아빠도 버스 속 회사원 아저씨들도 거의 다 회색 정장에 검은 구두라서 남다른 데가 하나도 없잖아. funky는 흔한 것과 확 달라서 튀어야 하니까 이 차림은 funky가 아닌 거야."
+   "why": "맞아! 룸메이트도 버스 속 회사원들도 거의 다 회색 정장에 검은 구두라서 남다른 데가 하나도 없잖아. funky는 흔한 것과 확 달라서 튀어야 하니까 이 차림은 funky가 아닌 거야."
   }
  ],
  "synonyms": [],

@@ -11,25 +11,26 @@
  "word": "guerrilla",
  "slug": "guerrilla",
  "url": "https://hibbangyong.com/words/guerrilla/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "게릴라 — 나라의 정식 군대가 아니라, 작은 무리로 숨어 다니다 갑자기 공격하고 빠지는 식으로 싸우는 사람",
  "gloss_ko": "게릴라",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "전쟁 중에 군복 입은 큰 군대가 쳐들어온다고 해 봐. 그 앞에 수가 훨씬 적은 무리가 있어.",
   "정면으로 붙으면 못 이겨. 그래서 산이나 숲에 숨어 있다가 갑자기 치고 빠져.",
   "이렇게 작은 무리로 숨어서 싸우는 사람이 guerrilla야. 나라 정식 군인도 아니고, 몰래 비밀을 캐 오는 스파이도 아니야.",
   "누구 편이냐에 따라 영웅으로도, 나쁜 무리로도 불려. 편이 아니라 싸우는 방식이 핵심이야."
  ],
+ "explanation_for_kids": null,
  "scene": "큰 정규군 앞에서 산·숲에 숨어 치고 빠지는 작은 무리",
  "examples": [
   {
-   "en": "My grandpa told me stories about the guerrillas in his town during the war.",
-   "ko": "할아버지가 전쟁 때 동네에 있던 게릴라들 이야기를 해 주셨어."
+   "en": "Last night I watched a movie about a young guerrilla in the jungle.",
+   "ko": "어젯밤에 정글에 있는 젊은 게릴라 이야기를 다룬 영화를 봤어."
   }
  ],
  "quiz": [

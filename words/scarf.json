@@ -11,23 +11,24 @@
  "word": "scarf",
  "slug": "scarf",
  "url": "https://hibbangyong.com/words/scarf/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "목도리 — 추울 때 목에 둘러 따뜻하게 하는 긴 천",
  "gloss_ko": "목도리",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "목에 빙 둘러 감는 길고 부드러운 천을 scarf라고 해요.",
   "추운 겨울날 밖에 나가기 전에 목에 두르면 바람이 안 들어와서 따뜻해요."
  ],
- "scene": "포근한 겨울 목도리(뜨개 스카프) 한 장 — 동사 'scarf'가 아니라 아이에게 친숙한 시각 의미인 '목도리' 사물로 그림. 긴 형태와 술 장식이 다 보이게 중앙에 부드럽게 말린 구도.",
+ "explanation_for_kids": null,
+ "scene": "포근한 겨울 목도리(뜨개 스카프) 한 장",
  "examples": [
   {
-   "en": "She wrapped a warm scarf around her neck before going outside.",
-   "ko": "걔는 밖에 나가기 전에 따뜻한 목도리를 목에 둘렀어."
+   "en": "I wore a warm scarf on my cold walk to work.",
+   "ko": "추운 출근길에 따뜻한 목도리를 하고 갔어."
   }
  ],
  "quiz": [
@@ -57,7 +58,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/scarf.webp",
-  "alt": "포근한 겨울 목도리(뜨개 스카프) 한 장 — 동사 'scarf'가 아니라 아이에게 친숙한 시각 의미인 '목도리' 사물로 그림. 긴 형태와 술 장식이 다 보이게 중앙에 부드럽게 말린 구도.",
+  "alt": "포근한 겨울 목도리(뜨개 스카프) 한 장",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

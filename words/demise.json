@@ -11,25 +11,31 @@
  "word": "demise",
  "slug": "demise",
  "url": "https://hibbangyong.com/words/demise/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "종말(끝나서 아예 사라짐) — 원래 있던 것이 끝나서 아예 사라지는 것 (사람에게 쓰면 죽음을 딱딱하게 이르는 말)",
  "gloss_ko": "아예 사라짐",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "동네 30년 된 문구점이 손님이 줄더니 결국 영영 문을 닫았어.",
+  "공룡이 사라진 것도, 오래된 회사가 없어진 것도 다 이거야. 천천히 끝나든 한순간에 끝나든 상관없어.",
+  "요즘 힘든 거나 잠깐 쉬는 거랑은 달라. 원래 있던 게 끝나서 아예 없어져야 돼.",
+  "사람한테 쓰면 '죽음'을 딱딱하게 말하는 말이 돼."
+ ],
+ "explanation_for_kids": [
   "학교 앞 30년 된 문구점이 손님이 줄더니 결국 영영 문을 닫았어.",
   "공룡이 사라진 것도, 오래된 회사가 없어진 것도 다 이거야. 천천히 끝나든 한순간에 끝나든 상관없어.",
   "요즘 힘든 거나 잠깐 쉬는 거랑은 달라. 원래 있던 게 끝나서 아예 없어져야 돼.",
   "사람한테 쓰면 '죽음'을 딱딱하게 말하는 말이 돼."
  ],
- "scene": "손님이 줄어 영영 문 닫은 학교 앞 30년 된 문구점",
+ "scene": "손님이 줄어 영영 문 닫은 동네 30년 된 문구점",
  "examples": [
   {
-   "en": "Everyone at our school talked about the demise of the small shop near the gate.",
-   "ko": "학교 정문 앞 작은 가게가 결국 없어진 얘기로 우리 학교 애들이 다 떠들었어."
+   "en": "Everyone on campus talked about the demise of the small shop near the gate.",
+   "ko": "학교 정문 앞 작은 가게가 결국 없어진 얘기로 캠퍼스가 다 떠들썩했어."
   }
  ],
  "quiz": [
@@ -55,7 +61,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/demise.webp",
-  "alt": "손님이 줄어 영영 문 닫은 학교 앞 30년 된 문구점",
+  "alt": "손님이 줄어 영영 문 닫은 동네 30년 된 문구점",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

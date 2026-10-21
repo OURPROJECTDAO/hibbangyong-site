@@ -11,31 +11,32 @@
  "word": "astray",
  "slug": "astray",
  "url": "https://hibbangyong.com/words/astray/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "길을 잃고 엉뚱한 데로 — 원래 가야 할 길에서 빗나가(물건·사람이 엉뚱한 곳으로 가거나, 계획·행동이 잘못된 쪽으로 흘러갈 때)",
  "gloss_ko": "길에서 빗나가",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "택배가 우리 집 말고 엉뚱한 동네로 가 버린 적 있지?",
   "원래 가야 할 길이 있었는데 거기서 옆으로 빠져 버린 거, 그게 astray야.",
   "길 얘기만은 아니야. 계획이 틀어지거나 친구 따라 나쁜 쪽으로 빠질 때도 써.",
   "목적 없이 그냥 돌아다니는 거랑은 달라. 가야 할 곳이 분명 있었는데 빗나간 거야."
  ],
+ "explanation_for_kids": null,
  "scene": "택배가 엉뚱한 동네로 잘못 간 상황",
  "examples": [
   {
-   "en": "Our class trip plan went astray after the first bus broke down.",
-   "ko": "첫 버스가 고장 나고 나서 우리 반 소풍 계획이 엉뚱하게 꼬여 버렸어."
+   "en": "Our trip plans went astray after our first train got canceled.",
+   "ko": "첫 기차가 취소되고 나서 우리 여행 계획이 엉뚱하게 꼬여 버렸어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "민수는 체험학습 날 지도를 보면서 과학관으로 걸어가고 있었어. 그런데 골목을 잘못 들어서 과학관과는 반대쪽에 있는 재래시장에 가 버렸어. 이걸 민수가 'astray' 갔다고 할 수 있을까?",
+   "question": "민수는 여행 간 날 지도를 보면서 과학관으로 걸어가고 있었어. 그런데 골목을 잘못 들어서 과학관과는 반대쪽에 있는 재래시장에 가 버렸어. 이걸 민수가 'astray' 갔다고 할 수 있을까?",
    "choices": [
     "응, astray 맞아",
     "아니, astray 아니야"

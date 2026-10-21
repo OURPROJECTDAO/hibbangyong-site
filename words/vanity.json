@@ -11,38 +11,39 @@
  "word": "vanity",
  "slug": "vanity",
  "url": "https://hibbangyong.com/words/vanity/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "허영심(내 모습에 너무 우쭐한 마음) — 자기 모습이나 잘난 점에 너무 빠져서 지나치게 우쭐해하는 마음",
  "gloss_ko": "너무 우쭐한 마음",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "새 옷 입은 날 거울 앞을 한 시간이나 못 떠나는 애가 있어. 시험 잘 본 날 하루 종일 그 점수만 떠올리면서 속으로 우쭐해하는 애도 있고.",
   "둘 다 '나 좀 대단한데?' 하는 생각에 너무 빠져 있어. 남이 보고 있든 없든 상관없어.",
   "얼굴이든 성적이든 물건이든, 내 잘난 모습에 지나치게 취해 있는 마음. 그게 vanity야.",
   "열심히 해서 해낸 일에 적당히 뿌듯한 건 이게 아니야. 남을 깔보는 거만함이랑도 달라. vanity는 남을 누르는 게 아니라 자기 모습에 빠져 있는 거야."
  ],
+ "explanation_for_kids": null,
  "scene": "새 옷 입은 날 거울 앞을 한 시간 동안 못 떠남",
  "examples": [
   {
-   "en": "Out of vanity, he checked his hair in every window he passed.",
-   "ko": "걔는 허영심 때문에 지나가는 창문마다 자기 머리를 비춰 봤어."
+   "en": "Out of vanity, he checked his hair in every shop window at the mall.",
+   "ko": "걔는 허영심 때문에 쇼핑몰 가게 유리창마다 자기 머리를 비춰 봤어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "민수는 새 운동화를 산 뒤로 수업 시간에도 책상 밑으로 자기 발만 계속 내려다보면서 '역시 이 신발 신은 나 진짜 멋지다' 하고 속으로 감탄해. 민수의 이 마음이 'vanity'야?",
+   "question": "민수는 새 운동화를 산 뒤로 회의 시간에도 책상 밑으로 자기 발만 계속 내려다보면서 '역시 이 신발 신은 나 진짜 멋지다' 하고 속으로 감탄해. 민수의 이 마음이 'vanity'야?",
    "choices": [
     "응, vanity 맞아",
     "아니, vanity 아니야"
    ],
    "answer_index": 0,
    "answer": "응, vanity 맞아",
-   "why": "맞아! 민수는 새 운동화를 신은 자기 모습에 푹 빠져서 수업 시간에도 발만 내려다보며 '역시 이 신발 신은 나 진짜 멋지다' 하고 혼자 감탄하잖아. 자기 멋진 모습에 이렇게 지나치게 취해 있는 마음이 바로 vanity인 거야."
+   "why": "맞아! 민수는 새 운동화를 신은 자기 모습에 푹 빠져서 회의 시간에도 발만 내려다보며 '역시 이 신발 신은 나 진짜 멋지다' 하고 혼자 감탄하잖아. 자기 멋진 모습에 이렇게 지나치게 취해 있는 마음이 바로 vanity인 거야."
   }
  ],
  "synonyms": [],

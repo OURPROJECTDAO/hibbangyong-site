@@ -16,7 +16,7 @@ Hi! Bbangyong is a cozy Korean mobile game for learning English vocabulary. Play
 
 - [홈](https://hibbangyong.com/): 하이빵용 소개, 화면, 자주 묻는 것
 - [영어 단어 쉽고 재밌게 외우는 법](https://hibbangyong.com/guide/remember-english-words/): 간격 복습, 먼저 떠올리기, 상황 속 예문, 쉬운 우리말 뜻풀이, 짧게 매일, 재미와 보상 — 왜 통하는지와 어떻게 하는지
-- [영어 낱말 뜻·아이 설명·문제](https://hibbangyong.com/words/): 영어 낱말 1,967개(레벨 L1~L9, 레벨별 목록). 낱말마다 «https://hibbangyong.com/words/<낱말>/» 한 장 — 쉬운 우리말 뜻(첫 줄), 아이에게 그대로 읽어 줄 설명, 상황 예문(영어＋우리말), 정답과 까닭이 글로 붙은 문제 하나, 헷갈리기 쉬운 말. 같은 내용 JSON = «https://hibbangyong.com/words/<낱말>.json», 낱말 목록 JSON(낱말·레벨·주소) = «https://hibbangyong.com/words/index.json». 주소의 <낱말> = 영어 낱말 소문자(하이픈 낱말은 그대로, 예: self-worth). 이용 조건: 출처를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요. 자세히 = «https://hibbangyong.com/words/terms/». 인용할 때 출처 표기 꼴: «출처: 하이빵용(hibbangyong.com/words/<낱말>/)».
+- [영어 낱말 뜻·쉬운 설명·예문·문제](https://hibbangyong.com/words/): 영어 낱말 1,967개(레벨 L1~L9, 레벨별 목록). 낱말마다 «https://hibbangyong.com/words/<낱말>/» 한 장 — 쉬운 우리말 뜻(첫 줄), 쉬운 설명, 상황 예문(영어＋우리말), 정답과 까닭이 글로 붙은 문제 하나, 헷갈리기 쉬운 말. 같은 내용 JSON = «https://hibbangyong.com/words/<낱말>.json», 낱말 목록 JSON(낱말·레벨·주소) = «https://hibbangyong.com/words/index.json». 주소의 <낱말> = 영어 낱말 소문자(하이픈 낱말은 그대로, 예: self-worth). 이용 조건: 출처를 밝히면 낱말 단위로 인용할 수 있어요. 대량으로 모아 다른 앱·서비스·데이터셋에 넣거나 다시 배포하는 것은 안 돼요. 그림은 빠져요. 자세히 = «https://hibbangyong.com/words/terms/». 인용할 때 출처 표기 꼴: «출처: 하이빵용(hibbangyong.com/words/<낱말>/)».
 - [설치 없이 3분 체험판](https://hibbangyong.com/play/): 웹에서 단어 4개를 배우고 미니게임 한 판
 - [Google Play에서 받기](https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp): 안드로이드 앱(무료)
 

@@ -11,20 +11,21 @@
  "word": "essence",
  "slug": "essence",
  "url": "https://hibbangyong.com/words/essence/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "어떤 것을 바로 그것이게 만드는, 빼면 안 되는 가장 중요한 알맹이",
  "gloss_ko": "빼면 안 될 알짜",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "레모네이드 한 잔에서 레몬을 쏙 빼봐.",
   "그럼 그냥 설탕물이야. 이제 레모네이드가 아니지?",
   "이렇게 뭔가를 바로 그것이게 만드는, 절대 못 빼는 알맹이가 있거든.",
   "그게 essence야."
  ],
+ "explanation_for_kids": null,
  "scene": "레몬을 뺀 레모네이드가 그냥 설탕물이 되는 장면",
  "examples": [
   {

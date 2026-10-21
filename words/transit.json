@@ -11,20 +11,21 @@
  "word": "transit",
  "slug": "transit",
  "url": "https://hibbangyong.com/words/transit/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "수송 — 사람이나 물건을 한 곳에서 다른 곳으로 옮기는 과정(출발했지만 아직 도착 전인 도중)",
  "gloss_ko": "옮겨 가는 도중",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "짐이든 사람이든, 출발은 했는데 아직 도착은 안 한 그 사이가 있지.",
   "택배가 트럭에 실려 가는 중도, 여행객이 공항을 거쳐 가는 중도 다 그 사이야.",
   "보내는 순간이나 받는 순간 말고, 한 곳에서 다른 곳으로 옮겨 가는 과정 자체가 transit이야.",
   "그래서 미국에선 사람을 실어 나르는 버스나 지하철 같은 대중교통을 transit이라고도 불러."
  ],
+ "explanation_for_kids": null,
  "scene": "출발했지만 아직 도착 안 한 짐·사람",
  "examples": [
   {

@@ -11,25 +11,26 @@
  "word": "headquarters",
  "slug": "headquarters",
  "url": "https://hibbangyong.com/words/headquarters/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "본부 — 여러 곳에 흩어진 사람들을 한군데서 지휘하는 중심 자리",
  "gloss_ko": "본부",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "소방서가 도시 곳곳에 다섯 군데 있다고 해봐.",
   "불이 나면 어디로 몇 대를 보낼지, 누가 정하지? 다섯 군데가 각자 우왕좌왕하면 큰일 나거든?",
   "그래서 딱 한 군데, 전체를 보고 명령을 내리는 자리가 따로 있어. 좋은 일을 지휘하든 나쁜 짓을 지휘하든 상관없어. 도둑떼한테도 그런 자리는 있으니까.",
   "그게 headquarters야. 그냥 제일 큰 건물이 아니라, 전체가 거기서 움직이는 자리."
  ],
+ "explanation_for_kids": null,
  "scene": "도시 곳곳 다섯 소방서를 한곳에서 지휘하는 자리",
  "examples": [
   {
-   "en": "Our club had a secret headquarters in the old treehouse.",
-   "ko": "우리 모임은 낡은 나무 위 집에 비밀 본부를 뒀어."
+   "en": "Our company headquarters is in Seoul.",
+   "ko": "우리 회사 본사는 서울에 있어."
   }
  ],
  "quiz": [

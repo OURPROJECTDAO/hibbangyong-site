@@ -11,25 +11,26 @@
  "word": "wide",
  "slug": "wide",
  "url": "https://hibbangyong.com/words/wide/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "옆으로 쫙 넓은, 폭이 넓은",
  "gloss_ko": "폭이 넓은",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "강가에 서서 건너편을 봐봐. 이쪽 끝에서 저쪽 끝까지가 멀~지?",
   "강만 그런 게 아냐. 길도, 대문도, 책상도, 두 사람 사이 틈도 — 한쪽에서 반대쪽까지 옆으로 멀면 다 그래.",
   "근데 '크다'랑은 달라. 위로 높이 솟은 게 아니라, 옆으로 쫙 벌어진 거거든?",
   "이게 wide야."
  ],
+ "explanation_for_kids": null,
  "scene": "강가에서 이쪽 끝~저쪽 끝까지 옆으로 멀게 벌어진 폭을 봄.",
  "examples": [
   {
-   "en": "The river was so wide that we could hardly see the other side.",
-   "ko": "강이 너무 넓어서 건너편이 잘 안 보였어."
+   "en": "The road by my apartment is really wide and busy.",
+   "ko": "우리 아파트 옆 도로는 엄청 넓고 차도 많아."
   }
  ],
  "quiz": [

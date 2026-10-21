@@ -11,21 +11,27 @@
  "word": "provide",
  "slug": "provide",
  "url": "https://hibbangyong.com/words/provide/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "필요한 걸 마련해서 대주다 (그냥 건네는 게 아니라, 있어야 할 걸 갖춰서 줌)",
  "gloss_ko": "갖춰서 대주기",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "캠핑 가면 텐트도, 물도, 먹을 것도, 있어야 할 게 진짜 많잖아.",
+  "누군가 그런 걸 다 갖춰서 대줘야 하잖아. 하나라도 없으면 안 되니까, 필요한 걸 마련해서 주는 거야.",
+  "물건만 그런 것도 아니야. 길을 몰라 막막할 때 필요한 정보를 알려주는 것도 이거야.",
+  "이게 provide야."
+ ],
+ "explanation_for_kids": [
   "캠핑 가면 텐트도, 물도, 먹을 것도, 있어야 할 게 진짜 많잖아.",
   "엄마 아빠가 그런 걸 다 갖춰서 대줘. 하나라도 없으면 안 되니까, 필요한 걸 마련해서 주는 거야.",
   "물건만 그런 것도 아니야. 길을 몰라 막막할 때 필요한 정보를 알려주는 것도 이거야.",
   "이게 provide야."
  ],
- "scene": "캠핑에서 부모가 텐트·물·먹을 것을 갖춰 대주는 장면",
+ "scene": "캠핑에서 텐트·물·먹을 것을 갖춰 대주는 장면",
  "examples": [
   {
    "en": "Our school provides free books to every student.",
@@ -35,14 +41,14 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "동생이 그림을 그리려는데 도화지도 크레파스도 하나도 없었어. 이모가 도화지랑 크레파스를 다 챙겨서 갖다줬어. 이게 'provide'야?",
+   "question": "친구가 그림을 그리려는데 캔버스도 물감도 하나도 없었어. 선배가 캔버스랑 물감을 다 챙겨서 갖다줬어. 이게 'provide'야?",
    "choices": [
     "응, provide 맞아",
     "아니, provide 아니야"
    ],
    "answer_index": 0,
    "answer": "응, provide 맞아",
-   "why": "맞아! 도화지도 크레파스도 하나도 없어서 그림을 못 그릴 뻔했는데, 이모가 있어야 할 걸 딱 챙겨서 갖다줬잖아. 필요한 걸 마련해서 대주는 거, 그게 바로 provide인 거야."
+   "why": "맞아! 캔버스도 물감도 하나도 없어서 그림을 못 그릴 뻔했는데, 선배가 있어야 할 걸 딱 챙겨서 갖다줬잖아. 필요한 걸 마련해서 대주는 거, 그게 바로 provide인 거야."
   }
  ],
  "synonyms": [],
@@ -63,7 +69,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/provide.webp",
-  "alt": "캠핑에서 부모가 텐트·물·먹을 것을 갖춰 대주는 장면",
+  "alt": "캠핑에서 텐트·물·먹을 것을 갖춰 대주는 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

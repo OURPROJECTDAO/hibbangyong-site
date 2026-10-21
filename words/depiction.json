@@ -11,25 +11,31 @@
  "word": "depiction",
  "slug": "depiction",
  "url": "https://hibbangyong.com/words/depiction/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "묘사 — 어떤 사람이나 대상을 그림·글·영상 같은 것으로 그려서 보여 준 것",
  "gloss_ko": "묘사",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "같은 우리 팀 모습을 누구는 그림으로, 누구는 글로, 누구는 영상으로 보여 줬어.",
+  "그렇게 무언가를 자기 방식으로 그려서 보여 준 걸 depiction이라고 해. 우리말로는 묘사야.",
+  "붓으로 그린 그림만 말하는 게 아니야. 소설 속 문장도, 영화 속 장면도 다 depiction이야.",
+  "그리고 진짜 그 자체와는 달라. 보여 준 사람의 눈이 들어가서 실제보다 좋게도, 나쁘게도 그려질 수 있어."
+ ],
+ "explanation_for_kids": [
   "같은 우리 반 모습을 누구는 그림으로, 누구는 글로, 누구는 영상으로 보여 줬어.",
   "그렇게 무언가를 자기 방식으로 그려서 보여 준 걸 depiction이라고 해. 우리말로는 묘사야.",
   "붓으로 그린 그림만 말하는 게 아니야. 소설 속 문장도, 영화 속 장면도 다 depiction이야.",
   "그리고 진짜 그 자체와는 달라. 보여 준 사람의 눈이 들어가서 실제보다 좋게도, 나쁘게도 그려질 수 있어."
  ],
- "scene": "같은 우리 반 모습을 그림·글·영상으로 각각 보여 준 장면",
+ "scene": "같은 우리 팀 모습을 그림·글·영상으로 각각 보여 준 장면",
  "examples": [
   {
-   "en": "The movie's depiction of school life felt too perfect to be real.",
-   "ko": "그 영화가 그린 학교생활은 너무 완벽해서 진짜 같지가 않았어."
+   "en": "The movie's depiction of high school life felt too perfect to be real.",
+   "ko": "그 영화가 그린 고등학교 생활은 너무 완벽해서 진짜 같지가 않았어."
   }
  ],
  "quiz": [
@@ -63,7 +69,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/depiction.webp",
-  "alt": "같은 우리 반 모습을 그림·글·영상으로 각각 보여 준 장면",
+  "alt": "같은 우리 팀 모습을 그림·글·영상으로 각각 보여 준 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,23 +11,24 @@
  "word": "triangle",
  "slug": "triangle",
  "url": "https://hibbangyong.com/words/triangle/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "삼각형 — 변이 세 개, 꼭짓점이 세 개인 도형",
  "gloss_ko": "삼각형",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "뾰족한 모서리가 세 개 있고, 곧은 선 세 개로 둘러싸인 도형이에요.",
   "샌드위치를 반으로 자르거나 옷걸이를 볼 때 이 모양을 찾을 수 있어요."
  ],
+ "explanation_for_kids": null,
  "scene": "노란색 정삼각형 도형 하나(세 변·세 꼭짓점이 또렷한 가장 전형적인 삼각형)",
  "examples": [
   {
-   "en": "The yellow road sign was shaped like a triangle.",
-   "ko": "그 노란 도로 표지판은 삼각형 모양이었어."
+   "en": "I folded the napkin into a triangle at the restaurant.",
+   "ko": "식당에서 냅킨을 삼각형으로 접었어."
   }
  ],
  "quiz": [

@@ -11,21 +11,27 @@
  "word": "agency",
  "slug": "agency",
  "url": "https://hibbangyong.com/words/agency/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "어떤 한 가지 일을 남 대신 맡아서 해 주는 회사나 곳(여행사처럼).",
  "gloss_ko": "대신 맡는 곳",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "친구가 여행 가려고 '여행사'에 갔어.",
+  "친구 대신 비행기표랑 잘 곳을 그 사람들이 딱 잡아 줘.",
+  "이런 데가 여행만 있는 게 아니야 — 광고만 대신 만들어 주는 곳, 살 집을 대신 찾아 주는 곳도 있어.",
+  "한 가지 일을 남 대신 맡아 해 주는 곳, 그게 agency야."
+ ],
+ "explanation_for_kids": [
   "엄마가 여행 가려고 '여행사'에 갔어.",
   "엄마 대신 비행기표랑 잘 곳을 그 사람들이 딱 잡아 줘.",
   "이런 데가 여행만 있는 게 아니야 — 광고만 대신 만들어 주는 곳, 살 집을 대신 찾아 주는 곳도 있어.",
   "한 가지 일을 남 대신 맡아 해 주는 곳, 그게 agency야."
  ],
- "scene": "엄마가 여행사에서 비행기표와 잘 곳을 대신 잡아 받는 장면",
+ "scene": "친구가 여행사에서 비행기표와 잘 곳을 대신 잡아 받는 장면",
  "examples": [
   {
    "en": "The agency planned our whole trip and booked the hotel for us.",
@@ -38,7 +44,7 @@
    "question": "네 군데를 설명할게. 어디를 'agency'라고 부를 수 있을까?",
    "choices": [
     "다른 사람들 광고를 맡아서 대신 만들어 주는 곳",
-    "장난감을 잔뜩 만들어서 가게에 파는 공장",
+    "과자를 잔뜩 만들어서 가게에 파는 공장",
     "남 위해서가 아니라 자기 먹을 것만 만드는 집",
     "회사원들이 모여 앉아 일하는 사무실 건물"
    ],
@@ -63,7 +69,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/agency.webp",
-  "alt": "엄마가 여행사에서 비행기표와 잘 곳을 대신 잡아 받는 장면",
+  "alt": "친구가 여행사에서 비행기표와 잘 곳을 대신 잡아 받는 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

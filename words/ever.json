@@ -11,20 +11,21 @@
  "word": "ever",
  "slug": "ever",
  "url": "https://hibbangyong.com/words/ever/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "언젠가·한 번이라도 — 지금까지든 앞으로든 어느 때든",
  "gloss_ko": "언젠가·한 번이라도",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "'너 지금까지 코끼리 본 적 있어?' 이렇게 물을 때 있잖아.",
   "어제도, 작년에도, 아기였을 때도 다 합쳐서 딱 한 번이라도 있었냐고 묻는 거거든?",
   "꼭 물어볼 때만 쓰는 것도 아니야. '이건 지금껏 최고야!' 할 때도, '어느 때든 필요하면 불러' 할 때도 시간을 통째로 훑는 거야.",
   "어느 한 순간만 콕 집는 게 아니라, '어느 때든 한 번이라도'를 뜻하는 게 ever야."
  ],
+ "explanation_for_kids": null,
  "scene": "코끼리 본 적 있냐고 지금까지를 통째로 묻는 상황",
  "examples": [
   {

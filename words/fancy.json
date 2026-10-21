@@ -11,25 +11,31 @@
  "word": "fancy",
  "slug": "fancy",
  "url": "https://hibbangyong.com/words/fancy/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "화려한, 고급스러운 — 평범한 것보다 꾸밈이 많고 비싸 보이는",
  "gloss_ko": "꾸밈 많은",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "컵 두 개가 있어. 하나는 그냥 하얀 컵, 하나는 금색 무늬에 보석 장식이 박힌 컵. 뒤엣거 봐봐, 딱 봐도 꾸밈이 잔뜩이지?",
+  "식당도 그래. 촛불 켜고 하얀 식탁보 깔린, 딱 봐도 비싸 보이는 곳 있잖아. 너무 번쩍번쩍해서 오히려 불편할 때도 이 말을 써.",
+  "근데 예쁘다고 다 그런 건 아니야. 들꽃은 예쁘지만 꾸밈이 하나도 없거든.",
+  "평범한 것보다 더 꾸미고 더 비싸 보이는 것, 그게 fancy야."
+ ],
+ "explanation_for_kids": [
   "컵 두 개가 있어. 하나는 그냥 하얀 컵, 하나는 금색 무늬에 반짝이가 콕콕 박힌 컵. 뒤엣거 봐봐, 딱 봐도 꾸밈이 잔뜩이지?",
   "식당도 그래. 촛불 켜고 하얀 식탁보 깔린, 딱 봐도 비싸 보이는 곳 있잖아. 너무 번쩍번쩍해서 오히려 불편할 때도 이 말을 써.",
   "근데 예쁘다고 다 그런 건 아니야. 들꽃은 예쁘지만 꾸밈이 하나도 없거든.",
   "평범한 것보다 더 꾸미고 더 비싸 보이는 것, 그게 fancy야."
  ],
- "scene": "하얀 컵과 금색 무늬·반짝이 박힌 컵 비교",
+ "scene": "하얀 컵과 금색 무늬·보석 박힌 컵 비교",
  "examples": [
   {
-   "en": "We went to a fancy restaurant for Grandma's birthday.",
-   "ko": "할머니 생신이라서 우리는 비싸고 멋진 식당에 갔어."
+   "en": "We went to a fancy restaurant for my friend's birthday.",
+   "ko": "친구 생일이라서 우리는 고급 식당에 갔어."
   }
  ],
  "quiz": [
@@ -65,7 +71,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/fancy.webp",
-  "alt": "하얀 컵과 금색 무늬·반짝이 박힌 컵 비교",
+  "alt": "하얀 컵과 금색 무늬·보석 박힌 컵 비교",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

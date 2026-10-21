@@ -11,21 +11,27 @@
  "word": "physique",
  "slug": "physique",
  "url": "https://hibbangyong.com/words/physique/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "체격 — 사람 몸의 크기와 생김새(크든 작든, 마르든 단단하든)",
  "gloss_ko": "체격",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "출근길 지하철 보면 다 달라. 어깨 넓은 사람, 작고 마른 사람, 키 크고 호리호리한 사람.",
+  "그렇게 겉으로 보이는 몸의 크기랑 생김새, 그게 physique야.",
+  "근육 많은 멋진 몸만 말하는 게 아니야. 작고 가는 몸도 다 physique야.",
+  "얼굴이 잘생겼는지, 오래 뛰어도 안 지치는지랑은 달라. 몸이 어떻게 생겼는지 그 자체야."
+ ],
+ "explanation_for_kids": [
   "체육 시간에 줄 서 보면 다 달라. 어깨 넓은 애, 작고 마른 애, 키 크고 호리호리한 애.",
   "그렇게 겉으로 보이는 몸의 크기랑 생김새, 그게 physique야.",
   "근육 많은 멋진 몸만 말하는 게 아니야. 작고 가는 몸도 다 physique야.",
   "얼굴이 잘생겼는지, 오래 뛰어도 안 지치는지랑은 달라. 몸이 어떻게 생겼는지 그 자체야."
  ],
- "scene": "체육 시간 줄 서기에서 보이는 서로 다른 몸집",
+ "scene": "출근길 지하철에서 보이는 서로 다른 몸집",
  "examples": [
   {
    "en": "Junho and his twin brother have the same face, but a very different physique.",

@@ -11,38 +11,44 @@
  "word": "demonstrate",
  "slug": "demonstrate",
  "url": "https://hibbangyong.com/words/demonstrate/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "보여줘서 알게 하다 — 말로만 하지 않고 눈앞에서 직접 해 보이거나 내보여서, 보는 사람이 알게 되거나 믿게 되는 것",
  "gloss_ko": "보여줘서 알게 하다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "말로만 설명하면 듣는 사람은 고개만 갸웃하거든?",
+  "그래서 눈앞에서 직접 해 보이는 거야. 이 캐리어가 어떻게 굴러가는지 굴려서 보여주고, 이 상자가 안 찌그러진다는 걸 위에 올라서서 보여주고.",
+  "저절로 눈에 띄는 거랑은 달라. 알게 하려고 일부러 내보이는 거야.",
+  "꼭 사람이 몸으로 하는 것만도 아니야. 검사 결과가 이 물 더럽다는 걸 딱 드러내 보일 때도 써. 그게 demonstrate야."
+ ],
+ "explanation_for_kids": [
   "말로만 설명하면 듣는 사람은 고개만 갸웃하거든?",
   "그래서 눈앞에서 직접 해 보이는 거야. 이 장난감이 어떻게 굴러가는지 굴려서 보여주고, 이 상자가 안 찌그러진다는 걸 위에 올라서서 보여주고.",
   "저절로 눈에 띄는 거랑은 달라. 알게 하려고 일부러 내보이는 거야.",
   "꼭 사람이 몸으로 하는 것만도 아니야. 검사 결과가 이 물 더럽다는 걸 딱 드러내 보일 때도 써. 그게 demonstrate야."
  ],
- "scene": "장난감이 어떻게 굴러가는지 눈앞에서 굴려 보인 장면",
+ "scene": "캐리어가 어떻게 굴러가는지 눈앞에서 굴려 보인 장면",
  "examples": [
   {
-   "en": "The nurse demonstrated how to wash our hands.",
-   "ko": "간호사 선생님이 손 씻는 법을 직접 보여줬어."
+   "en": "A nurse came to demonstrate how to wash our hands.",
+   "ko": "간호사가 손 씻는 법을 직접 보여 주러 왔어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "형이 새 우산이 바람에 안 뒤집힌다고 하니까 동생이 못 믿었어. 그래서 형은 동생을 선풍기 앞으로 데려가 우산을 펴서 바람을 세게 맞혀 보였어. 이게 'demonstrate'야?",
+   "question": "선배가 새 우산이 바람에 안 뒤집힌다고 하니까 후배가 못 믿었어. 그래서 선배는 후배를 선풍기 앞으로 데려가 우산을 펴서 바람을 세게 맞혀 보였어. 이게 'demonstrate'야?",
    "choices": [
     "응, demonstrate 맞아",
     "아니, demonstrate 아니야"
    ],
    "answer_index": 0,
    "answer": "응, demonstrate 맞아",
-   "why": "맞아! 형이 말로만 안 뒤집힌다고 하지 않고, 동생을 데려가서 진짜 바람을 맞혀 보여줬잖아. 눈앞에서 직접 해 보여서 믿게 만든 거, 그게 바로 demonstrate야."
+   "why": "맞아! 선배가 말로만 안 뒤집힌다고 하지 않고, 후배를 데려가서 진짜 바람을 맞혀 보여줬잖아. 눈앞에서 직접 해 보여서 믿게 만든 거, 그게 바로 demonstrate야."
   }
  ],
  "synonyms": [],
@@ -61,7 +67,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/demonstrate.webp",
-  "alt": "장난감이 어떻게 굴러가는지 눈앞에서 굴려 보인 장면",
+  "alt": "캐리어가 어떻게 굴러가는지 눈앞에서 굴려 보인 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

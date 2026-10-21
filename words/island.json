@@ -11,25 +11,26 @@
  "word": "island",
  "slug": "island",
  "url": "https://hibbangyong.com/words/island/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "섬 — 둘레가 온통 물로 둘러싸인 땅",
  "gloss_ko": "섬",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "바다 한가운데 땅이 똑 떨어져 있어.",
   "걸어서는 못 가. 빙 둘러서 다 물이거든?",
   "배를 타거나 헤엄쳐야 닿아.",
   "이렇게 둘레가 사방으로 다 물인 땅, 이게 island야."
  ],
+ "explanation_for_kids": null,
  "scene": "배 타고 닿는, 둘레가 온통 물인 땅덩이",
  "examples": [
   {
-   "en": "We rowed all the way around the island in our little boat.",
-   "ko": "우리는 작은 배로 섬을 빙 둘러 노를 저었어."
+   "en": "We took a ferry to the island for the weekend.",
+   "ko": "우리는 주말에 배를 타고 섬에 갔어."
   }
  ],
  "quiz": [

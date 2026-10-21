@@ -11,25 +11,26 @@
  "word": "barren",
  "slug": "barren",
  "url": "https://hibbangyong.com/words/barren/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "아무것도 안 자라는 — 풀이나 곡식이 나지 않는 (땅)",
  "gloss_ko": "풀 안 나는 땅",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "바위만 가득한 산꼭대기는 비가 와도 풀 한 포기 안 나.",
   "꽁꽁 언 땅도 그래. 물은 많은데 아무것도 못 자라.",
   "그러니까 barren은 물이 없다는 뜻이 아니야. 나와야 할 게 안 나온다는 거야.",
   "그래서 열매 하나 안 맺는 나무한테도 써."
  ],
+ "explanation_for_kids": null,
  "scene": "비가 와도 풀 한 포기 안 나는 바위산 꼭대기",
  "examples": [
   {
-   "en": "The land near the lake was barren, so the farmers moved away.",
-   "ko": "호숫가 땅인데도 아무것도 안 자라서 농부들이 다 떠났어."
+   "en": "On our road trip, we drove past miles of barren land.",
+   "ko": "차로 여행하면서 풀 한 포기 안 나는 땅을 한참 지나갔어."
   }
  ],
  "quiz": [

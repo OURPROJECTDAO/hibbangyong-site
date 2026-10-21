@@ -11,15 +11,21 @@
  "word": "million",
  "slug": "million",
  "url": "https://hibbangyong.com/words/million/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "백만 — 천을 천 번 모은, 아주 크지만 딱 정해진 진짜 수",
  "gloss_ko": "백만",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "천을 천 번 모으면?",
+  "짠, 백만이 돼!",
+  "끝없이 많은 게 아니야. 딱 정해진 수거든 — 큰 도시에 사는 사람 수가 백만쯤 되니까.",
+  "이렇게 진짜로 있는, 아주 큰 수. 그게 million이야."
+ ],
+ "explanation_for_kids": [
   "천이 얼마나 큰지 알지? 백을 열 번 모은 거잖아.",
   "그 천을 다시 천 번 모으면? 짠, 백만이 돼!",
   "끝없이 많은 게 아니야. 딱 정해진 수거든 — 큰 도시에 사는 사람 수가 백만쯤 되니까.",

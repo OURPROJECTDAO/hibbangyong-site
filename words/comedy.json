@@ -11,34 +11,35 @@
  "word": "comedy",
  "slug": "comedy",
  "url": "https://hibbangyong.com/words/comedy/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "코미디 — 웃기려고 만든 웃긴 것(영화·무대 쇼·연극 다 돼). 보는 내내 웃게 하고, 보고 나면 기분이 좋아져.",
  "gloss_ko": "코미디",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "온 가족이 소파에 붙어 앉아 웃긴 영화를 봐.",
   "배우가 자꾸 미끄러지고 실수하니까 다들 배꼽 잡고 깔깔 웃어.",
   "영화든 무대에서 사람이 직접 하는 쇼든, 이렇게 처음부터 끝까지 웃기려고 만든 게 있거든? 슬픈 얘기 말고, 보고 나면 기분 좋아지는 거.",
   "그게 comedy야."
  ],
+ "explanation_for_kids": null,
  "scene": "온 가족이 소파에서 웃긴 영화를 보며 배우 실수에 깔깔 웃는 장면",
  "examples": [
   {
-   "en": "On movie night we picked a comedy, and by the end my whole family was still laughing.",
-   "ko": "영화 보는 날 웃긴 영화를 골랐는데 끝날 때까지 온 가족이 웃었어."
+   "en": "On movie night we picked a comedy, and my family laughed the whole time.",
+   "ko": "영화 보는 날 코미디 영화를 골랐는데 가족들이 내내 웃었어."
   }
  ],
  "quiz": [
   {
    "type": "choice",
-   "question": "삼촌이 티비에서 하는 프로그램 네 개를 알려줬어. 이 중에 'comedy'는 어느 거야?",
+   "question": "친구가 티비에서 하는 프로그램 네 개를 알려줬어. 이 중에 'comedy'는 어느 거야?",
    "choices": [
     "요리사가 나와서 김치찌개 끓이는 순서를 차근차근 알려주는 프로그램",
-    "축구 선수들이 운동장에서 공을 차며 시합하는 걸 그대로 보여주는 프로그램",
+    "축구 선수들이 경기장에서 공을 차며 시합하는 걸 그대로 보여주는 프로그램",
     "사람들이 처음부터 끝까지 우스꽝스럽게 굴어서 보는 내내 웃음이 터지는 프로그램",
     "바다에 사는 고래가 헤엄치는 모습을 따라가며 설명해 주는 프로그램"
    ],

@@ -11,23 +11,24 @@
  "word": "bush",
  "slug": "bush",
  "url": "https://hibbangyong.com/words/bush/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "덤불 — 키 작고 잎이 촘촘하게 난 둥근 초록 나무",
  "gloss_ko": "덤불",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "잎이 빽빽하게 나서 둥그렇게 자란, 키가 작은 나무예요.",
   "공원이나 마당 울타리 옆에서 자주 볼 수 있고, 큰 나무보다 키가 작아 여러분 키만 하기도 해요."
  ],
+ "explanation_for_kids": null,
  "scene": "덤불 나무: 잎이 촘촘한 둥글둥글한 초록 관목 한 그루를 흙바닥 위에 통째로 그림 (shrub 의미)",
  "examples": [
   {
-   "en": "The cat hid behind the bush in our garden.",
-   "ko": "고양이가 우리 마당 덤불 뒤에 숨었어."
+   "en": "My keys fell into the bush outside my building.",
+   "ko": "건물 밖 덤불 속에 열쇠가 떨어졌어."
   }
  ],
  "quiz": [

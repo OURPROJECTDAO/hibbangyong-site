@@ -11,25 +11,26 @@
  "word": "domain",
  "slug": "domain",
  "url": "https://hibbangyong.com/words/domain/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "누가 맡은 일이나 잘 아는 쪽 — 금 그은 땅처럼 '여기까지는 그 사람 몫'인 데야.",
  "gloss_ko": "그 사람 몫인 영역",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "학교 청소 시간을 떠올려 봐. 우리 반은 복도 끝부터 계단까지, 그 너머는 옆 반. 금이 딱 그어져 있지?",
   "이렇게 여기부터 여기까지는 누가 맡는다고 정해진 데를 말해.",
   "땅만 그런 게 아니야. 아빠는 요리 쪽은 훤한데 컴퓨터 쪽은 깜깜하거든? 그 쪽, 그 갈래도 똑같이 말할 수 있어.",
   "그냥 넓기만 한 곳이 아니야. 임자가 정해진 데. 그게 domain이야."
  ],
+ "explanation_for_kids": null,
  "scene": "반끼리 금 그어 나눈 학교 복도 청소 구역",
  "examples": [
   {
-   "en": "Our class cleans this hallway, and that side is the other class's domain.",
-   "ko": "우리 반은 이 복도를 청소하고, 저쪽은 옆 반이 맡은 영역이야."
+   "en": "Our team cleans this hallway, and that side is the other team's domain.",
+   "ko": "우리 팀은 이 복도를 청소하고, 저쪽은 다른 팀이 맡은 영역이야."
   }
  ],
  "quiz": [

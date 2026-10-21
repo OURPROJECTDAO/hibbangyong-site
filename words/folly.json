@@ -11,25 +11,31 @@
  "word": "folly",
  "slug": "folly",
  "url": "https://hibbangyong.com/words/folly/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "어리석음 — 결과가 안 좋을 게 뻔한데도 하는 바보 같은 짓",
  "gloss_ko": "어리석은 짓",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "면접 전날, 다들 말리는데도 밤새 게임하기로 한 거 있잖아.",
+  "안 좋게 끝날 게 뻔히 보이는데 그쪽을 고르는 어리석은 짓, 그게 folly야.",
+  "한 사람이 저지를 수도 있고, 도시나 나라가 통째로 저지를 수도 있어.",
+  "친구들끼리 웃자고 하는 장난이나 깜빡한 실수랑은 달라. 손해가 남는 바보짓이야."
+ ],
+ "explanation_for_kids": [
   "시험 전날, 다들 말리는데도 밤새 게임하기로 한 거 있잖아.",
   "안 좋게 끝날 게 뻔히 보이는데 그쪽을 고르는 어리석은 짓, 그게 folly야.",
   "한 사람이 저지를 수도 있고, 도시나 나라가 통째로 저지를 수도 있어.",
   "친구들끼리 웃자고 하는 장난이나 깜빡한 실수랑은 달라. 손해가 남는 바보짓이야."
  ],
- "scene": "모두 말리는데 시험 전날 밤새 게임하기",
+ "scene": "모두 말리는데 면접 전날 밤새 게임하기",
  "examples": [
   {
-   "en": "Building the new road so close to the river was a folly that cost the town a lot of money.",
-   "ko": "강에 그렇게 바짝 붙여서 새 도로를 놓은 건 마을 돈만 잔뜩 날린 어리석은 짓이었어."
+   "en": "Quitting my job with no savings was pure folly.",
+   "ko": "모아 둔 돈도 없이 회사를 그만둔 건 정말 어리석은 짓이었어."
   }
  ],
  "quiz": [
@@ -61,7 +67,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/folly.webp",
-  "alt": "모두 말리는데 시험 전날 밤새 게임하기",
+  "alt": "모두 말리는데 면접 전날 밤새 게임하기",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

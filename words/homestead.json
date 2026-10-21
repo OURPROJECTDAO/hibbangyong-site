@@ -11,21 +11,27 @@
  "word": "homestead",
  "slug": "homestead",
  "url": "https://hibbangyong.com/words/homestead/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "농장 — 사는 집과 그 둘레 밭·땅을 한 덩어리로 부르는 말",
  "gloss_ko": "집 딸린 농장",
  "level": {
   "code": "L9",
-  "name": "토플 114~120점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "시골 농사짓는 집을 떠올려 봐. 집이 있고, 마당 너머로 밭이 쭉 이어져 있지.",
+  "그 집이랑 둘레 땅을 한 덩어리로 부르는 말이 homestead야.",
+  "건물만 말하면 그냥 집이고, 사람 안 사는 밭만 말해도 아니야. 둘이 같이 있어야 해.",
+  "옛날 미국에선 나라가 땅을 나눠 줘서, 사람들이 거기 집 짓고 이런 터를 새로 일구기도 했어."
+ ],
+ "explanation_for_kids": [
   "시골 할아버지네를 떠올려 봐. 집이 있고, 마당 너머로 밭이 쭉 이어져 있지.",
   "그 집이랑 둘레 땅을 한 덩어리로 부르는 말이 homestead야.",
   "건물만 말하면 그냥 집이고, 사람 안 사는 밭만 말해도 아니야. 둘이 같이 있어야 해.",
   "옛날 미국에선 나라가 땅을 나눠 줘서, 사람들이 거기 집 짓고 이런 터를 새로 일구기도 했어."
  ],
- "scene": "시골 할아버지네 집과 마당 너머 밭",
+ "scene": "시골 농사짓는 집과 마당 너머 밭",
  "examples": [
   {
    "en": "My grandparents still live on the old family homestead near the river.",
@@ -58,7 +64,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/homestead.webp",
-  "alt": "시골 할아버지네 집과 마당 너머 밭",
+  "alt": "시골 농사짓는 집과 마당 너머 밭",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

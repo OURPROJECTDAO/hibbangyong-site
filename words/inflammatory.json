@@ -11,25 +11,31 @@
  "word": "inflammatory",
  "slug": "inflammatory",
  "url": "https://hibbangyong.com/words/inflammatory/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "여럿을 화나게 하는(선동적인) — 여러 사람을 화나게 하고 들끓게 만들 만한 (말·글·행동)",
  "gloss_ko": "여럿을 화나게 하는",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "동대표 선거 때 누가 우리 동 단톡방에 글을 올렸어. 옆 동 후보가 우리 동을 무시한다는 내용이야.",
+  "사실인지도 모르는데, 읽은 사람들이 하나둘 부글부글 끓더니 분위기가 확 험해졌어.",
+  "이렇게 여러 사람 속에 화를 확 지피는 말이나 글, 행동이 inflammatory야. 뉴스에서 정치인 발언에도 똑같이 써.",
+  "그냥 버릇없는 말이나 의견이 갈리는 얘기랑은 달라. 욕이 있든 없든, 사람들 화에 불을 붙이면 이거야. 가운데 flam이 '불꽃'이라는 뿌리야. flame(불꽃)이랑 같은 집안이지."
+ ],
+ "explanation_for_kids": [
   "학생회 선거 때 누가 반 단톡방에 글을 올렸어. 옆 반 후보가 우리 반을 무시한다는 내용이야.",
   "사실인지도 모르는데, 읽은 애들이 하나둘 부글부글 끓더니 분위기가 확 험해졌어.",
   "이렇게 여러 사람 속에 화를 확 지피는 말이나 글, 행동이 inflammatory야. 뉴스에서 정치인 발언에도 똑같이 써.",
   "그냥 버릇없는 말이나 의견이 갈리는 얘기랑은 달라. 욕이 있든 없든, 사람들 화에 불을 붙이면 이거야. 가운데 flam이 '불꽃'이라는 뿌리야. flame(불꽃)이랑 같은 집안이지."
  ],
- "scene": "학생회 선거 때 옆 반 후보가 우리 반을 무시한다는 단톡방 글에 반 애들이 들끓음",
+ "scene": "동대표 선거 때 옆 동 후보가 우리 동을 무시한다는 단톡방 글에 주민들이 들끓음",
  "examples": [
   {
-   "en": "Someone posted an inflammatory message in our class chat.",
-   "ko": "누가 우리 반 단톡방에 애들 화를 확 돋우는 글을 올렸어."
+   "en": "Someone posted an inflammatory comment in our team group chat.",
+   "ko": "누가 우리 팀 단톡방에 사람들 화를 돋우는 글을 올렸어."
   }
  ],
  "quiz": [
@@ -55,7 +61,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/inflammatory.webp",
-  "alt": "학생회 선거 때 옆 반 후보가 우리 반을 무시한다는 단톡방 글에 반 애들이 들끓음",
+  "alt": "동대표 선거 때 옆 동 후보가 우리 동을 무시한다는 단톡방 글에 주민들이 들끓음",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

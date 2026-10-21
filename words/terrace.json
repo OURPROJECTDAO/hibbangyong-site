@@ -11,24 +11,25 @@
  "word": "terrace",
  "slug": "terrace",
  "url": "https://hibbangyong.com/words/terrace/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "테라스 — 비탈이나 집 밖을 계단처럼 깎거나 돋워 만든, 넓고 평평한 한 층",
  "gloss_ko": "테라스",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "비탈은 기울어져 있어서 서 있으면 주르륵 미끄러지잖아? 그래서 사람들이 비탈을 층층이 깎아 놨어. 한 층 평평, 그 아래 또 한 층 평평. 거기에 벼도 심고 걸어다니고 앉아 쉬기도 해.",
   "집 뒤쪽 땅을 한 단 높여 평평하게 만들어 놓은 바깥 바닥도 똑같이 불러. 밥상 펴고 밥 먹는 그 자리 말이야.",
   "위로 올라가려고 발만 겨우 딛는 좁은 계단이랑은 달라. 기울어진 비탈 그 자체도 아니고. 밟고 서서 지낼 수 있을 만큼 넓고 평평한 한 층, 그게 terrace야."
  ],
+ "explanation_for_kids": null,
  "scene": "비탈을 층층이 깎아 평평하게 만들어 놓은 산비탈 자리",
  "examples": [
   {
-   "en": "We ate lunch on the terrace behind our house.",
-   "ko": "우리는 집 뒤 테라스에서 점심을 먹었어."
+   "en": "My friends and I had coffee on the café terrace.",
+   "ko": "친구들이랑 카페 테라스에서 커피를 마셨어."
   }
  ],
  "quiz": [

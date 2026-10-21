@@ -11,25 +11,26 @@
  "word": "view",
  "slug": "view",
  "url": "https://hibbangyong.com/words/view/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "보이는 것 — 창밖 풍경처럼 눈에 보이는 모습, 또 어떤 일을 보는 내 생각(의견)",
  "gloss_ko": "눈에 보이는 풍경",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "창문 앞에 서서 밖을 봐봐. 쫙 펼쳐지는 그 모습 있지? 산이든 길이든, 그 자리에서 보이는 거.",
   "근데 자리를 옮기면? 보이는 것도 싹 달라져. '내가 어디서 보느냐'가 중요한 거거든.",
   "머릿속도 똑같아. 같은 일을 두고 '내가 보기엔 이래' 하는 거 있잖아. 그게 마음으로 본 모습이야.",
   "눈으로 보든 마음으로 보든, 그 자리에서 보이는 것 — 이게 view야."
  ],
+ "explanation_for_kids": null,
  "scene": "창가에서 밖을 봄 → 같은 일을 머릿속으로 봄(내 생각). '보는 자리'가 보이는 걸 바꾼다.",
  "examples": [
   {
-   "en": "Everyone has a different view about the best ice cream flavor.",
-   "ko": "최고의 아이스크림 맛이 뭔지에 대해 다들 생각이 달라."
+   "en": "Our hotel room has a great view of the sea.",
+   "ko": "우리 호텔 방은 바다 전망이 끝내줘."
   }
  ],
  "quiz": [

@@ -11,25 +11,31 @@
  "word": "vicinity",
  "slug": "vicinity",
  "url": "https://hibbangyong.com/words/vicinity/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "부근 — 어떤 곳을 빙 둘러싼 가까운 지역 (한 점이 아니라 그 둘레 전체)",
  "gloss_ko": "부근",
  "level": {
   "code": "L9",
-  "name": "토플 114~120점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "폰을 잃어버렸는데 정확히 어디서 떨어뜨렸는지는 몰라.",
+  "그래도 공원 둘레 어딘가인 건 확실해. 바로 옆 벤치든 조금 떨어진 수돗가든, 그 가까운 구역 전체가 vicinity야.",
+  "멀리 떨어진 곳은 안 쳐주고, 그 장소 자체보다는 그걸 둘러싼 언저리를 가리켜.",
+  "뉴스에서 '사고 현장 부근'이라고 할 때 그 부근이 이거야. 숫자에 붙이면 '대략 그쯤'이라는 뜻도 돼."
+ ],
+ "explanation_for_kids": [
   "폰을 잃어버렸는데 정확히 어디서 떨어뜨렸는지는 몰라.",
   "그래도 운동장 둘레 어딘가인 건 확실해. 바로 옆 벤치든 조금 떨어진 수돗가든, 그 가까운 구역 전체가 vicinity야.",
   "멀리 떨어진 곳은 안 쳐주고, 그 장소 자체보다는 그걸 둘러싼 언저리를 가리켜.",
   "뉴스에서 '사고 현장 부근'이라고 할 때 그 부근이 이거야. 숫자에 붙이면 '대략 그쯤'이라는 뜻도 돼."
  ],
- "scene": "운동장 둘레에서 잃어버린 휴대폰",
+ "scene": "공원 둘레에서 잃어버린 휴대폰",
  "examples": [
   {
-   "en": "Many people saw a bright light in the vicinity of the airport last night.",
-   "ko": "어젯밤 공항 부근에서 밝은 불빛을 봤다는 사람이 많았어."
+   "en": "There's no café in the vicinity of my office.",
+   "ko": "우리 회사 부근에는 카페가 하나도 없어."
   }
  ],
  "quiz": [
@@ -66,7 +72,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/vicinity.webp",
-  "alt": "운동장 둘레에서 잃어버린 휴대폰",
+  "alt": "공원 둘레에서 잃어버린 휴대폰",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

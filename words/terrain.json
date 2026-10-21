@@ -11,20 +11,21 @@
  "word": "terrain",
  "slug": "terrain",
  "url": "https://hibbangyong.com/words/terrain/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "지형 — 땅이 어떤 모양이고 어떤 종류인지(평평한지, 험한지, 모래인지 같은 것)",
  "gloss_ko": "땅의 모양·지형",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "자전거 타고 가면 발밑 땅이 계속 바뀌지. 평평한 길, 자갈밭, 오르막, 흙길.",
   "terrain은 그렇게 땅이 어떤 모양이고 어떤 종류인지를 말해. 좁은 한 구간이든 넓은 지역이든 다 돼.",
   "평평해서 걷기 쉬운 들판도, 바위투성이 산도, 모래 사막도 다 terrain이야. 험한 땅만 가리키는 게 아니야.",
   "그 땅이 누구 건지, 그 위에 뭐가 지어졌는지, 경치가 예쁜지는 terrain이 아니야. 땅 생김새만 봐."
  ],
+ "explanation_for_kids": null,
  "scene": "자전거로 가며 평지·자갈밭·오르막·흙길로 바뀌는 발밑 땅",
  "examples": [
   {

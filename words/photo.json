@@ -11,29 +11,30 @@
  "word": "photo",
  "slug": "photo",
  "url": "https://hibbangyong.com/words/photo/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "사진 — 카메라로 찍어 그 순간의 모습을 종이나 화면에 남긴 것",
  "gloss_ko": "사진",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "카메라로 찰칵 찍으면 그 순간이 이렇게 한 장에 담겨요. 이게 photo예요.",
   "가족 여행이나 생일에 카메라로 찍어서 벽에 붙이거나 앨범에 모아 두는 바로 그것이에요. 손으로 그린 그림과는 달라요."
  ],
+ "explanation_for_kids": null,
  "scene": "탁자 위에 놓인 즉석사진(폴라로이드) 한 장 — 두꺼운 흰 테두리 안에 밝은 풍경이 담긴 대표적인 '사진'의 모습",
  "examples": [
   {
-   "en": "Grandma keeps my baby photo on the wall.",
-   "ko": "할머니는 내 아기 때 사진을 벽에 걸어 두셔."
+   "en": "I took a photo of my lunch at the cafe.",
+   "ko": "카페에서 내 점심 사진을 찍었어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "동생이 찰흙으로 작은 그릇을 조물조물 빚고 있어요. 이게 photo야?",
+   "question": "친구가 공방에서 흙으로 작은 그릇을 빚고 있어요. 이게 photo야?",
    "choices": [
     "응, 맞아",
     "아니, 아니야"

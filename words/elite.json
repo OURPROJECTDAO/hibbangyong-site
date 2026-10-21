@@ -11,25 +11,26 @@
  "word": "elite",
  "slug": "elite",
  "url": "https://hibbangyong.com/words/elite/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "맨 위에 있는 아주 적은 몇 명 무리 — 잘해서든 힘이 세서든 위쪽을 차지한 사람들",
  "gloss_ko": "맨 위의 아주 적은 무리",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "반이 서른 명인데, 뭐 하고 놀지 늘 정하는 애는 딱 셋이거든? 나머지 스물일곱은 그냥 따라가. 위에 있는 건 그 셋뿐이야.",
   "잘해서 위에 있을 수도 있어. 백 명 중에 진짜 빠른 다섯만 뽑아 만든 달리기 팀처럼. 착해서가 아니라, 그냥 위쪽 몇 명이면 돼.",
   "나라를 쥐고 흔드는 어른 몇 명도 그래. 좋은 사람들이란 뜻이 아니야. 자리가 위라는 뜻이지.",
   "잘하는 사람 여럿 모인 큰 모임도 아니고, 혼자 제일 센 애 하나도 아니야. 위쪽에 딱 붙어 있는 그 작은 무리, 그게 elite야."
  ],
+ "explanation_for_kids": null,
  "scene": "서른 명 반에서 놀 것을 늘 정하는 애 셋",
  "examples": [
   {
    "en": "The king listened only to the elite, so nobody knew what the poor people wanted.",
-   "ko": "임금님이 위쪽 몇 명 말만 들어서 가난한 사람들이 뭘 원하는지 아무도 몰랐어."
+   "ko": "왕이 소수 상류층 말만 들어서 가난한 사람들이 뭘 원하는지 아무도 몰랐어."
   }
  ],
  "quiz": [

@@ -11,25 +11,31 @@
  "word": "regret",
  "slug": "regret",
  "url": "https://hibbangyong.com/words/regret/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "후회하다 — 이미 한 일이나 안 한 일을 두고 '아, 그럴걸' 하며 마음이 쓰린 것",
  "gloss_ko": "후회하다",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "워터파크에서 제일 높은 미끄럼틀 앞까지 갔다가, 무서워서 그냥 내려왔어.",
+  "집에 오는 차 안에서 자꾸 그 미끄럼틀이 떠올라. 잘못한 것도 없는데 마음이 쓰려.",
+  "'아, 그때 탈걸.' 지나간 내 선택을 도로 무르고 싶은 마음이야. 일이 안 풀려서 씩씩대는 거랑은 달라.",
+  "한 일도, 안 한 일도 이렇게 무르고 싶어져. 그게 regret이야."
+ ],
+ "explanation_for_kids": [
   "워터파크에서 제일 높은 미끄럼틀 앞까지 갔다가, 무서워서 그냥 내려왔어.",
   "집에 오는 차 안에서 자꾸 그 미끄럼틀이 떠올라. 잘못한 것도 없는데 마음이 콕콕해.",
   "'아, 그때 탈걸.' 지나간 내 선택을 도로 무르고 싶은 마음이야. 일이 안 풀려서 씩씩대는 거랑은 달라.",
   "한 일도, 안 한 일도 이렇게 무르고 싶어져. 그게 regret이야."
  ],
- "scene": "무서워서 높은 물미끄럼틀을 안 타고 내려온 아이",
+ "scene": "무서워서 높은 물미끄럼틀을 안 타고 내려온 사람",
  "examples": [
   {
-   "en": "I regret not going down the big slide.",
-   "ko": "그 큰 미끄럼틀을 안 타고 온 게 후회돼."
+   "en": "I regret not going to the concert.",
+   "ko": "그 콘서트에 안 간 게 후회돼."
   }
  ],
  "quiz": [
@@ -72,7 +78,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/regret.webp",
-  "alt": "무서워서 높은 물미끄럼틀을 안 타고 내려온 아이",
+  "alt": "무서워서 높은 물미끄럼틀을 안 타고 내려온 사람",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,15 +11,21 @@
  "word": "diabetes",
  "slug": "diabetes",
  "url": "https://hibbangyong.com/words/diabetes/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "당뇨병 — 먹은 것에서 나온 당을 몸이 잘 쓰지 못해서, 피 속에 당이 자꾸 쌓이는 병",
  "gloss_ko": "당뇨병",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "밥이나 빵을 먹으면, 몸속에서 달달한 당이 돼서 피를 타고 쭉 돌거든?",
+  "보통은 몸이 그 당을 꺼내서 힘으로 싹 써.",
+  "근데 그게 잘 안 돼서 피 속에 당이 자꾸 쌓이는 병이 있어. 아이도 어른도 걸릴 수 있어.",
+  "사탕 먹어서 이가 썩는 거랑은 달라. 그게 diabetes야."
+ ],
+ "explanation_for_kids": [
   "밥이나 빵을 먹으면, 몸속에서 달달한 당이 돼서 피를 타고 쭉 돌거든?",
   "보통은 몸이 그 당을 쏙쏙 꺼내서 힘으로 싹 써.",
   "근데 그게 잘 안 돼서 피 속에 당이 자꾸 쌓이는 병이 있어. 아이도 어른도 걸릴 수 있어.",

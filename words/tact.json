@@ -11,25 +11,26 @@
  "word": "tact",
  "slug": "tact",
  "url": "https://hibbangyong.com/words/tact/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "센스 있는 배려 — 남이 상처받거나 창피하지 않게 말과 행동을 골라서 하는 능력",
  "gloss_ko": "말 가리는 센스",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "친구가 머리를 새로 잘랐는데 솔직히 좀 별로야. 근데 친구가 어떠냐고 물어봐.",
   "'이상해'라고 툭 던지면 상처받고, '완전 최고'라고 하면 거짓말이지.",
   "'앞머리는 진짜 잘 어울린다'처럼 상대가 덜 민망하게 말을 고르는 것, 그리고 남 앞에서 지적하지 않고 따로 조용히 말해 주는 것도 tact야.",
   "웃기는 말재주나 듣기 좋은 거짓말이랑은 달라. 진짜를 전하되 상대 마음이 덜 다치게 고르는 거야."
  ],
+ "explanation_for_kids": null,
  "scene": "친구의 새 머리 모양이 별로인데 어떠냐고 물어보는 상황",
  "examples": [
   {
-   "en": "It takes tact to tell your friend that her song wasn't very good.",
-   "ko": "친구한테 노래가 별로였다고 말하려면 말을 잘 골라서 해야 해."
+   "en": "It takes tact to tell your boss the plan won't work.",
+   "ko": "상사한테 그 계획이 안 될 거라고 말하려면 말을 잘 골라서 해야 해."
   }
  ],
  "quiz": [

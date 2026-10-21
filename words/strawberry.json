@@ -11,23 +11,24 @@
  "word": "strawberry",
  "slug": "strawberry",
  "url": "https://hibbangyong.com/words/strawberry/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "딸기 — 빨갛고 겉에 씨가 오톨오톨 박힌 새콤달콤한 과일",
  "gloss_ko": "딸기",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "빨갛게 익어서 겉에 작은 씨가 콕콕 박히고 위엔 초록 꼭지가 달린 과일이에요.",
   "우유에 갈아 마시거나 케이크 위에 올려서 먹기도 해요."
  ],
+ "explanation_for_kids": null,
  "scene": "잘 익은 새빨간 딸기 한 알 — 하트 모양 몸통에 오톨도톨 씨앗과 위쪽 초록 꼭지가 선명하게 보이는 클로즈업(과일 딸기)",
  "examples": [
   {
-   "en": "I put a strawberry on top of my ice cream.",
-   "ko": "아이스크림 위에 딸기를 하나 올렸어."
+   "en": "The café put one strawberry on top of my cheesecake.",
+   "ko": "카페에서 내 치즈케이크 위에 딸기를 하나 올려 줬어."
   }
  ],
  "quiz": [

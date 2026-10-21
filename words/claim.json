@@ -11,20 +11,21 @@
  "word": "claim",
  "slug": "claim",
  "url": "https://hibbangyong.com/words/claim/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "주장 — 아직 맞는지 확인 안 된 채로, 자기가 사실이라고 내세우는 말",
  "gloss_ko": "주장",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "운동장에서 민수가 그러는 거야. \"내가 제일 빨리 달려!\" 근데 아직 아무도 안 재봤거든?",
   "이럴 때 민수가 한 그 말이 claim이야. 진짜일 수도 있고, 아닐 수도 있어.",
   "\"이 약 먹으면 키 커요\" 같은 광고 문구도, \"저 우산 내 거예요\" 하고 내미는 말도 똑같이 claim이야.",
   "확인된 사실이라서 claim인 게 아니라, 아직 확인 전인데 내세운 말이라서 claim인 거야. 그게 claim이야."
  ],
+ "explanation_for_kids": null,
  "scene": "운동장에서 아직 안 재본 채 자기가 제일 빠르다고 내세운 말",
  "examples": [
   {

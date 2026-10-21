@@ -11,31 +11,32 @@
  "word": "gaze",
  "slug": "gaze",
  "url": "https://hibbangyong.com/words/gaze/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "가만히 오래 보는 눈길 — 한곳에 딱 붙어서 떨어지지 않는 눈",
  "gloss_ko": "가만히 오래 보는 눈길",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "엘리베이터 문에 숫자가 바뀌잖아. 사람들 눈이 거기 딱 붙어서 안 떨어져. 그게 gaze야.",
   "무서운 것도, 예쁜 것도, 아무것도 아닌 것도 다 돼. 창밖 비 오는 거 멍하니 보는 눈길도 gaze고, 낯선 사람이 나를 계속 쳐다보는 그 껄끄러운 눈길도 gaze야.",
   "중요한 건 오래 머문다는 거야. 휙 보고 마는 눈길은 gaze가 아니거든?",
   "눈이 한자리에 오래 앉아 있는 것 — 그게 gaze야."
  ],
+ "explanation_for_kids": null,
  "scene": "엘리베이터 층수 숫자에 눈이 붙어 안 떨어지는 사람들",
  "examples": [
   {
-   "en": "I felt his gaze on the back of my neck all through class.",
-   "ko": "수업 내내 그 애의 시선이 내 목덜미에 꽂혀 있는 게 느껴졌어."
+   "en": "I felt my manager's gaze on me during my presentation.",
+   "ko": "발표하는 동안 팀장님 시선이 나한테 꽂혀 있는 게 느껴졌어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "수족관 앞에서 형이 큰 물고기 한 마리를 눈으로 따라가며 오분 넘게 그대로 서 있어. 이게 'gaze'야?",
+   "question": "수족관 앞에서 친구가 큰 물고기 한 마리를 눈으로 따라가며 오분 넘게 그대로 서 있어. 이게 'gaze'야?",
    "choices": [
     "응, gaze 맞아",
     "아니, gaze 아니야"

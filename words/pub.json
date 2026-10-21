@@ -11,25 +11,26 @@
  "word": "pub",
  "slug": "pub",
  "url": "https://hibbangyong.com/words/pub/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "펍 — 어른들이 맥주 같은 걸 마시고 밥도 먹으면서 이야기하는 동네 가게",
  "gloss_ko": "펍",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "동네 골목에 문이 하나 있어. 밀고 들어가면 안이 시끌시끌해.",
   "어른들이 큰 잔을 들고 앉아서 웃고 떠들거든? 옆 사람들끼리 축구 얘기도 하고, 감자튀김도 시켜 먹어.",
   "낮에는 조용히 밥만 먹는 사람도 있고, 밤에는 사람이 꽉 차기도 해.",
   "커피 파는 카페도 아니고, 조용히 밥만 먹고 나오는 식당도 아니야. 마시면서 오래 떠드는 곳, 그게 pub이야."
  ],
+ "explanation_for_kids": null,
  "scene": "동네 골목에서 문 밀고 들어가는 시끌시끌한 가게",
  "examples": [
   {
-   "en": "Dad met his friends at the pub after work.",
-   "ko": "아빠는 퇴근하고 친구들을 펍에서 만났어."
+   "en": "I met my coworkers at the pub for dinner after work.",
+   "ko": "퇴근하고 회사 동료들이랑 펍에서 저녁 먹었어."
   }
  ],
  "quiz": [

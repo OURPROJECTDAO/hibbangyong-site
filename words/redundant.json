@@ -11,20 +11,21 @@
  "word": "redundant",
  "slug": "redundant",
  "url": "https://hibbangyong.com/words/redundant/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "(일자리가) 없어져 잘린 — 그 자리가 더는 필요 없어져서 일을 잃은. 넓게는, 이미 다른 게 그 몫을 하고 있어서 없어도 되는",
  "gloss_ko": "일자리가 없어져 잘린",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "회사에 새 기계가 들어왔어. 그 일을 하던 사람 자리가 더는 필요 없어졌지.",
   "영국에선 이렇게 일을 잃는 걸 redundant라고 해. 사람이 일을 못해서가 아니야. 그 자리가 남게 된 거야.",
   "넓게 보면 '이미 다른 게 하고 있어서 없어도 되는' 거야. 글에 같은 말을 두 번 쓰면, 두 번째 말도 redundant야.",
   "고장 나서 못 쓰는 거랑은 달라. 멀쩡한데 남는 거야."
  ],
+ "explanation_for_kids": null,
  "scene": "공장에 기계가 들어와 사람 자리가 필요 없어짐",
  "examples": [
   {

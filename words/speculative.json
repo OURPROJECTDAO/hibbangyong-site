@@ -11,20 +11,21 @@
  "word": "speculative",
  "slug": "speculative",
  "url": "https://hibbangyong.com/words/speculative/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "짐작으로 한(추측에 근거한) — 사실을 다 확인하지 못한 채 짐작으로 한",
  "gloss_ko": "짐작으로 한",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "과학 뉴스에서 화성 사진 몇 장을 보고 '옛날에 여기 바다가 있었을지도 몰라' 하고 말했어. 직접 가서 확인한 사람은 아직 없어.",
   "이렇게 사실을 다 모르는 채 짐작으로 한 생각, 말, 결정이 speculative야. 짐작 하나만 믿고 값이 오를 것 같은 땅을 사 두는 것도 여기 들어가.",
   "거짓말이나 지어낸 이야기랑은 달라. 나중에 맞는 걸로 밝혀질 수도 있고 틀릴 수도 있어.",
   "맞았냐 틀렸냐가 아니라, 아직 확인이 안 된 짐작에 기대고 있다는 게 핵심이야."
  ],
+ "explanation_for_kids": null,
  "scene": "화성 사진 몇 장을 보고 옛날 바다가 있었을 거라고 짐작한 과학 뉴스",
  "examples": [
   {
@@ -35,14 +36,14 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "선생님이 교실에 들어올 때 표정이 굳어 있는 걸 보고, 짝이 '내일 쪽지시험 보나 봐'라고 말했어. 선생님은 시험 얘기를 한 번도 한 적이 없어. 짝의 말은 'speculative'야?",
+   "question": "팀장님이 출근할 때 표정이 굳어 있는 걸 보고, 동료가 '내일 점검 있나 봐'라고 말했어. 팀장님은 점검 얘기를 한 번도 한 적이 없어. 동료의 말은 'speculative'야?",
    "choices": [
     "응, speculative 맞아",
     "아니, speculative 아니야"
    ],
    "answer_index": 0,
    "answer": "응, speculative 맞아",
-   "why": "맞아! 짝은 선생님 굳은 표정 하나만 보고 내일 쪽지시험을 짐작한 거야. 선생님은 시험 얘기를 한 번도 안 했으니 확인 안 된 짐작에 기댄 말이고, 그래서 speculative가 맞아."
+   "why": "맞아! 동료는 팀장님 굳은 표정 하나만 보고 내일 점검을 짐작한 거야. 팀장님은 점검 얘기를 한 번도 안 했으니 확인 안 된 짐작에 기댄 말이고, 그래서 speculative가 맞아."
   }
  ],
  "synonyms": [],

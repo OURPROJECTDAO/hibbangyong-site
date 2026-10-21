@@ -11,25 +11,31 @@
  "word": "stiff",
  "slug": "stiff",
  "url": "https://hibbangyong.com/words/stiff/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "뻣뻣한 — 잘 휘지도 않고 움직이기도 뻑뻑한",
  "gloss_ko": "뻣뻣한",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "두꺼운 종이를 손에 들고 구부려 봐. 힘을 줘도 잘 안 굽고 툭, 도로 펴지지?",
+  "아침에 일어났는데 목이 잘 안 돌아갈 때 있잖아. 그것도 같은 말이야. 굽히려면 힘이 들어.",
+  "축 늘어져서 아무렇게나 접히는 손수건이랑은 정반대야. 그렇다고 무거워서 못 드는 거랑은 달라. 무게가 아니라, 굽히거나 움직이기가 뻑뻑한 거거든.",
+  "이게 stiff야."
+ ],
+ "explanation_for_kids": [
   "두꺼운 도화지를 손에 들고 구부려 봐. 힘을 줘도 잘 안 굽고 툭, 도로 펴지지?",
   "아침에 일어났는데 목이 잘 안 돌아갈 때 있잖아. 그것도 같은 말이야. 굽히려면 힘이 들어.",
   "축 늘어져서 아무렇게나 접히는 손수건이랑은 정반대야. 그렇다고 무거워서 못 드는 거랑은 달라. 무게가 아니라, 굽히거나 움직이기가 뻑뻑한 거거든.",
   "이게 stiff야."
  ],
- "scene": "힘을 줘도 잘 안 굽고 도로 펴지는 두꺼운 도화지",
+ "scene": "힘을 줘도 잘 안 굽고 도로 펴지는 두꺼운 종이",
  "examples": [
   {
-   "en": "My neck felt stiff when I woke up this morning.",
-   "ko": "오늘 아침 일어났을 때 목이 뻣뻣했어."
+   "en": "My legs felt stiff the day after the gym.",
+   "ko": "헬스장 다녀온 다음 날 다리가 뻣뻣했어."
   }
  ],
  "quiz": [
@@ -57,7 +63,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/stiff.webp",
-  "alt": "힘을 줘도 잘 안 굽고 도로 펴지는 두꺼운 도화지",
+  "alt": "힘을 줘도 잘 안 굽고 도로 펴지는 두꺼운 종이",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

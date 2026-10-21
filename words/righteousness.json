@@ -11,21 +11,22 @@
  "word": "righteousness",
  "slug": "righteousness",
  "url": "https://hibbangyong.com/words/righteousness/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "정의로움 — 도덕적으로 옳은 쪽에 서는 것",
  "gloss_ko": "도덕적 올바름",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "반 친구들이 다 답을 돌려 봐도 혼자 안 보는 애 있지. 그게 옳은 일이라서 안 보는 거야.",
   "righteousness는 이렇게 옳고 그름을 따져서 옳은 쪽에 서는 걸 말해.",
   "착한 것, 친절한 것과는 달라. 기준이 따뜻한 마음이 아니라 옳고 그름이야.",
   "시험 문제 답이 맞았다는 그런 맞음도 아니야. 양심 쪽 이야기야.",
   "가끔은 '나는 옳고 너는 틀렸어' 하고 꼿꼿하게 구는 태도에도 써."
  ],
+ "explanation_for_kids": null,
  "scene": "반 친구들이 시험 답을 돌려 볼 때 혼자 안 보는 학생",
  "examples": [
   {
@@ -38,7 +39,7 @@
    "type": "choice",
    "question": "친구 네 명이 어제 한 일을 말했어. 다음 중 'righteousness'에 해당하는 것은?",
    "choices": [
-    "체육 시간에 달리기를 해서, 반에서 1등을 했어.",
+    "회사 체육대회 때 달리기를 해서, 팀에서 1등을 했어.",
     "편의점에서 거스름돈을 더 받아서, 바로 돌려줬어.",
     "점심 시간에 배가 너무 고파서, 빵을 두 개 먹었어.",
     "주말에 머리가 길어서, 미용실에 가서 짧게 잘랐어."

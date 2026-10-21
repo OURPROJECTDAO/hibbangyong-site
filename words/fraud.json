@@ -11,25 +11,26 @@
  "word": "fraud",
  "slug": "fraud",
  "url": "https://hibbangyong.com/words/fraud/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "사기 — 남을 속여서 돈이나 이득을 챙기는 범죄",
  "gloss_ko": "사기",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "보험금을 타려고 가짜 사고를 꾸미는 거, 선거에서 표 수를 몰래 고치는 거. 둘 다 fraud야.",
   "챙기는 게 꼭 돈만은 아니야. 표든, 자리든, 이름값이든 속여서 얻어 내면 다 들어가.",
   "그렇게 속이는 사람이나 가짜 물건을 두고 fraud라고 부르기도 해. 우리말로 사기꾼, 가짜 같은 느낌이야.",
   "장난으로 한 거짓말, 속이지 않고 그냥 훔친 거, 실수로 틀린 거랑은 달라. 일부러 속여서 뭔가를 챙기는 게 핵심이야."
  ],
+ "explanation_for_kids": null,
  "scene": "가짜 사고를 꾸며 보험금 타기",
  "examples": [
   {
-   "en": "The message said I won a free phone, but Mom said it was a fraud.",
-   "ko": "내가 공짜 폰에 당첨됐다는 문자가 왔는데, 엄마가 그건 사기라고 했어."
+   "en": "The text said I won a free phone, but it was a fraud.",
+   "ko": "공짜 폰에 당첨됐다는 문자가 왔는데, 알고 보니 사기였어."
   }
  ],
  "quiz": [

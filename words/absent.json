@@ -11,38 +11,44 @@
  "word": "absent",
  "slug": "absent",
  "url": "https://hibbangyong.com/words/absent/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "없는 — 와야 할 자리에 안 와서 빠진",
  "gloss_ko": "없는",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "아침에 사무실 딱 들어갔는데, 옆자리 동료 자리가 텅 비었어.",
+  "가방도 없고 의자도 그대로야. 오늘 하루 종일 안 왔거든.",
+  "물건이 없어진 게 아니라, 원래 와야 할 사람이 그 자리에 안 온 거야.",
+  "이렇게 와야 할 사람이 그 자리에 안 온 걸 absent라고 해."
+ ],
+ "explanation_for_kids": [
   "아침에 교실 딱 들어갔는데, 짝꿍 자리가 텅 비었어.",
   "가방도 없고 의자도 그대로야. 오늘 하루 종일 안 왔거든.",
   "물건이 없어진 게 아니라, 원래 와야 할 애가 그 자리에 안 온 거야.",
   "이렇게 와야 할 사람이 그 자리에 안 온 걸 absent라고 해."
  ],
- "scene": "아침 교실에서 텅 빈 짝꿍 자리를 본 장면",
+ "scene": "아침 사무실에서 텅 빈 동료 자리를 본 장면",
  "examples": [
   {
-   "en": "My best friend was absent from school today because she was sick.",
-   "ko": "제일 친한 친구가 아파서 오늘 학교에 안 왔어."
+   "en": "Half the team was absent today because of the flu.",
+   "ko": "독감 때문에 오늘 팀원 절반이 안 나왔어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "오늘 우리 반 단체 사진을 찍었어. 민수는 감기에 걸려서 오늘 학교에 아예 안 왔어. 민수는 오늘 'absent'였어?",
+   "question": "오늘 우리 팀 단체 사진을 찍었어. 민수는 감기에 걸려서 오늘 회사에 아예 안 왔어. 민수는 오늘 'absent'였어?",
    "choices": [
     "응, absent 맞아",
     "아니, absent 아니야"
    ],
    "answer_index": 0,
    "answer": "응, absent 맞아",
-   "why": "맞아! 민수는 감기에 걸려서 오늘 학교에 아예 안 왔잖아. 와야 할 교실에 안 온 거라서, 바로 그게 absent인 거야."
+   "why": "맞아! 민수는 감기에 걸려서 오늘 회사에 아예 안 왔잖아. 와야 할 사무실에 안 온 거라서, 바로 그게 absent인 거야."
   }
  ],
  "synonyms": [],
@@ -63,7 +69,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/absent.webp",
-  "alt": "아침 교실에서 텅 빈 짝꿍 자리를 본 장면",
+  "alt": "아침 사무실에서 텅 빈 동료 자리를 본 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,23 +11,24 @@
  "word": "microphone",
  "slug": "microphone",
  "url": "https://hibbangyong.com/words/microphone/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "마이크 — 목소리를 크게 키워서 멀리까지 들리게 해 주는 물건",
  "gloss_ko": "마이크",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그물망처럼 생긴 둥근 머리에 대고 말하거나 노래하면 소리가 커지는 물건이에요.",
   "노래방에서 노래할 때나 무대에서 사람들 앞에서 말할 때 손에 쥐고 써요."
  ],
+ "explanation_for_kids": null,
  "scene": "화면 정중앙에 무선 손잡이 마이크 한 개를 크게 — 은색 둥근 그물망 헤드와 검은 손잡이가 전신으로 다 보이게 (노래·말할 때 쓰는 그 마이크의 가장 전형적인 모습)",
  "examples": [
   {
-   "en": "She held the microphone and sang her favorite song.",
-   "ko": "그 애는 마이크를 잡고 제일 좋아하는 노래를 불렀어."
+   "en": "My friend grabbed the microphone and sang at karaoke.",
+   "ko": "친구가 노래방에서 마이크를 잡고 노래를 불렀어."
   }
  ],
  "quiz": [

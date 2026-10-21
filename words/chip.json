@@ -11,18 +11,19 @@
  "word": "chip",
  "slug": "chip",
  "url": "https://hibbangyong.com/words/chip/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "감자칩 — 감자를 얇게 썰어 바삭하게 튀긴 과자",
  "gloss_ko": "감자칩",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "봉지 안에 든 얇고 바삭한 감자 과자예요.",
   "간식 시간에 하나씩 집어 먹는 짭짤한 조각이 바로 이것이에요."
  ],
+ "explanation_for_kids": null,
  "scene": "감자칩 한 조각(potato chip)을 그림 — 노릇하게 튀겨진 물결무늬 감자칩의 가장 전형적인 모습",
  "examples": [
   {

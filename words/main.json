@@ -11,20 +11,21 @@
  "word": "main",
  "slug": "main",
  "url": "https://hibbangyong.com/words/main/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "가장 중요한, 주된 — 여럿 가운데 중심이 되는 하나",
  "gloss_ko": "가장 중요한, 주된",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "이야기 속에 나오는 애들이 엄청 많아. 봐봐.",
   "근데 그중에 딱 하나, 처음부터 끝까지 이야기가 걔만 졸졸 따라다니는 애가 있거든?",
   "덩치가 커서가 아니야 — 조그만 생쥐여도, 이야기가 그 애 얘기면 그 애가 제일 중요한 거야.",
   "여럿 중에 제일 중요하고 중심인 하나. 그게 main이야."
  ],
+ "explanation_for_kids": null,
  "scene": "수많은 등장인물 중 이야기가 처음부터 끝까지 따라가는 작은 생쥐 주인공",
  "examples": [
   {

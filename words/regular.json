@@ -11,20 +11,21 @@
  "word": "regular",
  "slug": "regular",
  "url": "https://hibbangyong.com/words/regular/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "규칙적인 — 들쭉날쭉하지 않고 같은 간격으로 되풀이되는",
  "gloss_ko": "규칙적인",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "수도꼭지에서 물이 똑… 똑… 똑… 세어보면 늘 같은 간격으로 떨어져.",
   "매일이 아니어도 돼. 두 달에 한 번 치과에 가도, 정해진 대로 오면 그거야.",
   "자주 일어나는 거랑은 달라. 하루에 열 번이라도 아무 때나 툭툭이면 아니거든.",
   "그래서 다음에 언제 올지 미리 알 수 있어. 그 간격이 딱딱 맞으면 — 이게 regular야."
  ],
+ "explanation_for_kids": null,
  "scene": "수도꼭지에서 물방울이 같은 간격으로 똑 똑 똑 떨어지는 장면",
  "examples": [
   {
@@ -35,7 +36,7 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "우리 반은 학기 내내 금요일 4교시마다 도서관에 가. 이 방문은 'regular'해?",
+   "question": "나는 학기 내내 금요일 4교시마다 도서관에 가. 이 방문은 'regular'해?",
    "choices": [
     "응, regular 맞아",
     "아니, regular 아니야"

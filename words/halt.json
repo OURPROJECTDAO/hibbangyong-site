@@ -11,20 +11,21 @@
  "word": "halt",
  "slug": "halt",
  "url": "https://hibbangyong.com/words/halt/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "멈추다(멈춰 서다·멈춰 세우다) — 가던 게 딱 멈추다",
  "gloss_ko": "가다가 뚝 멈춤",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "줄 맞춰 걸어가는데 앞에서 \"멈춰!\" 하고 외쳤어.",
   "그럼 다들 발이 딱 멈추지? 가던 게 뚝 끊기는 거야.",
   "이렇게 움직이던 것도, 쭉 되던 일도 확 세워서 멈출 수 있어.",
   "그게 halt야."
  ],
+ "explanation_for_kids": null,
  "scene": "줄 서서 걷다가 \"멈춰!\" 소리에 발이 딱 멈춤",
  "examples": [
   {

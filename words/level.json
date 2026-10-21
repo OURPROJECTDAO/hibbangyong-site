@@ -11,20 +11,21 @@
  "word": "level",
  "slug": "level",
  "url": "https://hibbangyong.com/words/level/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "무언가가 어디까지 와 있는지, 그 '어느 정도'야. 물이 찬 높이나 실력처럼 오르락내리락해.",
  "gloss_ko": "어디까지 와 있는 정도",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "컵에 물을 쪼르르 따라 봐. 물이 어디까지 차올랐어?",
   "그 물 윗면이 딱 멈춘 자리, 그게 어디쯤인지 있잖아.",
   "물을 더 부으면 올라가고, 마시면 쭉 내려가지?",
   "얼마나 높이 와 있나, 그 '어느 정도'가 level이야."
  ],
+ "explanation_for_kids": null,
  "scene": "컵에 물이 차올라 윗면이 멈춘 높이",
  "examples": [
   {

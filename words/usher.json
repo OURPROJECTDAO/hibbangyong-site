@@ -11,25 +11,26 @@
  "word": "usher",
  "slug": "usher",
  "url": "https://hibbangyong.com/words/usher/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "안내원 — 극장·공연장·결혼식처럼 사람이 모이는 곳에서 손님을 앉을 자리까지 데려다주는 사람",
  "gloss_ko": "좌석 안내원",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "영화 시작하고 늦게 들어가면 깜깜해서 내 자리 찾기 힘들잖아.",
   "그때 와서 네 자리까지 데려다주는 사람이 있어. 결혼식장에서 하객들 자리 잡아 주는 사람도 같은 일을 해.",
   "여행지를 돌면서 설명해 주는 가이드랑은 달라. 설명이 아니라 자리를 찾아 주는 게 일이야.",
   "입구에서 이름을 확인하는 접수원도 아니야. 자리까지 같이 걸어가 주는 사람이 usher야."
  ],
+ "explanation_for_kids": null,
  "scene": "늦게 들어간 깜깜한 영화관에서 자리까지 데려다주는 사람",
  "examples": [
   {
-   "en": "At my aunt's wedding, an usher took us to our seats.",
-   "ko": "이모 결혼식에서 안내하는 분이 우리를 자리까지 데려다줬어."
+   "en": "At the concert, an usher took us to our seats.",
+   "ko": "콘서트에서 안내원이 우리를 자리까지 데려다줬어."
   }
  ],
  "quiz": [

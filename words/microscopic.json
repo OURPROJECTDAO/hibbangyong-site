@@ -11,25 +11,26 @@
  "word": "microscopic",
  "slug": "microscopic",
  "url": "https://hibbangyong.com/words/microscopic/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "미세한 — 눈으로는 거의 못 볼 만큼 아주아주 작은",
  "gloss_ko": "미세한",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "깨끗이 씻은 손에도 세균이 잔뜩 붙어 있어. 근데 아무리 들여다봐도 안 보이지.",
   "멀리 있거나 숨어 있어서 안 보이는 게 아니야. 크기 자체가 눈으로 못 볼 만큼 작은 거야. 그게 microscopic이야.",
   "그냥 작은 거랑은 달라. 손톱만 한 구슬은 작아도 다 보이잖아. 이건 그보다 훨씬 더 작은 거야.",
   "친구가 과자를 진짜 쥐꼬리만큼 떼어 줄 때 과장해서 이 말을 쓰기도 해."
  ],
+ "explanation_for_kids": null,
  "scene": "씻은 손에 붙은 안 보이는 세균",
  "examples": [
   {
-   "en": "My teacher said our desks are covered in microscopic bugs.",
-   "ko": "선생님이 우리 책상에 눈에도 안 보이는 작은 벌레들이 잔뜩 붙어 있대."
+   "en": "My kitchen sponge is full of microscopic germs.",
+   "ko": "우리 집 주방 스펀지에 눈에 안 보이는 세균이 가득해."
   }
  ],
  "quiz": [

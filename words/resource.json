@@ -11,25 +11,26 @@
  "word": "resource",
  "slug": "resource",
  "url": "https://hibbangyong.com/words/resource/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "자원 — 뭘 해내려고 끌어다 쓸 수 있는 것들(돈·시간·사람·물처럼).",
  "gloss_ko": "자원",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "뭔가 큰일을 해내려고 할 때, 끌어다 쓸 수 있는 게 있잖아.",
   "돈도 되고, 시간도 되고, 도와줄 사람도 되고, 물이나 나무도 돼.",
   "'이걸로 해낼 수 있겠다' 싶게, 쓸 수 있는 것들 말이야.",
   "그게 resource야."
  ],
+ "explanation_for_kids": null,
  "scene": "큰일을 해내려고 끌어다 쓸 것들(돈·시간·사람·물)을 챙기는 상황",
  "examples": [
   {
-   "en": "Mom says time is our best resource, so let's not waste it.",
-   "ko": "엄마가 시간이 제일 좋은 자원이니까 낭비하지 말자고 하셔."
+   "en": "My mom always says time is our best resource, so we shouldn't waste it.",
+   "ko": "엄마는 늘 시간이 제일 좋은 자원이니까 낭비하면 안 된다고 하셔."
   }
  ],
  "quiz": [

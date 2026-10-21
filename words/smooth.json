@@ -11,31 +11,32 @@
  "word": "smooth",
  "slug": "smooth",
  "url": "https://hibbangyong.com/words/smooth/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "매끈한 — 만지면 울퉁불퉁하지 않고 걸리는 데 없이 반질반질한",
  "gloss_ko": "매끈한",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "강가에 있는 돌 한번 만져봐. 우툴두툴 안 하고 반질반질하지?",
   "손이 쓱 지나가. 걸리는 데가 한 군데도 없어.",
   "길도 똑같아. 울퉁불퉁 없으면 차가 덜컹 안 하고 쓱 가거든.",
   "이렇게 걸리는 것 없이 반질반질한 게 smooth야."
  ],
+ "explanation_for_kids": null,
  "scene": "강가 돌을 만지니 반질반질한 앵커 장면",
  "examples": [
   {
-   "en": "The stone by the river felt smooth in my hand.",
-   "ko": "강가에 있는 돌은 손에 쥐니까 매끈했어."
+   "en": "My new phone case feels smooth in my hand.",
+   "ko": "새 폰 케이스는 손에 쥐니까 매끈해."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "운동장 구석에 놓인 시멘트 블록 표면을 손바닥으로 쓸어봤어. 이 블록 표면은 'smooth'야?",
+   "question": "주차장 구석에 놓인 시멘트 블록 표면을 손바닥으로 쓸어봤어. 이 블록 표면은 'smooth'야?",
    "choices": [
     "응, smooth 맞아",
     "아니, smooth 아니야"

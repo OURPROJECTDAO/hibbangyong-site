@@ -11,19 +11,23 @@
  "word": "toe",
  "slug": "toe",
  "url": "https://hibbangyong.com/words/toe/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "발가락 — 발 끝에 달린 다섯 개의 짧은 가락",
  "gloss_ko": "발가락",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "그림 속 맨발 끝에 오글오글 모여 있는 짧은 가락들, 이게 바로 toe야.",
+  "양말을 벗고 발을 꼼지락거릴 때 움직이는 그 부분이 toe인 거야."
+ ],
+ "explanation_for_kids": [
   "그림 속 맨발 끝에 오글오글 모여 있는 짧은 가락들, 이게 바로 toe야.",
   "양말을 벗고 발을 꼼지락거릴 때 움직이는 그 부분이 toe란다."
  ],
- "scene": "발가락 다섯 개가 또렷이 보이는 귀여운 맨발 한 짝을 정면 위에서 크게 — visual_object 의미인 '발가락'을 그림",
+ "scene": "발가락 다섯 개가 또렷이 보이는 귀여운 맨발 한 짝을 정면 위에서 크게",
  "examples": [
   {
    "en": "My new shoes are so tight that they hurt my big toe.",
@@ -56,7 +60,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/toe.webp",
-  "alt": "발가락 다섯 개가 또렷이 보이는 귀여운 맨발 한 짝을 정면 위에서 크게 — visual_object 의미인 '발가락'을 그림",
+  "alt": "발가락 다섯 개가 또렷이 보이는 귀여운 맨발 한 짝을 정면 위에서 크게",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

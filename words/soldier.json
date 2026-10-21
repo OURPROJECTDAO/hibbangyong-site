@@ -11,25 +11,26 @@
  "word": "soldier",
  "slug": "soldier",
  "url": "https://hibbangyong.com/words/soldier/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "군인 — 군대에서 훈련하며 나라를 지키는 사람",
  "gloss_ko": "군인",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "군대 본 적 있지? 똑같은 옷 입고 줄 맞춰 걷는 사람들 말이야.",
   "나라가 위험할 때 지키려고 군대에 들어간 사람들이야.",
   "전쟁 때만 싸우는 게 아니라, 평소엔 여기저기 지키고 훈련도 해.",
   "대장이 시키면 그대로 따라 움직여. 이게 soldier야."
  ],
+ "explanation_for_kids": null,
  "scene": "제복 입고 줄 맞춰 걷는 군대 사람들",
  "examples": [
   {
-   "en": "Every morning the soldier wakes up early to train with the others.",
-   "ko": "그 군인은 아침마다 일찍 일어나서 다른 사람들이랑 훈련해."
+   "en": "My friend became a soldier, so we only see him on his days off.",
+   "ko": "친구가 군인이 돼서 이제 쉬는 날에만 얼굴 봐."
   }
  ],
  "quiz": [

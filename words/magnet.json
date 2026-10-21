@@ -11,18 +11,19 @@
  "word": "magnet",
  "slug": "magnet",
  "url": "https://hibbangyong.com/words/magnet/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "자석 — 쇠붙이를 끌어당겨 척 달라붙게 하는 물체",
  "gloss_ko": "자석",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 가운데 U자 모양의 빨강·파랑 물건이 자석이에요. 은색 클립들을 스스로 끌어당겨 붙이고 있어요.",
   "냉장고 문에 메모지를 붙여 두는 동그란 것도 자석이에요."
  ],
+ "explanation_for_kids": null,
  "scene": "빨강·파랑 말굽(U자) 자석을 중앙에 크게, 은색 클립 몇 개가 양 극에 끌려 붙는 모습(자석=끌어당기는 물체)",
  "examples": [
   {
@@ -33,7 +34,7 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "동생이 운동화를 신고 끈을 묶더니 놀이터로 뛰어나갔어. 이게 magnet이야?",
+   "question": "친구가 운동화를 신고 끈을 묶더니 공원으로 뛰어나갔어. 이게 magnet이야?",
    "choices": [
     "응, 맞아",
     "아니, 아니야"

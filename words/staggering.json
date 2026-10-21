@@ -11,21 +11,27 @@
  "word": "staggering",
  "slug": "staggering",
  "url": "https://hibbangyong.com/words/staggering/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "엄청난 — 듣는 순간 멍해질 만큼 양·수·정도가 어마어마한",
  "gloss_ko": "멍해질 만큼 엄청난",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "구내식당에서 1년간 버린 음식물 쓰레기 양을 들었는데, 트럭 수십 대 분량이래.",
+  "그냥 많은 게 아니야. 듣는 순간 멍해질 만큼 커.",
+  "좋은 일에도 써. 신인 가수 영상이 하루 만에 조회수 천만을 찍었다, 이런 것도 그래.",
+  "'크네' 하고 넘어가는 정도랑은 달라. 머리가 잠깐 휘청할 만큼이어야 해. 비틀거린다는 뜻의 stagger에서 나온 말이거든."
+ ],
+ "explanation_for_kids": [
   "급식실에서 1년 동안 버린 밥 양을 들었는데, 트럭 수십 대 분량이래.",
   "그냥 많은 게 아니야. 듣는 순간 멍해질 만큼 커.",
   "좋은 일에도 써. 신인 가수 영상이 하루 만에 조회수 천만을 찍었다, 이런 것도 그래.",
   "'크네' 하고 넘어가는 정도랑은 달라. 머리가 잠깐 휘청할 만큼이어야 해. 비틀거린다는 뜻의 stagger에서 나온 말이거든."
  ],
- "scene": "급식실에서 1년 동안 버린 음식물 쓰레기 양",
+ "scene": "구내식당에서 1년간 버린 음식물 쓰레기 양",
  "examples": [
   {
    "en": "The team raised a staggering amount of money for the new hospital.",
@@ -35,14 +41,14 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "짝꿍 필통 속 볼펜이 어제보다 한 자루 줄었다는 얘기를 들었어. 이 변화를 'staggering'이라고 부를 수 있을까?",
+   "question": "동료 펜꽂이 속 볼펜이 어제보다 한 자루 줄었다는 얘기를 들었어. 이 변화를 'staggering'이라고 부를 수 있을까?",
    "choices": [
     "응, staggering 맞아",
     "아니, staggering 아니야"
    ],
    "answer_index": 1,
    "answer": "아니, staggering 아니야",
-   "why": "맞아! 볼펜이 한 자루 줄어든 건 짝꿍도 그냥 넘길 만큼 작은 변화라서 staggering이 아니야. staggering은 듣는 순간 머리가 휘청할 만큼 엄청나게 클 때 쓰는 말이거든."
+   "why": "맞아! 볼펜이 한 자루 줄어든 건 동료도 그냥 넘길 만큼 작은 변화라서 staggering이 아니야. staggering은 듣는 순간 머리가 휘청할 만큼 엄청나게 클 때 쓰는 말이거든."
   }
  ],
  "synonyms": [
@@ -63,7 +69,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/staggering.webp",
-  "alt": "급식실에서 1년 동안 버린 음식물 쓰레기 양",
+  "alt": "구내식당에서 1년간 버린 음식물 쓰레기 양",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

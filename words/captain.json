@@ -11,25 +11,31 @@
  "word": "captain",
  "slug": "captain",
  "url": "https://hibbangyong.com/words/captain/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "대장 — 배나 팀 같은 무리를 앞에서 책임지고 이끄는 우두머리(다들 그 사람 말을 따라).",
  "gloss_ko": "대장",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "축구팀에서 한 명이 '이쪽으로 뛰어!' 하고 앞장서면 다들 그 사람을 따라가지?",
+  "배에서도 똑같아. 어디로 갈지 그 사람이 정하고, 선원들이 그 말을 들어.",
+  "배든 팀이든, 무리를 책임지고 이끄는 대장 말이야.",
+  "그게 captain이야."
+ ],
+ "explanation_for_kids": [
   "축구팀에서 한 명이 '이쪽으로 뛰어!' 하고 앞장서면 다들 그 애를 따라가지?",
   "배에서도 똑같아. 어디로 갈지 그 사람이 정하고, 선원들이 그 말을 들어.",
   "배든 팀이든, 무리를 책임지고 이끄는 대장 말이야.",
   "그게 captain이야."
  ],
- "scene": "축구팀에서 앞장서 작전을 정하고 팀을 이끄는 아이",
+ "scene": "축구팀에서 앞장서 작전을 정하고 팀을 이끄는 사람",
  "examples": [
   {
-   "en": "Ben is the captain of our soccer team this year.",
-   "ko": "벤이 올해 우리 축구팀 대장이야."
+   "en": "Mina is the captain of our company soccer team.",
+   "ko": "미나가 우리 회사 축구팀 주장이야."
   }
  ],
  "quiz": [
@@ -59,7 +65,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/captain.webp",
-  "alt": "축구팀에서 앞장서 작전을 정하고 팀을 이끄는 아이",
+  "alt": "축구팀에서 앞장서 작전을 정하고 팀을 이끄는 사람",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

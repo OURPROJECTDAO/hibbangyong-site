@@ -11,15 +11,21 @@
  "word": "remedial",
  "slug": "remedial",
  "url": "https://hibbangyong.com/words/remedial/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "보충의 — 배우는 걸 따라가기 힘든 사람이 모자란 부분을 메우게 도와주는 (넓게는 잘못된 걸 바로잡으려는)",
  "gloss_ko": "따라잡게 돕는",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "수학 강의 진도가 빨라서 몇 명이 기초부터 놓쳤어.",
+  "교수님이 그 학생들을 따로 모아서 빈 곳을 다시 채워 주는 수업을 열었어.",
+  "remedial은 이렇게 모자란 걸 메우거나 잘못된 걸 바로잡으려고 하는 거야. 회사가 생긴 문제를 고치려고 하는 조치에도 써.",
+  "벌로 남기는 거나, 앞서 나가는 심화반이랑은 방향이 달라."
+ ],
+ "explanation_for_kids": [
   "수학 진도가 빨라서 몇 명이 분수부터 놓쳤어.",
   "선생님이 그 애들을 따로 모아서 빈 곳을 다시 채워 주는 수업을 열었어.",
   "remedial은 이렇게 모자란 걸 메우거나 잘못된 걸 바로잡으려고 하는 거야. 회사가 생긴 문제를 고치려고 하는 조치에도 써.",
@@ -28,21 +34,21 @@
  "scene": "수학 진도를 놓친 학생들을 따로 모아 다시 가르치는 수업",
  "examples": [
   {
-   "en": "The new student from Brazil joined a remedial English class.",
-   "ko": "브라질에서 온 전학생이 영어 따라잡기 반에 들어갔어."
+   "en": "I took a remedial math class in my first year of college.",
+   "ko": "나는 대학교 1학년 때 수학 보충 수업을 들었어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "2학년 몇 명이 받아쓰기를 자꾸 틀려서, 방과 후에 맞춤법 기초부터 다시 배우는 수업을 들어. 이 수업은 'remedial' 수업이야?",
+   "question": "신입생 몇 명이 리포트 맞춤법을 자꾸 틀려서, 강의 끝나고 맞춤법 기초부터 다시 배우는 수업을 들어. 이 수업은 'remedial' 수업이야?",
    "choices": [
     "응, remedial 맞아",
     "아니, remedial 아니야"
    ],
    "answer_index": 0,
    "answer": "응, remedial 맞아",
-   "why": "맞아! 받아쓰기를 자꾸 틀린 애들이 맞춤법 기초부터 다시 배우는 거니까, 놓친 부분을 메워 주는 수업이야. 그래서 이게 바로 remedial 수업이야."
+   "why": "맞아! 맞춤법을 자꾸 틀린 신입생들이 기초부터 다시 배우는 거니까, 놓친 부분을 메워 주는 수업이야. 그래서 이게 바로 remedial 수업이야."
   }
  ],
  "synonyms": [],

@@ -11,21 +11,22 @@
  "word": "assert",
  "slug": "assert",
  "url": "https://hibbangyong.com/words/assert/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "확실하다는 듯 딱 잘라 말해서 내 말이나 내 몫을 세우다 (맞든 틀리든)",
  "gloss_ko": "주장하다",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "보드게임 하다가 누구 차례인지 헷갈렸어. 그때 민수가 \"지금 내 차례야\" 하고 못 박듯 말했어.",
   "증거는 하나도 안 댔어. 그런데도 흔들림 없이 «내 말이 맞아» 하고 딱 잘라 말한 거야.",
   "맞을 수도 있고 틀릴 수도 있어. 말이 진짜인지는 상관없거든? 세게 세운다는 게 핵심이야.",
   "내 차례, 내 권리처럼 내 몫을 세울 때도 써. 조심스레 \"내 차례 아닐까?\" 하고 눈치 보는 거랑은 달라. 이게 assert야."
  ],
- "scene": "보드게임 중 자기 차례라고 못 박듯 말하는 아이",
+ "explanation_for_kids": null,
+ "scene": "보드게임 중 자기 차례라고 못 박듯 말하는 친구",
  "examples": [
   {
    "en": "He asserted that it was his turn, even though nobody else agreed.",
@@ -35,7 +36,7 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "급식 줄에서 앞뒤가 헷갈렸을 때, 하윤이가 뒤에 온 아이한테 \"여기 내 자리야\" 하고 딱 잘라 말했어. 이게 'assert'야?",
+   "question": "식당 줄에서 앞뒤가 헷갈렸을 때, 하윤이가 옆에 선 사람한테 \"여기 내 자리야\" 하고 딱 잘라 말했어. 이게 'assert'야?",
    "choices": [
     "응, assert 맞아",
     "아니, assert 아니야"
@@ -68,7 +69,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/assert.webp",
-  "alt": "보드게임 중 자기 차례라고 못 박듯 말하는 아이",
+  "alt": "보드게임 중 자기 차례라고 못 박듯 말하는 친구",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,25 +11,26 @@
  "word": "orchestra",
  "slug": "orchestra",
  "url": "https://hibbangyong.com/words/orchestra/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "오케스트라 — 여러 가지 악기를 다루는 사람들이 잔뜩 모여 함께 연주하는 큰 음악 모임",
  "gloss_ko": "오케스트라",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "무대 위를 봐봐. 바이올린, 첼로, 트럼펫, 큰 북... 악기가 와글와글 엄청 많아!",
   "한 명이 부는 게 아니야. 수십 명이 한꺼번에 연주해.",
   "앞에 선 사람이 손을 딱 들면, 다 같이 소리를 내거든?",
   "여러 악기가 모여 하나의 큰 음악을 만드는 모임, 이게 orchestra야."
  ],
+ "explanation_for_kids": null,
  "scene": "무대 위 수십 명이 온갖 악기를 한꺼번에 연주하는 큰 음악 모임",
  "examples": [
   {
-   "en": "The big orchestra played music with violins, drums, and flutes.",
-   "ko": "큰 오케스트라가 바이올린, 드럼, 플루트로 음악을 연주했어."
+   "en": "We went to see the city orchestra on Saturday night.",
+   "ko": "우리는 토요일 밤에 시립 오케스트라 공연을 보러 갔어."
   }
  ],
  "quiz": [

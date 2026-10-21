@@ -11,25 +11,26 @@
  "word": "gulf",
  "slug": "gulf",
  "url": "https://hibbangyong.com/words/gulf/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "만 — 바다가 육지 안쪽으로 크게 파고들어온 데",
  "gloss_ko": "바다가 크게 파고든 만",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "세계지도 펴 보면, 바닷물이 육지 쪽으로 쑥 들어와 앉은 데가 있어.",
   "땅이 양옆으로 팔처럼 감싸고, 그 안쪽이 통째로 바다인 거지.",
   "근데 이게 좁고 길쭉한 물길은 아니야. 배가 지나다니는 통로가 아니라, 넓게 퍼진 물이거든.",
   "크기도 어마어마해서 배 타고 하루 종일 가도 건너편이 안 보일 때도 있어. 그게 gulf야."
  ],
+ "explanation_for_kids": null,
  "scene": "세계지도에서 바닷물이 육지 안쪽으로 들어와 앉은 데",
  "examples": [
   {
-   "en": "We flew over a huge gulf, and the water below curved deep into the land.",
-   "ko": "우리는 커다란 만 위를 날았는데, 아래 바닷물이 땅 안쪽으로 깊이 휘어져 들어가 있었어."
+   "en": "From the plane, I saw the gulf. The sea cuts deep into the land there.",
+   "ko": "비행기에서 만을 봤어. 거기는 바다가 육지 안쪽으로 깊이 들어와 있어."
   }
  ],
  "quiz": [

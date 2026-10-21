@@ -11,25 +11,31 @@
  "word": "ample",
  "slug": "ample",
  "url": "https://hibbangyong.com/words/ample/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "충분한 — 필요한 만큼보다 넉넉하게 있는",
  "gloss_ko": "넉넉히 충분한",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "자격증 시험이 50분인데 30분이면 다 풀어. 남은 20분엔 검토까지 할 수 있지.",
+  "ample은 이렇게 필요한 양을 채우고도 남는 상태를 말해.",
+  "딱 맞게 있는 거랑은 달라. 딱 맞으면 여유가 없잖아.",
+  "시간이든 돈이든 증거든, 모자랄 걱정이 없으면 다 ample이라고 할 수 있어."
+ ],
+ "explanation_for_kids": [
   "시험이 50분인데 문제는 30분이면 다 풀어. 남은 20분 동안 검토까지 할 수 있지.",
   "ample은 이렇게 필요한 양을 채우고도 남는 상태를 말해.",
   "딱 맞게 있는 거랑은 달라. 딱 맞으면 여유가 없잖아.",
   "시간이든 돈이든 증거든, 모자랄 걱정이 없으면 다 ample이라고 할 수 있어."
  ],
- "scene": "시험 시간이 남아서 검토까지 하는 상황",
+ "scene": "자격증 시험 시간이 남아 검토하는 상황",
  "examples": [
   {
-   "en": "We had ample time, so we stopped for ice cream on the way.",
-   "ko": "시간이 넉넉해서 가는 길에 아이스크림도 사 먹었어."
+   "en": "We had ample time before our flight, so we got coffee.",
+   "ko": "비행기 타기 전에 시간이 넉넉해서 커피 한 잔 했어."
   }
  ],
  "quiz": [
@@ -57,7 +63,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/ample.webp",
-  "alt": "시험 시간이 남아서 검토까지 하는 상황",
+  "alt": "자격증 시험 시간이 남아 검토하는 상황",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

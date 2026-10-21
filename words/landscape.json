@@ -11,20 +11,21 @@
  "word": "landscape",
  "slug": "landscape",
  "url": "https://hibbangyong.com/words/landscape/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "풍경 — 저 멀리까지 펼쳐진 땅 전체의 모습 (예쁘든 아니든)",
  "gloss_ko": "풍경",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "언덕에 올라가서 저 멀리를 봐봐.",
   "밭이랑 강이랑 집들이 저 끝까지 쭉 이어져 있지? 그 땅 전체 모습을 말하는 거야.",
   "예쁜 데만 그러는 게 아니야. 공장 굴뚝만 잔뜩인 곳도, 맨 흙바닥도, 네가 직접 못 가본 사진 속 달나라 땅도 똑같이 그렇게 불러.",
   "꽃 한 송이만 달랑 있는 건 아니고, 땅이 저만치 넓게 펼쳐져 있으면 다 그거야. 그게 landscape야."
  ],
+ "explanation_for_kids": null,
  "scene": "언덕에서 저 끝까지 이어져 보이는 밭·강·집들의 땅 전체",
  "examples": [
   {

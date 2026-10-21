@@ -11,21 +11,27 @@
  "word": "final",
  "slug": "final",
  "url": "https://hibbangyong.com/words/final/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "마지막 — 그 뒤로 아무것도 없는 진짜 끝. 한번 그렇게 되면 더 안 바뀌기도 해.",
  "gloss_ko": "마지막",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "줄 서서 버스 타는데 내가 맨 뒤야. 내 뒤엔 아무도 없어.",
+  "그럼 나 다음은? 없어. 여기서 끝이야.",
+  "이렇게 '그 뒤로 아무것도 안 남은 맨 끝'을 가리켜. 게다가 한번 이렇게 정해지면 더는 안 바뀌기도 하거든?",
+  "그게 final이야."
+ ],
+ "explanation_for_kids": [
   "줄 서서 미끄럼틀 타는데 내가 맨 뒤야. 내 뒤엔 아무도 없어.",
   "그럼 나 다음은? 없어. 여기서 끝이야.",
   "이렇게 '그 뒤로 아무것도 안 남은 맨 끝'을 가리켜. 게다가 한번 이렇게 정해지면 더는 안 바뀌기도 하거든?",
   "그게 final이야."
  ],
- "scene": "미끄럼틀 줄 맨 뒤, 내 뒤엔 아무도 없는 자리",
+ "scene": "버스 줄 맨 뒤, 내 뒤엔 아무도 없는 자리",
  "examples": [
   {
    "en": "This is the final piece of the puzzle!",
@@ -35,7 +41,7 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "동화책이 열 쪽이야. 민서는 첫 번째 쪽을 펴서 읽고 있어. 민서가 편 쪽이 'final' 쪽이야?",
+   "question": "책이 열 쪽이야. 민서는 첫 번째 쪽을 펴서 읽고 있어. 민서가 편 쪽이 'final' 쪽이야?",
    "choices": [
     "응, final 쪽 맞아",
     "아니, final 쪽 아니야"
@@ -55,7 +61,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/final.webp",
-  "alt": "미끄럼틀 줄 맨 뒤, 내 뒤엔 아무도 없는 자리",
+  "alt": "버스 줄 맨 뒤, 내 뒤엔 아무도 없는 자리",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

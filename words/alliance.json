@@ -11,20 +11,21 @@
  "word": "alliance",
  "slug": "alliance",
  "url": "https://hibbangyong.com/words/alliance/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "동맹 — 따로 있는 나라나 회사, 단체가 같은 목표를 위해 서로 돕기로 약속한 관계",
  "gloss_ko": "동맹",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "작은 회사 두 곳이 혼자서는 큰 회사를 못 이기니까, 같이 가자고 손을 잡았어.",
   "이름도 따로, 사장도 따로인데 가는 방향만 같이 맞춘 거야.",
   "나라끼리 전쟁 때 맺기도 하고, 동아리끼리 축제 때 맺기도 해.",
   "그냥 친한 사이랑은 다르고, 아예 하나로 합치는 것도 아니야."
  ],
+ "explanation_for_kids": null,
  "scene": "작은 회사 두 곳이 큰 회사에 맞서려고 손잡음",
  "examples": [
   {

@@ -11,24 +11,25 @@
  "word": "outback",
  "slug": "outback",
  "url": "https://hibbangyong.com/words/outback/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "오지 — 호주에서 바닷가 도시들을 벗어나 안쪽으로 한참 들어간, 사람이 거의 안 사는 넓은 땅",
  "gloss_ko": "호주 오지",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "호주 지도를 펴 봐. 큰 도시들은 거의 다 바닷가에 붙어 있어.",
   "거기서 안쪽으로 한참 들어가면 붉은 흙길, 마른 풀밭, 드문드문 있는 농장이 끝없이 이어져. 다음 마을까지 차로 몇 시간이야.",
   "그 넓은 안쪽 땅을 통틀어 outback이라고 해. 모래만 있는 사막만 말하는 것도 아니고, 아무 나라 시골이나 다 되는 말도 아니야. 호주 안쪽의 텅 빈 땅이야."
  ],
+ "explanation_for_kids": null,
  "scene": "호주 지도에서 바닷가 도시를 지나 안쪽으로 들어가는 길",
  "examples": [
   {
-   "en": "My uncle has a cattle farm in the outback, three hours from the nearest store.",
-   "ko": "우리 삼촌은 호주 오지에서 소 농장을 하는데, 제일 가까운 가게까지 세 시간 걸려."
+   "en": "We rented a car and drove through the outback for three days.",
+   "ko": "우리는 차를 빌려서 사흘 동안 호주 오지를 달렸어."
   }
  ],
  "quiz": [

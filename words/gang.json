@@ -11,31 +11,32 @@
  "word": "gang",
  "slug": "gang",
  "url": "https://hibbangyong.com/words/gang/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "늘 같이 뭉쳐 다니는 한 무리",
  "gloss_ko": "늘 몰려다니는 패",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "골목에 늘 똑같은 애들이 떼로 같이 다녀. 학교도 같이, 놀이터도 같이, 집에 갈 때도 같이.",
   "한 명이 가면 우르르 다 같이 움직여. 마치 한 덩어리처럼!",
   "그냥 우연히 옆에 모인 사람들이 아니야. 늘 붙어 다니는 한 패거든?",
   "이렇게 늘 뭉쳐 다니는 무리가 gang이야."
  ],
+ "explanation_for_kids": null,
  "scene": "골목에 늘 똑같이 떼로 몰려다니는 한 무리 아이들.",
  "examples": [
   {
-   "en": "That gang of big kids always plays together near the gate.",
-   "ko": "저 덩치 큰 아이들 무리는 늘 정문 근처에서 같이 놀아."
+   "en": "The whole gang from college met up for dinner on Friday.",
+   "ko": "대학 때 늘 몰려다니던 친구들이 금요일에 다 모여서 저녁을 먹었어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "지우는 학교도 혼자, 놀이터도 혼자, 집에 갈 때도 늘 혼자서 다니는 한 명이야. 이게 'gang'이야?",
+   "question": "지우는 학교도 혼자, 카페도 혼자, 집에 갈 때도 늘 혼자서 다니는 한 명이야. 이게 'gang'이야?",
    "choices": [
     "응, 맞아",
     "아니, 아니야"

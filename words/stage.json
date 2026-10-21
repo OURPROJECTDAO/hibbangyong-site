@@ -11,20 +11,21 @@
  "word": "stage",
  "slug": "stage",
  "url": "https://hibbangyong.com/words/stage/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "단계 — 무엇이 자라거나 변해 가다가 지금 닿아 있는 때",
  "gloss_ko": "단계",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "감기 걸릴 때 봐봐. 처음엔 목이 살짝 따끔하고, 그다음엔 콧물이 줄줄, 그다음엔 열이 나거든?",
   "한 번에 확 오는 게 아니라 토막토막 지나가. 그 토막 하나가 stage야.",
   "좋아지는 일도 똑같아. 애벌레가 번데기를 지나 나비가 되잖아. 번데기인 때도 한 토막이야.",
   "'얼마나 심한지', '얼마나 어려운지' 같은 정도를 말하는 건 아니야. 변해 가는 길에서 지금 어디쯤 와 있는지를 말하는 거야. 그게 stage야."
  ],
+ "explanation_for_kids": null,
  "scene": "감기가 목 따끔 → 콧물 → 열로 토막토막 지나가는 과정",
  "examples": [
   {

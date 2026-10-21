@@ -11,38 +11,39 @@
  "word": "weird",
  "slug": "weird",
  "url": "https://hibbangyong.com/words/weird/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "이상한 — 보통이랑 너무 달라서 '어? 왜 저래?' 하고 고개가 갸웃해지는",
  "gloss_ko": "이상한",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "아침에 냉장고를 딱 열었는데, 그 안에 네 운동화가 쏙 들어가 있어!",
   "왜 신발이 여기 있지? 말이 안 되잖아.",
   "무서운 것도 아니고 나쁜 것도 아냐. 그냥 보통이랑 너무 달라서 고개가 갸웃해지는 거야.",
   "이게 weird야."
  ],
+ "explanation_for_kids": null,
  "scene": "냉장고 안에 들어가 있던 운동화",
  "examples": [
   {
-   "en": "My cat is doing a weird dance in the kitchen.",
-   "ko": "우리 고양이가 부엌에서 이상한 춤을 추고 있어."
+   "en": "The new coffee machine at work makes a weird noise.",
+   "ko": "회사에 새로 들어온 커피 머신에서 이상한 소리가 나."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "아침에 일어나 세수하고 밥 먹고 가방 메고 학교에 갔어. 이거 'weird'해?",
+   "question": "아침에 일어나 세수하고 밥 먹고 가방 챙겨 회사에 갔어. 이거 'weird'해?",
    "choices": [
     "응, weird해",
     "아니, weird 아니야"
    ],
    "answer_index": 1,
    "answer": "아니, weird 아니야",
-   "why": "맞아! 아침에 일어나서 세수하고 밥 먹고 학교 가는 건 매일매일 똑같이 하던 일이잖아. 하나도 낯설지 않고 그대로라서, 이건 weird가 아닌 거야. 바로 잘 골랐어!"
+   "why": "맞아! 아침에 일어나서 세수하고 밥 먹고 회사 가는 건 매일 똑같이 하던 일이잖아. 하나도 낯설지 않고 그대로라서, 이건 weird가 아닌 거야. 잘 골랐어!"
   }
  ],
  "synonyms": [

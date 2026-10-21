@@ -11,25 +11,31 @@
  "word": "continuity",
  "slug": "continuity",
  "url": "https://hibbangyong.com/words/continuity/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "연속성 — 중간에 끊기거나 흔들리지 않고 앞에서 뒤로 쭉 이어지는 것",
  "gloss_ko": "끊김 없는 이어짐",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "한 학기에 교수님이 세 번 바뀌면, 수업이 바뀔 때마다 처음부터 다시 시작돼.",
+  "한 분이 한 학기를 쭉 맡으면 지난주에 멈춘 데서 이번 주가 그대로 이어지고.",
+  "이렇게 중간에 안 끊기고 앞이랑 뒤가 연결되는 게 continuity야.",
+  "같은 걸 똑같이 되풀이하는 거랑은 달라. 반복이 아니라, 흐름이 끊기지 않고 이어지는 거야."
+ ],
+ "explanation_for_kids": [
   "한 학기에 담임이 세 번 바뀌면, 수업이 바뀔 때마다 처음부터 다시 시작돼.",
   "한 분이 1년을 쭉 맡으면 지난주에 멈춘 데서 이번 주가 그대로 이어지고.",
   "이렇게 중간에 안 끊기고 앞이랑 뒤가 연결되는 게 continuity야.",
   "같은 걸 똑같이 되풀이하는 거랑은 달라. 반복이 아니라, 흐름이 끊기지 않고 이어지는 거야."
  ],
- "scene": "학기 중 담임이 여러 번 바뀌는 반 vs 한 담임이 1년 쭉 맡는 반",
+ "scene": "학기 중 교수님이 여러 번 바뀌는 강의 vs 한 교수님이 한 학기 쭉 맡는 강의",
  "examples": [
   {
-   "en": "Having the same teacher all year gave our class some continuity.",
-   "ko": "1년 내내 같은 선생님이 맡아서 우리 반 수업이 끊기지 않고 쭉 이어졌어."
+   "en": "Having the same professor all year gave the course some continuity.",
+   "ko": "1년 내내 같은 교수님이 맡아서 그 수업은 끊김 없이 쭉 이어졌어."
   }
  ],
  "quiz": [
@@ -55,7 +61,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/continuity.webp",
-  "alt": "학기 중 담임이 여러 번 바뀌는 반 vs 한 담임이 1년 쭉 맡는 반",
+  "alt": "학기 중 교수님이 여러 번 바뀌는 강의 vs 한 교수님이 한 학기 쭉 맡는 강의",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

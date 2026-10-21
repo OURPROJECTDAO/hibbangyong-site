@@ -11,25 +11,26 @@
  "word": "region",
  "slug": "region",
  "url": "https://hibbangyong.com/words/region/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "지역 — 넓은 땅을 몇 덩어리로 나눴을 때 그 한 덩어리(한 부분)",
  "gloss_ko": "지역",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "세계지도를 딱 펼쳐 봐. 온통 땅 하나가 아니라, 여기저기 큰 덩어리로 나뉘어 있거든?",
   "더운 쪽·추운 쪽으로 나누기도 하고, 한 나라 안을 북쪽·남쪽 큰 덩어리로 나누기도 해.",
   "한 점이나 한 집이 아니라, 그렇게 크게 묶인 땅 한 조각을 말하는 거야.",
   "그 큰 땅 한 덩어리, 그게 region이야."
  ],
+ "explanation_for_kids": null,
  "scene": "세계지도를 펼쳐 큰 덩어리로 나뉜 땅을 보는 장면",
  "examples": [
   {
-   "en": "Penguins live in a very cold region.",
-   "ko": "펭귄은 엄청 추운 지역에 살아."
+   "en": "It rains a lot in this region in summer.",
+   "ko": "이 지역은 여름에 비가 많이 와."
   }
  ],
  "quiz": [

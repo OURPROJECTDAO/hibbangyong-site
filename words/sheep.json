@@ -11,23 +11,24 @@
  "word": "sheep",
  "slug": "sheep",
  "url": "https://hibbangyong.com/words/sheep/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "양 — 폭신한 털을 가진, 풀을 뜯어 먹는 순한 동물",
  "gloss_ko": "양",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 풀밭에 서 있는 하얗고 통통한 동물이 바로 sheep이에요.",
   "동물원이나 목장에 가면 이렇게 털이 복슬복슬한 sheep을 볼 수 있어요."
  ],
- "scene": "초록 풀밭에 서 있는 통통하고 하얀 양 한 마리 — 동물 '양'을 그림",
+ "explanation_for_kids": null,
+ "scene": "초록 풀밭에 서 있는 통통하고 하얀 양 한 마리",
  "examples": [
   {
-   "en": "The white sheep is eating grass in the green field.",
-   "ko": "하얀 양이 초록 들판에서 풀을 뜯어 먹고 있어."
+   "en": "We saw sheep eating grass on our road trip.",
+   "ko": "여행 가는 길에 양들이 풀 뜯는 걸 봤어."
   }
  ],
  "quiz": [
@@ -56,7 +57,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/sheep.webp",
-  "alt": "초록 풀밭에 서 있는 통통하고 하얀 양 한 마리 — 동물 '양'을 그림",
+  "alt": "초록 풀밭에 서 있는 통통하고 하얀 양 한 마리",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

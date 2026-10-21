@@ -11,25 +11,31 @@
  "word": "disciple",
  "slug": "disciple",
  "url": "https://hibbangyong.com/words/disciple/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "제자 — 어떤 사람(스승·지도자·사상가)의 가르침이나 생각을 믿고 자기 삶과 일에서 따르는 사람",
  "gloss_ko": "제자",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "우리말 제자는 범위가 넓어. 교수님 강의 듣는 학생도, 요리사 밑에서 칼질 배우는 사람도 다 제자라고 하잖아.",
+  "영어 disciple은 그보다 좁아. 누군가의 생각을 옳다고 믿고, 그걸 자기 일이나 삶에서 그대로 따를 때 써.",
+  "직접 만난 적이 없어도 돼. 몇백 년 전 사람이 쓴 책만 읽고 그 생각대로 사는 사람도 disciple이야.",
+  "그 사람 옷차림이나 말투만 따라 하는 팬은 달라. 따르는 게 겉모습이 아니라 생각이어야 해."
+ ],
+ "explanation_for_kids": [
   "우리말 제자는 범위가 넓어. 담임 선생님 반 학생도, 요리사 밑에서 칼질 배우는 사람도 다 제자라고 하잖아.",
   "영어 disciple은 그보다 좁아. 누군가의 생각을 옳다고 믿고, 그걸 자기 일이나 삶에서 그대로 따를 때 써.",
   "직접 만난 적이 없어도 돼. 몇백 년 전 사람이 쓴 책만 읽고 그 생각대로 사는 사람도 disciple이야.",
   "그 사람 옷차림이나 말투만 따라 하는 팬은 달라. 따르는 게 겉모습이 아니라 생각이어야 해."
  ],
- "scene": "담임 선생님 반 학생·요리사 밑에서 칼질 배우는 사람(우리말 제자의 넓은 범위)",
+ "scene": "교수님 강의 듣는 학생·요리사 밑에서 칼질 배우는 사람(우리말 제자의 넓은 범위)",
  "examples": [
   {
-   "en": "As a disciple of Gandhi, she never answered anger with violence.",
-   "ko": "그녀는 간디의 생각을 믿고 따르는 사람이라서, 화나는 일이 있어도 절대 폭력으로 갚지 않았어."
+   "en": "She was a disciple of a famous yoga teacher in India.",
+   "ko": "그녀는 인도에 있는 유명한 요가 선생님의 제자였어."
   }
  ],
  "quiz": [

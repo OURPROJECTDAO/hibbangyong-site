@@ -11,25 +11,31 @@
  "word": "ballot",
  "slug": "ballot",
  "url": "https://hibbangyong.com/words/ballot/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "투표 — 누가 뭘 골랐는지 안 보이게 각자 표를 내서 정하는 방식, 또는 그 투표용지",
  "gloss_ko": "비밀 투표",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "회장을 손 들어서 뽑으면 누가 누구 편인지 다 보여서 눈치 보이잖아.",
+  "그래서 각자 종이에 몰래 적어서 상자에 넣고 세어서 정해. 이렇게 표를 내서 정하는 투표가 ballot이야.",
+  "회장 선거든 나라 선거든, 대학 축제 이름 정하기든 다 돼. 그때 쓰는 종이 한 장도 ballot이라고 불러.",
+  "다 보이게 손 드는 투표나, 결정 없이 의견만 묻는 설문이랑은 달라."
+ ],
+ "explanation_for_kids": [
   "반장을 손 들어서 뽑으면 누가 누구 편인지 다 보여서 눈치 보이잖아.",
   "그래서 각자 종이에 몰래 적어서 상자에 넣고 세어서 정해. 이렇게 표를 내서 정하는 투표가 ballot이야.",
   "반장 선거든 나라 선거든, 학교 축제 이름 정하기든 다 돼. 그때 쓰는 종이 한 장도 ballot이라고 불러.",
   "다 보이게 손 드는 투표나, 결정 없이 의견만 묻는 설문이랑은 달라."
  ],
- "scene": "반장을 손 들기 대신 종이에 몰래 적어 상자에 넣어 뽑기",
+ "scene": "회장을 손 들기 대신 종이에 몰래 적어 상자에 넣어 뽑기",
  "examples": [
   {
-   "en": "We had a ballot to choose the name of our school festival.",
-   "ko": "우리 학교 축제 이름 정하려고 다 같이 표 내서 투표했어."
+   "en": "Our club held a secret ballot to pick the new leader.",
+   "ko": "우리 동아리는 새 회장을 뽑으려고 비밀 투표를 했어."
   }
  ],
  "quiz": [
@@ -65,7 +71,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/ballot.webp",
-  "alt": "반장을 손 들기 대신 종이에 몰래 적어 상자에 넣어 뽑기",
+  "alt": "회장을 손 들기 대신 종이에 몰래 적어 상자에 넣어 뽑기",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

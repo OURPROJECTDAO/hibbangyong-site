@@ -11,25 +11,31 @@
  "word": "republic",
  "slug": "republic",
  "url": "https://hibbangyong.com/words/republic/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "공화국 — 왕이 아니라, 사람들이 뽑은 대장이 다스리는 나라.",
  "gloss_ko": "공화국",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "동아리에서 회장 뽑을 때 다 같이 손 들어서 정하잖아?",
+  "나라도 그렇게 대장을 사람들이 골라서 뽑는 나라가 있어.",
+  "왕처럼 아빠가 대장이면 아들이 자동으로 대장 되는 게 아니라, 왕이 아예 없고 다 같이 뽑아서 정하는 거야.",
+  "이게 republic이야."
+ ],
+ "explanation_for_kids": [
   "반에서 회장 뽑을 때 다 같이 손 들어서 정하잖아?",
   "나라도 그렇게 대장을 사람들이 골라서 뽑는 나라가 있어.",
   "왕처럼 아빠가 대장이면 아들이 자동으로 대장 되는 게 아니라, 왕이 아예 없고 다 같이 뽑아서 정하는 거야.",
   "이게 republic이야."
  ],
- "scene": "반 회장을 다 같이 투표로 뽑는 것처럼 나라 대장을 뽑는 나라",
+ "scene": "동아리 회장을 다 같이 투표로 뽑는 것처럼 나라 대장을 뽑는 나라",
  "examples": [
   {
-   "en": "My country is a republic, so we choose our leader by voting.",
-   "ko": "우리나라는 republic이라서, 우리가 투표로 대장을 뽑아."
+   "en": "Korea is a republic, so we vote for our president.",
+   "ko": "한국은 공화국이라서 우리가 투표로 대통령을 뽑아."
   }
  ],
  "quiz": [
@@ -63,7 +69,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/republic.webp",
-  "alt": "반 회장을 다 같이 투표로 뽑는 것처럼 나라 대장을 뽑는 나라",
+  "alt": "동아리 회장을 다 같이 투표로 뽑는 것처럼 나라 대장을 뽑는 나라",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

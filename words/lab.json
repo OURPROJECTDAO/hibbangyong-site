@@ -11,25 +11,26 @@
  "word": "lab",
  "slug": "lab",
  "url": "https://hibbangyong.com/words/lab/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "실험실 — 과학자들이 이것저것 실험하고 살펴보는 방",
  "gloss_ko": "실험하는 곳",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "흰 가운 입은 사람들이 조심조심 뭘 섞고 있는 방이 있어.",
   "동그란 유리병 속 물이 부글부글, 색깔이 확 바뀌기도 해.",
   "여기선 '이렇게 하면 어떻게 될까?' 궁금한 걸 직접 해 보고 살펴봐.",
   "그렇게 실험하고 연구하는 방, 그게 lab이야."
  ],
+ "explanation_for_kids": null,
  "scene": "흰 가운 입은 사람들이 유리병 속 물을 섞고 색이 바뀌는 과학 실험실 장면",
  "examples": [
   {
-   "en": "We put on our goggles and stepped into the lab carefully.",
-   "ko": "우리는 보안경을 쓰고 조심조심 실험실에 들어갔어."
+   "en": "I have to stay late in the lab tonight.",
+   "ko": "오늘 밤엔 실험실에 늦게까지 있어야 해."
   }
  ],
  "quiz": [

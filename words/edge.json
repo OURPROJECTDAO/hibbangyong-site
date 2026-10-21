@@ -11,31 +11,32 @@
  "word": "edge",
  "slug": "edge",
  "url": "https://hibbangyong.com/words/edge/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "가장자리 — 어떤 것의 맨 바깥 끝 부분",
  "gloss_ko": "가장자리",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "책상 위에 컵을 놓고 살살 바깥으로 밀어봐. 어느 순간 더 밀면 안 되는 선이 나오거든?",
   "거기서 조금만 더 가면 컵은 뚝 떨어져. 그 선이 책상의 맨 바깥 끝이야.",
   "가운데도 아니고, 뾰족하게 튀어나온 구석 한 점도 아니야. 빙 둘러 있는 바깥 끝.",
   "종이도, 매트도, 접시도 다 이런 바깥 끝이 있어. 그게 edge야."
  ],
+ "explanation_for_kids": null,
  "scene": "책상 위에서 컵을 바깥으로 밀다 멈추는 끝 선",
  "examples": [
   {
-   "en": "My cup was sitting right on the edge of the table.",
-   "ko": "내 컵이 책상 가장자리에 딱 놓여 있었어."
+   "en": "My coffee cup was sitting right on the edge of my desk.",
+   "ko": "내 커피잔이 책상 가장자리에 딱 놓여 있었어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "체육관 바닥에 커다란 동그라미가 그려져 있어. 선생님이 그 동그라미의 한가운데 지점에 고깔을 딱 세워 놨어. 고깔이 서 있는 자리가 동그라미의 'edge'야?",
+   "question": "헬스장 바닥에 커다란 동그라미가 그려져 있어. 트레이너가 그 동그라미의 한가운데 지점에 고깔을 딱 세워 놨어. 고깔이 서 있는 자리가 동그라미의 'edge'야?",
    "choices": [
     "응, edge 맞아",
     "아니, edge 아니야"

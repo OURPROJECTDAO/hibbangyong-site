@@ -11,23 +11,24 @@
  "word": "wheel",
  "slug": "wheel",
  "url": "https://hibbangyong.com/words/wheel/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "바퀴 — 둥글게 굴러서 차나 자전거를 움직이게 하는 것",
  "gloss_ko": "바퀴",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 둥근 것은 자동차의 wheel이에요. 굴러가면서 무거운 차를 앞으로 나아가게 해요.",
   "자전거에도, 유모차에도, 킥보드에도 이런 것이 달려 있어서 우리가 탈 수 있어요."
  ],
+ "explanation_for_kids": null,
  "scene": "고무 타이어와 은색 바퀴살(휠)이 다 보이는 자동차 바퀴 한 개를 정면 전체로 — 둥근 바퀴 그 자체",
  "examples": [
   {
-   "en": "The car has four wheels.",
-   "ko": "그 자동차는 바퀴가 네 개야."
+   "en": "My suitcase has a broken wheel.",
+   "ko": "내 캐리어 바퀴 하나가 고장 났어."
   }
  ],
  "quiz": [

@@ -11,26 +11,27 @@
  "word": "mood",
  "slug": "mood",
  "url": "https://hibbangyong.com/words/mood/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "그때그때의 마음 상태(좋을 때도 나쁠 때도 있는, 자꾸 바뀌는 기분)",
  "gloss_ko": "그때그때 기분",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "아침엔 막 신났는데, 점심땐 괜히 시무룩해. 왜 그런지 딱 꼬집기 어려울 때도 있어.",
   "지금 네 마음이 무슨 날씨인지—그게 바로 이거야.",
   "맑을 때도, 흐릴 때도, 갑자기 비 쏟아질 때도 있어. 좋은 쪽 나쁜 쪽 둘 다 말이야.",
   "지금 마음이 어느 쪽으로 기울었나, 그게 mood야.",
   "참고로 '원래 그런 애'(성격)랑은 달라. 이건 오늘 그 순간만의 마음 날씨거든."
  ],
+ "explanation_for_kids": null,
  "scene": "아침 신남 → 점심 시무룩, 마음 날씨가 그새 바뀜.",
  "examples": [
   {
-   "en": "I was in a happy mood at breakfast, but a grumpy mood by lunchtime.",
-   "ko": "아침엔 기분이 좋았는데, 점심땐 뚱한 기분이 됐어."
+   "en": "My boss is in a good mood today.",
+   "ko": "오늘 상사 기분이 좋아."
   }
  ],
  "quiz": [

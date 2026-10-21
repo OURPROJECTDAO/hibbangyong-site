@@ -11,25 +11,26 @@
  "word": "engineer",
  "slug": "engineer",
  "url": "https://hibbangyong.com/words/engineer/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "엔지니어 — 기계나 다리 같은 걸 어떻게 만들지 궁리해서 진짜로 만들어내는 사람.",
  "gloss_ko": "엔지니어",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "엄청 높은 다리를 어떻게 안 무너지게 세우지? 누가 그걸 다 따져?",
   "그런 걸 머리로 궁리해서 진짜로 만들어내는 사람이 있거든.",
   "다리든 기계든 게임 속 프로그램이든 — '어떻게 만들지'를 풀어내는 사람!",
   "그게 engineer야."
  ],
+ "explanation_for_kids": null,
  "scene": "큰 다리를 안 무너지게 어떻게 세울지 머리로 따져서 진짜로 만들어내는 사람.",
  "examples": [
   {
-   "en": "My sister is an engineer, so she figures out how to build strong bridges.",
-   "ko": "우리 언니는 엔지니어라서, 튼튼한 다리를 어떻게 지을지 궁리해."
+   "en": "My roommate is an engineer, so she designs car engines.",
+   "ko": "내 룸메이트는 엔지니어라서 자동차 엔진을 설계해."
   }
  ],
  "quiz": [

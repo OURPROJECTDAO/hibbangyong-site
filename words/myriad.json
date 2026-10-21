@@ -11,21 +11,27 @@
  "word": "myriad",
  "slug": "myriad",
  "url": "https://hibbangyong.com/words/myriad/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "무수한 — 셀 수 없을 만큼 아주 많은",
  "gloss_ko": "셀 수 없이 많은",
  "level": {
   "code": "L9",
-  "name": "토플 114~120점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "마감 전날 밤, 할 일을 하나 끝내면 또 나오고, 또 나와.",
+  "세다가 포기하게 될 만큼 많은 거, 이럴 때 myriad를 써. 좋은 거든 나쁜 거든 상관없어.",
+  "밤하늘의 별처럼 예쁜 것도 되고, 앱의 오류 같은 골칫거리도 돼.",
+  "그냥 '몇 개'나 '여러 종류'랑은 달라. 종류가 많다는 게 아니라 수가 어마어마하다는 거야."
+ ],
+ "explanation_for_kids": [
   "시험 전날 밤, 할 일을 하나 끝내면 또 나오고, 또 나와.",
   "세다가 포기하게 될 만큼 많은 거, 이럴 때 myriad를 써. 좋은 거든 나쁜 거든 상관없어.",
   "밤하늘의 별처럼 예쁜 것도 되고, 앱의 오류 같은 골칫거리도 돼.",
   "그냥 '몇 개'나 '여러 종류'랑은 달라. 종류가 많다는 게 아니라 수가 어마어마하다는 거야."
  ],
- "scene": "시험 전날 밤에 끝없이 나오는 할 일",
+ "scene": "마감 전날 밤에 끝없이 나오는 할 일",
  "examples": [
   {
    "en": "The new app had myriad problems, so we deleted it.",
@@ -35,7 +41,7 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "엄마 지갑을 열어 보니 동전이 딱 세 개 들어 있어. 한눈에 바로 셀 수 있어. 이 동전들을 'myriad' 동전이라고 할 수 있을까?",
+   "question": "내 지갑을 열어 보니 동전이 딱 세 개 들어 있어. 한눈에 바로 셀 수 있어. 이 동전들을 'myriad' 동전이라고 할 수 있을까?",
    "choices": [
     "응, myriad 맞아",
     "아니, myriad 아니야"
@@ -63,7 +69,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/myriad.webp",
-  "alt": "시험 전날 밤에 끝없이 나오는 할 일",
+  "alt": "마감 전날 밤에 끝없이 나오는 할 일",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

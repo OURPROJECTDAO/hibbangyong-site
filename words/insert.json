@@ -11,25 +11,26 @@
  "word": "insert",
  "slug": "insert",
  "url": "https://hibbangyong.com/words/insert/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "끼워 넣다 — 틈이나 구멍, 사이를 찾아 그 안으로 쏙 넣는 것",
  "gloss_ko": "끼워 넣다",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "자판기 구멍에 동전을 쏙, 책장 사이에 책갈피를 쏙.",
   "좁은 틈이나 구멍, 사이를 찾아서 그 안으로 딱 맞게 넣는 거야.",
   "그냥 위에 툭 올려놓는 거랑은 달라. 꼭 안으로, 사이로 들어가야 하거든.",
   "이게 insert야."
  ],
+ "explanation_for_kids": null,
  "scene": "자판기 구멍에 동전 넣기",
  "examples": [
   {
-   "en": "He inserted the key into the lock.",
-   "ko": "그 애는 열쇠를 자물쇠 구멍에 쏙 끼워 넣었어."
+   "en": "I insert my card and type my PIN.",
+   "ko": "나는 카드를 꽂고 비밀번호를 눌러."
   }
  ],
  "quiz": [

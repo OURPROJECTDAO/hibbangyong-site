@@ -11,20 +11,21 @@
  "word": "slight",
  "slug": "slight",
  "url": "https://hibbangyong.com/words/slight/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "아주 조금인 — 있긴 있는데 겨우 알아챌 만큼만",
  "gloss_ko": "아주 조금인",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "방문이 딱 붙어 있는 줄 알았는데, 자세히 보니까 손가락 하나 들어갈 만큼 벌어져 있어.",
   "닫힌 것도 아니고 활짝 열린 것도 아니야. 있긴 있는데 겨우 보일 만큼만 있는 거지.",
   "이런 건 좋은 거에도 쓰고 나쁜 거에도 써. 조금 나아진 것도, 조금 아픈 것도, 조금 이상한 냄새도 다 이렇게 말해.",
   "\"조금\"이 아니라 \"하나도 없음\"이면 이 말은 못 써. 있어야 하거든, 아주 조금이라도. 그게 slight야."
  ],
+ "explanation_for_kids": null,
  "scene": "손가락 하나 들어갈 만큼 벌어진 방문",
  "examples": [
   {
@@ -35,7 +36,7 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "동생이 계단에서 굴러서 팔이 부러졌어. 병원에서 깁스를 하고 한 달 동안 팔을 못 쓴대. 동생이 다친 정도가 'slight'야?",
+   "question": "친구가 계단에서 굴러서 팔이 부러졌어. 병원에서 깁스를 하고 한 달 동안 팔을 못 쓴대. 친구가 다친 정도가 'slight'야?",
    "choices": [
     "응, slight 맞아",
     "아니, slight 아니야"

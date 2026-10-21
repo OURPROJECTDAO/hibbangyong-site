@@ -11,38 +11,44 @@
  "word": "bustling",
  "slug": "bustling",
  "url": "https://hibbangyong.com/words/bustling/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "북적이는 — 어떤 곳에 사람들이 바쁘게 오가며 이것저것 일이 벌어지고 있는",
  "gloss_ko": "북적이는",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "점심 한 시간 전 식당 떠올려 봐. 몇 명은 국을 젓고, 몇 명은 그릇을 나르고, 계속 움직이잖아.",
+  "이렇게 어떤 곳 안에서 사람들이 바쁘게 움직이고 있을 때, 그곳을 bustling하다고 해. 시장이든 역이든 축제든 다 돼.",
+  "사람이 꽉 차 있기만 한 거랑은 달라. 극장에 다들 가만히 앉아 있으면 그건 bustling이 아니야.",
+  "그냥 시끄럽기만 한 것도 아니야. 바쁘게 움직이는 게 있어야 해."
+ ],
+ "explanation_for_kids": [
   "점심 한 시간 전 급식실 떠올려 봐. 몇 명은 국을 젓고, 몇 명은 식판을 나르고, 계속 움직이잖아.",
   "이렇게 어떤 곳 안에서 사람들이 바쁘게 움직이고 있을 때, 그곳을 bustling하다고 해. 시장이든 역이든 축제든 다 돼.",
   "사람이 꽉 차 있기만 한 거랑은 달라. 극장에 다들 가만히 앉아 있으면 그건 bustling이 아니야.",
   "그냥 시끄럽기만 한 것도 아니야. 바쁘게 움직이는 게 있어야 해."
  ],
- "scene": "점심 전 급식실에서 국 젓고 식판 나르는 사람들",
+ "scene": "점심 전 식당에서 국 젓고 그릇 나르는 사람들",
  "examples": [
   {
-   "en": "The school kitchen was bustling an hour before lunch.",
-   "ko": "점심 한 시간 전부터 학교 급식실은 다들 바쁘게 움직이느라 북적였어."
+   "en": "The café near my office was bustling at lunch.",
+   "ko": "회사 근처 카페는 점심때 사람들로 북적였어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "새벽 네 시, 아파트 단지 안 놀이터야. 아무도 없고 그네와 미끄럼틀만 그대로 있어. 이 놀이터를 'bustling'하다고 할 수 있어?",
+   "question": "새벽 네 시, 아파트 단지 안 공원이야. 아무도 없고 벤치와 가로등만 그대로 있어. 이 공원을 'bustling'하다고 할 수 있어?",
    "choices": [
     "응, bustling해",
     "아니, bustling하지 않아"
    ],
    "answer_index": 1,
    "answer": "아니, bustling하지 않아",
-   "why": "맞아! 새벽 네 시라 아무도 없고 그네랑 미끄럼틀만 그대로 있잖아. 바쁘게 오가는 사람도, 벌어지는 일도 하나 없으니까 bustling이랑은 정반대인 거야."
+   "why": "맞아! 새벽 네 시라 아무도 없고 벤치랑 가로등만 그대로 있잖아. 바쁘게 오가는 사람도, 벌어지는 일도 하나 없으니까 bustling이랑은 정반대인 거야."
   }
  ],
  "synonyms": [],
@@ -66,7 +72,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/bustling.webp",
-  "alt": "점심 전 급식실에서 국 젓고 식판 나르는 사람들",
+  "alt": "점심 전 식당에서 국 젓고 그릇 나르는 사람들",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

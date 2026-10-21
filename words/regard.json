@@ -11,31 +11,32 @@
  "word": "regard",
  "slug": "regard",
  "url": "https://hibbangyong.com/words/regard/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "여기다 — 누군가나 무언가를 마음속으로 '이건 이런 거야' 하고 정해서 보다",
  "gloss_ko": "~라고 여기다",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "길에서 커다란 개를 만났어. 누나는 '와, 친구다!' 하고 웃었고, 동생은 '괴물이다!' 하고 뒤로 숨었거든?",
   "개는 똑같아. 그런데 둘이 그 개를 무엇이라고 보는지가 달라.",
   "눈으로 쳐다보는 거랑은 달라. 마음속으로 '이건 이런 거야' 하고 정해서 보는 거야. 좋게 볼 때도, 나쁘게 볼 때도 써.",
   "그게 regard야."
  ],
+ "explanation_for_kids": null,
  "scene": "큰 개를 누나는 친구로, 동생은 괴물로 다르게 보는 장면",
  "examples": [
   {
-   "en": "My little brother regards the big dog as a monster.",
-   "ko": "내 동생은 그 큰 개를 괴물로 여겨."
+   "en": "My little brother seems to regard the big dog as a monster.",
+   "ko": "내 남동생은 그 큰 개를 괴물로 여기는 것 같아."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "지호네 교실 뒤쪽 창가에는 화분이 하나 있어. 지호는 날마다 그 앞을 지나가지만, 거기에 화분이 있다는 걸 한 번도 알아챈 적이 없어. 지호는 그 화분을 'regard' 하는 거야?",
+   "question": "지호네 사무실 뒤쪽 창가에는 화분이 하나 있어. 지호는 날마다 그 앞을 지나가지만, 거기에 화분이 있다는 걸 한 번도 알아챈 적이 없어. 지호는 그 화분을 'regard' 하는 거야?",
    "choices": [
     "응, regard 맞아",
     "아니, regard 아니야"

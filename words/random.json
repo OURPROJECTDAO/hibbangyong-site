@@ -11,25 +11,26 @@
  "word": "random",
  "slug": "random",
  "url": "https://hibbangyong.com/words/random/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "아무렇게나 정해진(무작위의) — 규칙도 순서도 없이 아무렇게나 정해져서, 뭐가 될지 미리 못 맞히는",
  "gloss_ko": "아무렇게나 고른",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "상자에 이름표를 잔뜩 넣고, 눈 감고 하나만 딱 집어.",
   "누가 뽑힐지 아무도 몰라. 정해진 순서도, 고른 이유도 없거든.",
   "이렇게 순서도 규칙도 없이 아무렇게나 정해지는 거야. 다음에 뭐가 올지 못 맞혀.",
   "이게 random이야."
  ],
+ "explanation_for_kids": null,
  "scene": "상자에서 눈 감고 이름표 하나 뽑기",
  "examples": [
   {
-   "en": "The teacher picked a random student to answer.",
-   "ko": "선생님이 아무나 한 명 골라서 대답을 시키셨어."
+   "en": "The app played a random song on the subway.",
+   "ko": "지하철에서 앱이 아무 노래나 틀어 줬어."
   }
  ],
  "quiz": [

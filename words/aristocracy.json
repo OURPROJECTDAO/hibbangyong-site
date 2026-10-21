@@ -11,25 +11,26 @@
  "word": "aristocracy",
  "slug": "aristocracy",
  "url": "https://hibbangyong.com/words/aristocracy/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "귀족 — 태어난 집안 덕분에 땅·돈·힘을 대대로 물려받아 온, 한 사회 맨 위 계층의 사람들(무리 전체)",
  "gloss_ko": "귀족 계층",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "옛날 영국 드라마 보면 큰 성에 사는 백작 집안이 꼭 나오지?",
   "그 집 아이는 태어나는 순간 땅이랑 칭호, 힘을 물려받아.",
   "이런 집안들이 모여서 이룬 사회 맨 위 무리가 aristocracy야.",
   "갑자기 돈을 번 부자랑은 달라. 기준은 돈보다 태어난 집안이야."
  ],
+ "explanation_for_kids": null,
  "scene": "영국 드라마 속 성에 사는 백작 집안",
  "examples": [
   {
-   "en": "The aristocracy lost most of its land after the war.",
-   "ko": "전쟁이 끝나고 귀족들은 가진 땅을 거의 다 잃었어."
+   "en": "This old castle once belonged to the aristocracy.",
+   "ko": "이 오래된 성은 옛날에 귀족들 거였어."
   }
  ],
  "quiz": [

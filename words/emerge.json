@@ -11,25 +11,26 @@
  "word": "emerge",
  "slug": "emerge",
  "url": "https://hibbangyong.com/words/emerge/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "가려져 있다가 밖으로 나와 보이게 되다",
  "gloss_ko": "가려져 있다가 밖으로 나오다",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "안개가 자욱한 아침이야. 앞이 뿌옇게 아무것도 안 보여.",
   "그런데 그 뿌연 것 속에서 커다란 배 한 척이 스윽 나와. 안 보이던 게 이제 보여.",
   "물속에 있던 오리가 물 위로 쏙 올라올 때도, 굴속에 있던 토끼가 밖으로 폴짝 나올 때도 똑같아.",
   "안 보이던 데서 밖으로 나와 보이게 되는 것, 그게 emerge야."
  ],
+ "explanation_for_kids": null,
  "scene": "안개 속에서 큰 배가 나오는 아침",
  "examples": [
   {
-   "en": "A big ship emerged from the fog.",
-   "ko": "커다란 배가 안개 속에서 쓱 나타났어."
+   "en": "We watched a big ship emerge from the fog.",
+   "ko": "우리는 커다란 배가 안개 속에서 나타나는 걸 지켜봤어."
   }
  ],
  "quiz": [

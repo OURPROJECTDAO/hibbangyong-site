@@ -11,25 +11,26 @@
  "word": "villa",
  "slug": "villa",
  "url": "https://hibbangyong.com/words/villa/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "별장 — 도시 밖 시골이나 바닷가에 있는, 마당 넓고 방 많은 큰 집",
  "gloss_ko": "별장",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "차를 타고 도시를 한참 빠져나가면, 바닷가 언덕에 집 한 채가 딱 서 있어.",
   "담은 낮고 마당은 넓고 방도 많은, 크고 좋은 집이야.",
   "휴가 때 며칠 놀다 오기도 하고, 아예 거기서 쭉 사는 사람도 있어.",
   "우리가 흔히 말하는 그 빌라, 작은 집 여러 개가 층층이 든 건물 말이야, 그거랑은 아주 달라. 이게 villa야."
  ],
+ "explanation_for_kids": null,
  "scene": "도시 밖 바닷가 언덕에 홀로 선, 마당 넓고 방 많은 큰 집",
  "examples": [
   {
-   "en": "We stayed at a villa near the sea last summer.",
-   "ko": "우리는 작년 여름에 바닷가 근처 별장에서 지냈어."
+   "en": "My friends and I rented a villa near the sea last summer.",
+   "ko": "작년 여름에 친구들이랑 바닷가 근처 별장을 빌렸어."
   }
  ],
  "quiz": [

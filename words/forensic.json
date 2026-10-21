@@ -11,25 +11,26 @@
  "word": "forensic",
  "slug": "forensic",
  "url": "https://hibbangyong.com/words/forensic/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "과학 수사의 — 범죄나 사건의 증거를 과학적인 방법으로 조사해서 밝혀내는",
  "gloss_ko": "과학 수사의",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "해킹 사건이 터졌는데, 범인이 컴퓨터 기록을 싹 지우고 도망갔어. 그런데 전문가가 컴퓨터를 조사해서 지워진 기록을 되살려 냈어.",
   "이렇게 사건의 증거를 과학적인 방법으로 밝혀내는 조사에 붙는 말이 forensic이야. 그래서 'forensic 조사', 'forensic tests'처럼 써.",
   "피나 지문만 해당하는 게 아니야. 컴퓨터 기록, 손글씨, 회사 돈 장부도 다 조사 대상이 될 수 있어.",
   "그냥 과학 실험이랑은 달라. 사건의 진실을 밝혀서 재판에 쓰려는 조사여야 해."
  ],
+ "explanation_for_kids": null,
  "scene": "해킹 범인이 지운 컴퓨터 기록을 전문가가 되살림",
  "examples": [
   {
-   "en": "The police used forensic tests to find out who wrote the letter.",
-   "ko": "경찰은 그 편지를 누가 썼는지 밝혀내려고 과학 수사 검사를 했어."
+   "en": "Forensic tests showed who took the money from the shop.",
+   "ko": "과학 수사 검사로 누가 가게 돈을 가져갔는지 밝혀졌어."
   }
  ],
  "quiz": [

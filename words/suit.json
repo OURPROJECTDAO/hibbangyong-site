@@ -11,23 +11,27 @@
  "word": "suit",
  "slug": "suit",
  "url": "https://hibbangyong.com/words/suit/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "정장 — 같은 천으로 만든 재킷과 바지를 한 벌로 맞춰 입는 옷",
  "gloss_ko": "정장",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "옷걸이에 걸린 이 옷은 재킷과 바지가 한 벌로 짝을 이룬 정장, suit예요.",
+  "결혼식이나 중요한 자리에 갈 때 사람들이 이런 옷을 갖춰 입는 걸 볼 수 있어요."
+ ],
+ "explanation_for_kids": [
   "옷걸이에 걸린 이 옷은 재킷과 바지가 한 벌로 짝을 이룬 정장, suit예요.",
   "결혼식이나 중요한 자리에 갈 때 어른들이 이런 옷을 갖춰 입는 걸 볼 수 있어요."
  ],
- "scene": "옷걸이에 걸린 남색 정장 한 벌(재킷+바지)을 정면에서 크게 보여줌 — '수트=정장'의 뜻으로 그림",
+ "scene": "옷걸이에 걸린 남색 정장 한 벌(재킷+바지)을 정면에서 크게 보여줌",
  "examples": [
   {
-   "en": "Dad put on his best suit for the wedding.",
-   "ko": "아빠가 결혼식에 가려고 제일 좋은 정장을 입었어."
+   "en": "I bought my first suit for a job interview.",
+   "ko": "면접 보려고 첫 정장을 샀어."
   }
  ],
  "quiz": [
@@ -56,7 +60,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/suit.webp",
-  "alt": "옷걸이에 걸린 남색 정장 한 벌(재킷+바지)을 정면에서 크게 보여줌 — '수트=정장'의 뜻으로 그림",
+  "alt": "옷걸이에 걸린 남색 정장 한 벌(재킷+바지)을 정면에서 크게 보여줌",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

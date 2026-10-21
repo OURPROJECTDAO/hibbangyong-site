@@ -11,21 +11,27 @@
  "word": "scarlet",
  "slug": "scarlet",
  "url": "https://hibbangyong.com/words/scarlet/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "진홍색 — 눈에 확 띄는, 아주 밝고 선명한 빨간색",
  "gloss_ko": "진홍색",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "경기 날 우리 팀 머리띠가 그냥 빨강이 아니라 눈이 번쩍 뜨일 만큼 쨍한 빨강이었어.",
+  "살짝 주황빛이 돌 만큼 밝고 선명한 빨간색. 그 색 이름이 scarlet이야.",
+  "어둡고 칙칙한 검붉은색은 scarlet이 아니야.",
+  "분홍처럼 연한 색도 아니야. 빨강 중에서도 제일 밝고 진한 쪽이야."
+ ],
+ "explanation_for_kids": [
   "운동회 날 우리 반 머리띠가 그냥 빨강이 아니라 눈이 번쩍 뜨일 만큼 쨍한 빨강이었어.",
   "살짝 주황빛이 돌 만큼 밝고 선명한 빨간색. 그 색 이름이 scarlet이야.",
   "어둡고 칙칙한 검붉은색은 scarlet이 아니야.",
   "분홍처럼 연한 색도 아니야. 빨강 중에서도 제일 밝고 진한 쪽이야."
  ],
- "scene": "운동회 날 반 머리띠 색",
+ "scene": "경기 날 팀 머리띠 색",
  "examples": [
   {
    "en": "She came to the party dressed in scarlet.",
@@ -55,7 +61,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/scarlet.webp",
-  "alt": "운동회 날 반 머리띠 색",
+  "alt": "경기 날 팀 머리띠 색",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

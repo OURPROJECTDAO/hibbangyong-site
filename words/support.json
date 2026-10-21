@@ -11,25 +11,26 @@
  "word": "support",
  "slug": "support",
  "url": "https://hibbangyong.com/words/support/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "받쳐 줌 — 무너지지 않게 밑에서 버텨 주거나 곁에서 도와주는 힘",
  "gloss_ko": "받쳐 줌",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "무거운 텐트 천이 왜 폭 주저앉지 않는 줄 알아? 안에 막대가 딱 버티고 있거든.",
   "그 막대처럼 밑에서 받쳐 줘서 안 무너지게 해 주는 힘, 그게 support야.",
   "꼭 물건만은 아니야. 네가 울 때 친구가 곁에서 힘내라고 해 주면, 그것도 마음을 받쳐 주는 거지.",
   "이렇게 받쳐 주는 게 support야."
  ],
+ "explanation_for_kids": null,
  "scene": "텐트 안에서 천을 버텨 주는 막대",
  "examples": [
   {
-   "en": "Without these poles, the tent has no support and falls down.",
-   "ko": "이 막대들이 없으면 텐트는 받쳐 주는 게 없어서 폭삭 무너져."
+   "en": "This shelf needs more support, or it'll fall down.",
+   "ko": "이 선반은 밑을 더 받쳐 줘야 해. 안 그러면 무너질 거야."
   }
  ],
  "quiz": [

@@ -11,15 +11,21 @@
  "word": "throw",
  "slug": "throw",
  "url": "https://hibbangyong.com/words/throw/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "던지다 — 손에 쥔 걸 놓으면서 확 날려 보내다",
  "gloss_ko": "던지다",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "공을 손에 쥐고 있다가, 팔을 휘둘러서 확 놔. 공이 손을 떠나서 날아가지? 그게 throw야.",
+  "꼭 멀리, 세게 날려야만 throw인 건 아니야. 살살 던져서 바로 앞에 톡 떨어져도 던진 건 던진 거야.",
+  "쓰레기를 쓰레기통에 던져 넣는 것도, 친구한테 열쇠를 툭 던져 주는 것도 다 throw거든?",
+  "손에 들고 가서 놓는 거랑은 달라. 손을 떠나 날아가는 순간이 있어야 throw야."
+ ],
+ "explanation_for_kids": [
   "공을 손에 쥐고 있다가, 팔을 휘둘러서 확 놔. 공이 손을 떠나서 날아가지? 그게 throw야.",
   "꼭 멀리, 세게 날려야만 throw인 건 아니야. 살살 던져서 바로 앞에 톡 떨어져도 던진 건 던진 거야.",
   "쓰레기를 쓰레기통에 던져 넣는 것도, 친구한테 사탕을 툭 던져 주는 것도 다 throw거든?",
@@ -28,14 +34,14 @@
  "scene": "공을 쥐었다가 팔을 휘둘러 놓아 날려 보내는 장면",
  "examples": [
   {
-   "en": "I threw my socks into the basket, but I missed.",
-   "ko": "양말을 바구니에 던졌는데 빗나갔어."
+   "en": "I throw my gym clothes into the laundry basket every night.",
+   "ko": "나는 매일 밤 운동복을 빨래 바구니에 던져 넣어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "지호가 종이비행기를 손가락으로 집고 있다가 팔을 앞으로 뻗으며 손을 놨어. 종이비행기가 손에서 떠나 교실 앞쪽으로 쭉 날아갔어. 이게 'throw'야?",
+   "question": "지호가 종이비행기를 손가락으로 집고 있다가 팔을 앞으로 뻗으며 손을 놨어. 종이비행기가 손에서 떠나 방 저쪽으로 쭉 날아갔어. 이게 'throw'야?",
    "choices": [
     "응, throw 맞아",
     "아니, throw 아니야"

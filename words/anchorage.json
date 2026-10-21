@@ -11,25 +11,26 @@
  "word": "anchorage",
  "slug": "anchorage",
  "url": "https://hibbangyong.com/words/anchorage/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "정박지 — 배가 닻을 내리고 머무는 물 위 자리",
  "gloss_ko": "정박지",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "항구 앞바다에 배들이 여기저기 멈춰 떠 있는 걸 본 적 있어? 부두에 자리가 나길 기다리는 배도 있고, 바람을 피하는 배도 있고, 그냥 하룻밤 쉬는 배도 있어.",
   "이렇게 배가 닻을 내리고 머무는 물 위 자리가 anchorage야. 큰 화물선이든 작은 낚싯배든, 무슨 이유로 멈췄든 상관없어.",
   "부두에 밧줄로 묶어 두는 자리나 배가 지나다니는 물길이랑은 달라. 배와 창고, 시장까지 다 들어가는 항구 마을 전체를 말하는 것도 아니야.",
   "anchor가 닻이니까, 닻 내리는 곳이라고 기억하면 쉬워."
  ],
+ "explanation_for_kids": null,
  "scene": "항구 앞바다에 여기저기 멈춰 떠 있는 배들",
  "examples": [
   {
-   "en": "During the storm, the boats stayed in a quiet anchorage behind the island.",
-   "ko": "폭풍이 치는 동안 배들은 섬 뒤에 있는 잔잔한 정박지에 머물렀어."
+   "en": "Our ferry waited in the anchorage until the wind calmed down.",
+   "ko": "바람이 잦아들 때까지 우리가 탄 배는 정박지에서 기다렸어."
   }
  ],
  "quiz": [

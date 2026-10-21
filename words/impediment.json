@@ -11,38 +11,39 @@
  "word": "impediment",
  "slug": "impediment",
  "url": "https://hibbangyong.com/words/impediment/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "걸림돌 — 어떤 일이 술술 앞으로 나아가지 못하게 막거나 더디게 만드는 것",
  "gloss_ko": "걸림돌",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "조별 과제를 하는데 한 명이 연락이 안 돼. 다들 기다리느라 과제가 자꾸 밀려.",
   "완전히 멈추게 하든 조금 늦어지게 하든, 일이 나아가는 걸 붙잡는 게 impediment야.",
   "꼭 일정만 그런 건 아니야. 말이 자꾸 막혀서 더듬는 것도, 비나 규칙, 내 수줍음도 걸림돌이 될 수 있어.",
   "다만 그냥 기분 나쁜 일이라고 다 impediment는 아니야. 뭔가가 나아가는 길을 붙잡고 있어야 해."
  ],
+ "explanation_for_kids": null,
  "scene": "연락 안 되는 친구 때문에 조별 과제가 밀리는 장면",
  "examples": [
   {
-   "en": "His speech impediment made him nervous before the class presentation.",
-   "ko": "걔는 말할 때 자꾸 막히고 더듬는 편이라서 반 발표 전에 늘 긴장했어."
+   "en": "High rent is the biggest impediment to living on my own.",
+   "ko": "비싼 월세가 혼자 사는 데 제일 큰 걸림돌이야."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "민준이는 자전거로 학원에 가. 오늘은 늘 다니던 길에 도로 공사 펜스가 쳐져 있었어. 그래서 먼 길로 돌아가느라 학원에 20분 늦게 도착했어. 이 공사 펜스는 민준이가 학원에 가는 데 'impediment'였을까?",
+   "question": "민준이는 자전거로 회사에 가. 오늘은 늘 다니던 길에 도로 공사 펜스가 쳐져 있었어. 그래서 먼 길로 돌아가느라 회사에 20분 늦게 도착했어. 이 공사 펜스는 민준이가 회사에 가는 데 'impediment'였을까?",
    "choices": [
     "응, impediment 맞아",
     "아니, impediment 아니야"
    ],
    "answer_index": 0,
    "answer": "응, impediment 맞아",
-   "why": "맞아! 공사 펜스 때문에 민준이는 먼 길로 돌아가야 했고, 결국 학원에 20분 늦게 도착했잖아. 학원에 가는 길을 붙잡아서 늦어지게 했으니까 그 펜스가 바로 impediment인 거야."
+   "why": "맞아! 공사 펜스 때문에 민준이는 먼 길로 돌아가야 했고, 결국 회사에 20분 늦게 도착했잖아. 회사 가는 걸 붙잡아서 늦어지게 했으니까 그 펜스가 바로 impediment인 거야."
   }
  ],
  "synonyms": [],

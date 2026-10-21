@@ -11,25 +11,26 @@
  "word": "tuition",
  "slug": "tuition",
  "url": "https://hibbangyong.com/words/tuition/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "수업료 — 누군가에게 배우는 대가로 내는 돈",
  "gloss_ko": "수업료",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "피아노 학원이든 대학이든, 누군가한테 배우려면 돈을 내지.",
   "배우는 값으로 내는 그 돈이 tuition이야.",
   "수영장에 그냥 놀러 들어가며 내는 입장료는 아니야. 가르쳐 주는 사람이 있어야 해.",
   "대학 등록금 얘기할 때 제일 많이 나오지만, 학원이나 개인 레슨비도 다 tuition이야."
  ],
+ "explanation_for_kids": null,
  "scene": "피아노 학원·대학에 배우는 값으로 돈 내기",
  "examples": [
   {
-   "en": "Jimin's parents worried about the tuition for her art class.",
-   "ko": "지민이 부모님은 미술 학원 수업료 때문에 걱정하셨어."
+   "en": "My college tuition went up again this year.",
+   "ko": "올해 대학 등록금이 또 올랐어."
   }
  ],
  "quiz": [

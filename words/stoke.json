@@ -11,38 +11,39 @@
  "word": "stoke",
  "slug": "stoke",
  "url": "https://hibbangyong.com/words/stoke/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "불을 더 지피다 — 이미 타는 불에 땔감을 더 넣고 뒤적여 더 세게 타게 하다",
  "gloss_ko": "불을 더 지피다",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "캠핑 간 밤, 모닥불이 점점 약해지고 있어.",
   "장작을 더 넣고 뒤적여 줬더니 불이 다시 확 살아나.",
   "이렇게 이미 타고 있는 불을 더 세게 타게 하는 게 stoke야. 처음 불을 붙이는 거랑은 달라.",
   "그래서 화나 걱정 같은 마음을 옆에서 더 키울 때도 stoke라고 해."
  ],
+ "explanation_for_kids": null,
  "scene": "캠핑 밤 약해지는 모닥불에 장작을 넣고 뒤적임",
  "examples": [
   {
-   "en": "Grandpa stoked the fire, and soon the whole room was warm again.",
-   "ko": "할아버지가 불을 더 지피니까 금방 방 전체가 다시 따뜻해졌어."
+   "en": "It's getting cold, so I'll stoke the campfire.",
+   "ko": "점점 추워져서 내가 모닥불을 더 지필게."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "마당에서 고기를 굽는데 그릴 속 숯불이 점점 약해졌어. 삼촌이 이미 타고 있는 숯 위에 새 숯을 더 얹고 집게로 뒤적였더니 불이 다시 세졌어. 삼촌이 한 게 'stoke'야?",
+   "question": "마당에서 고기를 굽는데 그릴 속 숯불이 점점 약해졌어. 친구가 이미 타고 있는 숯 위에 새 숯을 더 얹고 집게로 뒤적였더니 불이 다시 세졌어. 친구가 한 게 'stoke'야?",
    "choices": [
     "응, stoke 맞아",
     "아니, stoke 아니야"
    ],
    "answer_index": 0,
    "answer": "응, stoke 맞아",
-   "why": "맞아! 삼촌은 이미 타고 있는 숯에 새 숯을 더 얹고 집게로 뒤적여서 약해진 불을 다시 세게 만들었잖아. 이미 붙어 있는 불을 더 세게 타게 하는 거, 바로 그게 stoke야."
+   "why": "맞아! 친구는 이미 타고 있는 숯에 새 숯을 더 얹고 집게로 뒤적여서 약해진 불을 다시 세게 만들었잖아. 이미 붙어 있는 불을 더 세게 타게 하는 거, 바로 그게 stoke야."
   }
  ],
  "synonyms": [],

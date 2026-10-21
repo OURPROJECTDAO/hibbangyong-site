@@ -11,15 +11,21 @@
  "word": "athlete",
  "slug": "athlete",
  "url": "https://hibbangyong.com/words/athlete/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "운동선수 — 운동 경기에 나가서 실력을 겨루는 사람",
  "gloss_ko": "운동선수",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "달리기, 수영, 축구, 체조… 종목은 다 달라도 똑같은 게 하나 있어.",
+  "매일 땀 뻘뻘 흘리며 몸을 갈고닦고, 경기에 나가서 직접 겨루거든.",
+  "응원석에서 소리치는 팬이나, 호루라기 부는 심판은? 아니야. 직접 뛰는 사람만!",
+  "몸으로 뛰고 겨루는 바로 그 사람, 그게 athlete야."
+ ],
+ "explanation_for_kids": [
   "달리기, 수영, 축구, 체조… 종목은 다 달라도 똑같은 게 하나 있어.",
   "매일 땀 뻘뻘 흘리며 몸을 갈고닦고, 경기에 나가서 직접 겨루거든.",
   "응원석에서 와아! 소리치는 팬이나, 삑! 호루라기 부는 심판은? 아니야. 직접 뛰는 사람만!",
@@ -28,21 +34,21 @@
  "scene": "여러 종목 선수들이 매일 땀 흘리며 몸을 단련함",
  "examples": [
   {
-   "en": "My aunt is an athlete, so she gets up early every day.",
-   "ko": "우리 이모는 운동선수라서 날마다 아침 일찍 일어나."
+   "en": "My roommate is an athlete, so she trains at the gym every morning.",
+   "ko": "내 룸메이트는 운동선수라서 매일 아침 헬스장에서 훈련해."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "삼촌이 탁구 대회에 나갔어. 라켓을 들고 상대와 직접 공을 주고받으며 점수를 겨루고 있어. 삼촌은 'athlete'일까?",
+   "question": "동료가 탁구 대회에 나갔어. 라켓을 들고 상대와 직접 공을 주고받으며 점수를 겨루고 있어. 동료는 'athlete'일까?",
    "choices": [
     "응, athlete 맞아",
     "아니, athlete 아니야"
    ],
    "answer_index": 0,
    "answer": "응, athlete 맞아",
-   "why": "맞아! 삼촌은 라켓을 들고 상대와 직접 공을 주고받으면서 점수를 겨루고 있잖아. 이렇게 대회에 나가서 몸으로 직접 겨루는 사람, 바로 그게 athlete인 거야."
+   "why": "맞아! 동료는 라켓을 들고 상대와 직접 공을 주고받으면서 점수를 겨루고 있잖아. 이렇게 대회에 나가서 몸으로 직접 겨루는 사람, 바로 그게 athlete인 거야."
   }
  ],
  "synonyms": [],

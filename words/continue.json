@@ -11,21 +11,27 @@
  "word": "continue",
  "slug": "continue",
  "url": "https://hibbangyong.com/words/continue/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "계속하다 — 멈추지 않고 이어가거나, 잠깐 멈췄어도 하던 자리에서 이어서 하다",
  "gloss_ko": "계속하다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "옆집 아기가 울기 시작했어. 달래 줘도 안 그쳐. 그냥 쭉 울어. 멈출 만한데 안 멈추고 그대로 가는 거, 이런 게 continue거든?",
+  "울음처럼 싫은 것만 그런 게 아니야. 그리던 그림도, 걷던 길도, 안 멈추면 다 continue야.",
+  "밥 먹느라 잠깐 쉬었어도 괜찮아. 아까 멈춘 그 자리에서 이어서 하면 그것도 continue.",
+  "헷갈리지 마. 첫 장으로 돌아가서 새로 시작하는 건 아니야. 하던 걸 이어서 가는 거, 그게 continue야."
+ ],
+ "explanation_for_kids": [
   "동생이 울기 시작했어. 사탕을 줘도 안 그쳐. 그냥 쭉 울어. 멈출 만한데 안 멈추고 그대로 가는 거, 이런 게 continue거든?",
   "울음처럼 싫은 것만 그런 게 아니야. 그리던 그림도, 걷던 길도, 안 멈추면 다 continue야.",
   "밥 먹느라 잠깐 쉬었어도 괜찮아. 아까 멈춘 그 자리에서 이어서 하면 그것도 continue.",
   "헷갈리지 마. 첫 장으로 돌아가서 새로 시작하는 건 아니야. 하던 걸 이어서 가는 거, 그게 continue야."
  ],
- "scene": "사탕을 줘도 안 그치고 쭉 우는 동생",
+ "scene": "달래 줘도 안 그치고 쭉 우는 옆집 아기",
  "examples": [
   {
    "en": "The baby continued crying even after we sang to him.",
@@ -35,7 +41,7 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "누나가 피아노를 치고 있었어. 그러다 뚜껑을 닫고 자리에서 일어나 방으로 들어갔어. 누나가 피아노를 'continue'한 거야?",
+   "question": "친구가 피아노를 치고 있었어. 그러다 뚜껑을 닫고 자리에서 일어나 방으로 들어갔어. 친구가 피아노를 'continue'한 거야?",
    "choices": [
     "응, continue 맞아",
     "아니, continue 아니야"
@@ -61,7 +67,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/continue.webp",
-  "alt": "사탕을 줘도 안 그치고 쭉 우는 동생",
+  "alt": "달래 줘도 안 그치고 쭉 우는 옆집 아기",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

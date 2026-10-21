@@ -11,23 +11,24 @@
  "word": "missile",
  "slug": "missile",
  "url": "https://hibbangyong.com/words/missile/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "미사일 — 멀리 날아가서 목표에 맞으면 쾅 터지는 무기",
  "gloss_ko": "미사일",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 은백색 몸체에 뾰족한 앞코가 달려 하늘로 솟는 것이 missile이에요.",
   "로켓처럼 생겼지만, 멀리 날아가 목표에 부딪히면 쾅 터지는 무기예요."
  ],
+ "explanation_for_kids": null,
  "scene": "'미사일'을 그림 — 매끈한 은백색 원통형 몸체에 뾰족한 앞코와 꼬리날개가 달린 로켓형 미사일 한 개가 맑은 하늘로 부드럽게 솟아오르는 모습(폭발·표적·전쟁 요소 없이 친근하게). anchor=사물 단독이라 false.",
  "examples": [
   {
-   "en": "The missile flew high up into the sky.",
-   "ko": "미사일이 하늘 높이 날아올랐어."
+   "en": "We watched a missile launch on the news last night.",
+   "ko": "어젯밤 뉴스에서 미사일 발사 장면을 봤어."
   }
  ],
  "quiz": [

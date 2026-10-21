@@ -11,20 +11,21 @@
  "word": "outskirts",
  "slug": "outskirts",
  "url": "https://hibbangyong.com/words/outskirts/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "변두리 — 도시 한가운데에서 가장 먼, 도시 가장자리 쪽 동네들",
  "gloss_ko": "도시 변두리",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "지도에서 도시 하나를 떠올려 봐. 한가운데엔 시청이랑 큰 상가가 몰려 있지.",
   "거기서 쭉 밖으로 나가서, 도시가 끝나기 바로 전 가장자리 동네들. 그게 outskirts야.",
   "아직 도시 안이야. 도시를 벗어난 시골 마을이랑은 달라.",
   "허름한 동네라는 뜻도 아니야. 새 아파트 단지나 큰 경기장도 거기 많이 생겨."
  ],
+ "explanation_for_kids": null,
  "scene": "지도 위 도시 한가운데(시청·상가)에서 가장자리로 나가기",
  "examples": [
   {

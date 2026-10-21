@@ -11,25 +11,31 @@
  "word": "discredit",
  "slug": "discredit",
  "url": "https://hibbangyong.com/words/discredit/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "신용을 떨어뜨리다 — 어떤 사람이나 주장을 남들이 더는 믿지 않게 만들다",
  "gloss_ko": "못 믿게 만들다",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "동기들 사이에서 '이 영양제 먹으면 키 큰다'는 영상이 돌았어. 그런데 교수님이 실험 결과를 보여 주니까 다들 그 영상을 안 믿게 됐지.",
+  "이렇게 어떤 사람이나 말을 남들이 더는 못 믿게 만드는 게 discredit이야.",
+  "진짜 증거로 그렇게 될 수도 있고, 거짓 소문으로 일부러 그렇게 만들 수도 있어. 둘 다 discredit이야.",
+  "그냥 나쁜 말을 하는 거랑은 달라. 핵심은 사람들이 믿던 마음이 무너진다는 거야."
+ ],
+ "explanation_for_kids": [
   "반에서 '이 영양제 먹으면 키 큰다'는 영상이 돌았어. 그런데 과학 선생님이 실험 결과를 보여 주니까 다들 그 영상을 안 믿게 됐지.",
   "이렇게 어떤 사람이나 말을 남들이 더는 못 믿게 만드는 게 discredit이야.",
   "진짜 증거로 그렇게 될 수도 있고, 거짓 소문으로 일부러 그렇게 만들 수도 있어. 둘 다 discredit이야.",
   "그냥 나쁜 말을 하는 거랑은 달라. 핵심은 사람들이 믿던 마음이 무너진다는 거야."
  ],
- "scene": "과학 선생님의 실험 결과 때문에 '키 크는 영양제' 영상을 아무도 안 믿게 된 반",
+ "scene": "교수님의 실험 결과 때문에 '키 크는 영양제' 영상을 아무도 안 믿게 된 동기들",
  "examples": [
   {
-   "en": "The new test results discredited the old study.",
-   "ko": "새 실험 결과가 나오니까 아무도 그 옛날 연구를 안 믿게 됐어."
+   "en": "The new data could discredit the whole report.",
+   "ko": "새 데이터 때문에 그 보고서 전체를 아무도 안 믿게 될 수도 있어."
   }
  ],
  "quiz": [

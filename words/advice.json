@@ -11,21 +11,22 @@
  "word": "advice",
  "slug": "advice",
  "url": "https://hibbangyong.com/words/advice/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "조언 — 어떻게 하면 좋을지 \"이렇게 해봐\" 하고 건네주는 말",
  "gloss_ko": "조언",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "자전거를 타는데 자꾸 넘어져. 옆에 있던 누나가 말해. 발밑 말고 앞을 봐.",
   "근데 이건 시키는 게 아니거든? 안 들어도 혼나지 않아.",
   "들을지 말지는 내가 정해. 그대로 해봤는데 또 넘어질 수도 있고.",
   "누가 나 잘되라고 이렇게 해보라며 건네주는 말, 이게 advice야."
  ],
- "scene": "자전거를 타다 자꾸 넘어지는 아이에게 누나가 앞을 보라고 말해주는 장면",
+ "explanation_for_kids": null,
+ "scene": "자전거를 타다 자꾸 넘어지는 나에게 누나가 앞을 보라고 말해주는 장면",
  "examples": [
   {
    "en": "My sister gave me advice, but I fell off my bike again.",
@@ -35,7 +36,7 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "미술 시간에 내가 색칠을 하는데 자꾸 선 밖으로 삐져나가. 옆자리 친구가 \"연필을 좀 더 아래쪽을 잡아봐\" 하고 말해줬어. 이게 'advice'야?",
+   "question": "드로잉 수업에서 색칠하는데 자꾸 선 밖으로 삐져나가. 옆자리 친구가 \"연필을 좀 더 아래쪽을 잡아봐\" 하고 말해줬어. 이게 'advice'야?",
    "choices": [
     "응, advice 맞아",
     "아니, advice 아니야"
@@ -59,7 +60,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/advice.webp",
-  "alt": "자전거를 타다 자꾸 넘어지는 아이에게 누나가 앞을 보라고 말해주는 장면",
+  "alt": "자전거를 타다 자꾸 넘어지는 나에게 누나가 앞을 보라고 말해주는 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

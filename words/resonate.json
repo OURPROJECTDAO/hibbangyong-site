@@ -11,25 +11,26 @@
  "word": "resonate",
  "slug": "resonate",
  "url": "https://hibbangyong.com/words/resonate/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "울려 퍼지다 — 소리가 나고 바로 끝나지 않고, 공간을 채우면서 오래 이어지다 (누군가의 말이 마음에 오래 남을 때도 써)",
  "gloss_ko": "울려 퍼지다",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "텅 빈 강당에서 누가 북을 딱 한 번 쳤어.",
   "소리가 바로 안 끝나. 강당 안을 꽉 채우면서 한참 이어지지? 그게 resonate야.",
   "산에서 되돌아오는 메아리랑은 달라. 메아리는 돌아오는 소리고, 이건 그 자리를 채우면서 오래 남는 소리야.",
   "그래서 누군가 한 말이 마음속에서 오래 맴돌 때도 이 단어를 써."
  ],
+ "explanation_for_kids": null,
  "scene": "텅 빈 강당에서 북을 한 번 친 소리가 오래 이어짐",
  "examples": [
   {
-   "en": "Her low voice resonated in the empty hall.",
-   "ko": "그 애의 낮은 목소리가 텅 빈 강당 안을 가득 채우며 한참 울렸어."
+   "en": "Voices resonate in the empty subway station at night.",
+   "ko": "밤에 텅 빈 지하철역에서는 목소리가 크게 울려 퍼져."
   }
  ],
  "quiz": [

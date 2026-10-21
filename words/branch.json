@@ -11,23 +11,24 @@
  "word": "branch",
  "slug": "branch",
  "url": "https://hibbangyong.com/words/branch/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "나뭇가지 — 나무 줄기에서 뻗어 나와 잎이 달리는 가지",
  "gloss_ko": "나뭇가지",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "나무 줄기에서 옆으로 쭉 뻗어 나온 굵은 가지가 branch예요. 그림 속 초록 잎이 달린 그 가지가 바로 branch랍니다.",
   "공원 나무를 올려다보면 사방으로 뻗은 branch들을 볼 수 있어요. 새가 앉아 쉬는 곳도 바로 이 branch예요."
  ],
+ "explanation_for_kids": null,
  "scene": "초록 잎이 달린 나무의 굵은 나뭇가지 하나(branch=나뭇가지)를 화면 중앙에 통째로 크게",
  "examples": [
   {
-   "en": "A little bird is sitting on a branch of the tree.",
-   "ko": "작은 새가 나뭇가지에 앉아 있어."
+   "en": "A bird sat on a branch outside my office window.",
+   "ko": "사무실 창밖 나뭇가지에 새 한 마리가 앉아 있었어."
   }
  ],
  "quiz": [

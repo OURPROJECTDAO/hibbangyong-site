@@ -11,21 +11,27 @@
  "word": "legislature",
  "slug": "legislature",
  "url": "https://hibbangyong.com/words/legislature/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "입법부(법을 만드는 곳) — 사람들이 뽑은 대표들이 모여 법을 만들고 고치는 기관(우리나라 국회 같은 곳)",
  "gloss_ko": "법 만드는 곳",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "법은 누가 만들까? 동호회가 회의해서 모임 규칙을 바꾸는 것처럼, 나라에도 그런 모임이 있어.",
+  "사람들이 뽑은 대표들이 모여서 투표로 법을 새로 만들고, 고치고, 없애.",
+  "우리나라 국회도, 미국의 각 주에 따로 있는 의회도 다 legislature라고 불러.",
+  "법대로 나라 살림을 하는 정부, 법으로 재판하는 법원이랑은 달라. 여긴 법을 만드는 쪽이야."
+ ],
+ "explanation_for_kids": [
   "법은 누가 만들까? 학생회가 회의해서 학교 규칙을 바꾸는 것처럼, 나라에도 그런 모임이 있어.",
   "사람들이 뽑은 대표들이 모여서 투표로 법을 새로 만들고, 고치고, 없애.",
   "우리나라 국회도, 미국의 각 주에 따로 있는 의회도 다 legislature라고 불러.",
   "법대로 나라 살림을 하는 정부, 법으로 재판하는 법원이랑은 달라. 여긴 법을 만드는 쪽이야."
  ],
- "scene": "학생회가 회의로 학교 규칙을 바꾸는 장면(비유)",
+ "scene": "동호회가 회의로 모임 규칙을 바꾸는 장면(비유)",
  "examples": [
   {
    "en": "The state legislature voted to raise the minimum age for driving.",
@@ -69,7 +75,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/legislature.webp",
-  "alt": "학생회가 회의로 학교 규칙을 바꾸는 장면(비유)",
+  "alt": "동호회가 회의로 모임 규칙을 바꾸는 장면(비유)",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

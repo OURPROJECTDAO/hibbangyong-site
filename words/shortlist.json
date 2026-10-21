@@ -11,38 +11,44 @@
  "word": "shortlist",
  "slug": "shortlist",
  "url": "https://hibbangyong.com/words/shortlist/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "최종 후보 명단 — 많은 후보 가운데 마지막 결정을 앞두고 몇 개만 추려서 남긴 짧은 목록",
  "gloss_ko": "최종 후보 명단",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "회사 워크숍 장소 후보가 처음엔 스무 군데였어.",
+  "회의해서 세 군데만 남겼어. 이렇게 추려서 남긴 짧은 명단이 shortlist야.",
+  "상 받을 사람이나 새로 뽑을 사람을 고를 때도 똑같이 써.",
+  "근데 여기 올랐다고 뽑힌 건 아니야. 아직 마지막 결정을 기다리는 명단이야."
+ ],
+ "explanation_for_kids": [
   "수학여행 장소 후보가 처음엔 스무 군데였어.",
   "회의해서 세 군데만 남겼어. 이렇게 추려서 남긴 짧은 명단이 shortlist야.",
   "상 받을 사람이나 새로 뽑을 사람을 고를 때도 똑같이 써.",
   "근데 여기 올랐다고 뽑힌 건 아니야. 아직 마지막 결정을 기다리는 명단이야."
  ],
- "scene": "수학여행 장소 후보 스무 곳을 세 곳으로 추리기",
+ "scene": "회사 워크숍 장소 후보 스무 곳을 세 곳으로 추리기",
  "examples": [
   {
-   "en": "My drawing was on the shortlist, but another student won the prize.",
-   "ko": "내 그림이 최종 후보에는 올랐는데, 상은 다른 애가 받았어."
+   "en": "My application made the shortlist, but someone else got the job.",
+   "ko": "내 지원서가 최종 후보까지는 올랐는데, 합격은 다른 사람이 했어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "우리 반 티셔츠 디자인 후보가 서른 개 들어왔어. 반장이 그중 네 개만 골라 칠판에 붙였고, 내일 반 전체가 투표로 하나를 정하기로 했어. 칠판에 붙은 이 네 개 목록이 'shortlist'야?",
+   "question": "우리 동호회 티셔츠 디자인 후보가 서른 개 들어왔어. 운영진이 그중 네 개만 골라 단톡방에 올렸고, 내일 다 같이 투표로 하나를 정하기로 했어. 단톡방에 올라온 이 네 개 목록이 'shortlist'야?",
    "choices": [
     "응, shortlist 맞아",
     "아니, shortlist 아니야"
    ],
    "answer_index": 0,
    "answer": "응, shortlist 맞아",
-   "why": "맞아! 서른 개 중에 반장이 네 개만 골라 칠판에 붙였고, 하나로 정하는 투표는 내일이잖아. 많은 후보에서 몇 개만 추려 놓고 마지막 결정을 기다리는 목록이니까 바로 그게 shortlist인 거야."
+   "why": "맞아! 서른 개 중에 운영진이 네 개만 골라 단톡방에 올렸고, 하나로 정하는 투표는 내일이잖아. 많은 후보에서 몇 개만 추려 놓고 마지막 결정을 기다리는 목록이니까 바로 그게 shortlist인 거야."
   }
  ],
  "synonyms": [],
@@ -58,7 +64,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/shortlist.webp",
-  "alt": "수학여행 장소 후보 스무 곳을 세 곳으로 추리기",
+  "alt": "회사 워크숍 장소 후보 스무 곳을 세 곳으로 추리기",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

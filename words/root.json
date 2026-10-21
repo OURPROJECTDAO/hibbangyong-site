@@ -11,23 +11,24 @@
  "word": "root",
  "slug": "root",
  "url": "https://hibbangyong.com/words/root/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "뿌리 — 땅속에서 식물을 붙잡고 물과 양분을 빨아들이는 부분",
  "gloss_ko": "뿌리",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "흙 아래로 뻗은 이 부분이 root, 뿌리예요.",
   "화분에 물을 주면 흙 속 뿌리가 그 물을 쭉 빨아들여요."
  ],
+ "explanation_for_kids": null,
  "scene": "흙 단면 아래로 뻗은 나무(식물)의 뿌리를 그림 — root=식물의 뿌리 의미",
  "examples": [
   {
-   "en": "The big tree has long roots deep in the ground.",
-   "ko": "그 큰 나무는 땅속 깊이 긴 뿌리를 뻗고 있어."
+   "en": "One root is growing out of the bottom of the pot.",
+   "ko": "화분 밑으로 뿌리 하나가 삐져나와 자라고 있어."
   }
  ],
  "quiz": [

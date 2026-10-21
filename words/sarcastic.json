@@ -11,15 +11,21 @@
  "word": "sarcastic",
  "slug": "sarcastic",
  "url": "https://hibbangyong.com/words/sarcastic/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "비꼬는 — 속뜻과 반대로 말해서 놀리거나 짜증을 드러내는",
  "gloss_ko": "비꼬는",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "친구가 30분 늦게 왔는데 누가 \"와, 진짜 일찍 왔네.\" 해.",
+  "말은 칭찬인데 속뜻은 정반대지. 놀리거나 짜증 난 마음을 거꾸로 돌려서 말하는 거야.",
+  "꼭 사람한테만 쓰는 건 아니야. 면접 전날 정전되니까 \"오, 타이밍 완벽하네.\" 하는 것도 그래. 그런 말투도, 그렇게 자주 말하는 사람도 sarcastic하다고 해.",
+  "대놓고 \"늦었잖아!\" 하는 건 그냥 화내는 거야. 말과 속뜻이 거꾸로 가야 이 말이 맞아."
+ ],
+ "explanation_for_kids": [
   "친구가 30분 늦게 왔는데 누가 \"와, 진짜 일찍 왔네.\" 해.",
   "말은 칭찬인데 속뜻은 정반대지. 놀리거나 짜증 난 마음을 거꾸로 돌려서 말하는 거야.",
   "꼭 사람한테만 쓰는 건 아니야. 시험 전날 정전되니까 \"오, 타이밍 완벽하네.\" 하는 것도 그래. 그런 말투도, 그렇게 자주 말하는 사람도 sarcastic하다고 해.",
@@ -28,14 +34,14 @@
  "scene": "30분 늦게 온 친구에게 \"일찍 왔네\"라고 하는 장면",
  "examples": [
   {
-   "en": "Jun was late again, and Mina's sarcastic answer made everyone laugh except him.",
-   "ko": "준이가 또 늦었는데, 미나가 비꼬듯 한마디 하니까 준이만 빼고 다 웃었어."
+   "en": "When I showed up late, my manager said \"Great timing\" in a sarcastic tone.",
+   "ko": "내가 늦게 나타나자 매니저가 비꼬는 말투로 \"타이밍 좋네\"라고 했어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "급식에 준호가 제일 싫어하는 반찬만 세 가지 나왔어. 준호가 식판을 보고 \"와, 오늘 메뉴 최고다.\"라고 했어. 준호의 이 말투는 'sarcastic'이야?",
+   "question": "구내식당에 준호가 제일 싫어하는 반찬만 세 가지 나왔어. 준호가 식판을 보고 \"와, 오늘 메뉴 최고다.\"라고 했어. 준호의 이 말투는 'sarcastic'이야?",
    "choices": [
     "응, sarcastic 맞아",
     "아니, sarcastic 아니야"

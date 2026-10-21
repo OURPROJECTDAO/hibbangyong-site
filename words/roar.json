@@ -11,31 +11,32 @@
  "word": "roar",
  "slug": "roar",
  "url": "https://hibbangyong.com/words/roar/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "우르릉 — 낮고 굵은 소리가 크게 터져 나오다(짐승도, 기계도, 사람들 함성도)",
  "gloss_ko": "우르릉",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "바로 옆 찻길로 큰 트럭이 지나가 봐. 소리가 낮게 쫙 깔리면서 배까지 울리거든?",
   "사자가 우는 것도, 폭포가 쏟아지는 것도, 골 들어갔을 때 사람들이 한꺼번에 지르는 것도 그래.",
   "그냥 시끄러운 게 아니라, 낮고 굵은 소리가 왕창 터져 나오는 거야.",
   "삑삑 높고 째지는 소리는 아무리 커도 이건 아니야. 그게 roar야."
  ],
+ "explanation_for_kids": null,
  "scene": "바로 옆 찻길로 지나가는 큰 트럭의 낮게 깔리는 소리",
  "examples": [
   {
-   "en": "The old bus roared as it went up the hill.",
-   "ko": "그 낡은 버스는 언덕을 오르면서 우르릉 소리를 냈어."
+   "en": "I can hear the trains roar past my apartment at night.",
+   "ko": "밤이면 기차가 우리 집 앞을 우르릉 지나가는 소리가 들려."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "동생이 자고 있어서 형이 문틈에 얼굴을 대고 아주 작은 소리로 이름을 한 번 불렀어. 이게 'roar'야?",
+   "question": "룸메이트가 자고 있어서 내가 문틈에 얼굴을 대고 아주 작은 소리로 이름을 한 번 불렀어. 이게 'roar'야?",
    "choices": [
     "응, roar 맞아",
     "아니, roar 아니야"

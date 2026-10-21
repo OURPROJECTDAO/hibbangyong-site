@@ -11,20 +11,21 @@
  "word": "draft",
  "slug": "draft",
  "url": "https://hibbangyong.com/words/draft/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "초안(처음 써 본, 고칠 수 있는 글) — 아직 다 안 된, 얼마든지 고칠 수 있는 맨 처음 글(이나 그림·계획)",
  "gloss_ko": "처음 써 본 글",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "생일 카드 쓸 때, 예쁜 카드에 바로 안 쓰고 연습장에 먼저 슥 써봤어.",
   "여기선 틀린 말 지우고, 더 좋은 말로 얼마든지 바꿀 수 있거든.",
   "아직 '완성'이 아니야. 나중에 고치려고 만든 맨 처음 거야.",
   "다 끝나서 못 고치는 거랑은 달라. 이게 draft야."
  ],
+ "explanation_for_kids": null,
  "scene": "생일 카드를 쓰기 전 연습장에 먼저 써 본 글",
  "examples": [
   {

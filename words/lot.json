@@ -11,25 +11,26 @@
  "word": "lot",
  "slug": "lot",
  "url": "https://hibbangyong.com/words/lot/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "많음 — 아주 많은 양이나 수. 하지만 '전부'는 아냐",
  "gloss_ko": "많음",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "생일에 친구들이 선물을 잔뜩 가져왔어. 상자가 넘쳐!",
   "물도 똑같아. 컵에 찰랑찰랑 넘치게 부으면 물이 '많은' 거잖아? 셀 수 있는 선물이든, 못 세는 물이든 다 그래.",
   "근데 많다고 '전부'는 아니야. 하나도 안 남기고 다 가진 게 아니라, 그냥 양이 크다는 거거든.",
   "그게 lot이야."
  ],
+ "explanation_for_kids": null,
  "scene": "생일에 선물을 잔뜩 받아 상자가 넘치는 장면",
  "examples": [
   {
-   "en": "I have a lot of homework today.",
-   "ko": "나 오늘 숙제가 엄청 많아."
+   "en": "I have a lot of work to finish today.",
+   "ko": "나 오늘 끝낼 일이 엄청 많아."
   }
  ],
  "quiz": [

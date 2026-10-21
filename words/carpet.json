@@ -11,23 +11,24 @@
  "word": "carpet",
  "slug": "carpet",
  "url": "https://hibbangyong.com/words/carpet/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "카펫 — 방바닥에 까는 넓은 천(양탄자)",
  "gloss_ko": "카펫",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 바닥에 깔린 넓고 푹신한 천이 카펫이야.",
   "집 거실 바닥에 깔아 두면 그 위에 앉거나 뒹굴 때 폭신하고 따뜻해."
  ],
- "scene": "바닥에 깔린 직사각형 카펫(양탄자) 한 장 — 사물 의미로 그림",
+ "explanation_for_kids": null,
+ "scene": "바닥에 깔린 직사각형 카펫(양탄자) 한 장",
  "examples": [
   {
-   "en": "We sat on the soft carpet to play with the blocks.",
-   "ko": "우리는 블록을 가지고 놀려고 푹신한 카펫에 앉았어."
+   "en": "I spilled coffee on the new carpet this morning.",
+   "ko": "오늘 아침에 새 카펫에 커피를 쏟았어."
   }
  ],
  "quiz": [
@@ -53,7 +54,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/carpet.webp",
-  "alt": "바닥에 깔린 직사각형 카펫(양탄자) 한 장 — 사물 의미로 그림",
+  "alt": "바닥에 깔린 직사각형 카펫(양탄자) 한 장",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

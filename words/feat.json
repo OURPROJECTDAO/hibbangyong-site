@@ -11,25 +11,26 @@
  "word": "feat",
  "slug": "feat",
  "url": "https://hibbangyong.com/words/feat/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "해내기 힘든 걸 해낸 일 — 솜씨나 힘, 끈기가 많이 드는 일을 결국 해낸 것(크든 작든)",
  "gloss_ko": "힘든 걸 해낸 일",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "세계 기록을 깨는 것도, 손 떨리는 할아버지가 바늘에 실을 혼자 꿴 것도 둘 다 feat야.",
   "크기나 유명세는 상관없어. 그 사람한테 해내기 힘들었는데 결국 해냈으면 돼.",
   "그래서 원래 쉬운 일이나 운 좋게 얻어걸린 일은 feat가 아니야.",
   "남 앞에서 보여주는 재주라도 정말 솜씨가 많이 드는 거면 feat야. 기준은 보여주느냐가 아니라, 어려운 걸 해냈느냐야."
  ],
+ "explanation_for_kids": null,
  "scene": "손 떨리는 할아버지가 바늘에 실을 혼자 꿰기",
  "examples": [
   {
-   "en": "Getting my little brother to eat carrots was no small feat.",
-   "ko": "내 남동생한테 당근 먹이는 거, 진짜 보통 일 아니었어."
+   "en": "Getting my nephew to eat carrots was no small feat.",
+   "ko": "조카한테 당근 먹이는 거, 진짜 보통 일 아니었어."
   }
  ],
  "quiz": [

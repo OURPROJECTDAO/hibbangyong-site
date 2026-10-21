@@ -11,25 +11,26 @@
  "word": "prophet",
  "slug": "prophet",
  "url": "https://hibbangyong.com/words/prophet/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "예언자 — 신이 한 말을 사람들에게 전해 준다고 믿어지는 사람",
  "gloss_ko": "예언자",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "옛 종교 이야기엔 꼭 이런 사람이 나와. 신의 말을 듣고 그걸 사람들한테 전해 주는 사람.",
   "'이렇게 살면 안 된다', '곧 큰일 난다' 하고 경고할 때가 많아.",
   "점쟁이랑 헷갈리기 쉬운데 달라. 점쟁이는 돈 받고 운세를 봐 주는 사람이고, 이건 신의 뜻을 전하러 왔다고 믿어지는 사람이야.",
   "요즘은 남들보다 앞날을 먼저 내다보고 외치는 사람한테도 빗대서 이 말을 써."
  ],
+ "explanation_for_kids": null,
  "scene": "옛 종교 이야기에서 신의 말을 사람들에게 전하는 사람",
  "examples": [
   {
-   "en": "In the old story, the prophet warned the king to stop being cruel to his people.",
-   "ko": "옛날이야기에서 그 예언자는 왕한테 백성을 그만 괴롭히라고 경고했어."
+   "en": "In the movie, a prophet warns the king about a coming war.",
+   "ko": "그 영화에서 한 예언자가 왕한테 곧 전쟁이 날 거라고 경고해."
   }
  ],
  "quiz": [

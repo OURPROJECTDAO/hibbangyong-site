@@ -11,20 +11,21 @@
  "word": "compensation",
  "slug": "compensation",
  "url": "https://hibbangyong.com/words/compensation/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "보상금 — 다치거나 손해를 본 사람에게 그 손해를 메워 주려고 주는 돈",
  "gloss_ko": "손해 보상금",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "택배로 보낸 노트북이 깨진 채로 도착했어.",
   "택배 회사가 망가진 만큼 돈을 물어줬지. 그 돈이 compensation이야.",
   "누구 잘못이 아니어도 돼. 태풍에 논이 물에 잠겨서 나라가 농민한테 주는 돈도 이거야.",
   "뭘 잘해서 받는 상금이랑은 달라. 잃은 걸 메워 주는 돈이야."
  ],
+ "explanation_for_kids": null,
  "scene": "택배로 보낸 노트북이 깨져 와서 택배 회사가 돈을 물어줌",
  "examples": [
   {

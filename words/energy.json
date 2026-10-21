@@ -11,15 +11,21 @@
  "word": "energy",
  "slug": "energy",
  "url": "https://hibbangyong.com/words/energy/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "기운(에너지) — 몸과 마음이 뭔가를 할 수 있게 해 주는 힘. 전기나 햇빛처럼 기계를 움직이는 힘도 이렇게 불러",
  "gloss_ko": "뭔가 할 기운",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "아침에 푹 자고 일어나면 몸이 펄펄하지? 뛰고 싶고, 떠들고 싶고, 문제도 풀고 싶고.",
+  "그 속에 차 있는 기운이 있거든. 놀 때도 쓰고, 머리 쓸 때도 써. 다 쓰면 축 처지고, 자고 먹으면 다시 차.",
+  "팔 힘이랑은 달라. 힘센 사람도 밤새 못 자면 이게 바닥나. 전기나 햇빛이 기계를 돌리는 힘도 이렇게 불러.",
+  "뭔가를 하게 해 주는 그 기운, 이게 energy야."
+ ],
+ "explanation_for_kids": [
   "아침에 푹 자고 일어나면 몸이 펄펄하지? 뛰고 싶고, 떠들고 싶고, 문제도 풀고 싶고.",
   "그 속에 차 있는 기운이 있거든. 놀 때도 쓰고, 머리 쓸 때도 써. 다 쓰면 축 처지고, 자고 먹으면 다시 차.",
   "팔 힘이랑은 달라. 힘센 형도 밤새 못 자면 이게 바닥나. 전기나 햇빛이 기계를 돌리는 힘도 이렇게 불러.",
@@ -28,8 +34,8 @@
  "scene": "아침에 푹 자고 일어나 펄펄한 몸",
  "examples": [
   {
-   "en": "After the long trip, I had no energy left to even brush my teeth.",
-   "ko": "긴 여행 끝나고 나니까 이 닦을 기운도 하나도 없었어."
+   "en": "After my shift at the cafe, I had no energy to cook.",
+   "ko": "카페 근무 끝나고 나니까 요리할 기운이 하나도 없었어."
   }
  ],
  "quiz": [

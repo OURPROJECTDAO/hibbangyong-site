@@ -11,15 +11,21 @@
  "word": "extraordinary",
  "slug": "extraordinary",
  "url": "https://hibbangyong.com/words/extraordinary/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "보통 선을 훌쩍 넘은 — 좋은 일이든 나쁜 일이든 늘 있는 것과 너무 달라서 놀라운",
  "gloss_ko": "보통 선을 훌쩍 넘은",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "7월 한여름에 눈이 펑펑 쏟아졌다고 해 봐. 늘 있는 일이 아니지?",
+  "이렇게 보통 있는 선을 훌쩍 넘어가 버리면 extraordinary야. ordinary가 보통인데, 거기서 밖으로 나가 버린 거거든.",
+  "좋은 일만 그런 거 아니야. 친구가 라면을 열두 그릇 먹은 것도 extraordinary야. 훌륭한 건 아닌데 보통 밖이잖아.",
+  "나한테만 뜻깊어서 소중한 special이랑은 달라. 보통 선을 확 넘은 거. 이게 extraordinary야."
+ ],
+ "explanation_for_kids": [
   "7월 한여름에 눈이 펑펑 쏟아졌다고 해 봐. 늘 있는 일이 아니지?",
   "이렇게 보통 있는 선을 훌쩍 넘어가 버리면 extraordinary야. ordinary가 보통인데, 거기서 밖으로 나가 버린 거거든.",
   "좋은 일만 그런 거 아니야. 형이 라면을 열두 그릇 먹은 것도 extraordinary야. 훌륭한 건 아닌데 보통 밖이잖아.",
@@ -28,8 +34,8 @@
  "scene": "7월 한여름에 눈이 펑펑 쏟아진 날",
  "examples": [
   {
-   "en": "After the party, the room was in an extraordinary mess.",
-   "ko": "파티 끝나고 방은 평소랑 완전히 다르게 어마어마하게 엉망이었어."
+   "en": "After the party, the room was an extraordinary mess.",
+   "ko": "파티 끝나고 방이 말도 안 되게 엉망이었어."
   }
  ],
  "quiz": [

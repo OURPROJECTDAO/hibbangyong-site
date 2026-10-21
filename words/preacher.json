@@ -11,25 +11,26 @@
  "word": "preacher",
  "slug": "preacher",
  "url": "https://hibbangyong.com/words/preacher/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "설교자 — 사람들 앞에서 종교의 가르침을 말로 풀어 전하는 사람",
  "gloss_ko": "설교자",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "일요일에 교회 앞쪽에 서서 성경 이야기를 사람들한테 풀어 들려주는 사람 있지.",
   "preacher는 그렇게 종교 가르침을 사람들 앞에서 말로 전하는 사람이야.",
   "꼭 교회 안이 아니어도 돼. 공원 광장에서 외치든 TV에 나와서 말하든, 전하고 있으면 preacher야.",
   "목사나 신부 같은 자리 이름이랑은 달라. 앉아서 듣는 쪽도 아니고, 앞에 서서 전하는 그 일을 하는 사람을 가리켜."
  ],
+ "explanation_for_kids": null,
  "scene": "일요일 교회 앞에서 성경 이야기를 들려주는 사람",
  "examples": [
   {
-   "en": "Before the choir sang, the preacher gave a short talk at the church.",
-   "ko": "합창단이 노래하기 전에 설교자가 교회에서 짧게 말씀을 전했어."
+   "en": "The preacher at my church always keeps his talks short.",
+   "ko": "우리 교회 설교자는 늘 말씀을 짧게 전해."
   }
  ],
  "quiz": [

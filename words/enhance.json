@@ -11,20 +11,21 @@
  "word": "enhance",
  "slug": "enhance",
  "url": "https://hibbangyong.com/words/enhance/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "이미 좋은 걸 더 좋게 하다",
  "gloss_ko": "더 좋게 끌어올림",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "이미 그려 놓은 네 그림, 그냥 둬도 예뻐. 근데 거기에 반짝이 별을 콕콕 찍었어.",
   "그랬더니 원래 예쁘던 게 더 예뻐졌지? 와, 한 칸 위로 올라간 느낌!",
   "없던 걸 새로 만든 것도 아니고, 망가진 걸 고친 것도 아니야. 멀쩡하고 좋던 걸 '더' 좋게 한 거.",
   "그게 enhance야."
  ],
+ "explanation_for_kids": null,
  "scene": "이미 예쁜 그림에 반짝이 별을 더해 더 예뻐짐 — 있던 좋음을 한 단계 위로.",
  "examples": [
   {

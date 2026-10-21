@@ -11,21 +11,27 @@
  "word": "mark-up",
  "slug": "mark-up",
  "url": "https://hibbangyong.com/words/mark-up/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "값에 더 붙여 받는 몫 — 파는 쪽이 사 오거나 만든 값에 더 붙여서 받는 몫",
  "gloss_ko": "얹어 받는 값",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "편의점은 과자를 한 봉지 800원에 사 와서 1,000원에 팔아.",
+  "그 사이에 붙인 200원이 mark-up이야. 직접 만들어 파는 빵집이면 재료비 위에 붙인 몫이 mark-up이고.",
+  "조금만 붙일 수도 있고 왕창 붙일 수도 있어. 크기는 상관없고, 붙인 그 몫 자체를 말해.",
+  "할인이나 세금이랑은 달라. 가게가 한 달 동안 벌고 남은 돈이랑도 다르고."
+ ],
+ "explanation_for_kids": [
   "매점 아저씨는 과자를 한 봉지 800원에 사 와서 1,000원에 팔아.",
   "그 사이에 붙인 200원이 mark-up이야. 직접 만들어 파는 빵집이면 재료비 위에 붙인 몫이 mark-up이고.",
   "조금만 붙일 수도 있고 왕창 붙일 수도 있어. 크기는 상관없고, 붙인 그 몫 자체를 말해.",
   "할인이나 세금이랑은 달라. 가게가 한 달 동안 벌고 남은 돈이랑도 다르고."
  ],
- "scene": "매점 과자를 800원에 사 와서 1,000원에 파는 장면",
+ "scene": "편의점이 과자를 800원에 사 와 1,000원에 파는 장면",
  "examples": [
   {
    "en": "Their mark-up on drinks is small, so the café is cheap.",
@@ -60,7 +66,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/mark-up.webp",
-  "alt": "매점 과자를 800원에 사 와서 1,000원에 파는 장면",
+  "alt": "편의점이 과자를 800원에 사 와 1,000원에 파는 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

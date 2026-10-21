@@ -11,25 +11,26 @@
  "word": "sanitation",
  "slug": "sanitation",
  "url": "https://hibbangyong.com/words/sanitation/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "위생 시설 — 쓰레기, 오물, 더러운 물을 모아 치우고 처리해서 동네 사람들 건강을 지키는 일과 그 시설(하수도·화장실 등)",
  "gloss_ko": "오물 처리 시설",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "비만 오면 하수구가 넘쳐서 골목에 더러운 물이 고이던 동네를 떠올려 봐.",
   "화장실 오물, 쓰레기, 더러운 물을 모아서 치우고 처리하는 일, 그리고 그걸 해 주는 하수도 같은 시설까지 다 sanitation이야.",
   "밥 먹기 전에 손 씻는 것처럼 한 사람이 자기 몸을 깨끗이 하는 거랑은 달라. 이건 동네 전체가 같이 쓰는 장치야.",
   "이게 무너지면 병이 한 동네에 순식간에 퍼져."
  ],
+ "explanation_for_kids": null,
  "scene": "비 오면 하수구가 넘쳐 더러운 물이 고이는 골목",
  "examples": [
   {
-   "en": "Many people in the camp got sick because of poor sanitation.",
-   "ko": "그 캠프에서는 오물이랑 더러운 물 처리가 엉망이라 사람들이 많이 아팠어."
+   "en": "The village we visited had clean water but poor sanitation.",
+   "ko": "우리가 가 본 마을은 물은 깨끗했는데 오물 처리 시설이 형편없었어."
   }
  ],
  "quiz": [

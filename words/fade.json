@@ -11,25 +11,26 @@
  "word": "fade",
  "slug": "fade",
  "url": "https://hibbangyong.com/words/fade/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "점점 옅어지다 — 색·빛·소리가 조금씩 약해지면서 사라져 가다",
  "gloss_ko": "색·빛·소리가 옅어지다",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "해 질 때 하늘 봐봐. 아까 그 붉은색이 딱 꺼지는 게 아니라, 조금씩 옅어지다가 어느새 없어지거든?",
   "색만 그런 게 아냐. 멀어지는 차 소리도 갈수록 작아지다 안 들리고, 어제 일도 기억이 슬슬 흐릿해져.",
   "뚝 끊겨서 없어지는 게 아니라 천천히 힘이 빠져 가는 거야. 김 서린 창처럼 뿌옇게 뭉개지는 거랑도 달라. 옅어지는 거야.",
   "그게 fade야."
  ],
+ "explanation_for_kids": null,
  "scene": "해 질 무렵 하늘의 붉은색이 조금씩 옅어지다 사라지는 장면",
  "examples": [
   {
-   "en": "My old red T-shirt faded to pink after many washes.",
-   "ko": "내 낡은 빨간 티셔츠는 여러 번 빨고 나니 분홍색으로 바랬어."
+   "en": "Bright colors fade fast if you dry clothes in the sun.",
+   "ko": "옷을 햇볕에 말리면 밝은 색이 금방 바래."
   }
  ],
  "quiz": [

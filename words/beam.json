@@ -11,25 +11,26 @@
  "word": "beam",
  "slug": "beam",
  "url": "https://hibbangyong.com/words/beam/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "빛줄기 — 한 곳에서 나와 한쪽으로 쭉 뻗어 가는 빛(가늘 수도, 굵을 수도 있어)",
  "gloss_ko": "빛줄기",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "깜깜한 방에서 손전등을 딸깍 켜 봐.",
   "빛이 방 전체로 퍼지지 않고, 한쪽으로 쭉 뻗어 나가지?",
   "가늘든 굵든 상관없어. 커튼 틈 햇빛도, 밤길 자동차 불빛도 다 그래.",
   "방이 그냥 다 환해지는 거랑은 달라. 한쪽으로 뻗어 가는 빛, 그게 beam이야."
  ],
+ "explanation_for_kids": null,
  "scene": "깜깜한 방에서 켠 손전등 빛",
  "examples": [
   {
-   "en": "My flashlight made a long beam across the dark room.",
-   "ko": "손전등을 켜니까 깜깜한 방을 가로질러 기다란 빛줄기가 쭉 뻗어 나갔어."
+   "en": "My phone light made a long beam across the dark parking lot.",
+   "ko": "휴대폰 불빛이 깜깜한 주차장을 가로질러 기다란 빛줄기로 쭉 뻗어 나갔어."
   }
  ],
  "quiz": [

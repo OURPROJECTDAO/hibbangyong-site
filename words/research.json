@@ -11,19 +11,20 @@
  "word": "research",
  "slug": "research",
  "url": "https://hibbangyong.com/words/research/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "연구·조사 — 궁금한 걸 제대로 알아내려고 오래 파고들며 자세히 알아보는 일",
  "gloss_ko": "연구·조사",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "강아지를 키우고 싶어서, 뭘 먹는지 어떻게 씻기는지 며칠 동안 책도 보고 여기저기 찬찬히 알아봤어.",
   "딱 한 번 검색하고 끝? 아니야. 궁금한 걸 제대로 알 때까지 파고, 또 파는 거야.",
   "과학자만 하는 거 아니야. 뭘 사거나 어디 갈 때도, 이렇게 꼼꼼히 알아보면 그게 research야."
  ],
+ "explanation_for_kids": null,
  "scene": "강아지 키우기 전 며칠 동안 먹이·목욕을 자세히 알아본 장면",
  "examples": [
   {

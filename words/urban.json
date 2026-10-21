@@ -11,15 +11,21 @@
  "word": "urban",
  "slug": "urban",
  "url": "https://hibbangyong.com/words/urban/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "도시의 — 높은 건물과 버스, 가게가 있는 도시에 관한",
  "gloss_ko": "도시의",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "버스가 오가고, 건물은 높고, 사람들로 붐비는 곳.",
+  "이런 데가 바로 도시야.",
+  "도시에 딸린 거라면 다 여기 들어가. 도시 길, 도시 버스, 심지어 도시에 사는 여우까지도.",
+  "꼭 시끄럽고 사람 많아야 되는 건 아니야. 도시 안 조용한 골목도 도시에 속하잖아? 그럼 그게 urban이야."
+ ],
+ "explanation_for_kids": [
   "버스가 빵빵, 높은 건물이 쭉쭉, 사람들이 바글바글.",
   "이런 데가 바로 도시야.",
   "도시에 딸린 거라면 다 여기 들어가. 도시 길, 도시 버스, 심지어 도시에 사는 여우까지도.",
@@ -28,23 +34,23 @@
  "scene": "버스 빵빵·높은 건물·사람 붐비는 도시 거리",
  "examples": [
   {
-   "en": "My cousin lives in an urban town, so there are buses and shops everywhere.",
-   "ko": "우리 사촌은 도시 동네에 살아서 버스도 가게도 사방에 있어."
+   "en": "I moved to an urban area, so I don't need a car now.",
+   "ko": "도시 지역으로 이사해서 이제 차가 필요 없어."
   }
  ],
  "quiz": [
   {
    "type": "choice",
-   "question": "선생님이 카드 네 장을 책상에 펼쳐 놓고 물었어. 다음 중 'urban'에 해당하는 것은?",
+   "question": "친구가 카드 네 장을 테이블에 펼쳐 놓고 물었어. 다음 중 'urban'에 해당하는 것은?",
    "choices": [
     "냉장고에 넣어 둔 우유 한 통",
     "공책에 적어 둔 숫자 일곱",
     "지하철역과 높은 아파트가 늘어선 동네",
-    "운동장에서 두 발로 폴짝 뛰는 동작"
+    "헬스장에서 제자리 점프하는 동작"
    ],
    "answer_index": 2,
    "answer": "지하철역과 높은 아파트가 늘어선 동네",
-   "why": "맞아! 지하철역이 있고 높은 아파트가 쭉쭉 늘어선 동네, 그게 바로 도시잖아. 도시에 딸린 동네니까 딱 urban인 거야."
+   "why": "맞아! 지하철역이 있고 높은 아파트가 쭉 늘어선 동네, 그게 바로 도시잖아. 도시에 딸린 동네니까 딱 urban인 거야."
   }
  ],
  "synonyms": [],

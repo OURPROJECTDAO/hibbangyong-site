@@ -11,31 +11,32 @@
  "word": "lack",
  "slug": "lack",
  "url": "https://hibbangyong.com/words/lack/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "부족 — 있어야 할 만큼 없어서 모자란 것(하나도 없어도, 조금 있어도)",
  "gloss_ko": "부족",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "여름 내내 비가 몇 방울밖에 안 왔어. 밭이 쩍쩍 갈라졌지.",
   "있어야 할 만큼이 안 되는 거야. 아예 없어도, 조금 있는데 모자라도 똑같이 이 말을 써.",
   "물만 그런 게 아니야. 잠도, 연습도, 하고 싶은 마음도 모자랄 수 있거든? 원래 있다가 줄어든 거든, 처음부터 없던 거든 다 돼.",
   "손에 다 있는데 그냥 안 꺼내는 거랑은 달라. 모자라야 그게 lack이야."
  ],
+ "explanation_for_kids": null,
  "scene": "여름 내내 비가 몇 방울뿐이라 쩍쩍 갈라진 밭",
  "examples": [
   {
-   "en": "Grandpa keeps talking about the lack of rain this summer.",
-   "ko": "할아버지는 이번 여름 비가 부족하다고 자꾸 얘기하셔."
+   "en": "Everyone at work keeps complaining about the lack of rain this summer.",
+   "ko": "이번 여름에 비가 부족하다고 회사 사람들이 다 투덜거려."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "교실에 아이가 스무 명 왔는데 의자는 열두 개뿐이라 여덟 명이 그냥 서 있어. 이게 'lack'이야?",
+   "question": "강의실에 학생이 스무 명 왔는데 의자는 열두 개뿐이라 여덟 명이 그냥 서 있어. 이게 'lack'이야?",
    "choices": [
     "응, lack 맞아",
     "아니, lack 아니야"

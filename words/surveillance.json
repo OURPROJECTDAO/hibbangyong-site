@@ -11,15 +11,21 @@
  "word": "surveillance",
  "slug": "surveillance",
  "url": "https://hibbangyong.com/words/surveillance/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "감시 — 경찰이나 나라, 기관 같은 곳이 사람·장소·상황을 계속 지켜보며 살피는 것",
  "gloss_ko": "감시",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "경찰이 수상한 사람을 며칠 동안 몰래 따라다니며 지켜봐. 보건소는 새 독감이 어느 동네로 번지는지 매일 살펴.",
+  "둘 다 한 번 보고 끝이 아니야. 계속 지켜보면서 기록까지 해 두지.",
+  "지켜보는 쪽은 보통 경찰, 나라, 회사처럼 힘이 있는 쪽이야.",
+  "근데 딸이 자는 엄마 곁을 지키는 건 달라. 그건 돌봄이지 감시가 아니야."
+ ],
+ "explanation_for_kids": [
   "경찰이 수상한 사람을 며칠 동안 몰래 따라다니며 지켜봐. 보건소는 새 독감이 어느 동네로 번지는지 매일 살펴.",
   "둘 다 한 번 보고 끝이 아니야. 계속 지켜보면서 기록까지 해 두지.",
   "지켜보는 쪽은 보통 경찰, 나라, 회사처럼 힘이 있는 쪽이야.",
@@ -28,8 +34,8 @@
  "scene": "경찰이 수상한 사람을 며칠간 몰래 따라다니며 지켜봄",
  "examples": [
   {
-   "en": "The police kept the empty house under surveillance for weeks.",
-   "ko": "경찰은 몇 주 동안 그 빈집을 몰래 계속 지켜봤어."
+   "en": "Our office building is under video surveillance all night.",
+   "ko": "우리 회사 건물은 밤새 카메라로 감시돼."
   }
  ],
  "quiz": [

@@ -11,25 +11,26 @@
  "word": "private",
  "slug": "private",
  "url": "https://hibbangyong.com/words/private/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "나(우리)만의 — 남이 함부로 보거나 들어올 수 없는",
  "gloss_ko": "나(우리)만의",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "우리 집 뒷마당은 우리 식구만 쓰는 곳이야. 옆집 아저씨가 그냥 쓱 들어오면 안 되거든?",
   "근데 숨긴 건 아니야. 담 너머로 다 보여. 그냥 우리 거라서 아무나 못 들어오는 거야.",
   "장소만 그런 게 아니야. 내가 속으로만 담아 둔 마음도, 나만 아는 내 거라 남이 함부로 못 들여다봐.",
   "이렇게 '아무나 말고, 나(우리) 것'인 게 private야."
  ],
+ "explanation_for_kids": null,
  "scene": "담 너머로 다 보여도 우리 식구만 쓰는 뒷마당",
  "examples": [
   {
-   "en": "Our backyard is private, so other kids can't just play there without asking.",
-   "ko": "우리 집 뒷마당은 우리 거라서 다른 애들이 물어보지 않고 그냥 놀면 안 돼."
+   "en": "This room is private, so please knock before you come in.",
+   "ko": "여긴 개인 공간이니까 들어오기 전에 노크해 줘."
   }
  ],
  "quiz": [

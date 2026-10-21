@@ -11,25 +11,26 @@
  "word": "spell",
  "slug": "spell",
  "url": "https://hibbangyong.com/words/spell/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "철자를 대다 — 낱말이 어떤 글자로, 어떤 순서로 되어 있는지 말하거나 쓰는 것",
  "gloss_ko": "철자를 대다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "cat이라는 낱말은 c, a, t. 이 세 글자가 딱 이 순서로 있어야 cat이 되거든? 낱말이 어떤 글자로 어떤 순서로 되는지, 그걸 대는 게 spell이야.",
   "말로 '씨, 에이, 티' 대도 되고, 종이에 글자를 하나씩 순서대로 쓰는 것도 spell이야. 누가 시켜야만 하는 것도 아니야.",
   "맞게 대야만 spell인 것도 아니야. 혼자 쓰다가 글자 하나 빠뜨리면 'spell을 틀렸다'고 해. 틀려도 spell은 한 거야.",
   "글자들 쪽에서 말하기도 해. 씨, 에이, 티가 모여서 cat이 된다고 할 때도 이 말을 써. 소리 내서 읽는 거랑은 달라. 읽는 건 소리고, 어떤 글자가 어떤 순서냐만 따지는 게 spell이야."
  ],
+ "explanation_for_kids": null,
  "scene": "cat이 c·a·t 세 글자로 이 순서여야 한다는 장면",
  "examples": [
   {
-   "en": "I spelled my dog's name wrong on the sign, so I had to fix two letters.",
-   "ko": "팻말에 강아지 이름 철자를 틀리게 써서 두 글자를 고쳐야 했어."
+   "en": "I didn't spell my dog's name right on the sign, so I fixed two letters.",
+   "ko": "팻말에 강아지 이름 철자를 틀리게 써서 두 글자를 고쳤어."
   }
  ],
  "quiz": [

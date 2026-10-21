@@ -11,38 +11,39 @@
  "word": "envy",
  "slug": "envy",
  "url": "https://hibbangyong.com/words/envy/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "부러움 — 남이 가진 걸 보고 나도 저게 갖고 싶어지는 마음. 작게 살짝 올 때도, 커져서 배가 아플 만큼 될 때도 있어",
  "gloss_ko": "부러움",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "친구가 새 축구공을 들고 왔어. 근데 자꾸 그 공만 눈에 들어와. 나도 갖고 싶어서 속이 살짝 쓰려.",
   "이 마음은 아주 작을 때도 있고, 커져서 '쟤가 저걸 안 가졌으면 좋겠다'까지 갈 때도 있어.",
   "내 걸 뺏길까 봐 조마조마한 거랑은 달라. 이건 남이 가진 걸 내가 갖고 싶은 거거든.",
   "그게 envy야."
  ],
+ "explanation_for_kids": null,
  "scene": "친구가 새 축구공을 들고 온 걸 보고 자꾸 그 공만 눈에 들어오는 장면",
  "examples": [
   {
-   "en": "I felt a little envy when my sister got a bigger slice of cake.",
-   "ko": "언니가 더 큰 케이크 조각을 받았을 때 좀 부러웠어."
+   "en": "I felt a little envy when my coworker got a raise.",
+   "ko": "동료 월급이 올랐을 때 좀 부러웠어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "사촌이 바퀴가 반짝이는 새 인라인스케이트를 신고 왔어. 나는 내 스케이트를 신은 채로 사촌 발만 자꾸 보게 돼. 속으로 '저거 내 거였으면' 싶어. 이 마음이 'envy'야?",
+   "question": "친구가 새로 산 러닝화를 신고 왔어. 나는 내 운동화를 신은 채로 친구 발만 자꾸 보게 돼. 속으로 '저거 내 거였으면' 싶어. 이 마음이 'envy'야?",
    "choices": [
     "응, envy 맞아",
     "아니, envy 아니야"
    ],
    "answer_index": 0,
    "answer": "응, envy 맞아",
-   "why": "맞아! 남이 가진 걸 보고 나도 저게 갖고 싶어서 자꾸 눈이 가는 마음, 그게 바로 envy거든. 사촌 발만 자꾸 보게 되고 '저거 내 거였으면' 싶은 그 마음이 딱 그거야."
+   "why": "맞아! 남이 가진 걸 보고 나도 저게 갖고 싶어서 자꾸 눈이 가는 마음, 그게 바로 envy거든. 친구 발만 자꾸 보게 되고 '저거 내 거였으면' 싶은 그 마음이 딱 그거야."
   }
  ],
  "synonyms": [],

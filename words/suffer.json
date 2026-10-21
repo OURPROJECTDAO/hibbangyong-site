@@ -11,25 +11,26 @@
  "word": "suffer",
  "slug": "suffer",
  "url": "https://hibbangyong.com/words/suffer/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "나쁜 일이나 아픔을 당해서 괴로워하다",
  "gloss_ko": "아픔을 당해 괴로워하다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "배가 콕콕 아파서 끙끙 앓아본 적 있지? 딱 그런 느낌이야.",
   "몸이 아픈 것도, 마음이 힘든 것도, 큰일을 당해서 손해 보는 것도 다 여기 들어가.",
   "좋은 일 겪는 게 아니라, 나쁜 일을 당해서 힘든 쪽이 되는 거야.",
   "잠깐 툴툴대고 마는 게 아니라, 진짜 나쁜 일에 당해서 괴로운 거, 그게 suffer야."
  ],
- "scene": "배가 콕콕 아파 끙끙 앓는 아이",
+ "explanation_for_kids": null,
+ "scene": "배가 콕콕 아파 끙끙 앓는 사람",
  "examples": [
   {
-   "en": "The whole town suffered for weeks after the big flood.",
-   "ko": "큰 홍수가 나고 몇 주 동안 온 마을이 고생했어."
+   "en": "The whole town will suffer for weeks after this big flood.",
+   "ko": "이번 큰 홍수 때문에 온 마을이 몇 주 동안 고생할 거야."
   }
  ],
  "quiz": [
@@ -63,7 +64,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/suffer.webp",
-  "alt": "배가 콕콕 아파 끙끙 앓는 아이",
+  "alt": "배가 콕콕 아파 끙끙 앓는 사람",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

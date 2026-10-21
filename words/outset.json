@@ -11,38 +11,44 @@
  "word": "outset",
  "slug": "outset",
  "url": "https://hibbangyong.com/words/outset/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "처음 — 어떤 일이 막 시작된 그때 (주로 from the outset, at the outset으로 써)",
  "gloss_ko": "일의 맨 처음",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "대학 조별 과제, 첫 회의 날부터 역할 나누다 다퉜다고 쳐 봐. 그럼 끝날 때까지 계속 꼬이기 쉽지.",
+  "이렇게 어떤 일이 막 시작된 그때가 outset이야. 좋은 일이든 나쁜 일이든 상관없어. 공연 시작, 경기 시작, 계획 시작 다 돼.",
+  "근데 출발선 같은 장소가 아니야. 일이 틀어진 이유도 아니야. 시간 줄에서 맨 앞자리야.",
+  "그래서 from the outset이라고 하면 '처음부터 쭉'이라는 느낌이 돼."
+ ],
+ "explanation_for_kids": [
   "새 학기 모둠 과제, 첫 회의 날부터 역할 나누다 다퉜다고 쳐 봐. 그럼 끝날 때까지 계속 꼬이기 쉽지.",
   "이렇게 어떤 일이 막 시작된 그때가 outset이야. 좋은 일이든 나쁜 일이든 상관없어. 공연 시작, 경기 시작, 계획 시작 다 돼.",
   "근데 출발선 같은 장소가 아니야. 일이 틀어진 이유도 아니야. 시간 줄에서 맨 앞자리야.",
   "그래서 from the outset이라고 하면 '처음부터 쭉'이라는 느낌이 돼."
  ],
- "scene": "모둠 과제 첫 회의 날 역할 분담 다툼",
+ "scene": "조별 과제 첫 회의 날 역할 분담 다툼",
  "examples": [
   {
    "en": "Our group had problems from the outset, so we finished the project late.",
-   "ko": "우리 모둠은 처음부터 삐걱거려서 과제를 늦게 끝냈어."
+   "ko": "우리 조는 처음부터 삐걱거려서 과제를 늦게 끝냈어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "민수는 여름방학 한 달 동안 매일 줄넘기 연습을 하기로 했어. 방학 첫날 아침, 줄넘기 줄을 처음 손에 잡고 첫 번째로 뛴 그때가 이 연습의 outset일까?",
+   "question": "민수는 한 달 동안 매일 헬스장에서 줄넘기 운동을 하기로 했어. 첫날 아침, 줄넘기 줄을 처음 손에 잡고 첫 번째로 뛴 그때가 이 운동의 outset일까?",
    "choices": [
     "응, outset 맞아",
     "아니, outset 아니야"
    ],
    "answer_index": 0,
    "answer": "응, outset 맞아",
-   "why": "맞아! 민수가 방학 첫날 아침에 줄넘기 줄을 처음 잡고 첫 번째로 뛴 그때가 한 달 연습이 막 시작된 순간이잖아. 이렇게 일이 막 시작된 맨 처음이 바로 outset이야."
+   "why": "맞아! 민수가 첫날 아침에 줄넘기 줄을 처음 잡고 첫 번째로 뛴 그때가 한 달 운동이 막 시작된 순간이잖아. 이렇게 일이 막 시작된 맨 처음이 바로 outset이야."
   }
  ],
  "synonyms": [],
@@ -55,7 +61,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/outset.webp",
-  "alt": "모둠 과제 첫 회의 날 역할 분담 다툼",
+  "alt": "조별 과제 첫 회의 날 역할 분담 다툼",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

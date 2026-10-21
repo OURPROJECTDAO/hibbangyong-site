@@ -11,20 +11,21 @@
  "word": "pentagon",
  "slug": "pentagon",
  "url": "https://hibbangyong.com/words/pentagon/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "오각형 — 변이 다섯 개, 꼭짓점이 다섯 개인 평평한 도형",
  "gloss_ko": "오각형",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "변을 세어 봐. 다섯 개면 그게 pentagon이야.",
   "변 길이가 다 같든 제각각이든 상관없어. 곧은 변이 다섯 개면 돼.",
   "축구공 까만 조각도, 집 모양 그림(네모 위에 세모)도 다 pentagon이야.",
   "변이 여섯 개면 육각형, 네 개면 사각형이야. 딱 다섯일 때만 pentagon이야."
  ],
+ "explanation_for_kids": null,
  "scene": "도형의 변 다섯 개 세기",
  "examples": [
   {

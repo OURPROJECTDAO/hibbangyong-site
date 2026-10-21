@@ -11,25 +11,31 @@
  "word": "format",
  "slug": "format",
  "url": "https://hibbangyong.com/words/format/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "형식, 구성 — 속에 든 얘기가 아니라, 그걸 어떤 틀과 순서로 짜서 보여 주는지",
  "gloss_ko": "짜서 보여 주는 틀",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "이야기 하나로 소설도, 웹툰도, 드라마도 만들 수 있거든.",
+  "이야기는 똑같아. 바뀐 건 담는 틀이랑 짜는 순서야. 퀴즈 쇼를 몇 판으로 나누는지, 신문을 몇 칸으로 나누는지도 다 이거야.",
+  "겉에 칠한 색깔이나, 무슨 얘기가 들어 있냐랑은 달라.",
+  "무슨 얘기냐가 아니라 어떻게 짜서 보여 주냐, 그게 format이야."
+ ],
+ "explanation_for_kids": [
   "토끼와 거북이 이야기 알지? 이 이야기로 그림책도, 만화도, 연극도 만들 수 있거든.",
   "이야기는 똑같아. 바뀐 건 담는 틀이랑 짜는 순서야. 퀴즈 쇼를 몇 판으로 나누는지, 신문을 몇 칸으로 나누는지도 다 이거야.",
   "겉에 칠한 색깔이나, 무슨 얘기가 들어 있냐랑은 달라.",
   "무슨 얘기냐가 아니라 어떻게 짜서 보여 주냐, 그게 format이야."
  ],
- "scene": "토끼와 거북이 이야기를 그림책·만화·연극으로 만들기",
+ "scene": "이야기 하나를 소설·웹툰·드라마로 만들기",
  "examples": [
   {
-   "en": "Our class newspaper changed its format this year.",
-   "ko": "우리 반 신문, 올해는 짜는 틀이 싹 바뀌었어."
+   "en": "Our student newspaper changed its format this year.",
+   "ko": "우리 학교 신문, 올해는 형식이 싹 바뀌었어."
   }
  ],
  "quiz": [
@@ -55,7 +61,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/format.webp",
-  "alt": "토끼와 거북이 이야기를 그림책·만화·연극으로 만들기",
+  "alt": "이야기 하나를 소설·웹툰·드라마로 만들기",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

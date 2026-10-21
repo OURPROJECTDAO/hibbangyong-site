@@ -11,20 +11,21 @@
  "word": "intense",
  "slug": "intense",
  "url": "https://hibbangyong.com/words/intense/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "세다 — 정도가 아주 크고 꽉 찬",
  "gloss_ko": "정도가 아주 센",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "약한 바람이랑 태풍은 둘 다 바람이야. 근데 태풍은 세기가 확 올라가 있지?",
   "그렇게 세기가 꼭대기까지 올라간 걸 말해. 좋은 거든 나쁜 거든 상관없어.",
   "빛도, 더위도, 아픔도, 좋아하는 마음도 다 셀 수 있거든? 눈이 부실 만큼 밝은 빛, 참기 힘든 더위, 심장이 쿵쾅거릴 만큼 좋아하는 마음.",
   "그냥 '많다'랑은 달라. 물 열 컵은 많은 거고, 팔팔 끓는 물 한 컵이 이거야. 그게 intense야."
  ],
+ "explanation_for_kids": null,
  "scene": "세기가 꼭대기까지 올라간 태풍 바람",
  "examples": [
   {

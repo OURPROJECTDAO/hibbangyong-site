@@ -11,20 +11,21 @@
  "word": "photograph",
  "slug": "photograph",
  "url": "https://hibbangyong.com/words/photograph/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "사진 찍다 — 카메라로 눈앞의 모습을 그대로 담아 남기다",
  "gloss_ko": "사진 찍다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "자전거가 넘어져서 바퀴가 휘었어. 너는 폰을 들고 딱! 그 모습 그대로 담아 뒀지.",
   "손으로 그린 게 아니야. 기계가 그 순간을 그대로 붙잡아 준 거거든?",
   "웃는 얼굴만 담는 게 아니야. 부서진 것도, 밤하늘 달도, 뭐든 담을 수 있어.",
   "그게 photograph야."
  ],
+ "explanation_for_kids": null,
  "scene": "넘어져 바퀴가 휜 자전거를 폰으로 담아 두기",
  "examples": [
   {
@@ -35,7 +36,7 @@
  "quiz": [
   {
    "type": "choice",
-   "question": "밤새 눈이 와서 마당에 고양이 발자국이 남아 있어. 아침에 형이 한 일 중, 발자국을 'photograph'한 것은 어느 것일까?",
+   "question": "밤새 눈이 와서 마당에 고양이 발자국이 남아 있어. 아침에 친구가 한 일 중, 발자국을 'photograph'한 건 어느 것일까?",
    "choices": [
     "폰 카메라로 발자국을 찍어 저장했어",
     "빗자루로 발자국 위 눈을 쓸어 냈어",

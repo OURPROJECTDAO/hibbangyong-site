@@ -11,20 +11,21 @@
  "word": "metric",
  "slug": "metric",
  "url": "https://hibbangyong.com/words/metric/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "미터법의 — 미터·그램·리터와 거기서 10배씩 이어지는 단위(km·mg·mL 등)로 재는, 또는 그 방식을 쓰는",
  "gloss_ko": "미터법의",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "키는 cm, 몸무게는 kg, 물은 L로 재지? 우리한텐 너무 익숙한 방식이야.",
   "m·g·L를 바탕으로 km, mg, mL처럼 10배씩 붙여 가는 단위 묶음을 미터법이라고 해. 그 묶음에 들어가면 metric이야.",
   "길이만 해당하는 게 아니야. 무게도, 물의 양도 다 들어가. 나라가 재는 방식을 이걸로 바꿀 때도 metric이라고 해.",
   "인치, 파운드, 마일도 똑같이 뭘 재는 단위야. 그래도 다른 묶음이라 metric이 아니야."
  ],
+ "explanation_for_kids": null,
  "scene": "키·몸무게·물을 cm·kg·L로 재는 일상",
  "examples": [
   {

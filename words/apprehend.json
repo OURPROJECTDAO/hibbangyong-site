@@ -11,25 +11,26 @@
  "word": "apprehend",
  "slug": "apprehend",
  "url": "https://hibbangyong.com/words/apprehend/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "체포하다 — 법을 어긴 사람을 경찰이나 경비원 같은 사람이 붙잡다",
  "gloss_ko": "체포하다",
  "level": {
   "code": "L9",
-  "name": "토플 114~120점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "가게에서 돈을 안 내고 물건 들고 나간 사람이 있었어. 경비원이 문 앞에서 그 사람을 붙잡았지.",
   "법을 어긴 사람을 경찰이나 경비원 같은 사람이 붙잡는 거, 그게 apprehend야. 큰 범죄든 작은 잘못이든 다 돼.",
   "뒤쫓아 뛰기만 하는 건 아직 아니야. 실제로 붙잡아야 apprehend야.",
   "잡았다고 벌을 준 것도 아니야. 벌은 나중에 따로 정하고, 이 단어는 붙잡는 데까지만이야."
  ],
+ "explanation_for_kids": null,
  "scene": "가게에서 돈 안 내고 나간 사람을 경비원이 문 앞에서 붙잡음",
  "examples": [
   {
-   "en": "It took the school guard only a minute to apprehend the boy who broke the window.",
-   "ko": "학교 경비 아저씨가 창문 깬 애를 붙잡는 데 1분도 안 걸렸어."
+   "en": "The police were able to apprehend the thief near the subway station.",
+   "ko": "경찰이 지하철역 근처에서 도둑을 체포했어."
   }
  ],
  "quiz": [

@@ -11,25 +11,26 @@
  "word": "turnover",
  "slug": "turnover",
  "url": "https://hibbangyong.com/words/turnover/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "있던 게 빠져나가고 새것이 그 자리를 채우는 일이 얼마나 잦은지 — 그 자리를 거쳐 나간 양",
  "gloss_ko": "나가고 새로 채우는 정도",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "놀이터 그네 하나를 한 시간 지켜봤어. 탔다 내리고, 새 애가 또 타고 — 스무 명이 거쳐 갔어.",
   "옆 벤치는? 한 애가 처음부터 끝까지 앉아 있었어. 딱 한 명.",
   "자리는 그대론데 그 자리를 거쳐 나간 게, 그네는 많고 벤치는 적지? 이 '얼마나 갈렸나'를 재는 말이야.",
   "가게 물건이 얼마나 팔려 나갔나, 일하던 사람이 얼마나 바뀌었나도 다 이걸로 말해. 많다·적다일 뿐이지, 나쁘다는 뜻도 아니고 한 번에 확 뒤집혔다는 뜻도 아니거든. 그게 turnover야."
  ],
+ "explanation_for_kids": null,
  "scene": "놀이터 그네 한 자리를 한 시간에 스무 명이 타고 내려간 장면",
  "examples": [
   {
-   "en": "The swings have a fast turnover, so I only waited a minute.",
-   "ko": "그네는 사람이 자주 바뀌어서 나는 1분밖에 안 기다렸어."
+   "en": "The swings had a fast turnover, so my nephew only waited a minute.",
+   "ko": "그네는 사람이 금방금방 바뀌어서 조카는 1분밖에 안 기다렸어."
   }
  ],
  "quiz": [

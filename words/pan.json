@@ -11,29 +11,33 @@
  "word": "pan",
  "slug": "pan",
  "url": "https://hibbangyong.com/words/pan/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "프라이팬 — 음식을 지지거나 볶는, 손잡이 달린 납작한 냄비",
  "gloss_ko": "프라이팬",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "이건 요리할 때 쓰는 프라이팬이에요. 손잡이가 하나 달려 있고 바닥이 납작해요.",
+  "아침에 계란프라이나 볶음밥을 만들 때 이 위에 올려 익혀요."
+ ],
+ "explanation_for_kids": [
   "이건 요리할 때 쓰는 프라이팬이에요. 손잡이가 하나 달려 있고 바닥이 납작해요.",
   "엄마 아빠가 아침에 계란프라이나 볶음밥을 만들 때 이 위에서 지글지글 익혀요."
  ],
  "scene": "손잡이 달린 둥근 프라이팬(주방 조리도구) 한 개를 위에서 살짝 비스듬히 본 모습",
  "examples": [
   {
-   "en": "Dad cooked the eggs in a hot pan.",
-   "ko": "아빠가 뜨거운 프라이팬에 계란을 익혔어."
+   "en": "I cooked eggs in a hot pan this morning.",
+   "ko": "오늘 아침에 뜨거운 프라이팬에 계란을 익혔어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "동생이 그릇에 시리얼을 담아 숟가락으로 떠먹고 있어요. 이게 pan이야?",
+   "question": "친구가 그릇에 시리얼을 담아 숟가락으로 떠먹고 있어요. 이게 pan이야?",
    "choices": [
     "응, 맞아",
     "아니, 아니야"

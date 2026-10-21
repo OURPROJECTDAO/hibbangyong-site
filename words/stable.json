@@ -11,25 +11,26 @@
  "word": "stable",
  "slug": "stable",
  "url": "https://hibbangyong.com/words/stable/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "흔들리거나 갑자기 무너지지 않고 그대로 잘 버티는",
  "gloss_ko": "안 흔들리는",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "의자에 앉았는데 하나도 안 흔들려. 발로 툭툭 차도 그대로 딱 버텨.",
   "이렇게 흔들어도 안 넘어가고 계속 그대로 있는 거야.",
   "물건만 그런 게 아니야. 날씨가 하루 종일 안 변하거나, 기분이 오르락내리락 안 하고 한결같아도 stable해.",
   "흔들려도 안 무너지고 그대로 잘 버티는 거, 그게 stable이야."
  ],
+ "explanation_for_kids": null,
  "scene": "발로 차도 안 넘어가는 의자",
  "examples": [
   {
-   "en": "The little chair didn't wobble at all, so it felt really stable.",
-   "ko": "그 작은 의자는 하나도 안 흔들려서 아주 안정감 있게 느껴졌어."
+   "en": "My new desk doesn't wobble at all, so it feels really stable.",
+   "ko": "새로 산 책상이 하나도 안 흔들려서 정말 안정감 있어."
   }
  ],
  "quiz": [
@@ -40,11 +41,11 @@
     "하루 종일 오르락내리락 안 하고 한결같이 잔잔해",
     "아침엔 활짝 웃다가 금세 울고 또 화내고 계속 바뀌어",
     "기분이 뚝 멈춰서 아무것도 안 느껴지고 텅 비었어",
-    "펄쩍 뛸 만큼 아주아주 좋아서 신났어"
+    "펄쩍 뛸 만큼 너무 좋아서 신났어"
    ],
    "answer_index": 0,
    "answer": "하루 종일 오르락내리락 안 하고 한결같이 잔잔해",
-   "why": "맞아! 하루 종일 흔들흔들 안 하고 한결같이 잔잔하니까 바로 그게 stable한 기분인 거야. 물건이 툭 쳐도 안 흔들리는 것처럼, 기분도 그렇게 그대로 잘 버티는 거지."
+   "why": "맞아! 하루 종일 흔들리지 않고 한결같이 잔잔하니까 바로 그게 stable한 기분인 거야. 물건이 툭 쳐도 안 흔들리는 것처럼, 기분도 그렇게 그대로 잘 버티는 거지."
   }
  ],
  "synonyms": [

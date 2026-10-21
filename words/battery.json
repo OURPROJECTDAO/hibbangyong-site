@@ -11,29 +11,33 @@
  "word": "battery",
  "slug": "battery",
  "url": "https://hibbangyong.com/words/battery/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "건전지 — 안에 담아 둔 전기를 기계에 넣어 힘을 주는 것",
  "gloss_ko": "건전지",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "이건 battery예요. 힘(전기)을 안에 담아 두었다가, 기계에 끼우면 전기를 흘려보내 움직이게 해요.",
+  "리모컨이 안 되거나 시계가 멈추면 새 battery로 갈아 끼워요. 그러면 다시 잘 돼요."
+ ],
+ "explanation_for_kids": [
   "이건 battery예요. 힘(전기)을 안에 담아 두었다가, 기계에 끼우면 전기를 흘려보내 움직이게 해요.",
   "리모컨이나 장난감 자동차가 멈추면 새 battery로 갈아 끼워요. 그러면 다시 움직여요."
  ],
- "scene": "가장 전형적인 원통형 건전지(AA) 한 개 — 한쪽 끝에 볼록한 양극 꼭지가 있는 실린더 배터리를 그림",
+ "scene": "가장 전형적인 원통형 건전지(AA) 한 개",
  "examples": [
   {
-   "en": "The toy car stopped moving, so we put a new battery inside it.",
-   "ko": "장난감 자동차가 멈춰서 우리는 새 건전지를 갈아 끼웠어."
+   "en": "My wireless mouse stopped working, so I put a new battery in it.",
+   "ko": "무선 마우스가 안 움직여서 새 건전지로 갈아 끼웠어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "형이 둥근 공을 발로 뻥 차서 골대 안으로 넣었어. 이게 battery야?",
+   "question": "친구가 찬 공이 골대 안으로 들어갔어. 이게 battery야?",
    "choices": [
     "응, 맞아",
     "아니, 아니야"
@@ -55,7 +59,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/battery.webp",
-  "alt": "가장 전형적인 원통형 건전지(AA) 한 개 — 한쪽 끝에 볼록한 양극 꼭지가 있는 실린더 배터리를 그림",
+  "alt": "가장 전형적인 원통형 건전지(AA) 한 개",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

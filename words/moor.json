@@ -11,25 +11,26 @@
  "word": "moor",
  "slug": "moor",
  "url": "https://hibbangyong.com/words/moor/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "황야 — 높고 넓게 펼쳐진 땅인데, 거친 풀과 키 작은 덤불만 덮여 있고 흙이 척박해서 농사를 안 짓는 곳",
  "gloss_ko": "황야",
  "level": {
   "code": "L9",
-  "name": "토플 114~120점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "영국 시골에서 언덕 위로 올라가면 끝이 안 보이는 넓은 땅이 나와.",
   "나무는 거의 없고, 억센 풀이랑 무릎 높이 덤불만 깔려 있어. 흙이 척박해서 아무도 밭을 안 갈아.",
   "사람 손 안 탄 채 그대로 남은 높고 넓은 땅, 이게 moor야. 여름엔 작은 보랏빛 꽃이 온통 덮기도 해.",
   "모래뿐인 사막도, 물 고인 늪도, 양 키우는 목장도 아니야. 거기랑 헷갈리지 마."
  ],
+ "explanation_for_kids": null,
  "scene": "영국 시골 언덕 위 끝없이 펼쳐진 풀·덤불 땅",
  "examples": [
   {
-   "en": "In summer, the moor turns purple with tiny flowers.",
-   "ko": "여름이 되면 그 황야가 작은 꽃들로 온통 보랏빛이 돼."
+   "en": "We hiked across the windy moor, all grass and low bushes.",
+   "ko": "우리는 풀과 낮은 덤불뿐인, 바람 부는 황야를 가로질러 걸었어."
   }
  ],
  "quiz": [

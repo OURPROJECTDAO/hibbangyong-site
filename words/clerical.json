@@ -11,21 +11,27 @@
  "word": "clerical",
  "slug": "clerical",
  "url": "https://hibbangyong.com/words/clerical/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "사무의 — 서류와 기록을 다루는 사무실 일과 관련된",
  "gloss_ko": "사무 일의",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "회사 회의 내용을 받아 적고, 명단을 컴퓨터에 치고, 서류를 파일에 꽂는 일 있지?",
+  "이렇게 기록하고 정리하는 사무 일 쪽이면 다 clerical이야.",
+  "그래서 이름을 잘못 치거나 숫자를 옮겨 적다가 틀린 것도 clerical error라고 해.",
+  "뭘 할지 정하는 일이나 몸으로 하는 일이랑은 달라. 이미 정해진 걸 적고 정리하는 쪽이야."
+ ],
+ "explanation_for_kids": [
   "학생회 회의 내용을 받아 적고, 명단을 컴퓨터에 치고, 서류를 파일에 꽂는 일 있지?",
   "이렇게 기록하고 정리하는 사무 일 쪽이면 다 clerical이야.",
   "그래서 이름을 잘못 치거나 숫자를 옮겨 적다가 틀린 것도 clerical error라고 해.",
   "뭘 할지 정하는 일이나 몸으로 하는 일이랑은 달라. 이미 정해진 걸 적고 정리하는 쪽이야."
  ],
- "scene": "학생회에서 회의를 기록하고 명단을 입력하고 서류를 정리하는 일",
+ "scene": "회사에서 회의를 기록하고 명단을 입력하고 서류를 정리하는 일",
  "examples": [
   {
    "en": "Because of a clerical mistake, my name was spelled wrong on the list.",
@@ -35,14 +41,14 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "삼촌은 학교 행정실에서 일해. 전학 온 학생의 주소와 연락처를 컴퓨터에 입력하고, 그 서류를 서류철에 꽂아 정리해. 삼촌이 하는 이 일은 'clerical' 일일까?",
+   "question": "친구는 주민센터에서 일해. 새로 이사 온 주민의 주소와 연락처를 컴퓨터에 입력하고, 그 서류를 서류철에 꽂아 정리해. 친구가 하는 이 일은 'clerical' 일일까?",
    "choices": [
     "응, clerical 맞아",
     "아니, clerical 아니야"
    ],
    "answer_index": 0,
    "answer": "응, clerical 맞아",
-   "why": "맞아! 삼촌은 전학 온 학생의 주소와 연락처를 컴퓨터에 입력하고 그 서류를 서류철에 꽂아 정리하잖아. 이미 정해진 정보를 적고 서류를 정리하는 일이니까 딱 clerical이야."
+   "why": "맞아! 친구는 새로 이사 온 주민의 주소와 연락처를 컴퓨터에 입력하고 그 서류를 서류철에 꽂아 정리하잖아. 이미 정해진 정보를 적고 서류를 정리하는 일이니까 딱 clerical이야."
   }
  ],
  "synonyms": [],
@@ -58,7 +64,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/clerical.webp",
-  "alt": "학생회에서 회의를 기록하고 명단을 입력하고 서류를 정리하는 일",
+  "alt": "회사에서 회의를 기록하고 명단을 입력하고 서류를 정리하는 일",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

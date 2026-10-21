@@ -11,38 +11,39 @@
  "word": "worth",
  "slug": "worth",
  "url": "https://hibbangyong.com/words/worth/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "~의 가치가 있는 — 들인 돈이나 시간, 힘만큼 값어치가 있는 (얼마만큼 값이 나가는)",
  "gloss_ko": "그만한 값이 있는",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "두 시간이나 줄 서서 아이스크림을 먹었어. 한 입 딱! 와, 기다린 게 하나도 안 아까워.",
   "들인 시간이나 돈, 힘만큼 값이 나올 때 쓰는 말이거든? 이 카드 한 장이 천 원만큼 값이 나간다고 할 때도 써.",
   "그냥 비싼 거랑은 달라. 싸도 그만큼 좋으면 그만한 값이 있는 거고, 비싸도 별로면 그만한 값이 없는 거야.",
   "들인 만큼 값이 있다, 그게 worth야."
  ],
+ "explanation_for_kids": null,
  "scene": "두 시간 줄 서서 먹은 맛있는 아이스크림",
  "examples": [
   {
-   "en": "The line was so long, but it was worth it because the ice cream was yummy.",
-   "ko": "줄이 엄청 길었는데, 아이스크림이 너무 맛있어서 기다린 보람이 있었어."
+   "en": "The line was so long, but the ice cream was worth it.",
+   "ko": "줄이 엄청 길었는데, 아이스크림은 기다릴 만했어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "민지는 여섯 달 동안 용돈을 모아서 자전거를 샀어. 그 뒤로 매일 그 자전거로 학교에 가고, 주말마다 공원에서 신나게 탔어. 민지가 자전거에 쓴 돈은 'worth'였을까?",
+   "question": "민지는 여섯 달 동안 월급을 모아서 자전거를 샀어. 그 뒤로 매일 그 자전거로 회사에 가고, 주말마다 공원에서 신나게 탔어. 민지가 자전거에 쓴 돈은 'worth'였을까?",
    "choices": [
     "응, worth 맞아",
     "아니, worth 아니야"
    ],
    "answer_index": 0,
    "answer": "응, worth 맞아",
-   "why": "맞아! 민지는 여섯 달 동안 모은 용돈으로 자전거를 샀는데, 매일 학교 갈 때 타고 주말마다 공원에서도 신나게 탔잖아. 그러니까 자전거 산 돈이 하나도 안 아까운 거야. 이렇게 안 아까운 게 바로 worth야."
+   "why": "맞아! 민지는 여섯 달 동안 모은 월급으로 자전거를 샀는데, 매일 회사 갈 때 타고 주말마다 공원에서도 신나게 탔잖아. 그러니까 자전거 산 돈이 하나도 안 아까운 거야. 이렇게 안 아까운 게 바로 worth야."
   }
  ],
  "synonyms": [],

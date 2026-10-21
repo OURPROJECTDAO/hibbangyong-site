@@ -11,21 +11,27 @@
  "word": "jurisdiction",
  "slug": "jurisdiction",
  "url": "https://hibbangyong.com/words/jurisdiction/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "관할권(맡아서 처리할 수 있는 범위) — 법원·경찰·정부 같은 공식 기관이 결정을 내리고 처리할 수 있는 권한, 또는 그 권한이 닿는 범위(지역·일의 종류)",
  "gloss_ko": "맡을 수 있는 범위",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "학생회는 축제 날짜는 정할 수 있어. 그런데 교수님 월급은 못 정해.",
+  "그건 학생회가 정할 수 있는 선 밖이라서 그래.",
+  "경찰서도 똑같아. 서마다 맡은 동네가 있고, 법원마다 다룰 수 있는 사건 종류가 정해져 있어.",
+  "그냥 힘이 세다는 뜻은 아니야. 공식적으로 정해진 권한이 어디까지 닿는지, 그 선을 말하는 거야."
+ ],
+ "explanation_for_kids": [
   "학생회는 축제 날짜는 정할 수 있어. 그런데 선생님 월급은 못 정해.",
   "그건 학생회가 정할 수 있는 선 밖이라서 그래.",
   "경찰서도 똑같아. 서마다 맡은 동네가 있고, 법원마다 다룰 수 있는 사건 종류가 정해져 있어.",
   "그냥 힘이 세다는 뜻은 아니야. 공식적으로 정해진 권한이 어디까지 닿는지, 그 선을 말하는 거야."
  ],
- "scene": "학생회가 축제 날짜는 정하지만 선생님 월급은 못 정함",
+ "scene": "학생회가 축제 날짜는 정하지만 교수님 월급은 못 정함",
  "examples": [
   {
    "en": "The police said the case was outside their jurisdiction.",
@@ -35,7 +41,7 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "민수네 아빠가 집 앞 도로 공사 허가를 받으러 A시청에 갔어. 공무원이 지도를 보더니 \"이 도로는 B시 땅이라서 A시청은 허가를 내 줄 수 없어요. B시청으로 가세요.\"라고 했어. A시청이 허가를 못 내 준 까닭을 'jurisdiction'으로 설명할 수 있을까?",
+   "question": "민수 씨가 집 앞 도로 공사 허가를 받으러 A시청에 갔어. 공무원이 지도를 보더니 \"이 도로는 B시 땅이라서 A시청은 허가를 내 줄 수 없어요. B시청으로 가세요.\"라고 했어. A시청이 허가를 못 내 준 까닭을 'jurisdiction'으로 설명할 수 있을까?",
    "choices": [
     "응, jurisdiction 맞아",
     "아니, jurisdiction 아니야"
@@ -57,7 +63,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/jurisdiction.webp",
-  "alt": "학생회가 축제 날짜는 정하지만 선생님 월급은 못 정함",
+  "alt": "학생회가 축제 날짜는 정하지만 교수님 월급은 못 정함",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,38 +11,44 @@
  "word": "proverbial",
  "slug": "proverbial",
  "url": "https://hibbangyong.com/words/proverbial/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "속담에 나오는 — 다들 아는 속담이나 말 속의 그 표현을 빌려 올 때 붙이는 말. 그 말처럼 누구나 입에 올릴 만큼 유명하다는 뜻도 돼",
  "gloss_ko": "속담에 나오는",
  "level": {
   "code": "L9",
-  "name": "토플 114~120점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "친구가 마감 전날 밤에야 과제를 시작해. 그럼 누가 그러지, 딱 '발등에 불 떨어졌다'의 그 발등이네.",
+  "proverbial은 이렇게 다들 아는 속담이나 말에서 표현을 빌려 올 때 그 앞에 붙여. 진짜 발등에 불이 붙은 건 아니야.",
+  "그 말처럼 다들 입에 올릴 만큼 유명하다는 뜻으로도 써. 걔 지각은 우리 팀에서 proverbial이야, 이런 식으로.",
+  "그냥 비유랑은 달라. 내가 방금 지어낸 표현이 아니라, 원래 다들 아는 그 말이라는 표시야."
+ ],
+ "explanation_for_kids": [
   "친구가 시험 전날 밤에 처음 책을 펴. 그럼 누가 그러지, 딱 '발등에 불 떨어졌다'의 그 발등이네.",
   "proverbial은 이렇게 다들 아는 속담이나 말에서 표현을 빌려 올 때 그 앞에 붙여. 진짜 발등에 불이 붙은 건 아니야.",
   "그 말처럼 다들 입에 올릴 만큼 유명하다는 뜻으로도 써. 걔 지각은 우리 반에서 proverbial이야, 이런 식으로.",
   "그냥 비유랑은 달라. 내가 방금 지어낸 표현이 아니라, 원래 다들 아는 그 말이라는 표시야."
  ],
- "scene": "시험 전날 밤에야 공부를 시작한 친구를 '발등에 불'로 부르는 장면",
+ "scene": "마감 전날 밤에야 과제를 시작한 친구를 '발등에 불'로 부르는 장면",
  "examples": [
   {
-   "en": "He was the proverbial early bird — he came to school at seven every day.",
-   "ko": "걔는 딱 그 '일찍 일어나는 새'였어, 매일 7시에 학교에 왔거든."
+   "en": "He's the proverbial early bird — he's at the office by seven every day.",
+   "ko": "걔는 딱 속담 속 '일찍 일어나는 새'야. 매일 7시면 회사에 와 있어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "반에서 수학 1등인 친구가 쉬운 덧셈 문제를 틀렸어. 그걸 보고 내가 '원숭이도 나무에서 떨어진다더니, 오늘은 네가 그 원숭이네'라고 했어. 이때 '원숭이' 앞에 'proverbial'을 붙여 the proverbial monkey라고 하는 게 맞아?",
+   "question": "수학 제일 잘하는 친구가 밥값 나누다가 쉬운 덧셈을 틀렸어. 그걸 보고 내가 '원숭이도 나무에서 떨어진다더니, 오늘은 네가 그 원숭이네'라고 했어. 이때 '원숭이' 앞에 'proverbial'을 붙여 the proverbial monkey라고 하는 게 맞아?",
    "choices": [
     "응, proverbial 맞아",
     "아니, proverbial 아니야"
    ],
    "answer_index": 0,
    "answer": "응, proverbial 맞아",
-   "why": "맞아! 여기서 원숭이는 진짜 원숭이가 아니라 다들 아는 속담 '원숭이도 나무에서 떨어진다'에서 빌려 온 말이잖아. 수학 1등 친구를 그 속담 속 원숭이에 빗댄 거니까, 바로 그 앞에 proverbial을 붙이는 거야."
+   "why": "맞아! 여기서 원숭이는 진짜 원숭이가 아니라 다들 아는 속담 '원숭이도 나무에서 떨어진다'에서 빌려 온 말이잖아. 수학 잘하는 친구를 그 속담 속 원숭이에 빗댄 거니까, 바로 그 앞에 proverbial을 붙이는 거야."
   }
  ],
  "synonyms": [],

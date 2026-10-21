@@ -11,23 +11,24 @@
  "word": "mirror",
  "slug": "mirror",
  "url": "https://hibbangyong.com/words/mirror/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "거울 — 앞에 선 사람이나 물건의 모습을 그대로 비춰서 보여 주는 물건",
  "gloss_ko": "거울",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "거울은 앞에 있는 사람이나 물건의 모습을 그대로 비춰서 똑같이 보여 주는 물건이에요.",
   "아침에 세수하고 머리를 빗을 때 거울을 보면 내 얼굴을 확인할 수 있어요."
  ],
+ "explanation_for_kids": null,
  "scene": "받침대에 세워진 타원형 거울 한 개 — 반짝이는 은빛 반사면과 예쁜 테두리(사물 mirror)",
  "examples": [
   {
-   "en": "She looks in the mirror to check her hair before school.",
-   "ko": "그 애는 학교 가기 전에 머리를 살피려고 거울을 봐."
+   "en": "She checks her hair in the mirror before work.",
+   "ko": "걔는 출근하기 전에 거울 보면서 머리를 살펴."
   }
  ],
  "quiz": [

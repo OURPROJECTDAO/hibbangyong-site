@@ -11,21 +11,27 @@
  "word": "career",
  "slug": "career",
  "url": "https://hibbangyong.com/words/career/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "일의 길 — 처음 일을 시작한 날부터 오래오래 해 온 일 전체",
  "gloss_ko": "일의 길",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "한 사람의 사진 중에 일하는 사진만 쭉 골라서 줄 세워 봐.",
+  "처음 일한 날부터 지금까지, 그 줄 전체가 career야.",
+  "한 군데서만 쭉 일했어도, 여기저기 옮겨 다녔어도 똑같아. 지금 앉은 자리 하나를 말하는 게 아니거든?",
+  "잘 풀렸든, 다쳐서 뚝 끊겼든, 이제 막 걷기 시작했든 상관없어. 그게 career야."
+ ],
+ "explanation_for_kids": [
   "아빠 사진 중에 일하는 사진만 쭉 골라서 줄 세워 봐.",
   "처음 일한 날부터 지금까지, 그 줄 전체가 career야.",
   "한 군데서만 쭉 일했어도, 여기저기 옮겨 다녔어도 똑같아. 지금 앉은 자리 하나를 말하는 게 아니거든?",
   "잘 풀렸든, 다쳐서 뚝 끊겼든, 이제 막 걷기 시작했든 상관없어. 그게 career야."
  ],
- "scene": "아빠의 일하는 사진만 골라 줄 세운 사진첩",
+ "scene": "한 사람의 일하는 사진만 골라 줄 세운 사진첩",
  "examples": [
   {
    "en": "My uncle had a long career on boats, and it ended when he hurt his back.",
@@ -57,7 +63,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/career.webp",
-  "alt": "아빠의 일하는 사진만 골라 줄 세운 사진첩",
+  "alt": "한 사람의 일하는 사진만 골라 줄 세운 사진첩",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

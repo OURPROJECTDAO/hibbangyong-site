@@ -11,38 +11,39 @@
  "word": "report",
  "slug": "report",
  "url": "https://hibbangyong.com/words/report/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "알아본 걸 정리해서 남한테 알려주는 것 — 말이든 글이든(날씨 알림, 성적표 같은 거)",
  "gloss_ko": "알아내어 알림",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "친구한테 '밖에 날씨 어때?' 하고 물어봤어.",
   "걔가 밖에 나가서 하늘이며 바람이며 쭉 살펴보고 왔지.",
   "그러고 돌아와서 '구름 잔뜩! 곧 비 올 것 같아' 하고 알아본 걸 딱 정리해서 알려줬어.",
   "그냥 지어낸 이야기도 아니고, 물어보는 것도 아니야. 알아본 걸 모아서 알려주는 것, 그게 report야."
  ],
+ "explanation_for_kids": null,
  "scene": "친구가 밖 날씨를 살펴보고 와서 알려주는 장면",
  "examples": [
   {
-   "en": "My friend gave us a report about the weather outside.",
-   "ko": "친구가 밖에 날씨가 어떤지 우리한테 알려 줬어."
+   "en": "I checked the weather report before I left for work.",
+   "ko": "출근하기 전에 일기 예보를 확인했어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "형이 냉장고를 열어 본 다음, 아빠한테 \"우유는 반 통 남았고, 달걀은 두 개 있어\"라고 말했어. 이게 'report'야?",
+   "question": "룸메이트가 냉장고를 열어 본 다음, 나한테 \"우유는 반 통 남았고, 달걀은 두 개 있어\"라고 말했어. 이게 'report'야?",
    "choices": [
     "응, report 맞아",
     "아니, report 아니야"
    ],
    "answer_index": 0,
    "answer": "응, report 맞아",
-   "why": "맞아! 형이 냉장고를 직접 열어서 뭐가 얼마나 있나 살펴봤잖아. 그러고 나서 알아본 걸 아빠한테 그대로 알려줬으니까, 바로 그게 report인 거야."
+   "why": "맞아! 룸메이트가 냉장고를 직접 열어서 뭐가 얼마나 있나 살펴봤잖아. 그러고 나서 알아본 걸 나한테 그대로 알려줬으니까, 바로 그게 report인 거야."
   }
  ],
  "synonyms": [

@@ -11,21 +11,27 @@
  "word": "which",
  "slug": "which",
  "url": "https://hibbangyong.com/words/which/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "어느 것 — 정해진 몇 개 중에서 '어느 거?' 하고 하나 고를 때 쓰는 말.",
  "gloss_ko": "어느 것",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "아이스크림 가게에 딸기, 초코, 바닐라 딱 세 통만 있어.",
+  "친구가 '어느 거 먹을래?' 하고 물어봐.",
+  "세상 모든 맛 중에서가 아니라, 눈앞 이 셋 중에서 하나 콕 집는 거야.",
+  "이렇게 정해진 것들 사이에서 '어느 거?' 하고 고르는 게 which야."
+ ],
+ "explanation_for_kids": [
   "아이스크림 가게에 딸기, 초코, 바닐라 딱 세 통만 있어.",
   "엄마가 '어느 거 먹을래?' 하고 물어봐.",
   "세상 모든 맛 중에서가 아니라, 눈앞 이 셋 중에서 하나 콕 집는 거야.",
   "이렇게 정해진 것들 사이에서 '어느 거?' 하고 고르는 게 which야."
  ],
- "scene": "아이스크림 가게에서 딱 세 가지 맛 중 하나 고르기(child 앵커)",
+ "scene": "아이스크림 가게에서 딱 세 가지 맛 중 하나 고르기",
  "examples": [
   {
    "en": "Which flavor do you want — strawberry, chocolate, or vanilla?",
@@ -35,7 +41,7 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "문구점 매대에 색연필이 빨강, 파랑, 노랑 세 자루만 놓여 있어. 그 세 자루 중에서 한 자루를 집어 계산대에 올려. 이 상황이 'which'야?",
+   "question": "문구점 매대에 볼펜이 빨강, 파랑, 노랑 세 자루만 놓여 있어. 그 세 자루 중에서 한 자루를 집어 계산대에 올려. 이 상황이 'which'야?",
    "choices": [
     "응, which 맞아",
     "아니, which 아니야"
@@ -55,7 +61,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/which.webp",
-  "alt": "아이스크림 가게에서 딱 세 가지 맛 중 하나 고르기(child 앵커)",
+  "alt": "아이스크림 가게에서 딱 세 가지 맛 중 하나 고르기",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

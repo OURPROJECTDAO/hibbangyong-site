@@ -11,29 +11,30 @@
  "word": "dictionary",
  "slug": "dictionary",
  "url": "https://hibbangyong.com/words/dictionary/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "사전 — 낱말의 뜻을 찾아볼 수 있게 모아 놓은 두꺼운 책",
  "gloss_ko": "사전",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "이건 낱말들을 한데 모아 뜻을 적어 둔 두꺼운 책이에요.",
   "모르는 낱말이 나오면 여기서 찾아 뜻을 확인할 수 있어요."
  ],
+ "explanation_for_kids": null,
  "scene": "아주 두껍고 페이지가 빽빽한 하드커버 사전책 한 권을 가운데 펼쳐 놓은 모습(두께로 '사전'임을 표현, 글자는 넣지 않음)",
  "examples": [
   {
-   "en": "I don't know this word, so I will look it up in the dictionary.",
-   "ko": "이 낱말을 모르니까 사전에서 찾아볼래."
+   "en": "I don't know this word, so I'll check the dictionary on my phone.",
+   "ko": "이 단어를 모르니까 폰 사전에서 찾아볼게."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "동생이 모르는 낱말을 찾으려고 두꺼운 책을 펼쳤는데, 안에는 글자가 하나도 없고 알록달록한 그림만 가득했어. 이게 dictionary야?",
+   "question": "친구가 모르는 낱말을 찾으려고 두꺼운 책을 펼쳤는데, 안에는 글자가 하나도 없고 사진만 잔뜩 실려 있었어. 이게 dictionary야?",
    "choices": [
     "응, 맞아",
     "아니, 아니야"

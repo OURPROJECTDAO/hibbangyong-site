@@ -11,39 +11,40 @@
  "word": "anger",
  "slug": "anger",
  "url": "https://hibbangyong.com/words/anger/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "화 · 분노 — 싫거나 억울한 일을 당해서 마음이 확 뜨겁게 끓어오르는 감정",
  "gloss_ko": "화 · 분노",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "누가 네가 아끼는 걸 일부러 망가뜨렸다고 해봐.",
   "그럼 가슴속이 확 뜨거워지면서, \"왜 그래!\" 하고 터질 것 같지?",
   "소리 꽥 지르고 싶어지기도 해.",
   "근데 꼭 소리쳐야 화는 아니야 — 입 꾹 다물고 속으로 부글부글할 때도, 그게 화거든.",
   "이게 anger야."
  ],
+ "explanation_for_kids": null,
  "scene": "아끼는 물건을 누가 일부러 망가뜨린 상황",
  "examples": [
   {
-   "en": "When my brother broke my toy on purpose, I was full of anger.",
-   "ko": "동생이 일부러 내 장난감을 부쉈을 때 화가 잔뜩 났어."
+   "en": "She couldn't hide her anger when the bus left without her.",
+   "ko": "버스가 자기를 두고 그냥 가 버리자 걔는 화를 감추지 못했어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "체육 시간에 반 친구가 내 신발주머니를 창밖으로 던져버렸어. 나는 그 애 앞으로 성큼성큼 걸어가 \"너 지금 뭐 하는 거야!\" 하고 소리쳤어. 이게 'anger'야?",
+   "question": "점심시간에 동료가 내가 아끼는 컵을 일부러 깨뜨렸어. 나는 그 동료 앞으로 성큼성큼 걸어가 \"너 지금 뭐 하는 거야!\" 하고 소리쳤어. 이게 'anger'야?",
    "choices": [
     "응, anger 맞아",
     "아니, anger 아니야"
    ],
    "answer_index": 0,
    "answer": "응, anger 맞아",
-   "why": "맞아! 아끼는 신발주머니를 일부러 창밖으로 던졌잖아. 억울하고 싫으니까 가슴이 확 뜨거워져서 \"뭐 하는 거야!\" 하고 터져 나온 거야. 바로 그게 anger거든."
+   "why": "맞아! 아끼는 컵을 일부러 깨뜨렸잖아. 억울하고 싫으니까 가슴이 확 뜨거워져서 \"뭐 하는 거야!\" 하고 터져 나온 거야. 바로 그게 anger거든."
   }
  ],
  "synonyms": [],

@@ -11,25 +11,31 @@
  "word": "negligent",
  "slug": "negligent",
  "url": "https://hibbangyong.com/words/negligent/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "부주의한 — 맡은 일을 제대로 챙기지 않아서 탈이 나게 한",
  "gloss_ko": "맡은 일을 소홀히 한",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "너 이번 주 가게 문단속 당번이었잖아. 근데 신경 안 쓰고 그냥 갔어.",
+  "밤새 창문이 열려 있어서 가게가 비에 다 젖었어. 이렇게 맡은 일을 안 챙겨서 탈이 나면 negligent야.",
+  "의사가 환자를 제대로 안 살폈을 때, 부모가 어린 아이를 혼자 뒀을 때, 회사가 고장 난 기계를 그냥 뒀을 때도 다 이 말을 써.",
+  "그냥 손이 미끄러진 실수나, 할 일 없는 날 뒹구는 게으름이랑은 달라. 핵심은 내가 챙겨야 할 일을 소홀히 했다는 거야."
+ ],
+ "explanation_for_kids": [
   "너 이번 주 교실 문단속 당번이었잖아. 근데 신경 안 쓰고 그냥 갔어.",
   "밤새 창문이 열려 있어서 교실이 비에 다 젖었어. 이렇게 맡은 일을 안 챙겨서 탈이 나면 negligent야.",
   "의사가 환자를 제대로 안 살폈을 때, 부모가 어린 아이를 혼자 뒀을 때, 회사가 고장 난 기계를 그냥 뒀을 때도 다 이 말을 써.",
   "그냥 손이 미끄러진 실수나, 할 일 없는 날 뒹구는 게으름이랑은 달라. 핵심은 내가 챙겨야 할 일을 소홀히 했다는 거야."
  ],
- "scene": "교실 문단속 당번이 그냥 가서 밤새 비에 교실이 젖음",
+ "scene": "가게 문단속 당번이 그냥 가서 밤새 비에 가게가 젖음",
  "examples": [
   {
-   "en": "The school was found negligent after a student got hurt on the broken stairs.",
-   "ko": "부서진 계단에서 학생이 다친 뒤, 학교가 관리를 소홀히 했다는 판정을 받았어."
+   "en": "My landlord was negligent and never fixed the broken heater.",
+   "ko": "집주인이 관리를 소홀히 해서 고장 난 히터를 끝까지 안 고쳤어."
   }
  ],
  "quiz": [
@@ -57,7 +63,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/negligent.webp",
-  "alt": "교실 문단속 당번이 그냥 가서 밤새 비에 교실이 젖음",
+  "alt": "가게 문단속 당번이 그냥 가서 밤새 비에 가게가 젖음",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

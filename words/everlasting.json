@@ -11,31 +11,32 @@
  "word": "everlasting",
  "slug": "everlasting",
  "url": "https://hibbangyong.com/words/everlasting/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "영원한 — 끝나지 않고 계속 이어지는 (좋은 것에도 지겨운 것에도 써)",
  "gloss_ko": "영원한",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "졸업식 날 \"우리 우정 영원하자!\" 이런 말 하잖아.",
   "근데 저녁마다 끝도 없이 이어지는 동생 투덜거림도 있어. 그것도 끝이 안 보이지.",
   "좋든 싫든, 멈추지 않고 계속 가는 거면 everlasting이야.",
   "오래 가다가 결국 끝나는 거랑은 달라. 끝 자체가 없는 느낌이 핵심이야."
  ],
+ "explanation_for_kids": null,
  "scene": "졸업식 날 영원한 우정 약속",
  "examples": [
   {
-   "en": "I'm so tired of my little brother's everlasting complaints about dinner.",
-   "ko": "저녁밥 갖고 끝도 없이 투덜대는 동생 때문에 진짜 지쳤어."
+   "en": "I'm so tired of my roommate's everlasting complaints about the noise.",
+   "ko": "소음 갖고 끝도 없이 투덜대는 룸메이트 때문에 진짜 지쳤어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "운동회 마지막에 터뜨린 폭죽이 하늘에서 '펑' 하고 몇 초 반짝이다가 금방 사라졌어. 이 불꽃을 'everlasting'이라고 할 수 있을까?",
+   "question": "여름 축제 마지막에 터뜨린 폭죽이 하늘에서 '펑' 하고 몇 초 반짝이다가 금방 사라졌어. 이 불꽃을 'everlasting'이라고 할 수 있을까?",
    "choices": [
     "응, everlasting 맞아",
     "아니, everlasting 아니야"

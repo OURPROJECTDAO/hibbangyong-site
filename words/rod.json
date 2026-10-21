@@ -11,23 +11,24 @@
  "word": "rod",
  "slug": "rod",
  "url": "https://hibbangyong.com/words/rod/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "낚싯대 — 물고기를 잡을 때 쓰는 긴 막대",
  "gloss_ko": "낚싯대",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 길고 가느다란 이 막대가 rod예요. 끝에 낚싯줄과 작은 바늘이 달려 있어요.",
   "강이나 바다에서 어른이 물고기를 낚을 때 손에 쥐고 있는 바로 그 막대랍니다."
  ],
+ "explanation_for_kids": null,
  "scene": "낚싯대(fishing rod) 한 대 — 손잡이·릴·낚싯줄·끝의 작은 낚싯바늘까지 전체가 다 보이게, 화면 중앙에 크게",
  "examples": [
   {
-   "en": "Grandpa holds his rod and waits for a fish to bite.",
-   "ko": "할아버지가 낚싯대를 잡고 물고기가 물기를 기다려."
+   "en": "I bought a new rod for our fishing trip this weekend.",
+   "ko": "이번 주말 낚시 여행 가려고 낚싯대를 새로 샀어."
   }
  ],
  "quiz": [

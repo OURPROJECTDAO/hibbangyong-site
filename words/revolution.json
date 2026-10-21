@@ -11,24 +11,25 @@
  "word": "revolution",
  "slug": "revolution",
  "url": "https://hibbangyong.com/words/revolution/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "혁명 — 낡은 것을 싹 뒤집고 세상을 통째로 새롭게 갈아엎는 큰 변화.",
  "gloss_ko": "혁명",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "옛날엔 다들 말 타고 다녔거든? 그런데 자동차가 딱 나타나더니, 온 세상이 통째로 확 바뀌었어.",
   "낡은 걸 조금 고친 게 아니야. 예전 방식을 싹 뒤집고 완전히 새로 시작한 거야.",
   "이렇게 세상을 뿌리째 갈아엎는 아주 큰 변화, 그게 revolution이야."
  ],
+ "explanation_for_kids": null,
  "scene": "말 타던 세상에 자동차가 나타나 온 세상이 통째로 뒤바뀐 장면",
  "examples": [
   {
-   "en": "Cars brought a revolution, and soon the whole world stopped using horses.",
-   "ko": "자동차가 revolution을 몰고 왔고, 곧 온 세상이 말을 안 타게 됐어."
+   "en": "Smartphones brought a revolution in how people shop.",
+   "ko": "스마트폰은 사람들이 쇼핑하는 방식에 혁명을 가져왔어."
   }
  ],
  "quiz": [

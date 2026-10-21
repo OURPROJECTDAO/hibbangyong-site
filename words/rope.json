@@ -11,29 +11,30 @@
  "word": "rope",
  "slug": "rope",
  "url": "https://hibbangyong.com/words/rope/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "밧줄 — 물건을 묶거나 잡아당길 때 쓰는 굵고 튼튼한 줄",
  "gloss_ko": "밧줄",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속에 둥글게 감겨 있는 굵고 튼튼한 줄이 바로 밧줄이에요.",
   "무거운 물건을 묶거나 줄다리기를 할 때 이런 밧줄을 써요."
  ],
- "scene": "굵은 갈색 밧줄 한 가닥이 나선으로 둥글게 감겨 있는 모습(사물 '밧줄'을 그림)",
+ "explanation_for_kids": null,
+ "scene": "굵은 갈색 밧줄 한 가닥이 나선으로 둥글게 감겨 있는 모습",
  "examples": [
   {
-   "en": "We pulled the heavy box with a long rope.",
-   "ko": "우리는 긴 밧줄로 무거운 상자를 끌었어."
+   "en": "We tied the couch onto the truck with a rope.",
+   "ko": "우리는 밧줄로 소파를 트럭에 묶었어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "친구가 종이에 그림을 그리려고 색연필을 손에 쥐었어요. 이게 rope야?",
+   "question": "친구가 메모를 하려고 볼펜을 손에 쥐었어요. 이게 rope야?",
    "choices": [
     "응, 맞아",
     "아니, 아니야"
@@ -57,7 +58,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/rope.webp",
-  "alt": "굵은 갈색 밧줄 한 가닥이 나선으로 둥글게 감겨 있는 모습(사물 '밧줄'을 그림)",
+  "alt": "굵은 갈색 밧줄 한 가닥이 나선으로 둥글게 감겨 있는 모습",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

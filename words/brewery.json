@@ -11,25 +11,26 @@
  "word": "brewery",
  "slug": "brewery",
  "url": "https://hibbangyong.com/words/brewery/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "맥주 공장(양조장) — 맥주를 만드는 곳, 또는 맥주를 만드는 회사",
  "gloss_ko": "맥주 만드는 곳",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "큰 통 안에서 보리랑 물이 며칠 동안 천천히 익어 가. 그걸 병에 담아서 맥주로 내보내.",
   "맥주를 이렇게 만들어 내는 곳이 brewery야. 맥주 만드는 회사를 부를 때도 이 단어를 써.",
   "맥주를 파는 술집이나 가게랑은 달라. 여기는 맥주를 만드는 곳이야.",
   "와인이나 소주를 만드는 곳도 아니야. 맥주를 만드는 곳만 이렇게 불러."
  ],
+ "explanation_for_kids": null,
  "scene": "큰 통에서 보리와 물을 익혀 맥주를 만드는 공장",
  "examples": [
   {
-   "en": "My uncle works at a brewery near the river.",
-   "ko": "우리 삼촌은 강 근처에 있는 맥주 공장에서 일해."
+   "en": "The old brewery near the station is a bookstore now.",
+   "ko": "역 근처에 있던 옛 맥주 공장이 이제 서점이 됐어."
   }
  ],
  "quiz": [

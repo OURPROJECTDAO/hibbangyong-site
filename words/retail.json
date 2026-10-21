@@ -11,18 +11,21 @@
  "word": "retail",
  "slug": "retail",
  "url": "https://hibbangyong.com/words/retail/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "(가게가) 손님한테 물건을 하나씩 팔다",
  "gloss_ko": "손님한테 하나씩 팔다",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "편의점에 생수가 백 병 들어왔어.\n근데 사장님이 그걸 한꺼번에 다른 가게로 넘기는 게 아니야.\n너 같은 손님한테 하나씩, '이거 천 원!' 하고 파는 거야.\n만드는 것도, 실어 나르는 것도 아니고 — 손님 손에 직접 파는 거.\n이렇게 손님한테 하나씩 파는 게 retail이야."
+ ],
+ "explanation_for_kids": [
   "문방구에 지우개가 백 개 들어왔어.\n근데 아저씨가 그걸 한꺼번에 다른 가게로 넘기는 게 아니야.\n너 같은 손님한테 하나씩, '이거 오백 원!' 하고 파는 거야.\n만드는 것도, 실어 나르는 것도 아니고 — 손님 손에 직접 파는 거.\n이렇게 손님한테 하나씩 파는 게 retail이야."
  ],
- "scene": "문방구 아저씨가 지우개를 손님한테 하나씩 오백 원에 파는 장면",
+ "scene": "편의점 사장님이 생수를 손님한테 하나씩 천 원에 파는 장면",
  "examples": [
   {
    "en": "The shop retails pencils for fifty cents each.",
@@ -60,7 +63,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/retail.webp",
-  "alt": "문방구 아저씨가 지우개를 손님한테 하나씩 오백 원에 파는 장면",
+  "alt": "편의점 사장님이 생수를 손님한테 하나씩 천 원에 파는 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

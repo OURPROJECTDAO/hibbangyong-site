@@ -11,23 +11,24 @@
  "word": "lamb",
  "slug": "lamb",
  "url": "https://hibbangyong.com/words/lamb/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "새끼 양 — 아직 다 자라지 않은 어린 양",
  "gloss_ko": "새끼 양",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 봄 들판에 서 있는 폭신한 흰 동물이 바로 lamb, 아직 다 자라지 않은 새끼 양이에요.",
   "농장이나 동물원에 가면 엄마 양 옆에 꼭 붙어 다니는 어린 양을 볼 수 있어요."
  ],
- "scene": "새끼 양(lamb) 한 마리가 봄 들판에 서 있는 모습 — 폭신폭신한 흰 털의 어린 양",
+ "explanation_for_kids": null,
+ "scene": "새끼 양(lamb) 한 마리가 봄 들판에 서 있는 모습 — 폭신한 흰 털의 어린 양",
  "examples": [
   {
-   "en": "The little lamb followed its mother across the green field.",
-   "ko": "새끼 양이 초록 들판을 가로질러 엄마를 따라갔어."
+   "en": "On our trip, we fed a lamb at a small farm.",
+   "ko": "여행 가서 작은 농장에서 새끼 양한테 먹이를 줬어."
   }
  ],
  "quiz": [
@@ -56,7 +57,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/lamb.webp",
-  "alt": "새끼 양(lamb) 한 마리가 봄 들판에 서 있는 모습 — 폭신폭신한 흰 털의 어린 양",
+  "alt": "새끼 양(lamb) 한 마리가 봄 들판에 서 있는 모습 — 폭신한 흰 털의 어린 양",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

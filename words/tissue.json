@@ -11,23 +11,24 @@
  "word": "tissue",
  "slug": "tissue",
  "url": "https://hibbangyong.com/words/tissue/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "휴지 — 코를 풀거나 무언가를 닦을 때 쓰는 얇고 부드러운 종이",
  "gloss_ko": "휴지",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "상자에서 한 장씩 쏙 뽑아 쓰는, 얇고 부드러운 종이예요.",
   "코가 나오거나 손에 뭔가 묻었을 때 이걸로 닦아요."
  ],
+ "explanation_for_kids": null,
  "scene": "화장지 한 장이 위로 쏙 뽑혀 올라온 부드러운 티슈 상자(사물 의미의 tissue)",
  "examples": [
   {
-   "en": "I used a tissue to blow my nose.",
-   "ko": "휴지로 코를 풀었어."
+   "en": "I wiped coffee off my desk with a tissue.",
+   "ko": "휴지로 책상에 흘린 커피를 닦았어."
   }
  ],
  "quiz": [

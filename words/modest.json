@@ -11,25 +11,26 @@
  "word": "modest",
  "slug": "modest",
  "url": "https://hibbangyong.com/words/modest/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "잘난 척 안 하고 수수한 — 잘한 걸 크게 자랑 안 하거나, 크거나 화려하지 않고 딱 적당한",
  "gloss_ko": "잘난 척 안 하고 수수한",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "시합에서 1등 했는데도 '에이, 별거 아니야' 하고 씩 웃는 친구 봤지?",
   "잘한 걸 크게 자랑 안 하고, 자기를 슬쩍 낮춰.",
   "집이나 옷도 그래 — 크고 화려한 게 아니라 작고 수수하게, 딱 이만큼만.",
   "그게 modest야."
  ],
+ "explanation_for_kids": null,
  "scene": "시합에서 1등 하고도 자랑 안 하는 친구",
  "examples": [
   {
-   "en": "Ben lives in a modest little house, not a big fancy one.",
-   "ko": "벤은 크고 화려한 집이 아니라, 작고 수수한 집에 살아."
+   "en": "My new apartment is modest, but it's close to work.",
+   "ko": "새로 구한 집은 수수하지만 회사랑 가까워."
   }
  ],
  "quiz": [

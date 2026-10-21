@@ -11,29 +11,33 @@
  "word": "cart",
  "slug": "cart",
  "url": "https://hibbangyong.com/words/cart/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "카트 — 마트에서 물건을 담아 밀고 다니는 바퀴 달린 수레",
  "gloss_ko": "카트",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "은색 금속으로 된 이것은 마트에서 물건을 담아 밀고 다니는 카트입니다.",
+  "장을 보러 가면 이 카트에 우유나 과자를 담아 계산대까지 밀고 갈 수 있습니다."
+ ],
+ "explanation_for_kids": [
   "은색 금속으로 된 이것은 마트에서 물건을 담아 밀고 다니는 카트입니다.",
   "부모님과 장을 보러 가면 이 카트에 우유나 과자를 담아 계산대까지 밀고 갈 수 있습니다."
  ],
  "scene": "마트에서 쓰는 은색 금속 쇼핑카트 한 대(빈 카트)를 정면 살짝 비스듬히, 매장 바닥 위에 전체가 다 보이게",
  "examples": [
   {
-   "en": "We put the milk and bread in the cart at the store.",
-   "ko": "우리는 가게에서 우유랑 빵을 카트에 담았어."
+   "en": "I grabbed a cart and filled it up at the supermarket.",
+   "ko": "마트에서 카트를 하나 끌고 와서 가득 채웠어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "놀이터에서 앉아 발을 구르며 앞뒤로 왔다 갔다 하는 것이 있어요. 이게 cart야?",
+   "question": "공원에서 앉아 발을 구르며 앞뒤로 왔다 갔다 하는 것이 있어요. 이게 cart야?",
    "choices": [
     "응, 맞아",
     "아니, 아니야"

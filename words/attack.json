@@ -11,25 +11,26 @@
  "word": "attack",
  "slug": "attack",
  "url": "https://hibbangyong.com/words/attack/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "공격 — 해치려고 갑자기 확 덮치는 일",
  "gloss_ko": "공격",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "가만있는 걸 갑자기 확 덮치는 거야. 해치려고.",
   "주먹질만 그런 게 아니야. 축구에서 상대 골대로 확 몰아치는 것도, 말로 콕콕 쏘아붙이는 것도 그래.",
   "막아내는 쪽 말고, 먼저 덤벼드는 쪽. 서로 티격태격하는 싸움 전체를 말하는 것도 아니고, 덮치는 그 순간이야.",
   "그게 attack이야."
  ],
+ "explanation_for_kids": null,
  "scene": "가만있는 것을 갑자기 확 덮치는 장면",
  "examples": [
   {
-   "en": "The cat made a sudden attack on the toy mouse.",
-   "ko": "고양이가 장난감 쥐를 갑자기 확 덮쳤어."
+   "en": "My cat launched a surprise attack on my feet under the blanket.",
+   "ko": "우리 고양이가 이불 속 내 발을 기습 공격했어."
   }
  ],
  "quiz": [

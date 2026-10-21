@@ -11,31 +11,32 @@
  "word": "update",
  "slug": "update",
  "url": "https://hibbangyong.com/words/update/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "옛날 정보를 새 소식으로 갈아서 지금과 딱 맞게 해 주다 (사람한테 새 소식을 전해 주는 것도 update).",
  "gloss_ko": "새 소식으로 갈아 주다",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "축구할 때 칠판에 점수를 적어 뒀어. 2 대 1.",
   "근데 우리 팀이 또 골을 넣었네? 그럼 칠판의 2는 이제 옛날 숫자잖아.",
   "얼른 2를 지우고 3으로 갈아. 이제 진짜 점수랑 딱 맞지?",
   "이렇게 낡은 걸 새 소식으로 갈아서 지금과 맞춰 주는 게 update야."
  ],
+ "explanation_for_kids": null,
  "scene": "칠판에 적힌 축구 점수를 새 골이 나서 2에서 3으로 고치는 장면",
  "examples": [
   {
-   "en": "I updated the score to 3 when we scored again.",
-   "ko": "우리가 또 골을 넣어서 점수를 3으로 바꿔 적었어."
+   "en": "I'll update the team after the meeting.",
+   "ko": "회의 끝나고 팀에 새 소식 알려 줄게."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "급식실 앞 게시판에 오늘 메뉴가 '카레'라고 붙어 있었어. 그런데 재료가 없어서 오늘 메뉴가 '김치볶음밥'으로 바뀌었대. 영양사 선생님이 게시판의 '카레' 종이를 떼고 '김치볶음밥' 종이를 붙였어. 이게 'update'야?",
+   "question": "회사 식당 앞 게시판에 오늘 메뉴가 '카레'라고 붙어 있었어. 그런데 재료가 없어서 오늘 메뉴가 '김치볶음밥'으로 바뀌었대. 식당 직원이 게시판의 '카레' 종이를 떼고 '김치볶음밥' 종이를 붙였어. 이게 'update'야?",
    "choices": [
     "응, update 맞아",
     "아니, update 아니야"

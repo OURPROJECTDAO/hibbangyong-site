@@ -11,25 +11,26 @@
  "word": "contempt",
  "slug": "contempt",
  "url": "https://hibbangyong.com/words/contempt/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "경멸(깔보는 마음) — 상대나 어떤 것을 존중할 가치도 없다고 내려다보는 마음",
  "gloss_ko": "깔보는 마음",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "조별과제에서 한 명이 아무것도 안 하고 이름만 올렸어. 다른 애들은 걔 말에 대꾸도 안 하고, 쳐다보는 눈빛이 싸늘해.",
   "씩씩대며 화내는 거랑은 달라. 쟤는 존중할 가치도 없다고 위에서 내려다보는 마음이야.",
   "꼭 사람한테만 쓰는 것도 아니야. 규칙이나 약속처럼, 지킬 가치도 없다고 하찮게 보는 마음도 이거야.",
   "소리를 지르지 않아도 돼. 조용한 눈빛 하나로도 충분히 드러나."
  ],
+ "explanation_for_kids": null,
  "scene": "조별과제에서 무임승차한 친구를 싸늘하게 대하는 조원들",
  "examples": [
   {
-   "en": "His contempt for the rules got him in trouble again.",
-   "ko": "걔는 규칙을 우습게 보다가 또 혼났어."
+   "en": "He talks to the restaurant staff with contempt.",
+   "ko": "걔는 식당 직원들한테 깔보듯이 말해."
   }
  ],
  "quiz": [

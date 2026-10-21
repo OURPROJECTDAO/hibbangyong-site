@@ -11,25 +11,31 @@
  "word": "controversy",
  "slug": "controversy",
  "url": "https://hibbangyong.com/words/controversy/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "논란 — 한 가지 일을 두고 많은 사람들이 생각이 갈려서 오랫동안 서로 맞다, 틀리다 하는 것",
  "gloss_ko": "생각이 갈려 다투는 논란",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "우리 대학에 '수업 중엔 휴대폰 안 돼!' 규칙이 새로 생겼어.",
+  "좋다는 교수님, 싫다는 학생, 조교들도 반반. 몇 주째 시끌시끌해.",
+  "둘이 한 번 투닥한 거랑은 달라. 여럿이, 오래, 한 가지 일로 편이 갈리는 거거든?",
+  "그게 controversy야."
+ ],
+ "explanation_for_kids": [
   "학교에 '쉬는 시간엔 휴대폰 안 돼!' 규칙이 새로 생겼어.",
   "좋다는 엄마, 싫다는 아이, 선생님들도 반반. 몇 주째 시끌시끌해.",
   "둘이 한 번 투닥한 거랑은 달라. 여럿이, 오래, 한 가지 일로 편이 갈리는 거거든?",
   "그게 controversy야."
  ],
- "scene": "쉬는 시간 휴대폰 금지 규칙을 두고 학교 사람들이 몇 주째 찬반으로 갈림",
+ "scene": "수업 중 휴대폰 금지 규칙을 두고 대학 사람들이 몇 주째 찬반으로 갈림",
  "examples": [
   {
-   "en": "The new phone rule caused a big controversy at our school.",
-   "ko": "새 휴대폰 규칙 때문에 우리 학교에서 큰 논란이 벌어졌어."
+   "en": "The new phone rule caused a big controversy at our university.",
+   "ko": "새 휴대폰 규칙 때문에 우리 대학에서 큰 논란이 벌어졌어."
   }
  ],
  "quiz": [
@@ -57,7 +63,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/controversy.webp",
-  "alt": "쉬는 시간 휴대폰 금지 규칙을 두고 학교 사람들이 몇 주째 찬반으로 갈림",
+  "alt": "수업 중 휴대폰 금지 규칙을 두고 대학 사람들이 몇 주째 찬반으로 갈림",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

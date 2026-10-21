@@ -11,25 +11,31 @@
  "word": "overlay",
  "slug": "overlay",
  "url": "https://hibbangyong.com/words/overlay/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "덮어씌우다 — 어떤 것의 겉면 위에 다른 것을 층으로 덮다(밑의 것은 그대로 남아 있어)",
  "gloss_ko": "위에 층을 덮다",
  "level": {
   "code": "L9",
-  "name": "토플 114~120점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "지도 위에 필름을 한 장 덮고, 그 위에 우리 동네 길을 그렸어.",
+  "지도가 없어진 게 아니야. 밑에 그대로 있고, 그 위에 층이 하나 더 생긴 거야.",
+  "케이크 위에 초콜릿을 입히는 것도 같아. 밑이 비치든 안 비치든 원래 것 위에 층을 덮으면 overlay야. 걱정이 웃음 위에 덧씌워졌다는 식으로 느낌에도 써.",
+  "원래 것을 떼고 새것으로 바꾸는 거랑은 달라. 물건 하나를 위에 툭 올려놓는 것도 아니야. 겉면을 덮는 층이어야 해."
+ ],
+ "explanation_for_kids": [
   "사회 시간에 지도 위에 필름을 한 장 덮고, 그 위에 우리 동네 길을 그렸어.",
   "지도가 없어진 게 아니야. 밑에 그대로 있고, 그 위에 층이 하나 더 생긴 거야.",
   "케이크 위에 초콜릿을 입히는 것도 같아. 밑이 비치든 안 비치든 원래 것 위에 층을 덮으면 overlay야. 걱정이 웃음 위에 덧씌워졌다는 식으로 느낌에도 써.",
   "원래 것을 떼고 새것으로 바꾸는 거랑은 달라. 물건 하나를 위에 툭 올려놓는 것도 아니야. 겉면을 덮는 층이어야 해."
  ],
- "scene": "사회 시간 지도 위에 필름 덮고 동네 길 그리기",
+ "scene": "지도 위에 필름 덮고 동네 길 그리기",
  "examples": [
   {
-   "en": "The teacher overlaid the old map with a plastic sheet showing the new roads.",
-   "ko": "선생님이 옛날 지도 위에 새 도로가 그려진 비닐 필름을 덮어 놓으셨어."
+   "en": "For the meeting, I'll overlay the old map with the new bus routes.",
+   "ko": "회의 때 옛날 지도 위에 새 버스 노선을 겹쳐서 보여 줄게."
   }
  ],
  "quiz": [
@@ -64,7 +70,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/overlay.webp",
-  "alt": "사회 시간 지도 위에 필름 덮고 동네 길 그리기",
+  "alt": "지도 위에 필름 덮고 동네 길 그리기",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

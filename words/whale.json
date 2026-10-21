@@ -11,23 +11,24 @@
  "word": "whale",
  "slug": "whale",
  "url": "https://hibbangyong.com/words/whale/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "고래 — 바다에 사는 아주 커다란 동물",
  "gloss_ko": "고래",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "바다에 사는 아주 커다란 동물이에요. 등에서 물을 뿜기도 해요.",
   "물고기처럼 보이지만 우리처럼 숨을 쉬려고 가끔 물 위로 올라와요."
  ],
+ "explanation_for_kids": null,
  "scene": "바다 위 수면에서 등에서 물을 뿜는 커다랗고 통통한 파란 고래 한 마리(고래=동물 그 자체)",
  "examples": [
   {
-   "en": "We saw a huge whale jump out of the sea.",
-   "ko": "우리는 아주 커다란 고래가 바다에서 뛰어오르는 걸 봤어."
+   "en": "We saw a whale on our boat trip last summer.",
+   "ko": "지난여름에 배 타고 여행하다가 고래를 봤어."
   }
  ],
  "quiz": [

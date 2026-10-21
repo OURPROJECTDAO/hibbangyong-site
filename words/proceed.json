@@ -11,38 +11,39 @@
  "word": "proceed",
  "slug": "proceed",
  "url": "https://hibbangyong.com/words/proceed/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "계속하다 — 하기로 한 일이나 하던 일을 그만두지 않고 이어서 해 나가다",
  "gloss_ko": "하던 걸 이어 가다",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "받아쓰기 보는데 따르릉! 소방 훈련이야. 우르르 나갔다 들어왔어.",
   "혹시 시험 없어졌나? 했는데 선생님이 그러시는 거야. \"자, 5번부터 이어서 할게요.\"",
   "처음부터 새로 하는 것도 아니고, 그만두는 것도 아니야. 하기로 한 일을 다음으로 쭉 해 나가는 거지. 반가운 일이든 싫은 일이든 말이야.",
   "그게 proceed야."
  ],
+ "explanation_for_kids": null,
  "scene": "받아쓰기 시험 중 소방 훈련으로 나갔다 와서 5번부터 이어 본 시험",
  "examples": [
   {
-   "en": "After the fire drill, our teacher proceeded with the spelling test.",
-   "ko": "소방 훈련이 끝나자 선생님이 하던 받아쓰기 시험을 이어서 하셨어."
+   "en": "After the fire drill, our professor decided to proceed with the quiz.",
+   "ko": "소방 훈련이 끝나고 교수님이 쪽지 시험을 그대로 이어서 진행하기로 하셨어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "하준이가 피아노 학원에서 곡을 치고 있었어. 그런데 엄마한테 전화가 와서 잠깐 멈췄지. 통화가 끝나자 하준이는 치던 마디의 다음 마디부터 이어서 끝까지 쳤어. 하준이가 한 건 'proceed'일까?",
+   "question": "하준이가 퇴근 후 집에서 피아노 연습을 하고 있었어. 그런데 친구한테 전화가 와서 잠깐 멈췄지. 통화가 끝나자 하준이는 치던 마디의 다음 마디부터 이어서 끝까지 쳤어. 하준이가 한 건 'proceed'일까?",
    "choices": [
     "응, proceed 맞아",
     "아니, proceed 아니야"
    ],
    "answer_index": 0,
    "answer": "응, proceed 맞아",
-   "why": "맞아! 하준이는 엄마 전화 때문에 잠깐 멈췄지만 처음부터 다시 치지 않았어. 그만두지도 않았지. 치던 마디의 다음 마디부터 끝까지 이어서 쳤으니까 바로 그게 proceed인 거야."
+   "why": "맞아! 하준이는 친구 전화 때문에 잠깐 멈췄지만 처음부터 다시 치지 않았어. 그만두지도 않았지. 치던 마디의 다음 마디부터 끝까지 이어서 쳤으니까 바로 그게 proceed인 거야."
   }
  ],
  "synonyms": [

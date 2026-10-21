@@ -11,25 +11,26 @@
  "word": "through",
  "slug": "through",
  "url": "https://hibbangyong.com/words/through/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "한쪽 끝으로 들어가 막힘없이 끝까지 가서 반대쪽 끝으로 빠져나오는 것 (쭉 통과해서)",
  "gloss_ko": "끝까지 쭉 통과해서",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "기차가 터널 속으로 쑥 들어가지?",
   "근데 안에서 멈추지 않아. 끝까지 쭉 달려.",
   "그러다 반대쪽 끝으로 쑤욱 빠져나와. 한쪽으로 들어가 막힘없이 끝까지 가서 반대쪽으로 나오는 거야.",
   "바늘이 천을 한쪽으로 들어가 반대쪽으로 쏙 뚫고 나오는 것도 그래. 옆으로 비껴 돌아간 것도, 들어가다 만 것도 아니야 — 끝까지 통과! 이게 through야."
  ],
+ "explanation_for_kids": null,
  "scene": "기차가 터널 한쪽으로 들어가 멈추지 않고 끝까지 달려 반대쪽 끝으로 빠져나옴.",
  "examples": [
   {
-   "en": "Push the needle hard and it will go through.",
-   "ko": "바늘을 세게 밀면 쑥 뚫고 지나가."
+   "en": "The subway goes through a long tunnel under the river.",
+   "ko": "지하철이 강 밑의 긴 터널을 쭉 지나가."
   }
  ],
  "quiz": [

@@ -11,25 +11,26 @@
  "word": "tea",
  "slug": "tea",
  "url": "https://hibbangyong.com/words/tea/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "차 — 말린 잎이나 꽃을 물에 우려내서 마시는 것",
  "gloss_ko": "마시는 차",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "컵에 말린 잎을 톡 넣고 뜨거운 물을 부어 봐. 물 색이 스르르 변하지?",
   "잎 맛이 물에 다 배어 나온 거야. 그 물을 마시는 거지.",
   "꽃잎으로 만들어도 되고, 다 식혀서 얼음 넣고 마셔도 똑같아.",
   "과일을 꾹 짜낸 즙이랑은 달라. 짠 게 아니라 우려낸 거거든. 이게 tea야."
  ],
+ "explanation_for_kids": null,
  "scene": "컵에 말린 잎을 넣고 뜨거운 물을 부어 물 색이 변하는 장면",
  "examples": [
   {
-   "en": "My grandma likes her tea with ice on hot days.",
-   "ko": "할머니는 더운 날엔 차에 얼음을 넣어서 마셔."
+   "en": "On hot days, I drink my tea with ice.",
+   "ko": "더운 날엔 나는 차에 얼음을 넣어서 마셔."
   }
  ],
  "quiz": [

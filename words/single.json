@@ -11,25 +11,26 @@
  "word": "single",
  "slug": "single",
  "url": "https://hibbangyong.com/words/single/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "딱 하나의 — 둘도 셋도 아니고 오직 하나뿐인",
  "gloss_ko": "딱 하나의",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "과자 봉지를 딱 열었는데, 안에 과자가 하나만 들어 있어. 딱 하나!",
   "둘도 아니고 셋도 아니야. 오직 하나.",
   "'몇 개 있네'가 아니라 '딱 하나 있네' 할 때 쓰는 말이거든?",
   "여러 개랑은 완전 달라. 그게 single이야."
  ],
+ "explanation_for_kids": null,
  "scene": "봉지 안에 딱 하나만 남은 과자",
  "examples": [
   {
-   "en": "She ate a single grape and stopped.",
-   "ko": "걔는 포도를 딱 한 알만 먹고 그만뒀어."
+   "en": "I found a single sock in the dryer.",
+   "ko": "건조기에서 양말을 딱 한 짝만 찾았어."
   }
  ],
  "quiz": [

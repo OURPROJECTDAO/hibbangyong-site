@@ -11,15 +11,21 @@
  "word": "dairy",
  "slug": "dairy",
  "url": "https://hibbangyong.com/words/dairy/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "유제품 — 우유, 그리고 우유 같은 젖으로 만든 치즈·버터 같은 먹을거리",
  "gloss_ko": "유제품",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "냉장고 문 열어봐. 우유, 치즈, 버터, 요구르트가 보이지?",
+  "얘네는 다 한 식구야. 소나 염소 젖에서 나왔거든.",
+  "근데 달걀은 바로 옆 칸에 있어도 아니야. 두유도 이름만 우유 같지 콩에서 나왔어.",
+  "젖으로 만든 먹을거리, 그게 dairy야."
+ ],
+ "explanation_for_kids": [
   "냉장고 문 딸깍 열어봐. 우유, 치즈, 버터, 요구르트가 보이지?",
   "얘네는 다 한 식구야. 소나 염소 젖에서 나왔거든.",
   "근데 달걀은 바로 옆 칸에 있어도 아니야. 두유도 이름만 우유 같지 콩에서 나왔어.",
@@ -28,21 +34,21 @@
  "scene": "냉장고 문을 열고 우유·치즈·버터·요구르트 보기",
  "examples": [
   {
-   "en": "My little brother can't eat dairy, so Mom checks every snack box.",
-   "ko": "내 남동생은 유제품을 못 먹어서 엄마가 과자 상자를 하나하나 다 살펴봐."
+   "en": "I can't eat dairy, so I always order oat milk at cafés.",
+   "ko": "나는 유제품을 못 먹어서 카페에서는 늘 귀리 우유로 시켜."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "할머니 댁 시골 목장에 갔더니 할머니가 염소한테서 갓 짠 염소 우유를 한 컵 주셨어. 이 염소 우유는 'dairy'야?",
+   "question": "시골 목장에 갔더니 목장 사장님이 염소한테서 갓 짠 염소 우유를 한 컵 주셨어. 이 염소 우유는 'dairy'야?",
    "choices": [
     "응, dairy 맞아",
     "아니, dairy 아니야"
    ],
    "answer_index": 0,
    "answer": "응, dairy 맞아",
-   "why": "맞아! 할머니가 주신 건 염소 젖을 갓 짠 염소 우유잖아. 염소 젖에서 나온 먹을거리니까 바로 그게 dairy인 거야."
+   "why": "맞아! 사장님이 주신 건 염소 젖을 갓 짠 염소 우유잖아. 염소 젖에서 나온 먹을거리니까 바로 그게 dairy인 거야."
   }
  ],
  "synonyms": [],

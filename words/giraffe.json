@@ -11,23 +11,24 @@
  "word": "giraffe",
  "slug": "giraffe",
  "url": "https://hibbangyong.com/words/giraffe/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "기린 — 목이 아주 긴 초식 동물",
  "gloss_ko": "기린",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 목이 길고 갈색 반점이 있는 이 동물이 바로 기린(giraffe)이야.",
   "동물원에 가면 높은 나뭇잎을 긴 목으로 따 먹는 기린을 볼 수 있어."
  ],
+ "explanation_for_kids": null,
  "scene": "긴 목과 갈색 반점 무늬가 또렷한 기린 한 마리가 사바나 풀밭에 서 있는 전신(뿔부터 발굽까지) 모습",
  "examples": [
   {
-   "en": "The giraffe used its long neck to eat leaves from the tall tree.",
-   "ko": "기린이 긴 목을 써서 높은 나무의 잎을 따 먹었어."
+   "en": "On our trip to Kenya, a giraffe stuck its long neck right over our car.",
+   "ko": "케냐 여행 갔을 때 기린 한 마리가 긴 목을 우리 차 위로 쑥 내밀었어."
   }
  ],
  "quiz": [

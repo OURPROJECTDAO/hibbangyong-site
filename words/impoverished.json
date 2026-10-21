@@ -11,15 +11,21 @@
  "word": "impoverished",
  "slug": "impoverished",
  "url": "https://hibbangyong.com/words/impoverished/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "몹시 가난한 — 생활에 꼭 필요한 것까지 모자랄 만큼 가난해진 (돈 말고 중요한 것이 크게 빠진 상태에도 씀)",
  "gloss_ko": "몹시 가난한",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "공장이 문을 닫자 동네 사람들 일자리가 한꺼번에 사라졌어.",
+  "몇 년 지나니 밥값이랑 집세를 걱정하는 집이 많아졌지. 그 동네가 impoverished해진 거야.",
+  "이번 주 돈이 좀 빠듯한 거랑은 달라. 살아가는 데 꼭 필요한 것까지 바닥난 상태야.",
+  "돈 말고 다른 것에도 써. 영양분이 다 빠진 땅처럼 중요한 게 텅 빈 것에도 붙어."
+ ],
+ "explanation_for_kids": [
   "공장이 문을 닫자 동네 사람들 일자리가 한꺼번에 사라졌어.",
   "몇 년 지나니 밥값이랑 집세를 걱정하는 집이 많아졌지. 그 동네가 impoverished해진 거야.",
   "이번 주 용돈이 좀 빠듯한 거랑은 달라. 살아가는 데 꼭 필요한 것까지 바닥난 상태야.",
@@ -28,8 +34,8 @@
  "scene": "공장이 문 닫아 일자리가 사라진 동네",
  "examples": [
   {
-   "en": "The war left the small village impoverished for many years.",
-   "ko": "전쟁 때문에 그 작은 마을은 오랫동안 몹시 가난하게 살아야 했어."
+   "en": "The factory closed and left the small town impoverished.",
+   "ko": "공장이 문을 닫자 그 작은 동네는 몹시 가난해졌어."
   }
  ],
  "quiz": [

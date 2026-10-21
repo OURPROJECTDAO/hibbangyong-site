@@ -11,15 +11,21 @@
  "word": "harvest",
  "slug": "harvest",
  "url": "https://hibbangyong.com/words/harvest/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "수확 — 다 자란 곡식이나 열매를 거둬들이는 일. 또 그렇게 거둬들인 곡식 그 자체(얼마나 거뒀는지)도 harvest야.",
  "gloss_ko": "수확",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "가을이 됐어. 봄에 심은 벼가 누렇게 잘 익었지?",
+  "이제 농부 아저씨가 다 자란 곡식이랑 열매를 거둬들여.",
+  "한 해 내내 키운 걸 드디어 거두는 때야.",
+  "거두는 그 일도, 거둬서 쌓인 곡식 더미도 다 harvest야."
+ ],
+ "explanation_for_kids": [
   "가을이 됐어. 봄에 심은 벼가 누렇게 잘 익었지?",
   "이제 농부 아저씨가 다 자란 곡식이랑 열매를 쓱쓱 거둬들여.",
   "한 해 내내 키운 걸 드디어 거두는 때야.",
@@ -35,14 +41,14 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "포도밭에 포도가 알알이 다 익었어. 아저씨가 잘 익은 포도송이를 가위로 잘라 바구니에 척척 담고 있어. 이게 'harvest'야?",
+   "question": "포도밭에 포도가 알알이 다 익었어. 아저씨가 잘 익은 포도송이를 가위로 잘라 바구니에 담고 있어. 이게 'harvest'야?",
    "choices": [
     "응, harvest 맞아",
     "아니, harvest 아니야"
    ],
    "answer_index": 0,
    "answer": "응, harvest 맞아",
-   "why": "맞아! 다 익은 포도를 가위로 싹둑 잘라 바구니에 척척 담고 있잖아. 다 익은 걸 이렇게 거둬들이는 게 바로 harvest야."
+   "why": "맞아! 다 익은 포도를 가위로 잘라 바구니에 담고 있잖아. 다 익은 걸 이렇게 거둬들이는 게 바로 harvest야."
   }
  ],
  "synonyms": [

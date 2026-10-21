@@ -11,15 +11,21 @@
  "word": "quite",
  "slug": "quite",
  "url": "https://hibbangyong.com/words/quite/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "꽤 — '조금'보다는 확실히 더, 그래도 '제일'까지는 아닌 정도.",
  "gloss_ko": "꽤",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "'조금'보다는 확실히 더 셀 때 쓰는 말이야. 바람이 쌩 부는 날, 얼어붙을 정돈 아니어도 제법 추우면 'It's quite cold.'라고 해.",
+  "quite를 붙이면 '추워'가 '제법 추워'가 되는 거야.",
+  "그래도 '세상에서 제일'까지는 안 가. 같이 뛴 사람 중에 제일 빨랐으면 quite 말고 다른 말을 써야 해.",
+  "좋을 때도 나쁠 때도 다 붙어. quite 좋다, quite 어렵다처럼. 그게 quite야."
+ ],
+ "explanation_for_kids": [
   "'조금'보다는 확실히 더 셀 때 쓰는 말이야. 바람이 쌩 부는 날, 얼어붙을 정돈 아니어도 제법 추우면 'It's quite cold.'라고 해.",
   "quite를 붙이면 '추워'가 '제법 추워'가 되는 거야.",
   "그래도 '세상에서 제일'까지는 안 가. 반에서 1등으로 빨랐으면 quite 말고 다른 말을 써야 해.",
@@ -28,14 +34,14 @@
  "scene": "바람이 쌩 부는 제법 추운 날 밖에 나선 장면",
  "examples": [
   {
-   "en": "The math homework was quite hard, but I finished it.",
-   "ko": "수학 숙제가 꽤 어려웠는데 그래도 다 끝냈어."
+   "en": "The math assignment was quite hard, but I finished it.",
+   "ko": "수학 과제가 꽤 어려웠는데 그래도 다 끝냈어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "동생이 계단을 열 칸쯤 뛰어 올라와서 숨이 헉헉 차올랐어. '조금 힘든' 정도는 확실히 넘었지만 못 걷겠을 정돈 아니야. 이럴 때 'It's quite hard.'라고 말하는 게 'quite'를 맞게 쓴 걸까?",
+   "question": "친구가 계단을 열 칸쯤 뛰어 올라와서 숨이 헉헉 차올랐어. '조금 힘든' 정도는 확실히 넘었지만 못 걷겠을 정돈 아니야. 이럴 때 'It's quite hard.'라고 말하는 게 'quite'를 맞게 쓴 걸까?",
    "choices": [
     "응, quite 맞아",
     "아니, quite 아니야"

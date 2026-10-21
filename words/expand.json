@@ -11,25 +11,26 @@
  "word": "expand",
  "slug": "expand",
  "url": "https://hibbangyong.com/words/expand/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "차지하는 자리나 범위가 사방으로 넓어지다",
  "gloss_ko": "사방으로 넓어지다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "옥수수 알 하나가 팡! 터져서 팝콘이 되면, 아까보다 자리를 훨씬 많이 차지하지?",
   "넓어지는 게 좋은 일만은 아니야. 물이 얼면서 자리를 더 차지하면 병이 쩍 갈라지거든.",
   "가게가 옆집까지 넓어지는 것도, 텃밭을 뒷마당까지 넓히는 것도 다 같은 말이야.",
   "쭉 잡아당겨 늘이는 거랑은 달라. 차지하는 자리가 사방으로 넓어지는 거, 그게 expand야."
  ],
+ "explanation_for_kids": null,
  "scene": "옥수수 알이 팡 터져 팝콘이 되며 자리를 훨씬 많이 차지함",
  "examples": [
   {
-   "en": "Dad wants to expand our garden into the backyard.",
-   "ko": "아빠는 우리 텃밭을 뒷마당까지 넓히고 싶어 해."
+   "en": "We want to expand our café into the shop next door.",
+   "ko": "우리는 카페를 옆 가게 자리까지 넓히고 싶어."
   }
  ],
  "quiz": [

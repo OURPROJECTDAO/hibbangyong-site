@@ -11,20 +11,21 @@
  "word": "coma",
  "slug": "coma",
  "url": "https://hibbangyong.com/words/coma/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "혼수상태 — 의식을 잃고, 깨우려 해도 오랫동안 깨어나지 못하는 상태",
  "gloss_ko": "혼수상태",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "병원 침대에 누운 사람이 며칠, 길면 몇 달이 지나도 눈을 안 떠.",
   "이름을 불러도, 손을 꼭 잡아도 아무 반응이 없어.",
   "큰 사고나 병 때문일 수도 있고, 치료하려고 의사가 약으로 일부러 그렇게 둘 때도 있어. 깨어날 때도 있고 오래 못 깨어날 때도 있고.",
   "흔들면 깨는 잠이나 몇 분 만에 깨는 기절이랑은 달라. 깨워도 못 깨는 게 오래 가는 거, 그게 coma야."
  ],
+ "explanation_for_kids": null,
  "scene": "병원 침대에서 며칠에서 몇 달째 눈을 뜨지 않는 사람",
  "examples": [
   {

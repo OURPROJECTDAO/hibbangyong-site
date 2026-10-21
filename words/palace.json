@@ -11,15 +11,21 @@
  "word": "palace",
  "slug": "palace",
  "url": "https://hibbangyong.com/words/palace/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "궁전 — 임금님·왕비님이 사는 아주 크고 화려한 집.",
  "gloss_ko": "궁전",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "방이 수백 개나 되는, 어마어마하게 큰 집을 떠올려 봐.",
+  "벽엔 번쩍이는 금장식, 바닥엔 매끈한 돌.",
+  "임금님이랑 왕비님이 바로 여기서 살아. 성처럼 적을 막으려고 지은 게 아니라, 크고 멋지게 지은 집이거든.",
+  "이게 palace야."
+ ],
+ "explanation_for_kids": [
   "방이 수백 개나 되는, 어마어마하게 큰 집을 떠올려 봐.",
   "벽엔 번쩍번쩍 금장식, 바닥엔 반들반들 매끈한 돌.",
   "임금님이랑 왕비님이 바로 여기서 살아. 성처럼 적을 막으려고 지은 게 아니라, 크고 멋지게 지은 집이거든.",
@@ -28,23 +34,23 @@
  "scene": "방 수백 개에 금장식과 매끈한 돌바닥이 있는 임금님의 큰 집",
  "examples": [
   {
-   "en": "The king and queen live in a beautiful palace with hundreds of shiny rooms.",
-   "ko": "임금님과 왕비님은 반짝이는 방이 수백 개나 되는 예쁜 궁전에 살아."
+   "en": "Kings once lived in this palace, and we toured it on our Seoul trip.",
+   "ko": "옛날에 임금님들이 이 궁전에 살았는데, 서울 여행 때 우리가 둘러봤어."
   }
  ],
  "quiz": [
   {
    "type": "choice",
-   "question": "오늘 배운 단어로 그림책 장면을 골라 봐. 다음 중 'palace'에 해당하는 것은?",
+   "question": "오늘 배운 단어로 장면을 골라 봐. 다음 중 'palace'에 해당하는 것은?",
    "choices": [
     "왕과 왕비가 지내는, 금빛 기둥이 늘어선 아주 큰 건물",
-    "아이들이 공을 차며 뛰어노는, 잔디가 깔린 넓은 운동장",
+    "사람들이 공을 차며 뛰는, 잔디가 깔린 넓은 축구장",
     "농부가 소를 키우며 여물을 쌓아 두는, 나무로 된 헛간",
     "의사와 간호사가 환자를 돌보는, 침대가 늘어선 하얀 병원"
    ],
    "answer_index": 0,
    "answer": "왕과 왕비가 지내는, 금빛 기둥이 늘어선 아주 큰 건물",
-   "why": "맞아! 왕이랑 왕비가 살고, 금빛 기둥이 번쩍번쩍 늘어선 아주 큰 집이잖아. 임금님이 사는 크고 화려한 집, 바로 그게 palace인 거야."
+   "why": "맞아! 왕이랑 왕비가 살고, 금빛 기둥이 번쩍이며 늘어선 아주 큰 집이잖아. 임금님이 사는 크고 화려한 집, 바로 그게 palace인 거야."
   }
  ],
  "synonyms": [

@@ -11,31 +11,32 @@
  "word": "blink",
  "slug": "blink",
  "url": "https://hibbangyong.com/words/blink/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "깜빡이다 — 눈을 감았다가 곧바로 다시 뜨거나, 불빛이 잠깐 꺼졌다 다시 켜지는 것",
  "gloss_ko": "깜빡이다",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "눈을 딱 감았다가 곧바로 다시 떴어. 얼마나 빠르냐면 감은 줄도 모를 만큼.",
   "그 짧은 껌뻑, 그게 다야. 눈 꼭 감고 한참 있는 건 이거 아니야.",
   "불빛도 똑같아. 잠깐 툭 꺼졌다가 바로 다시 켜져. 깜빡, 깜빡.",
   "잠깐 사라졌다가 바로 돌아오는 거. 이게 blink야."
  ],
+ "explanation_for_kids": null,
  "scene": "눈을 감았다가 곧바로 다시 뜨는 짧은 순간",
  "examples": [
   {
-   "en": "I blinked when the wind blew dust into my eyes.",
-   "ko": "바람이 눈에 먼지를 날려서 눈을 깜빡였어."
+   "en": "Dust blew into my eyes, so I had to blink a lot.",
+   "ko": "먼지가 눈에 들어가서 눈을 자꾸 깜빡여야 했어."
   }
  ],
  "quiz": [
   {
    "type": "choice",
-   "question": "교실에서 있었던 일이야. 다음 중 내가 'blink' 한 건 어느 거야?",
+   "question": "강의실에서 있었던 일이야. 다음 중 내가 'blink' 한 건 어느 거야?",
    "choices": [
     "눈을 꼭 감고 열까지 천천히 셌어",
     "눈을 딱 감았다가 곧바로 떴어",

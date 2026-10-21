@@ -11,20 +11,21 @@
  "word": "herald",
  "slug": "herald",
  "url": "https://hibbangyong.com/words/herald/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "예고 신호 — 무슨 일이 곧 일어날 거라고 먼저 보여 주는 것",
  "gloss_ko": "먼저 오는 신호",
  "level": {
   "code": "L9",
-  "name": "토플 114~120점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "하늘이 갑자기 어두워지고 먹구름이 몰려와. 비는 아직 한 방울도 안 왔어.",
   "그래도 다들 알지. 아, 곧 쏟아지겠구나.",
   "이렇게 어떤 일보다 먼저 나타나서 그 일이 곧 온다고 보여 주는 게 herald야. 첫 벚꽃이 봄을 알릴 때처럼 좋은 일에도 쓰고.",
   "그 일을 일으키는 원인도, 다 끝난 뒤에 남은 흔적도 아니야. 먼저 와서 보여 주기만 하는 거야."
  ],
+ "explanation_for_kids": null,
  "scene": "비 오기 전에 몰려오는 먹구름",
  "examples": [
   {

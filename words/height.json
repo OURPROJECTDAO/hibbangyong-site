@@ -11,25 +11,31 @@
  "word": "height",
  "slug": "height",
  "url": "https://hibbangyong.com/words/height/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "높이 — 바닥에서 꼭대기까지 위로 얼마나 큰지, 키가 얼마나 큰지 하는 거야.",
  "gloss_ko": "높이",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "건강검진 때 키 재는 기계에 등 펴고 서잖아.",
+  "머리 꼭대기가 바닥에서 위로 얼마나 올라갔나, 그걸 재는 거야.",
+  "나무도, 산도, 높은 건물도 똑같아 — 바닥부터 꼭대기까지 위로 얼마만큼인지.",
+  "옆으로 긴 거 말고, 위로 얼마나 높은지. 그게 height야."
+ ],
+ "explanation_for_kids": [
   "동생이랑 벽에 등 대고 서서 누가 더 큰지 재본 적 있지?",
   "머리 꼭대기가 바닥에서 위로 얼마나 올라갔나, 그걸 재는 거야.",
   "나무도, 산도, 쌓아올린 블록 탑도 똑같아 — 바닥부터 꼭대기까지 위로 얼마만큼인지.",
   "옆으로 긴 거 말고, 위로 얼마나 높은지. 그게 height야."
  ],
- "scene": "동생과 벽에 등 대고 키 재보기",
+ "scene": "건강검진에서 키 재기",
  "examples": [
   {
-   "en": "We held up a ruler to find the height of my sunflower.",
-   "ko": "우리는 자를 대고 내 해바라기 키를 재 봤어."
+   "en": "I checked the height of the desk before I bought it.",
+   "ko": "책상 사기 전에 높이부터 확인했어."
   }
  ],
  "quiz": [
@@ -55,7 +61,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/height.webp",
-  "alt": "동생과 벽에 등 대고 키 재보기",
+  "alt": "건강검진에서 키 재기",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

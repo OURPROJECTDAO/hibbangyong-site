@@ -11,25 +11,26 @@
  "word": "pretend",
  "slug": "pretend",
  "url": "https://hibbangyong.com/words/pretend/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "~인 척하다 — 사실이 아닌 줄 알면서 그런 것처럼 굴다",
  "gloss_ko": "~인 척하다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "진짜는 속상한데, 아무렇지 않은 얼굴로 씩 웃어 본 적 있지?",
   "속은 아닌데 겉으로만 그런 것처럼 한 거야.",
   "재미로도 해. 소파에 앉아서 배 젓는 사람인 척, 팔을 슥슥 저어 보고.",
   "남 하는 걸 그대로 따라 하는 거랑은 달라. 아닌 줄 알면서 그런 것처럼 구는 것, 그게 pretend야."
  ],
+ "explanation_for_kids": null,
  "scene": "속상한데 아무렇지 않은 얼굴로 웃기",
  "examples": [
   {
-   "en": "I sat on the sofa and pretended I was rowing a boat.",
-   "ko": "소파에 앉아서 배를 젓는 척했어."
+   "en": "I pretend to be busy when my boss walks by.",
+   "ko": "상사가 지나가면 나는 바쁜 척해."
   }
  ],
  "quiz": [

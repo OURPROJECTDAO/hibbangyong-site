@@ -11,25 +11,26 @@
  "word": "soil",
  "slug": "soil",
  "url": "https://hibbangyong.com/words/soil/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "흙 — 땅을 이루는, 손으로 파면 부슬부슬 잡히는 갈색 가루",
  "gloss_ko": "흙",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "손으로 땅을 쭉 파 봐. 손톱 밑에 끼는 그 갈색 가루 있지?",
   "손에 쥐면 부슬부슬하고, 비가 오면 질척질척해지기도 해.",
   "나무랑 풀은 여기에 뿌리를 콕 박고 물이랑 밥을 빨아먹거든.",
   "발밑 어디에나 깔린 이 갈색 가루, 이게 soil이야."
  ],
+ "explanation_for_kids": null,
  "scene": "손으로 땅을 파서 갈색 흙을 한 줌 쥐는 장면",
  "examples": [
   {
-   "en": "I dug a hole in the soil and found a wiggly worm.",
-   "ko": "흙에 구멍을 팠더니 꿈틀거리는 지렁이가 나왔어."
+   "en": "I put fresh soil in the pots on my balcony.",
+   "ko": "베란다 화분에 새 흙을 담았어."
   }
  ],
  "quiz": [

@@ -11,25 +11,26 @@
  "word": "ban",
  "slug": "ban",
  "url": "https://hibbangyong.com/words/ban/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "금지 — 다 같이 지켜야 하는 규칙으로 '이건 하면 안 돼' 하고 딱 막아 놓은 것.",
  "gloss_ko": "금지",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "학교에서 딱 정했어. '이제부터 여기선 껌 씹기 금지!'",
   "친구 한 명이 '하지 마' 하고 말리는 거랑은 달라.",
   "다 같이 지켜야 하는 규칙으로, 아예 못 하게 막아 버리는 거거든.",
   "그게 ban이야."
  ],
+ "explanation_for_kids": null,
  "scene": "학교가 껌 씹기를 규칙으로 막은 금지",
  "examples": [
   {
-   "en": "Our school made a ban on chewing gum.",
-   "ko": "우리 학교가 껌 씹기를 못 하게 막았어."
+   "en": "Our office has a ban on smoking.",
+   "ko": "우리 회사는 담배 피우는 걸 금지하고 있어."
   }
  ],
  "quiz": [

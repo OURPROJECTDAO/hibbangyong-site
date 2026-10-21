@@ -11,25 +11,31 @@
  "word": "corridor",
  "slug": "corridor",
  "url": "https://hibbangyong.com/words/corridor/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "복도 — 좁고 길게 쭉 뻗은 길. 머무는 곳이 아니라 이쪽에서 저쪽으로 지나가는 길",
  "gloss_ko": "복도",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "방문 열고 나오면, 양옆에 문이 줄줄이 나 있는 길이 쭉 뻗어 있잖아.",
+  "거긴 머물라고 만든 데가 아니야. 저쪽으로 가라고 낸 길이거든.",
+  "그래서 방이랑 달라. 방은 들어가서 지내는 곳, 여긴 건너가라고 낸 곳이야.",
+  "건물 안만 그런 것도 아니야. 숲이랑 숲 사이를 좁고 길게 이어 놓으면, 동물들이 그 길로 건너다녀. 좁고 길게 뻗은 '지나가는 길'이면, 그게 corridor야."
+ ],
+ "explanation_for_kids": [
   "교실 문 열고 나오면, 양옆에 문이 줄줄이 나 있는 길이 쭉 뻗어 있잖아.",
   "거긴 머물라고 만든 데가 아니야. 저쪽으로 가라고 낸 길이거든.",
   "그래서 교실이랑 달라. 교실은 들어가서 지내는 곳, 여긴 건너가라고 낸 곳이야.",
   "건물 안만 그런 것도 아니야. 숲이랑 숲 사이를 좁고 길게 이어 놓으면, 동물들이 그 길로 건너다녀. 좁고 길게 뻗은 '지나가는 길'이면, 그게 corridor야."
  ],
- "scene": "교실 문을 열고 나오면 양옆에 문이 늘어선 학교 복도",
+ "scene": "방문을 열고 나오면 양옆에 문이 늘어선 건물 복도",
  "examples": [
   {
-   "en": "I walked through the corridor and knocked on the last door.",
-   "ko": "나는 복도를 지나가서 맨 끝 문을 두드렸어."
+   "en": "I walked down the long corridor to the meeting room.",
+   "ko": "긴 복도를 따라 회의실까지 걸어갔어."
   }
  ],
  "quiz": [
@@ -57,7 +63,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/corridor.webp",
-  "alt": "교실 문을 열고 나오면 양옆에 문이 늘어선 학교 복도",
+  "alt": "방문을 열고 나오면 양옆에 문이 늘어선 건물 복도",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

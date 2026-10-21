@@ -11,38 +11,39 @@
  "word": "duplicate",
  "slug": "duplicate",
  "url": "https://hibbangyong.com/words/duplicate/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "사본 — 원래 것과 똑같은 또 하나",
  "gloss_ko": "사본",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "엄마가 현관 열쇠를 잃어버릴까 봐 열쇠 가게에서 똑같은 걸 하나 더 만들어 왔어. 그게 duplicate야.",
   "쓸모 있을 때만 그런 게 아니야. 스티커를 모으다 이미 있는 게 또 나오면, 남아서 곤란한 그 한 장도 duplicate야.",
   "필요해서 만든 거든 실수로 겹친 거든 상관없어. 원래 것과 똑같기만 하면 돼.",
   "속이려고 만든 가짜나, 닮기만 하고 어딘가 다른 거랑은 달라."
  ],
+ "explanation_for_kids": null,
  "scene": "엄마가 열쇠 가게에서 현관 열쇠를 똑같이 하나 더 만들어 옴",
  "examples": [
   {
-   "en": "My photo folder was full of duplicates, so I deleted them.",
-   "ko": "사진첩에 똑같은 사진이 겹쳐서 잔뜩 있길래 싹 지웠어."
+   "en": "I found a duplicate of my resume, so I deleted it.",
+   "ko": "이력서 파일이 똑같은 게 하나 더 있길래 지웠어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "선생님이 교실 벽에 붙은 시간표를 복사기로 똑같이 한 장 더 뽑아서 사물함 문에도 붙이셨어. 벽에 원래 있던 시간표와 사물함에 새로 붙인 시간표가 있는데, 사물함에 새로 붙인 그 시간표는 'duplicate'일까?",
+   "question": "점장님이 매장 벽에 붙은 근무표를 복사기로 똑같이 한 장 더 뽑아서 사물함 문에도 붙이셨어. 그럼 사물함에 붙인 근무표는 'duplicate'일까?",
    "choices": [
     "응, duplicate 맞아",
     "아니, duplicate 아니야"
    ],
    "answer_index": 0,
    "answer": "응, duplicate 맞아",
-   "why": "맞아! 사물함에 붙은 시간표는 벽에 원래 있던 시간표를 복사기로 똑같이 한 장 더 뽑은 거잖아. 원래 것과 똑같은 또 하나니까 바로 그게 duplicate인 거야."
+   "why": "맞아! 사물함에 붙은 근무표는 벽에 원래 있던 근무표를 복사기로 똑같이 한 장 더 뽑은 거잖아. 원래 것과 똑같은 또 하나니까 바로 그게 duplicate인 거야."
   }
  ],
  "synonyms": [

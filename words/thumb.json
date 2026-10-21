@@ -11,23 +11,24 @@
  "word": "thumb",
  "slug": "thumb",
  "url": "https://hibbangyong.com/words/thumb/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "엄지손가락 — 손에서 가장 굵고 짧아서 '따봉' 할 때 위로 치켜드는 손가락",
  "gloss_ko": "엄지손가락",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림에서 위로 쭉 올라온 손가락이 thumb이에요. 다섯 손가락 중에서 가장 굵고 짧아요.",
   "연필을 잡거나 '최고'라고 표시할 때 바로 이 손가락을 써요."
  ],
+ "explanation_for_kids": null,
  "scene": "다른 네 손가락은 말아 쥐고 엄지손가락만 위로 쭉 치켜든 손 — '따봉' 자세로 엄지를 주인공으로 부각",
  "examples": [
   {
-   "en": "She held up her thumb to show that everything was okay.",
-   "ko": "다 괜찮다고 엄지손가락을 척 치켜들었어."
+   "en": "I burned my thumb on a hot pan at the café.",
+   "ko": "카페에서 뜨거운 팬에 엄지손가락을 데었어."
   }
  ],
  "quiz": [

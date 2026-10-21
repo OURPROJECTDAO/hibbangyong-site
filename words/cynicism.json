@@ -11,25 +11,31 @@
  "word": "cynicism",
  "slug": "cynicism",
  "url": "https://hibbangyong.com/words/cynicism/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "냉소 — 남이 좋은 말이나 행동을 해도 '결국 다 자기 이익 때문이겠지' 하고 믿지 않는 태도",
  "gloss_ko": "냉소(속셈 의심)",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "구청장 후보가 '공원 늘릴게' 하면 '표 얻으려고 하는 말이지' 하고 넘기는 사람 있지.",
+  "친구가 봉사 가도 '스펙 때문이겠지', 광고가 착한 척해도 '팔려고 그러는 거지'.",
+  "사람이 좋은 일을 해도 그 뒤엔 늘 자기 이익이 숨어 있다고 믿는 마음, 그게 cynicism이야.",
+  "일이 잘 안 될 거라고 걱정하는 비관이랑은 달라. 일이 아니라 사람 속마음을 못 믿는 거야."
+ ],
+ "explanation_for_kids": [
   "반장 후보가 '급식 바꿀게' 하면 '표 얻으려고 하는 말이지' 하고 넘기는 애 있지.",
   "친구가 봉사 가도 '생기부 때문이겠지', 광고가 착한 척해도 '팔려고 그러는 거지'.",
   "사람이 좋은 일을 해도 그 뒤엔 늘 자기 이익이 숨어 있다고 믿는 마음, 그게 cynicism이야.",
   "일이 잘 안 될 거라고 걱정하는 비관이랑은 달라. 일이 아니라 사람 속마음을 못 믿는 거야."
  ],
- "scene": "반장 후보의 급식 공약을 표 얻으려는 말로 보는 학생",
+ "scene": "구청장 후보의 공원 공약을 표 얻으려는 말로 보는 사람",
  "examples": [
   {
-   "en": "After the class president broke his promise again, my cynicism grew.",
-   "ko": "반장이 또 약속을 안 지키니까, '어차피 다 말뿐이지' 하는 내 냉소가 더 심해졌어."
+   "en": "After my landlord broke his promise again, my cynicism only grew.",
+   "ko": "집주인이 또 약속을 안 지키니까, '어차피 말뿐이지' 하는 냉소만 더 커졌어."
   }
  ],
  "quiz": [

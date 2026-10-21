@@ -11,15 +11,21 @@
  "word": "bony",
  "slug": "bony",
  "url": "https://hibbangyong.com/words/bony/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "앙상한 — 살이 적어서 뼈 모양이 겉으로 드러나 보이는",
  "gloss_ko": "뼈가 드러난",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "키 큰 친구가 반바지를 입으니까 무릎뼈가 동그랗게 튀어나와 보이더라.",
+  "그 자리에 살이 적어서 뼈 모양이 겉으로 보이는 것, 그걸 bony라고 해.",
+  "아픈 것과는 상관없어. 할아버지 손, 마른 길고양이 등, 누구 팔꿈치든 뼈 모양이 보이면 다 bony야.",
+  "뼈가 크고 튼튼하다는 말이 아니야. 몸 전체가 날씬한지보다는 그 부분에 뼈 모양이 보이는지가 중요해."
+ ],
+ "explanation_for_kids": [
   "키가 갑자기 쑥 큰 친구가 반바지를 입으면 무릎뼈가 동그랗게 튀어나와 보이지?",
   "그 자리에 살이 적어서 뼈 모양이 겉으로 보이는 것, 그걸 bony라고 해.",
   "아픈 것과는 상관없어. 할아버지 손, 마른 길고양이 등, 누구 팔꿈치든 뼈 모양이 보이면 다 bony야.",
@@ -28,8 +34,8 @@
  "scene": "반바지 아래로 무릎뼈가 튀어나와 보이는 키 큰 친구",
  "examples": [
   {
-   "en": "My little brother hugged me with his bony arms.",
-   "ko": "내 남동생이 뼈가 앙상한 팔로 나를 꼭 안아 줬어."
+   "en": "The stray cat outside my apartment looks really bony.",
+   "ko": "우리 집 앞 길고양이가 너무 앙상해 보여."
   }
  ],
  "quiz": [

@@ -11,21 +11,27 @@
  "word": "catering",
  "slug": "catering",
  "url": "https://hibbangyong.com/words/catering/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "출장 요리 — 행사나 단체가 먹을 음식을 미리 맞춰 준비해서 대 주는 일",
  "gloss_ko": "출장 요리",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "우리 회사 송년회는 회사 강당에서 했어. 음식은 한 업체가 전부 맡았어.",
+  "몇십 명이 먹을 양을 미리 맞춰서 만들어 오고, 차려 놓는 것까지 했어.",
+  "결혼식, 회의, 비행기 기내식, 매일 나오는 단체 점심처럼 여럿이 먹을 음식을 맡아서 대 주는 일이 다 catering이야.",
+  "내가 먹을 걸 골라 시키는 배달이랑은 달라. 먹을 사람들 전체 몫을 미리 맡기는 거야."
+ ],
+ "explanation_for_kids": [
   "아빠 회사 송년회는 회사 강당에서 했어. 음식은 한 업체가 전부 맡았어.",
   "몇십 명이 먹을 양을 미리 맞춰서 만들어 오고, 차려 놓는 것까지 했어.",
   "결혼식, 회의, 비행기 기내식, 매일 나오는 단체 점심처럼 여럿이 먹을 음식을 맡아서 대 주는 일이 다 catering이야.",
   "내가 먹을 걸 골라 시키는 배달이랑은 달라. 먹을 사람들 전체 몫을 미리 맡기는 거야."
  ],
- "scene": "아빠 회사 송년회 강당에서 한 업체가 음식을 전부 맡아 만들어 오고 차림",
+ "scene": "우리 회사 송년회 강당에서 한 업체가 음식을 전부 맡아 만들어 오고 차림",
  "examples": [
   {
    "en": "The catering for my sister's wedding was great.",
@@ -61,7 +67,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/catering.webp",
-  "alt": "아빠 회사 송년회 강당에서 한 업체가 음식을 전부 맡아 만들어 오고 차림",
+  "alt": "우리 회사 송년회 강당에서 한 업체가 음식을 전부 맡아 만들어 오고 차림",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

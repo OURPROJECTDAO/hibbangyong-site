@@ -11,31 +11,32 @@
  "word": "thrill",
  "slug": "thrill",
  "url": "https://hibbangyong.com/words/thrill/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "가슴이 확 뛰고 온몸이 찌릿할 만큼 신나게 만들다",
  "gloss_ko": "가슴 뛰게 신나게 하다",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "롤러코스터가 꼭대기에서 뚝! 하고 떨어지는 순간 있잖아. 가슴이 쿵 하고 뛰고 등줄기가 찌릿해지지. 그렇게 만드는 게 thrill 이야.",
   "무서운 것만 그런 건 아니야. 내 이름이 일등으로 불렸을 때도 똑같이 가슴이 확 뛰거든.",
   "그냥 기분 좋은 거랑은 달라. 빙긋 웃고 마는 건 thrill 이 아니야.",
   "심장이 먼저 쿵 뛰게 만드는 것, 그게 thrill 이야."
  ],
+ "explanation_for_kids": null,
  "scene": "롤러코스터 꼭대기에서 뚝 떨어지는 순간",
  "examples": [
   {
-   "en": "The big drop on the roller coaster thrilled me so much that I wanted to ride it again.",
-   "ko": "롤러코스터가 확 떨어질 때 너무 짜릿해서 또 타고 싶었어."
+   "en": "The first drop on this roller coaster will really thrill you.",
+   "ko": "이 롤러코스터는 처음 확 떨어질 때 진짜 가슴이 뛸 거야."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "체육 시간에 반 대항 줄다리기 결승을 했어. 마지막에 우리 반이 줄을 확 끌어당겨서 이겼어. 이 일이 나를 'thrill' 했다고 말할 수 있을까?",
+   "question": "체육대회에서 팀 대항 줄다리기 결승을 했어. 마지막에 우리 팀이 줄을 확 끌어당겨서 이겼어. 이 일이 나를 'thrill' 했다고 말할 수 있을까?",
    "choices": [
     "응, thrill 맞아",
     "아니, thrill 아니야"

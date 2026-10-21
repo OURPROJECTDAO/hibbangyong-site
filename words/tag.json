@@ -11,23 +11,24 @@
  "word": "tag",
  "slug": "tag",
  "url": "https://hibbangyong.com/words/tag/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "꼬리표 — 물건에 매달아 이름이나 가격을 적어 두는 작은 종이",
  "gloss_ko": "꼬리표",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "물건에 끈으로 매달아 놓은 작고 얇은 종이 조각이에요.",
   "새로 산 옷이나 인형에 가격이 적힌 이 종이가 달려 있곤 해요."
  ],
- "scene": "끈이 달린 종이 꼬리표(태그) 한 장 — 물건에 매다는 라벨. 글자 없는 빈 면으로 그림.",
+ "explanation_for_kids": null,
+ "scene": "끈이 달린 종이 꼬리표(태그) 한 장",
  "examples": [
   {
-   "en": "Mom checked the tag to see the price of the shirt.",
-   "ko": "엄마가 셔츠 값을 보려고 꼬리표를 확인했어."
+   "en": "I checked the tag to see how much the jacket was.",
+   "ko": "재킷이 얼마인지 보려고 꼬리표를 확인했어."
   }
  ],
  "quiz": [
@@ -57,7 +58,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/tag.webp",
-  "alt": "끈이 달린 종이 꼬리표(태그) 한 장 — 물건에 매다는 라벨. 글자 없는 빈 면으로 그림.",
+  "alt": "끈이 달린 종이 꼬리표(태그) 한 장",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

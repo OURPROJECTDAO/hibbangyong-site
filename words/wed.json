@@ -11,20 +11,21 @@
  "word": "wed",
  "slug": "wed",
  "url": "https://hibbangyong.com/words/wed/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "결혼하다 — 두 사람이 남편과 아내가 되다(주로 신문 기사나 이야기 글에서 쓰는 말)",
  "gloss_ko": "결혼하다",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "동화 끝에 '둘은 결혼해서 행복하게 살았대' 나오잖아.",
   "영어 동화나 뉴스 기사에서는 그 '결혼하다'를 wed라는 짧은 단어로 자주 써.",
   "뜻은 marry랑 같아. 식을 크게 하든 작게 하든, 두 사람이 부부가 되면 wed야.",
   "반지만 주고받은 약혼이나 그냥 사귀는 건 아직 wed가 아니야."
  ],
+ "explanation_for_kids": null,
  "scene": "동화 마지막 장면 '둘은 결혼해서 행복하게 살았다'",
  "examples": [
   {

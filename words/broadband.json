@@ -11,15 +11,21 @@
  "word": "broadband",
  "slug": "broadband",
  "url": "https://hibbangyong.com/words/broadband/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "초고속 인터넷 — 집이나 건물까지 들어와서 많은 자료를 한꺼번에 빠르게 주고받게 해 주는 인터넷 연결",
  "gloss_ko": "초고속 인터넷",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "옛날엔 사진 한 장 받는 데도 한참 기다렸대. 지금은 영상도 바로 틀어지지.",
+  "빠르고 굵은 인터넷 연결이 들어와 있어서 그래. 그 연결을 broadband라고 해.",
+  "집이든 회사든 시골 마을이든, 선으로 오든 전파로 오든 다 broadband야.",
+  "와이파이랑 헷갈리지 마. 와이파이는 집 안에서 나눠 쓰는 방법이고, broadband는 그 집까지 들어오는 연결 자체야."
+ ],
+ "explanation_for_kids": [
   "옛날엔 사진 한 장 받는 데도 한참 기다렸대. 지금은 영상도 바로 틀어지지.",
   "빠르고 굵은 인터넷 연결이 들어와 있어서 그래. 그 연결을 broadband라고 해.",
   "집이든 학교든 시골 마을이든, 선으로 오든 전파로 오든 다 broadband야.",

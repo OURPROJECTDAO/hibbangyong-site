@@ -11,31 +11,32 @@
  "word": "dimension",
  "slug": "dimension",
  "url": "https://hibbangyong.com/words/dimension/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "차원(재거나 따지는 방향 하나하나) — 무언가를 재거나 나눠서 따져볼 수 있는 '방향·갈래' 하나하나",
  "gloss_ko": "재는 방향·갈래",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "네모난 상자를 떠올려 봐.",
   "가로로 한 번, 세로로 한 번, 위아래로 한 번 — 이렇게 잴 수 있는 방향이 세 갈래지? 이 방향 하나하나가 dimension이야.",
   "꼭 자로 재는 것만은 아니야. 게임 캐릭터를 힘, 빠르기, 똑똑함처럼 따로따로 따져볼 때도, 그 갈래 하나하나가 다 dimension이거든.",
   "따로 재거나 따질 수 있는 방향 하나, 그게 dimension이야."
  ],
+ "explanation_for_kids": null,
  "scene": "상자를 가로·세로·높이 세 방향으로 재는 장면",
  "examples": [
   {
-   "en": "This game rates each hero on three dimensions: how strong, how fast, and how smart they are.",
-   "ko": "이 게임은 영웅 하나를 세 가지 방향으로 점수 매겨. 얼마나 센지, 얼마나 빠른지, 얼마나 똑똑한지, 이렇게 말이야."
+   "en": "In this game, every hero gets a score for each dimension: strength, speed, and smarts.",
+   "ko": "이 게임에서는 영웅마다 힘, 속도, 머리, 이렇게 갈래별로 점수가 매겨져."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "색연필 한 자루를 설명하는데 '겉이 온통 노란색이야' 딱 이 말만 했어. 이 노란색이 'dimension'이야?",
+   "question": "연필 한 자루를 설명하는데 '겉이 온통 노란색이야' 딱 이 말만 했어. 이 노란색이 'dimension'이야?",
    "choices": [
     "응, dimension 맞아",
     "아니, dimension 아니야"

@@ -11,31 +11,32 @@
  "word": "tour",
  "slug": "tour",
  "url": "https://hibbangyong.com/words/tour/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "여러 곳을 차례로 돌아다니며 구경하는 것 (한 곳 안의 여기저기를 도는 것도 돼)",
  "gloss_ko": "이곳저곳 구경",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "박물관에 갔다고 해봐. 안내하는 아저씨가 '이쪽으로 오세요~' 하면서 이 방 저 방 데리고 다녀.",
   "한 군데만 딱 보고 마는 게 아니야. 여기 봤다가 저기 봤다가, 이곳저곳을 차례로 옮겨 다니면서 둘러보는 거거든.",
   "새로 이사 간 집을 방마다 구경시켜 주는 것도, 큰 도시를 이곳저곳 돌아보는 것도 다 이거야.",
   "이렇게 여기저기를 차례로 돌면서 둘러보는 게 tour야."
  ],
- "scene": "박물관에서 안내인 따라 이 방 저 방 옮겨 다니며 둘러보는 장면 (child 앵커)",
+ "explanation_for_kids": null,
+ "scene": "박물관에서 안내인 따라 이 방 저 방 옮겨 다니며 둘러보는 장면",
  "examples": [
   {
-   "en": "We took a tour of the zoo and saw the lions, the bears, and the snakes.",
-   "ko": "우리는 동물원을 한 바퀴 돌면서 사자랑 곰이랑 뱀을 봤어."
+   "en": "On my first day at work, my manager gave me a tour of the office.",
+   "ko": "출근 첫날에 팀장님이 사무실을 쭉 구경시켜 줬어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "삼촌이 우리를 배 만드는 공장에 데려갔어. 나무를 자르는 방을 보고, 그다음엔 페인트를 칠하는 방을 보고, 마지막엔 다 만든 배가 놓인 마당까지 가 봤어. 이게 'tour'야?",
+   "question": "선배가 우리를 배 만드는 공장에 데려갔어. 나무를 자르는 방을 보고, 그다음엔 페인트를 칠하는 방을 보고, 마지막엔 다 만든 배가 놓인 마당까지 가 봤어. 이게 'tour'야?",
    "choices": [
     "응, tour 맞아",
     "아니, tour 아니야"
@@ -58,7 +59,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/tour.webp",
-  "alt": "박물관에서 안내인 따라 이 방 저 방 옮겨 다니며 둘러보는 장면 (child 앵커)",
+  "alt": "박물관에서 안내인 따라 이 방 저 방 옮겨 다니며 둘러보는 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

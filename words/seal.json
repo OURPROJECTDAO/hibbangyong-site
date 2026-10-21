@@ -11,23 +11,24 @@
  "word": "seal",
  "slug": "seal",
  "url": "https://hibbangyong.com/words/seal/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "바다표범 — 지느러미처럼 생긴 앞발로 물속을 헤엄치는 바다 동물",
  "gloss_ko": "바다표범",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 매끈한 회색 동물은 바다에서 사는 seal이에요.",
   "동물원이나 수족관에서 앞발을 모으고 앉아 있거나 헤엄치는 모습을 본 적 있을 거예요."
  ],
+ "explanation_for_kids": null,
  "scene": "매끈한 회색 바다표범 한 마리가 통통한 몸으로 앉아 지느러미 앞발을 모으고 있는 모습(동물 seal)",
  "examples": [
   {
-   "en": "The seal swam in the cold water and climbed onto the ice.",
-   "ko": "바다표범이 차가운 물에서 헤엄치다가 얼음 위로 올라갔어."
+   "en": "At the aquarium, a seal swam right up to the glass.",
+   "ko": "아쿠아리움에서 바다표범이 유리 바로 앞까지 헤엄쳐 왔어."
   }
  ],
  "quiz": [

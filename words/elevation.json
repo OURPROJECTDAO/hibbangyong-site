@@ -11,25 +11,26 @@
  "word": "elevation",
  "slug": "elevation",
  "url": "https://hibbangyong.com/words/elevation/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "고도 — 바다 수면을 0으로 놓고 잰 땅이나 장소의 높이",
  "gloss_ko": "해발 높이",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "지도 앱에서 어떤 장소를 누르면 '해발 30m' 같은 숫자가 뜰 때 있지?",
   "바닷물 높이를 0으로 놓고, 그 땅이 거기서 얼마나 위에 있는지 잰 거야. 그게 elevation이야.",
   "높은 산에만 있는 말이 아니야. 바닷가 마을은 elevation이 낮고 산속 마을은 높아. 땅이라면 어디든 다 있어.",
   "건물이 바닥에서 꼭대기까지 몇 m냐 하는 건물 자체의 키랑은 달라. 그 땅이 바다보다 얼마나 올라와 있느냐를 재는 거야."
  ],
+ "explanation_for_kids": null,
  "scene": "지도 앱에서 장소를 누르면 뜨는 해발 숫자",
  "examples": [
   {
-   "en": "Our town is by the sea and has a low elevation, so heavy rain can flood the streets.",
-   "ko": "우리 동네는 바닷가라 고도가 낮아서, 비가 많이 오면 길이 물에 잠기기도 해."
+   "en": "The hotel is at a high elevation, so I packed a warm jacket.",
+   "ko": "호텔이 해발 높은 곳에 있어서 따뜻한 겉옷을 챙겼어."
   }
  ],
  "quiz": [

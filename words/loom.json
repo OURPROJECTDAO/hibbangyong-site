@@ -11,21 +11,27 @@
  "word": "loom",
  "slug": "loom",
  "url": "https://hibbangyong.com/words/loom/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "크고 어렴풋하게 떡하니 나타나다 — 커다란 게 흐릿하게 앞에 버티고 있거나, 걱정되는 일이 코앞까지 다가와 있는 것",
  "gloss_ko": "크게 어렴풋이 보이다",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "안개 낀 아침, 출근길 앞에 커다란 뭔가가 흐릿하게 버티고 서 있어.",
+  "뭔지 또렷하게 보이지는 않는데, 크고 가까워서 괜히 마음이 눌려. 그게 loom이야.",
+  "눈앞에 있는 물건에만 쓰는 말이 아니야. 다음 주 면접처럼 곧 닥칠 걱정거리도 loom해.",
+  "그냥 '나타나다'랑은 달라. 크고 무겁게 앞을 막듯 다가와 있는 느낌이 핵심이야."
+ ],
+ "explanation_for_kids": [
   "안개 낀 아침, 등굣길 앞에 커다란 뭔가가 흐릿하게 버티고 서 있어.",
   "뭔지 또렷하게 보이지는 않는데, 크고 가까워서 괜히 마음이 눌려. 그게 loom이야.",
   "눈앞에 있는 물건에만 쓰는 말이 아니야. 다음 주 기말고사처럼 곧 닥칠 걱정거리도 loom해.",
   "그냥 '나타나다'랑은 달라. 크고 무겁게 앞을 막듯 다가와 있는 느낌이 핵심이야."
  ],
- "scene": "안개 낀 등굣길 앞에 흐릿하게 버티고 선 커다란 형체",
+ "scene": "안개 낀 출근길 앞에 흐릿하게 버티고 선 커다란 형체",
  "examples": [
   {
    "en": "A huge dark shape loomed out of the fog, and I stopped walking.",
@@ -81,7 +87,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/loom.webp",
-  "alt": "안개 낀 등굣길 앞에 흐릿하게 버티고 선 커다란 형체",
+  "alt": "안개 낀 출근길 앞에 흐릿하게 버티고 선 커다란 형체",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

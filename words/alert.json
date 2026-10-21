@@ -11,25 +11,26 @@
  "word": "alert",
  "slug": "alert",
  "url": "https://hibbangyong.com/words/alert/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "경보 — 곧 위험한 일이 올지 모르니 정신 차리고 대비하라고 주는 알림(그리고 그렇게 바짝 차린 상태)",
  "gloss_ko": "경보",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "하늘이 시커메지더니 알림이 삐- 하고 떴어. 태풍 온다고, 미리 조심하래.",
   "일이 다 끝난 뒤에 알려주는 소식이 아니야. 아직 안 왔는데 올지도 모르니까 대비하라고 주는 거거든?",
   "그 뒤로 다들 눈 크게 뜨고 바짝 정신 차린 상태, 그것도 이 말로 불러.",
   "이게 alert야."
  ],
+ "explanation_for_kids": null,
  "scene": "하늘이 어두워지며 태풍 온다는 알림이 뜬 순간",
  "examples": [
   {
-   "en": "Dad got an alert about the storm, so we closed all the windows.",
-   "ko": "아빠가 태풍 경보를 받아서 우리는 창문을 다 닫았어."
+   "en": "I got a storm alert on my phone, so I closed all the windows.",
+   "ko": "휴대폰으로 태풍 경보가 와서 창문을 다 닫았어."
   }
  ],
  "quiz": [

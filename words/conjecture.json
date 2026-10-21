@@ -11,31 +11,37 @@
  "word": "conjecture",
  "slug": "conjecture",
  "url": "https://hibbangyong.com/words/conjecture/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "추측 — 확실한 증거 없이 '아마 이럴 거야' 하고 세운 생각",
  "gloss_ko": "증명 안 된 추측",
  "level": {
   "code": "L9",
-  "name": "토플 114~120점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "사무실 화분이 시들었어. 누가 '물을 너무 많이 줘서 그런 거 아냐?' 했어.",
+  "그럴듯한 말이야. 근데 아직 아무도 확인해 보지 않았어.",
+  "증거 없이 '아마 이럴 거야' 하고 세운 생각이 conjecture야. 맞을 수도 있고 틀릴 수도 있어.",
+  "수학자들이 백 년 넘게 못 푼 진지한 추측도 이렇게 불러. 증명되는 순간 더는 conjecture가 아니야."
+ ],
+ "explanation_for_kids": [
   "교실 화분이 시들었어. 누가 '물을 너무 많이 줘서 그런 거 아냐?' 했어.",
   "그럴듯한 말이야. 근데 아직 아무도 확인해 보지 않았어.",
   "증거 없이 '아마 이럴 거야' 하고 세운 생각이 conjecture야. 맞을 수도 있고 틀릴 수도 있어.",
   "수학자들이 백 년 넘게 못 푼 진지한 추측도 이렇게 불러. 증명되는 순간 더는 conjecture가 아니야."
  ],
- "scene": "교실 화분이 시든 이유를 두고 '물을 너무 줘서'라고 짐작하는 장면",
+ "scene": "사무실 화분이 시든 이유를 두고 '물을 너무 줘서'라고 짐작하는 장면",
  "examples": [
   {
-   "en": "The teacher said my answer was a good conjecture, but I still had to prove it.",
-   "ko": "선생님이 내 답이 꽤 괜찮은 추측이긴 한데, 그래도 증명은 해야 한대."
+   "en": "My professor said my answer was a good conjecture, but I still had to prove it.",
+   "ko": "교수님이 내 답이 꽤 괜찮은 추측이긴 한데, 그래도 증명은 해야 한대."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "운동장 벤치에 파란 우산이 하나 놓여 있어. 친구가 \"아마 옆 반 민수 우산일 거야\"라고 했어. 아직 아무도 민수한테 물어보지 않았고, 우산에 이름표도 없어. 친구의 이 생각은 'conjecture'일까?",
+   "question": "회사 휴게실 소파에 파란 우산이 하나 놓여 있어. 동료가 \"아마 옆 팀 민수 우산일 거야\"라고 했어. 아직 아무도 민수한테 물어보지 않았고, 우산에 이름표도 없어. 동료의 이 생각은 'conjecture'일까?",
    "choices": [
     "응, conjecture 맞아",
     "아니, conjecture 아니야"
@@ -64,7 +70,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/conjecture.webp",
-  "alt": "교실 화분이 시든 이유를 두고 '물을 너무 줘서'라고 짐작하는 장면",
+  "alt": "사무실 화분이 시든 이유를 두고 '물을 너무 줘서'라고 짐작하는 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

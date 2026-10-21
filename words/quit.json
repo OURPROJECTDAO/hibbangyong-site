@@ -11,20 +11,21 @@
  "word": "quit",
  "slug": "quit",
  "url": "https://hibbangyong.com/words/quit/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "그만두다 — 하던 일을 멈추고 딱 안 하는 거야.",
  "gloss_ko": "그만두다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "게임을 하다가 '나 이제 안 할래' 하고 딱 멈춰. 그럼 게임을 quit한 거야.",
   "꼭 게임만 아니야. 다니던 회사를 관둘 때도, 나쁜 버릇을 끊을 때도 quit이라고 해.",
   "잠깐 쉬었다 다시 하는 거랑은 달라. quit은 아예 안 하는 거거든.",
   "이게 quit이야."
  ],
+ "explanation_for_kids": null,
  "scene": "게임을 하다가 스스로 멈추는 장면",
  "examples": [
   {

@@ -11,20 +11,21 @@
  "word": "trek",
  "slug": "trek",
  "url": "https://hibbangyong.com/words/trek/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "고된 여정 — 멀고 힘들게, 주로 걸어서 오래 가는 길",
  "gloss_ko": "멀고 힘든 고된 여정",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "버스가 끊겨서 먼 역까지 두 시간을 걸어간 적 있어? 그런 길이 trek이야.",
   "꼭 산이나 모험일 필요는 없어. 가게가 너무 멀어서 한참 걸어야 하는 것도 trek이라고 해.",
   "핵심은 멀고, 힘들다는 거야. 저녁에 동네 한 바퀴 도는 산책은 trek이 아니야.",
   "그냥 여행(trip)이랑도 달라. 차 타고 편하게 가면 trip이지만, trek에는 고생이 따라와."
  ],
+ "explanation_for_kids": null,
  "scene": "버스가 끊겨 먼 역까지 두 시간 걸어가기",
  "examples": [
   {
@@ -35,14 +36,14 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "쉬는 시간에 서연이는 공책을 빌리려고 바로 옆 반 교실까지 열 걸음 정도 걸어갔다 왔어. 이 이동은 'trek'일까?",
+   "question": "쉬는 시간에 서연이는 펜을 빌리려고 바로 옆 팀 자리까지 열 걸음 정도 걸어갔다 왔어. 이 이동은 'trek'일까?",
    "choices": [
     "응, trek 맞아",
     "아니, trek 아니야"
    ],
    "answer_index": 1,
    "answer": "아니, trek 아니야",
-   "why": "맞아! 옆 반 교실까지 열 걸음이면 금방 다녀오고 힘들 것도 하나 없잖아. trek은 멀고 힘들어야 하는데 서연이가 옆 반에 다녀온 건 둘 다 아니라서 trek이 아닌 거야."
+   "why": "맞아! 옆 팀 자리까지 열 걸음이면 금방 다녀오고 힘들 것도 하나 없잖아. trek은 멀고 힘들어야 하는데 서연이가 옆 팀에 다녀온 건 둘 다 아니라서 trek이 아닌 거야."
   }
  ],
  "synonyms": [],

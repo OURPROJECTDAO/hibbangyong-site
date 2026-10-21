@@ -11,31 +11,32 @@
  "word": "desperate",
  "slug": "desperate",
  "url": "https://hibbangyong.com/words/desperate/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "너무 급해서 못 참는 — 뭐라도 해야겠다는 마음이 꽉 찬",
  "gloss_ko": "너무 급해서 뭐라도 하게 되는",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "오래 참다가 화장실 앞에 섰는데 문이 잠겼어. 발을 동동 굴러. 노크를 쾅쾅, 옆 칸까지 뛰어가.",
   "이때 마음이 딱 그거야. 그냥 원하는 게 아니라, 지금 아니면 안 되겠는 거. 참을 수가 없어서 뭐라도 하게 되는 거.",
   "좋은 일에도 써. 나쁜 일에도 써. 물 한 모금이 간절할 때도, 들키기 전에 도망치고 싶을 때도 똑같이 써.",
   "그냥 많이 갖고 싶은 거랑은 달라. 갖고 싶은 건 기다릴 수 있잖아. 이건 못 기다려. 그게 desperate야."
  ],
+ "explanation_for_kids": null,
  "scene": "잠긴 화장실 문 앞에서 발을 동동 구르는 순간",
  "examples": [
   {
-   "en": "The lost puppy was desperate to find its way home.",
-   "ko": "길 잃은 강아지는 집에 가는 길을 찾으려고 뭐든지 다 했어."
+   "en": "I was desperate to find a bathroom on the subway.",
+   "ko": "지하철에서 화장실이 너무 급해서 어떻게든 찾아야 했어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "수영장 물속에서 오래 버티기를 하던 형이 숨이 막혀 팔을 마구 휘저으며 물 밖으로 솟구쳐 올라 숨을 크게 들이켰어. 이 마음이 'desperate'야?",
+   "question": "수영장 물속에서 오래 버티기를 하던 친구가 숨이 막혀 팔을 마구 휘저으며 물 밖으로 솟구쳐 올라 숨을 크게 들이켰어. 이 마음이 'desperate'야?",
    "choices": [
     "응, desperate 맞아",
     "아니, desperate 아니야"

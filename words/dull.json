@@ -11,15 +11,21 @@
  "word": "dull",
  "slug": "dull",
  "url": "https://hibbangyong.com/words/dull/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "밋밋한 — 칼날처럼 날카롭지도, 색처럼 선명하지도, 이야기처럼 재미있지도 않고 흐리멍덩한",
  "gloss_ko": "밋밋한",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "가위로 종이를 자르려는데 안 잘리고 자꾸 접히기만 해. 날이 무뎌서 그래.",
+  "색깔도 그럴 수 있어. 쨍한 빨강이 아니라 흐리멍덩한 잿빛이면 밋밋하지?",
+  "이야기도 그래. 하나도 안 궁금하고 하품만 나오면 그것도 밋밋한 거야.",
+  "날카롭지도, 반짝이지도, 재미있지도 않은 거. 그게 dull이야."
+ ],
+ "explanation_for_kids": [
   "가위로 색종이를 자르려는데 안 잘리고 자꾸 접히기만 해. 날이 무뎌서 그래.",
   "색깔도 그럴 수 있어. 쨍한 빨강이 아니라 흐리멍덩한 잿빛이면 밋밋하지?",
   "이야기도 그래. 하나도 안 궁금하고 하품만 나오면 그것도 밋밋한 거야.",
@@ -28,8 +34,8 @@
  "scene": "무뎌서 종이가 안 잘리고 접히기만 하는 가위",
  "examples": [
   {
-   "en": "The long car trip felt dull, so we made up silly songs to stay awake.",
-   "ko": "차를 오래 타니 지루해서 안 졸리려고 웃긴 노래를 지어냈어."
+   "en": "The long drive was dull, so we sang songs to stay awake.",
+   "ko": "오래 운전하니까 지루해서 안 졸려고 노래를 불렀어."
   }
  ],
  "quiz": [

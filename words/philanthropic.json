@@ -11,25 +11,26 @@
  "word": "philanthropic",
  "slug": "philanthropic",
  "url": "https://hibbangyong.com/words/philanthropic/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "자선의 — 어려운 사람들이나 사회를 돕기 위해 돈이나 도움을 대가 없이 내놓는",
  "gloss_ko": "자선하는",
  "level": {
   "code": "L9",
-  "name": "토플 114~120점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "어떤 사업가가 아픈 사람들이 다닐 병원을 짓는 데 큰돈을 내놨어. 돌려받을 생각은 없어.",
   "이렇게 어려운 사람들이나 사회를 돕겠다고 돈이나 도움을 대가 없이 내놓는 걸 philanthropic하다고 해.",
   "가난한 사람만 받는 건 아냐. 박물관이나 과학 연구에 돈을 대 주는 것도 이렇게 불러.",
   "친구한테 돈 빌려주기나 내 가게 광고비 쓰기랑은 달라. 돌려받거나 내 이익을 챙기려고 쓰는 돈이 아니거든."
  ],
+ "explanation_for_kids": null,
  "scene": "사업가가 아픈 사람들이 다닐 병원 짓는 데 큰돈을 냄",
  "examples": [
   {
-   "en": "The new museum was built with money from a philanthropic family.",
-   "ko": "새 박물관은 어떤 집안이 자선으로 내놓은 돈으로 지어졌어."
+   "en": "My university library was built with money from a philanthropic family.",
+   "ko": "우리 대학 도서관은 자선 활동을 하는 한 집안이 낸 돈으로 지어졌어."
   }
  ],
  "quiz": [

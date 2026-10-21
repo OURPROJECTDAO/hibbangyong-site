@@ -11,25 +11,26 @@
  "word": "rough",
  "slug": "rough",
  "url": "https://hibbangyong.com/words/rough/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "거칠다 — 겉이 매끈하지 않고 우툴두툴한",
  "gloss_ko": "거칠다",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "오래된 나무 판자를 손으로 쓱 만졌는데, 하나도 안 매끈해.",
   "까끌까끌, 오돌토돌한 게 손바닥에 자꾸 걸려.",
   "돌멩이가 울퉁불퉁 박힌 흙길도 똑같아. 걸을 때 발밑이 고르지가 않지.",
   "이렇게 겉이 매끈하지 않고 우툴두툴한 게 rough야."
  ],
+ "explanation_for_kids": null,
  "scene": "오래된 나무 판자를 손으로 쓱 만지는 장면",
  "examples": [
   {
-   "en": "The old wooden fence felt rough under my hand.",
-   "ko": "낡은 나무 울타리는 손으로 만지니 까끌까끌했어."
+   "en": "The towels at the gym feel rough.",
+   "ko": "헬스장 수건은 만져 보면 거칠거칠해."
   }
  ],
  "quiz": [

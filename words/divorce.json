@@ -11,25 +11,26 @@
  "word": "divorce",
  "slug": "divorce",
  "url": "https://hibbangyong.com/words/divorce/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "이혼하다 — 결혼했던 두 사람이 이제 부부가 아니라고 정식으로 끝내는 것",
  "gloss_ko": "이혼하다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "결혼할 때 두 사람은 약속을 하거든? 이제부터 한 가족으로 살자, 하고.",
   "그 약속을 진짜로 끝내는 거야. 종이에 적고, 어른들 앞에서, 되돌리기 없이.",
   "싸우고 며칠 말 안 하는 거랑은 달라. 그건 다시 웃으면 그만이잖아.",
   "조용히 끝낼 수도 있어. 소리 지르는 사람이 없어도, 이제 부부가 아니라고 딱 정해지면 그게 divorce야."
  ],
+ "explanation_for_kids": null,
  "scene": "결혼할 때 한 약속을 종이에 적어 되돌리기 없이 끝내는 자리",
  "examples": [
   {
-   "en": "My aunt and uncle divorced last spring, but they both still come to my birthday.",
-   "ko": "이모랑 이모부는 지난봄에 이혼했지만 둘 다 내 생일엔 와."
+   "en": "My aunt and uncle decided to divorce last spring, but both still come to my birthday.",
+   "ko": "이모랑 이모부는 지난봄에 이혼하기로 했지만 둘 다 아직 내 생일엔 와."
   }
  ],
  "quiz": [

@@ -11,25 +11,26 @@
  "word": "detriment",
  "slug": "detriment",
  "url": "https://hibbangyong.com/words/detriment/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "손해, 해 — 어떤 일 때문에 다른 무언가가 보는 해(건강·성적·관계·자연·돈 다 되고, 앞으로 생길 해에도 씀)",
  "gloss_ko": "다른 쪽이 보는 해",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "새벽까지 폰 보면 그 순간은 재밌지. 근데 그 대가로 잠이랑 다음 날 컨디션이 깎여.",
   "이렇게 무언가 때문에 다른 쪽이 해를 보면, 그 해를 detriment라고 해.",
   "건강, 성적, 친구 관계, 자연, 돈까지 해를 볼 수 있는 거면 다 돼. 이미 본 해에도, 앞으로 볼 해에도 써.",
   "해를 끼친 행동 자체나 그 물건이 원래 가진 단점이랑은 달라. 그 일 때문에 다른 쪽이 보는 해를 말해."
  ],
+ "explanation_for_kids": null,
  "scene": "새벽까지 폰을 보다가 잠과 다음 날 컨디션이 깎임",
  "examples": [
   {
-   "en": "She studied all weekend, to the detriment of her friendships.",
-   "ko": "걔 주말 내내 공부만 하다가 친구 관계가 좀 망가졌어."
+   "en": "She worked overtime every day, to the detriment of her health.",
+   "ko": "걔 매일 야근하다가 건강을 해쳤어."
   }
  ],
  "quiz": [

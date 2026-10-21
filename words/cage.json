@@ -11,23 +11,24 @@
  "word": "cage",
  "slug": "cage",
  "url": "https://hibbangyong.com/words/cage/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "새장 — 새나 작은 동물을 가두어 기르는 창살 우리",
  "gloss_ko": "새장",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "창살로 둘러싸인 이 안에 새가 갇혀 있어요. 이렇게 새나 동물을 넣어 두는 창살 집을 cage라고 해요.",
   "동물원이나 애완동물 가게에서 새와 작은 동물을 넣어 둔 cage를 본 적이 있을 거예요."
  ],
+ "explanation_for_kids": null,
  "scene": "돔형 금속 새장 안에 작은 새 한 마리가 앉아 있는 전형적 새장 (cage=새장/우리)",
  "examples": [
   {
-   "en": "The little bird sat quietly inside the cage.",
-   "ko": "작은 새가 새장 안에 얌전히 앉아 있었어."
+   "en": "My roommate cleans her bird's cage every Sunday.",
+   "ko": "내 룸메이트는 일요일마다 새장을 청소해."
   }
  ],
  "quiz": [

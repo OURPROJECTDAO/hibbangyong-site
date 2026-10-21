@@ -11,29 +11,33 @@
  "word": "flag",
  "slug": "flag",
  "url": "https://hibbangyong.com/words/flag/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "깃발 — 깃대에 매달아 바람에 펄럭이는 천 한 장",
  "gloss_ko": "깃발",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "깃대 높이 매달려 바람에 펄럭이는 천 조각이에요.",
+  "경기장이나 큰 건물 앞에서 바람에 흔들리는 flag를 본 적이 있을 거예요."
+ ],
+ "explanation_for_kids": [
   "깃대 높이 매달려 바람에 펄럭이는 천 조각이에요.",
   "운동회나 학교 건물 앞에서 바람에 흔들리는 flag를 본 적이 있을 거예요."
  ],
  "scene": "깃대에 달려 바람에 펄럭이는 밝은 색 깃발 한 장(글자·국기 문양 없는 단색/단순 물결 무늬)",
  "examples": [
   {
-   "en": "The flag waves in the wind on top of the tall pole.",
-   "ko": "높은 깃대 꼭대기에서 깃발이 바람에 펄럭여."
+   "en": "We waved a flag at the soccer game last night.",
+   "ko": "어젯밤 축구 경기에서 우리는 깃발을 흔들었어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "나뭇가지에 앉아 짹짹 노래하는 작은 새가 있어요. 이게 flag야?",
+   "question": "나뭇가지에 앉아 노래하는 작은 새가 있어요. 이게 flag야?",
    "choices": [
     "응, 맞아",
     "아니, 아니야"

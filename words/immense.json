@@ -11,15 +11,21 @@
  "word": "immense",
  "slug": "immense",
  "url": "https://hibbangyong.com/words/immense/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "엄청나게 큰 — 얼마나 큰지 가늠조차 안 될 만큼",
  "gloss_ko": "엄청나게 큰",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "밤에 바닷가에 서면 말이야, 물이 어디서 끝나는지 눈으로는 도무지 안 보이잖아.",
+  "'크다' 한 마디로는 어림도 없어. 얼마나 큰지 재보려다 그냥 포기하게 되는 거.",
+  "바다만 그런 게 아니야. 안 끝날 것 같은 과제 더미도, 가슴이 꽉 막힐 만큼 큰 슬픔도 그래.",
+  "그냥 좀 큰 거 말고, 크기가 가늠이 안 되는 거. 그게 immense야."
+ ],
+ "explanation_for_kids": [
   "밤에 바닷가에 서면 말이야, 물이 어디서 끝나는지 눈으로는 도무지 안 보이잖아.",
   "'크다' 한 마디로는 어림도 없어. 얼마나 큰지 재보려다 그냥 포기하게 되는 거.",
   "바다만 그런 게 아니야. 안 끝날 것 같은 숙제 더미도, 가슴이 꽉 막힐 만큼 큰 슬픔도 그래.",
@@ -28,8 +34,8 @@
  "scene": "밤바다 앞에서 물의 끝이 눈에 안 잡히는 장면",
  "examples": [
   {
-   "en": "The crowd at the station was immense, and I held Mom's hand tight.",
-   "ko": "역에 사람이 어마어마하게 많아서, 나는 엄마 손을 꽉 잡았어."
+   "en": "The crowd at the station was immense, so I held Mom's hand to guide her.",
+   "ko": "역에 사람이 어마어마하게 많아서 내가 엄마 손을 잡고 앞장섰어."
   }
  ],
  "quiz": [

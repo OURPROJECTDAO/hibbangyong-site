@@ -11,25 +11,26 @@
  "word": "efficient",
  "slug": "efficient",
  "url": "https://hibbangyong.com/words/efficient/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "힘이나 시간을 적게 들이고도 할 일을 다 해내는",
  "gloss_ko": "적게 들이고 다 해내는",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "물을 한 컵 떠 오라고 했어. 민수는 컵 하나 들고 한 번에 갔다 왔어. 지호는 컵을 들고 갔다가, 물 틀고, 다시 와서 뚜껑 가지러 가고, 또 갔어. 둘 다 물은 떠 왔거든? 결과는 똑같아.",
   "근데 지호는 다섯 번 왔다 갔다 했고 민수는 한 번이야. 낭비가 없었던 거야.",
   "이건 '잘했다'랑은 좀 달라. 물을 예쁘게 떠 왔는지, 착하게 떠 왔는지를 묻는 게 아니야. 들인 힘에 비해 나온 게 얼마냐, 그것만 봐.",
   "그래서 나쁜 일도 이럴 수 있어. 도둑이 3초 만에 털고 갔으면, 그것도 efficient야."
  ],
- "scene": "물 한 컵 떠 오기 — 한 번에 간 아이 vs 다섯 번 왔다 갔다 한 아이",
+ "explanation_for_kids": null,
+ "scene": "물 한 컵 떠 오기 — 한 번에 간 사람 vs 다섯 번 왔다 갔다 한 사람",
  "examples": [
   {
-   "en": "Mom found an efficient way to pack the bags, so we finished in ten minutes.",
-   "ko": "엄마가 헛수고 없이 짐 싸는 법을 찾아서 10분 만에 끝냈어."
+   "en": "My mom found an efficient way to pack the bags, so we finished in ten minutes.",
+   "ko": "엄마가 짐을 요령 있게 싸는 방법을 찾아서 우리는 10분 만에 다 쌌어."
   }
  ],
  "quiz": [
@@ -68,7 +69,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/efficient.webp",
-  "alt": "물 한 컵 떠 오기 — 한 번에 간 아이 vs 다섯 번 왔다 갔다 한 아이",
+  "alt": "물 한 컵 떠 오기 — 한 번에 간 사람 vs 다섯 번 왔다 갔다 한 사람",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

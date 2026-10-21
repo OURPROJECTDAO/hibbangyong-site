@@ -11,20 +11,21 @@
  "word": "bourbon",
  "slug": "bourbon",
  "url": "https://hibbangyong.com/words/bourbon/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "버번 — 미국에서 옥수수를 주재료로 만드는 위스키(어른들이 마시는 술)",
  "gloss_ko": "버번 위스키",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "영화에서 카우보이가 작은 잔에 갈색 술을 따르는 장면 있잖아.",
   "그 술이 위스키인데, 그중에서도 미국에서 옥수수를 주재료로 만든 걸 bourbon이라고 해.",
   "스코틀랜드에서 보리로 만든 위스키는 bourbon이 아니야. 그건 따로 scotch라고 불러.",
   "당연히 어른들 술이고, 고기 소스에 맛을 내려고 조금 넣기도 해."
  ],
+ "explanation_for_kids": null,
  "scene": "영화 속 카우보이가 작은 잔에 갈색 술을 따르는 장면",
  "examples": [
   {
@@ -35,14 +36,14 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "편의점에서 옥수수수염을 우려 만든 옥수수수염차를 한 병 샀어. 초등학생 동생도 마시는 음료야. 이 옥수수수염차는 'bourbon'일까?",
+   "question": "편의점에서 옥수수수염을 우려 만든 옥수수수염차를 한 병 샀어. 알코올 없는 그냥 음료야. 이 옥수수수염차는 'bourbon'일까?",
    "choices": [
     "응, bourbon 맞아",
     "아니, bourbon 아니야"
    ],
    "answer_index": 1,
    "answer": "아니, bourbon 아니야",
-   "why": "맞아! 옥수수수염차는 옥수수가 들어가도 초등학생 동생도 마시는 음료잖아. bourbon은 옥수수로 만든 어른들 술(위스키)이라서, 술이 아닌 이 차는 bourbon이 아닌 거야."
+   "why": "맞아! 옥수수수염차는 옥수수가 들어가도 알코올 없는 음료잖아. bourbon은 옥수수로 만든 술(위스키)이라서, 술이 아닌 이 차는 bourbon이 아닌 거야."
   }
  ],
  "synonyms": [],

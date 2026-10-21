@@ -11,25 +11,31 @@
  "word": "belong",
  "slug": "belong",
  "url": "https://hibbangyong.com/words/belong/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "제자리다 / ~의 것이다 — 원래 있어야 할 자리나 주인이 정해져 있다는 뜻",
  "gloss_ko": "제자리다 / ~의 것이다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "축구공이 굴러와서 지금 네 발밑에 있어. 근데 그 공, 옆 팀 거거든?",
+  "지금 어디 있느냐가 아니라, 원래 돌아갈 자리가 어디냐 — 그걸 말하는 거야.",
+  "사람한테도 써. '나 여기 belong 해'는 여기가 내 자리라는 말, '너 여기 belong 안 해'는 네 자리가 아니라는 말이야.",
+  "그냥 놓여 있는 거랑은 달라. 자리가 정해져 있는 거야. 이게 belong이야."
+ ],
+ "explanation_for_kids": [
   "축구공이 데굴데굴 굴러와서 지금 네 발밑에 있어. 근데 그 공, 옆반 거거든?",
   "지금 어디 있느냐가 아니라, 원래 돌아갈 자리가 어디냐 — 그걸 말하는 거야.",
   "사람한테도 써. '나 여기 belong 해'는 여기가 내 자리라는 말, '너 여기 belong 안 해'는 네 자리가 아니라는 말이야.",
   "그냥 놓여 있는 거랑은 달라. 자리가 정해져 있는 거야. 이게 belong이야."
  ],
- "scene": "굴러와 발밑에 멈춘 옆반 축구공",
+ "scene": "굴러와 발밑에 멈춘 옆 팀 축구공",
  "examples": [
   {
-   "en": "This ball belongs to the other class, so I have to give it back.",
-   "ko": "이 공은 옆반 거라서 돌려줘야 해."
+   "en": "These keys belong to my roommate, so I'll leave them on her desk.",
+   "ko": "이 열쇠는 룸메이트 거라서 그 애 책상 위에 둘게."
   }
  ],
  "quiz": [
@@ -57,7 +63,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/belong.webp",
-  "alt": "굴러와 발밑에 멈춘 옆반 축구공",
+  "alt": "굴러와 발밑에 멈춘 옆 팀 축구공",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

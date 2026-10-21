@@ -11,25 +11,26 @@
  "word": "document",
  "slug": "document",
  "url": "https://hibbangyong.com/words/document/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "서류 — 어떤 내용이 글로 적혀 있는 종이나 컴퓨터 파일",
  "gloss_ko": "서류",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "글자가 잔뜩 적힌 종이 한 장을 떠올려 봐.",
   "무슨 일이 있었는지, 뭘 하면 되는지 같은 내용이 적혀 있어.",
   "재미로 지어낸 이야기가 아니라, 알려 주거나 남겨 두려고 적은 거거든?",
   "이렇게 내용이 적힌 종이나 컴퓨터 속 파일, 이게 document야."
  ],
+ "explanation_for_kids": null,
  "scene": "글자(내용)가 가득 적힌 종이 한 장 — 알려 주려고 적어 둔 것.",
  "examples": [
   {
-   "en": "The teacher gave everyone a document with the new class rules on it.",
-   "ko": "선생님이 새 학급 규칙이 적힌 서류를 모두에게 나눠 줬어."
+   "en": "My boss asked me to sign the document before lunch.",
+   "ko": "상사가 점심 전에 그 서류에 서명해 달라고 했어."
   }
  ],
  "quiz": [

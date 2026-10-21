@@ -11,19 +11,20 @@
  "word": "submarine",
  "slug": "submarine",
  "url": "https://hibbangyong.com/words/submarine/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "잠수함 — 물속으로 잠겨서 바닷속을 다니는 배",
  "gloss_ko": "잠수함",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 노란 배는 물 위에 뜨는 게 아니라, 물속으로 쏙 잠겨서 바닷속을 다니는 잠수함이에요.",
   "보통 배는 물 위로만 다니지만, 이 배는 물고기들이 사는 깊은 바닷속까지 내려가요."
  ],
- "scene": "바닷속을 항해하는 노란색 잠수함 한 대(둥근 몸체·창문·프로펠러가 다 보이는 전신) — 'submarine=잠수함' 사물 의미를 그림",
+ "explanation_for_kids": null,
+ "scene": "바닷속을 항해하는 노란색 잠수함 한 대(둥근 몸체·창문·프로펠러가 다 보이는 전신)",
  "examples": [
   {
    "en": "The yellow submarine went deep under the sea.",
@@ -55,7 +56,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/submarine.webp",
-  "alt": "바닷속을 항해하는 노란색 잠수함 한 대(둥근 몸체·창문·프로펠러가 다 보이는 전신) — 'submarine=잠수함' 사물 의미를 그림",
+  "alt": "바닷속을 항해하는 노란색 잠수함 한 대(둥근 몸체·창문·프로펠러가 다 보이는 전신)",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

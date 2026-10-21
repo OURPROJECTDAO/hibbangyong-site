@@ -11,23 +11,24 @@
  "word": "van",
  "slug": "van",
  "url": "https://hibbangyong.com/words/van/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "밴 — 짐이나 여러 사람을 실을 수 있는 상자처럼 생긴 큰 차",
  "gloss_ko": "밴",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 상자처럼 네모나고 큰 차가 van이에요. 승용차보다 키가 크고 뒤쪽이 넓어서 짐이나 사람을 많이 실을 수 있어요.",
   "이삿짐을 나르거나 가족이 다 같이 타고 놀러 갈 때 이런 van을 타 본 적이 있을 거예요."
  ],
+ "explanation_for_kids": null,
  "scene": "거리에 서 있는 통통하고 귀여운 밴(승합차) 한 대의 옆모습 전체 — 상자형 화물/가족용 차의 가장 전형적 모습",
  "examples": [
   {
-   "en": "Our family loaded the bags into the van before the trip.",
-   "ko": "여행 가기 전에 우리 가족은 가방을 밴에 실었어."
+   "en": "My friends and I loaded our bags into the van before the trip.",
+   "ko": "여행 가기 전에 친구들이랑 가방을 밴에 실었어."
   }
  ],
  "quiz": [

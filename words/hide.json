@@ -11,31 +11,37 @@
  "word": "hide",
  "slug": "hide",
  "url": "https://hibbangyong.com/words/hide/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "숨기다·숨다 — 남이 못 보거나 못 찾게 어딘가로 감추다",
  "gloss_ko": "숨기다·숨다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "친구 몰래 초콜릿을 서랍 속 깊숙이 쏙 넣어봐. 친구가 온 방을 다 뒤져도 못 찾지?",
+  "꼭 물건만 그런 게 아니야. 울다가 얼굴을 팔로 가려서 아무도 못 보게 할 때도 있잖아.",
+  "남이 못 보게, 못 찾게 어딘가로 쏙 감추는 거.",
+  "그게 hide야."
+ ],
+ "explanation_for_kids": [
   "동생 몰래 초콜릿을 서랍 속 깊숙이 쏙 넣어봐. 동생이 온 방을 다 뒤져도 못 찾지?",
   "꼭 물건만 그런 게 아니야. 울다가 얼굴을 팔로 가려서 아무도 못 보게 할 때도 있잖아.",
   "남이 못 보게, 못 찾게 어딘가로 쏙 감추는 거.",
   "그게 hide야."
  ],
- "scene": "동생 몰래 초콜릿을 서랍 깊숙이 넣어 못 찾게 함",
+ "scene": "친구 몰래 초콜릿을 서랍 깊숙이 넣어 못 찾게 함",
  "examples": [
   {
-   "en": "I hide my diary under the bed so my sister can't read it.",
-   "ko": "나는 언니가 못 읽게 일기장을 침대 밑에 숨겨."
+   "en": "I hide snacks in my desk at work.",
+   "ko": "나는 회사 책상에 간식을 숨겨 둬."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "미술 시간이 끝나고 지호가 자기 그림을 두 손으로 활짝 펼쳐 들고 반 친구들 앞에 섰어. 모두가 그림을 똑똑히 보고 있어. 지호가 'hide'한 거야?",
+   "question": "동아리 모임이 끝나고 지호가 자기 그림을 두 손으로 활짝 펼쳐 들고 친구들 앞에 섰어. 모두가 그림을 똑똑히 보고 있어. 지호가 'hide'한 거야?",
    "choices": [
     "응, hide 맞아",
     "아니, hide 아니야"
@@ -70,7 +76,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/hide.webp",
-  "alt": "동생 몰래 초콜릿을 서랍 깊숙이 넣어 못 찾게 함",
+  "alt": "친구 몰래 초콜릿을 서랍 깊숙이 넣어 못 찾게 함",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

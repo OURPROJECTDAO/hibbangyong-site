@@ -11,32 +11,33 @@
  "word": "range",
  "slug": "range",
  "url": "https://hibbangyong.com/words/range/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "범위 — 한쪽 끝에서 다른 쪽 끝까지, 그 사이가 전부 걸치는 폭.",
  "gloss_ko": "범위",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "놀이기구 앞에 '키 120부터 150까지 탈 수 있어요' 이렇게 붙어 있지?\n제일 작은 120 하나도, 제일 큰 150 하나도 아니야. 그 사이는 다 되는 거야.\n키만 그런 게 아니야. 제일 싼 거부터 제일 비싼 거까지, 제일 작은 것부터 제일 큰 것까지도 똑같아.\n이렇게 한쪽 끝부터 다른 쪽 끝까지 쭉 걸친 폭, 그게 range야."
  ],
+ "explanation_for_kids": null,
  "scene": "놀이기구 탑승 키 제한(120~150) 표지판 — child 앵커",
  "examples": [
   {
-   "en": "This ride is for kids in the range of 120 to 150 centimeters tall.",
-   "ko": "이 놀이기구는 키가 120부터 150까지 사이인 애들이 탈 수 있어."
+   "en": "The price range for these jackets is 50 to 80 dollars.",
+   "ko": "이 재킷들은 가격대가 50달러에서 80달러 사이야."
   }
  ],
  "quiz": [
   {
    "type": "choice",
-   "question": "생일 파티에 온 애들 나이가 제일 어린 애 5살, 제일 많은 애 12살이야. 이 나이의 'range'를 제대로 말한 건 어떤 거야?",
+   "question": "조카 생일 파티에 온 애들 나이가 제일 어린 애 5살, 제일 많은 애 12살이야. 이 나이의 'range'를 제대로 말한 건 어떤 거야?",
    "choices": [
     "5살부터 12살까지, 그 사이 나이가 다 들어간 것",
     "그 중에 제일 많은 12살, 그 나이 하나만 말하는 것",
-    "파티 주인공인 생일 아이 한 명의 나이만 말하는 것",
+    "파티 주인공인 조카 한 명의 나이만 말하는 것",
     "5살하고 12살이 7살만큼 차이 나는, 그 차이만"
    ],
    "answer_index": 0,

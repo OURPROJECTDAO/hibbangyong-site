@@ -11,20 +11,21 @@
  "word": "purple",
  "slug": "purple",
  "url": "https://hibbangyong.com/words/purple/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "보라색 — 빨강과 파랑을 섞은 그 색",
  "gloss_ko": "보라색",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "포도알 껍질 봐봐. 빨강도 아니고 파랑도 아닌 그 색 있잖아.",
   "빨강이랑 파랑을 섞으면 딱 그 색이 나와.",
   "연하면 연한 대로, 진하면 진한 대로 전부 그 색이야. 분홍이랑은 달라. 분홍은 빨강에 하양을 섞은 거거든.",
   "이게 purple이야."
  ],
+ "explanation_for_kids": null,
  "scene": "포도알 껍질 색",
  "examples": [
   {

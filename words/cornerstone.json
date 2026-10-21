@@ -11,25 +11,26 @@
  "word": "cornerstone",
  "slug": "cornerstone",
  "url": "https://hibbangyong.com/words/cornerstone/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "초석 — 이게 빠지면 나머지가 다 흔들리는, 모든 것이 기대고 있는 밑바탕",
  "gloss_ko": "초석",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "건물을 지을 때 맨 아래 모서리에 놓는 큰 돌이 있어. 그 돌이 빠지면 위에 쌓은 게 다 기울어.",
   "cornerstone은 그 돌처럼 나머지가 전부 기대고 있는 밑바탕을 말해.",
   "친구 사이의 믿음도 그렇고, 나라의 법도 그렇고, 매일 하는 기본 연습도 그래.",
   "제일 눈에 띄는 부분이랑은 달라. 박수받는 화려한 장면이 아니라, 없으면 전체가 무너지는 그 부분이야."
  ],
+ "explanation_for_kids": null,
  "scene": "건물 맨 아래 모서리에 놓는 큰 돌",
  "examples": [
   {
-   "en": "For me, enough sleep is the cornerstone of good grades, not late-night study.",
-   "ko": "나한테는 밤새 공부하는 것보다 잠을 충분히 자는 게 좋은 성적을 받쳐 주는 밑바탕이야."
+   "en": "For me, enough sleep is the cornerstone of a good day.",
+   "ko": "나한테는 잠을 충분히 자는 게 좋은 하루의 밑바탕이야."
   }
  ],
  "quiz": [

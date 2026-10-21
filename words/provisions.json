@@ -11,25 +11,26 @@
  "word": "provisions",
  "slug": "provisions",
  "url": "https://hibbangyong.com/words/provisions/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "식량 — 여행을 가거나 힘든 때를 버티려고 미리 챙겨 둔 먹을 것과 마실 것",
  "gloss_ko": "챙겨 둔 식량",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "태풍이 온다는 뉴스가 나오면 집에서 라면이랑 생수부터 사 두지?",
   "며칠 밖에 못 나가도 버틸 수 있게 모아 둔 먹을 것, 그게 provisions야.",
   "긴 여행이나 등산 가기 전에 가방에 챙기는 식량도 똑같아.",
   "지금 차려서 바로 먹는 한 끼랑은 달라. 나중을 위해 준비해 둔 거야."
  ],
+ "explanation_for_kids": null,
  "scene": "태풍 소식에 집에 라면과 생수를 사 둠",
  "examples": [
   {
-   "en": "We checked our provisions before the long boat trip.",
-   "ko": "긴 배 여행을 떠나기 전에 챙겨 둔 식량을 한 번 더 확인했어."
+   "en": "We packed enough provisions for three days of camping.",
+   "ko": "사흘 동안 캠핑하면서 먹을 식량을 넉넉히 챙겼어."
   }
  ],
  "quiz": [

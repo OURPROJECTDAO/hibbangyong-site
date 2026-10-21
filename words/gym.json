@@ -11,25 +11,31 @@
  "word": "gym",
  "slug": "gym",
  "url": "https://hibbangyong.com/words/gym/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "체육관 — 안에서 뛰고 운동하는 넓은 방",
  "gloss_ko": "체육관",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "비 오는 날인데 운동은 하고 싶어. 밖에선 못 뛰지? 그럼 어디로 가?",
+  "천장이 높고 바닥이 반질반질한 넓은 방으로 가. 안에 공도 있고 매트도 있고, 벽엔 사다리 같은 것도 붙어 있어.",
+  "여기선 맘껏 뛸 수 있어. 달리기도 하고, 농구도 하고, 무거운 거 들면서 힘 기르기도 하고.",
+  "밖이 아니라 지붕 밑에서 몸을 움직이는 곳, 그게 gym이야."
+ ],
+ "explanation_for_kids": [
   "비 오는 날 학교에서 체육 시간이야. 운동장엔 못 나가지? 그럼 어디로 가?",
   "천장이 높고 바닥이 반질반질한 넓은 방으로 가. 안에 공도 있고 매트도 있고, 벽엔 사다리 같은 것도 붙어 있어.",
   "여기선 마음껏 뛰어도 돼. 달리기도 하고, 공놀이도 하고, 어른들은 무거운 거 들면서 힘 기르기도 하고.",
   "밖이 아니라 지붕 밑에서 몸을 움직이는 곳, 그게 gym이야."
  ],
- "scene": "비 오는 날 체육 시간에 들어가는 천장 높고 넓은 실내 방",
+ "scene": "비 오는 날 운동하러 들어가는 천장 높고 넓은 실내 방",
  "examples": [
   {
-   "en": "It rained all morning, so we played basketball in the gym.",
-   "ko": "아침 내내 비가 와서 우리는 체육관에서 농구를 했어."
+   "en": "I play basketball at the gym after work.",
+   "ko": "나 퇴근하고 체육관에서 농구해."
   }
  ],
  "quiz": [
@@ -57,7 +63,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/gym.webp",
-  "alt": "비 오는 날 체육 시간에 들어가는 천장 높고 넓은 실내 방",
+  "alt": "비 오는 날 운동하러 들어가는 천장 높고 넓은 실내 방",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

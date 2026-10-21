@@ -11,25 +11,26 @@
  "word": "sink",
  "slug": "sink",
  "url": "https://hibbangyong.com/words/sink/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "가라앉다 — 위에 있던 것이 아래로 내려가 잠기는 것",
  "gloss_ko": "가라앉다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "물컵에 돌멩이를 톡 넣어 봐. 스르르 아래로 내려가서 바닥에 가라앉지?",
   "위에 있던 게 아래로 내려가 잠기는 거야. 물에서만 그런 게 아니야. 진흙에 발이 쑥 들어가는 것도, 해가 산 너머로 천천히 내려가는 것도 이 말을 써.",
   "헤엄쳐서 물속으로 쏙 들어가는 거랑은 달라. 그건 자기가 힘써서 들어가는 거고, 이건 그냥 아래로 내려가는 거거든.",
   "이게 sink야."
  ],
+ "explanation_for_kids": null,
  "scene": "물컵에 넣은 돌멩이가 바닥으로 내려가 앉는 장면",
  "examples": [
   {
-   "en": "My boots sank into the soft mud, and I had to pull really hard.",
-   "ko": "내 장화가 물렁한 진흙에 푹 가라앉아서 있는 힘껏 잡아당겨야 했어."
+   "en": "If you drop your phone in the lake, it'll sink fast.",
+   "ko": "호수에 폰을 떨어뜨리면 금방 가라앉을 거야."
   }
  ],
  "quiz": [

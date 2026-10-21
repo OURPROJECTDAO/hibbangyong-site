@@ -11,20 +11,21 @@
  "word": "psychiatric",
  "slug": "psychiatric",
  "url": "https://hibbangyong.com/words/psychiatric/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "정신과의 — 마음의 병을 살펴보고 치료하는 의학과 관련된",
  "gloss_ko": "정신과의",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "몇 달째 이유 없이 불안하고 밤에 잠도 안 오는 친구가 있어.",
   "몸에 난 병은 내과나 외과에 가잖아. 마음에 난 병도 따로 보는 의사가 있어.",
   "그 의사가 하는 치료, 그 의사가 일하는 병원, 그 병 자체까지 다 psychiatric이라고 불러.",
   "그냥 기분이나 성격 얘기랑은 달라. 그건 psychological이야. 이건 병을 치료하는 의학 쪽 말이야."
  ],
+ "explanation_for_kids": null,
  "scene": "몇 달째 불안하고 잠 못 자는 친구",
  "examples": [
   {

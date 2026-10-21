@@ -11,23 +11,27 @@
  "word": "brain",
  "slug": "brain",
  "url": "https://hibbangyong.com/words/brain/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "뇌 — 생각하고 기억하게 해 주는, 머릿속에 있는 몸의 한 부분",
  "gloss_ko": "뇌",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "그림 속 분홍색 주름진 이것은 우리 머릿속에 들어 있는 몸의 한 부분이에요.",
+  "친구 이름을 외우거나 문제를 풀 때 뇌가 열심히 일해요."
+ ],
+ "explanation_for_kids": [
   "그림 속 분홍색 주름진 이것은 우리 머릿속에 들어 있는 몸의 한 부분이에요.",
   "친구 이름을 외우거나 숙제를 풀 때 뇌가 열심히 일해요."
  ],
- "scene": "웃는 아이 옆모습 머리 안에 구름처럼 뭉실한 연분홍 뇌 모양이 은은히 빛나고 주위로 작은 반짝이(생각)가 도는 장면 — 장기 노출 없이 '머릿속 생각 기관'으로 표현",
+ "scene": "웃는 사람 옆모습 머리 안에 구름처럼 뭉실한 연분홍 뇌 모양이 은은히 빛나고 주위로 작은 반짝이(생각)가 도는 장면 — 장기 노출 없이 '머릿속 생각 기관'으로 표현",
  "examples": [
   {
-   "en": "Your brain helps you remember your best friend's name.",
-   "ko": "뇌가 있어서 넌 제일 친한 친구 이름을 기억해."
+   "en": "After a long day at work, my brain feels tired.",
+   "ko": "회사에서 긴 하루를 보내고 나니 뇌가 지친 느낌이야."
   }
  ],
  "quiz": [
@@ -56,7 +60,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/brain.webp",
-  "alt": "웃는 아이 옆모습 머리 안에 구름처럼 뭉실한 연분홍 뇌 모양이 은은히 빛나고 주위로 작은 반짝이(생각)가 도는 장면 — 장기 노출 없이 '머릿속 생각 기관'으로 표현",
+  "alt": "웃는 사람 옆모습 머리 안에 구름처럼 뭉실한 연분홍 뇌 모양이 은은히 빛나고 주위로 작은 반짝이(생각)가 도는 장면 — 장기 노출 없이 '머릿속 생각 기관'으로 표현",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

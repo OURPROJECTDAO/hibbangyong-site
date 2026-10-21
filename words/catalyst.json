@@ -11,25 +11,26 @@
  "word": "catalyst",
  "slug": "catalyst",
  "url": "https://hibbangyong.com/words/catalyst/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "촉매 — 화학 반응을 빨라지게 하면서 자기는 변하지 않는 물질. 그래서 어떤 큰 변화를 확 일으킨 계기(사람·사건)를 말할 때도 써",
  "gloss_ko": "촉매(변화의 계기)",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "과학 실험에서 과산화수소에 이산화망가니즈 가루를 넣으면 거품이 확 올라와.",
   "근데 실험이 끝나도 그 가루는 그대로 남아 있어. 자기는 안 변하고 반응만 빨라지게 한 거지. 그게 catalyst, 촉매야.",
   "사람이나 사건한테도 이 말을 써. 이미 쌓여 있던 일을 확 바뀌게 만든 계기라면, 좋은 쪽이든 나쁜 쪽이든 다 돼.",
   "다만 원래 있던 원인이나 그 결과로 생긴 변화랑은 달라. 변화를 확 당겨 온 그 한 가지가 catalyst야."
  ],
+ "explanation_for_kids": null,
  "scene": "과산화수소에 이산화망가니즈를 넣는 과학 실험",
  "examples": [
   {
-   "en": "The rise in lunch prices was the catalyst for a big student protest.",
-   "ko": "급식비가 오른 게 계기가 돼서 결국 학생들이 크게 항의하고 나섰어."
+   "en": "The new boss was the catalyst for big changes at our office.",
+   "ko": "새 상사가 우리 사무실이 크게 바뀐 계기였어."
   }
  ],
  "quiz": [

@@ -11,29 +11,30 @@
  "word": "sweater",
  "slug": "sweater",
  "url": "https://hibbangyong.com/words/sweater/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "스웨터 — 털실로 짜서 몸을 따뜻하게 해 주는 윗옷",
  "gloss_ko": "스웨터",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 이건 털실로 짠 스웨터라는 옷이야.",
   "날이 쌀쌀해지면 티셔츠 위에 이걸 입고 나가면 따뜻해."
  ],
- "scene": "포근한 니트 스웨터 한 벌(풀오버)을 화면 중앙에 크게 — 스웨터(옷)의 뜻을 그림",
+ "explanation_for_kids": null,
+ "scene": "포근한 니트 스웨터 한 벌(풀오버)을 화면 중앙에 크게",
  "examples": [
   {
-   "en": "It's cold today, so I put on my warm sweater.",
-   "ko": "오늘 추워서 따뜻한 스웨터를 입었어."
+   "en": "The office is cold, so I keep a sweater at my desk.",
+   "ko": "사무실이 추워서 책상에 스웨터를 하나 둬."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "동생이 컵에 물을 따라서 벌컥벌컥 마셨어. 이게 sweater야?",
+   "question": "친구가 컵에 물을 따라서 벌컥벌컥 마셨어. 이게 sweater야?",
    "choices": [
     "응, 맞아",
     "아니, 아니야"
@@ -57,7 +58,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/sweater.webp",
-  "alt": "포근한 니트 스웨터 한 벌(풀오버)을 화면 중앙에 크게 — 스웨터(옷)의 뜻을 그림",
+  "alt": "포근한 니트 스웨터 한 벌(풀오버)을 화면 중앙에 크게",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,25 +11,31 @@
  "word": "election",
  "slug": "election",
  "url": "https://hibbangyong.com/words/election/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "선거 — 여러 사람이 표를 내서 반장이나 대통령처럼 어떤 자리를 맡을 사람을 뽑는 일",
  "gloss_ko": "표로 사람 뽑기",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "과대표를 누가 할지, 교수님이 혼자 딱 정하면 좀 억울하잖아? 그래서 다 같이 종이에 이름을 써서 상자에 넣어.",
+  "표가 제일 많이 나온 사람이 과대표가 돼. 축구부 주장도, 동네 대표도, 대통령도 똑같이 이렇게 뽑거든?",
+  "근데 여행 갈 곳을 손 들어서 고르는 건 조금 달라. 왜냐고? 그건 자리를 맡을 사람을 뽑는 게 아니니까.",
+  "여럿이 표를 내서 그 자리에 앉을 사람을 정하는 일, 이게 election이야."
+ ],
+ "explanation_for_kids": [
   "반장을 누가 할지, 선생님이 혼자 딱 정하면 좀 억울하잖아? 그래서 다 같이 종이에 이름을 써서 상자에 쏙 넣어.",
   "표가 제일 많이 나온 사람이 반장이 돼. 축구부 주장도, 동네 대표도, 대통령도 똑같이 이렇게 뽑거든?",
   "근데 소풍 갈 곳을 손 들어서 고르는 건 조금 달라. 왜냐고? 그건 자리를 맡을 사람을 뽑는 게 아니니까.",
   "여럿이 표를 내서 그 자리에 앉을 사람을 정하는 일, 이게 election이야."
  ],
- "scene": "반 아이들이 종이에 이름을 써서 반장 뽑기",
+ "scene": "과 동기들이 종이에 이름을 써서 과대표 뽑기",
  "examples": [
   {
-   "en": "Everyone in our class was excited about the election.",
-   "ko": "우리 반 애들 모두 선거 때문에 엄청 들떠 있었어."
+   "en": "Next week, I'm voting in an election for the first time.",
+   "ko": "나 다음 주에 처음으로 선거에서 투표해."
   }
  ],
  "quiz": [
@@ -68,7 +74,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/election.webp",
-  "alt": "반 아이들이 종이에 이름을 써서 반장 뽑기",
+  "alt": "과 동기들이 종이에 이름을 써서 과대표 뽑기",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

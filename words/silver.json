@@ -11,25 +11,26 @@
  "word": "silver",
  "slug": "silver",
  "url": "https://hibbangyong.com/words/silver/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "은 — 흰빛으로 반짝이는 금속. 그 반짝이는 색깔도 silver라고 해.",
  "gloss_ko": "흰빛으로 반짝이는 은",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "할머니 숟가락 있잖아, 하얗게 반짝이는 거. 서랍에 오래 두면 거뭇해져. 그래서 쓱쓱 문질러 주면 다시 반짝!",
   "노랗게 빛나는 금이랑은 달라. 얘는 흰빛이 도는 반짝임이거든.",
   "이 색으로 빛나면 색 이름도 그냥 이렇게 불러. 2등이 받는 메달도, 이 색 자동차도.",
   "이게 silver야."
  ],
+ "explanation_for_kids": null,
  "scene": "서랍에 오래 둬서 거뭇해진 할머니 숟가락을 문질러 다시 반짝이게 하는 장면",
  "examples": [
   {
-   "en": "Grandma's silver spoon went dark, so I rubbed it shiny again.",
-   "ko": "할머니 은수저가 거뭇해져서 다시 반짝반짝 문질렀어."
+   "en": "I bought a silver ring for my friend's birthday.",
+   "ko": "친구 생일 선물로 은반지를 샀어."
   }
  ],
  "quiz": [

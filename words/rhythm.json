@@ -11,20 +11,21 @@
  "word": "rhythm",
  "slug": "rhythm",
  "url": "https://hibbangyong.com/words/rhythm/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "리듬 — 소리나 움직임이 똑같은 간격으로 되풀이되는 흐름",
  "gloss_ko": "리듬",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "발을 굴러 봐. 쿵-짝, 쿵-짝, 똑같은 간격으로 되풀이되지?",
   "소리든 움직임이든, 일정한 간격으로 딱딱 돌아오는 거야.",
   "노래에만 있는 게 아니야. 걸음걸이도, 심장 뛰는 것도, 파도가 밀려왔다 나가는 것도 그래.",
   "이렇게 똑같이 되풀이되는 흐름, 그게 rhythm이야."
  ],
+ "explanation_for_kids": null,
  "scene": "발을 구르며 쿵-짝 쿵-짝 되풀이하는 장면",
  "examples": [
   {
@@ -35,7 +36,7 @@
  "quiz": [
   {
    "type": "choice",
-   "question": "음악 시간에 네 친구가 저마다 다른 걸 했어. 그중에서 'rhythm'을 만든 친구는 누구일까?",
+   "question": "동아리에서 네 친구가 저마다 다른 걸 했어. 그중에서 'rhythm'을 만든 친구는 누구일까?",
    "choices": [
     "손뼉을 짝-짝-짝 똑같은 간격으로 계속 치는 친구",
     "손뼉 치는 속도를 점점 빠르게 계속 바꾸는 친구",

@@ -11,25 +11,26 @@
  "word": "oath",
  "slug": "oath",
  "url": "https://hibbangyong.com/words/oath/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "맹세 — 무언가를 걸고 하는 아주 엄숙하고 무거운 약속",
  "gloss_ko": "맹세",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "친구한테 '내일 만화책 돌려줄게' 하는 건 그냥 약속이야.",
   "oath는 급이 달라. 자기 이름이나 명예, 신 같은 걸 걸고 엄숙하게 하는 약속이야.",
   "대통령이 일을 시작하면서 하는 것도, 법정에서 증인이 하는 것도 그렇고, 옛날 기사가 왕 앞에서 끝까지 따르겠다고 한 것도 oath야.",
   "공약처럼 사람들 표를 얻으려는 말도 아니고, 혼자 적어 두는 결심도 아니야. 하고 나면 쉽게 물릴 수 없는 약속이야."
  ],
+ "explanation_for_kids": null,
  "scene": "친구에게 만화책 돌려주겠다는 가벼운 약속(대비)",
  "examples": [
   {
-   "en": "The new president took an oath to protect the country.",
-   "ko": "새 대통령은 나라를 지키겠다고 맹세했어."
+   "en": "My friend took an oath when she became a nurse.",
+   "ko": "내 친구는 간호사가 될 때 맹세를 했어."
   }
  ],
  "quiz": [

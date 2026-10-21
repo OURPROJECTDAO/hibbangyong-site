@@ -11,21 +11,22 @@
  "word": "despite",
  "slug": "despite",
  "url": "https://hibbangyong.com/words/despite/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "~인데도 — 그걸 막아줄 만한 게 분명 있었는데도, 그 일이 그냥 일어났을 때 붙이는 말.",
  "gloss_ko": "~인데도",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "우산 딱 폈거든? 근데 집에 오니까 옷이 흠뻑 젖었어.",
   "막아줄 게 있었는데도, 그 일이 그냥 일어난 거야.",
   "좋게 끝나든 나쁘게 끝나든 상관없어. 다리 아픈데 끝까지 걸어간 날도, 연습 많이 하고도 진 날도 다 여기 들어가.",
   "'그것 때문에'가 아니야. '그것이 있는데도'야. 그게 despite야."
  ],
- "scene": "우산을 폈는데 집에 오니 옷이 흠뻑 젖어 있던 하굣길",
+ "explanation_for_kids": null,
+ "scene": "우산을 폈는데 집에 오니 옷이 흠뻑 젖어 있던 퇴근길",
  "examples": [
   {
    "en": "Despite my umbrella, I got all wet.",
@@ -35,7 +36,7 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "민준이가 자전거를 세우면서 자물쇠를 단단히 채워 잠갔어. 학원이 끝나고 와 보니 자전거가 사라지고 없었대. 이 얘기에 'despite'를 붙여 말할 수 있어?",
+   "question": "민준이가 자전거를 세우면서 자물쇠를 단단히 채워 잠갔어. 수업이 끝나고 와 보니 자전거가 사라지고 없었대. 이 얘기에 'despite'를 붙여 말할 수 있어?",
    "choices": [
     "응, despite 맞아",
     "아니, despite 아니야"
@@ -63,7 +64,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/despite.webp",
-  "alt": "우산을 폈는데 집에 오니 옷이 흠뻑 젖어 있던 하굣길",
+  "alt": "우산을 폈는데 집에 오니 옷이 흠뻑 젖어 있던 퇴근길",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

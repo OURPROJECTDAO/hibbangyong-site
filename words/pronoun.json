@@ -11,20 +11,21 @@
  "word": "pronoun",
  "slug": "pronoun",
  "url": "https://hibbangyong.com/words/pronoun/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "대명사 — 이름 대신 그 자리에 쓰는 말(나, 너, 그것, 걔 같은 말)",
  "gloss_ko": "이름 대신 쓰는 말",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "'민수가 왔어. 민수가 웃었어. 민수가 앉았어.' 이러면 좀 이상하지?",
   "그래서 두 번째부턴 '걔가'로 쓱 바꿔 말하잖아. 공이면 '그거', 나면 '나', 너면 '너'.",
   "영어에선 he, it, they, I 같은 말이 이 일을 해. 사람이든 물건이든 다 대신할 수 있거든.",
   "'공'이나 '민수'처럼 그 자체가 이름인 말하고는 달라. 그 이름 자리에 대신 들어가는 말, 그게 pronoun이야."
  ],
+ "explanation_for_kids": null,
  "scene": "민수 이름을 계속 되풀이하는 말",
  "examples": [
   {
@@ -35,14 +36,14 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "선생님이 책상 위 연필을 손으로 가리키며 물으셨어. \"이거 누구 거니?\" 여기서 '이거'라는 말은 'pronoun'일까?",
+   "question": "팀장님이 책상 위 연필을 손으로 가리키며 물으셨어. \"이거 누구 거야?\" 여기서 '이거'라는 말은 'pronoun'일까?",
    "choices": [
     "응, pronoun 맞아",
     "아니, pronoun 아니야"
    ],
    "answer_index": 0,
    "answer": "응, pronoun 맞아",
-   "why": "맞아! 선생님은 '연필'이라고 다시 말하지 않고 그 자리에 '이거'라고 하셨잖아. 연필이라는 이름 대신 들어간 말이니까 '이거'는 pronoun인 거야."
+   "why": "맞아! 팀장님은 '연필'이라고 다시 말하지 않고 그 자리에 '이거'라고 하셨잖아. 연필이라는 이름 대신 들어간 말이니까 '이거'는 pronoun인 거야."
   }
  ],
  "synonyms": [],

@@ -11,38 +11,44 @@
  "word": "reality",
  "slug": "reality",
  "url": "https://hibbangyong.com/words/reality/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "현실 — 머릿속 상상이 아니라, 진짜로 벌어지고 있는 일",
  "gloss_ko": "진짜로 벌어지는 일",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "여행 전날 밤에 머릿속으로 그려 봤지? 비 오면 어쩌지, 줄이 엄청 길면 어쩌지.",
+  "근데 막상 가 보니까 하늘은 쨍쨍, 줄도 짧았어. 물론 생각보다 더 힘든 날도 있고.",
+  "좋든 나쁘든 상관없어. 머릿속 그림 말고, 진짜로 일어난 쪽이야.",
+  "꿈이나 상상이랑은 반대편에 있는 거. 그게 reality야."
+ ],
+ "explanation_for_kids": [
   "소풍 전날 밤에 머릿속으로 그려 봤지? 비 오면 어쩌지, 줄이 엄청 길면 어쩌지.",
   "근데 막상 가 보니까 하늘은 쨍쨍, 줄도 짧았어. 물론 생각보다 더 힘든 날도 있고.",
   "좋든 나쁘든 상관없어. 머릿속 그림 말고, 진짜로 일어난 쪽이야.",
   "꿈이나 상상이랑은 반대편에 있는 거. 그게 reality야."
  ],
- "scene": "소풍 전날 밤 비·긴 줄을 상상했는데 실제로는 맑고 줄이 짧았던 날",
+ "scene": "여행 전날 밤 비·긴 줄을 상상했는데 실제로는 맑고 줄이 짧았던 날",
  "examples": [
   {
-   "en": "I was scared of my new school, but the reality was a lot of fun.",
-   "ko": "새 학교가 무서웠는데, 막상 진짜로 다녀 보니까 엄청 재밌었어."
+   "en": "I was nervous about college, but the reality was a lot of fun.",
+   "ko": "대학 가는 게 겁났는데, 막상 현실은 엄청 재밌었어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "서아는 아침에 일어나서 엄마랑 같이 김밥을 말았어. 지금 식탁 위에 서아가 만든 김밥이 놓여 있어. 서아가 김밥을 만든 일은 'reality'야?",
+   "question": "서아는 아침에 친구랑 같이 김밥을 말았어. 지금 식탁 위에 서아가 만든 김밥이 놓여 있어. 서아가 김밥을 만든 일은 'reality'야?",
    "choices": [
     "응, reality 맞아",
     "아니, reality 아니야"
    ],
    "answer_index": 0,
    "answer": "응, reality 맞아",
-   "why": "맞아! 서아는 아침에 엄마랑 같이 진짜로 김밥을 말았고, 지금 식탁 위에 그 김밥이 놓여 있거든. 머릿속으로 그려 본 게 아니라 진짜로 일어난 일이라서 바로 그게 reality인 거야."
+   "why": "맞아! 서아는 아침에 친구랑 같이 진짜로 김밥을 말았고, 지금 식탁 위에 그 김밥이 놓여 있거든. 머릿속으로 그려 본 게 아니라 진짜로 일어난 일이라서 바로 그게 reality인 거야."
   }
  ],
  "synonyms": [],
@@ -57,7 +63,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/reality.webp",
-  "alt": "소풍 전날 밤 비·긴 줄을 상상했는데 실제로는 맑고 줄이 짧았던 날",
+  "alt": "여행 전날 밤 비·긴 줄을 상상했는데 실제로는 맑고 줄이 짧았던 날",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

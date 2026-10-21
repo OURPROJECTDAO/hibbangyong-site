@@ -11,20 +11,21 @@
  "word": "bit",
  "slug": "bit",
  "url": "https://hibbangyong.com/words/bit/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "조금 — 아주 작은 양이나 조각(크게가 아니라 쪼끔).",
  "gloss_ko": "조금",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "쿠키 하나가 통째로 있어. 근데 넌 딱 요만큼, 손톱만큼만 먹고 싶어.",
   "그 아주 쪼끔을 bit라고 해.",
   "양만 그런 게 아냐. '조금만 기다려'도 wait a bit거든?",
   "많이 말고 쪼끔, 통째 말고 요만큼 — 그게 bit야."
  ],
+ "explanation_for_kids": null,
  "scene": "통째 쿠키에서 손톱만큼만 떼어 먹고 싶은 장면",
  "examples": [
   {
@@ -35,7 +36,7 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "엄마가 컵에 우유를 따라 줬어. 형은 컵에 가득 따랐는데, 너는 컵 바닥에 겨우 깔릴 만큼만 따랐어. 네가 따른 우유의 양, 이게 'bit'야?",
+   "question": "친구랑 컵에 우유를 따랐어. 친구는 컵에 가득 따랐는데, 너는 컵 바닥에 겨우 깔릴 만큼만 따랐어. 네가 따른 우유의 양, 이게 'bit'야?",
    "choices": [
     "응, bit 맞아",
     "아니, bit 아니야"

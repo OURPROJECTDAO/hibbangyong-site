@@ -11,25 +11,26 @@
  "word": "powder",
  "slug": "powder",
  "url": "https://hibbangyong.com/words/powder/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "가루 — 아주 잘게 갈려서 후 불면 뿌옇게 날리는 마른 것",
  "gloss_ko": "가루",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "바닥에 분필로 그림 그리다가 손으로 쓱 문질러 봐. 하얀 게 뿌옇게 번지지?",
   "분필이 잘게 갈린 거야. 알갱이가 눈에 안 보일 만큼 작아서 후 불면 흩어져.",
   "마른 게 이만큼 잘게 갈려 있으면 다 이거야. 코코아도, 가루약도, 얼굴에 바르는 것도, 폭죽 안에 든 것도, 스키장에 보송보송 쌓인 눈도.",
   "부스러기처럼 조각이 하나씩 보이면 아니야. 손끝에 뽀얗게 묻고 훅 날리는 것, 그게 powder야."
  ],
+ "explanation_for_kids": null,
  "scene": "바닥에 분필로 그린 그림을 손으로 문질러 하얗게 번짐",
  "examples": [
   {
-   "en": "The dry snow flew up like white powder when I ran.",
-   "ko": "내가 달릴 때 마른 눈이 하얀 가루처럼 흩날렸어."
+   "en": "I spilled protein powder all over the kitchen floor.",
+   "ko": "부엌 바닥에 프로틴 가루를 다 쏟았어."
   }
  ],
  "quiz": [

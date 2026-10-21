@@ -11,30 +11,31 @@
  "word": "series",
  "slug": "series",
  "url": "https://hibbangyong.com/words/series/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "줄줄이 이어진 것들 — 같은 것이 하나씩 차례로 죽 이어진 한 묶음.",
  "gloss_ko": "줄줄이 이어진 것들",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "만화책 봐봐. 1권 끝나면 2권, 또 3권... 같은 이야기가 줄줄이 이어지지?",
   "꼭 만화만 그런 거 아니야. 비가 월요일, 화요일, 수요일 하루도 안 빠지고 계속 와도 이어진 거야.",
   "이렇게 같은 것들이 하나씩 차례로 죽 이어진 한 묶음, 그게 series야."
  ],
+ "explanation_for_kids": null,
  "scene": "만화책 1권부터 2·3권으로 죽 이어져 나오는 것",
  "examples": [
   {
-   "en": "We had a series of rainy days, so we couldn't play outside all week.",
-   "ko": "비 오는 날이 줄줄이 이어져서 한 주 내내 밖에서 못 놀았어."
+   "en": "We had a series of rainy days, so we stayed inside all week.",
+   "ko": "비 오는 날이 줄줄이 이어져서 한 주 내내 집에만 있었어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "책장에 만화책이 아니라 그림책 딱 한 권만 꽂혀 있어. 다음 권도 없고 그게 전부야. 이게 'series'야?",
+   "question": "책장에 소설책 딱 한 권만 꽂혀 있어. 다음 권도 없고 그게 전부야. 이게 'series'야?",
    "choices": [
     "응, series 맞아",
     "아니, series 아니야"

@@ -11,15 +11,21 @@
  "word": "fabric",
  "slug": "fabric",
  "url": "https://hibbangyong.com/words/fabric/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "천 — 옷이나 커튼, 이불을 만드는 부드러운 옷감",
  "gloss_ko": "천",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "네 티셔츠 한번 만져 봐. 부드럽지?",
+  "그 옷은 원래 넓고 판판한 천이었어. 그걸 잘라서 꿰맨 거야.",
+  "커튼도, 이불도, 가방도 다 천으로 만들어. 실을 촘촘히 짜서 만든 거라 접히고 구겨지거든.",
+  "종이나 비닐처럼 찢어지거나 바스락대는 거랑은 달라. 실로 짠 그 옷감, 그게 fabric이야."
+ ],
+ "explanation_for_kids": [
   "네 티셔츠 한번 만져 봐. 폭신폭신, 보들보들하지?",
   "그 옷은 원래 넓고 판판한 천이었어. 그걸 싹둑 잘라서 꿰맨 거야.",
   "커튼도, 이불도, 가방도 다 천으로 만들어. 실을 촘촘히 짜서 만든 거라 접히고 구겨지거든.",
@@ -28,8 +34,8 @@
  "scene": "티셔츠를 손으로 만져 보는 장면",
  "examples": [
   {
-   "en": "Mom bought some soft blue fabric to make new curtains.",
-   "ko": "엄마가 새 커튼을 만들려고 부드러운 파란 천을 사 왔어."
+   "en": "I bought some soft blue fabric to make new curtains.",
+   "ko": "새 커튼 만들려고 부드러운 파란 천을 샀어."
   }
  ],
  "quiz": [

@@ -11,20 +11,21 @@
  "word": "anthology",
  "slug": "anthology",
  "url": "https://hibbangyong.com/words/anthology/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "작품 모음집(선집) — 시, 소설, 노래 같은 작품을 여러 편 골라 한 권(한 묶음)에 모은 것",
  "gloss_ko": "작품 모음집",
  "level": {
   "code": "L9",
-  "name": "토플 114~120점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "도서관 시집 코너에 '현대 시 100선' 같은 책이 있잖아. 시인 한 명이 쓴 책이 아니고, 여러 시인의 좋은 시를 골라서 한 권에 모은 책이야.",
   "핵심은 따로따로 있던 작품을 골라서 한데 묶었다는 거야. 시 말고 단편 소설일 수도 있고, 노래 앨범일 수도 있어.",
   "그러니까 긴 소설 한 편만 들어 있는 책은 anthology가 아니야. 매달 새 글이 실려 나오는 잡지도 아니고.",
   "앞의 antho는 그리스어로 꽃이라는 뜻이야. 좋은 작품만 꽃처럼 골라 담은 꽃다발이라고 기억하면 돼."
  ],
+ "explanation_for_kids": null,
  "scene": "도서관 시집 코너의 여러 시인 시 모음집",
  "examples": [
   {
@@ -35,7 +36,7 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "국어 선생님이 여러 시인이 쓴 옛 시조 가운데 50편을 골라 한 권으로 엮었어. 이 책은 'anthology'일까?",
+   "question": "국문과 교수님이 여러 시인이 쓴 옛 시조 가운데 50편을 골라 한 권으로 엮었어. 이 책은 'anthology'일까?",
    "choices": [
     "응, anthology 맞아",
     "아니, anthology 아니야"

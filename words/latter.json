@@ -11,38 +11,39 @@
  "word": "latter",
  "slug": "latter",
  "url": "https://hibbangyong.com/words/latter/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "둘 중 뒤의 것 — 둘 중에서 (앞이 아니라) 뒤·나중에 오는 쪽. 두 개를 말했을 땐 뒤에 말한 것, 뭔가를 둘로 나눴을 땐 나중 쪽 절반이야.",
  "gloss_ko": "둘 중 뒤에 말한 쪽",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "하루를 아침이랑 저녁, 딱 둘로 나눠 봐. 그중 뒤에 오는 쪽은 저녁이지?",
   "latter가 바로 그거야. 앞이 아니라, 둘 중 뒤·나중에 오는 쪽을 콕 집는 말이거든?",
   "'제일 새것'이나 '꼴찌'란 뜻은 아니야. 보통 두 개를 말했을 때 뒤에 말한 거, 둘로 갈랐을 땐 뒤쪽이야! 앞쪽은 former야.",
   "이게 latter야."
  ],
+ "explanation_for_kids": null,
  "scene": "하루를 아침·저녁 둘로 나눠 뒤쪽인 저녁을 가리킴",
  "examples": [
   {
-   "en": "I like summer and winter, but the latter is more fun.",
-   "ko": "나는 여름이랑 겨울을 좋아하는데, 그중 뒤에 말한 거(겨울)가 더 재밌어."
+   "en": "I like summer and winter, but I prefer the latter.",
+   "ko": "여름도 겨울도 다 좋은데, 나는 뒤에 말한 겨울이 더 좋아."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "달리기 시합에서 언니가 먼저 뛰고 동생이 나중에 뛰었어. 나중에 뛴 동생을 콕 집어서 the latter라고 불렀어. 이렇게 부른 게 맞아?",
+   "question": "헬스장 러닝머신에서 선배가 먼저 뛰고 후배가 나중에 뛰었어. 나중에 뛴 후배를 콕 집어서 the latter라고 불렀어. 이렇게 부른 게 맞아?",
    "choices": [
     "응, latter 맞아",
     "아니, latter 아니야"
    ],
    "answer_index": 0,
    "answer": "응, latter 맞아",
-   "why": "맞아! 언니 먼저, 동생 나중 이렇게 딱 둘이 뛰었잖아. 둘 중에 뒤에 온 쪽이 동생이니까, 그 동생이 바로 the latter인 거야. 아주 잘 골랐어!"
+   "why": "맞아! 선배 먼저, 후배 나중 이렇게 딱 둘이 뛰었잖아. 둘 중에 뒤에 온 쪽이 후배니까, 그 후배가 바로 the latter인 거야. 잘 골랐어!"
   }
  ],
  "synonyms": [],

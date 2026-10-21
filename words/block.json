@@ -11,15 +11,21 @@
  "word": "block",
  "slug": "block",
  "url": "https://hibbangyong.com/words/block/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "막다 — 지나가려는 걸 가로막아 못 지나가게 하다",
  "gloss_ko": "막다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "복도 한가운데에 큰 상자가 턱 놓여 있어. 지나가려던 사람들이 딱 멈춰.",
+  "상자가 길을 가로막은 거야. 붙잡거나 부술 필요는 없어. 그냥 못 지나가게만 하면 돼.",
+  "커튼이 햇빛을 못 들어오게 해도 똑같아. 지나가려는 게 사람이든 빛이든 공이든 상관없거든.",
+  "그게 block이야."
+ ],
+ "explanation_for_kids": [
   "복도 한가운데에 큰 상자가 턱 놓여 있어. 지나가려던 애들이 딱 멈춰.",
   "상자가 길을 가로막은 거야. 붙잡거나 부술 필요는 없어. 그냥 못 지나가게만 하면 돼.",
   "커튼이 햇빛을 못 들어오게 해도 똑같아. 지나가려는 게 사람이든 빛이든 공이든 상관없거든.",
@@ -28,8 +34,8 @@
  "scene": "복도 한가운데 턱 놓인 큰 상자",
  "examples": [
   {
-   "en": "My little brother blocked the door, so I couldn't get in.",
-   "ko": "동생이 문을 막아서 들어갈 수가 없었어."
+   "en": "If you park here, you'll block the exit.",
+   "ko": "여기 주차하면 출구를 막게 돼."
   }
  ],
  "quiz": [

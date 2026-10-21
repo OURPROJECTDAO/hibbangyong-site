@@ -11,36 +11,42 @@
  "word": "visible",
  "slug": "visible",
  "url": "https://hibbangyong.com/words/visible/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "보이는 — 감춰지지 않아서 눈으로 볼 수 있는",
  "gloss_ko": "보이는",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "깜짝 파티 중이야. 커튼 뒤에 숨었는데 신발 코가 삐죽 나와 있어. 친구 눈에 그게 딱 들어와. 그럼 넌 visible이야.",
+  "밝고 예쁜 것만 그런 게 아니야. 컵에 난 실금처럼 아주 작아도, 안개 너머 산처럼 흐릿해도, 눈에 들어오기만 하면 돼.",
+  "이불 밑에 파묻힌 시계는 아니야. 째깍 소리는 나는데 눈엔 안 들어오니까.",
+  "또렷하냐 흐리냐를 따지는 말이 아니라, 눈으로 볼 수 있냐 없냐야. 그게 visible이야."
+ ],
+ "explanation_for_kids": [
   "숨바꼭질 중이야. 커튼 뒤에 쏙 숨었는데 신발 코가 삐죽 나와 있어. 술래 눈에 그게 딱 들어와. 그럼 넌 visible이야.",
   "밝고 예쁜 것만 그런 게 아니야. 컵에 난 실금처럼 아주 작아도, 안개 너머 산처럼 흐릿해도, 눈에 들어오기만 하면 돼.",
   "이불 밑에 파묻힌 시계는 아니야. 째깍 소리는 나는데 눈엔 안 들어오니까.",
   "또렷하냐 흐리냐를 따지는 말이 아니라, 눈으로 볼 수 있냐 없냐야. 그게 visible이야."
  ],
- "scene": "커튼 뒤에 숨었는데 삐죽 나온 신발 코가 술래 눈에 들어옴",
+ "scene": "커튼 뒤에 숨었는데 삐죽 나온 신발 코가 친구 눈에 들어옴",
  "examples": [
   {
-   "en": "A tiny crack was still visible on the cup.",
-   "ko": "컵에 작은 금이 여전히 눈에 보였어."
+   "en": "A tiny crack was still visible on my phone screen.",
+   "ko": "휴대폰 화면에 작은 금이 아직 눈에 보였어."
   }
  ],
  "quiz": [
   {
    "type": "choice",
-   "question": "교실 뒤 사물함 앞이야. 다음 중 지금 'visible'한 것은 뭘까?",
+   "question": "헬스장 탈의실 사물함 앞이야. 다음 중 지금 'visible'한 것은 뭘까?",
    "choices": [
     "사물함 위에 그냥 놓인 노란 우산",
     "사물함 안에 넣고 문을 닫아 둔 우산",
     "사물함 뒤 벽 틈으로 굴러 들어간 우산",
-    "교실 밖 복도 청소함에 넣어 둔 우산"
+    "탈의실 밖 복도 청소함에 넣어 둔 우산"
    ],
    "answer_index": 0,
    "answer": "사물함 위에 그냥 놓인 노란 우산",
@@ -59,7 +65,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/visible.webp",
-  "alt": "커튼 뒤에 숨었는데 삐죽 나온 신발 코가 술래 눈에 들어옴",
+  "alt": "커튼 뒤에 숨었는데 삐죽 나온 신발 코가 친구 눈에 들어옴",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

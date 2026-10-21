@@ -11,20 +11,21 @@
  "word": "vague",
  "slug": "vague",
  "url": "https://hibbangyong.com/words/vague/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "두루뭉술한 — 있긴 있는데 콕 집을 만큼 자세하진 않은",
  "gloss_ko": "두루뭉술한",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "친구한테 우리 언제 만나냐고 물었어. 친구가 \"음… 이따가쯤?\" 했어.",
   "이따가가 언제야? 아직 콕 집히지 않지?",
   "틀린 말도 아니고, 숨긴 것도 아니야. 어디쯤인지만 알고 한 점은 안 잡히는 거야.",
   "어렴풋이 떠오르는 옛날 기억도 이래. 이게 vague야."
  ],
+ "explanation_for_kids": null,
  "scene": "친구가 \"이따가쯤?\"이라고 한 약속 대답",
  "examples": [
   {
@@ -35,7 +36,7 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "형이 저녁에 뭐 먹었냐고 물으니까 동생이 \"국물 있는 거 먹었어\"라고 했어. 동생의 대답은 'vague'해?",
+   "question": "팀장님이 저녁에 뭐 먹었냐고 물으니까 동료가 \"국물 있는 거 먹었어\"라고 했어. 동료의 대답은 'vague'해?",
    "choices": [
     "응, vague 맞아",
     "아니, vague 아니야"

@@ -11,20 +11,21 @@
  "word": "theater",
  "slug": "theater",
  "url": "https://hibbangyong.com/words/theater/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "극장 — 무대에서 하는 걸 여러 사람이 앉아서 보는 곳",
  "gloss_ko": "극장",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "넓은 방에 의자가 쭉 줄지어 있어.",
   "앞쪽엔 무대가 있고, 사람들이 거기 앉아서 봐.",
   "웃긴 연극일 수도, 슬픈 노래극일 수도, 커다란 화면에 나오는 영화일 수도 있어. 뭘 보든 상관없거든?",
   "보는 사람들이 모여 앉는 그 건물, 그게 theater야."
  ],
+ "explanation_for_kids": null,
  "scene": "의자가 줄지어 있고 앞에 무대가 있는 넓은 방",
  "examples": [
   {

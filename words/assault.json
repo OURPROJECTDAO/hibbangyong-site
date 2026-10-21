@@ -11,25 +11,26 @@
  "word": "assault",
  "slug": "assault",
  "url": "https://hibbangyong.com/words/assault/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "습격 — 남을 갑자기 확 덮치듯 때리거나 밀고 들어가는 일",
  "gloss_ko": "습격",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "가만히 있는 사람한테 누가 확 달려들어서 밀치고 때렸어. 그게 assault야.",
   "꼭 사람한테만 쓰는 게 아니야. 군인들이 성벽으로 와락 몰려가서 들이치는 것도 assault라고 하거든?",
   "중요한 건 '먼저 확 덮친다'는 거야. 서로 붙어서 티격태격 싸운 게 아니라, 한쪽이 갑자기 들이친 거.",
   "말로만 무섭게 겁준 것도 아니고, 몰래 슬쩍 뭘 가져간 것도 아니야. 몸으로 확 들이친 것, 그게 assault야."
  ],
+ "explanation_for_kids": null,
  "scene": "가만히 있는 사람에게 누가 달려들어 밀치고 때린 장면",
  "examples": [
   {
-   "en": "The knights got ready for the assault on the castle gate.",
-   "ko": "기사들이 성문으로 쳐들어갈 준비를 했어."
+   "en": "Last night we watched a movie about the assault on the castle.",
+   "ko": "어젯밤에 성을 습격하는 이야기가 나오는 영화를 봤어."
   }
  ],
  "quiz": [

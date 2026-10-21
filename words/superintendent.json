@@ -11,20 +11,21 @@
  "word": "superintendent",
  "slug": "superintendent",
  "url": "https://hibbangyong.com/words/superintendent/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "관리 책임자 — 건물·경기장·한 지역 학교 전체처럼 어떤 곳이 제대로 돌아가도록 공식적으로 맡은 사람(학교 쪽이면 교육감)",
  "gloss_ko": "관리 책임자",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "아파트 엘리베이터가 갑자기 멈췄어. 누구한테 연락해야 할까?",
   "건물 주인은 아니야. 그 건물이 잘 돌아가게 맡은 사람한테 하지.",
   "이렇게 어떤 곳이나 일 전체를 맡아서 문제없이 굴러가게 하는 책임자가 superintendent야. 건물일 수도 있고, 경기장일 수도 있고, 한 지역 학교 전체일 수도 있어.",
   "그걸 가진 주인도, 한 가지 일만 하는 직원도 아니야. 전체가 잘 돌아가는지 책임지는 사람이야."
  ],
+ "explanation_for_kids": null,
  "scene": "아파트 엘리베이터가 멈춰서 연락할 책임자를 찾는 장면",
  "examples": [
   {

@@ -11,25 +11,26 @@
  "word": "grasp",
  "slug": "grasp",
  "url": "https://hibbangyong.com/words/grasp/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "꽉 붙잡음 — 손으로 꽉 쥐거나, 머리로 딱 붙잡아 이해하는 것.",
  "gloss_ko": "꽉 붙잡음",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "뭔가를 손으로 꽉 잡아봐. 놓치기 싫어서 힘줘서 딱 쥐는 거. 그 꽉 잡은 상태가 grasp야.",
   "근데 손으로만 잡는 게 아니야. 엄청 어려운 걸 머릿속으로 딱 붙잡아서 '아, 알겠다!' 하는 것도 grasp라고 불러.",
   "살짝 건드리기만 한 거랑은 달라. 힘줘서 꽉, 안 놓치게 붙잡은 거야.",
   "손으로든 머리로든 꽉 붙잡아 놓치지 않는 것. 그게 grasp야."
  ],
+ "explanation_for_kids": null,
  "scene": "손으로 물건을 힘줘서 꽉 쥐는 것",
  "examples": [
   {
-   "en": "Keep a tight grasp on the rope so you don't fall.",
-   "ko": "떨어지지 않게 밧줄을 꽉 붙잡고 있어."
+   "en": "Keep a firm grasp on the handrail when the subway stops.",
+   "ko": "지하철이 멈출 때는 손잡이를 꽉 잡고 있어."
   }
  ],
  "quiz": [

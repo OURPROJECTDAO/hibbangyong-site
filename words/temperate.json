@@ -11,25 +11,26 @@
  "word": "temperate",
  "slug": "temperate",
  "url": "https://hibbangyong.com/words/temperate/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "온화한 — 날씨가 아주 덥지도 아주 춥지도 않은",
  "gloss_ko": "온화한",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "사막은 너무 덥고, 북극은 너무 추워.",
   "temperate는 양쪽 끝 어디로도 치우치지 않은 날씨야. 여름과 겨울은 있어도 아주 심하게 덥거나 춥지는 않아.",
   "그냥 '따뜻한'이랑은 달라. 1년 내내 덥기만 해도 한쪽으로 치우친 날씨거든.",
   "사람한테 쓰면 화가 나도 막 터뜨리지 않고, 적당한 선을 지키는 태도를 말해."
  ],
+ "explanation_for_kids": null,
  "scene": "너무 더운 사막과 너무 추운 북극 사이의 날씨",
  "examples": [
   {
-   "en": "These apple trees grow best in a temperate climate.",
-   "ko": "이 사과나무들은 너무 덥지도 너무 춥지도 않은 곳에서 제일 잘 자라."
+   "en": "I want to move somewhere with a temperate climate.",
+   "ko": "나는 너무 덥지도 춥지도 않은 온화한 곳으로 이사 가고 싶어."
   }
  ],
  "quiz": [

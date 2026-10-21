@@ -11,25 +11,26 @@
  "word": "sharp",
  "slug": "sharp",
  "url": "https://hibbangyong.com/words/sharp/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "날카롭다 — 칼날이나 끝이 가늘어서 잘 베이거나 콕 찔리는",
  "gloss_ko": "날카롭다",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "방금 깎은 연필 끝을 손끝으로 살짝 눌러 봐. 따끔하지?",
   "끝이 가늘고 뾰족해서 그래.",
   "칼날도 그래. 아주 얇아서 쓱 하면 잘 베이거든.",
   "이렇게 끝이나 날이 가늘어서 잘 찌르고 잘 베는 게 sharp야."
  ],
+ "explanation_for_kids": null,
  "scene": "방금 깎은 연필 끝을 손끝으로 눌러 따끔한 장면",
  "examples": [
   {
-   "en": "Don't touch the tip — it's very sharp and it hurts.",
-   "ko": "끝은 만지지 마, 엄청 날카로워서 아파."
+   "en": "Careful, this kitchen knife is really sharp.",
+   "ko": "조심해, 이 부엌칼 진짜 날카로워."
   }
  ],
  "quiz": [

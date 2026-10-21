@@ -11,25 +11,26 @@
  "word": "structure",
  "slug": "structure",
  "url": "https://hibbangyong.com/words/structure/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "짜임새 — 부분들이 서로 어떻게 놓이고 이어져서 하나가 되는지(또는 그렇게 짜인 것)",
  "gloss_ko": "짜임새",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "너랑 친구랑 똑같은 블록 열 개씩 받았어. 그런데 네 건 흔들흔들, 친구 건 딱 버텨.",
   "블록이 다른 게 아니야. 뭘 아래에 놓고 뭐가 뭘 받치게 했느냐, 그 짜임이 다른 거거든?",
   "그러니까 부분 하나하나 말고, 그것들이 서로 어떻게 놓이고 이어졌냐를 말하는 거야. 글도 그래 — 어떤 차례로 이어붙였냐. 잘 짜일 수도 있고 엉망일 수도 있어.",
   "겉이 어떻게 생겼냐가 아니라, 속에서 뭐가 뭘 붙들고 있냐지. 이게 structure야."
  ],
+ "explanation_for_kids": null,
  "scene": "똑같은 블록 열 개로 쌓은 두 탑 — 하나는 흔들리고 하나는 딱 버팀",
  "examples": [
   {
-   "en": "We used the same blocks, but my structure kept wobbling.",
-   "ko": "우리는 똑같은 블록을 썼는데, 내가 만든 구조물은 자꾸 흔들렸어."
+   "en": "Every team got the same blocks, but our structure kept wobbling.",
+   "ko": "모든 팀이 똑같은 블록을 받았는데, 우리 구조물만 자꾸 흔들렸어."
   }
  ],
  "quiz": [

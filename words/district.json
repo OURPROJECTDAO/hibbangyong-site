@@ -11,31 +11,32 @@
  "word": "district",
  "slug": "district",
  "url": "https://hibbangyong.com/words/district/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "구역 — 큰 도시나 나라를 미리 정해 놓은 금으로 갈라 놓은 조각 하나. 조각마다 이름이나 번호가 붙고, 정해진 것도 조각마다 달라.",
  "gloss_ko": "구역",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "큰 도시나 나라는 통째로 하나가 아니거든? 안이 조각조각 갈라져 있어. 어디부터 어디까지인지 미리 정해 놓고 말이야.",
   "조각마다 이름이나 번호가 붙어. 그리고 조각이 다르면 정해진 게 달라. 쓰레기 버리는 날도, 다니는 학교도, 뽑는 사람도.",
   "사람이 사는 조각도 있고, 공장만 모인 조각도 있고, 사람 거의 없는 산속 조각도 다 조각이야. 도시 전체를 통째로 부르는 것도 아니고, 대충 '이 근처' 하고 손 휘젓는 것도 아니고.",
   "그게 district야."
  ],
+ "explanation_for_kids": null,
  "scene": "큰 도시나 나라 안이 미리 정해 놓은 금으로 조각조각 갈라져 있는 모습",
  "examples": [
   {
-   "en": "Grandma lives in a quiet district on the other side of the city.",
-   "ko": "할머니는 도시 반대편 조용한 구역에 사셔."
+   "en": "My new office is in a busy district downtown.",
+   "ko": "새 사무실은 시내 번화한 구역에 있어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "삼촌이 산속 마을로 이사 갔대. 집이 열 채밖에 없고 가게도 하나 없어. 근데 우체국 아저씨가 말하길, 저 고개 너머부터는 딴 데라서 이쪽이랑 번호가 다르고, 눈 치우는 차도 이쪽 것만 온대. 삼촌이 사는 이런 데도 'district'야?",
+   "question": "삼촌이 산속 마을로 이사 갔대. 집이 열 채밖에 없고 가게도 하나 없어. 근데 우체국 직원이 말하길, 저 고개 너머부터는 딴 데라서 이쪽이랑 번호가 다르고, 눈 치우는 차도 이쪽 것만 온대. 삼촌이 사는 이런 데도 'district'야?",
    "choices": [
     "응, district 맞아.",
     "아니, district 아니야."

@@ -11,25 +11,26 @@
  "word": "patch",
  "slug": "patch",
  "url": "https://hibbangyong.com/words/patch/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "작은 부분 — 둘레와 다르게 보이는 조그만 자리 (잔디밭에 마른 곳, 눈밭에 녹은 곳처럼)",
  "gloss_ko": "둘레와 다른 작은 자리",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "초록 잔디밭 봐봐, 딱 한 군데만 누렇게 말랐지?",
   "눈밭에 녹은 곳, 볼에 빨개진 곳도 똑같아. 둘레랑 달라 보이는 작은 자리거든.",
   "구멍은 아니야. 떼어 낸 조각도 아니야. 그 자리에 그대로 붙어 있어.",
   "둘레랑 다르게 보이는 그 조그만 자리, 그게 patch야."
  ],
+ "explanation_for_kids": null,
  "scene": "초록 잔디밭에 한 군데만 누렇게 마른 곳",
  "examples": [
   {
-   "en": "There is a dry patch in the green grass.",
-   "ko": "초록 잔디밭에 바싹 마른 곳이 한 군데 있어."
+   "en": "There's an icy patch near the subway exit.",
+   "ko": "지하철 출구 근처에 얼어서 미끄러운 곳이 한 군데 있어."
   }
  ],
  "quiz": [

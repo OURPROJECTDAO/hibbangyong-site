@@ -11,25 +11,26 @@
  "word": "strait",
  "slug": "strait",
  "url": "https://hibbangyong.com/words/strait/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "해협 — 두 땅덩어리 사이에 끼어서 바다와 바다를 이어 주는 좁은 물길",
  "gloss_ko": "해협",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "지도에서 큰 땅 두 개가 서로 딱 붙을 것처럼 가까이 있는 곳을 찾아봐.",
   "그 사이에 좁게 남은 바닷물 길이 보일 거야. 양쪽 바다를 이어 주는 길이지.",
   "이게 strait야. 사방이 물인 섬이나, 땅이 바다 쪽으로 튀어나온 곳이랑은 달라. 물이 땅 사이로 좁게 지나가는 길이야.",
   "강은 땅 위를 흘러가는 민물이잖아. strait는 바닷물이 이쪽 바다에서 저쪽 바다로 건너가는 통로야. 그리고 사람이 땅을 파서 만든 운하(canal)와 달리, strait는 자연이 만든 물길이야."
  ],
+ "explanation_for_kids": null,
  "scene": "지도에서 가까이 붙은 두 땅 사이의 좁은 바닷길",
  "examples": [
   {
-   "en": "Big ships wait for hours to pass through the narrow strait between the two countries.",
-   "ko": "큰 배들이 두 나라 사이 좁은 해협을 지나가려고 몇 시간씩 기다려."
+   "en": "We took a ferry across the strait to visit the island.",
+   "ko": "섬에 가려고 배를 타고 해협을 건넜어."
   }
  ],
  "quiz": [

@@ -11,23 +11,24 @@
  "word": "knight",
  "slug": "knight",
  "url": "https://hibbangyong.com/words/knight/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "기사 — 옛날에 갑옷을 입고 칼과 방패로 싸우던 사람",
  "gloss_ko": "갑옷 입은 기사",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "갑옷을 입고 방패와 칼을 든 이 사람이 knight예요.",
   "옛날 성과 임금님을 지키던 병사로, 동화나 만화에서 용과 싸우는 모습으로 자주 나와요."
  ],
+ "explanation_for_kids": null,
  "scene": "반짝이는 은빛 갑옷을 입고 방패와 검을 든 씩씩한 중세 기사(사람)가 화면 중앙에 전신으로 서 있는 모습",
  "examples": [
   {
-   "en": "The brave knight rode his horse to the castle.",
-   "ko": "용감한 기사가 말을 타고 성으로 갔어."
+   "en": "Our castle tour guide was dressed as a knight.",
+   "ko": "성 투어 가이드가 기사 차림을 하고 있었어."
   }
  ],
  "quiz": [

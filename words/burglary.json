@@ -11,25 +11,31 @@
  "word": "burglary",
  "slug": "burglary",
  "url": "https://hibbangyong.com/words/burglary/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "침입 절도 — 남의 집이나 가게, 사무실 같은 건물에 몰래 들어가서 물건을 훔치는 범죄",
  "gloss_ko": "몰래 들어가 훔침",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "아침에 회사 앞 가게에 갔는데 유리문이 깨져 있고 돈통이 텅 비어 있었어.",
+  "밤사이 누가 몰래 들어와서 훔쳐 간 거야. 그게 burglary야.",
+  "가게든 집이든 사무실이든 상관없고, 사람이 안에서 자고 있었어도 똑같아.",
+  "대신 길에서 사람을 협박해서 뺏는 강도랑은 달라. 핵심은 건물 안으로 몰래 들어간다는 거야."
+ ],
+ "explanation_for_kids": [
   "아침에 학교 앞 가게에 갔는데 유리문이 깨져 있고 돈통이 텅 비어 있었어.",
   "밤사이 누가 몰래 들어와서 훔쳐 간 거야. 그게 burglary야.",
   "가게든 집이든 사무실이든 상관없고, 사람이 안에서 자고 있었어도 똑같아.",
   "대신 길에서 사람을 협박해서 뺏는 강도랑은 달라. 핵심은 건물 안으로 몰래 들어간다는 거야."
  ],
- "scene": "밤사이 유리문이 깨지고 돈통이 털린 학교 앞 가게",
+ "scene": "밤사이 유리문이 깨지고 돈통이 털린 회사 앞 가게",
  "examples": [
   {
-   "en": "There was a burglary at the shop near our school last night.",
-   "ko": "어젯밤에 우리 학교 근처 가게에 도둑이 몰래 들어서 물건을 털어 갔대."
+   "en": "There was a burglary at the café near my office last night.",
+   "ko": "어젯밤에 우리 회사 근처 카페에 도둑이 들었대."
   }
  ],
  "quiz": [
@@ -61,7 +67,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/burglary.webp",
-  "alt": "밤사이 유리문이 깨지고 돈통이 털린 학교 앞 가게",
+  "alt": "밤사이 유리문이 깨지고 돈통이 털린 회사 앞 가게",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

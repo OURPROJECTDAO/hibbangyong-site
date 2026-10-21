@@ -11,38 +11,44 @@
  "word": "euphemism",
  "slug": "euphemism",
  "url": "https://hibbangyong.com/words/euphemism/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "완곡한 표현 — 듣기 거북한 말을 부드러운 말로 바꿔서 돌려 말하는 것",
  "gloss_ko": "돌려 말한 표현",
  "level": {
   "code": "L9",
-  "name": "토플 114~120점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "팀장님이 평가표에 '노력이 조금 더 필요해요'라고 써 줬어. 진짜 뜻은 '일 안 했네'지.",
+  "이렇게 듣기 불편한 말을 부드러운 말로 바꿔 끼운 게 euphemism이야.",
+  "사실은 그대로 두고 말만 둥글게 바꾼 거라서, 없는 걸 지어내는 거짓말이랑은 달라.",
+  "상대를 배려해서 쓸 때도 있지만, 회사가 사람을 내보내면서 '인원 정리'라고 흐릴 때처럼 나쁜 일을 가리려고 쓸 때도 있어."
+ ],
+ "explanation_for_kids": [
   "선생님이 성적표에 '노력이 조금 더 필요해요'라고 써 줬어. 진짜 뜻은 '공부 안 했네'지.",
   "이렇게 듣기 불편한 말을 부드러운 말로 바꿔 끼운 게 euphemism이야.",
   "사실은 그대로 두고 말만 둥글게 바꾼 거라서, 없는 걸 지어내는 거짓말이랑은 달라.",
   "상대를 배려해서 쓸 때도 있지만, 회사가 사람을 내보내면서 '인원 정리'라고 흐릴 때처럼 나쁜 일을 가리려고 쓸 때도 있어."
  ],
- "scene": "성적표에 '노력이 더 필요해요'라고 쓴 선생님",
+ "scene": "평가표에 '노력이 더 필요해요'라고 쓴 팀장님",
  "examples": [
   {
-   "en": "My dad says he is 'between jobs,' but that's just a euphemism — he lost his job last month.",
-   "ko": "아빠는 '잠깐 쉬는 중'이라는데 그건 돌려 말한 거고, 사실 지난달에 회사에서 잘렸어."
+   "en": "My friend says she's 'between jobs,' but that's just a euphemism for being unemployed.",
+   "ko": "친구는 '잠깐 쉬는 중'이라는데, 그건 백수라는 말을 돌려 말한 거야."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "할머니 댁 강아지가 늙어서 죽었어. 엄마가 어린 동생에게 \"강아지가 무지개다리를 건넜어\"라고 말했어. 엄마의 이 말은 'euphemism'이야?",
+   "question": "친구네 강아지가 늙어서 죽었어. 친구가 나에게 \"강아지가 무지개다리를 건넜어\"라고 말했어. 친구의 이 말은 'euphemism'이야?",
    "choices": [
     "응, euphemism 맞아",
     "아니, euphemism 아니야"
    ],
    "answer_index": 0,
    "answer": "응, euphemism 맞아",
-   "why": "맞아! 강아지가 죽은 건 그대로인데, 엄마가 어린 동생이 덜 슬프게 그 말만 \"무지개다리를 건넜어\"로 바꿨잖아. 사실은 그대로 두고 말만 부드럽게 바꿨으니까 바로 그게 euphemism인 거야."
+   "why": "맞아! 강아지가 죽은 건 그대로인데, 친구가 덜 슬프게 말하려고 그 말만 \"무지개다리를 건넜어\"로 바꿨잖아. 사실은 그대로 두고 말만 부드럽게 바꿨으니까 바로 그게 euphemism인 거야."
   }
  ],
  "synonyms": [],

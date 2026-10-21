@@ -11,20 +11,21 @@
  "word": "ordinary",
  "slug": "ordinary",
  "url": "https://hibbangyong.com/words/ordinary/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "보통의 — 놀랄 것도 특별할 것도 없는, 늘 보는 그런",
  "gloss_ko": "보통의",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "창밖에 비가 와. 그냥 비야. 우산 쓰고 나가면 되는, 늘 오던 그런 비.",
   "그런데 어떤 날은 바람이 창문을 쿵쿵 흔들고 나무가 휘어져. 그건 그냥 비가 아니지? 놀랄 게 있으니까.",
   "그냥 비는 좋은 것도 나쁜 것도 아니야. 놀랄 게 없을 뿐이야. 비 오는 날 신나게 놀 수도 있어.",
   "많아서 그런 것도 아니야. 가게에 딱 하나 남은 거라도 보고 그냥 지나가면 그거야. 그게 ordinary야."
  ],
+ "explanation_for_kids": null,
  "scene": "우산 쓰고 나가면 되는, 늘 오던 그런 비",
  "examples": [
   {
@@ -35,14 +36,14 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "급식실 앞 복도 벽에 초록색 게시판이 걸려 있어. 지나가는 애들이 아무도 고개를 돌리지 않고 그냥 지나가. 이 게시판은 'ordinary'해?",
+   "question": "회사 식당 앞 복도 벽에 초록색 게시판이 걸려 있어. 지나가는 사람들이 아무도 고개를 돌리지 않고 그냥 지나가. 이 게시판은 'ordinary'해?",
    "choices": [
     "응, ordinary 맞아",
     "아니, ordinary 아니야"
    ],
    "answer_index": 0,
    "answer": "응, ordinary 맞아",
-   "why": "맞아! 지나가는 애들이 아무도 고개를 안 돌렸잖아. 눈길이 안 머문다는 건 놀랄 게 없다는 뜻이거든. 그래서 이 게시판은 ordinary인 거야."
+   "why": "맞아! 지나가는 사람들이 아무도 고개를 안 돌렸잖아. 눈길이 안 머문다는 건 놀랄 게 없다는 뜻이거든. 그래서 이 게시판은 ordinary인 거야."
   }
  ],
  "synonyms": [

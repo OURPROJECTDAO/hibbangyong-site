@@ -11,25 +11,26 @@
  "word": "effect",
  "slug": "effect",
  "url": "https://hibbangyong.com/words/effect/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "결과 — 어떤 일 때문에 뒤따라 생긴 변화(좋은 쪽도 나쁜 쪽도, 크든 아주 작든, 마음속 변화도)",
  "gloss_ko": "뒤따라 생긴 변화",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "돌멩이 하나를 연못에 던졌어. 퐁당! 그다음 물이 동그랗게 퍼져 나가지? 그 퍼지는 물결, 그게 돌 때문에 생긴 거야.",
   "이렇게 뭔가가 일으킨 딴 일을 말해. 좋은 쪽이든 나쁜 쪽이든, 확 바뀌든 아주 조금만 바뀌든 다 똑같이 이거야. 약을 먹고 열이 내려간 것도, 늦게 자서 다음 날 졸린 것도.",
   "눈에 보이는 것만도 아니야. 조용한 노래를 틀었더니 시끄럽던 마음이 가라앉은 것도 이거거든. 대신 던진 돌 자체는 아니야. 돌은 시작이고, 이건 뒤에 따라온 물결 쪽이야.",
   "그게 effect야."
  ],
+ "explanation_for_kids": null,
  "scene": "연못에 던진 돌멩이 뒤로 퍼지는 물결",
  "examples": [
   {
-   "en": "Staying up late had a bad effect on my day at school.",
-   "ko": "늦게 잔 탓에 학교에서 보낸 하루가 엉망이 됐어."
+   "en": "Staying up late had a bad effect on my day at college.",
+   "ko": "늦게 잔 게 학교에서 보낸 하루에 안 좋은 영향을 줬어."
   }
  ],
  "quiz": [

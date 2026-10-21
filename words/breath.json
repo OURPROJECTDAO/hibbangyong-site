@@ -11,31 +11,32 @@
  "word": "breath",
  "slug": "breath",
  "url": "https://hibbangyong.com/words/breath/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "숨 — 코나 입으로 한 번 들이쉬거나 내쉬는 공기",
  "gloss_ko": "숨",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "물속에 쏙 들어가기 직전, 공기를 크게 들이마셔봐.",
   "가슴이 빵빵하게 차오르지?",
   "그렇게 한 번 들이쉬거나 내쉬는 공기, 그걸 숨이라고 해.",
   "달릴 때 \"헉헉\"도, 촛불 \"후—\" 끄는 것도 다 이거야. 이게 breath야."
  ],
+ "explanation_for_kids": null,
  "scene": "물속에 들어가기 직전 공기를 크게 들이마시는 장면",
  "examples": [
   {
-   "en": "Before I dived under the water, I took a deep breath.",
-   "ko": "물속에 들어가기 전에 나는 숨을 크게 들이쉬었어."
+   "en": "Before my job interview, I took a deep breath.",
+   "ko": "면접 들어가기 전에 숨을 크게 들이쉬었어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "동생이 유리창에 얼굴을 가까이 대고 입으로 \"하—\" 하고 공기를 내보내니까 유리가 뿌옇게 됐어. 동생이 유리에 내보낸 그게 'breath'야?",
+   "question": "친구가 유리창에 얼굴을 가까이 대고 입으로 \"하—\" 하고 공기를 내보내니까 유리가 뿌옇게 됐어. 친구가 유리에 내보낸 그게 'breath'야?",
    "choices": [
     "응, breath 맞아",
     "아니, breath 아니야"

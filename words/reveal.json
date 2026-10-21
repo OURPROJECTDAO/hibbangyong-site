@@ -11,25 +11,26 @@
  "word": "reveal",
  "slug": "reveal",
  "url": "https://hibbangyong.com/words/reveal/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "가려져 있던 걸 드러내서 보이게 하다 — 아무도 모르던 걸 알게 해 주는 것도 이거야",
  "gloss_ko": "가려진 걸 드러내다",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "벽에 커다란 천이 걸려 있었어. 걷었더니 밑에 쫙 금 간 자국이 있었지. 가려져서 안 보이던 게 그제야 나온 거야.",
   "좋은 것만 그러는 게 아니야. 숨겨 뒀던 선물도, 감추던 잘못도 이렇게 나와.",
   "입으로도 돼. 아무도 모르던 걸 말해 줘서 알게 해도 똑같아.",
   "원래부터 보이던 걸 가리켜 주는 거랑은 달라. 가려진 걸 걷어내서 알게 하는 거, 그게 reveal이야."
  ],
+ "explanation_for_kids": null,
  "scene": "천이 걸린 벽 — 걷어내자 나온 금 간 자국",
  "examples": [
   {
-   "en": "Dad pulled the cloth off, and it revealed a big crack in the wall.",
-   "ko": "아빠가 천을 걷어내자 벽에 큰 금이 드러났어."
+   "en": "I opened the curtains to reveal a sunny morning.",
+   "ko": "커튼을 열자 햇살 가득한 아침이 드러났어."
   }
  ],
  "quiz": [

@@ -11,21 +11,22 @@
  "word": "absolute",
  "slug": "absolute",
  "url": "https://hibbangyong.com/words/absolute/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "완전한 — 예외도 한계도 조금도 없이 딱 100%인",
  "gloss_ko": "완전한",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "방에 불을 딱 껐어. 근데 그냥 어두운 게 아니야.",
   "반쯤 어두운 것도 아니고, 어디 한 군데 희미하게 남은 빛도 없어.",
   "예외가 하나도 없이 끝까지 다 깜깜해. 더 어두워질 것도 없어, 딱 100%.",
   "이렇게 예외도 한계도 조금도 없이 완전히 그런 게 absolute야."
  ],
- "scene": "불을 꺼 예외 없이 끝까지 100% 깜깜해진 어둠 (child 앵커)",
+ "explanation_for_kids": null,
+ "scene": "불을 꺼 예외 없이 끝까지 100% 깜깜해진 어둠",
  "examples": [
   {
    "en": "When the movie started, there was absolute silence in the theater.",
@@ -80,7 +81,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/absolute.webp",
-  "alt": "불을 꺼 예외 없이 끝까지 100% 깜깜해진 어둠 (child 앵커)",
+  "alt": "불을 꺼 예외 없이 끝까지 100% 깜깜해진 어둠",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

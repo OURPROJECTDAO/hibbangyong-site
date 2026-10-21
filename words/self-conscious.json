@@ -11,15 +11,21 @@
  "word": "self-conscious",
  "slug": "self-conscious",
  "url": "https://hibbangyong.com/words/self-conscious/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "남의 눈을 의식하는 — 남들이 날 어떻게 볼지 신경 쓰여서 어색하고 쑥스러운",
  "gloss_ko": "남 눈 의식하는",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "평소엔 모임에서 제일 잘 떠드는 애도, 누가 폰 카메라를 딱 켜면 말이 갑자기 꼬여.",
+  "다들 나만 보는 것 같고, 내가 이상해 보일까 봐 신경 쓰여서 그래.",
+  "옷, 목소리, 말투… 남 눈에 어떻게 보일지 계속 신경 쓰는 그 상태야.",
+  "원래 수줍은 성격이랑은 달라. 당당한 애도 그 순간엔 이렇게 될 수 있어."
+ ],
+ "explanation_for_kids": [
   "평소엔 반에서 제일 잘 떠드는 애도, 누가 폰 카메라를 딱 켜면 말이 갑자기 꼬여.",
   "다들 나만 보는 것 같고, 내가 이상해 보일까 봐 신경 쓰여서 그래.",
   "옷, 목소리, 말투… 남 눈에 어떻게 보일지 계속 신경 쓰는 그 상태야.",
@@ -28,8 +34,8 @@
  "scene": "잘 떠드는 애가 폰 카메라가 켜지자 말이 꼬이는 장면",
  "examples": [
   {
-   "en": "I felt self-conscious about my new haircut all day.",
-   "ko": "새로 자른 머리 때문에 하루 종일 남들 눈이 신경 쓰였어."
+   "en": "I felt self-conscious speaking English in front of my coworkers.",
+   "ko": "동료들 앞에서 영어로 말하니까 남들 눈이 신경 쓰였어."
   }
  ],
  "quiz": [

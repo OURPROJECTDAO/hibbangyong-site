@@ -11,25 +11,31 @@
  "word": "startling",
  "slug": "startling",
  "url": "https://hibbangyong.com/words/startling/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "놀라운 — 생각과 너무 달라서 깜짝 놀랄 만한 (좋은 일에도, 나쁜 일에도 써)",
  "gloss_ko": "깜짝 놀랄 만한",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "뉴스를 봤는데 대학생 열 명 중 네 명이 아침을 굶는대. 생각보다 훨씬 많아서 순간 멈칫했지.",
+  "예상이랑 너무 달라서 깜짝 놀라게 되는 것, 그게 startling이야.",
+  "좋은 소식에도 써. 꼴찌 팀이 우승하면 그것도 startling한 결과야.",
+  "그냥 좀 의외인 정도보다는 훨씬 세. 그렇다고 무섭다는 뜻은 아니야."
+ ],
+ "explanation_for_kids": [
   "뉴스를 봤는데 중학생 열 명 중 네 명이 아침을 굶는대. 생각보다 훨씬 많아서 순간 멈칫했지.",
   "예상이랑 너무 달라서 깜짝 놀라게 되는 것, 그게 startling이야.",
   "좋은 소식에도 써. 꼴찌 팀이 우승하면 그것도 startling한 결과야.",
   "그냥 좀 의외인 정도보다는 훨씬 세. 그렇다고 무섭다는 뜻은 아니야."
  ],
- "scene": "뉴스 통계: 중학생 열 명 중 네 명이 아침을 굶음",
+ "scene": "뉴스 통계: 대학생 열 명 중 네 명이 아침을 굶음",
  "examples": [
   {
-   "en": "The results were startling: almost half of the students skip breakfast.",
-   "ko": "결과가 깜짝 놀랄 정도였어, 학생 절반 가까이가 아침을 거른대."
+   "en": "The news was startling: our favorite café is closing next week.",
+   "ko": "깜짝 놀랄 소식이었어. 우리가 제일 좋아하는 카페가 다음 주에 문을 닫는대."
   }
  ],
  "quiz": [

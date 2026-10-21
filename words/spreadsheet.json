@@ -11,40 +11,46 @@
  "word": "spreadsheet",
  "slug": "spreadsheet",
  "url": "https://hibbangyong.com/words/spreadsheet/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "스프레드시트 — 가로줄과 세로줄로 나뉜 칸에 숫자나 목록을 넣으면 계산까지 해 주는 컴퓨터 표 프로그램(또는 그렇게 만든 표 파일)",
  "gloss_ko": "스프레드시트",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "친구들 운동 기록을 컴퓨터로 정리한다고 해 봐.",
+  "가로줄, 세로줄로 칸이 쫙 나뉜 화면에 이름이랑 기록을 하나씩 넣어.",
+  "그럼 합계나 평균은 프로그램이 알아서 계산해 줘. 돈, 점수, 명단 뭐든 담을 수 있어.",
+  "공책에 손으로 그린 표나, 글만 쓰는 프로그램이랑은 달라."
+ ],
+ "explanation_for_kids": [
   "반 친구들 체육 기록을 컴퓨터로 정리한다고 해 봐.",
   "가로줄, 세로줄로 칸이 쫙 나뉜 화면에 이름이랑 기록을 하나씩 넣어.",
   "그럼 합계나 평균은 프로그램이 알아서 계산해 줘. 돈, 점수, 명단 뭐든 담을 수 있어.",
   "공책에 손으로 그린 표나, 글만 쓰는 프로그램이랑은 달라."
  ],
- "scene": "반 친구들 체육 기록을 컴퓨터 표에 정리하기",
+ "scene": "친구들 운동 기록을 컴퓨터 표에 정리하기",
  "examples": [
   {
-   "en": "My mom keeps a spreadsheet of everything we spend each month.",
-   "ko": "우리 엄마는 매달 우리가 쓰는 돈을 전부 스프레드시트에 정리해 둬."
+   "en": "I keep a spreadsheet of everything I spend each month.",
+   "ko": "매달 쓰는 돈을 전부 스프레드시트에 정리해 둬."
   }
  ],
  "quiz": [
   {
    "type": "choice",
-   "question": "네 친구가 반 체육 기록으로 각자 뭔가를 만들었어. 'spreadsheet'를 쓴 친구는 누구일까?",
+   "question": "친구 넷이 운동 기록으로 각자 뭔가를 만들었어. 'spreadsheet'를 쓴 친구는 누구일까?",
    "choices": [
     "기록을 공책에 자로 줄을 그어 칸을 만든 뒤 손으로 적었어",
     "기록에 대한 소감을 컴퓨터에 긴 글로 써서 저장했어",
-    "기록을 컴퓨터 칸에 넣었더니 반 평균이 자동으로 나왔어",
+    "기록을 컴퓨터 칸에 넣었더니 평균이 자동으로 나왔어",
     "기록을 막대그래프 그림 한 장으로만 그려서 발표했어"
    ],
    "answer_index": 2,
-   "answer": "기록을 컴퓨터 칸에 넣었더니 반 평균이 자동으로 나왔어",
-   "why": "맞아! 기록을 컴퓨터 칸에 넣었더니 반 평균이 알아서 나왔잖아. 칸에 넣기만 하면 계산까지 해 주는 컴퓨터 표, 바로 그게 spreadsheet야."
+   "answer": "기록을 컴퓨터 칸에 넣었더니 평균이 자동으로 나왔어",
+   "why": "맞아! 기록을 컴퓨터 칸에 넣었더니 평균이 알아서 나왔잖아. 칸에 넣기만 하면 계산까지 해 주는 컴퓨터 표, 바로 그게 spreadsheet야."
   }
  ],
  "synonyms": [],
@@ -60,7 +66,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/spreadsheet.webp",
-  "alt": "반 친구들 체육 기록을 컴퓨터 표에 정리하기",
+  "alt": "친구들 운동 기록을 컴퓨터 표에 정리하기",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

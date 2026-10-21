@@ -11,31 +11,32 @@
  "word": "appear",
  "slug": "appear",
  "url": "https://hibbangyong.com/words/appear/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "나타나다 — 안 보이던 것이 눈에 보이게 되다",
  "gloss_ko": "나타나다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "저녁 하늘을 가만히 보고 있어 봐. 아까까진 아무것도 없던 자리에 별 하나가 딱 보여.",
   "그 별이 방금 새로 만들어진 건 아니거든? 그냥 이제 우리 눈에 보이게 된 거야.",
   "벽에 없던 금이 슬금슬금 보이는 것도, 안개 속에서 다리가 스윽 드러나는 것도 똑같아.",
   "누가 걸어 들어와야만 하는 것도 아니고, 있던 게 없어지는 거랑은 반대쪽이야. 안 보이던 게 보이는 쪽으로 넘어오면, 그게 appear야."
  ],
+ "explanation_for_kids": null,
  "scene": "저녁 하늘에 별 하나가 처음 눈에 띄는 순간",
  "examples": [
   {
-   "en": "Words appeared on the screen one by one.",
-   "ko": "글자들이 화면에 하나씩 나타났어."
+   "en": "New messages appear at the bottom of the chat.",
+   "ko": "새 메시지는 채팅방 맨 아래에 나타나."
   }
  ],
  "quiz": [
   {
    "type": "choice",
-   "question": "아이 넷이 방금 겪은 일을 한 줄씩 적었어. 이 중 'appear'에 해당하는 건 어느 것이야?",
+   "question": "방금 있었던 일 네 가지 중에 'appear'에 해당하는 건 어느 거야?",
    "choices": [
     "구름이 걷히자 산 위에 무지개가 눈에 들어왔어.",
     "우산을 접어서 가방 옆에 세워 두었어.",

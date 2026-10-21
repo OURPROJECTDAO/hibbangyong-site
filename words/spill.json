@@ -11,28 +11,29 @@
  "word": "spill",
  "slug": "spill",
  "url": "https://hibbangyong.com/words/spill/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "쏟다 — 담겨 있던 게 밖으로 흘러나오게 하다(또는 저절로 흘러나오다)",
  "gloss_ko": "쏟다",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "컵에 물이 담겨 있어. 그 안에 얌전히 있었지.\n근데 팔꿈치가 컵을 툭 쳤어. 물이 컵 밖으로 주르륵.\n담겨 있던 게 밖으로 나와 버린 거야. 일부러가 아니라도 그래.\n가루도, 콩도, 사람들도 문 밖으로 우르르 나오면 똑같이 쓸 수 있어.\n그냥 밖으로 새어 나가는 것(leak)이랑은 달라. 그게 spill이야."
  ],
+ "explanation_for_kids": null,
  "scene": "팔꿈치가 컵을 쳐서 물이 컵 밖으로 흐르는 장면",
  "examples": [
   {
-   "en": "I bumped the table and my juice spilled all over my drawing.",
-   "ko": "내가 책상을 툭 쳐서 주스가 그림 위에 다 쏟아졌어."
+   "en": "I always spill coffee on my desk at work.",
+   "ko": "나는 회사에서 맨날 책상에 커피를 쏟아."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "동생이 우유가 담긴 그릇을 들고 가다가 발이 미끄러졌어. 그릇이 기울면서 우유가 그릇 밖 식탁으로 좌악 퍼졌어. 이게 'spill'이야?",
+   "question": "친구가 우유가 담긴 그릇을 들고 가다가 발이 미끄러졌어. 그릇이 기울면서 우유가 그릇 밖 식탁으로 좌악 퍼졌어. 이게 'spill'이야?",
    "choices": [
     "응, spill 맞아",
     "아니, spill 아니야"

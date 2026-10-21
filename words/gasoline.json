@@ -11,15 +11,21 @@
  "word": "gasoline",
  "slug": "gasoline",
  "url": "https://hibbangyong.com/words/gasoline/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "휘발유 — 차나 기계 엔진을 돌게 하는, 불붙는 기름",
  "gloss_ko": "휘발유",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "주유소에서 차를 세우고 호스를 꽂아서 뭘 넣잖아. 그게 gasoline이야.",
+  "그냥 물 같아 보이는데 냄새가 훅 나고, 불이 확 붙어. 그래서 엔진 안에서 펑펑 터지면서 차를 굴러가게 하는 거야.",
+  "차만 그런 게 아니야. 잔디 깎는 기계도, 배도, 발전기도 이걸 먹고 돌아. 통에 담아서 사 오기도 하고, 값이 올랐다고 사람들이 툴툴대기도 해.",
+  "요리에 쓰는 기름이나 미끌미끌 바르는 기름 말고, 태워서 힘을 내는 그 기름. 그게 gasoline이야."
+ ],
+ "explanation_for_kids": [
   "주유소 가봤지? 아빠가 차를 세우고 호스를 꽂아서 뭘 넣잖아. 그게 gasoline이야.",
   "그냥 물 같아 보이는데 냄새가 훅 나고, 불이 확 붙어. 그래서 엔진 안에서 펑펑 터지면서 차를 굴러가게 하는 거야.",
   "차만 그런 게 아니야. 잔디 깎는 기계도, 배도, 발전기도 이걸 먹고 돌아. 통에 담아서 사 오기도 하고, 값이 올랐다고 어른들이 툴툴대기도 해.",
@@ -28,21 +34,21 @@
  "scene": "주유소에서 차에 호스를 꽂아 넣는 장면",
  "examples": [
   {
-   "en": "Dad stopped at the station to put gasoline in the car.",
-   "ko": "아빠는 차에 휘발유를 넣으려고 주유소에 멈췄어."
+   "en": "I stopped at the station to put gasoline in my car.",
+   "ko": "차에 휘발유 넣으려고 주유소에 들렀어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "삼촌네 오토바이가 길에서 딱 멈췄어. 삼촌이 빨간 통을 들고 와서 오토바이 탱크에 부었더니 다시 부릉 하고 달렸어. 통에 든 게 'gasoline'이야?",
+   "question": "친구 오토바이가 길에서 딱 멈췄어. 친구가 빨간 통을 들고 와서 오토바이 탱크에 부었더니 시동이 다시 걸려서 달렸어. 통에 든 게 'gasoline'이야?",
    "choices": [
     "응, gasoline 맞아",
     "아니, gasoline 아니야"
    ],
    "answer_index": 0,
    "answer": "응, gasoline 맞아",
-   "why": "맞아! 오토바이가 멈췄는데 빨간 통에 든 걸 탱크에 부으니까 다시 부릉 하고 달렸잖아. 엔진을 다시 돌게 해 준 거니까 바로 그게 gasoline인 거야."
+   "why": "맞아! 오토바이가 멈췄는데 빨간 통에 든 걸 탱크에 부으니까 다시 시동이 걸려 달렸잖아. 엔진을 다시 돌게 해 준 거니까 바로 그게 gasoline인 거야."
   }
  ],
  "synonyms": [],

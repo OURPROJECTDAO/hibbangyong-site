@@ -11,25 +11,26 @@
  "word": "station",
  "slug": "station",
  "url": "https://hibbangyong.com/words/station/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "기차·버스가 멈춰 서서 사람들이 타고 내리는 역.",
  "gloss_ko": "기차역",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "기차가 칙칙폭폭 달리다가 딱! 멈추는 곳 있지?",
   "사람들이 타고 내리는 그 자리 말이야.",
   "기차만 그런 게 아니야 — 버스가 멈춰 서서 사람들을 태우는 곳도 'station'이라고 해.",
   "차가 멈춰 서고 사람들이 타고 내리는 곳, 그게 station이야."
  ],
+ "explanation_for_kids": null,
  "scene": "기차가 멈춰 서는 자리 — 소방차 대기 자리·방송 만드는 자리도 다 같은 'station'.",
  "examples": [
   {
-   "en": "Let's meet at the station after school.",
-   "ko": "학교 끝나고 역에서 만나자."
+   "en": "Let's meet at the station after work.",
+   "ko": "퇴근하고 역에서 만나자."
   }
  ],
  "quiz": [

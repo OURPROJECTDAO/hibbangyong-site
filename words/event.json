@@ -11,15 +11,21 @@
  "word": "event",
  "slug": "event",
  "url": "https://hibbangyong.com/words/event/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "일 — 딱 벌어진(일어난) 하나의 일. (생일 파티 같은 행사도, 갑자기 난 사고도 다 event)",
  "gloss_ko": "일",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "달력에 동그라미 친 날 있지? 그날 뭔 일이 딱 벌어져.",
+  "생일 파티일 수도, 동네 운동회일 수도 있어.",
+  "좋은 일이든 갑자기 난 사고든, '벌어진 하나의 일'이면 다 event야.",
+  "손에 쥐는 물건이 아니라 '일어난 일'인 거 — 그게 event야."
+ ],
+ "explanation_for_kids": [
   "달력에 동그라미 친 날 있지? 그날 뭔 일이 딱 벌어져.",
   "생일 파티일 수도, 학교 운동회일 수도 있어.",
   "좋은 일이든 갑자기 난 사고든, '벌어진 하나의 일'이면 다 event야.",

@@ -11,25 +11,26 @@
  "word": "nuclear",
  "slug": "nuclear",
  "url": "https://hibbangyong.com/words/nuclear/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "핵의·원자력의 — 아주 작은 원자 한가운데에서 터져 나오는 어마어마한 힘에 관한",
  "gloss_ko": "핵의·원자력의",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "원자라는, 눈에 안 보일 만큼 작은 알갱이가 있거든?",
   "그 알갱이 한가운데를 건드리면 — 쪼개든 서로 딱 붙이든 — 세상에, 어마어마한 힘이 확 터져 나와.",
   "그 힘으로 도시 전체에 불을 켜기도 하고, 저 하늘의 태양도 그렇게 빛을 내는 거야.",
   "그 작은 알갱이 한가운데 속 힘에 관한 게 nuclear야."
  ],
+ "explanation_for_kids": null,
  "scene": "원자 한가운데를 건드리자(쪼개거나 붙이자) 어마어마한 힘이 터져 나오는 앵커 장면",
  "examples": [
   {
-   "en": "The nuclear power plant makes electricity for the whole city.",
-   "ko": "그 원자력 발전소가 도시 전체에 쓸 전기를 만들어 줘."
+   "en": "My friend is studying nuclear energy at university.",
+   "ko": "내 친구는 대학에서 원자력 에너지를 공부해."
   }
  ],
  "quiz": [

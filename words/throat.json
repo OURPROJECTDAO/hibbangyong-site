@@ -11,36 +11,37 @@
  "word": "throat",
  "slug": "throat",
  "url": "https://hibbangyong.com/words/throat/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "목구멍 — 먹은 것도 목소리도 지나가는 몸 안쪽 길.",
  "gloss_ko": "목구멍",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "물 한 모금 꿀꺽 삼켜봐. 그 물이 입에서 아래로 쭉 내려가지?",
   "그 물이 지나간 안쪽 길이 있어. 밥도 지나가고, 노래하는 소리도 거기서 나와.",
   "손으로 만져지는 바깥쪽 목 기둥 말고, 그 안에 뚫려 있는 길이야.",
   "그게 throat야."
  ],
+ "explanation_for_kids": null,
  "scene": "물 한 모금을 삼켜 안쪽 길로 내려보내는 장면",
  "examples": [
   {
-   "en": "I drank warm water because my throat hurt.",
-   "ko": "목구멍이 아파서 따뜻한 물을 마셨어."
+   "en": "My throat hurts, so I ordered hot tea.",
+   "ko": "목이 아파서 뜨거운 차를 시켰어."
   }
  ],
  "quiz": [
   {
    "type": "choice",
-   "question": "동생이 'throat'가 어디냐고 물어봤어. 다음 중 'throat'에 해당하는 것은?",
+   "question": "친구가 'throat'가 어디냐고 물어봤어. 다음 중 'throat'에 해당하는 것은?",
    "choices": [
     "오래 걸어서 딱딱해진 발바닥 굳은살",
     "알약이 입에서 아래로 지나가는 몸 안쪽 길",
     "겨울에 손을 넣어 두는 두꺼운 털장갑",
-    "달력에 동그라미 쳐 둔 소풍 날짜"
+    "달력에 동그라미 쳐 둔 여행 날짜"
    ],
    "answer_index": 1,
    "answer": "알약이 입에서 아래로 지나가는 몸 안쪽 길",

@@ -11,23 +11,24 @@
  "word": "disc",
  "slug": "disc",
  "url": "https://hibbangyong.com/words/disc/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "원반 — 납작하고 둥근 판 모양의 물건",
  "gloss_ko": "원반",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "잔디밭에 놓인 이 납작하고 둥근 물건이 disc야. 손으로 던지면 하늘을 미끄러지듯 날아가.",
   "공원에서 친구랑 서로 던지고 받으며 노는 그 둥근 판을 떠올리면 돼."
  ],
+ "explanation_for_kids": null,
  "scene": "잔디밭 위에 놓인 밝은 색 원반(플라잉 디스크) 하나 — 납작하고 둥근 원반 모양을 살짝 위에서 전체가 다 보이게",
  "examples": [
   {
-   "en": "He threw the disc across the park and his friend caught it.",
-   "ko": "걔가 공원 저쪽으로 원반을 던지니까 친구가 받았어."
+   "en": "We threw a disc around at the beach after lunch.",
+   "ko": "점심 먹고 해변에서 원반을 주고받으며 던졌어."
   }
  ],
  "quiz": [

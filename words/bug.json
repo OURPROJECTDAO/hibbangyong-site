@@ -11,23 +11,24 @@
  "word": "bug",
  "slug": "bug",
  "url": "https://hibbangyong.com/words/bug/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "벌레 — 다리가 여럿 달린 작고 꼬물거리는 동물",
  "gloss_ko": "벌레",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "잎사귀 위에 앉은 이 작은 빨간 동물이 bug예요.",
   "풀밭이나 창틀에서 꼬물꼬물 기어다니는 걸 본 적 있을 거예요."
  ],
+ "explanation_for_kids": null,
  "scene": "잎사귀 위에 앉은 통통하고 귀여운 빨간 무당벌레 한 마리(가장 친숙한 '벌레'의 대표 이미지)를 정면에서 크게",
  "examples": [
   {
-   "en": "A little bug is crawling on the green leaf.",
-   "ko": "작은 벌레가 초록 잎사귀 위를 기어가고 있어."
+   "en": "There's a little bug crawling on my desk at work.",
+   "ko": "회사에서 내 책상 위에 작은 벌레가 기어 다니고 있어."
   }
  ],
  "quiz": [

@@ -11,21 +11,27 @@
  "word": "conclusion",
  "slug": "conclusion",
  "url": "https://hibbangyong.com/words/conclusion/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "결론 — 여러 가지를 하나하나 따져 보고 마지막에 내린 생각",
  "gloss_ko": "따져서 낸 생각",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "쿠키가 없어졌어. 접시엔 부스러기, 친구 입가엔 초콜릿. 흠, 수상하지?",
+  "하나씩 따져 보고 \"친구가 먹었구나!\" 하고 딱 정했어. 근데 틀릴 수도 있어. 강아지가 먹었을지도 모르거든.",
+  "실험하면서 이것저것 해 보고 \"따뜻한 물에선 설탕이 빨리 녹네!\" 하는 것도 똑같아. 안 보고 찍거나 궁금해하기만 하는 거랑은 달라.",
+  "여러 가지를 따져 본 끝에 도착한 생각, 이게 conclusion이야."
+ ],
+ "explanation_for_kids": [
   "쿠키가 없어졌어. 접시엔 부스러기, 동생 입가엔 초콜릿. 흠, 수상하지?",
   "하나씩 따져 보고 \"동생이 먹었구나!\" 하고 딱 정했어. 근데 틀릴 수도 있어. 강아지가 먹었을지도 모르거든.",
   "과학 시간에 이것저것 해 보고 \"따뜻한 물에선 설탕이 빨리 녹네!\" 하는 것도 똑같아. 안 보고 찍거나 궁금해하기만 하는 거랑은 달라.",
   "여러 가지를 따져 본 끝에 도착한 생각, 이게 conclusion이야."
  ],
- "scene": "없어진 쿠키와 부스러기·초콜릿 묻은 동생 입가를 보고 누가 먹었는지 정함",
+ "scene": "없어진 쿠키와 부스러기·초콜릿 묻은 친구 입가를 보고 누가 먹었는지 정함",
  "examples": [
   {
    "en": "Mina thought about every clue, but her conclusion was wrong.",
@@ -65,7 +71,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/conclusion.webp",
-  "alt": "없어진 쿠키와 부스러기·초콜릿 묻은 동생 입가를 보고 누가 먹었는지 정함",
+  "alt": "없어진 쿠키와 부스러기·초콜릿 묻은 친구 입가를 보고 누가 먹었는지 정함",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

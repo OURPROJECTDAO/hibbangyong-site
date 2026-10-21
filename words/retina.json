@@ -11,25 +11,26 @@
  "word": "retina",
  "slug": "retina",
  "url": "https://hibbangyong.com/words/retina/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "망막 — 눈 안쪽 맨 뒤에 붙어 있는 얇은 막. 들어온 빛을 받아서 뇌로 신호를 보내",
  "gloss_ko": "망막",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "눈으로 들어온 빛은 눈 안을 지나서 맨 뒤 벽에 닿아.",
   "그 뒷벽에 얇은 막이 붙어 있는데, 이게 빛을 받아서 뇌로 신호를 보내. 그게 retina, 망막이야.",
   "눈 맨 앞의 투명한 막(각막)이나 초점을 맞추는 렌즈(수정체)랑 헷갈리지 마.",
   "retina는 빛이 지나가는 곳이 아니라 맨 뒤에서 빛을 받는 곳이야."
  ],
+ "explanation_for_kids": null,
  "scene": "눈에 들어온 빛이 맨 뒷벽 막에 닿아 뇌로 신호가 가는 장면",
  "examples": [
   {
-   "en": "The doctor shone a small light into my eye to check my retina.",
-   "ko": "의사 선생님이 내 눈에 작은 불빛을 비춰서 망막을 살펴봤어."
+   "en": "The eye doctor checked my retina with a small light.",
+   "ko": "안과 의사가 작은 불빛으로 내 망막을 살펴봤어."
   }
  ],
  "quiz": [

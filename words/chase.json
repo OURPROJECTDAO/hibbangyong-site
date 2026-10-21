@@ -11,15 +11,21 @@
  "word": "chase",
  "slug": "chase",
  "url": "https://hibbangyong.com/words/chase/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "쫓다 — 도망가거나 움직이는 걸 잡으려고 뒤에서 빠르게 따라 달리는 것.",
  "gloss_ko": "쫓다",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "강아지가 데굴데굴 굴러가는 공을 봤어. 그럼 어떡해? 냅다 뛰어가서 공 뒤를 따라 달리지?",
+  "잡으려고 빠르게 뒤따라 달리는 거야. 그냥 천천히 따라 걷는 게 아니라, 놓칠까 봐 헐레벌떡 뛰는 거!",
+  "떠나는 버스를 잡으려고 막 뛰어 쫓아가는 것도 똑같아.",
+  "이게 chase야."
+ ],
+ "explanation_for_kids": [
   "강아지가 데굴데굴 굴러가는 공을 봤어. 그럼 어떡해? 냅다 뛰어가서 공 뒤를 따라 달리지?",
   "잡으려고 빠르게 뒤따라 달리는 거야. 그냥 천천히 따라 걷는 게 아니라, 놓칠까 봐 헐레벌떡 뛰는 거!",
   "술래잡기 할 때 친구를 잡으려고 막 뛰어 쫓아가는 것도 똑같아.",
@@ -28,8 +34,8 @@
  "scene": "강아지가 굴러가는 공을 잡으려 뒤따라 달리는 장면",
  "examples": [
   {
-   "en": "My dog loves to chase the ball across the yard.",
-   "ko": "우리 강아지는 마당에서 공 쫓아 달리는 걸 엄청 좋아해."
+   "en": "I had to chase the bus down the street this morning.",
+   "ko": "오늘 아침에 버스 잡으려고 길을 따라 뛰어가야 했어."
   }
  ],
  "quiz": [

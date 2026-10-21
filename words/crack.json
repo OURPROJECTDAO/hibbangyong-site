@@ -11,25 +11,26 @@
  "word": "crack",
  "slug": "crack",
  "url": "https://hibbangyong.com/words/crack/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "쩍 하고 금이 가거나 갈라지다 — 단단한 게 쩍 소리 나게 금이 가거나 갈라져 깨지는 것.",
  "gloss_ko": "쩍 하고 금이 가거나 갈라지다",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "딱딱하게 언 얼음판 위를 걷는데 발밑에서 '쩍!' 소리가 났어.",
   "얼음에 길쭉하게 금이 쫙 갔어. 근데 산산조각 난 건 아니야, 그냥 쫙 갈라진 거야.",
   "달걀을 그릇 모서리에 톡 쳐서 껍데기를 갈라 여는 것도 똑같아.",
   "이렇게 단단한 게 쩍 하고 갈라지거나 깨지는 게 crack이야."
  ],
+ "explanation_for_kids": null,
  "scene": "언 얼음판 위 발밑에서 쩍 소리나며 금이 쫙 가는 장면",
  "examples": [
   {
-   "en": "I heard the ice crack when I walked across the frozen pond.",
-   "ko": "꽁꽁 언 연못을 걸어가는데 얼음이 쩍 갈라지는 소리가 났어."
+   "en": "I dropped my phone and heard the screen crack.",
+   "ko": "폰을 떨어뜨렸는데 화면이 쩍 금 가는 소리가 들렸어."
   }
  ],
  "quiz": [

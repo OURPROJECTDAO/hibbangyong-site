@@ -11,38 +11,39 @@
  "word": "chin",
  "slug": "chin",
  "url": "https://hibbangyong.com/words/chin/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "턱끝 — 입 아래, 얼굴에서 제일 아래로 튀어나온 곳",
  "gloss_ko": "턱끝",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "밥 먹다 심심하면 두 손으로 얼굴 받칠 때 있지?",
   "손바닥에 콕 닿는 데 — 입 바로 아래, 얼굴 맨 끝 뾰족한 곳.",
   "볼도 아니고, 옆으로 넓은 턱 전체도 아니야.",
   "딱 그 맨 아래 끝, 그게 chin이야."
  ],
+ "explanation_for_kids": null,
  "scene": "밥상에서 두 손으로 얼굴 받칠 때 손바닥에 콕 닿는 입 아래 끝.",
  "examples": [
   {
-   "en": "I rested my chin on my hands and waited.",
-   "ko": "난 두 손에 턱을 괴고 기다렸어."
+   "en": "I rested my chin on my hand during the long meeting.",
+   "ko": "긴 회의 동안 난 손에 턱을 괴고 있었어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "삼촌이 면도 거품을 바르고 면도기로 까슬한 수염을 쓱 미는, 입 바로 아래 그 자리를 'chin'이라고 알려줬어. 맞게 말한 걸까?",
+   "question": "친구가 면도 거품을 바르고 면도기로 까슬한 수염을 쓱 미는, 입 바로 아래 그 자리를 'chin'이라고 알려줬어. 맞게 말한 걸까?",
    "choices": [
     "응, 그게 chin이야",
     "아니, 그건 chin이 아니야"
    ],
    "answer_index": 0,
    "answer": "응, 그게 chin이야",
-   "why": "맞아! 면도 거품 바르고 수염 쓱 미는 그 자리, 입 바로 아래 얼굴 맨 끝 뾰족한 데가 바로 chin이거든. 그래서 삼촌 말이 딱 맞은 거야."
+   "why": "맞아! 면도 거품 바르고 수염 쓱 미는 그 자리, 입 바로 아래 얼굴 맨 끝 뾰족한 데가 바로 chin이거든. 그래서 친구 말이 딱 맞은 거야."
   }
  ],
  "synonyms": [],

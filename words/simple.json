@@ -11,31 +11,32 @@
  "word": "simple",
  "slug": "simple",
  "url": "https://hibbangyong.com/words/simple/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "단순한 — 안에 든 게 적고 서로 얽힌 데가 없는. (쉽다는 뜻이 아냐)",
  "gloss_ko": "단순한",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "버튼 스무 개 달린 로봇 옆에, 나무 팽이 하나가 놓여 있어. 팽이는 안에 든 것도, 얽힌 것도 없어. 그냥 이게 다야.",
   "물건만 그런 게 아냐. 규칙이 딱 하나뿐인 놀이도, 한 줄이면 끝나는 길 설명도 똑같아.",
   "그렇다고 쉽다는 뜻은 아냐. 팽이 오래 돌리기, 너도 해 봐. 엄청 힘들거든?",
   "든 게 적고 얽힌 데가 없다 — 그게 simple이야."
  ],
+ "explanation_for_kids": null,
  "scene": "버튼 스무 개 달린 로봇 옆에 나무 팽이 하나가 놓인 장면",
  "examples": [
   {
-   "en": "We play with one simple rule, and nobody ever argues about it.",
-   "ko": "우리는 단순한 규칙 하나로 놀아서 아무도 다투지 않아."
+   "en": "Our gym has one simple rule: put your weights back.",
+   "ko": "우리 헬스장엔 단순한 규칙이 하나 있어. 쓴 운동 기구는 제자리에 두는 거야."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "동생 세발자전거를 봤어. 바퀴 세 개랑 페달, 손잡이가 전부야. 기어도 없고, 안에 줄이 얽혀 있지도 않아. 이게 'simple'이야?",
+   "question": "조카 세발자전거를 봤어. 바퀴 세 개랑 페달, 손잡이가 전부야. 기어도 없고, 안에 줄이 얽혀 있지도 않아. 이게 'simple'이야?",
    "choices": [
     "응, simple 맞아",
     "아니, simple 아니야"

@@ -11,38 +11,44 @@
  "word": "expense",
  "slug": "expense",
  "url": "https://hibbangyong.com/words/expense/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "비용(쓰느라 나간 돈) — 뭘 하려고 내 쪽에서 나간 돈",
  "gloss_ko": "쓰느라 나간 돈",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "여행 가는 날, 버스비 내고 김밥 사고 입장료도 냈어.",
+  "신나게 놀았는데도 돈은 자꾸 밖으로 나갔지?",
+  "지갑에 챙겨 간 돈은 아니야. 그 일 하느라 진짜 나간 돈.",
+  "크든 작든, 신나는 일이든 귀찮은 일이든, 그게 expense야."
+ ],
+ "explanation_for_kids": [
   "소풍 가는 날, 버스비 내고 김밥 사고 입장료도 냈어.",
   "신나게 놀았는데도 돈은 자꾸 밖으로 나갔지?",
   "지갑에 챙겨 간 돈은 아니야. 그 일 하느라 진짜 나간 돈.",
   "크든 작든, 신나는 일이든 귀찮은 일이든, 그게 expense야."
  ],
- "scene": "소풍날 버스비·김밥값·입장료로 돈이 밖으로 나가는 장면",
+ "scene": "여행길 버스비·김밥값·입장료로 돈이 밖으로 나가는 장면",
  "examples": [
   {
-   "en": "My mom writes down every expense in a little notebook.",
-   "ko": "엄마는 나간 비용을 하나하나 작은 수첩에 적어."
+   "en": "She writes down every expense in a little notebook.",
+   "ko": "그 사람은 쓴 돈을 하나하나 작은 수첩에 적어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "민호는 미술 시간에 쓸 색종이를 사면서 이천 원을 계산대에 냈어. 이 이천 원은 민호의 'expense'야?",
+   "question": "민호는 수업 때 쓸 볼펜을 사면서 이천 원을 계산대에 냈어. 이 이천 원은 민호의 'expense'야?",
    "choices": [
     "응, expense 맞아",
     "아니, expense 아니야"
    ],
    "answer_index": 0,
    "answer": "응, expense 맞아",
-   "why": "맞아! 색종이를 사려고 계산대에 이천 원을 내놨잖아. 그 돈은 민호 지갑에서 밖으로 나간 거니까, 바로 그게 expense인 거야."
+   "why": "맞아! 볼펜을 사려고 계산대에 이천 원을 내놨잖아. 그 돈은 민호 지갑에서 밖으로 나간 거니까, 바로 그게 expense인 거야."
   }
  ],
  "synonyms": [],
@@ -65,7 +71,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/expense.webp",
-  "alt": "소풍날 버스비·김밥값·입장료로 돈이 밖으로 나가는 장면",
+  "alt": "여행길 버스비·김밥값·입장료로 돈이 밖으로 나가는 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

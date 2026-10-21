@@ -11,21 +11,27 @@
  "word": "grim",
  "slug": "grim",
  "url": "https://hibbangyong.com/words/grim/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "암울한(어둡고 무거운) — 걱정되고 마음이 무겁게 가라앉는 (소식·상황·표정이)",
  "gloss_ko": "무겁고 어두운",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "분기 실적이 나왔는데 팀 매출이 확 떨어졌어. 팀장님이 들어와서 웃지도 않고 결과를 읽어.",
+  "그 소식도, 그걸 듣는 팀 분위기도, 팀장님 얼굴도 전부 무겁게 가라앉아 있지. 그게 grim이야.",
+  "그냥 슬퍼서 우는 거랑은 달라. 앞으로 안 좋을 것 같아서 걱정되고 심각해지는 쪽이야.",
+  "뉴스, 상황, 얼굴 표정에 다 붙어. 좋은 일엔 절대 안 써."
+ ],
+ "explanation_for_kids": [
   "시험 성적표가 나왔는데 반 평균이 확 떨어졌어. 담임 선생님이 들어와서 웃지도 않고 결과를 읽어.",
   "그 소식도, 그걸 듣는 교실 분위기도, 선생님 얼굴도 전부 무겁게 가라앉아 있지. 그게 grim이야.",
   "그냥 슬퍼서 우는 거랑은 달라. 앞으로 안 좋을 것 같아서 걱정되고 심각해지는 쪽이야.",
   "뉴스, 상황, 얼굴 표정에 다 붙어. 좋은 일엔 절대 안 써."
  ],
- "scene": "성적표 결과 발표 때 담임 선생님과 교실 분위기",
+ "scene": "실적 결과 발표 때 팀장님과 사무실 분위기",
  "examples": [
   {
    "en": "The coach looked grim after we lost the game ten to nothing.",
@@ -63,7 +69,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/grim.webp",
-  "alt": "성적표 결과 발표 때 담임 선생님과 교실 분위기",
+  "alt": "실적 결과 발표 때 팀장님과 사무실 분위기",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

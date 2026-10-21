@@ -11,25 +11,26 @@
  "word": "murder",
  "slug": "murder",
  "url": "https://hibbangyong.com/words/murder/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "살해하다 — 나쁜 마음으로 사람을 일부러 죽이다",
  "gloss_ko": "살해하다",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "탐정 이야기 봤지? 누가 딴 사람을 죽였어. 근데 실수가 아니야.",
   "나쁜 마음을 먹고, 일부러 그런 거거든.",
   "'kill'은 사고로도, 동물한테도, 전쟁에서도 쓰지? 이건 그거랑 달라. 사람을 콕 집어, 일부러 나쁘게 죽인 것만이야.",
   "그렇게 사람을 일부러 죽이는 게 murder야."
  ],
+ "explanation_for_kids": null,
  "scene": "탐정 이야기 속, 나쁜 마음으로 계획해서 사람을 죽인 사건",
  "examples": [
   {
    "en": "In the story, a greedy man tried to murder the king for his gold.",
-   "ko": "이야기 속 욕심쟁이가 금 때문에 임금님을 죽이려고 했어."
+   "ko": "이야기 속에서 욕심 많은 남자가 금을 노리고 왕을 살해하려고 했어."
   }
  ],
  "quiz": [

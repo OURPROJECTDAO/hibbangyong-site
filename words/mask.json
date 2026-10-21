@@ -11,18 +11,19 @@
  "word": "mask",
  "slug": "mask",
  "url": "https://hibbangyong.com/words/mask/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "가면, 마스크 — 얼굴을 가리거나 지키려고 얼굴에 쓰는 것",
  "gloss_ko": "가면",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 물건은 얼굴에 쓰는 가면(mask)이에요. 눈 부분에 구멍이 뚫려 있어서 쓰면 밖이 보여요.",
   "핼러윈 파티에서 얼굴을 가리는 가면도, 감기에 안 걸리려고 입을 가리는 마스크도 다 mask예요."
  ],
+ "explanation_for_kids": null,
  "scene": "얼굴에 쓰는 가면 하나를 중앙에 크게 — 눈구멍이 뚫린 알록달록한 파티/축제용 가면(사물 의미)",
  "examples": [
   {

@@ -11,20 +11,21 @@
  "word": "grab",
  "slug": "grab",
  "url": "https://hibbangyong.com/words/grab/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "확 잡아채다 — 갑자기 손을 뻗어 재빨리 잡거나 채가는 것",
  "gloss_ko": "확 잡아채다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "버스가 갑자기 덜컹! 넘어질 것 같았어. 그때 손잡이를 확! 잡았지.",
   "살살도 아니고 천천히도 아니야. 눈 깜짝할 새에 확 붙잡거나 채가는 거야.",
   "꼭 급할 때만 그러는 것도 아니야. 지나가다 과자를 잽싸게 채 가도, 빈자리를 얼른 차지해도 다 이거거든.",
   "이렇게 갑자기 확 잡거나 채가는 게 grab이야."
  ],
+ "explanation_for_kids": null,
  "scene": "버스가 덜컹해서 넘어질 뻔해 손잡이를 확 잡는 상황",
  "examples": [
   {

@@ -11,25 +11,31 @@
  "word": "conscious",
  "slug": "conscious",
  "url": "https://hibbangyong.com/words/conscious/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "의식하는 — 무언가를 알아차리고 마음속에 계속 두고 있는",
  "gloss_ko": "알아차리고 있는",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "과제하는데 시계가 자꾸 눈에 들어와. 벌써 8시네, 9시엔 내야 하는데.",
+  "시간을 머릿속 한쪽에 딸깍! 켜 두고 있는 거야.",
+  "걱정이랑은 달라. 기쁠 때도, 그냥 덤덤할 때도 켜져 있을 수 있거든?",
+  "깜빡 잊고 있는 거랑 반대로, 알아차리고 마음에 두는 거. 그게 conscious야."
+ ],
+ "explanation_for_kids": [
   "숙제하는데 시계가 자꾸 눈에 들어와. 벌써 8시네, 9시엔 자야 하는데.",
   "시간을 머릿속 한쪽에 딸깍! 켜 두고 있는 거야.",
   "걱정이랑은 달라. 기쁠 때도, 그냥 덤덤할 때도 켜져 있을 수 있거든?",
   "깜빡 잊고 있는 거랑 반대로, 알아차리고 마음에 두는 거. 그게 conscious야."
  ],
- "scene": "숙제하면서 시계를 자꾸 보며 시간을 마음에 둠",
+ "scene": "과제하면서 시계를 자꾸 보며 시간을 마음에 둠",
  "examples": [
   {
-   "en": "I was conscious of the time, so I finished my homework before nine.",
-   "ko": "나는 시간이 가는 걸 계속 알고 있어서 9시 전에 숙제를 끝냈어."
+   "en": "I was conscious of the time, so I finished my report before nine.",
+   "ko": "시간을 계속 신경 쓰고 있어서 9시 전에 보고서를 끝냈어."
   }
  ],
  "quiz": [
@@ -63,7 +69,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/conscious.webp",
-  "alt": "숙제하면서 시계를 자꾸 보며 시간을 마음에 둠",
+  "alt": "과제하면서 시계를 자꾸 보며 시간을 마음에 둠",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

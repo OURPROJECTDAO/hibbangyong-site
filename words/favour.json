@@ -11,38 +11,44 @@
  "word": "favour",
  "slug": "favour",
  "url": "https://hibbangyong.com/words/favour/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "안 해도 되는 일인데 남을 위해 해주는 고마운 일.",
  "gloss_ko": "남을 돕는 고마운 일",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "비 오는 날, 친구가 자기 우산을 내 쪽으로 기울여 줬어.",
+  "그런 규칙이 있는 것도 아니고, 누가 시킨 것도 아니야. 그냥 내가 안 젖었으면 해서 해준 거야.",
+  "내가 아파서 수업에 못 갔을 때, 친구가 필기를 대신 해서 갖다준 것도 favour야. 그 친구가 꼭 해야 하는 일은 아니었거든.",
+  "맡은 일이라서 어쩔 수 없이 도와주는 거랑은 달라. 그게 favour야."
+ ],
+ "explanation_for_kids": [
   "비 오는 날, 짝꿍이 자기 우산을 내 쪽으로 기울여 줬어.",
   "그런 규칙이 있는 것도 아니고, 누가 시킨 것도 아니야. 그냥 내가 안 젖었으면 해서 해준 거야.",
   "내가 아파서 학교에 못 갔을 때, 친구가 알림장을 대신 적어서 갖다준 것도 favour야. 그 친구가 꼭 해야 하는 일은 아니었거든.",
   "맡은 일이라서 어쩔 수 없이 도와주는 거랑은 달라. 그게 favour야."
  ],
- "scene": "비 오는 날 짝꿍이 우산을 내 쪽으로 기울여 준 장면",
+ "scene": "비 오는 날 친구가 우산을 내 쪽으로 기울여 준 장면",
  "examples": [
   {
-   "en": "My sister fed my hamster for me, and that was a big favour.",
-   "ko": "언니가 내 햄스터 밥을 대신 챙겨줬는데, 그게 진짜 고마운 일이었어."
+   "en": "My sister fed my hamster during my trip. It was a big favour.",
+   "ko": "내가 여행 간 사이에 언니가 햄스터 밥을 챙겨 줬어. 진짜 고마운 일이었어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "현우는 짝꿍 서연이가 색칠을 다 끝내자, 몰래 검은 크레파스로 그 위에 마구 선을 그어 놨어. 이건 favour야?",
+   "question": "현우는 동료 서연이가 작업 파일을 다 끝내자, 몰래 그 파일을 지워 버렸어. 이건 favour야?",
    "choices": [
     "응, favour 맞아",
     "아니, favour 아니야"
    ],
    "answer_index": 1,
    "answer": "아니, favour 아니야",
-   "why": "맞아! favour는 상대가 잘됐으면 해서 해주는 고마운 일인데, 이건 서연이 그림을 일부러 망친 거잖아. 도와준 게 아니라 골탕 먹인 거라서 favour가 아닌 거야."
+   "why": "맞아! favour는 상대가 잘됐으면 해서 해주는 고마운 일인데, 이건 서연이 작업을 일부러 망친 거잖아. 도와준 게 아니라 골탕 먹인 거라서 favour가 아닌 거야."
   }
  ],
  "synonyms": [],
@@ -63,7 +69,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/favour.webp",
-  "alt": "비 오는 날 짝꿍이 우산을 내 쪽으로 기울여 준 장면",
+  "alt": "비 오는 날 친구가 우산을 내 쪽으로 기울여 준 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,25 +11,26 @@
  "word": "vast",
  "slug": "vast",
  "url": "https://hibbangyong.com/words/vast/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "어마어마하게 크거나 많은 — 끝이 어딘지 가늠도 안 될 만큼",
  "gloss_ko": "어마어마하게 크거나 많은",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "바닷가에 서서 저 멀리 봐봐. 물이 어디서 끝나는지가 안 보이지?",
   "그냥 큰 게 아니야. 세보다가 포기하게 되는, 가늠이 안 되는 크기거든.",
   "넓이만 그런 게 아니야. 밤하늘 별 개수도, 할머니가 아는 옛날 이야기 수도 이렇게 말해.",
   "그냥 '크다'랑은 달라. 큰 건 끝이 보이잖아. 끝이 안 보이는 것, 그게 vast야."
  ],
+ "explanation_for_kids": null,
  "scene": "바닷가에 서서 끝이 안 보이는 물을 바라보는 장면",
  "examples": [
   {
-   "en": "My grandma has a vast collection of old coins.",
-   "ko": "우리 할머니는 옛날 동전을 어마어마하게 많이 모아 뒀어."
+   "en": "Our campus library has a vast collection of old maps.",
+   "ko": "우리 학교 도서관에는 옛날 지도가 어마어마하게 많아."
   }
  ],
  "quiz": [

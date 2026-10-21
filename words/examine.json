@@ -11,25 +11,26 @@
  "word": "examine",
  "slug": "examine",
  "url": "https://hibbangyong.com/words/examine/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "자세히 살펴보다 — 뭔가 알아내려고 구석구석 뜯어보는 것",
  "gloss_ko": "자세히 살펴보다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "사과 하나를 집었어. 그냥 슥 보고 넘기는 게 아니라, 요리조리 돌려가며 구석구석 봤어.",
   "왜냐고? 상한 데가 있는지 알아내고 싶거든.",
   "눈으로 보는 것만도 아니야. 우리가 짠 계획을 머릿속으로 하나하나 따져보는 것도 똑같아.",
   "휙 지나가며 흘낏 보는 거랑은 다르지. 이게 examine이야."
  ],
+ "explanation_for_kids": null,
  "scene": "사과를 요리조리 돌려가며 상한 데 있나 살피는 장면",
  "examples": [
   {
-   "en": "We examined our plan again and found a mistake.",
-   "ko": "우리는 계획을 다시 자세히 살펴보다가 실수를 찾아냈어."
+   "en": "We should examine the contract again before we sign it.",
+   "ko": "서명하기 전에 계약서를 다시 자세히 살펴봐야 해."
   }
  ],
  "quiz": [

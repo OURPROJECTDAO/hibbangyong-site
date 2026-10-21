@@ -11,21 +11,27 @@
  "word": "currency",
  "slug": "currency",
  "url": "https://hibbangyong.com/words/currency/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "화폐(나라마다 쓰기로 한 돈) — 어떤 곳에서 다 같이 쓰기로 한 돈(여기선 원, 미국은 달러)",
  "gloss_ko": "나라마다 쓰는 돈",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "편의점에서 천 원짜리 한 장 내면 과자를 사잖아. 여기선 그게 통하거든.",
+  "근데 바다 건너 다른 나라 가게는? 그 천 원 안 받아줘. 거긴 거기서 통하는 돈이 따로 있어.",
+  "돈이 얼마나 많냐, 그런 얘기가 아니야. 여기선 원, 저기선 달러, 어떤 돈을 쓰기로 했느냐는 거야.",
+  "그게 currency야."
+ ],
+ "explanation_for_kids": [
   "문방구에서 천 원짜리 한 장 내면 과자를 주지? 여기선 그게 통하거든.",
   "근데 바다 건너 다른 나라 가게는? 그 천 원 안 받아줘. 거긴 거기서 통하는 돈이 따로 있어.",
   "돈이 얼마나 많냐, 그런 얘기가 아니야. 여기선 원, 저기선 달러, 어떤 돈을 쓰기로 했느냐는 거야.",
   "그게 currency야."
  ],
- "scene": "문방구에서 천 원짜리를 내고 과자를 사는 장면",
+ "scene": "편의점에서 천 원짜리를 내고 과자를 사는 장면",
  "examples": [
   {
    "en": "Our currency is the won, but Japan uses the yen.",
@@ -61,7 +67,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/currency.webp",
-  "alt": "문방구에서 천 원짜리를 내고 과자를 사는 장면",
+  "alt": "편의점에서 천 원짜리를 내고 과자를 사는 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,24 +11,25 @@
  "word": "prior",
  "slug": "prior",
  "url": "https://hibbangyong.com/words/prior/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "먼저 있던, 앞선 — 다른 일보다 순서가 앞인",
  "gloss_ko": "먼저의",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "오늘 축구를 하는데, 사실 지난주에도 한 번 축구를 했거든?",
   "그럼 지난주 축구는 오늘보다 먼저 있던 거잖아.",
   "'제일 중요한 거'라는 뜻 아니야. 그냥 순서가 앞선, 먼저 있던 거야.",
   "그게 prior야."
  ],
+ "explanation_for_kids": null,
  "scene": "지난주 축구가 오늘 축구보다 먼저 있던 일이라는 순서 비교",
  "examples": [
   {
-   "en": "I have a prior plan, so I can't come today.",
+   "en": "I have prior plans, so I can't come today.",
    "ko": "나 먼저 잡아 둔 약속이 있어서 오늘은 못 가."
   }
  ],

@@ -11,38 +11,39 @@
  "word": "pursue",
  "slug": "pursue",
  "url": "https://hibbangyong.com/words/pursue/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "추구하다 — 이루고 싶은 것을 향해 오랫동안 꾸준히 해 나가다",
  "gloss_ko": "추구하다",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "누나가 줄넘기 이단뛰기를 하겠대. 하루 해 보고 끝? 아니, 몇 달째 매일 휙휙 줄을 돌려.",
   "공부든 일이든, 잘되든 안되든, 하나를 향해 오래오래 계속 따라가는 거야.",
   "그냥 하고 싶다~ 바라기만 하는 거랑은 달라. 한 번 해 보고 마는 것도 아니고. 직접 계속 해 나가야 하거든?",
   "이게 pursue야."
  ],
+ "explanation_for_kids": null,
  "scene": "누나가 몇 달째 매일 줄넘기 이단뛰기를 연습함",
  "examples": [
   {
-   "en": "She pursued the wrong plan for years, and it never worked.",
-   "ko": "그 누나는 틀린 계획을 몇 년이나 계속 밀고 나갔는데, 끝내 안 됐어."
+   "en": "For years, she continued to pursue the wrong plan, but it never worked.",
+   "ko": "걔는 몇 년 동안 틀린 계획을 계속 밀고 나갔는데, 끝내 안 됐어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "삼촌은 바이올린 연주자가 되고 싶어서 3년째 바이올린 레슨을 받고 있어. 잘되는 날도 있고 안되는 날도 있어. 이게 'pursue'야?",
+   "question": "선배는 바이올린 연주자가 되고 싶어서 3년째 바이올린 레슨을 받고 있어. 잘되는 날도 있고 안되는 날도 있어. 이게 'pursue'야?",
    "choices": [
     "응, pursue 맞아",
     "아니, pursue 아니야"
    ],
    "answer_index": 0,
    "answer": "응, pursue 맞아",
-   "why": "맞아! 삼촌은 바이올린 연주자가 되고 싶어서 3년째 레슨을 받고 있잖아. 잘되는 날도 안되는 날도 있지만 멈추지 않고 계속 해 나가고 있거든. 바로 그게 pursue인 거야."
+   "why": "맞아! 선배는 바이올린 연주자가 되고 싶어서 3년째 레슨을 받고 있잖아. 잘되는 날도 안되는 날도 있지만 멈추지 않고 계속 해 나가고 있거든. 바로 그게 pursue인 거야."
   }
  ],
  "synonyms": [],

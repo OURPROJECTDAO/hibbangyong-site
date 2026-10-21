@@ -11,25 +11,26 @@
  "word": "slim",
  "slug": "slim",
  "url": "https://hibbangyong.com/words/slim/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "가늘고 날씬한; (양·가능성이) 아주 적은",
  "gloss_ko": null,
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "두툼한 사전 옆에 얇디얇은 공책 봐봐. 살이 하나도 없이 가느다랗지?",
   "이렇게 두께가 거의 없다시피 가는 걸 slim이라고 불러.",
   "근데 '양'이 손톱만큼 적을 때도 똑같이 써. 비 올 가능성이 슬쩍? 그것도 slim이야.",
   "둘 다 '거의 없다시피 적다'가 한 뿌리거든. 이게 slim이야."
  ],
+ "explanation_for_kids": null,
  "scene": "두툼한 사전 옆 얇디얇은 공책 — 살 없이 가느다란 두께, 그리고 손톱만큼 적은 양.",
  "examples": [
   {
-   "en": "She wore a slim black coat to school.",
-   "ko": "그 애는 날씬한 검은 코트를 입고 학교에 왔어."
+   "en": "She wore a slim black coat to work.",
+   "ko": "그 사람은 몸에 딱 맞는 검은 코트를 입고 출근했어."
   }
  ],
  "quiz": [

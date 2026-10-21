@@ -11,38 +11,44 @@
  "word": "distribute",
  "slug": "distribute",
  "url": "https://hibbangyong.com/words/distribute/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "나눠 주다 — 한 사람한테 몰아주지 않고, 여러 몫으로 갈라서 여기저기 다 가게 하다",
  "gloss_ko": "나눠 주다",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "교수님이 종이 한 뭉치를 들고 줄 사이를 걸어가. 한 사람 앞에 한 장씩, 빠짐없이.",
+  "좋은 거든 싫은 거든 상관없어. 간식도 그렇게 돌리고, 청소 일감도 그렇게 갈라서 맡겨.",
+  "그런데 저절로 퍼지는 건 아니야. 소문이 팀 전체로 쫙 퍼지는 건 누가 나눠 준 게 아니잖아? 누군가 일부러 갈라서 한 사람씩 건네야 해.",
+  "한 사람한테 몰아주는 것도 아니고, 하나를 같이 쓰는 것도 아니야. 여러 몫으로 갈라서 다 가게 하는 것, 그게 distribute야."
+ ],
+ "explanation_for_kids": [
   "선생님이 종이 한 뭉치를 들고 줄 사이를 걸어가. 한 사람 앞에 한 장씩, 빠짐없이.",
   "좋은 거든 싫은 거든 상관없어. 사탕도 그렇게 돌리고, 청소 일감도 그렇게 갈라서 맡겨.",
   "그런데 저절로 퍼지는 건 아니야. 소문이 반 전체로 쫙 퍼지는 건 누가 나눠 준 게 아니잖아? 누군가 일부러 갈라서 한 사람씩 건네야 해.",
   "한 사람한테 몰아주는 것도 아니고, 하나를 같이 쓰는 것도 아니야. 여러 몫으로 갈라서 다 가게 하는 것, 그게 distribute야."
  ],
- "scene": "선생님이 줄 사이를 걸으며 종이를 한 장씩 놓는 장면",
+ "scene": "교수님이 줄 사이를 걸으며 종이를 한 장씩 놓는 장면",
  "examples": [
   {
-   "en": "Our teacher asked me to distribute the test papers to everyone in class.",
-   "ko": "선생님이 반 아이들 모두에게 시험지를 나눠 주라고 했어."
+   "en": "My manager asked me to distribute the new schedules to everyone.",
+   "ko": "매니저가 새 근무표를 모두한테 나눠 주라고 했어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "급식 시간에 지호가 우유갑 한 상자를 들고 앉은 자리를 돌면서, 친구들 책상마다 우유갑을 하나씩 놓았어. 이게 'distribute'야?",
+   "question": "회의 전에 지호가 생수 한 상자를 들고 앉은 자리를 돌면서, 동료들 책상마다 생수병을 하나씩 놓았어. 이게 'distribute'야?",
    "choices": [
     "응, distribute 맞아",
     "아니, distribute 아니야"
    ],
    "answer_index": 0,
    "answer": "응, distribute 맞아",
-   "why": "맞아! 한 상자에 뭉쳐 있던 우유를 갈라서 친구들 책상마다 하나씩 가 닿게 했잖아. 한 명이 다 갖는 것도 아니고 다 같이 한 갑을 나눠 마시는 것도 아니고, 여러 몫으로 갈라서 다 가게 한 거니까 바로 그게 distribute야."
+   "why": "맞아! 한 상자에 뭉쳐 있던 생수를 갈라서 동료들 책상마다 하나씩 가 닿게 했잖아. 한 명이 다 갖는 것도 아니고 다 같이 한 병을 나눠 마시는 것도 아니고, 여러 몫으로 갈라서 다 가게 한 거니까 바로 그게 distribute야."
   }
  ],
  "synonyms": [],
@@ -63,7 +69,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/distribute.webp",
-  "alt": "선생님이 줄 사이를 걸으며 종이를 한 장씩 놓는 장면",
+  "alt": "교수님이 줄 사이를 걸으며 종이를 한 장씩 놓는 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

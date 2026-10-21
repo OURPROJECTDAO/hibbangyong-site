@@ -11,25 +11,26 @@
  "word": "flavor",
  "slug": "flavor",
  "url": "https://hibbangyong.com/words/flavor/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "음식마다 다른, 혀로 느끼는 그 맛",
  "gloss_ko": "혀로 느끼는 맛",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "딸기우유랑 초코우유, 색만 다른 게 아니지?",
   "한 모금 딱 마시면 혀가 '아 딸기다!' '아 초코다!' 하고 알아채거든.",
   "그 입안에 퍼지는 딸기다움·초코다움, 바로 그거야.",
   "달든 쓰든 매콤하든, 혀가 콕 집어내는 그 느낌이 flavor야."
  ],
+ "explanation_for_kids": null,
  "scene": "딸기우유 한 모금에 혀가 '딸기다!' 알아채는 입안 순간",
  "examples": [
   {
-   "en": "Strawberry is my favorite flavor of ice cream.",
-   "ko": "딸기는 내가 제일 좋아하는 아이스크림 맛이야."
+   "en": "My favorite flavor at this café is vanilla.",
+   "ko": "이 카페에서 내가 제일 좋아하는 맛은 바닐라야."
   }
  ],
  "quiz": [

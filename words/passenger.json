@@ -11,15 +11,21 @@
  "word": "passenger",
  "slug": "passenger",
  "url": "https://hibbangyong.com/words/passenger/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "승객 — 차·기차·배·비행기를 몰거나 조종하지 않고, 거기 타고 가는 사람",
  "gloss_ko": "승객",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "버스든 기차든 배든, 사람이 여럿 타고 가잖아. 그중에 한 명만 그걸 몰거나 조종해. 나머지는 그냥 실려 가.",
+  "그 실려 가는 쪽이 전부 passenger야. 앉았든 섰든, 앞자리든 뒷자리든 똑같아.",
+  "표를 사서 탔든 친구 차에 그냥 얻어 탔든 상관없고, 자다 가든 떠들다 가든 상관없어.",
+  "모는 사람도 아니고, 아직 안 타고 기다리는 사람도 아니야. 타고서 실려 가는 사람, 그게 passenger야."
+ ],
+ "explanation_for_kids": [
   "버스든 기차든 배든, 사람이 여럿 타고 가잖아. 그중에 한 명만 그걸 몰거나 조종해. 나머지는 그냥 실려 가.",
   "그 실려 가는 쪽이 전부 passenger야. 앉았든 섰든, 앞자리든 뒷자리든 똑같아.",
   "표를 사서 탔든 아빠 차에 그냥 얻어 탔든 상관없고, 자다 가든 떠들다 가든 상관없어.",
@@ -28,8 +34,8 @@
  "scene": "버스·기차·배에서 한 명만 몰고 나머지는 실려 가는 장면",
  "examples": [
   {
-   "en": "Dad drove, and I was the only passenger in the front seat.",
-   "ko": "아빠가 운전하고 앞자리 승객은 나 하나뿐이었어."
+   "en": "I was the only passenger on the last bus home.",
+   "ko": "집에 가는 막차 버스에 승객은 나 하나뿐이었어."
   }
  ],
  "quiz": [

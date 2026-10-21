@@ -11,23 +11,27 @@
  "word": "tray",
  "slug": "tray",
  "url": "https://hibbangyong.com/words/tray/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "쟁반 — 컵이나 그릇을 올려 한 번에 받쳐 나르는 넓적한 판",
  "gloss_ko": "쟁반",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "테두리가 살짝 올라온 넓적한 판 위에 컵과 쿠키가 놓여 있어요. 이렇게 여러 물건을 한꺼번에 받쳐서 옮기는 것이 tray예요.",
+  "식당에서 밥과 반찬을 올려 자리까지 들고 가는 것도 tray예요."
+ ],
+ "explanation_for_kids": [
   "테두리가 살짝 올라온 넓적한 판 위에 컵과 쿠키가 놓여 있어요. 이렇게 여러 물건을 한꺼번에 받쳐서 옮기는 것이 tray예요.",
   "급식실에서 밥과 반찬을 올려 자리까지 들고 가는 것도 tray예요."
  ],
  "scene": "양옆에 손잡이가 있고 테두리가 살짝 올라온 직사각형 쟁반이 화면 중앙에 크게 놓여 있고, 그 위에 컵 하나와 쿠키 한 개가 담겨 '무언가를 받쳐 나르는 쟁반'임을 보여줌",
  "examples": [
   {
-   "en": "She put the cups and cookies on the tray and carried it to the table.",
-   "ko": "컵이랑 쿠키를 쟁반에 올려서 식탁까지 들고 갔어."
+   "en": "I put two coffees on a tray and carried it to our table.",
+   "ko": "커피 두 잔을 쟁반에 올려서 우리 테이블로 들고 갔어."
   }
  ],
  "quiz": [

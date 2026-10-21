@@ -11,38 +11,39 @@
  "word": "achievement",
  "slug": "achievement",
  "url": "https://hibbangyong.com/words/achievement/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "성취 — 애써서 끝내 해낸 일 (큰 일이든 작은 일이든)",
  "gloss_ko": "애써 해낸 일",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "천 조각 퍼즐, 일주일 내내 붙잡고 있었지? 마지막 한 조각, 딱!",
   "누가 준 상도 아니고, 운 좋게 된 것도 아니야. 네가 애써서 끝내 해낸 거거든.",
   "달에 사람이 간 것 같은 엄청 큰 일도, 혼자 자전거 탄 것 같은 작은 일도 다 돼.",
   "애써서 끝내 해낸 그 일, 그게 achievement야."
  ],
+ "explanation_for_kids": null,
  "scene": "일주일 동안 천 조각 퍼즐을 맞추다가 마지막 조각을 끼운 일",
  "examples": [
   {
-   "en": "Finishing the big puzzle all by myself was a real achievement.",
-   "ko": "그 큰 퍼즐을 나 혼자 끝까지 다 맞춘 건 진짜 내가 해낸 일이었어."
+   "en": "Finishing that big puzzle on my own was a real achievement.",
+   "ko": "그 큰 퍼즐을 혼자 끝까지 다 맞춘 건 진짜 대단한 성취였어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "민지는 3주 동안 매일 리코더를 연습했어. 오늘 처음으로 '작은 별' 한 곡을 한 번도 안 틀리고 끝까지 불었어. 민지가 해낸 이 일은 'achievement'야?",
+   "question": "민지는 3주 동안 매일 기타를 연습했어. 오늘 처음으로 좋아하는 노래 한 곡을 한 번도 안 틀리고 끝까지 쳤어. 민지가 해낸 이 일은 'achievement'야?",
    "choices": [
     "응, achievement 맞아",
     "아니, achievement 아니야"
    ],
    "answer_index": 0,
    "answer": "응, achievement 맞아",
-   "why": "맞아! 민지는 3주 동안 매일 리코더를 연습했고, 오늘 '작은 별'을 한 번도 안 틀리고 끝까지 불었잖아. 애써서 끝내 해낸 일이니까 바로 그게 achievement인 거야."
+   "why": "맞아! 민지는 3주 동안 매일 기타를 연습했고, 오늘 그 노래를 한 번도 안 틀리고 끝까지 쳤잖아. 애써서 끝내 해낸 일이니까 바로 그게 achievement인 거야."
   }
  ],
  "synonyms": [

@@ -11,38 +11,39 @@
  "word": "rude",
  "slug": "rude",
  "url": "https://hibbangyong.com/words/rude/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "무례한 — 남을 함부로 대해서 기분 상하게 하는",
  "gloss_ko": "무례한",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "친구가 신나서 이야기하는데 네가 중간에 딱 끊고 네 얘기를 시작했어.",
   "화난 것도 아니고 너는 웃고 있었는데, 친구 기분은 확 상하지.",
   "말만 그런 게 아니야. 아무 말 없이 남의 앞을 쓱 밀고 지나가도 똑같아.",
   "누굴 괴롭히려던 게 아니어도, 남을 함부로 대했으면 그게 rude야."
  ],
+ "explanation_for_kids": null,
  "scene": "친구 말하는 중에 끼어들어 말을 자르는 장면",
  "examples": [
   {
-   "en": "I was in a hurry, so I pushed past Grandma without a word, and Dad said that was rude.",
-   "ko": "바빠서 할머니를 말없이 밀치고 지나갔는데, 아빠가 그건 무례한 거라고 했어."
+   "en": "It was rude of him to cut in line at the café.",
+   "ko": "카페에서 새치기하다니 그 사람 정말 무례했어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "도서관에서 사서 선생님이 책을 건네주자, 지호가 선생님 손에서 책을 휙 가져가며 등을 돌렸어. 이건 'rude'야?",
+   "question": "도서관에서 사서분이 책을 건네주자, 지호가 사서분 손에서 책을 휙 가져가며 등을 돌렸어. 이건 'rude'야?",
    "choices": [
     "응, rude 맞아",
     "아니, rude 아니야"
    ],
    "answer_index": 0,
    "answer": "응, rude 맞아",
-   "why": "맞아! 선생님이 건네주는 책을 휙 낚아채고 그냥 등을 돌린 거잖아. 화를 낸 것도 아니고 소리를 지른 것도 아니지만, 앞에 있는 사람을 없는 사람처럼 함부로 대한 거라서 바로 그게 rude야."
+   "why": "맞아! 사서분이 건네주는 책을 휙 낚아채고 그냥 등을 돌린 거잖아. 화를 낸 것도 아니고 소리를 지른 것도 아니지만, 앞에 있는 사람을 없는 사람처럼 함부로 대한 거라서 바로 그게 rude야."
   }
  ],
  "synonyms": [],

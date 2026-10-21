@@ -11,20 +11,21 @@
  "word": "cause",
  "slug": "cause",
  "url": "https://hibbangyong.com/words/cause/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "어떤 일이 일어나게 만든 것, 까닭",
  "gloss_ko": "일이 생긴 까닭",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "어떤 일이 생기면 '왜 이렇게 됐지?' 하고 거꾸로 따라가 봐.",
   "비가 쏟아졌어. 그랬더니 길이 물바다가 됐지. 그 물바다를 만든 건 쏟아진 비야.",
   "좋은 일을 만들었든 나쁜 일을 만들었든, 또 눈에 안 보여서 찾아내야 하든, 일을 일어나게 만든 그것을 말해.",
   "이렇게 어떤 일을 만든 바로 그것, 이게 cause야."
  ],
+ "explanation_for_kids": null,
  "scene": "비 쏟아짐→길 물바다. 그 일을 만든 그것=비. 좋든 나쁘든·보이든 숨든, 일을 일으킨 그것.",
  "examples": [
   {

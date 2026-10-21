@@ -11,21 +11,27 @@
  "word": "enviable",
  "slug": "enviable",
  "url": "https://hibbangyong.com/words/enviable/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "부러운 — 남들이 보고 '나도 저랬으면' 할 만큼 좋은",
  "gloss_ko": "부러울 만한",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "시험 기간에도 밤 안 새고 푹 자는데 학점은 늘 좋은 친구 있지? 다들 '나도 저랬으면' 하잖아.",
+  "그렇게 남들이 갖고 싶어 할 만큼 좋은 게 enviable이야. 물건만 되는 게 아니라 실력, 자리, 습관, 사는 모습도 다 돼.",
+  "거꾸로 아무도 떠맡고 싶지 않은 일이면 not enviable이라고 해.",
+  "헷갈리지 마. 부러워하는 사람 마음은 envious고, enviable은 부러움을 받는 쪽이야."
+ ],
+ "explanation_for_kids": [
   "시험 기간에도 밤 안 새고 푹 자는데 성적은 늘 좋은 친구 있지? 다들 '나도 저랬으면' 하잖아.",
   "그렇게 남들이 갖고 싶어 할 만큼 좋은 게 enviable이야. 물건만 되는 게 아니라 실력, 자리, 습관, 사는 모습도 다 돼.",
   "거꾸로 아무도 떠맡고 싶지 않은 일이면 not enviable이라고 해.",
   "헷갈리지 마. 부러워하는 사람 마음은 envious고, enviable은 부러움을 받는 쪽이야."
  ],
- "scene": "시험 기간에도 푹 자는데 성적 좋은 친구",
+ "scene": "시험 기간에도 푹 자는데 학점 좋은 친구",
  "examples": [
   {
    "en": "She has an enviable ability to stay calm before big exams.",
@@ -35,14 +41,14 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "전학 온 민재네 집은 학교 정문 바로 맞은편이라 매일 2분이면 교실에 도착해. 반 친구들이 '나도 저런 데 살고 싶다'고 입을 모아. 민재네 집 위치는 'enviable'한 거야?",
+   "question": "이사 온 민재네 집은 회사 정문 바로 맞은편이라 매일 2분이면 사무실에 도착해. 동료들이 '나도 저런 데 살고 싶다'고 입을 모아. 민재네 집 위치는 'enviable'한 거야?",
    "choices": [
     "응, enviable한 거 맞아",
     "아니, enviable한 거 아니야"
    ],
    "answer_index": 0,
    "answer": "응, enviable한 거 맞아",
-   "why": "맞아! 정문 바로 맞은편이라 2분이면 교실에 도착하니까, 반 친구들이 나도 저런 데 살고 싶다고 입을 모으잖아. 남들이 이렇게 갖고 싶어 할 만큼 좋은 게 바로 enviable이야."
+   "why": "맞아! 정문 바로 맞은편이라 2분이면 사무실에 도착하니까, 동료들이 나도 저런 데 살고 싶다고 입을 모으잖아. 남들이 이렇게 갖고 싶어 할 만큼 좋은 게 바로 enviable이야."
   }
  ],
  "synonyms": [],
@@ -68,7 +74,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/enviable.webp",
-  "alt": "시험 기간에도 푹 자는데 성적 좋은 친구",
+  "alt": "시험 기간에도 푹 자는데 학점 좋은 친구",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

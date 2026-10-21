@@ -11,20 +11,21 @@
  "word": "incision",
  "slug": "incision",
  "url": "https://hibbangyong.com/words/incision/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "절개 — 수술할 때 의사가 칼로 몸에 일부러 낸 칼자국(넓게는 무언가에 정확히 새겨 넣은 칼집)",
  "gloss_ko": "절개",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "수술할 때 의사는 먼저 메스로 피부를 살짝 갈라.",
   "그렇게 일부러, 딱 필요한 만큼만 낸 칼자국이 incision이야.",
   "요리하다 실수로 손을 벤 상처랑은 달라. 그건 사고고, 이건 계획하고 낸 칼질이야.",
   "그래서 나무나 돌에 칼로 정확하게 새긴 칼집도 incision이라고 해."
  ],
+ "explanation_for_kids": null,
  "scene": "수술 전 의사가 메스로 피부를 가르는 장면",
  "examples": [
   {

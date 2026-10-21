@@ -11,25 +11,26 @@
  "word": "duel",
  "slug": "duel",
  "url": "https://hibbangyong.com/words/duel/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "결투 — 두 사람(또는 두 편)이 서로 정면으로 맞서서 겨루는 것",
  "gloss_ko": "결투",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "옛날엔 다툼을 끝내려고 두 사람이 날을 잡고 칼이나 총 같은 무기를 들고 마주 서서 싸웠어. 이게 원래 뜻이야.",
   "지금은 무기 없이도 써. 두 선수든 두 후보든 두 팀이든, 딱 두 쪽이 서로 맞서 겨루면 이렇게 불러.",
   "그러니까 칼싸움만 떠올리면 반만 아는 거야.",
   "여럿이 편 없이 뒤엉킨 싸움이나, 여럿이 한꺼번에 뛰는 경기랑은 달라. 늘 두 쪽이 서로를 상대로 서는 거야."
  ],
+ "explanation_for_kids": null,
  "scene": "옛날 다툼을 끝내려고 두 사람이 날 잡고 마주 서서 싸움",
  "examples": [
   {
-   "en": "The election turned into a duel between the two leaders.",
-   "ko": "선거는 결국 두 대표가 서로 맞서 겨루는 싸움이 됐어."
+   "en": "Our office ping-pong final turned into a duel between Mina and Jake.",
+   "ko": "회사 탁구 결승전이 미나랑 제이크의 결투가 됐어."
   }
  ],
  "quiz": [

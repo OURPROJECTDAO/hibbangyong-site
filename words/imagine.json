@@ -11,25 +11,26 @@
  "word": "imagine",
  "slug": "imagine",
  "url": "https://hibbangyong.com/words/imagine/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "상상하다 — 눈앞에 없는 일이나 기분을 머릿속에서 만들어 겪어 보다",
  "gloss_ko": "상상하다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "내일 이사 갈 방, 아직 한 번도 못 봤지? 그런데 눈 감으면 창문은 여기, 침대는 저기, 머릿속에 슥 만들어져.",
   "모습만 그런 게 아니야. 거기서 밤에 무서울까, 아는 친구가 없어 심심할까 — 겪어 보지도 않은 기분까지 머릿속에서 미리 겪어 볼 수 있거든.",
   "신나는 것만 그러는 것도 아니야. 부스럭 소리에 무서운 게 슥 떠오르는 것도 똑같아.",
   "어제 본 걸 다시 떠올리는 거랑은 달라. 그건 있던 걸 꺼내는 거고, 이건 없던 걸 머릿속에서 만드는 거야. 이게 imagine이야."
  ],
+ "explanation_for_kids": null,
  "scene": "아직 못 본 이사 갈 방을 눈 감고 머릿속에 만들어 보는 장면",
  "examples": [
   {
-   "en": "Imagine how your little sister feels when nobody plays with her.",
-   "ko": "아무도 안 놀아줄 때 네 여동생 기분이 어떨지 상상해 봐."
+   "en": "I can't imagine living without my phone for a week.",
+   "ko": "일주일 동안 폰 없이 사는 건 상상도 못 하겠어."
   }
  ],
  "quiz": [

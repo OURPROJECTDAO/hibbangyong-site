@@ -11,31 +11,32 @@
  "word": "snap",
  "slug": "snap",
  "url": "https://hibbangyong.com/words/snap/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "딱 — 뭔가 끊기거나 맞물릴 때 아주 짧게 한순간 나는 소리",
  "gloss_ko": "딱",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "마른 나뭇가지 밟아 봤어? 짧게 딱! 하고 소리 나지.",
   "근데 부러질 때만 그런 거 아니야. 상자 뚜껑 맞물려 닫힐 때도, 손가락 튕길 때도 그래.",
   "쿵- 하고 길게 울리는 소리랑은 달라. 눈 깜짝할 새에 시작하고 끝나거든?",
   "그 한순간 짧게 나는 소리, 그게 snap이야."
  ],
+ "explanation_for_kids": null,
  "scene": "마른 나뭇가지를 밟아 짧게 부러지는 순간",
  "examples": [
   {
-   "en": "The box lid shut with a snap.",
-   "ko": "상자 뚜껑이 딱 소리를 내며 닫혔어."
+   "en": "My laptop shut with a snap.",
+   "ko": "노트북이 딱 소리를 내며 닫혔어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "형이 고무줄을 양쪽으로 힘껏 당겼더니 가운데가 끊어졌어. 이때 난 소리를 'snap'이라고 할 수 있을까?",
+   "question": "친구가 고무줄을 양쪽으로 힘껏 당겼더니 가운데가 끊어졌어. 이때 난 소리를 'snap'이라고 할 수 있을까?",
    "choices": [
     "응, snap 맞아",
     "아니, snap 아니야"

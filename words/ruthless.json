@@ -11,25 +11,31 @@
  "word": "ruthless",
  "slug": "ruthless",
  "url": "https://hibbangyong.com/words/ruthless/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "인정사정없는 — 원하는 걸 얻으려고 남이 다치든 말든, 앞을 막는 건 봐주지 않고 밀어붙이는",
  "gloss_ko": "인정사정없는",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "동호회 축구 결승을 앞두고 주장이 제일 친한 친구를 명단에서 뺐어. 실력이 제일 약하다는 이유 하나로.",
+  "친구가 서운해할 건 알았지만 마음을 안 바꿨어. 목표가 먼저였으니까.",
+  "이렇게 원하는 걸 위해 앞을 막는 게 사람이든 뭐든 봐주지 않고 쳐내는 게 ruthless야. 회사끼리 경쟁할 때, 전쟁에서, 글에서 필요 없는 문장을 싹 지울 때도 써.",
+  "그냥 남 일에 관심 없는 차가운 성격이나, 규칙대로만 하는 엄격함이랑은 달라. 핵심은 목표가 있고, 그걸 위해 사정을 안 봐준다는 거야."
+ ],
+ "explanation_for_kids": [
   "반 대항 축구 결승을 앞두고 주장이 제일 친한 친구를 명단에서 뺐어. 실력이 제일 약하다는 이유 하나로.",
   "친구가 서운해할 건 알았지만 마음을 안 바꿨어. 목표가 먼저였으니까.",
   "이렇게 원하는 걸 위해 앞을 막는 게 사람이든 뭐든 봐주지 않고 쳐내는 게 ruthless야. 회사끼리 경쟁할 때, 전쟁에서, 글에서 필요 없는 문장을 싹 지울 때도 써.",
   "그냥 남 일에 관심 없는 차가운 성격이나, 규칙대로만 하는 엄격함이랑은 달라. 핵심은 목표가 있고, 그걸 위해 사정을 안 봐준다는 거야."
  ],
- "scene": "반 대항 축구 결승 전 주장이 친한 친구를 명단에서 뺌",
+ "scene": "동호회 축구 결승 전 주장이 친한 친구를 명단에서 뺌",
  "examples": [
   {
-   "en": "The new coach was ruthless: he dropped three popular players to win the cup.",
-   "ko": "새로 온 코치는 우승하려고 인기 많은 선수 세 명을 빼 버릴 만큼 인정사정없었어."
+   "en": "The new manager was ruthless: he cut half the team to save money.",
+   "ko": "새로 온 매니저는 돈 아끼려고 팀 절반을 잘라 버릴 만큼 인정사정없었어."
   }
  ],
  "quiz": [
@@ -55,7 +61,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/ruthless.webp",
-  "alt": "반 대항 축구 결승 전 주장이 친한 친구를 명단에서 뺌",
+  "alt": "동호회 축구 결승 전 주장이 친한 친구를 명단에서 뺌",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

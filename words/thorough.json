@@ -11,34 +11,40 @@
  "word": "thorough",
  "slug": "thorough",
  "url": "https://hibbangyong.com/words/thorough/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "빠짐없이 하나하나 다 살피는, 아주 꼼꼼한",
  "gloss_ko": "빠짐없이 꼼꼼한",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "이어폰을 잃어버렸어. 눈에 보이는 데만 슥 보고 마는 게 아니야.",
+  "침대 밑도, 서랍 하나하나도, 주머니 속까지 다 뒤졌어.",
+  "한 군데도 안 빼놓고 싹 다 살폈지.",
+  "이렇게 하나도 안 빼놓고 전부 다 하는 게 thorough야."
+ ],
+ "explanation_for_kids": [
   "장난감을 잃어버렸어. 눈에 보이는 데만 슥 보고 마는 게 아니야.",
   "침대 밑도, 서랍 하나하나도, 주머니 속까지 다 뒤졌어.",
   "한 군데도 안 빼놓고 싹 다 살폈지.",
   "이렇게 하나도 안 빼놓고 전부 다 하는 게 thorough야."
  ],
- "scene": "잃어버린 장난감을 침대 밑·서랍·주머니까지 다 뒤지는 장면",
+ "scene": "잃어버린 이어폰을 침대 밑·서랍·주머니까지 다 뒤지는 장면",
  "examples": [
   {
-   "en": "I did a thorough search of my whole room and finally found my lost toy.",
-   "ko": "방을 한 군데도 안 빼놓고 싹 다 뒤져서, 드디어 잃어버린 장난감을 찾았어."
+   "en": "I did a thorough search of my room and finally found my cat's lost toy.",
+   "ko": "방을 구석구석 싹 다 뒤져서 고양이가 잃어버린 장난감을 드디어 찾았어."
   }
  ],
  "quiz": [
   {
    "type": "choice",
-   "question": "누나가 방을 'thorough'하게 치웠대. 아래 중 누나가 한 거랑 가장 가까운 건?",
+   "question": "룸메이트가 방을 'thorough'하게 치웠대. 아래 중 룸메이트가 한 거랑 가장 가까운 건?",
    "choices": [
     "침대 밑도, 서랍 속도, 구석까지 하나도 안 빼놓고 다 치웠다",
-    "눈에 잘 보이는 큰 장난감 몇 개만 얼른 주워 담고 나갔다",
+    "눈에 잘 보이는 큰 물건 몇 개만 얼른 주워 담고 나갔다",
     "유리컵이 깨질까 봐 살살 조심하며 몇 개만 옮겼다",
     "노래 한 곡 나오는 동안 후다닥 대충 밀어 치웠다"
    ],
@@ -75,7 +81,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/thorough.webp",
-  "alt": "잃어버린 장난감을 침대 밑·서랍·주머니까지 다 뒤지는 장면",
+  "alt": "잃어버린 이어폰을 침대 밑·서랍·주머니까지 다 뒤지는 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,31 +11,32 @@
  "word": "super",
  "slug": "super",
  "url": "https://hibbangyong.com/words/super/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "보통을 훌쩍 넘게 — 좋든 나쁘든 '엄청' 그런",
  "gloss_ko": "보통을 훌쩍 넘게",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "보통이라는 선이 있거든? 딱 여기까지가 보통, 하고.",
   "근데 어떤 건 그 선을 껑충 넘어가 버려. 훌쩍!",
   "좋은 쪽만 넘는 게 아니야. 줄이 너무 길어도 넘고, 너무 재미없어도 넘고, 국이 너무 짜도 넘어. 혼자 딱 써서 '아주 좋다'는 뜻이 되기도 해.",
   "1등이라서 붙이는 것도 아니고, '좀 더'라서 붙이는 것도 아니야. 보통 선을 훌쩍 넘은 게 super야."
  ],
+ "explanation_for_kids": null,
  "scene": "보통이라는 선을 훌쩍 넘어가는 장면",
  "examples": [
   {
-   "en": "The lunch line today was super long.",
-   "ko": "오늘 급식 줄이 엄청 길었어."
+   "en": "The cafeteria line was super long today.",
+   "ko": "오늘 구내식당 줄이 엄청 길었어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "지우가 놀이터 미끄럼틀을 탔는데, 그 미끄럼틀이 지우가 지금까지 본 미끄럼틀 중에 비교도 안 되게 높고 길었대. 지우는 이 미끄럼틀이 'super'했다고 말했어. 맞게 쓴 거야?",
+   "question": "지우가 수영장 미끄럼틀을 탔는데, 그 미끄럼틀이 지우가 지금까지 본 미끄럼틀 중에 비교도 안 되게 높고 길었대. 지우는 이 미끄럼틀이 'super'했다고 말했어. 맞게 쓴 거야?",
    "choices": [
     "응, 맞게 쓴 거야",
     "아니, 틀리게 쓴 거야"

@@ -11,15 +11,21 @@
  "word": "compression",
  "slug": "compression",
  "url": "https://hibbangyong.com/words/compression/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "압축 — 눌러서(또는 꽉 조여서) 더 작은 자리에 들어가게 만드는 것",
  "gloss_ko": "압축",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "이불 압축팩 있잖아. 공기를 쫙 빼고 누르면 두꺼운 이불이 납작해져.",
+  "이불은 그대로 다 있어. 꽉 눌려서 자리만 작아진 거야.",
+  "이렇게 누르거나 조여서 더 작게 만드는 게 compression이야. 컴퓨터 파일 용량을 확 줄일 때도 이 말을 써.",
+  "몇 개를 꺼내서 줄이는 거나, 저절로 쪼그라드는 거랑은 달라."
+ ],
+ "explanation_for_kids": [
   "이불 압축팩 알지? 공기를 쫙 빼고 누르면 두꺼운 이불이 납작해져.",
   "이불은 그대로 다 있어. 꽉 눌려서 자리만 작아진 거야.",
   "이렇게 누르거나 조여서 더 작게 만드는 게 compression이야. 컴퓨터 파일 용량을 확 줄일 때도 이 말을 써.",
@@ -28,8 +34,8 @@
  "scene": "이불 압축팩에서 공기 빼고 누르기",
  "examples": [
   {
-   "en": "Thanks to compression, all my summer clothes fit into one small bag.",
-   "ko": "꾹 눌러 압축한 덕분에 여름옷을 전부 작은 가방 하나에 다 넣었어."
+   "en": "With compression bags, all my summer clothes fit into one small suitcase.",
+   "ko": "압축 팩을 쓰니까 여름옷이 전부 작은 캐리어 하나에 다 들어갔어."
   }
  ],
  "quiz": [

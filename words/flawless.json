@@ -11,15 +11,21 @@
  "word": "flawless",
  "slug": "flawless",
  "url": "https://hibbangyong.com/words/flawless/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "흠 없는 — 실수나 흠집이 하나도 없는",
  "gloss_ko": "흠 하나 없는",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "잘했다는 말로는 모자랄 때가 있어. 아무리 뜯어봐도 틀린 곳이나 긁힌 곳이 하나도 안 나올 때.",
+  "피아노를 한 음도 안 틀리고 쳤을 때도, 새 폰 화면에 흠집 하나 없을 때도 이 말을 똑같이 써.",
+  "중요한 건 점수가 높은지가 아니라 흠이 있느냐 없느냐야.",
+  "그래서 대회에서 1등 한 멋진 연주도 한 음을 틀렸으면 flawless는 아니야."
+ ],
+ "explanation_for_kids": [
   "잘했다는 말로는 모자랄 때가 있어. 아무리 뜯어봐도 틀린 곳이나 긁힌 곳이 하나도 안 나올 때.",
   "피아노를 한 음도 안 틀리고 쳤을 때도, 새 폰 화면에 흠집 하나 없을 때도 이 말을 똑같이 써.",
   "중요한 건 점수가 높은지가 아니라 흠이 있느냐 없느냐야.",
@@ -28,8 +34,8 @@
  "scene": "아무리 뜯어봐도 틀린 곳이나 긁힌 곳이 없는 것",
  "examples": [
   {
-   "en": "My sister's English speech was flawless.",
-   "ko": "누나 영어 스피치, 틀린 데 하나 없이 완벽했어."
+   "en": "Her presentation at work was flawless.",
+   "ko": "걔 회사 발표는 흠잡을 데 없이 완벽했어."
   }
  ],
  "quiz": [

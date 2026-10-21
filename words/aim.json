@@ -11,25 +11,31 @@
  "word": "aim",
  "slug": "aim",
  "url": "https://hibbangyong.com/words/aim/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "겨누다 — 맞히거나 이루고 싶은 곳으로 방향을 딱 맞추다(공·화살은 물론 마음속 목표까지)",
  "gloss_ko": "겨누다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "종이 뭉치를 바구니에 던진다고 해봐. 아무 데나 던지는 게 아니라, 팔을 바구니 쪽으로 딱 맞추지?",
+  "그렇게 '저기로!' 하고 방향을 정해서 겨누는 거야.",
+  "공이나 화살만 그런 게 아니야. 뭐가 되겠다고 마음을 그쪽으로 딱 겨누는 것도 똑같아.",
+  "이게 aim이야."
+ ],
+ "explanation_for_kids": [
   "콩주머니를 바구니에 던진다고 해봐. 아무 데나 던지는 게 아니라, 팔을 바구니 쪽으로 딱 맞추지?",
   "그렇게 '저기로!' 하고 방향을 정해서 겨누는 거야.",
   "공이나 화살만 그런 게 아니야. 커서 뭐가 되겠다고 마음을 그쪽으로 딱 겨누는 것도 똑같아.",
   "이게 aim이야."
  ],
- "scene": "콩주머니를 바구니 쪽으로 팔 방향을 맞춰 던지는 장면",
+ "scene": "종이 뭉치를 바구니 쪽으로 팔 방향을 맞춰 던지는 장면",
  "examples": [
   {
-   "en": "I aim the ball right at the middle of the target.",
-   "ko": "나는 공을 과녁 한가운데에 딱 겨눠."
+   "en": "In our weekend soccer game, I always aim the ball at the corner.",
+   "ko": "주말에 친구들이랑 축구할 때 나는 늘 골대 구석에 공을 겨눠."
   }
  ],
  "quiz": [
@@ -65,7 +71,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/aim.webp",
-  "alt": "콩주머니를 바구니 쪽으로 팔 방향을 맞춰 던지는 장면",
+  "alt": "종이 뭉치를 바구니 쪽으로 팔 방향을 맞춰 던지는 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

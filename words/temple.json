@@ -11,20 +11,21 @@
  "word": "temple",
  "slug": "temple",
  "url": "https://hibbangyong.com/words/temple/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "절 — 신이나 부처님을 모셔 두고 사람들이 기도하러 오는 큰 건물",
  "gloss_ko": "절",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "커다랗고 아주 조용한 건물에 들어가 봤어?",
   "안에는 신이나 부처님을 모셔 둔 자리가 있어.",
   "사람들이 그 앞에서 두 손 모으고 가만히 기도하거든.",
   "이렇게 신을 모시려고 일부러 지은 건물, 이게 temple이야."
  ],
+ "explanation_for_kids": null,
  "scene": "신·부처님 모셔 둔 조용한 건물, 신발 벗고 들어가 두 손 모아 기도하는 장면.",
  "examples": [
   {

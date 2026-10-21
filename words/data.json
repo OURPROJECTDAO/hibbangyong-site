@@ -11,20 +11,21 @@
  "word": "data",
  "slug": "data",
  "url": "https://hibbangyong.com/words/data/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "자료 — 무언가를 알아내려고 모아 둔 숫자나 사실들",
  "gloss_ko": "모아 둔 사실들",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "매일 아침 하늘을 보고 공책에 적어 봐. 월요일 맑음, 화요일 비, 수요일 또 비…",
   "한 달쯤 지나면? 사실들이 줄줄이 쌓이지. 숫자든 말이든 사진이든 다 돼. 컴퓨터 속에만 있는 게 아니거든?",
   "그런데 '그래서 비가 자주 온대!' 하는 결론은 아직 아니야. 그 답을 찾아내려고 모아 둔 재료지.",
   "그게 data야."
  ],
+ "explanation_for_kids": null,
  "scene": "매일 아침 하늘 보고 공책에 날씨 적기",
  "examples": [
   {

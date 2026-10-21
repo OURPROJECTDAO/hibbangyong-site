@@ -11,20 +11,21 @@
  "word": "corps",
  "slug": "corps",
  "url": "https://hibbangyong.com/words/corps/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "부대 — 군대 안에서 한 가지 일을 맡아 함께 움직이는 한 무리(같은 일로 뭉친 사람들의 무리를 뜻하기도 함)",
  "gloss_ko": "(군대) 부대",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "군대는 한 덩어리가 아니야. 다친 병사를 치료하는 무리, 강에 다리를 놓는 무리처럼 맡은 일로 나뉘어.",
   "그렇게 한 가지 일을 맡아 같이 움직이는 군대의 한 무리가 corps야. 군대 전체도 아니고, 군인 한 명도 아니야.",
   "같은 일로 뭉친 무리라는 게 핵심이라, 대통령을 따라다니며 취재하는 기자들도 press corps라고 불러.",
   "읽을 땐 '코어'. p랑 s는 소리가 안 나. 시체라는 뜻의 corpse랑은 다른 단어야."
  ],
+ "explanation_for_kids": null,
  "scene": "치료·다리 놓기처럼 맡은 일로 나뉜 군대의 무리들",
  "examples": [
   {

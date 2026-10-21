@@ -11,25 +11,26 @@
  "word": "recollection",
  "slug": "recollection",
  "url": "https://hibbangyong.com/words/recollection/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "기억 — 지난 일을 머릿속에서 떠올린 것, 또는 떠올리는 일",
  "gloss_ko": "떠올린 기억",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "엄마가 너 다섯 살 때 바다 갔던 거 생각나냐고 물었어.",
   "한참 생각하니까 모래가 뜨거웠던 게 흐릿하게 떠올랐어. 그렇게 지난 일을 머릿속에서 꺼낸 게 recollection이야.",
   "좋은 일이든 창피한 일이든, 또렷하든 흐릿하든 다 돼. 아무것도 안 떠오르면 'no recollection'이라고 해.",
   "그냥 좋았던 옛날을 그리워하는 '추억'이랑은 달라. 사진이나 일기처럼 밖에 남겨 둔 기록도 아니야."
  ],
+ "explanation_for_kids": null,
  "scene": "엄마가 다섯 살 때 바다 여행을 물어서 흐릿하게 떠올림",
  "examples": [
   {
-   "en": "My recollection of the accident is not very clear.",
-   "ko": "그 사고에 대한 내 기억은 별로 또렷하지 않아."
+   "en": "I have no recollection of where I parked my bike.",
+   "ko": "자전거를 어디에 세웠는지 전혀 기억이 안 나."
   }
  ],
  "quiz": [

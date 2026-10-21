@@ -11,15 +11,21 @@
  "word": "laboratory",
  "slug": "laboratory",
  "url": "https://hibbangyong.com/words/laboratory/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "실험실 — 직접 해보고 어떻게 되나 지켜보려고 도구를 갖춰 둔 방",
  "gloss_ko": "실험실",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "여기, 컵에 소금물을 담아 놓고 옆에 얼음을 쌓아 둔 방이 있어.",
+  "마시려고 담은 게 아니야. 소금물도 얼까? 그걸 진짜로 해보고 지켜보려는 거거든?",
+  "이런 방에선 별걸 다 해봐. 새 약이 듣는지도 해보고, 새로 만든 게임이 안 멈추고 잘 돌아가나도 해봐. 과학자가 해도 되고, 학생들이 해도 돼.",
+  "칠판만 보고 듣기만 하는 방이나, 정해진 걸 똑같이 찍어 내는 방이랑은 달라. 해보고 지켜보라고 도구를 갖춰 둔 방. 그게 laboratory야."
+ ],
+ "explanation_for_kids": [
   "여기, 컵에 소금물을 담아 놓고 옆에 얼음을 쌓아 둔 방이 있어.",
   "마시려고 담은 게 아니야. 소금물도 얼까? 그걸 진짜로 해보고 지켜보려는 거거든?",
   "이런 방에선 별걸 다 해봐. 새 약이 듣는지도 해보고, 새로 만든 게임이 안 멈추고 잘 돌아가나도 해봐. 어른 과학자가 해도 되고, 학교 아이들이 해도 돼.",
@@ -28,8 +34,8 @@
  "scene": "소금물이 어는지 해보려고 소금물 컵과 얼음을 놓아 둔 방",
  "examples": [
   {
-   "en": "In the school laboratory, we put salt in the water to see if it would still freeze.",
-   "ko": "학교 실험실에서 소금물도 어는지 보려고 물에 소금을 넣었어."
+   "en": "In the college laboratory, we put salt in water to see if it would still freeze.",
+   "ko": "대학 실험실에서 소금물도 어는지 보려고 물에 소금을 넣었어."
   }
  ],
  "quiz": [

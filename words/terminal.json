@@ -11,25 +11,26 @@
  "word": "terminal",
  "slug": "terminal",
  "url": "https://hibbangyong.com/words/terminal/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "마지막의 — 뒤에 더 남은 게 없어서 거기서 아주 끝나는",
  "gloss_ko": "마지막의",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "버스가 한참 달리다 터미널에 딱 서. 거기서 길이 끝나거든? 더 갈 데가 없어.",
   "그렇게 뒤에 아무것도 안 남은 맨 끝을 두고 하는 말이야. 길 끝의 정류장도, 한 학기 맨 끝에 보는 시험도 그렇지.",
   "병한테도 써. 이제 나을 데 없이 끝으로만 가는 병.",
   "그냥 늦은 거나 심한 거랑은 달라. 뒤에 조금이라도 남아 있으면 아니야. 그게 terminal이야."
  ],
+ "explanation_for_kids": null,
  "scene": "길이 끊겨 버스가 더 갈 데 없는 터미널",
  "examples": [
   {
-   "en": "The zoo is the terminal station on this train line, so everyone gets off there.",
-   "ko": "동물원이 이 기차 노선의 마지막 역이라서 다들 거기서 내려."
+   "en": "The terminal station on this subway line is right by my office.",
+   "ko": "이 지하철 노선의 마지막 역이 우리 회사 바로 옆이야."
   }
  ],
  "quiz": [

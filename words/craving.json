@@ -11,25 +11,31 @@
  "word": "craving",
  "slug": "craving",
  "url": "https://hibbangyong.com/words/craving/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "갈망 — 뭔가가 참기 힘들 만큼 몹시 당기는 마음",
  "gloss_ko": "몹시 당기는 마음",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "마감 앞두고 폰이 자꾸 당겨. 안 보려고 해도 머릿속에서 계속 불러.",
+  "밤 11시에 라면이 미치게 먹고 싶을 때도, 칭찬 한마디가 너무 듣고 싶을 때도 같은 느낌이야.",
+  "그냥 좋아하는 거나 조금 갖고 싶은 정도가 아니야. 참기 힘들 만큼 몸이나 마음이 끌려가.",
+  "장래희망 같은 차분한 꿈하고도 달라. 이건 지금 당장 나를 잡아당기는 마음이야."
+ ],
+ "explanation_for_kids": [
   "시험 기간인데 폰이 자꾸 당겨. 안 보려고 해도 머릿속에서 계속 불러.",
   "밤 11시에 라면이 미치게 먹고 싶을 때도, 칭찬 한마디가 너무 듣고 싶을 때도 같은 느낌이야.",
   "그냥 좋아하는 거나 조금 갖고 싶은 정도가 아니야. 참기 힘들 만큼 몸이나 마음이 끌려가.",
   "장래희망 같은 차분한 꿈하고도 달라. 이건 지금 당장 나를 잡아당기는 마음이야."
  ],
- "scene": "시험 기간에 자꾸 폰이 당기는 상황",
+ "scene": "마감 앞두고 자꾸 폰이 당기는 상황",
  "examples": [
   {
-   "en": "He tried to quit gaming, but the craving came back every night.",
-   "ko": "걔 게임 끊으려고 했는데, 밤마다 너무 하고 싶은 마음이 다시 올라왔대."
+   "en": "I had a craving for spicy ramen after work.",
+   "ko": "퇴근하고 나서 매운 라면이 너무 당겼어."
   }
  ],
  "quiz": [
@@ -55,7 +61,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/craving.webp",
-  "alt": "시험 기간에 자꾸 폰이 당기는 상황",
+  "alt": "마감 앞두고 자꾸 폰이 당기는 상황",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

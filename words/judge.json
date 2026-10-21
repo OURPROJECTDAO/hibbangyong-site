@@ -11,31 +11,32 @@
  "word": "judge",
  "slug": "judge",
  "url": "https://hibbangyong.com/words/judge/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "보고 따져서 좋은지 나쁜지, 맞는지 틀리는지 정하다",
  "gloss_ko": "맞는지 틀린지 정하다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "친구가 새 신발을 신고 왔어. 너 속으로 '오, 저건 멋진데' 하고 정했지? 그게 벌써 judge야.",
   "보고 따져서 좋다 나쁘다, 맞다 틀리다를 정하는 거거든.",
   "그냥 쳐다보는 거랑은 달라. 쳐다보기만 하면 아무것도 안 정한 거니까.",
   "대회에서 누가 제일 잘했나 정하는 것도, 겉만 슥 보고 '쟤는 별로야' 해버리는 것도 다 judge야. 그게 judge야."
  ],
+ "explanation_for_kids": null,
  "scene": "친구의 새 신발을 보고 속으로 멋진지 아닌지 정하는 순간",
  "examples": [
   {
-   "en": "Don't judge my drawing before I finish it!",
-   "ko": "내 그림 다 그리기 전에 함부로 판단하지 마!"
+   "en": "Don't judge my cooking before you try it!",
+   "ko": "먹어 보기도 전에 내 요리 평가하지 마!"
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "체육 시간에 새로 온 줄넘기를 우진이가 몇 번 돌려 보더니 \"이건 손잡이가 미끄러워서 안 좋네\" 하고 말했어. 이게 'judge'야?",
+   "question": "헬스장에 새로 들어온 줄넘기를 우진이가 몇 번 돌려 보더니 \"이건 손잡이가 미끄러워서 안 좋네\" 하고 말했어. 이게 'judge'야?",
    "choices": [
     "응, judge 맞아",
     "아니, judge 아니야"

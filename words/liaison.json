@@ -11,21 +11,27 @@
  "word": "liaison",
  "slug": "liaison",
  "url": "https://hibbangyong.com/words/liaison/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "연락 — 두 무리가 서로 무슨 일을 하는지 알 수 있게 꾸준히 소식을 주고받는 것",
  "gloss_ko": "두 무리 연락",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "행사 준비할 때 기획팀이랑 운영팀이 매주 지금 뭘 하고 있는지 서로 알려 준다고 해 봐.",
+  "이렇게 두 무리가 꾸준히 소식을 주고받는 연결이 liaison이야. 잘 될 때도 있고 엉망일 때도 있어.",
+  "급한 일로 전화 한 번 거는 거랑은 달라. 계속 오가는 게 핵심이야.",
+  "두 쪽 사이에서 그 연락을 맡은 사람을 부를 때도 이 말을 써."
+ ],
+ "explanation_for_kids": [
   "축제 준비할 때 학생회랑 선생님들이 매주 지금 뭘 하고 있는지 서로 알려 준다고 해 봐.",
   "이렇게 두 무리가 꾸준히 소식을 주고받는 연결이 liaison이야. 잘 될 때도 있고 엉망일 때도 있어.",
   "급한 일로 전화 한 번 거는 거랑은 달라. 계속 오가는 게 핵심이야.",
   "두 쪽 사이에서 그 연락을 맡은 사람을 부를 때도 이 말을 써."
  ],
- "scene": "축제 준비 중 학생회와 선생님들이 매주 서로 진행 상황을 알려 주는 장면",
+ "scene": "행사 준비 중 기획팀과 운영팀이 매주 서로 진행 상황을 알려 주는 장면",
  "examples": [
   {
    "en": "There was poor liaison between the two teams, so they did the same work twice.",
@@ -68,7 +74,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/liaison.webp",
-  "alt": "축제 준비 중 학생회와 선생님들이 매주 서로 진행 상황을 알려 주는 장면",
+  "alt": "행사 준비 중 기획팀과 운영팀이 매주 서로 진행 상황을 알려 주는 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

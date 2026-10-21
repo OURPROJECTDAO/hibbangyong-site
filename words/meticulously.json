@@ -11,15 +11,21 @@
  "word": "meticulously",
  "slug": "meticulously",
  "url": "https://hibbangyong.com/words/meticulously/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "꼼꼼하게 — 작은 부분 하나까지 그냥 넘기지 않고 세심하게 챙겨서",
  "gloss_ko": "꼼꼼하게",
  "level": {
   "code": "L9",
-  "name": "토플 114~120점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "친구가 여행 계획표를 짰는데, 버스 시간이랑 화장실 위치까지 다 적어 놨더라.",
+  "작은 것 하나도 그냥 안 넘기고 챙기는 거, 그게 meticulously야.",
+  "일이든 요리든, 심지어 나쁜 일을 꾸미는 계획이든 다 쓸 수 있어.",
+  "천천히 하는 거나 겉보기에 깔끔한 거랑은 달라. 빨리 해도 작은 부분까지 챙기면 이거야."
+ ],
+ "explanation_for_kids": [
   "친구가 여행 계획표를 짰는데, 버스 시간이랑 화장실 위치까지 다 적어 놨더라.",
   "작은 것 하나도 그냥 안 넘기고 챙기는 거, 그게 meticulously야.",
   "숙제든 요리든, 심지어 나쁜 일을 꾸미는 계획이든 다 쓸 수 있어.",
@@ -28,21 +34,21 @@
  "scene": "버스 시간이랑 화장실 위치까지 적은 친구의 여행 계획표",
  "examples": [
   {
-   "en": "She meticulously copied her friend's homework, so the teacher didn't notice.",
-   "ko": "걔가 친구 숙제를 하나하나 꼼꼼하게 베껴서 선생님이 눈치도 못 챘어."
+   "en": "She meticulously checked every number in the report.",
+   "ko": "걔는 보고서에 있는 숫자를 하나하나 꼼꼼하게 확인했어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "삼촌이 자전거를 고쳤어. 나사 열두 개를 하나씩 다 조였는지 확인하고, 브레이크 줄도 끝까지 손으로 따라가며 살펴봤어. 이렇게 고친 게 'meticulously' 고친 거야?",
+   "question": "친구가 자전거를 고쳤어. 나사 열두 개를 하나씩 다 조였는지 확인하고, 브레이크 줄도 끝까지 손으로 따라가며 살펴봤어. 이렇게 고친 게 'meticulously' 고친 거야?",
    "choices": [
     "응, meticulously 맞아",
     "아니, meticulously 아니야"
    ],
    "answer_index": 0,
    "answer": "응, meticulously 맞아",
-   "why": "맞아! 삼촌은 나사 열두 개를 하나씩 다 조였는지 확인하고, 브레이크 줄도 끝까지 손으로 따라가며 살펴봤잖아. 작은 부분 하나도 그냥 넘기지 않았으니까 바로 그게 meticulously 고친 거야."
+   "why": "맞아! 친구는 나사 열두 개를 하나씩 다 조였는지 확인하고, 브레이크 줄도 끝까지 손으로 따라가며 살펴봤잖아. 작은 부분 하나도 그냥 넘기지 않았으니까 바로 그게 meticulously 고친 거야."
   }
  ],
  "synonyms": [

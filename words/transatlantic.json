@@ -11,25 +11,26 @@
  "word": "transatlantic",
  "slug": "transatlantic",
  "url": "https://hibbangyong.com/words/transatlantic/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "대서양 횡단의 — 대서양을 건너는, 또는 대서양 양쪽(유럽과 아메리카)을 잇는",
  "gloss_ko": "대서양 횡단의",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "미국 뉴욕에서 영국 런던까지 가려면 큰 바다를 하나 건너야 해. 그 바다가 대서양이야.",
   "그 바다를 건너 오가는 비행기도, 배도, 전화도 transatlantic이라고 해.",
   "몸이 직접 건너지 않아도 돼. 바다 양쪽 나라를 잇는 무역이나 우정도 transatlantic이야.",
   "대서양 한가운데 떠 있는 섬은 아니야. 핵심은 이쪽과 저쪽을 잇는 거야."
  ],
+ "explanation_for_kids": null,
  "scene": "뉴욕에서 런던까지 대서양을 건너는 길",
  "examples": [
   {
-   "en": "The two countries signed a new transatlantic trade deal.",
-   "ko": "두 나라가 대서양 양쪽을 잇는 새 무역 협정에 서명했어."
+   "en": "My transatlantic flight to London leaves at nine.",
+   "ko": "런던 가는 대서양 횡단 비행기가 아홉 시에 떠."
   }
  ],
  "quiz": [

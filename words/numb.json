@@ -11,25 +11,26 @@
  "word": "numb",
  "slug": "numb",
  "url": "https://hibbangyong.com/words/numb/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "감각이 없는 — 몸의 한 부분이 만져도 아무 느낌이 안 나는",
  "gloss_ko": "감각이 없는",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "추운 날 장갑 없이 오래 있다가 손등을 꼬집어 봐. 잘 모르겠지?",
   "치과에서 마취한 입술도, 오래 쪼그려 앉았던 다리도 그래.",
   "아픈 거랑은 달라. 아픔까지 포함해서 느낌이 통째로 꺼진 거야. 움직이는 건 되는데 감각이 없는 거지.",
   "큰 충격을 받아서 마음이 멍하고 아무 느낌이 없을 때도 이 말을 써."
  ],
+ "explanation_for_kids": null,
  "scene": "장갑 없이 추운 데 있다가 손등을 꼬집어 보는 상황",
  "examples": [
   {
-   "en": "After sitting on the floor for an hour, my legs went numb.",
-   "ko": "바닥에 한 시간 앉아 있었더니 다리에 감각이 하나도 없어졌어."
+   "en": "After sitting on the floor at the restaurant, my legs went numb.",
+   "ko": "식당 바닥에 앉아 있었더니 다리에 감각이 없어졌어."
   }
  ],
  "quiz": [

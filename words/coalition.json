@@ -11,25 +11,26 @@
  "word": "coalition",
  "slug": "coalition",
  "url": "https://hibbangyong.com/words/coalition/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "연합 — 정당이나 단체 여럿이 각자 모습은 그대로 둔 채 한 목표 때문에 손잡은 것",
  "gloss_ko": "목표로 손잡은 연합",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "선거가 끝났는데 어느 정당도 혼자서는 자리가 모자라.",
   "그래서 평소에 다투던 정당끼리 이번엔 같이 가자고 손을 잡아.",
   "당 이름은 각자 그대로야. 한 몸이 된 게 아니라 목표 하나로 묶인 거지.",
   "동아리나 시민 모임 여럿이 한 가지 일로 뭉쳐도 똑같이 coalition이야. 친해서 모인 무리랑은 달라."
  ],
+ "explanation_for_kids": null,
  "scene": "선거 뒤 의석이 모자라 다투던 정당들이 손잡음",
  "examples": [
   {
-   "en": "After the election, two parties that often argued formed a coalition.",
-   "ko": "선거 끝나고, 맨날 싸우던 두 정당이 연합을 꾸렸어."
+   "en": "I read that three parties formed a coalition after the election.",
+   "ko": "선거 끝나고 세 정당이 연합을 꾸렸다는 기사를 읽었어."
   }
  ],
  "quiz": [

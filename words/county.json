@@ -11,15 +11,21 @@
  "word": "county",
  "slug": "county",
  "url": "https://hibbangyong.com/words/county/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "군(나라를 여러 칸으로 나눈 것 중 한 칸) — 나라를 여러 칸으로 나눈 것 중 한 칸(마을이랑 도시 몇 개가 들어갈 만큼 넓어)",
  "gloss_ko": "군(나라 속 한 칸)",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "지도에서 나라 하나를 쫙 펴 봐봐.",
+  "그걸 여러 칸으로 나눠 놓은 게 보이지?",
+  "그 칸 하나에 마을도 들어가고 도시도 몇 개 들어가. 나라 전체가 아니라 그중 한 조각이야.",
+  "나라(country) 통째랑은 달라. 이게 county야."
+ ],
+ "explanation_for_kids": [
   "지도에서 나라 하나를 쫙 펴 봐봐.",
   "그걸 여러 칸으로 쓱쓱 나눠 놓은 게 보이지?",
   "그 칸 하나에 마을도 들어가고 도시도 몇 개 들어가. 나라 전체가 아니라 그중 한 조각이야.",
@@ -28,7 +34,7 @@
  "scene": "지도에서 나라 하나를 여러 칸으로 나눠 그중 한 칸을 보는 장면",
  "examples": [
   {
-   "en": "My cousin lives in a big county that has a whole city inside it.",
+   "en": "My cousin lives in a big county with a whole city in it.",
    "ko": "사촌은 도시 하나가 통째로 들어 있는 큰 군에 살아."
   }
  ],

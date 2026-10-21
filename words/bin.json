@@ -11,23 +11,27 @@
  "word": "bin",
  "slug": "bin",
  "url": "https://hibbangyong.com/words/bin/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "쓰레기통 — 안 쓰는 것이나 버릴 것을 담는 통",
  "gloss_ko": "쓰레기통",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "그림 속 큰 통은 bin이에요. 다 쓴 것이나 버릴 것을 안에 넣어 두는 통이지요.",
+  "회사나 집에서 종이나 껍질을 버릴 때 이 통에 넣어요."
+ ],
+ "explanation_for_kids": [
   "그림 속 큰 통은 bin이에요. 다 쓴 것이나 버릴 것을 안에 넣어 두는 통이지요.",
   "교실이나 집에서 종이나 껍질을 버릴 때 이 통에 넣어요."
  ],
- "scene": "쓰레기통(뚜껑 달린 통) 하나를 정면·중앙에 크게 — 아이에게 가장 친숙한 'bin=쓰레기통' 의미로 그림",
+ "scene": "쓰레기통(뚜껑 달린 통) 하나를 정면·중앙에 크게",
  "examples": [
   {
-   "en": "I threw the empty juice box into the bin.",
-   "ko": "나는 빈 주스갑을 쓰레기통에 버렸어."
+   "en": "I threw the empty coffee cup into the bin.",
+   "ko": "나는 빈 커피컵을 쓰레기통에 버렸어."
   }
  ],
  "quiz": [
@@ -55,7 +59,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/bin.webp",
-  "alt": "쓰레기통(뚜껑 달린 통) 하나를 정면·중앙에 크게 — 아이에게 가장 친숙한 'bin=쓰레기통' 의미로 그림",
+  "alt": "쓰레기통(뚜껑 달린 통) 하나를 정면·중앙에 크게",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

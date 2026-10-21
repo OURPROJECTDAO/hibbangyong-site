@@ -11,31 +11,32 @@
  "word": "stretch",
  "slug": "stretch",
  "url": "https://hibbangyong.com/words/stretch/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "늘이다·늘어나다 — 잡아당기거나 쭉 뻗어서 끝이 원래보다 더 멀리 가다",
  "gloss_ko": "늘이다·늘어나다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "잠옷 소매를 자꾸 잡아당겼더니 쭉 길어져서 손이 쏙 숨어 버렸어.",
   "끝이 원래 있던 자리보다 더 멀리 가버린 거야.",
   "꼭 잡아당겨야만 그런 건 아니거든? 아침에 팔을 쭉 뻗을 때도, 길이 저 바다까지 쭉 뻗어 있을 때도 똑같이 말해.",
   "그냥 자리를 옮긴 게 아니라 끝이 더 멀리 뻗은 거, 그게 stretch야."
  ],
+ "explanation_for_kids": null,
  "scene": "자꾸 잡아당겨 손이 숨을 만큼 길어진 잠옷 소매",
  "examples": [
   {
-   "en": "My sleeve stretched until it covered my whole hand.",
-   "ko": "소매가 손 전체를 덮을 만큼 쭉 늘어났어."
+   "en": "My old sweater started to stretch after many washes.",
+   "ko": "여러 번 빨았더니 내 낡은 스웨터가 늘어나기 시작했어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "동생이 머리끈 하나를 양손으로 잡고 좌우로 당겼어. 손을 벌릴수록 머리끈 양쪽 끝이 서로 점점 멀어졌어. 이게 'stretch'야?",
+   "question": "친구가 머리끈 하나를 양손으로 잡고 좌우로 당겼어. 손을 벌릴수록 머리끈 양쪽 끝이 서로 점점 멀어졌어. 이게 'stretch'야?",
    "choices": [
     "응, stretch 맞아",
     "아니, stretch 아니야"

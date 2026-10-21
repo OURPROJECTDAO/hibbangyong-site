@@ -11,25 +11,31 @@
  "word": "sociology",
  "slug": "sociology",
  "url": "https://hibbangyong.com/words/sociology/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "사회학 — 사람들이 모여 살 때 생기는 규칙과 모양을 캐는 공부",
  "gloss_ko": "사회학",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "강의실에서 아무도 안 정해 줬는데 늘 같은 사람끼리 모여 앉는 거, 본 적 있지?",
+  "그게 왜 그렇게 되는지 파고드는 사람들이 있어. 한 사람 마음속이 아니라, 여럿이 모이면 저절로 생기는 규칙을 보는 거야.",
+  "사람들이 왜 줄을 서는지, 왜 갑자기 다 같은 신발을 신는지, 왜 어떤 애만 늘 밀려나는지도 똑같이 캐. 좋은 일이든 나쁜 일이든 안 가려.",
+  "한 사람 속마음 들여다보는 거 말고, 사람들이 모여 사는 모양을 캐는 공부. 그게 sociology야."
+ ],
+ "explanation_for_kids": [
   "교실에서 아무도 안 정해 줬는데 늘 같은 자리끼리 뭉쳐 앉는 거, 본 적 있지?",
   "그게 왜 그렇게 되는지 파고드는 사람들이 있어. 한 아이 마음속이 아니라, 여럿이 모이면 저절로 생기는 규칙을 보는 거야.",
   "사람들이 왜 줄을 서는지, 왜 갑자기 다 같은 신발을 신는지, 왜 어떤 애만 늘 밀려나는지도 똑같이 캐. 좋은 일이든 나쁜 일이든 안 가려.",
   "한 사람 속마음 들여다보는 거 말고, 사람들이 모여 사는 모양을 캐는 공부. 그게 sociology야."
  ],
- "scene": "아무도 안 정해 줬는데 늘 같은 자리끼리 뭉쳐 앉는 교실",
+ "scene": "아무도 안 정해 줬는데 늘 같은 사람끼리 모여 앉는 강의실",
  "examples": [
   {
-   "en": "In sociology class we asked why everyone at our school suddenly started wearing the same shoes.",
-   "ko": "사회학 시간에 우리는 왜 다들 갑자기 같은 신발을 신기 시작했는지 물어봤어."
+   "en": "In sociology class, we talked about why everyone on campus suddenly started wearing the same shoes.",
+   "ko": "사회학 수업에서 왜 캠퍼스 사람들이 갑자기 다 같은 신발을 신기 시작했는지 얘기했어."
   }
  ],
  "quiz": [
@@ -63,7 +69,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/sociology.webp",
-  "alt": "아무도 안 정해 줬는데 늘 같은 자리끼리 뭉쳐 앉는 교실",
+  "alt": "아무도 안 정해 줬는데 늘 같은 사람끼리 모여 앉는 강의실",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

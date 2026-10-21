@@ -11,28 +11,29 @@
  "word": "kit",
  "slug": "kit",
  "url": "https://hibbangyong.com/words/kit/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "키트 — 한 가지 일을 하려고 필요한 물건들을 한 세트로 묶어 담아 놓은 것",
  "gloss_ko": "키트",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "다친 데 붙일 반창고, 소독약, 붕대. 이것들이 따로따로 서랍 여기저기 흩어져 있으면? 급할 때 찾다가 다 못 찾아.\n그런데 누가 이걸 작은 상자 하나에 쏙 모아뒀어. 상자만 들고 뛰면 끝이거든?\n이렇게 '이 일 할 때 필요한 건 여기 다 있어' 하고 한 묶음으로 챙겨둔 거. 약 상자만 그런 게 아니야. 모형 비행기 만들 재료 한 봉지, 자전거 고칠 공구 한 세트, 축구할 때 챙기는 옷이랑 신발 한 벌도 다 그래.\n그냥 물건 여러 개 쌓아둔 거랑은 달라. '이거 하려고' 골라서 함께 묶은 거여야 해. 그게 kit야."
  ],
+ "explanation_for_kids": null,
  "scene": "서랍에 흩어진 반창고·소독약·붕대를 작은 상자 하나에 모아둔 장면",
  "examples": [
   {
-   "en": "Dad grabbed the kit from the car and cleaned my knee.",
-   "ko": "아빠가 차에서 구급상자를 꺼내서 내 무릎을 닦아 줬어."
+   "en": "I keep a first aid kit in my desk at work.",
+   "ko": "나는 회사 책상 서랍에 구급상자를 하나 넣어 둬."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "누나가 캠핑 가서 텐트 칠 때 쓸 망치랑 못이랑 줄을 미리 골라 주머니 하나에 넣어뒀어. 이게 'kit'이야?",
+   "question": "친구가 캠핑 가서 텐트 칠 때 쓸 망치랑 못이랑 줄을 미리 골라 주머니 하나에 넣어뒀어. 이게 'kit'이야?",
    "choices": [
     "응, kit 맞아",
     "아니, kit 아니야"

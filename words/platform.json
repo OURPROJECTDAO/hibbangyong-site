@@ -11,20 +11,21 @@
  "word": "platform",
  "slug": "platform",
  "url": "https://hibbangyong.com/words/platform/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "플랫폼(승강장) — 기차역에서 기차를 타고 내리는, 둘레보다 한 단 높고 평평한 바닥",
  "gloss_ko": "플랫폼",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "기차역에 가면 말이야, 바닥이 한 단 쑥 높아진 데가 있거든?",
   "거기 올라서서 기차를 기다려. 발밑이 평평하고, 둘레 땅보다 높지.",
   "그렇게 둘레보다 높고 위가 판판해서 그 위에 올라설 수 있는 바닥, 그게 platform이야.",
   "무대처럼 한 단 올린 마루도 똑같이 platform이야. 그냥 평평한 길바닥이랑은 달라 — 한 단 높아야 하거든."
  ],
+ "explanation_for_kids": null,
  "scene": "기차역, 둘레보다 한 단 높은 평평한 바닥 위에 올라서서 기차를 기다림.",
  "examples": [
   {
@@ -35,14 +36,14 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "공원 광장에 갔더니, 둘레 바닥보다 한 단 쑥 높고 위는 판판한 데가 있어. 형이 거기 올라서서 사람들한테 노래를 불러. 이게 platform이야?",
+   "question": "공원 광장에 갔더니, 둘레 바닥보다 한 단 쑥 높고 위는 판판한 데가 있어. 한 사람이 거기 올라서서 사람들한테 노래를 불러. 이게 platform이야?",
    "choices": [
     "응, platform이야",
     "아니, platform 아니야"
    ],
    "answer_index": 0,
    "answer": "응, platform이야",
-   "why": "맞아! 둘레 바닥보다 한 단 쑥 높고 위가 판판해서 형이 그 위에 올라설 수 있잖아. 바로 그래서 그게 platform인 거야."
+   "why": "맞아! 둘레 바닥보다 한 단 쑥 높고 위가 판판해서 그 사람이 그 위에 올라설 수 있잖아. 바로 그래서 그게 platform인 거야."
   }
  ],
  "synonyms": [],

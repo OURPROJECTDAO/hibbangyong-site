@@ -11,20 +11,21 @@
  "word": "sum",
  "slug": "sum",
  "url": "https://hibbangyong.com/words/sum/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "합 — 여러 개를 다 더해서 나온 하나의 수(금액을 말할 때도 씀)",
  "gloss_ko": "다 더해서 나온 수",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "따로따로 흩어져 있던 수들을 한 덩어리로 모으면 뭐가 나올까?",
   "네 점수 3점, 내 점수 0점, 옆 친구 1점. 다 더하면 4점. 이 4가 우리 셋을 한꺼번에 말해 주는 하나의 수야.",
   "크게 나올 수도 있고, 생각보다 작게 나올 수도 있어. 돈을 다 더한 값도 똑같이 이렇게 불러.",
   "제일 큰 하나를 고른 것도 아니고, 몇 개인지 센 것도 아니야. 다 더해서 나온 그 하나의 수, 이게 sum이야."
  ],
+ "explanation_for_kids": null,
  "scene": "세 사람 점수를 다 더해 나온 팀 점수",
  "examples": [
   {

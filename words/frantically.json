@@ -11,25 +11,26 @@
  "word": "frantically",
  "slug": "frantically",
  "url": "https://hibbangyong.com/words/frantically/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "정신없이 — 급하거나 겁이 나서 마음을 못 잡고 허둥지둥 마구",
  "gloss_ko": "정신없이 허둥지둥",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "버스 오기 2분 전인데 교통카드가 안 보여. 가방을 뒤집고 주머니를 이리저리 뒤져.",
   "급한데 마음이 안 잡혀서 손이 제멋대로 바쁜 거, 그게 frantically야.",
   "꼭 무서울 때만 쓰는 건 아니야. 마감 5분 전에 과제를 몰아서 끝내는 손도 frantically 움직여.",
   "그냥 빨리랑은 달라. 빨라도 차분하게 순서대로 하면 frantically가 아니야."
  ],
+ "explanation_for_kids": null,
  "scene": "버스 오기 직전 교통카드를 찾느라 가방과 주머니를 뒤지는 장면",
  "examples": [
   {
-   "en": "She looked frantically through her bag for her phone before the bus left.",
-   "ko": "버스가 떠나기 전에 걔가 휴대폰 찾느라 가방을 정신없이 뒤졌어."
+   "en": "I searched frantically for my phone before the subway doors closed.",
+   "ko": "지하철 문이 닫히기 전에 휴대폰을 찾느라 정신없이 뒤졌어."
   }
  ],
  "quiz": [

@@ -11,20 +11,21 @@
  "word": "hence",
  "slug": "hence",
  "url": "https://hibbangyong.com/words/hence/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "그래서 — 앞에서 말한 일 때문에 뒤엣일이 생겼다고 이어 주는 말(좀 딱딱한 말투)",
  "gloss_ko": "그 때문에, 그래서",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "우유를 쏟았어. 그래서 수건을 가지러 뛰어갔지.",
   "앞에 말한 일 때문에 뒤에 말한 일이 생겼잖아? 그 사이를 딱 이어 주는 말이야.",
   "좋은 일이든 나쁜 일이든 다 돼. 앞이 이유고, 뒤가 그것 때문에 생긴 일이기만 하면 돼.",
   "그냥 '그 다음에'랑은 달라. 다음에 일어난 게 아니라 그것 때문에 일어난 거거든. 그게 hence야."
  ],
+ "explanation_for_kids": null,
  "scene": "우유를 쏟고 수건을 가지러 뛰어간 장면(앵커·example)",
  "examples": [
   {
@@ -35,7 +36,7 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "동생이 그림물감 뚜껑을 안 닫아 놨어. 붓이 딱딱하게 굳어서 못 쓰게 됐지. 이 두 토막을 잇는 게 'hence'야?",
+   "question": "룸메이트가 물감 뚜껑을 안 닫아 놨어. 붓이 딱딱하게 굳어서 못 쓰게 됐지. 이 두 토막을 잇는 게 'hence'야?",
    "choices": [
     "응, hence 맞아",
     "아니, hence 아니야"

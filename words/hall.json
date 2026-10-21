@@ -11,25 +11,31 @@
  "word": "hall",
  "slug": "hall",
  "url": "https://hibbangyong.com/words/hall/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "홀 — 건물 안에서 방 하나에 갇히지 않고 트여 있는 자리. 방들 사이로 이어진 길일 수도, 사람들이 모이는 큰 자리일 수도 있어.",
  "gloss_ko": "홀",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "대학 건물에서 강의실 문들 사이로 쭉 뻗은 길, 그 자리가 hall이야.",
+  "근데 다 같이 모여 앉는 그 큰 자리도 hall이라고 불러. 어? 길인데 큰 자리라고?",
+  "둘 다 맞아. 문 닫고 갇힌 방이 아니라, 들어서면 여기저기로 이어지거나 사람들이 모이는 트인 자리면 hall이거든. 아주 클 수도 있고, 집 대문 열고 들어선 자리처럼 작을 수도 있어.",
+  "그러니까 침대 놓고 문 닫고 혼자 있는 방 말고, 그게 hall이야."
+ ],
+ "explanation_for_kids": [
   "학교에서 교실 문들 사이로 쭉 뻗은 그 길, 걸어가 봤지? 그 자리가 hall이야.",
   "근데 다 같이 모여 앉는 그 큰 자리도 hall이라고 불러. 어? 길인데 큰 자리라고?",
   "둘 다 맞아. 문 닫고 갇힌 방이 아니라, 들어서면 여기저기로 이어지거나 사람들이 모이는 트인 자리면 hall이거든. 아주 클 수도 있고, 집 대문 열고 들어선 자리처럼 작을 수도 있어.",
   "그러니까 침대 놓고 문 닫고 혼자 있는 방 말고, 그게 hall이야."
  ],
- "scene": "교실 문들 사이로 쭉 뻗은 학교 안쪽 길",
+ "scene": "강의실 문들 사이로 뻗은 건물 안쪽 길",
  "examples": [
   {
-   "en": "We waited in the hall until the door opened.",
-   "ko": "우리는 문이 열릴 때까지 복도에서 기다렸어."
+   "en": "We waited in the hall before the job interview.",
+   "ko": "우리는 면접 보기 전에 복도에서 기다렸어."
   }
  ],
  "quiz": [
@@ -55,7 +61,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/hall.webp",
-  "alt": "교실 문들 사이로 쭉 뻗은 학교 안쪽 길",
+  "alt": "강의실 문들 사이로 뻗은 건물 안쪽 길",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

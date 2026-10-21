@@ -11,31 +11,37 @@
  "word": "perfect",
  "slug": "perfect",
  "url": "https://hibbangyong.com/words/perfect/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "완벽한 — 어디 하나 틀리거나 모자란 데 없는, 고칠 게 딱 하나도 없는",
  "gloss_ko": "완벽한",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "단어 시험을 봤는데, 열 개 문제를 다 맞았어. 틀린 게 하나도 없어.",
+  "교수님이 빨간 펜으로 X 칠 데를 아무리 찾아도 못 찾는 거야.",
+  "그냥 잘한 거랑은 좀 달라. 잘해도 한 군데쯤은 틀릴 수 있잖아? perfect는 고칠 게 딱 하나도 없는 거거든.",
+  "이게 perfect야."
+ ],
+ "explanation_for_kids": [
   "받아쓰기 시험을 봤는데, 열 개 문제를 다 맞았어. 틀린 게 하나도 없어.",
   "선생님이 빨간 펜으로 X 칠 데를 아무리 찾아도 못 찾는 거야.",
   "그냥 잘한 거랑은 좀 달라. 잘해도 한 군데쯤은 틀릴 수 있잖아? perfect는 고칠 게 딱 하나도 없는 거거든.",
   "이게 perfect야."
  ],
- "scene": "받아쓰기에서 열 개를 다 맞아 틀린 게 하나도 없는 시험지",
+ "scene": "단어 시험에서 열 개를 다 맞아 틀린 게 하나도 없는 시험지",
  "examples": [
   {
-   "en": "I fixed my very last mistake, so now my drawing is perfect.",
-   "ko": "마지막 틀린 데까지 고쳐서 이제 내 그림은 완벽해."
+   "en": "I fixed the last typo in my report, so now it's perfect.",
+   "ko": "보고서에 남은 마지막 오타까지 고쳐서 이제 완벽해."
   }
  ],
  "quiz": [
   {
    "type": "choice",
-   "question": "네 친구 넷이 받아쓰기 시험지를 보여줬어. 어떤 게 'perfect'한 시험지일까?",
+   "question": "네 친구 넷이 단어 시험지를 보여줬어. 어떤 게 'perfect'한 시험지일까?",
    "choices": [
     "열 문제를 다 맞아서 틀린 데가 하나도 없는 시험지",
     "글씨는 아주 예쁘고 멋지게 썼지만 한 개는 틀린 시험지",
@@ -63,7 +69,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/perfect.webp",
-  "alt": "받아쓰기에서 열 개를 다 맞아 틀린 게 하나도 없는 시험지",
+  "alt": "단어 시험에서 열 개를 다 맞아 틀린 게 하나도 없는 시험지",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

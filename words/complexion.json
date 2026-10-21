@@ -11,25 +11,26 @@
  "word": "complexion",
  "slug": "complexion",
  "url": "https://hibbangyong.com/words/complexion/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "안색 — 얼굴 피부의 빛깔과 결(하얀지 까무잡잡한지, 맑은지 거친지)",
  "gloss_ko": "얼굴 피부빛",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "거울 앞에서 친구들끼리 그래. '넌 하얗다', '난 좀 까무잡잡해', '요즘 뾰루지 났어.'",
   "얼굴 피부가 무슨 색이고 결이 어떤지, 그게 complexion이야.",
   "맑아도, 거칠어도, 창백해도 다 complexion 얘기야.",
   "웃고 찡그리는 표정이나 눈·코 생김새랑은 달라. 무릎이나 팔 피부도 아니고, 얼굴 피부만이야."
  ],
+ "explanation_for_kids": null,
  "scene": "거울 앞에서 친구들끼리 얼굴 피부색 비교",
  "examples": [
   {
-   "en": "Grandma said I had a healthy complexion after the summer.",
-   "ko": "여름 지나고 할머니가 나보고 얼굴빛이 좋아졌다고 하셨어."
+   "en": "This cream gave me a much clearer complexion.",
+   "ko": "이 크림을 쓰고 나서 피부빛이 훨씬 맑아졌어."
   }
  ],
  "quiz": [

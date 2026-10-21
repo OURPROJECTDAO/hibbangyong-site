@@ -11,21 +11,27 @@
  "word": "subsistence",
  "slug": "subsistence",
  "url": "https://hibbangyong.com/words/subsistence/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "최저 생활 — 살아가는 데 꼭 필요한 만큼만 겨우 갖고 사는 상태",
  "gloss_ko": "겨우 먹고살기",
  "level": {
   "code": "L9",
-  "name": "토플 114~120점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "생활비가 딱 밥값이랑 버스비만큼만 된다고 해 봐.",
+  "굶지는 않아. 근데 남는 것도 하나 없어.",
+  "살아가는 데 꼭 필요한 만큼만 겨우 있는 그 선, 그게 subsistence야.",
+  "며칠째 굶는 것처럼 그보다 모자란 것도 아니고, 그냥 '돈 벌어 사는 일' 전체를 말하는 것도 아니야."
+ ],
+ "explanation_for_kids": [
   "용돈이 딱 밥값이랑 버스비만큼만 나온다고 해 봐.",
   "굶지는 않아. 근데 남는 것도 하나 없어.",
   "살아가는 데 꼭 필요한 만큼만 겨우 있는 그 선, 그게 subsistence야.",
   "며칠째 굶는 것처럼 그보다 모자란 것도 아니고, 그냥 '돈 벌어 사는 일' 전체를 말하는 것도 아니야."
  ],
- "scene": "용돈이 밥값과 버스비만큼만 나오는 상황",
+ "scene": "생활비가 밥값과 버스비만큼뿐인 상황",
  "examples": [
   {
    "en": "Before the factory came, most people in the village lived on subsistence farming.",

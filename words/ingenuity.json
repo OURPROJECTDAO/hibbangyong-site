@@ -11,25 +11,26 @@
  "word": "ingenuity",
  "slug": "ingenuity",
  "url": "https://hibbangyong.com/words/ingenuity/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "창의력 — 막힌 상황에서 있는 걸로 새 방법을 기발하게 생각해 내는 재주",
  "gloss_ko": "기발한 머리",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "동아리 축제 부스를 꾸밀 돈이 하나도 없었어.",
   "근데 한 애가 버리는 상자랑 우유갑으로 그럴듯한 간판을 뚝딱 만들어 냈어. 있는 걸로 새 방법을 떠올리는 머리, 그게 ingenuity야.",
   "좋은 데 쓰든 나쁜 데 쓰든 상관없어. 들키지 않고 몰래 빠져나가는 기발한 수법도 ingenuity야.",
   "시험 점수 높은 똑똑함이나 타고난 재능이랑은 달라. 막힌 데서 길을 생각해 내는 쪽이야."
  ],
+ "explanation_for_kids": null,
  "scene": "돈 없는 동아리 축제 부스를 버리는 상자와 우유갑으로 꾸미기",
  "examples": [
   {
-   "en": "The thief showed great ingenuity in getting into the locked room.",
-   "ko": "그 도둑은 잠긴 방에 들어가려고 머리를 엄청 기발하게 굴렸어."
+   "en": "It took some ingenuity, but my roommate fixed the door with a spoon.",
+   "ko": "머리를 좀 기발하게 써야 했지만, 룸메이트가 숟가락 하나로 문을 고쳤어."
   }
  ],
  "quiz": [

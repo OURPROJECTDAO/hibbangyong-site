@@ -11,31 +11,32 @@
  "word": "loose",
  "slug": "loose",
  "url": "https://hibbangyong.com/words/loose/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "꽉 조이거나 딱 붙지 않고, 헐렁하거나 흔들흔들 잘 움직이는",
  "gloss_ko": "헐렁하고 흔들리는",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "앞니가 흔들흔들, 혀로 밀면 앞뒤로 살짝 움직이지?",
   "꽉 안 박혀 있어서 그래.",
   "헐렁한 신발끈도, 몸에 안 붙고 남아도는 옷도 다 똑같아 — 딱 안 붙고 남는 거야.",
   "꽉 조이거나 착 붙은 거 말고, 헐렁하게 잘 움직이는 거. 이게 loose야."
  ],
+ "explanation_for_kids": null,
  "scene": "흔들리는 앞니를 혀로 밀어 앞뒤로 움직이는 장면",
  "examples": [
   {
-   "en": "My front tooth feels loose, so I keep touching it.",
-   "ko": "앞니가 흔들흔들해서 자꾸 만지게 돼."
+   "en": "These jeans feel loose, so I need a belt.",
+   "ko": "이 청바지가 헐렁해서 벨트를 해야겠어."
   }
  ],
  "quiz": [
   {
    "type": "choice",
-   "question": "동생이 옷 네 벌을 입어 봤어. 그중에 'loose'한 옷은 어떤 거야?",
+   "question": "친구가 옷 네 벌을 입어 봤어. 그중에 'loose'한 옷은 어떤 거야?",
    "choices": [
     "헐렁해서 자꾸 어깨에서 흘러내리는 셔츠",
     "몸에 딱 맞아 착 달라붙는 셔츠",

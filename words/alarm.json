@@ -11,20 +11,21 @@
  "word": "alarm",
  "slug": "alarm",
  "url": "https://hibbangyong.com/words/alarm/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "경보, 경보기 — 위험한 일이 생기거나 정해 둔 때가 되면 크게 울려서 얼른 알아채게 해 주는 소리나 기계(아침에 깨워 주는 알람도 여기 들어가)",
  "gloss_ko": "경보, 경보기",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "불이 나면 벽에서 따르르릉! 크게 울리는 거 있지?",
   "누가 차를 몰래 건드려도 울리고, 아침에 일어날 시간이 되면 시계도 크게 울려.",
   "그냥 시끄러운 노래나, 손님이 눌러야 울리는 초인종이랑은 달라. 저절로 울려서 '지금 알아채, 얼른 움직여!' 하고 알려 주거든.",
   "이렇게 울려서 얼른 알아채게 하는 소리나 기계, 그게 alarm이야."
  ],
+ "explanation_for_kids": null,
  "scene": "불이 나서 벽에서 울리는 경보",
  "examples": [
   {

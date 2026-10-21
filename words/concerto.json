@@ -11,25 +11,26 @@
  "word": "concerto",
  "slug": "concerto",
  "url": "https://hibbangyong.com/words/concerto/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "협주곡 — 악기 하나(또는 몇 개)가 주인공으로 나서서 오케스트라와 함께 연주하는 곡",
  "gloss_ko": "협주곡",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "음악회 영상을 봤는데, 무대 앞에 첼로 한 명이 서 있고 뒤에는 오케스트라가 쭉 앉아 있었어.",
   "첼로가 혼자 멜로디를 끌고 가면, 오케스트라가 받아서 같이 키워 줘.",
   "이렇게 앞에 나선 악기랑 오케스트라가 주고받는 곡이 concerto, 협주곡이야. 주인공은 피아노든 트럼펫이든, 하나든 둘이든 상관없어.",
   "오케스트라만 하는 교향곡도, 혼자 다 치는 독주곡도 아니야. 공연(concert)을 말하는 게 아니라 곡 이름이야."
  ],
+ "explanation_for_kids": null,
  "scene": "무대 앞 첼로 독주자와 뒤의 오케스트라가 주고받는 음악회 영상",
  "examples": [
   {
-   "en": "The cello concerto was so long that my little brother fell asleep.",
-   "ko": "첼로 협주곡이 너무 길어서 남동생이 그만 잠들어 버렸어."
+   "en": "The cello concerto was so long that my friend fell asleep.",
+   "ko": "첼로 협주곡이 너무 길어서 친구가 그만 잠들어 버렸어."
   }
  ],
  "quiz": [

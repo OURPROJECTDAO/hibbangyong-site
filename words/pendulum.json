@@ -11,25 +11,31 @@
  "word": "pendulum",
  "slug": "pendulum",
  "url": "https://hibbangyong.com/words/pendulum/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "진자(시계추) — 한 점에 매달려서 좌우로 규칙적으로 왔다 갔다 흔들리는 추",
  "gloss_ko": "진자, 흔들리는 추",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "오래된 카페 큰 벽시계 아래에서 무거운 추가 왼쪽, 오른쪽으로 왔다 갔다 하지? 그게 pendulum이야.",
+  "시계에 달린 것만 그런 건 아니야. 실험할 때 실 끝에 구슬을 매달아서 흔드는 것도 pendulum이야.",
+  "중요한 건 한 점에 매달려서 같은 길을 계속 오간다는 거야. 가만히 매달려 있는 저울추나 빙글빙글 도는 팽이는 아니야.",
+  "사람들 생각이 이쪽 끝에서 저쪽 끝으로 오락가락할 때도 이 말을 빌려서 써."
+ ],
+ "explanation_for_kids": [
   "할머니 집 큰 벽시계 아래에서 무거운 추가 왼쪽, 오른쪽으로 왔다 갔다 하지? 그게 pendulum이야.",
   "시계에 달린 것만 그런 건 아니야. 과학 시간에 실 끝에 구슬을 매달아서 흔드는 것도 pendulum이야.",
   "중요한 건 한 점에 매달려서 같은 길을 계속 오간다는 거야. 가만히 매달려 있는 저울추나 빙글빙글 도는 팽이는 아니야.",
   "사람들 생각이 이쪽 끝에서 저쪽 끝으로 오락가락할 때도 이 말을 빌려서 써."
  ],
- "scene": "할머니 집 벽시계 아래에서 좌우로 흔들리는 추",
+ "scene": "오래된 카페 벽시계 아래에서 좌우로 흔들리는 추",
  "examples": [
   {
-   "en": "In science class, we checked how long the pendulum took to come back.",
-   "ko": "과학 시간에 진자가 갔다가 돌아오는 데 얼마나 걸리는지 재 봤어."
+   "en": "At the café, I watched the clock's pendulum swing back and forth.",
+   "ko": "카페에서 벽시계 추가 왔다 갔다 흔들리는 걸 멍하니 봤어."
   }
  ],
  "quiz": [
@@ -55,7 +61,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/pendulum.webp",
-  "alt": "할머니 집 벽시계 아래에서 좌우로 흔들리는 추",
+  "alt": "오래된 카페 벽시계 아래에서 좌우로 흔들리는 추",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

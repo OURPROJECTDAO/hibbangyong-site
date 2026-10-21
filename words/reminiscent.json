@@ -11,25 +11,26 @@
  "word": "reminiscent",
  "slug": "reminiscent",
  "url": "https://hibbangyong.com/words/reminiscent/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "떠올리게 하는 — 소리·냄새·맛·모습 같은 데 비슷한 점이 있어서 다른 뭔가가 생각나게 하는 (주로 reminiscent of ~ 꼴로 써)",
  "gloss_ko": "떠올리게 하는",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "처음 듣는 노래인데 앞부분이 전에 들은 다른 노래랑 비슷해. 듣자마자 그 노래가 생각났어.",
   "이렇게 A에 비슷한 데가 있어서 B가 머리에 떠오르면 A is reminiscent of B라고 해. 소리든 냄새든 맛이든 그림 느낌이든 다 돼.",
   "좋은 기억일 필요도 없어. 병원 냄새 때문에 무서웠던 주사가 떠올라도 이 말을 써.",
   "그냥 비슷하기만 하고 딴 게 안 떠오르면 이 말은 안 써. 참고로 of 없이 a reminiscent smile이라고 하면 옛날 생각에 잠긴 웃음이라는 뜻이야."
  ],
+ "explanation_for_kids": null,
  "scene": "처음 듣는 노래 앞부분이 전에 들은 다른 노래를 떠올리게 함",
  "examples": [
   {
-   "en": "The start of this new song is reminiscent of a scary movie.",
-   "ko": "이 새 노래 앞부분 들으니까 무서운 영화 음악이 생각나."
+   "en": "The smell of this café is reminiscent of a bakery in Paris.",
+   "ko": "이 카페 냄새를 맡으니까 파리에 있던 빵집이 생각나."
   }
  ],
  "quiz": [

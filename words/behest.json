@@ -11,40 +11,41 @@
  "word": "behest",
  "slug": "behest",
  "url": "https://hibbangyong.com/words/behest/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "요청 — 누가 부탁하거나 시켜서 내가 그 일을 하게 될 때, 그 부탁이나 지시 (주로 at someone's behest = ~의 요청으로)",
  "gloss_ko": "요청·지시",
  "level": {
   "code": "L9",
-  "name": "토플 114~120점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "동생이 책 한 권만 더 읽어 달래. 그래서 읽어 줬어.",
   "이렇게 내가 한 일이 남의 부탁이나 지시에서 시작됐으면, 그 부탁이나 지시가 behest야. 거의 늘 at someone's behest 꼴로 써.",
   "부탁이어도 되고 명령이어도 돼. 동생이 해도, 회사가 해도, 나라가 해도 다 behest야. 중요한 건 남이 해 달래서 했다는 점이야.",
   "내가 하고 싶어서 한 거나, 내가 먼저 허락을 받은 거랑은 달라."
  ],
+ "explanation_for_kids": null,
  "scene": "동생이 책을 한 권 더 읽어 달라고 함",
  "examples": [
   {
-   "en": "At my little brother's behest, I read him one more story.",
-   "ko": "동생이 해 달래서 이야기 하나를 더 읽어 줬어."
+   "en": "At my manager's behest, I stayed an hour late.",
+   "ko": "팀장님이 부탁해서 한 시간 더 남아 있었어."
   }
  ],
  "quiz": [
   {
    "type": "choice",
-   "question": "삼촌이 \"이 소포 좀 우체국에 부쳐 줘\"라고 하셔서, 나는 오후에 우체국에 다녀왔어. 이 이야기에서 'behest'에 해당하는 것은?",
+   "question": "팀장님이 \"이 소포 좀 우체국에 부쳐 줘\"라고 하셔서, 오후에 우체국에 다녀왔어. 이 이야기에서 'behest'에 해당하는 것은?",
    "choices": [
-    "소포를 부쳐 달라는 삼촌의 말",
-    "상자 안에 들어 있던 삼촌의 책",
+    "소포 부쳐 달라는 팀장님의 말",
+    "상자 안에 든 팀장님의 책",
     "우체국까지 걸어간 이십 분의 길",
     "우체국 창구가 문을 닫는 시간"
    ],
    "answer_index": 0,
-   "answer": "소포를 부쳐 달라는 삼촌의 말",
-   "why": "맞아! 내가 우체국에 다녀온 건 삼촌이 소포 좀 부쳐 달라고 하셔서잖아. 이렇게 내가 한 일이 시작된 남의 부탁, 바로 그 삼촌의 말이 behest야."
+   "answer": "소포 부쳐 달라는 팀장님의 말",
+   "why": "맞아! 내가 우체국에 다녀온 건 팀장님이 소포 좀 부쳐 달라고 하셔서잖아. 이렇게 내가 한 일이 시작된 남의 부탁, 바로 팀장님의 말이 behest야."
   }
  ],
  "synonyms": [],

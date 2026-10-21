@@ -11,21 +11,27 @@
  "word": "disposition",
  "slug": "disposition",
  "url": "https://hibbangyong.com/words/disposition/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "기질 — 무슨 일이 생기면 늘 비슷한 쪽으로 반응하게 만드는 평소 성격",
  "gloss_ko": "평소 성향",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "비가 와서 캠핑이 취소됐어. 한 명은 '그럼 영화 보자' 하고 바로 털어. 다른 한 명은 하루 종일 툴툴대.",
+  "일이 터질 때마다 그 사람이 늘 기우는 쪽이 있어. 그게 disposition이야.",
+  "밝은 쪽일 수도 있고, 걱정 많거나 화 잘 내는 쪽일 수도 있어. 사람뿐 아니라 강아지한테도 써.",
+  "오늘 하루 기분이랑은 달라. 기분은 금방 바뀌지만, 이건 평소에 늘 그래."
+ ],
+ "explanation_for_kids": [
   "비가 와서 소풍이 취소됐어. 한 명은 '그럼 영화 보자' 하고 바로 털어. 다른 한 명은 하루 종일 툴툴대.",
   "일이 터질 때마다 그 사람이 늘 기우는 쪽이 있어. 그게 disposition이야.",
   "밝은 쪽일 수도 있고, 걱정 많거나 화 잘 내는 쪽일 수도 있어. 사람뿐 아니라 강아지한테도 써.",
   "오늘 하루 기분이랑은 달라. 기분은 금방 바뀌지만, 이건 평소에 늘 그래."
  ],
- "scene": "비로 소풍이 취소됐을 때 친구 둘의 다른 반응",
+ "scene": "비로 캠핑이 취소됐을 때 친구 둘의 다른 반응",
  "examples": [
   {
    "en": "My dog has a nervous disposition, so she hides under the bed whenever someone visits.",
@@ -35,14 +41,14 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "민수는 시험을 망쳤을 때도, 버스를 놓쳤을 때도, 운동장에서 넘어졌을 때도 웃으면서 \"괜찮아, 다음에 잘하면 되지\" 하고 넘겨. 이런 민수의 모습이 민수의 'disposition'이야?",
+   "question": "민수는 면접을 망쳤을 때도, 버스를 놓쳤을 때도, 길에서 넘어졌을 때도 웃으면서 \"괜찮아, 다음에 잘하면 되지\" 하고 넘겨. 이런 민수의 모습이 민수의 'disposition'이야?",
    "choices": [
     "응, disposition 맞아",
     "아니, disposition 아니야"
    ],
    "answer_index": 0,
    "answer": "응, disposition 맞아",
-   "why": "맞아! 시험을 망쳤을 때도, 버스를 놓쳤을 때도, 운동장에서 넘어졌을 때도 민수는 매번 웃으면서 넘기잖아. 무슨 일이 생겨도 늘 같은 쪽으로 반응하니까 바로 그게 민수의 disposition인 거야."
+   "why": "맞아! 면접을 망쳤을 때도, 버스를 놓쳤을 때도, 길에서 넘어졌을 때도 민수는 매번 웃으면서 넘기잖아. 무슨 일이 생겨도 늘 같은 쪽으로 반응하니까 바로 그게 민수의 disposition인 거야."
   }
  ],
  "synonyms": [],

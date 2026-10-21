@@ -11,31 +11,37 @@
  "word": "organize",
  "slug": "organize",
  "url": "https://hibbangyong.com/words/organize/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "흩어진 걸 종류·순서대로 나눠서 제자리에 착착 정리하고, 일도 미리 짜서 준비하다",
  "gloss_ko": "끼리끼리 정리",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "짐이 방바닥에 와르르 흩어져 있어.",
+  "그냥 한곳에 쓸어 담는 게 아니야. 옷은 옷끼리, 책은 책끼리 나눠서 상자에 착착 넣는 거야.",
+  "종류대로 자리를 딱 정해서 짜임새 있게 맞추는 거지. 물건뿐 아니라 생일 파티도 순서 짜서 준비하면 이거야.",
+  "이렇게 기준대로 나눠서 짜맞추는 게 organize야."
+ ],
+ "explanation_for_kids": [
   "장난감이 방바닥에 와르르 흩어져 있어.",
   "그냥 한곳에 쓸어 담는 게 아니야. 자동차는 자동차끼리, 블록은 블록끼리 나눠서 상자에 착착 넣는 거야.",
   "종류대로 자리를 딱 정해서 짜임새 있게 맞추는 거지. 물건뿐 아니라 생일 파티도 순서 짜서 준비하면 이거야.",
   "이렇게 기준대로 나눠서 짜맞추는 게 organize야."
  ],
- "scene": "장난감이 방바닥에 와르르 흩어진 장면",
+ "scene": "짐이 방바닥에 와르르 흩어진 장면",
  "examples": [
   {
-   "en": "Can you organize your toy box? Cars in one part, blocks in another.",
-   "ko": "장난감 상자 좀 정리해서 자동차랑 블록을 따로 넣어 줄래?"
+   "en": "Can you help me organize the closet? Shirts here, pants there.",
+   "ko": "옷장 정리 좀 도와줄래? 셔츠는 여기, 바지는 저기."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "누나가 식탁에서 걷어 온 수저를 숟가락은 숟가락 칸, 젓가락은 젓가락 칸으로 나눠서 서랍 수저통에 넣었어. 이게 'organize'야?",
+   "question": "친구가 식탁에서 걷어 온 수저를 숟가락은 숟가락 칸, 젓가락은 젓가락 칸으로 나눠서 서랍 수저통에 넣었어. 이게 'organize'야?",
    "choices": [
     "응, organize 맞아",
     "아니, organize 아니야"
@@ -57,7 +63,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/organize.webp",
-  "alt": "장난감이 방바닥에 와르르 흩어진 장면",
+  "alt": "짐이 방바닥에 와르르 흩어진 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,25 +11,26 @@
  "word": "bumper",
  "slug": "bumper",
  "url": "https://hibbangyong.com/words/bumper/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "범퍼 — 자동차 앞뒤 끝에 가로로 붙어서, 부딪힐 때 차를 먼저 막아 주는 막대",
  "gloss_ko": "범퍼",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "주차장에서 차가 뒤로 가다가 기둥에 살짝 닿았어.",
   "근데 문이랑 몸통은 멀쩡하고, 맨 뒤 끝에 가로로 붙은 부분만 긁혔어.",
   "차 앞 끝이랑 뒤 끝에 붙어서 먼저 부딪혀 주는 그 부분이 bumper야.",
   "옆문이나 바퀴를 덮은 판이랑은 달라. 앞뒤 끝에서 충격을 대신 받는 자리야."
  ],
+ "explanation_for_kids": null,
  "scene": "주차하다 뒤로 가다 기둥에 닿은 차",
  "examples": [
   {
-   "en": "My dad hit a pole, and now the back bumper has a big scratch.",
-   "ko": "아빠가 기둥을 박아서 뒤 범퍼에 큰 흠집이 났어."
+   "en": "I hit a pole, and now my back bumper has a big scratch.",
+   "ko": "기둥을 박아서 내 차 뒤 범퍼에 큰 흠집이 났어."
   }
  ],
  "quiz": [

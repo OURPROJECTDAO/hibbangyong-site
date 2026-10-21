@@ -11,20 +11,21 @@
  "word": "linen",
  "slug": "linen",
  "url": "https://hibbangyong.com/words/linen/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "리넨(아마포) — 아마라는 풀의 줄기에서 뽑은 실로 짠 천",
  "gloss_ko": "리넨",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "여름 셔츠 중에 좀 까슬하고 입으면 시원한데, 금방 구겨지는 거 있지?",
   "그게 아마라는 풀의 줄기에서 뽑은 실로 짠 천이야. 그 천을 linen이라고 해.",
   "침대 시트나 식탁보처럼 집에서 쓰는 천 물건들을 통틀어 linen이라고 부르기도 해.",
   "목화솜으로 만든 면이나 누에고치 실로 만든 비단이랑은 재료부터 다른 천이야."
  ],
+ "explanation_for_kids": null,
  "scene": "여름에 입는 까슬하고 잘 구겨지는 셔츠",
  "examples": [
   {
@@ -35,14 +36,14 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "할머니가 아마라는 풀의 줄기에서 뽑은 실로 짠 천을 사서, 거실 창문에 걸 여름 커튼을 만드셨어. 이 커튼 천은 'linen'일까?",
+   "question": "이웃분이 아마라는 풀의 줄기에서 뽑은 실로 짠 천을 사서, 거실 창문에 걸 여름 커튼을 만드셨어. 이 커튼 천은 'linen'일까?",
    "choices": [
     "응, linen 맞아",
     "아니, linen 아니야"
    ],
    "answer_index": 0,
    "answer": "응, linen 맞아",
-   "why": "맞아! 할머니가 산 천은 아마라는 풀의 줄기에서 뽑은 실로 짠 거잖아. 그렇게 짠 천이 바로 linen이니까, 그걸로 만든 여름 커튼 천도 linen인 거야."
+   "why": "맞아! 이웃분이 산 천은 아마라는 풀의 줄기에서 뽑은 실로 짠 거잖아. 그렇게 짠 천이 바로 linen이니까, 그걸로 만든 여름 커튼 천도 linen인 거야."
   }
  ],
  "synonyms": [],

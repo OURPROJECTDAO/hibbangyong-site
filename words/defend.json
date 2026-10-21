@@ -11,15 +11,21 @@
  "word": "defend",
  "slug": "defend",
  "url": "https://hibbangyong.com/words/defend/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "지키다 — 뭔가를 노리고 오는 걸 막아서 안 다치게 하는 것",
  "gloss_ko": "지키다",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "풋살장에 골대가 하나 있어. 상대편이 공을 뻥 차서 골대로 보내려고 해.",
+  "그때 네가 앞을 딱 막아서잖아? 공이 못 들어가게. 그게 지키는 거야.",
+  "꼭 공만은 아니야. 누가 네 친구한테 나쁜 말을 퍼부을 때 네가 앞에 나서서 \"그만해\" 하는 것도 같아. 말로 막아주는 거지.",
+  "덤벼서 이기려는 게 아니라, 오는 걸 막아서 안 다치게 하는 것. 그게 defend야."
+ ],
+ "explanation_for_kids": [
   "운동장에 골대가 하나 있어. 상대편이 공을 뻥 차서 골대로 보내려고 해.",
   "그때 네가 앞을 딱 막아서잖아? 공이 못 들어가게. 그게 지키는 거야.",
   "꼭 공만은 아니야. 누가 네 동생한테 나쁜 말을 퍼부을 때 네가 앞에 나서서 \"그만해\" 하는 것도 같아. 말로 막아주는 거지.",
@@ -28,14 +34,14 @@
  "scene": "골대 앞을 막아서서 상대 공을 못 들어가게 하는 장면",
  "examples": [
   {
-   "en": "The little bird flew at the cat to defend her babies.",
-   "ko": "작은 새가 새끼들을 지키려고 고양이한테 확 날아들었어."
+   "en": "Our neighbor's cat hissed to defend her kittens from the dog.",
+   "ko": "이웃집 고양이가 개한테서 새끼들을 지키려고 하악질을 했어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "놀이터에서 큰 개가 컹컹 짖으면서 친구한테 달려드는데, 지호가 친구 앞을 몸으로 막고 버텼어. 이게 'defend'야?",
+   "question": "공원에서 큰 개가 사납게 짖으면서 친구한테 달려드는데, 지호가 친구 앞을 몸으로 막고 버텼어. 이게 'defend'야?",
    "choices": [
     "응, defend 맞아",
     "아니, defend 아니야"

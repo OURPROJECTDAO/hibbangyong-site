@@ -11,21 +11,27 @@
  "word": "real",
  "slug": "real",
  "url": "https://hibbangyong.com/words/real/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "진짜의 — 가짜나 상상이 아니라 정말로 있는",
  "gloss_ko": "진짜의",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "강아지 모형은 아무리 흔들어도 짖지도 밥 먹지도 않지? 그냥 흉내만 낸 거잖아.",
+  "근데 옆집 강아지는 살아서 뛰고 짖어. 정말로 있는 거야.",
+  "꾸며낸 이야기나 가짜가 아니라, 진짜로 있는 거.",
+  "그게 real이야."
+ ],
+ "explanation_for_kids": [
   "장난감 강아지는 아무리 흔들어도 짖지도 밥 먹지도 않지? 그냥 흉내만 낸 거잖아.",
   "근데 옆집 강아지는 살아서 뛰고 멍멍 짖어. 정말로 있는 거야.",
   "꾸며낸 이야기나 가짜가 아니라, 진짜로 있는 거.",
   "그게 real이야."
  ],
- "scene": "짖지도 밥 먹지도 않는 장난감 강아지 vs 살아서 짖는 옆집 강아지",
+ "scene": "짖지도 밥 먹지도 않는 강아지 모형 vs 살아서 짖는 옆집 강아지",
  "examples": [
   {
    "en": "My grandma's ring is made of real gold.",
@@ -70,7 +76,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/real.webp",
-  "alt": "짖지도 밥 먹지도 않는 장난감 강아지 vs 살아서 짖는 옆집 강아지",
+  "alt": "짖지도 밥 먹지도 않는 강아지 모형 vs 살아서 짖는 옆집 강아지",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,29 +11,33 @@
  "word": "diary",
  "slug": "diary",
  "url": "https://hibbangyong.com/words/diary/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "일기장 — 하루에 있었던 일이나 마음을 적어 두는, 나만 보는 공책",
  "gloss_ko": "일기장",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "그림 속 자물쇠가 달린 두툼한 공책이 바로 diary(일기장)야. 안에다 오늘 있었던 일을 적어 두는 거지.",
+  "회사에서 재밌었던 일이나 속상했던 마음을 diary에 적어 두면, 나중에 다시 펼쳐 볼 수 있어."
+ ],
+ "explanation_for_kids": [
   "그림 속 자물쇠가 달린 두툼한 공책이 바로 diary(일기장)야. 안에다 오늘 있었던 일을 적어 두는 거지.",
   "학교에서 재밌었던 일이나 속상했던 마음을 diary에 적어 두면, 나중에 다시 펼쳐 볼 수 있어."
  ],
- "scene": "작은 걸쇠 자물쇠가 달린 두툼한 표지의 일기장(다이어리)과 그 옆에 놓인 펜 — 아이가 떠올리는 '비밀 일기장'을 그림",
+ "scene": "작은 걸쇠 자물쇠가 달린 두툼한 표지의 일기장(다이어리)과 그 옆에 놓인 펜",
  "examples": [
   {
-   "en": "Every night, I write about my day in my diary before I go to sleep.",
-   "ko": "나는 밤마다 자기 전에 일기장에 그날 있었던 일을 적어."
+   "en": "I write about my day in my diary every night.",
+   "ko": "나는 매일 밤 일기장에 그날 하루를 적어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "형은 점심에 먹을 밥과 반찬을 칸칸이 담아서 학교에 들고 가. 이게 diary야?",
+   "question": "동료는 점심 밥과 반찬을 칸칸이 담은 도시락통을 회사에 들고 가. 이게 diary야?",
    "choices": [
     "응, 맞아",
     "아니, 아니야"
@@ -53,7 +57,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/diary.webp",
-  "alt": "작은 걸쇠 자물쇠가 달린 두툼한 표지의 일기장(다이어리)과 그 옆에 놓인 펜 — 아이가 떠올리는 '비밀 일기장'을 그림",
+  "alt": "작은 걸쇠 자물쇠가 달린 두툼한 표지의 일기장(다이어리)과 그 옆에 놓인 펜",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

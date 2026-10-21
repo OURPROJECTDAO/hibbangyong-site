@@ -11,25 +11,26 @@
  "word": "doom",
  "slug": "doom",
  "url": "https://hibbangyong.com/words/doom/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "파멸 — 피할 수 없이 다가오는 아주 나쁜 끝(죽음이나 망함)",
  "gloss_ko": "피할 수 없는 파멸",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "밀물이 들어오는데 모래성이 물가 바로 앞에 있어. 아직은 멀쩡해.",
   "그래도 곧 무너진다는 건 이미 정해졌잖아. 이렇게 막을 수 없이 다가오는 나쁜 끝이 doom이야.",
   "사람 목숨일 수도 있지만, 가게나 팀, 계획이 끝장나는 것도 돼. 곧 그렇게 될 것 같은 그 무거운 느낌까지 말해.",
   "그냥 운이 나쁜 일이나 조심하면 피할 수 있는 위험이랑은 달라. 막을 길이 없다는 게 핵심이야."
  ],
+ "explanation_for_kids": null,
  "scene": "밀물 앞 물가에 있는 모래성",
  "examples": [
   {
-   "en": "The old theater met its doom when the city decided to build a parking lot there.",
-   "ko": "시가 그 자리에 주차장을 짓기로 하면서 그 오래된 극장은 결국 끝장을 맞았어."
+   "en": "Low sales spelled doom for the little bookstore near campus.",
+   "ko": "장사가 안돼서 학교 앞 작은 서점은 결국 망하고 말았어."
   }
  ],
  "quiz": [

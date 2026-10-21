@@ -11,31 +11,37 @@
  "word": "barometer",
  "slug": "barometer",
  "url": "https://hibbangyong.com/words/barometer/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "기압계 — 공기가 누르는 힘을 재서 날씨가 어떻게 바뀔지 알려 주는 기구. 어떤 상황이 어떻게 변하는지 보여 주는 것을 가리킬 때도 써.",
  "gloss_ko": "기압계",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "벽에 바늘 달린 동그란 기계 본 적 있어? 그게 barometer, 기압계야.",
+  "공기가 누르는 힘이 바뀌면 바늘이 움직이고, 그걸 보면 곧 비가 올지 짐작할 수 있어.",
+  "그래서 어떤 상황이 어떻게 바뀌는지 보여 주는 것도 이렇게 불러. 물건값을 보면 경제가 좋아지는지 나빠지는지 알 수 있는 것처럼.",
+  "변화를 만드는 게 아니라 변화를 보여 주는 쪽이야. 기압계가 날씨를 바꾸지는 않잖아."
+ ],
+ "explanation_for_kids": [
   "과학실 벽에 바늘 달린 동그란 기계 본 적 있어? 그게 barometer, 기압계야.",
   "공기가 누르는 힘이 바뀌면 바늘이 움직이고, 그걸 보면 곧 비가 올지 짐작할 수 있어.",
   "그래서 어떤 상황이 어떻게 바뀌는지 보여 주는 것도 이렇게 불러. 물건값을 보면 경제가 좋아지는지 나빠지는지 알 수 있는 것처럼.",
   "변화를 만드는 게 아니라 변화를 보여 주는 쪽이야. 기압계가 날씨를 바꾸지는 않잖아."
  ],
- "scene": "과학실 벽의 바늘 달린 기압계",
+ "scene": "벽에 걸린 바늘 달린 기압계",
  "examples": [
   {
-   "en": "The barometer in the science room was falling, so we cancelled the picnic.",
-   "ko": "과학실 기압계 바늘이 계속 내려가길래 우리 소풍을 취소했어."
+   "en": "The barometer at the cabin was falling, so we cancelled our hike.",
+   "ko": "산장 기압계 수치가 계속 떨어져서 우리는 등산을 취소했어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "운동장 옆 깃발을 보면 바람이 세지는지 약해지는지 알 수 있어. 이 깃발을 바람의 'barometer'라고 부를 수 있을까?",
+   "question": "공원 옆 깃발을 보면 바람이 세지는지 약해지는지 알 수 있어. 이 깃발을 바람의 'barometer'라고 부를 수 있을까?",
    "choices": [
     "응, barometer 맞아",
     "아니, barometer 아니야"
@@ -57,7 +63,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/barometer.webp",
-  "alt": "과학실 벽의 바늘 달린 기압계",
+  "alt": "벽에 걸린 바늘 달린 기압계",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,20 +11,21 @@
  "word": "approximate",
  "slug": "approximate",
  "url": "https://hibbangyong.com/words/approximate/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "어림잡은 — 딱 맞진 않아도 진짜에 아주 가까운",
  "gloss_ko": "어림잡은",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "병에 사탕이 가득 들었어. 셀 시간은 없어서 눈으로 슥 보고 \"백 개쯤!\" 했지.",
   "나중에 세어 보니 아흔일곱 개. 딱은 아니지? 그래도 거의 맞았어.",
   "이렇게 진짜 수 가까이 댄 게 approximate 한 수야. 아무 숫자나 막 던진 거랑은 달라.",
   "수만 그런 것도 아니야. 공이 떨어진 자리를 \"저쯤\"이라고 짚는 것도 마찬가지야. 딱은 아닌데 거의 그 자리, 그게 approximate야."
  ],
+ "explanation_for_kids": null,
  "scene": "유리병 속 사탕을 눈으로 어림해 \"백 개쯤\"이라고 말한 장면",
  "examples": [
   {
@@ -35,7 +36,7 @@
  "quiz": [
   {
    "type": "choice",
-   "question": "미나가 친구들과 학교 운동장에 있는 큰 나무를 올려다봤어. 다음 중 'approximate'하게 말한 사람은 누구야?",
+   "question": "미나가 친구들과 공원에 있는 큰 나무를 올려다봤어. 다음 중 'approximate'하게 말한 사람은 누구야?",
    "choices": [
     "나무 그늘 아래에 벤치 두 개가 놓여 있어.",
     "나뭇잎이 다섯 갈래로 갈라져 있어.",

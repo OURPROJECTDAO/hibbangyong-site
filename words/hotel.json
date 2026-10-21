@@ -11,20 +11,21 @@
  "word": "hotel",
  "slug": "hotel",
  "url": "https://hibbangyong.com/words/hotel/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "호텔 — 여행 가서 돈 내고 며칠 밤 자고 오는 큰 집",
  "gloss_ko": "호텔",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "여행 멀리 갔어. 밤이 됐는데 잘 데가 없어. 그때 가는 곳이야.",
   "돈을 내면 방 하나를 빌려줘. 침대도 있고 화장실도 있어.",
   "거기서 며칠 자고, 아침엔 밥도 주고, 갈 때 방을 딱 돌려주고 떠나. 내 집이 아니거든?",
   "그게 hotel이야."
  ],
+ "explanation_for_kids": null,
  "scene": "여행 가서 밤에 잘 데가 없어 방을 빌리는 장면",
  "examples": [
   {

@@ -11,15 +11,21 @@
  "word": "amount",
  "slug": "amount",
  "url": "https://hibbangyong.com/words/amount/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "양 — 얼마나 있는지, 그 많고 적음",
  "gloss_ko": "얼마나 있는지",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "컵에 물이 담겨 있어. 조금? 아니면 넘칠 만큼 가득? 그 '얼마나'가 amount야.",
+  "많아도 amount, 적어도 amount. 심지어 한 방울만 있어도 amount는 amount거든? 좋은 것만 세는 말이 아니야. 쓰레기가 얼마나 나왔는지, 일이 얼마나 남았는지도 다 amount야.",
+  "그리고 amount는 하나 둘 셋 세는 게 아니야. 물이나 시간이나 돈처럼 '덩어리로 얼마만큼'을 볼 때 쓰는 말이거든? 사과 다섯 개는 세면 되지만, 설탕은 세지 못하고 '얼마만큼'만 알 수 있잖아.",
+  "그게 amount야."
+ ],
+ "explanation_for_kids": [
   "컵에 물이 담겨 있어. 조금? 아니면 넘칠 만큼 가득? 그 '얼마나'가 amount야.",
   "많아도 amount, 적어도 amount. 심지어 한 방울만 있어도 amount는 amount거든? 좋은 것만 세는 말이 아니야. 쓰레기가 얼마나 나왔는지, 숙제가 얼마나 남았는지도 다 amount야.",
   "그리고 amount는 하나 둘 셋 세는 게 아니야. 물이나 시간이나 돈처럼 '덩어리로 얼마만큼'을 볼 때 쓰는 말이거든? 사탕 다섯 개는 세면 되지만, 설탕은 세지 못하고 '얼마만큼'만 알 수 있잖아.",

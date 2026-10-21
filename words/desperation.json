@@ -11,21 +11,27 @@
  "word": "desperation",
  "slug": "desperation",
  "url": "https://hibbangyong.com/words/desperation/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "절박함 — 상황이 너무 나빠서 막다른 곳에 몰린 채, 뭐라도 붙잡으려는 마음",
  "gloss_ko": "절박함",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "자격증 시험 전날 밤, 한 장도 안 봤는데 벌써 새벽 2시야.",
+  "길이 거의 다 막혔다는 느낌이 들지. 그래서 뭐라도 붙잡고 싶어지는 그 마음이 desperation이야.",
+  "이런 마음이 들면 평소라면 안 할 행동까지 하게 되기도 해.",
+  "그냥 뭔가를 정말 원하는 간절함이랑은 달라. 상황이 나빠서 몰린 거라서 desperation이라고 하는 거야."
+ ],
+ "explanation_for_kids": [
   "시험 전날 밤, 한 과목도 안 봤는데 시계는 벌써 새벽 2시야.",
   "길이 거의 다 막혔다는 느낌이 들지. 그래서 뭐라도 붙잡고 싶어지는 그 마음이 desperation이야.",
   "이런 마음이 들면 평소라면 안 할 행동까지 하게 되기도 해.",
   "그냥 뭔가를 정말 원하는 간절함이랑은 달라. 상황이 나빠서 몰린 거라서 desperation이라고 하는 거야."
  ],
- "scene": "아무것도 안 봤는데 새벽 2시가 된 시험 전날 밤",
+ "scene": "아무것도 안 봤는데 새벽 2시인 자격증 시험 전날",
  "examples": [
   {
    "en": "In desperation, he called his old friend for money at midnight.",
@@ -57,7 +63,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/desperation.webp",
-  "alt": "아무것도 안 봤는데 새벽 2시가 된 시험 전날 밤",
+  "alt": "아무것도 안 봤는데 새벽 2시인 자격증 시험 전날",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

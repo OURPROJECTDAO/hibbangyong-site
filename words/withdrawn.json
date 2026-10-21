@@ -11,25 +11,31 @@
  "word": "withdrawn",
  "slug": "withdrawn",
  "url": "https://hibbangyong.com/words/withdrawn/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "움츠러든 — 말이 없고, 사람들과 이야기하거나 같이 있으려 하지 않는",
  "gloss_ko": "움츠러들어 말이 없는",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "민지가 강의 쉬는 시간에 혼자 앉아 있어. 같이 편의점 가자고 해도 고개만 젓고 안 움직여.",
+  "사람들한테서 물러나 자기 안으로 닫혀 버린 모습, 그게 withdrawn이야.",
+  "원래 그런 성격인 사람한테도 쓰고, 속상한 일을 겪은 뒤에 그렇게 된 사람한테도 써. 오늘 하루만 그런 사람한테도 쓸 수 있어.",
+  "한 사람한테 화나서 그 사람만 모른 척하는 거랑은 달라. 긴장해서 말문이 막힌 것도 아니야. 사람들 사이에 섞이는 것 자체에서 빠져 있는 거야."
+ ],
+ "explanation_for_kids": [
   "민지가 쉬는 시간에 혼자 앉아 있어. 같이 매점 가자고 해도 고개만 젓고 안 움직여.",
   "사람들한테서 물러나 자기 안으로 닫혀 버린 모습, 그게 withdrawn이야.",
   "원래 그런 성격인 애한테도 쓰고, 속상한 일을 겪은 뒤에 그렇게 된 애한테도 써. 오늘 하루만 그런 사람한테도 쓸 수 있어.",
   "한 사람한테 화나서 그 애만 모른 척하는 거랑은 달라. 긴장해서 말문이 막힌 것도 아니야. 사람들 사이에 섞이는 것 자체에서 빠져 있는 거야."
  ],
- "scene": "쉬는 시간에 혼자 앉아 매점 가자는 말에도 고개만 젓는 친구",
+ "scene": "강의 쉬는 시간에 혼자 앉아 편의점 가자는 말에도 고개만 젓는 친구",
  "examples": [
   {
-   "en": "Jun was withdrawn all through dinner, so his mom asked him if something was wrong.",
-   "ko": "준이가 저녁 먹는 내내 말도 없이 혼자 틀어박혀 있어서, 엄마가 무슨 일 있냐고 물어봤어."
+   "en": "Jun was withdrawn all through dinner, so I asked if he was okay.",
+   "ko": "준이가 저녁 먹는 내내 말이 없어서, 괜찮냐고 물어봤어."
   }
  ],
  "quiz": [
@@ -73,7 +79,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/withdrawn.webp",
-  "alt": "쉬는 시간에 혼자 앉아 매점 가자는 말에도 고개만 젓는 친구",
+  "alt": "강의 쉬는 시간에 혼자 앉아 편의점 가자는 말에도 고개만 젓는 친구",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

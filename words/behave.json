@@ -11,38 +11,39 @@
  "word": "behave",
  "slug": "behave",
  "url": "https://hibbangyong.com/words/behave/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "행동하다·굴다 — 어떤 자리에서 이렇게 저렇게 구는 것 (얌전히도, 못되게도)",
  "gloss_ko": "행동하다·굴다",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "새 친구 집에 놀러 갔어. 넌 거기서 어떻게 굴었어?",
   "조용히 얌전히 굴 수도 있고, 시끄럽고 이상하게 굴 수도 있잖아.",
   "사람이든 동물이든, 어떤 자리에서 이렇게 저렇게 구는 거 있지?",
   "그게 behave야. 꼭 '착하게'만 말하는 게 아니라, 좋게든 나쁘게든 구는 방식 전부야."
  ],
+ "explanation_for_kids": null,
  "scene": "새 친구 집에 놀러 가서 조용히 또는 시끄럽게 구는 모습",
  "examples": [
   {
-   "en": "My little brother behaves badly at the store.",
-   "ko": "내 동생은 가게에서 못되게 굴어."
+   "en": "My dog doesn't behave well at the vet.",
+   "ko": "우리 개는 동물병원에 가면 얌전히 있질 않아."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "급식실에서 지호는 줄을 서서 기다리다가 앞사람을 밀치고 새치기했어. 이게 지호가 'behave'한 거야?",
+   "question": "구내식당에서 지호는 줄을 서서 기다리다가 앞사람을 밀치고 새치기했어. 이게 지호가 'behave'한 거야?",
    "choices": [
     "응, behave 맞아",
     "아니, behave 아니야"
    ],
    "answer_index": 0,
    "answer": "응, behave 맞아",
-   "why": "맞아! 새치기하고 밀친 것도 지호가 급식실에서 한 짓이잖아. behave는 착하게 군 것만 말하는 게 아니라, 좋게든 나쁘게든 그 자리에서 지호가 한 짓 전부를 말하는 거야. 그러니까 밀친 것도 behave 맞아."
+   "why": "맞아! 새치기하고 밀친 것도 지호가 구내식당에서 한 짓이잖아. behave는 착하게 군 것만 말하는 게 아니라, 좋게든 나쁘게든 그 자리에서 지호가 한 짓 전부를 말하는 거야. 그러니까 밀친 것도 behave 맞아."
   }
  ],
  "synonyms": [],

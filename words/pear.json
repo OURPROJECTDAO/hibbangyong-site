@@ -11,23 +11,24 @@
  "word": "pear",
  "slug": "pear",
  "url": "https://hibbangyong.com/words/pear/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "배(서양배) — 위는 좁고 아래는 볼록한, 달콤한 초록 과일",
  "gloss_ko": "배(서양배)",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 초록빛 과일이 배(pear)예요. 위쪽은 좁고 아래쪽은 통통한 조롱박 모양이 특징이에요.",
   "사과처럼 껍질째 아삭 베어 먹기도 하고, 잘라서 간식으로 먹기도 해요."
  ],
+ "explanation_for_kids": null,
  "scene": "잘 익은 초록빛 서양배(pear) 한 개 — 위는 좁고 아래는 볼록한 특유의 조롱박 형태, 통째로 온전히",
  "examples": [
   {
-   "en": "I packed a pear in my lunch box for a sweet snack.",
-   "ko": "달콤한 간식으로 도시락에 배를 하나 넣어 갔어."
+   "en": "I bought a pear at the market for a snack at work.",
+   "ko": "회사에서 간식으로 먹으려고 마트에서 배를 하나 샀어."
   }
  ],
  "quiz": [

@@ -11,18 +11,19 @@
  "word": "anchor",
  "slug": "anchor",
  "url": "https://hibbangyong.com/words/anchor/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "닻 — 배가 떠내려가지 않게 물속으로 내리는 무거운 쇠",
  "gloss_ko": "닻",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속에 크게 보이는 무거운 쇠는 배를 한자리에 붙잡아 두는 닻이에요.",
   "바람이나 물살에 배가 밀려가지 않도록 바닥까지 내려서 배를 멈춰 둬요."
  ],
+ "explanation_for_kids": null,
  "scene": "배를 고정하는 쇠 닻(anchor) 한 개를 화면 중앙에 크게 그림 — 명사 '닻'의 전형적 형태.",
  "examples": [
   {

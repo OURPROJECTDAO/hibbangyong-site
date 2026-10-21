@@ -11,24 +11,25 @@
  "word": "shall",
  "slug": "shall",
  "url": "https://hibbangyong.com/words/shall/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "~할까?·~하기로 한다 — 그냥 그럴 거라는 게 아니라, 그렇게 하기로 정해두거나 정하자고 하는 말",
  "gloss_ko": "~할까?·~하기로 한다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "놀기 전에 먼저 정하는 거 있잖아. 누가 술래고 언제 시작할지.",
   "shall은 그렇게 정할 때 나오는 말이거든? 그럴 것 같다가 아니라, 그렇게 하기로 된 거야.",
   "물어보면 네 마음을 묻는 거고, 규칙 종이에 적히면 이미 정해진 거야. 둘 다 shall이야.",
   "곧 비가 오겠다처럼 그냥 앞일을 말하는 건 아니야. 그건 정한 게 아니거든. 그게 shall이야."
  ],
+ "explanation_for_kids": null,
  "scene": "놀기 전에 술래와 시작 시간을 정하는 자리",
  "examples": [
   {
-   "en": "The rule says each player shall roll the dice one time.",
+   "en": "The rules say each player shall roll the dice once.",
    "ko": "규칙에 따르면 참가자마다 주사위를 한 번씩 굴려야 해."
   }
  ],

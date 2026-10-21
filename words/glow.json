@@ -11,31 +11,32 @@
  "word": "glow",
  "slug": "glow",
  "url": "https://hibbangyong.com/words/glow/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "번쩍이지 않고 조용히 새어나오는 부드러운 빛",
  "gloss_ko": "조용히 새어 나오는 빛",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "불 다 끄고 이불 속에 들어갔는데, 천장에 붙여둔 별 스티커가 혼자 파랗게 빛나고 있어.",
   "번쩍! 하고 터지는 것도 아니고, 깜빡깜빡 켜졌다 꺼지는 것도 아니야. 그냥 조용히, 부드럽게 계속 빛나거든.",
   "다 타고 남은 숯도 그래. 불꽃은 벌써 꺼졌는데 속에서 빨간 빛이 조용히 새어나와.",
   "그렇게 조용히 이어지는 빛, 그게 glow야. 확 튕겨 나오는 번쩍임이랑은 달라."
  ],
+ "explanation_for_kids": null,
  "scene": "캄캄한 천장에 붙인 야광 별 스티커가 파랗게 빛나는 장면",
  "examples": [
   {
-   "en": "In the dark tent, I saw the green glow of my watch.",
-   "ko": "어두운 텐트 안에서 내 시계가 초록빛으로 은은하게 빛나는 걸 봤어."
+   "en": "The café had a warm glow from all the candles.",
+   "ko": "카페에 촛불이 많아서 따뜻한 빛이 은은하게 돌았어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "밤에 아빠랑 지하 주차장에 갔는데 전등이 다 나가서 계단 쪽이 온통 새까맸어. 이게 'glow'야?",
+   "question": "밤에 친구랑 지하 주차장에 갔는데 전등이 다 나가서 계단 쪽이 온통 새까맸어. 이게 'glow'야?",
    "choices": [
     "응, glow 맞아",
     "아니, glow 아니야"

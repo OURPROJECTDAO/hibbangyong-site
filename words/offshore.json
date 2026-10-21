@@ -11,38 +11,39 @@
  "word": "offshore",
  "slug": "offshore",
  "url": "https://hibbangyong.com/words/offshore/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "앞바다의 — 땅에서 조금 나간 바다 위에 있는",
  "gloss_ko": "앞바다의",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "바닷가에 서서 멀리 보면, 물 위에 커다란 바람개비들이 줄지어 서 있을 때가 있어.",
   "모래사장 위가 아니야. 바다 건너 먼 나라도 아니고. 땅에서 조금 나간 바로 그 바다 위야.",
   "거기 있는 건 뭐든 offshore라고 해. 전기 만드는 바람개비든, 바다 밑에서 기름 뽑는 시설이든, 고기 잡는 배든.",
   "해변에 붙어 있으면 아니고, 물 위로 좀 나가 있어야 맞아."
  ],
+ "explanation_for_kids": null,
  "scene": "바닷가에서 멀리 물 위에 선 풍력발전기들을 바라봄",
  "examples": [
   {
-   "en": "Our town is building an offshore wind farm to make clean energy.",
-   "ko": "우리 동네는 깨끗한 에너지를 만들려고 앞바다에 풍력발전 단지를 짓고 있어."
+   "en": "They're building an offshore wind farm near my hometown.",
+   "ko": "내 고향 근처 앞바다에 풍력발전 단지를 짓고 있대."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "이모는 바다에서 차로 세 시간쯤 떨어진 산골 마을로 가서 계곡 옆에 있는 송어 양식장에서 일해. 이 양식장은 'offshore'야?",
+   "question": "친구는 바다에서 차로 세 시간쯤 떨어진 산골 마을로 가서 계곡 옆에 있는 송어 양식장에서 일해. 이 양식장은 'offshore'야?",
    "choices": [
     "응, offshore 맞아",
     "아니, offshore 아니야"
    ],
    "answer_index": 1,
    "answer": "아니, offshore 아니야",
-   "why": "맞아! 이모가 일하는 송어 양식장은 바다에서 차로 세 시간이나 떨어진 산골 계곡 옆에 있잖아. offshore는 땅에서 조금 나간 바다 위에 있어야 하니까, 산골에 있는 이 양식장은 offshore가 아니야."
+   "why": "맞아! 친구가 일하는 송어 양식장은 바다에서 차로 세 시간이나 떨어진 산골 계곡 옆에 있잖아. offshore는 땅에서 조금 나간 바다 위에 있어야 하니까, 산골에 있는 이 양식장은 offshore가 아니야."
   }
  ],
  "synonyms": [],

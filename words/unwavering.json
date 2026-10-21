@@ -11,25 +11,31 @@
  "word": "unwavering",
  "slug": "unwavering",
  "url": "https://hibbangyong.com/words/unwavering/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "흔들림 없는 — 시간이 가도, 누가 밀어도 마음이나 태도가 약해지거나 바뀌지 않는",
  "gloss_ko": "흔들림 없는",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "1년 내내 아무리 졸라도 집주인의 '반려동물은 안 돼'는 한 번도 안 바뀌었어.",
+  "시간이 지나도, 누가 흔들어도 마음이나 태도가 그대로 버티는 거야. 응원에도 쓰고 반대나 미움에도 써.",
+  "그 순간에만 세게 믿다가 다음 날 식는 건 아니야. 끝까지 약해지지 않아야 해.",
+  "waver가 '흔들리다'니까 un-이 붙으면 '안 흔들리는'이 돼."
+ ],
+ "explanation_for_kids": [
   "1년 내내 아무리 졸라도 엄마의 '평일엔 게임 안 돼'는 한 번도 안 바뀌었어.",
   "시간이 지나도, 누가 흔들어도 마음이나 태도가 그대로 버티는 거야. 응원에도 쓰고 반대나 미움에도 써.",
   "그 순간에만 세게 믿다가 다음 날 식는 건 아니야. 끝까지 약해지지 않아야 해.",
   "waver가 '흔들리다'니까 un-이 붙으면 '안 흔들리는'이 돼."
  ],
- "scene": "1년 내내 졸라도 바뀌지 않는 엄마의 평일 게임 금지",
+ "scene": "1년 내내 졸라도 바뀌지 않는 집주인의 반려동물 금지",
  "examples": [
   {
-   "en": "Mom was unwavering: no games on school nights, even after a month of begging.",
-   "ko": "엄마는 꿈쩍도 안 했어, 한 달을 졸라도 학교 가는 날 밤엔 게임 금지였지."
+   "en": "My manager was unwavering: no days off during the holiday rush.",
+   "ko": "매니저는 끝까지 꿈쩍도 안 했어. 연말 대목엔 휴가 없다고 했지."
   }
  ],
  "quiz": [
@@ -65,7 +71,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/unwavering.webp",
-  "alt": "1년 내내 졸라도 바뀌지 않는 엄마의 평일 게임 금지",
+  "alt": "1년 내내 졸라도 바뀌지 않는 집주인의 반려동물 금지",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

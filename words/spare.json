@@ -11,20 +11,21 @@
  "word": "spare",
  "slug": "spare",
  "url": "https://hibbangyong.com/words/spare/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "여분의 — 지금은 안 쓰고 남아 있어서, 필요하면 바로 쓸 수 있는",
  "gloss_ko": "여분의",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "필통에 연필이 두 자루 있어. 한 자루는 지금 쓰고, 한 자루는 그냥 놓여 있지.",
   "그 한 자루는 부러진 것도, 쓰다 버린 것도 아니야. 멀쩡한데 지금 안 쓰고 있을 뿐이야. 필요하면 바로 꺼내 쓰면 되거든.",
   "물건만 그런 게 아니야. 아무도 안 앉는 의자 한 개도, 할 일 없이 뻥 비어 있는 한 시간도 똑같아.",
   "이렇게 지금 안 쓰고 남아 있는 게 spare야."
  ],
+ "explanation_for_kids": null,
  "scene": "필통 안에 안 쓰고 놓여 있는 연필 한 자루",
  "examples": [
   {

@@ -11,25 +11,26 @@
  "word": "congress",
  "slug": "congress",
  "url": "https://hibbangyong.com/words/congress/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "국회 — 나라 법을 만들고 정하는 대표들 모임.",
  "gloss_ko": "국회",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "여러 동네에서 뽑힌 대표들이 큰 방에 쫙 모여 앉았어.",
   "다 같이 의논해서 나라 법을 정하려고 온 거야.",
   "우리나라로 치면 국회, 딱 그 모임이야.",
   "이게 congress야."
  ],
+ "explanation_for_kids": null,
  "scene": "여러 동네 대표들이 큰 방에 모여 앉은 장면",
  "examples": [
   {
-   "en": "In our country, the congress makes our laws.",
-   "ko": "우리나라에선 국회가 우리 법을 만들어."
+   "en": "The news said Congress passed a new law about rent.",
+   "ko": "뉴스에서 국회가 월세에 관한 새 법을 통과시켰대."
   }
  ],
  "quiz": [
@@ -38,7 +39,7 @@
    "question": "다음 중 'congress'에 해당하는(맞는) 것은?",
    "choices": [
     "요리사가 냄비에 국을 끓이고 있는 모습",
-    "책상 위에 나란히 놓인 색연필 열두 자루",
+    "책상 위에 나란히 놓인 볼펜 열두 자루",
     "각 지역 대표들이 모여 나라 법을 정하는 회의",
     "공원을 힘차게 달리는 갈색 강아지 한 마리"
    ],

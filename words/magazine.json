@@ -11,19 +11,20 @@
  "word": "magazine",
  "slug": "magazine",
  "url": "https://hibbangyong.com/words/magazine/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "잡지 — 사진과 여러 이야기를 모아 담아 매주나 매달 새로 나오는 얇은 책",
  "gloss_ko": "잡지",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "표지에 사진과 그림이 가득한 이 알록달록한 얇은 책이 잡지예요.",
   "병원 대기실이나 서점에서 한 장씩 넘겨 보던 그 책이 바로 이거예요."
  ],
- "scene": "표지가 보이게 살짝 펼쳐 세워둔 알록달록한 어린이 잡지 한 권(잡지=magazine, 글자 없이 사진·그림만 있는 표지)",
+ "explanation_for_kids": null,
+ "scene": "표지가 보이게 살짝 펼쳐 세워둔 알록달록한 잡지 한 권(잡지=magazine, 글자 없이 사진·그림만 있는 표지)",
  "examples": [
   {
    "en": "I read a magazine while I waited for the bus.",
@@ -55,7 +56,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/magazine.webp",
-  "alt": "표지가 보이게 살짝 펼쳐 세워둔 알록달록한 어린이 잡지 한 권(잡지=magazine, 글자 없이 사진·그림만 있는 표지)",
+  "alt": "표지가 보이게 살짝 펼쳐 세워둔 알록달록한 잡지 한 권(잡지=magazine, 글자 없이 사진·그림만 있는 표지)",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

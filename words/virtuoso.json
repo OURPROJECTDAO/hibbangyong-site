@@ -11,31 +11,37 @@
  "word": "virtuoso",
  "slug": "virtuoso",
  "url": "https://hibbangyong.com/words/virtuoso/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "명연주자 — 악기 연주처럼 어려운 솜씨를 아주 뛰어나게 해내는 사람",
  "gloss_ko": "명연주자",
  "level": {
   "code": "L9",
-  "name": "토플 114~120점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "대학 축제 때 이름도 모르는 선배가 어려운 피아노 곡을 틀린 음 하나 없이 술술 쳤어.",
+  "이렇게 기술이 몸에 완전히 붙어서 어려운 걸 쉽게 해내는 사람을 virtuoso라고 해.",
+  "주로 연주하는 사람한테 쓰지만, 요리나 공 차는 기술 같은 다른 솜씨에도 써.",
+  "유명한지, 나이가 어린지는 상관없어. 지금 얼마나 잘하느냐가 기준이야."
+ ],
+ "explanation_for_kids": [
   "학교 축제 때 이름도 모르는 선배가 어려운 피아노 곡을 틀린 음 하나 없이 술술 쳤어.",
   "이렇게 기술이 몸에 완전히 붙어서 어려운 걸 쉽게 해내는 사람을 virtuoso라고 해.",
   "주로 연주하는 사람한테 쓰지만, 요리나 공 차는 기술 같은 다른 솜씨에도 써.",
   "유명한지, 나이가 어린지는 상관없어. 지금 얼마나 잘하느냐가 기준이야."
  ],
- "scene": "학교 축제에서 이름 모를 선배가 어려운 피아노 곡을 실수 없이 연주",
+ "scene": "대학 축제에서 이름 모를 선배가 어려운 피아노 곡을 실수 없이 연주",
  "examples": [
   {
-   "en": "Nobody at the festival knew his name, but everyone could tell he was a virtuoso on the guitar.",
-   "ko": "축제에서 그 사람 이름은 아무도 몰랐지만, 기타 솜씨가 보통이 아니라는 건 다들 알아봤어."
+   "en": "The guy playing guitar at the café last night was a real virtuoso.",
+   "ko": "어젯밤 카페에서 기타 치던 남자는 진짜 명연주자였어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "사촌 동생이 어제 바이올린을 처음 잡았는데, 활을 그을 때마다 끽끽 긁히는 소리만 나. 이 동생은 'virtuoso'야?",
+   "question": "친구가 어제 바이올린을 처음 잡았는데, 활을 그을 때마다 끽끽 긁히는 소리만 나. 이 친구는 'virtuoso'야?",
    "choices": [
     "응, virtuoso 맞아",
     "아니, virtuoso 아니야"

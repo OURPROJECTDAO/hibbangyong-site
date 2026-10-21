@@ -11,25 +11,26 @@
  "word": "attrition",
  "slug": "attrition",
  "url": "https://hibbangyong.com/words/attrition/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "소모 — 시간이 가거나 압박이 계속되면서 수나 힘이 조금씩 깎여 줄어드는 것",
  "gloss_ko": "조금씩 닳아 줄어듦",
  "level": {
   "code": "L9",
-  "name": "토플 114~120점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "오래 끄는 경기를 떠올려 봐. 처음엔 두 팀 다 쌩쌩했는데, 몇 시간 지나니까 양쪽 다 힘이 빠져 있어.",
   "동아리도 그래. 쫓아낸 사람은 없는데 하나둘 빠지고 빈자리는 안 채워져서 사람 수가 줄어.",
   "이렇게 시간이 가면서 수든 힘이든 조금씩 깎여 줄어드는 게 attrition이야.",
   "한 번 크게 맞아서 확 무너지는 거랑은 달라. 그냥 줄어드는 게 아니라, 천천히 닳아서 줄어드는 거야."
  ],
+ "explanation_for_kids": null,
  "scene": "오래 끄는 경기에서 두 팀 모두 몇 시간 만에 힘이 빠짐",
  "examples": [
   {
-   "en": "The war went on for years, and attrition left both sides with very few soldiers.",
-   "ko": "전쟁이 몇 년이나 이어지는 동안 계속 깎여 나가서, 결국 양쪽 다 병사가 얼마 안 남았어."
+   "en": "We didn't fire anyone; attrition shrank our team from ten to six.",
+   "ko": "아무도 자르지 않았는데, 사람들이 하나둘 나가서 우리 팀이 열 명에서 여섯 명으로 줄었어."
   }
  ],
  "quiz": [

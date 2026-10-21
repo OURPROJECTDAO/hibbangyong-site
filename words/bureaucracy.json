@@ -11,31 +11,37 @@
  "word": "bureaucracy",
  "slug": "bureaucracy",
  "url": "https://hibbangyong.com/words/bureaucracy/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "관료주의(서류·단계가 너무 많은 방식) — 규칙과 서류, 거쳐야 할 단계가 너무 많아서 일이 느리고 답답하게 돌아가는 조직의 방식(그 일을 하는 사무 조직 전체를 가리키기도 함)",
  "gloss_ko": "서류·단계 많은 방식",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "회사 행사 하나 하려는데 신청서 쓰고, 팀장님 도장 받고, 부장님 도장 받고, 상무님 허락까지 받느라 2주가 걸렸어.",
+  "누가 나쁜 사람이라서 그런 게 아니야. 규칙과 단계가 층층이 쌓인 조직은 원래 그렇게 느리게 돌아가.",
+  "학교든 회사든 나라든, 이렇게 돌아가는 방식이나 그 일을 맡은 사무 조직 전체를 bureaucracy라고 해.",
+  "한 사람이 불친절한 거나 뒷돈 받는 비리랑은 달라. 문제는 사람이 아니라 절차가 너무 무거운 거야."
+ ],
+ "explanation_for_kids": [
   "동아리 행사 하나 하려는데 신청서 쓰고, 담임 도장 받고, 부장 선생님 도장 받고, 교감 선생님 허락까지 받느라 2주가 걸렸어.",
   "누가 나쁜 사람이라서 그런 게 아니야. 규칙과 단계가 층층이 쌓인 조직은 원래 그렇게 느리게 돌아가.",
   "학교든 회사든 나라든, 이렇게 돌아가는 방식이나 그 일을 맡은 사무 조직 전체를 bureaucracy라고 해.",
   "한 사람이 불친절한 거나 뒷돈 받는 비리랑은 달라. 문제는 사람이 아니라 절차가 너무 무거운 거야."
  ],
- "scene": "동아리 행사 허락을 받으려고 도장 여러 개를 받느라 2주가 걸린 일",
+ "scene": "회사 행사 허락을 받으려고 도장 여러 개를 받느라 2주가 걸린 일",
  "examples": [
   {
-   "en": "I just wanted a new student card, but the school bureaucracy took three weeks.",
-   "ko": "새 학생증 하나 받고 싶었을 뿐인데, 학교 서류 절차 때문에 3주나 걸렸어."
+   "en": "I just wanted a new student ID, but the university bureaucracy took three weeks.",
+   "ko": "새 학생증 하나 받으려던 건데, 대학 행정 절차 때문에 3주나 걸렸어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "아파트 놀이터 그네 줄이 끊어졌어. 관리사무소 직원은 친절했지만, 고치려면 관리사무소 신청서를 내고, 입주자 회의 승인을 받고, 구청 확인 서류까지 차례로 거쳐야 해서 석 달이 걸렸어. 이렇게 일이 처리되는 방식이 'bureaucracy'야?",
+   "question": "아파트 헬스장 러닝머신이 고장 났어. 관리사무소 직원은 친절했지만, 고치려면 관리사무소 신청서를 내고, 입주자 회의 승인을 받고, 구청 확인 서류까지 차례로 거쳐야 해서 석 달이 걸렸어. 이렇게 일이 처리되는 방식이 'bureaucracy'야?",
    "choices": [
     "응, bureaucracy 맞아",
     "아니, bureaucracy 아니야"
@@ -63,7 +69,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/bureaucracy.webp",
-  "alt": "동아리 행사 허락을 받으려고 도장 여러 개를 받느라 2주가 걸린 일",
+  "alt": "회사 행사 허락을 받으려고 도장 여러 개를 받느라 2주가 걸린 일",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

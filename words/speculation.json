@@ -11,21 +11,27 @@
  "word": "speculation",
  "slug": "speculation",
  "url": "https://hibbangyong.com/words/speculation/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "추측 — 확실한 사실을 모르면서, 왜 그랬는지나 앞으로 어떻게 될지를 이렇게 저렇게 따져 보는 것",
  "gloss_ko": "사실 모른 채 추측",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "팀장님이 사흘째 회사에 안 나오셨어. 왜 그런지는 아무도 몰라.",
+  "팀원들이 하나씩 말을 보태. 아프신가, 딴 회사 가시나, 좋은 일 있으신가.",
+  "확실한 건 없는데 이유나 앞일을 따져 보는 거, 그게 speculation이야. 나중에 맞을 수도 있고 틀릴 수도 있어.",
+  "누가 한 말을 옮기는 소문이랑은 달라. 이건 모르니까 자기 머리로 짐작해 보는 거야."
+ ],
+ "explanation_for_kids": [
   "담임쌤이 사흘째 학교에 안 나오셨어. 왜 그런지는 아무도 몰라.",
   "애들이 하나씩 말을 보태. 아프신가, 딴 학교 가시나, 좋은 일 있으신가.",
   "확실한 건 없는데 이유나 앞일을 따져 보는 거, 그게 speculation이야. 나중에 맞을 수도 있고 틀릴 수도 있어.",
   "누가 한 말을 옮기는 소문이랑은 달라. 이건 모르니까 자기 머리로 짐작해 보는 거야."
  ],
- "scene": "담임선생님이 이유 없이 사흘째 결근하자 반 애들이 이유를 추측함",
+ "scene": "팀장님이 이유 없이 사흘째 결근하자 팀원들이 이유를 추측함",
  "examples": [
   {
    "en": "There was a lot of speculation about why the singer suddenly left the group.",
@@ -66,7 +72,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/speculation.webp",
-  "alt": "담임선생님이 이유 없이 사흘째 결근하자 반 애들이 이유를 추측함",
+  "alt": "팀장님이 이유 없이 사흘째 결근하자 팀원들이 이유를 추측함",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

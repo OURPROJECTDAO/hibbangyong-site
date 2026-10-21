@@ -11,25 +11,26 @@
  "word": "valley",
  "slug": "valley",
  "url": "https://hibbangyong.com/words/valley/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "골짜기 — 산이나 언덕 사이에 낮게 쭉 이어진 땅 (좁을 수도, 아주 넓을 수도 있어)",
  "gloss_ko": "골짜기",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "산이나 언덕 사이로 땅이 길게 낮아지는 데가 있거든?",
   "그 낮은 데가 좁아서 겨우 지나갈 만할 때도 있고, 어찌나 넓은지 마을이랑 밭이 통째로 들어앉을 때도 있어.",
   "물이 흐르기도 하고, 바싹 말라서 흙만 있기도 해. 물은 있어도 그만 없어도 그만이야.",
   "물놀이하러 가는 그 계곡만 떠올리면 안 돼. 산이나 언덕 사이에 낮게 쭉 이어진 땅이면 다 valley야."
  ],
+ "explanation_for_kids": null,
  "scene": "산이나 언덕 사이로 길게 낮아진 땅",
  "examples": [
   {
-   "en": "We walked down into the valley, but there was no river there at all.",
-   "ko": "우리는 골짜기로 내려갔는데 거기엔 강이 하나도 없었어."
+   "en": "On our trip, we hiked down into the valley for lunch.",
+   "ko": "여행 가서 우리는 골짜기로 걸어 내려가 점심을 먹었어."
   }
  ],
  "quiz": [

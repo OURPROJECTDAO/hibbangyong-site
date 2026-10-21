@@ -11,25 +11,26 @@
  "word": "core",
  "slug": "core",
  "url": "https://hibbangyong.com/words/core/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "속 알맹이 — 겉을 다 벗겨내도 남는, 한가운데 가장 중요한 부분(핵심).",
  "gloss_ko": "속 알맹이",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "뭐든지 겉을 쭉쭉 벗겨내 봐. 그래도 안 없어지고 남는 가장 안쪽 알맹이가 있거든?",
   "사과를 다 먹으면 가운데 딱딱한 심이 남지? 그게 사과의 core야.",
   "지구도 겉은 땅이지만 한가운데엔 뜨거운 덩어리, 그 core가 숨어 있어.",
   "이야기든 계획이든, 겉이 아니라 제일 중요한 그 알맹이 — 그게 core야."
  ],
+ "explanation_for_kids": null,
  "scene": "사과를 다 먹고 남은 가운데 딱딱한 심",
  "examples": [
   {
    "en": "The core of our plan is to help others.",
-   "ko": "우리 계획에서 제일 중요한 core는 남을 돕는 거야."
+   "ko": "우리 계획의 핵심은 남을 돕는 거야."
   }
  ],
  "quiz": [

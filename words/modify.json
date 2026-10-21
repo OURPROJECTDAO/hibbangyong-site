@@ -11,31 +11,32 @@
  "word": "modify",
  "slug": "modify",
  "url": "https://hibbangyong.com/words/modify/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "있던 걸 없애지 않고 한 군데만 손봐서 다르게 만들다",
  "gloss_ko": "한 군데만 손봐 바꾸다",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "종이비행기가 자꾸 아래로 꽂히지? 그래서 날개 끝을 살짝 위로 접었어.",
   "새로 접은 게 아니야. 있던 그 비행기 그대로 두고, 한 군데만 다르게 했거든?",
   "이러면 더 잘 날 수도 있고, 더 못 날 수도 있어. 그건 던져 봐야 알지.",
   "있던 걸 조금 손봐서 다르게 만드는 거, 그게 modify야."
  ],
+ "explanation_for_kids": null,
  "scene": "종이비행기 날개 끝을 살짝 위로 접는 장면",
  "examples": [
   {
-   "en": "I modified my paper plane, and now it flies even worse.",
-   "ko": "종이비행기를 조금 손봤는데 오히려 더 안 날아."
+   "en": "Every time I modify my paper plane, it flies even worse.",
+   "ko": "종이비행기를 손볼 때마다 오히려 더 안 날아."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "엄마가 쓰던 앞치마 주머니가 얕아서 볼펜이 자꾸 빠져. 그래서 앞치마는 그대로 두고 주머니 아래쪽만 다시 박아서 더 깊게 만들었어. 이게 'modify'야?",
+   "question": "알바 때 쓰던 앞치마 주머니가 얕아서 볼펜이 자꾸 빠져. 그래서 앞치마는 그대로 두고 주머니 아래쪽만 다시 박아서 더 깊게 만들었어. 이게 'modify'야?",
    "choices": [
     "응, modify 맞아",
     "아니, modify 아니야"

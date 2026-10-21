@@ -11,38 +11,44 @@
  "word": "customary",
  "slug": "customary",
  "url": "https://hibbangyong.com/words/customary/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "늘 그렇게 해 온(관례적인) — 어떤 자리나 사회에서 늘 그렇게 해 와서 다들 당연하게 여기는",
  "gloss_ko": "늘 해 와서 당연한",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "우리 수업에선 누가 발표를 끝내면 다들 박수를 쳐.",
+  "규칙에 적힌 것도 아니고, 교수님이 시킨 것도 아니야. 그냥 늘 그렇게 해 와서 안 치면 어색한 거지.",
+  "customary는 이렇게 그 자리에서 늘 하던 방식이라 다들 당연하게 여기는 걸 말해. 한 사람이 늘 하던 대로 하는 것도 여기에 들어가.",
+  "꼭 지켜야 하는 규칙도 아니고, 오래된 명절 풍습만 가리키는 말도 아니야. 늘 해 와서 다들 그러려니 한다는 게 핵심이야."
+ ],
+ "explanation_for_kids": [
   "우리 반은 누가 발표를 끝내면 다들 박수를 쳐.",
   "규칙에 적힌 것도 아니고, 선생님이 시킨 것도 아니야. 그냥 늘 그렇게 해 와서 안 치면 어색한 거지.",
   "customary는 이렇게 그 자리에서 늘 하던 방식이라 다들 당연하게 여기는 걸 말해. 한 사람이 늘 하던 대로 하는 것도 여기에 들어가.",
   "꼭 지켜야 하는 규칙도 아니고, 오래된 명절 풍습만 가리키는 말도 아니야. 늘 해 와서 다들 그러려니 한다는 게 핵심이야."
  ],
- "scene": "발표가 끝나면 반 전체가 박수를 치는 것",
+ "scene": "발표가 끝나면 다 같이 박수를 치는 것",
  "examples": [
   {
-   "en": "In our class, it is customary to clap when someone finishes a speech.",
-   "ko": "우리 반은 누가 발표를 끝내면 박수 쳐 주는 게 늘 하던 거야."
+   "en": "In our seminar, it is customary to clap when someone finishes a presentation.",
+   "ko": "우리 세미나에서는 누가 발표를 끝내면 박수 쳐 주는 게 관례야."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "지난 주말에 초등학생 동생이 태어나서 처음으로 혼자 버스를 타고 할머니 댁에 갔어. 동생이 혼자 버스를 탄 이 일은 'customary'한 일이야?",
+   "question": "지난 주말에 친구가 태어나서 처음으로 혼자 비행기를 타고 부산에 갔어. 친구가 혼자 비행기를 탄 이 일은 'customary'한 일이야?",
    "choices": [
     "응, customary 맞아",
     "아니, customary 아니야"
    ],
    "answer_index": 1,
    "answer": "아니, customary 아니야",
-   "why": "맞아! 동생은 태어나서 처음으로 혼자 버스를 탄 거잖아. customary는 늘 해 와서 다들 당연하게 여기는 걸 말하는데, 처음 한 일은 아직 늘 해 온 일이 아니라서 customary가 아닌 거야."
+   "why": "맞아! 친구는 태어나서 처음으로 혼자 비행기를 탄 거잖아. customary는 늘 해 와서 다들 당연하게 여기는 걸 말하는데, 처음 한 일은 아직 늘 해 온 일이 아니라서 customary가 아닌 거야."
   }
  ],
  "synonyms": [],
@@ -68,7 +74,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/customary.webp",
-  "alt": "발표가 끝나면 반 전체가 박수를 치는 것",
+  "alt": "발표가 끝나면 다 같이 박수를 치는 것",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,23 +11,27 @@
  "word": "fence",
  "slug": "fence",
  "url": "https://hibbangyong.com/words/fence/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "울타리 — 마당이나 밭 둘레를 빙 둘러 막아 주는 담",
  "gloss_ko": "울타리",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "그림 속 초록 잔디밭을 가로지르는 하얀 나무 담이 바로 fence, 마당 둘레를 빙 둘러 막아 주는 울타리예요.",
+  "공원이나 주차장 가장자리에도 이렇게 울타리가 세워져 있어서, 안과 밖을 나눠 줘요."
+ ],
+ "explanation_for_kids": [
   "그림 속 초록 잔디밭을 가로지르는 하얀 나무 담이 바로 fence, 마당 둘레를 빙 둘러 막아 주는 울타리예요.",
   "놀이터나 학교 운동장 가장자리에도 이렇게 울타리가 세워져 있어서, 안과 밖을 나눠 준답니다."
  ],
- "scene": "초록 잔디밭을 가로지르는 하얀 나무 말뚝 울타리 한 채(pos는 verb지만 아이 친숙 시각 의미인 사물 '울타리'를 그림)",
+ "scene": "초록 잔디밭을 가로지르는 하얀 나무 말뚝 울타리 한 채",
  "examples": [
   {
-   "en": "There is a white fence around the garden.",
-   "ko": "마당 둘레에 하얀 울타리가 있어."
+   "en": "My neighbor painted his fence white last weekend.",
+   "ko": "옆집 사람이 지난 주말에 자기 울타리를 하얗게 칠했어."
   }
  ],
  "quiz": [
@@ -56,7 +60,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/fence.webp",
-  "alt": "초록 잔디밭을 가로지르는 하얀 나무 말뚝 울타리 한 채(pos는 verb지만 아이 친숙 시각 의미인 사물 '울타리'를 그림)",
+  "alt": "초록 잔디밭을 가로지르는 하얀 나무 말뚝 울타리 한 채",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

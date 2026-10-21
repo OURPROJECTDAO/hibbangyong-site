@@ -11,31 +11,32 @@
  "word": "resin",
  "slug": "resin",
  "url": "https://hibbangyong.com/words/resin/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "수지(樹脂) — 소나무 같은 나무에서 흘러나오는 끈적한 진. 공기를 만나면 딱딱하게 굳어. 공장에서 비슷하게 만든 것도 이렇게 불러",
  "gloss_ko": "수지(나무 진)",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "소나무 껍질의 상처에서 노랗고 끈적한 게 흘러나오는 거 본 적 있지?",
   "그게 나무가 스스로 내보내는 진, resin이야. 처음엔 끈적한데 공기를 만나면 딱딱하게 굳어.",
   "나무 속을 물처럼 도는 수액이랑은 달라. 수액은 묽고 끈적하지 않아.",
   "요즘은 공장에서 이걸 흉내 내서 만든 것도 resin이라고 불러. 플라스틱이나 접착제 재료로 써."
  ],
+ "explanation_for_kids": null,
  "scene": "소나무 껍질 상처에서 흘러나와 굳는 끈적한 진",
  "examples": [
   {
-   "en": "My fingers were sticky with resin after I touched the pine tree.",
-   "ko": "소나무를 만졌더니 송진이 묻어서 손가락이 끈적끈적했어."
+   "en": "My hands got sticky with pine resin on the hike.",
+   "ko": "등산하다가 송진이 묻어서 손이 끈적끈적해졌어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "숲 체험을 갔는데, 전나무 줄기에 난 상처에서 끈적한 진이 흘러나와 있었어. 며칠 뒤 다시 가 보니 그 진이 딱딱한 덩어리로 굳어 있었어. 이 굳은 덩어리가 'resin'일까?",
+   "question": "등산을 갔는데, 전나무 줄기에 난 상처에서 끈적한 진이 흘러나와 있었어. 며칠 뒤 다시 가 보니 그 진이 딱딱한 덩어리로 굳어 있었어. 이 굳은 덩어리가 'resin'일까?",
    "choices": [
     "응, resin 맞아",
     "아니, resin 아니야"

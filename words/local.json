@@ -11,20 +11,21 @@
  "word": "local",
  "slug": "local",
  "url": "https://hibbangyong.com/words/local/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "그 지역의 · 그곳에 속한 (먼 딴 곳 것이 아니라 바로 그 동네·그곳에 사는 사람과 것)",
  "gloss_ko": "그 지역의",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "우리 마을에만 있는 빵집 있지? 옆 도시엔 없어, 바로 그곳 것이거든.",
   "local은 '딴 곳 것이 아니라 바로 그 지역에 속한 것, 그곳에 사는 사람'이란 말이야.",
   "온 나라 어디에나 다 있는 것도, 딴 데서 실려 온 것도 아니야. 그곳 거.",
   "그 동네 뉴스, 그 마을 팀처럼 — 이게 local이야."
  ],
+ "explanation_for_kids": null,
  "scene": "우리 마을에만 있고 옆 도시엔 없는 빵집",
  "examples": [
   {

@@ -11,25 +11,26 @@
  "word": "refer",
  "slug": "refer",
  "url": "https://hibbangyong.com/words/refer/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "직접 안 하고 답이 있는 딴 데를 가리켜 보내다(거길 보게 하다)",
  "gloss_ko": "딴 데를 가리켜 보내다",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "친구가 너한테 뭘 물었어. 근데 너도 잘 몰라.",
   "그럼 \"저기 저 책에 나와 있어, 거기 봐!\" 하고 딴 데를 콕 가리키지?",
   "내가 직접 답을 주는 게 아니라, 답이 있는 다른 데로 보내주는 거거든.",
   "그게 refer야."
  ],
+ "explanation_for_kids": null,
  "scene": "친구 질문에 직접 답 안 하고, 답 있는 다른 곳(책·사람)을 콕 가리켜 거기로 보냄.",
  "examples": [
   {
-   "en": "If you don't know the word, refer to your dictionary.",
-   "ko": "그 단어를 모르면, 사전을 찾아봐."
+   "en": "When customers ask about refunds, I refer them to my manager.",
+   "ko": "손님이 환불에 대해 물어보면 나는 매니저한테 물어보라고 안내해."
   }
  ],
  "quiz": [

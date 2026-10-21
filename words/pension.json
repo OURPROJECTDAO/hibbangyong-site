@@ -11,25 +11,26 @@
  "word": "pension",
  "slug": "pension",
  "url": "https://hibbangyong.com/words/pension/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "연금 — 나이가 들거나 몸이 아파서 더는 일하지 않는 사람이 나라나 회사에서 정기적으로 받는 돈",
  "gloss_ko": "연금",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "나이가 들었거나, 다치거나 아파서 더는 일하지 않는 사람이 있어.",
   "일은 멈췄는데도 나라나 회사에서 매달 꼬박꼬박 돈이 들어와. 이 돈이 연금이야.",
   "회사를 그만둘 때 한 번에 받고 끝나는 퇴직금이랑은 달라. 연금은 정해진 때마다 계속 나와.",
   "지금 일한 대가로 받는 월급도 아니야. 일을 멈춘 뒤에 받는 돈이라는 게 핵심이야."
  ],
+ "explanation_for_kids": null,
  "scene": "나이 들거나 다치거나 아파서 일을 멈춘 사람이 매달 받는 돈",
  "examples": [
   {
    "en": "After the accident, he couldn't work anymore, so he got a small pension every month.",
-   "ko": "사고 난 뒤로 그 아저씨는 더 일을 못 하게 돼서, 매달 적은 연금을 받았어."
+   "ko": "사고 난 뒤로 그는 더 일을 못 하게 돼서 매달 적은 연금을 받았어."
   }
  ],
  "quiz": [

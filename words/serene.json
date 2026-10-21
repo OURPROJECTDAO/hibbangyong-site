@@ -11,15 +11,21 @@
  "word": "serene",
  "slug": "serene",
  "url": "https://hibbangyong.com/words/serene/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "평온한 — 마음이나 분위기가 깊이 가라앉아 고요하고 평화로운",
  "gloss_ko": "평온한",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "바람 한 점 없는 아침 호수, 물결 하나 없이 잔잔하지.",
+  "면접 날 아침인데도 얼굴이 편안한 친구도 있어.",
+  "둘 다 serene이야. 속까지 고요하고 평화로운 거.",
+  "그냥 소리만 없는 거랑은 달라. 말없이 앉아서 속으로 떨고 있으면 serene이 아니야."
+ ],
+ "explanation_for_kids": [
   "바람 한 점 없는 아침 호수, 물결 하나 없이 잔잔하지.",
   "시험 날 아침인데도 얼굴이 편안한 친구도 있어.",
   "둘 다 serene이야. 속까지 고요하고 평화로운 거.",
@@ -28,8 +34,8 @@
  "scene": "바람 없는 아침의 잔잔한 호수",
  "examples": [
   {
-   "en": "My grandma's face was serene as she sat in the noisy market.",
-   "ko": "시끄러운 시장에 앉아 계신데도 할머니 얼굴은 평온했어."
+   "en": "I love how serene the park is early in the morning.",
+   "ko": "아침 일찍 공원이 평온해서 너무 좋아."
   }
  ],
  "quiz": [

@@ -11,21 +11,27 @@
  "word": "lone",
  "slug": "lone",
  "url": "https://hibbangyong.com/words/lone/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "혼자인 — 그 자리에 딱 하나만 있는",
  "gloss_ko": "혼자인",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "넓은 광장에 사람이 딱 한 명 서 있어. 다른 사람은 아무도 없어.",
+  "그 한 명이 신나든 무섭든 상관없어. 그냥 하나뿐인 거야.",
+  "사람만 그런 게 아니야. 하늘에 구름 하나만 떠 있어도, 나무 한 그루만 서 있어도 똑같아.",
+  "'쓸쓸하다'랑은 달라. 마음이 어떤지가 아니라, 옆에 아무도 없다는 그거. 그게 lone이야."
+ ],
+ "explanation_for_kids": [
   "넓은 운동장에 아이가 딱 한 명 서 있어. 다른 애들은 아무도 없어.",
   "그 한 명이 신나든 무섭든 상관없어. 그냥 하나뿐인 거야.",
   "사람만 그런 게 아니야. 하늘에 구름 하나만 떠 있어도, 나무 한 그루만 서 있어도 똑같아.",
   "'쓸쓸하다'랑은 달라. 마음이 어떤지가 아니라, 옆에 아무도 없다는 그거. 그게 lone이야."
  ],
- "scene": "넓은 운동장에 아이 한 명만 서 있는 장면",
+ "scene": "넓은 광장에 사람 한 명만 서 있는 장면",
  "examples": [
   {
    "en": "A lone bird sat on the wire.",
@@ -63,7 +69,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/lone.webp",
-  "alt": "넓은 운동장에 아이 한 명만 서 있는 장면",
+  "alt": "넓은 광장에 사람 한 명만 서 있는 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

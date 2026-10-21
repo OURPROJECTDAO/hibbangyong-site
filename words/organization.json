@@ -11,20 +11,21 @@
  "word": "organization",
  "slug": "organization",
  "url": "https://hibbangyong.com/words/organization/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "단체 — 이름이 있고, 하려는 일이 있어서 꾸준히 모이는 사람들(동아리, 회사, 봉사 모임 같은 것)",
  "gloss_ko": "단체",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "불이 났어. 지나가던 사람들이 우르르 달려와서 물을 날라. 근데 불 꺼지면? 다들 흩어져. 그걸로 끝이야.",
   "어떤 모임은 달라. 이름이 있고, 하려는 일이 있고, 오늘 끝나도 내일 또 이어지거든?",
   "작은 동아리도, 큰 회사도 다 그래. 좋은 일을 하든 나쁜 일을 하든 상관없어.",
   "잠깐 모였다 흩어지는 무리랑은 달라. 이게 organization이야."
  ],
+ "explanation_for_kids": null,
  "scene": "불이 나서 지나가던 사람들이 잠깐 힘을 합쳤다 흩어짐",
  "examples": [
   {

@@ -11,25 +11,26 @@
  "word": "roast",
  "slug": "roast",
  "url": "https://hibbangyong.com/words/roast/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "구이 — 뜨거운 열로 통째 구워(볶아) 낸 덩어리. 주로 큰 고기.",
  "gloss_ko": "구이",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "불 앞에 커다란 고기 덩어리가 통째로 몇 시간을 있었어. 겉은 노릇, 속은 뜨끈.",
   "다 되면 썰지도 않고 접시에 통째로 쿵 올려놔. 그 덩어리를 부르는 이름이 있거든?",
   "고기만 그런 건 아니야. 커피콩을 불에 진하게 볶아 낸 것도 그렇게 불러.",
   "얇게 한 장 지진 것도 아니고, 물에 푹 삶은 것도 아니야. 뜨거운 열로 통째 구워 낸 그것. 그게 roast야."
  ],
+ "explanation_for_kids": null,
  "scene": "불 앞에서 몇 시간 통째로 익어 겉이 노릇해진 큰 고기 덩어리",
  "examples": [
   {
-   "en": "Dad pulled the roast out of the fire and cut it into big slices.",
-   "ko": "아빠가 불에서 구운 고기 덩어리를 꺼내 큼직하게 썰었어."
+   "en": "My roommate made a roast for Sunday dinner.",
+   "ko": "룸메이트가 일요일 저녁으로 고기 구이를 만들었어."
   }
  ],
  "quiz": [

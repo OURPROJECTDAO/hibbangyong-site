@@ -11,20 +11,21 @@
  "word": "mediocre",
  "slug": "mediocre",
  "url": "https://hibbangyong.com/words/mediocre/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "그저 그런 — 엉망은 아니지만 좋다고 하기엔 모자란 수준인",
  "gloss_ko": "그저 그런",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "엄청 기대하고 간 맛집인데, 먹어 보니 맛없진 않아. 근데 또 올 생각은 안 들어.",
   "음식이든 영화든 실력이든 성적이든, 이렇게 '그저 그렇네' 싶을 때 mediocre라고 해.",
   "최악이랑은 달라. 망한 게 아니라, 좋다고 하기엔 모자란 거야.",
   "그냥 '보통이다'랑도 달라. 아쉬움이 섞인 말이라 칭찬으로는 안 들려."
  ],
+ "explanation_for_kids": null,
  "scene": "기대하고 간 맛집 음식이 맛없진 않지만 또 올 정도는 아님",
  "examples": [
   {
@@ -35,7 +36,7 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "학교 축제에서 밴드 공연을 봤어. 박자나 음정이 틀리진 않았는데, 특별히 신나거나 기억에 남는 부분도 없었어. 이 공연은 'mediocre'야?",
+   "question": "대학 축제에서 밴드 공연을 봤어. 박자나 음정이 틀리진 않았는데, 특별히 신나거나 기억에 남는 부분도 없었어. 이 공연은 'mediocre'야?",
    "choices": [
     "응, mediocre 맞아",
     "아니, mediocre 아니야"

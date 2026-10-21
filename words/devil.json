@@ -11,31 +11,32 @@
  "word": "devil",
  "slug": "devil",
  "url": "https://hibbangyong.com/words/devil/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "악마 — 이야기나 믿음 속에서 나쁜 것 자체인 존재. 나쁜 짓을 하고 남도 나쁜 쪽으로 끌어당겨.",
  "gloss_ko": "악마",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "만화에서 이런 거 봤지? 착한 애 어깨 위에 조그만 빨간 게 앉아서 속닥거려. \"그냥 가져, 아무도 몰라.\" 나쁜 쪽으로 끌어당기는 거야.",
   "이야기 속 나쁜 것 자체 같은 존재야. 나쁜 편 전부를 거느리는 제일 큰 대장으로 나오기도 하고, 귀에 속닥이는 조그만 것으로 나오기도 해.",
   "무섭게 생겨서 그렇게 부르는 건 아니야. 이빨 뾰족한 짐승은 그냥 보기에 무섭지만, 얘는 나쁜 짓 쪽에 서 있거든.",
   "장난이 아주 심한 아이한테 웃으면서 \"요 꼬마 악마\" 하고 부르기도 해. 그게 devil이야."
  ],
+ "explanation_for_kids": null,
  "scene": "만화 속 어깨 위 작은 악마가 훔치라고 속닥이는 장면",
  "examples": [
   {
-   "en": "In the cartoon, a tiny red devil sat on the boy's shoulder and whispered bad ideas.",
-   "ko": "만화에서 조그만 빨간 악마가 남자아이 어깨에 앉아서 나쁜 생각을 속닥였어."
+   "en": "I dressed up as a devil with red horns for my friend's Halloween party.",
+   "ko": "친구네 핼러윈 파티에 빨간 뿔 달린 악마 분장을 하고 갔어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "동화책에 나오는 뿔 달린 존재가 착한 나무꾼 옆에 붙어서 \"저 사람 도끼를 몰래 네 것이라고 해\" 하고 계속 꼬드겼어. 이건 'devil'이야?",
+   "question": "옛날이야기에 나오는 뿔 달린 존재가 착한 나무꾼 옆에 붙어서 \"저 사람 도끼를 몰래 네 것이라고 해\" 하고 계속 꼬드겼어. 이건 'devil'이야?",
    "choices": [
     "응, devil 맞아",
     "아니, devil 아니야"

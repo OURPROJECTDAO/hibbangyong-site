@@ -11,20 +11,21 @@
  "word": "bidding",
  "slug": "bidding",
  "url": "https://hibbangyong.com/words/bidding/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "입찰(값을 불러 겨루기) — 물건이나 맡을 일을 놓고 여러 사람이 저마다 '이 값에 할게' 하고 값을 불러 겨루는 것",
  "gloss_ko": "값 불러 겨루기",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "경매 영상 본 적 있지? 물건 하나를 두고 여러 사람이 돌아가며 '난 얼마 낼게' 하고 값을 불러.",
   "이렇게 값을 내걸고 서로 겨루는 게 bidding이야. 우리말로는 입찰이라고 해.",
   "비싸게 부르는 쪽이 늘 이기는 건 아니야. 학교 공사를 맡을 회사를 뽑을 때는 '우린 더 싸게 지어 줄게'로 겨뤄.",
   "가게 주인이랑 둘이서 값을 깎는 흥정하고는 달라. 여럿이 값을 내걸고 겨뤄야 bidding이야."
  ],
+ "explanation_for_kids": null,
  "scene": "경매에서 물건 하나를 두고 여러 사람이 차례로 값을 부르는 장면",
  "examples": [
   {

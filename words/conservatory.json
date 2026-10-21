@@ -11,38 +11,44 @@
  "word": "conservatory",
  "slug": "conservatory",
  "url": "https://hibbangyong.com/words/conservatory/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "온실(유리방) — 벽과 지붕이 유리라 햇빛이 가득 드는 방. 보통 집에 이어 붙여 짓고, 식물을 키우거나 쉬는 데 써",
  "gloss_ko": "유리 온실방",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "친구 집 거실 뒤에 방이 하나 이어 붙어 있는데, 벽도 지붕도 통유리라고 생각해 봐.",
+  "햇빛이 위에서도 옆에서도 들어와. 그래서 화분을 키우기도 하고, 겨울에 차를 마시며 쉬기도 해.",
+  "보통은 이렇게 집에 붙여 짓는데, 식물원에 있는 커다란 유리 건물도 conservatory라고 불러.",
+  "창만 유리고 천장은 막힌 베란다나 창을 크게 낸 거실이랑은 달라. 머리 위까지 유리여야 해."
+ ],
+ "explanation_for_kids": [
   "할머니 집 거실 뒤에 방이 하나 이어 붙어 있는데, 벽도 지붕도 통유리라고 생각해 봐.",
   "햇빛이 위에서도 옆에서도 들어와. 그래서 화분을 키우기도 하고, 겨울에 차를 마시며 쉬기도 해.",
   "보통은 이렇게 집에 붙여 짓는데, 식물원에 있는 커다란 유리 건물도 conservatory라고 불러.",
   "창만 유리고 천장은 막힌 베란다나 창을 크게 낸 거실이랑은 달라. 머리 위까지 유리여야 해."
  ],
- "scene": "할머니 집 거실 뒤에 이어 붙인 통유리 방",
+ "scene": "친구 집 거실 뒤에 이어 붙인 통유리 방",
  "examples": [
   {
-   "en": "Grandma keeps her orange trees in the conservatory behind the kitchen.",
-   "ko": "할머니는 부엌 뒤에 붙은 유리 온실방에서 오렌지 나무를 키우셔."
+   "en": "The guesthouse had a sunny conservatory full of plants.",
+   "ko": "그 게스트하우스엔 식물이 가득하고 햇볕 잘 드는 유리 온실방이 있었어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "삼촌 집 옆면에 방이 하나 붙어 있어. 벽 네 면과 지붕이 전부 유리라서 낮에는 햇빛이 방 안 가득 들어와. 삼촌네 고양이가 거기서 햇볕을 쬐며 낮잠을 자. 이 방이 'conservatory'야?",
+   "question": "친구 집 옆면에 방이 하나 붙어 있어. 벽 네 면과 지붕이 전부 유리라서 낮에는 햇빛이 방 안 가득 들어와. 친구네 고양이가 거기서 햇볕을 쬐며 낮잠을 자. 이 방이 'conservatory'야?",
    "choices": [
     "응, conservatory 맞아",
     "아니, conservatory 아니야"
    ],
    "answer_index": 0,
    "answer": "응, conservatory 맞아",
-   "why": "맞아! 삼촌 집 옆면에 붙어 있고, 벽 네 면에 지붕까지 전부 유리라서 햇빛이 방 안 가득 들어오잖아. 집에 붙은 방인데 머리 위까지 유리면 그게 바로 conservatory야."
+   "why": "맞아! 친구 집 옆면에 붙어 있고, 벽 네 면에 지붕까지 전부 유리라서 햇빛이 방 안 가득 들어오잖아. 집에 붙은 방인데 머리 위까지 유리면 그게 바로 conservatory야."
   }
  ],
  "synonyms": [],
@@ -55,7 +61,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/conservatory.webp",
-  "alt": "할머니 집 거실 뒤에 이어 붙인 통유리 방",
+  "alt": "친구 집 거실 뒤에 이어 붙인 통유리 방",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

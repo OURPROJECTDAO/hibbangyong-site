@@ -11,15 +11,21 @@
  "word": "cooperate",
  "slug": "cooperate",
  "url": "https://hibbangyong.com/words/cooperate/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "혼자 맘대로 하지 않고, 같이 하려는 일이 잘 되게 상대에게 나를 맞춰 주는 것",
  "gloss_ko": "같이 하려고 서로 맞추다",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "소파를 문밖으로 빼야 해. 이웃은 왼쪽, 나는 오른쪽으로 밀면? 쿵, 문에 걸려서 끝이야.",
+  "하나 둘 셋 하고 같은 쪽으로 기울였더니 스르륵 빠져나갔어.",
+  "근데 꼭 둘이 힘을 똑같이 쓰는 것만 그런 건 아니야. 사진 찍는 사람이 이쪽 보라고 할 때 고개를 돌려 주는 것도 그래. 내 맘대로 안 하고 그쪽에 맞춰 준 거거든.",
+  "친해서 하는 것도 아니고, 착한 일일 때만도 아니야. 그냥 그 일이 되게 나를 맞춰 주는 거. 이게 cooperate야."
+ ],
+ "explanation_for_kids": [
   "소파를 문 밖으로 빼야 해. 형은 왼쪽, 나는 오른쪽으로 밀면? 쿵, 문에 걸려서 끝이야.",
   "하나 둘 셋 하고 같은 쪽으로 기울였더니 스르륵 빠져나갔어.",
   "근데 꼭 둘이 힘을 똑같이 쓰는 것만 그런 건 아니야. 사진 찍는 사람이 이쪽 보라고 할 때 고개를 돌려 주는 것도 그래. 내 맘대로 안 하고 그쪽에 맞춰 준 거거든.",
@@ -28,21 +34,21 @@
  "scene": "소파를 문밖으로 빼려고 둘이 미는 쪽을 맞추는 장면",
  "examples": [
   {
-   "en": "My brother and I don't really like each other, but we had to cooperate to get the sofa through the door.",
-   "ko": "형이랑 나는 서로 별로 안 좋아하는데도 소파를 문밖으로 빼려고 협력해야 했어."
+   "en": "My roommate and I had to cooperate to get the sofa through the door.",
+   "ko": "소파를 문으로 빼내려면 룸메이트랑 손발을 맞춰야 했어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "나랑 사이가 나빠서 말도 잘 안 하는 아이가 있어. 체육 시간에 그 아이가 긴 줄자로 멀리뛰기 거리를 재려고 하길래, 내가 줄자 반대쪽 끝을 잡고 움직이지 않고 있어 줬어. 이런 경우도 'cooperate'야?",
+   "question": "나랑 사이가 나빠서 말도 잘 안 하는 동료가 있어. 사무실에서 그 동료가 긴 줄자로 벽 길이를 재려고 하길래, 내가 줄자 반대쪽 끝을 잡고 움직이지 않고 있어 줬어. 이런 경우도 'cooperate'야?",
    "choices": [
     "응, 'cooperate' 맞아",
     "아니, 'cooperate' 아니야"
    ],
    "answer_index": 0,
    "answer": "응, 'cooperate' 맞아",
-   "why": "맞아! 줄자 끝을 딱 잡고 안 움직여 준 덕분에 그 아이가 거리를 잴 수 있었잖아. 내가 그쪽에 맞춰 줘서 그 일이 된 거니까 그게 바로 cooperate야."
+   "why": "맞아! 줄자 끝을 딱 잡고 안 움직여 준 덕분에 그 동료가 길이를 잴 수 있었잖아. 내가 그쪽에 맞춰 줘서 그 일이 된 거니까 그게 바로 cooperate야."
   }
  ],
  "synonyms": [],

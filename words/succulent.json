@@ -11,25 +11,26 @@
  "word": "succulent",
  "slug": "succulent",
  "url": "https://hibbangyong.com/words/succulent/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "즙이 많고 맛있는 — 속에 물기가 꽉 차서 촉촉하고 맛있는(고기·과일 등)",
  "gloss_ko": "즙 많고 맛있는",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "고기를 한 입 베었는데 육즙이 쭉 나오고, 배를 깨물었는데 물이 턱까지 흘러.",
   "속에 물기가 꽉 차서 촉촉하고 맛있는 거, 그런 게 succulent야.",
   "그냥 맛있다는 말이랑은 달라. 바삭한 감자칩은 맛있어도 속이 말라 있으니까 succulent는 아니야.",
   "잎이 통통하게 물을 머금은 다육식물을 영어로 succulent라고 부르는 것도 이래서야."
  ],
+ "explanation_for_kids": null,
  "scene": "고기를 베어 물자 육즙이 나오는 장면",
  "examples": [
   {
-   "en": "Grandma cooked a succulent chicken for my birthday.",
-   "ko": "할머니가 내 생일에 촉촉하고 육즙 가득한 닭고기를 해 주셨어."
+   "en": "The restaurant near my office serves succulent steak.",
+   "ko": "회사 근처 식당은 육즙 가득한 스테이크를 팔아."
   }
  ],
  "quiz": [

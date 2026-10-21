@@ -11,20 +11,21 @@
  "word": "slave",
  "slug": "slave",
  "url": "https://hibbangyong.com/words/slave/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "노예 — 사람인데 남의 것처럼 여겨져서, 돈도 못 받고 시키는 일을 해야 하고 마음대로 떠날 수도 없는 사람.",
  "gloss_ko": "노예",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "아침부터 밤까지 남이 시키는 일만 하는 사람이 있어. 그런데 돈은 한 푼도 못 받아.",
   "그만두고 집에 가면 되잖아? 그게 안 돼. 그 사람을 두고 \"얘는 내 거야\" 하는 주인이 있거든.",
   "사람인데 물건처럼 남의 것이 된 거야. 옛날에 아주 많았고, 슬프게도 지금도 몰래 이런 일이 있어.",
   "돈 받고 일하다가 가고 싶으면 가는 사람하고는 아주 달라. 이게 slave야."
  ],
+ "explanation_for_kids": null,
  "scene": "아침부터 밤까지 시키는 일을 하고 돈은 한 푼도 못 받는 사람",
  "examples": [
   {

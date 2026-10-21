@@ -11,23 +11,27 @@
  "word": "toast",
  "slug": "toast",
  "url": "https://hibbangyong.com/words/toast/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "토스트 — 빵을 노릇하게 구운 것",
  "gloss_ko": "토스트",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "접시 위에 있는 이 노릇한 빵 조각이 toast야. 빵을 뜨겁게 구우면 겉이 바삭해지고 색이 진해져.",
+  "아침에 식빵을 토스터에 넣고 구워서 잼을 발라 먹은 적 있을 거야. 그렇게 구운 빵이 바로 toast야."
+ ],
+ "explanation_for_kids": [
   "접시 위에 있는 이 노릇한 빵 조각이 toast야. 빵을 뜨겁게 구우면 겉이 바삭해지고 색이 진해져.",
   "아침에 식빵을 토스터에 넣고 구워서 잼을 발라 먹은 적 있을 거야. 그렇게 구운 빵이 바로 toast란다."
  ],
  "scene": "노릇하게 구워진 식빵 한 조각(toast=구운 토스트)을 접시 위에 크게 정중앙에 배치",
  "examples": [
   {
-   "en": "I ate a piece of toast with butter for breakfast.",
-   "ko": "아침으로 버터 바른 토스트 한 조각을 먹었어."
+   "en": "I grabbed a piece of toast before work.",
+   "ko": "출근하기 전에 토스트 한 조각을 챙겨 먹었어."
   }
  ],
  "quiz": [

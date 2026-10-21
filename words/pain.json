@@ -11,25 +11,26 @@
  "word": "pain",
  "slug": "pain",
  "url": "https://hibbangyong.com/words/pain/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "아픔 — 몸이든 마음이든, 쑤시고 욱신거려서 그만 좀 했으면 싶은 느낌",
  "gloss_ko": "아픔",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "밤에 이불 속에서 배가 콕콕 쑤셔서 잠이 깬 적 있지? 어디 부딪힌 것도 아닌데 말이야.",
   "다쳐야만 아픈 게 아니거든? 아무 데도 안 긁혔는데 머리가 지끈, 배가 살살, 그럴 때 있잖아.",
   "몸만 그런 것도 아니야. 제일 친한 친구가 멀리 이사 가 버리면 가슴께가 싸하게 아프잖아. 그것도 똑같아.",
   "화나는 거랑은 달라. 화는 확 뜨거워지는 거고, 이건 그냥 이제 그만 아팠으면 싶은 거야. 이게 pain이야."
  ],
+ "explanation_for_kids": null,
  "scene": "밤에 이불 속에서 배가 콕콕 쑤셔 잠이 깬 장면",
  "examples": [
   {
-   "en": "I woke up at night with a pain in my tummy, and nothing made it stop.",
-   "ko": "밤에 배가 아파서 깼는데 뭘 해도 아픔이 안 가셨어."
+   "en": "After the gym, I had a pain in my back all night.",
+   "ko": "헬스 끝나고 밤새 허리가 욱신거렸어."
   }
  ],
  "quiz": [

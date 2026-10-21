@@ -11,25 +11,26 @@
  "word": "polio",
  "slug": "polio",
  "url": "https://hibbangyong.com/words/polio/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "소아마비 — 바이러스가 신경을 망가뜨려 팔다리를 못 움직이게 만들 수 있는 전염병",
  "gloss_ko": "소아마비",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "아기 때 맞은 예방주사 기록표를 보면 '폴리오'라는 칸이 있을 거야.",
   "그게 polio야. 바이러스가 신경을 망가뜨려서 다리나 팔을 못 움직이게 만들 수 있는 병이고, 사람끼리 옮아.",
   "우리말로는 소아마비지만, 이름에 '소아'가 붙었다고 아이만 걸리는 건 아니야. 어른도 걸려.",
   "그냥 다리를 다친 것과도 달라. 다쳐서 생기는 게 아니라 병에 걸려서 생기는 거야. 지금은 백신 덕분에 거의 사라졌어."
  ],
+ "explanation_for_kids": null,
  "scene": "아기 때 예방주사 기록표의 폴리오 칸",
  "examples": [
   {
-   "en": "My grandma got a shot against polio when she was a little girl.",
-   "ko": "우리 할머니는 어렸을 때 소아마비 예방주사를 맞으셨대."
+   "en": "Before my trip, the nurse checked if I needed a polio shot.",
+   "ko": "여행 가기 전에 간호사가 내가 소아마비 주사를 맞아야 하는지 확인했어."
   }
  ],
  "quiz": [

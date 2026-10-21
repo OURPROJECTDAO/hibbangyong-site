@@ -11,23 +11,24 @@
  "word": "cottage",
  "slug": "cottage",
  "url": "https://hibbangyong.com/words/cottage/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "시골집 — 시골에 있는 작고 아담한 집",
  "gloss_ko": "시골집",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림에 있는 건 시골에 지은 작은 집이에요. 뾰족한 지붕과 굴뚝, 작은 창문과 나무문이 있고 앞에는 작은 정원이 있어요.",
   "가족이 도시를 떠나 시골에서 쉬거나 살 때 이런 작은 집에 머물기도 해요."
  ],
+ "explanation_for_kids": null,
  "scene": "그림엔 시골의 아담한 작은 집 한 채(cottage) — 초가/기와풍 뾰족지붕·굴뚝·작은 창문·나무문, 앞에 작은 정원. 건물 전체가 중앙에 크게, 잘림 없이.",
  "examples": [
   {
-   "en": "My grandparents live in a small cottage in the countryside.",
-   "ko": "우리 할머니 할아버지는 시골 작은 집에서 사셔."
+   "en": "We rented a small cottage by the lake for the weekend.",
+   "ko": "우리는 주말 동안 호숫가에 있는 작은 시골집을 빌렸어."
   }
  ],
  "quiz": [

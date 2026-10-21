@@ -11,25 +11,26 @@
  "word": "tear",
  "slug": "tear",
  "url": "https://hibbangyong.com/words/tear/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "찢다·찢어지다 — 얇거나 질긴 것이 힘을 받아 쫙 갈라지다(도구로 반듯이 자른 게 아님)",
  "gloss_ko": "찢다·찢어지다",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "책을 잔뜩 넣은 가방을 어깨에 멨는데, 옆구리가 쫘악 갈라져서 구멍이 났어.",
   "가위를 댄 것도 아니고, 딱딱한 게 부러진 것도 아니야. 힘을 받다가 그냥 갈라진 거야. 그래서 갈라진 자리가 삐뚤빼뚤해.",
   "일부러 그래도 되고, 저절로 그래도 돼. 편지를 쫙쫙 갈라 버리든, 못에 걸려 바지가 갈라지든, 달리다가 다리 속 근육이 갈라지든, 다 이거야.",
   "그게 tear야."
  ],
+ "explanation_for_kids": null,
  "scene": "책을 잔뜩 넣은 가방 옆구리가 힘을 받아 갈라져 구멍 난 장면",
  "examples": [
   {
-   "en": "My bag tore because I put too many books in it.",
-   "ko": "책을 너무 많이 넣어서 내 가방이 찢어졌어."
+   "en": "If I add more cans, this grocery bag will tear.",
+   "ko": "캔을 더 넣으면 이 장바구니 찢어질 거야."
   }
  ],
  "quiz": [

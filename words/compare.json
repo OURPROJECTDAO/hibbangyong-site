@@ -11,25 +11,26 @@
  "word": "compare",
  "slug": "compare",
  "url": "https://hibbangyong.com/words/compare/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "비교하다 — 둘을 맞대 놓고 어디가 같고 어디가 다른지 살펴보다",
  "gloss_ko": "비교하다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "사과 두 개를 옆에 딱 놓고 봐봐.",
   "이건 더 크고, 저건 더 빨개 — 어디가 같고 어디가 다른지 보이지?",
   "그렇게 둘을 맞대 보고 같은 데 다른 데를 찬찬히 따지는 거야. 꼭 눈앞에 없어도 돼 — 지난번 거랑 머릿속으로 견줘 봐도 똑같아.",
   "그게 compare야."
  ],
+ "explanation_for_kids": null,
  "scene": "사과 두 개를 옆에 놓고 같은 점 다른 점을 살펴보는 장면",
  "examples": [
   {
-   "en": "Let's compare these two puppies — this one is bigger and that one is fluffier!",
-   "ko": "강아지 두 마리를 대 보자, 얘가 더 크고 쟤가 더 복슬복슬해!"
+   "en": "I always compare prices online before I buy a new phone.",
+   "ko": "나는 새 폰 사기 전에 꼭 인터넷으로 가격을 비교해 봐."
   }
  ],
  "quiz": [

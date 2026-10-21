@@ -11,20 +11,21 @@
  "word": "tactical",
  "slug": "tactical",
  "url": "https://hibbangyong.com/words/tactical/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "전술적인(작전에 관한) — 큰 목표를 이루려고 지금 상황에서 어떤 수를 쓸지와 관련된",
  "gloss_ko": "작전에 관한",
  "level": {
   "code": "L9",
-  "name": "토플 114~120점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "축구 경기 후반, 우리 팀이 1대0으로 이기고 있어. 감독이 공격수를 빼고 수비수를 넣었어.",
   "골을 지키려고 지금 그 상황에서 고른 수지. 이런 게 tactical이야. 수가 먹히든 안 먹히든 상관없어.",
   "경기에만 쓰는 말도 아니야. 선거에서 표가 갈리지 않게 누굴 찍을지 따져 고르는 것, 싸움터에서 한 전투를 이기려고 군대를 옮기는 것도 다 tactical이야.",
   "다만 몇 년 앞을 보고 전체 판을 짜는 큰 계획이랑은 달라. 그건 strategic 쪽이야."
  ],
+ "explanation_for_kids": null,
  "scene": "축구 경기 후반에 이기는 팀이 공격수를 빼고 수비수를 넣음",
  "examples": [
   {

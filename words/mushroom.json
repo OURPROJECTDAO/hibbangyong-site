@@ -11,23 +11,24 @@
  "word": "mushroom",
  "slug": "mushroom",
  "url": "https://hibbangyong.com/words/mushroom/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "버섯 — 흙이나 나무에서 자라는, 우산처럼 생긴 갓이 달린 것",
  "gloss_ko": "버섯",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 빨간 갓에 하얀 점이 박힌 이것이 바로 mushroom(버섯)이에요.",
   "숲길을 걷거나 비 온 뒤 나무 밑을 보면 이렇게 오뚝 서 있는 걸 만날 수 있어요."
  ],
+ "explanation_for_kids": null,
  "scene": "빨간 갓에 하얀 점이 박힌 통통한 버섯 한 송이(아이들이 가장 먼저 떠올리는 전형적 버섯)가 흙바닥에 오뚝 서 있는 모습",
  "examples": [
   {
-   "en": "We found a tiny mushroom growing under the tree.",
-   "ko": "우리는 나무 밑에 자라는 조그만 버섯을 찾았어."
+   "en": "I ordered the mushroom soup at the café.",
+   "ko": "카페에서 버섯 수프를 주문했어."
   }
  ],
  "quiz": [

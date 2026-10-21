@@ -11,15 +11,21 @@
  "word": "counterpart",
  "slug": "counterpart",
  "url": "https://hibbangyong.com/words/counterpart/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "다른 편에서 나와 똑같은 자리를 맡고 있는 사람이나 것",
  "gloss_ko": "딴 곳에서 같은 일을 맡은 짝",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "축구 시합 시작 전에 두 팀이 마주 섰어. 우리 팀 골키퍼 앞에, 저쪽 팀 골키퍼가 서 있어.",
+  "저 골키퍼가 우리 골키퍼의 counterpart야. 편은 달라도 맡은 자리가 똑같거든.",
+  "사람만 그런 게 아니야. 우리나라에 설날이 있듯이, 다른 나라 달력에도 새해를 챙기는 그런 날이 있잖아? 그 날도 설날의 counterpart야.",
+  "반대라서 그렇게 부르는 게 아니야. 같은 편에서 나를 돕는 동료도 아니고. 딴 데서 나랑 같은 자리를 맡고 있으면, 그게 counterpart야."
+ ],
+ "explanation_for_kids": [
   "축구 시합 시작 전에 두 팀이 마주 섰어. 우리 팀 골키퍼 앞에, 저쪽 팀 골키퍼가 서 있어.",
   "저 골키퍼가 우리 골키퍼의 counterpart야. 편은 달라도 맡은 자리가 똑같거든.",
   "사람만 그런 게 아니야. 우리나라에 설날이 있듯이, 다른 나라 달력에도 새해를 챙기는 그런 날이 있잖아? 그 날도 설날의 counterpart야.",
@@ -35,14 +41,14 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "우리 반 청소 시간에 칠판을 지우는 일은 내가 맡았어. 옆 반에도 칠판 지우는 일을 맡은 아이가 한 명 있어. 그 아이는 나의 'counterpart'야?",
+   "question": "우리 팀 회의 때 회의록 쓰는 일은 내가 맡았어. 옆 팀에도 회의록 쓰는 일을 맡은 사람이 한 명 있어. 그 사람은 나의 'counterpart'야?",
    "choices": [
     "응, counterpart 맞아",
     "아니, counterpart 아니야"
    ],
    "answer_index": 0,
    "answer": "응, counterpart 맞아",
-   "why": "맞아! 옆 반은 우리 반이랑 다른 무리인데, 거기서도 칠판 지우는 일을 맡았잖아. 편은 달라도 맡은 자리가 똑같으니까 바로 그게 counterpart인 거야."
+   "why": "맞아! 옆 팀은 우리 팀이랑 다른 무리인데, 거기서도 회의록 쓰는 일을 맡았잖아. 편은 달라도 맡은 자리가 똑같으니까 바로 그게 counterpart인 거야."
   }
  ],
  "synonyms": [],

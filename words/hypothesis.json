@@ -11,21 +11,27 @@
  "word": "hypothesis",
  "slug": "hypothesis",
  "url": "https://hibbangyong.com/words/hypothesis/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "확인해보려고 세워 둔 짐작 — 맞는지 틀리는지 시험해볼 수 있는 생각",
  "gloss_ko": "확인해보려고 세워 둔 짐작",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "사무실 화분이 축 늘어졌어. 왜지? 너는 생각해. 햇빛이 모자랐나?",
+  "아직 맞는지 몰라. 근데 그냥 찍은 게 아니거든? 화분 하나만 창가로 옮겨보면 알잖아. 확인할 길이 있는 짐작이야.",
+  "맞을 수도 있고 완전 틀릴 수도 있어. 틀려도 돼. 원래 시험해보려고 세운 거니까.",
+  "'내 생각엔 그래' 하고 그냥 끝나는 말이랑은 달라. 이게 hypothesis야."
+ ],
+ "explanation_for_kids": [
   "교실 화분이 축 늘어졌어. 왜지? 너는 생각해. 햇빛이 모자랐나?",
   "아직 맞는지 몰라. 근데 그냥 찍은 게 아니거든? 화분 하나만 창가로 옮겨보면 알잖아. 확인할 길이 있는 짐작이야.",
   "맞을 수도 있고 완전 틀릴 수도 있어. 틀려도 돼. 원래 시험해보려고 세운 거니까.",
   "'내 생각엔 그래' 하고 그냥 끝나는 말이랑은 달라. 이게 hypothesis야."
  ],
- "scene": "축 늘어진 교실 화분 — 햇빛이 모자랐나 하는 짐작",
+ "scene": "축 늘어진 사무실 화분 — 햇빛이 모자랐나 하는 짐작",
  "examples": [
   {
    "en": "My hypothesis was that the plant needed more sun, but I was wrong.",
@@ -58,7 +64,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/hypothesis.webp",
-  "alt": "축 늘어진 교실 화분 — 햇빛이 모자랐나 하는 짐작",
+  "alt": "축 늘어진 사무실 화분 — 햇빛이 모자랐나 하는 짐작",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

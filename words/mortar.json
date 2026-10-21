@@ -11,25 +11,26 @@
  "word": "mortar",
  "slug": "mortar",
  "url": "https://hibbangyong.com/words/mortar/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "모르타르 — 벽돌이나 돌 사이에 발라서 굳으면 서로 붙게 해 주는 반죽",
  "gloss_ko": "모르타르",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "벽돌 담을 가까이서 본 적 있어? 벽돌과 벽돌 사이에 회색 줄이 쭉 나 있지.",
   "그 줄이 mortar야. 처음엔 질척한 반죽인데, 사이에 발라 두면 딱딱하게 굳어서 벽돌끼리 꽉 붙여 줘.",
   "벽돌 그 자체도 아니고, 틀에 통째로 부어서 벽을 만드는 콘크리트도 아니야.",
   "쌓는 것들 사이를 채워서 붙이는 반죽, 그게 핵심이야."
  ],
+ "explanation_for_kids": null,
  "scene": "벽돌 담 사이의 회색 줄",
  "examples": [
   {
-   "en": "The old wall was falling apart because the mortar had cracked.",
-   "ko": "벽돌 사이 모르타르가 쩍쩍 갈라져서 그 낡은 담이 무너져 가고 있었어."
+   "en": "The mortar between the bricks on our building is cracking.",
+   "ko": "우리 건물 벽돌 사이 모르타르가 갈라지고 있어."
   }
  ],
  "quiz": [

@@ -11,25 +11,26 @@
  "word": "factor",
  "slug": "factor",
  "url": "https://hibbangyong.com/words/factor/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "요인(결과에 영향을 준 것 하나) — 어떤 일이 그렇게 되는 데 영향을 준 여러 가지 중 하나",
  "gloss_ko": "결과에 영향을 준 것",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "달리기 시합 날을 떠올려 봐. 누가 이길지는 딱 하나로 안 정해지거든?",
   "다리 힘, 신발, 바람, 그날 몸 상태까지. 하나하나가 다 끼어들어.",
   "어떤 건 밀어 주고, 어떤 건 발목을 잡아. 이유를 딱 하나만 콕 집는 거랑은 달라.",
   "여럿 중에 결과를 흔드는 그 하나, 그게 factor야."
  ],
+ "explanation_for_kids": null,
  "scene": "달리기 시합의 승패",
  "examples": [
   {
    "en": "The wind was a big factor in the race today.",
-   "ko": "오늘 달리기에서는 바람이 결과를 꽤 많이 흔들었어."
+   "ko": "오늘 경주에서는 바람이 결과에 큰 영향을 줬어."
   }
  ],
  "quiz": [

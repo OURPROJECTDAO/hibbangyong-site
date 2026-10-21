@@ -11,23 +11,24 @@
  "word": "plane",
  "slug": "plane",
  "url": "https://hibbangyong.com/words/plane/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "비행기 — 하늘을 날아 사람이나 짐을 먼 곳까지 데려다주는 탈것",
  "gloss_ko": "비행기",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 하늘을 날고 있는 커다란 탈것이 plane이에요.",
   "먼 나라로 여행 갈 때 공항에서 이걸 타고 가요."
  ],
+ "explanation_for_kids": null,
  "scene": "맑은 하늘을 날고 있는 여객 비행기 한 대(plane=비행기, 전형적 여객기)를 옆·비스듬한 각도로 전신이 다 보이게",
  "examples": [
   {
-   "en": "We took a plane to visit my grandmother.",
-   "ko": "우리는 할머니 뵈러 비행기를 탔어."
+   "en": "I took a plane to Jeju with my friends.",
+   "ko": "친구들이랑 비행기 타고 제주도에 갔어."
   }
  ],
  "quiz": [

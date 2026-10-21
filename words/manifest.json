@@ -11,25 +11,26 @@
  "word": "manifest",
  "slug": "manifest",
  "url": "https://hibbangyong.com/words/manifest/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "속에 있던 것이 겉으로 드러나다 — 눈에 안 보이던 게 보이는 모습이 되어 나오다",
  "gloss_ko": "속에 있던 것이 겉으로 드러나다",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "몸속에 감기가 며칠째 조용히 들어앉아 있었어.",
   "그러다 오늘, 콧물이 주르륵 기침이 콜록. 안에 있던 게 겉모습으로 나온 거야.",
   "누가 숨은 걸 꺼내서 보여 준 게 아니야. 저 혼자 모습이 되어 나온 거거든?",
   "기쁜 마음이 웃음으로 새어 나오는 것도 똑같아. 그게 manifest야."
  ],
+ "explanation_for_kids": null,
  "scene": "몸속에 며칠 조용히 있던 감기가 콧물·기침으로 나오는 순간",
  "examples": [
   {
-   "en": "His fear manifested as shaky hands before the big test.",
-   "ko": "큰 시험 전에 그의 두려움이 떨리는 손으로 겉에 드러났어."
+   "en": "His fear tends to manifest as shaky hands before big exams.",
+   "ko": "걔는 큰 시험 앞에서 긴장하면 그게 손 떨림으로 드러나곤 해."
   }
  ],
  "quiz": [

@@ -11,20 +11,21 @@
  "word": "quote",
  "slug": "quote",
  "url": "https://hibbangyong.com/words/quote/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "남이 한 말을 그대로 따와서 말하다 (=인용하다). 대충 바꾸지 않고, 누가 한 말인지 밝히며 그 말 그대로 옮기는 거야.",
  "gloss_ko": "남이 한 말을 그대로 따오다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "친구가 방금 한 말을, 네가 딴 사람한테 전할 때 있지?",
   "\"쟤가 「나 그거 싫어」라고 했어\" 이렇게 그 말을 한 글자도 안 바꾸고 옮기는 거야.",
   "내 말로 대충 바꾸거나 요약하는 게 아니라, 누가 한 그 말 그대로 따오는 거.",
   "그게 quote야."
  ],
+ "explanation_for_kids": null,
  "scene": "친구가 한 말을 다른 사람에게 한 글자도 안 바꾸고 그대로 전하는 상황",
  "examples": [
   {

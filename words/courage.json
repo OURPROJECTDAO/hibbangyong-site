@@ -11,25 +11,26 @@
  "word": "courage",
  "slug": "courage",
  "url": "https://hibbangyong.com/words/courage/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "용기 — 무서운 마음이 사라진 게 아니라, 그 무서움을 안은 채로 해야 할 쪽을 하는 힘.",
  "gloss_ko": "용기",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "반 아이들이 다 보는 앞에서 내가 말했어. 유리컵 깨뜨린 거, 나라고.",
   "가슴이 쿵쿵 뛰었어. 무서움이 없어진 게 아니야. 그대로 있는데 입이 열린 거야.",
   "그러니까 겁이 안 나는 애만 가지는 게 아니라, 무서운 채로도 해내는 마음이야. 도망가는 것도 아니고, 아무 생각 없이 막 덤비는 것도 아니고.",
   "이게 courage야."
  ],
+ "explanation_for_kids": null,
  "scene": "반 아이들 앞에서 유리컵 깬 걸 스스로 밝히는 순간",
  "examples": [
   {
-   "en": "It took courage to tell everyone that I broke the glass.",
-   "ko": "유리컵 깬 걸 다들한테 말하는 데는 용기가 필요했어."
+   "en": "It took courage to tell my boss I made a mistake.",
+   "ko": "사장님한테 내가 실수했다고 말하는 데 용기가 필요했어."
   }
  ],
  "quiz": [

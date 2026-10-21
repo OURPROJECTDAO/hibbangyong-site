@@ -11,38 +11,39 @@
  "word": "empire",
  "slug": "empire",
  "url": "https://hibbangyong.com/words/empire/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "제국 — 아주 크고 힘센 나라. 우두머리 한 사람이 여러 나라와 땅을 한꺼번에 거느려.",
  "gloss_ko": "제국",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "옛날 어느 힘센 임금님, 나라 하나로는 도무지 성에 안 찼어.",
   "옆 나라도, 그 옆 나라도, 하나둘 자기 밑으로 끌어모았지.",
   "말도 다르고 사는 곳도 다른 수많은 땅과 사람이 임금님 한 명 아래로 쭉 묶였어.",
   "꼭 나라만 그런 게 아냐 — 한 사람이 여러 개를 통째로 거느린 어마어마한 덩어리면 다 empire야."
  ],
+ "explanation_for_kids": null,
  "scene": "힘센 임금이 옆 나라들을 하나둘 끌어모아 한 아래로 묶은 거대한 덩어리",
  "examples": [
   {
-   "en": "The king took over many lands and built a giant empire.",
-   "ko": "임금님이 여러 땅을 차지해서 엄청나게 큰 제국을 세웠어."
+   "en": "The king took over many lands and built a huge empire.",
+   "ko": "그 왕은 여러 땅을 차지해서 거대한 제국을 세웠어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "다현이 할머니는 서울·부산·제주에 있는 국수 가게 서른 곳을 전부 가지고 계셔. 어느 가게에서 무슨 국수를 팔지, 값을 얼마로 할지도 모두 할머니가 정해. 이게 'empire'야?",
+   "question": "다현이네 사장님은 서울·부산·제주에 있는 국수 가게 서른 곳을 전부 가지고 있어. 어느 가게에서 무슨 국수를 팔지, 값을 얼마로 할지도 모두 사장님이 정해. 이게 'empire'야?",
    "choices": [
     "응, empire 맞아",
     "아니, empire 아니야"
    ],
    "answer_index": 0,
    "answer": "응, empire 맞아",
-   "why": "맞아! 서울에도 부산에도 제주에도 가게가 흩어져 있는데 무슨 국수를 팔지, 값을 얼마로 할지 전부 할머니 한 사람이 정하잖아. 서로 다른 여러 곳이 한 사람 아래로 쭉 묶인 거, 그게 바로 empire인 거야."
+   "why": "맞아! 서울에도 부산에도 제주에도 가게가 흩어져 있는데 무슨 국수를 팔지, 값을 얼마로 할지 전부 사장님 한 사람이 정하잖아. 서로 다른 여러 곳이 한 사람 아래로 쭉 묶인 거, 그게 바로 empire인 거야."
   }
  ],
  "synonyms": [],

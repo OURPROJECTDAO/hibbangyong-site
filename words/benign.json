@@ -11,20 +11,21 @@
  "word": "benign",
  "slug": "benign",
  "url": "https://hibbangyong.com/words/benign/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "온화한 — 친절하고 순해서 남을 해치지 않는 (몸속 혹처럼, 해가 없는 것에도 써)",
  "gloss_ko": "순해서 해치지 않는",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "할아버지 집 큰 개, 덩치도 크고 짖는 소리도 커.",
   "근데 막상 가 보면 아무도 안 물고 순하게 누워만 있어.",
   "이렇게 해칠 기운 없이 부드러운 게 benign이야. 사람, 동물, 병원에서 찾은 혹에도 써.",
   "마음씨가 친절하고 부드러워서 해칠 기운이 없는 거야. 겉으로만 웃고 속으로 해칠 마음이 있으면 benign이 아니야."
  ],
+ "explanation_for_kids": null,
  "scene": "덩치 크고 짖는 소리 큰데 순하게 누워 있는 할아버지 집 개",
  "examples": [
   {

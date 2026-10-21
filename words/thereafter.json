@@ -11,21 +11,27 @@
  "word": "thereafter",
  "slug": "thereafter",
  "url": "https://hibbangyong.com/words/thereafter/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "그 뒤로 — 앞에서 말한 일이 있고 난 다음에",
  "gloss_ko": "그 뒤로",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "앞에서 어떤 일을 하나 말했다고 해 봐. 가게가 처음 생겼다든가, 이사를 왔다든가.",
+  "그 일이 있고 난 다음을 가리킬 때 thereafter를 붙여.",
+  "그 뒤로 쭉 이어진 일에도 쓰고, 조금 지나서 한 번 생긴 일에도 써.",
+  "생긴 게 therefore랑 비슷한데, 그건 '그러니까'라는 이유 말이고 이건 '그다음에'라는 시간 순서 말이야."
+ ],
+ "explanation_for_kids": [
   "앞에서 어떤 일을 하나 말했다고 해 봐. 동아리가 처음 생겼다든가, 전학을 왔다든가.",
   "그 일이 있고 난 다음을 가리킬 때 thereafter를 붙여.",
   "그 뒤로 쭉 이어진 일에도 쓰고, 조금 지나서 한 번 생긴 일에도 써.",
   "생긴 게 therefore랑 비슷한데, 그건 '그러니까'라는 이유 말이고 이건 '그다음에'라는 시간 순서 말이야."
  ],
- "scene": "앞에서 말한 일 하나를 기준으로 삼는 상황(동아리가 처음 생김·전학을 옴)",
+ "scene": "앞에서 말한 일 하나를 기준으로 삼는 상황(가게가 처음 생김·이사를 옴)",
  "examples": [
   {
    "en": "The club started in 2020, and thereafter it met every Friday.",
@@ -61,7 +67,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/thereafter.webp",
-  "alt": "앞에서 말한 일 하나를 기준으로 삼는 상황(동아리가 처음 생김·전학을 옴)",
+  "alt": "앞에서 말한 일 하나를 기준으로 삼는 상황(가게가 처음 생김·이사를 옴)",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

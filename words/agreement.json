@@ -11,38 +11,44 @@
  "word": "agreement",
  "slug": "agreement",
  "url": "https://hibbangyong.com/words/agreement/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "합의 — 두 사람이나 여럿이 '이렇게 하자' 하고 서로 받아들여 함께 정한 약속. 서로 생각이 맞는 것도 이렇게 불러",
  "gloss_ko": "함께 정한 약속",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "룸메이트랑 리모컨 때문에 맨날 다툰다고 해 보자. 그래서 둘이 마주 앉아 '평일은 너, 주말은 나!' 하고 정했어. 둘 다 좋다고 했지.",
+  "꼭 신나게 정할 필요는 없어. 조금씩 양보하고 '그래, 그러자' 해도 돼. 나라끼리 싸움을 멈추기로 하거나 회사끼리 도장 쾅 찍는 것도 똑같아.",
+  "그리고 '나도 같은 생각이야!' 하고 서로 생각이 딱 맞을 때도 이 말을 써.",
+  "팀장님 혼자 정한 규칙이나 나 혼자 하는 다짐이랑은 달라. 양쪽이 다 '좋아' 해야 해. 그게 agreement야."
+ ],
+ "explanation_for_kids": [
   "리모컨 때문에 형이랑 맨날 투닥투닥하지? 그래서 둘이 마주 앉아 정했어. '평일은 형, 주말은 나!' 둘 다 끄덕, 딱!",
   "꼭 신나게 정할 필요는 없어. 조금씩 양보하고 '그래, 그러자' 해도 돼. 나라끼리 싸움을 멈추기로 하거나 회사끼리 도장 쾅 찍는 것도 똑같아.",
   "그리고 '나도 같은 생각이야!' 하고 서로 생각이 딱 맞을 때도 이 말을 써.",
   "엄마 혼자 정한 규칙이나 나 혼자 하는 다짐이랑은 달라. 양쪽이 다 '좋아' 해야 해. 그게 agreement야."
  ],
- "scene": "형제가 리모컨을 두고 평일은 형, 주말은 동생으로 나누기",
+ "scene": "룸메이트 둘이 리모컨을 두고 평일과 주말로 나누기",
  "examples": [
   {
-   "en": "My brother and I made an agreement: he gets the TV on weekdays, and I get it on weekends.",
-   "ko": "형이랑 나는 평일엔 형이, 주말엔 내가 텔레비전을 보기로 약속했어."
+   "en": "My roommate and I made an agreement: I cook, and she does the dishes.",
+   "ko": "룸메이트랑 나는 내가 요리하고 걔가 설거지하기로 약속했어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "나랑 친구가 토요일에 어디서 만날지 얘기했어. 친구가 \"3시에 놀이터 그네 앞에서 보자.\" 하니까 나도 \"응, 그러자!\" 했어. 둘이 이렇게 정한 게 'agreement'야?",
+   "question": "나랑 친구가 토요일에 어디서 만날지 얘기했어. 친구가 \"3시에 역 앞 카페에서 보자.\" 하니까 나도 \"응, 그러자!\" 했어. 둘이 이렇게 정한 게 'agreement'야?",
    "choices": [
     "응, agreement 맞아",
     "아니, agreement 아니야"
    ],
    "answer_index": 0,
    "answer": "응, agreement 맞아",
-   "why": "맞아! 친구가 3시에 놀이터 그네 앞에서 보자고 했고, 너도 응, 그러자 했잖아. 둘이 다 좋다고 해서 같이 정했으니까 바로 그게 agreement인 거야."
+   "why": "맞아! 친구가 3시에 역 앞 카페에서 보자고 했고, 너도 응, 그러자 했잖아. 둘이 다 좋다고 해서 같이 정했으니까 바로 그게 agreement인 거야."
   }
  ],
  "synonyms": [],
@@ -58,7 +64,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/agreement.webp",
-  "alt": "형제가 리모컨을 두고 평일은 형, 주말은 동생으로 나누기",
+  "alt": "룸메이트 둘이 리모컨을 두고 평일과 주말로 나누기",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,21 +11,22 @@
  "word": "instead",
  "slug": "instead",
  "url": "https://hibbangyong.com/words/instead/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "대신에 — 하나를 안 하고, 그 자리에 다른 걸 바꿔서 할 때 쓰는 말.",
  "gloss_ko": "대신에",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "학교 가려고 버스를 타려다가, 그냥 걸어갔어.",
   "버스는 안 타고, 그 자리에 걷기를 딱 넣은 거야.",
   "'이거 말고 저거' 하고 바꿔서 하는 거지.",
   "그게 instead야."
  ],
- "scene": "버스를 안 타고 대신 걸어서 학교에 감 (child 앵커)",
+ "explanation_for_kids": null,
+ "scene": "버스를 안 타고 대신 걸어서 학교에 감",
  "examples": [
   {
    "en": "I didn't want the red one, so I picked the blue one instead.",
@@ -35,14 +36,14 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "오빠가 색연필로 그림을 그리려고 꺼냈다가, 색연필은 도로 넣고 그 자리에 사인펜을 꺼내서 그렸어. 이게 'instead'야?",
+   "question": "친구가 볼펜으로 메모를 하려고 꺼냈다가, 볼펜은 도로 넣고 그 자리에 연필을 꺼내서 썼어. 이게 'instead'야?",
    "choices": [
     "응, instead 맞아",
     "아니, instead 아니야"
    ],
    "answer_index": 0,
    "answer": "응, instead 맞아",
-   "why": "맞아! 색연필을 그만두고 그 자리에 사인펜을 딱 넣어서 그렸잖아. 하려던 걸 안 하고 다른 걸로 바꿔서 한 거니까 그게 바로 instead인 거야."
+   "why": "맞아! 볼펜은 도로 넣고 그 자리에 연필을 꺼내서 썼잖아. 하려던 걸 안 하고 다른 걸로 바꿔서 한 거니까 그게 바로 instead인 거야."
   }
  ],
  "synonyms": [
@@ -57,7 +58,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/instead.webp",
-  "alt": "버스를 안 타고 대신 걸어서 학교에 감 (child 앵커)",
+  "alt": "버스를 안 타고 대신 걸어서 학교에 감",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,21 +11,27 @@
  "word": "acutely",
  "slug": "acutely",
  "url": "https://hibbangyong.com/words/acutely/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "절실히·강렬하게 — 무언가를 날이 선 것처럼 아주 세게 느끼거나 알아차리는",
  "gloss_ko": "절실히·강렬하게",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "면접 보는데 시계 초침 소리가 갑자기 하나하나 크게 들린 적 있지?",
+  "평소엔 흘려듣던 게 칼날처럼 확 와닿는 느낌, 그게 acutely야.",
+  "창피함이든 아픔이든, 괴롭지 않게 그냥 또렷이 알아차리는 거든 상관없어. 핵심은 내가 세게 느낀다는 거야.",
+  "사나운 말투에서 말하는 날카로움이랑은 달라. 소리가 비슷한 accurately(정확하게)랑도 헷갈리지 마."
+ ],
+ "explanation_for_kids": [
   "시험 보는데 시계 초침 소리가 갑자기 하나하나 크게 들린 적 있지?",
   "평소엔 흘려듣던 게 칼날처럼 확 와닿는 느낌, 그게 acutely야.",
   "창피함이든 아픔이든, 괴롭지 않게 그냥 또렷이 알아차리는 거든 상관없어. 핵심은 내가 세게 느낀다는 거야.",
   "사나운 말투에서 말하는 날카로움이랑은 달라. 소리가 비슷한 accurately(정확하게)랑도 헷갈리지 마."
  ],
- "scene": "시험 중 시계 초침 소리가 유난히 크게 들림",
+ "scene": "면접 중 시계 초침 소리가 유난히 크게 들림",
  "examples": [
   {
    "en": "After I fell on the stage, I was acutely aware of everyone looking at me.",
@@ -35,14 +41,14 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "짝꿍이 이사 간 다음 날, 서윤이는 옆자리가 비어 있다는 게 하루 종일 확 와닿았어. 서윤이는 빈자리를 'acutely' 느낀 걸까?",
+   "question": "같이 일하던 동료가 퇴사한 다음 날, 서윤이는 옆자리가 비어 있다는 게 하루 종일 확 와닿았어. 서윤이는 빈자리를 'acutely' 느낀 걸까?",
    "choices": [
     "응, acutely 맞아",
     "아니, acutely 아니야"
    ],
    "answer_index": 0,
    "answer": "응, acutely 맞아",
-   "why": "맞아! 짝꿍이 이사 간 뒤로 비어 있는 옆자리가 하루 종일 확 와닿았잖아. 그냥 알아챈 게 아니라 아주 세게 느낀 거라서 이게 바로 acutely야."
+   "why": "맞아! 같이 일하던 동료가 퇴사한 뒤로 비어 있는 옆자리가 하루 종일 확 와닿았잖아. 그냥 알아챈 게 아니라 아주 세게 느낀 거라서 이게 바로 acutely야."
   }
  ],
  "synonyms": [],
@@ -55,7 +61,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/acutely.webp",
-  "alt": "시험 중 시계 초침 소리가 유난히 크게 들림",
+  "alt": "면접 중 시계 초침 소리가 유난히 크게 들림",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

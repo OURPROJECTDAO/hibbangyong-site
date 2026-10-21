@@ -11,20 +11,21 @@
  "word": "blister",
  "slug": "blister",
  "url": "https://hibbangyong.com/words/blister/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "물집 — 쓸리거나 데어서 피부가 볼록 부풀고, 그 안에 맑은 물이 찬 것",
  "gloss_ko": "물집",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "새 신발 신고 오래 걸으면 뒤꿈치가 볼록 부풀어 오를 때 있지.",
   "꼭 쓸려야만 생기는 건 아니야. 뜨거운 데 데어도, 햇볕에 심하게 타도 생겨.",
   "피부 밑에 맑은 물이 차서 말랑말랑해. 그게 blister, 물집이야.",
   "딱딱하게 두꺼워진 굳은살이나 고름 잡힌 뾰루지랑은 달라."
  ],
+ "explanation_for_kids": null,
  "scene": "새 신발 신고 오래 걸어 뒤꿈치가 부풂",
  "examples": [
   {

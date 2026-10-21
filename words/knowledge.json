@@ -11,21 +11,27 @@
  "word": "knowledge",
  "slug": "knowledge",
  "url": "https://hibbangyong.com/words/knowledge/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "아는 것 — 배우거나 겪어서 머릿속에 쌓여 있는, 알고 있는 것들",
  "gloss_ko": "아는 것",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "집에서 역까지 어느 골목으로 가야 제일 빠른지, 아무도 안 가르쳐 줬는데 그냥 알잖아. 그렇게 네 머릿속에 쌓여 있는 아는 것들, 그게 knowledge야.",
+  "책에서 배운 것도, 넘어져 보고 알게 된 것도, 다 여기 들어가. 착한 것만도 아니야 — 도둑이 자물쇠 여는 법을 아는 것도 knowledge거든.",
+  "근데 머리가 빨리 돌아가는 거랑은 달라. 그건 똑똑한 거고, 이건 안에 뭐가 들어 있느냐야.",
+  "그냥 그럴 것 같다고 짐작하는 거랑도 달라. 진짜로 알고 있는 것, 그게 knowledge야."
+ ],
+ "explanation_for_kids": [
   "너, 집에서 학교까지 어느 골목으로 가야 제일 빠른지 알지? 아무도 안 가르쳐 줬는데 그냥 알아. 그렇게 네 머릿속에 쌓여 있는 아는 것들, 그게 knowledge야.",
   "책에서 배운 것도, 넘어져 보고 알게 된 것도, 다 여기 들어가. 착한 것만도 아니야 — 도둑이 자물쇠 여는 법을 아는 것도 knowledge거든.",
   "근데 머리가 빨리빨리 돌아가는 거랑은 달라. 그건 똑똑한 거고, 이건 안에 뭐가 들어 있느냐야.",
   "그냥 그럴 것 같다고 짐작하는 거랑도 달라. 진짜로 알고 있는 것, 그게 knowledge야."
  ],
- "scene": "집에서 학교까지 제일 빠른 골목을 아는 것",
+ "scene": "집에서 역까지 제일 빠른 골목을 아는 것",
  "examples": [
   {
    "en": "He used his knowledge of the woods to find the way home.",
@@ -35,7 +41,7 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "지호는 머리가 빨리 돌아가. 어떤 퍼즐이든 남들보다 먼저 척척 맞춰. 지호의 이런 점도 'knowledge'야?",
+   "question": "지호는 머리가 빨리 돌아가. 어떤 퍼즐이든 남들보다 먼저 맞춰. 지호의 이런 점도 'knowledge'야?",
    "choices": [
     "응, knowledge 맞아",
     "아니, knowledge 아니야"
@@ -69,7 +75,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/knowledge.webp",
-  "alt": "집에서 학교까지 제일 빠른 골목을 아는 것",
+  "alt": "집에서 역까지 제일 빠른 골목을 아는 것",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

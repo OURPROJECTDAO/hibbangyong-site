@@ -11,31 +11,32 @@
  "word": "attempt",
  "slug": "attempt",
  "url": "https://hibbangyong.com/words/attempt/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "시도 — 되든 안 되든, 해내려고 진짜로 한 번 해 본 것",
  "gloss_ko": "시도",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "잼 뚜껑이 안 열려. 손에 힘 꽉 주고 돌려 봤어. 꿈쩍도 안 해. 그래도 방금 그거, 벌써 하나 한 거야.",
   "되든 안 되든 똑같아. 해내려고 진짜로 한 번 해 본 것, 그 한 번이 attempt야.",
   "몸으로 하는 것만 아니야. 웃겨 보려고 말을 걸어 본 것도, 어려운 문제 답을 써 본 것도 하나씩 세거든.",
   "좋은 일이든 나쁜 짓이든 다 세. 대신 마음속으로 해볼까 한 것만은 안 세. 그게 attempt야."
  ],
+ "explanation_for_kids": null,
  "scene": "잼 뚜껑을 힘껏 돌렸는데 꿈쩍도 안 한 장면",
  "examples": [
   {
-   "en": "My first attempt at the trick failed, but my third attempt worked.",
-   "ko": "그 기술은 첫 번째 시도에서 실패했는데 세 번째 시도에서 성공했어."
+   "en": "My first try at the trick failed, but my third attempt worked.",
+   "ko": "그 기술 처음엔 실패했는데 세 번째 시도에서 성공했어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "현우가 운동장에서 줄넘기를 두 발로 넘으려고 줄을 돌려 뛰었는데 발에 줄이 걸렸어. 방금 현우가 한 게 'attempt' 하나야?",
+   "question": "현우가 헬스장에서 줄넘기를 두 발로 넘으려고 줄을 돌려 뛰었는데 발에 줄이 걸렸어. 방금 현우가 한 게 'attempt' 하나야?",
    "choices": [
     "응, attempt 맞아",
     "아니, attempt 아니야"

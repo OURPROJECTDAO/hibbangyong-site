@@ -11,31 +11,37 @@
  "word": "differ",
  "slug": "differ",
  "url": "https://hibbangyong.com/words/differ/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "다르다 — 두 개를 견줘 보면 서로 같지 않고 차이가 있어. 물건이든 생각이든 값이든 다 돼.",
  "gloss_ko": "다르다",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "나랑 내 친구는 좋아하는 간식이 서로 안 같아. 걔는 딸기맛, 난 초코맛이거든.",
+  "이렇게 둘을 견줘 보면 서로 같지 않은 걸 말해. 물건이든 생각이든 다 돼.",
+  "하나가 변했다는 게 아니라, 둘이 그냥 서로 달라.",
+  "'똑같다'랑은 정반대지. 이게 differ야."
+ ],
+ "explanation_for_kids": [
   "나랑 내 짝꿍은 좋아하는 간식이 서로 안 같아. 걔는 딸기맛, 난 초코맛이거든.",
   "이렇게 둘을 견줘 보면 서로 같지 않은 걸 말해. 물건이든 생각이든 다 돼.",
   "하나가 변했다는 게 아니라, 둘이 그냥 서로 달라.",
   "'똑같다'랑은 정반대지. 이게 differ야."
  ],
- "scene": "짝꿍과 내가 좋아하는 간식이 서로 다름(딸기 vs 초코)",
+ "scene": "친구와 내가 좋아하는 간식이 서로 다름(딸기 vs 초코)",
  "examples": [
   {
    "en": "My twin and I differ — she loves rain, but I don't.",
-   "ko": "나랑 쌍둥이 동생은 서로 달라 — 걔는 비를 좋아하는데 난 싫거든."
+   "ko": "나랑 쌍둥이 동생은 서로 달라. 걔는 비를 좋아하는데 난 싫거든."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "내 연필은 아주 길쭉하고, 짝꿍 연필은 아주 몽당해서 손에 쏙 들어가. 이 두 연필, 'differ'야?",
+   "question": "새 연필은 아주 길쭉하고, 오래 쓴 연필은 아주 몽당해서 손에 쏙 들어가. 이 두 연필, 'differ'야?",
    "choices": [
     "응, differ 맞아",
     "아니, differ 아니야"
@@ -66,7 +72,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/differ.webp",
-  "alt": "짝꿍과 내가 좋아하는 간식이 서로 다름(딸기 vs 초코)",
+  "alt": "친구와 내가 좋아하는 간식이 서로 다름(딸기 vs 초코)",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

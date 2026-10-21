@@ -11,20 +11,21 @@
  "word": "dash",
  "slug": "dash",
  "url": "https://hibbangyong.com/words/dash/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "확 달려감 — 갑자기 짧고 빠르게 뛰는 것",
  "gloss_ko": "확 달려감",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "저기 버스가 오는데 정류장은 아직 멀어! 어떡해?",
   "갑자기 확! 있는 힘껏 짧게 뛰는 거야.",
   "오래 달리기랑은 달라. 짧고 갑작스럽게 튀어 나가는 거거든.",
   "그렇게 확 달려가는 게 dash야."
  ],
+ "explanation_for_kids": null,
  "scene": "버스를 놓칠까 봐 정류장으로 갑자기 확 뛰어감",
  "examples": [
   {
@@ -35,7 +36,7 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "운동회 날, 호루라기 소리가 나자마자 형아가 반대편 깃발까지 온 힘을 다해 몇 초 만에 튀어 나갔어. 이게 'dash'야?",
+   "question": "회사 체육대회 날, 호루라기 소리가 나자마자 동료가 반대편 깃발까지 온 힘을 다해 몇 초 만에 튀어 나갔어. 이게 'dash'야?",
    "choices": [
     "응, dash 맞아",
     "아니, dash 아니야"

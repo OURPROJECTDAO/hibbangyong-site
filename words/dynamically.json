@@ -11,21 +11,22 @@
  "word": "dynamically",
  "slug": "dynamically",
  "url": "https://hibbangyong.com/words/dynamically/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "역동적으로(힘차게 움직이며) — 가만히 멈춰 있지 않고, 힘 있게 움직이고 바뀌면서",
  "gloss_ko": "힘차게 움직이며",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "발표 때 대본만 줄줄 읽는 애가 있고, 친구들 반응을 보면서 말도 몸짓도 바꿔 가며 발표를 끌고 가는 애가 있잖아.",
   "뒤쪽처럼 가만히 멈춰 있지 않고, 힘 있게 움직이고 바뀌면서 해 나가는 게 dynamically야.",
   "사람한테만 쓰는 말이 아니야. 게임 속 적이나 물건 가격처럼 상황에 따라 계속 바뀌는 것에도 써.",
   "그냥 빠르게, 그냥 시끄럽게랑은 달라. 핵심은 멈춰 있지 않고 변하면서 움직인다는 거야."
  ],
- "scene": "반 친구들 반응을 보며 말과 몸짓을 바꿔 가는 발표",
+ "explanation_for_kids": null,
+ "scene": "사람들 반응을 보며 말과 몸짓을 바꿔 가는 발표",
  "examples": [
   {
    "en": "The coach wants us to play more dynamically in the second half.",
@@ -71,7 +72,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/dynamically.webp",
-  "alt": "반 친구들 반응을 보며 말과 몸짓을 바꿔 가는 발표",
+  "alt": "사람들 반응을 보며 말과 몸짓을 바꿔 가는 발표",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,20 +11,21 @@
  "word": "contested",
  "slug": "contested",
  "url": "https://hibbangyong.com/words/contested/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "논란이 되는 — 맞는지 아닌지, 또는 누구 것인지를 두고 사람들이 아직 다투고 있는",
  "gloss_ko": "논란이 되는",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "축구 경기에서 심판이 골이라고 했어. 근데 상대 팀은 오프사이드라고 계속 항의해.",
   "그 판정은 누가 맞는지 아직 정리가 안 됐어. 양쪽이 다투는 중이야.",
   "이건 틀렸다는 뜻이 아니야. 맞을 수도 있어. 모두가 인정하지 않았을 뿐이야.",
   "두 나라가 서로 자기 땅이라고 다투는 섬도 이렇게 불러. 서로 가지려고 겨루는 것까지 들어가."
  ],
+ "explanation_for_kids": null,
  "scene": "축구 경기 골 판정에 상대 팀이 오프사이드라며 항의함",
  "examples": [
   {

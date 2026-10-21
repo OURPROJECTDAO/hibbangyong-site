@@ -11,31 +11,32 @@
  "word": "narrow",
  "slug": "narrow",
  "url": "https://hibbangyong.com/words/narrow/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "좁은 — 이쪽 끝에서 저쪽 끝까지가 짧은",
  "gloss_ko": "좁은",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "복도를 걸어간다고 해봐. 어떤 복도는 친구랑 나란히 걸어도 널널해. 그런데 어떤 복도는 한 명씩 줄서서 지나가야 돼. 몸을 옆으로 틀어야 겨우 지나가는 곳도 있고.",
   "그렇게 이쪽 벽에서 저쪽 벽까지가 짧은 거, 그게 narrow야.",
   "길만 그런 게 아니야. 강도 narrow할 수 있고, 문틈도, 책장 사이 빈칸도 narrow할 수 있어. 폭이 짧으면 다 되는 거야.",
   "짧다고 다 narrow는 아니야. 길이가 짧은 거 말고, 폭이 짧은 거. 긴 복도인데도 narrow할 수 있거든? 끝없이 길지만 옆으로는 좁은 복도. 그게 narrow야."
  ],
+ "explanation_for_kids": null,
  "scene": "친구와 나란히 못 걷고 한 명씩 줄서서 지나가는 복도",
  "examples": [
   {
-   "en": "The path to the river was so narrow that we walked one by one.",
-   "ko": "강으로 가는 길이 너무 좁아서 우리는 한 줄로 걸었어."
+   "en": "The hallway in my new apartment is too narrow for this couch.",
+   "ko": "새 집 복도가 너무 좁아서 이 소파가 안 들어가."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "학교 운동장 옆 인도가 있어. 이 인도는 유모차 세 대가 나란히 지나가도 남을 만큼 옆으로 길어. 이 인도는 'narrow'해?",
+   "question": "아파트 단지 옆에 인도가 있어. 이 인도는 유모차 세 대가 나란히 지나가도 남을 만큼 옆으로 길어. 이 인도는 'narrow'해?",
    "choices": [
     "응, narrow 맞아",
     "아니, narrow 아니야"

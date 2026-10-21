@@ -11,15 +11,21 @@
  "word": "remotely",
  "slug": "remotely",
  "url": "https://hibbangyong.com/words/remotely/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "멀리서, 원격으로 — 그 자리에 직접 가지 않고 떨어진 곳에서",
  "gloss_ko": "멀리서·원격으로",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "아빠가 회사에 앉은 채로 폰을 눌러서 집 에어컨을 켰어.",
+  "몸은 집에 없는데, 떨어진 곳에서 그 일을 해낸 거지.",
+  "집에서 듣는 강의도, 섬에 있는 환자를 화면으로 봐 주는 의사도 다 remotely야.",
+  "저절로 되는 거랑은 달라. 누군가 멀리서 하고 있는 거야."
+ ],
+ "explanation_for_kids": [
   "아빠가 회사에 앉은 채로 폰을 눌러서 집 에어컨을 켰어.",
   "몸은 집에 없는데, 떨어진 곳에서 그 일을 해낸 거지.",
   "집에서 듣는 수업도, 섬에 있는 환자를 화면으로 봐 주는 의사도 다 remotely야.",
@@ -28,8 +34,8 @@
  "scene": "회사에서 휴대폰으로 집 에어컨을 켜는 아빠",
  "examples": [
   {
-   "en": "The doctor checked the patient remotely.",
-   "ko": "그 의사는 환자를 직접 만나지 않고 멀리서 진찰했어."
+   "en": "I work remotely every Friday.",
+   "ko": "나는 금요일마다 회사에 안 가고 집에서 일해."
   }
  ],
  "quiz": [

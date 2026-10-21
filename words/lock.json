@@ -11,29 +11,30 @@
  "word": "lock",
  "slug": "lock",
  "url": "https://hibbangyong.com/words/lock/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "잠그다 — 문이나 서랍을 열쇠로 채워서 마음대로 못 열게 막는 것",
  "gloss_ko": "잠그다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 황금빛 자물쇠처럼, 열쇠로 채워 문을 못 열게 하는 걸 lock이라고 해요.",
   "잠자기 전에 현관문을 lock 하면, 밖에서 아무도 함부로 못 들어와요."
  ],
- "scene": "화면 중앙에 놓인 크고 둥근 황금빛 자물쇠 한 개(잠금장치·열쇠구멍이 또렷한 자물쇠 실물을 그림)",
+ "explanation_for_kids": null,
+ "scene": "화면 중앙에 놓인 크고 둥근 황금빛 자물쇠 한 개",
  "examples": [
   {
-   "en": "Please lock the door before you go to sleep.",
-   "ko": "자기 전에 문 좀 잠가 줘."
+   "en": "Don't forget to lock the door when you leave.",
+   "ko": "나갈 때 문 잠그는 거 잊지 마."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "형이 상자 뚜껑을 들어 올려서 안에 있던 장난감을 꺼냈어. 이게 lock이야?",
+   "question": "룸메이트가 상자 뚜껑을 들어 올려서 안에 있던 머그컵을 꺼냈어. 이게 lock이야?",
    "choices": [
     "응, 맞아",
     "아니, 아니야"
@@ -53,7 +54,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/lock.webp",
-  "alt": "화면 중앙에 놓인 크고 둥근 황금빛 자물쇠 한 개(잠금장치·열쇠구멍이 또렷한 자물쇠 실물을 그림)",
+  "alt": "화면 중앙에 놓인 크고 둥근 황금빛 자물쇠 한 개",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,23 +11,27 @@
  "word": "screw",
  "slug": "screw",
  "url": "https://hibbangyong.com/words/screw/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "나사 — 돌려서 물건을 단단히 고정하는 뾰족한 금속 조각",
  "gloss_ko": "나사",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "겉에 빙글빙글 줄이 파인 이 뾰족한 쇠붙이가 바로 screw예요.",
+  "가구나 문짝이 흔들릴 때 이걸 돌려 끼워 튼튼하게 붙여요."
+ ],
+ "explanation_for_kids": [
   "겉에 빙글빙글 줄이 파인 이 뾰족한 쇠붙이가 바로 screw예요.",
   "가구나 장난감이 흔들릴 때 이걸 돌려 끼워 튼튼하게 붙여요."
  ],
- "scene": "은색 금속 나사 한 개(머리에 십자 홈, 나선형 나사산) — 공구로서의 '나사'를 그림",
+ "scene": "은색 금속 나사 한 개(머리에 십자 홈, 나선형 나사산)",
  "examples": [
   {
-   "en": "Dad used a screw to fix the wobbly chair leg.",
-   "ko": "아빠가 흔들리는 의자 다리를 나사로 고쳤어."
+   "en": "I used a screw to fix my wobbly desk chair.",
+   "ko": "흔들리는 책상 의자를 나사로 고쳤어."
   }
  ],
  "quiz": [
@@ -53,7 +57,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/screw.webp",
-  "alt": "은색 금속 나사 한 개(머리에 십자 홈, 나선형 나사산) — 공구로서의 '나사'를 그림",
+  "alt": "은색 금속 나사 한 개(머리에 십자 홈, 나선형 나사산)",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

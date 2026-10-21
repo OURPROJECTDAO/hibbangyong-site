@@ -11,15 +11,21 @@
  "word": "reverse",
  "slug": "reverse",
  "url": "https://hibbangyong.com/words/reverse/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "가던 방향이나 순서, 정해 놓은 걸 통째로 뒤집어 원래랑 정반대로 만드는 것",
  "gloss_ko": "거꾸로 뒤집기",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "줄 섰는데 입구가 반대로 바뀌어 순서가 통째로 뒤집혔어.",
+  "맨 뒤 사람이 맨 앞, 맨 앞 사람이 맨 뒤가 됐지. 통째로 되뒤집힌 거야.",
+  "차가 앞 대신 뒤로 가는 것도, 하기로 정했던 걸 도로 안 하기로 바꾸는 것도 다 이거야.",
+  "그냥 멈춘 거나 살짝만 바꾼 거랑은 달라. 원래랑 정반대가 돼야 해. 이게 reverse야."
+ ],
+ "explanation_for_kids": [
   "줄을 길게 서 있는데 선생님이 줄을 통째로 돌려세웠어.",
   "맨 뒤에 있던 애가 맨 앞, 맨 앞이던 애가 맨 뒤가 됐지. 통째로 되뒤집힌 거야.",
   "차가 앞 대신 뒤로 가는 것도, 하기로 정했던 걸 도로 안 하기로 바꾸는 것도 다 이거야.",
@@ -28,8 +34,8 @@
  "scene": "줄 선 순서를 통째로 돌려세워 맨 뒤가 맨 앞이 되는 장면",
  "examples": [
   {
-   "en": "Our teacher told us to reverse the line, and I ended up next to my best friend!",
-   "ko": "선생님이 줄을 거꾸로 뒤집으라고 했는데, 그 덕분에 내가 제일 친한 친구 옆에 서게 됐어!"
+   "en": "My boss wants me to reverse the order of the slides.",
+   "ko": "상사가 슬라이드 순서를 거꾸로 뒤집으래."
   }
  ],
  "quiz": [

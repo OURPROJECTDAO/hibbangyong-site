@@ -11,21 +11,27 @@
  "word": "sage",
  "slug": "sage",
  "url": "https://hibbangyong.com/words/sage/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "현자(아주 지혜로운 사람) — 삶을 깊이 볼 줄 알아서, 사람들이 존경하고 믿고 따르는 지혜로운 사람",
  "gloss_ko": "지혜로운 사람",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "자격증을 줄줄이 따는 사람은 똑똑한 거야. 그것만으로 sage가 되진 않아.",
+  "sage는 삶을 깊이 봐서 어떻게 하는 게 옳은지 짚어 주는 사람이야. 그래서 사람들이 존경하면서 찾아가.",
+  "옛날 공자 같은 사람도 sage고, 다들 고민 들고 찾아가는 동네 어른도 sage라고 불러. 나이가 많아야 되는 건 아니야.",
+  "아는 게 많은 거랑은 달라. 판단이 깊은 게 핵심이야."
+ ],
+ "explanation_for_kids": [
   "시험마다 1등 하는 애는 똑똑한 거야. 그것만으로 sage가 되진 않아.",
   "sage는 삶을 깊이 봐서 어떻게 하는 게 옳은지 짚어 주는 사람이야. 그래서 사람들이 존경하면서 찾아가.",
   "옛날 공자 같은 사람도 sage고, 다들 고민 들고 찾아가는 동네 어른도 sage라고 불러. 나이가 많아야 되는 건 아니야.",
   "아는 게 많은 거랑은 달라. 판단이 깊은 게 핵심이야."
  ],
- "scene": "시험마다 1등 하는 똑똑한 학생(sage가 아닌 사례)",
+ "scene": "자격증을 줄줄이 따는 똑똑한 사람(sage가 아닌 사례)",
  "examples": [
   {
    "en": "She was young, but people in the village treated her like a sage.",
@@ -57,7 +63,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/sage.webp",
-  "alt": "시험마다 1등 하는 똑똑한 학생(sage가 아닌 사례)",
+  "alt": "자격증을 줄줄이 따는 똑똑한 사람(sage가 아닌 사례)",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

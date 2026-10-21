@@ -11,18 +11,19 @@
  "word": "log",
  "slug": "log",
  "url": "https://hibbangyong.com/words/log/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "통나무 — 나무를 잘라 만든 굵고 둥근 토막",
  "gloss_ko": "통나무",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 이 갈색 나무 토막이 log예요. 나무를 잘라내면 이렇게 둥근 통나무가 돼요.",
   "캠프파이어에 넣거나 통나무 의자로 앉기도 하는 바로 그 나무 토막이에요."
  ],
+ "explanation_for_kids": null,
  "scene": "잘라낸 통나무 한 토막 — 갈색 나무껍질과 잘린 단면의 나이테가 보이는 모습(log=통나무)",
  "examples": [
   {

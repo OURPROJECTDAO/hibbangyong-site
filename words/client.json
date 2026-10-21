@@ -11,25 +11,26 @@
  "word": "client",
  "slug": "client",
  "url": "https://hibbangyong.com/words/client/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "일을 맡기는 손님 — 변호사나 디자이너처럼 잘하는 사람한테 내 일을 부탁하고 돈 내는 사람.",
  "gloss_ko": "일을 맡기는 손님",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "변호사 사무실에 어떤 아줌마가 찾아왔어. '제 일 좀 맡아 주세요' 하면서 돈을 냈어.",
   "그럼 변호사는 그 아줌마 일을 대신 해 줘.",
   "가게에서 물건 사는 손님이랑은 좀 달라. 물건이 아니라 자기 일을 맡기러 온 거거든.",
   "이렇게 잘하는 사람한테 일을 맡기는 사람, 그게 client야."
  ],
+ "explanation_for_kids": null,
  "scene": "변호사 사무실에 일을 맡기러 와 돈을 낸 사람",
  "examples": [
   {
-   "en": "The designer showed three logos to her client.",
-   "ko": "디자이너가 일 맡긴 손님한테 로고 세 개를 보여 줬어."
+   "en": "I have a meeting with a new client at three.",
+   "ko": "나 세 시에 새 고객이랑 미팅 있어."
   }
  ],
  "quiz": [

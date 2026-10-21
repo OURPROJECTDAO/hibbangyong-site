@@ -11,25 +11,31 @@
  "word": "endure",
  "slug": "endure",
  "url": "https://hibbangyong.com/words/endure/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "견디다 — 힘들거나 아픈 일이 오래 이어져도 투덜대지 않고 참고 지내다",
  "gloss_ko": "견디다",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "헬스장에서 하체 운동을 날마다 하면 다리가 욱신욱신해. 그래도 한 달 내내 투덜대지 않고 꼬박꼬박 운동하러 가는 친구가 있어.",
+  "힘든 게 하루 이틀도 아니고 계속 밀려오는데, 안 무너지고 끝까지 가는 거야.",
+  "사람도 그래. 다리가 아픈데도 끝까지 걷는 것도 그렇고, 슬픈 마음을 오래 안고 지내는 것도 그래.",
+  "한 번 힘 꽉 줘서 막아 내는 거랑은 달라. 오래 오는 걸 그대로 지나 보내는 거, 그게 endure야."
+ ],
+ "explanation_for_kids": [
   "태권도 발차기 연습을 날마다 하면 다리가 욱신욱신하잖아. 그래도 한 달 내내 투덜대지 않고 꼬박꼬박 연습하러 가는 형이 있어.",
   "힘든 게 하루 이틀도 아니고 계속 밀려오는데, 안 무너지고 끝까지 가는 거야.",
   "사람도 그래. 다리가 아픈데도 끝까지 걷는 언니도 그렇고, 슬픈 마음을 오래 안고 지내는 것도 그래.",
   "한 번 힘 꽉 줘서 막아 내는 거랑은 달라. 오래오래 오는 걸 그대로 지나 보내는 거, 그게 endure야."
  ],
- "scene": "비와 눈을 몇 해나 맞고도 그대로 걸려 있는 놀이터의 낡은 나무 그네",
+ "scene": "비와 눈을 몇 해나 맞고도 그대로 서 있는 공원의 낡은 나무 벤치",
  "examples": [
   {
-   "en": "She endured the pain in her leg for weeks without complaining.",
-   "ko": "그 애는 몇 주 동안 다리가 아픈 걸 투덜대지 않고 견뎠어."
+   "en": "I can't endure this back pain much longer.",
+   "ko": "이 허리 통증은 더는 오래 못 견디겠어."
   }
  ],
  "quiz": [
@@ -57,7 +63,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/endure.webp",
-  "alt": "비와 눈을 몇 해나 맞고도 그대로 걸려 있는 놀이터의 낡은 나무 그네",
+  "alt": "비와 눈을 몇 해나 맞고도 그대로 서 있는 공원의 낡은 나무 벤치",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,38 +11,39 @@
  "word": "accommodate",
  "slug": "accommodate",
  "url": "https://hibbangyong.com/words/accommodate/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "(남에게 맞춰) 자리나 조건을 만들어 주다 — 누가 들어오거나 지낼 수 있게 공간이나 형편을 그 사람한테 맞춰 바꿔 주는 것",
  "gloss_ko": "맞춰 받아 주기",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "친구가 갑자기 우리 집에 놀러 온대. 근데 우리 집 의자가 딱 네 개뿐이야.",
   "그래서 옆방에서 의자를 하나 더 가져와, 친구가 앉을 자리를 만들어 줬어.",
   "자리가 없으면 자리를 만들고, 시간이 안 맞으면 시간을 바꿔 주고 — 그 사람한테 딱 맞게 해 주는 거.",
   "그게 accommodate야."
  ],
+ "explanation_for_kids": null,
  "scene": "옆방 의자를 하나 더 가져와 식탁에 친구 앉을 자리를 만든 장면",
  "examples": [
   {
-   "en": "We moved the chairs so the table could accommodate one more friend.",
-   "ko": "우리가 의자를 옮겨서 식탁에 친구 한 명이 더 앉을 자리를 만들었어."
+   "en": "The café moved two tables together to accommodate our group.",
+   "ko": "카페에서 우리 일행이 다 앉을 수 있게 테이블 두 개를 붙여 줬어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "학교에 새 친구가 전학 왔는데 교실 책상이 하나 모자랐어. 선생님이 창고에서 책상을 하나 더 꺼내 와서 그 친구가 앉을 자리를 만들어 줬어. 이게 'accommodate'야?",
+   "question": "팀에 신입이 새로 왔는데 사무실 책상이 하나 모자랐어. 팀장님이 창고에서 책상을 하나 더 꺼내 와서 그 신입이 앉을 자리를 만들어 줬어. 이게 'accommodate'야?",
    "choices": [
     "응, accommodate 맞아",
     "아니, accommodate 아니야"
    ],
    "answer_index": 0,
    "answer": "응, accommodate 맞아",
-   "why": "맞아! 자리가 하나 모자랐는데 선생님이 책상을 하나 더 꺼내 와서 그 친구한테 딱 맞는 자리를 만들어 줬잖아. 없던 자리를 그 친구한테 맞춰 만들어 준 거라서, 바로 그게 accommodate야."
+   "why": "맞아! 자리가 하나 모자랐는데 팀장님이 책상을 하나 더 꺼내 와서 그 신입한테 딱 맞는 자리를 만들어 줬잖아. 없던 자리를 그 신입한테 맞춰 만들어 준 거라서, 바로 그게 accommodate야."
   }
  ],
  "synonyms": [],

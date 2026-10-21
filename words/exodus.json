@@ -11,25 +11,26 @@
  "word": "exodus",
  "slug": "exodus",
  "url": "https://hibbangyong.com/words/exodus/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "대이동 — 많은 사람이 한꺼번에 한 곳을 떠나는 것",
  "gloss_ko": "한꺼번에 떠나는 대이동",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "방학 첫날, 기숙사가 점점 텅 비어 가는 거 본 적 있어?",
   "수백 명이 가방을 끌고 한꺼번에 빠져나가. 그렇게 크게 떠나는 흐름 전체가 exodus야.",
   "핵심은 두 개야. 사람이 많다는 것, 그리고 같은 곳을 떠난다는 것.",
   "위험해서 도망칠 때만 쓰는 말은 아니야. 한두 명이 떠나는 것도, 반대로 우르르 몰려드는 것도 exodus가 아니야."
  ],
+ "explanation_for_kids": null,
  "scene": "방학 첫날 기숙사에서 학생들이 한꺼번에 빠져나가는 장면",
  "examples": [
   {
-   "en": "After the factory closed, there was an exodus of young people from the town.",
-   "ko": "공장이 문을 닫고 나서, 젊은 사람들이 그 동네를 우르르 떠나 버렸어."
+   "en": "There was an exodus from the office at six on Friday.",
+   "ko": "금요일 여섯 시가 되자 사람들이 사무실에서 우르르 빠져나갔어."
   }
  ],
  "quiz": [

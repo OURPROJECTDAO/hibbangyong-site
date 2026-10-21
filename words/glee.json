@@ -11,24 +11,29 @@
  "word": "glee",
  "slug": "glee",
  "url": "https://hibbangyong.com/words/glee/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "신남 — 일이 잘 풀려서, 때로는 남이 잘 안 돼서 겉으로 드러날 만큼 들뜬 기쁨",
  "gloss_ko": "들뜬 신남",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "야근이 취소됐다는 말에 동료들이 소리 지르며 들썩였지. 그렇게 들떠서 신난 마음이 glee야.",
+  "근데 라이벌 팀이 골을 놓쳤을 때 킥킥 웃는 것도 glee야. 남이 잘 안 돼서 신나는 마음도 여기 들어가.",
+  "조용히 흐뭇한 행복이나 '휴' 하는 안도랑은 달라. 참으려 해도 밖으로 새어 나오는 신남이야."
+ ],
+ "explanation_for_kids": [
   "시험이 취소됐다는 말에 반 애들이 소리 지르며 들썩였지. 그렇게 들떠서 신난 마음이 glee야.",
   "근데 라이벌 팀이 골을 놓쳤을 때 킥킥 웃는 것도 glee야. 남이 잘 안 돼서 신나는 마음도 여기 들어가.",
   "조용히 흐뭇한 행복이나 '휴' 하는 안도랑은 달라. 참으려 해도 밖으로 새어 나오는 신남이야."
  ],
- "scene": "시험 취소 소식에 반 전체가 소리 지르며 들썩임",
+ "scene": "야근 취소 소식에 팀 전체가 소리 지르며 들썩임",
  "examples": [
   {
-   "en": "My little brother couldn't hide his glee when I got in trouble with Mom.",
-   "ko": "내가 엄마한테 혼나니까 남동생은 신난 티를 숨기지도 못하더라."
+   "en": "My friend couldn't hide his glee when his favorite team won.",
+   "ko": "친구는 좋아하는 팀이 이기니까 신난 티를 숨기지도 못했어."
   }
  ],
  "quiz": [
@@ -60,7 +65,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/glee.webp",
-  "alt": "시험 취소 소식에 반 전체가 소리 지르며 들썩임",
+  "alt": "야근 취소 소식에 팀 전체가 소리 지르며 들썩임",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

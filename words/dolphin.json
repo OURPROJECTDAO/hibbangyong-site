@@ -11,23 +11,24 @@
  "word": "dolphin",
  "slug": "dolphin",
  "url": "https://hibbangyong.com/words/dolphin/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "돌고래 — 바다에 살며 물 위로 뛰어오르는 똑똑한 회색 동물",
  "gloss_ko": "돌고래",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "바닷속에서 헤엄치다가 물 위로 힘차게 뛰어오르는 회색 동물이 dolphin이에요.",
   "수족관에 가면 dolphin이 헤엄치거나 점프하는 모습을 볼 수 있어요."
  ],
+ "explanation_for_kids": null,
  "scene": "맑은 바닷물 속에서 물 위로 점프하며 활처럼 몸을 휜 회색 돌고래 한 마리(명사 dolphin=돌고래 실물)",
  "examples": [
   {
-   "en": "The dolphin jumped high out of the water.",
-   "ko": "돌고래가 물 밖으로 높이 뛰어올랐어."
+   "en": "We saw a dolphin from the boat on our trip.",
+   "ko": "여행 가서 배 위에서 돌고래를 봤어."
   }
  ],
  "quiz": [

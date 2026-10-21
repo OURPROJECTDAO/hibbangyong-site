@@ -11,20 +11,21 @@
  "word": "extent",
  "slug": "extent",
  "url": "https://hibbangyong.com/words/extent/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "어디까지·얼마만큼 — 어떤 게 얼마나 멀리·넓게 닿았는지 그 크기나 정도",
  "gloss_ko": "어디까지, 얼마만큼",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "컵을 쓰러뜨려서 물이 주르륵 퍼졌어. 얼마나 넓게 퍼졌나 봐봐.",
   "손바닥만큼? 아니면 책상 끝까지? 그 '어디까지, 얼마만큼'이 바로 그거야.",
   "물만 그런 게 아냐. '네 말이 어디까지 맞아' 할 때도, 그 '어디까지'가 이거거든.",
   "이게 extent야."
  ],
+ "explanation_for_kids": null,
  "scene": "컵을 쓰러뜨려 물이 얼마나 넓게 퍼졌나 살펴봄",
  "examples": [
   {

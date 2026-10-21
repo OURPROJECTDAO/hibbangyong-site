@@ -11,15 +11,21 @@
  "word": "reject",
  "slug": "reject",
  "url": "https://hibbangyong.com/words/reject/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "안 받아들이다 — 누가 주거나 내민 걸 싫다고 도로 밀어내다.",
  "gloss_ko": "안 받아들이다",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "자판기에 구겨진 돈 넣으면, 드르륵— 도로 뱉어내잖아? 안 받아 주는 거야.",
+  "누가 뭘 줘도 \"싫어\" 하고 도로 밀어내는 거.",
+  "커피도, 같이 밥 먹자는 말도, 내 생각도 이렇게 튕겨낼 수 있어.",
+  "그냥 못 보고 지나친 거랑은 달라 — 봤는데도 \"안 받아\" 하는 거, 그게 reject야."
+ ],
+ "explanation_for_kids": [
   "자판기에 구겨진 돈 넣으면, 드르륵— 도로 뱉어내잖아? 안 받아 주는 거야.",
   "누가 뭘 줘도 \"싫어\" 하고 도로 밀어내는 거.",
   "사탕도, 같이 놀자는 말도, 내 생각도 이렇게 튕겨낼 수 있어.",
@@ -28,14 +34,14 @@
  "scene": "자판기가 구겨진 돈을 드르륵 도로 뱉어냄",
  "examples": [
   {
-   "en": "The teacher rejected my idea, so we had to think of a new plan.",
-   "ko": "선생님이 내 생각을 안 받아 줘서, 우리는 새 계획을 짜야 했어."
+   "en": "My boss might reject my idea, so I need a backup plan.",
+   "ko": "팀장님이 내 생각을 안 받아 줄 수도 있어서 다른 계획이 필요해."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "옆집 아주머니가 갓 구운 빵을 건네자, 아이가 두 손으로 냉큼 받아서 품에 꼭 안았어. 이게 'reject'야?",
+   "question": "옆집 아주머니가 갓 구운 빵을 건네자, 두 손으로 냉큼 받아서 품에 꼭 안았어. 이게 'reject'야?",
    "choices": [
     "응, reject 맞아",
     "아니, reject 아니야"

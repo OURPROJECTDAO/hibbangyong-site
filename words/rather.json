@@ -11,20 +11,21 @@
  "word": "rather",
  "slug": "rather",
  "url": "https://hibbangyong.com/words/rather/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "차라리·오히려 — 이거 말고 저게 더 낫다(맞다) 싶어서 저쪽으로 마음이 기우는 거.",
  "gloss_ko": "차라리·오히려",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "친구가 '나가 놀래, 집에 있을래?' 하고 물어봐.",
   "넌 오늘 좀 피곤하거든? 그래서 '나가느니 차라리 집에 있을래' 그래.",
   "이거 말고 저게 더 낫다 싶어서, 저쪽으로 마음이 쏙 기운 거야.",
   "그게 rather야."
  ],
+ "explanation_for_kids": null,
  "scene": "나가 놀기와 집에 있기 중 집으로 기우는 상황",
  "examples": [
   {
@@ -35,7 +36,7 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "엄마가 컵 두 개를 들고 '우유 줄까?' 하고 물었어. 민수는 '우유 말고 주스 주세요' 했어. 이게 'rather'야?",
+   "question": "친구가 컵 두 개를 들고 '우유 줄까?' 하고 물었어. 민수는 '우유 말고 주스 줘' 했어. 이게 'rather'야?",
    "choices": [
     "응, rather 맞아",
     "아니, rather 아니야"

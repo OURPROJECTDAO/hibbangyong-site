@@ -11,15 +11,21 @@
  "word": "boost",
  "slug": "boost",
  "url": "https://hibbangyong.com/words/boost/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "이미 있던 걸 더 세게·더 많이 되게 확 밀어 올리다",
  "gloss_ko": "더 세게 확 밀어 올리다",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "그네가 벌써 앞뒤로 움직이고 있어. 거기서 뒤를 한 번 딱 밀면? 훨씬 더 높이 올라가지.",
+  "없던 걸 새로 만든 게 아니야. 예쁘게 다듬은 것도 아니고. 있던 걸 더 위로 밀어 올린 거야.",
+  "가게 손님 수도, 몸에 남은 힘도, 친구들 기분도 이렇게 확 올라갈 수 있어. 보통은 더 잘되라고 밀어 올릴 때 써.",
+  "그게 boost야."
+ ],
+ "explanation_for_kids": [
   "그네가 벌써 흔들흔들 가고 있어. 거기서 뒤를 한 번 딱 밀면? 훨씬 더 높이 올라가지.",
   "없던 걸 새로 만든 게 아니야. 예쁘게 다듬은 것도 아니고. 있던 걸 더 위로 밀어 올린 거야.",
   "가게 손님 수도, 몸에 남은 힘도, 반 친구들 기분도 이렇게 확 올라갈 수 있어. 보통은 더 잘되라고 밀어 올릴 때 써.",
@@ -28,14 +34,14 @@
  "scene": "이미 흔들리던 그네를 뒤에서 밀어 더 높이 올리기",
  "examples": [
   {
-   "en": "The new slide boosted the number of kids in our park.",
-   "ko": "새 미끄럼틀 덕분에 우리 공원에 오는 아이 수가 확 늘었어."
+   "en": "A short walk at lunch can boost your energy.",
+   "ko": "점심에 잠깐 걷기만 해도 기운이 확 올라가."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "수도꼭지에서 물이 콸콸 나오고 있었어. 누나가 손잡이를 돌려서 물줄기를 아주 가늘게 만들었어. 이게 'boost'야?",
+   "question": "수도꼭지에서 물이 콸콸 나오고 있었어. 룸메이트가 손잡이를 돌려서 물줄기를 아주 가늘게 만들었어. 이게 'boost'야?",
    "choices": [
     "응, boost 맞아",
     "아니, boost 아니야"

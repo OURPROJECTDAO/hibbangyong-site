@@ -11,23 +11,24 @@
  "word": "lid",
  "slug": "lid",
  "url": "https://hibbangyong.com/words/lid/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "뚜껑 — 병이나 그릇을 덮어 막는 부분",
  "gloss_ko": "뚜껑",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림에서 유리병 위에 살짝 들려 있는 동그란 금속 조각이 lid예요.",
   "물병이나 잼 병을 열고 닫을 때 손으로 돌리거나 여는 바로 그 부분이에요."
  ],
+ "explanation_for_kids": null,
  "scene": "동그란 유리병 위에서 살짝 들려 있는 반짝이는 금속 뚜껑(꼭지 손잡이) — '병을 덮는 뚜껑'의 의미",
  "examples": [
   {
-   "en": "I can't open the lid of this jar.",
-   "ko": "이 병 뚜껑을 못 열겠어."
+   "en": "I can't get the lid off this pasta sauce jar.",
+   "ko": "이 파스타 소스 병 뚜껑이 안 열려."
   }
  ],
  "quiz": [

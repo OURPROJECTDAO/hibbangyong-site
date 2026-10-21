@@ -11,33 +11,34 @@
  "word": "remind",
  "slug": "remind",
  "url": "https://hibbangyong.com/words/remind/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "생각나게 하다 — 이미 알던 걸 누가/무언가가 내 머릿속에 다시 떠오르게 해 주는 것",
  "gloss_ko": "생각나게 하다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "아침에 문 앞에 우산이 딱 놓여 있어. 그거 보는 순간 '아, 오늘 비 온댔지!' 하고 생각이 확 돌아오지.",
   "새로 알려준 게 아니야. 원래 알던 건데 잊고 있었거나 그때 생각 안 하던 걸 다시 떠올려 준 거거든?",
   "누가 말로 해 줘도 되고, 우산처럼 그냥 눈에 띄기만 해도 돼. 친구 웃는 얼굴이 우리 형이랑 닮아서 형 생각이 나는 것도 똑같아.",
   "처음 듣는 소식을 알려주는 거랑은 달라. 그게 remind야."
  ],
+ "explanation_for_kids": null,
  "scene": "아침 문 앞에 놓인 우산을 보고 비 소식이 떠오름",
  "examples": [
   {
-   "en": "The umbrella by the door reminded me that it would rain today.",
-   "ko": "문 옆의 우산을 보니 오늘 비 온다던 게 생각났어."
+   "en": "My phone will remind me about the meeting at ten.",
+   "ko": "10시 회의는 휴대폰이 다시 알려 줄 거야."
   }
  ],
  "quiz": [
   {
    "type": "choice",
-   "question": "네 아이가 각자 겪은 일을 말했어. 이 중에서 'remind'가 일어난 아이는 누구일까?",
+   "question": "네 사람이 각자 겪은 일을 말했어. 이 중에서 'remind'가 일어난 사람은 누구일까?",
    "choices": [
-    "선생님한테서 내일 소풍을 간다는 소식을 처음 듣고 깜짝 놀랐어.",
+    "팀장님한테서 내일 출장을 간다는 소식을 처음 듣고 깜짝 놀랐어.",
     "빵 냄새를 맡자마자 시골 할머니네 부엌이 머릿속에 확 떠올랐어.",
     "신나게 노느라 우산을 챙겨야 한다는 걸 까맣게 잊어버렸어.",
     "어제 읽은 책 이야기를 혼자 곰곰이 떠올려서 공책에 적었어."

@@ -11,21 +11,27 @@
  "word": "impose",
  "slug": "impose",
  "url": "https://hibbangyong.com/words/impose/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "(상대 뜻은 안 묻고) 위에서 얹어 따르게 하다 — 규칙·벌·부담을 떠안기다",
  "gloss_ko": "위에서 얹어 따르게 하다",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "팀장님이 딱 정해. '오늘부터 회의 지각 금지.' 우리한테 물어본 적? 없어.",
+  "싫든 좋든 그 규칙은 이제 우리 위에 얹혀 있어. 위에서 얹어 버렸으니까.",
+  "무서운 사람만 얹는 건 아니야. 나도 나한테 얹어. '과제 끝나야 게임' 이렇게. 좋은 걸 얹어도 얹는 건 얹는 거거든.",
+  "부탁이랑은 달라. 부탁은 싫다고 할 수 있잖아. impose는 싫어도 따라야 해."
+ ],
+ "explanation_for_kids": [
   "선생님이 딱 정해. '오늘부터 급식 남기기 금지.' 우리한테 물어본 적? 없어.",
   "싫든 좋든 그 규칙은 이제 우리 위에 얹혀 있어. 위에서 얹어 버렸으니까.",
   "무서운 사람만 얹는 건 아니야. 나도 나한테 얹어. '숙제 끝나야 게임' 이렇게. 좋은 걸 얹어도 얹는 건 얹는 거거든.",
   "부탁이랑은 달라. 부탁은 싫다고 할 수 있잖아. impose는 싫어도 따라야 해."
  ],
- "scene": "선생님이 급식 남기기 금지 규칙을 물어보지 않고 정하는 교실",
+ "scene": "팀장님이 회의 지각 금지 규칙을 물어보지 않고 정하는 사무실",
  "examples": [
   {
    "en": "I imposed a new rule on myself: no games before homework.",
@@ -69,7 +75,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/impose.webp",
-  "alt": "선생님이 급식 남기기 금지 규칙을 물어보지 않고 정하는 교실",
+  "alt": "팀장님이 회의 지각 금지 규칙을 물어보지 않고 정하는 사무실",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

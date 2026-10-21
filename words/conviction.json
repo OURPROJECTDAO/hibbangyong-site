@@ -11,20 +11,21 @@
  "word": "conviction",
  "slug": "conviction",
  "url": "https://hibbangyong.com/words/conviction/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "유죄 판결 — 재판에서 '이 사람이 죄를 지은 게 맞다'고 정한 결정 (굳은 믿음이라는 뜻도 있어)",
  "gloss_ko": "유죄 판결",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "경찰에 잡혀갔거나 누가 '저 사람이 했어'라고 고소했다고 끝난 게 아니야. 그건 아직 의심받는 단계거든.",
   "재판에서 법원이 '이 사람, 죄 지은 거 맞다'고 딱 정하는 순간이 따로 있어. 그 결정이 conviction이야.",
   "큰 범죄든 과속 같은 작은 잘못이든, 죄가 있다고 정해지면 다 conviction이야. 벌을 얼마나 줄지는 그다음에 따로 정해.",
   "'죄 없다'로 끝나면 conviction이 아니야. 참고로 '이게 맞다'고 마음속에 굳게 정한 믿음도 같은 단어로 불러."
  ],
+ "explanation_for_kids": null,
  "scene": "재판에서 법원이 유죄를 정하는 순간(체포·고소와 다른 단계)",
  "examples": [
   {

@@ -11,20 +11,21 @@
  "word": "capital",
  "slug": "capital",
  "url": "https://hibbangyong.com/words/capital/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "수도 — 나라 일을 정하는 곳이 모여 있는 도시",
  "gloss_ko": "나라의 수도",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "미국에서 제일 크고 북적이는 도시는 뉴욕이야. 근데 미국 capital은 뉴욕이 아니야.",
   "나라 일을 정하는 사람들이 죄다 워싱턴에 모여 있거든. 그래서 워싱턴이 capital이야.",
   "도시가 커서 capital이 되는 게 아니야. 나라 일을 정하는 곳이 거기 있어서 capital이 되는 거야.",
   "나라마다 하나씩, 큰 지역도 하나씩. 일본은 도쿄, 프랑스는 파리. 그게 capital이야."
  ],
+ "explanation_for_kids": null,
  "scene": "미국에서 제일 큰 도시 뉴욕과 나라 일을 정하는 워싱턴의 대비",
  "examples": [
   {

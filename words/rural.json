@@ -11,25 +11,26 @@
  "word": "rural",
  "slug": "rural",
  "url": "https://hibbangyong.com/words/rural/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "시골의 — 큰 도시에서 멀리 떨어져, 집은 드물고 들판이나 산 같은 넓은 땅이 펼쳐진 곳의.",
  "gloss_ko": "시골의",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "차 타고 도시에서 아주 멀리 나가 봐. 높은 건물은 하나둘 사라지고 넓은 들판이랑 낮은 집 몇 채만 보여.",
   "사람도 별로 없고 버스도 가끔 오지.",
   "꼭 농사짓는 곳만 그런 게 아니라, 산속 작은 마을도 도시에서 멀면 다 여기 들어가.",
   "복잡한 도시랑은 딴판인, 이 조용한 시골이 rural이야."
  ],
+ "explanation_for_kids": null,
  "scene": "차 타고 도시에서 멀리 나가 높은 건물이 사라지고 들판·낮은 집만 보이는 장면",
  "examples": [
   {
-   "en": "My grandma lives in a small, quiet rural town with wide open fields.",
-   "ko": "할머니는 넓은 들판이 펼쳐진 작고 조용한 시골 마을에 사셔."
+   "en": "After graduation, my friend got a job at a rural hospital.",
+   "ko": "졸업하고 친구가 시골 병원에 취직했어."
   }
  ],
  "quiz": [

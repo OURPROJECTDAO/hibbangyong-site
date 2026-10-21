@@ -11,20 +11,21 @@
  "word": "rite",
  "slug": "rite",
  "url": "https://hibbangyong.com/words/rite/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "의식 — 옛날부터 정해진 순서대로 치르는 행사(종교·전통 행사에서 많이 써)",
  "gloss_ko": "전통 의식",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "장례식에서 절하는 순서, 성년식에서 어른께 잔 받는 순서. 누가 치러도 똑같이 가.",
   "이렇게 옛날부터 정해진 대로 치르는 행사가 rite야.",
   "종교 행사에 많이 쓰지만, 전통 행사나 어른이 되는 날처럼 인생의 큰 문턱에도 써.",
   "그냥 신나게 노는 파티나, 나 혼자 매일 하는 습관이랑은 달라."
  ],
+ "explanation_for_kids": null,
  "scene": "장례식에서 정해진 순서대로 절하기",
  "examples": [
   {

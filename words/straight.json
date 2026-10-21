@@ -11,25 +11,26 @@
  "word": "straight",
  "slug": "straight",
  "url": "https://hibbangyong.com/words/straight/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "굽지 않고 곧은",
  "gloss_ko": "쭉 곧은",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "자로 쭉 그은 선처럼, 휘는 데가 하나도 없는 거야.",
   "구부러지지도 꺾이지도 않고, 한 방향으로 곧게 가.",
   "선이든 길이든, 머리카락이든, 펴고 앉은 등이든 — 휘지만 않으면 다 그래.",
   "비스듬해도, 눕혀 놔도 상관없어. 구불구불 휜 거랑만 다르면 돼. 이게 straight야."
  ],
+ "explanation_for_kids": null,
  "scene": "각도·방향과 상관없이, 휘지 않고 곧은 것",
  "examples": [
   {
-   "en": "Look, that line I drew is so straight!",
-   "ko": "봐, 내가 그은 저 선 정말 똑바르지!"
+   "en": "The road to the beach is long and straight.",
+   "ko": "바닷가로 가는 길은 길고 곧게 쭉 뻗어 있어."
   }
  ],
  "quiz": [

@@ -11,25 +11,26 @@
  "word": "potential",
  "slug": "potential",
  "url": "https://hibbangyong.com/words/potential/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "지금은 아니지만 앞으로 그렇게 될 수 있는 힘.",
  "gloss_ko": "앞으로 될 수 있는 힘",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "풍선 봐봐. 지금은 쪼그맣지?",
   "근데 더 불면 엄청 커질 수도 있고, 빵 터질 수도 있어.",
   "지금 모습 말고, 앞으로 될 수 있는 그게 풍선 속에 숨어 있는 거거든?",
   "좋게든 나쁘게든 말이야. 이게 potential이야."
  ],
+ "explanation_for_kids": null,
  "scene": "풍선—지금은 작지만 더 불면 커질 수도, 터질 수도 있는 '앞으로 될 수 있는 모습'.",
  "examples": [
   {
-   "en": "This balloon has the potential to get huge — or to pop!",
-   "ko": "이 풍선은 엄청 커질 수도 있고 — 펑 터질 수도 있어!"
+   "en": "My manager says the new intern has real potential.",
+   "ko": "팀장님이 이번 새 인턴은 앞으로 크게 될 가능성이 있대."
   }
  ],
  "quiz": [

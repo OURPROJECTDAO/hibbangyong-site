@@ -11,15 +11,21 @@
  "word": "protein",
  "slug": "protein",
  "url": "https://hibbangyong.com/words/protein/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "우리 몸을 만들고 자라게 해 주는, 음식 속에 든 영양소(단백질)",
  "gloss_ko": "단백질",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "밥 먹을 때 계란이랑 고기, 콩 있지?",
+  "그 안에는 우리 몸을 만들어 주는 재료가 숨어 있거든?",
+  "이 재료가 살이랑 근육을 새로 짓고, 다친 데도 메워 줘. 머리카락도 이걸로 만들어져!",
+  "그게 'protein'이야."
+ ],
+ "explanation_for_kids": [
   "밥 먹을 때 계란이랑 고기, 콩 있지?",
   "그 안에는 우리 몸을 쑥쑥 만들어 주는 재료가 숨어 있거든?",
   "이 재료가 살이랑 근육을 새로 짓고, 다친 데도 메워 줘. 머리카락도 이걸로 만들어져!",
@@ -28,21 +34,21 @@
  "scene": "계란·고기·콩 속에 숨어 몸을 짓는 힘.",
  "examples": [
   {
-   "en": "Eggs, beans, and milk all have protein.",
-   "ko": "달걀, 콩, 우유엔 모두 단백질이 들어 있어."
+   "en": "I eat eggs after the gym for more protein.",
+   "ko": "단백질 더 챙기려고 헬스 끝나고 달걀 먹어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "엄마가 고등어를 구워 줬어. 생선 살 속에 든 영양소가 'protein'이야?",
+   "question": "식당에서 고등어구이를 시켰어. 생선 살 속에 든 영양소가 'protein'이야?",
    "choices": [
     "응, protein이야",
     "아니, protein 아니야"
    ],
    "answer_index": 0,
    "answer": "응, protein이야",
-   "why": "맞아! 생선 살도 고기랑 똑같이 우리 몸을 쑥쑥 만들어 주는 힘이 들어 있거든. 그래서 고등어 살 속 영양소가 바로 protein이 맞아."
+   "why": "맞아! 생선 살에도 고기처럼 우리 몸을 만드는 영양소가 들어 있거든. 그래서 고등어 살 속 영양소가 바로 protein이 맞아."
   }
  ],
  "synonyms": [],

@@ -11,38 +11,44 @@
  "word": "conscientious",
  "slug": "conscientious",
  "url": "https://hibbangyong.com/words/conscientious/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "성실한 — 맡은 일을 대충 넘기지 않고 끝까지 제대로 하려는",
  "gloss_ko": "성실한",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "마감 청소인데 점장님이 먼저 가셨어. 아무도 안 봐.",
+  "그런데도 구석까지 다 쓸고 창문까지 닫고 가는 사람이 있어.",
+  "누가 보든 말든, 맡은 일이니까 제대로 하려는 거. 그게 conscientious야.",
+  "머리가 좋다는 뜻도, 좋아하는 일에 푹 빠진다는 뜻도 아니야. 핵심은 맡은 일에 대한 책임감이야."
+ ],
+ "explanation_for_kids": [
   "청소 당번인데 선생님이 먼저 가셨어. 아무도 안 봐.",
   "그런데도 구석까지 다 쓸고, 창문까지 닫고 가는 애가 있어.",
   "누가 보든 말든, 맡은 일이니까 제대로 하려는 거. 그게 conscientious야.",
   "머리가 좋다는 뜻도, 좋아하는 일에 푹 빠진다는 뜻도 아니야. 핵심은 맡은 일에 대한 책임감이야."
  ],
- "scene": "선생님이 없는데도 청소 당번 일을 끝까지 다 하는 학생",
+ "scene": "점장님이 없는데도 마감 청소를 끝까지 다 하는 아르바이트생",
  "examples": [
   {
-   "en": "Our club needs a conscientious person to keep the money.",
-   "ko": "우리 동아리는 돈 관리를 맡길, 맡은 일 하나는 확실하게 챙기는 성실한 사람이 필요해."
+   "en": "My boss says I'm conscientious because I always check my work twice.",
+   "ko": "나는 항상 일을 두 번씩 확인해서 상사가 나보고 성실하대."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "민지는 이번 주 가정통신문 나눠주기 담당이야. 결석한 친구 자리에 통신문을 따로 챙겨 두고, 다음 날 그 친구한테 직접 건네줬어. 민지는 'conscientious'한 거야?",
+   "question": "민지는 이번 주 우편물 나눠주기 담당이야. 외근 간 동료 자리에 우편물을 따로 챙겨 두고, 다음 날 그 동료한테 직접 건네줬어. 민지는 'conscientious'한 거야?",
    "choices": [
     "응, conscientious 맞아",
     "아니, conscientious 아니야"
    ],
    "answer_index": 0,
    "answer": "응, conscientious 맞아",
-   "why": "맞아! 가정통신문 나눠주기가 민지가 맡은 일이잖아. 결석한 친구 몫까지 따로 챙겨 뒀다가 다음 날 직접 건네줬으니까, 맡은 일을 빠진 사람 하나 없이 끝까지 해낸 거야. 그게 바로 conscientious야."
+   "why": "맞아! 우편물 나눠주기가 민지가 맡은 일이잖아. 외근 간 동료 몫까지 따로 챙겨 뒀다가 다음 날 직접 건네줬으니까, 맡은 일을 빠진 사람 하나 없이 끝까지 해낸 거야. 그게 바로 conscientious야."
   }
  ],
  "synonyms": [],
@@ -57,7 +63,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/conscientious.webp",
-  "alt": "선생님이 없는데도 청소 당번 일을 끝까지 다 하는 학생",
+  "alt": "점장님이 없는데도 마감 청소를 끝까지 다 하는 아르바이트생",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

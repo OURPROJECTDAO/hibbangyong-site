@@ -11,25 +11,26 @@
  "word": "naval",
  "slug": "naval",
  "url": "https://hibbangyong.com/words/naval/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "해군의 — 바다를 지키는 군대(해군)에 딸린, 해군이 쓰는",
  "gloss_ko": "해군의",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "항구에 회색 배들이 줄지어 서 있다고 해 봐. 대포도 달려 있고 군인들이 타고 있어.",
   "바다를 지키는 군대, 해군 배야. 이렇게 해군에 딸린 거면 다 naval이야.",
   "해군 기지, 해군 장교, 옛날 바다 위에서 벌어진 전투도 다 여기 들어가.",
   "대신 그냥 바다에 있다고 다 naval은 아니야. 고깃배나 유람선은 바다 위에 떠 있어도 해군이랑 상관없잖아."
  ],
+ "explanation_for_kids": null,
  "scene": "항구에 줄지어 선 회색 군함",
  "examples": [
   {
-   "en": "My uncle works at a naval base near Busan.",
-   "ko": "우리 삼촌은 부산 근처 해군 기지에서 일해."
+   "en": "My friend is serving at a naval base in Jinhae.",
+   "ko": "내 친구는 진해 해군 기지에서 복무하고 있어."
   }
  ],
  "quiz": [

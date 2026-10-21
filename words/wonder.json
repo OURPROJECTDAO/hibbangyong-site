@@ -11,25 +11,26 @@
  "word": "wonder",
  "slug": "wonder",
  "url": "https://hibbangyong.com/words/wonder/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "왜 그럴까, 어떻게 저럴까 하고 속으로 궁금해하는 것 — 크게는 너무 신기해 가슴이 꽉 차는 마음까지",
  "gloss_ko": "왜 그럴까 궁금해하다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "밤에 창밖에서 후두둑 소리가 났어. 뭐지? 비 오나? 속으로 물음표가 톡 떠오르지.",
   "답을 바로 못 찾아도 괜찮아. 그렇게 마음이 그쪽으로 가서 어떻게 저럴까 하고 물어보는 것, 그게 이 말이야.",
   "물음표가 엄청 커질 때도 있어. 별이 쫙 깔린 밤하늘 앞에선 말도 안 나오고 가슴이 꽉 차거든. 그럼 그 벅찬 마음도, 그렇게 만든 밤하늘도 같은 말로 불러.",
   "누가 툭 쳐서 꽥 소리 지르는 거랑은 달라. 그건 물음표 없이 놀랐다 끝이거든. 이게 wonder야."
  ],
+ "explanation_for_kids": null,
  "scene": "밤에 창밖에서 후두둑 소리가 나 속으로 물음표가 떠오르는 순간",
  "examples": [
   {
-   "en": "I wonder why the moon keeps following me when I walk.",
-   "ko": "내가 걸을 때마다 달이 왜 자꾸 따라오는지 궁금해."
+   "en": "I wonder why the moon seems to follow me on my walk home.",
+   "ko": "집에 걸어가는 길에 달이 왜 자꾸 나를 따라오는 것 같은지 궁금해."
   }
  ],
  "quiz": [

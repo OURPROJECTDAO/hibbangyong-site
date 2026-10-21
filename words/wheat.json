@@ -11,25 +11,26 @@
  "word": "wheat",
  "slug": "wheat",
  "url": "https://hibbangyong.com/words/wheat/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "빵이랑 국수 만드는 누런 알곡, 밀",
  "gloss_ko": "누런 이삭 밀",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "밭에 누런 이삭이 바람에 살랑살랑 흔들려.",
   "그 이삭을 탁탁 털어서 빻으면 하얀 가루가 돼.",
   "그 가루로 빵도 굽고 국수도 쭉쭉 뽑거든?",
   "이게 wheat야."
  ],
+ "explanation_for_kids": null,
  "scene": "밭의 누런 이삭 → 털어서 빻으면 하얀 가루 → 빵·국수",
  "examples": [
   {
-   "en": "The farmer planted wheat in the big golden field.",
-   "ko": "농부가 넓은 황금빛 들판에 밀을 심었어."
+   "en": "This bread is made with whole wheat from a local farm.",
+   "ko": "이 빵은 근처 농장에서 키운 통밀로 만들었어."
   }
  ],
  "quiz": [

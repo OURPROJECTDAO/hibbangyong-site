@@ -11,31 +11,32 @@
  "word": "quarry",
  "slug": "quarry",
  "url": "https://hibbangyong.com/words/quarry/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "채석장(돌 캐는 곳) — 건물이나 길을 만들 돌·모래를 땅 겉에서 캐내는 곳",
  "gloss_ko": "돌 캐는 곳",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "산 한쪽이 칼로 썬 것처럼 싹둑 깎여 있는 거 본 적 있어?",
   "거기가 돌이나 모래를 땅에서 캐내는 곳이야. 그게 quarry, 채석장.",
   "위는 하늘이 뻥 뚫려 있고, 겉에서부터 깎아 들어가.",
   "굴을 파고 땅속으로 들어가서 석탄이나 금을 캐는 광산이랑은 달라."
  ],
+ "explanation_for_kids": null,
  "scene": "한쪽이 깎여 나간 산의 모습",
  "examples": [
   {
-   "en": "There is an old quarry near my grandma's village, and now it is full of water.",
-   "ko": "우리 할머니 동네 근처에 옛날 채석장이 하나 있는데, 지금은 물이 꽉 차 있어."
+   "en": "Trucks full of rocks from the quarry drive past my apartment every morning.",
+   "ko": "매일 아침 채석장에서 나온 돌 실은 트럭들이 우리 아파트 앞을 지나가."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "현장학습으로 간 곳에서 사람들이 커다란 톱 기계로 땅 겉에 드러난 화강암을 네모난 덩어리로 잘라 내고 있었어. 위로는 하늘이 훤히 보였고, 잘라 낸 돌은 건물을 지을 때 쓴대. 이런 곳이 'quarry'야?",
+   "question": "여행 중에 들른 곳에서 사람들이 커다란 톱 기계로 땅 겉에 드러난 화강암을 네모난 덩어리로 잘라 내고 있었어. 위로는 하늘이 훤히 보였고, 잘라 낸 돌은 건물을 지을 때 쓴대. 이런 곳이 'quarry'야?",
    "choices": [
     "응, quarry 맞아",
     "아니, quarry 아니야"

@@ -11,23 +11,24 @@
  "word": "thread",
  "slug": "thread",
  "url": "https://hibbangyong.com/words/thread/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "실 — 바늘에 꿰어 옷을 꿰매거나 만들 때 쓰는 가늘고 긴 줄",
  "gloss_ko": "실",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 실패에 감긴 색색의 가는 줄이 thread예요. 바늘귀에 쏙 꿰어서 옷을 꿰맬 때 써요.",
   "단추가 떨어졌을 때 어른이 바늘에 이걸 꿰어 다시 달아 주는 걸 본 적 있을 거예요."
  ],
+ "explanation_for_kids": null,
  "scene": "나무 실패에 곱게 감긴 색색의 실과, 실이 바늘귀에 꿰어진 바느질 바늘 한 개 — 명사 '실(thread)'을 그림(꿰는 동작 살짝 암시)",
  "examples": [
   {
-   "en": "She put the thread through the needle to sew on the button.",
-   "ko": "단추를 달려고 바늘에 실을 꿰었어."
+   "en": "I need a needle and thread to fix my shirt button.",
+   "ko": "셔츠 단추를 달려면 바늘이랑 실이 있어야 해."
   }
  ],
  "quiz": [

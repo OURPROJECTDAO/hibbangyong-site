@@ -11,20 +11,21 @@
  "word": "linguistic",
  "slug": "linguistic",
  "url": "https://hibbangyong.com/words/linguistic/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "말에 얽힌 — 어떤 일이나 차이가 사람들이 쓰는 말 쪽 일이라는 뜻",
  "gloss_ko": "말에 얽힌",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "멀리 놀러 가서 길을 물었는데 아저씨가 못 알아들은 적 있어? 아저씨가 무뚝뚝한 것도, 네가 잘못한 것도 아니야. 그냥 서로 쓰는 말이 달랐던 거지.",
   "이럴 때 \"이건 말 쪽 일이야\" 하고 짚어 주는 말이 있어.",
   "말 잘한다는 칭찬이 아니야. 서로 말이 다른 것도, 새 말을 배우는 것도, 말이 헛나온 실수도 전부 여기 들어가거든?",
   "몸이 아파서 생긴 일, 마음이 떨려서 생긴 일 — 그런 건 아니고. 오직 말이랑 얽혀 있으면, 그게 linguistic이야."
  ],
+ "explanation_for_kids": null,
  "scene": "멀리 놀러 간 곳에서 길을 물었지만 쓰는 말이 달라 못 알아들은 일",
  "examples": [
   {

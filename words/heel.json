@@ -11,23 +11,24 @@
  "word": "heel",
  "slug": "heel",
  "url": "https://hibbangyong.com/words/heel/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "발뒤꿈치 — 발의 맨 뒤, 바닥에 닿는 둥근 부분",
  "gloss_ko": "발뒤꿈치",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림에서 발의 맨 뒤에 볼록 튀어나온 둥근 부분이 바로 heel이에요.",
   "걸을 때 바닥에 콩콩 먼저 닿는 곳이고, 양말에 구멍이 잘 나는 자리이기도 해요."
  ],
+ "explanation_for_kids": null,
  "scene": "옆-뒤에서 본 통통한 맨발 한 짝, 둥근 발뒤꿈치(heel)를 화면 중앙에 크고 도드라지게 그린 그림",
  "examples": [
   {
-   "en": "I have a hole in the heel of my sock.",
-   "ko": "내 양말 뒤꿈치에 구멍이 났어."
+   "en": "My new work shoes hurt my heel.",
+   "ko": "새로 산 출근용 신발 때문에 발뒤꿈치가 아파."
   }
  ],
  "quiz": [

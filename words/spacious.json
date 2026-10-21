@@ -11,25 +11,31 @@
  "word": "spacious",
  "slug": "spacious",
  "url": "https://hibbangyong.com/words/spacious/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "널찍한 — 안에 움직일 자리가 넉넉하게 있는",
  "gloss_ko": "널찍한",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "새 사무실에 들어갔는데 책상 사이로 셋이 나란히 걸어도 안 부딪혀.",
+  "안쪽에 움직일 자리가 넉넉하면 spacious라고 해. 방이든 차 안이든 정원이든 다 돼.",
+  "겉으로 크다는 말이랑은 달라. 탑이 높아도 안이 비좁으면 spacious가 아니야.",
+  "텅 비었다는 뜻도 아니야. 가구가 있어도 돌아다닐 자리가 남으면 spacious야."
+ ],
+ "explanation_for_kids": [
   "새 교실에 들어갔는데 책상 사이로 셋이 나란히 걸어도 안 부딪혀.",
   "안쪽에 움직일 자리가 넉넉하면 spacious라고 해. 방이든 차 안이든 정원이든 다 돼.",
   "겉으로 크다는 말이랑은 달라. 탑이 높아도 안이 비좁으면 spacious가 아니야.",
   "텅 비었다는 뜻도 아니야. 가구가 있어도 돌아다닐 자리가 남으면 spacious야."
  ],
- "scene": "새 교실 책상 사이를 셋이 나란히 걷는 장면",
+ "scene": "새 사무실 책상 사이를 셋이 나란히 걷는 장면",
  "examples": [
   {
-   "en": "The car looked small, but it was spacious inside, so all five of us sat comfortably.",
-   "ko": "그 차 겉보기엔 작았는데 안이 널찍해서 우리 다섯 명이 다 편하게 앉았어."
+   "en": "The car looks small, but it's really spacious inside.",
+   "ko": "그 차 작아 보이는데 안은 진짜 널찍해."
   }
  ],
  "quiz": [
@@ -63,7 +69,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/spacious.webp",
-  "alt": "새 교실 책상 사이를 셋이 나란히 걷는 장면",
+  "alt": "새 사무실 책상 사이를 셋이 나란히 걷는 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

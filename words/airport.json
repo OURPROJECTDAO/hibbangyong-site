@@ -11,31 +11,32 @@
  "word": "airport",
  "slug": "airport",
  "url": "https://hibbangyong.com/words/airport/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "공항 — 비행기가 뜨고 내리고, 사람이 타고 내리는 곳",
  "gloss_ko": "공항",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "비행기가 하늘만 날아다닐 순 없잖아. 어딘가엔 내려앉아야 하거든?",
   "그래서 아주 넓고 평평한 땅을 만들어 뒀어. 비행기가 쭉 달려서 뜨고, 쭉 달려서 내리는 길이야.",
   "옆에는 큰 건물이 있어. 사람들이 짐 끌고 기다렸다가 비행기에 타는 곳이지. 짐만 실으러 오는 비행기도 있고, 그냥 기름 넣고 다시 가는 비행기도 있어.",
   "그게 airport야. 기차가 서는 곳도, 배가 서는 곳도 아니고, 비행기가 뜨고 내리는 그 곳."
  ],
+ "explanation_for_kids": null,
  "scene": "비행기가 넓고 평평한 길을 달려 뜨고 내리는 장면",
  "examples": [
   {
-   "en": "We waited at the airport for two hours because Grandma's plane was late.",
-   "ko": "할머니 비행기가 늦어서 우리는 공항에서 두 시간이나 기다렸어."
+   "en": "My flight was late, so I waited at the airport for two hours.",
+   "ko": "비행기가 늦어서 공항에서 두 시간이나 기다렸어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "삼촌이 사진을 보여줬어. 넓고 평평한 땅에 흰 비행기 한 대가 바퀴를 내리고 내려앉고 있고, 옆 건물 유리창 안엔 가방을 든 사람들이 앉아 있었대. 이게 'airport'야?",
+   "question": "선배가 사진을 보여줬어. 넓고 평평한 땅에 흰 비행기 한 대가 바퀴를 내리고 내려앉고 있고, 옆 건물 유리창 안엔 가방을 든 사람들이 앉아 있었대. 이게 'airport'야?",
    "choices": [
     "응, airport 맞아",
     "아니, airport 아니야"

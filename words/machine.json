@@ -11,25 +11,26 @@
  "word": "machine",
  "slug": "machine",
  "url": "https://hibbangyong.com/words/machine/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "기계 — 전기 같은 힘으로 여러 부품이 맞물려 움직이면서 사람 대신 일을 해내는 것.",
  "gloss_ko": "기계",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "안에 부품이 잔뜩 들어있는 세탁기를 떠올려봐.",
   "버튼을 누르면 윙~ 돌아가면서 빨래를 대신 해주잖아?",
   "꼭 힘센 일만 하는 건 아니야. 째깍째깍 도는 태엽 시계처럼 작은 일도 해.",
   "전기로 도는 믹서기든 태엽 시계든, 힘을 받아 부품이 맞물려 움직이며 일을 해내면 다 machine이야."
  ],
+ "explanation_for_kids": null,
  "scene": "세탁기에 빨래를 넣고 버튼을 눌러 돌리는 장면",
  "examples": [
   {
-   "en": "The machine washed all our clothes while we played outside.",
-   "ko": "우리가 밖에서 노는 동안 기계가 우리 옷을 다 빨아 줬어."
+   "en": "The coffee machine at work is broken again.",
+   "ko": "회사 커피 기계가 또 고장 났어."
   }
  ],
  "quiz": [

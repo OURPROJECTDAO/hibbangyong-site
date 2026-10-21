@@ -11,25 +11,26 @@
  "word": "sense",
  "slug": "sense",
  "url": "https://hibbangyong.com/words/sense/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "몸이나 마음으로 느껴서 아는 것 (감각·느낌)",
  "gloss_ko": "느껴서 아는 감각",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "눈으로 보고, 코로 냄새 맡고, 귀로 소리 듣지? 몸이 바깥 걸 딱 느껴서 아는 거 있잖아.",
   "근데 몸만 그런 게 아냐. 아무도 말 안 했는데 '어, 뭔가 이상한데?' 하고 마음이 먼저 느낄 때도 있거든?",
   "친구 말을 듣고 '아, 무슨 말인지 알겠다!' 하고 탁 알아듣는 것도 다 이거야.",
   "이렇게 몸이나 마음으로 느껴서 아는 거, 그게 sense야."
  ],
+ "explanation_for_kids": null,
  "scene": "눈·코·귀로 바깥을 느끼고, 누가 말 안 해도 '뭔가 이상한데' 하고 마음이 먼저 느끼는 그 느껴서 아는 힘.",
  "examples": [
   {
-   "en": "I had a sense that something was wrong in the room.",
-   "ko": "방 안에 뭔가 잘못됐다는 느낌이 들었어."
+   "en": "I had a sense that my manager was upset.",
+   "ko": "팀장님이 기분이 안 좋은 것 같은 느낌이 들었어."
   }
  ],
  "quiz": [

@@ -11,20 +11,21 @@
  "word": "rumble",
  "slug": "rumble",
  "url": "https://hibbangyong.com/words/rumble/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "우르릉 소리 — 낮고 묵직하게 길게 이어지는 소리",
  "gloss_ko": "우르릉 소리",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "큰 트럭이 집 앞을 지나갈 때 창문 너머로 낮게 우르릉 이어지는 소리 들리지?",
   "멀리서 치는 천둥도 그렇고, 배고플 때 배 속에서 꾸르륵 울리는 것도 같은 소리야.",
   "크든 작든 상관없어. 낮고 묵직하게 길게 굴러가는 소리면 돼.",
   "문이 쾅 닫히는 것처럼 한 번에 짧게 끝나는 소리랑은 달라."
  ],
+ "explanation_for_kids": null,
  "scene": "큰 트럭이 집 앞을 지나가며 창 너머로 들리는 낮은 소리",
  "examples": [
   {

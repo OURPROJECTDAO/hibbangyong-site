@@ -11,38 +11,39 @@
  "word": "element",
  "slug": "element",
  "url": "https://hibbangyong.com/words/element/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "무언가를 이루는 하나하나의 부분",
  "gloss_ko": "이루는 하나하나의 부분",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "로봇 하나를 만든다고 해봐. 바퀴, 팔, 눈, 버튼…",
   "이런 부품 하나하나가 들어가야 비로소 로봇이 되거든?",
   "근데 만질 수 있는 부품만 그런 게 아니야. 이야기를 재밌게 하는 '깜짝 놀람' 같은 것도 한 부분이지.",
   "이렇게 뭔가를 이루는 부분 하나하나, 그게 element야."
  ],
+ "explanation_for_kids": null,
  "scene": "로봇—바퀴·팔·버튼 부품 하나하나가 모여 로봇이 됨(+이야기의 '놀람'도 한 부분).",
  "examples": [
   {
-   "en": "Surprise is an exciting element of a good story.",
-   "ko": "놀라움은 좋은 이야기를 이루는 신나는 한 부분이야."
+   "en": "Trust is the most important element of any team.",
+   "ko": "믿음은 어느 팀에서나 가장 중요한 요소야."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "동생이 블록을 하나하나 다 쌓아서 멋진 성을 완성했어. 다 만들어진 이 성이 element야?",
+   "question": "친구가 퍼즐 조각을 하나하나 다 맞춰서 큰 그림을 완성했어. 다 맞춘 이 그림이 element야?",
    "choices": [
     "응, 맞아.",
     "아니, 아니야."
    ],
    "answer_index": 1,
    "answer": "아니, 아니야.",
-   "why": "맞아! 다 지어진 성은 부분들이 합쳐진 결과물 전체라서, 부분 하나하나를 가리키는 element가 아닌 게 맞아. 성을 이루는 블록 하나가 element거든."
+   "why": "맞아! 다 맞춘 그림은 부분들이 합쳐진 결과물 전체라서, 부분 하나하나를 가리키는 element가 아닌 게 맞아. 그림을 이루는 퍼즐 조각 하나가 element거든."
   }
  ],
  "synonyms": [],

@@ -11,31 +11,32 @@
  "word": "reward",
  "slug": "reward",
  "url": "https://hibbangyong.com/words/reward/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "보상 — 네가 한 일 때문에 되돌아오는 좋은 것",
  "gloss_ko": "보상",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "전봇대에 종이가 딱 붙었어. '우리 강아지 찾아주면 삼만 원 드려요!'",
   "네가 그 강아지를 찾아서 데려다줬지? 그럼 그 돈이 네 손에 들어와. 돈 말고 주인이 쥐여준 간식일 수도 있고.",
   "생일이라서 그냥 받는 선물이랑은 달라. 네가 한 일 때문에 되돌아온 거거든.",
   "이게 reward야."
  ],
+ "explanation_for_kids": null,
  "scene": "전봇대에 붙은 강아지 찾기 사례금 종이",
  "examples": [
   {
-   "en": "I found the lost puppy, so the owner gave me a reward.",
-   "ko": "잃어버린 강아지를 찾아줬더니 주인이 나한테 보상을 줬어."
+   "en": "I returned a lost wallet, and the owner gave me a reward.",
+   "ko": "잃어버린 지갑을 돌려줬더니 주인이 사례를 해 줬어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "도서관에서 누가 떨어뜨린 지갑을 주워서 사서 선생님께 갖다줬어. 지갑 주인 아저씨가 찾아와서 고맙다며 너한테 문화상품권을 한 장 줬어. 이 상품권이 'reward'야?",
+   "question": "도서관에서 누가 떨어뜨린 지갑을 주워서 사서한테 갖다줬어. 지갑 주인 아저씨가 찾아와서 고맙다며 너한테 문화상품권을 한 장 줬어. 이 상품권이 'reward'야?",
    "choices": [
     "응, reward 맞아",
     "아니, reward 아니야"

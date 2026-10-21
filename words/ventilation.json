@@ -11,25 +11,26 @@
  "word": "ventilation",
  "slug": "ventilation",
  "url": "https://hibbangyong.com/words/ventilation/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "환기 — 안의 탁한 공기를 빼고 바깥의 새 공기로 바꿔 주는 것",
  "gloss_ko": "환기",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "창문 하나 없는 지하 주차장에도 천장에서 큰 팬이 계속 돌아가잖아.",
   "그 팬은 안에 고인 공기를 밖으로 빼고, 바깥 새 공기를 끌어들여.",
   "창문을 열든 기계를 돌리든, 안의 공기가 바깥 공기로 바뀌면 다 ventilation이야.",
   "에어컨이 방 안 공기를 식히기만 하거나 공기청정기가 걸러 주기만 하는 건 달라. 공기가 바뀌지는 않거든."
  ],
+ "explanation_for_kids": null,
  "scene": "창문 없는 지하 주차장 천장 환풍 팬",
  "examples": [
   {
-   "en": "This room has no windows, so good ventilation is really important.",
-   "ko": "이 방은 창문이 없어서 환기가 잘되는 게 진짜 중요해."
+   "en": "The basement gym has no windows, so the ventilation is really bad.",
+   "ko": "지하 헬스장은 창문이 없어서 환기가 정말 안 돼."
   }
  ],
  "quiz": [

@@ -11,30 +11,35 @@
  "word": "crumble",
  "slug": "crumble",
  "url": "https://hibbangyong.com/words/crumble/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "바스러지다 — 단단하던 게 잘게 부서지며 조금씩 무너지다(또는 그렇게 부수다)",
  "gloss_ko": "바스러지다",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "골목 구석 오래된 흙벽을 보면, 아무도 안 건드렸는데 부스러기가 조금씩 떨어지잖아.",
+  "유리컵처럼 쨍 하고 큰 조각 몇 개로 깨지는 거랑은 달라. 잘게, 부슬부슬 무너지는 거야.",
+  "과자가 부스러지는 것도, 버티던 계획이나 자신감이 조금씩 무너지는 것도 다 crumble이라고 해."
+ ],
+ "explanation_for_kids": [
   "운동장 구석의 오래된 흙벽 봤지? 아무도 안 건드렸는데 부스러기가 조금씩 떨어져.",
   "유리컵처럼 쨍 하고 큰 조각 몇 개로 깨지는 거랑은 달라. 잘게, 부슬부슬 무너지는 거야.",
   "과자가 부스러지는 것도, 버티던 계획이나 자신감이 조금씩 무너지는 것도 다 crumble이라고 해."
  ],
- "scene": "운동장 구석 오래된 흙벽에서 부스러기가 떨어짐",
+ "scene": "골목 구석 오래된 흙벽에서 부스러기가 떨어짐",
  "examples": [
   {
-   "en": "The old wall by the playground crumbles a little more every winter.",
-   "ko": "운동장 옆 오래된 담은 겨울마다 조금씩 더 바스러져."
+   "en": "These cookies crumble easily, so eat them over a plate.",
+   "ko": "이 쿠키는 쉽게 바스러지니까 접시 위에서 먹어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "할머니 댁 창고에 있는 오래된 벽돌을 손으로 문질렀어. 그랬더니 모서리가 잘게 부서지면서 가루가 조금씩 떨어져 나갔어. 이 벽돌 모서리가 'crumble'한 걸까?",
+   "question": "이사 온 집 창고에 있는 오래된 벽돌을 손으로 문질렀어. 그랬더니 모서리가 잘게 부서지면서 가루가 조금씩 떨어져 나갔어. 이 벽돌 모서리가 'crumble'한 걸까?",
    "choices": [
     "응, crumble 맞아",
     "아니, crumble 아니야"
@@ -56,7 +61,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/crumble.webp",
-  "alt": "운동장 구석 오래된 흙벽에서 부스러기가 떨어짐",
+  "alt": "골목 구석 오래된 흙벽에서 부스러기가 떨어짐",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

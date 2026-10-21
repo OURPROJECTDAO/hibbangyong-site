@@ -11,20 +11,21 @@
  "word": "humiliation",
  "slug": "humiliation",
  "url": "https://hibbangyong.com/words/humiliation/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "굴욕 — 남들 앞에서 깎여 내려가 자존심이 무너지는 느낌(또는 그렇게 만드는 일)",
  "gloss_ko": "굴욕",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "축구 결승에서 10대 0으로 졌어. 그것도 전교생이 다 보는 앞에서.",
   "얼굴만 빨개지는 게 아니라, 내가 작고 하찮아진 느낌이 들어. 자존심이 바닥에 깔린 거지.",
   "누가 일부러 놀렸든 상황 때문에 그렇게 됐든 상관없어. 남들 앞에서 깎여 내려간 그 느낌이 humiliation이야.",
   "발표하다 한 번 더듬어서 잠깐 민망한 거랑은 달라. 그건 웃고 금방 넘기잖아."
  ],
+ "explanation_for_kids": null,
  "scene": "전교생 앞 축구 결승 10대 0 패배",
  "examples": [
   {
@@ -35,14 +36,14 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "학원에서 선생님이 모의고사 점수를 반 전체 앞에서 낮은 순서대로 불렀는데, 내 이름이 맨 처음 나왔어. 다들 나를 돌아봤고, 나는 내가 작고 하찮아진 느낌이 들었어. 이때 내 기분이 'humiliation'일까?",
+   "question": "회사에서 팀장님이 업무 평가 점수를 팀 전체 앞에서 낮은 순서대로 불렀는데, 내 이름이 맨 처음 나왔어. 다들 나를 돌아봤고, 나는 내가 작고 하찮아진 느낌이 들었어. 이때 내 기분이 'humiliation'일까?",
    "choices": [
     "응, humiliation 맞아",
     "아니, humiliation 아니야"
    ],
    "answer_index": 0,
    "answer": "응, humiliation 맞아",
-   "why": "맞아! 반 전체 앞에서 내 이름이 맨 처음 불리고 다들 나를 돌아봤잖아. 남들 앞에서 깎여 내려가서 내가 작고 하찮아진 느낌, 그게 딱 humiliation이야."
+   "why": "맞아! 팀 전체 앞에서 내 이름이 맨 처음 불리고 다들 나를 돌아봤잖아. 남들 앞에서 깎여 내려가서 내가 작고 하찮아진 느낌, 그게 딱 humiliation이야."
   }
  ],
  "synonyms": [

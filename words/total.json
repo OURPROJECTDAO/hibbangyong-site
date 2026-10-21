@@ -11,25 +11,31 @@
  "word": "total",
  "slug": "total",
  "url": "https://hibbangyong.com/words/total/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "전체의, 총 — 따로따로 있던 걸 하나도 안 빼고 다 더한",
  "gloss_ko": "몽땅 더한",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "카페 봐봐. 1층에 4명, 2층에 5명, 테라스에 3명이 있어.",
+  "제일 많은 2층만 세면 5명이지? 그건 한 곳만 센 거야, 전부가 아니거든.",
+  "하나도 안 빼고 몽땅 더하면? 딱! 12명. 사람이든, 시간이든, 점수든 똑같아.",
+  "따로 있던 걸 다 더해서 나온 전부, 그게 total이야."
+ ],
+ "explanation_for_kids": [
   "놀이터 봐봐. 미끄럼틀에 4명, 그네에 5명, 모래밭에 3명이 있어.",
   "제일 많은 그네만 세면 5명이지? 그건 한 곳만 센 거야, 전부가 아니거든.",
   "하나도 안 빼고 몽땅 더하면? 딱! 12명. 사람이든, 시간이든, 점수든 똑같아.",
   "따로 있던 걸 다 더해서 나온 전부, 그게 total이야."
  ],
- "scene": "놀이터 미끄럼틀·그네·모래밭 아이들 수 세기",
+ "scene": "카페 1층·2층·테라스 손님 수 세기",
  "examples": [
   {
-   "en": "The total number of kids in the park was twelve.",
-   "ko": "놀이터에 있는 아이들은 다 합쳐서 열두 명이었어."
+   "en": "The total number of kids at the park was twelve.",
+   "ko": "공원에 있던 아이들은 다 합쳐서 열두 명이었어."
   }
  ],
  "quiz": [
@@ -63,7 +69,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/total.webp",
-  "alt": "놀이터 미끄럼틀·그네·모래밭 아이들 수 세기",
+  "alt": "카페 1층·2층·테라스 손님 수 세기",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

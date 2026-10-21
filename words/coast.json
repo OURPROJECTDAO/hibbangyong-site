@@ -11,25 +11,26 @@
  "word": "coast",
  "slug": "coast",
  "url": "https://hibbangyong.com/words/coast/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "해안 — 바다랑 땅이 맞닿는 가장자리",
  "gloss_ko": "해안",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "바다를 위에서 내려다본다고 해봐.",
   "물이 있고, 땅이 있고, 둘이 만나서 길게 선을 그리지?",
   "그 선 근처의 땅쪽 가장자리가 coast야. 모래사장일 수도, 바위 절벽일 수도, 항구가 들어선 곳일 수도 있어.",
   "호수나 강가는 아무리 물가여도 coast라고 안 불러. 바다랑 맞닿아야 하거든. 그게 coast야."
  ],
+ "explanation_for_kids": null,
  "scene": "바다를 위에서 내려다본 지도 시점(물과 땅이 만나 그은 긴 선)",
  "examples": [
   {
-   "en": "We drove along the coast and saw big rocks and boats.",
-   "ko": "우리는 해안을 따라 달리면서 큰 바위랑 배들을 봤어."
+   "en": "My friends and I drove along the coast on Saturday.",
+   "ko": "토요일에 친구들이랑 해안을 따라 드라이브했어."
   }
  ],
  "quiz": [

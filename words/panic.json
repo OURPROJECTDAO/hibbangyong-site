@@ -11,31 +11,37 @@
  "word": "panic",
  "slug": "panic",
  "url": "https://hibbangyong.com/words/panic/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "확 덮치는 무서움 — 머리가 하얘져서 어쩔 줄 모르게 되는 상태",
  "gloss_ko": "확 덮치는 무서움",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "낯선 곳, 사람들 사이에서 일행을 놓쳤어. 그 순간 가슴이 쿵 내려앉고 머리가 하얘지지.",
+  "무섭기만 한 게 아니야. 무서운데 생각이 안 돼. 뭘 해야 할지 하나도 모르겠는 거야.",
+  "그래서 막 아무렇게나 움직여. 소리치거나, 그냥 뛰거나.",
+  "조금씩 걱정되는 거랑은 달라. 확 덮쳐서 정신을 못 차리게 하는 거, 그게 panic이야."
+ ],
+ "explanation_for_kids": [
   "엄마 손을 놓쳤어. 사람들 사이에서 엄마가 안 보여. 그 순간 가슴이 쿵 내려앉고 머리가 하얘지지.",
   "무섭기만 한 게 아니야. 무서운데 생각이 안 돼. 뭘 해야 할지 하나도 모르겠는 거야.",
   "그래서 막 아무렇게나 움직여. 소리치거나, 그냥 뛰거나.",
   "조금씩 걱정되는 거랑은 달라. 확 덮쳐서 정신을 못 차리게 하는 거, 그게 panic이야."
  ],
- "scene": "사람 많은 곳에서 엄마 손을 놓쳐 엄마가 안 보이는 순간",
+ "scene": "사람 많은 낯선 곳에서 일행을 놓친 순간",
  "examples": [
   {
-   "en": "When the lights went out, panic spread through the room.",
-   "ko": "불이 꺼지자 방 안 사람들 모두 순간 머리가 하얘져서 이리저리 허둥댔어."
+   "en": "I felt a moment of panic when the subway suddenly stopped.",
+   "ko": "지하철이 갑자기 멈췄을 때 순간 덜컥 겁이 났어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "물놀이터에서 발이 안 닿는 깊은 쪽으로 들어간 지호는, 가슴이 쿵 내려앉고 머리가 하얘져서 팔을 마구 휘저으며 소리만 질렀어. 이게 'panic'이야?",
+   "question": "수영장에서 발이 안 닿는 깊은 쪽으로 들어간 지호는, 가슴이 쿵 내려앉고 머리가 하얘져서 팔을 마구 휘저으며 소리만 질렀어. 이게 'panic'이야?",
    "choices": [
     "응, panic 맞아",
     "아니, panic 아니야"
@@ -58,7 +64,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/panic.webp",
-  "alt": "사람 많은 곳에서 엄마 손을 놓쳐 엄마가 안 보이는 순간",
+  "alt": "사람 많은 낯선 곳에서 일행을 놓친 순간",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

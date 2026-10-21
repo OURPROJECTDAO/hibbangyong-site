@@ -11,25 +11,26 @@
  "word": "adequate",
  "slug": "adequate",
  "url": "https://hibbangyong.com/words/adequate/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "충분한 — 아주 훌륭하거나 넉넉하진 않아도, 그 일을 하기엔 모자라지 않게 되는.",
  "gloss_ko": "충분한",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "밥 먹으러 갔는데, 엄청 맛있진 않았어.",
   "근데 배는 부르게 채워지더라?",
   "훌륭한 밥은 아니지? 그래도 배고픔 달래기엔 됐어.",
   "최고는 아니어도 할 일은 하는 거, 이게 adequate야."
  ],
+ "explanation_for_kids": null,
  "scene": "맛있진 않아도 배 채우기엔 되는 밥",
  "examples": [
   {
-   "en": "We had adequate time to finish the test.",
-   "ko": "시험 다 푸는 데 시간이 모자라진 않았어."
+   "en": "The room was small but adequate for one night.",
+   "ko": "방은 작았지만 하룻밤 자기엔 충분했어."
   }
  ],
  "quiz": [

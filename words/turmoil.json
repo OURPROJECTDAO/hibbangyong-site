@@ -11,21 +11,27 @@
  "word": "turmoil",
  "slug": "turmoil",
  "url": "https://hibbangyong.com/words/turmoil/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "혼란 — 나라나 모임, 또는 한 사람의 마음이 크게 흔들려서 어수선하고 불안한 상태",
  "gloss_ko": "어수선한 혼란",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "마감 날짜가 갑자기 바뀌었다는 공지가 떴어. 팀 전체가 술렁이고, 다들 뭘 해야 할지 몰라서 불안해했지.",
+  "이렇게 여럿이 한꺼번에 흔들려서 어수선한 상태가 turmoil이야. 한 사람 마음속이 뒤죽박죽 흔들리는 것도 turmoil이고.",
+  "그냥 시끄러운 거랑은 달라. 겉으로는 조용해도 속이 흔들리고 있으면 turmoil이야.",
+  "잠깐 깜짝 놀랐다가 바로 괜찮아지는 것도 아니야. 불안하게 흔들리는 게 한동안 이어지는 상태야."
+ ],
+ "explanation_for_kids": [
   "시험 날짜가 갑자기 바뀌었다는 공지가 떴어. 반 전체가 술렁이고, 다들 뭘 해야 할지 몰라서 불안해했지.",
   "이렇게 여럿이 한꺼번에 흔들려서 어수선한 상태가 turmoil이야. 한 사람 마음속이 뒤죽박죽 흔들리는 것도 turmoil이고.",
   "그냥 시끄러운 거랑은 달라. 겉으로는 조용해도 속이 흔들리고 있으면 turmoil이야.",
   "잠깐 깜짝 놀랐다가 바로 괜찮아지는 것도 아니야. 불안하게 흔들리는 게 한동안 이어지는 상태야."
  ],
- "scene": "시험 날짜가 갑자기 바뀌었다는 공지에 반 전체가 술렁이는 장면",
+ "scene": "마감 날짜가 갑자기 바뀌었다는 공지에 팀 전체가 술렁이는 장면",
  "examples": [
   {
    "en": "She smiled at her friends, but inside she was in turmoil.",
@@ -61,7 +67,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/turmoil.webp",
-  "alt": "시험 날짜가 갑자기 바뀌었다는 공지에 반 전체가 술렁이는 장면",
+  "alt": "마감 날짜가 갑자기 바뀌었다는 공지에 팀 전체가 술렁이는 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

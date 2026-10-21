@@ -11,23 +11,24 @@
  "word": "brick",
  "slug": "brick",
  "url": "https://hibbangyong.com/words/brick/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "벽돌 — 흙을 구워 만든 네모난 덩어리로, 집이나 담을 쌓을 때 써요",
  "gloss_ko": "벽돌",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속에 크게 보이는 네모난 붉은 덩어리가 brick이에요.",
   "집의 벽이나 마당의 담을 만들 때 이런 것을 여러 개 차곡차곡 쌓아 올려요."
  ],
+ "explanation_for_kids": null,
  "scene": "전형적인 붉은 벽돌 한 장을 화면 중앙에 크고 또렷하게 (사물 그 자체의 뜻)",
  "examples": [
   {
-   "en": "The workers stacked red bricks to build the wall.",
-   "ko": "일하는 아저씨들이 빨간 벽돌을 쌓아서 벽을 만들었어."
+   "en": "Someone used a brick to keep the gym door open.",
+   "ko": "누가 헬스장 문을 열어 두려고 벽돌을 받쳐 놨어."
   }
  ],
  "quiz": [

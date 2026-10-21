@@ -11,15 +11,21 @@
  "word": "drag",
  "slug": "drag",
  "url": "https://hibbangyong.com/words/drag/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "끌다 — 번쩍 들지 않고 바닥에 닿은 채로 잡아당겨 옮기다.",
  "gloss_ko": "끌다",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "무거운 가방, 번쩍 들리지가 않을 때 있지? 그럼 바닥에 붙인 채로 쭉 잡아당겨서 가잖아.",
+  "안 가겠다고 버티는 친구를 데려갈 때도 그래. 발이 땅을 쓸면서 딸려오는 거야.",
+  "번쩍 안아 들고 옮기는 거랑은 달라. 땅에 닿은 채로 움직이는 게 핵심이거든.",
+  "이게 drag야."
+ ],
+ "explanation_for_kids": [
   "무거운 가방, 번쩍 들리지가 않을 때 있지? 그럼 바닥에 붙인 채로 쭉 잡아당겨서 가잖아.",
   "안 가겠다고 버티는 동생을 데려갈 때도 그래. 발이 땅을 쓸면서 딸려오는 거야.",
   "번쩍 안아 들고 옮기는 거랑은 달라. 땅에 닿은 채로 움직이는 게 핵심이거든.",
@@ -28,21 +34,21 @@
  "scene": "번쩍 안 들리는 무거운 가방을 바닥에 붙인 채 잡아당겨 가는 장면",
  "examples": [
   {
-   "en": "The box was too heavy to lift, so I dragged it to my room.",
-   "ko": "상자가 너무 무거워서 들지 못하고 내 방까지 끌고 갔어."
+   "en": "The couch was too heavy to lift, so we had to drag it inside.",
+   "ko": "소파가 너무 무거워 들 수가 없어서 안으로 끌고 들어가야 했어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "눈 온 날, 형이 썰매 줄을 잡고 눈 위에 붙은 썰매를 잡아당기며 걸어갔어. 이게 'drag'야?",
+   "question": "눈 온 날, 친구가 썰매 줄을 잡고 눈 위에 붙은 썰매를 잡아당기며 걸어갔어. 이게 'drag'야?",
    "choices": [
     "응, drag 맞아",
     "아니, drag 아니야"
    ],
    "answer_index": 0,
    "answer": "응, drag 맞아",
-   "why": "맞아! 형이 썰매를 번쩍 들지 않고, 썰매가 눈 위에 닿은 채로 줄을 잡아당겨서 끌고 갔거든. 그래서 바로 그게 drag인 거야."
+   "why": "맞아! 친구가 썰매를 번쩍 들지 않고, 썰매가 눈 위에 닿은 채로 줄을 잡아당겨서 끌고 갔거든. 그래서 바로 그게 drag인 거야."
   }
  ],
  "synonyms": [],

@@ -11,20 +11,21 @@
  "word": "remedy",
  "slug": "remedy",
  "url": "https://hibbangyong.com/words/remedy/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "고치는 수 — 나빠진 걸 되돌리려고 쓰는 방법",
  "gloss_ko": "고치는 수",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "방이 이상하게 추워. 왜냐고? 문 밑 틈으로 찬바람이 술술 들어오거든.",
   "그때 수건을 돌돌 말아 문 밑에 딱 끼웠어. 추운 게 싹 사라졌지.",
   "이렇게 나빠진 걸 되돌리는 방법을 remedy라고 해. 배 아플 때 마시는 따뜻한 물도, 규칙이 잘못돼서 자꾸 싸움 나면 그 규칙을 바꾸는 것도 다 remedy야.",
   "'누구 때문이네' 하고 짚기만 한 건 아니야. 나쁜 걸 실제로 낫게 만드는 방법, 그게 remedy야."
  ],
+ "explanation_for_kids": null,
  "scene": "문 밑 틈으로 찬바람 들어와 수건 말아 끼우기",
  "examples": [
   {
@@ -35,7 +36,7 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "비 오는 날마다 학교 뒷계단이 미끄러워서 아이들이 자꾸 넘어졌어. 그래서 선생님이 계단마다 미끄럼 방지 테이프를 붙였어. 선생님이 한 것도 'remedy'야?",
+   "question": "비 오는 날마다 회사 건물 뒷계단이 미끄러워서 사람들이 자꾸 넘어졌어. 그래서 관리인이 계단마다 미끄럼 방지 테이프를 붙였어. 관리인이 한 것도 'remedy'야?",
    "choices": [
     "응, remedy 맞아",
     "아니, remedy 아니야"

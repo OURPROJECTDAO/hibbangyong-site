@@ -11,25 +11,26 @@
  "word": "summit",
  "slug": "summit",
  "url": "https://hibbangyong.com/words/summit/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "꼭대기 — 산처럼 솟은 것의 맨 위, 더 올라갈 데가 없는 딱 한 지점",
  "gloss_ko": "산의 맨 꼭대기",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "언덕을 오르고 또 오르다 보면 어느 순간 더 갈 데가 없어. 발 앞이 어느 쪽이든 다 내리막이거든?",
   "높은 데 있다고 다 그 자리는 아니야. 위로 길이 아직 남아 있으면 아니거든.",
   "산만 그런 것도 아니야. 화산이든 절벽이든, 솟은 거면 그 맨 위가 다 이 말이야. 나라 대표들이 모이는 제일 높은 회의도 그래서 이 이름이 붙었어.",
   "그게 summit이야."
  ],
+ "explanation_for_kids": null,
  "scene": "언덕을 계속 올라가다 발 앞이 전부 내리막이 되는 한 자리",
  "examples": [
   {
-   "en": "The summit was so windy that we could not stand up straight.",
-   "ko": "꼭대기는 바람이 너무 세서 똑바로 서 있을 수도 없었어."
+   "en": "We hiked to the summit and took a group photo.",
+   "ko": "우리는 꼭대기까지 올라가서 단체 사진을 찍었어."
   }
  ],
  "quiz": [

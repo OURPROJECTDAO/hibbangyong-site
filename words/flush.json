@@ -11,25 +11,26 @@
  "word": "flush",
  "slug": "flush",
  "url": "https://hibbangyong.com/words/flush/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "붉어지다 — 덥거나, 숨이 차거나, 쑥스럽거나, 화가 나서 얼굴이 확 빨개지는 것",
  "gloss_ko": "붉어지다",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "뜨거운 탕에 들어가거나 달리기를 하고 나면 볼이 확 빨개지지?",
   "칭찬받아서 쑥스러울 때도, 화가 날 때도 얼굴이 후끈 달아올라.",
   "이유는 뭐든 괜찮아. 부끄러운 마음을 말하는 게 아니라, 얼굴이 빨갛게 물드는 그 모습을 말하는 거야.",
   "그게 flush야."
  ],
+ "explanation_for_kids": null,
  "scene": "뜨거운 탕에 들어가거나 달리기를 한 뒤 빨개진 볼",
  "examples": [
   {
-   "en": "After the race, my cheeks flushed.",
-   "ko": "달리기가 끝나니까 내 볼이 확 빨개졌어."
+   "en": "After every run, my cheeks flush.",
+   "ko": "달리고 나면 매번 볼이 빨개져."
   }
  ],
  "quiz": [

@@ -11,31 +11,32 @@
  "word": "conscience",
  "slug": "conscience",
  "url": "https://hibbangyong.com/words/conscience/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "양심 — 마음속에서 '이건 옳아, 저건 나빠' 하고 알려주고, 나쁜 짓을 하려 할 때 '안 돼' 하고 말리는 목소리.",
  "gloss_ko": "양심",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "아무도 안 보고 있을 때, 나쁜 짓을 하려고 하면 말이야, 마음속에서 누가 '안 돼, 그건 나빠' 하고 딱 말려.",
   "그리고 시키는 사람이 없어도, 잘못하고 나면 마음이 콕콕 찔리지?",
   "누가 가르쳐 준 것도 아닌데 혼자서 옳고 그름을 알려주는 그 마음속 목소리,",
   "그게 conscience야."
  ],
+ "explanation_for_kids": null,
  "scene": "아무도 안 볼 때 나쁜 짓을 하려는 걸 말리는 마음속 목소리",
  "examples": [
   {
-   "en": "When no one was looking, my conscience told me not to take the extra cookie.",
-   "ko": "아무도 안 보고 있었는데, 마음속에서 쿠키를 하나 더 집으면 안 된다고 콕 알려줬어."
+   "en": "The cashier gave me too much change, and my conscience bothered me.",
+   "ko": "점원이 거스름돈을 너무 많이 줘서 양심에 찔렸어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "지호가 문방구에서 지우개를 몰래 가방에 넣으려다, 주인 아저씨가 이쪽을 볼까 봐 무서워서 도로 내려놨어. 지호를 멈추게 한 이 마음도 'conscience'야?",
+   "question": "지호가 편의점에서 볼펜을 몰래 가방에 넣으려다, 주인 아저씨가 이쪽을 볼까 봐 무서워서 도로 내려놨어. 지호를 멈추게 한 이 마음도 'conscience'야?",
    "choices": [
     "응, conscience 맞아",
     "아니, conscience 아니야"

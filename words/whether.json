@@ -11,20 +11,21 @@
  "word": "whether",
  "slug": "whether",
  "url": "https://hibbangyong.com/words/whether/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "~인지 아닌지 — 둘 중 어느 쪽일지 아직 모를 때 두 갈래를 나란히 놓고 따지는 말",
  "gloss_ko": "~인지 아닌지",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "내일 비가 올까, 안 올까? 아직 아무도 몰라.",
   "이럴 수도 있고 저럴 수도 있어서, 두 갈래를 나란히 놓고 '어느 쪽일까?' 하는 거야.",
   "'만약'이랑은 달라 — 만약은 한쪽만 골라서 상상하지만, 이건 두 쪽을 다 열어 두거든?",
   "그게 whether야."
  ],
+ "explanation_for_kids": null,
  "scene": "내일 비가 올지 안 올지 아무도 모르는 아침",
  "examples": [
   {
@@ -35,7 +36,7 @@
  "quiz": [
   {
    "type": "choice",
-   "question": "동생이 'whether'라는 말을 배웠어. 이 말이 딱 어울리는 마음은 어떤 거야?",
+   "question": "내일 경기를 앞둔 친구 마음 중에 'whether'가 딱 어울리는 건 어떤 거야?",
    "choices": [
     "이길지 질지 아직 몰라서 두 쪽을 다 생각하는 마음",
     "이기면 뭘 하고 놀지 한쪽만 골라 상상하는 마음",

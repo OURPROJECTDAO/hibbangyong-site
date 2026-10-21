@@ -11,20 +11,21 @@
  "word": "gender",
  "slug": "gender",
  "url": "https://hibbangyong.com/words/gender/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "성별 — 남자인지 여자인지 하는 구분",
  "gloss_ko": "성별",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "강아지가 갓 태어났어. 사람들이 제일 먼저 물어봐. \"남자야, 여자야?\"",
   "남자면 남자 쪽, 여자면 여자 쪽. 이렇게 딱 갈라주는 게 있거든?",
   "사람도 동물도 다 이게 있어. 이름이나 나이랑은 다른 거야.",
   "이게 gender야."
  ],
+ "explanation_for_kids": null,
  "scene": "갓 태어난 강아지를 보고 남자냐 여자냐 물어보는 장면",
  "examples": [
   {

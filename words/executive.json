@@ -11,20 +11,21 @@
  "word": "executive",
  "slug": "executive",
  "url": "https://hibbangyong.com/words/executive/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "회사나 큰 단체에서 높은 자리에 앉아 큰일을 정하는 사람",
  "gloss_ko": "회사 우두머리",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "회사나 큰 단체를 커다란 배라고 해봐. 그 배엔 사람이 엄청 많잖아?",
   "그중에 '우리 이쪽으로 가자!' 하고 배 전체가 갈 길을 정하는 높은 사람이 있어.",
   "심부름이나 작은 일을 하는 게 아니라, 그 큰 무리 전체가 뭘 할지 정하는 사람이야.",
   "그게 executive야."
  ],
+ "explanation_for_kids": null,
  "scene": "회사나 큰 단체를 큰 배에 비유해 배 전체가 갈 길을 정하는 높은 사람",
  "examples": [
   {

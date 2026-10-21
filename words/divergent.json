@@ -11,25 +11,31 @@
  "word": "divergent",
  "slug": "divergent",
  "url": "https://hibbangyong.com/words/divergent/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "엇갈리는 — 서로 다른 쪽으로 갈라져서 달라지는 (생각·길·선 등)",
  "gloss_ko": "서로 갈라지는",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "같은 역을 나온 두 친구가 갈림길에서 한 명은 왼쪽, 한 명은 오른쪽으로 가.",
+  "처음엔 붙어 있었는데 갈수록 사이가 벌어지지. 길도 선도 생각도 다 이렇게 갈라질 수 있어.",
+  "같은 문제를 보고 동료들 의견이 여러 갈래로 나뉘는 것도 그래.",
+  "싸우거나 서로 맞서는 거랑은 달라. 그냥 서로 다른 쪽으로 벌어지는 거야."
+ ],
+ "explanation_for_kids": [
   "같은 교문을 나온 두 친구가 갈림길에서 한 명은 왼쪽, 한 명은 오른쪽으로 가.",
   "처음엔 붙어 있었는데 갈수록 사이가 벌어지지. 길도 선도 생각도 다 이렇게 갈라질 수 있어.",
   "같은 문제를 보고 반 친구들 의견이 여러 갈래로 나뉘는 것도 그래.",
   "싸우거나 서로 맞서는 거랑은 달라. 그냥 서로 다른 쪽으로 벌어지는 거야."
  ],
- "scene": "교문을 나와 갈림길에서 서로 다른 쪽으로 가는 두 친구",
+ "scene": "역을 나와 갈림길에서 서로 다른 쪽으로 가는 두 친구",
  "examples": [
   {
-   "en": "After the meeting, the two teams still had divergent ideas about the school festival.",
-   "ko": "회의가 끝나고도 두 팀은 학교 축제를 두고 생각이 서로 엇갈렸어."
+   "en": "After the meeting, the two teams still had divergent ideas about the new project.",
+   "ko": "회의가 끝나고도 두 팀은 새 프로젝트를 두고 생각이 서로 엇갈렸어."
   }
  ],
  "quiz": [
@@ -65,7 +71,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/divergent.webp",
-  "alt": "교문을 나와 갈림길에서 서로 다른 쪽으로 가는 두 친구",
+  "alt": "역을 나와 갈림길에서 서로 다른 쪽으로 가는 두 친구",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

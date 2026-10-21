@@ -11,25 +11,26 @@
  "word": "cycle",
  "slug": "cycle",
  "url": "https://hibbangyong.com/words/cycle/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "순환 — 몇 가지 일이 늘 같은 순서로 일어나고, 끝나면 다시 처음부터 되풀이되는 것",
  "gloss_ko": "돌고 도는 순서",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "봄, 여름, 가을, 겨울. 겨울 다음엔? 다시 봄이 와.",
   "싸우고, 삐지고, 화해하고… 그러다 또 싸워. 이것도 한 바퀴 돌아서 처음으로 왔지?",
   "몇 가지 일이 같은 순서로 가다가, 끝에서 처음으로 딱! 돌아와. 좋은 일이든 싫은 일이든 상관없어.",
   "한 번 쭉 가고 끝나는 순서랑은 달라. 그냥 동그란 모양도 아니고. 그게 cycle이야."
  ],
+ "explanation_for_kids": null,
  "scene": "봄·여름·가을·겨울이 지나고 다시 봄",
  "examples": [
   {
-   "en": "I stay up late, feel sleepy all day, take a nap after school, and then the cycle starts again.",
-   "ko": "밤늦게 자고, 종일 졸리다가, 학교 끝나고 낮잠 자고, 다시 처음부터 반복이야."
+   "en": "I stay up late, feel tired at work, and then the cycle starts again.",
+   "ko": "밤늦게 자고, 회사에서 종일 피곤하다가, 또 처음부터 반복이야."
   }
  ],
  "quiz": [

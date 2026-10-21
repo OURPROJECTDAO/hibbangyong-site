@@ -11,23 +11,27 @@
  "word": "pin",
  "slug": "pin",
  "url": "https://hibbangyong.com/words/pin/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "핀 — 옷감을 잠깐 콕 꽂아 붙잡아 두는 뾰족한 바늘 같은 것",
  "gloss_ko": "핀",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "그림 속 이건 pin이에요. 은색 몸통 끝이 뾰족하고, 위에는 동그란 구슬 머리가 달려 있어요.",
+  "옷을 만들 때 천 두 장을 겹쳐 이걸로 콕 꽂아 붙잡아 둬요."
+ ],
+ "explanation_for_kids": [
   "그림 속 이건 pin이에요. 은색 몸통 끝이 뾰족하고, 위에는 동그란 구슬 머리가 달려 있어요.",
   "엄마가 옷을 만들 때 천 두 장을 겹쳐 이걸로 콕 꽂아 붙잡아 둔답니다."
  ],
  "scene": "둥근 구슬 머리가 달린 곧은 시침핀(바느질 핀) 한 개 — 반짝이는 은색 몸통과 뾰족한 끝",
  "examples": [
   {
-   "en": "Mom used a pin to hold the two pieces of cloth together.",
-   "ko": "엄마가 핀으로 천 두 장을 겹쳐 붙잡아 뒀어."
+   "en": "I used a pin to hold my torn sleeve together at work.",
+   "ko": "회사에서 찢어진 소매를 핀으로 꽂아 붙잡아 뒀어."
   }
  ],
  "quiz": [

@@ -11,25 +11,26 @@
  "word": "shelter",
  "slug": "shelter",
  "url": "https://hibbangyong.com/words/shelter/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "막아 주는 곳 — 비바람이나 위험을 대신 받아 주어서 그 안에 들어가 있으면 안전한 자리(갈 데 없는 사람·동물이 지내는 곳도)",
  "gloss_ko": "비바람 막아 주는 곳",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "갑자기 소나기가 쏟아져. 너는 어디로 뛰어? 지붕 아래든 큰 바위 밑이든, 비를 대신 맞아 주는 자리로 쏙 들어가잖아.",
   "비만 그런 게 아니야. 땅이 흔들릴 때 사람들이 내려가 지내는 곳도, 갈 데 없는 강아지들이 겨울을 나는 곳도 똑같아.",
   "밖의 위험한 걸 대신 받아 내고, 그 안에 있으면 안전한 자리거든. 번듯한 집이어야 하는 것도 아니고, 남 눈을 피해 몸만 감추는 것도 아니야.",
   "낡은 천막이어도 바람을 딱 막아 주면, 그게 shelter야."
  ],
+ "explanation_for_kids": null,
  "scene": "소나기가 쏟아져 지붕 아래나 큰 바위 밑으로 뛰어드는 순간",
  "examples": [
   {
-   "en": "The old tent was our shelter from the cold wind all night.",
-   "ko": "그 낡은 텐트가 밤새 찬바람을 막아 주는 곳이었어."
+   "en": "We waited in the bus shelter until the rain stopped.",
+   "ko": "비가 그칠 때까지 버스 정류장 비가림막 밑에서 기다렸어."
   }
  ],
  "quiz": [

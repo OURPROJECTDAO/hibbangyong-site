@@ -11,25 +11,26 @@
  "word": "century",
  "slug": "century",
  "url": "https://hibbangyong.com/words/century/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "세기 — 백 년을 한 칸으로 묶어서 세는 것",
  "gloss_ko": "세기",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "시간을 백 년씩 뚝뚝 잘라서 칸을 만든다고 해봐. 한 칸이 딱 백 년이야.",
   "지금 우리도 그 칸 하나 안에 들어와 있어. 지나간 칸도 있고, 아직 안 온 칸도 있거든?",
   "옛날 이야기에만 쓰는 말 아니야. 백 년짜리 칸이면 언제 것이든 다 이거야.",
   "그게 century야."
  ],
+ "explanation_for_kids": null,
  "scene": "시간을 백 년씩 잘라 만든 칸, 그중 우리가 들어 있는 칸",
  "examples": [
   {
-   "en": "My dad says this bridge will still be here in the next century.",
-   "ko": "아빠 말로는 이 다리가 다음 세기에도 여기 그대로 있을 거래."
+   "en": "This bridge will probably still be here in the next century.",
+   "ko": "이 다리는 아마 다음 세기에도 여기 그대로 있을 거야."
   }
  ],
  "quiz": [

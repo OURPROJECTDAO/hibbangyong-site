@@ -11,20 +11,21 @@
  "word": "per",
  "slug": "per",
  "url": "https://hibbangyong.com/words/per/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "~마다 · ~당 — 하나하나에 똑같이 얼마씩인지 짝지어 주는 말",
  "gloss_ko": "~마다 · ~당",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "쿠키 여섯 개를 세 명이 똑같이 나눠. 한 명이 몇 개? 두 개씩!",
   "이때 '한 명당 두 개'에서 그 '당'이 바로 per야.",
   "하나하나마다 똑같이 얼마씩, 하고 딱 짝지어 주는 말이거든?",
   "'한 시간에 60'도, '한 개에 500원'도 다 per로 이어. 이게 per야."
  ],
+ "explanation_for_kids": null,
  "scene": "쿠키 여섯 개를 세 명이 한 명당 두 개씩 똑같이 나누는 장면",
  "examples": [
   {

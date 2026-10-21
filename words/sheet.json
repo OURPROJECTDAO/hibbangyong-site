@@ -11,23 +11,24 @@
  "word": "sheet",
  "slug": "sheet",
  "url": "https://hibbangyong.com/words/sheet/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "시트 — 침대에 넓게 까는 얇은 천",
  "gloss_ko": "침대 시트",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "침대 위에 쫙 펴서 깔아 놓은 하얀 천이 바로 시트예요.",
   "잠잘 때 몸에 부드럽게 닿는 것이 이 시트예요."
  ],
- "scene": "잘 정돈된 침대 위에 깔린 새하얀 시트 한 장(부드러운 주름과 베개 하나) — 침구 시트 의미로 그림",
+ "explanation_for_kids": null,
+ "scene": "잘 정돈된 침대 위에 깔린 새하얀 시트 한 장(부드러운 주름과 베개 하나)",
  "examples": [
   {
-   "en": "Mom put a clean sheet on my bed.",
-   "ko": "엄마가 내 침대에 깨끗한 시트를 깔아 주셨어."
+   "en": "I put a clean sheet on my bed this morning.",
+   "ko": "오늘 아침에 침대에 깨끗한 시트를 깔았어."
   }
  ],
  "quiz": [
@@ -56,7 +57,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/sheet.webp",
-  "alt": "잘 정돈된 침대 위에 깔린 새하얀 시트 한 장(부드러운 주름과 베개 하나) — 침구 시트 의미로 그림",
+  "alt": "잘 정돈된 침대 위에 깔린 새하얀 시트 한 장(부드러운 주름과 베개 하나)",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

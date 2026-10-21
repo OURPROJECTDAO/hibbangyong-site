@@ -11,20 +11,21 @@
  "word": "diarrhea",
  "slug": "diarrhea",
  "url": "https://hibbangyong.com/words/diarrhea/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "설사 — 똥이 물처럼 묽게, 자꾸 나오는 것",
  "gloss_ko": "설사",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "상한 우유 마시고 나서 화장실을 몇 번이나 들락날락했어.",
   "나올 때마다 물처럼 묽게 쭉 나와. 이게 diarrhea야.",
   "장염이든 긴장이든 이유는 여러 가지일 수 있어. 핵심은 묽고 자주 나온다는 거야.",
   "그냥 배만 아픈 거나 토하는 거랑은 달라. 오히려 안 나와서 고생하는 거랑은 정반대고."
  ],
+ "explanation_for_kids": null,
  "scene": "상한 우유 마시고 화장실 들락날락",
  "examples": [
   {

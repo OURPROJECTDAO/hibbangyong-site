@@ -11,21 +11,22 @@
  "word": "intent",
  "slug": "intent",
  "url": "https://hibbangyong.com/words/intent/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "하려고 마음먹은 것 — 하기 전에 속으로 '이걸 하겠다'고 정해 둔 마음",
  "gloss_ko": "하려고 마음먹은 것",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "민수가 벌떡 일어나 부엌으로 갔어. 물 마시려고 마음을 딱 정하고 간 거지.",
   "발이 미끄러져 넘어진 건 달라. 그건 정해 둔 게 없이 그냥 일어난 일이거든.",
   "몰래 과자 꺼내러 간 것도 똑같이 쳐 줘. 착한 마음만 세는 게 아니야.",
   "이렇게 하기 전에 속으로 '이걸 하겠다' 하고 정해 둔 마음, 그게 intent야."
  ],
- "scene": "물을 마시려고 마음먹고 부엌으로 걸어간 아이",
+ "explanation_for_kids": null,
+ "scene": "물을 마시려고 마음먹고 부엌으로 걸어간 사람",
  "examples": [
   {
    "en": "He hid the cookie with the intent to eat it all by himself.",
@@ -35,14 +36,14 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "다은이가 크레파스 상자를 열고 책상에 앉아 도화지에 꽃을 그렸어. 꽃을 그리려고 크레파스를 꺼낸 거야. 여기에 'intent'가 있었을까?",
+   "question": "다은이가 카페에 앉아 가방에서 펜을 꺼내 냅킨에 꽃을 그렸어. 꽃을 그리려고 펜을 꺼낸 거야. 여기에 'intent'가 있었을까?",
    "choices": [
     "응, intent 맞아",
     "아니, intent 아니야"
    ],
    "answer_index": 0,
    "answer": "응, intent 맞아",
-   "why": "맞아! 꽃을 그리려고 크레파스를 꺼낸 거잖아. 손이 움직이기 전에 속으로 꽃을 그리겠다고 딱 정해 놓은 마음이 있었던 거야. 그게 바로 intent야."
+   "why": "맞아! 꽃을 그리려고 펜을 꺼낸 거잖아. 손이 움직이기 전에 속으로 꽃을 그리겠다고 딱 정해 놓은 마음이 있었던 거야. 그게 바로 intent야."
   }
  ],
  "synonyms": [
@@ -68,7 +69,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/intent.webp",
-  "alt": "물을 마시려고 마음먹고 부엌으로 걸어간 아이",
+  "alt": "물을 마시려고 마음먹고 부엌으로 걸어간 사람",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,25 +11,26 @@
  "word": "breathe",
  "slug": "breathe",
  "url": "https://hibbangyong.com/words/breathe/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "숨 쉬다 — 공기를 몸 안으로 들이고 다시 밖으로 내보내다",
  "gloss_ko": "숨 쉬다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "지금 이 순간에도 너 하고 있거든? 공기가 몸 안으로 쓱 들어갔다가 다시 밖으로 나가. 들어갔다 나갔다, 들어갔다 나갔다.",
   "자면서도 안 멈춰. 가만히 앉아 있을 때도, 계단 오르며 헉헉댈 때도, 물속 물고기도 물에서 그렇게 해.",
   "숨을 꾹 참는 거랑은 딴판이야. 참는 건 잠깐 멈추는 거고, 이건 쉬지 않고 들락날락하는 거야.",
   "그게 breathe야."
  ],
+ "explanation_for_kids": null,
  "scene": "지금 이 순간 공기가 몸 안으로 들어갔다 나가는 중립 상태",
  "examples": [
   {
-   "en": "Fish breathe under water, and we breathe up here in the air.",
-   "ko": "물고기는 물속에서 숨 쉬고, 우리는 여기 공기 중에서 숨 쉬어."
+   "en": "At the gym, I try to breathe slowly between sets.",
+   "ko": "헬스장에서 나는 세트 사이에 천천히 숨 쉬려고 해."
   }
  ],
  "quiz": [

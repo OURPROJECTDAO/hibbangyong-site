@@ -11,15 +11,21 @@
  "word": "knee",
  "slug": "knee",
  "url": "https://hibbangyong.com/words/knee/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "무릎 — 다리 한가운데서 접혔다 펴졌다 하는 자리",
  "gloss_ko": "무릎",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "다리를 쭉 펴봐. 곧은 막대 같지?",
+  "이제 앉아봐. 다리 한가운데가 딱 접히지? 거기야.",
+  "여기가 있어서 앉고, 뛰고, 계단도 오르는 거거든? 없으면 다리가 통나무처럼 뻣뻣해서 앉지도 못해.",
+  "넘어져서 까지는 데도 여기, 축구공 튕겨 올릴 때 쓰는 데도 여기야. 그게 knee야."
+ ],
+ "explanation_for_kids": [
   "다리를 쭉 펴봐. 곧은 막대 같지?",
   "이제 앉아봐. 다리 한가운데가 딱 접히지? 거기야.",
   "여기가 있어서 앉고, 뛰고, 계단도 오르는 거거든? 없으면 다리가 통나무처럼 뻣뻣해서 앉지도 못해.",
@@ -28,8 +34,8 @@
  "scene": "다리를 폈다가 앉을 때 한가운데가 접히는 순간",
  "examples": [
   {
-   "en": "I bumped my knee on the table and it hurt a lot.",
-   "ko": "탁자에 무릎을 부딪혔는데 엄청 아팠어."
+   "en": "My knee hurts after running on the treadmill.",
+   "ko": "러닝머신에서 뛰고 나니까 무릎이 아파."
   }
  ],
  "quiz": [

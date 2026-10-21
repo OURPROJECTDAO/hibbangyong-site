@@ -11,31 +11,37 @@
  "word": "extra",
  "slug": "extra",
  "url": "https://hibbangyong.com/words/extra/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "정해진 만큼 말고 그 밖에 더 붙은 것 — 반가운 덤일 수도, 귀찮은 짐일 수도",
  "gloss_ko": "원래보다 더 붙은 것",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "식탁에 의자가 네 개야. 그런데 오늘은 손님까지 다섯이 앉아야 해.",
+  "그래서 옆방에서 의자를 하나 갖고 나왔어. 원래 그 자리에 없던 의자지?",
+  "좋은 것만 그런 게 아니야. 가방에 짐이 하나 늘어도, 낼 돈이 조금 붙어도 똑같아.",
+  "쓰다 남은 게 아니라 정해진 것 밖에서 더 붙은 거, 그게 extra야. 하나든 열이든 똑같아."
+ ],
+ "explanation_for_kids": [
   "식탁에 의자가 네 개야. 그런데 오늘은 할머니까지 다섯이 앉아야 해.",
   "그래서 옆방에서 의자를 하나 갖고 나왔어. 원래 그 자리에 없던 의자지?",
   "좋은 것만 그런 게 아니야. 가방에 짐이 하나 늘어도, 낼 돈이 조금 붙어도 똑같아.",
   "쓰다 남은 게 아니라 정해진 것 밖에서 더 붙은 거, 그게 extra야. 하나든 열이든 똑같아."
  ],
- "scene": "할머니가 오셔서 옆방에서 갖고 나온 다섯 번째 의자",
+ "scene": "손님이 와서 옆방에서 갖고 나온 다섯 번째 의자",
  "examples": [
   {
-   "en": "The bus was full, so we waited ten extra minutes.",
-   "ko": "버스가 꽉 차서 우리는 10분을 더 기다렸어."
+   "en": "My boss asked me to work one extra hour today.",
+   "ko": "사장님이 오늘 한 시간 더 일해 달라고 했어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "우리 반은 한 사람이 공책을 두 권씩 받기로 했어. 지호는 두 권을 받은 다음에 한 권을 더 받아서 세 권이 됐어. 지호가 더 받은 그 한 권, 이게 'extra'야?",
+   "question": "우리 회사는 한 사람이 업무용 수첩을 두 권씩 받기로 했어. 지호는 두 권을 받은 다음에 한 권을 더 받아서 세 권이 됐어. 지호가 더 받은 그 한 권, 이게 'extra'야?",
    "choices": [
     "응, extra 맞아",
     "아니, extra 아니야"
@@ -63,7 +69,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/extra.webp",
-  "alt": "할머니가 오셔서 옆방에서 갖고 나온 다섯 번째 의자",
+  "alt": "손님이 와서 옆방에서 갖고 나온 다섯 번째 의자",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

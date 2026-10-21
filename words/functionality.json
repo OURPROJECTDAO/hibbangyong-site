@@ -11,38 +11,44 @@
  "word": "functionality",
  "slug": "functionality",
  "url": "https://hibbangyong.com/words/functionality/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "쓸모(실용성) — 물건이나 프로그램이 맡은 일을 실제로 얼마나 잘 해내는지, 할 수 있는 일이 어디까지인지",
  "gloss_ko": "실제 쓸모",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "예쁜 가방인데 안에 칸이 없어서 책이랑 지갑이 늘 뒤엉킨다고 해 봐. 보기에는 좋아도 쓰기에는 별로지.",
+  "물건이든 프로그램이든, 맡은 일을 실제로 얼마나 잘 해내는지, 어디까지 해낼 수 있는지를 functionality라고 해.",
+  "좋을 때만 쓰는 말은 아니야. 업데이트하고 나서 앱에서 저장이 안 되면 functionality가 망가졌다고 해.",
+  "겉모습이나 가격, 인기랑은 달라. 그건 쓸모가 아니라 바깥에서 매기는 얘기거든."
+ ],
+ "explanation_for_kids": [
   "예쁜 가방인데 안에 칸이 없어서 책이랑 필통이 늘 뒤엉킨다고 해 봐. 보기에는 좋아도 쓰기에는 별로지.",
   "물건이든 프로그램이든, 맡은 일을 실제로 얼마나 잘 해내는지, 어디까지 해낼 수 있는지를 functionality라고 해.",
   "좋을 때만 쓰는 말은 아니야. 업데이트하고 나서 앱에서 저장이 안 되면 functionality가 망가졌다고 해.",
   "겉모습이나 가격, 인기랑은 달라. 그건 쓸모가 아니라 바깥에서 매기는 얘기거든."
  ],
- "scene": "칸이 없어 책과 필통이 뒤엉키는 예쁜 가방",
+ "scene": "칸이 없어 책과 지갑이 뒤엉키는 예쁜 가방",
  "examples": [
   {
-   "en": "The old kitchen looks nice, but its functionality is poor because there is no place to put anything.",
-   "ko": "그 오래된 부엌은 보기엔 괜찮은데, 물건 둘 데가 하나도 없어서 쓰기엔 영 별로야."
+   "en": "The old kitchen looks nice, but its functionality is poor. There's no storage.",
+   "ko": "그 오래된 부엌은 보기엔 괜찮은데 쓰기엔 영 별로야. 수납할 데가 없거든."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "새로 산 접이식 우산이 바람만 조금 불면 뒤집혀서 비를 제대로 못 막아. 형이 이걸 보고 이 우산의 'functionality' 얘기라고 했어. 형 말이 맞아?",
+   "question": "새로 산 접이식 우산이 바람만 조금 불면 뒤집혀서 비를 제대로 못 막아. 친구가 이걸 보고 이 우산의 'functionality' 얘기라고 했어. 친구 말이 맞아?",
    "choices": [
     "응, 그 얘기 맞아",
     "아니, 그 얘기 아니야"
    ],
    "answer_index": 0,
    "answer": "응, 그 얘기 맞아",
-   "why": "맞아! 우산이 할 일은 비를 막는 건데, 바람만 조금 불어도 뒤집혀서 그걸 제대로 못 하잖아. 맡은 일을 실제로 얼마나 해내느냐가 바로 functionality라서 형 말이 딱 맞아."
+   "why": "맞아! 우산이 할 일은 비를 막는 건데, 바람만 조금 불어도 뒤집혀서 그걸 제대로 못 하잖아. 맡은 일을 실제로 얼마나 해내느냐가 바로 functionality라서 친구 말이 딱 맞아."
   }
  ],
  "synonyms": [],
@@ -63,7 +69,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/functionality.webp",
-  "alt": "칸이 없어 책과 필통이 뒤엉키는 예쁜 가방",
+  "alt": "칸이 없어 책과 지갑이 뒤엉키는 예쁜 가방",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

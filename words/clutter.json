@@ -11,38 +11,44 @@
  "word": "clutter",
  "slug": "clutter",
  "url": "https://hibbangyong.com/words/clutter/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "어질러진 물건들 — 정리가 안 된 채 너무 많이 널려 있어서 자리를 막고 어수선하게 만드는 것들",
  "gloss_ko": "어질러진 물건들",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "책상 위에 전공책, 충전기, 프린트, 지난주에 받은 쪽지가 한데 섞여 쌓여 있어.",
+  "필요한 것도 있고 이제 필요 없는 것도 있어. 근데 너무 많아서 공책 펼 자리가 없지. 이 어수선한 더미가 clutter야.",
+  "휴대폰 화면에 앱이 빽빽하게 깔려 있어도 clutter라고 해. 글에 필요 없는 말이 잔뜩 끼어 있어서 읽기 힘들 때도 똑같이 써.",
+  "더러운 거랑은 달라. 먼지나 얼룩이 문제가 아니라, 너무 많이 널려서 자리를 막는 게 문제야."
+ ],
+ "explanation_for_kids": [
   "책상 위에 교과서, 충전기, 프린트, 지난주에 받은 쪽지가 한데 섞여 쌓여 있어.",
   "필요한 것도 있고 이제 필요 없는 것도 있어. 근데 너무 많아서 공책 펼 자리가 없지. 이 어수선한 더미가 clutter야.",
   "휴대폰 화면에 앱이 빽빽하게 깔려 있어도 clutter라고 해. 글에 필요 없는 말이 잔뜩 끼어 있어서 읽기 힘들 때도 똑같이 써.",
   "더러운 거랑은 달라. 먼지나 얼룩이 문제가 아니라, 너무 많이 널려서 자리를 막는 게 문제야."
  ],
- "scene": "교과서·충전기·프린트·쪽지가 섞여 쌓인 책상",
+ "scene": "전공책·충전기·프린트·쪽지가 섞여 쌓인 책상",
  "examples": [
   {
-   "en": "I spent an hour clearing the clutter from my desk before the exam.",
-   "ko": "시험 전에 책상에 어질러진 물건들 치우느라 한 시간이나 걸렸어."
+   "en": "I spent an hour clearing the clutter off my desk at work.",
+   "ko": "회사 책상에 어질러진 물건들 치우느라 한 시간이나 걸렸어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "학교 사물함을 열었더니 교과서 세 권만 한쪽에 나란히 세워져 있고 나머지 칸은 비어 있어. 이 사물함 안의 모습을 'clutter'라고 할 수 있어?",
+   "question": "회사 사물함을 열었더니 책 세 권만 한쪽에 나란히 세워져 있고 나머지 칸은 비어 있어. 이 사물함 안의 모습을 'clutter'라고 할 수 있어?",
    "choices": [
     "응, clutter 맞아",
     "아니, clutter 아니야"
    ],
    "answer_index": 1,
    "answer": "아니, clutter 아니야",
-   "why": "맞아! 교과서 세 권만 한쪽에 나란히 서 있고 나머지 칸은 비어 있잖아. 물건이 적고 제자리에 있어서 자리를 막는 게 하나도 없으니까 clutter가 아닌 거야."
+   "why": "맞아! 책 세 권만 한쪽에 나란히 서 있고 나머지 칸은 비어 있잖아. 물건이 적고 제자리에 있어서 자리를 막는 게 하나도 없으니까 clutter가 아닌 거야."
   }
  ],
  "synonyms": [],
@@ -61,7 +67,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/clutter.webp",
-  "alt": "교과서·충전기·프린트·쪽지가 섞여 쌓인 책상",
+  "alt": "전공책·충전기·프린트·쪽지가 섞여 쌓인 책상",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

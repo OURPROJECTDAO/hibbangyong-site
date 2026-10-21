@@ -11,21 +11,27 @@
  "word": "attainment",
  "slug": "attainment",
  "url": "https://hibbangyong.com/words/attainment/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "달성 — 노리던 목표나 어떤 수준에 실제로 닿는 것(닿은 그 수준을 가리키기도 해)",
  "gloss_ko": "달성",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "자격시험 목표를 80점으로 잡고 몇 주 준비했는데, 진짜 80점에 닿았어.",
+  "이렇게 노리던 목표나 수준에 실제로 닿는 게 attainment야.",
+  "나라가 독립을 이룬 것도, 사람마다 배움이 어디까지 닿았는지도 이 말로 해. 그 수준이 높든 낮든 상관없어.",
+  "애쓰는 중이거나 거의 다 간 것과는 달라. 진짜 닿아야 해."
+ ],
+ "explanation_for_kids": [
   "수행평가 목표를 80점으로 잡고 몇 주 준비했는데, 진짜 80점에 닿았어.",
   "이렇게 노리던 목표나 수준에 실제로 닿는 게 attainment야.",
   "나라가 독립을 이룬 것도, 사람마다 배움이 어디까지 닿았는지도 이 말로 해. 그 수준이 높든 낮든 상관없어.",
   "애쓰는 중이거나 거의 다 간 것과는 달라. 진짜 닿아야 해."
  ],
- "scene": "수행평가 목표 점수 80점에 닿음",
+ "scene": "자격시험 목표 점수 80점에 닿음",
  "examples": [
   {
    "en": "For my grandma, learning to send a text message was a real attainment.",
@@ -35,12 +41,12 @@
  "quiz": [
   {
    "type": "choice",
-   "question": "우리 반 친구들이 지난주에 한 일들이야. 다음 중 'attainment'에 해당하는 것은?",
+   "question": "친구들이 지난주에 한 일들이야. 다음 중 'attainment'에 해당하는 것은?",
    "choices": [
     "도윤이가 낡은 운동화를 새것으로 바꿨다",
-    "지호가 주말에 할머니 댁에 놀러 갔다",
+    "지호가 주말에 친구 집에 놀러 갔다",
     "하은이가 준비하던 수영 3급 시험에 붙었다",
-    "서아가 더운 교실의 창문을 활짝 열었다"
+    "서아가 더운 방의 창문을 활짝 열었다"
    ],
    "answer_index": 2,
    "answer": "하은이가 준비하던 수영 3급 시험에 붙었다",

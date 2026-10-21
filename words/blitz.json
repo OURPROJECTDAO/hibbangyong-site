@@ -11,38 +11,44 @@
  "word": "blitz",
  "slug": "blitz",
  "url": "https://hibbangyong.com/words/blitz/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "짧게 확 몰아붙이기(집중 공세) — 짧은 시간 동안 힘을 한데 모아 한꺼번에 몰아붙이는 것",
  "gloss_ko": "짧게 확 몰아치기",
  "level": {
   "code": "L9",
-  "name": "토플 114~120점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "축제 일주일 전, 총학생회가 캠퍼스 복도랑 계단, 학생식당까지 포스터를 싹 도배해 버렸어.",
+  "짧은 시간에 힘을 다 모아서 확 몰아붙이는 것, 그런 걸 blitz라고 해. 여럿이 해도, 나 혼자 주말에 방 청소를 확 끝내도 다 blitz야.",
+  "원래는 전쟁에서 짧고 세게 퍼붓는 공격을 부르던 말이야. 독일어로 번개라는 뜻이래.",
+  "한 달 내내 차근차근 하는 건 blitz가 아니야. 시간이 짧아도 설렁설렁 조금만 하면 그것도 아니고. 짧게, 그리고 세게 쏟아붓는 게 핵심이야."
+ ],
+ "explanation_for_kids": [
   "축제까지 딱 일주일 남았을 때, 학생회가 복도랑 계단, 급식실까지 포스터를 싹 도배해 버렸어.",
   "짧은 시간에 힘을 다 모아서 확 몰아붙이는 것, 그런 걸 blitz라고 해. 여럿이 해도, 나 혼자 주말에 방 청소를 확 끝내도 다 blitz야.",
   "원래는 전쟁에서 짧고 세게 퍼붓는 공격을 부르던 말이야. 독일어로 번개라는 뜻이래.",
   "한 달 내내 차근차근 하는 건 blitz가 아니야. 시간이 짧아도 설렁설렁 조금만 하면 그것도 아니고. 짧게, 그리고 세게 쏟아붓는 게 핵심이야."
  ],
- "scene": "축제 일주일 전 학생회의 복도·계단·급식실 포스터 도배",
+ "scene": "축제 일주일 전 총학생회 복도·계단·학생식당 포스터 도배",
  "examples": [
   {
-   "en": "The student council started a poster blitz a week before the school festival.",
-   "ko": "학교 축제 일주일 전에 학생회가 포스터를 한꺼번에 쫙 붙이면서 몰아쳤어."
+   "en": "The student council started a poster blitz a week before the campus festival.",
+   "ko": "대학 축제 일주일 전에 학생회가 포스터를 한꺼번에 쫙 붙이면서 몰아쳤어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "우리 반 친구들이 한 학기 동안 일주일에 한 번씩 돌아가며 교실 화분에 물을 조금씩 줬어. 이렇게 화분을 돌본 걸 'blitz'라고 할 수 있을까?",
+   "question": "우리 팀 동료들이 반년 동안 일주일에 한 번씩 돌아가며 사무실 화분에 물을 조금씩 줬어. 이렇게 화분을 돌본 걸 'blitz'라고 할 수 있을까?",
    "choices": [
     "응, blitz 맞아",
     "아니, blitz 아니야"
    ],
    "answer_index": 1,
    "answer": "아니, blitz 아니야",
-   "why": "맞아! 한 학기 내내 일주일에 한 번씩 물을 조금씩 준 거라서, 짧게 세게 몰아붙이는 blitz랑은 정반대야. 오래, 조금씩, 꾸준히 한 거니까 blitz가 아닌 거지."
+   "why": "맞아! 반년 내내 일주일에 한 번씩 물을 조금씩 준 거라서, 짧게 세게 몰아붙이는 blitz랑은 정반대야. 오래, 조금씩, 꾸준히 한 거니까 blitz가 아닌 거지."
   }
  ],
  "synonyms": [],
@@ -61,7 +67,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/blitz.webp",
-  "alt": "축제 일주일 전 학생회의 복도·계단·급식실 포스터 도배",
+  "alt": "축제 일주일 전 총학생회 복도·계단·학생식당 포스터 도배",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

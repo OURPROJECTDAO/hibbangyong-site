@@ -11,25 +11,31 @@
  "word": "contest",
  "slug": "contest",
  "url": "https://hibbangyong.com/words/contest/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "대회 — 여럿이 겨뤄서 누가 제일 잘하나 가리고, 이긴 사람한테 상을 주는 것.",
  "gloss_ko": "대회",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "동아리에서 누가 제일 잘 그리나 뽑아서 상을 준대. 그래서 너도 나도 다 그렸어, 이기려고!",
+  "달리기든 노래든 그림이든, 여럿이 겨뤄서 딱 이기는 사람을 가리면 그게 다 이거야.",
+  "근데 그냥 재밌게 노는 거랑은 달라. 여긴 이기는 사람이 정해지거든.",
+  "이게 contest야."
+ ],
+ "explanation_for_kids": [
   "반에서 그림을 그렸는데, 누가 제일 잘 그렸나 뽑아서 상을 준대. 너도 나도 다 나갔어, 이기려고!",
   "달리기든 노래든 그림이든, 여럿이 겨뤄서 딱 이기는 사람을 가리면 그게 다 이거야.",
   "근데 그냥 재밌게 노는 거랑은 달라. 여긴 이기는 사람이 정해지거든.",
   "이게 contest야."
  ],
- "scene": "반 그림 대회에서 1등을 뽑아 상 주는 장면",
+ "scene": "그림 대회에서 1등을 뽑아 상 주는 장면",
  "examples": [
   {
-   "en": "I won first place in the drawing contest at school.",
-   "ko": "나는 학교 그림 대회에서 1등을 했어."
+   "en": "I won first place in the photo contest at work.",
+   "ko": "나는 회사 사진 대회에서 1등을 했어."
   }
  ],
  "quiz": [
@@ -64,7 +70,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/contest.webp",
-  "alt": "반 그림 대회에서 1등을 뽑아 상 주는 장면",
+  "alt": "그림 대회에서 1등을 뽑아 상 주는 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

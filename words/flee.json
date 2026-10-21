@@ -11,25 +11,26 @@
  "word": "flee",
  "slug": "flee",
  "url": "https://hibbangyong.com/words/flee/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "도망치다 — 나쁜 일이 닥칠 것 같은 자리에서 벗어나려고 그곳을 뜨는 것",
  "gloss_ko": "도망치다",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "공놀이하다가 뻥! 찬 공에 유리창이 쨍그랑 깨졌어.",
   "그다음 애들이 어떻게 했게? 다들 그 자리에서 후다닥 흩어져 버렸지.",
   "flee는 이렇게 나쁜 일이 닥칠 자리에서 벗어나려고 그곳을 뜨는 거야. 겁이 나서든, 혼날까 봐서든, 붙잡힐까 봐서든 다 돼. 후다닥 뛰어도 되고, 짐을 챙겨 서둘러 다른 동네로 옮겨 가도 되고.",
   "그 자리에 남아 몰래 숨는 거랑은 달라. 그곳을 아예 뜨는 것, 그게 flee야."
  ],
+ "explanation_for_kids": null,
  "scene": "공에 유리창이 깨지자 아이들이 그 자리에서 흩어지는 장면",
  "examples": [
   {
-   "en": "The boys fled the playground when the window broke.",
-   "ko": "창문이 깨지자 남자애들은 놀이터에서 도망쳤어."
+   "en": "Everyone had to flee the building when the fire started.",
+   "ko": "불이 나자 다들 건물 밖으로 도망쳐야 했어."
   }
  ],
  "quiz": [

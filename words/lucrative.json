@@ -11,25 +11,31 @@
  "word": "lucrative",
  "slug": "lucrative",
  "url": "https://hibbangyong.com/words/lucrative/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "돈벌이가 잘되는 — 하고 나면 손에 남는 돈이 큰 (일·사업·거래)",
  "gloss_ko": "돈이 많이 남는",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "대학 축제 때 떡볶이 부스는 줄이 제일 길었어. 근데 재료비 빼고 나니 남은 돈이 거의 없었지.",
+  "구석에서 조용히 판 쿠키는 손님이 적었는데, 끝나고 세어 보니 돈이 훨씬 많이 남았어.",
+  "lucrative는 쿠키 쪽이야. 인기가 많거나 값이 비싼 거랑은 달라. 하고 나서 손에 남는 돈이 큰 거야.",
+  "알바든 직업이든 사업이든 거래든, 돈이 잘 벌리는 일이면 다 이 말을 써."
+ ],
+ "explanation_for_kids": [
   "학교 축제 때 떡볶이 부스는 줄이 제일 길었어. 근데 재료비 빼고 나니 남은 돈이 거의 없었지.",
   "구석에서 조용히 판 쿠키는 손님이 적었는데, 끝나고 세어 보니 돈이 훨씬 많이 남았어.",
   "lucrative는 쿠키 쪽이야. 인기가 많거나 값이 비싼 거랑은 달라. 하고 나서 손에 남는 돈이 큰 거야.",
   "알바든 직업이든 사업이든 거래든, 돈이 잘 벌리는 일이면 다 이 말을 써."
  ],
- "scene": "학교 축제에서 줄은 길었지만 남은 돈이 거의 없던 떡볶이 부스",
+ "scene": "대학 축제에서 줄은 길었지만 남은 돈이 거의 없던 떡볶이 부스",
  "examples": [
   {
-   "en": "Our cookie stand was small, but it was the most lucrative one at the school festival.",
-   "ko": "우리 쿠키 가게는 작았는데, 학교 축제에서 돈이 제일 많이 남은 곳이었어."
+   "en": "Tutoring math on weekends is a lucrative side job.",
+   "ko": "주말에 수학 과외하는 건 돈이 꽤 많이 남는 부업이야."
   }
  ],
  "quiz": [
@@ -64,7 +70,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/lucrative.webp",
-  "alt": "학교 축제에서 줄은 길었지만 남은 돈이 거의 없던 떡볶이 부스",
+  "alt": "대학 축제에서 줄은 길었지만 남은 돈이 거의 없던 떡볶이 부스",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

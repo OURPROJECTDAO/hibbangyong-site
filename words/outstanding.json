@@ -11,38 +11,44 @@
  "word": "outstanding",
  "slug": "outstanding",
  "url": "https://hibbangyong.com/words/outstanding/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "뛰어난 — 여럿 사이에 섞여 있어도 수준이 확 높아서 혼자 눈에 들어오는",
  "gloss_ko": "뛰어난",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "동아리 그림을 죄다 벽에 붙였어. 지나가는데 한 장에서 눈이 딱 멈춰. 여럿 사이에 섞여 있는데도 혼자 눈에 들어오거든. 그만큼 좋아서.",
+  "그림 같은 솜씨만 그런 게 아니야. 누가 한 일도, 누가 보여 준 마음도 그래. 다들 무서워서 뒤로 물러날 때 혼자 다친 친구 옆을 지킨 사람, 그 마음이 그래.",
+  "등수를 매겨서 꼭대기라는 말은 아니야. 순위표가 없어도, 한 무리에 여럿이 그럴 수도 있어.",
+  "눈에 띄긴 해도 별나서 띄는 거랑은 달라. 이게 outstanding이야."
+ ],
+ "explanation_for_kids": [
   "반 아이들 그림을 죄다 벽에 붙였어. 지나가는데 한 장에서 눈이 딱 멈춰. 여럿 사이에 섞여 있는데도 혼자 눈에 들어오거든. 그만큼 좋아서.",
   "그림 같은 솜씨만 그런 게 아니야. 누가 한 일도, 누가 보여 준 마음도 그래. 다들 무서워서 뒤로 물러날 때 혼자 다친 친구 옆을 지킨 아이, 그 마음이 그래.",
   "등수를 매겨서 꼭대기라는 말은 아니야. 순위표가 없어도, 한 무리에 여럿이 그럴 수도 있어.",
   "눈에 띄긴 해도 별나서 띄는 거랑은 달라. 이게 outstanding이야."
  ],
- "scene": "벽에 붙인 반 아이들 그림 중 한 장에서 눈이 멈추는 장면",
+ "scene": "벽에 붙인 동아리 그림 중 한 장에서 눈이 멈추는 장면",
  "examples": [
   {
-   "en": "There were fifty drawings on the wall, but one of them was outstanding.",
-   "ko": "벽에 그림 50장이 붙어 있었는데 그중 한 장이 유난히 뛰어났어."
+   "en": "We interviewed ten people, but one of them was outstanding.",
+   "ko": "우리가 열 명을 면접 봤는데 그중 한 명이 유난히 뛰어났어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "우리 반 스무 명이 다 같이 종이비행기를 접어서 한 번씩 날렸어. 열아홉 대는 몇 걸음 가다 떨어졌는데, 민수가 접은 건 교실 끝까지 쭉 날아가서 벽에 닿았어. 민수가 접은 비행기, 이거 'outstanding'이야?",
+   "question": "모임 사람 스무 명이 다 같이 종이비행기를 접어서 한 번씩 날렸어. 열아홉 대는 몇 걸음 가다 떨어졌는데, 민수가 접은 건 강당 끝까지 쭉 날아가서 벽에 닿았어. 민수가 접은 비행기, 이거 'outstanding'이야?",
    "choices": [
     "응, outstanding 맞아",
     "아니, outstanding 아니야"
    ],
    "answer_index": 0,
    "answer": "응, outstanding 맞아",
-   "why": "맞아! 스무 대가 다 같이 날았는데 열아홉 대는 몇 걸음 가다 떨어지고 민수 것만 교실 끝까지 갔잖아. 같은 무리에 섞여 있는데도 혼자 눈에 딱 들어오는 거, 그게 바로 outstanding인 거야."
+   "why": "맞아! 스무 대가 다 같이 날았는데 열아홉 대는 몇 걸음 가다 떨어지고 민수 것만 강당 끝까지 갔잖아. 같은 무리에 섞여 있는데도 혼자 눈에 딱 들어오는 거, 그게 바로 outstanding인 거야."
   }
  ],
  "synonyms": [],
@@ -61,7 +67,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/outstanding.webp",
-  "alt": "벽에 붙인 반 아이들 그림 중 한 장에서 눈이 멈추는 장면",
+  "alt": "벽에 붙인 동아리 그림 중 한 장에서 눈이 멈추는 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,25 +11,26 @@
  "word": "environmental",
  "slug": "environmental",
  "url": "https://hibbangyong.com/words/environmental/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "환경의 — 공기·물·땅과 거기 사는 생물들이 어떻게 되느냐에 관한 (좋은 쪽이든 나쁜 쪽이든)",
  "gloss_ko": "공기·물·땅의",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "봐봐, 우리 둘레엔 공기, 물, 땅이 있고, 거기 사는 나무랑 물고기랑 새도 있지? 이걸 다 합쳐서 '환경'이라고 해.",
   "강물이 더러워지는 것도, 숲에 나무를 새로 심는 것도 다 환경이 어떻게 되느냐의 일이야. 나쁜 쪽이든 좋은 쪽이든 상관없어.",
   "그걸 지키는 사람, 그걸 공부하는 사람, 그걸 위한 규칙에도 이 말을 붙여. 근데 우리 집 강아지가 아픈 거나 내일 비 오는 건 달라. 그건 그냥 우리 집 일이고, 그날 날씨 일이거든.",
   "이렇게 우리 둘레 자연이 어떻게 되느냐에 관한 거, 그게 environmental이야."
  ],
+ "explanation_for_kids": null,
  "scene": "우리 둘레의 공기·물·땅과 나무·물고기·새",
  "examples": [
   {
    "en": "The smoke from that factory is a big environmental problem for our town.",
-   "ko": "저 공장에서 나오는 연기는 우리 동네에 큰 환경 문제야. 공기를 더럽히거든."
+   "ko": "저 공장에서 나오는 연기는 우리 동네의 큰 환경 문제야."
   }
  ],
  "quiz": [

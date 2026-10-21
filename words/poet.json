@@ -11,25 +11,26 @@
  "word": "poet",
  "slug": "poet",
  "url": "https://hibbangyong.com/words/poet/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "시인 — 시를 지어내는 사람",
  "gloss_ko": "시인",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "어떤 사람은 말을 하나하나 고르고 골라서 글을 짧게 지어. 줄도 툭툭 끊어서 말이야.",
   "기쁜 얘기만 짓는 게 아니야. 화난 얘기도, 무서운 얘기도 다 그렇게 지어.",
   "남이 지은 걸 멋지게 읽어 주는 사람이랑은 달라. 이 사람은 자기가 지어내는 쪽이거든.",
   "그게 poet야."
  ],
+ "explanation_for_kids": null,
  "scene": "말을 골라 짧게 줄 끊어 글을 짓는 사람",
  "examples": [
   {
-   "en": "A famous poet came to our school today and read us something scary about the dark.",
-   "ko": "오늘 유명한 시인이 우리 학교에 와서 어둠에 대한 무서운 시를 읽어줬어."
+   "en": "A famous poet gave a reading at the bookstore near my office.",
+   "ko": "회사 근처 서점에서 유명한 시인이 낭독회를 했어."
   }
  ],
  "quiz": [

@@ -11,25 +11,26 @@
  "word": "gig",
  "slug": "gig",
  "url": "https://hibbangyong.com/words/gig/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "공연 — 가수나 밴드가 무대에 올라 음악을 들려주는 한 번의 라이브 무대(작은 카페 무대부터 큰 콘서트까지)",
  "gloss_ko": "라이브 공연",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "동네 카페 구석의 작은 무대에서 인디 밴드가 노래 다섯 곡을 불렀어.",
   "큰 공연장에서 만 명 앞에서 하는 콘서트도 똑같이 gig라고 해. 크기는 상관없어.",
   "중요한 건 음악하는 사람이 날을 잡고 가서 하는 한 번의 무대라는 거야.",
   "연습실에서 혼자 치는 건 gig가 아니야. 누군가 들으러 온 자리여야 해."
  ],
+ "explanation_for_kids": null,
  "scene": "동네 카페 작은 무대의 인디 밴드 공연",
  "examples": [
   {
-   "en": "My brother's band played its first gig at a small cafe last Friday.",
-   "ko": "우리 형 밴드가 지난 금요일에 작은 카페에서 첫 공연을 했어."
+   "en": "My friend's band played its first gig at a small cafe last Friday.",
+   "ko": "친구 밴드가 지난 금요일에 작은 카페에서 첫 공연을 했어."
   }
  ],
  "quiz": [

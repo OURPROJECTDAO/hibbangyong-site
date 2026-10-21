@@ -11,25 +11,26 @@
  "word": "tap",
  "slug": "tap",
  "url": "https://hibbangyong.com/words/tap/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "톡 치다 — 가볍고 짧게 한 번(또는 톡톡 여러 번) 닿았다 바로 떼는 것",
  "gloss_ko": "톡 치다",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "밤에 창문에서 톡, 톡, 톡 소리 나 본 적 있어? 빗방울이 유리를 아주 가볍게, 짧게 건드리는 소리야.",
   "꾹 눌러서 붙여 두는 것도 아니고, 쿵쿵 세게 두드리는 것도 아니야. 닿았다가 바로 떨어져.",
   "손가락으로 화면에, 발끝으로 바닥에, 그렇게도 할 수 있어.",
   "그게 tap이야."
  ],
+ "explanation_for_kids": null,
  "scene": "밤에 빗방울이 창유리를 톡톡 건드리는 소리",
  "examples": [
   {
-   "en": "I tapped my friend's shoulder and pointed at the bird.",
-   "ko": "친구 어깨를 톡 치고 새를 가리켰어."
+   "en": "Tap me on the shoulder if I fall asleep on the subway.",
+   "ko": "나 지하철에서 잠들면 어깨 톡 쳐 줘."
   }
  ],
  "quiz": [

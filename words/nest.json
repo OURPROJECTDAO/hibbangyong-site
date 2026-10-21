@@ -11,23 +11,24 @@
  "word": "nest",
  "slug": "nest",
  "url": "https://hibbangyong.com/words/nest/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "둥지 — 새가 나뭇가지와 마른 풀을 엮어 알을 낳고 새끼를 키우는 곳",
  "gloss_ko": "둥지",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 나뭇가지 위에 동그랗게 엮여 알이 담긴 것이 바로 nest예요.",
   "봄이 되면 나무나 지붕 밑에서 새가 만든 nest를 찾아볼 수 있어요."
  ],
- "scene": "나뭇가지 위에 얹힌 둥근 새 둥지, 마른 잔가지로 촘촘히 엮이고 안에 작은 알 세 개(가장 전형적인 '새 둥지'로 그림)",
+ "explanation_for_kids": null,
+ "scene": "나뭇가지 위에 얹힌 둥근 새 둥지, 마른 잔가지로 촘촘히 엮이고 안에 작은 알 세 개",
  "examples": [
   {
-   "en": "The little bird flew back to its nest in the tall tree.",
-   "ko": "작은 새가 큰 나무에 있는 둥지로 다시 날아갔어."
+   "en": "A bird built a nest on my balcony.",
+   "ko": "새 한 마리가 우리 집 베란다에 둥지를 지었어."
   }
  ],
  "quiz": [
@@ -56,7 +57,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/nest.webp",
-  "alt": "나뭇가지 위에 얹힌 둥근 새 둥지, 마른 잔가지로 촘촘히 엮이고 안에 작은 알 세 개(가장 전형적인 '새 둥지'로 그림)",
+  "alt": "나뭇가지 위에 얹힌 둥근 새 둥지, 마른 잔가지로 촘촘히 엮이고 안에 작은 알 세 개",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

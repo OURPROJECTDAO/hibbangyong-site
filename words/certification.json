@@ -11,38 +11,44 @@
  "word": "certification",
  "slug": "certification",
  "url": "https://hibbangyong.com/words/certification/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "인증(기준을 통과했다고 인정해 주기) — 사람이나 물건이 정해진 기준을 통과했다고 공식적으로 인정해 주는 것",
  "gloss_ko": "기준 통과 인정",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "전자 제품 상자에 붙은 안전 마크 봤지? 검사하는 곳에서 정해진 기준대로 확인하고 통과라고 공식으로 인정해 준 표시야.",
+  "사람도 마찬가지야. 수영 강사가 되려면 시험을 봐서 기준을 넘었다고 공식으로 인정받아야 하거든.",
+  "이렇게 기준을 통과했다고 공식적으로 인정받는 게 certification이야.",
+  "가게 주인이 혼자 우리 게 최고라고 외치는 건 아니야. 1등을 뽑는 상하고도 달라. 등수가 아니라 기준을 넘었느냐가 중요하거든."
+ ],
+ "explanation_for_kids": [
   "장난감 상자에 붙은 안전 마크 봤지? 검사하는 곳에서 정해진 기준대로 확인하고 통과라고 공식으로 인정해 준 표시야.",
   "사람도 마찬가지야. 수영 강사가 되려면 시험을 봐서 기준을 넘었다고 공식으로 인정받아야 하거든.",
   "이렇게 기준을 통과했다고 공식적으로 인정받는 게 certification이야.",
   "가게 주인이 혼자 우리 게 최고라고 외치는 건 아니야. 1등을 뽑는 상하고도 달라. 등수가 아니라 기준을 넘었느냐가 중요하거든."
  ],
- "scene": "장난감 상자의 안전 마크(검사 통과 표시)",
+ "scene": "전자 제품 상자의 안전 마크(검사 통과 표시)",
  "examples": [
   {
-   "en": "The new toy failed to get certification, so stores can't sell it.",
-   "ko": "그 새 장난감은 인증을 못 받아서 가게에서 팔 수가 없어."
+   "en": "The new charger didn't get safety certification, so stores can't sell it.",
+   "ko": "그 새 충전기는 안전 인증을 못 받아서 가게에서 팔 수가 없어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "민호 삼촌이 요리사 자격 시험을 봤어. 시험 기관이 정해 둔 점수 기준을 넘어서 공식 자격증을 받았어. 이게 'certification'이야?",
+   "question": "민호가 요리사 자격 시험을 봤어. 시험 기관이 정해 둔 점수 기준을 넘어서 공식 자격증을 받았어. 이게 'certification'이야?",
    "choices": [
     "응, certification 맞아",
     "아니, certification 아니야"
    ],
    "answer_index": 0,
    "answer": "응, certification 맞아",
-   "why": "맞아! 삼촌이 시험 기관이 정해 둔 점수 기준을 넘었고, 그걸 공식 자격증으로 인정받았잖아. 기준을 통과했다고 공식적으로 인정받은 거니까 바로 그게 certification이야."
+   "why": "맞아! 민호가 시험 기관이 정해 둔 점수 기준을 넘었고, 그걸 공식 자격증으로 인정받았잖아. 기준을 통과했다고 공식적으로 인정받은 거니까 바로 그게 certification이야."
   }
  ],
  "synonyms": [
@@ -57,7 +63,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/certification.webp",
-  "alt": "장난감 상자의 안전 마크(검사 통과 표시)",
+  "alt": "전자 제품 상자의 안전 마크(검사 통과 표시)",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

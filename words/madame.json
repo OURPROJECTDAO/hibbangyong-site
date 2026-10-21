@@ -11,20 +11,21 @@
  "word": "madame",
  "slug": "madame",
  "url": "https://hibbangyong.com/words/madame/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "부인 — 프랑스어를 쓰는 곳에서 어른 여자를 높여 부르는 말. 예전에는 주로 결혼한 여자에게 썼어. 이름 앞에 붙이기도 하고, 이름 없이 그냥 부를 때도 써",
  "gloss_ko": "부인(프랑스어 호칭)",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "퀴리 부인, 들어 봤지? 프랑스에서는 Madame Curie라고 불렀어.",
   "프랑스뿐 아니라 캐나다 퀘벡이나 벨기에처럼 프랑스어를 쓰는 곳이면 어디서나 어른 여자를 높여 부를 때 써. 이름 앞에 붙이기도 하고, 이름을 모르면 그냥 이 말로만 부르기도 해.",
   "예전에는 주로 결혼한 여자에게 썼는데, 요즘은 결혼했는지 따지지 않고 어른 여자면 다 이렇게 불러. 과학자든 손님이든 선생님이든 상관없어.",
   "우리말 '마담'처럼 가게 여사장을 가리키는 직업 이름이 아니야. 남자는 monsieur라고 부르고, 어린 여자아이는 보통 mademoiselle이라고 불러."
  ],
+ "explanation_for_kids": null,
  "scene": "퀴리 부인을 프랑스식으로 부르는 이름",
  "examples": [
   {

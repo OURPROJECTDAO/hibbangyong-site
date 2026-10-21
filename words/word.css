@@ -95,3 +95,6 @@ footer{background:var(--bg2);border-top:1px solid var(--line);padding:2rem 0 max
 .wgrid b{font-weight:700;color:var(--blue-ink)}
 .wgrid span{color:var(--ink2);font-size:.92rem}
 .more{margin:.8rem 0 0;color:var(--ink2);font-weight:600}
+.kid{margin:.7rem 0 0;color:var(--ink2)}
+.kid summary{cursor:pointer;font-weight:600}
+.kid p{margin:.25rem 0}

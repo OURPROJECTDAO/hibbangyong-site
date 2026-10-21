@@ -11,21 +11,22 @@
  "word": "sector",
  "slug": "sector",
  "url": "https://hibbangyong.com/words/sector/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "구역·부문(크게 나눈 것 중 한 칸) — 큰 것을 여러 갈래로 나눴을 때 그중 한 칸(구역이나 분야)",
  "gloss_ko": "나눈 한 구역",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "엄청 큰 주차장을 떠올려 봐. 차가 하도 많으니까 A칸, B칸, C칸으로 구역을 딱딱 나눠 놨어.",
   "그 한 칸 한 칸이 바로 sector야. 큰 걸 여러 갈래로 나눈, 그중 한 갈래 말이야.",
   "땅만 그런 게 아냐. 도시도, 사람들이 하는 일도 이렇게 나눠서 '이 부분'이라고 불러.",
   "그게 sector야."
  ],
- "scene": "큰 주차장을 A·B·C 칸으로 나눈 한 구역 (child 앵커)",
+ "explanation_for_kids": null,
+ "scene": "큰 주차장을 A·B·C 칸으로 나눈 한 구역",
  "examples": [
   {
    "en": "Our car is parked in sector B, next to the big blue sign.",
@@ -75,7 +76,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/sector.webp",
-  "alt": "큰 주차장을 A·B·C 칸으로 나눈 한 구역 (child 앵커)",
+  "alt": "큰 주차장을 A·B·C 칸으로 나눈 한 구역",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,20 +11,21 @@
  "word": "sudden",
  "slug": "sudden",
  "url": "https://hibbangyong.com/words/sudden/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "갑작스러운 — 올 줄 몰랐는데 확 오는",
  "gloss_ko": "갑작스러운",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "올 줄 몰랐는데 확 오는 거야. 그게 sudden이야.",
   "잘 웃던 친구가 확 조용해져도 sudden. 맑던 하늘에서 비가 쏟아져도 sudden. 며칠 앓던 할머니가 밤새 툭 좋아지셔도 sudden이야. 좋은 일이든 나쁜 일이든 다 붙어.",
   "빠르기만 한 거랑은 달라. 눈 깜짝할 새 끝나도 미리 알고 기다렸으면 sudden이라고 잘 안 해. 반대로 느릿느릿 한참 걸려 조금씩 바뀌는 것도 sudden 아니야.",
   "따지는 건 두 가지. 낌새도 없었는데, 확 왔냐. 그게 sudden이야."
  ],
+ "explanation_for_kids": null,
  "scene": "잘 웃던 친구가 확 조용해지는 순간",
  "examples": [
   {
@@ -35,14 +36,14 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "동생이 식탁에 앉아 우유를 마시고 있었어. 컵을 내려놓는데 손이 미끄러져서 컵이 바닥에 떨어져 깨졌어. 이게 'sudden'이야?",
+   "question": "룸메이트가 식탁에 앉아 우유를 마시고 있었어. 컵을 내려놓는데 손이 미끄러져서 컵이 바닥에 떨어져 깨졌어. 이게 'sudden'이야?",
    "choices": [
     "응, sudden 맞아",
     "아니, sudden 아니야"
    ],
    "answer_index": 0,
    "answer": "응, sudden 맞아",
-   "why": "맞아! 손이 미끄러진 건 동생도 몰랐잖아. 낌새가 하나도 없이 컵이 툭 떨어진 거니까, 바로 그게 sudden인 거야."
+   "why": "맞아! 손이 미끄러진 건 룸메이트도 몰랐잖아. 낌새가 하나도 없이 컵이 툭 떨어진 거니까, 바로 그게 sudden인 거야."
   }
  ],
  "synonyms": [],

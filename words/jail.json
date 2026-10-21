@@ -11,25 +11,26 @@
  "word": "jail",
  "slug": "jail",
  "url": "https://hibbangyong.com/words/jail/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "감옥 — 나쁜 짓을 해서 벌로 갇혀 못 나가는 곳",
  "gloss_ko": "감옥",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "철문이 쾅! 닫히고 철컹— 잠겼어.",
   "안에 있는 사람은 나가고 싶어도 못 나가.",
   "왜냐고? 법을 어겨서 거기 갇힌 거거든.",
   "이렇게 갇혀서 못 나가는 곳, 이게 jail이야."
  ],
+ "explanation_for_kids": null,
  "scene": "철문 철컹 잠기고, 안의 사람이 나가려 해도 못 나감.",
  "examples": [
   {
-   "en": "In our board game, my piece landed in jail, so I had to skip a turn.",
-   "ko": "보드게임에서 내 말이 감옥 칸에 걸려서 한 번 쉬어야 했어."
+   "en": "The man who stole my bike went to jail for a month.",
+   "ko": "내 자전거를 훔친 남자가 한 달 동안 감옥에 갔어."
   }
  ],
  "quiz": [
@@ -37,7 +38,7 @@
    "type": "choice",
    "question": "아래 넷 중에서 'jail'이라고 부를 수 있는 건 뭘까?",
    "choices": [
-    "입에 넣으면 달콤하게 녹는 작은 사탕",
+    "입에 넣으면 달콤하게 녹는 초콜릿",
     "공을 차며 마당을 뛰어다니는 놀이",
     "법을 어긴 사람이 갇혀서 못 나오는 곳",
     "하나 둘 셋 소리 내어 세는 숫자"

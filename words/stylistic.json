@@ -11,31 +11,32 @@
  "word": "stylistic",
  "slug": "stylistic",
  "url": "https://hibbangyong.com/words/stylistic/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "문체·양식의 — 무엇을 담았냐(내용)가 아니라 어떤 방식·스타일로 표현했냐에 관한",
  "gloss_ko": "표현 방식의",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "두 친구가 같은 이야기를 글로 썼어. 내용은 똑같은데, 하나는 짧고 딱딱하고 하나는 길고 부드러워.",
   "그 차이가 stylistic한 차이야. 뭘 말했냐가 아니라 어떻게 말했냐가 달라.",
   "글뿐 아니라 그림·음악·건물에도 써. 잘된 방식이든 어색한 방식이든 둘 다 돼.",
   "멋지다는 뜻의 stylish랑은 달라. stylistic은 칭찬이 아니라 그냥 방식을 가리켜."
  ],
+ "explanation_for_kids": null,
  "scene": "같은 이야기를 서로 다른 말투로 쓴 두 친구의 글",
  "examples": [
   {
-   "en": "My teacher said my essay had a few stylistic problems.",
-   "ko": "선생님이 내 글은 표현 방식 쪽에서 좀 문제가 있다고 하셨어."
+   "en": "My professor said my paper had a few stylistic problems.",
+   "ko": "교수님이 내 리포트에 표현 방식 문제가 좀 있다고 하셨어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "민수와 서연이가 학교 축제 포스터에 똑같은 문구를 적었어. 민수는 둥근 글씨체를 썼고, 서연이는 각진 글씨체를 썼어. 두 포스터의 이 차이는 'stylistic'한 차이일까?",
+   "question": "민수와 서연이가 회사 행사 포스터에 똑같은 문구를 적었어. 민수는 둥근 글씨체를 썼고, 서연이는 각진 글씨체를 썼어. 두 포스터의 이 차이는 'stylistic'한 차이일까?",
    "choices": [
     "응, stylistic한 차이 맞아",
     "아니, stylistic한 차이 아니야"

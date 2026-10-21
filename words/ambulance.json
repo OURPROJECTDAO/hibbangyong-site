@@ -11,23 +11,24 @@
  "word": "ambulance",
  "slug": "ambulance",
  "url": "https://hibbangyong.com/words/ambulance/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "구급차 — 아픈 사람을 병원에 빨리 데려가는 특별한 차",
  "gloss_ko": "구급차",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "거리에 서 있는 이 하얀 차가 ambulance예요. 옆면에는 빨간 십자가, 지붕에는 번쩍번쩍 빛나는 빨간·파란 불이 달려 있어요.",
   "누군가 크게 다치거나 아프면 이 차가 사이렌을 울리며 병원으로 빨리 데려가 줘요."
  ],
+ "explanation_for_kids": null,
  "scene": "거리에 서 있는 새하얀 앰뷸런스 한 대, 옆면에 빨간 십자가 심볼과 지붕 위 빨간·파란 경광등.",
  "examples": [
   {
-   "en": "The ambulance took the sick man to the hospital very fast.",
-   "ko": "구급차가 아픈 아저씨를 병원까지 아주 빨리 데려갔어."
+   "en": "Someone fainted on the subway, so we called an ambulance.",
+   "ko": "지하철에서 누가 쓰러져서 우리가 구급차를 불렀어."
   }
  ],
  "quiz": [

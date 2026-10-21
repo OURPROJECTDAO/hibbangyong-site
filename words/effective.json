@@ -11,21 +11,27 @@
  "word": "effective",
  "slug": "effective",
  "url": "https://hibbangyong.com/words/effective/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "효과적인 — 하려고 했던 일이 진짜로 되게 해 주는",
  "gloss_ko": "하려던 게 진짜 되는",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "동아리방이 시끄러워. 회장이 조용! 하고 외쳐도 그대로야.",
+  "그런데 박수를 세 번 치니까? 다들 바로 조용해졌어.",
+  "더 세게 하거나 더 오래 한 게 아니야. 하려던 일이 진짜로 된 거지.",
+  "이게 effective야."
+ ],
+ "explanation_for_kids": [
   "교실이 와글와글 시끄러워. 선생님이 조용! 하고 외쳐도 그대로야.",
   "그런데 박수를 짝짝짝 세 번 치니까? 딱! 다들 조용해졌어.",
   "더 세게 하거나 더 오래 한 게 아니야. 하려던 일이 진짜로 된 거지.",
   "이게 effective야."
  ],
- "scene": "시끄러운 교실에서 박수 세 번 쳐서 조용해짐",
+ "scene": "시끄러운 동아리방에서 박수 세 번 쳐서 조용해짐",
  "examples": [
   {
    "en": "Putting the plant by the sunny window was an effective way to help it grow.",
@@ -70,7 +76,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/effective.webp",
-  "alt": "시끄러운 교실에서 박수 세 번 쳐서 조용해짐",
+  "alt": "시끄러운 동아리방에서 박수 세 번 쳐서 조용해짐",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,20 +11,21 @@
  "word": "sequel",
  "slug": "sequel",
  "url": "https://hibbangyong.com/words/sequel/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "속편 — 앞 작품의 이야기를 이어서 그 뒤에 일어난 일을 다루는 다음 작품(영화·책·게임·연극 등)",
  "gloss_ko": "속편",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "좋아하는 영화가 끝났어. 그런데 그 뒤에 무슨 일이 있었을지 궁금해.",
   "나중에 그 이야기를 이어서 다음 작품이 나오면, 그게 sequel이야.",
   "주인공이 바뀌어도 괜찮아. 1편 사건이 끝난 뒤를 이어 가기만 하면 돼. 책, 게임, 연극도 똑같아.",
   "1편보다 더 옛날 일을 그린 거나, 같은 이야기를 다시 찍은 건 sequel이 아니야. 뒤로 이어져야 하거든."
  ],
+ "explanation_for_kids": null,
  "scene": "좋아하는 영화가 끝나고 그 뒤 일이 궁금함",
  "examples": [
   {

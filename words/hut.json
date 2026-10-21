@@ -11,23 +11,24 @@
  "word": "hut",
  "slug": "hut",
  "url": "https://hibbangyong.com/words/hut/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "오두막 — 나무·짚으로 작게 지은 낮은 집",
  "gloss_ko": "오두막",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 삼각 지붕에 문 하나 달린 작은 집이 hut, 오두막이에요.",
   "동화 속 숲이나 캠핑장에서 이런 작고 단순한 집을 본 적 있을 거예요."
  ],
+ "explanation_for_kids": null,
  "scene": "풀·짚으로 엮은 삼각 지붕의 작고 아담한 오두막 한 채(뜻: 오두막), 나무 벽에 문 하나가 정면 중앙에 통째로 보임",
  "examples": [
   {
-   "en": "A little rabbit lived in a small hut in the forest.",
-   "ko": "작은 토끼가 숲속 작은 오두막에 살았어."
+   "en": "We stayed in a small hut in the mountains.",
+   "ko": "우리 산속 작은 오두막에서 묵었어."
   }
  ],
  "quiz": [

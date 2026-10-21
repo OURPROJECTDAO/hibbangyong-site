@@ -11,38 +11,39 @@
  "word": "global",
  "slug": "global",
  "url": "https://hibbangyong.com/words/global/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "전 세계의 — 어느 한 곳이 아니라 온 세계에 다 걸친",
  "gloss_ko": "온 세계에 걸친",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "우리 동네에 비가 오는 건 우리 동네 일이지? 근데 지구가 통째로 조금씩 더워지는 건 좀 달라.",
   "어느 한 나라 일이 아니거든. 온 세상 여기저기에 다 걸쳐 있어.",
   "좋은 일이든 걱정되는 일이든 상관없어. 그냥 유명한 거나, 딴 나라 한 곳 얘기랑은 달라.",
   "온 세계를 한꺼번에 덮는 것, 그게 global이야."
  ],
+ "explanation_for_kids": null,
  "scene": "지구 전체가 조금씩 더워지는 일",
  "examples": [
   {
-   "en": "Plastic in the sea is a global problem.",
-   "ko": "바다에 쌓인 플라스틱은 온 세계가 같이 겪는 문제야."
+   "en": "I work for a global company in Seoul.",
+   "ko": "나는 서울에 있는 다국적 회사에서 일해."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "우리 학교 앞 문구점이 오늘 하루 문을 닫았어. 이건 'global'한 일일까?",
+   "question": "우리 회사 앞 카페가 오늘 하루 문을 닫았어. 이건 'global'한 일일까?",
    "choices": [
     "응, global 맞아",
     "아니, global 아니야"
    ],
    "answer_index": 1,
    "answer": "아니, global 아니야",
-   "why": "맞아! 학교 앞 문구점 한 곳이 오늘 하루만 문을 닫은 거라서, 온 세계에 다 걸친 일이 아니거든. 그래서 global이 아니라고 한 게 딱 맞는 거야."
+   "why": "맞아! 회사 앞 카페 한 곳이 오늘 하루만 문을 닫은 거라서, 온 세계에 다 걸친 일이 아니거든. 그래서 global이 아니라고 한 게 딱 맞는 거야."
   }
  ],
  "synonyms": [],

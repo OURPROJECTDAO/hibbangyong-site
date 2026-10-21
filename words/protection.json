@@ -11,25 +11,26 @@
  "word": "protection",
  "slug": "protection",
  "url": "https://hibbangyong.com/words/protection/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "보호 — 나쁜 일이 닿지 않게 미리 지켜 주는 것",
  "gloss_ko": "다치지 않게 지킴",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "비가 후드득! 근데 우산 밑에 있으면 한 방울도 안 닿지?",
   "헬멧도, 선크림도, 새를 못 잡게 막는 규칙도 다 그래. 나쁜 게 닿기 전에 미리 막아 주거든.",
   "다친 다음에 고쳐 주는 거랑은 달라. 싸워서 되갚는 것도 아니야.",
   "다치지 않게 지켜 주는 것, 그게 protection이야."
  ],
+ "explanation_for_kids": null,
  "scene": "비 오는 날 우산 밑에서 비 안 맞기",
  "examples": [
   {
-   "en": "This park has rules that give the birds protection.",
-   "ko": "이 공원엔 새들을 지켜 주는 규칙이 있거든."
+   "en": "I always wear sunscreen for protection from the sun.",
+   "ko": "햇볕을 막으려고 난 늘 선크림을 발라."
   }
  ],
  "quiz": [

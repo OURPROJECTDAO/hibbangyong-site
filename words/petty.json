@@ -11,21 +11,27 @@
  "word": "petty",
  "slug": "petty",
  "url": "https://hibbangyong.com/words/petty/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "사소한 — 작고 하찮아서 별로 중요하지 않은",
  "gloss_ko": "사소한",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "친구랑 충전기 하나 때문에 하루 종일 삐졌어. 지나고 보면 별것도 아닌 일이지.",
+  "petty는 이렇게 작고 하찮은, 별로 중요하지 않은 걸 말해.",
+  "다툼에만 쓰는 말이 아니야. 작은 물건을 훔치는 좀도둑질이나 자잘한 규칙 같은 데에도 붙어.",
+  "크기가 작은 거랑은 달라. 작은 다이아몬드는 petty가 아니야. petty는 중요도가 작은 거야."
+ ],
+ "explanation_for_kids": [
   "친구랑 지우개 하나 때문에 하루 종일 삐졌어. 지나고 보면 별것도 아닌 일이지.",
   "petty는 이렇게 작고 하찮은, 별로 중요하지 않은 걸 말해.",
   "다툼에만 쓰는 말이 아니야. 작은 물건을 훔치는 좀도둑질이나 자잘한 규칙 같은 데에도 붙어.",
   "크기가 작은 거랑은 달라. 작은 다이아몬드는 petty가 아니야. petty는 중요도가 작은 거야."
  ],
- "scene": "지우개 하나 때문에 친구랑 하루 종일 삐진 일",
+ "scene": "충전기 하나 때문에 친구랑 하루 종일 삐진 일",
  "examples": [
   {
    "en": "Let's not fight over something as petty as who sits by the window.",
@@ -55,7 +61,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/petty.webp",
-  "alt": "지우개 하나 때문에 친구랑 하루 종일 삐진 일",
+  "alt": "충전기 하나 때문에 친구랑 하루 종일 삐진 일",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

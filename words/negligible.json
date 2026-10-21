@@ -11,31 +11,32 @@
  "word": "negligible",
  "slug": "negligible",
  "url": "https://hibbangyong.com/words/negligible/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "무시해도 될 만큼 작은 — 있긴 하지만 너무 작아서 따질 필요가 없는",
  "gloss_ko": "무시할 만큼 작은",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "라면 한 냄비에 소금 한 알을 더 넣었어. 맛이 달라질까?",
   "소금은 분명히 더 들어갔어. 근데 너무 작아서 아무도 신경 안 써.",
   "negligible은 이렇게 있긴 한데 무시해도 되는 크기야. 돈, 위험, 차이, 효과에 다 써.",
   "아예 0인 거랑은 달라. 조금은 있어. 다만 따질 만큼이 아닐 뿐이야."
  ],
+ "explanation_for_kids": null,
  "scene": "라면에 소금 한 알 더 넣기",
  "examples": [
   {
-   "en": "All that extra studying made a negligible difference to my score.",
-   "ko": "그렇게 더 공부했는데 점수는 거의 달라진 게 없었어."
+   "en": "The price difference between the two phones is negligible.",
+   "ko": "두 휴대폰 가격 차이는 따질 필요도 없을 만큼 작아."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "물이 가득 찬 학교 수영장에 지호가 종이컵으로 물 한 컵을 더 부었어. 그 한 컵 때문에 수영장 물높이가 올라간 정도는 'negligible'일까?",
+   "question": "물이 가득 찬 동네 수영장에 지호가 종이컵으로 물 한 컵을 더 부었어. 그 한 컵 때문에 수영장 물높이가 올라간 정도는 'negligible'일까?",
    "choices": [
     "응, negligible 맞아",
     "아니, negligible 아니야"

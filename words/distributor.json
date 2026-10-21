@@ -11,20 +11,21 @@
  "word": "distributor",
  "slug": "distributor",
  "url": "https://hibbangyong.com/words/distributor/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "유통업체(물건을 가게에 나눠 대는 회사) — 만든 곳에서 물건을 받아 여러 가게에 나눠 대 주는 회사나 사람",
  "gloss_ko": "물건 나눠 대는 회사",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "공장에서 과자를 만들었어. 근데 공장이 전국 편의점마다 직접 들고 다니진 않아.",
   "중간에서 그걸 받아 여러 가게에 나눠 대 주는 회사가 따로 있어. 그게 distributor야.",
   "과자든 약이든 책이든 똑같고, 영화도 그래. 극장마다 영화를 돌리는 배급사도 distributor야.",
   "만드는 쪽도 아니고, 손님한테 직접 파는 가게도 아니야. 그 사이에서 나눠 주는 쪽이야."
  ],
+ "explanation_for_kids": null,
  "scene": "과자 공장에서 전국 편의점으로 과자가 가는 길",
  "examples": [
   {
@@ -35,14 +36,14 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "한 회사가 장난감 공장에서 장난감을 받아서 동네 문구점과 마트 여러 곳에 나눠 보내. 이 회사는 'distributor'야?",
+   "question": "한 회사가 음료 공장에서 음료를 받아서 동네 편의점과 마트 여러 곳에 나눠 보내. 이 회사는 'distributor'야?",
    "choices": [
     "응, distributor 맞아",
     "아니, distributor 아니야"
    ],
    "answer_index": 0,
    "answer": "응, distributor 맞아",
-   "why": "맞아! 이 회사는 장난감을 직접 만들지도 않고 손님한테 직접 팔지도 않아. 공장에서 받아서 문구점이랑 마트 여러 곳에 나눠 보내니까, 바로 그 사이에서 나눠 주는 distributor인 거야."
+   "why": "맞아! 이 회사는 음료를 직접 만들지도 않고 손님한테 직접 팔지도 않아. 공장에서 받아서 편의점이랑 마트 여러 곳에 나눠 보내니까, 바로 그 사이에서 나눠 주는 distributor인 거야."
   }
  ],
  "synonyms": [],

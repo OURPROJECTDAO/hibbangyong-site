@@ -11,20 +11,21 @@
  "word": "exceed",
  "slug": "exceed",
  "url": "https://hibbangyong.com/words/exceed/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "(정해진 수·기준·한계를) 넘어서다, 그보다 더 많아지다",
  "gloss_ko": "정해진 선을 넘어서다",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "컵에 물을 따르는데 '여기까지만'이라고 금이 딱 그어져 있었어.",
   "그런데 콸콸 붓다 보니 물이 그 금을 지나 위로 쑥 올라와 버렸네! 거기서 멈췄어야 했는데 그보다 더 가 버린 거야.",
   "이렇게 '여기까지'라고 정해 놓은 선보다 더 많아지거나 더 넘어가 버리는 거,",
   "그게 exceed야."
  ],
+ "explanation_for_kids": null,
  "scene": "컵에 그은 '여기까지' 금을 물이 지나 넘친 앵커 장면",
  "examples": [
   {

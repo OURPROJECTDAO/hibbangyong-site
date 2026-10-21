@@ -11,20 +11,21 @@
  "word": "provincial",
  "slug": "provincial",
  "url": "https://hibbangyong.com/words/provincial/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "지방의 — 나라를 나눈 도·주에 딸린, 또는 수도 밖 지역의",
  "gloss_ko": "지방(도·주)의",
  "level": {
   "code": "L9",
-  "name": "토플 114~120점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "뉴스에서 '경기도 예산', '강원도지사 선거' 같은 말 들어 봤지?",
   "나라를 크게 몇 조각으로 나눈 그 한 조각, 도나 주에 딸린 걸 provincial이라고 해.",
   "나라 전체 일도 아니고, 우리 동네 일도 아니야. 딱 그 중간 크기 단위야.",
   "시골이란 뜻은 아니야. 서울 밖이면 큰 도시에도 쓰고, 가끔 생각이 좁다고 흉볼 때도 써."
  ],
+ "explanation_for_kids": null,
  "scene": "뉴스 속 도 예산·도지사 선거",
  "examples": [
   {
@@ -35,14 +36,14 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "전라남도 도의회가 전라남도 안에 있는 초등학교들의 급식비를 지원하기로 했어. 이 결정을 'provincial' 결정이라고 부를 수 있을까?",
+   "question": "전라남도 도의회가 전라남도 안에 사는 청년들의 월세를 지원하기로 했어. 이 결정을 'provincial' 결정이라고 부를 수 있을까?",
    "choices": [
     "응, provincial 맞아",
     "아니, provincial 아니야"
    ],
    "answer_index": 0,
    "answer": "응, provincial 맞아",
-   "why": "맞아! 전라남도 도의회가 전라남도 안에 있는 초등학교들 급식비를 정한 거잖아. 도가 자기 도 안의 일을 정했으니까 바로 provincial 결정인 거야."
+   "why": "맞아! 전라남도 도의회가 전라남도 안에 사는 청년들 월세 지원을 정한 거잖아. 도가 자기 도 안의 일을 정했으니까 바로 provincial 결정인 거야."
   }
  ],
  "synonyms": [],

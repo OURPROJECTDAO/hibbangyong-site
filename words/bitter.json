@@ -11,15 +11,21 @@
  "word": "bitter",
  "slug": "bitter",
  "url": "https://hibbangyong.com/words/bitter/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "쓰다 — 진한 초콜릿이나 약처럼 혀를 꽉 누르는 맛",
  "gloss_ko": "(맛이) 쓰다",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "새까만 초콜릿 한 조각을 덥석 베어 물었어. 혀가 확 오그라들면서 얼굴이 저절로 찌푸려져.",
+  "달지도 않고, 시지도 않아. 그냥 혀를 꽉 누르는 맛이거든.",
+  "신 거는 침이 확 고이잖아? 이건 반대야. 입안이 마르는 것 같아서 물이 얼른 마시고 싶어져.",
+  "감기약도 이래. 그런데 사람들은 이 맛 나는 커피를 일부러 좋아하기도 해. 그게 bitter야."
+ ],
+ "explanation_for_kids": [
   "새까만 초콜릿 한 조각을 덥석 베어 물었어. 혀가 확 오그라들면서 얼굴이 저절로 찌푸려져.",
   "달지도 않고, 시지도 않아. 그냥 혀를 꽉 누르는 맛이거든.",
   "신 거는 침이 확 고이잖아? 이건 반대야. 입안이 마르는 것 같아서 물이 얼른 마시고 싶어져.",
@@ -28,21 +34,21 @@
  "scene": "새까만 초콜릿을 베어 물고 혀가 오그라드는 장면",
  "examples": [
   {
-   "en": "The dark chocolate was so bitter that my little sister spit it out, but Dad ate the whole bar.",
-   "ko": "다크초콜릿이 너무 써서 동생은 뱉었는데 아빠는 한 판을 다 먹었어."
+   "en": "This coffee is too bitter, so I added some milk.",
+   "ko": "이 커피가 너무 써서 우유를 좀 넣었어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "동생이 놀이공원에서 산 솜사탕을 한 입 크게 뜯어 먹었어. 이게 'bitter'야?",
+   "question": "친구가 놀이공원에서 산 솜사탕을 한 입 크게 뜯어 먹었어. 이게 'bitter'야?",
    "choices": [
     "응, bitter 맞아",
     "아니, bitter 아니야"
    ],
    "answer_index": 1,
    "answer": "아니, bitter 아니야",
-   "why": "맞아! 동생이 뜯어 먹은 솜사탕은 입에 넣으면 달콤하게 녹잖아. bitter는 혀를 꽉 누르는 쓴맛이거든. 솜사탕은 쓴맛이 하나도 안 나니까 bitter가 아닌 거야."
+   "why": "맞아! 친구가 뜯어 먹은 솜사탕은 입에 넣으면 달콤하게 녹잖아. bitter는 혀를 꽉 누르는 쓴맛이거든. 솜사탕은 쓴맛이 하나도 안 나니까 bitter가 아닌 거야."
   }
  ],
  "synonyms": [],

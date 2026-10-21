@@ -11,15 +11,21 @@
  "word": "contain",
  "slug": "contain",
  "url": "https://hibbangyong.com/words/contain/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "안에 담고 있다 — 무언가가 그 안에 들어 있다",
  "gloss_ko": "안에 담고 있다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "물병을 흔들어 봐. 안에서 물이 찰랑찰랑하지?",
+  "물이 병 안에 들어 있지? 그럼 병이 물을 contain하고 있는 거야.",
+  "상자 안에 물건이, 병 안에 물이 들어 있듯, 무언가를 그 안에 담고 있는 거야.",
+  "무언가가 그 안에 들어 있는 것 — 그게 contain이야."
+ ],
+ "explanation_for_kids": [
   "물병을 흔들어 봐. 안에서 물이 찰랑찰랑하지?",
   "물이 병 안에 들어 있지? 그럼 병이 물을 contain하고 있는 거야.",
   "상자 안에 장난감이, 병 안에 물이 들어 있듯, 무언가를 그 안에 담고 있는 거야.",
@@ -28,14 +34,14 @@
  "scene": "물병이 물을 안에 붙잡아 새지 않게 담고 있는 장면",
  "examples": [
   {
-   "en": "This box contains all my old toys.",
-   "ko": "이 상자 안에는 내 옛날 장난감이 전부 들어 있어."
+   "en": "These two bags contain my gym clothes.",
+   "ko": "이 가방 두 개에 내 운동복이 들어 있어."
   }
  ],
  "quiz": [
   {
    "type": "choice",
-   "question": "책가방이 무언가를 'contain'한다고 했어. 어떤 모습일까?",
+   "question": "가방이 무언가를 'contain'한다고 했어. 어떤 모습일까?",
    "choices": [
     "가방 안에 책이 가득 들어 있어",
     "가방을 손에 딱 쥐고 있어",

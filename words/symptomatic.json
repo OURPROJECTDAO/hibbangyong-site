@@ -11,31 +11,37 @@
  "word": "symptomatic",
  "slug": "symptomatic",
  "url": "https://hibbangyong.com/words/symptomatic/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "징후인 — 눈에 보이는 일이 그 밑에 있는 더 큰 문제를 드러내는",
  "gloss_ko": "문제의 신호인",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "팀에서 보고서 베끼는 사람이 갑자기 늘었다고 쳐 봐.",
+  "베끼는 게 진짜 문제일까? 일이 너무 많다는 게 겉으로 튀어나온 걸 수도 있어.",
+  "이렇게 눈에 보이는 일이 그 밑의 더 큰 문제를 알려 줄 때 symptomatic이라고 해. 기침이 감기를 알려 주는 것처럼.",
+  "문제를 일으키는 원인이랑은 달라. 원인이 아니라, 원인이 있다는 표시야."
+ ],
+ "explanation_for_kids": [
   "반에서 숙제를 베끼는 애가 갑자기 늘었다고 쳐 봐.",
   "베끼는 게 진짜 문제일까? 숙제가 너무 많다는 게 겉으로 튀어나온 걸 수도 있어.",
   "이렇게 눈에 보이는 일이 그 밑의 더 큰 문제를 알려 줄 때 symptomatic이라고 해. 기침이 감기를 알려 주는 것처럼.",
   "문제를 일으키는 원인이랑은 달라. 원인이 아니라, 원인이 있다는 표시야."
  ],
- "scene": "반에서 숙제 베끼는 학생이 늘어남(숙제가 너무 많다는 신호)",
+ "scene": "팀에서 보고서 베끼는 사람이 늘어남(일이 너무 많다는 신호)",
  "examples": [
   {
-   "en": "The long lines at the nurse's office were symptomatic of a bigger problem with the school lunch.",
-   "ko": "보건실 앞에 늘어선 긴 줄은 학교 급식에 더 큰 문제가 있다는 신호였어."
+   "en": "The long hours at work were symptomatic of a bigger problem on our team.",
+   "ko": "회사에서 늘 늦게까지 일하는 건 우리 팀에 더 큰 문제가 있다는 신호였어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "학교 운동장에 비만 오면 여기저기 물웅덩이가 생겨. 알아보니 운동장 땅 밑 배수관이 오래돼서 막혀 있었어. 이 물웅덩이들은 'symptomatic'한 걸까?",
+   "question": "아파트 주차장에 비만 오면 여기저기 물웅덩이가 생겨. 알아보니 주차장 땅 밑 배수관이 오래돼서 막혀 있었어. 이 물웅덩이들은 'symptomatic'한 걸까?",
    "choices": [
     "응, symptomatic 맞아",
     "아니, symptomatic 아니야"

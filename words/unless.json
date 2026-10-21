@@ -11,25 +11,31 @@
  "word": "unless",
  "slug": "unless",
  "url": "https://hibbangyong.com/words/unless/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "~하지 않는 한 — 그거 하나만 안 생기면 나머지는 하던 대로라는 말",
  "gloss_ko": "~하지 않는 한",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "내일 캠핑 가기로 다 정해놨어. 근데 비가 오면 안 가. 비 안 오면? 그냥 가는 거야.",
+  "봐봐, 그 하나만 안 나타나면 계속 그대로 굴러가. 나타나는 순간 딱 뒤집히고.",
+  "좋은 일에도 쓰고 나쁜 일에도 써. 문은 계속 열려 있어, 네가 잠그지 않는 한. 국은 계속 맹맹해, 소금을 넣지 않는 한.",
+  "'그게 있어야 된다'가 아니야. 거꾸로거든? 그게 없어야 그대로인 거야. 이게 unless야."
+ ],
+ "explanation_for_kids": [
   "내일 소풍 가기로 다 정해놨어. 근데 비가 오면 안 가. 비 안 오면? 그냥 가는 거야.",
   "봐봐, 그 하나만 안 나타나면 계속 그대로 굴러가. 나타나는 순간 딱 뒤집히고.",
   "좋은 일에도 쓰고 나쁜 일에도 써. 문은 계속 열려 있어, 네가 잠그지 않는 한. 국은 계속 맹맹해, 소금을 넣지 않는 한.",
   "'그게 있어야 된다'가 아니야. 거꾸로거든? 그게 없어야 그대로인 거야. 이게 unless야."
  ],
- "scene": "비만 안 오면 그대로 가는 내일 소풍",
+ "scene": "비만 안 오면 그대로 가는 내일 캠핑",
  "examples": [
   {
-   "en": "I can't ride my bike unless my brother fixes it.",
-   "ko": "형이 고쳐주지 않는 한 난 자전거를 못 타."
+   "en": "I can't ride my bike to work unless my brother fixes it.",
+   "ko": "형이 고쳐 주지 않으면 자전거 타고 출근 못 해."
   }
  ],
  "quiz": [
@@ -63,7 +69,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/unless.webp",
-  "alt": "비만 안 오면 그대로 가는 내일 소풍",
+  "alt": "비만 안 오면 그대로 가는 내일 캠핑",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

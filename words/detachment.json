@@ -11,31 +11,32 @@
  "word": "detachment",
  "slug": "detachment",
  "url": "https://hibbangyong.com/words/detachment/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "거리 두기 — 어떤 일에 감정이 휩쓸리지 않고 한 발 떨어져 있는 상태",
  "gloss_ko": "감정 거리 두기",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "친구 둘이 크게 싸우는데, 너는 어느 편에도 안 끼고 한 발 물러서서 지켜봐.",
   "눈은 그 일을 보고 있는데, 마음은 거기 안 빠져 있어. 그런 상태가 detachment야.",
   "그래서 침착하게 판단해야 할 땐 도움이 되지만, 가족이 울 때 이러면 차가워 보여.",
   "아예 관심이 없는 무관심과는 달라. 다 알고 보고 있지만 감정만 안 섞는 거야."
  ],
+ "explanation_for_kids": null,
  "scene": "친구 둘이 싸울 때 어느 편에도 안 끼고 물러서서 지켜보기",
  "examples": [
   {
-   "en": "The doctor listened to the family with detachment and then made her decision.",
-   "ko": "그 의사는 가족들 말을 감정에 휩쓸리지 않고 들은 다음에 결정을 내렸어."
+   "en": "She handled the angry customer with calm detachment.",
+   "ko": "그녀는 화난 손님을 감정에 휩쓸리지 않고 차분하게 응대했어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "반 친구들이랑 슬픈 영화를 봤어. 옆자리 친구들은 다 울었어. 너는 줄거리를 끝까지 꼼꼼히 따라가며 봤지만, 마음은 영화 속으로 빠져들지 않고 담담했어. 이런 너의 상태가 'detachment'야?",
+   "question": "친구들이랑 슬픈 영화를 봤어. 옆자리 친구들은 다 울었어. 너는 줄거리를 끝까지 꼼꼼히 따라가며 봤지만, 마음은 영화 속으로 빠져들지 않고 담담했어. 이런 너의 상태가 'detachment'야?",
    "choices": [
     "응, detachment 맞아",
     "아니, detachment 아니야"

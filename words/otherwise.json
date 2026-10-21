@@ -11,20 +11,21 @@
  "word": "otherwise",
  "slug": "otherwise",
  "url": "https://hibbangyong.com/words/otherwise/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "안 그러면 — 지금 말한 그게 아니었을 때의 다른 쪽을 가리키는 말",
  "gloss_ko": "안 그러면",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "길이 두 갈래로 갈라진 데 서 있다고 해봐.",
   "이쪽으로 가면 이렇게 되고, 안 가면 저렇게 되고.",
   "otherwise는 그 '안 갔을 때 쪽'을 가리키는 말이야. 무서운 일일 수도 있고, 그냥 다른 일일 수도 있어.",
   "그 뒤에 이어서 일어난 일도, 어느 쪽이든 똑같은 일도 아니야. 그게 otherwise야."
  ],
+ "explanation_for_kids": null,
  "scene": "두 갈래로 갈라진 길에서 안 간 쪽",
  "examples": [
   {

@@ -11,25 +11,31 @@
  "word": "bond",
  "slug": "bond",
  "url": "https://hibbangyong.com/words/bond/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "유대 — 사람이나 무리를 서로 이어 주는 보이지 않는 끈",
  "gloss_ko": "이어 주는 끈",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "축구팀 두 사람, 처음엔 서로 이름도 몰랐어. 근데 비 오는 날 같이 뛰고, 같이 지고, 같이 이겼지.",
+  "그러다 보니 둘 사이를 꽉 잡아 주는 보이지 않는 끈이 생긴 거야. 엄마랑 아기 사이에도 있고, 나라랑 나라 사이에도 생겨.",
+  "근데 혼자서 좋아하는 마음이랑은 달라. 이 끈은 한쪽 끝만으로는 안 되고, 꼭 양쪽을 이어야 생기거든.",
+  "그냥 얼굴만 아는 사이랑도 달라. 서로를 딱 묶어 주는 그 끈, 그게 bond야."
+ ],
+ "explanation_for_kids": [
   "축구팀 애들, 처음엔 서로 이름도 몰랐어. 근데 비 오는 날 같이 뛰고, 같이 지고, 같이 이겼지.",
   "그러다 보니 둘 사이를 꽉 잡아 주는 보이지 않는 끈이 생긴 거야. 엄마랑 아기 사이에도 있고, 나라랑 나라 사이에도 생겨.",
   "근데 혼자서 좋아하는 마음이랑은 달라. 이 끈은 한쪽 끝만으로는 안 되고, 꼭 양쪽을 이어야 생기거든.",
   "그냥 얼굴만 아는 사이랑도 달라. 서로를 딱 묶어 주는 그 끈, 그게 bond야."
  ],
- "scene": "서로 모르던 축구팀 아이들이 같이 뛰고 지고 이기며 가까워짐",
+ "scene": "서로 모르던 축구팀 두 사람이 같이 뛰고 지고 이기며 가까워짐",
  "examples": [
   {
-   "en": "Fixing the broken fence together built a bond between the two grumpy neighbors.",
-   "ko": "망가진 울타리를 같이 고치다가, 맨날 투덜대던 두 이웃이 서로 끈끈하게 이어졌어."
+   "en": "Our long night shifts at the café built a real bond between us.",
+   "ko": "카페에서 같이 밤 근무를 오래 하다 보니 우리 사이가 진짜 끈끈해졌어."
   }
  ],
  "quiz": [
@@ -63,7 +69,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/bond.webp",
-  "alt": "서로 모르던 축구팀 아이들이 같이 뛰고 지고 이기며 가까워짐",
+  "alt": "서로 모르던 축구팀 두 사람이 같이 뛰고 지고 이기며 가까워짐",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

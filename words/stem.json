@@ -11,23 +11,24 @@
  "word": "stem",
  "slug": "stem",
  "url": "https://hibbangyong.com/words/stem/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "줄기 — 잎과 꽃을 받치고 땅에서 곧게 서 있는 식물의 긴 부분",
  "gloss_ko": "줄기",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 가운데 곧게 서 있는 가늘고 긴 초록색 부분이 바로 stem이야, 위에 있는 꽃과 잎을 받쳐 주고 있지.",
   "화단이나 화분 속 꽃을 살펴보면, 꽃잎 아래로 쭉 뻗어 꽃을 세워 주는 줄기를 어디서나 찾을 수 있어."
  ],
- "scene": "화분이나 배경 없이, 한 송이 꽃의 곧고 굵은 초록색 줄기가 화면 중앙에 세로로 서 있는 모습 — '식물의 줄기(stem)' 의미를 그림. 줄기가 주인공이라 두껍고 선명하게, 위에는 작은 꽃 한 송이와 줄기에 달린 잎 두 장.",
+ "explanation_for_kids": null,
+ "scene": "화분이나 배경 없이, 한 송이 꽃의 곧고 굵은 초록색 줄기가 화면 중앙에 세로로 서 있는 모습",
  "examples": [
   {
-   "en": "The flower has a long green stem with two leaves on it.",
-   "ko": "그 꽃은 잎이 두 장 달린 길고 초록색인 줄기가 있어."
+   "en": "I cut each stem short and put the flowers in a vase.",
+   "ko": "줄기를 하나씩 짧게 잘라서 꽃을 꽃병에 꽂았어."
   }
  ],
  "quiz": [
@@ -57,7 +58,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/stem.webp",
-  "alt": "화분이나 배경 없이, 한 송이 꽃의 곧고 굵은 초록색 줄기가 화면 중앙에 세로로 서 있는 모습 — '식물의 줄기(stem)' 의미를 그림. 줄기가 주인공이라 두껍고 선명하게, 위에는 작은 꽃 한 송이와 줄기에 달린 잎 두 장.",
+  "alt": "화분이나 배경 없이, 한 송이 꽃의 곧고 굵은 초록색 줄기가 화면 중앙에 세로로 서 있는 모습",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,25 +11,26 @@
  "word": "title",
  "slug": "title",
  "url": "https://hibbangyong.com/words/title/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "제목 — 책이든 노래든 그림이든, 만든 것 하나를 통째로 부르라고 붙여둔 이름",
  "gloss_ko": "제목",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "책 표지에 제일 큰 글씨로 딱 박혀 있는 말, 봤지? 그거 책 속 이야기를 미리 다 알려주는 게 아니야. 그 책을 통째로 부르라고 붙여둔 이름이거든?",
   "그러니까 안에 무슨 얘기가 들었는지랑은 달라. 누가 만들었는지 적어둔 말이랑도 다르고.",
   "노래에도 있고 영화에도 있고 그림에도 있어. 근데 강아지나 금붕어한테 지어준 이름은 제목이 아니야. 제목은 누가 만든 것에 붙이는 이름이거든.",
   "그게 title이야."
  ],
+ "explanation_for_kids": null,
  "scene": "책 표지에 큰 글씨로 박혀 있는 말",
  "examples": [
   {
-   "en": "I finished my drawing and wrote the title at the top.",
-   "ko": "그림을 다 그리고 나서 맨 위에 제목을 썼어."
+   "en": "I finished my sketch and wrote the title at the top.",
+   "ko": "스케치를 다 끝내고 맨 위에 제목을 썼어."
   }
  ],
  "quiz": [

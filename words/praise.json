@@ -11,38 +11,39 @@
  "word": "praise",
  "slug": "praise",
  "url": "https://hibbangyong.com/words/praise/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "칭찬 — 잘했다고, 좋다고 말로 알아주는 것",
  "gloss_ko": "칭찬",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "동생이 내 그림을 한참 보다가 그랬어. 형, 이거 진짜 멋있어!",
   "상을 준 것도 아니고, 고맙다고 인사한 것도 아니야. 좋다고 콕 집어서 말로 알아준 거야.",
   "앞으로 잘해 봐! 하는 응원이랑도 달라. 응원은 아직 안 한 일에 주는 거고, 이건 이미 있는 좋은 점에 주는 거거든?",
   "동생이 나한테 줄 수도 있고, 엄마 국이 진짜 맛있다고 내가 엄마한테 줄 수도 있어. 이게 praise야."
  ],
+ "explanation_for_kids": null,
  "scene": "동생이 형 그림을 보고 진짜 멋있다고 말해 준 순간",
  "examples": [
   {
-   "en": "My little brother's praise made me want to draw ten more pictures.",
-   "ko": "동생의 칭찬 덕분에 그림을 열 장이나 더 그리고 싶어졌어."
+   "en": "My manager's praise made my whole week at work.",
+   "ko": "팀장님한테 칭찬받아서 이번 주 내내 일할 맛이 났어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "텃밭에서 놀다 들어오니까 할머니가 내 손을 물수건으로 닦아 주셨어. 그러면서 흙 묻은 손으로 벽을 짚으면 어떡하냐고 나무라셨어. 이게 'praise'야?",
+   "question": "텃밭 일을 하고 들어오니까 할머니가 물수건을 챙겨 주셨어. 그러면서 흙 묻은 손으로 벽을 짚으면 어떡하냐고 나무라셨어. 이게 'praise'야?",
    "choices": [
     "응, praise 맞아",
     "아니, praise 아니야"
    ],
    "answer_index": 1,
    "answer": "아니, praise 아니야",
-   "why": "맞아! 할머니는 벽 짚으면 어떡하냐고 내가 잘못한 걸 짚어 주신 거잖아. 손을 다정하게 닦아 주셨어도 말은 나무람이라서 좋은 점을 알아준 게 아니야."
+   "why": "맞아! 할머니는 벽 짚으면 어떡하냐고 내가 잘못한 걸 나무라신 거잖아. 물수건을 다정하게 챙겨 주셨어도 말은 나무람이라서 좋은 점을 알아준 게 아니야."
   }
  ],
  "synonyms": [],

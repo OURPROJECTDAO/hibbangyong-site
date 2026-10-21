@@ -11,25 +11,31 @@
  "word": "depend",
  "slug": "depend",
  "url": "https://hibbangyong.com/words/depend/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "~에 달려 있다 — 이 일이 나 혼자로는 안 되고 저쪽에 매여 있다(저쪽이 어떻게 되느냐에, 또 저쪽이 있어 주느냐에 갈린다)",
  "gloss_ko": "~에 달려 있다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "내일 나들이 갈까 말까? 나도 몰라. 나 혼자선 못 정해.",
+  "비 오면 못 가고, 맑으면 가고. 나들이가 날씨에 매인 거야.",
+  "그냥 둘이 상관있다는 말이 아니야. 저쪽이 어떻게 되느냐에 이쪽이 갈리는 거거든.",
+  "아기가 엄마 없인 아무것도 못 하는 것도 똑같아. 이쪽 일이 저쪽에 걸려 있으면, 그게 depend야."
+ ],
+ "explanation_for_kids": [
   "내일 소풍 갈까 말까? 나도 몰라. 나 혼자선 못 정해.",
   "비 오면 못 가고, 맑으면 가고. 소풍이 날씨에 매인 거야.",
   "그냥 둘이 상관있다는 말이 아니야. 저쪽이 어떻게 되느냐에 이쪽이 갈리는 거거든.",
   "아기가 엄마 없인 아무것도 못 하는 것도 똑같아. 이쪽 일이 저쪽에 걸려 있으면, 그게 depend야."
  ],
- "scene": "내일 소풍을 갈지 말지가 날씨에 매인 장면",
+ "scene": "내일 나들이를 갈지 말지가 날씨에 매인 장면",
  "examples": [
   {
-   "en": "The color of the sky depends on the time of day.",
-   "ko": "하늘 색깔은 몇 시냐에 달려 있어."
+   "en": "Sky colors depend on the time of day.",
+   "ko": "하늘 색깔은 하루 중 몇 시냐에 달려 있어."
   }
  ],
  "quiz": [
@@ -68,7 +74,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/depend.webp",
-  "alt": "내일 소풍을 갈지 말지가 날씨에 매인 장면",
+  "alt": "내일 나들이를 갈지 말지가 날씨에 매인 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

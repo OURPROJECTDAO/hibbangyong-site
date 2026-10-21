@@ -11,31 +11,32 @@
  "word": "thick",
  "slug": "thick",
  "url": "https://hibbangyong.com/words/thick/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "두꺼운(굵은) — 얇거나 가늘지 않고, 한쪽 면에서 반대쪽 면까지가 두툼한.",
  "gloss_ko": "두꺼운(굵은)",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "빵을 칼로 썰어봐. 어떤 조각은 종이처럼 얇고, 어떤 조각은 손가락 두 개만큼 두툼해.",
   "밧줄도 그래. 실처럼 가느다란 것도 있고, 팔뚝처럼 굵은 것도 있잖아.",
   "납작하든 둥글든, 이 면에서 저 면까지가 멀면 다 두꺼운 거야.",
   "길다는 것도 넓다는 것도 아니야. 두 면 사이가 두툼한 거, 이게 thick야."
  ],
- "scene": "종이처럼 얇은 빵조각과 손가락 두 개만큼 두툼한 빵조각 비교(child 앵커)",
+ "explanation_for_kids": null,
+ "scene": "종이처럼 얇은 빵조각과 손가락 두 개만큼 두툼한 빵조각 비교",
  "examples": [
   {
-   "en": "This blanket is really thick, so I feel warm even in winter.",
-   "ko": "이 담요는 진짜 두꺼워서 겨울에도 따뜻해."
+   "en": "This blanket is really thick, so I stay warm all night.",
+   "ko": "이 담요는 진짜 두꺼워서 밤새 따뜻해."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "동생이 색종이 한 장을 책상에 올려놨어. 손톱으로 집으면 잡히지도 않을 만큼 위아래 면이 딱 붙어 있어. 이 색종이는 'thick'야?",
+   "question": "친구가 영수증 한 장을 책상에 올려놨어. 손톱으로 집으면 잡히지도 않을 만큼 위아래 면이 딱 붙어 있어. 이 영수증은 'thick'야?",
    "choices": [
     "응, thick 맞아",
     "아니, thick 아니야"
@@ -60,7 +61,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/thick.webp",
-  "alt": "종이처럼 얇은 빵조각과 손가락 두 개만큼 두툼한 빵조각 비교(child 앵커)",
+  "alt": "종이처럼 얇은 빵조각과 손가락 두 개만큼 두툼한 빵조각 비교",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

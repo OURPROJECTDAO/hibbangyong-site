@@ -11,31 +11,37 @@
  "word": "integrate",
  "slug": "integrate",
  "url": "https://hibbangyong.com/words/integrate/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "따로 놀던 것을 안에 넣어서, 나머지랑 맞물려 같이 돌아가게 하다",
  "gloss_ko": "맞물려 하나로 넣다",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "조립 로봇에 팔을 하나 더 얹어만 놨어. 스위치를 눌러도 그 팔은 꼼짝을 안 해.",
+  "선을 이어 줬더니 다른 팔들이랑 같이 움직여. 이제 로봇 몸의 한 부분이 된 거야.",
+  "물건만 그런 게 아니야. 게임에 새 규칙을 넣어서 원래 규칙들이랑 맞물려 같이 돌아가게 해도 똑같아. 그러면 게임이 더 잘 굴러가.",
+  "그냥 옆에 갖다 놓거나 자리만 채우는 거랑은 달라. 따로 놀던 게 나머지랑 맞물려 같이 굴러가야 해. 이게 integrate야."
+ ],
+ "explanation_for_kids": [
   "블록 로봇에 팔을 하나 더 얹어만 놨어. 스위치를 눌러도 그 팔은 꼼짝을 안 해.",
   "선을 이어 줬더니 척! 다른 팔들이랑 같이 움직여. 이제 로봇 몸의 한 부분이 된 거야.",
   "물건만 그런 게 아니야. 새 규칙을 놀이 안에 넣어서 놀이 순서대로 같이 돌아가게 해도 똑같아. 그러면 놀이가 더 잘 굴러가.",
   "그냥 옆에 갖다 놓거나 자리만 채우는 거랑은 달라. 따로 놀던 게 나머지랑 맞물려 같이 굴러가야 해. 이게 integrate야."
  ],
- "scene": "블록 로봇에 얹어만 둔 새 팔이 선을 잇자 다른 팔들과 같이 움직이는 장면",
+ "scene": "조립 로봇에 얹어만 둔 새 팔이 선을 잇자 다른 팔들과 같이 움직이는 장면",
  "examples": [
   {
-   "en": "We integrated the new arm into the robot, and now it moves with the other arms.",
-   "ko": "우리는 새 팔을 로봇 안에 맞물려 넣었고, 이제 다른 팔들이랑 같이 움직여."
+   "en": "Our team has to integrate the new app into our old system.",
+   "ko": "우리 팀은 새 앱을 기존 시스템에 맞물려 넣어야 해."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "형이 자전거에 작은 전조등을 달았어. 전선을 페달 쪽 발전기에 이어 놓아서, 형이 페달을 밟으면 그 전조등도 같이 켜져. 이건 자전거에 'integrate' 한 거야?",
+   "question": "친구가 자전거에 작은 전조등을 달았어. 전선을 페달 쪽 발전기에 이어 놓아서, 친구가 페달을 밟으면 그 전조등도 같이 켜져. 이건 자전거에 'integrate' 한 거야?",
    "choices": [
     "응, integrate 맞아",
     "아니, integrate 아니야"
@@ -75,7 +81,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/integrate.webp",
-  "alt": "블록 로봇에 얹어만 둔 새 팔이 선을 잇자 다른 팔들과 같이 움직이는 장면",
+  "alt": "조립 로봇에 얹어만 둔 새 팔이 선을 잇자 다른 팔들과 같이 움직이는 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,23 +11,24 @@
  "word": "coin",
  "slug": "coin",
  "url": "https://hibbangyong.com/words/coin/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "동전 — 물건을 살 때 쓰는 동그랗고 납작한 금속 돈",
  "gloss_ko": "동전",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 이 반짝이는 동그란 금속은 물건을 살 때 쓰는 동전, coin이에요.",
   "저금통에 짤랑 넣거나 가게에서 거스름돈으로 받아 본 적 있을 거예요."
  ],
- "scene": "동전(coin의 아이 친숙 의미=동전) 한 개를 화면 중앙에 크고 온전하게 — 반짝이는 금빛 원형 금속에 단순한 별 모양 양각만, 글자·숫자 없음.",
+ "explanation_for_kids": null,
+ "scene": "동전 한 개를 화면 중앙에 크고 온전하게 — 반짝이는 금빛 원형 금속에 단순한 별 모양 양각만, 글자·숫자 없음.",
  "examples": [
   {
-   "en": "I put a coin in my piggy bank.",
-   "ko": "나는 저금통에 동전을 넣었어."
+   "en": "I needed a coin for the shopping cart.",
+   "ko": "마트 카트를 빼려면 동전이 필요했어."
   }
  ],
  "quiz": [
@@ -57,7 +58,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/coin.webp",
-  "alt": "동전(coin의 아이 친숙 의미=동전) 한 개를 화면 중앙에 크고 온전하게 — 반짝이는 금빛 원형 금속에 단순한 별 모양 양각만, 글자·숫자 없음.",
+  "alt": "동전 한 개를 화면 중앙에 크고 온전하게 — 반짝이는 금빛 원형 금속에 단순한 별 모양 양각만, 글자·숫자 없음.",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

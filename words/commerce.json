@@ -11,25 +11,26 @@
  "word": "commerce",
  "slug": "commerce",
  "url": "https://hibbangyong.com/words/commerce/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "물건을 사고파는 일이 여기저기서 크게 오가는 것",
  "gloss_ko": "사고파는 일",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "시장에 가봐. 이 가게 저 가게, 사고파는 소리가 온 동네에 왁자지껄하지?",
   "근데 commerce는 딱 한 번 산 물건 하나를 말하는 게 아니야.",
   "온 동네, 온 나라에서 사고파는 일이 쉬지 않고 굴러가는 거야. 가게도 트럭도 배도 다 끼어서 말이야.",
   "그렇게 사고파는 게 크게 오가는 것, 그게 commerce야."
  ],
+ "explanation_for_kids": null,
  "scene": "온 동네 가게마다 사고파는 소리가 왁자지껄한 장면",
  "examples": [
   {
-   "en": "Big ships carry toys and fruit into the city for commerce.",
-   "ko": "큰 배들이 도시로 장난감이랑 과일을 실어 와, 사고팔려고 말이야."
+   "en": "Online commerce has changed the way we shop.",
+   "ko": "온라인으로 사고파는 일이 우리가 물건 사는 방식을 바꿔 놨어."
   }
  ],
  "quiz": [
@@ -37,10 +38,10 @@
    "type": "choice",
    "question": "다음 네 가지 일 중에서 'commerce'에 해당하는 건 어떤 거야?",
    "choices": [
-    "온 밤하늘에서 별들이 반짝반짝 빛나기만 하는 일",
+    "밤하늘 가득 별들이 빛나는 일",
     "여러 도시에서 물건을 사고팔며 돈이 쉼 없이 오가는 일",
-    "온 운동장에서 아이들이 공을 차며 뛰어노는 일",
-    "온 하늘에서 눈이 소복소복 내려 쌓이는 일"
+    "공원 곳곳에서 사람들이 공을 차며 노는 일",
+    "온 세상에 눈이 내려 쌓이는 일"
    ],
    "answer_index": 1,
    "answer": "여러 도시에서 물건을 사고팔며 돈이 쉼 없이 오가는 일",

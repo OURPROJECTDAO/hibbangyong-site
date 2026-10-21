@@ -11,25 +11,26 @@
  "word": "chest",
  "slug": "chest",
  "url": "https://hibbangyong.com/words/chest/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "가슴 (목 아래·배 위, 몸 앞쪽 부분)",
  "gloss_ko": null,
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "숨을 크게 들이쉬어 봐. 어디가 쑥 부풀어?",
   "목 아래, 배 위, 몸 앞쪽이 오르락내리락하지?",
   "콩닥콩닥 심장이 뛰는 게 만져지는 바로 거기 말이야.",
   "그게 chest야."
  ],
+ "explanation_for_kids": null,
  "scene": "숨 쉴 때 오르락내리락, 심장이 두근대는 몸 앞쪽 부위.",
  "examples": [
   {
-   "en": "My chest moves up and down every time I take a big breath.",
-   "ko": "숨을 크게 들이쉴 때마다 내 가슴이 위아래로 움직여."
+   "en": "I did chest exercises at the gym today.",
+   "ko": "오늘 헬스장에서 가슴 운동을 했어."
   }
  ],
  "quiz": [

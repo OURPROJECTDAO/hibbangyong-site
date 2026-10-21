@@ -11,19 +11,20 @@
  "word": "occasion",
  "slug": "occasion",
  "url": "https://hibbangyong.com/words/occasion/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "때 — 어떤 일이 일어난 바로 그 한 번(특별한 날도 그런 때 중 하나야)",
  "gloss_ko": "어떤 일이 일어난 그 한 번",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "이번 달에 네가 학교에 늦은 게 딱 세 번이라고 해보자. 한 번, 또 한 번, 또 한 번. 그렇게 일이 벌어진 '그 때'를 하나씩 콕 집어서 셀 수 있잖아?",
   "그 한 번의 때가 occasion이야. 할머니 팔순 잔치처럼 특별한 때도 occasion, 우유 엎지른 날처럼 하나도 안 특별한 때도 occasion이야.",
   "헷갈리는 게 있어. 눈 깜빡할 짧은 순간을 말하는 게 아니거든? 일이 있었던 그 한 번을 통째로 집는 말이야. 이게 occasion이야."
  ],
+ "explanation_for_kids": null,
  "scene": "이번 달에 학교에 늦은 세 번을 하나씩 세는 장면",
  "examples": [
   {

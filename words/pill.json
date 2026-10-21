@@ -11,23 +11,24 @@
  "word": "pill",
  "slug": "pill",
  "url": "https://hibbangyong.com/words/pill/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "알약 — 아플 때 물과 함께 삼켜서 먹는 작은 약",
  "gloss_ko": "알약",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 빨강·하양 캡슐이 바로 pill, 즉 삼켜서 먹는 약이에요.",
   "열이 나거나 배가 아플 때 물과 함께 꿀꺽 삼키는 작은 약이에요."
  ],
- "scene": "화면 중앙에 알약(캡슐형) 하나 — 절반은 빨강·절반은 하양의 매끈한 캡슐 알약을 크고 또렷하게, 약(먹는 약)의 뜻으로 그림",
+ "explanation_for_kids": null,
+ "scene": "화면 중앙에 알약(캡슐형) 하나",
  "examples": [
   {
-   "en": "The doctor gave me a small pill to take after dinner.",
-   "ko": "의사 선생님이 저녁 먹고 먹으라고 작은 알약을 주셨어."
+   "en": "I take one pill after breakfast every day.",
+   "ko": "매일 아침 먹고 알약을 하나씩 먹어."
   }
  ],
  "quiz": [
@@ -53,7 +54,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/pill.webp",
-  "alt": "화면 중앙에 알약(캡슐형) 하나 — 절반은 빨강·절반은 하양의 매끈한 캡슐 알약을 크고 또렷하게, 약(먹는 약)의 뜻으로 그림",
+  "alt": "화면 중앙에 알약(캡슐형) 하나",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,15 +11,21 @@
  "word": "wrap",
  "slug": "wrap",
  "url": "https://hibbangyong.com/words/wrap/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "감싸다 — 겉을 빙 둘러 감아서 덮거나 싸다",
  "gloss_ko": "감싸다",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "밖이 추운데 담요가 하나 있어. 그냥 위에 툭 얹으면 옆구리로 바람 다 들어오지?",
+  "몸을 빙 둘러 둘둘, 끝을 딱 붙이면 틈이 없어. 담요가 몸에 착 감긴 거야.",
+  "덮는 것만 그런 게 아니야. 긴 줄을 막대에 빙빙 돌려 감는 것도, 팔로 친구를 감싸 안는 것도 똑같아.",
+  "위에 걸쳐만 두는 거랑도, 끈으로 한 번 묶기만 하는 거랑도 달라. 둘레를 돌아서 감기게 하는 것, 그게 wrap이야."
+ ],
+ "explanation_for_kids": [
   "밖이 추운데 담요가 하나 있어. 그냥 위에 툭 얹으면 옆구리로 바람 다 들어오지?",
   "몸을 빙 둘러 둘둘, 끝을 딱 붙이면 틈이 없어. 담요가 몸에 착 감긴 거야.",
   "덮는 것만 그런 게 아니야. 긴 줄을 막대에 빙빙 돌려 감는 것도, 팔로 동생을 감싸 안는 것도 똑같아.",
@@ -28,8 +34,8 @@
  "scene": "추운 날 담요를 몸에 빙 둘러 끝을 붙여 틈을 없애는 장면",
  "examples": [
   {
-   "en": "I wrapped the blanket around my legs to stay warm.",
-   "ko": "따뜻하게 있으려고 담요로 다리를 감쌌어."
+   "en": "I wrap a blanket around my legs when I study at night.",
+   "ko": "밤에 공부할 때는 담요로 다리를 감싸."
   }
  ],
  "quiz": [

@@ -11,20 +11,21 @@
  "word": "decision",
  "slug": "decision",
  "url": "https://hibbangyong.com/words/decision/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "결정 — 여러 가지 중에서 하나로 딱 정한 것",
  "gloss_ko": "딱 정한 것",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "짜장면? 짬뽕? 한참 고민하다가 \"짬뽕!\" 하고 딱 정했어.",
   "고민하고 있을 때는 아직 아니야. 딱 정하는 그 순간에 생기는 거거든?",
   "나 혼자 정해도, 심판이 \"아웃!\" 하고 정해도, 정하고 나서 후회해도, 다 똑같이 불러.",
   "이게 decision이야."
  ],
+ "explanation_for_kids": null,
  "scene": "짜장면이냐 짬뽕이냐 고민하다 짬뽕으로 정하기",
  "examples": [
   {

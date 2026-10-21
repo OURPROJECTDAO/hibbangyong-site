@@ -11,25 +11,26 @@
  "word": "munch",
  "slug": "munch",
  "url": "https://hibbangyong.com/words/munch/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "우적우적 먹다 — 씹는 게 옆에서도 티가 날 만큼(소리가 날 만큼) 힘 있게 씹어 가며 먹는 것",
  "gloss_ko": "우적우적 먹다",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "영화 볼 때 팝콘 먹으면 씹는 소리가 옆자리까지 들리잖아.",
   "그렇게 씹는 게 티 나게 먹는 게 munch야. 사람이든 말이든, 과자든 당근이든 다 돼.",
   "껌처럼 씹기만 하고 안 넘기는 건 아니고, 아주 작게 조금씩 떼어 먹는 것도 아니야.",
   "숟가락으로 떠먹는 죽처럼 씹을 게 없는 먹기하고도 거리가 멀어."
  ],
+ "explanation_for_kids": null,
  "scene": "영화 보면서 팝콘 씹는 소리가 옆자리까지 들림",
  "examples": [
   {
-   "en": "We munched popcorn all through the movie.",
-   "ko": "우리 영화 보는 내내 팝콘을 우적우적 먹었어."
+   "en": "My roommate and I always munch popcorn during movies.",
+   "ko": "나랑 룸메이트는 영화 볼 때 늘 팝콘을 우적우적 먹어."
   }
  ],
  "quiz": [

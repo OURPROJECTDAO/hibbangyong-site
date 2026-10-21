@@ -11,38 +11,39 @@
  "word": "coherent",
  "slug": "coherent",
  "url": "https://hibbangyong.com/words/coherent/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "조리 있는(앞뒤가 맞는) — 말이나 글, 생각의 조각들이 앞뒤가 맞게 이어져서 하나로 말이 되는",
  "gloss_ko": "앞뒤가 맞는",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "친구가 어제 늦은 이유를 말하는데 얘기가 이리 튀고 저리 튀어. 끝까지 들어도 무슨 소린지 모르겠지.",
   "다른 친구는 순서대로 말해. 앞에 한 말이랑 뒤에 한 말이 부딪히지도 않아. 그래서 한 번에 알아들어.",
   "이렇게 조각들이 서로 맞물려서 하나의 이야기가 되는 게 coherent야. 글이나 계획, 대답에도 다 써.",
   "어려운 말을 쓴다고, 길게 쓴다고 coherent가 되는 건 아니야. 짧고 쉬운 말이어도 앞뒤가 맞으면 coherent야."
  ],
+ "explanation_for_kids": null,
  "scene": "늦은 이유를 두서없이 말하는 친구 vs 순서대로 말하는 친구",
  "examples": [
   {
-   "en": "Our team finally made a coherent plan for the school festival.",
-   "ko": "우리 팀이 드디어 학교 축제 계획을 앞뒤가 딱 맞게 짰어."
+   "en": "Our team finally made a coherent plan for the campus festival.",
+   "ko": "우리 팀이 드디어 대학 축제 계획을 앞뒤가 딱 맞게 짰어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "민수가 전학 온 친구에게 도서관 가는 길을 알려 줘. \"정문으로 나가서 편의점이 보이면 오른쪽으로 돌아. 거기서 두 블록 걸으면 빨간 벽돌 건물이 나오는데, 그게 도서관이야.\" 민수의 설명은 'coherent'해?",
+   "question": "민수가 이사 온 이웃에게 도서관 가는 길을 알려 줘. \"정문으로 나가서 편의점이 보이면 오른쪽으로 돌아. 거기서 두 블록 걸으면 빨간 벽돌 건물이 나오는데, 그게 도서관이야.\" 민수의 설명은 'coherent'해?",
    "choices": [
     "응, coherent 맞아",
     "아니, coherent 아니야"
    ],
    "answer_index": 0,
    "answer": "응, coherent 맞아",
-   "why": "맞아! 정문으로 나가서 편의점에서 오른쪽으로 돌고, 두 블록 걸으면 빨간 벽돌 건물이 나와. 순서대로 딱딱 이어지니까 전학 온 친구도 한 번에 알아듣지. 그래서 coherent인 거야."
+   "why": "맞아! 정문으로 나가서 편의점에서 오른쪽으로 돌고, 두 블록 걸으면 빨간 벽돌 건물이 나와. 순서대로 딱딱 이어지니까 이사 온 이웃도 한 번에 알아듣지. 그래서 coherent인 거야."
   }
  ],
  "synonyms": [],

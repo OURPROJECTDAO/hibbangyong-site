@@ -11,31 +11,37 @@
  "word": "rendering",
  "slug": "rendering",
  "url": "https://hibbangyong.com/words/rendering/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "표현 — 노래·그림·글 같은 걸로 누군가 무언가를 어떤 식으로 나타냈는지, 그렇게 나온 모습",
  "gloss_ko": "나타낸 모습",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "축제에서 두 팀이 똑같은 노래를 불렀어. 한 팀은 느리고 조용하게, 다른 팀은 신나는 록으로.",
+  "노래는 하나인데 무대에 나온 모습은 팀마다 달랐지. 그 팀이 그 노래를 나타낸 방식, 그게 rendering이야.",
+  "노래만 그런 게 아니야. 아직 안 지은 새 도서관을 미리 그린 그림도, 시를 다른 나라 말로 옮긴 글도 다 rendering이야. 잘했든 못했든 상관없어.",
+  "그걸 보고 매긴 점수나 감상은 rendering이 아니야. 누군가 소리나 그림, 글로 직접 나타내 놓은 것만 rendering이야."
+ ],
+ "explanation_for_kids": [
   "장기자랑에서 두 반이 똑같은 노래를 불렀어. 한 반은 느리고 조용하게, 다른 반은 신나는 록으로.",
   "노래는 하나인데 무대에 나온 모습은 반마다 달랐지. 그 반이 그 노래를 나타낸 방식, 그게 rendering이야.",
   "노래만 그런 게 아니야. 아직 안 지은 새 도서관을 미리 그린 그림도, 시를 다른 나라 말로 옮긴 글도 다 rendering이야. 잘했든 못했든 상관없어.",
   "그걸 보고 매긴 점수나 감상은 rendering이 아니야. 누군가 소리나 그림, 글로 직접 나타내 놓은 것만 rendering이야."
  ],
- "scene": "장기자랑에서 두 반이 같은 노래를 다르게 부른 무대",
+ "scene": "축제에서 두 팀이 같은 노래를 다르게 부른 무대",
  "examples": [
   {
-   "en": "His rendering of our school on the poster looked nothing like the real building.",
-   "ko": "걔가 포스터에 그려 놓은 우리 학교는 진짜 건물이랑 하나도 안 닮았어."
+   "en": "His rendering of our college on the poster looked nothing like the real building.",
+   "ko": "걔가 포스터에 그린 우리 대학은 진짜 건물이랑 하나도 안 닮았어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "미술 시간에 민지가 동네 공원의 연못과 벤치를 수채화 물감으로 그렸어. 민지가 그린 이 공원 그림은 'rendering'일까?",
+   "question": "주말에 민지가 동네 공원의 연못과 벤치를 수채화 물감으로 그렸어. 민지가 그린 이 공원 그림은 'rendering'일까?",
    "choices": [
     "응, rendering 맞아",
     "아니, rendering 아니야"
@@ -66,7 +72,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/rendering.webp",
-  "alt": "장기자랑에서 두 반이 같은 노래를 다르게 부른 무대",
+  "alt": "축제에서 두 팀이 같은 노래를 다르게 부른 무대",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

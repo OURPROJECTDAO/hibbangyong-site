@@ -11,20 +11,21 @@
  "word": "cultural",
  "slug": "cultural",
  "url": "https://hibbangyong.com/words/cultural/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "문화의 — 여럿이 오래 같이 살며 익힌 것(먹는 법·인사·말·노래·춤)에 관한",
  "gloss_ko": "문화의",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "한국에선 밥 먹기 전에 \"잘 먹겠습니다!\" 하잖아? 어떤 나라는 손으로 먹고, 어떤 나라는 포크를 써.",
   "누가 맞냐고? 그냥 다른 거야. 한 무리 사람들이 오래 같이 살면서 익힌 거거든.",
   "먹는 법, 인사, 말, 옛날이야기, 춤, 그림까지 다 들어가. 나라만 그런 게 아니라 한 동네, 한 학교에도 이런 게 있어.",
   "태어날 때부터 몸에 있던 거나 나 혼자 하는 버릇이랑은 달라. 여럿이 같이 익히고 나눠 온 쪽, 그게 cultural이야."
  ],
+ "explanation_for_kids": null,
  "scene": "밥 먹기 전 '잘 먹겠습니다' 인사",
  "examples": [
   {

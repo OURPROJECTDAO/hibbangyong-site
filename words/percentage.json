@@ -11,21 +11,27 @@
  "word": "percentage",
  "slug": "percentage",
  "url": "https://hibbangyong.com/words/percentage/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "퍼센트 — 전체를 100으로 쳤을 때 그중 얼마만큼인지",
  "gloss_ko": "100 중에 얼마",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "우리 팀 25명 중에 5명이 안경을 썼어. 팀이 딱 100명이라면 몇 명쯤일까?",
+  "똑같이 늘려 보면 20명이야. 이렇게 전체를 100으로 맞춰서 그중 얼마만큼인지 말하는 거야.",
+  "숫자를 딱 안 말해도 돼. 조금이면 작다고, 거의 다면 크다고 하거든? 사람도 과자도 돈도, 좋은 일도 나쁜 일도 다 이렇게 재.",
+  "그냥 몇 명이냐랑은 달라. 그게 percentage야."
+ ],
+ "explanation_for_kids": [
   "우리 반 25명 중에 5명이 안경을 썼어. 반이 딱 100명이라면 몇 명쯤일까?",
   "똑같이 늘려 보면 20명이야. 이렇게 전체를 100으로 맞춰서 그중 얼마만큼인지 말하는 거야.",
   "숫자를 딱 안 말해도 돼. 조금이면 작다고, 거의 다면 크다고 하거든? 사람도 과자도 돈도, 좋은 일도 나쁜 일도 다 이렇게 재.",
   "그냥 몇 명이냐랑은 달라. 그게 percentage야."
  ],
- "scene": "우리 반에서 안경 쓴 아이 세기",
+ "scene": "우리 팀에서 안경 쓴 사람 세기",
  "examples": [
   {
    "en": "Only a small percentage of the cookies got burned.",
@@ -63,7 +69,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/percentage.webp",
-  "alt": "우리 반에서 안경 쓴 아이 세기",
+  "alt": "우리 팀에서 안경 쓴 사람 세기",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

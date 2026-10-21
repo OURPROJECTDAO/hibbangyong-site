@@ -11,20 +11,21 @@
  "word": "theme",
  "slug": "theme",
  "url": "https://hibbangyong.com/words/theme/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "주제 — 이야기나 모임 전체를 하나로 꿰는 큰 생각.",
  "gloss_ko": "주제",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "생일파티에 갔는데, 접시도 공룡이고 모자도 공룡이고 케이크에도 공룡이 그려져 있어.",
   "여기저기 다른 것들이 딱 하나로 통하지? 바로 '공룡!'",
   "이야기도 그래. 흩어진 장면들이 다 가리키는 하나의 큰 생각, 그게 theme이야.",
   "헷갈리지 마. 그냥 나온 물건 하나나 제목이 아니라, 전체를 꿰는 생각이 theme이야."
  ],
+ "explanation_for_kids": null,
  "scene": "접시·모자·케이크가 전부 공룡인 생일파티",
  "examples": [
   {

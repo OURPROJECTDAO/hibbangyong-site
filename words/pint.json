@@ -11,25 +11,26 @@
  "word": "pint",
  "slug": "pint",
  "url": "https://hibbangyong.com/words/pint/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "파인트 — 우유·물 같은 액체의 양을 재는 단위(약 0.5리터)",
  "gloss_ko": "파인트",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "미국 마트 우유 통에 1 pint라고 적힌 거, 이게 양을 적은 거야.",
   "pint는 우유, 물, 주스 같은 액체가 얼마나 되는지 재는 단위야.",
   "1 pint는 대충 작은 생수병 한 병, 0.5리터쯤이야. 1리터는 아니고, 종이컵 한 잔보다는 훨씬 많아.",
   "영국이랑 미국에서 쓰는데 나라마다 양이 조금 달라. 무게를 재는 말은 아니야."
  ],
+ "explanation_for_kids": null,
  "scene": "미국 마트 우유 통에 적힌 1 pint 표시",
  "examples": [
   {
-   "en": "Mom asked me to buy a pint of milk on my way home.",
-   "ko": "엄마가 집에 오는 길에 우유 1파인트만 사 오라고 했어."
+   "en": "I bought a pint of milk on my way home from work.",
+   "ko": "퇴근길에 우유 1파인트를 샀어."
   }
  ],
  "quiz": [

@@ -11,20 +11,21 @@
  "word": "circumstance",
  "slug": "circumstance",
  "url": "https://hibbangyong.com/words/circumstance/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "사정 — 어떤 일을 둘러싸고 그 일을 바꿔 놓는 형편(날씨, 몸 상태, 집안 형편 같은 것)",
  "gloss_ko": "일을 둘러싼 형편",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "똑같이 축구를 해도, 비가 오면 미끄덩! 해가 쨍하면 신나게 뻥! 느낌이 확 다르거든?",
   "공 차는 건 그대로야. 바뀐 건 둘레 형편이지. 날씨일 수도 있고, 몸이 아픈 걸 수도 있고, 집에 돈이 모자란 걸 수도 있어.",
   "그 일 자체도 아니고, 내가 정한 마음도 아니야. circle(동그라미)처럼 일을 빙 둘러싼 여러 사정이야.",
   "이게 circumstance야."
  ],
+ "explanation_for_kids": null,
  "scene": "비 오는 날 미끄러운 축구와 해가 쨍한 날 신나는 축구",
  "examples": [
   {

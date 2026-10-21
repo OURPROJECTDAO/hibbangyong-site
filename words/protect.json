@@ -11,15 +11,21 @@
  "word": "protect",
  "slug": "protect",
  "url": "https://hibbangyong.com/words/protect/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "지키다 — 나쁜 일이 닿기 전에 앞에서 막아서 상하지 않게 해 주다",
  "gloss_ko": "막아서 지키다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "자전거 타다 넘어졌는데 머리는 하나도 안 아파. 헬멧이 대신 다 받아 줬거든?",
+  "다친 다음에 약 발라 주는 거랑은 달라. 아프기 전에 미리 가로막는 거야.",
+  "책 커버가 책을 지키고, 선배가 후배를 지키고, 나쁜 사람이 자기가 훔친 물건을 지키기도 해.",
+  "뭐가 상하지 않게 앞에서 딱 막아 주는 거, 그게 protect야."
+ ],
+ "explanation_for_kids": [
   "자전거 타다 꽈당! 넘어졌는데 머리는 하나도 안 아파. 헬멧이 대신 다 받아 줬거든?",
   "다친 다음에 약 발라 주는 거랑은 달라. 아프기 전에 미리 가로막는 거야.",
   "책 커버가 책을 지키고, 형이 동생을 지키고, 나쁜 사람이 자기가 훔친 물건을 지키기도 해.",
@@ -28,14 +34,14 @@
  "scene": "헬멧 쓰고 자전거 타다 넘어졌는데 머리가 안 다친 장면",
  "examples": [
   {
-   "en": "My helmet protected my head when I fell off my bike.",
-   "ko": "자전거에서 떨어졌을 때 헬멧이 내 머리를 지켜줬어."
+   "en": "This case will protect your phone if you drop it.",
+   "ko": "폰을 떨어뜨려도 이 케이스가 지켜 줄 거야."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "민아가 동생 장난감 로봇을 발로 밟아서 팔이 뚝 부러졌어. 민아가 로봇을 'protect'한 거야?",
+   "question": "민아가 룸메이트의 로봇 피규어를 발로 밟아서 팔이 뚝 부러졌어. 민아가 로봇을 'protect'한 거야?",
    "choices": [
     "응, protect 맞아",
     "아니, protect 아니야"

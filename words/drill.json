@@ -11,23 +11,24 @@
  "word": "drill",
  "slug": "drill",
  "url": "https://hibbangyong.com/words/drill/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "드릴 — 나무나 벽에 구멍을 뚫을 때 쓰는 공구",
  "gloss_ko": "드릴",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 이것은 위잉 소리를 내며 돌아가서 단단한 벽이나 나무에 구멍을 뚫는 공구예요.",
   "집에서 어른들이 벽에 못이나 선반을 달 때 이것으로 먼저 구멍을 뚫는 모습을 볼 수 있어요."
  ],
- "scene": "전동 드릴(공구) 한 개 — 아이에게 가장 친숙한 시각 의미인 '드릴 공구'를 그림",
+ "explanation_for_kids": null,
+ "scene": "전동 드릴(공구) 한 개",
  "examples": [
   {
-   "en": "My dad used a drill to make a hole in the wall.",
-   "ko": "아빠가 드릴로 벽에 구멍을 뚫었어."
+   "en": "I used a drill to put up a shelf in my new place.",
+   "ko": "새로 이사한 집에 선반 달려고 드릴을 썼어."
   }
  ],
  "quiz": [
@@ -53,7 +54,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/drill.webp",
-  "alt": "전동 드릴(공구) 한 개 — 아이에게 가장 친숙한 시각 의미인 '드릴 공구'를 그림",
+  "alt": "전동 드릴(공구) 한 개",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

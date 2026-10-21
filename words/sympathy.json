@@ -11,25 +11,31 @@
  "word": "sympathy",
  "slug": "sympathy",
  "url": "https://hibbangyong.com/words/sympathy/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "남이 힘들 때 같이 마음 아파해 주는 것",
  "gloss_ko": "같이 슬퍼하기",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "친구가 아끼던 컵을 깨뜨렸어.",
+  "친구 눈에 눈물이 그렁그렁. 그럼 네 가슴도 덩달아 쿵 내려앉지?",
+  "'아이고, 진짜 속상하겠다…' 하고 같이 마음이 아린 거.",
+  "그 마음이 sympathy야."
+ ],
+ "explanation_for_kids": [
   "친구가 아끼던 풍선이 펑! 터졌어.",
   "친구 눈에 눈물이 그렁그렁. 그럼 네 가슴도 덩달아 쿵 내려앉지?",
   "'아이고, 진짜 속상하겠다…' 하고 같이 마음이 아린 거.",
   "그 마음이 sympathy야."
  ],
- "scene": "친구 풍선이 펑 터지자 너도 가슴이 쿵, '속상하겠다' 하고 같이 아파함.",
+ "scene": "친구가 아끼던 컵을 깨뜨리자 너도 가슴이 쿵, '속상하겠다' 하고 같이 아파함.",
  "examples": [
   {
-   "en": "I felt sympathy for my friend when she lost her favorite toy.",
-   "ko": "친구가 제일 아끼는 장난감을 잃어버렸을 때, 나도 같이 마음이 아팠어."
+   "en": "I felt sympathy for my friend when she lost her job.",
+   "ko": "친구가 일자리를 잃었을 때 나도 같이 마음이 아팠어."
   }
  ],
  "quiz": [
@@ -40,7 +46,7 @@
     "친구만큼 속상해서, 옆에 앉아 같이 시무룩해졌다.",
     "'에이, 그게 뭐 대수야? 금방 잊어!' 하고 툭툭 넘겼다.",
     "친구가 좋아하는 만화 얘기를 꺼내 같이 깔깔 웃었다.",
-    "별 신경 안 쓰고 그냥 내 숙제를 계속했다."
+    "별 신경 안 쓰고 그냥 내 과제를 계속했다."
    ],
    "answer_index": 0,
    "answer": "친구만큼 속상해서, 옆에 앉아 같이 시무룩해졌다.",
@@ -73,7 +79,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/sympathy.webp",
-  "alt": "친구 풍선이 펑 터지자 너도 가슴이 쿵, '속상하겠다' 하고 같이 아파함.",
+  "alt": "친구가 아끼던 컵을 깨뜨리자 너도 가슴이 쿵, '속상하겠다' 하고 같이 아파함.",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

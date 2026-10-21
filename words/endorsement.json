@@ -11,25 +11,31 @@
  "word": "endorsement",
  "slug": "endorsement",
  "url": "https://hibbangyong.com/words/endorsement/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "지지(좋다고 밀어 주기) — 누군가나 무언가가 좋다고, 찬성한다고 분명히 밝혀서 힘을 실어 주는 것",
  "gloss_ko": "좋다고 밀어 줌",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "팀 워크숍 장소를 정하는데, 팀장님이 회의 때 '난 가평 펜션 찬성'이라고 밝혔다고 해 봐.",
+  "좋다고 분명히 드러내서 그쪽에 힘을 실어 주는 거지. 그게 endorsement야.",
+  "위원회가 어떤 계획에 공식적으로 찬성하는 것도, 유명한 사람이 광고에서 물건이 괜찮다고 해 주는 것도 다 여기 들어가.",
+  "근데 속으로만 좋다고 생각하는 건 아니야. 찬성인지 아닌지 안 밝히고 일만 거들어 주는 것도 아니고."
+ ],
+ "explanation_for_kids": [
   "반에서 체험학습 장소를 정하는데, 담임선생님이 회의 때 '난 박물관 찬성'이라고 밝혔다고 해 봐.",
   "좋다고 분명히 드러내서 그쪽에 힘을 실어 주는 거지. 그게 endorsement야.",
   "위원회가 어떤 계획에 공식적으로 찬성하는 것도, 유명한 사람이 광고에서 물건이 괜찮다고 해 주는 것도 다 여기 들어가.",
   "근데 속으로만 좋다고 생각하는 건 아니야. 찬성인지 아닌지 안 밝히고 일만 거들어 주는 것도 아니고."
  ],
- "scene": "담임선생님이 반 회의에서 체험학습 장소로 박물관에 찬성한다고 밝힘",
+ "scene": "팀장님이 팀 회의에서 워크숍 장소로 가평 펜션에 찬성한다고 밝힘",
  "examples": [
   {
-   "en": "After the famous coach's endorsement, many parents started to trust the new soccer club.",
-   "ko": "유명한 코치가 그 클럽 괜찮다고 밀어 주니까, 부모님들이 새 축구 클럽을 믿기 시작했어."
+   "en": "After the famous coach's endorsement, many people started to trust the new soccer club.",
+   "ko": "유명한 코치가 밀어 주니까 많은 사람들이 새 축구 클럽을 믿기 시작했어."
   }
  ],
  "quiz": [
@@ -57,7 +63,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/endorsement.webp",
-  "alt": "담임선생님이 반 회의에서 체험학습 장소로 박물관에 찬성한다고 밝힘",
+  "alt": "팀장님이 팀 회의에서 워크숍 장소로 가평 펜션에 찬성한다고 밝힘",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

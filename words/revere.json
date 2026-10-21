@@ -11,25 +11,26 @@
  "word": "revere",
  "slug": "revere",
  "url": "https://hibbangyong.com/words/revere/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "우러러보다 — 사람이나 전통, 자연 같은 대상을 아주 깊이 존경하며 받들다",
  "gloss_ko": "우러러 받들다",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "마을 한가운데 몇백 년 된 나무가 있는데, 사람들이 그 앞에서는 목소리를 낮추고 가지 하나도 안 꺾어.",
   "대상은 뭐든 될 수 있어. 평생 존경해 온 스승도, 위대한 과학자도, 오래 이어 온 전통도 이렇게 대할 수 있어.",
   "좋아하는 가수 때문에 들뜨는 마음이나, 멋진 걸 보고 한 번 '와' 하고 감탄하는 거랑은 달라.",
   "예의 바르게 대하는 보통 존중보다 훨씬 깊고, 쉽게 바뀌지 않고 오래가는 마음이야."
  ],
+ "explanation_for_kids": null,
  "scene": "마을 사람들이 몇백 년 된 나무 앞에서 목소리를 낮추는 장면",
  "examples": [
   {
-   "en": "The villagers revere the old tree in the middle of the town.",
-   "ko": "마을 사람들은 마을 한가운데 있는 오래된 나무를 우러러 받들어."
+   "en": "People in my neighborhood revere the old doctor at the corner clinic.",
+   "ko": "우리 동네 사람들은 모퉁이 병원의 나이 든 의사 선생님을 우러러봐."
   }
  ],
  "quiz": [

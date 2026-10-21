@@ -11,25 +11,31 @@
  "word": "turbulent",
  "slug": "turbulent",
  "url": "https://hibbangyong.com/words/turbulent/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "격동의 — 갑자기 바뀌는 일이 자꾸 생겨서 잠잠하지 않은 (시기·상황, 그리고 거센 바람·물살)",
  "gloss_ko": "잠잠하지 않은",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "이사 가고, 친구랑 싸웠다 화해하고, 알바는 구했다 그만두고. 한 해가 내내 출렁였던 적 있지?",
+  "이렇게 갑자기 바뀌는 일이 자꾸 터져서 잠잠할 틈이 없는 상태를 turbulent라고 해.",
+  "한 나라의 시대에도 쓰고, 비행기를 흔드는 거센 바람이나 거친 물살에도 써.",
+  "그냥 바쁜 거랑은 달라. 바쁜 건 할 일이 많은 거고, turbulent는 판 자체가 계속 흔들리는 거야."
+ ],
+ "explanation_for_kids": [
   "전학 가고, 친구랑 싸웠다 화해하고, 성적은 올랐다 떨어지고. 한 해가 내내 출렁였던 적 있지?",
   "이렇게 갑자기 바뀌는 일이 자꾸 터져서 잠잠할 틈이 없는 상태를 turbulent라고 해.",
   "한 나라의 시대에도 쓰고, 비행기를 흔드는 거센 바람이나 거친 물살에도 써.",
   "그냥 바쁜 거랑은 달라. 바쁜 건 할 일이 많은 거고, turbulent는 판 자체가 계속 흔들리는 거야."
  ],
- "scene": "전학·친구 다툼·성적 오르내림으로 출렁인 한 해",
+ "scene": "이사·친구 다툼·알바 바뀜으로 출렁인 한 해",
  "examples": [
   {
-   "en": "It was a turbulent year for our club: new members, a new teacher, and three different leaders.",
-   "ko": "올해 우리 동아리는 정신없이 바뀌었어, 신입에 새 선생님에 회장도 세 명이나 거쳤거든."
+   "en": "It was a turbulent year at work, with three different managers.",
+   "ko": "회사에서 정말 정신없는 한 해였어, 팀장만 세 명을 거쳤거든."
   }
  ],
  "quiz": [

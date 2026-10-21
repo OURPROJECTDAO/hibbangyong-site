@@ -11,25 +11,26 @@
  "word": "surface",
  "slug": "surface",
  "url": "https://hibbangyong.com/words/surface/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "겉면 — 어떤 것의 바깥쪽, 손이 제일 먼저 닿는 그 면",
  "gloss_ko": "겉면",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "사과를 하나 들어봐. 손에 닿는 그 빨간 겉, 거기가 surface야.",
   "물웅덩이도 그래. 맨 위 반질반질한 그 면, 거기가 surface지.",
   "속살이나 씨는 아니야. 안에 뭐가 들었든 상관없어. 바깥쪽 면, 딱 거기만.",
   "책상도 도로도 달도 다 있어. 매끈하든 우툴두툴하든, 바깥을 감싸는 그 면이 surface야."
  ],
+ "explanation_for_kids": null,
  "scene": "손에 닿는 사과의 빨간 겉",
  "examples": [
   {
-   "en": "The surface of this rock feels rough, but the water's surface is smooth.",
-   "ko": "이 바위 겉면은 까끌까끌한데, 물 표면은 매끈해."
+   "en": "This rock feels rough, but the surface of the water is smooth.",
+   "ko": "이 바위는 까끌까끌한데, 물 표면은 매끈해."
   }
  ],
  "quiz": [

@@ -11,21 +11,27 @@
  "word": "relapse",
  "slug": "relapse",
  "url": "https://hibbangyong.com/words/relapse/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "재발 — 나아지던 병이 다시 도지는 것. 좋아지던 사람이 끊었던 나쁜 버릇이나 예전의 나쁜 상태로 되돌아가는 것도 말해",
  "gloss_ko": "다시 도짐",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "감기가 다 나은 줄 알고 밖에서 무리했는데, 이틀 뒤에 또 열이 나서 앓아누웠어.",
+  "이렇게 좋아지던 사람이 다시 예전의 나쁜 상태로 미끄러지는 게 relapse야.",
+  "병만 그런 게 아니야. 끊었던 게임이나 군것질에 다시 빠지는 것도 relapse라고 해.",
+  "처음 아픈 거나 그냥 계속 나빠지기만 하는 거랑은 달라. 한 번 나아졌다가 되돌아가는 게 핵심이야."
+ ],
+ "explanation_for_kids": [
   "감기가 다 나은 줄 알고 밖에서 뛰어놀았는데, 이틀 뒤에 또 열이 나서 앓아누웠어.",
   "이렇게 좋아지던 사람이 다시 예전의 나쁜 상태로 미끄러지는 게 relapse야.",
   "병만 그런 게 아니야. 끊었던 게임이나 군것질에 다시 빠지는 것도 relapse라고 해.",
   "처음 아픈 거나 그냥 계속 나빠지기만 하는 거랑은 달라. 한 번 나아졌다가 되돌아가는 게 핵심이야."
  ],
- "scene": "감기가 나은 줄 알고 뛰어놀다가 다시 열이 나서 앓아누움",
+ "scene": "감기가 나은 줄 알고 무리하다가 다시 열이 나서 앓아누움",
  "examples": [
   {
    "en": "After two weeks of feeling better, Grandpa had a relapse and went back to the hospital.",
@@ -57,7 +63,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/relapse.webp",
-  "alt": "감기가 나은 줄 알고 뛰어놀다가 다시 열이 나서 앓아누움",
+  "alt": "감기가 나은 줄 알고 무리하다가 다시 열이 나서 앓아누움",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,25 +11,26 @@
  "word": "self",
  "slug": "self",
  "url": "https://hibbangyong.com/words/self/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "나 자신 — 남 말고, 겉모습에 성격·마음까지 다 합친 진짜 '나'",
  "gloss_ko": "나 자신",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "눈 딱 감고 '나' 하고 떠올려 봐.",
   "남도 아니고, 옆 친구도 아니고, 딱 나인 그거 있잖아.",
   "겉모습만도 아니고 내 성격이랑 마음까지, 세상에 하나뿐인 바로 나 자신.",
   "그게 self야."
  ],
+ "explanation_for_kids": null,
  "scene": "눈 감고 마음속 '나'를 떠올리는 장면",
  "examples": [
   {
-   "en": "Even in a costume, my true self stays the same.",
-   "ko": "변장을 해도 진짜 내 모습은 그대로야."
+   "en": "Even in a costume, I'm still my true self.",
+   "ko": "변장을 해도 나는 여전히 진짜 나야."
   }
  ],
  "quiz": [

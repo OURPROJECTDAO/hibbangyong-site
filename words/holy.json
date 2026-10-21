@@ -11,20 +11,21 @@
  "word": "holy",
  "slug": "holy",
  "url": "https://hibbangyong.com/words/holy/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "거룩한(성스러운) — 신과 이어져 있어서 함부로 못 대하고 깊이 받드는",
  "gloss_ko": "거룩한",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "교회나 절에 들어가 본 적 있어? 사람들이 목소리를 딱 낮추고 조심조심 걷거든.",
   "왜냐고? 거기가 신이랑 이어진 특별한 자리라고 믿어서 그래.",
   "그냥 멋지고 좋은 게 아니야. 함부로 못 대해서 조심조심 받드는 거야.",
   "헷갈리지 마, 비싸서 귀한 거랑은 달라. 이게 holy야."
  ],
+ "explanation_for_kids": null,
  "scene": "교회·절 안에서 목소리 낮추고 조심조심 걷는 장면",
  "examples": [
   {

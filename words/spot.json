@@ -11,15 +11,21 @@
  "word": "spot",
  "slug": "spot",
  "url": "https://hibbangyong.com/words/spot/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "콕 집을 수 있는 딱 그 자리 — '여기!' 하는 한 군데야.",
  "gloss_ko": "콕 집을 수 있는 작은 한 군데",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "손가락으로 콕 집을 수 있는 작은 한 군데, 그게 spot이야.",
+  "카페에서 '여기 앉자!' 하고 고른 딱 그 자리? 그것도 spot.",
+  "공원에서 '여기가 딱이야!' 하는 그 자리? 그것도 spot.",
+  "크고 넓은 데가 아니라, 콕 집히는 작은 곳. 이게 spot이야."
+ ],
+ "explanation_for_kids": [
   "손가락으로 콕 집을 수 있는 작은 한 군데, 그게 spot이야.",
   "숨바꼭질할 때 '여기 숨자!' 하고 고른 딱 그 자리? 그것도 spot.",
   "공원에서 '여기가 딱이야!' 하는 그 자리? 그것도 spot.",
@@ -28,14 +34,14 @@
  "scene": "손가락으로 콕 집는 작은 한 군데",
  "examples": [
   {
-   "en": "This is the perfect spot for our picnic.",
-   "ko": "여기가 우리 소풍하기에 딱 좋은 자리야."
+   "en": "This is the best spot in the café to study.",
+   "ko": "여기가 이 카페에서 공부하기 제일 좋은 자리야."
   }
  ],
  "quiz": [
   {
    "type": "choice",
-   "question": "동생이 놀이공원에서 한 말이야. 다음 중 'spot'에 해당하는 것은?",
+   "question": "친구랑 놀이공원에 갔어. 다음 중 'spot'에 해당하는 것은?",
    "choices": [
     "분수대 옆 벤치, 바로 여기가 쉬기 딱 좋은 자리",
     "놀이공원 전체의 넓은 땅",

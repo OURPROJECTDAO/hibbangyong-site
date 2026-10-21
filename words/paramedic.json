@@ -11,20 +11,21 @@
  "word": "paramedic",
  "slug": "paramedic",
  "url": "https://hibbangyong.com/words/paramedic/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "구급대원 — 응급 현장에 달려와 병원에 가기 전까지 다친 사람을 돌보는, 훈련받은 사람(의사·간호사는 아님). 앞에 붙으면 '구급대의'라는 뜻(paramedic team).",
  "gloss_ko": "구급대원",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "누가 길에서 쓰러지면 119 부르잖아. 몇 분 뒤에 달려와서 숨이랑 맥박부터 살피는 사람들 있지?",
   "그 사람들이 paramedic이야. 구급차에서도 일하고, 마라톤 대회 옆에서 대기하기도 해.",
   "병원에 닿기 전까지 응급처치를 맡는, 그 일을 따로 훈련받은 사람이야.",
   "근데 의사는 아니야. 불 끄는 소방관이랑도 하는 일이 달라."
  ],
+ "explanation_for_kids": null,
  "scene": "길에서 쓰러진 사람에게 119 구급대가 달려와 숨과 맥박을 살핌",
  "examples": [
   {
@@ -35,14 +36,14 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "등산을 하던 누나가 바위에서 미끄러져 발목을 크게 다쳤어. 몇 분 뒤 구급차가 와서, 누나는 들것에 실려 병원으로 옮겨졌어. 이 발목을 다친 누나는 'paramedic'이야?",
+   "question": "등산로 입구 계단에서 한 등산객이 미끄러져 발목을 크게 다쳤어. 몇 분 뒤 구급차가 와서, 등산객은 들것에 실려 병원으로 옮겨졌어. 이 등산객은 'paramedic'이야?",
    "choices": [
     "응, paramedic 맞아",
     "아니, paramedic 아니야"
    ],
    "answer_index": 1,
    "answer": "아니, paramedic 아니야",
-   "why": "맞아! 누나는 바위에서 미끄러져 발목을 다친 사람이라, 돌봄을 받는 쪽이거든. paramedic은 구급차 타고 와서 누나를 들것에 실어 병원까지 옮겨 준 사람들이야."
+   "why": "맞아! 등산객은 계단에서 미끄러져 발목을 다친 사람이라, 돌봄을 받는 쪽이거든. paramedic은 구급차 타고 와서 들것에 실어 병원까지 옮겨 준 사람들이야."
   }
  ],
  "synonyms": [],

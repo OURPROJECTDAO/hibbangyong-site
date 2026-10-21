@@ -11,25 +11,31 @@
  "word": "linear",
  "slug": "linear",
  "url": "https://hibbangyong.com/words/linear/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "직선의 — 한 줄로 곧게 쭉 이어지는 (모양이든 순서든)",
  "gloss_ko": "곧게 쭉 이어지는",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "주차장 바닥에 곧게 그은 흰 줄 하나를 떠올려 봐.",
+  "처음에서 끝까지 옆길 없이 쭉 한 줄로 가잖아. 이게 linear야.",
+  "모양만 그런 게 아니야. 1단계, 2단계, 3단계처럼 하나씩 차례로 이어지는 과정도 linear라고 해.",
+  "거꾸로 빙빙 도는 거나 여러 갈래로 뻗는 거면 linear가 아니야."
+ ],
+ "explanation_for_kids": [
   "운동장에 분필로 곧게 그은 줄 하나를 떠올려 봐.",
   "처음에서 끝까지 옆길 없이 쭉 한 줄로 가잖아. 이게 linear야.",
   "모양만 그런 게 아니야. 1단계, 2단계, 3단계처럼 하나씩 차례로 이어지는 과정도 linear라고 해.",
   "거꾸로 빙빙 도는 거나 여러 갈래로 뻗는 거면 linear가 아니야."
  ],
- "scene": "운동장에 분필로 곧게 그은 줄",
+ "scene": "주차장 바닥에 곧게 그은 흰 줄",
  "examples": [
   {
-   "en": "The movie is not linear, so it jumps from the past to the future and back again.",
-   "ko": "그 영화는 이야기가 한 줄로 쭉 가는 게 아니라서, 과거에서 미래로 갔다가 다시 돌아오고 그래."
+   "en": "This show isn't linear. It keeps jumping between the past and now.",
+   "ko": "이 드라마는 이야기가 순서대로 쭉 가지 않아. 계속 과거랑 지금을 왔다 갔다 해."
   }
  ],
  "quiz": [
@@ -57,7 +63,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/linear.webp",
-  "alt": "운동장에 분필로 곧게 그은 줄",
+  "alt": "주차장 바닥에 곧게 그은 흰 줄",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

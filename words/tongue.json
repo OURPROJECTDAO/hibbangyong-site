@@ -11,23 +11,24 @@
  "word": "tongue",
  "slug": "tongue",
  "url": "https://hibbangyong.com/words/tongue/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "혀 — 입 안에서 맛을 느끼고 말할 때 움직이는 부분",
  "gloss_ko": "혀",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "강아지가 입 밖으로 쭉 내민 분홍색 그것이 바로 혀예요.",
   "우리도 아이스크림을 핥거나 맛을 느낄 때 혀를 사용해요."
  ],
+ "explanation_for_kids": null,
  "scene": "귀여운 강아지가 분홍색 혀를 입 밖으로 크게 쭉 내민 정면 모습 — '혀(tongue)' 자체가 화면 주인공",
  "examples": [
   {
-   "en": "The dog stuck out its tongue and licked my hand.",
-   "ko": "강아지가 혀를 쭉 내밀어서 내 손을 핥았어."
+   "en": "I burned my tongue on the hot coffee.",
+   "ko": "뜨거운 커피 때문에 혀를 데었어."
   }
  ],
  "quiz": [

@@ -11,38 +11,44 @@
  "word": "relic",
  "slug": "relic",
  "url": "https://hibbangyong.com/words/relic/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "유물 — 지난 시절에서 지금까지 남아 그때를 떠올리게 하는 물건이나 풍습",
  "gloss_ko": "유물",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "동네 식당 구석에 다이얼 돌리는 옛날 전화기가 아직 있어. 아무도 안 쓰는데 그대로 남아 있지.",
+  "보면 딱 '아, 예전엔 이랬구나' 싶잖아. 그런 게 relic이야.",
+  "물건만 그런 게 아니야. 왜 생겼는지도 다 잊었는데 계속 남아 있는 규칙이나 습관도 relic이라고 해.",
+  "비싸고 귀한 보물이랑은 달라. 값이 아니라, 지난 시절에서 살아남았다는 게 핵심이야."
+ ],
+ "explanation_for_kids": [
   "할머니 집 구석에 다이얼 돌리는 옛날 전화기가 아직 있어. 아무도 안 쓰는데 그대로 남아 있지.",
   "보면 딱 '아, 예전엔 이랬구나' 싶잖아. 그런 게 relic이야.",
   "물건만 그런 게 아니야. 왜 생겼는지도 다 잊었는데 계속 남아 있는 규칙이나 습관도 relic이라고 해.",
   "비싸고 귀한 보물이랑은 달라. 값이 아니라, 지난 시절에서 살아남았다는 게 핵심이야."
  ],
- "scene": "할머니 집 구석에 남은 다이얼 전화기",
+ "scene": "동네 식당 구석에 남은 다이얼 전화기",
  "examples": [
   {
-   "en": "The old phone booth near our school is a relic from the time before cell phones.",
-   "ko": "우리 학교 앞 낡은 공중전화 부스는 휴대폰 없던 시절이 남긴 유물 같은 거야."
+   "en": "The old phone booth by the subway station is a relic from before cell phones.",
+   "ko": "지하철역 옆 낡은 공중전화 부스는 휴대폰 없던 시절의 유물이야."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "형이 다음 달에 처음 나오는 새 모델 스마트워치를 미리 주문해 놨어. 아직 아무도 받아 본 사람이 없대. 이 스마트워치는 'relic'이야?",
+   "question": "친구가 다음 달에 처음 나오는 새 모델 스마트워치를 미리 주문해 놨어. 아직 아무도 받아 본 사람이 없대. 이 스마트워치는 'relic'이야?",
    "choices": [
     "응, relic 맞아",
     "아니, relic 아니야"
    ],
    "answer_index": 1,
    "answer": "아니, relic 아니야",
-   "why": "맞아! 형이 주문한 스마트워치는 다음 달에 처음 나오는 새 모델이라 아직 받아 본 사람도 없잖아. relic은 지난 시절에서 지금까지 남은 물건이니까, 이제 막 나올 새 물건은 그 반대인 거야."
+   "why": "맞아! 친구가 주문한 스마트워치는 다음 달에 처음 나오는 새 모델이라 아직 받아 본 사람도 없잖아. relic은 지난 시절에서 지금까지 남은 물건이니까, 이제 막 나올 새 물건은 그 반대인 거야."
   }
  ],
  "synonyms": [],

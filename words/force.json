@@ -11,25 +11,31 @@
  "word": "force",
  "slug": "force",
  "url": "https://hibbangyong.com/words/force/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "힘 — 무언가를 밀거나 당겨서 움직이게 하거나 모양을 바꾸는 힘.",
  "gloss_ko": "힘",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "바람이 훅 부니까 빈 카트가 저절로 밀려. 아무도 안 밀었는데!",
+  "눈에 안 보이지만 바람이 카트를 밀고 있거든.",
+  "자석이 못을 쓱 끌어당길 때도 똑같아. 미는 것도, 당기는 것도 다 이 힘이야.",
+  "무언가를 움직이거나 찌그러뜨리는 이 밀고 당기는 힘, 이게 force야."
+ ],
+ "explanation_for_kids": [
   "바람이 훅 부니까 빈 그네가 저절로 흔들흔들 밀려. 아무도 안 밀었는데!",
   "그네를 쓱 미는 그 보이지 않는 밀기가 있거든?",
   "자석이 못을 쓱 끌어당길 때도 똑같아. 미는 것도, 당기는 것도 다 이 힘이야.",
   "무언가를 움직이거나 찌그러뜨리는 이 밀고 당기는 힘, 이게 force야."
  ],
- "scene": "바람이 빈 그네를 저절로 밀어 흔드는 장면",
+ "scene": "바람이 빈 카트를 저절로 밀어 움직이는 장면",
  "examples": [
   {
-   "en": "The strong wind pushed the little boat with great force.",
-   "ko": "센 바람이 작은 배를 아주 큰 힘으로 밀었어."
+   "en": "The wind hit our office window with great force.",
+   "ko": "바람이 엄청난 힘으로 우리 사무실 창문을 때렸어."
   }
  ],
  "quiz": [
@@ -64,7 +70,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/force.webp",
-  "alt": "바람이 빈 그네를 저절로 밀어 흔드는 장면",
+  "alt": "바람이 빈 카트를 저절로 밀어 움직이는 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,25 +11,26 @@
  "word": "prose",
  "slug": "prose",
  "url": "https://hibbangyong.com/words/prose/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "산문(줄글) — 시처럼 줄을 끊지 않고, 보통 문장을 문단으로 이어서 쓴 글",
  "gloss_ko": "줄글",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "국어 교과서를 넘겨 봐. 한 줄씩 짧게 끊어서 쓴 글이 있지? 그건 시야.",
   "나머지 글은 문장이 문단으로 쭉 이어져. 그런 글이 다 prose야.",
   "소설만 prose인 게 아니야. 뉴스 기사, 설명문, 네가 쓴 편지도 prose야.",
   "재미있든 딱딱하든 상관없어. 줄을 끊어 쓰는 시와 반대쪽에 있는 글이면 돼."
  ],
+ "explanation_for_kids": null,
  "scene": "국어 교과서에서 한 줄씩 끊긴 시와 문단으로 이어진 글 비교",
  "examples": [
   {
-   "en": "Mina wrote her science report in clear, simple prose.",
-   "ko": "미나는 과학 보고서를 쉬운 산문으로 깔끔하게 써 냈어."
+   "en": "Mina wrote her lab report in clear, simple prose.",
+   "ko": "미나는 실험 보고서를 쉽고 깔끔한 줄글로 써 냈어."
   }
  ],
  "quiz": [

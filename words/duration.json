@@ -11,20 +11,21 @@
  "word": "duration",
  "slug": "duration",
  "url": "https://hibbangyong.com/words/duration/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "기간, 지속 시간 — 어떤 일이 시작해서 끝날 때까지 이어지는 시간의 길이",
  "gloss_ko": "이어지는 시간",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "영화 예매 화면 봐 봐. '몇 시 시작'이랑 '상영 시간 100분'이 따로 적혀 있지?",
   "duration은 뒤쪽이야. 언제 하느냐가 아니라 얼마나 이어지느냐.",
   "길든 짧든 상관없어. 3분짜리 노래도, 한 달짜리 방학도 다 duration이 있어.",
   "몇 시에 하는지(때), 몇 번 하는지(횟수)랑 헷갈리면 안 돼."
  ],
+ "explanation_for_kids": null,
  "scene": "영화 예매 화면의 시작 시각과 상영 시간",
  "examples": [
   {

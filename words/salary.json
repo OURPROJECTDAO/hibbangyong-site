@@ -11,25 +11,31 @@
  "word": "salary",
  "slug": "salary",
  "url": "https://hibbangyong.com/words/salary/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "월급 — 회사나 학교 같은 데서 일하고 달마다 정해진 만큼 받는 돈",
  "gloss_ko": "월급",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "회사나 학교 같은 데서 일하면 달마다 정해진 날에 정해진 돈이 들어오지.",
+  "오늘 좀 많이 했다고 그날 더 주는 게 아니야. 한 달에 얼마, 이렇게 미리 정해 둔 거거든.",
+  "많을 수도 있고 적을 수도 있어. 줄어들 때도 있고.",
+  "그렇게 일하고 달마다 꼬박꼬박 받는 정해진 돈, 그게 salary야."
+ ],
+ "explanation_for_kids": [
   "어른들이 회사나 학교 같은 데서 일하잖아? 그럼 달마다 정해진 날에 정해진 돈이 들어와.",
   "오늘 좀 많이 했다고 그날 더 주는 게 아니야. 한 달에 얼마, 이렇게 미리 정해 둔 거거든.",
   "많을 수도 있고 적을 수도 있어. 줄어들 때도 있고.",
   "그렇게 일하고 달마다 꼬박꼬박 받는 정해진 돈, 그게 salary야."
  ],
- "scene": "회사나 학교에서 일하고 달마다 정해진 날에 정해진 돈이 들어오는 어른",
+ "scene": "회사나 학교에서 일하고 달마다 정해진 날에 정해진 돈이 들어오는 사람",
  "examples": [
   {
-   "en": "Dad's salary got smaller this year, so we didn't go on a trip.",
-   "ko": "올해 아빠 월급이 줄어서 우리는 여행을 못 갔어."
+   "en": "My salary went up this year, so I moved to a bigger place.",
+   "ko": "올해 월급이 올라서 더 넓은 집으로 이사했어."
   }
  ],
  "quiz": [
@@ -69,7 +75,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/salary.webp",
-  "alt": "회사나 학교에서 일하고 달마다 정해진 날에 정해진 돈이 들어오는 어른",
+  "alt": "회사나 학교에서 일하고 달마다 정해진 날에 정해진 돈이 들어오는 사람",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

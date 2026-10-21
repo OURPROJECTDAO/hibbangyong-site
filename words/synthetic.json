@@ -11,20 +11,21 @@
  "word": "synthetic",
  "slug": "synthetic",
  "url": "https://hibbangyong.com/words/synthetic/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "합성의 — 자연에서 그대로 얻은 게 아니라, 사람이 여러 물질을 화학적으로 합쳐서 새로 만든",
  "gloss_ko": "합성한",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "체육복 안쪽 태그 봐 봐. '폴리에스터'라고 적혀 있지? 그 실은 목화나 양털에서 온 게 아니야.",
   "공장에서 여러 원료를 섞고 반응시켜서 아예 새로 만들어 낸 실이야. 약, 고무, 보석도 이런 식으로 만들어.",
   "synthetic은 이렇게 자연에서 얻은 게 아니라 사람이 물질을 합쳐서 만들어 낸 걸 말해. 가짜나 싸구려라는 뜻은 아니야. 진짜랑 성분이 똑같은 것도 많아.",
   "그리고 나무를 깎아 만든 의자처럼 재료 모양만 바꾼 건 synthetic이 아니야. 재료 자체를 새로 만들어야 해."
  ],
+ "explanation_for_kids": null,
  "scene": "체육복 태그의 폴리에스터 실",
  "examples": [
   {

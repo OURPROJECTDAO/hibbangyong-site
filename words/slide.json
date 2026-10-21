@@ -11,15 +11,21 @@
  "word": "slide",
  "slug": "slide",
  "url": "https://hibbangyong.com/words/slide/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "미끄럼틀 — 또는 무언가가 매끈한 데를 따라 죽 미끄러져 가는 일",
  "gloss_ko": "미끄럼틀",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "비 많이 온 다음 날, 산비탈 흙이 아래로 주르륵 쓸려 내려갔대.",
+  "놀이터에 있는, 쭉 타고 내려오는 그것도 같은 말이야. 아예 미끄러져 가라고 만든 거니까.",
+  "발이 걸려서 폭 넘어진 거랑은 달라. 걸리는 게 아니라, 매끈한 데를 따라 죽 밀려가는 거거든?",
+  "그렇게 죽 미끄러져 가는 일도, 그러라고 만든 미끄럼틀도, 그게 slide야."
+ ],
+ "explanation_for_kids": [
   "비 많이 온 다음 날, 산비탈 흙이 아래로 주르륵 쓸려 내려갔대.",
   "놀이터에서 네가 쭉 타고 내려오는 그것도 같은 말이야. 아예 미끄러져 가라고 만든 거니까.",
   "발이 걸려서 폭 넘어진 거랑은 달라. 걸리는 게 아니라, 매끈한 데를 따라 죽 밀려가는 거거든?",
@@ -28,8 +34,8 @@
  "scene": "비 온 다음 날 산비탈 흙이 아래로 쓸려 내려간 일",
  "examples": [
   {
-   "en": "The rocks came down the hill in one long slide.",
-   "ko": "바위들이 산비탈을 따라 길게 한 번에 미끄러져 내려왔어."
+   "en": "My friends and I rode the biggest slide at the water park.",
+   "ko": "친구들이랑 워터파크에서 제일 큰 미끄럼틀을 탔어."
   }
  ],
  "quiz": [

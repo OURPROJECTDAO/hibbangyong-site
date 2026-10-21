@@ -11,38 +11,39 @@
  "word": "opt",
  "slug": "opt",
  "url": "https://hibbangyong.com/words/opt/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "고르다 — 갈라진 길 몇 개 앞에서 한쪽을 스스로 정하고 그쪽으로 가다",
  "gloss_ko": "고르다",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "비가 쏟아지는데 우산이 없어. 뛰어갈래, 그칠 때까지 기다릴래? 둘 중 하나는 골라야 해.",
   "너는 '뛰자!' 하고 빗속으로 달려 나갔어. 마음속으로 딱 정하고, 그쪽 길로 간 거야.",
   "좋은 쪽을 골라야만 그런 게 아니야. 둘 다 별로여도, 아예 안 하는 쪽을 골라도 똑같아.",
   "아무거나 손에 잡히는 걸 집는 거랑은 달라. 갈래를 놓고 내가 정하는 거거든? 이게 opt야."
  ],
+ "explanation_for_kids": null,
  "scene": "우산 없이 비 쏟아지는 날 뛰어갈지 기다릴지 갈림",
  "examples": [
   {
-   "en": "He opted to walk home in the rain instead of waiting for the bus.",
-   "ko": "걔는 버스를 기다리는 대신 빗속을 걸어서 집에 가기로 했어."
+   "en": "I usually opt for the stairs instead of the elevator.",
+   "ko": "나는 보통 엘리베이터 말고 계단을 택해."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "놀이터 미끄럼틀이 두 개 있는데 하나만 탈 수 있었어. 아이는 빨간 미끄럼틀로 정하고 그쪽 계단을 올라갔어. 이게 'opt'야?",
+   "question": "카페에 빈자리가 두 곳 있어서 어디에 앉을지 골라야 했어. 지수는 창가 자리로 정하고 그쪽으로 가서 앉았어. 이게 'opt'야?",
    "choices": [
     "응, opt 맞아",
     "아니, opt 아니야"
    ],
    "answer_index": 0,
    "answer": "응, opt 맞아",
-   "why": "맞아! 미끄럼틀 두 개 앞에서 빨간 쪽으로 마음을 딱 정하고 그 계단을 올라간 거잖아. 갈래를 놓고 내가 정해서 그쪽으로 간 거니까, 그게 바로 opt야."
+   "why": "맞아! 빈자리 두 곳 앞에서 창가 쪽으로 마음을 딱 정하고 그쪽으로 가서 앉은 거잖아. 갈래를 놓고 내가 정해서 그쪽으로 간 거니까, 그게 바로 opt야."
   }
  ],
  "synonyms": [],

@@ -11,20 +11,21 @@
  "word": "monastery",
  "slug": "monastery",
  "url": "https://hibbangyong.com/words/monastery/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "수도원 — 종교를 위해 사는 사람들(수도사·스님)이 세상과 떨어져 함께 모여 살며 기도하는 곳",
  "gloss_ko": "수도원",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "산속 깊은 곳에 스님들이 같이 먹고 자면서 날마다 기도하는 절 있잖아.",
   "유럽에도 비슷한 곳이 있어. 수도사들이 세상과 떨어져 모여 사는 오래된 건물.",
   "둘 다 monastery야. 핵심은 종교 때문에 거기서 함께 산다는 거.",
   "주말에 예배만 드리고 집에 가는 교회랑은 달라. 교회에는 보통 아무도 안 살잖아."
  ],
+ "explanation_for_kids": null,
  "scene": "산속에서 스님들이 함께 먹고 자며 기도하는 절",
  "examples": [
   {

@@ -11,26 +11,27 @@
  "word": "altar",
  "slug": "altar",
  "url": "https://hibbangyong.com/words/altar/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "제단 — 신에게 무언가를 바치거나 예식을 올리려고 차려 둔 탁자나 단",
  "gloss_ko": "제단",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "성당 맨 앞에 촛불이랑 꽃이 놓인 탁자 본 적 있지? 절에서 불상 앞에 향이랑 과일 올려 둔 상도 있고.",
   "종교는 달라도 둘 다 신 앞에 뭔가를 바치고 예식을 올리는 자리야. 그게 altar야.",
   "먼 옛날 사람들이 신께 제물을 바치던 돌로 된 단도 altar라고 해.",
   "그냥 밥 먹는 식탁이나 강당에서 연설할 때 쓰는 받침대는 altar가 아니야. 신 앞에서 쓰는 자리여야 해.",
   "철자가 비슷한 alter는 바꾼다는 뜻이야. 둘이 헷갈리지 마."
  ],
+ "explanation_for_kids": null,
  "scene": "성당 앞쪽 촛불과 꽃이 놓인 탁자",
  "examples": [
   {
-   "en": "She put fresh flowers on the altar before the service.",
-   "ko": "그녀는 예배가 시작되기 전에 제단 위에 싱싱한 꽃을 올려놨어."
+   "en": "At my cousin's wedding, the couple stood at the altar.",
+   "ko": "사촌 결혼식에서 신랑 신부가 제단 앞에 섰어."
   }
  ],
  "quiz": [

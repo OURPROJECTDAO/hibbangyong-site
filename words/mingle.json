@@ -11,25 +11,26 @@
  "word": "mingle",
  "slug": "mingle",
  "url": "https://hibbangyong.com/words/mingle/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "섞이다 — 서로 다른 것들이 한데 어울려 섞이다(냄새·소리·마음이 섞이거나, 사람들 사이에 섞여 어울리는 것)",
  "gloss_ko": "한데 섞이다",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "졸업식 날 생각해 봐. 기쁘기도 하고 섭섭하기도 하지.",
   "두 마음이 따로따로 오는 게 아니라 한데 섞여서 와. 이게 mingle이야.",
   "냄새나 소리도 이렇게 섞여. 파티에서 여러 사람 사이에 끼어 어울리는 것도 mingle이야.",
   "줄이 꼬이는 거랑은 달라. 한쪽이 다른 쪽을 덮어 버리는 것도 아니야. 서로 어울려 섞이는 거야."
  ],
+ "explanation_for_kids": null,
  "scene": "졸업식 날 기쁜 마음과 섭섭한 마음이 함께 드는 장면",
  "examples": [
   {
-   "en": "In the market, the smell of fresh bread mingled with the noise of the crowd.",
-   "ko": "시장에서 갓 구운 빵 냄새가 사람들 떠드는 소리랑 한데 섞였어."
+   "en": "At the party, I tried to mingle with people I didn't know.",
+   "ko": "파티에서 모르는 사람들이랑 섞여서 어울려 보려고 했어."
   }
  ],
  "quiz": [

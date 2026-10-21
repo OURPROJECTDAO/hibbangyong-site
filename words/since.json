@@ -11,25 +11,26 @@
  "word": "since",
  "slug": "since",
  "url": "https://hibbangyong.com/words/since/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "~한 뒤로 쭉; ~하니까",
  "gloss_ko": null,
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "어떤 일을 딱 하나 골라. 그게 출발선이야, 봐봐.",
   "'그 일이 있은 뒤로 지금까지 쭉~' 이렇게 시간이 흐르기도 하고,",
   "'그 일이 있으니까, 그래서~' 이렇게 까닭이 되기도 해.",
   "어느 쪽이든 그 골라 둔 일에서 시작하는 거. 이게 since야."
  ],
+ "explanation_for_kids": null,
  "scene": "고른 한 가지 일을 출발선 삼아, 거기서부터 시간이 쭉 흐르거나 까닭이 이어진다.",
  "examples": [
   {
-   "en": "Since I'm the oldest, I help my little brother.",
-   "ko": "내가 제일 맏이니까, 동생을 도와줘."
+   "en": "Since I'm the oldest, I often help my little brother out.",
+   "ko": "내가 맏이라서 남동생을 자주 도와줘."
   }
  ],
  "quiz": [

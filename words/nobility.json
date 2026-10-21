@@ -11,25 +11,26 @@
  "word": "nobility",
  "slug": "nobility",
  "url": "https://hibbangyong.com/words/nobility/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "귀족 — 왕 아래에서 공작·백작 같은 높은 신분을 집안 대대로 물려받은 사람들 전체. 그런 사람에게 기대하던 높고 깨끗한 마음씨(고귀함)를 가리킬 때도 써.",
  "gloss_ko": "귀족",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "옛날 영국 드라마 보면 공작, 백작 같은 호칭이 붙은 사람들이 나오지?",
   "왕은 아니지만 높은 신분을 태어날 때부터 집안에서 물려받은 사람들이야. 그 무리 전체를 nobility라고 해.",
   "돈만 많은 부자랑은 달라. 기준은 돈이 아니라 물려받은 신분이야.",
   "그런 사람한테 기대하던 높고 깨끗한 마음씨도 nobility라고 불러. 남을 위해 손해를 보는 행동 같은 거."
  ],
+ "explanation_for_kids": null,
  "scene": "옛날 영국 드라마 속 공작·백작 호칭을 가진 사람들",
  "examples": [
   {
-   "en": "Back then, only members of the nobility could become officers in the army.",
-   "ko": "그때는 귀족 집안 사람만 군대 장교가 될 수 있었어."
+   "en": "The museum tour showed how the nobility lived 300 years ago.",
+   "ko": "박물관 투어에서 300년 전 귀족들이 어떻게 살았는지 보여 줬어."
   }
  ],
  "quiz": [

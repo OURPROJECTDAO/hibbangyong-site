@@ -11,15 +11,21 @@
  "word": "excursion",
  "slug": "excursion",
  "url": "https://hibbangyong.com/words/excursion/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "짧은 여행 — 머물던 곳에서 일부러 어딘가를 다녀오려고 잠깐 나갔다가 돌아오는 나들이",
  "gloss_ko": "짧은 나들이",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "가족여행 가서 하루는 배 타고 옆 섬에 다녀오고, 저녁엔 숙소로 돌아왔어.",
+  "있던 곳을 두고 일부러 어딘가 잠깐 다녀오는 짧은 나들이, 그게 excursion이야. 회사에서 공장 견학 가는 것도 여기 들어가.",
+  "몇 달씩 여러 나라를 도는 긴 여행이나, 아예 옮겨 사는 이사는 아니야. 매일 다니는 출근길처럼 늘 하는 이동도 아니고.",
+  "그래서 하던 공부에서 잠깐 딴 분야를 맛보고 돌아오는 것도 비유로 excursion이라고 해."
+ ],
+ "explanation_for_kids": [
   "가족여행 가서 하루는 배 타고 옆 섬에 다녀오고, 저녁엔 숙소로 돌아왔어.",
   "있던 곳을 두고 일부러 어딘가 잠깐 다녀오는 짧은 나들이, 그게 excursion이야. 반 전체가 박물관 가는 현장학습도 여기 들어가.",
   "몇 달씩 여러 나라를 도는 긴 여행이나, 아예 옮겨 사는 이사는 아니야. 매일 다니는 학교길처럼 늘 하는 이동도 아니고.",
@@ -28,14 +34,14 @@
  "scene": "가족여행 중 하루 배 타고 옆 섬 다녀온 뒤 숙소로 복귀",
  "examples": [
   {
-   "en": "On Friday, our class went on an excursion to the science museum.",
-   "ko": "금요일에 우리 반은 과학관으로 현장학습을 다녀왔어."
+   "en": "On Saturday, my friends and I went on an excursion to the beach.",
+   "ko": "토요일에 친구들이랑 바닷가로 잠깐 나들이 다녀왔어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "아빠 회사가 부산으로 옮겨서, 우리 가족은 짐을 다 싸서 부산으로 이사 가 거기서 계속 살게 됐어. 이 일, 'excursion'이야?",
+   "question": "다니던 회사가 부산으로 옮겨서, 나는 짐을 다 싸서 부산으로 이사 가 거기서 계속 살게 됐어. 이 일, 'excursion'이야?",
    "choices": [
     "응, excursion 맞아",
     "아니, excursion 아니야"

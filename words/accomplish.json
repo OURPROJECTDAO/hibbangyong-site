@@ -11,31 +11,32 @@
  "word": "accomplish",
  "slug": "accomplish",
  "url": "https://hibbangyong.com/words/accomplish/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "해내다 — 하려고 마음먹은 일을 끝까지 다 해서 이뤄내다.",
  "gloss_ko": "해내다",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "며칠 동안 자전거를 타다가 자꾸 넘어졌어. 그런데 오늘, 드디어 혼자서 끝까지 탔지 뭐야!",
   "하려던 걸 진짜로 다 해서 이뤄낸 거야.",
   "그냥 '시작했다'가 아니라 '끝까지 해냈다'는 거거든? 하다가 만 거랑은 달라.",
   "작은 일이든 큰일이든, 마음먹은 걸 이렇게 이뤄내면 그게 accomplish야."
  ],
+ "explanation_for_kids": null,
  "scene": "며칠 넘어지다 오늘 혼자 자전거를 끝까지 탄 앵커 장면",
  "examples": [
   {
-   "en": "After weeks of trying, I finally accomplished it — I rode my bike all by myself!",
-   "ko": "몇 주를 계속 해본 끝에, 드디어 해냈어 — 자전거를 나 혼자 힘으로 다 탔지!"
+   "en": "I want to accomplish a lot at work this year.",
+   "ko": "올해는 회사에서 많은 걸 해내고 싶어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "형이 설명서를 보고 레고 배 모형을 마지막 단계까지 다 조립했어. 이렇게 한 걸 'accomplish' 했다고 할 수 있을까?",
+   "question": "친구가 설명서 보고 조립식 배 모형을 마지막 단계까지 다 조립했어. 이렇게 한 걸 'accomplish' 했다고 할 수 있을까?",
    "choices": [
     "응, accomplish 맞아",
     "아니, accomplish 아니야"

@@ -11,25 +11,26 @@
  "word": "refinery",
  "slug": "refinery",
  "url": "https://hibbangyong.com/words/refinery/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "정제 공장 — 석유나 설탕 같은 원료를 받아서, 섞인 것을 걸러 내고 깨끗하게 만드는 공장",
  "gloss_ko": "정제 공장",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "땅에서 막 뽑아 올린 석유는 시커멓고 이것저것 잔뜩 섞여 있어.",
   "사탕수수에서 짠 즙도 처음엔 누런 갈색이고 찌꺼기투성이야.",
   "이렇게 날것인 원료를 받아서 섞인 걸 걸러 내고 깨끗하게 만드는 공장이 refinery야.",
   "땅에서 캐내는 곳도, 다 만든 걸 쌓아 두는 곳도 아니야. 캐 온 걸 받아서 거르는 곳이야."
  ],
+ "explanation_for_kids": null,
  "scene": "갓 뽑아 올린 시커먼 석유를 걸러 깨끗한 기름으로 만드는 공장",
  "examples": [
   {
-   "en": "Trucks carry the raw sugar to the refinery every morning.",
-   "ko": "트럭들이 매일 아침 아직 가공 안 한 설탕을 정제 공장으로 실어 날라."
+   "en": "The refinery near my office turns crude oil into gasoline.",
+   "ko": "우리 회사 근처 정제 공장은 원유를 휘발유로 만들어."
   }
  ],
  "quiz": [

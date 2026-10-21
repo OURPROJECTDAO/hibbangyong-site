@@ -11,25 +11,26 @@
  "word": "skill",
  "slug": "skill",
  "url": "https://hibbangyong.com/words/skill/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "솜씨 — 해보고 또 해봐서 몸에 붙은, 뭔가를 잘 해내는 재주.",
  "gloss_ko": "솜씨",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "처음엔 신발끈이 자꾸 풀렸거든? 그런데 백 번쯤 묶다 보니 이젠 안 보고도 딱 묶여.",
   "해보고 또 해봐서 붙은 거야. 손으로 하는 것만 그런 게 아니야 — 남의 말 잘 알아듣는 것도 해봐야 늘거든.",
   "태어날 때부터 그냥 되던 거랑은 달라. 착한 일에만 붙는 것도 아니고 — 도둑도 열쇠 따는 재주가 늘잖아.",
   "그게 skill이야."
  ],
+ "explanation_for_kids": null,
  "scene": "신발끈을 백 번쯤 묶어 이제 안 보고도 묶는 장면",
  "examples": [
   {
-   "en": "My grandpa has the skill to fix any broken bike.",
-   "ko": "우리 할아버지는 고장 난 자전거를 뭐든 고치는 솜씨가 있어."
+   "en": "Fixing old bikes is a skill I learned at my part-time job.",
+   "ko": "낡은 자전거 고치는 건 아르바이트하면서 익힌 솜씨야."
   }
  ],
  "quiz": [

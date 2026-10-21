@@ -11,25 +11,26 @@
  "word": "chill",
  "slug": "chill",
  "url": "https://hibbangyong.com/words/chill/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "냉기 — 몸에 스며드는 서늘하고 차가운 기운",
  "gloss_ko": "찬 기운",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "아침에 문을 딱 열었는데, 바깥 공기가 스윽 들어와서 어깨가 오싹한 적 있지?",
   "꽁꽁 어는 추위까진 아니야. 몸에 살살 스며드는 차가운 기운이거든.",
   "바람이든 물이든 냉장고 문이든, 차가운 기운이 살짝 닿는 그 느낌이면 다 돼.",
   "그게 chill이야."
  ],
+ "explanation_for_kids": null,
  "scene": "아침에 문 열자 바깥 공기가 들어와 어깨가 오싹함",
  "examples": [
   {
-   "en": "When I opened the door, I felt a chill in the air.",
-   "ko": "문을 열었더니 바깥 공기에서 찬 기운이 확 느껴졌어."
+   "en": "When I left the gym, I felt a chill in the air.",
+   "ko": "헬스장에서 나왔더니 공기에 찬 기운이 느껴졌어."
   }
  ],
  "quiz": [

@@ -11,38 +11,39 @@
  "word": "contextual",
  "slug": "contextual",
  "url": "https://hibbangyong.com/words/contextual/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "맥락의 — 어떤 말이나 일을 그 앞뒤 사정과 주변 상황에 비추어 보는",
  "gloss_ko": "앞뒤 사정에 따른",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "친구가 우는 사진 한 장이 있어. 결혼식 사진이면 기뻐서 우는 거고, 장례식 사진이면 슬퍼서 우는 거야.",
   "똑같은 눈물인데 둘레에 뭐가 있느냐에 따라 뜻이 바뀌어. 그 둘레, 앞뒤 사정 쪽을 보는 게 contextual이야.",
   "글 속 단어든, 사람 행동이든, 뉴스 속 사건이든 다 돼.",
   "그것만 따로 떼어 보는 거랑은 반대야. 그리고 속에 뭐가 들어 있는지(내용) 따지는 것도 아니야. 둘레를 보는 거야."
  ],
+ "explanation_for_kids": null,
  "scene": "우는 사진 한 장 — 결혼식이면 기쁨, 장례식이면 슬픔",
  "examples": [
   {
-   "en": "Without the contextual information, the photo looked like a fight, but the boys were just playing.",
-   "ko": "앞뒤 사정을 모르고 보면 그 사진은 싸우는 것처럼 보였는데, 사실 남자애들은 그냥 놀고 있었던 거야."
+   "en": "Without contextual details, my boss's short email sounded kind of angry.",
+   "ko": "앞뒤 사정을 모르고 보니까 상사의 짧은 이메일이 좀 화난 것처럼 보였어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "엄마가 나한테 \"잘~한다\"라고 했어. 내가 방금 식탁에 우유를 쏟은 바로 뒤였어. 그래서 나는 그 말을 칭찬이 아니라 꾸중으로 알아들었어. 이렇게 그 말 앞에 무슨 일이 있었는지에 비추어 뜻을 정하는 건 'contextual'한 거야?",
+   "question": "사장님이 나한테 \"잘~한다\"라고 했어. 내가 방금 테이블에 우유를 쏟은 바로 뒤였어. 그래서 나는 그 말을 칭찬이 아니라 꾸중으로 알아들었어. 이렇게 그 말 앞에 무슨 일이 있었는지에 비추어 뜻을 정하는 건 'contextual'한 거야?",
    "choices": [
     "응, contextual 맞아",
     "아니, contextual 아니야"
    ],
    "answer_index": 0,
    "answer": "응, contextual 맞아",
-   "why": "맞아! 엄마 말만 따로 떼어 들으면 칭찬 같지만, 바로 앞에 식탁에 우유를 쏟은 일이 있었잖아. 그 일에 비추어 꾸중으로 알아들었으니 그게 바로 contextual인 거야."
+   "why": "맞아! 사장님 말만 따로 떼어 들으면 칭찬 같지만, 바로 앞에 테이블에 우유를 쏟은 일이 있었잖아. 그 일에 비추어 꾸중으로 알아들었으니 그게 바로 contextual인 거야."
   }
  ],
  "synonyms": [],

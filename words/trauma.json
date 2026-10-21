@@ -11,15 +11,21 @@
  "word": "trauma",
  "slug": "trauma",
  "url": "https://hibbangyong.com/words/trauma/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "트라우마 — 아주 충격적인 일을 겪은 뒤 마음에 오래 남는 깊은 상처(그 충격적인 일 자체를 말하기도 해)",
  "gloss_ko": "오래 남는 마음 상처",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "어릴 때 바다에서 물에 빠질 뻔한 사람이 있어. 몇 년이 지나도 수영장 앞에만 서면 몸이 굳어.",
+  "너무 충격적인 일이 마음에 깊이 박혀서 오래 따라다니는 거야. 그 끔찍했던 일 자체를 이렇게 부르기도 해.",
+  "면접 망쳐서 하루 우울한 거랑은 달라. 금방 지나가는 속상함은 이게 아니야.",
+  "병원에서는 사고로 몸이 크게 다친 것도 이 말로 불러."
+ ],
+ "explanation_for_kids": [
   "어릴 때 바다에서 물에 빠질 뻔한 애가 있어. 몇 년이 지나도 수영장 앞에만 서면 몸이 굳어.",
   "너무 충격적인 일이 마음에 깊이 박혀서 오래 따라다니는 거야. 그 끔찍했던 일 자체를 이렇게 부르기도 해.",
   "시험 망쳐서 하루 우울한 거랑은 달라. 금방 지나가는 속상함은 이게 아니야.",
@@ -28,8 +34,8 @@
  "scene": "어릴 때 바다에서 물에 빠질 뻔한 뒤 수영장 앞에서 몸이 굳음",
  "examples": [
   {
-   "en": "Getting lost at the big market was a trauma for my little brother.",
-   "ko": "큰 시장에서 길을 잃은 게 내 동생한테는 마음에 크게 남은 상처였어."
+   "en": "Getting lost at a big market as a kid left my little brother with trauma.",
+   "ko": "어릴 때 큰 시장에서 길을 잃은 일이 남동생한테 마음의 상처로 오래 남았어."
   }
  ],
  "quiz": [

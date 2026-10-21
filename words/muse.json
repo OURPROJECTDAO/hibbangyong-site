@@ -11,24 +11,25 @@
  "word": "muse",
  "slug": "muse",
  "url": "https://hibbangyong.com/words/muse/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "곰곰이 생각하다 — 한 가지 생각을 붙잡고 서두르지 않고 오래 생각에 잠기다 (그 생각을 혼잣말처럼 말하기도 해)",
  "gloss_ko": "곰곰이 생각하다",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "버스 창밖을 보다가 어떤 생각 하나가 떠올라. 그걸 놓지 않고 한참 이리저리 굴려 보는 게 muse야.",
   "그 생각이 기분 좋을 수도 있고, 좀 씁쓸할 수도 있어. 가끔은 '왜 그랬을까...' 하고 혼잣말로 흘러나오기도 해.",
   "빨리 답을 내려고 따져 보는 거나 걱정돼서 끙끙대는 거랑은 달라. 서두르지 않고 생각에 잠겨 있는 쪽이야."
  ],
+ "explanation_for_kids": null,
  "scene": "버스 창밖을 보다 떠오른 생각을 한참 굴려 보기",
  "examples": [
   {
-   "en": "On the bus home, Jisu mused on why her best friend had changed so much.",
-   "ko": "집에 가는 버스에서 지수는 제일 친한 친구가 왜 그렇게 변했는지 한참 곰곰이 생각했어."
+   "en": "Sometimes I sit in a café and muse about my future.",
+   "ko": "가끔 카페에 앉아서 내 앞날을 곰곰이 생각해."
   }
  ],
  "quiz": [

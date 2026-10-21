@@ -11,25 +11,26 @@
  "word": "create",
  "slug": "create",
  "url": "https://hibbangyong.com/words/create/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "없던 걸 새로 생겨나게 하다 — 좋은 것도, 말썽도",
  "gloss_ko": "없던 걸 새로 생겨나게 하다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "컵을 툭 쳐서 물을 쏟았어. 아까까진 바닥에 아무것도 없었는데, 물웅덩이가 딱 생겼지? 네가 그걸 생겨나게 한 거야.",
   "예쁘고 멋진 걸 만들 때만 쓰는 말이 아니거든? 없던 노래를 흥얼흥얼 지어내도, 없던 말썽을 일으켜도 똑같아.",
   "있던 걸 옮겨 놓거나 닦아 놓은 건 안 쳐줘. 아예 없던 게 새로 생겨나야 해.",
   "그게 create야."
  ],
+ "explanation_for_kids": null,
  "scene": "컵을 쳐서 바닥에 물웅덩이가 생긴 순간",
  "examples": [
   {
-   "en": "I only wanted to help, but I created a big problem for my mom.",
-   "ko": "그냥 도우려던 건데 엄마한테 큰 문젯거리만 만들어 버렸어."
+   "en": "I don't want to create more work for my team.",
+   "ko": "우리 팀한테 일거리를 더 만들고 싶지 않아."
   }
  ],
  "quiz": [

@@ -11,25 +11,31 @@
  "word": "similar",
  "slug": "similar",
  "url": "https://hibbangyong.com/words/similar/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "비슷한 — 똑같진 않지만 많이 닮은",
  "gloss_ko": "비슷한",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "자동차 두 대가 나란히 있어. 색도 닮고 모양도 닮았어.",
+  "근데 하나는 조금 더 크거든? 똑같진 않은데 많이 닮은 거지.",
+  "생김새만 그런 게 아니야. 너랑 친구 대답이 많이 닮았을 때도 이 말을 써.",
+  "그게 similar야."
+ ],
+ "explanation_for_kids": [
   "장난감 두 개가 나란히 있어. 색도 닮고 모양도 닮았어.",
   "근데 하나는 조금 더 크거든? 똑같진 않은데 많이 닮은 거지.",
   "생김새만 그런 게 아니야. 너랑 친구 대답이 많이 닮았을 때도 이 말을 써.",
   "그게 similar야."
  ],
- "scene": "색·모양이 닮았지만 하나가 더 큰 장난감 두 개",
+ "scene": "색·모양이 닮았지만 하나가 더 큰 자동차 두 대",
  "examples": [
   {
-   "en": "These two toys look similar, but one is a little bigger.",
-   "ko": "이 장난감 두 개는 비슷해 보이는데, 하나가 조금 더 커."
+   "en": "These two figures look similar, but one is a little bigger.",
+   "ko": "이 피규어 두 개는 비슷해 보이는데, 하나가 조금 더 커."
   }
  ],
  "quiz": [
@@ -70,7 +76,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/similar.webp",
-  "alt": "색·모양이 닮았지만 하나가 더 큰 장난감 두 개",
+  "alt": "색·모양이 닮았지만 하나가 더 큰 자동차 두 대",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

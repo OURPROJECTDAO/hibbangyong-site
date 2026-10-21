@@ -11,38 +11,39 @@
  "word": "interval",
  "slug": "interval",
  "url": "https://hibbangyong.com/words/interval/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "사이 — 하나와 다음 하나가 얼마나 떨어져 있는지, 그 벌어진 만큼(시간이든 거리든)",
  "gloss_ko": "둘 사이 벌어진 만큼",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "친구가 손뼉을 짝! 치고, 조금 있다가 또 짝! 쳤어.",
   "그 두 번 사이에 아무것도 없이 비어 있던 게 얼마나 되나, 딱 그걸 말하는 거야.",
   "시간만 그런 거 아니거든? 길가에 가로등이 죽 서 있으면, 등이랑 등 사이 떨어진 만큼도 똑같이 이렇게 불러.",
   "쉬는 시간만 가리키는 말은 아니야. 둘 사이가 얼마나 떠 있나, 그게 interval이야."
  ],
+ "explanation_for_kids": null,
  "scene": "손뼉을 두 번 칠 때 그 두 번 사이",
  "examples": [
   {
-   "en": "The buses come at ten-minute intervals.",
+   "en": "There's a ten-minute interval between buses.",
    "ko": "버스는 십 분 간격으로 와."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "선생님이 호루라기를 한 번 불고, 오 분 뒤에 또 불었어. 두 번 분 사이의 그 오 분이 'interval'이야?",
+   "question": "축구 코치가 호루라기를 한 번 불고, 오 분 뒤에 또 불었어. 두 번 분 사이의 그 오 분이 'interval'이야?",
    "choices": [
     "응, interval 맞아",
     "아니, interval 아니야"
    ],
    "answer_index": 0,
    "answer": "응, interval 맞아",
-   "why": "맞아! 선생님이 호루라기를 한 번 불고 또 불 때까지 오 분이 비어 있었잖아. 두 번 사이에 떨어진 그 오 분이 바로 interval인 거야."
+   "why": "맞아! 코치가 호루라기를 한 번 불고 또 불 때까지 오 분이 비어 있었잖아. 두 번 사이에 떨어진 그 오 분이 바로 interval인 거야."
   }
  ],
  "synonyms": [],

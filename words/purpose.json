@@ -11,20 +11,21 @@
  "word": "purpose",
  "slug": "purpose",
  "url": "https://hibbangyong.com/words/purpose/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "목적 — 그 일을 왜 하는지, 그걸로 뭘 하려는 건지",
  "gloss_ko": "목적",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "너 아침에 우산 챙겼지? 왜 챙겼어? 비 맞기 싫어서잖아.",
   "그 '뭐 하려고'가 바로 그거야. 물건한테도 붙어. 지우개는 지우려고 있는 거니까.",
   "멋진 꿈일 때만 쓰는 말 아니야. 누가 몰래 거짓말할 때도 노리는 게 있거든? 그것도 똑같아.",
   "하고 나서 생긴 일 말고, 하기 전부터 노린 것 — 이게 purpose야."
  ],
+ "explanation_for_kids": null,
  "scene": "아침에 비 맞기 싫어 우산을 챙긴 아이",
  "examples": [
   {

@@ -11,23 +11,27 @@
  "word": "monster",
  "slug": "monster",
  "url": "https://hibbangyong.com/words/monster/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "몬스터 — 이야기나 그림에 나오는, 진짜로는 없는 상상 속 괴물",
  "gloss_ko": "몬스터",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "복슬복슬한 털에 큰 눈과 작은 뿔이 달린 이 아이가 바로 몬스터예요.",
+  "만화나 영화에서 이런 몬스터를 본 적 있을 거예요. 무섭게 생겼지만 여기 몬스터는 귀엽죠."
+ ],
+ "explanation_for_kids": [
   "복슬복슬한 털에 큰 눈과 작은 뿔이 달린 이 아이가 바로 몬스터예요.",
   "만화나 동화책에서 이런 몬스터를 본 적 있을 거예요. 무섭게 생겼지만 여기 몬스터는 귀엽죠."
  ],
  "scene": "몬스터: 복슬복슬 털에 큰 둥근 눈 두 개와 작은 뿔이 달린, 귀엽고 친근한 괴물 한 마리가 화면 중앙에 전신으로 서 있음",
  "examples": [
   {
-   "en": "The monster in my picture book has two big eyes.",
-   "ko": "내 그림책에 나오는 괴물은 커다란 눈이 두 개야."
+   "en": "My friend and I watched a monster movie last night.",
+   "ko": "어젯밤에 친구랑 괴물 영화를 봤어."
   }
  ],
  "quiz": [

@@ -11,21 +11,22 @@
  "word": "tuberculosis",
  "slug": "tuberculosis",
  "url": "https://hibbangyong.com/words/tuberculosis/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "결핵 — 균이 사람 사이로 옮아서 생기고, 주로 폐를 망가뜨리는 오래가는 병",
  "gloss_ko": "결핵",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "병원이나 건강검진에서 가슴 엑스레이 찍는 거 본 적 있지? 그걸로 이 병이 있는지 살펴보기도 해.",
   "tuberculosis는 결핵이야. 균이 사람한테서 사람한테 옮아서 생기는 병이고, 주로 폐를 망가뜨려.",
   "근데 폐에만 생기는 건 아니야. 뼈나 몸의 다른 곳에 생기기도 해.",
   "며칠 앓다 끝나는 감기랑은 달라. 몇 달씩 매일 약을 먹어야 겨우 나아."
  ],
- "scene": "학교에서 가슴 엑스레이를 찍어 병이 있는지 검사하는 장면",
+ "explanation_for_kids": null,
+ "scene": "병원에서 가슴 엑스레이를 찍어 병이 있는지 검사하는 장면",
  "examples": [
   {
    "en": "My grandfather had tuberculosis when he was young, so he took medicine every day for six months.",
@@ -58,7 +59,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/tuberculosis.webp",
-  "alt": "학교에서 가슴 엑스레이를 찍어 병이 있는지 검사하는 장면",
+  "alt": "병원에서 가슴 엑스레이를 찍어 병이 있는지 검사하는 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

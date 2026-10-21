@@ -11,20 +11,21 @@
  "word": "corporal",
  "slug": "corporal",
  "url": "https://hibbangyong.com/words/corporal/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "신체의 — 몸에 관한, 특히 몸에 직접 가하는(체벌처럼)",
  "gloss_ko": "신체의",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "옛날 학교에선 손바닥을 때리거나 오리걸음을 시키는 벌도 있었대.",
   "반성문처럼 마음을 돌아보게 하는 벌이 아니야. 몸에 직접 주는 벌이지. 이게 corporal punishment, 체벌이야.",
   "corporal은 몸, 신체에 관한 거야. 때리는 것만이 아니라 몸을 힘들게 하는 건 다 들어가.",
   "'체력이 좋다'는 말이나 마음 쪽인 '정신적'이랑은 달라. 군대 계급 '상병'도 철자는 같지만, 그건 아예 다른 단어야."
  ],
+ "explanation_for_kids": null,
  "scene": "옛날 학교에서 손바닥 때리기·오리걸음 벌",
  "examples": [
   {

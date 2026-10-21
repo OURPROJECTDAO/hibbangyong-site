@@ -11,25 +11,26 @@
  "word": "lance",
  "slug": "lance",
  "url": "https://hibbangyong.com/words/lance/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "창 — 옛날 기사가 말을 타고 앞으로 겨누던, 끝이 뾰족하고 긴 무기",
  "gloss_ko": "기사의 긴 창",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "옛날 기사들이 말을 타고 서로를 향해 달려가는 장면 본 적 있지?",
   "그때 팔 밑에 끼고 앞으로 쭉 겨누는 길고 뾰족한 막대, 그게 lance야.",
   "휘두르는 칼이랑은 달라. 달리는 말의 힘으로 앞을 찌르는 무기거든.",
   "요즘은 전쟁엔 안 쓰고, 기사 시합이나 행사에서 볼 수 있어."
  ],
+ "explanation_for_kids": null,
  "scene": "말 타고 서로를 향해 달려가는 옛날 기사들",
  "examples": [
   {
-   "en": "The knight on the white horse held up his lance.",
-   "ko": "흰 말을 탄 기사가 창을 높이 들어 올렸어."
+   "en": "At the museum, we saw a knight's long lance.",
+   "ko": "박물관에서 기사가 쓰던 긴 창을 봤어."
   }
  ],
  "quiz": [

@@ -11,23 +11,24 @@
  "word": "screen",
  "slug": "screen",
  "url": "https://hibbangyong.com/words/screen/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "화면 — 텔레비전·컴퓨터에서 그림이나 글자가 나오는 반반한 면",
  "gloss_ko": "화면",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속에 밝게 켜져서 하늘이랑 언덕이 보이는 저 반반한 면이 screen(화면)이야.",
   "네가 텔레비전이나 태블릿에서 만화를 볼 때 그림이 나오는 바로 그 면이야."
  ],
- "scene": "글자 없이 알록달록한 단순 그림(밝은 하늘·둥근 언덕·해 도형)만 환하게 떠 있는 납작한 디스플레이 화면 한 대 — 사물 '스크린(화면)'을 그림",
+ "explanation_for_kids": null,
+ "scene": "글자 없이 알록달록한 단순 그림(밝은 하늘·둥근 언덕·해 도형)만 환하게 떠 있는 납작한 디스플레이 화면 한 대",
  "examples": [
   {
-   "en": "The picture showed up on the bright screen.",
-   "ko": "밝은 화면에 그림이 떴어."
+   "en": "My phone screen cracked on the subway this morning.",
+   "ko": "오늘 아침 지하철에서 휴대폰 화면이 깨졌어."
   }
  ],
  "quiz": [
@@ -55,7 +56,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/screen.webp",
-  "alt": "글자 없이 알록달록한 단순 그림(밝은 하늘·둥근 언덕·해 도형)만 환하게 떠 있는 납작한 디스플레이 화면 한 대 — 사물 '스크린(화면)'을 그림",
+  "alt": "글자 없이 알록달록한 단순 그림(밝은 하늘·둥근 언덕·해 도형)만 환하게 떠 있는 납작한 디스플레이 화면 한 대",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

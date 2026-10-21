@@ -11,25 +11,26 @@
  "word": "incur",
  "slug": "incur",
  "url": "https://hibbangyong.com/words/incur/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "(내가 한 일 때문에) 비용·빚·벌·미움 같은 부담을 떠안게 되다",
  "gloss_ko": "부담을 떠안다",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "뭔가를 하면, 그 일 때문에 부담이 나한테 따라올 때가 있지.",
   "동아리 부스를 열기로 했더니 재료비가 들고, 약속을 깼더니 친구가 화나고.",
   "잘못을 해서든 그냥 내가 고른 일이라서든, 그 일 때문에 비용이나 벌, 미움을 떠안는 게 incur야.",
   "남한테 떠넘기는 것도 아니고, 내 탓 없이 그냥 당하는 것도 아니야. 내가 한 일의 짐이 나한테 얹히는 거야."
  ],
+ "explanation_for_kids": null,
  "scene": "내가 한 일 때문에 부담이 나한테 따라오는 상황",
  "examples": [
   {
-   "en": "He incurred his coach's anger by skipping practice again.",
-   "ko": "걔는 또 연습을 빠지는 바람에 코치한테 미움을 샀어."
+   "en": "You'll incur a fee if you cancel your gym membership early.",
+   "ko": "헬스장 회원권을 일찍 해지하면 수수료를 물게 돼."
   }
  ],
  "quiz": [

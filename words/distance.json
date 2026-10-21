@@ -11,31 +11,37 @@
  "word": "distance",
  "slug": "distance",
  "url": "https://hibbangyong.com/words/distance/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "거리 — 두 곳이 서로 얼마나 떨어져 있는지, 그 떨어진 정도(가까워도 거리는 거리야).",
  "gloss_ko": "떨어진 거리",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "공원에서 뛰다 뒤처졌을 때 말이야. 너랑 친구 사이가 열 걸음쯤 벌어져 있었어.",
+  "막 쫓아가서 세 걸음까지 좁혔지. 열 걸음도 세 걸음도 똑같이 답이 돼.",
+  "멀다는 뜻이 아니거든? 사이가 얼마나 떨어졌나, 그 얼마나가 답이야.",
+  "별까지도 재고, 네 방 문에서 침대까지도 재. 그게 distance야."
+ ],
+ "explanation_for_kids": [
   "운동장에서 술래잡기 할 때 말이야. 너랑 친구 사이가 열 걸음쯤 벌어져 있었어.",
   "막 쫓아가서 세 걸음까지 좁혔지. 열 걸음도 세 걸음도 똑같이 답이 돼.",
   "멀다는 뜻이 아니거든? 사이가 얼마나 떨어졌나, 그 얼마나가 답이야.",
   "별까지도 재고, 네 방 문에서 침대까지도 재. 그게 distance야."
  ],
- "scene": "운동장 술래잡기에서 나와 친구 사이가 열 걸음에서 세 걸음으로 좁혀지는 장면",
+ "scene": "공원에서 나와 친구 사이가 열 걸음에서 세 걸음으로 좁혀지는 장면",
  "examples": [
   {
-   "en": "The distance between me and my friend was only three steps.",
-   "ko": "나랑 친구 사이의 거리는 겨우 세 걸음이었어."
+   "en": "The distance from my place to the gym is only two blocks.",
+   "ko": "우리 집에서 헬스장까지 거리는 겨우 두 블록이야."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "체육 시간에 선생님은 초시계로 내가 달린 시간을 쟀고, 나는 줄자로 출발선에서 결승선까지를 쟀어. 내가 줄자로 잰 게 distance야?",
+   "question": "달리기 연습 때 친구는 초시계로 내가 달린 시간을 쟀고, 나는 줄자로 출발선에서 결승선까지를 쟀어. 내가 줄자로 잰 게 distance야?",
    "choices": [
     "응, 그게 distance야",
     "아니, 그건 distance가 아니야"
@@ -58,7 +64,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/distance.webp",
-  "alt": "운동장 술래잡기에서 나와 친구 사이가 열 걸음에서 세 걸음으로 좁혀지는 장면",
+  "alt": "공원에서 나와 친구 사이가 열 걸음에서 세 걸음으로 좁혀지는 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

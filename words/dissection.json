@@ -11,25 +11,31 @@
  "word": "dissection",
  "slug": "dissection",
  "url": "https://hibbangyong.com/words/dissection/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "해부 — 죽은 동물이나 몸을 갈라서 속이 어떻게 생겼는지 살펴보는 일 (어떤 일을 조각조각 뜯어보며 따지는 것도 이렇게 불러)",
  "gloss_ko": "해부",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "다큐에서 오징어를 갈라 속을 하나하나 들여다보는 거 봤어?",
+  "먹으려고 자른 게 아니야. 안에 뭐가 어떻게 생겼는지 알려고 나눠 본 거야.",
+  "이게 dissection이야. 살아 있는 사람을 고치려고 하는 수술이랑은 달라.",
+  "그래서 어떤 사건이나 글을 조각조각 뜯어보며 따지는 것도 이렇게 불러."
+ ],
+ "explanation_for_kids": [
   "과학 시간에 오징어를 갈라서 속을 하나하나 들여다본 적 있지?",
   "먹으려고 자른 게 아니야. 안에 뭐가 어떻게 생겼는지 알려고 나눠 본 거야.",
   "이게 dissection이야. 살아 있는 사람을 고치려고 하는 수술이랑은 달라.",
   "그래서 어떤 사건이나 글을 조각조각 뜯어보며 따지는 것도 이렇게 불러."
  ],
- "scene": "과학 시간 오징어 해부",
+ "scene": "다큐 속 오징어 해부",
  "examples": [
   {
-   "en": "During the fish dissection in science class, we found a small crab in its stomach.",
-   "ko": "과학 시간에 물고기를 해부하다가 배 속에서 작은 게를 찾았어."
+   "en": "In my biology lab, we did a frog dissection today.",
+   "ko": "오늘 생물학 실험 시간에 개구리 해부를 했어."
   }
  ],
  "quiz": [
@@ -68,7 +74,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/dissection.webp",
-  "alt": "과학 시간 오징어 해부",
+  "alt": "다큐 속 오징어 해부",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

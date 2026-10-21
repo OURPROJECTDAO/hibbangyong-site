@@ -11,15 +11,21 @@
  "word": "university",
  "slug": "university",
  "url": "https://hibbangyong.com/words/university/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "대학교 — 고등학교까지 다 마친 뒤에, 한 가지를 깊게 배우러 가는 학교",
  "gloss_ko": "대학교",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "초등학교 졸업하고, 중학교 고등학교까지 다 지나고 나면 말이야.",
+  "학교를 다 마친 사람들이 그담에 가는 학교가 또 있잖아.",
+  "거기선 의사 되는 법, 우주, 그림 중에 딱 하나를 골라서 진짜 깊게 파고들어 배워. 큰 데도 있고 작은 데도 있어.",
+  "학교를 전부 다 지난 다음에 가서 한 가지를 깊게 배우는 곳, 그게 university야."
+ ],
+ "explanation_for_kids": [
   "너 초등학교 졸업하고, 중학교 고등학교까지 다 지나면 말이야.",
   "학교를 다 마친 형 누나들이 그담에 가는 학교가 또 있거든?",
   "거기선 의사 되는 법, 우주, 그림 중에 딱 하나를 골라서 진짜 깊~게 파고들어 배워. 큰 데도 있고 작은 데도 있어.",
@@ -28,8 +34,8 @@
  "scene": "정규 학교를 다 마친 뒤 한 가지를 깊게 배우러 가는 학교.",
  "examples": [
   {
-   "en": "My sister is old enough to go to university now.",
-   "ko": "언니는 이제 대학교에 갈 만큼 컸어."
+   "en": "My sister starts university next month.",
+   "ko": "언니는 다음 달에 대학교에 들어가."
   }
  ],
  "quiz": [
@@ -42,7 +48,7 @@
    ],
    "answer_index": 0,
    "answer": "응, university야",
-   "why": "맞아! 초등학교 중학교 고등학교를 다 지나고 나서, 우주 한 가지만 골라 깊~게 파고들어 배우는 큰 학교, 바로 그게 university거든. 형이 다니는 데가 딱 그거라서 맞는 거야."
+   "why": "맞아! 초등학교 중학교 고등학교를 다 지나고 나서, 우주 한 가지만 골라 깊게 파고들어 배우는 큰 학교, 바로 그게 university거든. 형이 다니는 데가 딱 그거라서 맞는 거야."
   }
  ],
  "synonyms": [],

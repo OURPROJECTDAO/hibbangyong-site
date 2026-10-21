@@ -11,19 +11,20 @@
  "word": "nut",
  "slug": "nut",
  "url": "https://hibbangyong.com/words/nut/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "견과류 — 껍데기 안에 든 딱딱한 알맹이 열매(호두·아몬드 같은)",
  "gloss_ko": "견과류",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림에 있는 딱딱한 껍데기 열매가 nut이야. 호두랑 아몬드처럼 껍데기 속에 알맹이가 들어 있어.",
   "간식으로 한 줌씩 집어 먹거나, 초콜릿이나 빵 속에 들어 있기도 해."
  ],
- "scene": "화면 중앙에 껍데기째 있는 견과류 한 무더기(호두·아몬드·헤이즐넛)를 크게 — 먹는 견과류(nut)를 그림",
+ "explanation_for_kids": null,
+ "scene": "화면 중앙에 껍데기째 있는 견과류 한 무더기(호두·아몬드·헤이즐넛)를 크게",
  "examples": [
   {
    "en": "I cracked the shell and ate the nut inside.",
@@ -55,7 +56,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/nut.webp",
-  "alt": "화면 중앙에 껍데기째 있는 견과류 한 무더기(호두·아몬드·헤이즐넛)를 크게 — 먹는 견과류(nut)를 그림",
+  "alt": "화면 중앙에 껍데기째 있는 견과류 한 무더기(호두·아몬드·헤이즐넛)를 크게",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

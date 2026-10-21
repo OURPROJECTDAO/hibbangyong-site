@@ -11,31 +11,32 @@
  "word": "forward",
  "slug": "forward",
  "url": "https://hibbangyong.com/words/forward/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "앞으로 — 몸이나 물건이 향한 앞쪽 방향으로",
  "gloss_ko": "앞으로",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "줄에 서 있는데 앞사람이 한 발짝 갔어. 그럼 너도 한 발짝 나아가지? 그게 forward야.",
   "꼭 걷는 것만은 아니야. 의자에 앉아서 몸만 앞으로 기울여도 forward고, 자전거 안장을 앞쪽으로 옮겨도 forward야.",
   "좋은 쪽이란 뜻은 아니거든? 낭떠러지 쪽으로 한 발 더 가는 것도 forward야. 방향이 앞이면 그냥 forward.",
   "옆으로 비켜서거나 뒤로 물러나는 거랑은 달라. 앞을 향하면, 그게 forward야."
  ],
+ "explanation_for_kids": null,
  "scene": "줄 서서 앞사람 따라 한 발짝 나아가기",
  "examples": [
   {
-   "en": "He leaned forward to see what was in the box.",
-   "ko": "걔는 상자 안에 뭐가 있나 보려고 몸을 앞으로 기울였어."
+   "en": "I leaned forward to read the menu on the wall.",
+   "ko": "벽에 걸린 메뉴를 읽으려고 몸을 앞으로 기울였어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "미끄럼틀 계단 앞에서 형이 위로 올라가서 자리가 비었어. 동생이 그 빈자리 쪽으로 두 걸음 걸어갔어. 이게 'forward'야?",
+   "question": "버스 정류장에서 앞사람이 버스에 올라타서 자리가 비었어. 친구가 그 빈자리 쪽으로 두 걸음 걸어갔어. 이게 'forward'야?",
    "choices": [
     "응, forward 맞아",
     "아니, forward 아니야"

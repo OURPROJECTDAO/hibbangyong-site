@@ -11,15 +11,21 @@
  "word": "although",
  "slug": "although",
  "url": "https://hibbangyong.com/words/although/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "~인데도 · ~이긴 하지만 — 앞 일이랑 안 어울리는 뒤가 올 때 그 둘 사이를 이어주는 말.",
  "gloss_ko": "~인데도 · ~이긴 하지만",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "비가 많이 와. 그럼 보통은 집에 있지?",
+  "근데 넌 우산 쓰고 그냥 밖으로 나갔어.",
+  "'비가 오는데도 나갔어' — 앞이랑 안 어울리는 뒤가 딱 붙었지?",
+  "앞 얘기를 일단 맞다고 해주고선, 어? 싶은 반대 얘기로 넘어갈 때 그 사이에 껴. 그게 although야."
+ ],
+ "explanation_for_kids": [
   "비가 주룩주룩 와. 그럼 보통은 집에 있지?",
   "근데 넌 우산 쓰고 그냥 밖으로 나갔어.",
   "'비가 오는데도 나갔어' — 앞이랑 안 어울리는 뒤가 딱 붙었지?",

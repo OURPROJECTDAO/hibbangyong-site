@@ -11,31 +11,32 @@
  "word": "compete",
  "slug": "compete",
  "url": "https://hibbangyong.com/words/compete/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "겨루다 — 하나뿐인 것을 두고 남과 서로 차지하려 애쓰다",
  "gloss_ko": "겨루다",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "빵 부스러기가 툭 하고 하나 떨어졌어. 그런데 참새는 두 마리야.",
   "둘 다 그 하나를 갖고 싶어서, 서로 먼저 가지려고 애써.",
   "꼭 이겨야 하는 건 아니야. 져도, 꼴찌여도, 그 하나를 놓고 애쓰는 동안은 맞아.",
   "혼자 열심히 하는 거랑은 달라. 같은 걸 노리는 상대가 있어야 해. 그게 compete야."
  ],
+ "explanation_for_kids": null,
  "scene": "빵 부스러기 하나를 두고 참새 두 마리가 먼저 가지려 함",
  "examples": [
   {
-   "en": "My little brother and I always compete for the last cookie.",
-   "ko": "동생이랑 나는 늘 마지막 과자 하나를 놓고 겨뤄."
+   "en": "My roommate and I always compete for the last slice of pizza.",
+   "ko": "룸메이트랑 나는 늘 마지막 피자 한 조각을 놓고 겨뤄."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "도서관 서가에 인기 그림책이 딱 한 권 남아 있어. 지호와 서연이가 그 책을 보고 동시에 손을 뻗었어. 이게 'compete'야?",
+   "question": "도서관 서가에 인기 소설책이 딱 한 권 남아 있어. 지호와 서연이가 그 책을 보고 동시에 손을 뻗었어. 이게 'compete'야?",
    "choices": [
     "응, compete 맞아",
     "아니, compete 아니야"

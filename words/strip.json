@@ -11,31 +11,37 @@
  "word": "strip",
  "slug": "strip",
  "url": "https://hibbangyong.com/words/strip/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "붙어 있거나 덮고 있던 걸 남김없이 다 떼어내 맨 알맹이만 남기다",
  "gloss_ko": "남김없이 다 떼어내다",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "빨대에 감긴 종이를 위에서 아래까지 쭉 벗겨 내는 거.",
+  "한 귀퉁이만 뜯는 게 아니라 남김없이 다 벗겨서 맨 빨대만 딱 남는 거야.",
+  "이렇게 붙어 있던 걸 몽땅 떼어내는 게 다 이 말이야. 나뭇가지의 잎도, 오래된 페인트도, 일등한 사람한테서 메달이랑 상까지 싹 다.",
+  "한 겹만 살살 까는 거랑은 달라. 그게 strip이야."
+ ],
+ "explanation_for_kids": [
   "크레용에 감긴 종이, 위에서 아래까지 쭉 벗겨 본 적 있지?",
   "한 귀퉁이만 뜯는 게 아니라 남김없이 다 벗겨서 맨 크레용만 딱 남는 거야.",
   "이렇게 붙어 있던 걸 몽땅 떼어내는 게 다 이 말이야. 나뭇가지의 잎도, 오래된 페인트도, 일등한 사람한테서 메달이랑 상까지 싹 다.",
   "한 겹만 살살 까는 거랑은 달라. 그게 strip이야."
  ],
- "scene": "크레용에 감긴 종이를 위에서 아래까지 쭉 다 벗겨 맨 크레용만 남기기",
+ "scene": "빨대에 감긴 종이를 위에서 아래까지 쭉 다 벗겨 맨 빨대만 남기기",
  "examples": [
   {
-   "en": "My brother stripped all the leaves off the branch.",
-   "ko": "형은 나뭇가지에 붙은 잎을 남김없이 다 떼어냈어."
+   "en": "I need to strip the old paint off this chair.",
+   "ko": "이 의자에 칠해진 옛날 페인트를 싹 벗겨내야 해."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "형이 마당에 세워 둔 자전거 위로 커다란 비닐을 펼쳐 씌워서 자전거가 안 보이게 됐어. 이걸 'strip'이라고 할 수 있어?",
+   "question": "이웃이 마당에 세워 둔 자전거 위로 커다란 비닐을 펼쳐 씌워서 자전거가 안 보이게 됐어. 이걸 'strip'이라고 할 수 있어?",
    "choices": [
     "응, strip 맞아",
     "아니, strip 아니야"
@@ -63,7 +69,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/strip.webp",
-  "alt": "크레용에 감긴 종이를 위에서 아래까지 쭉 다 벗겨 맨 크레용만 남기기",
+  "alt": "빨대에 감긴 종이를 위에서 아래까지 쭉 다 벗겨 맨 빨대만 남기기",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

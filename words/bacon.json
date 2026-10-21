@@ -11,18 +11,19 @@
  "word": "bacon",
  "slug": "bacon",
  "url": "https://hibbangyong.com/words/bacon/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "베이컨 — 돼지고기를 얇고 길게 썰어 구워 먹는 짭짤한 고기",
  "gloss_ko": "베이컨",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "접시에 가지런히 놓인, 얇고 길게 구운 짭짤한 고기가 bacon이에요.",
   "아침에 계란과 함께 자주 먹고, 바삭하게 구우면 더 고소해요."
  ],
+ "explanation_for_kids": null,
  "scene": "노릇하게 구운 베이컨 몇 줄(줄무늬가 선명한 붉은 살과 하얀 지방)을 접시에 가지런히 담은 모습",
  "examples": [
   {

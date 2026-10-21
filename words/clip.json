@@ -11,23 +11,27 @@
  "word": "clip",
  "slug": "clip",
  "url": "https://hibbangyong.com/words/clip/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "클립 — 종이 여러 장을 겹쳐 집어 고정하는 작은 철사 고리",
  "gloss_ko": "클립",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "그림 속 은색으로 구부러진 이 물건이 clip이에요. 종이를 흩어지지 않게 겹쳐서 집어 줘요.",
+  "서류나 메모 여러 장을 한데 모아 둘 때 이걸로 집어 두면 잃어버리지 않아요."
+ ],
+ "explanation_for_kids": [
   "그림 속 은색으로 구부러진 이 물건이 clip이에요. 종이를 흩어지지 않게 겹쳐서 집어 줘요.",
   "숙제 종이나 그림 여러 장을 한데 모아 둘 때 이걸로 집어 두면 잃어버리지 않아요."
  ],
  "scene": "가장 전형적인 은색 종이 클립(페이퍼클립) 하나를 화면 중앙에 크게 — 구부러진 철사 고리 모양이 다 보이게",
  "examples": [
   {
-   "en": "She used a clip to hold her papers together.",
-   "ko": "종이들이 흩어지지 않게 클립으로 집어 뒀어."
+   "en": "I used a clip to keep the meeting notes together.",
+   "ko": "회의 메모가 흩어지지 않게 클립으로 집어 뒀어."
   }
  ],
  "quiz": [

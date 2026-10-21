@@ -11,38 +11,44 @@
  "word": "hamper",
  "slug": "hamper",
  "url": "https://hibbangyong.com/words/hamper/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "방해하다 — 일이 잘 안 풀리게 발목을 잡다(아예 막는 건 아님)",
  "gloss_ko": "발목 잡다",
  "level": {
   "code": "L9",
-  "name": "토플 114~120점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "풋살 경기 날 비가 왔어. 경기는 그대로 했는데, 구장이 질척해서 다들 제대로 못 뛰었어.",
+  "이렇게 일을 아예 멈추게 하진 않는데, 잘 안 풀리게 붙잡는 게 hamper야.",
+  "발목 잡는 쪽은 날씨일 수도, 돈이 모자란 것일 수도, 사람일 수도 있어.",
+  "딱 멈춰 세우는 거랑은 달라. 일은 굴러가는데 더 느리고 힘들어지는 거야."
+ ],
+ "explanation_for_kids": [
   "운동회 날 비가 왔어. 경기는 그대로 했는데, 운동장이 질척해서 다들 제대로 못 뛰었어.",
   "이렇게 일을 아예 멈추게 하진 않는데, 잘 안 풀리게 붙잡는 게 hamper야.",
   "발목 잡는 쪽은 날씨일 수도, 돈이 모자란 것일 수도, 사람일 수도 있어.",
   "딱 멈춰 세우는 거랑은 달라. 일은 굴러가는데 더 느리고 힘들어지는 거야."
  ],
- "scene": "비 와서 질척한 운동장에서 한 운동회",
+ "scene": "비 와서 질척한 구장에서 한 풋살 경기",
  "examples": [
   {
-   "en": "Heavy snow hampered the search for the lost boy.",
-   "ko": "눈이 엄청 와서 길 잃은 아이를 찾는 게 한참 더뎌졌어."
+   "en": "A sore knee can hamper your workouts at the gym.",
+   "ko": "무릎이 아프면 헬스장에서 운동하는 데 지장이 생길 수 있어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "과학 발표를 준비하는데, 형이 자료 찾는 걸 같이 해 줬어. 그래서 예정보다 하루 일찍 준비가 끝났어. 형이 발표 준비를 'hamper'한 걸까?",
+   "question": "회사 발표를 준비하는데, 동료가 자료 찾는 걸 같이 해 줬어. 그래서 예정보다 하루 일찍 준비가 끝났어. 동료가 발표 준비를 'hamper'한 걸까?",
    "choices": [
     "응, hamper 맞아",
     "아니, hamper 아니야"
    ],
    "answer_index": 1,
    "answer": "아니, hamper 아니야",
-   "why": "맞아! 형이 자료 찾는 걸 같이 해 줘서 준비가 하루 일찍 끝났잖아. 발목을 잡은 게 아니라 오히려 도와서 빨리 끝나게 해 준 거니까 hamper가 아니야."
+   "why": "맞아! 동료가 자료 찾는 걸 같이 해 줘서 준비가 하루 일찍 끝났잖아. 발목을 잡은 게 아니라 오히려 도와서 빨리 끝나게 해 준 거니까 hamper가 아니야."
   }
  ],
  "synonyms": [],
@@ -57,7 +63,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/hamper.webp",
-  "alt": "비 와서 질척한 운동장에서 한 운동회",
+  "alt": "비 와서 질척한 구장에서 한 풋살 경기",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

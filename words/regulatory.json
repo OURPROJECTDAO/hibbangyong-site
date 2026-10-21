@@ -11,20 +11,21 @@
  "word": "regulatory",
  "slug": "regulatory",
  "url": "https://hibbangyong.com/words/regulatory/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "규제하는(규칙으로 관리하는) — 규칙을 정해 두고, 어떤 일이 그 규칙대로 되는지 관리하는",
  "gloss_ko": "규칙으로 관리하는",
  "level": {
   "code": "L9",
-  "name": "토플 114~120점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "새 장난감은 나오자마자 가게에 깔리지 않아. 나라에서 정한 안전 기준에 맞는지 먼저 봐.",
   "나라만 그러는 게 아니야. 축구 협회가 경기 규칙을 정하고 그대로 하는지 챙기는 것도 같은 일이야.",
   "규칙을 정하고, 그대로 굴러가는지 관리하는 쪽에 붙는 말이 regulatory야. 통과시켜 주는 것도 여기 들어가.",
   "그냥 막아 버리거나 좋다 나쁘다 점수 매기는 거랑은 달라."
  ],
+ "explanation_for_kids": null,
  "scene": "새 장난감이 판매 전 안전 기준 점검을 받는 장면",
  "examples": [
   {

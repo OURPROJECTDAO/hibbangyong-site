@@ -11,25 +11,31 @@
  "word": "mode",
  "slug": "mode",
  "url": "https://hibbangyong.com/words/mode/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "모드 — 여러 방법이나 상태 중에서 골라 쓰는 한 가지.",
  "gloss_ko": "모드",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "회사 가는 방법이 여러 개 있다고 해봐. 걸어가기, 버스 타기, 자전거 타기!",
+  "이렇게 '하는 방법' 하나하나가 다 mode야.",
+  "게임에서 '쉬움'이나 '어려움'을 고르는 것도, 전화기를 '비행기 상태'로 바꾸는 것도 각각 하나의 mode고.",
+  "여러 방법이나 상태 중에 골라 쓰는 한 가지, 그게 mode야."
+ ],
+ "explanation_for_kids": [
   "학교 가는 방법이 여러 개 있다고 해봐. 걸어가기, 버스 타기, 자전거 타기!",
   "이렇게 '하는 방법' 하나하나가 다 mode야.",
   "게임에서 '쉬움'이나 '어려움'을 고르는 것도, 전화기를 '비행기 상태'로 바꾸는 것도 각각 하나의 mode고.",
   "여러 방법이나 상태 중에 골라 쓰는 한 가지, 그게 mode야."
  ],
- "scene": "학교 가는 여러 방법(걸어서·버스·자전거)",
+ "scene": "회사 가는 여러 방법(걸어서·버스·자전거)",
  "examples": [
   {
-   "en": "In this game, you can play in easy mode or hard mode.",
-   "ko": "이 게임에선 쉬움 모드로 할 수도 있고 어려움 모드로 할 수도 있어."
+   "en": "You can play this game on easy or hard mode.",
+   "ko": "이 게임은 쉬움 모드나 어려움 모드로 할 수 있어."
   }
  ],
  "quiz": [
@@ -55,7 +61,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/mode.webp",
-  "alt": "학교 가는 여러 방법(걸어서·버스·자전거)",
+  "alt": "회사 가는 여러 방법(걸어서·버스·자전거)",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,25 +11,26 @@
  "word": "rot",
  "slug": "rot",
  "url": "https://hibbangyong.com/words/rot/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "썩음 — 오래 두면 저 혼자 물러지고 문드러져서 원래 짜임이 무너지는 것",
  "gloss_ko": "썩음",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "가을에 마당 구석에 낙엽을 잔뜩 쌓아뒀거든? 봄에 가 보면 더미가 폭 주저앉아 있어.",
   "손으로 헤쳐 보면 축축하고, 집으면 그냥 뭉개져. 아무도 안 건드렸는데 저 혼자 물러진 거야.",
   "낙엽만 그런 게 아니야. 쓰러진 통나무도, 잊고 둔 딸기도, 이빨도 이렇게 돼. 낙엽은 그래서 흙이 되고 딸기는 그래서 못 먹게 되고 — 좋은 쪽 나쁜 쪽 둘 다 있어.",
   "깨진 거랑은 달라. 누가 부순 게 아니라 시간이 짜임을 슬슬 풀어놓은 거니까. 그게 rot이야."
  ],
+ "explanation_for_kids": null,
  "scene": "봄에 주저앉은 마당 구석 낙엽 더미가 손에 뭉개짐",
  "examples": [
   {
-   "en": "The wet leaves slowly turn to rot and become new soil.",
-   "ko": "젖은 낙엽은 천천히 썩어서 새 흙이 돼."
+   "en": "The landlord found rot in the bathroom floor.",
+   "ko": "집주인이 욕실 바닥에서 썩은 데를 찾았어."
   }
  ],
  "quiz": [

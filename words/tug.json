@@ -11,25 +11,26 @@
  "word": "tug",
  "slug": "tug",
  "url": "https://hibbangyong.com/words/tug/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "예인선 — 큰 배를 끌거나 밀어서 옮겨 주는 작고 힘센 배",
  "gloss_ko": "예인선",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "커다란 배는 좁은 항구 안에서 혼자 방향을 잘 못 틀어.",
   "그때 작지만 힘이 아주 센 배가 옆에 붙어서 큰 배를 끌어 주거나 밀어 줘.",
   "그 작은 배가 tug야. 사람이나 짐을 싣는 게 아니라 다른 배를 옮기는 게 일이야.",
   "줄다리기(tug of war)의 tug는 '확 잡아당김'이라는 뜻인데, 여기서 말하는 건 그 일을 하는 배야."
  ],
+ "explanation_for_kids": null,
  "scene": "좁은 항구에서 혼자 방향을 못 트는 큰 배를 작은 배가 끌고 미는 장면",
  "examples": [
   {
-   "en": "Two tugs slowly moved the huge ship into the port.",
-   "ko": "작은 배 두 척이 그 커다란 배를 천천히 항구 안으로 옮겨 놨어."
+   "en": "We watched a small tug pull our cruise ship into port.",
+   "ko": "작은 예인선이 우리가 탄 유람선을 항구로 끌고 들어가는 걸 봤어."
   }
  ],
  "quiz": [

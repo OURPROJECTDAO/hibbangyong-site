@@ -11,31 +11,32 @@
  "word": "surgery",
  "slug": "surgery",
  "url": "https://hibbangyong.com/words/surgery/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "수술 — 의사가 몸 안을 열어서 아픈 데를 직접 고치는 일",
  "gloss_ko": "수술",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "배가 너무 아픈데 약을 먹어도 안 낫는 날이 있거든?",
   "그럼 의사 선생님이 잠들게 해 놓고, 몸 안을 살짝 열어서 아픈 데를 직접 고쳐 줘.",
   "약이나 주사로 겉만 만지는 게 아니라, 안까지 들어가서 손보는 거야.",
   "이게 surgery야."
  ],
- "scene": "약도 안 듣는 아이를 잠재우고 의사가 몸 안을 열어 고치는 장면",
+ "explanation_for_kids": null,
+ "scene": "약도 안 듣는 사람을 잠재우고 의사가 몸 안을 열어 고치는 장면",
  "examples": [
   {
-   "en": "My dog needed surgery to take the coin out of his tummy.",
-   "ko": "우리 강아지는 배 속 동전을 꺼내려고 수술을 받아야 했어."
+   "en": "My coworker is off this week because she had knee surgery.",
+   "ko": "동료가 무릎 수술을 받아서 이번 주에는 회사에 안 나와."
   }
  ],
  "quiz": [
   {
    "type": "choice",
-   "question": "네 명 모두 배가 아파서 병원에 갔어. 이 중에서 'surgery'를 받은 아이는 누구일까?",
+   "question": "네 명 모두 배가 아파서 병원에 갔어. 이 중에서 'surgery'를 받은 사람은 누구일까?",
    "choices": [
     "의사가 재워 놓고 배 안까지 들어가 아픈 데를 손으로 직접 고쳐 줬어",
     "간호사가 바늘로 몸속에 약을 콕 넣어 주고 곧장 집에 보냈어",
@@ -61,7 +62,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/surgery.webp",
-  "alt": "약도 안 듣는 아이를 잠재우고 의사가 몸 안을 열어 고치는 장면",
+  "alt": "약도 안 듣는 사람을 잠재우고 의사가 몸 안을 열어 고치는 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

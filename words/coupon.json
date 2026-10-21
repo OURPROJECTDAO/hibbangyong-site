@@ -11,29 +11,30 @@
  "word": "coupon",
  "slug": "coupon",
  "url": "https://hibbangyong.com/words/coupon/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "쿠폰 — 오려서 내면 물건을 더 싸게 살 수 있게 해 주는 할인권",
  "gloss_ko": "쿠폰",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "이건 가게에서 물건을 살 때 정해진 값보다 싸게 사게 해 주는 종이예요. 가장자리 점선을 가위로 오려서 쓸 수 있어요.",
   "엄마가 마트에서 이걸 내면 우유나 과자를 조금 더 싼값에 살 수 있어요."
  ],
+ "explanation_for_kids": null,
  "scene": "가운데 큼직하게 놓인 쿠폰 한 장 — 가장자리에 티켓처럼 반원 홈이 파이고, 한쪽에 점선(자르는 선)과 작은 가위가 있어 '오려 쓰는 할인권'임이 분명한 장면. 글자·숫자 없이 별 심볼로 표현.",
  "examples": [
   {
-   "en": "Mom used a coupon to pay less for the milk.",
-   "ko": "엄마가 할인권을 내고 우유를 더 싸게 샀어."
+   "en": "I used a coupon to pay less for my coffee.",
+   "ko": "쿠폰을 써서 커피를 더 싸게 샀어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "놀이터에서 주운 납작한 나뭇잎 한 장을 주머니에 넣었어요. 이게 coupon이야?",
+   "question": "공원에서 주운 납작한 나뭇잎 한 장을 주머니에 넣었어요. 이게 coupon이야?",
    "choices": [
     "응, 맞아",
     "아니, 아니야"

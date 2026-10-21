@@ -11,21 +11,22 @@
  "word": "superior",
  "slug": "superior",
  "url": "https://hibbangyong.com/words/superior/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "짝과 견줘서 그보다 위인 — 실력이 더 낫거나, 자리가 더 높거나",
  "gloss_ko": "짝과 견줘서 그보다 위인",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "소방서에 대장이랑 대원들이 있어. 대장이 대원들보다 superior야.",
   "대장이 더 착해서가 아니야. 그냥 자리가 대원들보다 위라서 그래. 그러니까 superior는 '좋다'는 말이 아니라 '너보다 위'라는 말이거든?",
   "물건한테도 똑같이 써. 이 풀이 저 풀보다 잘 붙으면, 이 풀이 저 풀보다 superior야.",
   "그래서 혼자서는 절대 못 돼. 견줄 짝이 있어야 위인지 알잖아. 그냥 훌륭한 거랑은 다른 거야.",
   "짝보다 위, 그게 superior야."
  ],
+ "explanation_for_kids": null,
  "scene": "소방서 대장이 대원들보다 자리가 위인 장면",
  "examples": [
   {

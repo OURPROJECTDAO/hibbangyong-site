@@ -11,31 +11,37 @@
  "word": "mount",
  "slug": "mount",
  "url": "https://hibbangyong.com/words/mount/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "올라타다 · 오르다 — 아래에 있다가 위로 올라 무언가 위에 오르다(말·자전거·계단·언덕)",
  "gloss_ko": "올라타다 · 오르다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "카우보이가 말 옆에 섰어. 발을 딱 걸고, 훌쩍 말 등 위로 올라타.",
+  "자전거에 훌쩍 올라타는 것도, 계단을 성큼성큼 밟고 위로 오르는 것도 똑같아.",
+  "그냥 '탄다'가 아니라, 아래에 있다가 위로 올라 그 위에 오르는 거거든?",
+  "이게 mount야."
+ ],
+ "explanation_for_kids": [
   "카우보이가 말 옆에 섰어. 발을 딱 걸고, 폴짝! 말 등 위로 올라타.",
   "자전거에 훌쩍 올라타는 것도, 계단을 성큼성큼 밟고 위로 오르는 것도 똑같아.",
   "그냥 '탄다'가 아니라, 아래에 있다가 위로 올라 그 위에 오르는 거거든?",
   "이게 mount야."
  ],
- "scene": "카우보이가 말 옆에서 발을 딛고 폴짝 말 등에 올라타는 장면",
+ "scene": "카우보이가 말 옆에서 발을 딛고 훌쩍 말 등에 올라타는 장면",
  "examples": [
   {
-   "en": "The cowboy grabbed the saddle and quickly mounted his horse.",
-   "ko": "카우보이가 안장을 붙잡고 얼른 말 등에 올라탔어."
+   "en": "On our trip, a guide showed me how to mount a horse.",
+   "ko": "여행 가서 가이드가 말에 올라타는 법을 알려 줬어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "아빠가 오토바이 옆에 서 있다가, 발판에 발을 걸고 안장에 앉았어. 이게 'mount'야?",
+   "question": "현우가 오토바이 옆에 서 있다가, 발판에 발을 걸고 안장에 앉았어. 이게 'mount'야?",
    "choices": [
     "응, mount 맞아",
     "아니, mount 아니야"
@@ -57,7 +63,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/mount.webp",
-  "alt": "카우보이가 말 옆에서 발을 딛고 폴짝 말 등에 올라타는 장면",
+  "alt": "카우보이가 말 옆에서 발을 딛고 훌쩍 말 등에 올라타는 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

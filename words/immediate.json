@@ -11,20 +11,21 @@
  "word": "immediate",
  "slug": "immediate",
  "url": "https://hibbangyong.com/words/immediate/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "바로 — 뜸 들이거나 기다리는 시간 하나 없이, 그 순간에 딱 일어나는.",
  "gloss_ko": "기다림 없이 바로 일어나는",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "불 스위치를 딱 눌러 봐. 불이 언제 켜져? 바로!",
   "켜질 때까지 기다리는 시간이 하나도 없지? '조금 있다가'도 아니고 '잠깐만'도 아니야. 누른 그 순간에 딱.",
   "그냥 빠른 거랑은 좀 달라. 빠른 건 아주 살짝이라도 시간이 걸리거든? 이건 걸리는 시간이 아예 없어.",
   "이렇게 사이에 뜸 하나 없이 그 자리에서 바로 일어나는 거, 그게 immediate야."
  ],
+ "explanation_for_kids": null,
  "scene": "불 스위치를 눌러 그 순간 불이 켜지는 장면",
  "examples": [
   {

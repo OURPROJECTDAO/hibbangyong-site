@@ -11,15 +11,21 @@
  "word": "channel",
  "slug": "channel",
  "url": "https://hibbangyong.com/words/channel/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "물길·채널 — 무언가가 그 안으로만 흘러 지나가라고 나 있는 한 줄기 길.",
  "gloss_ko": "물길·채널",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "모래밭에 길게 홈을 하나 파 봐. 물을 부으면? 그 홈으로만 쪼르르 흘러가.",
+  "사방으로 퍼지는 게 아니라, 난 길 하나를 따라서만 지나가는 거야.",
+  "TV도 똑같아. 드라마가 오는 길, 뉴스가 오는 길이 따로따로 나 있거든.",
+  "고인 웅덩이랑은 달라. 물이 다 마르고 방송이 꺼져도 그 길은 그대로 남아 있어. 그게 channel이야."
+ ],
+ "explanation_for_kids": [
   "모래밭에 길게 홈을 하나 파 봐. 물을 부으면? 그 홈으로만 쪼르르 흘러가.",
   "사방으로 퍼지는 게 아니라, 난 길 하나를 따라서만 지나가는 거야.",
   "TV도 똑같아. 만화가 오는 길, 뉴스가 오는 길이 따로따로 나 있거든.",
@@ -28,14 +34,14 @@
  "scene": "모래밭에 판 홈을 따라 물이 그 길로만 흘러가는 장면",
  "examples": [
   {
-   "en": "This little radio only has three channels.",
-   "ko": "이 작은 라디오는 채널이 딱 세 개밖에 없어."
+   "en": "I changed the channel during the ads.",
+   "ko": "광고 나올 때 채널을 돌렸어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "운동회 날 확성기에서 나온 노랫소리가 운동장 이쪽 끝에도, 저쪽 스탠드에도, 담장 너머 골목에도 똑같이 들렸어. 소리가 이렇게 가는 걸 'channel'이라고 해?",
+   "question": "축구 경기 날 확성기에서 나온 노랫소리가 경기장 이쪽 끝에도, 저쪽 스탠드에도, 담장 너머 골목에도 똑같이 들렸어. 소리가 이렇게 가는 걸 'channel'이라고 해?",
    "choices": [
     "응, channel 맞아",
     "아니, channel 아니야"

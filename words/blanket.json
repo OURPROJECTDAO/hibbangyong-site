@@ -11,29 +11,30 @@
  "word": "blanket",
  "slug": "blanket",
  "url": "https://hibbangyong.com/words/blanket/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "담요 — 잠잘 때 몸을 덮어 따뜻하게 해 주는 천",
  "gloss_ko": "담요",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속에 곱게 접혀 있는 이 포근한 천이 blanket이에요.",
   "추운 밤에 잘 때 몸에 덮으면 따뜻하게 잠들 수 있어요."
  ],
+ "explanation_for_kids": null,
  "scene": "곱게 접힌 포근한 격자무늬 담요 한 장이 바닥에 놓여 있다",
  "examples": [
   {
-   "en": "I pull the blanket up when the night is cold.",
-   "ko": "밤에 추우면 나는 담요를 끌어 올려 덮어."
+   "en": "I grabbed an extra blanket because my apartment was cold last night.",
+   "ko": "어젯밤 집이 추워서 담요를 하나 더 꺼냈어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "언니가 종이에 그림을 그릴 때 쓰는 색연필이 있어요. 이게 blanket이야?",
+   "question": "친구가 종이에 그림을 그릴 때 쓰는 색연필이 있어요. 이게 blanket이야?",
    "choices": [
     "응, 맞아",
     "아니, 아니야"

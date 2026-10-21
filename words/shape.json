@@ -11,24 +11,25 @@
  "word": "shape",
  "slug": "shape",
  "url": "https://hibbangyong.com/words/shape/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "모양 — 어떤 것의 겉이 어떻게 생겼는지(색이나 크기 말고 생김새)",
  "gloss_ko": "모양",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "찰흙 한 덩어리를 봐봐. 동글동글 굴리면 공처럼 되고, 꾹 누르면 납작하게 퍼지지?",
   "색은 아까랑 똑같아. 무게도 그대로야. 달라진 건 딱 하나, 겉이 어떻게 생겼느냐야.",
   "공이든 별이든, 하늘에 뜬 구름이든, 겉선이 어떻게 그려졌나 — 그게 shape야."
  ],
+ "explanation_for_kids": null,
  "scene": "찰흙 덩어리를 굴리고 눌러 겉이 달라지는 순간",
  "examples": [
   {
-   "en": "The clay was the same color, but its shape was totally different.",
-   "ko": "찰흙은 색깔은 같았는데 모양은 완전히 달랐어."
+   "en": "I like this mug's color, but not its shape.",
+   "ko": "이 머그잔 색은 마음에 드는데 모양은 별로야."
   }
  ],
  "quiz": [

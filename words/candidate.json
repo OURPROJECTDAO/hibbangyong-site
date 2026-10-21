@@ -11,25 +11,31 @@
  "word": "candidate",
  "slug": "candidate",
  "url": "https://hibbangyong.com/words/candidate/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "후보 — 여럿 중에서 뽑힐 수도 있는, 아직 안 뽑힌 사람(이나 것)",
  "gloss_ko": "후보",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "과대표 뽑는 날, 칠판에 이름이 세 개 붙었어.",
+  "이 셋 중에 한 명이 과대표가 될 거야.",
+  "근데 봐봐, 아직 아무도 과대표는 아니야. 다들 '뽑힐 수도 있는 사람'일 뿐이거든?",
+  "그게 candidate야."
+ ],
+ "explanation_for_kids": [
   "반장 뽑는 날, 칠판에 이름이 세 개 붙었어.",
   "이 셋 중에 한 명이 반장이 될 거야.",
   "근데 봐봐, 아직 아무도 반장은 아니야. 다들 '뽑힐 수도 있는 사람'일 뿐이거든?",
   "그게 candidate야."
  ],
- "scene": "반장 뽑는 날 칠판에 이름 붙은 후보들",
+ "scene": "과대표 뽑는 날 칠판에 이름 붙은 후보들",
  "examples": [
   {
-   "en": "Three candidates want to be class president, but only one will win.",
-   "ko": "후보 세 명이 반장이 되고 싶어 하는데, 딱 한 명만 될 거야."
+   "en": "We have one more candidate to interview after lunch.",
+   "ko": "점심 먹고 면접 볼 후보가 한 명 더 있어."
   }
  ],
  "quiz": [
@@ -60,7 +66,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/candidate.webp",
-  "alt": "반장 뽑는 날 칠판에 이름 붙은 후보들",
+  "alt": "과대표 뽑는 날 칠판에 이름 붙은 후보들",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

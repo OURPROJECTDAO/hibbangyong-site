@@ -11,20 +11,21 @@
  "word": "tunnel",
  "slug": "tunnel",
  "url": "https://hibbangyong.com/words/tunnel/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "터널 — 산이나 땅 속을 뚫어서, 이쪽에서 저쪽으로 지나가게 만든 길.",
  "gloss_ko": "터널",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "산이 길 앞을 떡 막고 서 있어. 넘어가자니 너무 높지?",
   "그래서 산 속을 쭉 뚫었어. 이쪽으로 들어가면 저쪽으로 쏙 나와.",
   "땅 밑에도 있고, 강 밑에도 있고, 두더지가 판 것도 똑같아.",
   "동굴처럼 안이 막힌 게 아니야. 반대편이 뻥 뚫려 있어. 이게 tunnel이야."
  ],
+ "explanation_for_kids": null,
  "scene": "길을 막고 선 산을 뚫어 이쪽에서 저쪽으로 나오는 길",
  "examples": [
   {

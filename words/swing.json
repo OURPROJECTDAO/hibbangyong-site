@@ -11,19 +11,23 @@
  "word": "swing",
  "slug": "swing",
  "url": "https://hibbangyong.com/words/swing/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "그네 — 줄에 매달린 널빤지에 앉아 앞뒤로 왔다 갔다 하며 노는 놀이기구",
  "gloss_ko": "그네",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "그림 속에 있는 건 놀이터의 그네예요. 쇠사슬 두 줄에 매달린 널빤지 좌석에 앉는 거예요.",
+  "놀이터에 가면 그네에 앉아 앞뒤로 흔들리며 놀 수 있어요."
+ ],
+ "explanation_for_kids": [
   "그림 속에 있는 건 놀이터의 그네예요. 쇠사슬 두 줄에 매달린 널빤지 좌석에 앉는 거예요.",
   "놀이터에 가면 그네에 앉아 앞뒤로 흔들흔들 움직이며 놀 수 있어요."
  ],
- "scene": "놀이터의 그네 한 개 — 나무·쇠사슬 두 줄에 매달린 널빤지 좌석(pos=verb지만 아이 친숙 시각의미=그네 사물로 그림)",
+ "scene": "놀이터의 그네 한 개 — 나무·쇠사슬 두 줄에 매달린 널빤지 좌석",
  "examples": [
   {
    "en": "The children swing back and forth on the playground.",
@@ -33,7 +37,7 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "미끄럼틀 꼭대기에서 아래로 주르륵 미끄러져 내려가고 있어요. 이게 swing이야?",
+   "question": "미끄럼틀 꼭대기에서 아래로 미끄러져 내려가고 있어요. 이게 swing이야?",
    "choices": [
     "응, 맞아",
     "아니, 아니야"
@@ -55,7 +59,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/swing.webp",
-  "alt": "놀이터의 그네 한 개 — 나무·쇠사슬 두 줄에 매달린 널빤지 좌석(pos=verb지만 아이 친숙 시각의미=그네 사물로 그림)",
+  "alt": "놀이터의 그네 한 개 — 나무·쇠사슬 두 줄에 매달린 널빤지 좌석",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

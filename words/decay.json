@@ -11,20 +11,21 @@
  "word": "decay",
  "slug": "decay",
  "url": "https://hibbangyong.com/words/decay/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "삭아 감 — 아무도 안 건드려도 시간이 지나며 조금씩 썩고 부스러져 가는 일",
  "gloss_ko": "삭아 감",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "아무도 안 사는 빈집을 봤어. 나무 기둥을 손끝으로 꾹 눌러 봐. 푸석! 가루가 떨어져.",
   "누가 부순 게 아니거든? 아무도 안 건드렸는데 시간이 조금씩 갉아먹은 거야.",
   "사탕만 먹은 이도, 사람들이 떠난 옛 동네도, 숲에 쌓인 낙엽도 그렇게 삭아 가. 낙엽은 삭아서 흙이 되니까 늘 나쁜 일만도 아니야.",
   "그냥 멈추거나 사라지는 거랑은 달라. 썩고 부스러지면서 조금씩 무너지는 거야. 그게 decay야."
  ],
+ "explanation_for_kids": null,
  "scene": "빈집 나무 기둥을 손끝으로 누르자 푸석 가루가 떨어지는 장면",
  "examples": [
   {

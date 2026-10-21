@@ -11,15 +11,21 @@
  "word": "gentle",
  "slug": "gentle",
  "url": "https://hibbangyong.com/words/gentle/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "부드러운 — 세게 몰아치지 않고 힘을 줄여서 하는",
  "gloss_ko": "부드러운",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "비눗방울이 네 손에 톡 앉았어. 콱 쥐면? 퍽, 터지지. 그래서 손힘을 쫙 빼고 받치잖아.",
+  "손 얘기만이 아니야. 보슬보슬 오는 비도, 확 치솟지 않고 슬슬 올라가는 언덕도, 아주 약하게 켠 불도 그래.",
+  "사람한테도 써. 근데 마음이 착하다는 말은 아니야. 말도 행동도 안 거칠다는 뜻이거든? 착해도 문을 쾅 닫는 사람 있잖아.",
+  "힘이 없는 게 아니라 있는 힘을 줄여 쓰는 거야. 그게 gentle이야."
+ ],
+ "explanation_for_kids": [
   "비눗방울이 네 손에 톡 앉았어. 콱 쥐면? 퍽, 터지지. 그래서 손힘을 쫙 빼고 받치잖아.",
   "손 얘기만이 아니야. 보슬보슬 오는 비도, 확 치솟지 않고 슬슬 올라가는 언덕도, 아주 약하게 켠 불도 그래.",
   "사람한테도 써. 근데 마음이 착하다는 말은 아니야. 말도 행동도 안 거칠다는 뜻이거든? 착해도 문을 쾅 닫는 애 있잖아.",
@@ -28,8 +34,8 @@
  "scene": "손바닥에 톡 앉은 비눗방울을 손힘 빼고 받치기",
  "examples": [
   {
-   "en": "The rain was gentle, so we kept playing outside.",
-   "ko": "비가 부드럽게 내려서 우리는 계속 밖에서 놀았어."
+   "en": "The rain was gentle, so we kept walking to the café.",
+   "ko": "비가 약하게 내려서 우리는 카페까지 계속 걸었어."
   }
  ],
  "quiz": [

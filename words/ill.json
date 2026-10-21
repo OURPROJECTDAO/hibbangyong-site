@@ -11,40 +11,41 @@
  "word": "ill",
  "slug": "ill",
  "url": "https://hibbangyong.com/words/ill/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "아픈 — 병이 나서 몸이나 마음이 좋지 않은",
  "gloss_ko": "아픈",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "아침에 눈을 떴는데 몸이 축 늘어져. 열은 펄펄 나고 밥은 안 넘어가.",
   "넘어져서 무릎 까진 거랑은 달라. 다친 게 아니라 안에서 병이 난 거거든.",
   "하루 앓다가 낫기도 하고, 몇 달을 누워 있기도 해. 몸이 아니라 마음이 병날 때도 이렇게 말해.",
   "그게 ill이야."
  ],
- "scene": "아침에 열이 나고 몸이 축 늘어져 밥도 못 먹는 아이",
+ "explanation_for_kids": null,
+ "scene": "아침에 열이 나고 몸이 축 늘어져 밥도 못 먹는 사람",
  "examples": [
   {
-   "en": "My brother is ill today, so he can't come to the park.",
-   "ko": "형이 오늘 아파서 공원에 못 와."
+   "en": "My coworker is ill today, so I'm covering her shift.",
+   "ko": "동료가 오늘 아파서 내가 대신 근무해."
   }
  ],
  "quiz": [
   {
    "type": "choice",
-   "question": "오늘 학교에 안 온 아이가 넷이야. 이 중에 'ill'이라고 말할 수 있는 아이는 누구게?",
+   "question": "오늘 회사에 안 온 사람이 넷이야. 이 중에 'ill'이라고 말할 수 있는 사람은 누구게?",
    "choices": [
-    "미끄럼틀에서 떨어져 팔에 붕대를 감은 아이",
-    "밤새 열이 펄펄 나서 이불 속에 누워 있는 아이",
-    "가족이랑 놀이공원에 놀러 가서 신난 아이",
-    "늦잠을 자고 집에서 아직 뭉그적대는 아이"
+    "계단에서 떨어져 팔에 붕대를 감은 사람",
+    "밤새 열이 펄펄 나서 이불 속에 누워 있는 사람",
+    "가족이랑 놀이공원에 놀러 가서 신난 사람",
+    "늦잠을 자고 집에서 아직 뭉그적대는 사람"
    ],
    "answer_index": 1,
-   "answer": "밤새 열이 펄펄 나서 이불 속에 누워 있는 아이",
-   "why": "맞아! 밤새 열이 펄펄 난 건 몸 안에서 병이 난 거거든. 그래서 이불 속에 누워 있는 그 아이가 바로 ill인 거야."
+   "answer": "밤새 열이 펄펄 나서 이불 속에 누워 있는 사람",
+   "why": "맞아! 밤새 열이 펄펄 난 건 몸 안에서 병이 난 거거든. 그래서 이불 속에 누워 있는 그 사람이 바로 ill인 거야."
   }
  ],
  "synonyms": [],
@@ -60,7 +61,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/ill.webp",
-  "alt": "아침에 열이 나고 몸이 축 늘어져 밥도 못 먹는 아이",
+  "alt": "아침에 열이 나고 몸이 축 늘어져 밥도 못 먹는 사람",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

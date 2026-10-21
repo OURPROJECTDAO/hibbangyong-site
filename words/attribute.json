@@ -11,38 +11,39 @@
  "word": "attribute",
  "slug": "attribute",
  "url": "https://hibbangyong.com/words/attribute/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "좋든 나쁘든, 그것이 가지고 있는 성질 하나 (빠름·시끄러움 같은)",
  "gloss_ko": "가지고 있는 성질 하나",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "게임 카드 봤지? 그림 밑에 줄줄이 적혀 있잖아. 빠르기 8, 힘 3, 몸집 작음.",
   "그 한 줄 한 줄이 다 그 캐릭터가 가지고 있는 거야.",
   "좋은 것만 적는 게 아니거든? 힘 3처럼 약한 것도 똑같이 한 줄 차지해.",
   "좋은 점을 말할 때 자주 쓰지만, 약한 점도 들어가. 그것이 지닌 성질 하나 — 이게 attribute야."
  ],
+ "explanation_for_kids": null,
  "scene": "게임 카드 그림 밑에 줄줄이 적힌 능력치 줄들",
  "examples": [
   {
-   "en": "Kindness is a good attribute, but being loud is an attribute too.",
-   "ko": "친절함은 좋은 성질이지만 시끄러운 것도 하나의 성질이야."
+   "en": "Kindness is a good attribute, but being loud is one too.",
+   "ko": "친절함은 좋은 성질이지만, 시끄러운 것도 성질 중 하나야."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "지호가 자기 실내화를 보고 말했어. \"이 실내화는 바닥이 미끄러워.\" 이건 실내화의 'attribute'야?",
+   "question": "지호가 자기 슬리퍼를 보고 말했어. \"이 슬리퍼는 바닥이 미끄러워.\" 이건 슬리퍼의 'attribute'야?",
    "choices": [
     "응, attribute 맞아",
     "아니, attribute 아니야"
    ],
    "answer_index": 0,
    "answer": "응, attribute 맞아",
-   "why": "맞아! 미끄러운 바닥은 그 실내화가 그냥 지니고 있는 성질 한 줄이거든. 카드에 빠르기 8이라고 적히는 거랑 똑같아. 좋은 점이 아니어도 한 줄은 한 줄이야."
+   "why": "맞아! 미끄러운 바닥은 그 슬리퍼가 그냥 지니고 있는 성질 한 줄이거든. 카드에 빠르기 8이라고 적히는 거랑 똑같아. 좋은 점이 아니어도 한 줄은 한 줄이야."
   }
  ],
  "synonyms": [

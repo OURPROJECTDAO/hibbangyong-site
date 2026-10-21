@@ -11,20 +11,21 @@
  "word": "ultimate",
  "slug": "ultimate",
  "url": "https://hibbangyong.com/words/ultimate/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "더 뒤도 위도 없는 맨 끝의 — 마지막이자 제일인.",
  "gloss_ko": "더 뒤도 위도 없는 맨 끝의",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "게임에서 판을 하나씩 깨. 1판, 2판, 다음 판, 또 다음 판.",
   "그러다 딱 마지막 판에 서면? 그 뒤론 판이 하나도 없어. 더 갈 데가 없는 거야.",
   "게다가 그 판이 제일 높은 자리야. 그 위로 더 올라설 데도 없거든.",
   "이렇게 뒤로도 위로도 더 없는 맨 끝, 그게 ultimate야."
  ],
+ "explanation_for_kids": null,
  "scene": "게임 판을 하나씩 깨다 더 뒤가 없는 마지막 판에 서는 장면",
  "examples": [
   {

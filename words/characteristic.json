@@ -11,20 +11,21 @@
  "word": "characteristic",
  "slug": "characteristic",
  "url": "https://hibbangyong.com/words/characteristic/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "특징 — 사람이나 물건이 늘 가진 모습이나 성질. 그걸 보면 '아, 그거!' 하고 딱 알아봐.",
  "gloss_ko": "특징",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "멀리서 친구가 걸어와. 얼굴이 안 보이는데도 딱! 알아보지? 통통 튀는 걸음이랑 맨날 쓰는 노란 모자 때문이야.",
   "좋은 점만 되는 건 아니야. 신발 끈이 늘 풀려 있는 것도 되고, 사막이 늘 뜨겁고 모래투성이인 것도 돼.",
   "근데 오늘 딱 한 번 넘어진 건 아니야. 늘 그래서 '아, 그거!' 하고 알아보게 해 주는 거거든.",
   "그게 characteristic이야."
  ],
+ "explanation_for_kids": null,
  "scene": "멀리서 걸음걸이와 늘 쓰는 노란 모자로 친구를 알아보기",
  "examples": [
   {

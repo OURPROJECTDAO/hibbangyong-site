@@ -11,23 +11,27 @@
  "word": "globe",
  "slug": "globe",
  "url": "https://hibbangyong.com/words/globe/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "지구본 — 지구를 작게 줄여 받침대에 올린 둥근 모형",
  "gloss_ko": "지구본",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "받침대 위에 동그란 공처럼 놓인 이건 globe예요. 파란 바다와 초록 땅이 진짜 지구 모습 그대로 그려져 있어요.",
+  "거실이나 방에서 이걸 살살 돌려 보면 우리나라가 어디 있는지, 가 보고 싶은 나라가 어디쯤인지 찾아볼 수 있어요."
+ ],
+ "explanation_for_kids": [
   "받침대 위에 동그란 공처럼 놓인 이건 globe예요. 파란 바다와 초록 땅이 진짜 지구 모습 그대로 그려져 있어요.",
   "교실이나 방에서 이걸 살살 돌려 보면 우리나라가 어디 있는지, 가 보고 싶은 나라가 어디쯤인지 찾아볼 수 있어요."
  ],
  "scene": "받침대 위에 놓인 전형적인 탁상용 지구본(파란 바다·초록 대륙, 금속 받침·기울어진 축)",
  "examples": [
   {
-   "en": "We found our country on the globe in the classroom.",
-   "ko": "우리는 교실에 있는 지구본에서 우리나라를 찾았어."
+   "en": "I keep a small globe on my desk at work.",
+   "ko": "나는 회사 책상 위에 작은 지구본을 두고 있어."
   }
  ],
  "quiz": [

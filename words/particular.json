@@ -11,38 +11,39 @@
  "word": "particular",
  "slug": "particular",
  "url": "https://hibbangyong.com/words/particular/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "여럿 가운데 다른 게 아니라 바로 그거라고 못 박은 (특정한) — '잘난·좋은'이라는 뜻이 아니라 '그거 하나'라는 뜻",
  "gloss_ko": "여럿 중 바로 그 하나인",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "친구가 \"지난주에 나 넘어졌잖아\" 하면, 지난주 아무 날이나가 아니야. 그 하루를 말하는 거거든?",
   "여럿 중에 하나를 딱 정해서 못 박아 두는 말이야. 나머지는 다 아니고.",
   "날만 그런 게 아니야. 가방이든 노래든 까닭이든, 그거 하나로 정해 놓으면 다 써.",
   "'특별한'이랑 헷갈리면 안 돼. 잘났다는 말이 아니거든? 낡은 거여도, 하나도 안 신나는 날이어도, 그거 하나라고 정해 놓으면 그게 particular야."
  ],
+ "explanation_for_kids": null,
  "scene": "친구가 지난주 여러 날 중 넘어진 그 하루를 말하는 장면",
  "examples": [
   {
    "en": "On that particular day, my dad forgot to pick me up.",
-   "ko": "바로 그날, 아빠가 나 데리러 오는 걸 깜빡했어."
+   "ko": "하필 그날, 아빠가 나를 데리러 오는 걸 깜빡했어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "도서관 책장에 책이 잔뜩 꽂혀 있는데, 아이가 표지에 공룡이 그려진 그 책 한 권만 빌리겠다고 해. 다른 책은 안 된대. 이 책이 'particular'한 책이야?",
+   "question": "도서관 책장에 책이 잔뜩 꽂혀 있는데, 친구가 표지에 고양이가 그려진 그 책 한 권만 빌리겠다고 해. 다른 책은 안 된대. 이 책이 'particular'한 책이야?",
    "choices": [
     "응, particular 맞아",
     "아니, particular 아니야"
    ],
    "answer_index": 0,
    "answer": "응, particular 맞아",
-   "why": "맞아! 다른 책은 다 안 된다고 하고 공룡 그려진 그 한 권만 콕 집었잖아. 여럿 중에 하나를 못 박아 뒀으니까 바로 그게 particular인 거야."
+   "why": "맞아! 다른 책은 다 안 된다고 하고 고양이 그려진 그 한 권만 콕 집었잖아. 여럿 중에 하나를 못 박아 뒀으니까 바로 그게 particular인 거야."
   }
  ],
  "synonyms": [],

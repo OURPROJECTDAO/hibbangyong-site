@@ -11,20 +11,21 @@
  "word": "beast",
  "slug": "beast",
  "url": "https://hibbangyong.com/words/beast/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "짐승 — 사람이 아닌, 몸집 크고 힘센 동물",
  "gloss_ko": "짐승",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "소가 무거운 수레를 끌고 저벅저벅 가. 숲에서는 곰이 어슬렁어슬렁 지나가고.",
   "둘 다 사람은 아니지? 몸집 크고, 힘도 세고.",
   "으르렁대든 순하게 일만 하든 상관없고, 진짜로 숲에 살든 이야기책 속 털북숭이 괴물이든 상관없어. 사람이 아닌 크고 힘센 놈이면 다 그래. 참새처럼 조그맣고 폴폴 나는 건 그렇게 안 부르고.",
   "이게 beast야."
  ],
+ "explanation_for_kids": null,
  "scene": "무거운 수레를 저벅저벅 끌고 가는 소",
  "examples": [
   {

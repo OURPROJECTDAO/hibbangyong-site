@@ -11,20 +11,21 @@
  "word": "paralysis",
  "slug": "paralysis",
  "url": "https://hibbangyong.com/words/paralysis/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "마비 — 몸의 일부나 전체가 움직이려 해도 꼼짝 못 하게 된 상태(나라·단체·교통처럼 움직여야 할 것이 멈춰서 아무것도 못 하게 된 것에도 씀)",
  "gloss_ko": "마비",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "사고가 난 뒤로 다리에 아무리 힘을 줘도 안 움직이는 사람이 있어.",
   "아파서 쉬는 것도, 하기 싫어서 가만있는 것도 아니야. 하려고 해도 못 하는 거야.",
   "몸에만 쓰는 말도 아니야. 나라 회의가 둘로 갈려서 해야 할 결정을 하나도 못 내리면 그것도 이 말로 불러.",
   "일부러 멈춘 거면 이 말이 아니야. 움직여야 하는데 못 움직이는 거여야 해."
  ],
+ "explanation_for_kids": null,
  "scene": "사고 뒤 힘을 줘도 안 움직이는 다리",
  "examples": [
   {

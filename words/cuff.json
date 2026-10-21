@@ -11,20 +11,21 @@
  "word": "cuff",
  "slug": "cuff",
  "url": "https://hibbangyong.com/words/cuff/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "소매 끝 — 옷소매에서 손목을 빙 감싸는 끝부분",
  "gloss_ko": "소매 끝",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "손 씻다가 셔츠 소매 끝만 젖은 적 있지?",
   "손목을 빙 둘러 감싸는 그 끝부분이 cuff야.",
   "소매 전체(sleeve)가 아니라 맨 끝 테두리만 가리켜.",
   "미국에선 바지 밑단을 접어 올린 부분도 cuff라고 해."
  ],
+ "explanation_for_kids": null,
  "scene": "손 씻다가 셔츠 소매 끝이 젖음",
  "examples": [
   {

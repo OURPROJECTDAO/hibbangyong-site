@@ -11,25 +11,31 @@
  "word": "invoke",
  "slug": "invoke",
  "url": "https://hibbangyong.com/words/invoke/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "내세우다 — 법·규칙·권리 같은 것을 끌어와서 내 말이나 행동의 근거로 삼다",
  "gloss_ko": "근거로 내세우다",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "주민회의에서 대표가 규약을 펴더니 \"3조에 이렇게 쓰여 있어\" 하고 말했어.",
+  "자기 말을 받쳐 줄 규칙을 끌어와서 근거로 삼은 거야.",
+  "법이나 권리, 유명한 사람이 한 말까지, 뒤를 받쳐 주는 거라면 다 이렇게 끌어올 수 있어.",
+  "그냥 이름만 꺼내는 거랑은 달라. 그걸 내 말의 근거로 앞에 세워야 이 단어가 맞아."
+ ],
+ "explanation_for_kids": [
   "학급회의에서 반장이 교칙을 펴더니 \"3조에 이렇게 쓰여 있어\" 하고 말했어.",
   "자기 말을 받쳐 줄 규칙을 끌어와서 근거로 삼은 거야.",
   "법이나 권리, 유명한 사람이 한 말까지, 뒤를 받쳐 주는 거라면 다 이렇게 끌어올 수 있어.",
   "그냥 이름만 꺼내는 거랑은 달라. 그걸 내 말의 근거로 앞에 세워야 이 단어가 맞아."
  ],
- "scene": "학급회의에서 반장이 교칙 조항을 근거로 듦",
+ "scene": "주민회의에서 대표가 규약 조항을 근거로 듦",
  "examples": [
   {
-   "en": "When the teacher said no phones, Minji invoked the school rule that allows phones in emergencies.",
-   "ko": "선생님이 폰 쓰지 말라고 하니까, 민지가 급할 땐 폰 써도 된다는 교칙을 근거로 내세웠어."
+   "en": "I'll invoke my right to a refund if the store says no.",
+   "ko": "가게가 안 된다고 하면, 난 환불받을 권리를 내세울 거야."
   }
  ],
  "quiz": [

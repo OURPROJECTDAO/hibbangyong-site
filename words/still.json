@@ -11,38 +11,39 @@
  "word": "still",
  "slug": "still",
  "url": "https://hibbangyong.com/words/still/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "아직도, 여전히 — 전에 그랬던 게 멈추지 않고 지금도 그대로인 것",
  "gloss_ko": "아직도 그대로",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "아침에 비가 왔어. 점심때 봐봐, 아직도 와. 저녁엔? 여전히 주룩주룩.",
   "좋은 일에도 써. 할머니가 여든 살인데 여전히 자전거를 타셔.",
   "그쳤다가 또 오는 거랑은 달라. 중간에 안 끊기고 쭉 이어지는 거거든?",
   "이제 끝났겠지 싶은데 아직 그대로인 것, 그게 still이야."
  ],
+ "explanation_for_kids": null,
  "scene": "아침부터 저녁까지 그치지 않고 오는 비",
  "examples": [
   {
-   "en": "My puppy is ten years old, but he still loves to play ball.",
-   "ko": "우리 강아지는 열 살인데도 아직도 공놀이를 엄청 좋아해."
+   "en": "My dog is ten years old, but he still loves to play ball.",
+   "ko": "우리 개는 열 살인데도 여전히 공놀이를 엄청 좋아해."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "누나가 1학년 때 생일 선물로 곰 인형을 받았어. 5학년이 된 지금도 누나는 밤마다 그 곰 인형을 안고 자. 누나의 이 모습이 'still'이야?",
+   "question": "누나가 고등학생 때 생일 선물로 담요를 받았어. 스물다섯이 된 지금도 누나는 밤마다 그 담요를 덮고 자. 누나의 이 모습이 'still'이야?",
    "choices": [
     "응, still 맞아",
     "아니, still 아니야"
    ],
    "answer_index": 0,
    "answer": "응, still 맞아",
-   "why": "맞아! 누나는 1학년 때 받은 곰 인형을 5학년이 된 지금도 밤마다 안고 자잖아. 이제 그만뒀겠지 싶은데 아직도 그대로니까, 바로 그게 still인 거야."
+   "why": "맞아! 누나는 고등학생 때 받은 담요를 스물다섯이 된 지금도 밤마다 덮고 자잖아. 이제 그만뒀겠지 싶은데 아직도 그대로니까, 바로 그게 still인 거야."
   }
  ],
  "synonyms": [

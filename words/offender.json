@@ -11,25 +11,26 @@
  "word": "offender",
  "slug": "offender",
  "url": "https://hibbangyong.com/words/offender/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "범죄자 — 법이나 규칙을 어긴 사람(무거운 죄든 가벼운 위반이든). 문제를 일으킨 주범을 가리킬 때도 씀",
  "gloss_ko": "범죄자",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "과속하다 걸린 운전자, 쓰레기를 몰래 버리다 걸린 아저씨, 은행을 턴 강도.",
   "죄가 무겁든 가볍든, 셋 다 실제로 법을 어긴 쪽이야. 이런 사람을 다 offender라고 해.",
   "의심만 받는 사람이나 당한 사람, 도와준 사람은 아니야. 어긴 게 맞아야 해.",
   "사람이 아니어도 돼. 공기를 제일 더럽히는 주범이 낡은 차라면, 그 차들도 offender라고 불러."
  ],
+ "explanation_for_kids": null,
  "scene": "과속하다 걸린 운전자",
  "examples": [
   {
-   "en": "The library sends a note to every offender who keeps books too long.",
-   "ko": "도서관은 책을 너무 오래 안 돌려준 사람마다 쪽지를 보내."
+   "en": "Our building fines any repeat offender who parks in the wrong spot.",
+   "ko": "우리 건물은 엉뚱한 자리에 계속 주차하는 사람한테 벌금을 매겨."
   }
  ],
  "quiz": [

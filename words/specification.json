@@ -11,21 +11,27 @@
  "word": "specification",
  "slug": "specification",
  "url": "https://hibbangyong.com/words/specification/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "사양(만들 때 지킬 자세한 조건) — 어떤 것을 만들 때 크기, 재료, 성능 같은 걸 어떻게 해야 하는지 자세히 정해 둔 조건",
  "gloss_ko": "만들 때 정한 세부조건",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "단체티 맞출 때 업체에 보내는 주문서를 떠올려 봐.",
+  "색은 남색, 앞에는 모임 이름, 글씨체, 천 두께, 사이즈별로 몇 장인지까지 다 적잖아.",
+  "이렇게 뭘 만들기 전에 '꼭 이대로 만들어'라고 정해 둔 자세한 조건이 specification이야. 폰, 건물, 기계에도 다 있어.",
+  "쓰는 법을 알려 주는 설명서나 대충 그린 그림하고는 달라. 만드는 쪽이 지켜야 하는 세부 목록이야."
+ ],
+ "explanation_for_kids": [
   "반티 맞출 때 업체에 보내는 주문서를 떠올려 봐.",
   "색은 남색, 앞에는 반 이름, 글씨체, 천 두께, 사이즈별로 몇 장인지까지 다 적잖아.",
   "이렇게 뭘 만들기 전에 '꼭 이대로 만들어'라고 정해 둔 자세한 조건이 specification이야. 폰, 건물, 기계에도 다 있어.",
   "쓰는 법을 알려 주는 설명서나 대충 그린 그림하고는 달라. 만드는 쪽이 지켜야 하는 세부 목록이야."
  ],
- "scene": "반티 주문서에 색·글씨체·천 두께·사이즈를 적어 업체에 보내는 장면",
+ "scene": "단체티 주문서에 색·글씨체·천 두께·사이즈를 적어 업체에 보내는 장면",
  "examples": [
   {
    "en": "Every window in the new gym must match the specification, or the builders have to change it.",
@@ -35,14 +41,14 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "체육대회 우승 트로피를 공방에 맡기면서 이런 메모를 보냈어. '높이 30cm, 받침은 원목, 윗부분은 금색 금속 컵 모양, 받침 앞면에 3반 우승 글자 새김.' 이 메모가 'specification'이야?",
+   "question": "체육대회 우승 트로피를 공방에 맡기면서 이런 메모를 보냈어. '높이 30cm, 받침은 원목, 윗부분은 금색 금속 컵 모양, 받침 앞면에 3팀 우승 글자 새김.' 이 메모가 'specification'이야?",
    "choices": [
     "응, specification 맞아",
     "아니, specification 아니야"
    ],
    "answer_index": 0,
    "answer": "응, specification 맞아",
-   "why": "맞아! 트로피를 만들기 전에 높이 30cm, 원목 받침, 금색 금속 컵 모양, 3반 우승 글자까지 공방이 꼭 지켜야 할 조건을 하나하나 정해 보냈잖아. 그래서 이 메모가 바로 specification이야."
+   "why": "맞아! 트로피를 만들기 전에 높이 30cm, 원목 받침, 금색 금속 컵 모양, 3팀 우승 글자까지 공방이 꼭 지켜야 할 조건을 하나하나 정해 보냈잖아. 그래서 이 메모가 바로 specification이야."
   }
  ],
  "synonyms": [],
@@ -61,7 +67,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/specification.webp",
-  "alt": "반티 주문서에 색·글씨체·천 두께·사이즈를 적어 업체에 보내는 장면",
+  "alt": "단체티 주문서에 색·글씨체·천 두께·사이즈를 적어 업체에 보내는 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

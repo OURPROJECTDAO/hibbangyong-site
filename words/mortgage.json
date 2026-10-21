@@ -11,25 +11,26 @@
  "word": "mortgage",
  "slug": "mortgage",
  "url": "https://hibbangyong.com/words/mortgage/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "주택 담보 대출(집을 걸고 빌리는 큰돈) — 집(이나 땅)을 걸고 은행에서 빌리는 큰돈이야. 보통 집을 살 때 빌리고, 여러 해 동안 조금씩 갚아 나가.",
  "gloss_ko": "집 걸고 빌린 큰돈",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "집값은 엄청 비싸서 한 번에 다 내는 집은 별로 없어.",
   "그래서 은행에서 큰돈을 빌리면서 그 집을 약속으로 걸어. 못 갚으면 은행이 집을 가져갈 수 있다는 약속이야.",
   "그다음 몇십 년 동안 매달 조금씩 갚아 나가. 이 빚이 mortgage야.",
   "남의 집에 살면서 내는 월세랑은 달라. 월세는 빌려 사는 값이고, mortgage는 집을 걸고 진 빚이야."
  ],
+ "explanation_for_kids": null,
  "scene": "부모님이 은행 돈을 빌려 집을 사고 몇십 년 동안 매달 갚는 장면",
  "examples": [
   {
-   "en": "My parents still pay the mortgage every month, so we don't eat out much.",
-   "ko": "우리 부모님은 아직도 매달 집 대출금을 갚고 있어서, 우리 외식 잘 안 해."
+   "en": "My boss finally paid off her mortgage last month.",
+   "ko": "우리 상사가 지난달에 드디어 주택 담보 대출을 다 갚았어."
   }
  ],
  "quiz": [

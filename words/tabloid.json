@@ -11,20 +11,21 @@
  "word": "tabloid",
  "slug": "tabloid",
  "url": "https://hibbangyong.com/words/tabloid/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "타블로이드 신문의 — 판이 작고 사진이 많으며, 진지한 뉴스보다 유명인 사생활·사건 이야기를 크게 다루는 신문(또는 그런 식의 보도)의",
  "gloss_ko": "타블로이드 신문의",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "외국 공항 가판대에 보면 판이 작고, 1면에 큰 사진이랑 연예인 소식이 꽉 찬 신문 있지. 그게 tabloid 신문이야.",
   "중요한 뉴스보다 사람들이 혹할 만한 사생활이나 사건 얘기를 먼저 크게 다뤄.",
   "요즘은 신문만이 아니야. TV 프로나 인터넷 기사가 그렇게 다루면 그것도 tabloid라고 불러.",
   "그냥 인기 많은 기사나 거짓 기사랑은 달라. 사실이어도 남의 사생활을 앞세우면 tabloid야."
  ],
+ "explanation_for_kids": null,
  "scene": "공항 가판대의 작은 판형·큰 사진·연예인 소식 신문",
  "examples": [
   {

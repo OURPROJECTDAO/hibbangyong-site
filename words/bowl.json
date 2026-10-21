@@ -11,18 +11,19 @@
  "word": "bowl",
  "slug": "bowl",
  "url": "https://hibbangyong.com/words/bowl/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "그릇 — 국이나 밥을 담는, 위가 넓고 둥글게 오목한 그릇",
  "gloss_ko": "그릇",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "이건 위가 넓게 벌어지고 안쪽이 오목하게 파인 그릇이야. 여기에 밥이나 국, 시리얼을 담아.",
   "아침에 시리얼에 우유를 부어 먹을 때 쓰는 게 바로 이거야."
  ],
+ "explanation_for_kids": null,
  "scene": "매끈한 흰 도자기 밥그릇/국그릇 하나 — 위가 넓고 둥글게 오목한 전형적인 그릇을 정면 약간 위에서 통째로 보여줌(빈 그릇, 내부의 오목함이 보이게)",
  "examples": [
   {
@@ -33,7 +34,7 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "동생이 둥글고 오목한 그릇에 밥을 담아 숟가락으로 떠먹고 있어. 그 그릇이 bowl이야?",
+   "question": "친구가 둥글고 오목한 그릇에 밥을 담아 숟가락으로 떠먹고 있어. 그 그릇이 bowl이야?",
    "choices": [
     "응, 맞아",
     "아니, 아니야"

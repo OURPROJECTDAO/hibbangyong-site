@@ -11,25 +11,26 @@
  "word": "ghetto",
  "slug": "ghetto",
  "url": "https://hibbangyong.com/words/ghetto/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "게토 — 도시 안에서 특정 인종·민족이나 가난한 사람들이 다른 곳에 못 살고 밀려나 한 구역에 따로 모여 사는 동네",
  "gloss_ko": "밀려나 모인 동네",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "어떤 도시에서 한 무리 사람들이 다른 동네엔 못 들어가고 한 구역에만 몰려 살아.",
   "이유는 피부색이나 민족일 때도 있고, 가난일 때도 있어. 스스로 고른 게 아니라 밀려난 거야.",
   "그냥 낡고 가난한 동네랑은 달라. 핵심은 도시 안에서 나머지와 따로 떨어져 있다는 거야.",
   "옛날 유럽에서 유대인들을 억지로 몰아넣은 구역도 이렇게 불렀어."
  ],
+ "explanation_for_kids": null,
  "scene": "도시에서 한 무리 사람들이 다른 동네에 못 들어가고 한 구역에 몰려 사는 장면",
  "examples": [
   {
-   "en": "Poor families in the city had nowhere else to go, so they lived together in a crowded ghetto, cut off from the richer areas.",
-   "ko": "그 도시의 가난한 가족들은 달리 갈 곳이 없어서, 부유한 동네와 떨어진 비좁은 게토에 모여 살았어."
+   "en": "Poor families had nowhere else to go, so they lived in a crowded ghetto.",
+   "ko": "가난한 가족들은 달리 갈 곳이 없어서 비좁은 게토에 모여 살았어."
   }
  ],
  "quiz": [

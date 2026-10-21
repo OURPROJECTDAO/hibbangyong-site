@@ -11,25 +11,26 @@
  "word": "gift",
  "slug": "gift",
  "url": "https://hibbangyong.com/words/gift/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "선물 — 값을 치르지도, 갚지도 않고 그냥 받는 것 (애써 얻은 게 아니라 그냥 주어진 재주도 gift라고 해)",
  "gloss_ko": "선물",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "옆집 아저씨가 감자 한 봉지를 불쑥 건네. 돈은 안 받아. 그냥 주는 거야.",
   "받은 사람은 갚을 것도, 돌려줄 것도 없거든?",
   "꼭 상자에 담긴 물건만 그런 게 아니야. 이름도 안 밝히고 병원에 보낸 돈도, 태어날 때부터 그냥 잘 부르는 노래 솜씨도 그렇게 불러.",
   "산 것, 빌린 것, 일해서 번 것은 gift가 아니야. 값을 치렀거나 돌려줘야 하잖아. 아무것도 안 치르고 그냥 받은 것, 그게 gift야."
  ],
+ "explanation_for_kids": null,
  "scene": "옆집 아저씨가 감자 한 봉지를 불쑥 건네는 장면",
  "examples": [
   {
-   "en": "The old bike in our yard was a gift from my aunt.",
-   "ko": "마당에 있는 낡은 자전거는 이모가 준 선물이야."
+   "en": "This coffee mug on my desk was a gift from a coworker.",
+   "ko": "내 책상 위에 있는 이 머그컵은 회사 동료가 준 선물이야."
   }
  ],
  "quiz": [

@@ -11,23 +11,27 @@
  "word": "ant",
  "slug": "ant",
  "url": "https://hibbangyong.com/words/ant/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "개미 — 땅 위를 줄지어 다니며 먹이를 나르는 아주 작은 곤충",
  "gloss_ko": "개미",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "그림 속 흙바닥에 있는 작고 검은 이 벌레가 ant예요. 가느다란 다리로 땅 위를 부지런히 기어다녀요.",
+  "공원이나 길가 흙바닥에서 줄지어 지나가는 모습을 본 적이 있을 거예요."
+ ],
+ "explanation_for_kids": [
   "그림 속 흙바닥에 있는 작고 검은 이 벌레가 ant예요. 가느다란 다리로 땅 위를 부지런히 기어다녀요.",
   "공원이나 놀이터 흙바닥에서 줄지어 지나가는 모습을 본 적이 있을 거예요."
  ],
  "scene": "흙바닥 위에 서 있는 통통하고 귀여운 검은 개미 한 마리를 크게 클로즈업",
  "examples": [
   {
-   "en": "A tiny ant is carrying a crumb back to its home.",
-   "ko": "조그만 개미가 부스러기를 집으로 나르고 있어."
+   "en": "An ant is carrying a crumb across my kitchen floor.",
+   "ko": "개미 한 마리가 부엌 바닥에서 부스러기를 나르고 있어."
   }
  ],
  "quiz": [

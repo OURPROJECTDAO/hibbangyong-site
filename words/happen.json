@@ -11,20 +11,21 @@
  "word": "happen",
  "slug": "happen",
  "url": "https://hibbangyong.com/words/happen/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "일어나다 — 무슨 일이 (좋든 나쁘든) 실제로 생기다·벌어지다",
  "gloss_ko": "일어나다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "가만히 아무 일 없다가, 갑자기 뭔가 딱 생길 때 있지?",
   "친구를 우연히 만나는 것도, 넘어져서 무릎 까지는 것도,",
   "생일파티가 열리는 것도 다 '무슨 일이 벌어진' 거거든.",
   "좋은 일이든 나쁜 일이든, 일이 일어나는 게 happen이야."
  ],
+ "explanation_for_kids": null,
  "scene": "가만히 아무 일 없다가 갑자기 무슨 일이 생기는 순간",
  "examples": [
   {

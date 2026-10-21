@@ -11,25 +11,26 @@
  "word": "click",
  "slug": "click",
  "url": "https://hibbangyong.com/words/click/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "딸깍 소리가 나다 — 또는 딸깍 소리가 나게 누르다",
  "gloss_ko": "딸깍 소리가 나다",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "볼펜 뒤를 눌러봐. 딸깍! 하고 짧고 마른 소리가 나지?",
   "그 소리가 나는 게 click이야. 안전벨트를 채울 때도, 문이 닫힐 때도 딸깍 나거든?",
   "누가 눌러서 나기도 하고, 그냥 저절로 나기도 해. 소리만 그렇게 나면 다 click이야.",
   "쿵도 아니고 삐걱도 아니야. 짧고 딱딱한 그 소리, 그게 click이야."
  ],
+ "explanation_for_kids": null,
  "scene": "볼펜 뒤를 눌러 딸깍 소리 내기",
  "examples": [
   {
-   "en": "The seatbelt clicked when I pushed it in.",
-   "ko": "안전벨트를 밀어 넣으니까 딸깍 소리가 났어."
+   "en": "I heard the seatbelt click when I pushed it in.",
+   "ko": "안전벨트를 밀어 넣으니까 딸깍 하는 소리가 들렸어."
   }
  ],
  "quiz": [

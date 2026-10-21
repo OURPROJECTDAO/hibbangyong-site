@@ -11,20 +11,21 @@
  "word": "none",
  "slug": "none",
  "url": "https://hibbangyong.com/words/none/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "하나도 없음 — 여럿 중에 남은 것도, 그런 사람도 딱 영(0)개일 때 쓰는 말",
  "gloss_ko": "하나도 없음",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "과자 접시를 봤어. 몇 개 남았게? 하나도. 영 개야.",
   "손 든 사람이 아무도 없을 때도, 컵에 물이 한 방울도 안 남았을 때도 똑같이 써.",
   "조금 남은 거랑은 달라. 한 개라도 있으면 none이 아니거든.",
   "그게 none이야."
  ],
+ "explanation_for_kids": null,
  "scene": "다 나눠 먹고 텅 빈 과자 접시의 남은 개수",
  "examples": [
   {

@@ -11,38 +11,44 @@
  "word": "occupy",
  "slug": "occupy",
  "url": "https://hibbangyong.com/words/occupy/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "차지하다 — 어떤 자리를(때로는 시간까지) 채우고 있어서, 그동안 다른 사람이나 다른 것은 그걸 못 쓰는 것",
  "gloss_ko": "차지하다",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "소파에 앉으려는데 커다란 박스가 떡하니 놓여 있어. 그 자리는 이미 박스가 채우고 있지?",
+  "뭘 하고 있어서가 아니야. 그냥 거기 그대로 있는 것만으로 그 자리가 막히는 거야.",
+  "자리만 그런 것도 아니야. 과제가 네 오후를 통째로 채워 버리면 그 시간엔 딴 걸 못 하잖아. 군인들이 남의 동네에 들어가 안 나가는 것도 똑같고.",
+  "그게 occupy야."
+ ],
+ "explanation_for_kids": [
   "소파에 앉으려는데 커다란 곰인형이 떡하니 놓여 있어. 그 자리는 이미 곰인형이 채우고 있지?",
   "뭘 하고 있어서가 아니야. 그냥 거기 그대로 있는 것만으로 그 자리가 막히는 거야.",
   "자리만 그런 것도 아니야. 숙제가 네 오후를 통째로 채워 버리면 그 시간엔 딴 걸 못 하잖아. 군인들이 남의 동네에 들어가 안 나가는 것도 똑같고.",
   "그게 occupy야."
  ],
- "scene": "소파 위에 놓인 큰 곰인형이 앉을 자리를 그대로 채우고 있는 장면",
+ "scene": "소파 위에 놓인 큰 박스가 앉을 자리를 그대로 채우고 있는 장면",
  "examples": [
   {
-   "en": "My little brother occupies the bathroom every morning, so I have to wait outside.",
-   "ko": "동생이 아침마다 화장실을 차지해서 나는 밖에서 기다려야 해."
+   "en": "My roommates occupy the bathroom every morning, so I have to wait.",
+   "ko": "룸메이트들이 아침마다 화장실을 차지해서 나는 기다려야 해."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "교실 사물함 한 칸에 형의 축구공이 들어 있어서, 내 실내화 주머니는 못 넣어. 이게 축구공이 그 칸을 'occupy' 하는 거야?",
+   "question": "헬스장 사물함 한 칸에 친구의 큰 짐가방이 들어 있어서, 내 운동화 주머니는 못 넣어. 이게 짐가방이 그 칸을 'occupy' 하는 거야?",
    "choices": [
     "응, occupy 맞아",
     "아니, occupy 아니야"
    ],
    "answer_index": 0,
    "answer": "응, occupy 맞아",
-   "why": "맞아! 축구공이 그 칸을 꽉 채우고 앉아 있으니까 네 실내화 주머니는 들어갈 자리가 없잖아. 자리를 채워서 다른 게 못 쓰게 되는 것, 그게 바로 occupy인 거야."
+   "why": "맞아! 짐가방이 그 칸을 꽉 채우고 앉아 있으니까 네 운동화 주머니는 들어갈 자리가 없잖아. 자리를 채워서 다른 게 못 쓰게 되는 것, 그게 바로 occupy인 거야."
   }
  ],
  "synonyms": [],
@@ -66,7 +72,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/occupy.webp",
-  "alt": "소파 위에 놓인 큰 곰인형이 앉을 자리를 그대로 채우고 있는 장면",
+  "alt": "소파 위에 놓인 큰 박스가 앉을 자리를 그대로 채우고 있는 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

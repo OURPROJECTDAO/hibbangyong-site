@@ -11,26 +11,27 @@
  "word": "external",
  "slug": "external",
  "url": "https://hibbangyong.com/words/external/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "바깥의 — 어떤 것의 겉이나, 그것 바깥에서 온",
  "gloss_ko": "바깥의",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "상자 하나가 있어. 상자한테는 안쪽이랑 바깥쪽이 있지?",
   "상자 겉면에 붙은 스티커, 상자 밖에서 미는 손, 밖에서 들리는 소리 — 이건 다 상자 기준으로 바깥이야.",
   "좋은 거든 나쁜 거든 상관없어. 그냥 위치가 밖이면 다 그래. 밖에서 온 도움도, 밖에서 온 방해도 똑같이.",
   "그게 external이야. 겉에 있거나 밖에서 온 거.",
   "그런데 '겉만 번지르르하고 속이 비었다'는 뜻은 아니야. 진짜로 안쪽이냐 바깥쪽이냐, 그 자리만 말하는 거야."
  ],
+ "explanation_for_kids": null,
  "scene": "안쪽과 바깥쪽이 나뉜 상자",
  "examples": [
   {
-   "en": "The noise was external, so we closed the window and it stopped.",
-   "ko": "그 소리는 밖에서 나는 거라 창문을 닫으니까 멎었어."
+   "en": "It was external noise, so closing the window fixed it.",
+   "ko": "밖에서 나는 소음이라서 창문을 닫으니까 해결됐어."
   }
  ],
  "quiz": [

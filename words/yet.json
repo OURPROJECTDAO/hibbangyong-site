@@ -11,21 +11,27 @@
  "word": "yet",
  "slug": "yet",
  "url": "https://hibbangyong.com/words/yet/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "아직 — (기다리는 일이) 지금까진 안 됐다는 말 (근데 곧 될 수도 있어)",
  "gloss_ko": "아직",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "친구가 물어. 과제 다 했어? 넌 고개를 저어. 아직 안 했거든.",
+  "근데 봐봐, '아직'은 '영영 안 해'가 아니야.",
+  "지금까진 안 했지만, 이따가 할 거란 말이거든.",
+  "헷갈리는 '벌써 다 했어'랑은 정반대야. 이게 yet이야."
+ ],
+ "explanation_for_kids": [
   "엄마가 물어. 숙제 다 했어? 넌 고개를 절레절레. 아직 안 했거든.",
   "근데 봐봐, '아직'은 '영영 안 해'가 아니야.",
   "지금까진 안 했지만, 이따가 할 거란 말이거든.",
   "헷갈리는 '벌써 다 했어'랑은 정반대야. 이게 yet이야."
  ],
- "scene": "숙제 다 했냐는 물음에 아직 안 했다고 고개 젓는 상황",
+ "scene": "과제 다 했냐는 물음에 아직 안 했다고 고개 젓는 상황",
  "examples": [
   {
    "en": "I haven't cleaned my room yet, but I will after lunch.",
@@ -68,7 +74,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/yet.webp",
-  "alt": "숙제 다 했냐는 물음에 아직 안 했다고 고개 젓는 상황",
+  "alt": "과제 다 했냐는 물음에 아직 안 했다고 고개 젓는 상황",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

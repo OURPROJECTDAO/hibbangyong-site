@@ -11,25 +11,26 @@
  "word": "copy",
  "slug": "copy",
  "url": "https://hibbangyong.com/words/copy/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "복사본 — 원래 것과 똑같이 만들어 놓은 또 하나",
  "gloss_ko": "복사본",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "네가 그린 그림을 친구도 갖고 싶대. 그래서 똑같은 걸 하나 더 만들었어.",
   "원래 그림은 그대로 있고, 똑같은 게 하나 더 생긴 거지.",
   "비슷하게 흉내만 낸 건 안 돼. 어디 한 군데라도 다르면 그건 아니거든?",
   "열쇠를 하나 더 만들어도, 책이 똑같이 여러 권 찍혀 나와도, 그 하나하나가 copy야."
  ],
+ "explanation_for_kids": null,
  "scene": "친구도 갖고 싶어 해서 내 그림과 똑같은 걸 하나 더 만든 장면",
  "examples": [
   {
-   "en": "I made a copy of my drawing so my friend could keep one too.",
-   "ko": "친구도 가질 수 있게 내 그림 복사본을 하나 더 만들었어."
+   "en": "I made a copy of my resume for the interview.",
+   "ko": "면접 때문에 이력서 복사본을 하나 만들었어."
   }
  ],
  "quiz": [

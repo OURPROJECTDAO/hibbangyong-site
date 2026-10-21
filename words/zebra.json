@@ -11,23 +11,24 @@
  "word": "zebra",
  "slug": "zebra",
  "url": "https://hibbangyong.com/words/zebra/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "얼룩말 — 몸에 검고 흰 줄무늬가 있는 말처럼 생긴 초원 동물",
  "gloss_ko": "얼룩말",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 검고 흰 줄무늬가 온몸에 그려진 이 동물이 바로 zebra예요.",
   "동물원에 가면 말처럼 생겼는데 줄무늬 옷을 입은 것 같은 이 친구를 만날 수 있어요."
  ],
+ "explanation_for_kids": null,
  "scene": "아프리카 초원에 서 있는 흑백 줄무늬 얼룩말 한 마리 전신을 옆모습으로 보여줌",
  "examples": [
   {
-   "en": "The zebra ran across the grass with its black and white stripes.",
-   "ko": "검고 흰 줄무늬가 있는 얼룩말이 풀밭을 가로질러 달렸어."
+   "en": "We saw a zebra with black and white stripes at the safari park.",
+   "ko": "사파리 공원에서 검고 흰 줄무늬가 있는 얼룩말을 봤어."
   }
  ],
  "quiz": [

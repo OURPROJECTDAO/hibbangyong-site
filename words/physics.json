@@ -11,38 +11,39 @@
  "word": "physics",
  "slug": "physics",
  "url": "https://hibbangyong.com/words/physics/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "물리 — 물건이 왜 그렇게 움직이는지 그 규칙, 또 그 규칙을 캐내는 공부",
  "gloss_ko": "물리",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "공을 위로 던지면 잠깐 올라갔다가 다시 툭 떨어지지? 왜 그럴까.",
   "세상 물건들은 아무렇게나 움직이는 게 아니거든. 다 정해진 규칙대로 움직여. 공이 떨어지는 것도, 자석이 딱 붙는 것도, 소리가 퍼지는 것도, 별이 도는 것도 다 그래.",
   "그 규칙이 뭔지 캐내는 게 physics야. 살아있는 것이 어떻게 자라는지도 아니고, 마음이 왜 슬픈지도 아니야. 물건과 힘, 그 얘기만 해.",
   "공이 왜 떨어지는지 그 규칙, 그게 physics야."
  ],
+ "explanation_for_kids": null,
  "scene": "위로 던진 공이 다시 떨어지는 장면",
  "examples": [
   {
-   "en": "In physics we found out why a heavy ball and a light ball fall at the same speed.",
-   "ko": "물리 시간에 무거운 공과 가벼운 공이 왜 같은 빠르기로 떨어지는지 알아냈어."
+   "en": "In my physics lecture, we learned why heavy and light balls fall at the same speed.",
+   "ko": "물리 강의에서 무거운 공과 가벼운 공이 왜 같은 속도로 떨어지는지 배웠어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "놀이터 미끄럼틀 위에서 손을 놓으면 왜 몸이 아래로 쭉 미끄러지는지, 그 규칙을 알아내려는 아이가 있어. 이 아이가 알아내려는 건 'physics'일까?",
+   "question": "워터파크 슬라이드 위에서 손을 놓으면 왜 몸이 아래로 쭉 미끄러지는지, 그 규칙을 알아내려는 친구가 있어. 이 친구가 알아내려는 건 'physics'일까?",
    "choices": [
     "응, physics 맞아",
     "아니, physics 아니야"
    ],
    "answer_index": 0,
    "answer": "응, physics 맞아",
-   "why": "맞아! 미끄럼틀에서 몸이 쭉 내려가는 건 물건이 힘을 받아서 움직이는 거잖아. 왜 그렇게 움직이는지 그 규칙을 캐내는 게 바로 physics야."
+   "why": "맞아! 슬라이드에서 몸이 쭉 내려가는 건 물건이 힘을 받아서 움직이는 거잖아. 왜 그렇게 움직이는지 그 규칙을 캐내는 게 바로 physics야."
   }
  ],
  "synonyms": [],

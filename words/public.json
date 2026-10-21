@@ -11,25 +11,26 @@
  "word": "public",
  "slug": "public",
  "url": "https://hibbangyong.com/words/public/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "대중(누구나, 모든 보통 사람들) — 회원이나 뽑힌 사람 말고, 누구나 다인 보통 사람들 전부.",
  "gloss_ko": "누구나 모든 사람",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "공원에 가면 누가 있어? 네가 하나도 모르는 아저씨, 아줌마, 애기까지 그냥 아무나 다 있지?",
   "회원만 오는 데도 아니고, 초대장 받은 사람만 오는 데도 아니야.",
   "그렇게 특별히 뽑힌 사람들 말고, 누구나 다인 보통 사람들 전부를 한꺼번에 가리키는 말이야.",
   "그게 public이야."
  ],
+ "explanation_for_kids": null,
  "scene": "공원에 있는, 하나도 모르는 아저씨·아줌마·애기까지 아무나 다인 사람들",
  "examples": [
   {
    "en": "The library is open to the public.",
-   "ko": "그 도서관은 대중한테 열려 있어서, 누구든 갈 수 있어."
+   "ko": "그 도서관은 누구나 들어갈 수 있게 열려 있어."
   }
  ],
  "quiz": [

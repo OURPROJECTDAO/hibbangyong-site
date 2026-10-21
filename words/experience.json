@@ -11,15 +11,21 @@
  "word": "experience",
  "slug": "experience",
  "url": "https://hibbangyong.com/words/experience/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "겪다 — 어떤 일이 나한테 일어나서, 내가 직접 몸이나 마음으로 느끼는 거.",
  "gloss_ko": "겪다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "자전거 타다가 넘어져서 무릎이 까졌어. 엄청 아팠지?",
+  "그 아픔은 옆에서 아무도 대신 못 느껴. 나한테 일어나서 내가 느낀 거거든.",
+  "신나는 일, 무서운 일, 처음 해보는 일... 나한테 일어나서 내가 느끼면 다 이거야.",
+  "그게 experience야."
+ ],
+ "explanation_for_kids": [
   "자전거 타다가 꽈당 넘어져서 무릎이 까졌어. 엄청 아팠지?",
   "그 아픔은 옆에서 아무도 대신 못 느껴. 나한테 일어나서 내가 느낀 거거든.",
   "신나는 일, 무서운 일, 처음 해보는 일... 나한테 일어나서 내가 느끼면 다 이거야.",
@@ -28,8 +34,8 @@
  "scene": "자전거 타다 넘어져 무릎 까지고 아픔을 직접 느낌",
  "examples": [
   {
-   "en": "When I fell off my bike, I experienced a lot of pain.",
-   "ko": "자전거에서 떨어졌을 때 나는 엄청난 아픔을 겪었어."
+   "en": "I fell off my bike. I never want to experience that pain again.",
+   "ko": "자전거에서 떨어졌어. 그런 아픔은 다시는 겪고 싶지 않아."
   }
  ],
  "quiz": [
@@ -37,13 +43,13 @@
    "type": "choice",
    "question": "다음 중 'experience'에 해당하는 것은?",
    "choices": [
-    "동생이 물총을 쏴서 내 등에 찬물이 확 튀었다",
+    "친구가 물총을 쏴서 내 등에 찬물이 확 튀었다",
     "냉장고 문에 자석 세 개가 붙어 있다",
     "우산이 신발장 옆에 세워져 있다",
     "달력에 빨간 동그라미가 그려져 있다"
    ],
    "answer_index": 0,
-   "answer": "동생이 물총을 쏴서 내 등에 찬물이 확 튀었다",
+   "answer": "친구가 물총을 쏴서 내 등에 찬물이 확 튀었다",
    "why": "맞아! 물총 물이 등에 확 튀었으면 그건 나한테 일어난 일이고, 차가운 걸 내가 직접 느낀 거잖아. 그래서 바로 그게 겪은 거야."
   }
  ],

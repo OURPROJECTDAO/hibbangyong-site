@@ -11,31 +11,32 @@
  "word": "genuine",
  "slug": "genuine",
  "url": "https://hibbangyong.com/words/genuine/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "겉만 그런 척이 아니라, 속까지 정말 그것인",
  "gloss_ko": "척이 아니라 정말 그런",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "친구가 \"우와!\" 하고 놀랐어. 근데 그거 놀란 척이었대. 그냥 맞춰준 거지.",
   "다음날 또 똑같이 \"우와!\" 했어. 이번엔 속에서 정말로 그랬어. 척이 아니었어.",
   "가방도 똑같아. 진짜 가죽이냐, 가죽인 척 흉내만 낸 거냐.",
   "겉모습이 같아도 속까지 그거인 것. 그럴싸하게 꾸민 거랑은 달라. 이게 genuine이야."
  ],
+ "explanation_for_kids": null,
  "scene": "놀란 척했다가 다음날엔 정말로 놀란 친구",
  "examples": [
   {
-   "en": "This time his surprise was genuine.",
-   "ko": "이번엔 걔가 놀란 게 진짜였어."
+   "en": "My coworker's apology seemed genuine.",
+   "ko": "동료의 사과는 진심인 것 같았어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "지훈이가 동생 생일 카드를 썼어. 아무도 안 볼 때 혼자 앉아서, 속으로 '고맙다' 생각하면서 한 글자씩 적었어. 지훈이의 카드는 'genuine'해?",
+   "question": "지훈이가 룸메이트 생일 카드를 썼어. 아무도 안 볼 때 혼자 앉아서, 속으로 '고맙다' 생각하면서 한 글자씩 적었어. 지훈이의 카드는 'genuine'해?",
    "choices": [
     "응, genuine해",
     "아니, genuine 아니야"

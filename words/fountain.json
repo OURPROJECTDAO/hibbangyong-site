@@ -11,23 +11,24 @@
  "word": "fountain",
  "slug": "fountain",
  "url": "https://hibbangyong.com/words/fountain/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "분수 — 광장에서 물줄기를 위로 뿜어 올리는 물 장치",
  "gloss_ko": "분수",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "공원 광장 한가운데에서 물줄기를 위로 뿜어 올렸다가 다시 쏟아지게 만든 큰 물 장치예요.",
   "더운 날 공원에 가면 이 물줄기 앞에서 시원하게 튀는 물방울을 만날 수 있어요."
  ],
+ "explanation_for_kids": null,
  "scene": "공원 광장의 원형 분수대에서 물줄기가 위로 솟아올라 여러 갈래로 반짝이며 쏟아져 내리는 모습(분수).",
  "examples": [
   {
-   "en": "Water shoots up high from the fountain in the park.",
-   "ko": "공원 분수에서 물이 높이 쭉 솟아올라."
+   "en": "We sat by the fountain and watched the water shoot up.",
+   "ko": "우리는 분수 옆에 앉아서 물이 솟아오르는 걸 구경했어."
   }
  ],
  "quiz": [

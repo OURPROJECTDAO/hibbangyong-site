@@ -11,23 +11,24 @@
  "word": "soap",
  "slug": "soap",
  "url": "https://hibbangyong.com/words/soap/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "비누 — 손이나 몸을 씻을 때 쓰는 거품 나는 덩어리",
  "gloss_ko": "비누",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 통통한 사각 덩어리가 바로 soap, 비누예요.",
   "손을 씻을 때 물과 함께 문지르면 거품이 뽀글뽀글 나는 그거예요."
  ],
+ "explanation_for_kids": null,
  "scene": "비누 그 자체 — 통통한 파스텔 사각 비누 한 덩이(soap=비누, 사물 의미), 표면에 보들보들한 거품 몇 방울",
  "examples": [
   {
-   "en": "I wash my hands with soap before dinner.",
-   "ko": "나는 저녁 먹기 전에 비누로 손을 씻어."
+   "en": "This hotel soap smells really nice.",
+   "ko": "이 호텔 비누 냄새 진짜 좋아."
   }
  ],
  "quiz": [

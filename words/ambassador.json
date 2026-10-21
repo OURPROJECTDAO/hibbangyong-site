@@ -11,21 +11,27 @@
  "word": "ambassador",
  "slug": "ambassador",
  "url": "https://hibbangyong.com/words/ambassador/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "대사 — 자기 나라(자기 편)를 대신해 다른 쪽에 가 있는 사람",
  "gloss_ko": "나라를 대신하는 대사",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "우리 팀 얘기를 전하러 네가 옆 팀에 갔다고 해봐. 그 순간 옆 팀 사람들 눈엔 네가 우리 팀 전체야.",
+  "나라끼리도 이래. 한 나라가 다른 나라로 사람을 보내서, 우리 쪽 말을 대신 하게 하고 거기 머물게 하지.",
+  "그냥 놀러 간 사람도, 혼자 공부하러 간 사람도 아니야. 뒤에 보낸 쪽이 있는 사람이거든?",
+  "그게 ambassador야."
+ ],
+ "explanation_for_kids": [
   "우리 반 얘기를 전하러 네가 옆 반에 갔다고 해봐. 그 순간 옆 반 애들 눈엔 네가 우리 반 전체야.",
   "나라끼리도 이래. 한 나라가 다른 나라로 사람을 보내서, 우리 쪽 말을 대신 하게 하고 거기 머물게 하지.",
   "그냥 놀러 간 사람도, 혼자 공부하러 간 사람도 아니야. 뒤에 보낸 쪽이 있는 사람이거든?",
   "그게 ambassador야."
  ],
- "scene": "우리 반을 대신해 옆 반에 가서 반 얘기를 전하는 아이",
+ "scene": "우리 팀을 대신해 옆 팀에 가서 팀 얘기를 전하는 사람",
  "examples": [
   {
    "en": "Mia went to the other school as our ambassador.",
@@ -59,7 +65,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/ambassador.webp",
-  "alt": "우리 반을 대신해 옆 반에 가서 반 얘기를 전하는 아이",
+  "alt": "우리 팀을 대신해 옆 팀에 가서 팀 얘기를 전하는 사람",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

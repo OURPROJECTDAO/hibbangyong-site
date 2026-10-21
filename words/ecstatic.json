@@ -11,31 +11,32 @@
  "word": "ecstatic",
  "slug": "ecstatic",
  "url": "https://hibbangyong.com/words/ecstatic/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "황홀한 — 너무 기뻐서 들뜨고 어쩔 줄 모르는",
  "gloss_ko": "기뻐 어쩔 줄 모르는",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그냥 기분 좋은 정도가 아니야.",
   "응원하는 팀이 마지막 1초에 역전골을 넣었을 때, 기뻐서 속이 터질 것 같은 그 상태를 떠올려 봐.",
   "합격 소식이든, 기다리던 선물이든, 무엇 때문이든 기쁨이 넘쳐서 가만히 못 있겠으면 ecstatic이야.",
   "조용히 만족하는 거랑은 달라. 기쁨의 크기가 맨 꼭대기까지 차 있는 거야."
  ],
+ "explanation_for_kids": null,
  "scene": "응원하는 팀이 마지막 1초에 역전골을 넣은 순간",
  "examples": [
   {
-   "en": "The fans were ecstatic when their team won the final.",
-   "ko": "결승에서 팀이 이기자 팬들은 좋아서 난리가 났어."
+   "en": "I was ecstatic when I got the job offer.",
+   "ko": "합격 연락을 받았을 때 너무 기뻐서 어쩔 줄 몰랐어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "부모님이 드디어 강아지를 키워도 된다고 허락하자, 서연이는 소리를 지르며 거실을 이리저리 뛰어다녔어. 이때 서연이의 기분은 'ecstatic'일까?",
+   "question": "집주인이 드디어 강아지를 키워도 된다고 허락하자, 서연이는 소리를 지르며 거실을 이리저리 뛰어다녔어. 이때 서연이의 기분은 'ecstatic'일까?",
    "choices": [
     "응, ecstatic 맞아",
     "아니, ecstatic 아니야"

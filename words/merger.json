@@ -11,25 +11,26 @@
  "word": "merger",
  "slug": "merger",
  "url": "https://hibbangyong.com/words/merger/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "합병(둘이 하나로 합치기) — 둘 이상의 회사나 단체가 합쳐서 하나가 되는 것",
  "gloss_ko": "하나로 합치기",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "학생 수가 줄어든 두 학교가 있다고 쳐 봐.",
   "내년부터 둘이 합쳐서 교문도 하나, 이름도 하나인 학교가 돼.",
   "회사끼리, 은행끼리 이렇게 한 몸이 되는 것도 다 merger야.",
   "그냥 손잡고 같이 일하는 거랑은 달라. 합친 뒤엔 따로가 아니라 하나거든."
  ],
+ "explanation_for_kids": null,
  "scene": "학생 수가 줄어 두 학교가 하나로 합쳐짐",
  "examples": [
   {
-   "en": "Many parents were worried when they heard about the school merger.",
-   "ko": "두 학교가 합쳐진다는 소식을 듣고 걱정한 부모님이 많았어."
+   "en": "Everyone at work is talking about the merger with the other company.",
+   "ko": "회사 사람들이 다들 다른 회사랑 합병하는 얘기만 해."
   }
  ],
  "quiz": [

@@ -11,20 +11,21 @@
  "word": "irony",
  "slug": "irony",
  "url": "https://hibbangyong.com/words/irony/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "기대한 거랑 정반대로 홱 뒤집혀서 우습고 어이없는 것(일이든 말이든)",
  "gloss_ko": "뒤집혀서 어이없음",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "불 끄는 소방서가 불에 타 버렸대. 어이없지?",
   "이렇게 되겠지 했던 거랑 정반대로 홱 뒤집힌 거야. 그래서 웃긴데 좀 씁쓸하거든?",
   "비가 억수로 쏟아지는데 '와, 날씨 참 좋네' 하는 것도 똑같아. 입에서 나온 말이랑 속마음이 정반대잖아.",
   "그냥 우연히 겹친 거랑은 달라. 뒤집혀야, 그게 irony야."
  ],
+ "explanation_for_kids": null,
  "scene": "불 끄는 소방서가 불에 타 버린 일",
  "examples": [
   {
@@ -35,7 +36,7 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "경찰관 아저씨가 자기 자전거를 도둑맞았대. 이게 'irony'야?",
+   "question": "경찰관이 자기 자전거를 도둑맞았대. 이게 'irony'야?",
    "choices": [
     "응, irony 맞아",
     "아니, irony 아니야"

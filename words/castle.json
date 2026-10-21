@@ -11,23 +11,27 @@
  "word": "castle",
  "slug": "castle",
  "url": "https://hibbangyong.com/words/castle/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "성 — 옛날에 왕이 살던, 돌로 크고 튼튼하게 지은 큰 건물",
  "gloss_ko": "성",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "언덕 위에 돌로 높이 쌓아 올린, 탑과 성문이 달린 저 큰 건물이 castle이에요.",
+  "영화나 놀이공원에서 뾰족한 탑이 있는 성을 본 적 있을 거예요."
+ ],
+ "explanation_for_kids": [
   "언덕 위에 돌로 높이 쌓아 올린, 탑과 성문이 달린 저 큰 건물이 castle이에요.",
   "동화책 속 공주 이야기나 놀이공원에서 뾰족한 탑이 있는 성을 본 적 있을 거예요."
  ],
- "scene": "언덕 위에 우뚝 선 동화 속 회색 돌성 — 뾰족한 원뿔 지붕의 탑들과 성문이 전신으로 보이는 전형적인 castle을 그림",
+ "scene": "언덕 위에 우뚝 선 동화 속 회색 돌성",
  "examples": [
   {
-   "en": "The king lived in a big castle on the hill.",
-   "ko": "왕은 언덕 위 커다란 성에 살았어."
+   "en": "We took the train to see an old castle on the hill.",
+   "ko": "기차 타고 언덕 위에 있는 오래된 성을 보러 갔어."
   }
  ],
  "quiz": [
@@ -58,7 +62,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/castle.webp",
-  "alt": "언덕 위에 우뚝 선 동화 속 회색 돌성 — 뾰족한 원뿔 지붕의 탑들과 성문이 전신으로 보이는 전형적인 castle을 그림",
+  "alt": "언덕 위에 우뚝 선 동화 속 회색 돌성",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

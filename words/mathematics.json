@@ -11,15 +11,21 @@
  "word": "mathematics",
  "slug": "mathematics",
  "url": "https://hibbangyong.com/words/mathematics/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "수학 — 수와 모양, 그 안에 숨은 규칙을 따져 보는 공부",
  "gloss_ko": "수와 모양 공부",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "피자 여덟 조각을 넷이 먹으면 몇 개씩 먹는지 따져 보지? 수를 따지는 거야.",
+  "상자를 어떻게 쌓아야 안 무너질지도 생각해 보지? 이건 모양을 따지는 거야.",
+  "수, 모양, 그 안에 숨은 규칙까지 따져 보는 공부를 다 합쳐서 이렇게 불러.",
+  "덧셈 뺄셈만 하는 게 아니야. 숫자를 그냥 읽는 것도 아니고. 이게 mathematics야."
+ ],
+ "explanation_for_kids": [
   "피자 여덟 조각을 넷이 먹으면 몇 개씩 먹는지 따져 보지? 수를 따지는 거야.",
   "블록을 어떻게 쌓아야 안 무너질지도 생각해 보지? 이건 모양을 따지는 거야.",
   "수, 모양, 그 안에 숨은 규칙까지 따져 보는 공부를 다 합쳐서 이렇게 불러.",
@@ -35,7 +41,7 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "민지는 용돈 5000원으로 1200원짜리 공책을 몇 권까지 살 수 있는지 따져 봤어. 민지가 한 이 공부, 'mathematics'야?",
+   "question": "민지는 5000원으로 1200원짜리 공책을 몇 권까지 살 수 있는지 따져 봤어. 민지가 한 이 공부, 'mathematics'야?",
    "choices": [
     "응, mathematics 맞아",
     "아니, mathematics 아니야"

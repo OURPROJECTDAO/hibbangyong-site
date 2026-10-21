@@ -11,25 +11,26 @@
  "word": "crew",
  "slug": "crew",
  "url": "https://hibbangyong.com/words/crew/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "손님이 아니라, 배나 비행기에서 함께 일하는 사람들 모두",
  "gloss_ko": "배·비행기에서 일하는 사람들",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "배가 한 척 바다로 나가는데, 그 위엔 표 사서 탄 손님도 있고, 일하러 탄 사람도 있어.",
   "일하러 탄 쪽은 그냥 안 앉아 있어. 한 명은 키를 잡고, 한 명은 줄을 당기고, 한 명은 짐을 옮겨.",
   "각자 맡은 일을 해서 그 배가 앞으로 나아가게 하는 거야. 타고만 가는 손님 말고, 배를 움직이는 사람들.",
   "배든 비행기든 영화 찍는 데든, 이렇게 같이 한 가지 일을 돌리는 무리, 그게 crew야."
  ],
+ "explanation_for_kids": null,
  "scene": "배 위에서 손님 말고 각자 맡은 일을 하며 배를 굴러가게 하는 사람들",
  "examples": [
   {
-   "en": "The whole crew cheered when the ship finally reached land.",
-   "ko": "배가 드디어 육지에 닿자 선원들 모두가 환호했어."
+   "en": "The flight crew was really nice on our trip to Jeju.",
+   "ko": "제주 여행 갈 때 승무원들이 정말 친절했어."
   }
  ],
  "quiz": [

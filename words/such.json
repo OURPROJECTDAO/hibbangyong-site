@@ -11,20 +11,21 @@
  "word": "such",
  "slug": "such",
  "url": "https://hibbangyong.com/words/such/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "그런 · 그렇게나 — 앞에서 본 그 정도나 종류를 콕 집어 강조하는 말",
  "gloss_ko": "그런 · 그렇게나",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "친구가 산더미처럼 쌓인 케이크를 봤어. 그러곤 그냥 '큰 케이크'라 안 하고 'such a big cake!'라고 외쳤지.",
   "'such'는 '큰'을 '그렇게나 큰!'으로 확 올려줘. 네가 두 눈으로 본 그 정도를 콕 집어서 강조하는 거거든.",
   "크기뿐 아니야. '그런 건 처음 봐' 할 때의 '그런'도 such야. 정도든 종류든, 콕 가리켜서 세게 말해줘.",
   "그게 such야."
  ],
+ "explanation_for_kids": null,
  "scene": "산더미처럼 쌓인 케이크를 보고 감탄하는 장면",
  "examples": [
   {

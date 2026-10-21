@@ -11,29 +11,30 @@
  "word": "crystal",
  "slug": "crystal",
  "url": "https://hibbangyong.com/words/crystal/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "수정(크리스탈) — 투명하게 반짝이는 단단한 광물 결정",
  "gloss_ko": "수정(크리스탈)",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 뾰족하고 투명하게 반짝이는 돌이 crystal이에요.",
   "박물관이나 보석 가게에서 이렇게 빛나는 것을 본 적이 있을 거예요."
  ],
+ "explanation_for_kids": null,
  "scene": "투명하게 반짝이는 육각기둥 수정(크리스탈) 원석 하나 — 뾰족한 결정면과 영롱한 빛 반사를 강조",
  "examples": [
   {
-   "en": "The clear crystal sparkled in the sunlight on the shelf.",
-   "ko": "선반 위 맑은 수정이 햇빛에 반짝반짝했어."
+   "en": "I bought a small crystal at the market on my trip.",
+   "ko": "여행 가서 시장에서 작은 수정을 하나 샀어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "생일에 받은 말랑말랑한 곰 인형이 침대 위에 놓여 있어. 이게 crystal이야?",
+   "question": "생일에 받은 말랑한 쿠션이 침대 위에 놓여 있어. 이게 crystal이야?",
    "choices": [
     "응, 맞아",
     "아니, 아니야"

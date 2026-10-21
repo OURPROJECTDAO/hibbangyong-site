@@ -11,20 +11,21 @@
  "word": "juvenile",
  "slug": "juvenile",
  "url": "https://hibbangyong.com/words/juvenile/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "청소년의 — 아직 어른이 안 된 사람에 관한 (법이나 뉴스에서 자주 써)",
  "gloss_ko": "청소년의",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "버스 요금, 영화 관람 등급, 법까지 세상은 아직 어른이 아닌 사람을 따로 나눠서 다뤄.",
   "juvenile은 그 '아직 어른이 안 된 쪽'에 붙는 말이야. 새끼 동물한테도 써.",
   "나쁜 애라는 뜻은 아니야. 뉴스에서 범죄 얘기랑 자주 붙어 나올 뿐이고, 원래는 그냥 나이 얘기야.",
   "근데 다 큰 어른한테 쓰면 '애같이 유치하다'는 핀잔이 돼. 젊어 보인다는 칭찬이랑은 전혀 달라."
  ],
+ "explanation_for_kids": null,
  "scene": "어른이 아닌 사람을 따로 나누는 버스 요금·영화 관람 등급·법",
  "examples": [
   {

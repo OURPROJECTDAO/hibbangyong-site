@@ -11,21 +11,27 @@
  "word": "previous",
  "slug": "previous",
  "url": "https://hibbangyong.com/words/previous/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "이전의 — 지금 것 바로 앞에 왔던",
  "gloss_ko": "이전의",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "카페 줄에서 주문한다고 해봐. 지금은 네 차례거든? 그럼 바로 네 앞에서 주문한 사람, 그 사람이 previous야.",
+  "아주 먼 옛날 거라는 뜻이 아니야. 방금 전이어도 돼. 중요한 건 '지금 것 바로 앞'이라는 자리야.",
+  "맨 처음 것도 아니야. 지금 것보다 딱 한 칸 전 거야.",
+  "책에서 한 장 넘기기 전 쪽도, 이번 주 말고 지난주도 똑같아. 그게 previous야."
+ ],
+ "explanation_for_kids": [
   "줄 서서 미끄럼틀 탄다고 해봐. 지금은 네 차례거든? 그럼 바로 네 앞에서 탄 애, 걔가 previous야.",
   "아주 먼 옛날 거라는 뜻이 아니야. 방금 전이어도 돼. 중요한 건 '지금 것 바로 앞'이라는 자리야.",
   "맨 처음 것도 아니야. 지금 것보다 딱 한 칸 전 거야.",
   "책에서 한 장 넘기기 전 쪽도, 이번 주 말고 지난주도 똑같아. 그게 previous야."
  ],
- "scene": "미끄럼틀 줄에서 내 바로 앞 차례에 탄 아이",
+ "scene": "카페 줄에서 내 바로 앞 차례에 주문한 사람",
  "examples": [
   {
    "en": "This game is more fun than the previous one.",
@@ -57,7 +63,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/previous.webp",
-  "alt": "미끄럼틀 줄에서 내 바로 앞 차례에 탄 아이",
+  "alt": "카페 줄에서 내 바로 앞 차례에 주문한 사람",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

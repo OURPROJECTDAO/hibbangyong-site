@@ -11,31 +11,37 @@
  "word": "asleep",
  "slug": "asleep",
  "url": "https://hibbangyong.com/words/asleep/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "잠들어 있는 — 자고 있는 상태인",
  "gloss_ko": "잠들어 있는",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "친구가 소파에서 영화 보고 있었거든?",
+  "그런데 조금 있다가 보니까 눈 감고 고개가 툭 떨어져 있어. 불러도 안 들려.",
+  "몸은 여기 있는데 둘레에서 무슨 일이 나는지 하나도 몰라. 깨워야 눈을 떠.",
+  "졸린 거랑은 달라. 졸린 사람은 아직 네 말 들리거든? 이건 이미 넘어간 거야. 그게 asleep이야."
+ ],
+ "explanation_for_kids": [
   "형이 소파에 앉아서 만화 보고 있었거든?",
   "그런데 조금 있다가 보니까 눈 감고 고개가 툭 떨어져 있어. 불러도 안 들려.",
   "몸은 여기 있는데 둘레에서 무슨 일이 나는지 하나도 몰라. 깨워야 눈을 떠.",
   "졸린 거랑은 달라. 졸린 애는 아직 네 말 들리거든? 이건 이미 넘어간 거야. 그게 asleep이야."
  ],
- "scene": "소파에서 만화 보다 고개가 툭 떨어진 형",
+ "scene": "소파에서 영화 보다 고개가 툭 떨어진 친구",
  "examples": [
   {
-   "en": "My little sister was asleep on the bus, so we did not talk.",
-   "ko": "동생이 버스에서 잠들어 있어서 우리는 말을 안 했어."
+   "en": "My friend was asleep on the bus, so I watched a video.",
+   "ko": "친구가 버스에서 잠들어 있어서 나는 영상을 봤어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "형이 식탁에서 시리얼을 떠먹으면서 창밖을 보고 있어. 우산 챙겨야 하냐고 물으니까 바로 대답하고 숟가락을 다시 든다. 이 형이 asleep이야?",
+   "question": "친구가 식탁에서 시리얼 떠먹으면서 창밖을 보고 있어. 우산 챙겨야 하냐고 물으니까 바로 대답하고 숟가락 다시 든다. 이 친구가 asleep이야?",
    "choices": [
     "응, asleep 맞아",
     "아니, asleep 아니야"
@@ -57,7 +63,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/asleep.webp",
-  "alt": "소파에서 만화 보다 고개가 툭 떨어진 형",
+  "alt": "소파에서 영화 보다 고개가 툭 떨어진 친구",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

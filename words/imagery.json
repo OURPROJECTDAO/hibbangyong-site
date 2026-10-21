@@ -11,20 +11,21 @@
  "word": "imagery",
  "slug": "imagery",
  "url": "https://hibbangyong.com/words/imagery/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "이미지(심상) — 글이나 그림, 영화가 머릿속에 장면이나 느낌을 떠올리게 하는 표현",
  "gloss_ko": "머릿속에 떠오르는 장면",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "국어 시간에 시를 읽는데 빗소리가 들리고 흙냄새까지 나는 것 같았어.",
   "글이든 그림이든 영화든, 작품이 이렇게 머릿속에 장면을 그려 주는 표현을 imagery라고 해.",
   "눈에 보이는 것만 들어가는 게 아니야. 소리, 냄새, 촉감도 다 들어가.",
   "네가 혼자 지어내는 상상이랑은 달라. 작품이 만들어서 너한테 건네주는 쪽이야."
  ],
+ "explanation_for_kids": null,
  "scene": "국어 시간에 시를 읽다가 빗소리와 흙냄새가 느껴진 장면",
  "examples": [
   {

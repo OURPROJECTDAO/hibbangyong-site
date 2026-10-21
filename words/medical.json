@@ -11,20 +11,21 @@
  "word": "medical",
  "slug": "medical",
  "url": "https://hibbangyong.com/words/medical/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "의료의(병 고치고 몸 돌보는 일에 관한) — 병을 고치고 아픈 몸을 돌보는 일(의사·병원·약·치료)에 관한 거야.",
  "gloss_ko": "병 고치는 일의",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "봐봐, 몸이 아파서 병원에 갔어. 의사 선생님이 살펴보고, 간호사가 약을 챙겨 줘.",
   "이렇게 아픈 사람을 고치고 돌보는 일 있잖아? 거기 관련된 거면 다 medical이야.",
   "꼭 병원 안이 아니어도 돼. 의사가 되려고 다니는 학교도 medical school이거든.",
   "그러니까 '병 고치고 몸 돌보는 일'에 붙는 말, 그게 medical이야."
  ],
+ "explanation_for_kids": null,
  "scene": "병원에서 의사가 진찰하고 간호사가 약을 챙겨 주는 장면",
  "examples": [
   {

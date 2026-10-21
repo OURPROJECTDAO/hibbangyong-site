@@ -11,21 +11,27 @@
  "word": "soon",
  "slug": "soon",
  "url": "https://hibbangyong.com/words/soon/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "곧 — 지금은 아닌데 조금만 있으면 바로.",
  "gloss_ko": "곧",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "친구가 '조금만 기다려, 곧 도착해!' 이랬어.",
+  "지금은 아직 아니야. 근데 오래 안 걸려.",
+  "조금만 있으면 바로 그 일이 벌어지는 거야.",
+  "빠르게 움직인다는 말이 아니라, 그때까지 시간이 얼마 안 남았다는 거야. 이게 soon이야."
+ ],
+ "explanation_for_kids": [
   "엄마가 '조금만 기다려, 곧 도착해!' 이랬어.",
   "지금은 아직 아니야. 근데 오래 안 걸려.",
   "조금만 있으면 바로 그 일이 벌어지는 거야.",
   "빠르게 움직인다는 말이 아니라, 그때까지 시간이 얼마 안 남았다는 거야. 이게 soon이야."
  ],
- "scene": "엄마가 곧 도착한다며 조금만 기다리라고 하는 장면",
+ "scene": "친구가 곧 도착한다며 조금만 기다리라고 하는 장면",
  "examples": [
   {
    "en": "Hurry up, the bus will be here soon!",
@@ -35,7 +41,7 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "동생이 냄비를 보면서 '물이 아직 안 끓네' 했어. 조금만 더 있으면 끓기 시작할 거야. 이게 'soon'이야?",
+   "question": "룸메이트가 냄비를 보면서 '물이 아직 안 끓네' 했어. 조금만 더 있으면 끓기 시작할 거야. 이게 'soon'이야?",
    "choices": [
     "응, soon 맞아",
     "아니, soon 아니야"
@@ -63,7 +69,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/soon.webp",
-  "alt": "엄마가 곧 도착한다며 조금만 기다리라고 하는 장면",
+  "alt": "친구가 곧 도착한다며 조금만 기다리라고 하는 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

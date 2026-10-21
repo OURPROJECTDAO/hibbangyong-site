@@ -11,21 +11,27 @@
  "word": "environment",
  "slug": "environment",
  "url": "https://hibbangyong.com/words/environment/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "환경 — 사람이나 동물이 살아가며 둘러싸여 있는 모든 것(사람·소리·물건·공기·물·땅)",
  "gloss_ko": "둘러싼 모든 것",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "똑같은 너인데, 시끄러운 카페에선 공부가 안 되고 조용한 방에선 술술 되지? 왜냐고? 너를 빙 둘러싼 게 달라서야.",
+  "사람, 소리, 물건, 공기, 물, 땅까지 전부 말이야. 좋을 수도 있고 나쁠 수도 있어.",
+  "물고기한텐 물속이 그래. 우리 모두한텐 지구의 공기랑 강물도 그렇고.",
+  "네 기분처럼 속에 있는 거 말고, 바깥에서 빙 둘러싸고 네가 사는 걸 바꿔 놓는 그 전부, 그게 environment야."
+ ],
+ "explanation_for_kids": [
   "똑같은 너인데, 와글와글 시끄러운 교실에선 숙제가 안 되고 조용한 방에선 술술 되지? 왜냐고? 너를 빙 둘러싼 게 달라서야.",
   "사람, 소리, 물건, 공기, 물, 땅까지 전부 말이야. 좋을 수도 있고 나쁠 수도 있어.",
   "물고기한텐 물속이 그래. 우리 모두한텐 지구의 공기랑 강물도 그렇고.",
   "네 기분처럼 속에 있는 거 말고, 바깥에서 빙 둘러싸고 네가 사는 걸 바꿔 놓는 그 전부, 그게 environment야."
  ],
- "scene": "시끄러운 교실과 조용한 방에서 숙제하기",
+ "scene": "시끄러운 카페와 조용한 방에서 공부하기",
  "examples": [
   {
    "en": "It is hard to study in a noisy environment.",
@@ -69,7 +75,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/environment.webp",
-  "alt": "시끄러운 교실과 조용한 방에서 숙제하기",
+  "alt": "시끄러운 카페와 조용한 방에서 공부하기",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

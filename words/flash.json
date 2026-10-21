@@ -11,25 +11,26 @@
  "word": "flash",
  "slug": "flash",
  "url": "https://hibbangyong.com/words/flash/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "번쩍 — 갑자기 아주 잠깐 확 하고 빛났다 사라지는 밝은 빛",
  "gloss_ko": "번쩍",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "캄캄한 밤에 하늘이 갑자기 번쩍! 했어.",
   "눈 깜빡할 새에 확 밝아졌다가, 바로 사라져 버려.",
   "계속 켜져 있는 전등이랑은 달라. 딱 한순간만 확 하고 끝이거든?",
   "그 짧고 밝은 빛 한 번, 그게 flash야."
  ],
+ "explanation_for_kids": null,
  "scene": "캄캄한 밤하늘이 갑자기 번쩍하는 장면",
  "examples": [
   {
-   "en": "A sudden flash lit up the dark room, and then it was gone.",
-   "ko": "갑자기 번쩍 빛이 어두운 방을 밝히더니 곧 사라졌어."
+   "en": "A flash of lightning lit up the sky on my way home.",
+   "ko": "집에 가는 길에 번개가 번쩍 하고 하늘을 밝혔어."
   }
  ],
  "quiz": [

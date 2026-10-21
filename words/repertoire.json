@@ -11,15 +11,21 @@
  "word": "repertoire",
  "slug": "repertoire",
  "url": "https://hibbangyong.com/words/repertoire/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "레퍼토리 — 한 사람이나 팀이 할 줄 알아서 언제든 꺼내 보일 수 있는 곡이나 재주 전부",
  "gloss_ko": "할 줄 아는 것 목록",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "노래방 가면 친구마다 부를 줄 아는 노래가 딱 정해져 있잖아.",
+  "그 노래들 전부, 언제든 꺼내 부를 수 있는 그 목록 전체가 repertoire야.",
+  "노래만 되는 게 아니야. 할 줄 아는 요리, 농구 기술, 팀장님의 아재개그 모음도 다 repertoire야.",
+  "오늘 고른 한 곡이나 아직 연습 중인 건 달라. 이미 몸에 익어서 언제든 꺼낼 수 있는 것만 들어가."
+ ],
+ "explanation_for_kids": [
   "노래방 가면 친구마다 부를 줄 아는 노래가 딱 정해져 있잖아.",
   "그 노래들 전부, 언제든 꺼내 부를 수 있는 그 목록 전체가 repertoire야.",
   "노래만 되는 게 아니야. 할 줄 아는 요리, 농구 기술, 아빠의 아재개그 모음도 다 repertoire야.",
@@ -28,8 +34,8 @@
  "scene": "노래방에서 친구마다 부를 줄 아는 노래 목록",
  "examples": [
   {
-   "en": "My little brother has only three jokes in his repertoire, and we've heard them all a hundred times.",
-   "ko": "내 남동생은 할 줄 아는 농담이 딱 세 개뿐이라, 우리 다 백 번은 들었어."
+   "en": "My coworker has only three jokes in his repertoire, and I know them all.",
+   "ko": "내 동료는 할 줄 아는 농담이 딱 세 개뿐이라, 난 이제 다 외웠어."
   }
  ],
  "quiz": [

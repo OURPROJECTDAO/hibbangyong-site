@@ -11,31 +11,37 @@
  "word": "democracy",
  "slug": "democracy",
  "url": "https://hibbangyong.com/words/democracy/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "다 같이 정하기 — 왕이나 대장 한 명이 아니라, 모두가 똑같이 한 표씩 갖고 함께 정하는 것 (민주주의)",
  "gloss_ko": "다 같이 정하기",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "우리 동아리가 여행 어디 갈지 정할 때, 회장 혼자 딱 정하지 않고 다 같이 손 들어 투표했지?",
+  "한 사람 한 사람 다 똑같이 한 표씩 가지고, 더 많은 쪽으로 정했잖아.",
+  "왕이나 대장 한 명이 자기 맘대로 정하는 게 아니라, 여기 모두가 같이 정하는 거야.",
+  "그게 democracy야."
+ ],
+ "explanation_for_kids": [
   "우리 반이 소풍 어디 갈지 정할 때, 선생님 혼자 딱 정하지 않고 다 같이 손 들어 투표했지?",
   "한 사람 한 사람 다 똑같이 한 표씩 가지고, 더 많은 쪽으로 정했잖아.",
   "왕이나 대장 한 명이 자기 맘대로 정하는 게 아니라, 여기 모두가 같이 정하는 거야.",
   "그게 democracy야."
  ],
- "scene": "반 소풍 장소를 다 같이 손 들어 투표로 정하는 장면",
+ "scene": "동아리 여행 장소를 다 같이 손 들어 투표로 정하는 장면",
  "examples": [
   {
-   "en": "Our class runs on democracy, so no single person gets to decide everything for us.",
-   "ko": "우리 반은 democracy로 굴러가서, 어느 한 사람이 다 정해버릴 수는 없어."
+   "en": "Our student club runs on democracy, so we vote on every big decision.",
+   "ko": "우리 동아리는 민주주의로 굴러가서 큰 결정은 다 투표로 정해."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "아파트 놀이터에 새 미끄럼틀을 무슨 색으로 칠할지, 거기 사는 사람들이 다 모여서 각자 한 표씩 내고 표가 더 많은 색으로 정했어. 이게 'democracy'야?",
+   "question": "아파트 새 벤치를 무슨 색으로 칠할지, 거기 사는 사람들이 다 모여서 각자 한 표씩 내고 표가 더 많은 색으로 정했어. 이게 'democracy'야?",
    "choices": [
     "응, democracy 맞아",
     "아니, democracy 아니야"
@@ -57,7 +63,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/democracy.webp",
-  "alt": "반 소풍 장소를 다 같이 손 들어 투표로 정하는 장면",
+  "alt": "동아리 여행 장소를 다 같이 손 들어 투표로 정하는 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

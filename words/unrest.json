@@ -11,25 +11,26 @@
  "word": "unrest",
  "slug": "unrest",
  "url": "https://hibbangyong.com/words/unrest/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "(사회) 불안 — 불만을 품은 많은 사람이 항의하면서 나라나 단체가 조용해지지 않고 들썩이는 상태",
  "gloss_ko": "사회 불안",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "물가가 너무 오르거나 사람들이 싫어하는 법이 생기면 불만이 쌓여.",
   "그 불만이 한두 명이 아니라 많은 사람한테 번져. 곳곳에서 모이고 항의하고, 분위기가 한동안 가라앉질 않아.",
   "조용한 항의로 이어질 때도 있고 거리에서 부딪칠 때도 있어. 둘 다 unrest야.",
   "축제처럼 신나서 들썩이는 것도 아니고 내 마음이 불안한 것도 아니야. un(못)+rest(쉼), 불만 때문에 쉬지 못하는 사회라고 기억해."
  ],
+ "explanation_for_kids": null,
  "scene": "물가 상승이나 사람들이 싫어하는 새 법 때문에 불만이 쌓여 곳곳에서 항의하는 나라",
  "examples": [
   {
-   "en": "Nobody was fighting in the streets, but the unrest in the country kept growing as prices went up.",
-   "ko": "길에서 싸우는 사람은 없었지만, 물가가 오르면서 나라 안의 술렁임은 점점 커졌어."
+   "en": "There was unrest in the city after the new tax was announced.",
+   "ko": "새 세금이 발표되고 나서 도시가 들썩였어."
   }
  ],
  "quiz": [

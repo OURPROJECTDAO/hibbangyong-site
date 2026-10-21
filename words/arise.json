@@ -11,38 +11,39 @@
  "word": "arise",
  "slug": "arise",
  "url": "https://hibbangyong.com/words/arise/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "생겨나다 — 없던 문제나 궁금한 게 저절로 짠 하고 새로 나타나다",
  "gloss_ko": "생겨나다",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "잘 놀고 있었는데, 없던 게 갑자기 툭 나타났어.",
   "누가 만든 것도 아닌데 저절로 생긴 거야.",
   "좋은 것도(웬 기회!) 나쁜 것도(웬 문제!) 이렇게 불쑥 나와.",
   "이렇게 없다가 짠 하고 생겨나는 게 arise야."
  ],
+ "explanation_for_kids": null,
  "scene": "놀다가 없던 게 툭 나타난 상황",
  "examples": [
   {
-   "en": "A funny question arose in my mind during class.",
-   "ko": "수업 시간에 웃긴 궁금증이 하나 떠올랐어."
+   "en": "Funny questions always arise during this class.",
+   "ko": "이 수업 시간엔 늘 웃긴 궁금증이 생겨."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "소풍 가방을 뒤지다가, 어제 엄마가 넣어둔 사탕이 가방 바닥에서 눈에 딱 띄었어. 이런 경우도 'arise'야?",
+   "question": "여행 가방을 뒤지다가, 어제 넣어둔 간식이 가방 바닥에서 눈에 딱 띄었어. 이런 경우도 'arise'야?",
    "choices": [
     "응, 'arise' 맞아.",
     "아니, 'arise' 아니야."
    ],
    "answer_index": 1,
    "answer": "아니, 'arise' 아니야.",
-   "why": "맞아! 그 사탕은 어제부터 이미 가방 안에 있었잖아. 없다가 새로 생긴 게 아니라 그냥 네 눈에 이제 보인 거라서, arise가 아닌 게 맞아."
+   "why": "맞아! 그 간식은 어제부터 이미 가방 안에 있었잖아. 없다가 새로 생긴 게 아니라 그냥 네 눈에 이제 보인 거라서, arise가 아닌 게 맞아."
   }
  ],
  "synonyms": [

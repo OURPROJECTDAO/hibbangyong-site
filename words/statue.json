@@ -11,19 +11,20 @@
  "word": "statue",
  "slug": "statue",
  "url": "https://hibbangyong.com/words/statue/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "동상 — 사람이나 동물 모습을 돌이나 금속으로 크게 만들어 세워 둔 것",
  "gloss_ko": "동상",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "받침대 위에 서 있는 이 조각상이 statue예요. 돌이나 청동 같은 단단한 재료로 사람 모습을 본떠 만들었어요.",
   "공원이나 광장에서 오래전 훌륭했던 사람을 잊지 않으려고 세워 둔 걸 본 적 있을 거예요."
  ],
- "scene": "받침대 위에 서 있는 청동 인물 조각상(동상) 한 점 — 공원의 최소 맥락. statue=동상을 그림.",
+ "explanation_for_kids": null,
+ "scene": "받침대 위에 서 있는 청동 인물 조각상(동상) 한 점",
  "examples": [
   {
    "en": "We saw a tall bronze statue in the middle of the park.",
@@ -56,7 +57,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/statue.webp",
-  "alt": "받침대 위에 서 있는 청동 인물 조각상(동상) 한 점 — 공원의 최소 맥락. statue=동상을 그림.",
+  "alt": "받침대 위에 서 있는 청동 인물 조각상(동상) 한 점",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

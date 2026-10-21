@@ -11,29 +11,30 @@
  "word": "gear",
  "slug": "gear",
  "url": "https://hibbangyong.com/words/gear/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "톱니바퀴 — 가장자리의 이가 맞물려 돌면서 힘을 전달하는 둥근 바퀴",
  "gloss_ko": "톱니바퀴",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 은빛 바퀴가 gear예요. 가장자리에 뾰족한 이가 빙 둘러 나 있어요.",
   "자전거나 시계 안에서 이런 gear들이 서로 맞물려 돌면서 움직임을 만들어 내요."
  ],
- "scene": "가장 친숙한 의미 '톱니바퀴' — 은빛 금속 톱니바퀴 한 개를 정면에서 크게, 톱니와 가운데 구멍이 다 보이게 그림",
+ "explanation_for_kids": null,
+ "scene": "가장 친숙한 의미 '톱니바퀴'",
  "examples": [
   {
-   "en": "The clock stopped because one small gear inside it was broken.",
-   "ko": "안에 있던 작은 톱니바퀴 하나가 망가져서 시계가 멈췄어."
+   "en": "The repair shop said one tiny gear in my watch was broken.",
+   "ko": "수리점에서 내 시계 안에 있는 작은 톱니바퀴 하나가 망가졌대."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "동생이 매끈하고 둥근 고무공을 손으로 굴리며 놀고 있어요. 이게 gear야?",
+   "question": "친구가 매끈하고 둥근 고무공을 손으로 굴리고 있어. 이게 gear야?",
    "choices": [
     "응, 맞아",
     "아니, 아니야"
@@ -53,7 +54,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/gear.webp",
-  "alt": "가장 친숙한 의미 '톱니바퀴' — 은빛 금속 톱니바퀴 한 개를 정면에서 크게, 톱니와 가운데 구멍이 다 보이게 그림",
+  "alt": "가장 친숙한 의미 '톱니바퀴'",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

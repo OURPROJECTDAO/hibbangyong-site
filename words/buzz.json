@@ -11,38 +11,39 @@
  "word": "buzz",
  "slug": "buzz",
  "url": "https://hibbangyong.com/words/buzz/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "윙윙— 떨리듯 끊기지 않고 쭉 이어지는 소리를 내다(벌·기계가 내든, 사람들이 모여 웅성대든)",
  "gloss_ko": "윙윙",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "귓가에서 윙~ 하고 떨리는 소리, 들어봤지?",
   "벌이 옆에서 날 때도, 전화기가 부르르 떨릴 때도, 사람들이 우르르 모여 떠들 때도 그 소리가 나거든.",
   "'뎅!' 하고 한 번 울리고 끝이 아니야. 떨리듯이 윙— 끊기지 않고 쭉 이어져.",
   "벌 한 마리든 사람 백 명이든 똑같아. 떨리며 쉬지 않고 이어지는 그 웅성거림, 이게 buzz야."
  ],
+ "explanation_for_kids": null,
  "scene": "벌·전화기·모인 사람들이 떨리듯 끊김없이 내는 윙윙·웅성 소리.",
  "examples": [
   {
-   "en": "A fat bee buzzed around me while I sat in the garden.",
-   "ko": "정원에 앉아 있는데 통통한 벌이 윙윙거리며 내 주위를 맴돌았어."
+   "en": "My phone started to buzz during the meeting.",
+   "ko": "회의 중에 내 휴대폰이 윙윙 울리기 시작했어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "눈 내린 새벽 빈 운동장이 아무 기척도 없이 쥐 죽은 듯 고요해. 이게 'buzz'야?",
+   "question": "눈 내린 새벽 빈 공원이 아무 기척도 없이 쥐 죽은 듯 고요해. 이게 'buzz'야?",
    "choices": [
     "응, buzz야",
     "아니, buzz 아니야"
    ],
    "answer_index": 1,
    "answer": "아니, buzz 아니야",
-   "why": "맞아! buzz는 윙— 떨리며 끊기지 않고 이어지는 소리인데, 눈 내린 새벽 운동장은 쥐 죽은 듯 아무 소리도 안 나잖아. 소리가 아예 없으니까 buzz가 아닌 게 딱 맞아!"
+   "why": "맞아! buzz는 윙— 떨리며 끊기지 않고 이어지는 소리인데, 눈 내린 새벽 공원은 쥐 죽은 듯 아무 소리도 안 나잖아. 소리가 아예 없으니까 buzz가 아닌 게 딱 맞아!"
   }
  ],
  "synonyms": [],

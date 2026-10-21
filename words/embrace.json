@@ -11,38 +11,44 @@
  "word": "embrace",
  "slug": "embrace",
  "url": "https://hibbangyong.com/words/embrace/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "포옹 — 두 팔로 누군가의 몸을 감싸서 품에 꼭 안는 것",
  "gloss_ko": "품에 꼭 안는 포옹",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "오랜만에 만난 친구가 두 팔로 너를 꼭 감싸 안을 때 있잖아. 품에 안기게 돼.",
+  "반가울 때만 그러는 게 아니야. 헤어질 때도, 우는 친구를 달랠 때도, 사랑한다고 말할 때도 이렇게 안아.",
+  "팔짱 끼기나 어깨동무는 달라. 팔이 닿긴 해도 몸을 통째로 감싸 안지는 않거든.",
+  "그게 embrace야."
+ ],
+ "explanation_for_kids": [
   "할머니가 오시면 두 팔로 너를 꼬옥 감싸 안으시지? 품 안에 쏙 들어가잖아.",
   "반가울 때만 그러는 게 아니야. 헤어질 때도, 우는 친구를 달랠 때도, 사랑한다고 말할 때도 이렇게 안아.",
   "팔짱 끼기나 어깨동무는 달라. 팔이 닿긴 해도 몸을 통째로 감싸 안지는 않거든.",
   "그게 embrace야."
  ],
- "scene": "할머니가 오셔서 두 팔로 꼭 안아 주심",
+ "scene": "오랜만에 만난 친구가 두 팔로 꼭 안아 줌",
  "examples": [
   {
-   "en": "Grandma gave me a warm embrace at the door.",
-   "ko": "할머니가 문 앞에서 나를 따뜻하게 꼭 안아 주셨어."
+   "en": "My friend gave me a warm embrace at the airport.",
+   "ko": "친구가 공항에서 나를 따뜻하게 꼭 안아 줬어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "수영장에서 막 나온 동생이 추워서 덜덜 떨었어. 엄마가 두 팔로 동생 몸을 통째로 감싸서 품에 꼭 안았어. 이게 'embrace'야?",
+   "question": "수영장에서 막 나온 친구가 추워서 덜덜 떨었어. 룸메이트가 두 팔로 친구 몸을 통째로 감싸서 품에 꼭 안았어. 이게 'embrace'야?",
    "choices": [
     "응, embrace 맞아",
     "아니, embrace 아니야"
    ],
    "answer_index": 0,
    "answer": "응, embrace 맞아",
-   "why": "맞아! 엄마가 두 팔로 동생 몸을 통째로 감싸서 품에 꼭 안았잖아. 바로 그렇게 온몸을 감싸 안는 게 embrace인 거야."
+   "why": "맞아! 룸메이트가 두 팔로 친구 몸을 통째로 감싸서 품에 꼭 안았잖아. 바로 그렇게 온몸을 감싸 안는 게 embrace인 거야."
   }
  ],
  "synonyms": [],
@@ -55,7 +61,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/embrace.webp",
-  "alt": "할머니가 오셔서 두 팔로 꼭 안아 주심",
+  "alt": "오랜만에 만난 친구가 두 팔로 꼭 안아 줌",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

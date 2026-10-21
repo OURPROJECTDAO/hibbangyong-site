@@ -11,23 +11,24 @@
  "word": "helicopter",
  "slug": "helicopter",
  "url": "https://hibbangyong.com/words/helicopter/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "헬리콥터 — 큰 날개를 빙빙 돌려 하늘로 곧장 떠오르는 탈것",
  "gloss_ko": "헬리콥터",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속에서 머리 위 커다란 날개가 빙글빙글 돌며 하늘을 나는 저것이 helicopter예요.",
   "뉴스에서 다친 사람을 병원으로 실어 나르거나, 하늘 위를 낮게 도는 모습으로 볼 수 있어요."
  ],
+ "explanation_for_kids": null,
  "scene": "하늘을 나는 전형적인 빨간 헬리콥터 한 대(위쪽 큰 회전 날개+꼬리 회전 날개, 유리 조종석), 옆모습 전신이 화면 중앙에 크게",
  "examples": [
   {
-   "en": "The helicopter flew high above the tall buildings.",
-   "ko": "헬리콥터가 높은 건물들 위로 높이 날았어."
+   "en": "A helicopter flew right over my office this morning.",
+   "ko": "오늘 아침에 헬리콥터 한 대가 우리 회사 바로 위로 날아갔어."
   }
  ],
  "quiz": [

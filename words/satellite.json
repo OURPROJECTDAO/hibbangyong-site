@@ -11,18 +11,19 @@
  "word": "satellite",
  "slug": "satellite",
  "url": "https://hibbangyong.com/words/satellite/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "인공위성 — 지구 둘레를 돌며 신호를 주고받는 우주 기계",
  "gloss_ko": "인공위성",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "태양광 날개를 펼치고 우주에 떠 있는 저 기계가 satellite이에요.",
   "TV 방송이나 지도 길찾기, 날씨 예보가 이 위성을 거쳐 우리에게 와요."
  ],
+ "explanation_for_kids": null,
  "scene": "우주 공간에 떠 있는 인공위성 한 대(금색 본체+양옆 파란 태양광 패널 날개+접시 안테나), 아래로 지구가 살짝 보이는 의미로 그림",
  "examples": [
   {

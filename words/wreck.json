@@ -11,25 +11,26 @@
  "word": "wreck",
  "slug": "wreck",
  "url": "https://hibbangyong.com/words/wreck/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "사고로 확 부서져 이제 못 쓰게 된 차나 배 — 그 부서진 덩어리, 또 그렇게 부서진 그 사고",
  "gloss_ko": "사고로 부서진 차나 배",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "길가에 차 한 대가 앞이 팍 찌그러진 채 널브러져 있어. 유리는 깨지고 바퀴는 빠졌고.",
   "고쳐서 타는 게 아니라 이제 그냥 부서진 쇳덩이야. 그 쇳덩이도 wreck, 그렇게 콰당 부서진 그 사고도 wreck이라고 해.",
   "차만 그런 게 아니야. 바다 밑에 가라앉은 배도, 떨어진 비행기도 똑같이 불러.",
   "배터리 나가서 안 가는 차랑은 달라. 그건 고치면 되거든? 이게 wreck이야."
  ],
+ "explanation_for_kids": null,
  "scene": "트럭에 받혀 앞이 찌그러지고 유리가 깨진 채 길가에 널브러진 차",
  "examples": [
   {
-   "en": "Divers found an old wreck deep under the sea.",
-   "ko": "잠수부들이 바다 깊은 곳에서 오래전에 부서진 배를 찾아냈어."
+   "en": "We saw an old wreck on the beach during our trip.",
+   "ko": "여행 중에 해변에서 오래된 난파선을 봤어."
   }
  ],
  "quiz": [

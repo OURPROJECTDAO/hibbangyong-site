@@ -11,25 +11,26 @@
  "word": "malaria",
  "slug": "malaria",
  "url": "https://hibbangyong.com/words/malaria/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "말라리아 — 특정한 모기에게 물려서 걸리는 병. 열이 크게 오르고 몸이 떨리며, 더운 나라에 많아",
  "gloss_ko": "말라리아",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "여름밤에 모기한테 물리면 보통은 좀 가렵다가 끝나지.",
   "그런데 어떤 모기는 물 때 아주 작은 병균을 몸속에 넣어. 며칠 뒤에 열이 확 오르고 온몸이 덜덜 떨려.",
   "이 병이 malaria야. 더운 나라에 특히 많고, 약으로 치료해.",
   "모기 자체나 물린 자리가 가려운 거랑은 달라. 모기가 옮기는 병의 이름이야."
  ],
+ "explanation_for_kids": null,
  "scene": "여름밤에 모기에 물린 뒤 며칠 있다가 열이 나고 몸이 떨리는 장면",
  "examples": [
   {
-   "en": "My uncle got malaria after a trip to Africa.",
-   "ko": "삼촌이 아프리카 여행을 다녀와서 말라리아에 걸렸어."
+   "en": "My friend got malaria after a trip to Africa.",
+   "ko": "친구가 아프리카 여행을 다녀와서 말라리아에 걸렸어."
   }
  ],
  "quiz": [

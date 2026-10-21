@@ -11,15 +11,21 @@
  "word": "dozen",
  "slug": "dozen",
  "url": "https://hibbangyong.com/words/dozen/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "열두 개 한 묶음 — 열두 개 묶음",
  "gloss_ko": "열두 개 묶음",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "빵집에서 손님이 그러거든? \"도넛 한 판 주세요.\" 그럼 직원이 바로 담아. 하나 둘 셋... 열둘. 딱 열둘!",
+  "왜 열둘이냐고? 그냥 옛날부터 사람들이 열둘씩 묶어 팔았거든. 계란도 열두 알, 연필도 열두 자루.",
+  "많다는 말이 아니야. 한 무더기라는 말도 아니야. 세면 정확히 열둘. 열하나면 안 돼. 열셋도 안 돼.",
+  "그게 dozen이야."
+ ],
+ "explanation_for_kids": [
   "빵집에서 아빠가 그러거든? \"도넛 한 판 주세요.\" 그럼 아저씨가 척 담아. 하나 둘 셋... 열둘. 딱 열둘!",
   "왜 열둘이냐고? 그냥 옛날부터 사람들이 열둘씩 묶어 팔았거든. 계란도 열두 알, 연필도 열두 자루.",
   "많다는 말이 아니야. 한 무더기라는 말도 아니야. 세면 정확히 열둘. 열하나면 안 돼. 열셋도 안 돼.",
@@ -28,14 +34,14 @@
  "scene": "빵집에서 도넛 열두 개를 담아 주는 장면",
  "examples": [
   {
-   "en": "Mom bought a dozen eggs, but three of them were cracked.",
-   "ko": "엄마가 계란 열두 알을 샀는데 그중 세 개가 금이 가 있었어."
+   "en": "I bought a dozen eggs, but three of them were cracked.",
+   "ko": "계란 열두 알을 샀는데 그중 세 개가 금이 가 있었어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "문구점에서 형이 지우개를 한 통 샀어. 통을 열어 세어 보니 지우개가 열두 개 들어 있었어. 이 지우개 묶음이 'a dozen'이야?",
+   "question": "마트에서 친구가 볼펜을 한 통 샀어. 통을 열어 세어 보니 볼펜이 열두 개 들어 있었어. 이 볼펜 묶음이 'a dozen'이야?",
    "choices": [
     "응, a dozen 맞아",
     "아니, a dozen 아니야"

@@ -11,25 +11,26 @@
  "word": "health",
  "slug": "health",
  "url": "https://hibbangyong.com/words/health/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "건강 — 몸(과 마음)이 얼마나 튼튼하고 잘 돌아가는지, 그 상태",
  "gloss_ko": "건강",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "밥 잘 먹고 푹 자고 나면 몸이 가뿐하지? 어디 쑤시는 데도 없고.",
   "그렇게 몸이 잘 돌아가는지 아닌지, 그 상태를 말하는 거야.",
   "좋을 수도 나쁠 수도 있어 — 아프면 안 좋은 거고, 나으면 좋아지는 거지.",
   "꼭 몸만도 아니야, 마음이 편하고 씩씩한지도 health에 들어가. 그게 health야."
  ],
+ "explanation_for_kids": null,
  "scene": "잘 자고 잘 먹어 몸이 가뿐하고 안 아픈 상태",
  "examples": [
   {
-   "en": "The doctor said my health is getting better.",
-   "ko": "의사 선생님이 내 건강이 점점 좋아지고 있대."
+   "en": "Working out at the gym is good for my health.",
+   "ko": "헬스장에서 운동하는 게 내 건강에 좋아."
   }
  ],
  "quiz": [

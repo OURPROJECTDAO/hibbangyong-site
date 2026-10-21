@@ -11,25 +11,26 @@
  "word": "ghost",
  "slug": "ghost",
  "url": "https://hibbangyong.com/words/ghost/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "귀신·유령 — 죽은 사람이 몸 없이 나타난다는 것, 보여도 만질 수 없어.",
  "gloss_ko": "귀신·유령",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "밤에 하얗고 흐릿한 게 공중에 스윽 떠다녀. 잡으려고 손을 뻗으면? 그냥 쑥 지나가 버려, 몸이 없거든.",
   "죽은 사람이 사라지지 않고 저렇게 나타난다는 거야.",
   "무섭게 생겼든 안 생겼든, 붙잡히지 않는다는 게 핵심이야. 몸뚱이 있는 괴물이랑은 달라.",
   "그게 ghost야."
  ],
+ "explanation_for_kids": null,
  "scene": "밤에 하얗고 흐릿한 게 공중에 떠다니고 손이 쑥 지나가는 앵커 장면",
  "examples": [
   {
-   "en": "At night, a ghost floated through the wall, and my hand went right through it.",
-   "ko": "밤에 귀신이 벽을 뚫고 떠다녔는데 내 손이 그냥 쑥 지나갔어."
+   "en": "My roommate says she saw a ghost in our old apartment.",
+   "ko": "룸메이트가 우리 옛날 아파트에서 귀신을 봤대."
   }
  ],
  "quiz": [

@@ -11,21 +11,27 @@
  "word": "appalling",
  "slug": "appalling",
  "url": "https://hibbangyong.com/words/appalling/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "끔찍한 — 너무 나빠서 기가 막히고 어이없을 정도인",
  "gloss_ko": "끔찍하게 나쁜",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "여행 숙소 문을 열었더니 이불엔 얼룩이 있고 화장실엔 곰팡이가 있었어.",
+  "무섭지는 않아. 그냥 너무 나빠서 '이게 말이 돼?' 소리가 나오는 거야.",
+  "못 알아볼 만큼 엉망인 글씨도, 잔인한 사건 뉴스도 선을 한참 넘게 나쁘면 다 이 말을 써.",
+  "좀 별로인 정도엔 안 쓰고, 소름 끼치게 무서운 것하고도 달라."
+ ],
+ "explanation_for_kids": [
   "수학여행 숙소 문을 열었더니 이불엔 얼룩이 있고 화장실엔 곰팡이가 있었어.",
   "무섭지는 않아. 그냥 너무 나빠서 '이게 말이 돼?' 소리가 나오는 거야.",
   "못 알아볼 만큼 엉망인 글씨도, 잔인한 사건 뉴스도 선을 한참 넘게 나쁘면 다 이 말을 써.",
   "좀 별로인 정도엔 안 쓰고, 소름 끼치게 무서운 것하고도 달라."
  ],
- "scene": "수학여행 숙소의 얼룩진 이불과 곰팡이 핀 화장실",
+ "scene": "여행 숙소의 얼룩진 이불과 곰팡이 핀 화장실",
  "examples": [
   {
    "en": "The hotel room was appalling — the sheets were dirty and the shower didn't work.",
@@ -61,7 +67,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/appalling.webp",
-  "alt": "수학여행 숙소의 얼룩진 이불과 곰팡이 핀 화장실",
+  "alt": "여행 숙소의 얼룩진 이불과 곰팡이 핀 화장실",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

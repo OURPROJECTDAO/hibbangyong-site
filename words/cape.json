@@ -11,23 +11,24 @@
  "word": "cape",
  "slug": "cape",
  "url": "https://hibbangyong.com/words/cape/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "망토 — 어깨에 걸쳐 등 뒤로 늘어뜨리는, 소매 없는 겉옷",
  "gloss_ko": "망토",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "cape는 그림 속 슈퍼히어로가 어깨에 두른, 등 뒤로 펄럭이는 새빨간 천이에요.",
   "슈퍼히어로 놀이를 할 때 어깨에 두르고 달리면 뒤에서 바람에 펄럭이는 바로 그것이에요."
  ],
+ "explanation_for_kids": null,
  "scene": "어깨 부분에 여밈 단추가 달린, 바람에 부드럽게 펄럭이는 새빨간 슈퍼히어로 망토 한 장 (cape=망토)",
  "examples": [
   {
-   "en": "The hero jumped, and his red cape flew in the wind.",
-   "ko": "영웅이 뛰어오르자 빨간 망토가 바람에 펄럭였어."
+   "en": "I wore a red cape to my friend's costume party.",
+   "ko": "친구네 분장 파티에 빨간 망토를 걸치고 갔어."
   }
  ],
  "quiz": [

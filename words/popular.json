@@ -11,38 +11,39 @@
  "word": "popular",
  "slug": "popular",
  "url": "https://hibbangyong.com/words/popular/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "많은 사람이 좋아하는 — 잘나서가 아니라 좋아해 주는 사람 수가 많아서",
  "gloss_ko": "많은 사람이 좋아하는",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "급식에 카레 나오는 날, 줄이 제일 길어. 카레가 세상에서 제일 맛있어서냐고? 아니야. 그냥 좋아하는 애들이 많아서 그래.",
   "다들 이름만 아는 거랑은 달라. 맨날 짖는 옆집 개, 동네 사람이 다 알아도 좋아하진 않잖아. 그건 아니야.",
   "잘난 것만 되는 것도 아니야. 반에서 다 따라 하는 웃긴 손장난, 선생님은 질색해도 애들이 좋아하면 되거든.",
   "좋아해 주는 사람 수가 많다, 딱 그거야. 그게 popular야."
  ],
+ "explanation_for_kids": null,
  "scene": "급식에 카레 나오는 날 줄이 제일 긴 장면",
  "examples": [
   {
-   "en": "That silly hand game is popular in my class, even though our teacher hates it.",
-   "ko": "선생님은 싫어하시지만 그 엉뚱한 손놀이가 우리 반에서 인기야."
+   "en": "That café near campus is really popular with students.",
+   "ko": "캠퍼스 근처 그 카페는 학생들한테 정말 인기 많아."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "놀이터에 그네랑 시소가 나란히 있어. 아이들이 매일 그네 쪽에만 줄을 서서 차례를 기다려. 시소는 비어 있고. 그네는 popular한 거야?",
+   "question": "헬스장에 러닝머신이랑 사이클이 있어. 사람들이 매일 러닝머신에만 줄을 서서 기다려. 사이클은 비어 있고. 러닝머신은 popular한 거야?",
    "choices": [
     "응, popular 맞아",
     "아니, popular 아니야"
    ],
    "answer_index": 0,
    "answer": "응, popular 맞아",
-   "why": "맞아! 그네 쪽에만 매일 줄이 길게 서 있다는 건 좋아하는 애들이 그만큼 많다는 뜻이거든. 그네가 시소보다 잘난 놀이기구라서가 아니라, 좋아해 주는 사람 수가 많아서 popular인 거야."
+   "why": "맞아! 러닝머신 쪽에만 매일 줄이 길게 서 있다는 건 좋아하는 사람이 그만큼 많다는 뜻이거든. 러닝머신이 사이클보다 잘난 기구라서가 아니라, 좋아해 주는 사람 수가 많아서 popular인 거야."
   }
  ],
  "synonyms": [],

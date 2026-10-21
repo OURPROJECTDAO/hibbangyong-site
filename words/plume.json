@@ -11,25 +11,26 @@
  "word": "plume",
  "slug": "plume",
  "url": "https://hibbangyong.com/words/plume/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "(연기·김·먼지 등의) 기둥 — 한 곳에서 나와 길게 피어오르며 퍼지는 줄기",
  "gloss_ko": "피어오르는 줄기",
  "level": {
   "code": "L9",
-  "name": "토플 114~120점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "라면 물 끓을 때 냄비에서 김이 한 줄기로 쭉 올라가지?",
   "한 곳에서 나와서 위로 길게 피어오르며 퍼지는 그 줄기, 그게 plume이야.",
   "연기든 김이든 흙먼지든 화산재든 다 돼. 불이 나야만 쓰는 말이 아니야.",
   "방 안에 고르게 깔린 안개처럼 시작점도 줄기도 없으면 plume이라고 안 해."
  ],
+ "explanation_for_kids": null,
  "scene": "라면 끓는 냄비에서 한 줄기로 올라가는 김",
  "examples": [
   {
-   "en": "A plume of steam rose from the pot of ramen.",
-   "ko": "라면 냄비에서 김이 한 줄기로 쭉 피어올랐어."
+   "en": "A plume of steam rose from my hot coffee.",
+   "ko": "뜨거운 커피에서 김이 한 줄기 피어올랐어."
   }
  ],
  "quiz": [

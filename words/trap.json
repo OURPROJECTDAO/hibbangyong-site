@@ -11,25 +11,26 @@
  "word": "trap",
  "slug": "trap",
  "url": "https://hibbangyong.com/words/trap/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "덫 — 한번 들어가면 빠져나올 수 없는 것(장치든, 그렇게 돼버린 상황이든)",
  "gloss_ko": "덫",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "벽이 매끈매끈한 깊은 통이 있다고 해봐. 들어가긴 쉬워. 툭 떨어지면 되니까.",
   "그런데 나오려고 하면? 벽이 미끄러워서 자꾸 주르륵. 못 올라와.",
   "누가 잡으려고 일부러 놓은 것도 이거고(쥐덫처럼), 그냥 어쩌다 그렇게 돼버린 것도 이거야. 문이 뒤에서 철컥 잠겨버린 방도, 대답하면 딱 걸리게 짜인 질문도.",
   "그냥 막아선 벽이랑은 달라. 벽은 들어가기도 전에 막는 거고, 이건 들어간 다음에 못 나오는 거거든. 그게 trap이야."
  ],
+ "explanation_for_kids": null,
  "scene": "벽이 미끄러운 깊은 통",
  "examples": [
   {
-   "en": "The room turned into a trap when the door locked behind us.",
-   "ko": "뒤에서 문이 잠기는 순간 그 방은 덫이 돼 버렸어."
+   "en": "We set a trap for the mouse in the kitchen.",
+   "ko": "부엌에 쥐 잡으려고 덫을 놨어."
   }
  ],
  "quiz": [

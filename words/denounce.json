@@ -11,25 +11,31 @@
  "word": "denounce",
  "slug": "denounce",
  "url": "https://hibbangyong.com/words/denounce/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "비난하다 — 어떤 사람이나 일을 잘못됐다고 공개적으로 세게 말하다(말로도, 글로도)",
  "gloss_ko": "대놓고 비난하다",
  "level": {
   "code": "L9",
-  "name": "토플 114~120점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "단톡방에서 동료를 놀린 일이 퍼졌어. 팀장님이 아침 회의 때 팀 전체 앞에서 이건 절대 해선 안 될 짓이라고 딱 잘랐어.",
+  "꼭 입으로만 하는 건 아니야. 신문에 쓴 글이나 발표문으로도 해. 대상도 사람일 수 있고, 어떤 행동이나 생각일 수도 있어.",
+  "뒤에서 투덜대는 거나 고칠 점을 조곤조곤 짚어 주는 거랑은 달라. 다들 알도록 드러내 놓고 세게 잘못이라고 하는 거야.",
+  "말하는 쪽이 늘 옳은 것도 아니야. 옛날엔 맞는 말을 한 과학자도 이렇게 비난받았거든."
+ ],
+ "explanation_for_kids": [
   "단톡방에서 친구를 놀린 일이 퍼졌어. 담임쌤이 조회 시간에 반 전체 앞에서 이건 절대 해선 안 될 짓이라고 딱 잘랐어.",
   "꼭 입으로만 하는 건 아니야. 신문에 쓴 글이나 발표문으로도 해. 대상도 사람일 수 있고, 어떤 행동이나 생각일 수도 있어.",
   "뒤에서 투덜대는 거나 고칠 점을 조곤조곤 짚어 주는 거랑은 달라. 다들 알도록 드러내 놓고 세게 잘못이라고 하는 거야.",
   "말하는 쪽이 늘 옳은 것도 아니야. 옛날엔 맞는 말을 한 과학자도 이렇게 비난받았거든."
  ],
- "scene": "담임쌤이 조회 시간에 단톡방 놀림 사건을 반 전체 앞에서 잘못이라고 함",
+ "scene": "팀장님이 아침 회의 때 단톡방 놀림 사건을 팀 전체 앞에서 잘못이라고 함",
  "examples": [
   {
-   "en": "On TV, the mayor denounced the students' protest, but many parents stood by them.",
-   "ko": "시장이 텔레비전에서 학생들 시위를 대놓고 비난했지만, 많은 부모님들은 학생들 편에 섰어."
+   "en": "The mayor went on TV to denounce the students' protest, but many parents stood by them.",
+   "ko": "시장이 텔레비전에 나와서 학생들 시위를 대놓고 비난했는데, 많은 부모들은 학생들 편에 섰어."
   }
  ],
  "quiz": [
@@ -57,7 +63,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/denounce.webp",
-  "alt": "담임쌤이 조회 시간에 단톡방 놀림 사건을 반 전체 앞에서 잘못이라고 함",
+  "alt": "팀장님이 아침 회의 때 단톡방 놀림 사건을 팀 전체 앞에서 잘못이라고 함",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

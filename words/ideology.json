@@ -11,22 +11,23 @@
  "word": "ideology",
  "slug": "ideology",
  "url": "https://hibbangyong.com/words/ideology/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "세상이 어떻게 돌아가야 좋은지, 한 무리가 함께 믿는 생각 묶음(이념).",
  "gloss_ko": "다 함께 믿는 뜻",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "세상이 어떻게 돌아가야 좋은지, 사람들이 저마다 굳게 믿는 게 있거든?\n한 무리는 '다 같이 나눠야 좋아져' 믿고, 딴 무리는 '자연을 지키는 게 먼저야' 믿어.\n그냥 생각 하나가 아니야. 얽히고설킨 믿음들이 한 묶음으로 딱 뭉쳐서, 그 무리가 세상을 보고 움직이는 방식을 통째로 정해.\n좋은 쪽으로 가는 것도, 사람들을 갈라놓는 나쁜 것도 있어. 오늘 뭐 먹고 싶다는 잠깐 생각이랑은 아주 달라. 이게 ideology야."
  ],
+ "explanation_for_kids": null,
  "scene": "사람들이 세상이 어때야 좋은지 저마다 다르게 믿는 장면",
  "examples": [
   {
-   "en": "The two teams believed in totally different ideologies, so they never agreed on the rules.",
-   "ko": "두 팀은 서로 완전 다른 ideology를 믿어서, 규칙 하나도 뜻이 안 맞았어."
+   "en": "The two teams each had their own ideology, so they never agreed on the rules.",
+   "ko": "두 팀은 각자 믿는 이념이 달라서 규칙 하나도 합의를 못 봤어."
   }
  ],
  "quiz": [
@@ -39,7 +40,7 @@
    ],
    "answer_index": 1,
    "answer": "아니, ideology 아니야",
-   "why": "맞아! 신났다가 심심해진 건 잠깐 스쳐 가는 네 기분이잖아. ideology는 한 무리가 오래오래 함께 굳게 믿는 생각 묶음이니까, 이건 ideology가 아닌 게 딱 맞아!"
+   "why": "맞아! 신났다가 심심해진 건 잠깐 스쳐 가는 네 기분이잖아. ideology는 한 무리가 오래 함께 굳게 믿는 생각 묶음이니까, 이건 ideology가 아닌 게 딱 맞아!"
   }
  ],
  "synonyms": [],

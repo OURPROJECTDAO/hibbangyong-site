@@ -11,29 +11,30 @@
  "word": "bench",
  "slug": "bench",
  "url": "https://hibbangyong.com/words/bench/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "벤치 — 공원이나 길가에 놓인, 여러 사람이 나란히 앉는 긴 의자",
  "gloss_ko": "벤치",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 잔디밭에 놓인 저 긴 나무 의자가 bench예요. 등받이가 있고 두세 명이 나란히 앉을 수 있어요.",
   "공원에서 걷다가 다리가 아프면 이런 의자에 앉아서 쉬어요."
  ],
+ "explanation_for_kids": null,
  "scene": "공원에 놓인 나무 벤치 한 개(앉는 가구 '벤치' 의미) — 초록 잔디 위, 정면 살짝 비스듬한 각도로 전체가 다 보이게",
  "examples": [
   {
-   "en": "We sat on the bench in the park to eat our snacks.",
-   "ko": "우리는 간식을 먹으려고 공원 벤치에 앉았어."
+   "en": "I ate my lunch on a bench outside the office.",
+   "ko": "회사 밖 벤치에 앉아서 점심을 먹었어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "공원에 줄로 매달린 그네가 있어서 아이가 올라타 앞뒤로 흔들며 놀아요. 이게 bench야?",
+   "question": "공원 나무 사이에 해먹이 매달려 있고, 누가 누워 흔들며 쉬고 있어. 이게 bench야?",
    "choices": [
     "응, 맞아",
     "아니, 아니야"

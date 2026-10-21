@@ -11,15 +11,21 @@
  "word": "instance",
  "slug": "instance",
  "url": "https://hibbangyong.com/words/instance/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "예(보기) — 어떤 종류의 일 가운데 실제로 일어난 한 번 한 번",
  "gloss_ko": "예(보기)",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "이번 달에 비 온 날을 세어 볼까? 월요일에 비, 금요일에 또 비.",
+  "'비 오는 날'이라는 같은 종류 안에서 진짜로 일어난 한 번, 또 한 번이지?",
+  "그 한 번씩을 콕 집어 부르는 말이 있거든? 좋은 일이든 속상한 일이든 다 돼.",
+  "근데 눈 깜짝할 순간이랑은 달라. 보고 따라 할 본보기랑도 다르고. 그 한 번 한 번, 그게 instance야."
+ ],
+ "explanation_for_kids": [
   "이번 달에 비 온 날을 세어 볼까? 월요일에 쏴아, 금요일에 또 쏴아.",
   "'비 오는 날'이라는 같은 종류 안에서 진짜로 일어난 한 번, 또 한 번이지?",
   "그 한 번씩을 콕 집어 부르는 말이 있거든? 좋은 일이든 속상한 일이든 다 돼.",
@@ -28,21 +34,21 @@
  "scene": "이번 달에 비 온 날 세기(월요일·금요일)",
  "examples": [
   {
-   "en": "I remember two instances this month when it suddenly rained.",
-   "ko": "이번 달에 갑자기 비가 쏟아진 적이 두 번 있었던 게 생각나."
+   "en": "It suddenly rained twice this month. One instance was last Friday.",
+   "ko": "이번 달에 갑자기 비가 두 번 왔어. 한 번은 지난 금요일이었어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "하준이가 이번 학기에 줄넘기 대회에 세 번 나갔어. 하준이가 말했어. \"그중에서 봄에 나간 대회가 내가 1등 한 instance야.\" 하준이가 instance를 알맞게 쓴 걸까?",
+   "question": "하준이가 올해 마라톤 대회에 세 번 나갔어. 하준이가 말했어. \"그중에서 봄에 나간 대회가 내가 1등 한 instance야.\" 하준이가 instance를 알맞게 쓴 걸까?",
    "choices": [
     "응, 알맞게 썼어",
     "아니, 알맞지 않아"
    ],
    "answer_index": 0,
    "answer": "응, 알맞게 썼어",
-   "why": "맞아! 하준이는 줄넘기 대회에 세 번 나갔잖아. 그 세 번 가운데 봄에 나간 대회 한 번을 콕 집어서 말했으니까, 바로 그게 instance인 거야."
+   "why": "맞아! 하준이는 마라톤 대회에 세 번 나갔잖아. 그 세 번 가운데 봄에 나간 대회 한 번을 콕 집어서 말했으니까, 바로 그게 instance인 거야."
   }
  ],
  "synonyms": [],

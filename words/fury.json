@@ -11,20 +11,21 @@
  "word": "fury",
  "slug": "fury",
  "url": "https://hibbangyong.com/words/fury/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "분노 — 확 타올라서 몰아치는 세찬 기운",
  "gloss_ko": "분노",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "바람이 있어. 살랑살랑 부는 바람 말고, 지붕을 뜯어갈 것 같은 바람.",
   "사람 마음에도 그런 게 확 올라올 때가 있거든? 화가 그냥 화가 아니라, 온몸을 밀고 나오는 세찬 화.",
   "꼭 나쁜 짓 하는 사람만 그런 건 아니야. 억울한 일을 보고 확 타오르는 것도 이거고, 태풍이 몰아치는 것도 이거야. 조용히 오래 삐진 거랑은 달라. 이건 세게, 확.",
   "그게 fury야."
  ],
+ "explanation_for_kids": null,
  "scene": "지붕을 뜯어갈 듯 몰아치는 세찬 바람",
  "examples": [
   {

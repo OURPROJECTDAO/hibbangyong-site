@@ -11,15 +11,21 @@
  "word": "status",
  "slug": "status",
  "url": "https://hibbangyong.com/words/status/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "지금 어떤 상태인지, 또 남들 사이에서 어떤 자리인지",
  "gloss_ko": null,
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "택배 앱에서 '주문 완료 → 배송 중 → 도착!' 이렇게 지금 어디쯤인지 뜨는 거 봤지?",
+  "그게 그 택배의 status야. 지금 어떤 상태인지를 딱 보여주는 거거든.",
+  "사람한테도 써. 팀장이냐 그냥 사원이냐, 그렇게 '어떤 자리에 있나'도 status야.",
+  "그러니까 status는 '지금 어디쯤·어떤 자리에 있나'를 말하는 거야. 이게 status야."
+ ],
+ "explanation_for_kids": [
   "택배 앱에서 '주문 완료 → 배송 중 → 도착!' 이렇게 지금 어디쯤인지 뜨는 거 봤지?",
   "그게 그 택배의 status야. 지금 어떤 상태인지를 딱 보여주는 거거든.",
   "사람한테도 써. 반장이냐 그냥 학생이냐, 그렇게 '어떤 자리에 있나'도 status야.",

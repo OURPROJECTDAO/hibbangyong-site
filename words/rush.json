@@ -11,25 +11,31 @@
  "word": "rush",
  "slug": "rush",
  "url": "https://hibbangyong.com/words/rush/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "서두르다 — 늦을까 봐 후다닥 가거나, 무엇을 빨리 해치우는 것",
  "gloss_ko": "서두르다",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "곧 지각이야! 신발 구겨 신고 역까지 후다닥!",
+  "밥도 후루룩, 가방 싸기도 휙휙. 시간이 모자라면 가는 것도 하는 것도 빨라지지?",
+  "근데 그냥 빠른 거랑은 달라. 운동하려고 공원을 뛰는 건 급해서 그러는 게 아니거든.",
+  "늦을까 봐 후다닥 가거나 해치우는 거. 이게 rush야."
+ ],
+ "explanation_for_kids": [
   "땡! 종이 곧 울려. 신발 구겨 신고 교문까지 후다닥!",
   "밥도 후루룩, 가방 싸기도 휙휙. 시간이 모자라면 가는 것도 하는 것도 빨라지지?",
   "근데 그냥 빠른 거랑은 달라. 운동하려고 운동장을 뛰는 건 급해서 그러는 게 아니거든.",
   "늦을까 봐 후다닥 가거나 해치우는 거. 이게 rush야."
  ],
- "scene": "종 울리기 직전 교문까지 후다닥 가는 장면",
+ "scene": "지각 직전 역까지 후다닥 가는 장면",
  "examples": [
   {
-   "en": "I rushed my breakfast and got a stomachache.",
-   "ko": "아침밥을 허겁지겁 먹었더니 배가 아팠어."
+   "en": "I always rush to catch the subway in the morning.",
+   "ko": "나는 아침마다 지하철 타려고 늘 서둘러."
   }
  ],
  "quiz": [
@@ -55,7 +61,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/rush.webp",
-  "alt": "종 울리기 직전 교문까지 후다닥 가는 장면",
+  "alt": "지각 직전 역까지 후다닥 가는 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

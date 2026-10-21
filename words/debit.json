@@ -11,15 +11,21 @@
  "word": "debit",
  "slug": "debit",
  "url": "https://hibbangyong.com/words/debit/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "출금(돈이 빠져나간 기록) — 계좌에서 돈이 빠져나갔다고(또는 빠져나갈 거라고) 적힌 기록",
  "gloss_ko": "돈 나간 기록",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "통장 앱에서 거래 내역을 열어 봐.",
+  "알바비가 들어온 줄 말고, 돈이 빠져나간 줄이 따로 찍혀 있지.",
+  "편의점 결제든, 자동으로 나간 휴대폰 요금이든, 그 한 줄 한 줄이 debit이야.",
+  "들어온 돈도 아니고, 남은 돈도 아니고, 갚아야 할 빚 자체도 아니야. 나간 걸 적은 기록이야."
+ ],
+ "explanation_for_kids": [
   "통장 앱에서 거래 내역을 열어 봐.",
   "용돈이 들어온 줄 말고, 돈이 빠져나간 줄이 따로 찍혀 있지.",
   "편의점 결제든, 자동으로 나간 휴대폰 요금이든, 그 한 줄 한 줄이 debit이야.",
@@ -28,21 +34,21 @@
  "scene": "통장 앱 거래 내역에서 돈이 빠져나간 줄 보기",
  "examples": [
   {
-   "en": "There was a strange debit on Mom's bank account this morning.",
+   "en": "There was a strange debit in my mom's bank account this morning.",
    "ko": "오늘 아침에 엄마 통장에 이상한 출금 내역이 하나 찍혀 있었어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "민서가 체크카드로 서점에서 문제집을 샀어. 은행 앱을 열어 보니 '문제집 값 15,000원이 빠져나감'이라고 적힌 줄이 새로 생겼어. 이 줄은 'debit'일까?",
+   "question": "민서가 체크카드로 서점에서 책을 샀어. 은행 앱을 열어 보니 '책값 15,000원이 빠져나감'이라고 적힌 줄이 새로 생겼어. 이 줄은 'debit'일까?",
    "choices": [
     "응, debit 맞아",
     "아니, debit 아니야"
    ],
    "answer_index": 0,
    "answer": "응, debit 맞아",
-   "why": "맞아! 민서가 문제집을 사서 계좌에서 15,000원이 빠져나갔고, 그게 앱에 한 줄로 적힌 거잖아. 이렇게 나간 돈을 적은 줄이 바로 debit이야."
+   "why": "맞아! 민서가 책을 사서 계좌에서 15,000원이 빠져나갔고, 그게 앱에 한 줄로 적힌 거잖아. 이렇게 나간 돈을 적은 줄이 바로 debit이야."
   }
  ],
  "synonyms": [],

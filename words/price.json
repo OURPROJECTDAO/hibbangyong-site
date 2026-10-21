@@ -11,25 +11,31 @@
  "word": "price",
  "slug": "price",
  "url": "https://hibbangyong.com/words/price/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "값(가격) — 뭘 사려면 내야 하는 돈이 얼마인지 말하는 거야.",
  "gloss_ko": "값(가격)",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "가게에서 머그컵 하나 딱 골랐어. 근데 그냥 못 가져가지?",
+  "밑에 붙은 가격표에 '3000원' 이렇게 써 있잖아.",
+  "그게 이걸 손에 넣으려면 네가 내야 하는 돈이야.",
+  "싸든 비싸든, 그 '얼마'가 바로 price야."
+ ],
+ "explanation_for_kids": [
   "가게에서 장난감 하나 딱 골랐어. 근데 그냥 못 가져가지?",
   "밑에 붙은 딱지에 '3000원' 이렇게 써 있잖아.",
   "그게 이걸 손에 넣으려면 네가 내야 하는 돈이야.",
   "싸든 비싸든, 그 '얼마'가 바로 price야."
  ],
- "scene": "가게에서 고른 장난감에 붙은 가격 딱지 '3000원'",
+ "scene": "가게에서 고른 머그컵에 붙은 가격표 '3000원'",
  "examples": [
   {
-   "en": "The price of the toy is three dollars.",
-   "ko": "그 장난감 값은 3달러야."
+   "en": "The price of this toy is only three dollars.",
+   "ko": "이 장난감 가격은 겨우 3달러야."
   }
  ],
  "quiz": [
@@ -62,7 +68,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/price.webp",
-  "alt": "가게에서 고른 장난감에 붙은 가격 딱지 '3000원'",
+  "alt": "가게에서 고른 머그컵에 붙은 가격표 '3000원'",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

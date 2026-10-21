@@ -11,21 +11,27 @@
  "word": "approach",
  "slug": "approach",
  "url": "https://hibbangyong.com/words/approach/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "방법·방식 — 어떤 일을 어떻게 할지 고른 길",
  "gloss_ko": "방법·방식",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "높은 선반 위 상자를 꺼내야 해. 너는 의자를 끌고 와서 올라가고, 친구는 긴 막대로 툭 밀어.",
+  "같은 일을 두고 서로 다른 길로 간 거지? 그 고른 길이 approach야.",
+  "잘 됐냐 아니냐는 상관없어. 막대로 밀다가 상자가 쿵 떨어져 다 쏟아져도, 그것도 하나의 approach거든.",
+  "의자나 막대 같은 물건이 approach인 게 아니야. 그걸로 하겠다고 정한 그 길, 그게 approach야."
+ ],
+ "explanation_for_kids": [
   "높은 선반 위 상자를 꺼내야 해. 너는 의자를 끌고 와서 올라가고, 동생은 긴 막대로 툭 밀어.",
   "같은 일을 두고 서로 다른 길로 간 거지? 그 고른 길이 approach야.",
   "잘 됐냐 아니냐는 상관없어. 막대로 밀다가 상자가 쿵 떨어져 다 쏟아져도, 그것도 하나의 approach거든.",
   "의자나 막대 같은 물건이 approach인 게 아니야. 그걸로 하겠다고 정한 그 길, 그게 approach야."
  ],
- "scene": "높은 선반 위 상자를 두 아이가 각각 의자와 막대로 꺼내려는 장면",
+ "scene": "높은 선반 위 상자를 두 사람이 각각 의자와 막대로 꺼내려는 장면",
  "examples": [
   {
    "en": "My approach to the puzzle was to start with the corners, but it didn't help at all.",
@@ -35,7 +41,7 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "지호는 빨래를 갤 때 양말부터 다 모아서 짝을 맞추고, 언니는 옷 한 벌씩 꺼내서 바로바로 개. 각자 이렇게 정한 순서, 이게 'approach'야?",
+   "question": "지호는 빨래를 갤 때 양말부터 다 모아서 짝을 맞추고, 룸메이트는 옷 한 벌씩 꺼내서 바로 개. 각자 이렇게 정한 순서, 이게 'approach'야?",
    "choices": [
     "응, approach 맞아",
     "아니, approach 아니야"
@@ -57,7 +63,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/approach.webp",
-  "alt": "높은 선반 위 상자를 두 아이가 각각 의자와 막대로 꺼내려는 장면",
+  "alt": "높은 선반 위 상자를 두 사람이 각각 의자와 막대로 꺼내려는 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,23 +11,24 @@
  "word": "whip",
  "slug": "whip",
  "url": "https://hibbangyong.com/words/whip/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "채찍 — 말이나 소를 몰 때 휘둘러 '착' 소리를 내는 긴 가죽 끈",
  "gloss_ko": "채찍",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 둥글게 말린 갈색 가죽 끈이 채찍이에요.",
   "옛날이야기나 서커스에서 사람이 채찍을 휘둘러 '착!' 소리 내는 장면을 본 적이 있을 거예요."
  ],
- "scene": "둥글게 말린 갈색 가죽 채찍 한 개(사물 '채찍' 의미로 그림)",
+ "explanation_for_kids": null,
+ "scene": "둥글게 말린 갈색 가죽 채찍 한 개",
  "examples": [
   {
-   "en": "The cowboy cracked his whip to make the horses run faster.",
-   "ko": "카우보이가 말들을 더 빨리 달리게 하려고 채찍을 착 휘둘렀어."
+   "en": "On our ranch trip, the guide cracked his whip and the horses ran.",
+   "ko": "목장 여행 갔을 때 가이드가 채찍을 착 휘두르니까 말들이 달렸어."
   }
  ],
  "quiz": [
@@ -55,7 +56,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/whip.webp",
-  "alt": "둥글게 말린 갈색 가죽 채찍 한 개(사물 '채찍' 의미로 그림)",
+  "alt": "둥글게 말린 갈색 가죽 채찍 한 개",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,29 +11,30 @@
  "word": "nail",
  "slug": "nail",
  "url": "https://hibbangyong.com/words/nail/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "못 — 나무나 벽에 박아서 물건을 단단히 고정하는 뾰족한 쇠",
  "gloss_ko": "벽에 박는 못",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "그림 속 머리와 몸통, 뾰족한 끝이 보이는 이 쇠붙이가 nail이에요.",
   "벽에 그림이나 시계를 걸 때 이것을 망치로 박아서 고정해요."
  ],
- "scene": "반짝이는 은색 쇠못 한 개(머리·몸통·뾰족한 끝이 다 보이게)를 화면 중앙에 크게 — '못' 사물 의미로 그림",
+ "explanation_for_kids": null,
+ "scene": "반짝이는 은색 쇠못 한 개(머리·몸통·뾰족한 끝이 다 보이게)를 화면 중앙에 크게",
  "examples": [
   {
-   "en": "Dad used a hammer to hit the nail into the wall.",
-   "ko": "아빠가 망치로 벽에 못을 박았어."
+   "en": "I put a nail in the wall to hang my clock.",
+   "ko": "시계를 걸려고 벽에 못을 박았어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "형이 벽에 종이를 붙이려고 끈끈한 테이프를 쭉 뜯어서 발랐어요. 이게 nail이야?",
+   "question": "친구가 벽에 종이를 붙이려고 끈끈한 테이프를 쭉 뜯어서 발랐어요. 이게 nail이야?",
    "choices": [
     "응, 맞아",
     "아니, 아니야"
@@ -55,7 +56,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/nail.webp",
-  "alt": "반짝이는 은색 쇠못 한 개(머리·몸통·뾰족한 끝이 다 보이게)를 화면 중앙에 크게 — '못' 사물 의미로 그림",
+  "alt": "반짝이는 은색 쇠못 한 개(머리·몸통·뾰족한 끝이 다 보이게)를 화면 중앙에 크게",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

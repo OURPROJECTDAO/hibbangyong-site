@@ -11,38 +11,44 @@
  "word": "successive",
  "slug": "successive",
  "url": "https://hibbangyong.com/words/successive/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "잇따른 — 하나가 끝나면 다음 것이 차례로 이어서 오는",
  "gloss_ko": "차례로 잇따른",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "야유회 날, 캠핑 날, 여행 날. 세 번 다 비가 왔어.",
+  "이렇게 하나 끝나면 다음 게 줄지어 오는 게 successive야.",
+  "좋은 일이든 나쁜 일이든, 날이든 사람이든 상관없어. 차례로 이어지기만 하면 돼.",
+  "successful(성공한)이랑 생긴 게 비슷하지만 뜻은 전혀 달라. 여기엔 '성공'이 없어."
+ ],
+ "explanation_for_kids": [
   "운동회 날, 소풍 날, 체험학습 날. 세 번 다 비가 왔어.",
   "이렇게 하나 끝나면 다음 게 줄지어 오는 게 successive야.",
   "좋은 일이든 나쁜 일이든, 날이든 사람이든 상관없어. 차례로 이어지기만 하면 돼.",
   "successful(성공한)이랑 생긴 게 비슷하지만 뜻은 전혀 달라. 여기엔 '성공'이 없어."
  ],
- "scene": "운동회·소풍·체험학습 날에 세 번 연달아 비가 옴",
+ "scene": "야유회·캠핑·여행 날에 세 번 연달아 비가 옴",
  "examples": [
   {
-   "en": "Each successive teacher changed the class rules.",
-   "ko": "새로 온 선생님마다 차례로 반 규칙을 또 바꿨어."
+   "en": "Each successive professor changed the course rules.",
+   "ko": "새로 온 교수님마다 차례로 수업 규칙을 또 바꿨어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "동생이 2024년, 2025년, 2026년 여름방학 때 해마다 팔을 다쳤어. 이 세 번의 부상은 'successive' 부상이야?",
+   "question": "친구가 2024년, 2025년, 2026년 여름휴가 때 해마다 팔을 다쳤어. 이 세 번의 부상은 'successive' 부상이야?",
    "choices": [
     "응, successive 맞아",
     "아니, successive 아니야"
    ],
    "answer_index": 0,
    "answer": "응, successive 맞아",
-   "why": "맞아! 동생은 2024년 여름방학에 한 번 다치고, 2025년 여름방학에 또 새로 다치고, 2026년 여름방학에 또 다쳤잖아. 빠진 해 없이 해마다 한 번씩 차례로 이어졌으니까 바로 successive 부상인 거야."
+   "why": "맞아! 친구는 2024년 여름휴가에 한 번 다치고, 2025년 여름휴가에 또, 2026년 여름휴가에도 다쳤잖아. 빠진 해 없이 해마다 한 번씩 차례로 이어졌으니까 바로 successive 부상인 거야."
   }
  ],
  "synonyms": [],
@@ -61,7 +67,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/successive.webp",
-  "alt": "운동회·소풍·체험학습 날에 세 번 연달아 비가 옴",
+  "alt": "야유회·캠핑·여행 날에 세 번 연달아 비가 옴",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

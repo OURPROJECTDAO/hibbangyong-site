@@ -11,20 +11,21 @@
  "word": "exist",
  "slug": "exist",
  "url": "https://hibbangyong.com/words/exist/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "존재하다 — 세상 어딘가에 정말로 있다",
  "gloss_ko": "정말로 있다",
  "level": {
   "code": "L3",
-  "name": "중학교~고1 공통영어 · 생각을 나타내는 말"
+  "name": "생활 기본 단어 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "유니콘 그림, 책에서 본 적 있지? 그림은 있어. 근데 유니콘은? 세상 어디를 뒤져도 없거든.",
   "바위는 숨을 안 쉬어. 공기는 눈에 안 보여. 그래도 둘 다 세상에 정말로 있어.",
   "살아 있냐, 눈에 보이냐, 지금 여기 있냐? 그건 상관없어. 그냥 세상 어딘가에 정말로 있으면 돼.",
   "그게 exist야."
  ],
+ "explanation_for_kids": null,
  "scene": "책 속 유니콘 그림과 세상에 없는 유니콘",
  "examples": [
   {

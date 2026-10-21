@@ -11,20 +11,21 @@
  "word": "exit",
  "slug": "exit",
  "url": "https://hibbangyong.com/words/exit/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "출구 — 밖으로 나가는 문이나 길",
  "gloss_ko": "출구",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "극장에서 영화 끝나면 사람들이 우르르 어디로 가? 나가는 문 쪽으로 가지.",
   "그 나가는 문이 exit이야. 들어올 때 쓴 문이랑 같을 수도 있고, 다른 문일 수도 있어.",
   "지하 주차장에서 차가 빠져나오는 길목도 exit이고, 고속도로에서 큰 길 밖으로 빠지는 갈림길도 exit이야. 문이 아니어도, 나가는 자리면 다 exit이거든?",
   "그러니까 '들어가는 자리'는 아니야. 나가는 쪽이어야 그게 exit이야."
  ],
+ "explanation_for_kids": null,
  "scene": "영화 끝나고 관객이 몰려 나가는 극장 출구",
  "examples": [
   {

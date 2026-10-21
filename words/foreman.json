@@ -11,19 +11,20 @@
  "word": "foreman",
  "slug": "foreman",
  "url": "https://hibbangyong.com/words/foreman/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "작업반장 — 일꾼들 무리 안에서 같이 일하면서 그 무리를 맡아 이끄는 사람",
  "gloss_ko": "작업반장",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "공사장에 가 보면, 인부들 틈에서 같이 땀 흘리면서 '너는 벽돌, 너는 시멘트' 하고 일을 나눠 주는 사람이 있어.",
   "멀리서 돈 대는 사장님이 아니야. 그냥 시키는 대로 하는 일꾼도 아니고. 무리 안에 있으면서 그 무리를 맡은 한 사람이야.",
   "공장 작업반이든 공사장이든, 일하는 무리를 앞에서 이끄는 사람이면 다 이렇게 불러. 이름에 man이 들어 있어도 여자일 수 있어."
  ],
+ "explanation_for_kids": null,
  "scene": "공사장 인부들 사이에서 같이 일하며 일을 나눠 주는 사람",
  "examples": [
   {

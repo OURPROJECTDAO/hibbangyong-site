@@ -11,31 +11,37 @@
  "word": "embark",
  "slug": "embark",
  "url": "https://hibbangyong.com/words/embark/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "(배·비행기에) 올라타다: 멀리 떠날 배나 비행기에 오르는 거야. 크고 새로운 일을 시작할 때도 써",
  "gloss_ko": "배·비행기에 오르다",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "여행 날 부산 항구에서 줄 서 있다가 제주 가는 배에 한 명씩 올라타. 그렇게 올라타는 걸 embark라고 해.",
+  "배나 비행기처럼 멀리 떠날 탈것에 오를 때 쓰는 말이야. 동네 버스에 잠깐 타는 거랑은 느낌이 달라.",
+  "도착해서 내리는 건 반대말 disembark야. 배가 항구를 떠나는 것도 embark가 아니야. embark는 사람이 올라타는 거야.",
+  "그래서 크고 새로운 일을 시작할 때도 써. embark on a new plan은 새 계획에 올라타서 출발한다는 느낌이야."
+ ],
+ "explanation_for_kids": [
   "수학여행 날 부산 항구에서 줄 서 있다가 제주 가는 배에 한 명씩 올라타. 그렇게 올라타는 걸 embark라고 해.",
   "배나 비행기처럼 멀리 떠날 탈것에 오를 때 쓰는 말이야. 동네 버스에 잠깐 타는 거랑은 느낌이 달라.",
   "도착해서 내리는 건 반대말 disembark야. 배가 항구를 떠나는 것도 embark가 아니야. embark는 사람이 올라타는 거야.",
   "그래서 크고 새로운 일을 시작할 때도 써. embark on a new plan은 새 계획에 올라타서 출발한다는 느낌이야."
  ],
- "scene": "수학여행 날 부산 항구에서 제주 가는 배에 줄 서서 올라타기",
+ "scene": "여행 날 부산 항구에서 제주 가는 배에 줄 서서 올라타기",
  "examples": [
   {
-   "en": "Our class embarked at Busan early in the morning, all carrying heavy bags.",
-   "ko": "우리 반은 다들 무거운 가방을 들고 아침 일찍 부산에서 배에 올랐어."
+   "en": "We embark at Busan at 7 a.m. for our Jeju trip.",
+   "ko": "우리는 제주도 가려고 아침 7시에 부산에서 배에 타."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "겨울방학에 가족이 인천공항에서 괌 가는 비행기를 타러 갔어. 탑승 안내 방송이 나오자 지윤이가 표를 보여 주고 비행기 안으로 들어가 자리에 앉았어. 지윤이가 한 이 일을 'embark'라고 할 수 있을까?",
+   "question": "휴가 때 지윤이네 가족이 인천공항에서 괌 가는 비행기를 타러 갔어. 탑승 안내 방송이 나오자 지윤이가 표를 보여 주고 비행기 안으로 들어가 자리에 앉았어. 지윤이가 한 이 일을 'embark'라고 할 수 있을까?",
    "choices": [
     "응, embark 맞아",
     "아니, embark 아니야"
@@ -70,7 +76,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/embark.webp",
-  "alt": "수학여행 날 부산 항구에서 제주 가는 배에 줄 서서 올라타기",
+  "alt": "여행 날 부산 항구에서 제주 가는 배에 줄 서서 올라타기",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,22 +11,23 @@
  "word": "pocket",
  "slug": "pocket",
  "url": "https://hibbangyong.com/words/pocket/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "주머니 — 옷이나 가방에 달린, 물건을 넣어 두는 작은 자루",
  "gloss_ko": "주머니",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "바지 옆에 손 쏙 넣어 봐. 안에 쏙 들어가는 작은 공간 있지?\n거기다 동전이나 사탕을 넣고 다니는 거야.\n옷에도, 가방 안쪽에도 이런 작은 자루가 달려 있어.\n큰 가방 통째가 아니라, 거기 붙어 있는 작은 칸이 pocket이야."
  ],
+ "explanation_for_kids": null,
  "scene": "바지 옆 주머니에 손을 쏙 넣는 장면",
  "examples": [
   {
-   "en": "I put my key in my pocket.",
-   "ko": "나는 열쇠를 주머니에 넣었어."
+   "en": "I always keep my phone in my back pocket.",
+   "ko": "나는 늘 휴대폰을 뒷주머니에 넣고 다녀."
   }
  ],
  "quiz": [
@@ -35,7 +36,7 @@
    "question": "민수가 여러 물건을 늘어놓고 봤어. 이 중에서 'pocket'은 어떤 거야?",
    "choices": [
     "바지 옆에 달려서, 손이랑 동전을 쏙 넣어 두는 작은 자루",
-    "어깨에 메고 다니면서, 책이랑 준비물을 잔뜩 담는 큰 가방",
+    "어깨에 메고 다니면서, 책이랑 짐을 잔뜩 담는 큰 가방",
     "옷자락 두 쪽을 딱 맞물어 잠가 주는 동그란 알맹이",
     "상자 위를 덮어서 안이 안 보이게 가려 주는 넓적한 판"
    ],

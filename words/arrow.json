@@ -11,23 +11,24 @@
  "word": "arrow",
  "slug": "arrow",
  "url": "https://hibbangyong.com/words/arrow/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "화살 — 활에 걸어 쏘는, 앞이 뾰족한 곧은 막대",
  "gloss_ko": "화살",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "활 시위에 걸어 멀리 날려 보내는, 앞이 뾰족한 곧은 막대예요. 뒤쪽에는 깃털이 달려 있어요.",
   "양궁 선수가 활로 과녁을 맞힐 때 쏘는 게 바로 이거예요."
  ],
- "scene": "활에 쓰는 화살 한 자루 — 뾰족한 금속 촉·곧은 나무대·꽁지 깃털이 다 보이게 중앙에 크게 (도구로서의 '화살'을 그림)",
+ "explanation_for_kids": null,
+ "scene": "활에 쓰는 화살 한 자루 — 뾰족한 금속 촉·곧은 나무대·꽁지 깃털이 다 보이게 중앙에 크게",
  "examples": [
   {
-   "en": "The boy shot an arrow at the target with his bow.",
-   "ko": "남자애가 활로 과녁에 화살을 쐈어."
+   "en": "At the archery range, I hit the target with my first arrow.",
+   "ko": "양궁장에서 첫 화살로 과녁을 맞혔어."
   }
  ],
  "quiz": [
@@ -53,7 +54,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/arrow.webp",
-  "alt": "활에 쓰는 화살 한 자루 — 뾰족한 금속 촉·곧은 나무대·꽁지 깃털이 다 보이게 중앙에 크게 (도구로서의 '화살'을 그림)",
+  "alt": "활에 쓰는 화살 한 자루 — 뾰족한 금속 촉·곧은 나무대·꽁지 깃털이 다 보이게 중앙에 크게",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

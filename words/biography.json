@@ -11,25 +11,26 @@
  "word": "biography",
  "slug": "biography",
  "url": "https://hibbangyong.com/words/biography/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "어떤 사람이 진짜로 살아온 이야기를, 그 사람 아닌 남이 조사해서 적은 책",
  "gloss_ko": "살아온 이야기를 적은 책",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "지훈이가 할머니를 붙잡고 꼬치꼬치 캐물었어. 어릴 땐 뭘 했는지, 언제 제일 슬펐는지, 어쩌다 지금이 됐는지.",
   "그걸 싹 적어서 책으로 묶었지. 태어난 날부터 지금까지, 한 사람 인생을 통째로.",
   "훌륭한 사람만 이렇게 쓰는 거 아니야. 은행 턴 도둑 이야기도, 아직 살아 있는 축구선수 이야기도, 남이 이렇게 적으면 똑같아.",
   "머릿속으로 지어낸 이야기랑은 달라. 진짜 있었던 사람의 살아온 이야기를 남이 적은 책, 이게 biography야."
  ],
+ "explanation_for_kids": null,
  "scene": "할머니에게 살아온 이야기를 캐물어 책으로 묶은 지훈이",
  "examples": [
   {
-   "en": "Jihun wrote a biography of his grandma.",
-   "ko": "지훈이가 할머니가 살아온 이야기를 책으로 썼어."
+   "en": "I'm reading a biography of a famous chef.",
+   "ko": "요즘 유명한 셰프의 일생을 다룬 책을 읽고 있어."
   }
  ],
  "quiz": [

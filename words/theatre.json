@@ -11,15 +11,21 @@
  "word": "theatre",
  "slug": "theatre",
  "url": "https://hibbangyong.com/words/theatre/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "무대에서 펼치는 연극이나 공연을 보러 가는 곳, 극장",
  "gloss_ko": "공연 보러 가는 극장",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "무대가 딱 있고, 배우들이 그 위에 올라와.",
+  "사람들은 자리에 앉아서 그걸 봐.",
+  "노래하고 춤추고 연극하는 공연을 눈앞에서 보는 거거든?",
+  "집 텔레비전이랑은 달라 — 진짜 사람이 바로 앞에서 해. 이게 theatre야."
+ ],
+ "explanation_for_kids": [
   "무대가 딱 있고, 배우들이 그 위에 올라와.",
   "사람들은 자리에 쪼르르 앉아서 그걸 봐.",
   "노래하고 춤추고 연극하는 공연을 눈앞에서 보는 거거든?",
@@ -28,8 +34,8 @@
  "scene": "무대 위 배우 + 객석 관객, 눈앞 생연기를 보는 건물.",
  "examples": [
   {
-   "en": "We watched the singers and dancers perform live on the stage at the theatre.",
-   "ko": "우리는 극장 무대에서 가수와 무용수들이 라이브로 공연하는 걸 봤어."
+   "en": "We saw a great musical at the theatre downtown last night.",
+   "ko": "어젯밤에 시내 극장에서 멋진 뮤지컬을 봤어."
   }
  ],
  "quiz": [
@@ -40,7 +46,7 @@
     "진짜 배우들이 무대에 올라와 눈앞에서 직접 연기하고 노래하는 걸 보는 곳",
     "책이 칸칸이 꽂혀 있어 마음에 드는 걸 골라 조용히 읽는 곳",
     "커다란 천막 안에서 광대랑 곡예사가 재주 부리는 걸 구경하는 곳",
-    "너른 운동장에서 선수들이 공을 차며 겨루는 걸 구경하는 곳"
+    "너른 경기장에서 선수들이 공을 차며 겨루는 걸 구경하는 곳"
    ],
    "answer_index": 0,
    "answer": "진짜 배우들이 무대에 올라와 눈앞에서 직접 연기하고 노래하는 걸 보는 곳",

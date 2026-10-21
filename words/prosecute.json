@@ -11,25 +11,26 @@
  "word": "prosecute",
  "slug": "prosecute",
  "url": "https://hibbangyong.com/words/prosecute/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "기소하다 — 죄를 지었다고 보고, 나라 쪽에서 그 사람이나 회사를 재판에 걸어 죄를 따지다",
  "gloss_ko": "재판에 걸다",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "뉴스에 나왔는데, 어떤 공장이 강에 몰래 더러운 물을 버렸대.",
   "그래서 검사가 그 회사를 법정에 세우고, 죄가 있다고 증거를 내밀며 따지기 시작했어.",
   "이렇게 나라 쪽에서 사람이든 회사든 재판에 걸어 죄를 밝히려는 게 prosecute야.",
   "경찰이 잡아가는 체포랑은 달라. 판사가 벌을 정하는 것도 아니고, 그 사이에 법정에서 죄를 따지는 쪽이야."
  ],
+ "explanation_for_kids": null,
  "scene": "강에 몰래 폐수를 버린 공장을 검사가 법정에서 따짐",
  "examples": [
   {
-   "en": "The government will prosecute the company for pouring dirty water into the river.",
-   "ko": "정부가 강에 더러운 물을 버린 그 회사를 재판에 걸 거래."
+   "en": "The government will prosecute the company for polluting the river.",
+   "ko": "정부가 강을 오염시킨 그 회사를 재판에 걸 거야."
   }
  ],
  "quiz": [

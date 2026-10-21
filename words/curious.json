@@ -11,25 +11,26 @@
  "word": "curious",
  "slug": "curious",
  "url": "https://hibbangyong.com/words/curious/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "자꾸 알고 싶어지는, 호기심 많은",
  "gloss_ko": "자꾸 알고 싶어지는",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "닫힌 상자에서 달그락 소리가 나. 안에 뭐가 있지?",
   "너무 알고 싶어서 자꾸 들여다보고 흔들어 보게 돼. 근질근질!",
   "무섭든 신기하든, '뭔지 꼭 알아내고 싶다!' 하는 그 마음이야.",
   "그냥 멍하니 보는 거 말고, 알고 싶어 안달난 거. 이게 curious야."
  ],
+ "explanation_for_kids": null,
  "scene": "닫힌 상자 속 달그락 소리 → 뭔지 알고 싶어 자꾸 들여다봄.",
  "examples": [
   {
-   "en": "She was so curious about the noise that she opened the box.",
-   "ko": "그 애는 소리가 너무 궁금해서 상자를 열어 봤어."
+   "en": "I was curious about the new café, so I tried it after work.",
+   "ko": "새로 생긴 카페가 궁금해서 퇴근하고 가 봤어."
   }
  ],
  "quiz": [

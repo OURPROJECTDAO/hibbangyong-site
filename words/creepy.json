@@ -11,38 +11,39 @@
  "word": "creepy",
  "slug": "creepy",
  "url": "https://hibbangyong.com/words/creepy/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "오싹한 — 대놓고 위험하진 않은데 뭔가 이상해서 소름 돋고 기분 나쁜",
  "gloss_ko": "오싹한",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "아무 일도 안 일어났는데 괜히 소름이 돋고 기분이 찜찜할 때 있지?",
   "creepy는 그 느낌이야. 뭔가 어긋나서 불편하고 살짝 오싹한 거.",
   "밤의 빈 복도도, 날 계속 빤히 보는 낯선 사람도, 다리 많은 벌레가 스멀스멀 기어가는 것도 다 creepy할 수 있어.",
   "대놓고 덤벼서 겁나는 거랑은 달라. 그냥 웃기게 이상한 것도 아니야. 기분 나쁜 소름이 같이 와야 해."
  ],
+ "explanation_for_kids": null,
  "scene": "아무 일도 없는데 괜히 소름 돋는 순간",
  "examples": [
   {
-   "en": "The empty hallway at night was really creepy.",
-   "ko": "밤에 텅 빈 복도는 진짜 오싹했어."
+   "en": "The empty subway station at night was really creepy.",
+   "ko": "밤에 텅 빈 지하철역은 진짜 오싹했어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "눈 오는 저녁, 할머니 댁 거실에서 두꺼운 담요를 덮고 따뜻한 코코아를 마시고 있었어. 옆에서는 고양이가 가르릉거리며 자고 있었어. 이 거실은 'creepy'해?",
+   "question": "눈 오는 저녁, 친구네 거실에서 두꺼운 담요를 덮고 따뜻한 코코아를 마시고 있었어. 옆에서는 고양이가 가르릉거리며 자고 있었어. 이 거실은 'creepy'해?",
    "choices": [
     "응, creepy 맞아",
     "아니, creepy 아니야"
    ],
    "answer_index": 1,
    "answer": "아니, creepy 아니야",
-   "why": "맞아! 눈 오는 저녁에 할머니 댁 거실에서 담요 덮고 코코아 마시고, 옆에서 고양이가 가르릉거리며 자잖아. 소름 돋을 게 하나도 없이 따뜻하고 편한 장면이라, creepy가 아니라 오히려 아늑한 거야(이건 cozy야)."
+   "why": "맞아! 눈 오는 저녁에 친구네 거실에서 담요 덮고 코코아 마시고, 옆에서 고양이가 가르릉거리며 자잖아. 소름 돋을 게 하나도 없이 따뜻하고 편한 장면이라, creepy가 아니라 오히려 아늑한 거야(이건 cozy야)."
   }
  ],
  "synonyms": [

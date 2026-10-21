@@ -11,25 +11,26 @@
  "word": "own",
  "slug": "own",
  "url": "https://hibbangyong.com/words/own/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "(진짜) 내 것이다 — 빌린 게 아니라 두고두고 내 것이라, 팔든 남 주든 내 맘인 거야.",
  "gloss_ko": "(진짜) 내 것이다",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "도서관에서 빌린 책은 다 읽으면 돌려줘야 하지? 내 게 아니니까.",
   "근데 서점에서 돈 주고 산 책은 안 돌려줘도 돼. 두고두고 내 거야.",
   "이렇게 빌린 게 아니라 진짜 내 거라서, 팔든 남 주든 내 맘인 걸 own 한다고 해.",
   "지금 손에 들고 있냐가 아니야. 형이 내 자전거를 타고 있어도 주인은 나거든. 그게 own이야."
  ],
+ "explanation_for_kids": null,
  "scene": "도서관에서 빌린 책과 서점에서 산 책 대조",
  "examples": [
   {
-   "en": "Even when my brother rides it, I still own the bike, so he has to ask me first.",
-   "ko": "형이 타고 있어도 그 자전거는 내 거라서 나한테 먼저 물어봐야 해."
+   "en": "My brother rides it all the time, but I own the bike.",
+   "ko": "형이 맨날 타긴 해도, 그 자전거는 내 거야."
   }
  ],
  "quiz": [

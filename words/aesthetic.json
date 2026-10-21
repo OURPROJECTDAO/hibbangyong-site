@@ -11,20 +11,21 @@
  "word": "aesthetic",
  "slug": "aesthetic",
  "url": "https://hibbangyong.com/words/aesthetic/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "겉보기·멋에 관한 — 쓸모가 아니라 얼마나 보기 좋고 멋져 보이는지에 관한 거야.",
  "gloss_ko": "겉보기·멋에 관한",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "운동화 두 켤레가 있다고 해봐. 하나는 발이 엄청 편하고, 하나는 그냥 딱 봤을 때 멋져.",
   "근데 '멋지다'는 건 얼마나 튼튼한지, 얼마나 편한지랑은 상관이 없어. 그냥 눈으로 봐서 어떤지, 모양이랑 색이 어떤지 그 얘기거든.",
   "쓸모 말고 '보기에·멋에' 관한 거야. 예쁘다고 할 수도 있고, 별로라고 할 수도 있어. 둘 다 보기 얘기니까.",
   "이렇게 겉보기·멋에 관한 걸 aesthetic이라고 해."
  ],
+ "explanation_for_kids": null,
  "scene": "운동화 두 켤레 중 멋진 것 고르기",
  "examples": [
   {

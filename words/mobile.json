@@ -11,31 +11,37 @@
  "word": "mobile",
  "slug": "mobile",
  "url": "https://hibbangyong.com/words/mobile/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "움직일 수 있는 — 한자리에 붙박이로 있지 않고, 옮기거나 돌아다닐 수 있는.",
  "gloss_ko": "움직일 수 있는",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "바퀴 달린 카트 있잖아, 밀면 방으로 거실로 어디든 데려갈 수 있지?",
+  "한자리에 딱 붙어 있는 게 아니라, 어디로든 옮기거나 움직일 수 있는 거야.",
+  "다친 다리가 다 나은 사람이 이제 여기저기 걸어다닐 수 있어도 이렇다고 해.",
+  "이렇게 붙박이가 아니라 움직일 수 있는 게 mobile이야."
+ ],
+ "explanation_for_kids": [
   "바퀴 달린 장난감 수레 있잖아, 밀면 방으로 거실로 어디든 데려갈 수 있지?",
   "한자리에 딱 붙어 있는 게 아니라, 어디로든 옮기거나 움직일 수 있는 거야.",
   "다친 다리가 다 나은 사람이 이제 여기저기 걸어다닐 수 있어도 이렇다고 해.",
   "이렇게 붙박이가 아니라 움직일 수 있는 게 mobile이야."
  ],
- "scene": "바퀴 달린 장난감 수레를 밀어 방·거실 어디로든 데려가는 장면",
+ "scene": "바퀴 달린 카트를 밀어 방·거실 어디로든 데려가는 장면",
  "examples": [
   {
-   "en": "Grandpa is mobile again now that his knee has healed.",
-   "ko": "할아버지가 무릎이 다 나아서, 이제 다시 잘 돌아다니셔."
+   "en": "After my knee surgery, I'm finally mobile again.",
+   "ko": "무릎 수술 받고 나서 드디어 다시 잘 걸어 다닐 수 있어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "형이 바퀴 달린 여행용 캐리어 가방을 손으로 끌고 공항 이쪽저쪽으로 데리고 다녀. 이 캐리어, 'mobile'이야?",
+   "question": "친구가 바퀴 달린 여행용 캐리어 가방을 손으로 끌고 공항 이쪽저쪽으로 데리고 다녀. 이 캐리어, 'mobile'이야?",
    "choices": [
     "응, mobile 맞아",
     "아니, mobile 아니야"
@@ -68,7 +74,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/mobile.webp",
-  "alt": "바퀴 달린 장난감 수레를 밀어 방·거실 어디로든 데려가는 장면",
+  "alt": "바퀴 달린 카트를 밀어 방·거실 어디로든 데려가는 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

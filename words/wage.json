@@ -11,25 +11,26 @@
  "word": "wage",
  "slug": "wage",
  "url": "https://hibbangyong.com/words/wage/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "일한 값으로 받는 돈. 놀아서가 아니라 일해서 버는 돈이야.",
  "gloss_ko": "일해서 받는 돈",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "삼촌이 빵집에서 일하거든? 하루 종일 반죽하고 나면, 사장님이 일한 값으로 돈을 줘.",
   "그냥 놀아서 받는 게 아니야. 일한 만큼 받는 돈이거든.",
   "많이 일하면 더 받기도 하고, 적게 일하면 적게 받기도 해.",
   "그게 wage야."
  ],
+ "explanation_for_kids": null,
  "scene": "빵집에서 하루 종일 일하고 사장님에게 받는 돈",
  "examples": [
   {
-   "en": "My uncle gets his wage every Friday for working at the bakery.",
-   "ko": "삼촌은 빵집에서 일하고 금요일마다 일한 값으로 돈을 받아."
+   "en": "My uncle gets his wage from the bakery every Friday.",
+   "ko": "삼촌은 금요일마다 빵집에서 일한 돈을 받아."
   }
  ],
  "quiz": [
@@ -38,9 +39,9 @@
    "question": "네 친구들이 각자 돈을 어떻게 얻었는지 말했어. 이 중에서 'wage'라고 부를 수 있는 돈은 누구 거야?",
    "choices": [
     "민수가 카페 일을 돕고 사장님에게 받은 돈",
-    "할머니가 생일에 그냥 쥐어 준 용돈",
-    "달리기 시합에서 1등 해서 받은 상금",
-    "장난감 사느라 지갑에서 꺼내 쓴 돈"
+    "동료들이 생일에 그냥 모아 준 돈",
+    "마라톤 대회에서 1등 해서 받은 상금",
+    "운동화 사느라 지갑에서 꺼내 쓴 돈"
    ],
    "answer_index": 0,
    "answer": "민수가 카페 일을 돕고 사장님에게 받은 돈",

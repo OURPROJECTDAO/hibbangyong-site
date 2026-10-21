@@ -11,15 +11,21 @@
  "word": "primitive",
  "slug": "primitive",
  "url": "https://hibbangyong.com/words/primitive/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "원시의 — 기계도 없던 맨 처음 모습 그대로, 아직 더 나아지기 전이라 아주 단순한",
  "gloss_ko": "맨 처음 단순한",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "돌끼리 부딪쳐서 칼을 만들던 때가 있었어. 쇠도 기계도 아직 없던 맨 처음 시절이야.",
+  "그 시절처럼, 아직 더 나아지기 전의 첫 모습 그대로라서 아주 단순하면 이 말을 써.",
+  "그냥 오래된 거랑은 달라. 몇백 년 된 성은 방도 탑도 다 갖췄잖아? 그건 아니야.",
+  "오늘 캠프에서 나뭇가지만 엮어 뚝딱 지은 잠자리도 딱 그래. 그게 primitive야."
+ ],
+ "explanation_for_kids": [
   "돌끼리 탁탁 부딪쳐서 칼을 만들던 때 알아? 쇠도 기계도 아직 없던 맨 처음 시절이야.",
   "그 시절처럼, 아직 더 나아지기 전의 첫 모습 그대로라서 아주 단순하면 이 말을 써.",
   "그냥 오래된 거랑은 달라. 몇백 년 된 성은 방도 탑도 다 갖췄잖아? 그건 아니야.",
@@ -28,8 +34,8 @@
  "scene": "돌을 부딪쳐 칼을 만들던 맨 처음 시절",
  "examples": [
   {
-   "en": "People long ago made primitive tools by hitting rocks together.",
-   "ko": "아주 옛날 사람들은 돌끼리 딱딱 부딪쳐서 단순한 원시 도구를 만들었어."
+   "en": "The museum has primitive stone tools from thousands of years ago.",
+   "ko": "그 박물관에는 수천 년 전 원시 시대의 돌도구가 있어."
   }
  ],
  "quiz": [

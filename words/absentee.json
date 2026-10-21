@@ -11,15 +11,21 @@
  "word": "absentee",
  "slug": "absentee",
  "url": "https://hibbangyong.com/words/absentee/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "결석자·불참자 — 와야 하는 자리에 끝내 오지 않은 사람",
  "gloss_ko": "안 온 사람",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "동아리 회의 명단엔 열 명인데, 와 있는 건 여덟 명이야.",
+  "빈 두 자리의 주인, 그게 absentee야. 아파서든 여행 때문이든 이유는 상관없어.",
+  "좀 늦게라도 들어온 사람은 아니고, 처음부터 부른 적 없는 바깥 사람도 아니야.",
+  "원래 와야 했는데 끝내 그 자리에 없는 사람이야. 학교, 회의, 투표처럼 어디든 쓸 수 있어."
+ ],
+ "explanation_for_kids": [
   "동아리 회의 명단엔 열 명인데, 와 있는 건 여덟 명이야.",
   "빈 두 자리의 주인, 그게 absentee야. 아파서든 여행 때문이든 이유는 상관없어.",
   "좀 늦게라도 들어온 애는 아니고, 처음부터 부른 적 없는 다른 반 애도 아니야.",
@@ -28,21 +34,21 @@
  "scene": "동아리 회의 명단과 빈 두 자리",
  "examples": [
   {
-   "en": "The teacher wrote the names of the absentees on the board.",
-   "ko": "선생님이 오늘 안 온 애들 이름을 칠판에 적었어."
+   "en": "There was one absentee at today's team meeting.",
+   "ko": "오늘 팀 회의에 안 온 사람이 한 명 있었어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "우리 반 반장 선거 날이야. 반 학생 스물다섯 명이 모두 투표해야 했는데, 현우는 사촌 형 결혼식 때문에 그날 하루 종일 학교에 오지 않았어. 현우는 오늘 반장 선거의 'absentee'야?",
+   "question": "우리 독서 모임 회장 선거 날이야. 회원 스물다섯 명이 모두 투표해야 했는데, 현우는 사촌 형 결혼식 때문에 그날 하루 종일 모임 장소에 오지 않았어. 현우는 그날 회장 선거의 'absentee'야?",
    "choices": [
     "응, absentee 맞아",
     "아니, absentee 아니야"
    ],
    "answer_index": 0,
    "answer": "응, absentee 맞아",
-   "why": "맞아! 현우는 반 학생이라 원래 투표해야 했는데 그날 하루 종일 학교에 오지 않았잖아. 사촌 형 결혼식이라는 이유가 있어도 상관없이, 와야 할 자리에 끝내 없던 사람이니까 바로 absentee인 거야."
+   "why": "맞아! 현우는 독서 모임 회원이라 원래 투표해야 했는데 그날 하루 종일 모임 장소에 오지 않았잖아. 사촌 형 결혼식이라는 이유가 있어도 상관없이, 와야 할 자리에 끝내 없던 사람이니까 바로 absentee인 거야."
   }
  ],
  "synonyms": [],

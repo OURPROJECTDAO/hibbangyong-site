@@ -11,15 +11,21 @@
  "word": "endeavor",
  "slug": "endeavor",
  "url": "https://hibbangyong.com/words/endeavor/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "시도 — 새롭거나 어려운 일을 해내 보려고 힘을 쏟는 것",
  "gloss_ko": "힘든 시도",
  "level": {
   "code": "L7",
-  "name": "토플 72~94점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "동아리에서 한 번도 안 해 본 교내 신문을 만들어 보기로 했어.",
+  "어렵고, 잘될지 아무도 몰라. 그래도 한번 덤벼 보는 거야.",
+  "그렇게 해 보는 일 자체가 endeavor야. 끝이 성공이든 실패든 상관없어.",
+  "매일 하던 일을 열심히 하는 건 좀 달라. 새롭거나 힘든 일에 도전할 때 써."
+ ],
+ "explanation_for_kids": [
   "동아리에서 한 번도 안 해 본 교내 신문을 만들어 보기로 했어.",
   "어렵고, 잘될지 아무도 몰라. 그래도 한번 덤벼 보는 거야.",
   "그렇게 해 보는 일 자체가 endeavor야. 끝이 성공이든 실패든 상관없어.",
@@ -28,14 +34,14 @@
  "scene": "동아리가 처음으로 교내 신문 만들기에 도전",
  "examples": [
   {
-   "en": "Our club's first endeavor to make a school newspaper failed, but we learned a lot.",
-   "ko": "우리 동아리가 처음으로 교내 신문을 만들어 보려던 시도는 실패했지만, 그래도 배운 게 많았어."
+   "en": "Our club's first endeavor to start a campus newspaper failed, but we learned a lot.",
+   "ko": "우리 동아리가 처음으로 학내 신문을 만들어 보려던 시도는 실패했지만, 배운 게 많았어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "민지는 학교 축제에서 한 번도 해 본 적 없는 혼자 하는 연극을 해 보기로 했어. 잘될지는 모르지만 몇 주째 대본을 외우며 연습하고 있어. 민지가 하는 이 일은 'endeavor'야?",
+   "question": "민지는 대학 축제에서 한 번도 해 본 적 없는 혼자 하는 연극을 해 보기로 했어. 잘될지는 모르지만 몇 주째 대본을 외우며 연습하고 있어. 민지가 하는 이 일은 'endeavor'야?",
    "choices": [
     "응, endeavor 맞아",
     "아니, endeavor 아니야"

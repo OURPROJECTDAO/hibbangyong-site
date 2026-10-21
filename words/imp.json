@@ -11,15 +11,20 @@
  "word": "imp",
  "slug": "imp",
  "url": "https://hibbangyong.com/words/imp/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "꼬마 도깨비 — 이야기 속에서 마법을 부리며 못된 장난을 치는 작은 존재 (장난이 심한 아이를 귀엽게 부를 때도 써)",
  "gloss_ko": "꼬마 도깨비",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "동화를 보면 주먹만 한 녀석이 마법으로 우유를 엎고, 신발 끈을 서로 묶어 놓고는 킥킥 웃잖아.",
+  "그런 녀석이 imp야. 크고 무서운 악마랑은 달라. 사람을 크게 해치지는 않고, 작은 몸으로 못된 장난을 치는 쪽이야.",
+  "그래서 말썽꾸러기 아이한테 반은 혼내고 반은 귀여워서 이 말을 쓰기도 해."
+ ],
+ "explanation_for_kids": [
   "동화를 보면 주먹만 한 녀석이 마법으로 우유를 엎고, 신발 끈을 서로 묶어 놓고는 킥킥 웃잖아.",
   "그런 녀석이 imp야. 크고 무서운 악마랑은 달라. 사람을 크게 해치지는 않고, 작은 몸으로 못된 장난을 치는 쪽이야.",
   "그래서 말썽꾸러기 동생한테 반은 혼내고 반은 귀여워서 이 말을 쓰기도 해."
@@ -27,8 +32,8 @@
  "scene": "마법으로 우유를 엎고 신발 끈을 묶어 놓는 작은 녀석",
  "examples": [
   {
-   "en": "In the story, a tiny imp hid the king's crown just to make him angry.",
-   "ko": "이야기 속에서 조그만 꼬마 도깨비가 그냥 왕을 약 올리려고 왕관을 숨겨 버렸어."
+   "en": "In the game I'm playing, an imp keeps stealing my gold.",
+   "ko": "내가 하는 게임에서 꼬마 도깨비가 자꾸 내 금화를 훔쳐 가."
   }
  ],
  "quiz": [

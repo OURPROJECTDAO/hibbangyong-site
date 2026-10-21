@@ -11,25 +11,26 @@
  "word": "nerve",
  "slug": "nerve",
  "url": "https://hibbangyong.com/words/nerve/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "신경 — 몸이 느낀 걸 머리로, 머리가 정한 걸 몸으로 나르는 가느다란 줄",
  "gloss_ko": "신경",
  "level": {
   "code": "L1",
-  "name": "중학교~고1 공통영어 · 눈에 보이는 말"
+  "name": "생활 기본 단어 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "누가 등을 살짝 간질이면 바로 알잖아? 등에서 머리까지 소식이 슝 간 거야.",
   "몸속엔 그 소식을 나르는 가느다란 줄이 구석구석 깔려 있거든.",
   "반대로도 가. 머리에서 '움직여!' 하면 그 줄이 다리까지 그 말을 날라 줘.",
   "피 흐르는 줄이랑은 달라. 이건 피가 아니라 소식이 지나가는 줄이야. 이게 nerve야."
  ],
+ "explanation_for_kids": null,
  "scene": "누가 등을 살짝 간질이는 순간",
  "examples": [
   {
-   "en": "When the doctor tapped my knee, my leg kicked because a nerve told it to.",
-   "ko": "의사 선생님이 무릎을 톡 치니까 신경이 시켜서 다리가 저절로 튀어 올랐어."
+   "en": "My dentist said the pain comes from a nerve in my back tooth.",
+   "ko": "치과에서 그러는데 어금니 신경 때문에 아픈 거래."
   }
  ],
  "quiz": [

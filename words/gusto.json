@@ -11,31 +11,32 @@
  "word": "gusto",
  "slug": "gusto",
  "url": "https://hibbangyong.com/words/gusto/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "신바람 — 어떤 일을 즐기면서 힘차게 하는 기운 (주로 with gusto: 신나게, 힘껏)",
  "gloss_ko": "신바람",
  "level": {
   "code": "L8",
-  "name": "토플 95~113점 수준"
+  "name": "업무 메일·전공 책에 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
   "청소 시간, 다들 대충 하는데 민호만 바닥을 힘껏 박박 닦아. 표정도 즐거워.",
   "하기 싫을 법한 일인데도 즐기면서 힘차게 해. 그 기운이 gusto야.",
   "밥을 먹든 노래를 하든 응원을 하든, 뭘 하는 '모습'에 붙는 말이라 with gusto로 많이 써.",
   "잘하는 거랑은 달라. 서툴러도 즐기면서 힘차게 하면 gusto고, 잘해도 시큰둥하면 아니야."
  ],
+ "explanation_for_kids": null,
  "scene": "청소 시간에 혼자 즐겁게 힘껏 바닥 닦는 학생",
  "examples": [
   {
-   "en": "Minho cleaned the classroom floor with gusto.",
-   "ko": "민호가 교실 바닥을 신나서 힘껏 닦았어."
+   "en": "Minho cleaned his whole apartment with gusto on Saturday.",
+   "ko": "민호가 토요일에 자기 집을 신나게 싹 청소했어."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "미술 시간에 반 친구들이 학교 담장에 벽화를 그려. 지수는 큰 붓을 들고 웃으면서 팔을 크게 휘둘러 페인트를 쓱쓱 힘차게 칠하고 있어. 지수가 칠하는 모습에 'with gusto'를 붙일 수 있을까?",
+   "question": "봉사 활동에서 친구들이 동네 담장에 벽화를 그려. 지수는 큰 붓을 들고 웃으면서 팔을 크게 휘둘러 페인트를 쓱쓱 힘차게 칠하고 있어. 지수가 칠하는 모습에 'with gusto'를 붙일 수 있을까?",
    "choices": [
     "응, 붙일 수 있어",
     "아니, 못 붙여"

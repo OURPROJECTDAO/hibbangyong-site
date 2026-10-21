@@ -11,31 +11,32 @@
  "word": "dip",
  "slug": "dip",
  "url": "https://hibbangyong.com/words/dip/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "살짝 담갔다 빼다 / 잠깐 아래로 내리다",
  "gloss_ko": "쏙 담갔다 뺌",
  "level": {
   "code": "L4",
-  "name": "고2~3 영어 I·영어 II · 눈에 보이는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 눈에 보이는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "쿠키를 우유에 쏙 넣었다가 바로 뺐어.",
   "푹 담가 두는 거 아니야! 잠깐 아래로 갔다가 금방 다시 올라오는 거거든?",
   "손끝을 물에 콕 찍었다 빼는 것도, 길이 살짝 내려갔다 올라오는 것도 똑같아.",
   "이렇게 잠깐 아래로 넣었다(내렸다) 빼는 게 dip이야."
  ],
+ "explanation_for_kids": null,
  "scene": "쿠키를 우유에 쏙 넣었다 바로 빼는 한순간",
  "examples": [
   {
-   "en": "I dipped my toe in the pool to check if the water was cold.",
-   "ko": "물이 찬지 보려고 수영장에 발끝을 살짝 담갔어."
+   "en": "Let me dip my toe in the pool first.",
+   "ko": "먼저 수영장에 발끝 좀 살짝 담가 볼게."
   }
  ],
  "quiz": [
   {
    "type": "ox",
-   "question": "그림 그리던 아이가 붓 끝을 물감에 잠깐 콕 담갔다가 바로 뺐어. 이게 'dip'이야?",
+   "question": "그림 그리던 친구가 붓 끝을 물감에 잠깐 콕 담갔다가 바로 뺐어. 이게 'dip'이야?",
    "choices": [
     "응, 이건 dip이 맞아.",
     "아니, 이건 dip이 아니야."

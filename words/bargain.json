@@ -11,21 +11,27 @@
  "word": "bargain",
  "slug": "bargain",
  "url": "https://hibbangyong.com/words/bargain/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "싸게 잘 산 것. 낸 돈은 조금인데 받은 건 훨씬 많은 것.",
  "gloss_ko": "싸게 잘 산 것",
  "level": {
   "code": "L5",
-  "name": "고2~3 영어 I·영어 II · 조금 더 넓은 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "시장에서 천 원을 딱 냈는데, 큰 과일 상자를 통째로 받았어.",
+  "어? 낸 돈은 쪼끔인데 받은 건 이렇게 많다고?",
+  "이렇게 적게 내고 훨씬 많이 얻으면, 완전 잘 산 거잖아.",
+  "그냥 비싼 좋은 걸 산 거랑은 달라. 싸게 얻어야 이거야. 이게 bargain이야."
+ ],
+ "explanation_for_kids": [
   "시장에서 천 원을 딱 냈는데, 큰 장난감 상자를 통째로 받았어.",
   "어? 낸 돈은 쪼끔인데 받은 건 이렇게 많다고?",
   "이렇게 적게 내고 훨씬 많이 얻으면, 완전 잘 산 거잖아.",
   "그냥 비싼 좋은 걸 산 거랑은 달라. 싸게 얻어야 이거야. 이게 bargain이야."
  ],
- "scene": "시장에서 천 원 내고 큰 장난감 상자를 통째로 받은 장면",
+ "scene": "시장에서 천 원 내고 큰 과일 상자를 통째로 받은 장면",
  "examples": [
   {
    "en": "Two big toys for one dollar? What a bargain!",
@@ -61,7 +67,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/bargain.webp",
-  "alt": "시장에서 천 원 내고 큰 장난감 상자를 통째로 받은 장면",
+  "alt": "시장에서 천 원 내고 큰 과일 상자를 통째로 받은 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,25 +11,31 @@
  "word": "committee",
  "slug": "committee",
  "url": "https://hibbangyong.com/words/committee/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "위원회(일을 맡아 정하는 모임) — 어떤 일을 맡아서 같이 이야기하고 정하라고 몇 명 골라 놓은 사람들",
  "gloss_ko": "일을 맡아 정하는 모임",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "동아리 사람 스물다섯이 한꺼번에 떠들면 아무것도 못 정하거든?",
+  "그래서 그중 네 명만 골랐어. 그 네 명이 따로 모여서 이야기하고 정하는 거야.",
+  "재밌는 걸 정할 때도 있고, 누가 규칙을 어겼을 때 어떻게 할지 정할 때도 있어.",
+  "그냥 같이 노는 무리 말고, 맡은 일을 정하라고 골라 놓은 사람들. 이게 committee야."
+ ],
+ "explanation_for_kids": [
   "반 아이 스물다섯이 한꺼번에 떠들면 아무것도 못 정하거든?",
   "그래서 그중 네 명만 골랐어. 그 네 명이 따로 모여서 이야기하고 정하는 거야.",
   "재밌는 걸 정할 때도 있고, 누가 규칙을 어겼을 때 어떻게 할지 정할 때도 있어.",
   "그냥 같이 노는 무리 말고, 맡은 일을 정하라고 골라 놓은 사람들. 이게 committee야."
  ],
- "scene": "스물다섯 명이 다 떠들어 못 정하자 네 명만 골라 따로 정하게 한 교실 장면",
+ "scene": "스물다섯 명이 다 떠들어 못 정하자 네 명만 골라 따로 정하게 한 동아리 장면",
  "examples": [
   {
-   "en": "A committee of four kids will decide the new rule for our classroom.",
-   "ko": "아이 넷으로 된 위원회가 우리 반 새 규칙을 정할 거야."
+   "en": "A committee of four people will decide the new rule for our class.",
+   "ko": "네 명으로 된 위원회가 우리 수업의 새 규칙을 정할 거야."
   }
  ],
  "quiz": [
@@ -63,7 +69,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/committee.webp",
-  "alt": "스물다섯 명이 다 떠들어 못 정하자 네 명만 골라 따로 정하게 한 교실 장면",
+  "alt": "스물다섯 명이 다 떠들어 못 정하자 네 명만 골라 따로 정하게 한 동아리 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

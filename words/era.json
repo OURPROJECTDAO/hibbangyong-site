@@ -11,20 +11,21 @@
  "word": "era",
  "slug": "era",
  "url": "https://hibbangyong.com/words/era/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "시대 — 어떤 특징 하나로 크게 묶는 아주 긴 세월",
  "gloss_ko": "시대",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
   "공룡이 쿵쿵 걸어 다니던 그 긴~ 세월 있잖아. 1억 년도 넘는 그 세월을 통째로 '공룡 시대'라고 불러.",
   "왜 한 덩어리로 묶냐고? 그때 세상을 딱 대표하는 게 공룡이었거든.",
   "지금 우리가 사는 때도 나중엔 '스마트폰 시대'라고 부를걸?",
   "그렇게 뭔가 하나로 크게 묶는 긴 세월, 그게 era야."
  ],
+ "explanation_for_kids": null,
  "scene": "공룡이 걷던 몇백만 년을 '공룡 시대' 한 덩어리로 묶는 장면",
  "examples": [
   {

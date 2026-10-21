@@ -11,21 +11,27 @@
  "word": "common",
  "slug": "common",
  "url": "https://hibbangyong.com/words/common/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "흔한 — 여기저기 자주 보여서 특별하지 않은",
  "gloss_ko": "흔한",
  "level": {
   "code": "L2",
-  "name": "중학교~고1 공통영어 · 조금 더 넓은 말"
+  "name": "생활 기본 단어 · 조금 더 넓은 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "길을 걷다 보면 참새가 여기저기 있잖아.",
+  "한 마리도 아니고, 어딜 가도 자꾸 보여.",
+  "귀한 것도 특별한 것도 아니야. 너무 많아서 그냥 그러려니 해.",
+  "'인기 많은' 거랑은 달라 — 좋아하든 말든 그냥 많은 거야. 이게 common이야."
+ ],
+ "explanation_for_kids": [
   "길을 걷다 보면 참새가 여기저기 짹짹 있잖아.",
   "한 마리도 아니고, 어딜 가도 자꾸자꾸 보여.",
   "귀한 것도 특별한 것도 아니야. 너무 많아서 그냥 그러려니 해.",
   "'인기 많은' 거랑은 달라 — 좋아하든 말든 그냥 많은 거야. 이게 common이야."
  ],
- "scene": "길·놀이터에 여기저기 흔한 참새",
+ "scene": "길·공원에 여기저기 흔한 참새",
  "examples": [
   {
    "en": "Sparrows are very common in my town.",
@@ -35,14 +41,14 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "동네 놀이터 옆 화단에 민들레가 피어 있어. 옆 골목 화단에도, 학교 가는 길 담벼락 밑에도, 공원 잔디밭에도 민들레가 피어 있어. 이 민들레는 'common'해?",
+   "question": "동네 카페 옆 화단에 민들레가 피어 있어. 옆 골목 화단에도, 회사 가는 길 담벼락 밑에도, 공원 잔디밭에도 민들레가 피어 있어. 이 민들레는 'common'해?",
    "choices": [
     "응, common해",
     "아니, common 아니야"
    ],
    "answer_index": 0,
    "answer": "응, common해",
-   "why": "맞아! 놀이터 옆에도, 골목에도, 학교 가는 길에도, 공원에도 있잖아. 어딜 가도 자꾸 보이니까 바로 그게 common인 거야."
+   "why": "맞아! 카페 옆에도, 골목에도, 회사 가는 길에도, 공원에도 있잖아. 어딜 가도 자꾸 보이니까 바로 그게 common인 거야."
   }
  ],
  "synonyms": [
@@ -66,7 +72,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/common.webp",
-  "alt": "길·놀이터에 여기저기 흔한 참새",
+  "alt": "길·공원에 여기저기 흔한 참새",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }

@@ -11,21 +11,27 @@
  "word": "profound",
  "slug": "profound",
  "url": "https://hibbangyong.com/words/profound/",
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "source": "하이빵용 (https://hibbangyong.com/)",
  "meaning_ko": "아주 깊은 — 겉만 살짝이 아니라 속 바닥까지 닿아 크게 바꿔 놓는",
  "gloss_ko": "아주 깊은",
  "level": {
   "code": "L6",
-  "name": "고2~3 영어 I·영어 II · 생각을 나타내는 말"
+  "name": "뉴스·드라마에 자주 나오는 말 · 생각을 나타내는 말"
  },
- "explain_to_child": [
+ "explanation": [
+  "어떤 말이나 일은 귀에 살짝 닿았다 그냥 지나가. 근데 어떤 건 마음 제일 밑바닥까지 쑥 내려가.",
+  "선배 한마디가 며칠이 지나도 안 잊히고 자꾸 떠올라서, 네가 뭘 정할 때마다 다르게 하게 만든 적 있지? 그만큼 깊이 파고든 거야.",
+  "말만 그런 게 아니야. 큰일을 한 번 겪고 나면 사람 속이 뿌리째 달라지기도 해. 겉만 톡 스치는 게 아니라 제일 아래 바닥까지 닿는 거.",
+  "그게 profound야."
+ ],
+ "explanation_for_kids": [
   "어떤 말이나 일은 귀에 살짝 닿았다 그냥 지나가. 근데 어떤 건 마음 제일 밑바닥까지 쑥 내려가.",
   "할머니 한마디가 며칠이 지나도 안 잊히고 자꾸 떠올라서, 네가 뭘 정할 때마다 다르게 하게 만든 적 있지? 그만큼 깊이 파고든 거야.",
   "말만 그런 게 아니야. 큰일을 한 번 겪고 나면 사람 속이 뿌리째 달라지기도 해. 겉만 톡 스치는 게 아니라 제일 아래 바닥까지 닿는 거.",
   "그게 profound야."
  ],
- "scene": "할머니 한마디가 며칠 뒤에도 떠올라 결정에 영향 주는 장면",
+ "scene": "선배 한마디가 며칠 뒤에도 떠올라 결정에 영향 주는 장면",
  "examples": [
   {
    "en": "Moving to a new country made a profound change in his life.",
@@ -35,7 +41,7 @@
  "quiz": [
   {
    "type": "ox",
-   "question": "수영장이 어른 키보다 훨씬 깊어서 서면 바닥에 발이 안 닿았어. 이 물의 깊이를 'profound'라고 해?",
+   "question": "수영장이 내 키보다 훨씬 깊어서 서면 바닥에 발이 안 닿았어. 이 물의 깊이를 'profound'라고 해?",
    "choices": [
     "응, profound 맞아",
     "아니, profound 아니야"
@@ -66,7 +72,7 @@
  },
  "image": {
   "url": "https://hibbangyong.com/words/img/profound.webp",
-  "alt": "할머니 한마디가 며칠 뒤에도 떠올라 결정에 영향 주는 장면",
+  "alt": "선배 한마디가 며칠 뒤에도 떠올라 결정에 영향 주는 장면",
   "reuse": "not permitted — 그림은 인용 허용에서 빠짐"
  }
 }
