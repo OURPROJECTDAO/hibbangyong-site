@@ -22,7 +22,7 @@ a{color:#6B6455}
 <main>
 <h1 id="h">앱 받는 곳으로 가는 중이에요</h1>
 <p id="p">잠시 뒤 열려요. 안 열리면 아래 단추를 눌러 주세요.</p>
-<a id="ga" href="#" style="display:block;width:100%;max-width:20rem;line-height:0;color:#1D495D;font-weight:700"><img src="/img/ko_badge_web_generic.png" alt="Google Play에서 받기" width="646" height="250" style="display:block;width:100%;height:auto"></a><a id="gi" href="#" style="display:flex;width:100%;max-width:24rem;align-items:center;justify-content:center;min-height:3.25rem;border-radius:999px;background:#1D495D;color:#fff;font-weight:700;font-size:1.05rem;text-decoration:none">아이폰 앱 받기</a><p id="n" hidden>아이폰은 App Store 에서 ‘TestFlight’ 앱을 먼저 받은 뒤 눌러 주세요.</p>
+<a id="ga" href="#" style="display:block;width:100%;max-width:20rem;line-height:0;color:#1D495D;font-weight:700"><img src="/img/ko_badge_web_generic.png" alt="Google Play에서 받기" width="646" height="250" style="display:block;width:100%;height:auto"></a><a id="gi" href="#" style="display:flex;width:100%;max-width:24rem;align-items:center;justify-content:center;min-height:3.25rem;border-radius:999px;background:#1D495D;color:#fff;font-weight:700;font-size:1.05rem;text-decoration:none">아이폰 앱 받기</a><p id="n" hidden>App Store 에서 «하이빵용»을 찾아도 돼요.</p>
 <a href="/">하이빵용</a>
 </main>
 <script>
@@ -30,7 +30,7 @@ a{color:#6B6455}
   var q = new URLSearchParams(location.search), s = q.get('s') || '', os = q.get('os') || '';
   var ua = navigator.userAgent || '', tp = navigator.maxTouchPoints || 0;
   if (!os) os = /Android/i.test(ua) ? 'android' : (/iPhone|iPad|iPod/i.test(ua) || (/Macintosh/i.test(ua) && tp > 1)) ? 'ios' : '';
-  var U = {"android": {"notice": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Demail%26utm_medium%3Dnotice%26utm_campaign%3Dapp", "d0": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Demail%26utm_medium%3Dd0%26utm_campaign%3Dapp"}, "ios": "https://testflight.apple.com/join/Azj21gUf"}, P = ["앱 받기", "쓰시는 폰에 맞는 단추를 눌러 주세요."], n = document.getElementById('n');
+  var U = {"android": {"notice": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Demail%26utm_medium%3Dnotice%26utm_campaign%3Dapp", "d0": "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=utm_source%3Demail%26utm_medium%3Dd0%26utm_campaign%3Dapp"}, "ios": "https://apps.apple.com/kr/app/id6817568088"}, P = ["앱 받기", "쓰시는 폰에 맞는 단추를 눌러 주세요."], n = document.getElementById('n');
   var ms = /^(notice|d0)$/.test(s) ? s : 'notice';
   var a = document.getElementById('ga'), i = document.getElementById('gi');
   a.href = U.android[ms]; i.href = U.ios; n.hidden = false;
