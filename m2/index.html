@@ -3,12 +3,49 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<!-- 옛 베타 페이지 m2 → 홈으로 옮김(2026-10-21 · GitHub Pages 는 301 을 못 해 meta refresh ＋ canonical) -->
+<!-- 옛 베타 페이지 m2 → 홈으로 옮김(2026-10-21 · GitHub Pages 는 301 을 못 해 canonical ＋ 스크립트 넘김 · 스크립트 없으면 meta refresh) -->
 <meta name="robots" content="noindex,follow">
 <title>하이빵용 홈으로 옮겼어요</title>
 <link rel="canonical" href="https://hibbangyong.com/">
-<meta http-equiv="refresh" content="0; url=/">
+<noscript><meta http-equiv="refresh" content="0; url=/"></noscript>
 <style>body{margin:0;padding:2rem 16px;font-family:-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Noto Sans KR","Malgun Gothic",sans-serif;background:#f7efe0;color:#4a321c;line-height:1.7}a{color:#0f6fae;font-weight:700}@media (prefers-color-scheme:dark){body{background:#1f1a14;color:#f4e8d6}a{color:#8fd0fa}}</style>
+<script>
+/* 📣 m2 = 광고·메일 도착 주소 → 넘기기 전에 Meta 픽셀 PageView 한 번(개인정보 처리방침 제14조 · 옛 m2 픽셀 코드 그대로: 시험 링크 ?t=1 = 이 브라우저 늘 0 · fbclid → _fbc · 주소 쿼리·리퍼러 쿼리 안 보냄)
+   🤖봇(UA 낱말 = 홈 방문 기록과 같은 목록 · navigator.webdriver) = 픽셀 0 · 곧바로 넘김 · 사람 신호는 못 기다린다(넘김 페이지) ⇒ 쏘고 넘김(fbevents 받은 뒤 0.4초 · 늦어도 1.5초) */
+(function () {
+  var PIXEL = '1589564712853457';
+  var done = false;
+  function home() { if (done) return; done = true; location.replace('/'); }
+  try {
+    if (new URLSearchParams(location.search).get('t') === '1') localStorage.setItem('hbb-trial-test', '1');
+    if (localStorage.getItem('hbb-trial-test') === '1') return home();
+  } catch (e) {}
+  var BOTS = ['headlesschrome', 'headlessedg', 'phantomjs', 'puppeteer', 'playwright', 'lighthouse', 'selenium', 'googlebot', 'adsbot', 'mediapartners', 'google-inspectiontool', 'googleother', 'google-pagerenderer', 'google-safety', 'google web preview', 'apis-google', 'storebot-google', 'feedfetcher', 'bingbot', 'bingpreview', 'msnbot', 'yandex', 'baiduspider', 'duckduckbot', 'applebot', 'petalbot', 'bytespider', 'semrushbot', 'ahrefsbot', 'mj12bot', 'dotbot', 'gptbot', 'claudebot', 'ccbot', 'facebookexternalhit', 'facebot', 'meta-externalagent', 'meta-externalfetcher', 'twitterbot', 'slackbot', 'slack-imgproxy', 'discordbot', 'telegrambot', 'linkedinbot', 'pinterestbot', 'redditbot', 'whatsapp/', 'skypeuripreview', 'embedly', 'iframely', 'vkshare', 'kakaotalk-scrap', 'yeti/', 'daumoa', 'python-requests', 'python-urllib', 'curl/', 'wget/', 'go-http-client', 'okhttp', 'node-fetch', 'axios/', 'crawler', 'spider'];
+  var lua = (navigator.userAgent || '').toLowerCase();
+  for (var b = 0; b < BOTS.length; b++) if (lua.indexOf(BOTS[b]) >= 0) return home();
+  if (navigator.webdriver === true || !/^\d{5,20}$/.test(PIXEL)) return home();
+  try {
+    var c = new URLSearchParams(location.search).get('fbclid');
+    if (c && /^[A-Za-z0-9_-]{1,500}$/.test(c) && document.cookie.indexOf('_fbc=') < 0) document.cookie = '_fbc=fb.1.' + Date.now() + '.' + c + '; path=/; max-age=7776000; SameSite=Lax';
+    if (location.search) history.replaceState(history.state, '', location.pathname + location.hash);
+  } catch (e) {}
+  if (location.search) return home();
+  try {
+    var r = document.referrer;
+    if (r.indexOf('?') >= 0 || r.indexOf('#') >= 0) { var u = new URL(r), bare = u.origin + u.pathname; Object.defineProperty(document, 'referrer', { configurable: true, get: function () { return bare; } }); }
+  } catch (e) {}
+  var n = window.fbq = function () { n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments); };
+  window._fbq = n; n.push = n; n.loaded = true; n.version = '2.0'; n.queue = []; n.disablePushState = true;
+  var s = document.createElement('script'); s.async = true; s.src = 'https://connect.facebook.net/en_US/fbevents.js'; s.referrerPolicy = 'origin';
+  s.onload = function () { setTimeout(home, 400); };
+  s.onerror = home;
+  document.head.appendChild(s);
+  n('set', 'autoConfig', false, PIXEL);
+  n('init', PIXEL);
+  n('track', 'PageView');
+  setTimeout(home, 1500);
+})();
+</script>
 </head>
 <body>
 <p>이 페이지는 하이빵용 홈으로 옮겼어요. <a href="/">하이빵용 홈으로 가기</a></p>
