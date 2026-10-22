@@ -224,8 +224,8 @@ html:not([data-get="ios"]) .get-ios-note{display:none}
 .btn.th-go:hover{filter:brightness(1.04)}
 .btn.th-go:focus-visible{outline:3px solid var(--ink);outline-offset:3px}
 .th-pair{color:var(--ink2);font-size:.95rem;margin:.65rem 0 0}
-.th-app{display:inline-flex;align-items:center;justify-content:center;min-height:3rem;width:min(100%,19rem);margin:1.4rem auto 0;padding:.6rem 1.2rem;border:2px solid var(--ink);border-radius:999px;color:var(--ink);font-weight:700;text-decoration:none}
 .th-ios{color:var(--ink2);font-size:.88rem;margin:.5rem 0 0}
+.stores.th-stores{margin:1.4rem auto 0;--bh:clamp(40px,11vw,48px)}   /* 🏷️10-22 첫 화면 «바로 앱 받기» 글 단추 둘 → 공식 배지 둘(✍️ «제일 윗부분은 왜 안고쳤어») · 작은 꼴 · Apple 40px 아래 0 · 360 폭에도 한 줄(≈280px) */
 @media (prefers-reduced-motion:no-preference){
   .th-art img{animation:th-bob 2.6s ease-in-out infinite}
   .th-art img:nth-child(2){animation-delay:-.9s}
@@ -424,8 +424,10 @@ main #en .lead{font-size:1rem}
   <a class="btn th-go" href="/play/?utm_source=homepage&amp;utm_medium=hero">설치 없이 3분 맛보기</a>
   <script>(function(){try{var q=new URLSearchParams(location.search),o=new URLSearchParams();if(q.get('utm_source')){['utm_source','utm_medium','utm_campaign'].forEach(function(k){var v=q.get(k);if(v)o.set(k,v.slice(0,64))});o.set('utm_content','hero')}if(q.get('t')==='1')o.set('t','1');if(!o.toString())return;if(!o.get('utm_source')){o.set('utm_source','homepage');o.set('utm_medium','hero')}document.querySelectorAll('a.th-go').forEach(function(a){a.href='/play/?'+o.toString()})}catch(e){}})();</script>
   <p class="th-pair">단어 4개 배우고 · 미니게임 한 판</p>
-  <a class="th-app" href="https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&amp;referrer=utm_source%3Dsite%26utm_medium%3Dhero%26utm_campaign%3Dalways">바로 앱 받기 · Google Play</a>
-  <a class="th-app th-app-ios" href="https://apps.apple.com/kr/app/id6817568088" rel="noopener">바로 앱 받기 · App Store</a>
+  <div class="stores th-stores">
+  <a class="th-app b-and" href="https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&amp;referrer=utm_source%3Dsite%26utm_medium%3Dhero%26utm_campaign%3Dalways"><img src="img/ko_badge_web_generic.png" alt="Google Play에서 다운로드" width="646" height="250"></a>
+  <a class="th-app th-app-ios b-ios" href="https://apps.apple.com/kr/app/id6817568088" rel="noopener"><img src="img/appstore_badge_ko_black.svg" alt="App Store에서 다운로드하기" width="130" height="40"></a>
+  </div>
 </section>
 
 <section id="app" class="ap" aria-labelledby="ap-h">
