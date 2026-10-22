@@ -13,12 +13,14 @@ main{max-width:30rem;margin:0 auto;padding:max(1.5rem,env(safe-area-inset-top)) 
 h1{font-size:1.5rem;margin:.25rem 0 0}
 p{margin:0;color:#6B6455}
 .shot{width:100%;max-width:24rem;height:auto;border-radius:18px;display:block;aspect-ratio:16/9;object-fit:cover;background:#F2E9C9}
-.btns{width:100%;max-width:24rem;display:flex;flex-direction:column;gap:.6rem}
+.btns{width:100%;display:flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:10px 16px;--bh:clamp(40px,12vw,60px)}
 .go{display:flex;width:100%;align-items:center;justify-content:center;min-height:3.4rem;border-radius:999px;background:#1D495D;color:#fff;font-weight:700;font-size:1.1rem;text-decoration:none}
 .go.sub{background:#fff;color:#1D495D;border:2px solid #1D495D}
-.badge{display:block;width:100%;align-self:center;line-height:0;text-decoration:none;color:#1D495D;font-weight:700}
-.badge img{display:block;width:100%;max-width:24rem;height:auto;margin:0 auto}
-.badge.sub img{max-width:15rem}
+/* 🏷️10-22 스토어 공식 배지 한 쌍(✍️ «공식단추로 둘다») · 파일 그대로 · 보이는 높이 같게(Google PNG 위아래 투명 여백 192/250 → 높이 --bh/.768) · 아이폰 = Apple 먼저 */
+.badge{display:block;line-height:0;text-decoration:none;color:#1D495D;font-weight:700;border-radius:8px}
+.badge img{display:block;width:auto;max-width:none}
+#gp img{height:calc(var(--bh) / .768)}
+#gi img{height:var(--bh)}
 .note{font-size:.9rem}
 a.home{color:#6B6455;font-size:.9rem}
 </style>
@@ -29,8 +31,8 @@ a.home{color:#6B6455;font-size:.9rem}
 <h1>하이빵용</h1>
 <p>놀다 보면 영어 단어가 남는 힐링 게임</p>
 <div class="btns" id="btns">
-<a class="badge" id="gp" href="https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&amp;referrer=utm_source%3Dsite%26utm_medium%3Dlanding%26utm_campaign%3Dapp"><img src="/img/ko_badge_web_generic.png" alt="Google Play에서 받기" width="646" height="250"></a>
-<a class="go sub" id="gi" href="https://apps.apple.com/kr/app/id6817568088">아이폰은 App Store에서 받기</a>
+<a class="badge" id="gp" href="https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&amp;referrer=utm_source%3Dsite%26utm_medium%3Dlanding%26utm_campaign%3Dapp"><img src="/img/ko_badge_web_generic.png" alt="Google Play에서 다운로드" width="646" height="250"></a>
+<a class="badge" id="gi" href="https://apps.apple.com/kr/app/id6817568088"><img src="/img/appstore_badge_ko_black.svg" alt="App Store에서 다운로드하기" width="130" height="40"></a>
 </div>
 <p class="note" id="n" hidden>App Store 에서 «하이빵용»을 찾아도 돼요.</p>
 <a class="home" href="/">하이빵용 홈</a>
@@ -42,7 +44,7 @@ a.home{color:#6B6455;font-size:.9rem}
   var gp = document.getElementById('gp'), gi = document.getElementById('gi'), n = document.getElementById('n');
   gp.href = "https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&referrer=" + encodeURIComponent(ref.length ? ref.join('&') : "utm_source=site&utm_medium=landing&utm_campaign=app");
   var ua = navigator.userAgent || '', tp = navigator.maxTouchPoints || 0;
-  if (/iPhone|iPad|iPod/i.test(ua) || (/Macintosh/i.test(ua) && tp > 1)) { gi.className = 'go'; gp.className = 'badge sub'; gi.parentNode.insertBefore(gi, gp); n.hidden = false; }
+  if (/iPhone|iPad|iPod/i.test(ua) || (/Macintosh/i.test(ua) && tp > 1)) { gi.parentNode.insertBefore(gi, gp); n.hidden = false; }
 })();
 </script>
 <script>

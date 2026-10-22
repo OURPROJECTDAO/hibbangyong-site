@@ -93,6 +93,12 @@ h2 .no{color:var(--blue-ink);margin-right:.35rem}
 .btn2{color:var(--blue-ink);font-weight:700;text-decoration:none}
 .btn2:hover{text-decoration:underline}
 .ios{color:var(--ink2);font-size:.92rem;margin:0}
+/* 🏷️10-22 스토어 공식 배지 한 쌍(✍️ «공식단추로 둘다») · 파일 그대로 · 보이는 높이 같게(Google PNG 위아래 투명 여백 192/250) · 홈 .stores 와 같은 줄 */
+.stores{display:flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:10px 16px;--bh:clamp(40px,11vw,56px)}
+.stores a{display:block;line-height:0;border-radius:8px}
+.stores img{display:block;width:auto;max-width:none}
+.stores .b-ios img{height:var(--bh)}
+.stores .b-and img{height:calc(var(--bh) / .768)}
 .faq{display:grid;gap:.6rem}
 details.fold{background:var(--card);border:1px solid var(--line);border-radius:1.1rem}
 details.fold>summary{cursor:pointer;list-style:none;display:flex;justify-content:space-between;align-items:center;gap:1rem;padding:.95rem 1.2rem;font-weight:700}
@@ -253,9 +259,11 @@ footer{background:var(--bg2);border-top:1px solid var(--line);padding:2rem 0 max
       <li>배운 단어는 방에 액자로 걸리고, 복습할수록 화분이 자라요.</li>
     </ul>
     <div class="cta">
-      <a class="btn" href="https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&amp;referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dguide" rel="noopener">구글 플레이에서 받기</a>
+      <div class="stores">
+      <a class="b-and" href="https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&amp;referrer=utm_source%3Dsite%26utm_medium%3Dweb%26utm_campaign%3Dguide" rel="noopener"><img src="/img/ko_badge_web_generic.png" alt="Google Play에서 다운로드" width="646" height="250" loading="lazy"></a>
+      <a class="b-ios" href="https://apps.apple.com/kr/app/id6817568088" rel="noopener"><img src="/img/appstore_badge_ko_black.svg" alt="App Store에서 다운로드하기" width="130" height="40" loading="lazy"></a>
+      </div>
       <a class="btn2" href="/play/?utm_source=site&amp;utm_medium=web&amp;utm_campaign=guide">설치 없이 웹에서 3분 맛보기 →</a>
-      <p class="ios"><a href="https://apps.apple.com/kr/app/id6817568088" rel="noopener">아이폰은 App Store에서 받기 →</a></p>
     </div>
   </div>
 </section>

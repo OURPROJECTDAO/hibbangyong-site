@@ -167,6 +167,7 @@ body.has-bar footer{padding-bottom:6rem}
 @media (min-width:900px){
   section{padding:4.5rem 0}
   .beta-go{flex-direction:row;flex-wrap:wrap;justify-content:center}
+  .beta-go .stores{flex-basis:100%;margin-bottom:.3rem}
   .beta .jios{flex-basis:100%}
   .hero-in{padding-top:3rem;padding-bottom:2.4rem}
   .hero-art{aspect-ratio:16/9;max-height:80vh}
@@ -187,21 +188,21 @@ body.has-bar footer{padding-bottom:6rem}
 .get-alt a{color:var(--ink2);font-weight:600;text-underline-offset:3px}
 [data-get="and"] .get-ios,[data-get="and"] .get-ios-note{display:none}
 [data-get="ios"] .get-and{display:none}
-.get-badge{display:block;align-self:center;margin:-.3rem 0 .3rem;line-height:0}
-.get-badge img{display:block;height:4.4rem;width:auto}
-[data-get="and"] .get-badge img{height:5rem}
+html:not([data-get="ios"]) .get-ios-note{display:none}
 [data-get="and"] .get-alt-and,[data-get="ios"] .get-alt-ios{display:block}
-[data-get="and"] .get .play,[data-get="ios"] .get .play{font-size:1.2rem;min-height:3.8rem}
+/* 🏷️10-22 스토어 공식 배지 한 쌍(✍️ «구글플레이, 아이폰앱스토어 공식단추로 둘다») · 파일 그대로(색·모양·글자·둘레 여백 고치기 0)
+   --bh = 보이는 배지 높이 · Apple SVG = 여백 0(높이 = --bh) · Google PNG = 위아래 투명 여백(보이는 몸 192/250) → 높이 --bh/.768 = 두 배지 보이는 높이 같음
+   틈 16px ≥ Apple 둘레 여백(배지 높이 1/4) · 좁으면 줄 바꿈 */
+.stores{display:flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:10px 16px;--bh:clamp(40px,11vw,56px)}
+.stores a{display:block;line-height:0;border-radius:8px}
+.stores img{display:block;width:auto;max-width:none}
+.stores .b-ios img{height:var(--bh)}
+.stores .b-and img{height:calc(var(--bh) / .768)}
+.get .stores{margin:0 0 .6rem}
+[data-get="and"] .get .stores,[data-get="ios"] .get .stores{--bh:3.85rem}
 .join .jios{margin:0 0 .5rem}
 .jfine{text-wrap:balance}
 .jfine a{white-space:nowrap}
-@media (min-width:768px){
-  html:not([data-get="and"]):not([data-get="ios"]) .get{display:grid;grid-template-columns:auto auto;justify-content:center;align-items:center;column-gap:12px}
-  html:not([data-get="and"]):not([data-get="ios"]) .get-badge{grid-column:1;grid-row:1;margin:0}
-  html:not([data-get="and"]):not([data-get="ios"]) .get-badge img{height:73px}
-  html:not([data-get="and"]):not([data-get="ios"]) .get .get-ios{grid-column:2;grid-row:1;justify-self:center;width:auto;height:56px;min-height:56px;margin:0;padding:0 1.4rem}
-  html:not([data-get="and"]):not([data-get="ios"]) .get-ios-note{grid-column:2;grid-row:2;margin:.45rem 0 0;white-space:nowrap}
-}
 .btn.jbtn{background:transparent;color:var(--btn);border:2px solid var(--btn);box-shadow:none}
 /* 🧭10-11 첫 화면 = 체험판 입구(✍️ «체험판 랜딩페이지 최상단으로 · 홈페이지 들어가자마자 클릭해 보고 싶게») */
 :root{--yel:#f7c531;--yel-ink:#3d2a0e}
@@ -446,9 +447,12 @@ main #en .lead{font-size:1rem}
       <script>(function(){var u=navigator.userAgent||'',d='pc';if(/android/i.test(u))d='and';else if(/iphone|ipad|ipod/i.test(u)||(/Macintosh/.test(u)&&navigator.maxTouchPoints>1))d='ios';document.documentElement.setAttribute('data-get',d)})();</script>
       <div class="get">
       <!-- 안드로이드 = Google 공식 «Google Play에서 다운로드» 배지(한국어 · play.google.com/intl/en_us/badges 공식 파일 그대로 · 색·모양·둘레 여백 고치기 0 · ✍️ 10-12) -->
-      <a class="get-and get-badge" href="https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp" rel="noopener"><img src="img/ko_badge_web_generic.png" alt="Google Play에서 다운로드" width="646" height="250"></a>
-      <!-- 아이폰 = App Store(10-21 21:2x ✍️ 1.8.2 «이 버전 출시» · 옛 = TestFlight 공개 링크 ✍️ 10-12) · 글 단추＋일반 내려받기 아이콘 · ⬜Apple 공식 App Store 배지는 아직 0(배지 파일 반입 = ✍️ 확인 뒤 · 그때 이 단추를 배지로) -->
-      <a class="btn play get-ios" href="https://apps.apple.com/kr/app/id6817568088" rel="noopener"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 4v11M7 10.5l5 5 5-5M5 20h14"/></svg>App Store에서 받기</a>
+      <!-- 아이폰 = Apple 공식 «App Store에서 다운로드하기» 배지(한국어 검정 · Apple Marketing Tools toolbox.marketingtools.apple.com 공식 SVG 그대로 · ✍️ 10-22 «공식단추로 둘다») · 앱 = 10-21 1.8.2 출시 -->
+      <!-- 폰 = 그 기기 배지 하나 크게(+ 아래 «…세요? →» 글 고리) · PC·모름 = 두 배지 나란히 -->
+      <div class="stores">
+      <a class="get-and b-and" href="https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp" rel="noopener"><img src="img/ko_badge_web_generic.png" alt="Google Play에서 다운로드" width="646" height="250"></a>
+      <a class="get-ios b-ios" href="https://apps.apple.com/kr/app/id6817568088" rel="noopener"><img src="img/appstore_badge_ko_black.svg" alt="App Store에서 다운로드하기" width="130" height="40"></a>
+      </div>
       <p class="get-note get-ios-note">아이폰·아이패드는 App Store에서 받아요</p>
       <p class="get-alt get-alt-and"><a href="https://apps.apple.com/kr/app/id6817568088" rel="noopener">아이폰이세요? →</a></p>
       <p class="get-alt get-alt-ios"><a href="https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp" rel="noopener">안드로이드세요? →</a></p>
@@ -573,8 +577,10 @@ main #en .lead{font-size:1rem}
       <h2>하이빵용 받기</h2>
       <p>안드로이드는 구글 플레이에서, 아이폰은 App Store 에서 지금 바로 받을 수 있어요. 이메일을 남겨 주시면 새 소식을 바로 알려 드려요.</p>
       <div class="beta-go">
-      <a class="btn" href="https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp" rel="noopener">구글 플레이에서 받기</a>
-      <a class="btn" href="https://apps.apple.com/kr/app/id6817568088" rel="noopener">아이폰은 App Store에서 받기</a>
+      <div class="stores">
+      <a class="b-and" href="https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp" rel="noopener"><img src="img/ko_badge_web_generic.png" alt="Google Play에서 다운로드" width="646" height="250" loading="lazy"></a>
+      <a class="b-ios" href="https://apps.apple.com/kr/app/id6817568088" rel="noopener"><img src="img/appstore_badge_ko_black.svg" alt="App Store에서 다운로드하기" width="130" height="40" loading="lazy"></a>
+      </div>
       <a class="btn btn-soft" href="#join" data-join>소식 받기</a>
       <a class="btn btn-soft" href="https://www.instagram.com/hibbangyong/" rel="noopener"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.4" cy="6.6" r="1.1" fill="currentColor" stroke="none"/></svg>인스타그램 @hibbangyong</a>
       </div>
