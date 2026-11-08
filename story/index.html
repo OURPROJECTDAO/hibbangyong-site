@@ -239,4 +239,37 @@ button { font: inherit; color: inherit; -webkit-appearance: none; appearance: no
 .o-copy { width: 100%; min-height: 96px; font-family: 'Pretendard', system-ui, sans-serif; font-size: var(--fs-body); border: 2px solid var(--grip); border-radius: 10px; padding: 8px; resize: none; }
 .o-ask { animation: o-ask .6s ease both; }
 @keyframes o-ask { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+/* 🏢11-09 생존 테스트 첫 화면·고르기·요일 넘어감(✍️ «초반 설명 빈약 · 인터페이스 구림 · 월→금 넘어가는게 안 읽힘») — 앱 부품 꼴 그대로: 카드 모서리 20 · 단추 48/16 · 제목 Jua 24 · 본문 Pretendard 15 · 색 = theme 토큰 */
+.oi, .o-pass { position: absolute; inset: 0; z-index: 5; display: flex; flex-direction: column; background: var(--bg); overflow-y: auto; }
+.oi-hero, .o-pass-hero { position: relative; flex: 1 1 auto; min-height: 40vh; margin: 12px 12px 0; border-radius: 20px; overflow: hidden; background: var(--grip); box-shadow: 0 2px 8px rgba(74,54,36,.12); }
+.oi-bb { position: absolute; left: 50%; bottom: 0; height: 56%; max-width: 72%; transform: translateX(-50%); object-fit: contain; object-position: 50% 100%; }
+.od.fail { background: var(--hard); color: var(--onPrimary); }
+.o-card .od-row { align-self: stretch; padding: 0 16px; }
+.oi-body, .o-pass-body { flex: none; display: flex; flex-direction: column; gap: 12px; padding: 16px 20px calc(20px + env(safe-area-inset-bottom)); text-align: center; }
+.oi-title { font-size: var(--fs-title); line-height: var(--lh-title); }
+.oi-line { font-family: 'Pretendard', system-ui, sans-serif; font-size: var(--fs-read); line-height: var(--lh-read); color: var(--text2); }
+.oi-go, .o-pass-go { min-height: 52px; font-size: var(--fs-lead); }
+.od-row { display: flex; gap: 6px; justify-content: center; }
+.od { flex: 1; max-width: 64px; display: flex; flex-direction: column; align-items: center; gap: 1px; padding: 8px 0 6px; border-radius: 14px; background: var(--sel); color: var(--text2); }
+.od b { font-family: 'Jua', sans-serif; font-weight: 400; font-size: var(--fs-lead); line-height: 1.2; }
+.od i { font-style: normal; font-family: 'Fredoka', sans-serif; font-weight: 600; font-size: var(--fs-small); }
+.od.now { background: var(--el); color: var(--teal); box-shadow: inset 0 0 0 2px var(--teal); }
+.od.done { background: var(--teal); color: var(--onPrimary); }
+.o-ask { background: var(--el); border-radius: 20px; padding: 8px 12px 12px; gap: 8px; box-shadow: 0 -2px 16px rgba(74,54,36,.22); }
+.o-grip { align-self: center; width: 36px; height: 4px; border-radius: 2px; background: var(--grip); }
+.o-ask-q { text-align: center; font-size: var(--fs-read); color: var(--text2); }
+.opts-col .o-opt { min-height: 48px; border-radius: 16px; background: var(--sel); box-shadow: none; padding: 10px 14px; }
+.o-opt .opt-txt { line-height: var(--lh-read); }
+.o-pass { animation: o-pass .35s ease both; }
+@keyframes o-pass { from { opacity: 0; } to { opacity: 1; } }
+.o-pass-dim { background: linear-gradient(to bottom, transparent 55%, rgba(74,54,36,.18)); }
+.o-pass-bb { position: absolute; left: 50%; bottom: 0; height: 58%; max-width: 74%; transform: translateX(-50%); object-fit: contain; object-position: 50% 100%; transform-origin: 50% 100%; animation: o-pop .5s cubic-bezier(.34,1.56,.64,1) both; }
+@keyframes o-pop { from { transform: translateX(-50%) scale(.85); } to { transform: translateX(-50%) scale(1); } }
+.o-pass-say { position: absolute; top: 16px; left: 50%; transform: translateX(-50%); max-width: calc(100% - 32px); background: var(--el); border-radius: 18px; padding: 10px 18px; font-size: var(--fs-lead); box-shadow: 0 2px 8px rgba(74,54,36,.18); white-space: nowrap; }
+.o-pass-ok { align-self: center; background: var(--ok); color: var(--onPrimary); border-radius: 999px; padding: 4px 14px; font-size: var(--fs-read); }
+.o-pass-next { background: var(--el); border-radius: 20px; padding: 10px 12px 12px; box-shadow: 0 2px 8px rgba(74,54,36,.12); display: flex; flex-direction: column; gap: 2px; }
+.o-pass-lb { font-size: var(--fs-body); color: var(--text2); }
+.o-pass-day { font-size: 34px; line-height: 1.2; }
+.o-pass-en { font-family: 'Fredoka', sans-serif; font-weight: 600; font-size: var(--fs-read); color: var(--text2); }
+@media (prefers-reduced-motion: reduce) { .o-pass, .o-pass-bb { animation: none; } }
 </style></head><body><div id="app"><div class="shelf"><h1>빵용이의 책장</h1><a href="ep8-printer/"><img src="art/ep8-printer/copier.webp" alt=""><div><div class="t">1부만 뽑았는데</div><div class="s">블루가 복사기에서 «1부»를 눌렀어요. 블루는 입사 3개월 차 신입이에요.</div></div></a><a href="ep10-intern/"><img src="art/ep10-intern/meeting.webp" alt=""><div><div class="t">인턴 첫날</div><div class="s">인턴이 출근한 첫날, 아침 팀 회의예요. 블루는 석 달째 보고를 손으로 만들어요.</div></div></a></div></div></body></html>
