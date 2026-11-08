@@ -1,0 +1,242 @@
+<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="robots" content="noindex"><meta name="story-base" content="../../../story/"><title>나는 월요일에 탈락 — 너는 며칠 버틸까?</title><meta property="og:type" content="website"><meta property="og:site_name" content="하이빵용"><meta property="og:url" content="https://hibbangyong.com/office/r/mon1/"><meta property="og:title" content="나는 월요일에 탈락 — 너는 며칠 버틸까?"><meta property="og:description" content="물어보랬더니 짐을 쌌다 · 빵용이 회사에서 살아남기"><meta property="og:image" content="https://hibbangyong.com/office/share/mon1.jpg"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta name="twitter:card" content="summary_large_image"><link rel="preload" as="image" href="../../../story/art/office-survive/office.webp"><style>:root{--bg:#FBF7E3;--text:#4a3624;--text2:#6B6455;--el:#FFFFF6;--sel:#F3ECD2;--grip:#E6DCC3;--teal:#1D495D;--rival:#E8A33A;--sweat:#BFE3F5;--sweatRim:#6FAFD3;--disabled:#A89F8C;--onPrimary:#FFFFF6;--primary:#1D495D;--ok:#1d9e75;--hard:#D9874A;--disabledBg:#EFE9DD;--apricot:#F6DFC2;--apricotInk:#B5651D;--wood:#CAA25F;--tealPale:#E3F1F5;--storyLine:#EFE6CC;--storyDim:#8A7560;--scrim:rgba(20,14,8,0.5);--pastEdge:#E2C18E;--fs-small:11px;--lh-small:17px;--fs-body:13px;--lh-body:20px;--fs-read:15px;--lh-read:23px;--fs-lead:19px;--lh-lead:29px;--fs-title:24px;--lh-title:36px}/* 📖 웹 책장 — 앱 src/app/story.tsx StyleSheet 를 옮긴 것(수 = 앱 그대로 · 색 = theme 토큰 CSS 변수) */
+@font-face { font-family: 'Jua'; src: url(../../../story/fonts/jua.woff) format('woff'); font-display: swap; }
+@font-face { font-family: 'Fredoka'; src: url(../../../story/fonts/fredoka.woff2) format('woff2'); font-weight: 600; font-display: swap; }
+@font-face { font-family: 'Pretendard'; src: url(../../../story/fonts/pretendard.woff) format('woff'); font-display: swap; }
+@font-face { font-family: 'PretendardBold'; src: url(../../../story/fonts/pretendard-bold.woff) format('woff'); font-display: swap; }
+/* 📺화면 컷(앱 부품 = react-native-web)은 앱 글꼴 이름(theme Fonts)을 그대로 부른다 → 같은 파일에 이름 하나 더 */
+@font-face { font-family: 'Jua_400Regular'; src: url(../../../story/fonts/jua.woff) format('woff'); font-display: swap; }
+@font-face { font-family: 'Fredoka_600SemiBold'; src: url(../../../story/fonts/fredoka.woff2) format('woff2'); font-display: swap; }
+* { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+html, body { margin: 0; height: 100%; background: var(--bg); color: var(--text); overscroll-behavior: none; }
+body { font-family: 'Jua', system-ui, sans-serif; }
+#app { position: fixed; inset: 0; display: flex; flex-direction: column; max-width: 480px; margin: 0 auto; padding-bottom: env(safe-area-inset-bottom); }
+.play { flex: 1; display: flex; flex-direction: column; min-height: 0; }
+.play[hidden], .end-wrap[hidden] { display: none; }
+.top { display: flex; align-items: center; gap: 10px; padding: 4px 8px 0 16px; min-height: 44px; }
+.top-title { flex: 1; font-size: var(--fs-lead); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.count { font-family: 'Fredoka', sans-serif; font-weight: 600; font-size: var(--fs-body); color: var(--text2); }
+.x { width: 44px; height: 44px; display: flex; align-items: center; justify-content: center; color: var(--text2); text-decoration: none; font-size: 20px; }
+.bar { height: 4px; margin: 0 14px; border-radius: 2px; background: var(--grip); overflow: hidden; }
+.bar-in { height: 4px; background: var(--teal); width: 0; }
+
+.stage { position: relative; flex: 1; margin: 12px 12px 0; border-radius: 18px; overflow: hidden; background: var(--grip); cursor: pointer; }
+.cam, .over, .fill { position: absolute; inset: 0; }
+.cam { transform-origin: 50% 50%; }
+.abs { position: absolute; }
+img.cover { width: 100%; height: 100%; object-fit: cover; }
+img.contain, .fill.contain { object-fit: contain; }
+img.fill { width: 100%; height: 100%; }
+.off { opacity: 0; }
+.face { will-change: transform; }
+.seat-clip { left: 0; top: 0; right: 0; overflow: hidden; }
+.drain { background: var(--teal); opacity: 0; pointer-events: none; }
+.sweat { position: absolute; top: 12%; right: 14%; background: var(--sweat); border: 1px solid var(--sweatRim); border-top-left-radius: 0 !important; transform: rotate(45deg); animation: sweat 1.6s linear infinite; }
+@keyframes sweat { 0% { opacity: 0; transform: translateY(0) rotate(45deg); } 20% { opacity: .95; } 100% { opacity: 0; transform: translateY(10px) rotate(45deg); } }
+.clock { position: absolute; top: 10px; right: 10px; background: var(--text); border-radius: 8px; padding: 3px 8px; font-family: 'Fredoka', sans-serif; font-weight: 600; font-size: var(--fs-read); color: var(--rival); }
+.mini { position: absolute; left: 8px; top: 8px; width: 54px; height: 54px; object-fit: contain; }
+
+.chat { border-radius: 16px; overflow: hidden; background: var(--sel); box-shadow: 0 4px 10px rgba(74,54,36,.25); display: flex; flex-direction: column; }
+.chat-hd { height: 22px; background: var(--text); flex: none; }
+.chat-bd { padding: 10px; display: flex; flex-direction: column; gap: 7px; justify-content: flex-end; }
+.msg { max-width: 86%; border-radius: 12px; padding: 7px 10px; }
+.msg.me { align-self: flex-end; background: var(--sweat); border-bottom-right-radius: 4px; }
+.msg.them { align-self: flex-start; background: var(--el); border-bottom-left-radius: 4px; }
+.msg-who { font-family: 'Fredoka', sans-serif; font-weight: 600; font-size: var(--fs-small); color: var(--text2); margin-bottom: 2px; }
+.msg-txt { font-family: 'Fredoka', sans-serif; font-weight: 600; font-size: var(--fs-read); line-height: var(--lh-read); }
+.card { background: var(--el); border-radius: 14px; padding: 10px 14px; display: flex; flex-direction: column; gap: 2px; box-shadow: 0 4px 10px rgba(74,54,36,.25); }
+.card.hero { border: 4px solid var(--rival); }
+.card-img { width: 100%; aspect-ratio: 1.7; border-radius: 10px; margin-bottom: 6px; object-fit: cover; }
+.card-lb { font-family: 'Fredoka', sans-serif; font-weight: 600; font-size: var(--fs-small); color: var(--text2); }
+.card-big { font-family: 'Fredoka', sans-serif; font-weight: 600; font-size: var(--fs-lead); }
+.card-ln { font-family: 'Fredoka', sans-serif; font-weight: 600; font-size: var(--fs-body); line-height: var(--lh-body); }
+
+.bubble { position: relative; margin: 10px 12px 0; background: var(--el); border-radius: 18px; box-shadow: 0 2px 8px rgba(74,54,36,.12); padding: 12px 16px; display: flex; flex-direction: column; gap: 6px; cursor: pointer; }
+.bubble.measure { position: absolute; left: -9999px; top: 0; visibility: hidden; margin: 0; }
+.who { font-size: var(--fs-body); line-height: normal; color: var(--text2); }   /* 앱 = 줄 높이 안 줌(Jua 13 = 16 · «·» 든 이름은 대체 글꼴로 20 · 앱 웹 잼) */
+.en { font-family: 'Fredoka', sans-serif; font-weight: 600; font-size: var(--fs-lead); line-height: var(--lh-lead); white-space: pre-wrap; }   /* RN 글 = 빈칸 안 접힘(빈칸 점선 앞 두 칸) */
+.en .key { color: var(--teal); text-decoration: underline; }
+.sub { font-size: var(--fs-body); line-height: var(--lh-body); color: var(--text2); }
+.ghost { color: rgba(255,255,246,0.004) !important; text-decoration: none !important; }
+.gloss-room { height: 24px; }
+.nav { display: flex; align-items: center; justify-content: space-between; padding: 12px 22px; }
+.nav-btn { background: none; border: 0; font: inherit; font-size: var(--fs-body); line-height: 16px; color: var(--teal); padding: 0; cursor: pointer; }
+.nav-btn.off { opacity: .35; }
+.hint { font-size: var(--fs-small); line-height: 16px; color: var(--disabled); }
+
+.intro { position: absolute; inset: 0; display: flex; align-items: flex-start; justify-content: center; padding: 120px 18px 44px; }
+.intro-dim { background: rgba(20,14,8,0.5); }
+.intro-card { position: relative; width: 100%; max-width: 440px; background: var(--el); border-radius: 24px; padding: 16px; display: flex; flex-direction: column; gap: 12px; }
+.intro-title { font-size: var(--fs-title); }
+.intro-box { background: var(--sel); border-radius: 14px; padding: 10px; }
+.intro-ko { font-family: 'Pretendard', system-ui, sans-serif; font-size: var(--fs-read); line-height: var(--lh-read); text-align: center; }
+.intro-go { height: 54px; border-radius: 18px; border: 0; background: var(--primary); color: var(--onPrimary); font: inherit; font-size: var(--fs-lead); cursor: pointer; }
+
+.end-wrap { flex: 1; min-height: 0; display: flex; flex-direction: column; padding: 16px; overflow: auto; }   /* 🩸D3 아이폰 375×664 = 가운데 맞춤이 넘치면 위가 잘려 못 올림 → 카드 margin auto(남으면 가운데 · 넘치면 위부터 스크롤 = 앱 ScrollView 와 같음) */
+.end-card { margin: auto; flex: none; width: 100%; max-width: 340px; background: var(--el); border-radius: 20px; padding: 18px; display: flex; flex-direction: column; gap: 10px; align-items: center; }
+.end-pic { width: 120px; height: 120px; object-fit: contain; }
+.end-kick { font-size: var(--fs-body); color: var(--text2); }
+.end-title { font-family: 'Fredoka', sans-serif; font-weight: 600; font-size: var(--fs-title); }
+.outro { display: flex; align-items: center; gap: 8px; align-self: stretch; background: var(--sel); border-radius: 14px; padding: 10px; }
+.outro-face { width: 40px; height: 40px; object-fit: contain; }
+.outro-txt { flex: 1; font-size: var(--fs-body); line-height: var(--lh-body); }
+.keys { align-self: stretch; display: flex; gap: 8px; }
+.key-chip { flex: 1; min-width: 0; border: 2px solid var(--grip); border-radius: 12px; padding: 6px; display: flex; flex-direction: column; align-items: center; gap: 2px; text-align: center; }
+.key-en { font-family: 'Fredoka', sans-serif; font-weight: 600; font-size: var(--fs-read); color: var(--teal); }
+.key-ko { font-size: var(--fs-small); color: var(--text2); }
+.btn { align-self: stretch; min-height: 48px; border-radius: 16px; display: flex; align-items: center; justify-content: center; font: inherit; font-size: var(--fs-read); text-decoration: none; cursor: pointer; border: 0; }
+.btn.primary { background: var(--primary); color: var(--onPrimary); }
+.btn.secondary { background: var(--sel); color: var(--teal); }
+.later { min-height: 44px; display: flex; align-items: center; font-size: var(--fs-body); color: var(--text2); text-decoration: none; }
+
+.shelf { padding: 24px 16px; display: flex; flex-direction: column; gap: 14px; }
+.shelf h1 { margin: 0; font-weight: 400; font-size: var(--fs-title); }
+.shelf a { display: flex; gap: 12px; align-items: center; background: var(--el); border-radius: 18px; padding: 12px; color: inherit; text-decoration: none; box-shadow: 0 2px 8px rgba(74,54,36,.12); }
+.shelf img { width: 72px; height: 96px; object-fit: cover; border-radius: 12px; }
+.shelf .t { font-size: var(--fs-lead); }
+.shelf .s { font-family: 'Pretendard', system-ui, sans-serif; font-size: var(--fs-body); color: var(--text2); }
+
+/* ── D2 · 앱 src/app/story.tsx StyleSheet 그대로(놀이 판·답 표시·다시 듣기·해석 칩·쪽지·끝 카드 점수) ── */
+.nohit { pointer-events: none; }
+.board-host { position: absolute; inset: 0; pointer-events: none; }
+.board-host > * { pointer-events: auto; }
+button { font: inherit; color: inherit; -webkit-appearance: none; appearance: none; }
+.mute { display: flex; align-items: center; justify-content: center; background: rgba(255,253,247,0.92); border: 0; border-radius: 14px; padding: 5px 9px; cursor: pointer; }   /* 앱 SoundControl btn */
+.mute-art { width: 17px; height: 17px; object-fit: contain; }
+.bub-wrap { position: relative; }
+.bubble.nohit { cursor: default; pointer-events: auto; }
+.en-fx { position: relative; }
+.tapword { cursor: pointer; }
+.past-edge { border-radius: 18px; border: 6px solid var(--pastEdge); pointer-events: none; }
+
+.opts { position: absolute; left: 8px; right: 8px; display: flex; flex-direction: row; flex-wrap: wrap; gap: 8px; justify-content: center; }
+.tray { background: var(--bg); border-radius: 16px; padding: 10px 8px; }
+.opt { position: relative; display: flex; align-items: center; justify-content: center; min-height: 44px; padding: 10px 16px; border: 0; border-radius: 12px; background: var(--el); box-shadow: 0 2px 6px rgba(74,54,36,.2); cursor: pointer; text-align: left; }
+.opt:disabled { cursor: default; }
+.opt-ok { background: var(--ok); }
+.opt-ok .opt-txt, .opt-ok .opt-ko { color: var(--onPrimary); }
+.opt-no { background: var(--disabledBg); }
+.opt-txt { font-family: 'Fredoka', sans-serif; font-weight: 600; font-size: var(--fs-read); color: var(--text); }
+.opt-ko { font-family: 'Jua', sans-serif; font-size: var(--fs-body); line-height: var(--lh-body); color: var(--text); }
+.opts-col { position: absolute; left: 10px; right: 10px; display: flex; flex-direction: column; gap: 6px; }
+.opts-col .opt { justify-content: flex-start; }
+.opt.replay { align-self: flex-end; padding: 6px 12px; font-family: 'Jua', sans-serif; font-size: var(--fs-body); color: var(--teal); }
+.opt-in { border: 1.5px solid var(--storyLine); box-shadow: none; justify-content: flex-start; }
+.bub-ask { display: flex; flex-direction: column; gap: 6px; }
+.glow { position: absolute; inset: 0; border-radius: 12px; border: 3px solid var(--rival); opacity: 0; pointer-events: none; }
+.play-ask { align-self: stretch; width: 100%; display: flex; flex-direction: row; align-items: flex-start; gap: 8px; padding: 2px 4px 0; margin-bottom: 6px; }
+.play-ask-q { min-width: 22px; height: 22px; border-radius: 6px; padding: 0 5px; background: var(--teal); display: flex; align-items: center; justify-content: center; color: var(--onPrimary); font-size: var(--fs-small); margin-top: calc((var(--lh-body) - 22px) / 2); }
+.play-ask-txt { flex: 1; font-family: 'PretendardBold', 'Pretendard', sans-serif; font-weight: 700; font-size: var(--fs-body); line-height: var(--lh-body); color: var(--teal); }
+.radio-list { flex-direction: column; flex-wrap: nowrap; align-items: stretch; left: 40px; right: 40px; padding: 8px; gap: 6px; border-radius: 18px; background: var(--bg); }
+.radio-row { justify-content: flex-start; gap: 12px; }
+.pick { width: 20px; height: 20px; border-radius: 10px; border: 2px solid var(--text2); background: var(--el); display: flex; align-items: center; justify-content: center; flex: none; }
+.pick.on { border-color: var(--teal); background: var(--teal); }
+.pick.pick-ok { border-color: var(--onPrimary); background: var(--ok); }
+.pick-check { width: 9px; height: 5px; border-left: 2px solid var(--onPrimary); border-bottom: 2px solid var(--onPrimary); transform: translateY(-1px) rotate(-45deg); }
+.block { background: var(--apricot); border: 2px solid var(--wood); border-bottom-width: 5px; border-radius: 8px; }
+.block-used { background: var(--disabledBg); border-color: var(--grip); border-bottom-width: 2px; }
+.block-txt { color: var(--apricotInk); }
+.opt-used { color: var(--disabled); }
+.slots { display: flex; flex-direction: row; flex-wrap: wrap; gap: 6px; }
+.slot-col { display: flex; flex-direction: column; align-items: center; gap: 2px; }
+.slot { min-width: 44px; min-height: calc(var(--lh-read) + 10px); display: flex; align-items: center; justify-content: center; padding: 4px 8px; border-radius: 10px; border: 2px solid var(--teal); background: var(--sel); }
+.slot.block { border-color: var(--wood); background: var(--apricot); border-bottom-width: 5px; border-radius: 8px; cursor: pointer; }
+.slot-empty { border-color: var(--grip); background: var(--bg); }
+.slot-txt { font-family: 'Fredoka', sans-serif; font-weight: 600; font-size: var(--fs-read); line-height: var(--lh-read); color: var(--text); }
+.slot-no { font-size: var(--fs-small); line-height: var(--lh-small); color: var(--text2); }
+.blank-glue { display: inline-flex; align-items: center; }
+.blank-box { display: inline-block; width: 84px; height: calc(var(--lh-read) - 6px); border: 2px dashed var(--teal); border-radius: 8px; background: var(--tealPale); transform: translateY(4px); }
+.blank-box.ghost-box { border-color: transparent; background: transparent; }
+.en .blank { color: var(--teal); text-decoration: none; }
+.steps { display: flex; flex-direction: row; gap: 6px; align-self: flex-start; }
+.step { display: flex; align-items: center; gap: 4px; border-radius: 10px; padding: 3px 9px; background: var(--grip); font-family: 'PretendardBold', 'Pretendard', sans-serif; font-weight: 700; font-size: var(--fs-small); color: var(--teal); }
+.step.done { background: var(--tealPale); }
+.step.on { background: var(--teal); color: var(--onPrimary); }
+.answer-mark { position: absolute; inset: 0; border-radius: 18px; border: 1.5px solid; pointer-events: none; }
+.am-chip { position: absolute; top: -12.75px; left: 16px; height: 24px; border-radius: 12px; border: 1.5px solid; background: var(--el); display: flex; align-items: center; padding: 0 2px; gap: 5px; }
+.am-seal { width: 18px; height: 18px; border-radius: 9px; display: flex; align-items: center; justify-content: center; }
+.again { position: absolute; top: 2px; right: 20px; min-height: 44px; display: flex; align-items: center; gap: 6px; }
+.gloss { position: absolute; bottom: 2px; right: 20px; min-height: 44px; display: flex; align-items: center; gap: 6px; }
+.gloss[hidden] { display: none; }
+.again-btn { padding: 3px 10px; border: 0; border-radius: 10px; background: var(--sel); font-family: 'Jua', sans-serif; font-size: var(--fs-small); color: var(--teal); cursor: pointer; line-height: normal; }
+.ko-auto { display: flex; align-items: center; gap: 5px; }
+.ko-box { width: 12px; height: 12px; border-radius: 3px; border: 2px solid var(--teal); }
+.ko-box.on { background: var(--teal); }
+.ko-auto.dim { color: var(--storyDim); }
+.ko-auto.dim .ko-box { border-color: var(--storyDim); }
+.help-q { width: 44px; height: 44px; margin-left: 2px; display: flex; align-items: center; justify-content: center; background: none; border: 0; padding: 0; cursor: pointer; }
+.help-art { width: 18px; height: 18px; object-fit: contain; }
+.hint.on { font-family: 'PretendardBold', 'Pretendard', sans-serif; font-weight: 700; color: var(--text); }
+
+.sheet-host { position: fixed; inset: 0; pointer-events: none; z-index: 40; }
+.sheet-back { position: absolute; inset: 0; background: var(--scrim); pointer-events: auto; }
+.sheet { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); width: calc(100% - 32px); max-width: 340px; background: var(--el); border: 1px solid var(--grip); border-radius: 20px; padding: 16px; display: flex; flex-direction: column; gap: 8px; align-items: center; box-shadow: 0 6px 16px rgba(74,54,36,.18); pointer-events: auto; }
+.sheet-en { font-family: 'Fredoka', sans-serif; font-weight: 600; font-size: var(--fs-title); color: var(--text); }
+.sheet-ko { font-size: var(--fs-lead); color: var(--text2); }
+.sheet-title { align-self: stretch; font-family: 'PretendardBold', 'Pretendard', sans-serif; font-weight: 800; font-size: var(--fs-title); line-height: var(--lh-title); }
+.help-lead { align-self: stretch; font-family: 'PretendardBold', 'Pretendard', sans-serif; font-weight: 800; font-size: var(--fs-read); line-height: var(--lh-read); color: var(--teal); }
+.help-row { align-self: stretch; display: flex; gap: 8px; align-items: flex-start; font-family: 'Pretendard', sans-serif; font-size: var(--fs-read); line-height: var(--lh-read); color: var(--text2); }
+.help-dot { width: 6px; height: 6px; border-radius: 3px; background: var(--grip); margin-top: calc(var(--lh-read) / 2 - 3px); flex: none; }
+
+.score { align-self: stretch; display: flex; flex-direction: column; align-items: center; gap: 8px; }
+.score-txt { font-size: var(--fs-lead); color: var(--text); }
+.dots { display: flex; flex-direction: row; gap: 8px; justify-content: center; flex-wrap: wrap; }
+.dot { width: 22px; height: 22px; border-radius: 11px; border: 3px solid var(--grip); display: flex; align-items: center; justify-content: center; }
+.dot.ok { border-color: var(--ok); }
+.dot.no { border-color: var(--disabledBg); background: var(--disabledBg); }
+.dot.fix { border-color: var(--rival); }
+.dot-x { font-size: var(--fs-small); line-height: var(--lh-small); color: var(--text2); }
+.cart-note { font-size: var(--fs-small); line-height: var(--lh-small); color: var(--text2); }
+.keys-hd { align-self: stretch; display: flex; align-items: center; justify-content: space-between; gap: 8px; }
+.cart-title { font-size: var(--fs-body); color: var(--text); }
+.lv { font-size: var(--fs-small); color: var(--teal); border: 1px solid var(--grip); border-radius: 8px; padding: 0 6px; }
+
+/* ── 🏢생존 테스트(/office/) — 요일 카드 · 결과지(컷 · 요일 칸 다섯 · 오늘 표현 · 맞는 말) · 알림 ── */
+.day-card { position: absolute; left: 50%; top: 40%; transform: translate(-50%, -50%); background: var(--text); color: var(--rival); border-radius: 14px; padding: 8px 18px; font-family: 'Fredoka', sans-serif; font-weight: 600; font-size: var(--fs-title); pointer-events: none; animation: day-card 1.6s ease forwards; }
+@keyframes day-card { 0% { opacity: 0; } 15% { opacity: 1; } 70% { opacity: 1; } 100% { opacity: 0; } }
+.o-card { max-width: 380px; padding: 0 0 16px; overflow: hidden; }
+.o-cut { width: 100%; aspect-ratio: 540 / 968; max-height: 52vh; object-fit: cover; object-position: 50% 100%; }   /* 컷 인물 = 아래 끝에 섬(survive_cuts bottom 0.99H) → 아래 기준으로 자름 */
+.o-days { display: flex; gap: 6px; justify-content: center; }
+.o-day { min-width: 44px; padding: 3px 0; border-radius: 10px; text-align: center; font-family: 'Fredoka', sans-serif; font-weight: 600; font-size: var(--fs-small); border: 2px solid var(--grip); color: var(--text2); }
+.o-day.ok { border-color: var(--ok); color: var(--ok); }
+.o-day.no { border-color: var(--hard); background: var(--hard); color: var(--onPrimary); }
+.o-title { font-size: var(--fs-title); padding: 0 16px; text-align: center; }
+.o-sub { font-family: 'Pretendard', system-ui, sans-serif; font-size: var(--fs-read); line-height: var(--lh-read); color: var(--text2); padding: 0 16px; text-align: center; }
+.o-key { align-self: stretch; margin: 0 16px; border: 2px solid var(--grip); border-radius: 12px; padding: 8px 10px; display: flex; flex-direction: column; gap: 2px; align-items: center; text-align: center; }
+.o-key.mine { border-color: var(--teal); }
+.o-right { margin-top: 4px; display: flex; flex-direction: column; gap: 1px; }
+.o-right-lb { font-size: var(--fs-small); color: var(--text2); }
+.o-right-en { font-family: 'Fredoka', sans-serif; font-weight: 600; font-size: var(--fs-read); line-height: var(--lh-read); color: var(--text); }
+.o-card > .btn { margin: 0 16px; }
+.toast { position: absolute; left: 50%; bottom: 80px; transform: translateX(-50%); background: var(--text); color: var(--bg); border-radius: 12px; padding: 8px 14px; font-size: var(--fs-body); pointer-events: none; }
+.o-sub:empty { display: none; }
+/* ── 📣생존 테스트 공유 고리(VIRAL.md · ✍️ «결과 화면 메인은 공유») — 받은 친구 칸 · 비교 · 보내기 셋 · 책장 맛보기 · 앱 한 칸 ── */
+.intro-friend { background: var(--sel); border-radius: 14px; padding: 10px 12px; display: flex; flex-direction: column; gap: 2px; text-align: center; }
+.if-lb { font-size: var(--fs-small); color: var(--text2); }
+.if-t { font-size: var(--fs-lead); color: var(--text); }
+.if-s { font-family: 'Pretendard', system-ui, sans-serif; font-size: var(--fs-body); color: var(--text2); }
+.o-cmp { margin: 0 16px; align-self: stretch; text-align: center; border-radius: 12px; padding: 8px; font-size: var(--fs-read); }
+.o-cmp.win { background: var(--ok); color: var(--onPrimary); }
+.o-cmp.same { background: var(--sel); color: var(--text); }
+.o-cmp.lose { background: var(--disabledBg); color: var(--text); }
+.o-share { align-self: stretch; margin: 0 16px; display: flex; flex-direction: column; gap: 8px; }
+.o-share .btn { margin: 0; }
+.o-share-lb { text-align: center; font-size: var(--fs-body); color: var(--text2); }
+.btn.kakao { background: #FEE500; color: #191919; }   /* 카카오 디자인 가이드 단추 색(체험판 constants/kakao.ts 와 같은 값) */
+.o-again { background: none; border: 0; color: var(--teal); font-size: var(--fs-body); text-decoration: underline; cursor: pointer; padding: 4px 8px; }
+.o-key-lb { font-size: var(--fs-small); color: var(--text2); }
+.o-sec { align-self: stretch; margin: 10px 16px 0; padding-top: 14px; border-top: 2px solid var(--grip); font-size: var(--fs-lead); }
+.o-book { align-self: stretch; margin: 0 16px; display: flex; gap: 10px; align-items: center; background: var(--bg); border-radius: 14px; padding: 8px; color: inherit; text-decoration: none; }
+.o-book-pic { width: 56px; height: 76px; object-fit: cover; border-radius: 10px; flex: none; }
+.o-book-tx { flex: 1; min-width: 0; }
+.o-book-t { font-size: var(--fs-read); }
+.o-book-s { font-family: 'Pretendard', system-ui, sans-serif; font-size: var(--fs-small); color: var(--text2); }
+.o-book-go { color: var(--teal); font-size: var(--fs-body); padding: 0 6px; }
+.o-app { align-self: stretch; margin: 6px 16px 0; padding-top: 14px; border-top: 2px solid var(--grip); display: flex; flex-direction: column; gap: 6px; }
+.o-app .btn { margin: 0; }
+.o-app-t { font-size: var(--fs-lead); }
+.o-app-s { font-family: 'Pretendard', system-ui, sans-serif; font-size: var(--fs-body); line-height: var(--lh-body); color: var(--text2); }
+.o-story-pic { width: 100%; max-height: 56vh; object-fit: contain; border-radius: 12px; }
+.o-copy { width: 100%; min-height: 96px; font-family: 'Pretendard', system-ui, sans-serif; font-size: var(--fs-body); border: 2px solid var(--grip); border-radius: 10px; padding: 8px; resize: none; }
+.o-ask { animation: o-ask .6s ease both; }
+@keyframes o-ask { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+</style><script defer src="../../../story/story.js"></script></head><body><div id="app" data-office="1"><div class="intro"><img class="fill cover" src="../../../story/art/office-survive/office.webp" alt=""><div class="fill intro-dim"></div><div class="intro-card"><div class="intro-title">빵용이 회사에서 살아남기</div><div class="intro-friend"><div class="if-lb">친구 결과</div><div class="if-t">친구는 월요일에 탈락</div><div class="if-s">물어보랬더니 짐을 쌌다</div></div><div class="intro-box"><div class="intro-ko">너는 며칠 버틸까?</div></div><button class="intro-go" disabled>시작</button></div></div><script type="application/json" id="office-data">{"id":"office-survive","kind":"survive","title":"Survive the Office","title_ko":"빵용이 회사에서 살아남기","art":{"bb_darkcircle":0.75,"bb_embarrassed":0.75,"bb_embarrassed_blink":0.75,"bb_excited":0.748,"bb_excited_blink":0.748,"bb_happy":0.75,"bb_nervous":0.75,"bb_nervous_blink":0.75,"bb_panicked":0.75,"bb_relieved":0.75,"bb_sad":0.75,"bb_sad_blink":0.75,"bb_tired":0.75,"bb_touched":0.75,"bb_touched_blink":0.75,"boss_flustered":0.7422,"boss_front":0.7422,"boss_front_blink":0.7422,"boss_front_talk":0.7422,"boss_happy":0.7422,"boss_note":0.7441,"boss_report":0.7461,"boss_report_blink":0.7461,"dari_stifle":0.6543,"intern_front":0.748,"intern_front_blink":0.748,"intern_front_talk":0.748,"meeting":0.5579,"meeting_reverse":0.5579,"office":0.5579,"office_desk_r":0.5579,"office_reverse":0.5714},"days":[{"day":"mon","label":"Monday","lines":[{"who":"bb","kind":"say","face":"bb_nervous","bg":"office","clock":"09:10","s":[{"en":"Um… Team lead? Can I ask you something?","ko":"저… 팀장님? 뭐 하나 여쭤봐도 될까요?"}]},{"who":"boss","kind":"say","face":"boss_front","bg":"office","clock":"09:10","s":[{"en":"{Fire away}.","ko":"어서 물어봐요."}]}],"choice":{"key":{"word":"fire away","ko":"(질문) 어서 해 봐요 · 뭐든 물어봐요"},"options":[{"en":"Thanks. Quick question about the deadline.","ok":true},{"en":"Wait… are you firing me?","fail":{"lines":[{"who":"bb","kind":"say","face":"bb_panicked","bg":"office","clock":"09:11","motion":"shake","sweat":true,"s":[{"en":"I'll… pack my things.","ko":"짐… 쌀게요.","fx":"fail"}]},{"who":"boss","kind":"say","face":"boss_flustered","bg":"office","clock":"09:12","s":[{"en":"…I said ask.","ko":"…물어보라고 했는데요."}]}],"cut":"fail_mon_box","result_ko":"월요일 탈락 — 물어보랬더니 짐을 쌌다"}},{"en":"Oh, okay. I'll come back later.","fail":{"lines":[{"who":"bb","kind":"inner","face":"bb_tired","bg":"office","clock":"17:58","s":[{"en":"Still waiting… outside the door.","ko":"아직도 문 밖에서 기다리는 중…","fx":"crickets"}]},{"who":"boss","kind":"say","face":"boss_front","bg":"office","clock":"18:00","s":[{"en":"You wanted to ask something?","ko":"뭐 물어본다고 하지 않았어요?"}]}],"result_ko":"월요일 탈락 — 하루 종일 문 앞에서 기다렸다"}}]}},{"day":"tue","label":"Tuesday","lines":[{"who":"bb","kind":"inner","face":"bb_relieved","bg":"meeting","clock":"14:30","s":[{"en":"Phew… my first presentation is done.","ko":"휴… 첫 발표 끝났다."}]},{"who":"intern","kind":"say","face":"intern_front","bg":"meeting","clock":"14:31","motion":"punch","s":[{"en":"Your slides were {sick}!","ko":"슬라이드 완전 끝내줬어요!"}]}],"choice":{"key":{"word":"sick","ko":"(요즘 말) 끝내준다 · 쩐다"},"options":[{"en":"Haha, glad you liked them.","ok":true},{"en":"Really? I'll redo them tonight.","fail":{"lines":[{"who":"bb","kind":"inner","face":"bb_darkcircle","bg":"office_desk_r","clock":"07:30","s":[{"en":"All new slides. Didn't sleep at all.","ko":"슬라이드 전부 새로. 한숨도 못 잤다."}]},{"who":"intern","kind":"say","face":"intern_front","bg":"office_desk_r","clock":"08:55","motion":"shake","s":[{"en":"Why did you change them?! They were {SICK}!","ko":"왜 바꿨어요?! 끝내줬는데!"}]}],"result_ko":"화요일 탈락 — 칭찬을 듣고 밤새 다시 만들었다"}},{"en":"Oh no, you should go home and rest.","fail":{"lines":[{"who":"bb","kind":"say","face":"bb_touched","bg":"office","clock":"14:40","s":[{"en":"Here's a blanket. And medicine. Your taxi is here!","ko":"담요요. 약도요. 택시 왔어요!"}]},{"who":"intern","kind":"say","face":"intern_front","bg":"office","clock":"14:41","motion":"shake","s":[{"en":"I'm fine!!","ko":"저 멀쩡해요!!"}]}],"cut":"fail_tue_taxi","result_ko":"화요일 탈락 — 멀쩡한 인턴을 택시에 태워 보냈다"}}]}},{"day":"wed","label":"Wednesday","lines":[{"who":"boss","kind":"say","face":"boss_front","bg":"office","clock":"08:50","s":[{"en":"I'll be away till Friday.","ko":"금요일까지 출장이에요."},{"en":"{Keep me posted}.","ko":"진행 상황 계속 알려 줘요."}]}],"choice":{"key":{"word":"keep me posted","ko":"진행 상황을 계속 알려 줘요"},"options":[{"en":"Will do. I'll let you know how it goes.","ok":true},{"en":"Sure, I'll post everything on the board.","fail":{"lines":[{"who":"bb","kind":"say","face":"bb_happy","bg":"office","clock":"16:20","ui":{"type":"card","label":"Office Board","big":"Landed. Miss my cat.","lines":["— Team lead"],"hl":"Miss my cat."},"s":[{"en":"All posted! Every message.","ko":"다 붙였어요! 메시지 전부요."}]},{"who":"dari","kind":"say","face":"dari_stifle","bg":"office","clock":"16:21","s":[{"en":"Is that… the team lead's text?","ko":"저거… 팀장님 문자 아니에요?"}]}],"result_ko":"수요일 탈락 — 팀장님 문자를 게시판에 붙였다"}},{"en":"Sure, I'll mail everything to you.","fail":{"lines":[{"who":"boss","kind":"say","face":"boss_flustered","bg":"office","clock":"20:10","ui":{"type":"card","label":"Hotel Front Desk","big":"30 envelopes for you","lines":["Sender: Bbangyong"],"phone":"push","hl":"30 envelopes"},"s":[{"en":"Thirty… envelopes?","ko":"봉투… 서른 통?"}]}],"result_ko":"수요일 탈락 — 출장지 호텔로 서류 30통을 부쳤다"}}]}},{"day":"thu","label":"Thursday","lines":[{"who":"bb","kind":"say","face":"bb_nervous","bg":"meeting","clock":"15:00","sweat":true,"s":[{"en":"So… this is our plan for next year.","ko":"그래서… 이게 내년 계획입니다."}]},{"who":"boss","kind":"say","face":"boss_note","bg":"meeting","clock":"15:03","ui":{"type":"card","label":"Note from Team lead","big":"You're killing it!","hl":"killing it"},"s":[{"en":"You're {killing it}!","ko":"아주 잘하고 있어요!"}]}],"choice":{"key":{"word":"be killing it","ko":"아주 잘하고 있다"},"options":[{"en":"Thank you! I'll keep going.","ok":true},{"en":"I'm so sorry. I'll stop right here.","fail":{"lines":[{"who":"bb","kind":"say","face":"bb_embarrassed","bg":"meeting","clock":"15:04","motion":"squash","s":[{"en":"(closes the laptop and bows)","ko":"(노트북을 덮고 꾸벅)"}]},{"who":"dir","kind":"say","face":"bb_embarrassed","bg":"meeting","clock":"15:04","s":[{"en":"But… it was great?","ko":"근데… 아주 좋았는데요?"}],"label":"임원"}],"result_ko":"목요일 탈락 — 칭찬 쪽지를 받고 발표를 멈췄다"}},{"en":"Got it. I'll kill this deck.","fail":{"lines":[{"who":"bb","kind":"say","face":"bb_nervous","bg":"meeting","clock":"15:04","ui":{"type":"screen","k":"Slides","t":"Deleted","hl":"Deleted"},"s":[{"en":"Deleted. Now, without slides…","ko":"지웠습니다. 이제 슬라이드 없이…"}]},{"who":"boss","kind":"say","face":"boss_flustered","bg":"meeting","clock":"15:05","motion":"shake","s":[{"en":"The slides… are gone?!","ko":"슬라이드가… 없어졌다고?!","fx":"fail"}]}],"result_ko":"목요일 탈락 — 잘하고 있다는 말에 발표 자료를 지웠다"}}]}},{"day":"fri","label":"Friday","lines":[{"who":"boss","kind":"say","face":"boss_report","bg":"meeting","clock":"17:00","s":[{"en":"Your three months are almost up.","ko":"수습 석 달이 거의 끝나 가네요."},{"en":"So, what can you {bring to the table} next month?","ko":"다음 달엔 어떤 걸 보탤 수 있어요?"}]}],"choice":{"key":{"word":"bring to the table","ko":"(능력·아이디어를) 보탤 수 있다"},"options":[{"en":"I can bring new ideas and hard work.","ok":true},{"en":"I can bring lunch and snacks for the team every week.","fail":{"lines":[{"who":"bb","kind":"say","face":"bb_excited","bg":"meeting","clock":"09:00","s":[{"en":"Monday meeting snacks: ready!","ko":"월요일 회의 간식 준비 끝!"}]},{"who":"boss","kind":"say","face":"boss_flustered","bg":"meeting","clock":"09:01","s":[{"en":"…I meant ideas.","ko":"…아이디어를 말한 건데요."}]}],"cut":"fail_fri_snacks","result_ko":"금요일 탈락 — 회의 탁자에 빵을 산처럼 쌓았다"}},{"en":"I can make all the tables and charts for the team.","fail":{"lines":[{"who":"bb","kind":"say","face":"bb_excited","bg":"office","clock":"09:00","s":[{"en":"Done! Charts on every wall!","ko":"다 했어요! 벽마다 그래프예요!"}]},{"who":"boss","kind":"say","face":"boss_flustered","bg":"office","clock":"09:01","s":[{"en":"…That's not what I meant.","ko":"…그런 뜻이 아니었는데요."}]}],"cut":"fail_fri_charts","result_ko":"금요일 탈락 — 벽과 천장까지 표로 도배했다"}}]}}],"survive":{"lines":[{"who":"boss","kind":"say","face":"boss_happy","bg":"office","clock":"18:00","s":[{"en":"Good work this week.","ko":"이번 주 수고했어요."}]},{"who":"bb","kind":"say","face":"bb_happy","bg":"office","clock":"18:00","motion":"punch","s":[{"en":"See you Monday!","ko":"월요일에 봬요!"}]}],"cut":"survive_fri","result_ko":"이번 주도 살아남았다…"},"share":{"fail_title_ko":"{day_ko} 탈락","survive_title_ko":"이번 주도 살아남았다","share_text_ko":"빵용이 회사에서 나는 며칠 버텼을까? 너는?","app_cta_ko":"빵용이 앱에서 이어 보기","story_cta_ko":"빵용이 책장 맛보기"},"anchor":"bb","intro_ko":["월요일부터 금요일까지, 빵용이의 회사 생활 닷새","날마다 영어 한마디에 알맞게 대답하면 살아남아요 · 2분"],"results":{"mon1":{"title":"나는 월요일에 탈락","sub":"물어보랬더니 짐을 쌌다","day":0,"cut":"fail_mon_box","bg":"office","face":"boss_flustered"},"mon2":{"title":"나는 월요일에 탈락","sub":"하루 종일 문 앞에서 기다렸다","day":0,"cut":null,"bg":"office","face":"boss_front"},"tue1":{"title":"나는 화요일에 탈락","sub":"칭찬을 듣고 밤새 다시 만들었다","day":1,"cut":null,"bg":"office_desk_r","face":"intern_front"},"tue2":{"title":"나는 화요일에 탈락","sub":"멀쩡한 인턴을 택시에 태워 보냈다","day":1,"cut":"fail_tue_taxi","bg":"office","face":"intern_front"},"wed1":{"title":"나는 수요일에 탈락","sub":"팀장님 문자를 게시판에 붙였다","day":2,"cut":null,"bg":"office","face":"dari_stifle"},"wed2":{"title":"나는 수요일에 탈락","sub":"출장지 호텔로 서류 30통을 부쳤다","day":2,"cut":null,"bg":"office","face":"boss_flustered"},"thu1":{"title":"나는 목요일에 탈락","sub":"칭찬 쪽지를 받고 발표를 멈췄다","day":3,"cut":null,"bg":"meeting","face":"bb_embarrassed"},"thu2":{"title":"나는 목요일에 탈락","sub":"잘하고 있다는 말에 발표 자료를 지웠다","day":3,"cut":null,"bg":"meeting","face":"boss_flustered"},"fri1":{"title":"나는 금요일에 탈락","sub":"회의 탁자에 빵을 산처럼 쌓았다","day":4,"cut":"fail_fri_snacks","bg":"meeting","face":"boss_flustered"},"fri2":{"title":"나는 금요일에 탈락","sub":"벽과 천장까지 표로 도배했다","day":4,"cut":"fail_fri_charts","bg":"office","face":"boss_flustered"},"all":{"title":"나는 이번 주도 살아남았다","sub":"월요일부터 금요일까지 다 버텼다","day":5,"cut":"survive_fri","bg":"office","face":"bb_happy"}},"books":[{"ep":"ep8-printer","title":"1부만 뽑았는데","line":"복사기 앞에서 벌어진 일","bg":"copier"},{"ep":"ep10-intern","title":"인턴 첫날","line":"새로 온 인턴과 첫 회의","bg":"meeting"}],"app":{"title":"하이빵용 앱","line":"빵용이 이야기와 내 수준 영어 단어 놀이를 앱에서 매일 이어 가요","btn":"앱 받으러 가기"},"home":"../../","from":"mon1"}</script></div></body></html>
