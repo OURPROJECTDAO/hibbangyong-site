@@ -199,7 +199,7 @@ html:not([data-get="ios"]) .get-ios-note{display:none}
 .stores .b-ios img{height:var(--bh)}
 .stores .b-and img{height:calc(var(--bh) / .768)}
 .get .stores{margin:0 0 .6rem}
-[data-get="and"] .get .stores,[data-get="ios"] .get .stores{--bh:3.85rem}
+/* 🔄11-09 받기 칸 = 기기 상관없이 두 배지 같은 크기(옛 «그 기기 배지 하나 크게» 걷음) */
 .join .jios{margin:0 0 .5rem}
 .jfine{text-wrap:balance}
 .jfine a{white-space:nowrap}
@@ -326,15 +326,7 @@ main #en .lead{font-size:1rem}
      "name": "하이빵용은 어떤 게임이에요?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "하이빵용은 빵나라에서 꼬마 용 빵용이와 낚시, 벌목, 농사, 방 꾸미기를 하며 영어 단어를 익히는 힐링 게임 앱이에요. 맞는 영어 단어를 골라야 놀이가 진행되고, 단어마다 쉬운 우리말 뜻풀이가 붙어요. 한 단어를 여러 상황에서 1일·3일·7일·14일 간격으로 다시 만나서 오래 남아요."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "다른 영어 단어 앱과 뭐가 달라요?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "외우는 대신 쉬운 우리말로 먼저 이해해요. 낚시·벌목 같은 놀이 조작이 곧 복습 문제라서, 놀다 보면 복습이 끝나 있어요. 틀려도 감점은 없고, 틀린 단어는 다음 날 다시 만나요."
+      "text": "꼬마 용 빵용이와 낚시·벌목·방 꾸미기를 하며 영어 단어를 익히는 게임 앱이에요. 맞는 단어를 골라야 놀이가 이어지고, 단어마다 쉬운 우리말 뜻풀이가 붙어요."
      }
     },
     {
@@ -342,7 +334,7 @@ main #en .lead{font-size:1rem}
      "name": "언제, 어디서 받을 수 있어요?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "안드로이드는 구글 플레이에서, 아이폰은 App Store 에서 지금 바로 받을 수 있어요. 설치 없이 웹에서 3분 체험판도 해 볼 수 있어요. 소식 받기를 해 두시면 새 소식을 알려 드려요."
+      "text": "안드로이드는 구글 플레이, 아이폰은 App Store에서 받아요. 설치 없이 웹에서 3분 맛보기도 할 수 있어요."
      }
     },
     {
@@ -440,42 +432,12 @@ main #en .lead{font-size:1rem}
     <video id="apv" src="/intro/intro.mp4" poster="/intro/intro_poster.webp" muted playsinline loop preload="metadata" aria-label="하이빵용 앱 소개 영상(19초)"></video>
     <button id="aps" class="ap-snd" type="button">소리 켜기</button>
   </div>
-  <p class="ap-note">지금 바로 받을 수 있어요 · 아래에서 받아 보세요</p>
   <script>(function(){var v=document.getElementById('apv'),b=document.getElementById('aps');if(!v||!b)return;b.onclick=function(){v.muted=!v.muted;b.textContent=v.muted?'소리 켜기':'소리 끄기';if(v.paused){var p=v.play();if(p&&p.catch)p.catch(function(){})}};if('IntersectionObserver' in window){new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){var p=v.play();if(p&&p.catch)p.catch(function(){})}else{v.pause()}})},{threshold:.4}).observe(v)}})();</script>
 </section>
 
 <header class="hero">
   <div class="hero-in">
     <h1><img class="hero-logo" src="img/logo.webp" alt="" width="600" height="520"><span class="sr">하이빵용 — 영어 단어 힐링 게임</span></h1>
-    <p class="hero-tag">배운 단어로<br>채워지는 내 방</p>
-    <p class="hero-sub">서두르지 않아도 돼요. 퇴근 후 하루 한 판, 낚시하며 <span class="nw">영단어를 천천히 다시 만나요.</span></p>
-    <div id="join" class="join">
-      <script>(function(){var u=navigator.userAgent||'',d='pc';if(/android/i.test(u))d='and';else if(/iphone|ipad|ipod/i.test(u)||(/Macintosh/.test(u)&&navigator.maxTouchPoints>1))d='ios';document.documentElement.setAttribute('data-get',d)})();</script>
-      <div class="get">
-      <!-- 안드로이드 = Google 공식 «Google Play에서 다운로드» 배지(한국어 · play.google.com/intl/en_us/badges 공식 파일 그대로 · 색·모양·둘레 여백 고치기 0 · ✍️ 10-12) -->
-      <!-- 아이폰 = Apple 공식 «App Store에서 다운로드하기» 배지(한국어 검정 · Apple Marketing Tools toolbox.marketingtools.apple.com 공식 SVG 그대로 · ✍️ 10-22 «공식단추로 둘다») · 앱 = 10-21 1.8.2 출시 -->
-      <!-- 폰 = 그 기기 배지 하나 크게(+ 아래 «…세요? →» 글 고리) · PC·모름 = 두 배지 나란히 -->
-      <div class="stores">
-      <a class="get-and b-and" href="https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp" rel="noopener"><img src="img/ko_badge_web_generic.png" alt="Google Play에서 다운로드" width="646" height="250"></a>
-      <a class="get-ios b-ios" href="https://apps.apple.com/kr/app/id6817568088" rel="noopener"><img src="img/appstore_badge_ko_black.svg" alt="App Store에서 다운로드하기" width="130" height="40"></a>
-      </div>
-      <p class="get-note get-ios-note">아이폰·아이패드는 App Store에서 받아요</p>
-      <p class="get-alt get-alt-and"><a href="https://apps.apple.com/kr/app/id6817568088" rel="noopener">아이폰이세요? →</a></p>
-      <p class="get-alt get-alt-ios"><a href="https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp" rel="noopener">안드로이드세요? →</a></p>
-      </div>
-      <p class="jios">이메일 남기면 새 소식을 알려 드려요</p>
-      <form id="jf" class="jf" novalidate>
-        <div class="jrow">
-          <label class="sr" for="je">이메일 주소</label>
-          <input id="je" name="email" type="email" inputmode="email" autocomplete="email" autocapitalize="off" spellcheck="false" enterkeyhint="send" maxlength="254" placeholder="이메일 주소" required>
-          <button id="jb" class="btn jbtn" type="submit">소식 받기</button>
-        </div>
-        <div class="trap" aria-hidden="true"><label for="jw">웹사이트</label><input id="jw" name="website" type="text" tabindex="-1" autocomplete="off"></div>
-        <p id="jerr" class="jerr" role="alert"></p>
-        <p class="jfine">‘소식 받기’를 누르면 하이빵용 새 소식(출시·이벤트) 메일 받기와 <a href="privacy">개인정보 처리방침</a>에 동의해요. 언제든 그만 <span class="nw">받을 수 있어요.</span></p>
-      </form>
-      <p id="jdone" class="jdone" hidden tabindex="-1">신청 완료! 새 소식이 생기면 이 이메일로 알려 드려요. 앱은 안드로이드는 구글 플레이에서, 아이폰은 App Store 에서 지금 바로 받을 수 있어요.</p>
-    </div>
   </div>
   <div class="hero-art" aria-hidden="true">
     <img src="img/banner.webp" alt="" width="1600" height="900">
@@ -496,13 +458,7 @@ main #en .lead{font-size:1rem}
 <main>
 <section id="play">
   <div class="wrap">
-    <h2>놀다 보면 단어가 남아요</h2>
-    <p class="pt-head">하이빵용은 꼬마 용 빵용이와 놀면서 영어 단어를 익히는 힐링 게임이에요.</p>
-    <ul class="pts">
-      <li><span class="pt-i"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 12c3-4.5 8.5-5.5 12.5-3L20 6v12l-4.5-3C11.5 17.5 6 16.5 3 12z"/><circle cx="12" cy="11" r=".9"/></svg></span><span><b>낚시·벌목·동물 잡기</b>맞는 영어 단어를 골라야 물고기가 걸리고 도끼가 나가요</span></li>
-      <li><span class="pt-i"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v11H10l-5 4v-4H4z"/><path d="M8 9.5h8M8 12.5h5"/></svg></span><span><b>쉬운 우리말 뜻풀이</b>단어마다 한 번에 알아듣는 말로</span></li>
-      <li><span class="pt-i"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="5" width="16" height="15" rx="2.5"/><path d="M4 10h16M9 3v4M15 3v4M9.5 15l2 2 3.5-3.5"/></svg></span><span><b>1일·3일·7일·14일 뒤에 다시</b>여러 상황에서 다시 만나 오래 남아요</span></li>
-    </ul>
+    <h2>이렇게 놀며 배워요</h2>
     <div class="shots" tabindex="0" role="group" aria-label="앱 화면 일곱 장">
       <img src="img/shot-1.webp" alt="쉬운 우리말 뜻풀이가 나오는 단어 카드" width="540" height="960" loading="lazy">
       <img src="img/shot-7.webp" alt="회사 이야기 속 영어 대사로 배우는 회화 장면" width="540" height="960" loading="lazy">
@@ -518,8 +474,6 @@ main #en .lead{font-size:1rem}
 <section id="easy">
   <div class="wrap">
     <h2>어려운 영어 단어, 쉬운 말로 풀어 드려요</h2>
-    <p class="lead">사전 속 딱딱한 한자어 대신, 누구나 한 번에 알아듣는 말로 뜻을 풀어요.</p>
-    <p class="chips"><span>영어 단어를 천천히, 오래 늘리고 싶은 분</span></p>
     <div class="ex">
       <div class="ex-card">
         <p class="ex-word">efficient</p>
@@ -535,27 +489,14 @@ main #en .lead{font-size:1rem}
   </div>
 </section>
 
-<section id="world">
-  <div class="wrap">
-    <h2>빵나라에서 하는 일</h2>
-    <ul class="feat">
-      <li><b>놀이가 곧 복습</b><span>낚시 한 판, 벌목 한 판이 그대로 단어 복습이 돼요</span></li>
-      <li><b>마을 이웃의 부탁</b><span>꽃을 따고 동물을 돌보며 빵나라를 도와요</span></li>
-      <li><b>내 방과 농장</b><span>모은 재료로 가구를 들이고 밭·목장·어항을 꾸며요</span></li>
-      <li><b>친구와 함께</b><span>친구를 맺고 선물을 주고받고, 벌목 대결도 해요</span></li>
-    </ul>
-  </div>
-</section>
 
 <section id="design">
   <div class="wrap">
     <h2>오래 남도록 설계했어요</h2>
     <div class="design">
-      <div><h3>잊을 때쯤 다시</h3><p>맞힌 단어는 1일, 3일, 7일, 14일 뒤에 다시 나와요. 틀린 단어는 다음 날 또 만나요.</p></div>
-      <div><h3>직접 떠올리기</h3><p>다시 읽을 때보다 직접 떠올릴 때 더 오래 남아요. 카드를 본 뒤에도, 놀이 중에도 문제로 꺼내 봐요.</p></div>
-      <div><h3>헷갈리는 말까지</h3><p>rate와 ratio처럼 비슷한 말, 두 번째 뜻까지 따로 물어봐요.</p><p>며칠에 걸쳐 여러 상황에서 모두 맞혀야 «이해 도장»을 받아요.</p></div>
-      <div><h3>그림·소리·예문</h3><p>단어마다 쉬운 뜻, 예문과 해석, 발음이 있고 많은 단어에 그림도 있어요.</p></div>
-      <div><h3>내 레벨에서 시작</h3><p>처음에 1분쯤 걸리는 빠른 레벨 진단으로 지금 수준을 찾아 거기서 시작해요.</p></div>
+      <div><h3>잊을 때쯤 다시</h3><p>맞힌 단어는 1·3·7·14일 뒤, 틀린 단어는 다음 날 다시 나와요.</p></div>
+      <div><h3>직접 떠올리기</h3><p>읽기보다 떠올릴 때 오래 남아요. 놀이 중에도 문제로 꺼내 봐요.</p></div>
+      <div><h3>헷갈리는 말까지</h3><p>rate와 ratio처럼 비슷한 말, 두 번째 뜻까지 따로 물어봐요.</p></div>
     </div>
   </div>
 </section>
@@ -582,13 +523,11 @@ main #en .lead{font-size:1rem}
   <div class="wrap">
     <div class="beta">
       <h2>하이빵용 받기</h2>
-      <p>안드로이드는 구글 플레이에서, 아이폰은 App Store 에서 지금 바로 받을 수 있어요. 이메일을 남겨 주시면 새 소식을 바로 알려 드려요.</p>
       <div class="beta-go">
       <div class="stores">
       <a class="b-and" href="https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp" rel="noopener"><img src="img/ko_badge_web_generic.png" alt="Google Play에서 다운로드" width="646" height="250" loading="lazy"></a>
       <a class="b-ios" href="https://apps.apple.com/kr/app/id6817568088" rel="noopener"><img src="img/appstore_badge_ko_black.svg" alt="App Store에서 다운로드하기" width="130" height="40" loading="lazy"></a>
       </div>
-      <a class="btn btn-soft" href="#join" data-join>소식 받기</a>
       <a class="btn btn-soft" href="https://www.instagram.com/hibbangyong/" rel="noopener"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.4" cy="6.6" r="1.1" fill="currentColor" stroke="none"/></svg>인스타그램 @hibbangyong</a>
       </div>
     </div>
@@ -599,9 +538,8 @@ main #en .lead{font-size:1rem}
   <div class="wrap">
     <h2>자주 묻는 것</h2>
     <div class="faq">
-      <details class="fold"><summary>하이빵용은 어떤 게임이에요?</summary><div class="fold-in"><p>하이빵용은 빵나라에서 꼬마 용 빵용이와 낚시, 벌목, 농사, 방 꾸미기를 하며 영어 단어를 익히는 힐링 게임 앱이에요.</p><p>맞는 영어 단어를 골라야 놀이가 진행되고, 단어마다 쉬운 우리말 뜻풀이가 붙어요.</p><p>한 단어를 여러 상황에서 1일·3일·7일·14일 간격으로 다시 만나서 오래 남아요.</p></div></details>
-      <details class="fold"><summary>다른 영어 단어 앱과 뭐가 달라요?</summary><div class="fold-in"><p>외우는 대신 쉬운 우리말로 먼저 이해해요.</p><p>낚시·벌목 같은 놀이 조작이 곧 복습 문제라서, 놀다 보면 복습이 끝나 있어요.</p><p>틀려도 감점은 없고, 틀린 단어는 다음 날 다시 만나요.</p></div></details>
-      <details class="fold"><summary>언제, 어디서 받을 수 있어요?</summary><div class="fold-in"><p>안드로이드는 구글 플레이에서, 아이폰은 App Store 에서 지금 바로 받을 수 있어요. 설치 없이 웹에서 3분 체험판도 해 볼 수 있어요.</p><p>소식 받기를 해 두시면 새 소식을 알려 드려요.</p></div></details>
+      <details class="fold"><summary>하이빵용은 어떤 게임이에요?</summary><div class="fold-in"><p>꼬마 용 빵용이와 낚시·벌목·방 꾸미기를 하며 영어 단어를 익히는 게임 앱이에요. 맞는 단어를 골라야 놀이가 이어지고, 단어마다 쉬운 우리말 뜻풀이가 붙어요.</p></div></details>
+      <details class="fold"><summary>언제, 어디서 받을 수 있어요?</summary><div class="fold-in"><p>안드로이드는 구글 플레이, 아이폰은 App Store에서 받아요. 설치 없이 웹에서 3분 맛보기도 할 수 있어요.</p></div></details>
       <details class="fold"><summary>내 영어 실력을 몰라도 시작할 수 있어요?</summary><div class="fold-in"><p>네. 처음 공부할 때 20문제를 풀면 지금 수준에 맞는 레벨을 찾아 거기서 시작해요.</p></div></details>
       <details class="fold"><summary>하루에 얼마나 하면 돼요?</summary><div class="fold-in"><p>배우기 한 판은 10~15분 정도예요.</p><p>공부로 받은 빵을 빵용이에게 먹이면, 그 힘으로 낚시나 벌목 같은 놀이를 더 즐길 수 있어요.</p></div></details>
       <details class="fold"><summary>내 정보는 어떻게 다뤄요?</summary><div class="fold-in"><p>무엇을 왜 모으는지 <a href="privacy">개인정보처리방침</a>에 적어 두었어요. 계정 삭제는 아래 <a href="delete">«계정 삭제 요청»</a>에서 할 수 있어요.</p></div></details>
@@ -614,7 +552,7 @@ main #en .lead{font-size:1rem}
 <section id="maker">
   <div class="wrap">
     <h2>만드는 사람</h2>
-    <p class="lead">하이빵용은 에스에스일레븐이 만들어요.</p><p class="lead">영어 단어를 외우는 대신 뜻을 이해하고, 놀다 보니 자연스럽게 남는 경험을 만들고 싶었어요.</p><p class="lead">빵나라 이야기와 놀이는 플레이하는 분들의 의견을 들으며 함께 키워 가려고 해요.</p>
+    <p class="lead">하이빵용은 에스에스일레븐이 만들어요. 놀이와 이야기는 플레이하는 분들의 의견으로 함께 키워 가요.</p>
   </div>
 </section>
 
@@ -746,63 +684,15 @@ main #en .lead{font-size:1rem}
 })();
 </script>
 <script>
+/* 🔄11-09 ✍️ «이메일도 지금 받는거 필요없어» · «예전 아이폰 출시 안됏을때의 잔재야» → 이메일 받기(beta_signup) 걷음 · 서버 문·받은 주소·확인/수신거부 쪽은 그대로
+   남은 일 = 첫 화면 배지가 화면 위로 지나가면 아래 띠(스토어 받기) 보이기(폰 · 900px 미만) */
 (function(){
-  var URL_ = 'https://nvokkscghiqlohwbujso.supabase.co/rest/v1/rpc/beta_signup';
-  var KEY = 'sb_publishable_f4Ax5r5859lJ-JcC_ffJeQ_fDVdiaLv';
-  var VER = 'v1-2610';
-  var join = document.getElementById('join'), f = document.getElementById('jf'), em = document.getElementById('je');
-  var bt = document.getElementById('jb'), err = document.getElementById('jerr'), done = document.getElementById('jdone');
-  var bar = document.getElementById('jbar'), trap = document.getElementById('jw');
-  var EMAIL = /^[^@\s]+@[^@\s]+\.[^@\s]+$/;
-  var busy = false, joined = false;
-  var src = 'direct';
-  try { src = ((new URLSearchParams(location.search).get('utm_source') || '').toLowerCase().replace(/[^a-z0-9._-]/g, '').slice(0, 64)) || 'direct'; } catch (e) {}
-  try { joined = localStorage.getItem('hb_joined') === '1'; } catch (e) {}
-  var reduce = window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches;
-  function bad(t){ err.textContent = t; em.setAttribute('aria-invalid', t ? 'true' : 'false'); }
-  function showBar(on){ bar.classList.toggle('on', on); document.body.classList.toggle('has-bar', on); bar.setAttribute('aria-hidden', on ? 'false' : 'true'); bar.tabIndex = on ? 0 : -1; }
-  function finish(){
-    f.hidden = true; done.hidden = false; joined = true;
-    try { localStorage.setItem('hb_joined', '1'); } catch (e) {}
-    done.focus({ preventScroll: true });
-  }
-  function release(){ busy = false; bt.disabled = false; bt.textContent = '소식 받기'; }
-  em.addEventListener('input', function(){ if (err.textContent) bad(''); });
-  f.addEventListener('submit', function(ev){
-    ev.preventDefault();
-    if (busy) return;
-    var email = em.value.trim().toLowerCase();
-    if (!EMAIL.test(email) || email.length > 254) { bad('이메일 주소를 다시 확인해 주세요.'); em.focus(); return; }
-    bad(''); busy = true; bt.disabled = true; bt.textContent = '보내는 중…';
-    if (trap.value) { setTimeout(finish, 600); return; }
-    fetch(URL_, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json', 'apikey': KEY },
-      body: JSON.stringify({ p_email: email, p_source: src, p_consent_ver: VER })
-    }).then(function(r){ if (!r.ok) throw new Error(String(r.status)); return r.json(); })
-      .then(function(v){
-        if (v === 'ok' || v === 'already') { finish(); try { if (window.hbVisit) window.hbVisit('signup'); } catch (e) {} return; }
-        release(); bad('이메일 주소를 다시 확인해 주세요.'); em.focus();
-      })
-      .catch(function(){
-        bad('지금은 신청이 안 돼요. 잠시 뒤 다시 해 주세요.'); bt.textContent = '소식 받기';
-        setTimeout(release, 3000);
-      });
-  });
-  Array.prototype.forEach.call(document.querySelectorAll('[data-join]'), function(a){
-    a.addEventListener('click', function(ev){
-      ev.preventDefault();
-      if (joined && !done.hidden) { done.scrollIntoView({ behavior: reduce ? 'auto' : 'smooth', block: 'center' }); return; }
-      em.focus({ preventScroll: true });
-      join.scrollIntoView({ behavior: reduce ? 'auto' : 'smooth', block: 'center' });
-    });
-  });
-  if ('IntersectionObserver' in window) {
-    new IntersectionObserver(function(es){
-      var e = es[0];
-      showBar(!e.isIntersecting && e.boundingClientRect.top < 0);
-    }).observe(join);
-  }
+  var bar = document.getElementById('jbar'), top = document.querySelector('.th-stores');
+  if (!bar || !top || !('IntersectionObserver' in window)) return;
+  new IntersectionObserver(function(es){
+    var e = es[0], on = !e.isIntersecting && e.boundingClientRect.top < 0;
+    bar.classList.toggle('on', on); document.body.classList.toggle('has-bar', on); bar.setAttribute('aria-hidden', on ? 'false' : 'true'); bar.tabIndex = on ? 0 : -1;
+  }).observe(top);
 })();
 </script>
 </body>
