@@ -217,9 +217,9 @@ html:not([data-get="ios"]) .get-ios-note{display:none}
 .th{background:var(--bg2);border-bottom:1px solid var(--line);text-align:center;padding:max(1.7rem,env(safe-area-inset-top)) 16px 1.7rem}
 .th-q{font-family:"Jua",-apple-system,"Apple SD Gothic Neo","Malgun Gothic",sans-serif;font-weight:400;font-size:clamp(2.1rem,9vw,3rem);line-height:1.2;letter-spacing:-.01em;color:var(--ink);margin:0}
 .th-sub{color:var(--ink2);font-weight:600;font-size:1.05rem;margin:.4rem auto 0}
-.th-art{display:flex;justify-content:center;align-items:flex-end;gap:.25rem;margin:1.1rem auto 1rem;max-width:25rem}
-.th-art img{width:29%;max-width:8rem}
-.th-art img:nth-child(2){width:36%;max-width:10rem}
+.th-art{display:flex;justify-content:center;align-items:flex-end;gap:.2rem;margin:1.1rem auto 1rem;max-width:25rem}
+.th-art img{width:19%;max-width:6.4rem}
+.th-art img:nth-child(2),.th-art img:nth-child(3){width:27%;max-width:9rem}   /* 🏢11-09 ✍️ «회사 캐릭터들로 바꿀까?» → «빵용+팀장 메인, 인턴, 대리 서브» = 대리(작게)·블루·팀장(크게)·인턴(작게) · 나란히(CMO 1안) */
 .btn.th-go{background:var(--yel);color:var(--yel-ink);font-size:1.22rem;min-height:3.7rem;width:min(100%,22rem);padding:.9rem 1.6rem;box-shadow:0 8px 22px rgba(160,110,10,.28)}
 .btn.th-go:hover{filter:brightness(1.04)}
 .btn.th-go:focus-visible{outline:3px solid var(--ink);outline-offset:3px}
@@ -231,6 +231,7 @@ html:not([data-get="ios"]) .get-ios-note{display:none}
   .th-art img{animation:th-bob 2.6s ease-in-out infinite}
   .th-art img:nth-child(2){animation-delay:-.9s}
   .th-art img:nth-child(3){animation-delay:-1.7s}
+  .th-art img:nth-child(4){animation-delay:-.4s}
   @keyframes th-bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
 }
 /* 📖10-11 긴 글 가독성(✍️ «이 텍스트 긴 부분 가독성 좀» · CTO 판정) — 몸글 16~17px · 줄 간격 1.65 · 글 폭 ≤ 34자(폰)·≤ 60자(PC) · 한 문단 2~3줄 */
@@ -418,9 +419,10 @@ main #en .lead{font-size:1rem}
   <p id="th-q" class="th-q">빵용이랑 놀다 보면<br>영어가 남아요</p>
   <p class="th-sub">단어 게임부터 에피소드 회화까지</p>
   <div class="th-art" aria-hidden="true">
-    <img src="/img/th-mustard.webp" alt="" width="374" height="512" decoding="async">
-    <img src="/img/th-blue.webp" alt="" width="438" height="512" fetchpriority="high">
-    <img src="/img/th-rosered.webp" alt="" width="384" height="512" decoding="async">
+    <img src="/img/th-dari.webp" alt="" width="335" height="512" decoding="async">
+    <img src="/img/th-bb.webp" alt="" width="384" height="512" fetchpriority="high">
+    <img src="/img/th-boss.webp" alt="" width="380" height="512" decoding="async">
+    <img src="/img/th-intern.webp" alt="" width="383" height="512" decoding="async">
   </div>
   <a class="btn th-go" href="/office/?via=home">빵용이 회사에서 살아남기 · 2분</a>
   <p class="th-pair"><a class="th-trial" href="/play/?utm_source=homepage&amp;utm_medium=hero">단어 3분 맛보기 ›</a></p>
