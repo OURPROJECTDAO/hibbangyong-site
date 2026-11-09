@@ -21,10 +21,11 @@ html,body{margin:0;background:#FBF7E3;color:#4a3624;font-family:-apple-system,Bl
 main{max-width:30rem;margin:0 auto;padding:max(1.5rem,env(safe-area-inset-top)) 16px 2rem;display:flex;flex-direction:column;align-items:center;gap:.9rem;text-align:center}
 p{margin:0;color:#6B6455}
 /* 🎮11-09 사장님 «처음보는사람이 … 뭐하는게임인지 설명» — 위 = 홈페이지 첫 화면 결(캐릭터 넷 ＋ 큰 글 한 줄) · 아래 = 앱 화면 가로 한 줄(홈페이지 «이렇게 놀며 배워요» 그 그림) */
-.th-q{font-family:"Jua",-apple-system,"Apple SD Gothic Neo","Malgun Gothic",sans-serif;font-size:clamp(1.8rem,8vw,2.4rem);line-height:1.2;color:#4a3624;margin:.2rem 0 0}
-.th-art{display:flex;justify-content:center;align-items:flex-end;gap:.2rem;width:100%;max-width:22rem}
-.th-art img{width:19%;height:auto}
-.th-art img:nth-child(2),.th-art img:nth-child(3){width:27%}
+.vid{position:relative;width:100%;max-width:26rem;border-radius:18px;overflow:hidden;background:#F2E9C9;aspect-ratio:16/9}
+.vid video{display:block;width:100%;height:100%;object-fit:cover}
+.vplay{position:absolute;inset:0;margin:auto;width:4rem;height:4rem;border-radius:50%;border:0;background:rgba(29,73,93,.82);cursor:pointer;display:flex;align-items:center;justify-content:center}
+.vplay[hidden]{display:none}
+.vplay span{display:block;width:0;height:0;border-style:solid;border-width:.75rem 0 .75rem 1.2rem;border-color:transparent transparent transparent #fff;margin-left:.25rem}
 h1.inv{font-size:1.15rem;margin:.4rem 0 0;color:#1D495D}
 .sh-h{font-family:"Jua",sans-serif;font-size:1.2rem;color:#4a3624;margin:.6rem 0 0}
 .shots{display:grid;grid-auto-flow:column;grid-auto-columns:7.2rem;gap:.6rem;overflow-x:auto;scroll-snap-type:x mandatory;width:calc(100% + 32px);margin:0 -16px;padding:.2rem 16px .6rem;scrollbar-width:none}
@@ -48,12 +49,10 @@ a.home{color:#6B6455;font-size:.9rem}
 <!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "7c4d6053f2fc47189ee09179bfc6d627"}'></script><!-- End Cloudflare Web Analytics --></head>
 <body>
 <main>
-<p class="th-q">빵용이랑 놀다 보면<br>영어가 남아요</p>
-<div class="th-art" aria-hidden="true">
-<img src="/img/th-dari.webp" alt="" width="335" height="512">
-<img src="/img/th-bb.webp" alt="" width="384" height="512" fetchpriority="high">
-<img src="/img/th-boss.webp" alt="" width="380" height="512">
-<img src="/img/th-intern.webp" alt="" width="383" height="512">
+<!-- 🎬11-09 사장님 «윗부분 마음에안들어» → CTO 안 1 = 홈페이지 앱 소개 영상(intro.mp4 · 홈 #apv 와 같은 파일) · 소리 0·자동·반복·playsinline · 막히면 포스터 ＋ 가운데 재생 단추 -->
+<div class="vid">
+<video id="iv" src="/intro/intro.mp4" poster="/intro/intro_poster.webp" muted autoplay loop playsinline webkit-playsinline preload="metadata" aria-label="하이빵용 앱 소개 영상(19초)"></video>
+<button class="vplay" id="vp" type="button" aria-label="영상 재생" hidden><span></span></button>
 </div>
 <h1 class="inv" id="h">친구가 하이빵용에 초대했어요</h1>
 <div class="code" id="box" hidden>
@@ -86,6 +85,18 @@ a.home{color:#6B6455;font-size:.9rem}
 <a class="home" href="/">하이빵용 홈</a>
 </main>
 <script>
+(function(){
+  // 🎬자동 재생 — 소리 0 ＋ playsinline 이면 카톡·인스타 안 창도 대개 돈다 · 막히면(절전·정책) 포스터 위 재생 단추 · 영상 누르면 재생/멈춤
+  var v = document.getElementById('iv'), vp = document.getElementById('vp');
+  if (v && vp) {
+    v.muted = true;
+    var go = function(){ var p = v.play(); if (p && p.then) p.then(function(){ vp.hidden = true; }, function(){ vp.hidden = false; }); };
+    vp.addEventListener('click', go);
+    v.addEventListener('click', function(){ if (v.paused) go(); else v.pause(); });
+    v.addEventListener('playing', function(){ vp.hidden = true; });
+    go();
+  }
+})();
 (function(){
   var q; try { q = new URLSearchParams(location.search); } catch (e) { q = { get: function(){ return null; } }; }
   var code = String(q.get('c') || '').replace(/[\s-]/g, '').toUpperCase();
