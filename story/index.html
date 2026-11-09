@@ -295,4 +295,25 @@ button { font: inherit; color: inherit; -webkit-appearance: none; appearance: no
 .o-stores { display: flex; gap: 10px; justify-content: center; align-items: center; }
 .o-store img { height: 44px; width: auto; display: block; }
 @media (prefers-reduced-motion: reduce) { .o-shot { animation: none; opacity: 1; } }
+/* 🎬11-09 생존 테스트 맞힘·틀림 연출(✍️ «잘못된 답을 클릭했을때, 연출이 잘못됐는지 바로 알수가 없어») */
+.opts-col .o-opt { position: relative; transition: background .12s; }
+.opts-col .o-opt-ok { background: var(--ok); }
+.opts-col .o-opt-no { background: var(--hard); animation: o-shake .36s ease; }
+.o-opt-ok .opt-txt, .o-opt-no .opt-txt { color: var(--onPrimary); }
+.opts-col .o-opt-right { box-shadow: inset 0 0 0 3px var(--ok); animation: o-right .5s ease .25s both; }
+.o-mark { position: absolute; right: 10px; top: 50%; width: 24px; height: 24px; margin-top: -12px; border-radius: 50%; background: var(--onPrimary); display: flex; align-items: center; justify-content: center; animation: o-stamp .28s cubic-bezier(.34,1.56,.64,1) both; }
+.o-opt-ok .opt-txt, .o-opt-no .opt-txt { padding-right: 28px; }
+@keyframes o-shake { 0%,100% { translate: 0 0; } 20% { translate: -7px 0; } 40% { translate: 6px 0; } 60% { translate: -4px 0; } 80% { translate: 3px 0; } }
+@keyframes o-right { 0% { background: var(--sel); } 40% { background: color-mix(in srgb, var(--ok) 35%, var(--sel)); } 100% { background: color-mix(in srgb, var(--ok) 18%, var(--sel)); } }
+@keyframes o-stamp { from { transform: scale(1.8); opacity: 0; } to { transform: scale(1); opacity: 1; } }
+.o-flash { pointer-events: none; z-index: 4; box-shadow: inset 0 0 70px 18px rgba(190,40,40,.55); animation: o-flash .75s ease both; }
+@keyframes o-flash { 0% { opacity: 0; } 20% { opacity: 1; } 100% { opacity: 0; } }
+.clock.o-clock-bad { background: var(--hard); color: var(--onPrimary); }
+.count.o-count-ok { color: var(--ok); display: flex; align-items: center; gap: 3px; }
+.o-out { position: absolute; inset: 0; z-index: 9; display: flex; align-items: center; justify-content: center; background: rgba(20,14,8,0); animation: o-out .7s ease forwards; }
+@keyframes o-out { to { background: rgba(20,14,8,.62); } }
+.o-out-stamp { opacity: 0; border: 4px solid var(--hard); color: var(--hard); background: var(--el); border-radius: 14px; padding: 8px 20px; font-size: 34px; transform: scale(1.8) rotate(-8deg); }
+.o-out.stamp .o-out-stamp { animation: o-stampin .32s cubic-bezier(.34,1.56,.64,1) forwards; }
+@keyframes o-stampin { to { opacity: 1; transform: scale(1) rotate(-8deg); } }
+@media (prefers-reduced-motion: reduce) { .opts-col .o-opt-no, .o-mark, .o-flash, .o-out, .o-out.stamp .o-out-stamp { animation-duration: .01s; } }
 </style></head><body><div id="app"><div class="shelf"><h1>빵용이의 책장</h1><a href="ep8-printer/"><img src="art/ep8-printer/copier.webp" alt=""><div><div class="t">1부만 뽑았는데</div><div class="s">블루가 복사기에서 «1부»를 눌렀어요. 블루는 입사 3개월 차 신입이에요.</div></div></a><a href="ep10-intern/"><img src="art/ep10-intern/meeting.webp" alt=""><div><div class="t">인턴 첫날</div><div class="s">인턴이 출근한 첫날, 아침 팀 회의예요. 블루는 석 달째 보고를 손으로 만들어요.</div></div></a></div></div></body></html>
