@@ -272,4 +272,27 @@ button { font: inherit; color: inherit; -webkit-appearance: none; appearance: no
 .o-pass-day { font-size: 34px; line-height: 1.2; }
 .o-pass-en { font-family: 'Fredoka', sans-serif; font-weight: 600; font-size: var(--fs-read); color: var(--text2); }
 @media (prefers-reduced-motion: reduce) { .o-pass, .o-pass-bb { animation: none; } }
+/* 🔊🏢11-09 생존 테스트 소리 단추 — 왼쪽 위 한 자리(첫 화면·테스트·넘어감·결과 내내) · 켜짐 = 밝은 알약 · 꺼짐 = 진한 알약(또렷) */
+.o-snd { position: absolute; top: calc(4px + env(safe-area-inset-top)); left: 8px; z-index: 10; display: flex; align-items: center; gap: 6px; height: 40px; padding: 0 14px 0 10px; border: 0; border-radius: 999px; background: var(--el); color: var(--teal); font: inherit; font-size: var(--fs-read); box-shadow: 0 2px 8px rgba(74,54,36,.22); cursor: pointer; }
+.o-snd.is-off { background: var(--text); color: var(--onPrimary); }
+.o-snd-art { width: 22px; height: 22px; object-fit: contain; }
+#app.office .top { padding-left: 136px; }
+#app.office .oi-hero, #app.office .o-pass-hero { margin-top: 52px; }
+#app.office .end-wrap { padding-top: 56px; }
+/* 📖고른 말 박 = 물음 대사(열쇠 말) 해석 한 줄 */
+.o-qko { font-family: 'Pretendard', system-ui, sans-serif; font-size: var(--fs-body); line-height: var(--lh-body); color: var(--text2); border-top: 1px dashed var(--grip); padding-top: 4px; }
+/* 📱앱 소개 접힘/펼침(와다다) */
+.o-app { gap: 10px; }
+.o-app-head { display: flex; align-items: center; justify-content: space-between; gap: 8px; min-height: 52px; padding: 0 16px; border: 0; border-radius: 16px; background: var(--sel); color: var(--text); font: inherit; cursor: pointer; text-align: left; }
+.o-app-chev { width: 10px; height: 10px; border-right: 2.5px solid var(--teal); border-bottom: 2.5px solid var(--teal); transform: rotate(45deg) translateY(-3px); transition: transform .25s; flex: none; }
+.o-app.open .o-app-chev { transform: rotate(-135deg) translateY(-3px); }
+.o-app-body { display: flex; flex-direction: column; gap: 12px; }
+.o-app-body[hidden] { display: none; }
+.o-shots { display: flex; gap: 8px; overflow-x: auto; padding-bottom: 4px; scroll-snap-type: x mandatory; }
+.o-shot { flex: none; width: 46%; max-width: 170px; aspect-ratio: 540 / 960; border-radius: 14px; object-fit: cover; scroll-snap-align: start; box-shadow: 0 2px 8px rgba(74,54,36,.15); opacity: 0; animation: o-shot .35s cubic-bezier(.34,1.56,.64,1) forwards; }
+.o-shot:nth-child(2) { animation-delay: .08s; } .o-shot:nth-child(3) { animation-delay: .16s; } .o-shot:nth-child(4) { animation-delay: .24s; } .o-shot:nth-child(5) { animation-delay: .32s; } .o-shot:nth-child(6) { animation-delay: .40s; }
+@keyframes o-shot { from { opacity: 0; transform: translateY(18px) scale(.9); } to { opacity: 1; transform: none; } }
+.o-stores { display: flex; gap: 10px; justify-content: center; align-items: center; }
+.o-store img { height: 44px; width: auto; display: block; }
+@media (prefers-reduced-motion: reduce) { .o-shot { animation: none; opacity: 1; } }
 </style></head><body><div id="app"><div class="shelf"><h1>빵용이의 책장</h1><a href="ep8-printer/"><img src="art/ep8-printer/copier.webp" alt=""><div><div class="t">1부만 뽑았는데</div><div class="s">블루가 복사기에서 «1부»를 눌렀어요. 블루는 입사 3개월 차 신입이에요.</div></div></a><a href="ep10-intern/"><img src="art/ep10-intern/meeting.webp" alt=""><div><div class="t">인턴 첫날</div><div class="s">인턴이 출근한 첫날, 아침 팀 회의예요. 블루는 석 달째 보고를 손으로 만들어요.</div></div></a></div></div></body></html>

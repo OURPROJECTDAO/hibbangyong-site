@@ -1,4 +1,4 @@
-<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="robots" content="noindex"><meta name="story-base" content="../"><title>인턴 첫날</title><link rel="preload" as="image" href="../art/ep10-intern/meeting.webp"><style>:root{--bg:#FBF7E3;--text:#4a3624;--text2:#6B6455;--el:#FFFFF6;--sel:#F3ECD2;--grip:#E6DCC3;--teal:#1D495D;--rival:#E8A33A;--sweat:#BFE3F5;--sweatRim:#6FAFD3;--disabled:#A89F8C;--onPrimary:#FFFFF6;--primary:#1D495D;--ok:#1d9e75;--hard:#D9874A;--disabledBg:#EFE9DD;--apricot:#F6DFC2;--apricotInk:#B5651D;--wood:#CAA25F;--tealPale:#E3F1F5;--storyLine:#EFE6CC;--storyDim:#8A7560;--scrim:rgba(20,14,8,0.5);--pastEdge:#E2C18E;--fs-small:11px;--lh-small:17px;--fs-body:13px;--lh-body:20px;--fs-read:15px;--lh-read:23px;--fs-lead:19px;--lh-lead:29px;--fs-title:24px;--lh-title:36px}/* 📖 웹 책장 — 앱 src/app/story.tsx StyleSheet 를 옮긴 것(수 = 앱 그대로 · 색 = theme 토큰 CSS 변수) */
+<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="robots" content="noindex"><meta name="story-base" content="../"><title>인턴 첫날</title><link rel="preload" as="image" href="../art/ep10-intern/meeting.webp" fetchpriority="high"><style>:root{--bg:#FBF7E3;--text:#4a3624;--text2:#6B6455;--el:#FFFFF6;--sel:#F3ECD2;--grip:#E6DCC3;--teal:#1D495D;--rival:#E8A33A;--sweat:#BFE3F5;--sweatRim:#6FAFD3;--disabled:#A89F8C;--onPrimary:#FFFFF6;--primary:#1D495D;--ok:#1d9e75;--hard:#D9874A;--disabledBg:#EFE9DD;--apricot:#F6DFC2;--apricotInk:#B5651D;--wood:#CAA25F;--tealPale:#E3F1F5;--storyLine:#EFE6CC;--storyDim:#8A7560;--scrim:rgba(20,14,8,0.5);--pastEdge:#E2C18E;--fs-small:11px;--lh-small:17px;--fs-body:13px;--lh-body:20px;--fs-read:15px;--lh-read:23px;--fs-lead:19px;--lh-lead:29px;--fs-title:24px;--lh-title:36px}/* 📖 웹 책장 — 앱 src/app/story.tsx StyleSheet 를 옮긴 것(수 = 앱 그대로 · 색 = theme 토큰 CSS 변수) */
 @font-face { font-family: 'Jua'; src: url(../fonts/jua.woff) format('woff'); font-display: swap; }
 @font-face { font-family: 'Fredoka'; src: url(../fonts/fredoka.woff2) format('woff2'); font-weight: 600; font-display: swap; }
 @font-face { font-family: 'Pretendard'; src: url(../fonts/pretendard.woff) format('woff'); font-display: swap; }
@@ -272,4 +272,27 @@ button { font: inherit; color: inherit; -webkit-appearance: none; appearance: no
 .o-pass-day { font-size: 34px; line-height: 1.2; }
 .o-pass-en { font-family: 'Fredoka', sans-serif; font-weight: 600; font-size: var(--fs-read); color: var(--text2); }
 @media (prefers-reduced-motion: reduce) { .o-pass, .o-pass-bb { animation: none; } }
+/* 🔊🏢11-09 생존 테스트 소리 단추 — 왼쪽 위 한 자리(첫 화면·테스트·넘어감·결과 내내) · 켜짐 = 밝은 알약 · 꺼짐 = 진한 알약(또렷) */
+.o-snd { position: absolute; top: calc(4px + env(safe-area-inset-top)); left: 8px; z-index: 10; display: flex; align-items: center; gap: 6px; height: 40px; padding: 0 14px 0 10px; border: 0; border-radius: 999px; background: var(--el); color: var(--teal); font: inherit; font-size: var(--fs-read); box-shadow: 0 2px 8px rgba(74,54,36,.22); cursor: pointer; }
+.o-snd.is-off { background: var(--text); color: var(--onPrimary); }
+.o-snd-art { width: 22px; height: 22px; object-fit: contain; }
+#app.office .top { padding-left: 136px; }
+#app.office .oi-hero, #app.office .o-pass-hero { margin-top: 52px; }
+#app.office .end-wrap { padding-top: 56px; }
+/* 📖고른 말 박 = 물음 대사(열쇠 말) 해석 한 줄 */
+.o-qko { font-family: 'Pretendard', system-ui, sans-serif; font-size: var(--fs-body); line-height: var(--lh-body); color: var(--text2); border-top: 1px dashed var(--grip); padding-top: 4px; }
+/* 📱앱 소개 접힘/펼침(와다다) */
+.o-app { gap: 10px; }
+.o-app-head { display: flex; align-items: center; justify-content: space-between; gap: 8px; min-height: 52px; padding: 0 16px; border: 0; border-radius: 16px; background: var(--sel); color: var(--text); font: inherit; cursor: pointer; text-align: left; }
+.o-app-chev { width: 10px; height: 10px; border-right: 2.5px solid var(--teal); border-bottom: 2.5px solid var(--teal); transform: rotate(45deg) translateY(-3px); transition: transform .25s; flex: none; }
+.o-app.open .o-app-chev { transform: rotate(-135deg) translateY(-3px); }
+.o-app-body { display: flex; flex-direction: column; gap: 12px; }
+.o-app-body[hidden] { display: none; }
+.o-shots { display: flex; gap: 8px; overflow-x: auto; padding-bottom: 4px; scroll-snap-type: x mandatory; }
+.o-shot { flex: none; width: 46%; max-width: 170px; aspect-ratio: 540 / 960; border-radius: 14px; object-fit: cover; scroll-snap-align: start; box-shadow: 0 2px 8px rgba(74,54,36,.15); opacity: 0; animation: o-shot .35s cubic-bezier(.34,1.56,.64,1) forwards; }
+.o-shot:nth-child(2) { animation-delay: .08s; } .o-shot:nth-child(3) { animation-delay: .16s; } .o-shot:nth-child(4) { animation-delay: .24s; } .o-shot:nth-child(5) { animation-delay: .32s; } .o-shot:nth-child(6) { animation-delay: .40s; }
+@keyframes o-shot { from { opacity: 0; transform: translateY(18px) scale(.9); } to { opacity: 1; transform: none; } }
+.o-stores { display: flex; gap: 10px; justify-content: center; align-items: center; }
+.o-store img { height: 44px; width: auto; display: block; }
+@media (prefers-reduced-motion: reduce) { .o-shot { animation: none; opacity: 1; } }
 </style><script defer src="../story.js"></script></head><body><div id="app" data-ep="ep10-intern"><div class="intro"><img class="fill cover" src="../art/ep10-intern/meeting.webp" alt=""><div class="fill intro-dim"></div><div class="intro-card"><div class="intro-title">인턴 첫날</div><div class="intro-box"><div class="intro-ko">인턴이 출근한 첫날, 아침 팀 회의예요.</div><div class="intro-ko">블루는 석 달째 보고를 손으로 만들어요.</div></div><button class="intro-go" disabled>시작</button></div></div></div></body></html>
