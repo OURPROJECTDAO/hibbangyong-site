@@ -28,7 +28,11 @@ p{margin:0;color:#6B6455}
 .badge img{display:block;width:auto;max-width:none}
 #gp img{height:calc(var(--bh) / .768)}
 #gi img{height:var(--bh)}
-ol{margin:0;padding:0 0 0 1.3rem;text-align:left;color:#6B6455;font-size:.95rem}
+.how{display:flex;align-items:flex-start;justify-content:center;gap:.4rem;width:100%}
+.st{display:flex;flex-direction:column;align-items:center;gap:.3rem;width:5.6rem;font-size:.9rem;color:#4a3624;font-weight:700}
+.st img{width:56px;height:56px;object-fit:contain}
+.st img.app{border-radius:14px}
+.ar{color:#B9A57A;font-size:1.4rem;line-height:56px}
 a.home{color:#6B6455;font-size:.9rem}
 </style>
 <!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "7c4d6053f2fc47189ee09179bfc6d627"}'></script><!-- End Cloudflare Web Analytics --></head>
@@ -36,7 +40,6 @@ a.home{color:#6B6455;font-size:.9rem}
 <main>
 <img class="shot" src="/intro/intro_poster.webp" alt="하이빵용 — 빵용이와 빵나라 친구들" width="1280" height="720">
 <h1 id="h">친구가 하이빵용에 초대했어요</h1>
-<p>빵용이랑 놀다 보면 영어 단어가 남는 힐링 게임</p>
 <div class="code" id="box" hidden>
 <small>초대 코드</small>
 <b id="c"></b>
@@ -46,12 +49,14 @@ a.home{color:#6B6455;font-size:.9rem}
 <a class="badge" id="gp" href="https://play.google.com/store/apps/details?id=com.ourprojectdao.kidsenglishapp&amp;referrer=utm_source%3Dinvite%26utm_medium%3Dfriend%26utm_campaign%3Dlink"><img src="/img/ko_badge_web_generic.png" alt="Google Play에서 다운로드" width="646" height="250"></a>
 <a class="badge" id="gi" href="https://apps.apple.com/kr/app/id6817568088"><img src="/img/appstore_badge_ko_black.svg" alt="App Store에서 다운로드하기" width="130" height="40"></a>
 </div>
-<ol id="how">
-<li>앱을 받고 가입해요.</li>
-<li>«초대 코드가 있나요?»에 코드를 넣어요.</li>
-<li>빵용이랑 첫 배우기를 마치면 골드 500이 우편함으로 와요.</li>
-</ol>
-<p style="font-size:.85rem">가입한 뒤에도 7일 안에는 친구 › 친구 초대하기 › 초대 코드 넣기에서 넣을 수 있어요.</p>
+<!-- 🖼️✍️11-09 «텍스트가 너무 많아. 이미지로 대체» — 넣는 법 = 그림 세 칸(앱 그림 그대로 · 새 그림 0) -->
+<div class="how" aria-label="앱을 받고, 초대 코드를 넣고, 첫 배우기를 마치면 골드 500">
+<div class="st"><img src="/img/icon-256.webp" alt="" width="56" height="56" class="app"><span>앱 받기</span></div>
+<b class="ar">›</b>
+<div class="st"><img src="/img/i-abc.webp" alt="" width="56" height="56"><span>코드 넣기</span></div>
+<b class="ar">›</b>
+<div class="st"><img src="/img/i-gold.webp" alt="" width="56" height="56"><span>골드 500</span></div>
+</div>
 <a class="home" href="/">하이빵용 홈</a>
 </main>
 <script>
