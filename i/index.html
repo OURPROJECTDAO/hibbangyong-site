@@ -9,6 +9,9 @@
 <meta property="og:description" content="빵용이랑 영어 단어 배워요. 가입하고 초대 코드를 넣으면 첫 배우기를 마칠 때 골드 500!">
 <meta property="og:image" content="https://hibbangyong.com/intro/intro_poster.webp">
 <link rel="icon" type="image/png" href="/img/favicon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Jua&display=swap" rel="stylesheet">
 <!-- 🔗친구 초대 링크(2026-11-09 · AGENT9 · 앱 kids-english-app engine/friend-link.ts LINK_BASE = https://hibbangyong.com/i/?c=<코드>&n=<별명>)
      🔒서버 0 — 코드·별명은 주소에서만 읽고 글(textContent)로만 그린다 · 코드 꼴 = 앱과 같은 31자 6칸(아니면 코드 칸을 안 그림)
      🔒손으로 친 /i/<코드> 는 404.html 이 ?c= 로 넘긴다(GitHub Pages 되쓰기 0) -->
@@ -16,9 +19,16 @@
 *{box-sizing:border-box}
 html,body{margin:0;background:#FBF7E3;color:#4a3624;font-family:-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Noto Sans KR","Malgun Gothic",sans-serif;line-height:1.6;word-break:keep-all}
 main{max-width:30rem;margin:0 auto;padding:max(1.5rem,env(safe-area-inset-top)) 16px 2rem;display:flex;flex-direction:column;align-items:center;gap:.9rem;text-align:center}
-h1{font-size:1.4rem;margin:.25rem 0 0}
 p{margin:0;color:#6B6455}
-.shot{width:100%;max-width:24rem;height:auto;border-radius:18px;display:block;aspect-ratio:16/9;object-fit:cover;background:#F2E9C9}
+/* 🎮11-09 사장님 «처음보는사람이 … 뭐하는게임인지 설명» — 위 = 홈페이지 첫 화면 결(캐릭터 넷 ＋ 큰 글 한 줄) · 아래 = 앱 화면 가로 한 줄(홈페이지 «이렇게 놀며 배워요» 그 그림) */
+.th-q{font-family:"Jua",-apple-system,"Apple SD Gothic Neo","Malgun Gothic",sans-serif;font-size:clamp(1.8rem,8vw,2.4rem);line-height:1.2;color:#4a3624;margin:.2rem 0 0}
+.th-art{display:flex;justify-content:center;align-items:flex-end;gap:.2rem;width:100%;max-width:22rem}
+.th-art img{width:19%;height:auto}
+.th-art img:nth-child(2),.th-art img:nth-child(3){width:27%}
+h1.inv{font-size:1.15rem;margin:.4rem 0 0;color:#1D495D}
+.sh-h{font-family:"Jua",sans-serif;font-size:1.2rem;color:#4a3624;margin:.6rem 0 0}
+.shots{display:grid;grid-auto-flow:column;grid-auto-columns:7.2rem;gap:.6rem;overflow-x:auto;scroll-snap-type:x mandatory;width:calc(100% + 32px);margin:0 -16px;padding:.2rem 16px .6rem;scrollbar-width:none}
+.shots img{width:100%;height:auto;aspect-ratio:9/16;object-fit:cover;border-radius:.9rem;box-shadow:0 4px 12px rgba(74,54,36,.15);scroll-snap-align:center;background:#F2E9C9}
 .code{width:100%;max-width:20rem;background:#fff;border:2px dashed #E3D6AE;border-radius:18px;padding:.8rem 1rem}
 .code small{display:block;color:#6B6455;font-size:.85rem}
 .code b{display:block;font-size:2rem;letter-spacing:.35rem;color:#1D495D;font-family:ui-monospace,Menlo,Consolas,monospace}
@@ -38,8 +48,14 @@ a.home{color:#6B6455;font-size:.9rem}
 <!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "7c4d6053f2fc47189ee09179bfc6d627"}'></script><!-- End Cloudflare Web Analytics --></head>
 <body>
 <main>
-<img class="shot" src="/intro/intro_poster.webp" alt="하이빵용 — 빵용이와 빵나라 친구들" width="1280" height="720">
-<h1 id="h">친구가 하이빵용에 초대했어요</h1>
+<p class="th-q">빵용이랑 놀다 보면<br>영어가 남아요</p>
+<div class="th-art" aria-hidden="true">
+<img src="/img/th-dari.webp" alt="" width="335" height="512">
+<img src="/img/th-bb.webp" alt="" width="384" height="512" fetchpriority="high">
+<img src="/img/th-boss.webp" alt="" width="380" height="512">
+<img src="/img/th-intern.webp" alt="" width="383" height="512">
+</div>
+<h1 class="inv" id="h">친구가 하이빵용에 초대했어요</h1>
 <div class="code" id="box" hidden>
 <small>초대 코드</small>
 <b id="c"></b>
@@ -57,6 +73,16 @@ a.home{color:#6B6455;font-size:.9rem}
 <b class="ar">›</b>
 <div class="st"><img src="/img/i-gold.webp" alt="" width="56" height="56"><span>골드 500</span></div>
 </div>
+<p class="sh-h">이렇게 놀아요</p>
+<div class="shots" tabindex="0" role="group" aria-label="앱 화면 일곱 장">
+<img src="/img/shot-1.webp" alt="쉬운 우리말 뜻풀이가 나오는 단어 카드" width="540" height="960" loading="lazy">
+<img src="/img/shot-7.webp" alt="회사 이야기 속 영어 대사로 배우는 회화 장면" width="540" height="960" loading="lazy">
+<img src="/img/shot-2.webp" alt="뜻에 맞는 단어가 뜰 때 릴을 감는 낚시" width="540" height="960" loading="lazy">
+<img src="/img/shot-3.webp" alt="단어와 뜻을 선으로 잇는 벌목" width="540" height="960" loading="lazy">
+<img src="/img/shot-4.webp" alt="예문 빈칸에 맞는 단어를 던지는 동물 잡기" width="540" height="960" loading="lazy">
+<img src="/img/shot-5.webp" alt="가구를 들인 빵용이의 방" width="540" height="960" loading="lazy">
+<img src="/img/shot-6.webp" alt="밭과 목장이 있는 농장" width="540" height="960" loading="lazy">
+</div>
 <a class="home" href="/">하이빵용 홈</a>
 </main>
 <script>
@@ -65,7 +91,8 @@ a.home{color:#6B6455;font-size:.9rem}
   var code = String(q.get('c') || '').replace(/[\s-]/g, '').toUpperCase();
   if (!/^[ABCDEFGHJKMNPQRSTUVWXYZ23456789]{6}$/.test(code)) code = '';
   var nick = String(q.get('n') || '').trim().slice(0, 20);
-  if (nick) { var t = nick + '님이 하이빵용에 초대했어요'; document.getElementById('h').textContent = t; document.title = t; }
+  // 🏷️별명에 «빵용»이 들어 있으면 «하이빵용님이 하이빵용에»처럼 겹친다 ⇒ 그땐 «○○님이 초대했어요»(앱 이름은 위 큰 글·그림이 이미 말한다)
+  if (nick) { var t = nick + (/빵용/.test(nick) ? '님이 초대했어요' : '님이 하이빵용에 초대했어요'); document.getElementById('h').textContent = t; document.title = t; }
   if (code) {
     document.getElementById('c').textContent = code;
     document.getElementById('box').hidden = false;
